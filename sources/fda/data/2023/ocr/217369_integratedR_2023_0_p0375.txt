@@ -1,0 +1,46 @@
+SAGE-217 (auranolone) Page 20 of 30
+Female Rats Poly-3 Test
+Omg Vehicle | 0 mg Water 0.2 mg 0.6 mg 1.5 mg
+Cont (N=70) | Cont (N=70) | Low(N=70) | Med (N=70) | High (N=70)
+Organ Name Tumor Name P-Trend |P-VCvs.W] P-VCvs.L | P-VCvs.M |P-VCvs.H
+Fibrosarcoma, Malignant 1/70 (33) 0/70 (32) 0/70 (29) 1/70 (34) 1/70 (33)
+0.4126 NC 1.0000 0.7612 0.7538
+HairFollicle Tumor, Benign} 0/70(33) | 0/70(32) | 0/70(29) 0/70 (34) 1/70 (33)
+0.2558 NC NC NC 0.5000
+Keratoacanthoma, Benign 0/70 (33) 0/70 (32) 0/70 (29) 0/70 (34) 1/70 (33)
+0.2558 NC NC NC 0.5000
+Leiomyosarcoma, 0/70 (33) 1/7032) | 0/7029) 0/70(34) | 0/70(33)
+Malignant NC NC NC NC NC
+Lipoma, Benign 1/70 (34) 0/70 (32) 0/70 (29) 0/70 (34) 0/70 (33)
+1.0000 NC 1.0000 1.0000 1.0000
+Papilloma, Squamous Cell, | 0/70 (33) 1/7032) | 0/7029) 0/70(34) | 0/70(33)
+Benign NC NC NC NC NC
+Sarcoma, Undifferentiated, | 0/70 (33) 0/70 (32) 0/70 (29) 0/70 (34) 1/70 (33)
+Malignant 0.2558 NC NC NC 0.5000
+Schwannoma, Malignant 0/70 (33) 1/70 (32) 1/70 (29) 0/70 (34) 1/70 (33)
+0.3158 NC 0.4677 NC 0.5000
+Small Intestine, Ileum | Leiomyosarcoma, 0/70 (33) 0/70 (32) 0/70 (29) 1/70 (34) 0/70 (33)
+Malignant 0.5194 NC NC 0.5075 NC
+SmallIntestine, Adenocarcinoma, Malignant] 1/70 (34) 0/70 (32) 0/70 (29) 0/70 (34) 0/70 (33)
+Jejunum 1.0000 NC 1.0000 1.0000 1.0000
+Thymus Thymoma, Benign 1/70 (34) 0/70(32) | 0/70(29) 0/70(34) | 0/70(33)
+1.0000 NC 1.0000 1.0000 1.0000
+Thyroid Gland Adenoma, C-Cell, Benign 12/70 (38) 10/70 (37) 10/70 (34) 8/70 (37) 14/70 (39)
+0.2960 NC 0.6748 0.8921 0.4368
+Adenoma. FollicularCell, | 0/70 (33) 0/7032) | 1/70(29) 0/704) | 0/70(33)
+Benign 0.7442 NC 0.4677 NC NC
+Carcinoma, C-Cell, 0/70 (33) 0/70 (32) 1/70 (29) 0/70 (34) 1/70 (33)
+Malignant 0.3158 NC 0.4677 NC 0.5000
+Carcinoma, FollicularCell, | 1/70 (33) 0/7032) | 1/70(29) 1/70(34) | 2/7034)
+Malignant 0.2881 NC 0.7208 0.7612 0.5114
+Tongue Carcinoma, Squamous Cell, | 0/70 (33) 0/70 (32) 1/70 (29) 0/70 (34) 0/70 (33)
+Malignant 0.7442 NC 0.4677 NC NC
+Tooth/Teeth Odontoma, Benign 0/70 (33) 0/70 (32) 1/7029) 0/70 (34) 0/70 (33)
+0.7442 NC 0.4677 NC NC
+Urinary Bladder Leiomyoma, Benign 0/70 (33) 1/70(32) | 0/70(29) 0/70(34) | 0/70(33)
+NC NC NC NC NC
+Uterus With Cervix Granular Cell Tumor, 1/70 (33) 0/70 (32) 0/70 (29) 1/70 (34) 0/70 (33)
+Benign 0.7710 NC 1.0000 0.7612 1.0000
+
+Reference ID: 5174472
+

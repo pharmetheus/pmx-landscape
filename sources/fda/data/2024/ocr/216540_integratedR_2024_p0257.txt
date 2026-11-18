@@ -1,0 +1,62 @@
+NDA 216540 Acoramidis (AG-10) Page 6 of 28
+
+Bieler and Williams (1993). In this method, an animal that lives the full study period (1, ) or dies before
+the terminal sacrifice with development of the tumor type being tested gets a score of s,=1. An animal that
+dies at Week w, without development of the given tumor type before the end of the study gets a score of s,
+
+k
+= [24] <1. The adjusted group size is defined as £ s, . As an interpretation, an animal with score s, =1
+
+Wonx
+
+can be considered as a whole animal, while an animal with score s, <1 can be considered as a partial animal.
+
+The adjusted group size = s, is equal to N (the original group size) if all animals live up to the end of the
+
+study or if each animal develops the given tumor being tested, otherwise the adjusted group size is less than
+N. These adjusted group sizes are then used for the dose response relationship (or the pairwise comparison)
+tests using the Cochran-Armitage test. One critical point for Poly-k test is the choice of the appropriate
+value of k. For long term 104-week standard rat and mouse studies, a value of k=3 is suggested in the
+literature [Gebregziabher and Hoel (2009), Moon et al. (2003), Portier, et al. (1986)]. Hence, this reviewer
+used k=3 for the analysis of the data. Based on the intent to treat (ITT) principle Wmax was considered as
+104 for both male and female rats.
+
+For the calculation of p-values, if there were less than 10 tumor bearing animals across all treatment
+groups for a given tumor type, the exact tests based on the discrete permutation distribution were used,
+with dose levels (0, 5, 15, and 50 for male rats, and 0, 40, 120, and 350 for female rats) as scores, and
+asymptotic tests were used for tumor types with higher incidences. The tumor rates and the p-values of
+the tested tumor types are listed in Tables 3A and 3B in the appendix for male rats and female rats,
+respectively.
+
+Multiple testing adjustments:
+
+Following the FDA more recently revised draft guidance for the carcinogenicity study design and data
+analysis, for the two-year rat study this reviewer used significance levels of 0.005 and 0.025 for common
+and rare tumors, respectively in dose response relationship (trend) tests and significance levels of 0.01
+and 0.05 for common and rare tumors, respectively in pairwise comparisons.
+
+A tumor is defined as a rare tumor if the published spontaneous rate or the spontaneous rate of the vehicle
+control of the tumor is less than 1%, and a common tumor is defined as one with tumor rate greater than
+or equal to 1%.
+
+Reviewer’s findings:
+
+The tumor types with p-values less than 0.05 for dose response relationship and/or pairwise comparisons
+of vehicle control and treated groups are reported in Table 2.
+
+Table 2: Tumor Types with P-Values < 0.05 for Dose Response Relationship or the pairwise
+Comparisons. Treated Groups vs. Vehicle Control Group in Rats
+
+k 0 mg 5 mg 15 mg 50 mg
+. (Cont (N=60)] Low (N=60) | Med (N=60) | High (N=60)
+Organ Name| Tumor Name | P - Trend _| P - C vs. L | P -C vs. M| P -C vs. H
+
+ale [Lymph Node, | M- 0/59 (45) 1/60 (48) (0/60 (41) 5/60 (48)
+
+Mesenteric Hemangiosarcoma|__0.0035* 0.5161 NC 0.0329*
+
+Skin/Subcutis | B-Fibroma 1760 (45) 4760 (48) 3760 (42) 8758 (48)
+
+0.02032 0.2014 0.0862 0.01942
+
+Reference ID: 5385041

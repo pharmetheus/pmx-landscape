@@ -1,0 +1,74 @@
+BLA 761367
+Andembry / garadacimab
+
+Table 36. Listing of Subjects With Any Abnormal PT Measurement, Safety Population
+(Garadacimab 200 mg Group), Trial 3001
+
+Study Day
+Subject ID Screening Day 1 Day 91 Day 182 Day 272 Day 362
+| 12.1 11.4 19.4H 18 11.8
+12.6H 29.2H 12.6 H 23.6 H 12.9H 12.9H
+9.8 11.4 10 17.2H 9.8 11.5
+11.6 11.8 12 24H 11.4 12.3H
+20.2H 11.4 11.6 22H 11.7 12
+11 11.6 23.3H 14.5H 11.9 11.6
+
+Source: Clinical reviewer using ADLB xpt files from trial 3001 and study 3002.
+
+Abbreviations: H, high; ID, identity; PT, prothrombin time
+
+The international normalized ratio (INR) is a calculation of the subject’s PT divided by the
+Subject Prothrombin Time
+
+control PT. INR = ———————___
+Control Prothrombin Time
+
+INR values of the garadacimab and placebo groups in trial 3001. The same six subjects in
+
+Table 36 also had INR >1.3x ULN with none exceeding an INR >2.2x ULN.
+
+. The review team also independently reviewed the
+
+Pooled PK Analysis by PT
+
+The real-time relationship between garadacimab plasma concentrations and PT was explored. No
+apparent E-R relationship between plasma trough concentrations and PT was found (see
+
+Figure 13). Some data points fell above the general trend, and these represent subjects with
+prolonged PT. These subjects have been described above.
+
+Figure 13. Real-Time Relationship Between PT and Garadacimab Plasma Concentrations,
+
+Trial 3001
+35
+© Garadacimab (N=39)
+* * Placebo (N=25)
+25 .
+= ee
+8 .
+gr e .
+@ °
+£15 7: ok
+a ° eee e
+© 10 i ate o 2 0e Eh c gees Pe oy
+5
+°
+
+0 5 10 15 20
+
+Garadacimab Plasma Concentration (ug/mL)
+Source: Reviewer's analysis using adpc.xpt and adlb.xpt datasets.
+Note that in trial 3001, only garadacimab trough concentrations were measured.
+Abbreviations: HAE, hereditary angioedema; PT, prothrombin time
+
+Bleeding and Thromboembolism Adverse Events
+
+The review team analyzed AE datasets for TEAEs related to bleeding or thromboembolism by
+PTs, SMQs (hemorrhage, embolic and thrombotic events), and FMQs (hemorrhage, thrombosis).
+Across the garadacimab clinical development program, there were no deaths, serious or severe
+bleeding/thromboembolic AEs, or events leading to treatment discontinuation. In trial 3001, no
+
+67
+Integrated Review Template, version 3.0 (05/25/2022)
+
+Reference ID: 5458438

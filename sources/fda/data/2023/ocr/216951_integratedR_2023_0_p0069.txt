@@ -1,0 +1,80 @@
+NDA 216951
+Jesduvrog (daprodustat)
+
+Sensitivity Analyses and Supportive Analyses for Hemoglobin Change From Baseline
+
+Additional supportive analyses included an on-treatment analysis using only evaluable Hb
+values, a per-protocol analysis using only evaluable Hb values, analysis with a shorter EP
+(Weeks 28 to 36), and an observed case analysis (on- and off- treatment). Results were consistent
+with the non-inferiority conclusion from the primary analysis (See Section 16.1.1)
+
+Results of the tipping point analysis suggest that the extent of missing data would unlikely
+impact the conclusions of the primary efficacy analysis. Therefore, missing data in these studies
+are unlikely to have had an impact on the primary results.
+
+Efficacy Results—Key Secondary Endpoints
+
+Daprodustat did not demonstrate a statistically significant reduction in average monthly IV iron
+dose from baseline to Week 52 compared to rhEPO (see Table 13). The observed p-value was
+greater than the rank-associated alpha threshold as prescribed by the Holm-Bonferroni
+adjustment.
+
+Table 13. Analysis of On-Treatment Average Monthly IV Iron Dose During Day 1 to Week 52 for
+Study 200807/ASCEND-D
+
+Daprodustat thEPO>
+
+N=1487 N=1477
+
+Number of participants during day 1 to Week 52 (%) 1482 (>99) 1472 (>99)
+
+Baseline monthly IV iron dose (mg) mean (SD) 139 (171) 137 (175)
+
+Average monthly IV iron dose (mg) during Day 1 to Week 52 mean (SD) 91 (133) 100 (149)
+
+Adjusted mean change from Baseline (SE) 91 (3) 100 (3)
+Adjusted mean treatment difference (dapro - darbe) -9.1
+Two-sided 95% Cl for adjusted mean difference (-18.4, 0.2)
+One-sided p-value 0.027¢
+
+Source: Sponsor CSR
+
+Note: Iron data after a participant has received an RBC or whole blood transfusion are excluded from the analysis
+
+= Based on an ANCOVA model with terms for treatment, baseline Hb, and region. One-sided p-value based on test of null
+hypothesis: (daprodustat - rhEPO) =0 vs alternative: difference <0.
+
+> Epoetin alfa in HD participants or darbepoetin alfa in PD participants.
+
+© The one-sided p-value for on-treatment average monthly IV iron dose was ranked second of the 4 key secondary endpoints in the
+Holm-Bonferroni multiplicity adjustment. The nominal p-value for the treatment difference in average monthly IV iron dose was not
+lower than the rank-associated alpha threshold of 0.00833
+
+Abbreviations: ANCOVA, analysis of covariance; Cl, confidence interval; CSR, clinical study report; Dapro, daprodustat; Darbe,
+darbepoetin alfa; Hb, hemoglobin; HD, hemodialysis; IV, intravenous; PD, peritoneal dialysis; RBC, red blood cell; rhEPO,
+recombinant human erythropoietin; SD, standard deviation; SE, standard error
+
+The proportion of participants with mean Hb within the analysis range of 10 to 11.5 g/dL during
+the EP was similar between the treatment groups (see Table 14).
+
+Table 14. Participants With Mean EP Hb Below, Within and Above the Analysis Range Using
+Evaluable Hb Values for Study 200807/ASCEND-D
+
+Daprodustat thEPO?
+
+N=1487 N=1477
+
+Participants with evaluable Hb during the EP 1238 1247
+Mean EP Hb above 11.5 g/dL 132 (11) 88 (7)
+Mean EP Hb within 10.0-11.5 g/dL 903 (73) 866 (69)
+Mean EP Hb below 10.0 g/dL 203 (16) 293 (23)
+
+Source: Sponsor CSR
+* Epoetin alfa in HD participants or darbepoetin alfa in PD participants
+Abbreviations: CSR, clinical study report; EP, evaluation period; Hb, hemoglobin, PD, peritoneal dialysis; rnEPO, recombinant
+human erythropoietin
+43
+
+Integrated Review Template, version 3.0 (05/25/2022)
+
+Reference ID: 5119138

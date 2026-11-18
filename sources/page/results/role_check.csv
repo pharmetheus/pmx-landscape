@@ -1,0 +1,12 @@
+"measure","first_reader","check_reader","both","agree","kappa"
+"abstracts compared",498,498,,,
+"same used tools",,,493,0.99,
+"same roles for every tool",,,493,0.99,
+"same set of types",,,448,0.9,
+"type 1",226,227,218,0.966,0.93
+"type 2",198,193,183,0.95,0.89
+"type 3",47,51,45,0.984,0.91
+"type 4",25,14,14,0.978,0.71
+"type 5",14,18,14,0.992,0.87
+"type 6",8,9,8,0.998,0.94
+"type 7",25,18,18,0.986,0.83

@@ -1,0 +1,131 @@
+NDA/BLA Multi-disciplinary Review and Evaluation Biologics License Application 761400
+
+linvoseltamab
+
+Renal (estimated Glomerular Filtration Rate was calculated using the
+CKD-EP equation)
+
+n = 78 (27.7%) normal; 116 (41.1%) mild; 76 (27.0%) moderate;11
+(3.9%) severe; 1(0.4%) failure
+
+Pediatrics
+(if any)
+
+Not Applicable
+
+and BLQ
+
+No. of Patients, PK Samples,
+
+Total number of patients: 281 (282 total dosed)
+
+There was a total of 6995 concentration records in the analysis set.
+Postdose concentration records that were BLQ represented
+0.0066% (n=46) and were excluded from the analysis.
+
+Sampling
+Schedule
+
+Rich
+Sampling
+
+Predose, EOI, 4 h of each split dose at W1-W3 and 24 h, 48h in W1-
+W3; predose, EOI, 4h in W4; predose and EOI at W5, W6, W8, W10,
+W12, W14, W16, W18, W20, W22 to W40 or last dose, W44 or 30
+days post-last dose, follow-up visits W48, W52, W56, W60 and W64,
+or W8 and W12 post-last dose
+
+In ITT
+Population
+
+Not Applicable
+
+Covariates
+Evaluated
+
+Static
+
+AGE = baseline age; CARFILZ = Prior Carfilzomib Treatment; CL =
+clearance; CRCLBL = Creatinine clearance at baseline; CRPBL = C-
+reactive protein at baseline; ECOGBL = ECOG performance score at
+baseline;
+
+ETHNICN = Ethnicity; HEPCATN = Hepatic Impairment Status;
+LENALD = Prior Lenalidomide Treatment; MMISTYPN = Multiple
+Myeloma Type; NPRSYTHP = Number of prior lines of therapy; Q =
+intercompartmental clearance; RACEN = Race; RENALCN = Renal
+Impairment Status; SBMCABL = Serum B-cell maturation antigen at
+baseline; SEXN = Sex; SMPRBL = Serum M-protein at baseline;
+TOTFRBL = Total Free Light Chain at baseline; VC = Volume of
+Distribution in Central Compartment; VMAX = maximum nonlinear
+clearance rate;
+
+VP = Peripheral Volume of distribution; WGTBL = body weight at
+baseline
+
+Time-
+varying
+
+IgG, ALB, and FLC
+
+Final Model
+
+Acceptability
+[FDA’s comments]
+
+Summary
+
+Software and Version
+
+NONMENE® (version 7.5.0)
+R (4.2.2) and Rstudio
+
+The Applicant's popPK model
+adequately characterized total
+
+Model Structure
+
+2-compartment distribution model
+with parallel linear and nonlinear
+(Michaelis-Menten type) clearance
+processes.
+
+Model Parameter Estimates
+
+Table 61: Parameter Estimates
+and RSE from Final PopPK Model
+
+Uncertainty and Variability
+(RSE, IIV, Shrinkage,
+Bootstrap)
+
+The parameters were estimated
+with sufficient precision (most with
+<30% RSE) and random effects
+shrinkage was acceptable (<30%).
+Random effects were normally
+distributed and unbiased. Model
+fit, evaluated with CWRES, was
+unbiased over time and predicted
+
+linvoseltamab concentration in
+patients with RRMM, as
+demonstrated by the goodness-
+of-fit plots on a semilog scale
+(Figure 10) and on a linear
+scale (Figure 11).
+
+The Applicant's final popPK
+model is adequate for the
+purpose of predicting total
+linvoseltamab concentration in
+patients with RRMM.
+
+181
+
+Version date: August 2023 (ALL NDA/BLA reviews)
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are
+completed by the Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5432800
+

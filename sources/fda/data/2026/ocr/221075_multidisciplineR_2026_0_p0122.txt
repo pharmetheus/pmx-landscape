@@ -1,0 +1,67 @@
+NDA/BLA Multi-disciplinary Review and Evaluation NDA 221075
+Iberdomide (ZENBEXUS)
+
+data to bridge between the AIC, F1, F2, and F3 formulations (bridging between formulations
+is described in Section 6.3.1) (Figure 3).
+
+Figure 3: FDA — Schematic of Applicant Assessment of the Impact of Administration of a
+High-Fat Meal on Iberdomide PK Using PBPK Modeling and Simulation
+
+Comparable RBA
+(CP-002; 1mg)
+
+—
+
+APL in Gelatin
+Capsule
+AIC)
+
+No food effect
+(CP-001; 1mg)
+
+Source: PBPK Report (Development of a PBPK Model to Explore Food Effect on the Pharmacokinetics of
+Iberdomide Using Simeyp Population-Based Simulator V22)
+
+The results of the food effect cohorts of Studies CC-220-CP-001 and IM048-1038 are shown in
+
+Table 38. Subjects had comparable iberdomide exposure regardless of if the AIC ]
+
+of iberdomide were administered in a fasting condition or with an
+HFM.
+
+Table 38: FDA — Geometric mean ratio of iberdomide pharmacokinetics following
+administration with a high-fat meal as compared to fasting condition in Studies CC-220-
+CP-001 and Study IM048-1038
+
+Study CC-220-CP-001 a
+AIC formulation
+(n=9)
+= 0.95 (0.86, 1.06)
+AUC: 1.04 (0.99, 1.10)
+AUCint 1.04 (0.97, 1.12)
+
+Abbreviations: 90% CI, 90% confidence interval: AIC, “active in capsule” formulation: AUCins, area under the
+concentration-time curve from 0 to infinity: AUC;. area under the concentration time-curve from 0 to 24 hours in
+Study CC-220-CP-001 or 0 to 72 hours in Study IM048-1038; Cmax. maximum plasma concentration
+
+Source: Adapted from Study CC-220-CP-001 CSR Table 18, Study IM048-1038 CSR Table 9.1.3-2
+
+Presented as GMR (90% Cl) with reference to iberdomide administered fasted (no food or beverages for 8 hours
+before and 4 hours after iberdomide administration in Study CC-220-CP-001 and 10 hours before and 4 hours
+after iberdomide administration in Study IM048-1038)
+
+Administration of the F3 formulation of iberdomide with food is not predicted to increase
+iberdomide Cmax (fed/fasted GMR=1.05) or AUC (fed/fasted GMR=0.95) based on PBPK
+simulations (see Section 19.5.6.7). However, several limitations were noted for the Applicant’s
+PBPK assessment, including the optimization of Pes value in the model.
+
+Given these limitations, the FDA conducted additional analyses to evaluate the effect of
+administration with food on iberdomide PK. The FDA compared iberdomide PK following
+121
+
+Version date: February 10, 2025 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5851050

@@ -1,0 +1,80 @@
+NDA/BLA Multi-Disciplinary Review and Evaluation
+
+Tovorafenib (DAY101)
+
+Development of a robust
+longitudinal model to characterize
+the change of tumor size over time
+was deemed unfeasible due to
+limited time-course data and large
+variability in the tumor size data.
+
+between tumor response and
+exposure, no covariate analysis was
+performed.
+
+Model Parameter Estimates Table 66 Yes
+Model Evaluation Not applicable
+Covariates and Clinical Relevance In the absence of a relationship Yes
+
+Simulation for Specific Population
+
+Not applicable
+
+Visualization of E-R relationships
+
+Table 67
+
+Figure 11 illustrates
+additional E-R relationships
+for ORR based on RAPNO-
+LGG or RANO-LGG, and ORR
+by RAPNO-LGG with time-
+averaged exposure.
+
+Overall Clinical Relevance for ER
+
+There was no statistically significant
+relationship in any of the models for
+all exposure metrics considered (ie,
+Gin, AUCs, TAE, and Cmax)
+
+Yes
+
+All E-R analysis showed
+clinically insignificant
+relationship.
+
+Labeling Language
+
+Description
+
+Acceptability
+[FDA’s comments]
+
+12.2 Pharmacodynamics
+
+Reference ID: 5368881
+
+Not applicable
+
+“The exposure-response
+relationship for overall
+response rate based on
+RAPNO-LGG (Response
+Assessment in Pediatric
+Neuro-Oncology), and
+RANO-LGG (Response
+Assessment in Pediatric
+Neuro-Oncology) were not
+clinically significant over the
+dosage range of 290 to 476
+mg/m? (0.76-1.25 times the
+approved recommended
+dosage)” was added to
+provide support for the
+recommended dosage in the
+labeling.
+
+281
+

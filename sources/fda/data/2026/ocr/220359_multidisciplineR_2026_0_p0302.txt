@@ -1,0 +1,54 @@
+Dose(s) Included Camizestrant 75 mg QD (94.7%); patients dose reduced
+to 50 mg QD (5.3%).
+
+Exposure Metrics Explored. Camizestrant exposure:
+
+(range) Camizestrant + palbociclib (n = 115)
+
+e Cmin,s (ng/mL): 7.10-74.7
+e@ Cmaxss (ng/mL): 28.8-179
+¢ AUC., (ng*h/mL): 405-2471
+
+Camizestrant + abemaciclib (n = 14)
+© Cming (ng/mL): 12.3-59.7
+
+e@ Cmaxs; (ng/mL): 51.1-145
+¢ AUC. (ng*h/mL): 711-2133
+
+Camizestrant + ribociclib (n = 22)
+© Cming (ng/mL): 17.4-150
+
+e Cmax, (ng/mL): 74.9-290
+e AUC, (ng*h/mL): 910-4828
+
+Covariates Evaluated Camizestrant exposure metrics and CDK4/6i used.
+Final Model Parameters Summary Acceptability
+[FDA’s
+comments]
+Model Structure Graphical exploration of the Acceptable
+
+distribution and logistic regression
+analyses of camizestrant exposure
+mnetrics in patients with and without
+pre-defined AE was evaluated.
+
+Model Parameter Estimates Section 5.2 (Graphical Assessment | Acceptable
+and Logistic Regression Analyses of
+the Relationship Between Exposure
+and Selected Safety Outcomes),
+Figures 2-10, SERENA Exposure-
+Response Report, Module 5.3.4.2.
+
+301
+Version date: March 1, 2024 (All NDA/BLA reviews)
+
+In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the Applicant,
+which do not necessarily reflect the positions of the FDA.
+
+The FDA review was conducted in conjunction with other regulatory authorities under Project ORBIS. The FDA
+collaborated with Australia’s Therapeutic Goods Administration (TGA), Brazilian Health Regulatory Agency
+(ANVISA), Health Canada (HC), Singapore’s Health Sciences Authority (HSA), and Switzerland’s Swissmedic
+(SMC). While the conclusions and recommendations expressed herein reflect the FDA’s completed review of the
+application, the applications may still be under review at the other regulatory agencies.
+
+Reference ID: 5864804

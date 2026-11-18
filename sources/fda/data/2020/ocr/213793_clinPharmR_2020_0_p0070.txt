@@ -1,0 +1,102 @@
+4.4.2 RESULTS OF SPONSOR'S ANALYSIS
+
+4.4.2.1 Population PK Analysis
+
+44.2.1.1 Review Summary
+
+The applicant’s population PK analysis is acceptable for prediction of exposures in specific populations
+and for exposure-response analyses. In brief, Setmelanotide plasma pharmacokinetics were adequately
+described by a one compartment model with zero-order absorption kinetics after subcutaneous injection.
+Both goodness-of-fit plots and prediction corrected visual predictive checks indicate that the final
+population PK model is adequate in characterizing the PK profile of Setmelanotide in adult and pediatric
+subjects 6 years and older. The inter-individual variability (IIV) for CL (28.7%), and V (26.5%) were
+small. IIV for D2 (duration of zero order absorption) was relatively high (52.3%). Eta Shrinkages for CL
+(27.7%), V (57.8%) and D2 (40.9%) are reasonable and support evaluation of covariates of CL. Although
+renal excretion account for about 40% elimination of unchanged Setmelanotide within 24 hours,
+creatinine clearance (CLCR) was not a significant covariate for clearance. Body weight was a covariate
+
+for CL and V with fixed allometric exponents of 0.75 and 1 respectively. Other covariates were;
+setmelanotide formulation on D2 and bioavailability (F), and sex, age, and healthy status on CL. The
+applicant’s analyses were verified by the reviewer, with no significant discordance identified.
+
+The developed model was used to support labelling of Setmelanotide in the current submission as
+
+outlined in Table 19.
+
+Table 19
+
+Reviewer's Specific Comments on Applicant’s Final Po)
+
+pulation PK model
+
+Utility of the final model
+
+Reviewer's Comments
+
+Support applicant's
+proposed labeling
+statements about intrinsic
+and extrinsic factors
+
+Intrinsic factor
+
+Initial and maintenance doses are
+dependent on age group. Initial and
+
+i A ) (4)}
+it S t
+afyjintenance doses for subjects
+
+are 1 mg and 2 mg respectively:
+in adults, the doses are 2 mg and 3
+mg respectively
+
+Extrinsic factor
+
+Formulation was the only extrinsic
+factor with effect on setmelanotide
+bioavailability
+
+Through monte-carlo simulations
+the applicant’s model shows that
+setmelanotide exposure, after 1 mg
+through 2.5 mg doses, exposures in
+pediatric subjects are within the
+95% prediction interval for
+exposure in adults receiving 3 mg.
+
+Monte-carlo simulations for
+exposure matching are acceptable
+since the model predictive
+performance was reasonable as
+indicated by prediction corrected
+visual predictive checks (PeVPC)
+
+Derive exposure metrics
+for exposure-response
+analyses
+
+Predicted exposures
+from the PK model
+were used for
+exposure vs
+response analyses
+
+The applicant did not perform
+exposure-vs-response analyses. The
+reviewer has performed these
+analyses as described in section 2
+(Population PD analyses)
+
+Predict exposures at
+alternative dosing regimen
+
+The model was
+used to assess
+predicted exposures
+at doses >= 2mg
+
+Reference ID: 4669798
+
+69
+

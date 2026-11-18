@@ -1,0 +1,60 @@
+NDA 216951
+Jesduvrog (daprodustat)
+
+stop the study considered signals for harm, the predictive probability of achieving at least non-
+inferiority at trial end, and the risk of incorrectly stopping for futility.
+
+Missing Data Handling for Primary Efficacy Endpoint (Hb)
+
+For each missing value between Baseline to Week 52 (inclusive), 200 imputed values for Hb
+were generated using multiple imputation. The pooled average of these 200 imputed values were
+used in the summary tables and figures. For co-primary efficacy Hb analysis and the
+corresponding subgroup analyses using all available observed and imputed Hb values (on and
+off-treatment), Rubin’s rules were used to combine results of the imputed datasets. The MAR
+assumption was considered appropriate as it is expected that off-treatment Hb values were
+similar to on-treatment Hb values, since patients would usually take commercially available
+Darbepoetin medication during such times in order to control their Hb. A tipping point analysis
+was also performed as a sensitivity analysis for the assumptions of missing data, that is, to mimic
+MNAR in which the missing observations depend on unobserved values.
+
+Efficacy Analysis for Primary Endpoint
+
+The primary efficacy evaluation was the effect of daprodustat relative to darbepoetin alfa on the
+change in Hb from Baseline to the average of all values in the EP, regardless of adherence to
+treatment including interruptions and discontinuation, the use of nonrandomized ESA medication
+for any reason including rescue therapy or the use of blood transfusions, and assuming
+participants did not die before the end of the EP.
+
+For each participant, Baseline Hb was the value obtained prior to taking randomized treatment
+(Day 1 value, or if this was missing, Baseline Hb was the value obtained at the latest non-
+missing pre-dose assessment on or before the randomization date), and Hb during the EP was
+determined by calculating the mean of all available and imputed Hb values between Weeks 28 to
+52 inclusive regardless of adherence to randomized treatment. Multiple imputation was used to
+impute missing Hb data, and an ANCOVA model, adjusting for region, current ESA use,
+Baseline hemoglobin, and treatment, was used to obtain a point estimate, the two-sided 95% CI
+for the treatment difference (daprodustat-darbepoetin alfa), and an associated one-sided
+noninferiority test p-value. Non-inferiority was established if the lower limit of the two-sided
+95% CI for the treatment difference was greater than the margin of -0.75 g/dL.
+
+Sensitivity Analyses
+
+e Post-randomization Hb (Observed Values Only Analysis): An analysis using available
+observed Hb values (on and off-treatment) only for post-randomization hemoglobin.
+Missing Hb data were not imputed.
+
+e Evaluable Hb: An alternative “while on-treatment” estimand using only evaluable Hb
+data. Missing Hb data were not imputed.
+
+e PP Hb: A PP population analysis based on the evaluable Hb analysis.
+
+e Alternative EP (Week 28-36) Analyses:
+
+e An alternative EP analysis from Week 28-36 using all available Hb values (on and off
+treatment). Missing post-Baseline Hb values were imputed.
+
+e Analternative EP analysis from Week 28-36 using only evaluable Hb values. Missing Hb
+data were not imputed.
+
+Integrated Review Template, version 3.0 (05/25/2022)
+
+Reference ID: 5119138

@@ -1,0 +1,51 @@
+safety, no dose adjustment is required when 75 mg camizestrant QD was administered in
+combination with ribociclib.
+
+The FDA’s Assessment:
+
+Food Effect:
+
+FDA agrees that administration of the camizestrant with or without food is supported by
+comparison of Regimens D and G in a fasted state and Regimens E and H in a fed state in Study
+D8530c00004.
+
+The design of Study D8530c00004 adequately evaluated the effect of food on the oral tablet
+formulation. There were total of 8 study treatments (Regimens A-H). Each treatment consisted of
+a single dose of camizestrant 75 or 300 mg administered using 1 of 3 formulations (” tablet,
+® tablet, oral solution). On Day 1 of each period, camizestrant was administered under 1 of 2
+conditions (fasted or with high-fat meal). In regimens B — D, F and G (fasted state), subjects
+were administered a single 75 or 300 mg dose following a 10-hour overnight fast. In regimens E
+and H (fed), a high-fat meal (comprised of 1 fried egg, 2 strips of bacon, 2 slices of sliced bread
+with butter, 1 hash brown, and 240 mL of whole milk) was consumed 30 minutes before
+camizestrant dosing. Cohorts 1 and 2 explored the potential effect of food on the PK of 75 mg of
+camizestrant using 25 mg strength” tablets. Although the 25 mg strength is not the to-be-
+marketed strength, given that the absolute bioavailability of camizestrant 25 mg” tablet is low
+(~32%), similar to the oral solution, and that a majority of the drug is excreted by the fecal route,
+it is anticipated that the 25 and 75 mg strengths will behave similarly, thus the in vitro bridging
+data between the 25 and 75 mg strengths is reasonable. Refer to the Product Quality Assessment
+review dated 5/7/2026 in DARRTS (ref ID 5789790) for more details regarding the dissolution
+properties of camizestrant.
+
+Overall, 32 subjects received at least 1 full dose of camizestrant and had a minimum of one valid
+post-dose analytical result for PK parameter estimation. The Applicant’s analysis of AUC omitted
+one patient (subject ID ©) in the fed phase because the extrapolated portion of AUCinf
+was >20% and quantifiable pre-dose values (<5% of Cmax) were observed, which is acceptable.
+To verify the results, the FDA reviewer created a linear mixed effects model. The model
+incorporated fixed effects (formulation) and a random effect (subject) to evaluate camizestrant
+PK parameters (AUCint and Cmax). The FDA reviewer’s independent analysis, inclusive of the
+omitted patient, indicated that the GMR of 75 mg (3 x 25 mg tablets) fed to 75 mg (3 x 25
+mg tablets)" fasted for AUCinewas 110% and for Cmax was 105%, with 90% Cls within the 80
+
+146
+Version date: March 1, 2024 (All NDA/BLA reviews)
+
+In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the Applicant,
+which do not necessarily reflect the positions of the FDA.
+
+The FDA review was conducted in conjunction with other regulatory authorities under Project ORBIS. The FDA
+collaborated with Australia’s Therapeutic Goods Administration (TGA), Brazilian Health Regulatory Agency
+(ANVISA), Health Canada (HC), Singapore’s Health Sciences Authority (HSA), and Switzerland’s Swissmedic
+(SMC). While the conclusions and recommendations expressed herein reflect the FDA’s completed review of the
+application, the applications may still be under review at the other regulatory agencies.
+
+Reference ID: 5864804

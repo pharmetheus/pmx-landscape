@@ -1,0 +1,9 @@
+"source","rule","reference_candidates","decided","share_decided","agree","precision"
+"PAGE","all",3365,1470,0.437,1469,0.9993
+"PAGE","rules.csv:version",3365,1066,0.317,1066,1
+"PAGE","rules.csv:verb",3365,379,0.113,378,0.9974
+"PAGE","rules.csv:was_used",3365,25,0.007,25,1
+"Europe PMC","all",1784,924,0.518,919,0.9946
+"Europe PMC","rules.csv:version",1784,767,0.43,763,0.9948
+"Europe PMC","rules.csv:verb",1784,134,0.075,133,0.9925
+"Europe PMC","rules.csv:was_used",1784,23,0.013,23,1

@@ -1,0 +1,82 @@
+NDA 216951
+Jesduvrog (daprodustat)
+
+Table 32. Analysis of Post-Randomization Hb Change From Baseline to the EP (Weeks 28 to 52)
+for Study 204837/ASCEND-TD
+
+Daprodustat Epoetin
+
+(N=270) (N=137)
+
+Participants with all 7 scheduled Hb values during the EP 186 (69) 92 (67)
+
+Participants with partial scheduled Hb values during the EP 66 (24) 36 (26)
+
+Participants with no observed Hb values during the EP 18 (7) 9(7)
+
+Number of participants with baseline and EP Hb, n (%)? 270 (100) 137 (100)
+
+Baseline Hb (g/dL) mean (SD) 10.44 (0.83) 10.59 (0.93)
+
+EP (Weeks 28-52) Hb (g/dL) mean (SD)? 10.45 (0.55) 10.51 (0.85)
+
+Adjusted mean change from baseline (SE)? -0.04 (0.05) 0.02 (0.07)
+Adjusted mean treatment difference (dapro - rhEPO)® -0.05
+Two-sided 95% Cl for adjusted mean difference® (-0.21, 0.10)
+
+Source: Sponsor CSR
+
+Note: Post-randomization values include on and off treatment values.
+
+* Hb values during the EP include both observed and imputed values.
+
+» Based on an ANCOVA model with terms for treatment, and region
+
+Abbreviations: ANCOVA, analysis of covariance; Cl, confidence interval; CSR, clinical study report, Dapro, daprodustat; EP,
+evaluation period; Hb, hemoglobin; rhEPO, recombinant human erythropoietin; SD, standard deviation; SE, standard error
+
+Sensitivity Analysis
+
+For the analysis of the Hb co-primary efficacy endpoint, a multiple imputation approach was
+used to handle missing Hb values. Missing scheduled Hb data were imputed based on the MAR
+assumption. However, it is important to examine the sensitivity of inferences to departures from
+the MAR assumption for the monotone missing data. A tipping point analysis was performed as
+a sensitivity analysis for the assumptions of missing data, that is, to mimic MNAR in which the
+missing observations depend on unobserved values.
+
+Results of the tipping point analysis suggest that the extent of missing data would unlikely
+impact the conclusions of the primary/co-primary efficacy analysis. Therefore, missing data in
+these studies are unlikely to have had an impact on the primary results.
+
+Efficacy Results—Key Secondary Endpoints
+
+Daprodustat did not demonstrate a statistically significant reduction in average monthly IV iron
+dose to Week 52 compared to Epoetin (see Table 33).
+
+Table 33. Analysis of On-Treatment Average Monthly IV Iron Dose During Day 1 to Week 52 for
+
+Study 204837/ASCEND-TD
+Daprodustat Epoetin
+N=270 N=137
+Number of participants during day 1 to Week 52 (%) 270 (100) 136 (>99)
+Baseline monthly IV iron dose (mg) mean (SD) 186 (282) 175 (178)
+Average monthly IV iron dose (mg) during Day 1 to Week 52 mean (SD) 98 (187) 100 (210)
+Adjusted mean change from Baseline (SE) 97 (11) 102 (16)
+Adjusted mean treatment difference (dapro - Darbe) 5
+Two-sided 95% Cl for adjusted mean difference (-42, 33)
+One-sided p-value? 0.40
+
+Source: Sponsor CSR
+Note: Iron data after a participant has received an RBC or whole blood transfusion is excluded from the analysis
+
+* Based on an ANCOVA model with terms for treatment, baseline Hb, dialysis type and region. One-sided p-value based on test of
+null hypothesis: (daprodustat - rhEPO) 20 vs altemative: difference <0.
+
+Abbreviations: ANCOVA, analysis of covariance; Cl, confidence interval; CSR, clinical study report; Dapro, daprodustat; Darbe,
+darbepoetin alfa; Hb, hemoglobin; IV, intravenous; RBC, red blood cell; rhEPO, recombinant human erythropoietin; SD, standard
+deviation; SE, standard error
+
+73
+Integrated Review Template, version 3.0 (05/25/2022)
+
+Reference ID: 5119138

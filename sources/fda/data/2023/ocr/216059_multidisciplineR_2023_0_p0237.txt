@@ -1,0 +1,46 @@
+NDA/BLA Multi-disciplinary Review and Evaluation - NDA 216059
+Jaypirca (pirtobrutinib)
+
+Covariates Evaluated Age, Body weight, BMI, Sex/Ethnicity, Cancer Type
+Acceptability
+Final Model Parameters Summary [FDA’s comments]
+Model Structure Logistic regression model Acceptable
+Model Parameter Estimates Table 89 Acceptable
+Model Evaluation The base models for the safety exposure- Acceptable.
+
+response analysis consisted of a logistic
+regression model which estimated the
+incidence of the endpoint for the entire
+study population independent of drug
+exposure. The relationship between
+pirtobrutinib concentration and the safety
+endpoint was then tested using linear, log-
+linear, and Emax models. Exposure
+measures were tested for statistical
+significance (change in the MOF value,
+A3.841 points for 1 degree of freedom,
+p< 0.05, based on x2 distribution) to
+establish the final model.
+
+Covariates and Clinical Relevance No statistically significant covariates were | Acceptable
+identified.
+
+Simulation for Specific Population Not applicable Acceptable
+
+Visualization of E-R relationships Figure 27 Acceptable
+
+Overall Clinical Relevance for ER No statistically significant relationship was | Acceptable
+
+identified between incidence of TEAE and
+the 2 measures of predicted exposure.
+
+Labeling Language Description Acceptability
+[FDA’s comments]
+12.2 Pharmacodynamics Not applicable ‘Acceptable
+
+236 of 265
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5116352

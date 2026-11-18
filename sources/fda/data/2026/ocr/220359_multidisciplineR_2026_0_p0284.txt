@@ -1,0 +1,51 @@
+Population PK Race, n (%): White (n = 650, 86%); Asian (n = 64, 8.5%);
+
+Report) Black or African American (n = 10, 1.3%); and Other
+(n = 32, 4.2%).
+Organ Hepatic (NCI): Normal: 546 (72.2%); Mild: 209 (27.6%);
+
+Impairment Moderate: 1 (0.1%); and Severe: 0 (0%).
+
+Renal (CrCL): Baseline median CrCL (minimum-
+maximum): 86.2 mL/min (22.8, 303 mL/min). Normal
+331 (43.8%), Mild 324 (42.9%), Moderate 100 (13.2%),
+Severe (1, 0.1%).
+
+Pediatrics (if NA
+
+any)
+No. of Patients, PK Samples, 645 (12, 1.86% BLQ) camizestrant samples from
+and BLQ 151 patients post-dose. No BLQ during pre-first dose.
+Sampling Rich Sampling | NA; no rich samples were taken in SERENA-6.
+Salteihlle In ITT In SERENA-6, sparse PK samples were collected on
+Population Cycle 1 Day 15 during pre-dose, 2, and 4 hours, Cycle 2
+Day 1 during pre-dose, and Cycle 7 Day 1 during pre-
+dose. Additional PK samples were taken if patients dose-
+reduced to 50 mg QD at pre-dose, 2 and 4 hours.
+Covariates Static Baseline weight, baseline age, obesity, East-asian,
+Evaluated Latino/Hispanic ethnicity, CrCL, hepatic function (NCI
+scoring), baseline albumin level and menopausal status.
+Time-varying | Dose, concomitant use of palbociclib, abemaciclib, and
+ribociclib.
+
+Final Model Summary Acceptability
+[FDA’s
+comments]
+
+Software and Version entimICE Version 4.4 or higher Acceptable
+NONMEM Version 7.5.1
+R Version 4.1.3
+
+283
+Version date: March 1, 2024 (All NDA/BLA reviews)
+
+In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the Applicant,
+which do not necessarily reflect the positions of the FDA.
+
+The FDA review was conducted in conjunction with other regulatory authorities under Project ORBIS. The FDA
+collaborated with Australia’s Therapeutic Goods Administration (TGA), Brazilian Health Regulatory Agency
+(ANVISA), Health Canada (HC), Singapore’s Health Sciences Authority (HSA), and Switzerland’s Swissmedic
+(SMC). While the conclusions and recommendations expressed herein reflect the FDA’s completed review of the
+application, the applications may still be under review at the other regulatory agencies.
+
+Reference ID: 5864804

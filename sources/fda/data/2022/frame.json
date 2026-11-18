@@ -1,0 +1,298 @@
+[
+ {
+  "no": 1,
+  "name": "Quviviq",
+  "ingr": "daridorexant",
+  "date": "1/7/2022",
+  "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2022/214985s000lbl.pdf",
+  "appl": "214985"
+ },
+ {
+  "no": 2,
+  "name": "Cibinqo",
+  "ingr": "abrocitinib",
+  "date": "1/14/2022",
+  "label": "Drugs@FDA link (no label link on page)",
+  "appl": "213871"
+ },
+ {
+  "no": 3,
+  "name": "Kimmtrak",
+  "ingr": "tebentafusp-tebn",
+  "date": "1/25/2022",
+  "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2022/761228s000lbl.pdf",
+  "appl": "761228"
+ },
+ {
+  "no": 4,
+  "name": "Vabysmo",
+  "ingr": "faricimab-svoa",
+  "date": "1/28/2022",
+  "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2022/761235s000lbl.pdf",
+  "appl": "761235"
+ },
+ {
+  "no": 5,
+  "name": "Enjaymo",
+  "ingr": "sutimlimab-jome",
+  "date": "2/4/2022",
+  "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2022/761164s000lbl.pdf?utm_medium=email&utm_source=govdelivery",
+  "appl": "761164"
+ },
+ {
+  "no": 6,
+  "name": "Pyrukynd",
+  "ingr": "mitapivat",
+  "date": "2/17/2022",
+  "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2022/216196s000lbl.pdf",
+  "appl": "216196"
+ },
+ {
+  "no": 7,
+  "name": "Vonjo",
+  "ingr": "pacritinib",
+  "date": "2/28/2022",
+  "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2022/208712s000lbl.pdf",
+  "appl": "208712"
+ },
+ {
+  "no": 8,
+  "name": "Ztalmy",
+  "ingr": "ganaxolone",
+  "date": "3/18/2022",
+  "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2022/215904s000lbl.pdf",
+  "appl": "215904"
+ },
+ {
+  "no": 9,
+  "name": "Opdualag",
+  "ingr": "nivolumab and relatlimab-rmbw",
+  "date": "3/18/2022",
+  "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2022/761234s000lbl.pdf",
+  "appl": "761234"
+ },
+ {
+  "no": 10,
+  "name": "Pluvicto",
+  "ingr": "lutetium (177Lu) vipivotide tetraxetan",
+  "date": "3/23/2022",
+  "label": "Drugs@FDA link (no label link on page)",
+  "appl": "215833"
+ },
+ {
+  "no": 11,
+  "name": "Vivjoa",
+  "ingr": "oteseconazole",
+  "date": "4/26/2022",
+  "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2022/215888s000lbl.pdf",
+  "appl": "215888"
+ },
+ {
+  "no": 12,
+  "name": "Camzyos",
+  "ingr": "mavacamten",
+  "date": "4/28/2022",
+  "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2022/214998s000lbl.pdf",
+  "appl": "214998"
+ },
+ {
+  "no": 13,
+  "name": "Voquezna",
+  "ingr": "vonoprazan, amoxicillin, and clarithromycin",
+  "date": "5/3/2022",
+  "label": "Drugs@FDA link (no label link on page)",
+  "appl": "215152"
+ },
+ {
+  "no": 14,
+  "name": "Mounjaro",
+  "ingr": "tirzepatide",
+  "date": "5/13/2022",
+  "label": "Drugs@FDA link (no label link on page)",
+  "appl": "215866"
+ },
+ {
+  "no": 15,
+  "name": "Vtama",
+  "ingr": "tapinarof",
+  "date": "5/23/2022",
+  "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2022/215272s000lbl.pdf",
+  "appl": "215272"
+ },
+ {
+  "no": 16,
+  "name": "Amvuttra",
+  "ingr": "vutrisiran",
+  "date": "6/13/2022",
+  "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2022/215515s000lbl.pdf",
+  "appl": "215515"
+ },
+ {
+  "no": 17,
+  "name": "Xenpozyme",
+  "ingr": "Olipudase alfa",
+  "date": "8/31/2022",
+  "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2022/761261s000lbl.pdf",
+  "appl": "761261"
+ },
+ {
+  "no": 18,
+  "name": "Spevigo",
+  "ingr": "spesolimab-sbzo",
+  "date": "9/1/2022",
+  "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2022/761244s000lbl.pdf",
+  "appl": "761244"
+ },
+ {
+  "no": 19,
+  "name": "Daxxify",
+  "ingr": "daxibotulinumtoixnA-lanm",
+  "date": "9/7/2022",
+  "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2022/761127s000lbl.pdf",
+  "appl": "761127"
+ },
+ {
+  "no": 20,
+  "name": "Sotyktu",
+  "ingr": "deucravacitinib",
+  "date": "9/9/2022",
+  "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2022/214958s000lbl.pdf",
+  "appl": "214958"
+ },
+ {
+  "no": 21,
+  "name": "Rolvedon",
+  "ingr": "eflapegrastim",
+  "date": "9/9/2022",
+  "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2022/761148Orig1s000Corrected_lbl.pdf",
+  "appl": "761148"
+ },
+ {
+  "no": 22,
+  "name": "Terlivaz",
+  "ingr": "terlipressin",
+  "date": "9/14/2022",
+  "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2022/022231s000lbl.pdf",
+  "appl": "022231"
+ },
+ {
+  "no": 23,
+  "name": "Elucirem",
+  "ingr": "gadopiclenol",
+  "date": "9/21/2022",
+  "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2022/216986s000lbl.pdf",
+  "appl": "216986"
+ },
+ {
+  "no": 24,
+  "name": "Omlonti",
+  "ingr": "oomidenepag isopropyl ophthalmic solution",
+  "date": "9/22/2022",
+  "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2022/215092s000lbl.pdf",
+  "appl": "215092"
+ },
+ {
+  "no": 25,
+  "name": "Relyvrio",
+  "ingr": "sodium phenylbutyrate/taurursodiol",
+  "date": "9/29/2022",
+  "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2022/216660s000lbledt.pdf",
+  "appl": "216660"
+ },
+ {
+  "no": 26,
+  "name": "Lytgobi",
+  "ingr": "futibatinib",
+  "date": "9/30/2022",
+  "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2022/214801Orig1s000lbledt.pdf",
+  "appl": "214801"
+ },
+ {
+  "no": 27,
+  "name": "Imjudo",
+  "ingr": "tremelimumab",
+  "date": "10/21/2022",
+  "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2022/761289s001lbl.pdf",
+  "appl": "761289"
+ },
+ {
+  "no": 28,
+  "name": "Tecvayli",
+  "ingr": "teclistamab-cqyv",
+  "date": "10/25/2022",
+  "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2022/761291s000lbl.pdf",
+  "appl": "761291"
+ },
+ {
+  "no": 29,
+  "name": "Elahere",
+  "ingr": "mirvetuximab soravtansine-gynx",
+  "date": "11/14/2022",
+  "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2022/761310s000lbl.pdf",
+  "appl": "761310"
+ },
+ {
+  "no": 30,
+  "name": "Tzield",
+  "ingr": "teplizumab-mzwv",
+  "date": "11/18/22",
+  "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2022/761183s000lbl.pdf",
+  "appl": "761183"
+ },
+ {
+  "no": 31,
+  "name": "Rezlidhia",
+  "ingr": "olutasidenib",
+  "date": "12/1/2022",
+  "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2022/215814s000lbl.pdf",
+  "appl": "215814"
+ },
+ {
+  "no": 32,
+  "name": "Krazati",
+  "ingr": "adagrasib",
+  "date": "12/12/2022",
+  "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2022/216340s000lbl.pdf",
+  "appl": "216340"
+ },
+ {
+  "no": 33,
+  "name": "Sunlenca",
+  "ingr": "lenacapavir",
+  "date": "12/22/2022",
+  "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2022/215973s000lbl.pdf",
+  "appl": "215973"
+ },
+ {
+  "no": 34,
+  "name": "Lunsumio",
+  "ingr": "mosunetuzumab-axgb",
+  "date": "12/22/2022",
+  "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2022/761263s000lbl.pdf",
+  "appl": "761263"
+ },
+ {
+  "no": 35,
+  "name": "Xenoview",
+  "ingr": "hyperpolarized Xe-129",
+  "date": "12/23/2022",
+  "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2022/214375s000lbl.pdf",
+  "appl": "214375"
+ },
+ {
+  "no": 36,
+  "name": "Briumvi",
+  "ingr": "ublituximab-xiiy",
+  "date": "12/28/2022",
+  "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2022/761238s000lbl.pdf",
+  "appl": "761238"
+ },
+ {
+  "no": 37,
+  "name": "NexoBrid",
+  "ingr": "anacaulase-bcdb",
+  "date": "12/28/2022",
+  "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/761192s000lbl.pdf",
+  "appl": "761192"
+ }
+]

@@ -1,0 +1,74 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 219249}
+{Inavolisib}
+
+years vs. <65 years), body weight group (tertile of body weight) and formulation status
+
+(Phase 1/ Phase 1 resupply vs. Phase 3). At steady-state, most of the GMR of exposure metrics
+between sub-groups of interest were within 0.8 and 1.25, with the exception of the following
+sub-groups: moderate renal impairment vs. normal renal function (GMR of 1.42, 1.35 and 1.56
+for AUC, Cmax, and Cmin, respectively); Phase 1 / Phase 1 resupply formulations vs. Phase 3
+formulation (GMR of 0.79 and 0.75 for Cmax, GMR of 1.33 and 1.16 for Cmin); age 275 years vs.
+age <65 years (GMR of 1.38 for Cmin), based on only 13 patients with age 2 75 years, with GMR
+for AUC and Cmax remaining within 0.8 to 1.25. The impact of most of those variables are less
+pronounced on AUC which reflects the entire inavolisib exposure.
+
+General Information
+
+‘Objectives of PPK Analysis To identify potential covariates effects that may explain the varia in PK parameters. To provide a
+quantitative assessment of the potential effect of the intrinsic and extrinsic factors on inavolisib PK. To
+provide post hoc predictions from the PK model that would be used to perform E-R analysis.
+Study Included Phase | Study GO39374; Phase Ill Study WO41554 (INAVO120)
+Dose(s) Included ‘Study GO39374 was a first-in-human, Phase I, open-label, dose-escalation study conducted from 3 to 12
+mg (3, 6,9 12mg); Study WO41554 (INAVO120) was a Phase III, randomized, double-blind, placebo
+controlled, multicenter study conducted at Img.
+
+Population Included Patients with PIK3CA-mutant HR+ LA/mBC
+Population General The median (range) age in the PK population dataset was 56.6 years (27.0 to 85.0 years), with 25.6% >=
+Characteristics 65 years and 3.9% >=75 years. The median (range) body weight was 65.0 kg (39.0 - 159 kg). Most
+(Table 3, Table subjects were White (j.e., 67% White and 18.5% Asian) and female (98%).
+4) ‘Organ Hepatic impairment (NCI): normal 224 (66.7%); Mild group-1 107 (31.8%); Mild group-2 4 (1.2%)
+Impairment | Renal impairment (CrCL): normal 185 (55.1%); Mild 124 (36.9%); Moderate 27 (8.0%)
+Pediatrics No pediatric patients were included.
+(if any)
+No. of Patients, PKSamples, | The PK analysis dataset included 4364 PK observations from 346 subjects. After exclusion of Arm G from
+and BL. study G039374 (48 PK records) and the flagged PK record (107 records), a total of 4209 PK observations
+
+from 338 subjects were available. Of these, 3863 (91.8%) from 336 subjects were quantifiable
+concentra \s, and 346 (8.2%) records were BLQ observations. Only 63 BLQ records were observed
+after administration of the first dose ("post-dose BLQ”), accounting for less than 1.5% of all
+observations. All the rest of BLQ records (283 records) were “pre-dose BLQ”. Hence, exclusion of BLQ
+samples from the analysis was deemed acceptable.
+
+Sampling Rich For WO41554, in a subset of patients from China (n=14), intensive PK sampling was collected (0.5, 1, 2,
+Schedule Sampling | 3, 8, 24hrat cycle 1 day1 and cycle 1 day 15). For GO39374, in all arms except arm E and F, the intensive
+sampling was collected at slightly different timepoints
+In TT For WO41554, sparse samplings were collected at cycle 1 day1 (Predose, 3 hr post-dose), cycle 1 day8
+
+Population | (Predose), cycle 1 day15 (Predose, 3 hr post-dose) and cycle 2day15 (Predose). For GO39374, sparse
+samplings were collected at cycle 1 dayi (Predose, 4 and 24hr post-dose) for arm E and cycle 1 day15
+(Predose, 24 hr post-dose) for arm E and F.
+
+Covariates Static ‘Age, body weight, body mass index, body surface area, sex, race, albumin, alanine transaminase,
+Evaluated aspartate transaminase, bilirubin, eGFR, CrCL, renal impairments status, hepatic impairment status,
+ECOG, tumor burden, presence of liver metastasis, platelets count, neutrophils, lymphocytes, total
+protein
+Time- Food, formulation
+varying
+Final Model Summary Acceptability
+[FDA's
+comments]
+Software and Version The population PK analysis was performed using non-linear mixed effect model (NLME) | Acceptable
+
+in NONMEM (Version 7.5). Perl Speaks NONMEM (PsN, Version 5.3) was also used for
+facilitation of NONMEM tasks, such as VPC. Dataset preparation, data exploration,
+figures and tables, and derivation of posterior Bayes individual exposure levels were
+performed using R® V4.2 (or higher) with comprehensive R archive network (CRAN) and
+Certara packages.
+
+194
+Version date: June 2022 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5460147

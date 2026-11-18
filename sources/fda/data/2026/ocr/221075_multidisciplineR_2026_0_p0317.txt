@@ -1,0 +1,47 @@
+NDA/BLA Multi-disciplinary Review and Evaluation NDA 221075
+Iberdomide (ZENBEXUS)
+
+Table 107: FDA — Simulated and observed effects of rifampin on iberdomide exposure with
+varying fraction metabolized by CYP3A4
+
+Iberdomide alone
+Simulated (Sim/Obs Ratio)
+CYP3A4 fm
+
+PK Parameters Observed 0.56 CYPSA4 fm CYPSA4 fm CYPSA4 fm
+- 0.62 0.72 0.73
+(Original)
+Cmax (ng/mL) 1.56 1.26 (0.81) 1.26 (0.81) 1.24 (0.80) 1.24 (0.80)
+AUCinf (ng*h/mL) 26.2 23.1 (0.88) 23.4 (0.89) 23.4 (0.89) 23.5 (0.90)
+Median Tmax (h) 3.00 4.10 (1.37) 4.10 (1.37) 4.10 (1.37) 4.13 (1.38)
+
+Iberdomide + Rifampin
+Simulated (Sim/Obs Ratio)
+
+PK Parameters Observed se a cyrsas fm cyrsas fm ovr fm
+(Original) . a
+Cmax (ng/mL) 0.46 0.62 (1.34) 0.60 (1.31) 0.57 (1.23) 0.56 (1.22)
+AUCinf (ng*h/mL) 4.63 5.95 (1.29) 5.83 (1.26) 5.40 (1.17) 5.28 (1.14)
+Median Tmax (h) 2.00 2.88 (1.44) 2.85 (1.43) 2.80 (1.40) 2.80 (1.40)
+Cmax ratio 0.29 0.49 (1.68) 0.48 (1.64) 0.45 (1.57) 0.45 (1.56)
+AUCinf ratio 0.14 0.26 (1.84) 0.25 (1.78) 0.23 (1.65) 0.22 (1.61)
+
+Source: Tables 1.1-1 and-2 in Response to FDA Information Request Received 17-April-2026 (seq0019)
+
+e Inthe iberdomide label, the Applicant proposed that “Jf concomitant use of ]
+inhibitor is unavoidable, reduce ae To support this
+recommendation, the Applicant was requested to simulate this dosing regimen in cancer
+patients. A 1 mg QOD dose of iberdomide was simulated with the strong CYP3A inhibitor
+itraconazole using the same study design described in Figure 44. Compared to iberdomide
+exposure following administration of 1 mg iberdomide once daily alone, iberdomide steady-
+state exposure (AUCo-4sn and Cmax) following administration of 1 mg iberdomide QOD with
+itraconazole was predicted to be approximately 28% for AUCo4sn and 31% for Cmax higher
+(Table 108).
+
+318
+Version date: February 10, 2025 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant's Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5851050

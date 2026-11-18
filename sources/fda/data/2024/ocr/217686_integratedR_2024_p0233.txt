@@ -1,0 +1,65 @@
+NDA 217686
+TRYVIO (aprocitentan)
+
+Interindividual variability was modelled assuming a log-normal distribution for subject level
+random effects. The interindividual variability was considered for total body clearance of drug
+(CL), volume of distribution for central compartment (Vc), tlag, absorption rate constant (ka),
+volume of distribution of peripheral compartment (Vp) and intercompartmental drug transfer
+
+Q.
+
+Intra-individual variability was tested as combined additive and proportional error model on the
+dependent variable.
+
+Model evaluation and selection were based on the point estimates of PK parameters, their
+respective relative standard errors and standard statistical criteria of goodness-of-fit such as a
+decrease in the minimum objective function value, successful model convergence, and diagnostic
+prediction-corrected visual predictive check.
+
+Covariate Analysis
+
+Covariate parameters such as body weight, sex, age, formulation, race, etc. shown in Table 128,
+were investigated.
+
+Agency Assessment
+
+Per FDA General Clinical Pharmacology Considerations for Pediatric Studies for Drugs and
+Biological Product (Wang et al. 2012; September 2022), there are enough samples for subjects
+in renal groups and hepatic groups to target a 95% CI [confidence interval] of the geometric
+mean estimates of clearance and volume of distribution in each subgroup with at least 80%
+power.
+
+Table 128. Covariate Analysis: Covariates That Were Assessed
+
+Model parameter Candidate covariates
+
+Absorption Food status (fed, fasted, uncontrolled)*, formulation (capsule, tablet A, tablet B)*
+parameters
+
+Volume(s) of Age, sex*, race*, disease (healthy vs patient; healthy vs essential hypertension vs
+distribution resistant hypertension) *
+
+Intercompartmental -
+
+drug transfer
+
+Drug clearance Age, sex*, renal impairment (eGFR < 30, 30-60, > 60 mL/min/1.73 m*)*,
+
+creatinine concentration, creatinine clearance, eGFR, hepatic impairment’, race*,
+disease (healthy vs patient; healthy vs essential hypertension vs resistant
+hypertension) *, diabetes (healthy vs patient) *
+
+Source: Applicant's PopPK report, Page 15
+Tablet A and B are film-coated tablets containing drug substance with different (4)
+
+eGFR calculated with the MDRD formula (Levey et al. 1999)
+
+* Categorical covariates are shown in italics. All other candidate covariates are continuous.
+
+Abbreviations: eGFR, estimated glomerular filtration rate; MDRD, Modification of Diet in Renal Disease; PopPK, population
+pharmacokinetics; vs, versus
+
+220
+Integrated Review Template, version 3.0 (05/25/2022)
+
+Reference ID: 5347932

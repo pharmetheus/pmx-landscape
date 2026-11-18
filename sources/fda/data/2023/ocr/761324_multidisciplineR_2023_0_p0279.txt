@@ -1,0 +1,59 @@
+BLA Multi-disciplinary Review and Evaluation {Biologics License Application (BLA) 761324
+{epcoritamab}
+
+Table 96: Model-Predicted Epcoritamab Tmax Over Time Following Proposed Dosage
+Regimen in Patients with PK Data
+
+First Step-Up |Second Step-Up] First full | Second full | Week 12 | Week 13
+Dose (0.16 mg; | Dose (0.8 mg; | 48mg dose | 48 mg dose | 48 mg full | 48 mg full
+
+Parameter | Statistic Week 1) Week 2) (Week 3) | (Week 4) dose dose
+Tmax (days) [Median 5.0 47 41 3.0 23 23
+Min, Max 0.3, 7.0 0.3, 7.0 0.3, 7.0 03,7.0 | 03,33 | 03,32
+
+Data shown for simulation of proposed epcoritamab dosing (i.e., 0.16/0.8/48 mg then 48 mg QW in Cycles 1 to 3,
+48 mg Q2W in Cycles 4 to 9, and 48 mg Q4W in Cycle 10 and beyond) in 327 patients from GCT3013-01 and
+GCT3013-04 with quantifiable PK concentration data. 1 cycle = 28 days.
+
+F = absolute bioavailability following subcutaneous administration.
+
+Source: Reviewer analysis of Applicant’s dataset
+
+Table 97: Timing of PK Samples Included in PPK Analysis
+
+Number of PK Samples in the PPK Analysis
+GCT3013-01 GCT3013-01
+
+Time After Last Dose dose escalation expansion GCT3013-04 TOTAL
+<12 hours 428 2255 205 2888
+12 to <24 hours 31 204 66 301
+1 to <2 days 16 27 18 61
+2 to <3 days 61 27 15 103
+3 to <4 days 18 5 19 42
+4 to <5 days 5 10 17 32
+5 to <6 days 13 59 26 98
+6 to <7 days 92 1063 346 1501
+7 days or more 328 1164 301 1793
+
+Note: data shown for quantifiable PK samples included in the PPK analysis. PK samples below the LLOQ were not
+included as input in the PPK analysis.
+Source: Reviewer's analysis of Applicant’s PPK dataset (“nonmemdatafinal.xpt”)
+
+The final epcoritamab model used a quasi-steady-state approximation of a target-mediated
+drug disposition model structure (Gibiansky et al. 2008). Elimination half-life is summarized in
+Table 98. Total apparent clearance (CL/F) was equal to the sum of target-mediated CL/F and
+target-independent CL/F. Median total CL/F decreases as epcoritamab concentrations increase
+over time, as shown in Figure 23. The geometric mean (CV%) apparent total clearance is
+
+3.34 L/day (102%) at the first full treatment dose and 0.53 L/day (39.7%) at the 11th full dose.
+Median target-mediated CL/F was between 85 to 90% of total CL/F during administration of the
+proposed priming dose, intermediate dose, and first full dose. By Week 12, target-mediated
+CL/F was <15% of total CL/F.
+
+278
+Version date: June 2022 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5176690

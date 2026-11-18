@@ -1,0 +1,44 @@
+BLA 761184
+Ngenla (somatrogon)
+
+Parameter Description Estimate (RSE)
+Percent decrease in CL for subjects with titer =
+deesper >x6250 dilution factor UGE21 (12%)
+ECL Between-subject variability for CL 0.2206 (11%)
+EV2 Between-subject variability for V2 0.6754 (16%)
+EKA Between-subject variability for Ka 0 (fixed)
+EPROP Between-subject variability for PROP. 0.4225 (8%)
+
+Source: Reviewer's independent analysis.
+Abbreviations: PopPK, population pharmacokinetics; RSE, relative standard error
+
+Figure 40. GOF Plots
+
+PRED(ngimL)
+
+IPRED(ngimL)
+
+10" 10° 40 10? 10° 107 10°
+
+IWRES
+
+10' 10° 10° 0 60 100 160 0 60 100 160
+
+10" 10° 10' 107 10° 10" 10°
+PRED(ngimL) Time after last dose (h)
+
+Source: Reviewer's independent analysis.
+Abbreviations: GOF, goodness-offit
+
+14,3.1.4.5. Model-Predicted PK parameters
+
+The reviewer’s final PopPK model parameters were used to derive individual PK parameters (at
+baseline body weight) which were subsequently used to simulate somatrogon concentration-time
+profile at steady state (assuming no change in body weight). The profiles were analyzed to obtain
+AUC and Cyax at steady state. Table 82 summarizes central tendency and ranges of the selected
+
+PK parameters at steady state.
+
+146
+
+Reference ID: 4924352

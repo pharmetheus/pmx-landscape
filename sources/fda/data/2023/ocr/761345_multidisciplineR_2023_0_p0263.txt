@@ -1,0 +1,63 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {BLA 761345}
+elranatamab
+
+Table 84: Applicant — QSP Model Analysis
+
+recommended
+regimen and the
+reduction of the
+dosing interval to 76
+mg Q2W after 24
+weeks for
+participants who
+have achieved a
+response.
+
+Labeling Language Description Acceptability
+[FDA’s comments]
+
+12.2 Pharmacodynamics
+
+Table 85: Applicant — Parameters Varied to Generate PP
+
+Parameter Definition Units Default Value VPop range determined
+Name by LSA
+CD3_density Density of CD3 Receptor/cell 6x10" 425%
+receptors on T cell
+Beta_resis Rate of resistance | 1/hr. 01 +2 fold
+
+maximal effect on
+trimer kill 1Cso due
+to weakened T cell
+activation
+Alpha_resis Maximal effect of | Hr. 05 #2 fold
+resistance on
+trimer kill ICso due
+to weakened T cell
+activation
+BCMA_density Density of BCMA Receptor/cell 1.259x10* 425%
+receptors on
+tumor cell
+K_gO Exponential-phase | 1/hr. 3.32x10* +10 fold
+tumor growth rate
+K_g1 Linear-phase Cells/hr. 15000 +10 fold
+tumor growth rate
+Tau_mm Transit time hr. 27 24-30
+between tumor
+cell death
+compartments
+Alpha_kill Trimer tumor kill 1/hr. 0.02 +10 fold
+rate constant
+N_kill Trimer tumor kill Unitless 0.8 0.5-1.5
+rate hill coefficient
+
+Each parameter was independently sampled from the ranges using uniform distributions. Ranges were
+assessed using local sensitivity analysis (LSA), which was iteratively applied for the upper and lower parameter
+bounds that preserved the local sensitivity metric for the listed subset of sensitive of model parameters.
+
+264
+Version date: January 2020 (ALL NDA/ BLA reviews)
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5226136

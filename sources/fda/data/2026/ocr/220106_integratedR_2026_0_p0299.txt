@@ -1,0 +1,50 @@
+PO dose
+
+Fy & Lag (tablet o
+
+Peripheral
+
+Reference: Population PK Report: PVT-2201-301-PPK-1; Figure
+9; Page no. 49
+
+The models included covariate effects of body weight on
+clearance (CL), central volume (Vc), peripheral volume (Vp),
+and race (Asian vs. others) on CL.
+
+The models included covariate effects of DM indication on
+CL/F, dose (>100mg), high-fat meal on the relative
+bioavailability, Dose (>100mg) and high-fat meal on Ka, and
+body weight on Vc/F.
+
+Model Parameter
+Estimates
+
+See Table 34 and Table 35
+
+Uncertainty and
+Variability (RSE, IIV,
+Shrinkage, Bootstrap)
+
+See Table 34 and Table 35
+
+BLQ for Parameter
+Accuracy
+
+All BLQ observations were excluded from popPK analysis.
+
+Labeling Language
+
+Description
+
+12.3 PK
+
+Specific Populations
+
+Body weight (39-204 kg), sex, age (18-77 years) and race
+(White, Black, Asian, Native American, Pacific Islander, Other
+Race) did not have a clinically meaningful effect on
+brepocitinib exposure in adult patient populations.
+
+Reference ID: 5859282
+
+33

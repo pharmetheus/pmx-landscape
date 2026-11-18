@@ -1,0 +1,52 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 215833}
+{Tradename / lutetium (177Lu) vipivotide tetraxetan}
+
+radioactivity-blood PK of decay-corrected [177Lu]Lu-PSMA-617. Next, a full model was
+constructed by incorporating covariate-parameter relationships with Pearson correlation
+coefficient 2 0.3 between post-hocrandom effect and covariate. The investigated covariates of
+interest include age, weight, CrCIBL and BMI at baseline. A three-compartment model with a
+delayed 0-order absorption and linear elimination adequately described the radioactivity-blood
+PK data. Baseline creatinine clearance (CrCIBL) had a statistically significant impact on clearance
+(Cl), with a decrease of CrCIBL by 40%, such as a decrease from 101.5 mL/min to 60.9 mL/min,
+leading to an average decrease of Cl by 21%. Baseline weight (WTBL) had a statistically
+significant impact on the central volume of distribution (V1), with a decrease of WTBL by 23%,
+such as a decrease from 88.5 kg to 68.1 kg, leading to an average decrease of V1 by 18%. The
+parameter estimates of the final model are presented in Table . The model was further
+assessed by diagnostic and performance plots (see Figure 1).
+
+Table 44.Parameter Estimates from the Final PopPK Model.
+
+Fixed effect lIlV
+Parameter (Unit) Estimate SE RSE (%) CV Estimate SE RSE (%|
+(%) (SD)
+Tlag (h) 0.01 0.006 48 291 1.50 0.35 23
+TkO (h) 0.06 0.03 54 264 1.44 0.36 25
+Cl (Lh) 2.50 0.11 4 22 0.22 0.03 14
+CrCle. effect on Cl 0.46 0,10 22 NA NA NA NA
+V; (L) 11.53 1.16 10 42 0.40 0.06 15
+WTx: effect on V; 0.75 0.33 45 NA NA NA NA
+Q: (Lh) 0.52 0.07 13 80 0.70 0.10 14
+V2 (L) 29.34 442 15 93 0.79 0.11 14
+Qs (Lh) 12.00 2.11 18 0 OFIX NA NA
+V3 (L) 11.51 0.67 6 0 0 FIX NA NA
+Correlation parameters
+Correlation CI/V, 0.84 0.08 10 NA
+Correlation Q2/V2 0.86 0.05 6 NA
+Residual error model parameter
+Proportional error (%) 13.96 1 t NA
+| CrClg,: baseline creatinine clearance; CV: coefficient of variation; IV: inter-individual variability; NA:
+not applicable; RSE: relative standard error; SD: standard deviation; SE: standard error; WTau:
+baseline weight; 0 FIX: fixed variability to 0.
+CV (%) was calculated using eS?” — 1- 100%
+SD corresponds to the estimated omega from Monolix. Covariates were normalized by the weighted
+mean value and log-transformed. The weighted mean for WTa. and CrClg,, calculated by Monolix,
+were 88.5 kq and 101.5 mL/min, respectively.
+Source: Table 7-6 in the PopPK report.
+
+200
+Version date: January 2020 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 4957011

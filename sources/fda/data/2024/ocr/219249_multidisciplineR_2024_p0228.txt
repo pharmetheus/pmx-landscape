@@ -1,0 +1,39 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 219249}
+
+{Inavolisib}
+AUC 2h von
+woe ¢, Cis Palbociclib
+Pharmacokinetic | Indjax ECs ng/mL.H | Tax (h) (ng/ml) (ng/ml) model
+parameters )
+Observed NA NA 1650 8.00 97.0 48.3
+7.87 0.66 0.92 0.68 0.85 0.84
+Toy 7.87 | 130% | 0.85 0.67 0.79 0.77 _| Applicant’s
+observed
+7.87 40% 0.82 0.67 0.77 0.73
+7.87 0.66 1.31 0.72 1.16 1.26
+Reviewer's
+7.87 v 40% 1.13 0.7 1.03 1.06
+
+J, reduced; Indmax, the maximum fold induction, and ECso, the concentration that gives half maximal fold induction; TDI, time-dependent
+inhibition parameters; NA, not applicable.
+Source: Table 5 in GO39374 interim CSR, sim-output-figureS.xlsx, and reviewer's analysis
+
+Table 56: Sensitivity analyses of inavolisib CYP3A induction parameters* on midazolam interaction
+
+Hepatocytes Inavolisib induction parameters Geometric mean ratios of midazolam
+Inde EC. AUG sr Coax
+Lot FOS 7.87 0.66 0.63 0.72
+ame 30% 0.55 0.65
+hn vy 40% 0.51 0.61
+
+VL, reduced; ©, unchanged; Indmax, the maximum fold induction, and ECso, the concentration that gives half maximal fold induction. *All
+simulations were performed without the CYP3A time-dependent inhibition parameters of inavolisib
+Source: reviewer's analysis
+
+227
+Version date: June 2022 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5460147

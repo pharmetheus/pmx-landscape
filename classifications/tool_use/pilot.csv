@@ -1,0 +1,2 @@
+"version","run","reader","requests","compared","agree","kappa","alpha","cost_usd","input_tokens","cache_read_tokens","output_tokens","problems"
+"5","msgbatch_019YBFiiRjnr3NYbG4hpQieH","claude-sonnet-5-5",100,112,111,0.9618,0.962,0.3169,251502,149886,9479,4

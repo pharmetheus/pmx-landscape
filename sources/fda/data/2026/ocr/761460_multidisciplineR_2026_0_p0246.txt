@@ -1,0 +1,47 @@
+NDA/BLA Multi-disciplinary Review and Evaluation - BLA 761460
+Pivekimab Sunirine IMGN632)
+
+19.4.3 Population PK Analysis
+
+19.4.3.1 Executive Summary
+The FDA's Assessment:
+
+A population PK model was developed to characterize pivekimab sunirine PK, including
+conjugated drug (ADC), total antibody (TAb), and free payload. A 2-compartment model with a
+dose-dependent clearance reasonably described ADC PK data at the population PK level but
+could not reliably assess covariate impact and failed to adequately describe payload PK data.
+
+For the ADC, the relatively short half-life resulted in limited quantifiable PK samples, with 3-4
+samples per subject in the elimination phase and high percentage of BLQ observations at later
+time points. This sparse sampling limited the ability to: 1) estimate individual distribution
+parameters (i.e., Q and Vp), which were fixed at low inter-individual variability ( {3% CV); and
+2) identify covariates explaining inter-individual variability. Consequently, substantial
+unexplained inter-patient PK variability remains (CV ~100% for clearance), likely reflecting
+both true clearance variability and variability in distribution parameters that could not be
+individually estimated.
+
+For the total antibody, while PK data were included in the model, they provided limited
+additional information due to high correlation with ADC. However, evaluation of TAb data
+identified a subset of anomalous observations with unexplained disparities from ADC, which
+were further investigated (refer to Section 6).
+
+For the free payload, the model could not adequately describe the PK due to high percentage of
+BLQ across all time points post-dose. Therefore, assessment of organ impairment effects or DDI
+effects on payload exposure is not considered reliable.
+
+Overall, the population PK analysis characterized ADC exposure and quantified inter-patient
+variability but lacked sufficient power to identify patient-specific factors that would support dose
+individualization beyond the proposed regimen. The recommended dosing is therefore primarily
+supported by clinical efficacy and safety data, which demonstrate an acceptable benefit-risk
+profile across the range of exposures observed in the study population.
+
+19.4.2.2 PPK Assessment Summary
+The Applicant's Position:
+
+245
+Version date: February 10, 2025 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as "Data" and "The Applicant's Position" are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5805215

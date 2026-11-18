@@ -1,0 +1,43 @@
+IND # 120784
+
+Reviewer: Matthew Whittaker, Ph.D.
+
+Table 4. Summary of available relevant ADME data in humans, rats, and hamsters. ND = not determined.
+
+Human Sprague Dawley Rat Syrian Hamster
+Study # Result Study # Result Study # Result
+ABSORPTION
+Oral bioavailability | CL004_168 93.7%" PC0365_168 30 mg/kg: 104% ND ND
+(single dose, 100 100 mg/kg: 55%
+mg [#C]CCX168)
+DISTRIBUTION
+Plasma protein | PC0632_168 >99.9% protein bound | PC0632_168 >99.9% protein bound | PC0632_168 | >99.9% protein bound
+binding
+Whole body | ND ND PC0641_168 (single | Extensive distribution | ND ND
+autoradiography dose, 15 mg/kg to tissues
+[4c]ocx168)
+METABOLISM
+In vitro metabolite | PC0623_168 % total radioactivity PC0623_168 % total radioactivity PC0623_168 | % total radioactivity
+characterization | (GHJCCX168 in | CCX168: 39.9% (PHICCX168 in CCX168: 16.9% (PHICCX168 | CCX168: 37.3%
+liver microsomes) | CCX168-M1: 17.6% | liver microsomes) CCX168-M1: 20.4% | in liver CCX168-M1: 6.8%
+microsomes)
+In vivo metabolite | CL004_168 Plasma metabolites ND ND ND ND
+characterization | (single dose, 100 (% total radioactivity)
+mg [4C]CCX168) | CCX168: 18%
+CCX168-M1: 11.9%
+In vivo CCX168 & | CL002_168 (12 Systemic Exposure PC0655_168 (26 Systemic Exposure PC0677_168 | Systemic Exposure
+CCX168-M1 | weeks, 30 mg CCX168-M1: 21.9% | wk tox study) CCX168-M1: 2.9— (13 wk tox CCX168-M1: 5.5%-
+quantitation | BID) of CCX168 (based on 15.2% of CCX168 study) 8.3% of CCX168
+AUCo. 0n day 1) (based on AUCo.24 at (based on AUCo.24 at wk
+wk 26) 13)
+ELIMINATION
+Mass balance study | CL004_168 Feces: 77.2% PC0641_168 (single | Feces: 94.4% ND ND
+(single dose, 100 | Urine: 9.5% dose, 15 mg/kg Urine: 1.9%
+mg [4C]CCX168) [4c]ecx168)
+
+* Sponsor’s estimated value. No IV group included for calculation of oral bioavailability
+
+Reference ID: 4179988
+Reference ID: 4758448
+
+14

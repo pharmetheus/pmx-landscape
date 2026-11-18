@@ -1,0 +1,49 @@
+Table 7. Inhibitory Activity of Ensitrelvir on Transporters
+
+Transporter | Cell System Ensitrelvir ICso Ratio and Cutoff Value* | Necessity of
+Concentration (uM) Value’ clinical DDI
+Range (uM) study
+P-gp Caco-2 0.3-250 11.5 Tut /ICsou > 10 245 | Yes
+|BCRP Caco-2 0.3-250 8.71 Tut /ICson > 10 324 | Yes
+OATPIB1 HEK293 0.3-250 13.2 [x/ICs0x > 0.1 0.12 Yes
+OATP1B3 HEK293 0.3-250 3.51 []e/ICs02 > 0.1 0.45 Yes
+OATI1 HEK293 0.3-250 ATT CmaxwICson > 0.1 0.03 No
+OAT3 HEK293 0.3-250 8.37 CmacwICson > 0.1 0.14 Yes
+OcTL HEK293 0.3-250 7.24 1+ [Tn/ICson 21.04 1.218 Yes
+ocT2 HEK293 0.3-250 202 CmaxwICsou 2 0.1 0.01 No
+MATE1 HEK293 0.3-250 82.3 Coax./ICsou = 0.02 0.01 No
+MATE2-K HEK293 0.3-250 >250 Crnax.v/ICs0u = 0.02 0.00 No
+
+Source, Pharmacokinetic Tabulated Summary 2.6.5.15.3 and 2.6.5.15.4, 2.6.4 Pharmacokinetic Written Summary
+
+Table 23, Study report S-217622-PF-107-N, Study report S-217622-PF-006-N
+
+* Per ICH M12 guidelines May 2024 (except OCT1, which follows EMA criterion as ICH M12 does not specify):
+when criteria are met, transporter inhibition risk cannot be ruled out based on in vitro data.
+
+* Calculations combined in vitro study results and Cmax (Day 5 of clinical dosing 375 mg/125 mg) and plasma
+
+unbound binding; I= maximum expected concentration in the intestinal lumen (dose/250 mL); [I],= 1.58 ,.M, the
+
+maximal unbound concentration in portal vein.
+
+4.2. Bioanalytical Method Report
+
+Ensitrelvir concentrations in human plasma samples from clinical trials were determined using
+validated LC-MS/MS bioanalytical methods at four testing facilities during clinical development.
+A summary of method validation data that supported ensitrelvir plasma drug concentration
+bioanalysis in the clinical studies for the PK purpose is provided in Table 8. Two cross-
+validations were conducted and the results confirmed the consistency and comparability of the
+data generated with methods S-217622- CB 017-N at Shionogi & Co., Ltd., S- 2176225 CF- 108-N
+at @ and S-217622-CF-088-N at
+
+. Bioanalytical method validations for determination of ensitrelvir in human urine are
+reviewed and deemed acceptable (Table 9). The in-study sample analyses satisfied the
+acceptance criteria and are acceptable (Table 10, Table 11).
+
+Bioanalytical method validations for concomitant medications used in drug interaction studies
+were also reviewed and deemed acceptable for their intended purposes.
+
+25
+
+Reference ID: 5781160

@@ -1,0 +1,29 @@
+"route","source","value","papers"
+"term","Europe PMC (full text)","no text",0
+"term","PubMed (title/abstract)","no text",2
+"term","Europe PMC (full text)","not_own_fit",1099
+"term","PubMed (title/abstract)","not_own_fit",2353
+"term","Europe PMC (full text)","outside_field",154
+"term","PubMed (title/abstract)","outside_field",328
+"term","Europe PMC (full text)","own_fit",2825
+"term","PubMed (title/abstract)","own_fit",5911
+"term","Europe PMC (full text)","unclear",7
+"term","PubMed (title/abstract)","unclear",220
+"tool","Europe PMC (full text)","not_own_fit",735
+"tool","PubMed (title/abstract)","not_own_fit",169
+"tool","Europe PMC (full text)","outside_field",369
+"tool","PubMed (title/abstract)","outside_field",231
+"tool","Europe PMC (full text)","own_fit",3695
+"tool","PubMed (title/abstract)","own_fit",1815
+"tool","Europe PMC (full text)","unclear",18
+"tool","PubMed (title/abstract)","unclear",30
+"both","Europe PMC (full text)","no text",0
+"both","PubMed (title/abstract)","no text",2
+"both","Europe PMC (full text)","not_own_fit",1536
+"both","PubMed (title/abstract)","not_own_fit",2399
+"both","Europe PMC (full text)","outside_field",486
+"both","PubMed (title/abstract)","outside_field",547
+"both","Europe PMC (full text)","own_fit",4072
+"both","PubMed (title/abstract)","own_fit",6134
+"both","Europe PMC (full text)","unclear",25
+"both","PubMed (title/abstract)","unclear",239

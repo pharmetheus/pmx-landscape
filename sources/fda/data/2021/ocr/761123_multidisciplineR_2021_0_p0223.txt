@@ -1,0 +1,54 @@
+BLA # 761123 Reviewer: Xiaochun Chen, PhD
+
+assessment, which included a request by email on 01/12/2021 to Dr. Paul Brown of the
+Office of New Drug Immediate Office for an evaluation of the EPC text phrase, also
+determined that,
+
+> It may be best to not include 9 in the EPC so the term focuses on the
+
+pharmacology rather than ;
+oO
+
+Since anifrolumab is binding to the IFNAR1 receptor and preventing
+activity there, it is more appropriate to be classified as an antagonist.
+
+Therefore, “type | IFN receptor antagonist” is recommended as the EPC for
+SAPHNELO.
+
+8.1 Pregnancy and 8.2 Lactation
+
+General edits were made to Sections 8.1 and 8.2 to remove unnecessary text. The post
+marketing requirement (PMR) for pregnancy and lactation, including Pregnancy
+Registry was recommended by the Division of Pediatrics and Maternal Health (DPMH)
+on 5/24/2021. The Applicant agreed with the recommendations on 07/26/2021 (SDN
+47). The language for Pregnancy Exposure Registry was added to Section 8.1 (not
+shown in this review because it is not relevant to nonclinical labeling text).
+
+For Risk Summary in Section 8.1, the Applicant estimated that the exposures in
+pregnant monkeys without maternal and developmental toxicity was up to approximately
+
+| times the exposure at the MRHD on an AUC basis. Since the AUCp-14q for the
+NOAEL of 60 mg/kg once every 2 weeks was 20900 yg.d/mL, and the highest mean
+AUCo.28a in patients with SLE receiving repeat IV dosing of 300 mg anifrolumab-fnia
+(once every 4 weeks for 52 weeks) was 1472 yg.d/mL between Weeks 48 to 52 for low
+Type 1 IFN gene signature subjects, the safety margin was calculated to be 28 (=
+20900 x 2/1472). A factor of 2 is applied to match the duration of AUC values before the
+comparison, i.e., 14 days vs. 28 days.
+
+For Animal Data in Section 8.1, language was added to indicate that there is no
+anifrolumab-fnia related effect on T-cell-dependent antibody response in the infants up
+to Day 180 after birth. Additional language was added to indicate the potential of
+placenta transfer of anifrolumab-fnia based on the detection of anifrolumab-fnia in the
+serum of neonates up to one month after birth.
+
+For Risk Summary in Section 8.2, additional standard language was added. Although
+anifrolumab-fnia was detected in the milk of female cynomolgus monkeys, we added
+that “due to species-species differences in lactation physiology, animal data may not
+reliably predict drug levels in humans”.
+
+11 DESCRIPTION
+
+Revisions to the first paragraph of Section 11 were made by nonclinical. The term “type
+| IFN receptor antagonist” was used to be consistent with the recommend EPC text
+
+Reference ID: 4832794

@@ -1,0 +1,5968 @@
+CENTER FOR DRUG EVALUATION AND
+RESEARCH
+APPLICATION NUMBER:
+
+216578Orig1s000
+CLINICAL PHARMACOLOGY
+REVIEW(S)
+
+Office of Clinical Pharmacology Review
+
+NDA Number
+
+216578
+
+Link to EDR
+
+\\Cdsesub1\evsprod\NDA216578
+
+Submission Date
+
+06/22/2022
+
+Submission Type
+
+Priority
+
+[SN 0001, 0009, 0011, 0017, 0019, 0026, 0031, 0036]
+
+Brand Name
+
+(b) (4)
+
+Generic Name
+
+Fezolinetant
+
+Dosage Form and Strength
+
+Film-coated tablet contains 45 mg fezolinetant
+
+Dosage and Administration
+
+One 45 mg tablet once daily with or without food
+
+Proposed Indication
+
+For the treatment
+of moderate and severe vasomotor symptoms
+(VMS) associated with menopause.
+
+Applicant
+
+Astellas Pharma Inc.
+
+Associated IND
+
+IND 130277
+
+OCP Review Team
+
+Lin Zhou, Ph.D.
+Yaning Sun, Ph.D.
+Junshan Qiu, Ph.D.
+Jingyu (Jerry) Yu, Ph.D.
+Manuela Grimstein, Ph.D.
+Yuching Yang, Ph.D.
+Yanhui Lu, Ph.D.
+Shirley Seo, Ph.D.
+Division Director
+Division of Cardiometabolic and Endocrine Pharmacology
+
+OCP Final Signatory
+
+®
+
+(b) (4)
+
+1
+
+Reference ID: 5083095
+
+Table of Contents
+1. EXECUTIVE SUMMARY .............................................................................................................................. 3
+1.1 Post-Marketing Requirements and Commitments ............................................................................. 4
+2. SUMMARY OF CLINICAL PHARMACOLOGY ASSESSMENT......................................................................... 4
+2.1 Pharmacology and Clinical Pharmacokinetics..................................................................................... 4
+Effect of Food ........................................................................................................................................ 4
+2.2 Dosing and Therapeutic Individualization........................................................................................... 5
+2.2.1 General dosing ............................................................................................................................. 5
+2.2.2 Therapeutic individualization....................................................................................................... 5
+2.3 Outstanding Issues .............................................................................................................................. 6
+2.4 Summary of Labeling Recommendations ........................................................................................... 7
+3. COMPREHENSIVE CLINICAL PHARMACOLOGY REVIEW ............................................................................ 8
+3.1 Overview of the Product and Regulatory Background ....................................................................... 8
+3.2 General Pharmacology and Pharmacokinetic Characteristics ............................................................ 9
+3.3 Clinical Pharmacology Review Questions ......................................................................................... 11
+3.3.1 To what extent does the available clinical pharmacology information provide pivotal or
+supportive evidence of effectiveness? ............................................................................................... 11
+3.3.2 Is the proposed dosing regimen appropriate for the general patient population for which the
+indication is being sought? ................................................................................................................. 13
+3.3.3 Is an alternative dosing regimen and/or management strategy required for subpopulations
+based on intrinsic factors? .................................................................................................................. 13
+3.3.4 Are there clinically relevant food-drug or drug-drug interactions and what is the appropriate
+management strategy? ....................................................................................................................... 16
+4. APPENDICES ............................................................................................................................................ 18
+4.1 Summary of Bioanalytical Method Validation and Performance ................................................. 18
+4.2 Clinical vs. To-be-marketed Formulations ................................................................................... 22
+4.3 Clinical PK and/or PD studies ........................................................................................................ 29
+4.4. Physiologically based Pharmacokinetic Modeling and Simulation Review ..................................... 86
+4.5 Pharmacometrics Review ................................................................................................................. 93
+
+2
+
+Reference ID: 5083095
+
+1. EXECUTIVE SUMMARY
+Fezolinetant is a nonhormonal selective NK3 receptor antagonist. It blocks neurokinin B (NKB) binding
+on the kisspeptin/neurokinin B/dynorphin (KNDy) neuron to modulate neuronal activity in the
+thermoregulatory center. The proposed indication is treatment of moderate or severe vasomotor
+symptoms associated with menopause. The recommended dose of fezolinetant for the general intended
+population is one 45 mg tablet once daily with or without food. Fezolinetant is considered as a new
+molecular entity (NME) in the US.
+The Office of Clinical Pharmacology, Division of Cardiometabolic and Endocrine Pharmacology, has
+reviewed the information contained in NDA 216578 and recommends approval of this NDA pending
+successful labeling negotiation. The key review issues with specific recommendations and/or comments
+are summarized below:
+Review Issue
+Pivotal or supportive
+evidence of
+effectiveness
+General dosing
+instructions
+Dosing in patient
+subgroups (intrinsic and
+extrinsic factors)
+
+Recommendations and Comments
+•
+
+Two pivotal Phase III studies (Study 2693-CL-0301 and 2693-CL0302) demonstrated the safety and efficacy of fezolinetant for the
+proposed indication of treatment of moderate or severe
+vasomotor symptoms associated with menopause.
+
+The recommended dosing regimen is one 45 mg tablet once daily with or
+without food.
+•
+
+•
+•
+
+No dosage adjustment for fezolinetant is recommended for
+patients with mild or moderate renal impairment (eGFR 30 to <
+90 ml/min/1.73 m2). Avoid use in patients with severe renal
+impairment (eGFR 15 to <30 ml/min/1.73 m2) or end-stage renal
+disease (eGFR < 15 mL/min/1.73 m2) with or without
+hemodialysis.
+Avoid use in patients with mild, moderate or severe hepatic
+impairment (Child-Pugh A, B or C).
+Avoid use in patients with concomitant use of any CYP1A2
+inhibitors.
+
+Bridge between the tobe-marketed and clinical
+trial formulations
+
+Two minor adjustments were conducted in the formulation development
+from the phase 3 to the to-be marketed tablet, quantitative adjustments
+(b) (4)
+for three ingredients in the
+tablet and modification of tablet color
+shade. The two formulations are bridged based on a bioequivalence (BE)
+study.
+
+Labeling
+
+Pending negotiation with the applicant. Our edits to the applicant’s
+proposed labeling are consistent with guidance “Clinical Pharmacology
+Section of Labeling for Human Prescription Drug and Biological Products –
+Content and Format”
+
+3
+
+Reference ID: 5083095
+
+1.1 Post-Marketing Requirements and Commitments
+None.
+
+2. SUMMARY OF CLINICAL PHARMACOLOGY ASSESSMENT
+2.1 Pharmacology and Clinical Pharmacokinetics
+Fezolinetant is a nonhormonal selective NK3 receptor antagonist that blocks neurokinin B (NKB) binding
+on the kisspeptin/neurokinin B/dynorphin (KNDy) neuron to modulate neuronal activity in the
+thermoregulatory center.
+In healthy women, fezolinetant Cmax and AUC increased proportionally over a dosage range from 20 and
+60 mg once daily (0.44 to 1.33 times the approved recommended dosage). Steady-state plasma
+concentrations of fezolinetant were reached after two once-daily doses, with minimal fezolinetant
+accumulation.
+Absorption
+The median (range) time to reach fezolinetant Cmax is 1.5 (1 to 4) hours in healthy women.
+Effect of Food
+No clinically meaningful differences in fezolinetant pharmacokinetics were observed following
+administration with a high-calorie, high-fat meal.
+Distribution
+The mean apparent volume of distribution (Vz/F) of fezolinetant is 189 L. The plasma protein binding of
+fezolinetant is 51%. The blood-to-plasma ratio is 0.9.
+Elimination
+The apparent clearance at steady state of fezolinetant is 10.8 L/h. The mean terminal elimination half-life
+(t1/2) of fezolinetant is 13.1 hours in healthy women. The effective half-life for a typical subject (70 kg,
+white, non-smoking female) is 9.6 hours.
+Metabolism
+Fezolinetant is primarily metabolized by CYP1A2 in humans to oxidized major metabolite ES259564.
+ES259564 is approximately 20-fold less potent against human NK3 receptor. The metabolite-to-parent
+ratio ranges from 0.7 to 1.8.
+Excretion
+Following oral administration, fezolinetant is mainly eliminated in urine (76.9%) and to a lesser extent in
+feces (14.7%). In urine, a mean of 1.1% of the administered fezolinetant dose was excreted unchanged
+and 61.7% of the administered dose was excreted as ES259564. In feces, about 0.1% of the administered
+fezolinetant dose was excreted unchanged and 14.6% of the administered dose was excreted as
+ES259564.
+
+4
+
+Reference ID: 5083095
+
+2.2 Dosing and Therapeutic Individualization
+2.2.1 General dosing
+The proposed dosing regimen of 45 mg tablet once daily was selected based on two successful Phase 3
+studies using this regimen. Exposure-response analyses for efficacy and safety provided supportive
+evidence for approving 45 mg once daily.
+2.2.2 Therapeutic individualization
+Renal Impairment:
+In a dedicated renal impairment study (Study 0008), after a 30 mg oral dose of fezolinetant, subjects
+with mild, moderate, and severe renal impairment had mean fezolinetant exposures (AUClast) that were
+29%, 31%, and 11% lower, respectively, compared to healthy, matched control subjects. The mean peak
+fezolinetant exposures (Cmax) in subjects with mild, moderate, and severe renal impairment were
+comparable to the healthy matched control subjects. Mean exposures of the major metabolite
+(ES259564) in subjects with mild, moderate, and severe renal impairment were 3%, 77% and 379%
+higher for AUClast, respectively, and 13%, 75% and 131% higher for Cmax as compared to healthy,
+matched control subjects.
+In the population PK analysis, eGFR was not a significant covariate on the PK of fezolinetant. The mean
+(CV%) of population PK model predicted steady-state AUCs (ng.hr/mL) were 4159 (45.4%), 4097 (41.8%),
+and 4061 (36.6%) for subjects with normal, mildly impaired, and moderately impaired renal functions
+after 45 mg once daily dosing.
+Despite lower exposure in patients with mild (19.2% decrease in AUClast) or moderate renal
+impairment (31.2% decrease in AUClast) in the dedicated renal impairment study, the population PK
+model-predicted exposure in patients with mild or moderate renal impairment had comparable
+exposure to patients with normal renal function; hence, no dose adjustment is recommended for mild
+or moderate renal impairment.
+The use of fezolinetant is not recommended in patients with severe renal impairment because the
+exposure of the major metabolite (ES259564) in this subpopulation increased by ~4 fold compared to
+patients with normal renal function and the safety of the metabolite at this exposure level has not been
+assessed in any long-term clinical study.
+There is no data to support the use of fezolinetant in patients with end-stage renal disease.
+Hepatic Impairment:
+In a dedicated hepatic impairment study (Study 0007), after a 30 mg oral dose of fezolinetant, patients
+with mild and moderate hepatic impairment had mean fezolinetant total exposures (AUCinf) 56% and
+96% higher, respectively, than the healthy matched control subjects. The mean peak fezolinetant
+
+5
+
+Reference ID: 5083095
+
+exposures (Cmax) in mild and moderate hepatic impairment patients were 23% higher and 15% lower,
+respective, than the healthy matched control subjects.
+The use of 45 mg once daily fezolinetant is not recommended because 1) there was a 56% increase in
+AUCinf in the mild hepatic impairment group which may not be fully explained by high PK variability; 2)
+no phase 3 data is available for patients with mild hepatic impairment; 3) patients with mild hepatic
+impairment may have increased risk for liver toxicity; and 4) no safety information for doses above 45
+mg for chronic use is available.
+We recommend avoiding use in patients with moderate hepatic impairment because 1) exposure in
+patients with moderate hepatic impairment increased by ~100% compared to healthy matched controls
+and we do not have a mitigation strategy (e.g., lowering the dose that would match 45 mg exposures);
+2) no phase 3 data is available for patients with moderate hepatic impairment; and 3) patients with
+chronic liver impairment may have increased risk for transaminase increase (i.e., ALT/AST >3XULN)
+based on exposure-response analysis for safety
+We recommend avoiding use in patients with severe hepatic impairment because there is no data
+available in this population.
+Drug-Drug Interaction (DDI):
+In a dedicated DDI study (Study 0006), concomitant administration of fluvoxamine (a strong CYP1A2
+inhibitor) increased fezolinetant Cmax and AUC by ~100% and ~850%, respectively.
+Using a physiological based pharmacokinetic (PBPK) modeling and simulation approach, concomitant
+use of a weak CYP1A2 inhibitor is predicted to increase fezolinetant AUC by 60 to 100% and concomitant
+use of a moderate CYP1A2 inhibitor is predicted to increase fezolinetant AUC by ~360%.
+In the two pivotal phase 3 studies, a small number of patients (N = 42, n = 22 for 45 mg and n = 20 for 30
+mg) had concomitant use of weak CYP1A2 inhibitors. TEAEs in these subjects were generally mild and
+resolved.
+The concomitant use of 45 mg once daily fezolinetant with mild CYP1A2 inhibitors is not recommended
+for the following reasons,
+1. PBPK modeling and simulation predicted 1.6- to 2-fold increase with concomitant use of weak
+CYP1A2 inhibitors.
+2. Although TEAEs in subjects who received weak CYP1A2 inhibitors were generally mild and
+reversible, the number of subjects is relatively small.
+We recommend avoiding concomitant use of moderate or strong CYP1A2 inhibitors because there was a
+substantial increase in exposure and no clinical data to support its use.
+
+2.3 Outstanding Issues
+None from a clinical pharmacology perspective.
+6
+
+Reference ID: 5083095
+
+2.4 Summary of Labeling Recommendations
+Per guidance “Clinical Pharmacology Section of Labeling for Human Prescription Drug and Biological
+Products – Content and Format”, edits were made to Section 2.1 Recommended Dosage, Section 7 Drug
+Interactions sections, Section 8.6 Renal Impairment, Section 8.7 Hepatic Impairment, Section 12.2
+Pharmacodynamics and Section 12.3 pharmacokinetics.
+
+7
+
+Reference ID: 5083095
+
+3. COMPREHENSIVE CLINICAL PHARMACOLOGY REVIEW
+3.1 Overview of the Product and Regulatory Background
+The Product
+(b) (4)
+The applicant, Astellas Pharma Inc., submitted a New Drug Application (NDA) for
+™ (fezolinetant
+45 mg tablet) for the treatment of moderate or severe vasomotor symptoms associated with
+menopause on June 2nd, 2022.
+Fezolinetant is a nonhormonal, selective NK3 receptor antagonist. By antagonizing NKB/NK3-mediated
+signaling, fezolinetant modulates KNDy neurons’ activity in the thermoregulatory center in the
+hypothalamus to treat moderate to severe VMS associated with menopause.
+The proposed dose of
+™ is one 45 mg tablet once daily with or without food in the general
+population of individuals with moderate to severe VMS associated with menopause.
+(b) (4)
+
+Regulatory History
+IND 130277 was open for fezolinetant on March 28, 2016. Initially, the early clinical development
+program explored the potential for fezolinetant to treat other conditions (96 participants with polycystic
+ovary syndrome or uterine fibroids) but subsequently focused on VMS associated with menopause.
+The Clinical Development Program
+The fezolinetant clinical program is comprised of 18 completed studies: 11 phase 1 studies, 4 phase 2
+studies and 3 phase 3 studies. The 18 completed studies have been conducted globally: North America,
+Europe, and Asia.
+Primary evidence for the efficacy of fezolinetant in the treatment of moderate to severe VMS associated
+with menopause comes from the two pivotal phase 3 studies (studies 2693-CL-0301 and 2693-CL-0302).
+Phase 2 studies ESN364_HF_204 (proof-of-concept) and ESN364_HF_205 (dose finding) provided
+supportive safety data for this application.
+The fezolinetant clinical pharmacology program consisted of 11 Phase 1 studies. The pharmacokinetics
+of fezolinetant were evaluated in healthy male and female adult participants, postmenopausal
+participants with VMS and special populations (participants with mild to moderate hepatic impairment
+and participants with mild to severe renal impairment). The absorption, distribution, metabolism, and
+elimination, including, metabolite profiling, protein binding, inter-and intra-variabilities, and time
+dependency assessment of fezolinetant PK were characterized. Intrinsic factors including age, race,
+gender and body weight, and extrinsic factors including smoking, formulation and food intake were
+assessed in pooled population pharmacokinetic modeling analysis. Drug-drug interactions of
+fezolinetant were evaluated in a combination of in vitro and in vivo studies and further supported by
+PBPK modeling analyses. Food effect and relative bioavailability of different formulations (i.e., capsules
+for Phase 1 and 2, tablets for phase 3, and to-be-marketed tablets) were evaluated in phase 1 studies.
+8
+
+Reference ID: 5083095
+
+Terminal Elimination Half-Life After a single oral dose of 45 mg fezolinetant (To-be-marketed formulation)
+in healthy female subjects in a bioequivalence study (Study 0010), the mean
+(±SD) terminal elimination half-life of fezolinetant is 13.1 (±4.6) hours.
+Effective Elimination Half-Life In VMS patients, the effective half-life of fezolinetant is predicted to be 9.6
+hours for a typical subject (70 kg, white, non-smoking female).
+Metabolism
+Fraction Metabolized (% dose) 90.4% of the drug is metabolized as a percent of the dose.
+Primary Metabolic Pathway(s) Fezolinetant is primarily metabolized by CYP1A2 in humans to oxidized
+major metabolite ES259564 and to a lesser extent by CYP2C9 and CYP2C19.
+Excretion
+Primary Excretion Pathways
+(% dose) ± SD
+
+-
+
+Urine: 76.9% (~1.1% unchanged fezolinetant)
+Feces: 14.7% (~0.1% unchanged fezolinetant)
+
+Interaction liability (Drug as perpetrator)
+Inhibition/Induction of
+Fezolinetant and ES259564 are not inhibitors of human CYP1A2, CYP2B6,
+Metabolism
+CYP2C8, CYP2C9, CYP2C19, CYP2D6, or CYP3A at concentrations up to 25
+µM (approximately 36-fold of therapeutic concentration). Fezolinetant and
+ES259564 did not cause time dependent inhibition of these enzymes.
+Furthermore, fezolinetant and ES259564 do not cause significant induction
+of CYP1A2, CYP2B6 and CYP3A4 at concentrations up to 100 µM
+(approximately 140-fold of therapeutic concentration).
+Inhibition/Induction of
+Transporter Systems
+
+Fezolinetant and ES259564 are not inhibitors of P-gp, BCRP, OATP1B1,
+OAT1, OAT3, OATP1B3, OCT2, MATE1, and MATE2-K at clinically relevant
+concentrations.
+
+3.3 Clinical Pharmacology Review Questions
+3.3.1 To what extent does the available clinical pharmacology information provide
+pivotal or supportive evidence of effectiveness?
+The 45 mg and 30 mg once daily of fezolinetant were selected for pivotal Phase 3 studies (Studies 301
+and 302) primarily based on safety and efficacy results obtained in the Phase 2 dose-finding study (Study
+205).
+In the 12-week placebo-controlled Phase 2 dose-finding study (Study 205), 15, 30, 60, and 90 mg twice
+daily (BID) and 30, 60, and 120 mg once daily (QD) were tested. The co-primary endpoints were mean
+11
+
+Reference ID: 5083095
+
+change in the frequency of moderate to severe VMS from baseline to Week 4 & Week 12 and mean
+change in the severity of moderate to severe VMS from baseline to Week 4 & Week 12.
+All dose groups were significantly different from placebo with respect to mean change in the frequency
+of moderate to severe VMS at both weeks 4 and 12. The improvement in frequency of moderate to
+severe VMS relative to placebo at weeks 4 and 12 was greater than 2, indicative of a clinically relevant
+improvement, for all dose groups except 15 mg BID. In addition, all groups were significantly different
+from placebo with respect to mean change in the severity of moderate to severe VMS from baseline to
+week 4, but only 60 mg BID, 90 mg BID and 60 mg QD demonstrated significance with respect to mean
+change in severity at week 12.
+Based on the phase 2 clinical efficacy and safety results and modeling and simulation analyses, the 30
+mg QD dosing regimen was considered the lowest effective dose. In addition, a 45 mg QD dose, while
+not previously studied, was predicted to increase the probability of achieving efficacy endpoints while
+limiting the risk of potential exposure related transaminase elevations.
+Clinical pharmacology information that supports the proposed dosing regimen of fezolinetant is
+presented below:
+Exposure-response relationship for efficacy
+Exposure-response analyses for efficacy were performed utilizing phase 3 data from Studies 2693-CL0301 and 2693-CL-0302. Models were developed to characterize the relationship between fezolinetant
+exposure and both hot flash frequency and severity. The exposure-response analyses showed that
+fezolinetant exposure was predictive of both the frequency and severity of hot flashes. Although the
+relationship is shallow, increasing fezolinetant exposure is associated with better efficacy, i.e., 45 mg
+had slightly better efficacy than 30 mg. More details can be found in “ER (efficacy) Assessment
+Summary” of Appendix 4.5 Pharmacometrics Review.
+Exposure-response (E-R) relationship for safety
+In a pooled analysis including all pivotal phase 3 data and phase 2 data (from Studies ESN364_HF_204
+and ESN364_HF_205) in subjects with VMS receiving total daily fezolinetant doses ranging from 30 mg
+to 180 mg, a statistically significant relationship between fezolinetant exposure (i.e., total daily dose or
+individual predicted steady-state Cavg) and ALT/AST elevation was identified. The hazard ratio (95% CI)
+for a liver transaminase elevation > 3 x ULN for the population mean fezolinetant concentration
+resulting from a 30 and 45 mg QD dose compared with placebo is 1.293 (1.157, 1.403) and 1.471 (1.245,
+1.663), respectively. The hazard ratios (95% CI) for an ALT or AST elevation > 3 x ULN for baseline ALT
+values of 43 U/L (ULN) and 65 U/L (1.5 x ULN) relative to 18 U/L (the median observed value) were 2.604
+(1.744, 3.530) and 6.044 (2.846, 10.710), respectively. Baseline ALT level was identified as a statistically
+significant and the single greatest predictor of postbaseline liver transaminase elevations in the pooled
+dataset and was included in the final model. More details can be found in “ER (safety) Assessment
+Summary” of Appendix 4.5 Pharmacometrics Review.
+
+12
+
+Reference ID: 5083095
+
+In general, the exposure-response analyses for efficacy showed improved reduction in VMS frequency
+and severity with increasing doses for fezolinetant compared to placebo. The exposure-response
+analyses for safety identified a potential association between fezolinetant exposure and the rate of ALT
+or AST > 3 x ULN when combining the data from the phase 2 and phase 3 studies. Overall, the exposureresponse analyses support the current dose regimen of fezolinetant.
+
+3.3.2 Is the proposed dosing regimen appropriate for the general patient
+population for which the indication is being sought?
+Yes. The proposed dose regimen of 45 mg once daily is supported by clinical efficacy, safety, PK, and PD
+data. The safety and efficacy of fezolinetant 45 mg QD for the treatment of moderate or severe VMS
+with menopause have been demonstrated in the pivotal Phase 3 studies, 2693-CL-0301 and 2693-CL0302. Efficacy evaluations from the two studies consistently demonstrated the superiority of
+fezolinetant 45 mg QD over placebo across all four co-primary efficacy endpoints and clinically
+meaningful reduction in frequency of VMS from baseline. Note: Although both 30 and 45 mg once daily
+met all four co-primary endpoints in the phase 3 studies, the applicant is seeking approval for 45 mg
+once daily only. Fezolinetant 45 mg QD had a more meaningful and more consistent reduction in VMS
+than 30 mg QD. For details of the Phase 3 studies, please see the Medical Officer’s review.
+
+3.3.3 Is an alternative dosing regimen and/or management strategy required for
+subpopulations based on intrinsic factors?
+Yes, we recommend avoiding use of fezolinetant for 1) patients with severe renal impairment or endstage renal disease with or without dialysis and 2) patients with mild, moderate, or severe hepatic
+impairment.
+Dedicated studies were conducted to evaluate impact of renal/hepatic impairment on the PK of
+fezolinetant. In addition, intrinsic covariates including creatinine clearance, body weight, age, race, and
+menopause status were evaluated in a population PK analysis (Report 2693-PK-0010).
+Renal Impairment
+•
+
+No dose adjustment for patients with mild or moderate renal impairment
+
+In the renal impairment study 2693-CL-0008, female subjects with normal, mild, moderate, and severe
+renal impairment had comparable Cmax after a single oral administration of 30 mg fezolinetant.
+Subjects with mild or moderate renal impairment had 19.2% and 31.2% lower total exposure (AUClast),
+respectively, compared to healthy normal subjects.
+
+13
+
+Reference ID: 5083095
+
+A total of 201 subjects with normal renal function, 267 subjects with mild renal function, and 7 subjects
+with moderate renal impairment were enrolled into pivotal phase 3 studies (2693-CL-0301 and 2693-CL0302). The steady-state AUCs of fezolinetant in participants with normal, mild, and moderate renal
+impairment from these two phase 3 studies were predicted based on a population PK analysis. The total
+exposure of fezolinetant in subjects with mild or moderate renal impairment was similar to the
+exposures in subjects with normal renal function. The mean (CV%) of population PK model-predicted
+steady-state AUCs (ng.hr/mL) were 4159 (45.4%), 4097 (41.8%), and 4061 (36.6%) for subjects with
+normal, mildly impaired, and moderately impaired renal functions after once daily dosing. In addition,
+creatine clearance was not identified as a statistically significant covariate for the clearance of
+fezolinetant. More details can be found in “Population PK Analysis” of Appendix 4.5 Pharmacometrics
+Review.
+Despite lower exposure in patients with mild (19.2% decrease in AUClast) or moderate renal impairment
+(31.2% decrease in AUClast) in the dedicated renal impairment study, the population PK modelpredicted exposure in patients with mild or moderate renal impairment had comparable exposure to
+patients with normal renal function; hence, no dose adjustment is recommended for mild or moderate
+renal impairment.
+•
+
+Avoid use in patients with severe renal impairment or end-stage renal disease
+
+In the renal impairment study in female participants, the total exposure based on AUClast was 9.6%
+lower than in healthy normal participants, but the exposure for the major metabolite, ES259564, was
+4.8-fold higher. The clinical program has not assessed the safety of the metabolite at this exposure level
+in any long-term clinical study. Therefore, the use of fezolinetant is not recommended in patients with
+severe renal impairment. There is no data to support the use of fezolinetant in patients with end-stage
+renal disease.
+Hepatic Impairment
+•
+
+Patients with mild hepatic impairment
+
+Based on the hepatic impairment study in female participants, mild hepatic impairment led to
+approximately 56% increase in fezolinetant AUC and 23% increase in Cmax. Based on the dedicated
+study, dosing patients with mild hepatic impairment 45 mg daily may lead to a ~50% higher exposure
+than what has been evaluated in phase 3 studies.
+The exclusion criteria of all phase 3 studies (2693-CL-0301, 2693-CL-0302 and 2693-CL-0304) did not use
+Child-Pugh criteria for screening. In response to our Information Request, the applicant stated that
+“While not captured as Child-Pugh score, review of the components of the score does not support
+presence of chronic hepatic impairment as defined by Child-Pugh categories, and participants with
+chronic hepatic impairment were excluded from the study.” Therefore, there are no clinical data to
+support a safe clinical use of fezolinetant in patients with mild hepatic impairment. In addition, based on
+the exposure-response analysis for liver toxicity, there is a potential association between exposure and
+
+14
+
+Reference ID: 5083095
+
+transaminase elevation (i.e., ALT/AST >3X ULN) with baseline ALT level being the most influential
+covariate in predicting transaminase elevation probability.
+Based on overall assessment of benefit/risk, we recommend avoiding use of fezolinetant in patients with
+mild hepatic impairment.
+•
+
+Patients with moderate or severe hepatic impairment
+
+Moderate hepatic impairment led to 94 to 96% increase in fezolinetant AUC (Study 2693-CL-0007), and
+the PK of fezolinetant have not been evaluated in patients with severe hepatic impairment. As subjects
+with chronic moderate or severe hepatic impairment were excluded in the phase 3 studies, there are no
+clinical data to support a safe clinical use of fezolinetant in patients with moderate or severe hepatic
+impairment.
+Based on an overall assessment of benefit/risk, we recommend avoiding use of fezolinetant in patients
+with moderate or severe hepatic impairment.
+Body Weight
+In a population PK analysis (Report 2693-PK-0010), body weight was identified as a predictive covariate
+on central volume of distribution, but not a statistically significant covariate of clearance. Participants
+weighing 100 kg were predicted to have a 17.2% lower fezolinetant Cmax than participants with a
+typical 75 kg weight. Participants weighing 55 kg were predicted to have a 25.6% higher fezolinetant
+Cmax than participants with a typical 75 kg weight. We recommend no dose adjustment based on body
+weight.
+Age
+Studies designed to assess the effect of age on fezolinetant PK have not been conducted to date. A
+population PK model including female participants ranging from 19 to 65 years of age showed no trends
+between age and PK parameters. No pediatric participants have been studied with fezolinetant.
+Therefore, we recommend no dose adjustment based on age.
+Race
+African American was identified as a predictive covariate on central volume of distribution, but not a
+statistically significant covariate of clearance. African American women were also predicted to have a
+small increase in central volume of distribution resulting in a small (6.6%) reduction in Cmax compared
+to non-African American women participants. We recommend no dose adjustment based on race.
+Menopause status
+Menopause status was not identified as a predictive covariate on central volume of distribution or
+clearance, indicating no significant PK difference between pre- and postmenopausal women.
+
+15
+
+Reference ID: 5083095
+
+3.3.4 Are there clinically relevant food-drug or drug-drug interactions and what is
+the appropriate management strategy?
+Yes, we recommend avoiding use of fezolinetant for patients who are taking mild, moderate, or strong
+inhibitors of CYP1A2.
+Dedicated studies were conducted to evaluate the impact of 1) concomitant use of a strong CYP1A2
+inhibitor and 2) a standard high-fat high caloric meal on the PK of fezolinetant. In addition, extrinsic
+covariates including smoking (CYP1A2 inducer), food, and formulation were evaluated in a population PK
+analysis (Report 2693-PK-0010).
+Concomitant use of CYP1A2 inhibitors
+In a dedicated DDI study, concomitant use of fluvoxamine (a strong CYP1A2 inhibitor) resulted in a 9.4fold increase in fezolinetant AUCinf and 1.8-fold increase in Cmax. The applicant did not conduct a
+dedicated DDI study to evaluate the impact of weak or moderate CYP1A2 inhibitors. Instead, they used a
+physiological-based pharmacokinetic (PBPK) approach to predict the magnitude of change in
+fezolinetant exposure with concomitant use of weak or moderate CYP1A2 inhibitors. The predicted
+results are shown in Table 1.
+Table 1. PBPK Predicted Cmax and AUC Geometric Mean Ratios (GMR) for Fezolinetant in the
+Presence of CYP1A2 Inhibitors.
+Co-administration treatment
+Weak CYP1A2 inhibitor
+Moderate CYP1A2 inhibitor
+
+Cimetidine 300 mg every 6 hours
+Cimetidine 400 mg BID
+Mexiletine 400 mg every 8 hours
+
+Source: Table 3 in Appendix 4.4 PBPK review
+
+•
+
+PBPK predicted fezolinetant GMR
+Cmax
+AUCinf
+1.3
+2.0
+1.4
+1.6
+1.4
+4.6
+
+Concomitant use with weak CYP1A2 inhibitors
+
+Using a PBPK approach, weak CYP1A2 inhibitors are predicted to increase fezolinetant exposure by 1.6to 2-fold. In the phase 3 studies, 22 subjects received 45 mg fezolinetant had concomitant use of weak
+CYP1A2 inhibitors. Although treatment emergent adverse events (TEAEs) in these subjects were
+generally mild and resolved, the number of subjects with concomitant use of weak CYP1A2 inhibitors is
+relatively small.
+Given the predicted 60% to 100% increase in exposure with concomitant use of weak CYP1A2 inhibitors
+and limited safety data from phase 3 studies, the concomitant use of 45 mg once daily fezolinetant with
+weak CYP1A2 inhibitors is not recommended.
+•
+
+Avoid use in patients with concomitant use of moderate or strong CYP1A2 inhibitors
+
+16
+
+Reference ID: 5083095
+
+Moderate and strong CYP1A2 inhibitor were predicted to lead to 4.6- (based on PBPK model) and 9.4 fold (based on a dedicated DDI study) increase in fezolinetant AUC. There are no clinical data to support
+such a high exposure in postmenopausal women. Therefore, the concomitant use of moderate and
+strong inhibitors of CYP1A2 should be avoided.
+Smoking
+In a dedicated study (Study 2693-CL-0006), smoking resulted in decreased fezolinetant exposure. When
+fezolinetant was administered alone, fezolinetant AUCinf decreased by about a half to a geometric least
+square (LS) mean ratio of 48.3% while Cmax decreased to a geometric LS mean ratio of 71.7%. Similarly,
+in population PK analysis, a 51% increase in clearance was predicted for smokers relative to nonsmokers, resulting in a 33.9% reduction in steady-state AUC and an 8.6% reduction in steady-state Cmax.
+Randomization of the two pivotal phase 3 studies were stratified by smoking status. In one study (Study
+0301), 17 smokers and 129 nonsmokers received 45 mg QD fezolinetant. In the other study (Study
+0302), 28 smokers and 117 nonsmokers received 45 mg QD fezolinetant. Based on a small sample size
+of smokers, the sub-group analysis by smoking status (no statistically testing specified in Statistic
+Analysis Plan [SAP]) from the phase 3 studies indicated that smoking has no impact on efficacy
+compared with nonsmokers despite the fact that smokers were expected to have reduced PK exposures.
+Therefore, we recommend no dose adjustment for smokers.
+Formulation
+During development, a capsule formulation was used in phase 1 and 2 studies while a tablet formulation
+was used in phase 3 trials. The relative bioavailability of fezolinetant between the phase 3 tablet
+formulation and the capsule formulation was assessed at the highest strength of 120 mg in Study 2693CL-0009. The results demonstrated that following a single dose administration, geometric LS means of
+AUCinf, AUClast, and Cmax of the tablet formulation were 8%, 9%, and 23% higher relative to the
+capsule formulation, respectively. While the 90% CI of Cmax (101-136%) exceeded the BE criteria of 80125%, the 90% CI of AUCinf and AUClast were still contained in the criteria of 80-125%.
+A BE study (Study 2693-CL-0010) was conducted to compare the pharmacokinetics of the to-bemarketed formulation to the formulation used in Phase 3 trials. The results showed that the test
+formulation (45 mg fezolinetant to-be-marketed tablet) was bioequivalent to the reference formulation
+(45 mg fezolinetant comprising one 30 mg and one 15 mg fezolinetant phase 3 tablet).
+Food effect
+In Study 0012, following a single 45 mg dose of fezolinetant (to-be-marketed formulation) to healthy
+female participants, a high-fat, high-calorie meal did not affect fezolinetant AUCinf and AUClast
+compared to under fasted conditions. The high-fat, high-calorie meal decreased Cmax by ~23% of
+fezolinetant and delayed the time to reach Cmax by ~ 30 minutes. The decrease in exposure is not
+considered clinically relevant. We recommend that fezolinetant can be administered with or without
+food.
+17
+
+Reference ID: 5083095
+
+4. APPENDICES
+Fezolinetant is also referred to as ESN364 during clinical development.
+4.1 Summary of Bioanalytical Method Validation and Performance
+Concentrations of fezolinetant and its major metabolite, ES259564, in plasma and urine were
+determined by liquid chromatography - tandem spectrometry (LC-MS/MS) methods. A total of five LCMS/MS methods for fezolinetant or fezolinetant and ES259564 with different concentration ranges,
+matrices (plasma or urine), sample processing (protein precipitation or solid phase extraction), analytical
+(b) (4)
+sites [
+], were developed and validated. 1
+Summary of key validation parameters of the LC-MS/MS method (2693-ME-0004) used to determine the
+plasma concentrations of fezolinetant and ES259564 in phase 3 studies (2693-CL-0301, 2693-CL-0302
+and 2693-CL-0304), dose-ranging study (ESN364_HF_205) , the mass balance study (ESN364-CPK-103), in
+vivo DDI study (2693-CL-0006), hepatic impairment study (2693-CL-0007), renal impairment study (2693CL-0008), relative bioavailability study (2693-CL-0009), BE study (2693-CL-0010) and food effect study
+(2693-CL-0012) is provided in Table 2 below.
+Table 2 Summary of Key Validation Parameters for LC-MS/MS assays (2693-ME-0004)
+
+Bioanalytical method
+validation report name,
+amendments, and
+hyperlinks
+
+Validation of a UHPLC-MS/MS method for the determination of ESN-364 and its
+metabolite ES259564 in lithium heparinized human plasma
+Report Number:
+Astellas Number = [2693-ME-0004]
+(b) (4)
+(b) (4)
+
+Amendment 1]
+
+Analytical Method Number:
+BA/18/680 – Versions 1 to 6
+Method description
+An LC-MS/MS method for the determination of fezolinetant and ES259564
+(metabolite) concentrations in lithium heparinized human plasma. The plasma
+samples are purified using SPE and chromatographic separation is achieved on a
+phenylhexyl column with detection on a mass spectrometer.
+Materials used for
+Fezolinetant (Batch N120137F)
+standard calibration
+ES259564 (metabolite) (Batches B00278201/JKO_011-47, MD338J and MEL_025curve and concentration 63)
+Fezolinetant:
+1.00, 5.00, 25.0, 50.0, 100, 250, 500 and 1000 ng/mL
+
+Validated assay range
+
+ES259564:
+1.00, 5.00, 25.0, 50.0, 100, 250, 500 and 1000 ng/mL
+1.00 to 1000 ng/mL
+
+Material used for QCs
+
+Fezolinetant (Batch N120137F)
+
+Docubridge, NDA 216578, seq 0001, module 2.7.1, Summary of Biopharmaceutic Studies and associated
+analytical methods, Appendix Table 2.7.1.3, submitted on: 06/22/2022
+
+1
+
+18
+
+Reference ID: 5083095
+
+and concentration
+
+ES259564 (Batches B00278201/JKO_011-47, MD338J and MEL_025-63)
+Fezolinetant:
+1.00, 3.00, 60.0, 810 ng/mL
+
+Regression model and
+weighting
+Validation Parameters
+Standard calibration
+curve performance
+during all runs
+
+Performance of QCs
+during accuracy and
+precision runs
+
+ES259564:
+1.00, 3.00, 60.0, 810 ng/mL
+Linear with a weighting factor of 1/X2
+
+Method Validation Summary
+Number of standard calibrators from
+LLOQ to ULOQ
+Cumulative accuracy (%bias) from
+LLOQ to ULOQ
+Fezolinetant
+ES259564
+Cumulative precision (%CV) from
+LLOQ to ULOQ
+Fezolinetant
+ES259564
+Cumulative accuracy (%bias) in 5 QCs
+QCs for fezolinetant:
+LLOQ
+LQC
+MQC
+HQC
+DiQC (10-fold)
+QCs for ES259564:
+LLOQ
+LQC
+MQC
+HQC
+DiQC (10-fold)
+Interbatch (%CV)
+QCs for fezolinetant:
+LLOQ
+LQC
+MQC
+HQC
+
+Validation Parameters
+
+QCs for ES259564:
+LLOQ
+LQC
+MQC
+HQC
+TE
+Method Validation Summary
+
+19
+
+Reference ID: 5083095
+
+x8
+
+-5.02 to 2.84
+-6.69 to 2.95
+≤ 4.04
+≤ 3.96
+-15.92 to -8.28
+-10.04 to -5.10
+-9.09 to -2.14
+-13.12 to -6.40
+2.59
+-5.15 to 3.18
+-2.42 to 2.58
+-4.34 to 3.88
+-8.55 to -2.10
+6.98
+6.76
+4.49
+5.03
+4.42
+
+Source Location
+Table 3 and
+Table 4 of report
+2693-ME-0004
+Section 1.2 of
+report
+2693-ME-0004
+Amendment No.1
+Section 1.2 of
+report
+2693-ME-0004
+Amendment No.1
+Tables 11, 13, 33
+and 34 of report
+2693-ME-0004
+
+Table 11 and
+Table 13 of
+report
+2693-ME-0004
+
+7.14
+5.42
+5.05
+4.44
+Source
+Location
+
+Selectivity & matrix
+effect
+
+Selectivity:
+The absence of interferences in blank samples was not required
+per the SOPs applicable at that time because the combination
+of sample extraction, chromatographic separation, and
+selective MS/MS (Triple quadrupole which follows a selective
+couple of mass: parent ion and selective daughter ion) ensures
+the absence of potential interfering impact.
+Additional selectivity was evaluated using 6 individual lots. No
+relevant interferences were observed (Study 2693-CL-0304).
+Internal Standard (IS) normalized matrix factor:
+Matrix effect was evaluated as part of the matrix factor test.
+Number of lots tested: 6
+Concentration levels tested: LQC, MQC and HQC
+Fezolinetant Overall Precision (%CV): ≤ 4.83
+ES259564 Overall Precision (%CV): ≤ 4.97
+
+Interference &
+specificity
+
+Matrix factor acceptance criteria were met.
+The specificity of the assay for fezolinetant was evaluated at
+the LLOQ (1.00 ng/mL) in the presence of ES259564
+(metabolite) at 1000 ng/mL concentration.
+Interference on fezolinetant from ES259564:
+Number of replicates tested: 6
+Range of observed bias: -15.98% to 2.47%
+Conclusion: No interference was observed.
+
+Table 10 and
+Table 11 of
+report
+B1900365
+Table 25 to
+Table 30 of
+report
+2693-ME-0004
+
+Table 15 and
+Table 16 of
+report
+2693-ME-0004
+
+The specificity of the assay for ES259564 was evaluated at the
+LLOQ (1.00 ng/mL) in the presence of fezolinetant at
+1000 ng/mL concentration.
+
+Hemolysis effect
+
+Interference on ES259564 from fezolinetant:
+Number of replicates tested: 6
+Range of observed bias: -3.54% to 5.68%
+Conclusion: No interference was observed.
+The hemolysis effect in human plasma was evaluated at 2
+analyte concentration levels (low and high) and 2 levels of
+spiked hemolyzed human whole blood (1% and 2%).
+Fezolinetant:
+Number of sources tested: 2
+Range of observed bias: 0.73% to 8.72%
+ES259564:
+Number of sources tested: 2
+Range of observed bias: 1.05% to 10.13%
+The results showed no hemolysis effect in plasma spiked with
+1% or 2% hemolyzed human whole blood.
+
+20
+
+Reference ID: 5083095
+
+Table 17 and
+Table 18 of
+report
+2693-ME-0004
+
+Validation Parameters
+Lipemic effect
+
+Method Validation Summary
+The lipemic effect in human plasma was evaluated at 2 analyte
+concentration levels (low and high) and 2 levels of
+hyperlipidemic human plasma (10 mg/mL and 20 mg/mL lipid
+concentrations).
+
+Source
+Location
+Table 19 and
+Table 20 of
+report
+2693-ME-0004
+
+Fezolinetant:
+Number of sources tested: 2
+Range of observed bias: -0.10% to 8.56%
+ES259564:
+Number of sources tested: 2
+Range of observed bias: 0.96% to 9.45%
+
+Recovery
+
+The results showed no lipemic effect in hyperlipidemic human
+plasma with final lipid concentrations of 10 and 20 mg/mL
+Concentration Level
+Recovery (%)
+Fezolinetant:
+LQC
+94.25
+MQC
+91.46
+HQCH
+92.57
+ES259564:
+LQC
+MQC
+HQC
+
+Table 21 and
+Table 23 of
+report
+2693-ME-0004
+
+87.15
+87.64
+89.43
+
+(IS)
+75.08 - 75.33
+Fezolinetant:
+Highest concentration tested: 8100 ng/mL
+Number of dilution factors: 10
+Range of observed bias (RE%): -1.64 to 7.48
+(b) (4)
+
+Dilution factor
+
+Bench-top/process
+stability
+Freeze-thaw stability
+
+ES259564:
+Highest concentration tested: 8100 ng/mL
+Number of dilution factors: 10
+Range of observed bias (RE%): 3.65 to 10.48
+Fezolinetant: 24 hours at room temperature
+ES259564: 24 hours at room temperature
+Fezolinetant: 5 cycles at -20°C and -65°C
+ES259564: 5 cycles at -20°C and -65°C
+
+21
+
+Reference ID: 5083095
+
+Table 33 and
+Table 34 of
+report
+2693-ME-0004
+
+Table 46 and
+Table 48 of
+report
+2693-ME-0004
+Table 41
+through
+Table 44 of
+report
+2693- ME0004
+
+Long-term storage
+
+Fezolinetant: 382 days at -20°C and -65°C
+ES259564: 382 days at -20°C and -65°C
+
+Parallelism
+Carry-over
+
+Table 63
+through
+Table 66 of
+report
+2693- ME0004
+Amendment 1
+NA
+Table 7 and
+Table 8 of
+report
+2693-ME-0004
+
+NA
+Each analytical run contained 2 calibration curves. A blank
+plasma sample (without IS) was injected immediately after each
+of 2 ULOQ samples. The average carry-over was lower than
+20% for both analytes and lower than 5% for the IS indicating
+that carry-over had no impact on the results.
+CV: coefficient of variation; DiQC: dilution quality control; HQC: quality control at high concentration; IS: internal
+standard; LC-MS/MS: liquid chromatography with tandem mass spectrometry; LLOQ: lower limit of quantification;
+LQC: quality control at low concentration; MQC: quality control at medium concentration; MS/MS: tandem mass
+spectrometry; MRD: minimum required dilution; NA: not applicable; QC: quality control; RE: relative error of
+measurement; SPE: solid phase extraction; SOP: standard operating procedure; TE: total error; UHPLC-MS/MS:
+ultra-high performance liquid chromatography with tandem mass spectrometry; ULOQ: upper limit of
+quantification.
+
+Reviewer comments:
+This method is confirmed to show acceptable specificity, recovery, within-run and between-run accuracy
+and precision for the measurement of fezolinetant and ES259564. The freeze-thaw, processing, longterm stability covered sample storage and experiment periods. The incurred sample reanalysis passed
+acceptance criteria for key PK studies. This method is validated for the aforementioned clinical studies.
+Method validation for other studies
+LC-MS/MS methods used in other clinical studies (including urine samples) are validated and the
+summaries of method validation for each method are provided in the submission. 2 Upon detailed
+review, these bioanalytical methods are acceptable based on FDA Guidance for Industry on bioanalytical
+method validation. For the space reason, the method validations are not provided here.
+
+4.2 Clinical vs. To-be-marketed Formulations
+Three formulations were developed in the clinical development program of fezolinetant (Table 3).
+Table 3 Summary of Fezolinetant formulations in clinical development
+
+Fezolinetant Drug Product Formulations
+Docubridge, NDA 216578, seq 0001, module 2.7.1, Summary of Biopharmaceutic Studies and associated
+analytical methods, Appendix table 2.7.1.8, 2.7.1.9, 2.7.1.14, 2.7.1.15, 2.7.1.16 and 2.7.1.17, submitted on:
+06/22/2022
+2
+
+22
+
+Reference ID: 5083095
+
+Hard Gelatin Capsule
+
+Phase 3 Tablet
+
+To-be-marketed Tablet
+
+Dosage Strengths
+
+3 mg, 10 mg, 15 mg, 30 mg, 15 mg, 30 mg, and 120 mg
+60 mg, 90 mg, 120 mg, and
+180 mg
+Clinical Study Number
+
+30 mg and 45 mg
+
+Phase 1 study
+
+ESN364-CPK-101, ESN364- 2693-CL-0007, 2693-CLCPK-102, , 2693-CL-0006,
+0008, 2693-CL-0009, 26932693-CL-0009, 2693-CL-0020 CL-0010, 2693-CL-0030
+
+2693-CL-0010, 2693-CL0012
+
+Phase 2 study
+
+ESN364_HF_204,
+ESN364_HF_205, ESN364UF-02, ESN364-PCO-201
+
+Phase 3 study
+
+2693-CL-0301, 2693-CL0302, 2693-CL-0304
+
+Fezolinetant was initially developed as immediate-release, hard gelatin capsules for oral administration
+in 3, 10, 15, 30, 60, 90, 120 and 180 mg strengths. This formulation was used in phase 1 and phase 2
+studies.
+For the phase 3 program, including parallel phase 1 studies, an immediate-release tablet formulation
+(15, 30 and 120 mg dose strengths) was developed for oral administration. The composition of the
+phase 3 tablet is proportionally similar among the dose strengths, of which the 15 mg and 30 mg
+strength tablets were used in the phase 3 studies. The 120 mg strength tablet was only used in the
+relative bioavailability study 2693-CL-0009. The phase 3 tablet formulation was used in special
+population and drug-drug interaction studies to provide support for labeling claims.
+The applicant conducted study 2693-CL-0009 with a single dose of 120 mg tablet and a single dose of
+120 mg capsule to compare the relative bioavailability of the capsule formulation and the phase 3 tablet
+formulation. AUCinf and AUClast of a single oral dose of 120 mg tablet were slightly higher (by 8%) than
+those of a single dose of 120 mg capsule. BE criteria between capsule and tablet formulations were met
+with regard to fezolinetant AUCinf and AUClast. However, Cmax of capsule and tablet formulations
+failed to meet the BE criteria, where mean Cmax of capsule formulation increased approximately 22.5%
+with 90% CI of ratio at 110.43% to 135.92%. See section 4.2.1 below for details.
+The applicant also developed a to-be-marketed tablet formulation for commercial use. The to-bemarketed tablet formulation was developed at strengths of 30 mg and 45 mg, which are the doses
+studied in the phase 3 clinical studies.
+Compared with phase 3 tablet formulation, the to-be-marketed tablets have changes in its
+tablet
+(b) (4)
+composition
+and tablet color shade. The
+applicant conducted a dedicated BE study (study 2693-CL-0010) to bridge the phase 3 tablet formulation
+and the to-be-marketed formulation. See section 4.2.2 below for details.
+(b) (4)
+
+23
+
+Reference ID: 5083095
+
+4.2.1. Study 2693-CL-0009: Relative Bioavailability of Fezolinetant Between Tablet and Capsule
+Formulations
+Title: A Phase 1 Crossover Study to Assess the Relative Bioavailability of fezolinetant Following a Single
+Dose of Tablet Formulation Compared to a Single Dose of Capsule Formulation in Healthy
+Postmenopausal Female Subjects
+Primary Objective: This study assessed the relative bioavailability of a single dose of 120 mg fezolinetant
+tablet (test formulation) compared to a single dose of 120 mg fezolinetant capsule (reference
+formulation) under fasting conditions in healthy postmenopausal female participants.
+Study design: This was a randomized, open-label, 2-period, 2-sequence, single dose crossover study in
+healthy postmenopausal female subjects. Each subject participated in 2 treatment periods separated by
+a washout of 4 days between study drug administrations in each period. Subjects were randomized to 1
+of 2 sequences according to Table 4.
+Table 4 Sequences and Study Treatment Assignments (2693-CL-0009)
+Sequence
+
+n
+
+1
+
+8
+8
+
+2
+
+Period
+1
+A
+B
+
+Period
+2
+B
+A
+
+A: 120 mg tablet (new formulation); B: 120 mg capsule (reference formulation)
+
+Pharmacokinetic samples were collected predose on day 1 of each period and at multiple time points
+postdose (i.e., 0.5, 1, 1.5, 2, 3, 4, 6, 8, 12, 16, 24, 36 and 48 hours).
+Subject Disposition: A total of 16 healthy postmenopausal female subjects were randomized, and 16
+subjects completed the study. Data from all subjects were included in the analyses of safety and PK.
+PK Results:
+The dose of 120 mg fezolinetant was rapidly absorbed in both tablet (test formulation) and capsule
+(reference formulation). The median tmax is approximately 1.0 and 1.5-hour postdose for the tablet and
+capsule formulations, respectively (Table 5).
+Table 5 Study 2693-CL-0009: Plasma Pharmacokinetic Parameters of Fezolinetant by Formulation
+
+Parameter Category/Statistics
+AUCinf (ng∙h/mL)
+Mean (SD)
+%CV
+Median
+Min - Max
+AUClast (ng∙h/mL)
+
+Tablet
+n = 16
+7600 (2010)
+26.5
+7450
+4260 – 13,300
+
+24
+
+Reference ID: 5083095
+
+Fezolinetant 120 mg
+
+Capsule
+n = 16
+7070 (1950)
+27.6
+6660
+3790 – 12,100
+
+Mean (SD)
+7530 (1910)
+6950 (1830)
+%CV
+25.4
+26.3
+Median
+7400
+6580
+Min - Max
+4240 – 12,700
+3750 – 11,500
+Cmax (ng/mL)
+Mean (SD)
+1190 (190)
+983 (231)
+%CV
+16.0
+23.5
+Median
+1200
+929
+Min - Max
+843 - 1650
+632 - 1390
+tmax (h)
+Median
+1.03
+1.50
+Min - Max
+0.500 - 3.00
+0.500 - 3.00
+CL/F (L/h)
+Range
+9.05 - 28.2
+9.91 - 31.7
+VZ/F (L)
+Range
+119 - 502
+151 - 605
+CV: coefficient of variation; Max: maximum; Min: minimum; SD: standard deviation.
+Source: Study 2693-CL-0009, End-of-Text Table 12.4.2
+
+Statistical assessment of relative bioavailability of tablet formulation compared with capsule formulation
+are presented in Table 6 below.
+
+Table 6 Study 2693-CL-0009: Statistical Assessment of Relative Bioavailability of Fezolinetant
+
+Fezolinetant 120 mg
+Geometric LS 90% CI of Ratio†
+Capsule
+Tablet
+Mean Ratio
+Geometric LS
+Geometric LS
+(%)†
+n
+n
+Mean
+Mean
+AUCinf (ng∙h/mL)
+16
+6840
+16
+7370
+107.80
+(100.88, 115.21)
+AUClast (ng∙h/mL)
+16
+6730
+16
+7320
+108.74
+(101.86, 116.09)
+Cmax (ng/mL)
+16
+957
+16
+1170
+122.51
+(110.43, 135.92)
+All randomized participants who took at least 1 dose of study drug for which concentration data were available to
+facilitate derivation of at least 1 primary pharmacokinetic parameter. Assessment based on an analysis of variance
+performed on natural logarithmic-transformed parameters with formulation and period as fixed effects and
+participant as a random effect.
+CI: confidence interval; LS: least squares.
+† Ratios and confidence limits were back-transformed to raw scale and values are expressed as percentages.
+Source: Study 2693-CL-0009, End-of-Text Table 12.4.3
+Parameter
+
+Conclusion: The results demonstrate that following a single dose administration, geometric LS means of
+AUCinf, AUClast and Cmax of tablet formulation increased approximately 8%, 9% and 23% respectively,
+relative to capsule formulation. To be noted, with 90% CI of Cmax (101-136%) exceeds the BE criteria of
+80-125% criteria, the 90% CI of AUCinf and AUClast are still contained in the BE criteria of 80-125%.
+
+4.2.2. Study 2693-CL-0010: Bioequivalence of the To-be-Marketed 45 mg Tablet Compared to One 30
+mg and One 15 mg Phase 3 Tablet
+
+25
+
+Reference ID: 5083095
+
+Title:
+A Phase 1 Crossover Study to Assess the Bioequivalence of Fezolinetant Following a Single Dose of
+Fezolinetant to-be-marketed Formulation (Test Formulation) Compared to a Single Dose of Fezolinetant
+Phase 3 Formulation (Reference Formulation) in Healthy Female Subjects
+Primary Objective: This study assessed the bioequivalence of a single dose of one 45 mg
+fezolinetant to-be-marketed tablet (test formulation) compared to a single dose of one 30 mg
+and one 15 mg fezolinetant phase 3 tablets (reference formulation) under fasting conditions in
+healthy female participants.
+Study design:
+This was a randomized, open-label, 2-period, 2-sequence, single dose crossover study in healthy female
+subjects. Each subject participated in 2 treatment periods separated by a washout of at least 5 days
+between investigational product (IP) administrations in each period. Participants received a
+single oral dose of 45 mg fezolinetant to-be-marketed formulation (test formulation) or one
+30 mg and one 15 mg fezolinetant phase 3 formulation (reference formulation) under fasting
+conditions on day 1 of each period. Subjects were randomized to 1 of 2 sequences according to Table 7.
+Table 7 Sequences and Investigational Product Assignments (2693-CL-0010)
+
+Sequence
+n
+Period 1
+Period 2
+1
+11
+A
+B
+2
+11
+B
+A
+A: one 45 mg fezolinetant to-be-marketed tablet (test formulation); B: 45 mg fezolinetant comprising one 30 mg
+and one 15 mg fezolinetant phase 3 tablet (reference formulation)
+
+Pharmacokinetic samples were collected predose on day 1 of each period and at multiple time points
+postdose (i.e., 0.25, 0.5, 1, 1.5, 2, 2.5, 3, 4, 6, 8, 12, 16, 24, 36, 48 and 72 hours).
+Subject Disposition: A total of 22 healthy female subjects were randomized, and 22 subjects completed
+the study. Data from all subjects were included in the analyses of safety and PK.
+Pharmacokinetic Results
+Table 8 Fezolinetant pharmacokinetic parameters of 45 mg to-be-marketed tablet (test formulation) and Phase 3 tablets [30
+mg + 15 mg] (reference formulation)
+
+Fezolinetant
+Fezolinetant 45 mg (to-be-marketed
+Parameter Category/Statistics
+tablet)
+AUCinf (ng∙h/mL)
+n=14§
+Mean
+3840
+%CV
+25.0
+Median
+3430
+Min - Max
+2670 – 5230
+AUClast (ng∙h/mL)
+n=22
+Mean
+3220
+%CV
+35.7
+Median
+2980
+
+26
+
+Reference ID: 5083095
+
+Fezolinetant 45 mg (30 mg +
+15 mg phase 3 tablets)
+n=14§
+3960
+24.4
+4160
+2080 – 5050
+n=21
+3230
+39.8
+3140
+
+Min - Max
+Cmax (ng/mL)
+Mean
+%CV
+Median
+Min - Max
+
+1310– 5200
+1220 – 5000
+n=22
+n=21
+506
+527
+31.0
+46.0
+488
+438
+222 - 900
+246 - 1200
+n=14§
+n=14§
+t1/2 (h)
+Mean
+13.1
+13.4
+%CV
+34.8
+29.4
+Median
+12.2
+12.4
+Min - Max
+6.92-24
+7.88-22.4
+tmax (h)
+n=22
+n=21
+Median
+1.50
+1.50
+Min - Max
+0.483- 4.02
+0.483- 4.02
+n=14§
+n=14§
+CL/F (L/h)
+Range
+8.60- 16.8
+8.91- 21.6
+VZ/F (L)
+n=14§
+n=14§
+Range
+137 - 544
+131 - 408
+§
+AUCinf, CL/F and t1/2 values from 7 participants were not reported and thus not included in the statistical
+assessment due to undefined elimination phase.
+Source: Derived from Study 2693-CL-0010, End-of-Text Table 9.4.2.1
+Table 9 ES259564 pharmacokinetic parameters of 45 mg to-be-marketed tablet (test formulation) and Phase 3 tablets [30 mg
++ 15 mg] (reference formulation)
+
+ES259564
+Fezolinetant 45 mg (to-be-marketed
+Parameter Category/Statistics
+tablet)
+AUCinf (ng∙h/mL)
+n=22
+Mean
+2570
+%CV
+17.1
+Median
+2410
+Min - Max
+1840 – 3320
+AUClast (ng∙h/mL)
+n=22
+Mean
+2540
+%CV
+17.2
+Median
+2400
+Min - Max
+1830– 3270
+Cmax (ng/mL)
+n=22
+Mean
+259
+%CV
+30.3
+Median
+251
+Min - Max
+154 - 448
+n=22
+t1/2 (h)
+Mean
+7.5
+%CV
+18
+Median
+7.24
+Min - Max
+4.83-10.7
+tmax (h)
+n=22
+Median
+2.02
+Min - Max
+0.983- 4.02
+MPR
+n=22
+Mean
+0.856
+Range
+0.494- 1.7
+MPR, metabolite-to-parent ratio
+
+27
+
+Reference ID: 5083095
+
+Fezolinetant 45 mg (30 mg +
+15 mg phase 3 tablets)
+n=21
+2580
+19.4
+2450
+1780 – 3620
+n=21
+2550
+19.5
+2430
+1770-3570
+n=21
+259
+27.3
+252
+143 - 399
+n=21
+7.36
+23.9
+7.42
+4.76-11.7
+n=21
+1.98
+0.967- 4.02
+n=21
+0.893
+0.429 - 1.66
+
+Source: Derived from Study 2693-CL-0010, End-of-Text Table 9.4.2.2
+
+Results of statistical analyses are provided for both fezolinetant and ES259564 (Table 10 and Table 11).
+Bioequivalence criteria were met between the test and reference formulations as geometric
+LS mean ratio and 90% CI of ratios were contained within the bioequivalence limits of 80% to
+125% for Cmax, AUClast and AUCinf for both fezolinetant and ES259564.
+
+Table 10 Statistical Assessment of Bioequivalence for Fezolinetant
+
+Parameter
+
+Treatment
+B
+n
+Geometric
+LS Mean
+21‡
+2950
+
+Treatment
+A
+n
+Geometric
+LS Mean
+22
+3010
+
+Geometric
+LS Mean
+Ratio† (%)
+
+90% CI of
+Ratio†
+
+Geometric
+Intrasubject
+%CV
+10.7
+
+AUClast
+102.17
+(96.53, 108.15)
+(h•ng/mL)
+AUCinf
+14§
+3720
+14‡
+3680
+99.00
+(92.45, 106.01)
+9.3
+(h•ng/mL)
+Cmax
+21‡
+488
+22
+483
+99.12
+(85.54, 114.87)
+28.3
+(ng/mL)
+A: one 45 mg fezolinetant to-be-marketed tablet (test formulation); B: 45 mg fezolinetant dose comprising one
+30 mg and one 15 mg fezolinetant phase 3 tablets (reference formulation); CI: confidence interval;
+CV: coefficient of variation; IP: investigational product; LS: least squares.
+Assessment based on an analysis of variance performed on natural logarithmic-transformed parameters with
+period and treatment as fixed effects and participants as a random effect.
+The pharmacokinetic analysis set comprised all randomized participants who received at least 1 dose of IP for
+which concentration data were available to facilitate derivation of at least 1 primary pharmacokinetic parameter.
+†
+Ratios and confidence limits were transformed back to raw scale and values are expressed as percentages.
+‡
+One participant (treatment sequence AB) who received treatment B had concentrations that were below the
+level of quantification on all sample timepoints pre- and postdose for both fezolinetant and ES259564. This
+participant was excluded from the summary and parameter calculations.
+§
+AUCinf values from 7 participants were not reported and thus not included in the statistical assessment due to
+undefined elimination phase. AUClast including all evaluable participants, as well as AUCinf excluding these 7
+participants, provided consistent bioequivalence results.
+Source: Study 2693-CL-0010, End-of-Text Table 9.4.3.1
+
+Table 11 Statistical Assessment of Bioequivalence for ES259564
+
+Parameter
+
+Treatment
+B
+n
+Geometric
+LS Mean
+21‡
+2510
+
+Treatment
+A
+n
+Geometric
+LS Mean
+22
+2510
+
+Geometric
+LS Mean
+Ratio† (%)
+
+90% CI of
+Ratio†
+
+Geometric
+Intra-subject
+%CV
+
+AUClast
+100.08
+(98.08,
+3.8
+(h•ng/mL)
+102.12)
+AUCinf
+21‡
+2540
+22
+2530
+99.89
+(97.88,
+3.8
+(h•ng/mL)
+101.95)
+Cmax
+21‡
+255
+22
+248
+97.38
+(90.86,
+13.0
+(ng/mL)
+104.37)
+A: one 45 mg fezolinetant to-be-marketed tablet (test formulation); B: 45 mg fezolinetant comprising one 30 mg
+and one 15 mg fezolinetant phase 3 tablets (reference formulation); CV: coefficient of variation;
+IP: investigational product; LS: least squares
+
+28
+
+Reference ID: 5083095
+
+Assessment based on an analysis of variance performed on natural logarithmic-transformed parameters with
+period and treatment as fixed effects and subjects as a random effect.
+The pharmacokinetic analysis set comprised all randomized subjects who received at least one dose of IP for
+which concentration data were available to facilitate derivation of at least 1 primary pharmacokinetic parameter.
+†
+Ratios and confidence limits were transformed back to raw scale and values are expressed as percentages.
+‡
+One subject (treatment sequence AB) who received treatment B, had concentrations that were below the level
+of quantification on all sample timepoints pre- and postdose for both fezolinetant and ES259564. This subject
+was excluded from the summary and parameter calculations.
+Source: End-of-Text Table 9.4.3.2
+
+Conclusions:
+The test formulation (45 mg fezolinetant to-be-marketed tablet) is bioequivalent to the reference
+formulation (45 mg fezolinetant comprising one 30 mg and one 15 mg fezolinetant phase 3
+tablets).
+Reviewer comments:
+A request of routine inspection for the clinical site of the BE study (PAREXEL Early Phase Clinical,
+Baltimore, MD) was sent to Office of Study Integrity and Surveillance (OSIS). OSIS declined to conduct an
+inspection for the site due to insufficient time for inspection to be completed for the given goal date.
+However, OSIS reported that the site was inspected in October 2018 under another NDA. After review of
+the inspection findings, OSIS concluded that data from the reviewed study were reliable.
+In the current BE study (2693-CL-0010), no significant protocol deviations were identified. The risk of
+compromised data integrity is low.
+
+4.3 Clinical PK and/or PD studies
+4.3.1 Healthy Subject PK and Initial Tolerability Study ESN364-CPK-101 (3 to 180 mg)
+
+Title: A Phase I, Double-Blind, Placebo-Controlled, Single and Multiple Ascending Dose Study of ESN364
+to Evaluate Pharmacokinetics, Pharmacodynamics, Safety and Tolerability in Healthy Male and Healthy
+Female Volunteers of Childbearing Potential
+Objectives:
+The primary objectives of this study were to assess the safety and tolerability of ESN364 following single
+and multiple ascending oral dose administration in healthy males.
+The secondary objectives were:
+•
+
+Assess the PK of ESN364 following single ascending oral dose administration in healthy males,
+following multiple ascending oral dose administration in healthy males and females of
+childbearing potential.
+29
+
+Reference ID: 5083095
+
+•
+•
+•
+
+Assess the effect of food intake on the PK of ESN following oral administration in healthy males.
+Assess gender differences in PK of ESN364 following multiple ascending dose administration in
+healthy males and females of childbearing potential.
+To investigate the preliminary PD of ESN364 after single and multiple ascending oral dose
+administration in healthy males and females of childbearing potential.
+
+Study Design:
+This was a single center, randomized, double-blind, placebo-controlled, single, and multiple dose
+escalation study in 65 healthy male and female participants. An overview of the study design is
+presented in Table 12.
+Table 12. Overview of Study ESN364-CPK-101
+
+PK Assessment:
+For Part 1, blood samples were taken predose (max 60 minutes before administration study drug), and
+at 1, 1.5, 2, 3, 4, 6, 8, 12, 16, 24, and 48 hours postdose. Urine was collected for the measurement of
+ESN634 predose (max 60 minutes before administration study drug) and at regular intervals: 0-4, 4-8, 812, and 12-24 hours postdose.
+For Part 2, blood samples to be taken predose, and at 1, 1.5, 2, 3, 4, 6, 8, 12, 16, 24, and 48 hours
+postdose on Day (D) 1 and D10. On D5, D7 and D9 trough plasma samples for ESN364 were collected
+before dosing. Urine was collected for the measurement of ESN634 predose and at regular intervals, i.e,
+0-4, 4-8, 8-12, 12-24 and 24-48 hours after dosing on D1 and D10.
+For Part 3, blood samples to be taken predose, and at, 1, 1.5, 2, 3, 4, 6, 8, 12, 16, 24, and 48 hours
+postdose on D1 and D21 and 72 hours postdose on D24. On D5, D7, D9, D11, D15, and D19 trough
+plasma samples for ESN364 were collected before dosing. Urine was collected for the measurement of
+ESN634 predose and at regular intervals, i.e, 0-4, 4-8, 8-12, 12-24, and 24-48 hours after dosing on D1
+and D21.
+PD Assessment (Only Part 3 is relevant as the study population was female subjects.):
+For Part 3, the effect of ESN364 on testosterone (T), luteinizing hormone (LH), estradiol (E2),
+progesterone (P4), sex hormone binding globulin (SHBG), and follicle stimulating hormone (FSH)
+concentrations were measured in serum sampled before dosing on D5, D7, D9, D11, D13, D15, D17 and
+D19. On D1 and D21, pharmacodynamics were assessed at the same time points as the PK sampling for
+ESN364, i.e., predose, and at 1, 1.5, 2, 3, 4, 6, 8, 12, 16, 24, and 48 hours postdose and 72 hours
+30
+
+Reference ID: 5083095
+
+postdose on D24. In addition, T, E2, P, FSH, SHBG, and LH were also assessed in the morning, on a
+weekly basis, on D28 and D35 and at the follow up visit on D42. In addition, T, LH, E2, P4, SHBG, and FSH
+levels were assessed three times on the day of admission (Day-1) on undefined time points but with at
+least two hours in between two samples.
+Subject Disposition:
+A total of 65 subjects were enrolled and treated. All but one subject completed the study. One subject
+(b) (6)
+(Subject
+) in Part 1, Panel B discontinued treatment after administration of 6 mg ESN364 due to an
+(b) (6)
+SAE (foot facture). This subject was replaced by a reserve subject (Subject
+).
+Results:
+Part 1- Single Ascending Dose in Healthy Male Participants – Panels A & B
+This was an SAD escalation part, with fezolinetant doses of 3, 12, 46 and 180 mg (top dose) for panel A
+(8 healthy men per dose group), and 6, 23, 90 and 23 mg (fed) for panel B (9 healthy men per dose
+group).
+PK profiles after oral administration of 3 to 180 mg were presented in Figure 3. PK parameters from Part
+1 were listed in Table 13.
+Figure 1. Mean ESN364 Plasma Concentration vs. Time Profiles (Part 1, Study ESN364-CPK-101)
+
+Table 13. Summary of ESN364 PK Parameters and Statistical Analysis on ESN364 PK Parameters
+
+31
+
+Reference ID: 5083095
+
+Reviewer’s comment:
+•
+
+•
+•
+•
+
+The pharmacokinetics of ESN364 were dose proportional in terms of Cmax and AUC∞ over the 3
+to 180 mg dose range. The results of the pairwise comparison (Tukey’s test) showed that the
+exposure measured by AUClast was non-dose proportional between the highest (180 mg) and
+the lowest (3 mg) dose groups which led to a significant analysis of variance (ANOVA) p-value for
+dose effect on AUClast.
+ESN364 maximal mean concentrations were reached between 1.25 to 2 hours after dosing for
+the 3 to 180 mg doses.
+The elimination phase appeared parallel for all dose groups.
+The PK profile in the 23 mg dose group in fed conditions was different from the other dose
+group profiles with a longer absorption phase but the difference is not statistically significant (p
+= 0.3750).
+
+Part 2- Multiple Ascending Dose in Healthy Male Participants – Panels (C, D, & E)
+Part 2 consisted of 3 sequential groups of 8 healthy male participants with MAD escalation of 20, 60 and
+180 mg. Participants received the study medication in a qd regimen after a light breakfast.
+PK profiles after oral administration of 20, 60 and 180 mg are presented in Figure 1. Steady-state
+assessments for Part 2 are listed in Table 14.
+Figure 2. Mean ESN364 Plasma Concentration vs. Time Profiles in Male Healthy Subjects (Part 2, Study ESN364-CPK-101)
+
+32
+
+Reference ID: 5083095
+
+Table 14. Summary of Statistical Analysis for ESN364 Steady-State Assessment (Part 2, Study ESN364-CPK-101)
+
+a: BLQ values were replaced by LLOQ/2 for ANOVA; N = number of subjects; Cꚍ (Ctau): Concentration at end of the dosing
+
+interval; Source: Table 9 of CSR for Study 101
+
+Individual PK parameters and dose proportionality of ESN364 PK parameters assessed with inferential
+statistical analysis are presented in Table 15.
+
+33
+
+Reference ID: 5083095
+
+Table 15. Summary of ESN364 Individual PK Parameters and Statistical Analysis on ESN364 PK Parameters (Part 2, Study
+ESN364-CPK-101)
+
+Reviewer’s comments:
+Based on the 10-day PK data from multiple ascending dose oral administration of ESN364 in male
+healthy subjects in Part 2,
+•
+•
+
+The bioavailability of ESN364 increased proportionally with the dose from 20 to 180 mg q.d, as
+measured by Cmax and AUClast.
+Based on analyses of trough concentrations for the 60 and 180 mg qd dose groups, it could be
+concluded that steady state in fezolinetant plasma concentrations was quickly reached by day 2,
+i.e., after the first administration of study drug. No accumulation of ESN364 was observed after
+10 days of 60 or 180 mg q.d. administration, with mean accumulation ratio (Rac) values of 0.925
+and 1.11, respectively.
+
+Part 3- Multiple Ascending Dose in Healthy Female Participants – Panels (F, G & H)
+Part 3 consisted of 3 groups of 8 healthy women of childbearing potential administered ascending
+multiple doses of fezolinetant qd for 21 consecutive days. The suggested dose levels were: 23, 46 and 90
+mg qd. Ascending multiple doses were adjusted to 20, 60 and 180 mg qd after a light breakfast based on
+the safety, tolerability, and PK data from part 1 (SAD).
+After the first dose (Day 1), ESN364 maximal mean concentrations were reached at 3h after dosing with
+values of 142 ng/mL (20 mg q.d.), 322 ng/mL (60 mg q.d.), and 1490 ng/mL (180 mg q.d.). Similarly, after
+the 21st dose (Day 21), ESN364 maximal mean concentrations were reached at 3h after dosing with
+values of 175 ng/mL (20 mg q.d.), 418 ng/mL (60 mg q.d.), 4h after dosing with value of 1590 ng/mL (180
+mg q.d.).
+
+34
+
+Reference ID: 5083095
+
+PK profiles after oral administration of 20, 60 and 180 mg in female healthy subjects were presented in
+Figure 3. Steady-state assessment for Part 3 were listed in Table 16.
+Figure 3. Mean ESN364 Plasma Concentration vs. Time Profiles in Female Healthy Subjects (Part 3, Study ESN364-CPK-101)
+
+Table 16. Summary of Statistical Analysis for ESN364 Steady-State Assessment (Part 3, Female, Study ESN364-CPK-101)
+
+a BLQ values were replaced by LLOQ/2 for ANOVA; N = number of subjects; Cꚍ (Ctau): Concentration at end of the dosing
+
+interval; Source: Table 11 of CSR for Study 101
+
+Individual PK parameters in female subjects and dose proportionality of ESN364 PK parameters assessed
+with inferential statistical analysis were presented in Table 17.
+Table 17. Summary of ESN364 Individual PK Parameters and Statistical Analysis on ESN364 PK Parameters (Part 2, Female,
+Study ESN364-CPK-101)
+
+35
+
+Reference ID: 5083095
+
+Reviewer’s comments:
+Based on the 21-day PK data from multiple ascending dose oral administration of ESN364 in female
+healthy subjects in Part 3,
+•
+
+•
+
+Pharmacokinetics of ESN364 was not dose proportional in the range of 20 mg to 180 mg q.d. (pvalue = 0.0763). However, the pairwise comparisons between the dose showed that the
+bioavailability of ESN364 increased dose proportionally between 20 and 60 mg q.d. but was
+above the dose proportionality for the highest 180 mg q.d.; Cmax and AUClast in 180 mg q.d.
+group were significantly above dose proportionality compared to 60 mg q.d., by estimated 34%
+and 78%, respectively.
+Mean Ctrough at Day 21 was slightly higher than Day 2 with large variability. Minimal
+accumulation of ESN364 was observed after 21 days of 60 or 180 mg q.d. administration, with
+mean Rac values of 1.23 and 1.18, respectively.
+
+Gender Effect
+When comparing ESN364 exposure after single dosing or at steady-state in Part 2 (healthy males) and
+Part 3 (healthy women), peak and plasma exposures were significantly lower in males (p-value <0.0001)
+(Table 18). Gender effect seems to not be completely similar in all dose groups (point estimates ranged
+between 42 to 84% for Cmax and AUClast). Time to peak exposure was similar for two genders. Half-life
+was shorter in males in the dose groups of 20 mg QD (point estimate = 70%) and 180 mg q.d. (point
+estimate = 64%).
+Table 18. Statistical Analysis of Gender Effect on ESN634 PK parameters (MAD, Parts 2 and 3)
+
+36
+
+Reference ID: 5083095
+
+p-value: ANOVA and Wilcoxon Rank-Sum test for tmax; Day 10 in the Part 2 and Day 21 in Part 3 was pooled (Day at steadstate) for the analysis; PE: point estimate; Source: Table 13 of CSR for Study 101.
+
+PD results
+Mean profiles of change from baseline (on Day 1 and Day 21) were presented in Figure 4, Figure 5,
+Figure 6, Figure 7, Figure 8, Figure 9, Figure 10, Figure 11.
+Figure 4. Mean Change from Baseline in Testosterone (T) Concentration vs. Time Profiles (Day 1 and Day 21)
+
+Figure 5. Mean Change from Baseline in Free Testosterone (FT) Concentration vs. Time Profiles (Day 1 and Day 21)
+
+37
+
+Reference ID: 5083095
+
+Figure 6. Mean Change from Baseline in Follicle Stimulating Hormone (FSH) Concentration vs. Time Profile (Day 1 and Day 21)
+
+Figure 7. Mean Change from Baseline in Sex Hormone Binding Globulin (SHBG) Concentration vs. Time Profile (Day 1 and Day
+21)
+
+38
+
+Reference ID: 5083095
+
+Figure 8. Mean Change From Baseline in Luteinizing Hormone (LH) Concentration vs Time Profiles (Day 1 and Day 21)
+
+Figure 9. Mean Change From Baseline in Estradiol (E2) Concentration vs Time Profiles (Day 1 and Day 21)
+
+39
+
+Reference ID: 5083095
+
+Figure 10. Mean Change From Baseline in Free Estradiol (FE2) Concentration vs Time Profiles (Day 1 and Day 21)
+
+Figure 11. Mean Change From Baseline in Progesterone (P4) Concentration vs Time Profiles (Day 1 and Day 21)
+
+40
+
+Reference ID: 5083095
+
+Reviewer’s comments:
+•
+
+•
+
+After a single administration of fezolinetant (20, 60 and 180 mg), T, FT, FSH, SHBG, LH, E2, FE2
+and P4 plasma concentrations and profile shape were similar in active treatments (20, 60 and 80
+mg q.d.) and placebo.
+After multiple administration of fezolinetant (Day 21),
+o higher plasma concentrations in T, E2 and FE2 were observed for the active treatments
+(20, 60 and 80 mg q.d.) compared to placebo.
+o a decrease in SHBG plasma concentrations was observed in the treatment 180 mg q.d.
+compared to placebo and the other active treatments.
+o compared to placebo, FSH and LH plasma concentrations were slightly decreased with
+the doses 20 and 180 mg q.d.; these concentrations seem increased with the dose 60
+mg q.d. compared to placebo.
+o compared to placebo, P4 plasma concentrations were slightly decreased with the doses
+60 and 180 mg q.d.; these concentrations seem increased with the dose 20 mg q.d.
+compared to placebo.
+
+4.3.2 Healthy Subject PK and Initial Tolerability Study ESN364-CPK-102 (180 to 900 mg)
+
+41
+
+Reference ID: 5083095
+
+Title: A Phase I, Double Blind, Placebo Controlled, Single and Multiple Ascending Dose Study of ESN364
+to Evaluate Pharmacokinetics, Safety, Tolerability and Maximum Tolerated Dose in Healthy Female and
+Healthy Male Volunteers
+Objectives:
+The primary objectives were:
+•
+•
+•
+
+Assess the safety and tolerability of ESN364 following single and multiple ascending oral dose
+administration in healthy females.
+Assess the Maximum Tolerated Dose (MTD) of ESN364 following single ascending oral dose
+administration in healthy females.
+Assess the safety and tolerability of ESN364 following single oral dose administration in healthy
+males.
+
+The secondary objectives were:
+•
+•
+•
+
+•
+
+Assess the pharmacokinetics (PK) of ESN364 following single ascending oral dose administration
+Assess the PK of ESN364 following multiple ascending oral dose administration in healthy
+females.
+Assess gender differences in PK of ESN364 following single ascending dose administration in
+healthy males and females (PK assessment in male subjects is not described in this review
+because the intended target population is females).
+To investigate the preliminary PD of ESN364 after single and multiple ascending oral dose
+administration in healthy males and females (PD assessment is not described in this review
+because the doses evaluated were 180 mg or higher which are not relevant to the dose that the
+applicant is seeking for approval).
+
+Study Design:
+This was a single center, Phase 1, double-blind, placebo-controlled, single, and multiple dose escalation
+study of ESN364 in healthy male and female volunteers consisting of 3 parts. An overview of the study
+was presented in Table 19.
+Table 19. Overview of Study ESN364-CPK-102
+
+PK Assessment:
+42
+
+Reference ID: 5083095
+
+For Part 1, Blood samples for the measurement of ESN634 were to be taken predose (no more than 60
+minutes before dosing), and at 1, 1.5, 2, 3, 4, 6, 8, 12, 16, 24, and 48 hours postdose. Urine was collected
+for the measurement of ESN634 predose (no more than 60 minutes before dosing) and at regular
+intervals: 0-4, 4-8, 8-12, and 12-24 hours postdose.
+For Part 2, Blood samples for the measurement of ESN634 had to be taken predose (no more than 60
+minutes before dosing), and at 1, 1.5, 2, 3, 4, 6, 8, 12, 16, 24, and 48 hours postdose on D1 and D7. On
+D5, a trough plasma sample for ESN364 was collected before dosing. Urine was collected for the
+measurement of ESN634 predose (no more than 60 minutes before dosing) and at regular intervals, i.e.,
+0-4, 4-8, 8-12 and 12-24 hours after dosing on D1 and D7.
+For Part 3, Blood samples had to be taken predose (no more than 60 minutes before dosing), and at 1,
+1.5, 2, 3, 4, 6, 8, 12, 16, 24, and 48 hours postdose. Urine was collected for the measurement of ESN634
+predose (no more than 60 minutes before dosing) and at regular intervals: 0-4, 4-8, 8-12, and 12-24
+hours postdose.
+Subject Disposition:
+A total of 40 subjects were treated and completed the study.
+
+Results:
+Part 1- Single Ascending Dose in Healthy Female Volunteers
+Two panels (A and B), each consisting of 8 healthy female participants received oral doses of
+fezolinetant for dose escalation to define the MTD for fezolinetant. It was planned that panel A would
+receive 180, 540, 900 and 1260 mg or placebo. Based on review by the investigator and sponsor’s
+representative of the obtained safety data and available PK data in this part of the study, the 900 mg
+fezolinetant dose was eventually regarded as the MTD, and participants did not receive higher doses.
+Therefore, the participants in panel B received 360, 720 and 900 mg. The planned and actual dosing
+
+43
+
+Reference ID: 5083095
+
+scheme was as follows:
+
+The individual PK parameters and dose proportionality assessment from Part 1 were provided in Table
+20.
+Table 20. Summary of ESN364 Pharmacokinetic Parameters and Dose Proportionality Assessment (Part 1, female, Study
+ESN364-CPK-102)
+
+Reviewer’s comments:
+•
+•
+•
+
+The pharmacokinetics of ESN364 were dose proportional in terms of AUC over the 180 mg to
+900 mg dose range.
+A significant dose effect was observed on Cmax, with the dose normalized Cmax after 360 mg
+ESN364 treatment significantly higher than after 720 or 900 mg (Panel B) ESN364 treatment.
+The MTD in female subjects was 900 mg.
+
+Part 2- Multiple Ascending Dose in Healthy Female Volunteers
+44
+
+Reference ID: 5083095
+
+Two sequential panels of 8 healthy female participants each were administered fezolinetant or placebo
+qd for 7 days to assess steady-state PK levels in the higher dose range. Based on the MTD of 900 mg
+fezolinetant achieved in part 1 of the study, the oral dose levels of fezolinetant for the MAD part 2 were
+540 mg qd (MTD-2) and 720 mg qd (MTD-1) given for 7 consecutive days.
+Steady-state analysis was shown in Table 21.
+Table 21. Summary of ESN364 Steady-State Assessment (Part 2, Female, Study ESN364-CPK-102)
+
+The individual PK parameters and dose proportionality assessment from Part 2 were provided in Table
+22.
+Table 22. Summary of ESN364 Pharmacokinetic Parameters and Statistical Analysis (Part 2, Female, Study ESN364-CPK-102)
+
+a: Dose-normalized parameters were used in ANOVA; N=number of subjects; n=number of subjects with data (for 1 subject,
+
+half-life and related parameters could not be estimated, another subject had a missing urine sample); NA: not applicable; PTR:
+Peak-to-trough ratio; Rac: Drug accumulation ratio.
+Source: Table 9 of CSR for Study 102
+
+Reviewer’s comments:
+45
+
+Reference ID: 5083095
+
+•
+•
+•
+
+Steady state was achieved by day 5 for both 540 mg and 720 mg daily dosing.
+The PK were dose proportional in terms of AUC and Cmax over the 540 to 720 mg dose range. A
+significant day effect was observed, consistent with the accumulation ratio of 1.5 to 1.7.
+The t1/2, CL/F and Vz/F were comparable after the 2 administrations.
+
+4.3.3 Mass Balance Study ES364-CPK-103
+Title: A Phase 1, Open-label Study to Investigate the Absorption, Metabolism and Excretion of 14C-ESN364 in Healthy Menopausal Female Volunteers
+Primary Objectives:
+•
+
+•
+
+To evaluate the pharmacokinetics (PK) of ESN-364 and total radioactivity, in particular,
+absorption, rates and routes of excretion and extent of metabolism of ESN-364, following
+administration of a single dose of 14C-labeled ESN-364.
+To determine the mass balance of total radioactivity.
+
+Study Design:
+A total of 6 healthy menopausal female subjects (40-75 years, 50-100 kg, and 18-30 kg/m2, all inclusive)
+were planned to be enrolled. The subjects received a single oral dose with 180 mg ESN-364
+(fezolinetant) containing 270 μg of 14C-ESN-364 (1.68 Megabecquerel [MBq] [45 μCi]) under fasted
+conditions. Screening was done from Day -21 until Day -1. Eligible subjects were admitted to the clinical
+research center on Day -1. Subjects were to remain in the clinical research center until Day 8 on the
+condition that:
+1. There were no medical reasons for a longer stay, AND
+2. Sufficient recovery of administered radioactivity in excreta was achieved (90% or more of the
+administered dose), OR
+3. The total excretion (urine + feces) per 24 hours was less than 1% of the administered dose
+during 2 consecutive 24-hour intervals. The cumulative amount excreted up to the last
+collection interval in the in-house period (i.e., AE0-168h up to maximally AE0-240h) was calculated by
+the sum of the amounts excreted up to this collection interval.
+If these conditions had not been met by Day 8, subjects were to remain in the clinical research center
+until condition 2 or 3 had been met, but with a maximum prolongation of 3 days (up to and including
+Day 11). If after the 3-day prolongation, condition 2 or 3 had still not been met, subjects were to be
+requested to continue collecting all their urine and/or feces at home for another 2 days (Day 12 and Day
+13) until condition 2 or 3 had been met. If after these additional 2 days, condition 2 or 3 still had not
+been met, condition 2 could be disregarded and condition 3 had to be met by collecting 24-hour
+intervals for urine and feces once a week for up to 2 weeks (on Days 20 and 27, respectively). After this
+time if condition 3 still had not been met no further samples were to be collected and the subject would
+be discharged from the study. In case of remaining total radioactivity after the planned collection
+46
+
+Reference ID: 5083095
+
+period, the amounts excreted in the intervals after the planned collection period were to be estimated
+by interpolation (if needed). For this interpolation, the excretion rate between the previous interval and
+the next interval was to be determined and used for calculation of the amounts excreted in that interval.
+Subject Disposition:
+Six subjects were initially approved, but 1 subject was not dosed due to high blood pressure on Day 1.
+Therefore, 5 subjects were included in the study and dosed. All 5 subjects completed the study as per
+protocol.
+Results:
+Following single oral administration of 180 mg 14C-ESN-364 containing 1.68 MBq, geometric mean Cmax
+in plasma was 1528 ng/mL for ESN-364 and 1425 ng/mL for ES259564, respectively. The geometric mean
+AUC0-last value was 5449 ng h/mL for ESN-364 and 9749 ng · h/mL for ES259564. The geometric mean
+AUC0-inf was 5463 ng · h/mL for ESN-364 and 9778 ng · h/mL for ES259564. Tmax was 0.52 hours for
+ESN-364 and 1.50 hours for ES259564. The geometric mean t1/2 was 5.26 hours for ESN-364 and 6.59
+hours for ES259564 (Table 23).
+Following single oral administration of 180 mg 14C-ESN-364 containing 1.68 MBq, geometric mean Cmax
+for total radioactivity was 3396 ng eq/mL in plasma and 3144 ng eq/mL in whole blood. The geometric
+mean AUC0-last was 18116 ng eq h/mL for plasma and 15533 ng eq h/mL for whole blood. Geometric
+mean AUC0-inf was 18711 ng eq h/mL for radioactivity in plasma and 16774 ng eq h/mL for radioactivity
+in whole blood. Tmax was 0.52 hours for total radioactivity in both plasma and whole blood. The
+geometric mean t1/2 was 4.72 and 4.47 hours for total radioactivity in plasma and whole blood,
+respectively (Table 23).
+Table 23. Summary Statistics of Pharmacokinetic Parameters for ESN-364, ES259564, Total Radioactivity in Plasma, and Total
+Radioactivity in Blood
+
+Source: Table S1 of Study ESN364-CPK-103 CSR
+
+All urine and feces were collected daily up to 144 hours (Day 7) postdose. Based on quick counts, the
+recovery criteria regarding collection of radioactivity were already met by all 5 subjects on Day 7.
+Therefore, no urine and feces were collected from 144 hours postdose onwards. All subjects were
+discharged on Day 8, after the last scheduled assessments were performed.
+47
+
+Reference ID: 5083095
+
+•
+•
+•
+•
+
+•
+
+364 is extensively metabolized and that metabolite ES259564 is mainly renally excreted. These
+data also suggest the presence of other metabolites of ESN 364.
+In feces, a mean of 0.1% of the administered ESN 364 dose was excreted unchanged.
+Overall, exposure to ES259564 was similar for Cmax but approximately 2-fold higher for AUCs
+compared to parent. T1/2 was similar.
+The exposure values (Cmax and AUC) of ESN-364 and ES259564 compared to exposure values of
+total radioactivity suggest that other metabolites may exist in the systemic circulation.
+The arithmetic mean 14C-blood/plasma ratios were 0.9 between 0.5 and 16 hours postdose,
+indicating almost equal distribution of 14C-radioactivity over plasma and red blood cells without
+any relevant accumulation of 14C-radioactivity in red blood cells.
+Mean exposure (AUC0-inf) ratio for the metabolite relative to parent (ES259564/ESN-364 ratio)
+was 1.84 (ranging from 1.35 to 2.46) and the mean exposure ratio for parent relative to total
+radioactivity (ESN-364/total radioactivity ratio) was 0.30 (ranging from 0.23 to 0.35), indicating
+that the exposure to the main metabolite ES259564 was higher than to ESN-364.
+
+4.3.4 Regional Pharmacokinetic Study 2693-CL-0020 (Japanese Male and Female)
+Title: Placebo-controlled, Single and Multiple Oral Dose Study in Healthy Japanese Male and Healthy
+Japanese Pre- and Postmenopausal Female Subjects
+Primary Objectives: To evaluate the safety and tolerability of single oral dose of fezolinetant in
+nonelderly healthy Japanese male participants. To evaluate the safety and tolerability of single and
+multiple oral doses of fezolinetant in healthy Japanese male and healthy Japanese pre- and
+postmenopausal female participants.
+Study Design:
+The study consisted of 2 parts: part 1 was conducted in 16 healthy Japanese male participants (single
+dose of 15 mg or 60 mg fezolinetant or placebo), and part 2 was conducted in 28 healthy Japanese men,
+and pre- or postmenopausal women (180 mg fezolinetant or placebo for 10 days).
+For part 1, fezolinetant or placebo was administered in a parallel manner as a single oral dose under
+fasting conditions in two cohorts. In each cohort, 8 healthy Japanese male subjects were assigned to
+receive fezolinetant or placebo at a ratio of 3:1.
+• Cohort 1-1: 8 healthy Japanese males received a single dose of fezolinetant 15 mg or placebo
+• Cohort 1-2: 8 healthy Japanese males received a single dose of fezolinetant 60 mg or placebo
+For Part 2, single and multiple doses of fezolinetant or placebo are administered in 3 cohorts of subjects.
+•
+•
+
+Cohort 2-1: 12 healthy Japanese male subjects received single and multiple doses of fezolinetant
+180 mg or placebo once daily for 10 days.
+Cohort 2-2a: 8 healthy Japanese premenopausal female subjects received single and multiple doses
+of fezolinetant 180 mg or placebo once daily for 10 days.
+49
+
+Reference ID: 5083095
+
+Cohort 2-2b: 8 healthy Japanese postmenopausal female subjects received single and multiple doses
+of fezolinetant 180 mg or placebo once daily for 10 days.
+In each cohort, subjects were assigned to receive fezolinetant or placebo at a ratio of 3:1 and on Day 1
+of single dose phase, the subjects received a single administration of the assigned dose under fasting
+conditions. After 2 days of washout period, the subjects received oral administration of the same dose
+once a day for 10 days. Cohort 2-2a and Cohort 2-2b were conducted in a parallel manner. From Day 1
+to Day 9 of the multiple dose phase, the subjects received the dose after breakfast, while on Day 10, the
+subjects received the dose after fasting for at least 10 hours.
+•
+
+Subject Disposition: For Part 1, a total of 16 healthy male subjects were randomized, and 16 subjects
+completed the study. Data from all subjects were included in the analyses of safety, PK and PD.
+For Part 2, a total of 28 healthy male and female subjects were randomized, and 26 subjects completed
+the study. Data from all subjects were included in the analyses of safety, PK and PD. 2 subjects who
+received fezolinetant 180 mg discontinued the study due to TEAE during multiple dose phase. All
+randomized subjects were included in the analyses of safety, PK and PD.
+PK results: The pharmacokinetic profile of fezolinetant was investigated following single and multiple
+dosing in this study in healthy Japanese male and premenopausal female and postmenopausal female
+subjects (Table 25 and Table 26).
+Table 25 Summary of Pharmacokinetic Parameters of fezolinetant (Part 1)
+
+Parameter
+Statistic
+AUC24 (h·ng/mL)
+Mean (SD)
+%CV
+Median
+Min - Max
+AUCinf (h·ng/mL)
+Mean (SD)
+%CV
+Median
+Min - Max
+AUCinf (%extrap)
+Mean (SD)
+%CV
+Median
+Min - Max
+AUClast (h·ng/mL)
+Mean (SD)
+%CV
+Median
+Min - Max
+CL/F (L/h)
+Mean (SD)
+%CV
+Median
+Min - Max
+Cmax (ng/mL)
+
+fezolinetant
+15 mg
+(N = 6)
+
+fezolinetant
+60 mg
+(N = 6)
+
+526 (185)
+35.1
+450
+407 - 894
+
+3110 (1060)
+34.2
+2990
+1610 - 4660
+
+535 (201)
+37.6
+449
+410 - 936
+
+3140 (1090)
+34.8
+3020
+1620 - 4770
+
+1.85 (1.36)
+73.8
+1.39
+0.723 - 4.47
+
+0.974 (0.649)
+66.6
+0.739
+0.406 - 2.24
+
+523 (187)
+35.7
+445
+402 - 894
+
+3110 (1060)
+34.2
+2990
+1610 - 2940
+
+30.4 (7.63)
+25.1
+33.4
+16.0 - 36.6
+
+21.5 (8.64)
+40.3
+20.0
+12.6 - 37.1
+
+50
+
+Reference ID: 5083095
+
+Mean (SD)
+135 (19.6)
+679 (168)
+%CV
+14.5
+24.7
+Median
+140
+679
+Min - Max
+111 - 155
+484 - 884
+t1/2 (h)
+Mean (SD)
+3.29 (1.51)
+3.81 (0.505)
+%CV
+46.0
+13.2
+Median
+2.55
+3.67
+Min - Max
+2.08 - 5.68
+3.39 - 4.81
+tlag (h)
+Median
+0
+0
+Min - Max
+0
+0
+tmax (h)
+Median
+1.00
+1.50
+Min - Max
+1.00 - 1.50
+1.00 - 3.00
+VZ/F (L)
+Mean (SD)
+131 (30.6)
+115 (36.8)
+%CV
+23.3
+32.1
+Median
+123
+106
+Min - Max
+102 - 189
+80.8 - 182
+%CV, coefficient of variation; Max, maximum; Min, minimum; PKAS, pharmacokinetics analysis set
+Source: Study 2693-CL-0020, Table A12.4.3.1
+
+In Part 1, following single dosing of fezolinetant 15 and 60 mg, median tmax of fezolinetant and
+ES259564 were 1.00 hour to 1.50 hours. Mean t1/2 of fezolinetant and ES259564 were 3.29 to 3.81
+hours and 4.58 to 5.04 hours. CL/F and Vz/F ranged from 16.0 to 36.6 L/h and 102 to 189 L in 15 mg
+group and 12.6 to 37.1 L/h and 80.8 to 182 L in 60 mg group. The ranges of CL/F and Vz/F overlapped in
+both treatment groups.
+
+51
+
+Reference ID: 5083095
+
+Table 26 2693-CL-0020: Summary of Pharmacokinetic Parameters of Fezolinetant (Single and Multiple Doses, Part 2)
+
+Parameter
+Statistic
+AUC24h (h･ng/mL)
+Mean (SD)
+%CV
+AUCtau (h･ng/mL)
+Mean (SD)
+%CV
+AUCinf (h･ng/mL)
+Mean (SD)
+%CV
+AUClast (h･ng/mL)
+Mean (SD)
+%CV
+CL/F (L/h)
+Mean (SD)
+%CV
+Cmax (ng/mL)
+Mean (SD)
+%CV
+t1/2 (h)
+Mean (SD)
+%CV
+tmax (h)
+Median
+Min - Max
+VZ/F (L)
+Median
+Min - Max
+PTR
+Median
+Min - Max
+Rac (AUC)
+Median
+Min - Max
+
+Fezolinetant 180
+mg/ Male
+n=9
+
+Single Dose (Day 1)
+Fezolinetant 180 mg/
+Premenopausal Female
+n=6
+
+Fezolinetant 180 mg/
+Postmenopausal Female
+n=6
+
+Fezolinetant 180
+mg/ Male
+n=8
+
+8560 (3240)
+37.8
+
+11200 (3930)
+35.1
+
+15900 (5800)
+36.5
+
+NC
+NC
+
+NC
+NC
+
+12300 (3050)
+24.8
+
+NC
+NC
+
+NC
+NC
+
+NC
+NC
+16200 (5690)
+35.0
+
+Fezolinetant 180 mg/
+Postmenopausal Female
+n=5
+NC
+NC
+27200 (9290)
+34.2
+
+8780 (3400)
+38.7
+
+11600 (4190)
+36.2
+
+17600 (7430)
+42.1
+
+NC
+NC
+
+NC
+NC
+
+NC
+NC
+
+8750 (3400)
+38.9
+
+11500 (4200)
+36.4
+
+17400 (7180)
+41.3
+
+NC
+NC
+
+NC
+NC
+
+NC
+NC
+
+17.6 (7.28)
+41.4
+
+11.9 (4.88)
+41.1
+
+15.6 (4.53)
+29.1
+
+12.4 (4.71)
+38.1
+
+7.31 (2.56)
+35.1
+
+23.9 (9.87)
+41.3
+1790 (485)
+27.1
+4.93 (1.31)
+26.6
+1.50
+1.00 - 3.00
+
+1970 (610)
+30.9
+4.83 (0.799)
+16.5
+1.50
+1.00 - 4.00
+
+2320 (541)
+23.3
+
+2170 (436)
+20.1
+
+7.24 (1.71)
+23.7
+
+6.66 (1.13)
+16.9
+
+2.00
+1.00 - 3.00
+
+1.25
+1.00 - 3.00
+
+2370 (699)
+29.5
+6.27 (0.626)
+10.0
+1.75
+1.50 - 3.00
+
+3490 (710)
+20.4
+8.98 (2.39)
+26.6
+1.50
+1.00 - 1.50
+
+162 (75.3)
+46.4
+
+117 (31.4)
+26.8
+
+114 (23.6)
+20.6
+
+153 (63.3)
+41.4
+
+110 (35.8)
+32.7
+
+88.2 (12.4)
+14.1
+
+NC
+NC
+
+NC
+NC
+
+NC
+NC
+
+46.6 (57.8)
+123.9
+
+32.5 (39.7)
+122.1
+
+16.4 (16.0)
+97.6
+
+NC
+NC
+
+NC
+NC
+
+NC
+NC
+
+1.47 (0.318)
+21.7
+
+1.46 (0.150)
+10.3
+
+1.57 (0.151)
+9.6
+
+52
+
+Reference ID: 5083095
+
+Multiple Dose (Day 10)
+Fezolinetant 180 mg/
+Premenopausal Female
+n=6
+
+The PK analysis set was the set of participants among the safety population who had had at least 1 time point of sample taken for drug concentration
+assessment.
+Participants in part 2 were healthy Japanese male and pre- or postmenopausal female participants who received single and multiple doses of fezolinetant.
+CV: coefficient of variation; Max: maximum; Min: minimum; n: number of participants; NC: not calculated; PTR: peak to trough ratio.
+Source: Study 2693-CL-0020, Tables B12.4.3.1.1 and B12.4.3.1.2
+
+53
+
+Reference ID: 5083095
+
+In Part 2, following single and multiple dosing of fezolinetant 180 mg, median tmax of fezolinetant and
+ES259564 were 1.25 to 2.00 hours and 2.00 to 3.00 hours. The t1/2 was longer in postmenopausal
+female subjects compared to male and premenopausal female subjects. In postmenopausal female
+subjects, a higher Cmax and AUC were observed compared to male and premenopausal female subjects.
+A slight accumulation of fezolinetant and ES259564 was observed after 10 days of fezolinetant 180 mg
+administration, with mean Rac (AUC) ranged 1.46 to 1.57 and 1.14 to 1.22, respectively. Single dosing
+data indicated a dose proportional increase in AUCinf, AUClast and Cmax over the dose range of 15 to
+180 mg fezolinetant. With once daily multiple dosing, steady state reached on the day 3 of dosing in all
+treatment groups.
+
+PD results:
+In Part 1, luteinizing hormone (LH), follicle stimulating hormone (FSH), sex hormone binding globulin
+(SHBG) and total and free testosterone were measured as PD parameters. (Table 27)
+Table 27 Change from Baseline of Pharmacodynamic Parameters (Part 1)
+
+Parameter
+Statistic
+LH
+AUC12 (h·mIU/mL)
+AUC24 (h·mIU/mL)
+AUC48 (h·mIU/mL)
+Cmin (mIU/mL)
+tmin (h) †
+FSH
+AUC12 (h·mIU/mL)
+AUC24 (h·mIU/mL)
+AUC48 (h·mIU/mL)
+Cmin (mIU/mL)
+tmin (h) †
+SHBG
+AUC12 (h·nmol/L)
+AUC24 (h·nmol/L)
+AUC48 (h·nmol/L)
+Cmin (nmol/L)
+tmin (h) †
+total testosterone
+AUC12 (h·ng/mL)
+AUC24 (h·ng/mL)
+AUC48 (h·ng/mL)
+Cmin (ng/mL)
+tmin (h) †
+
+Mean (SD)
+
+fezolinetant 15
+mg
+(N = 6)
+Mean (SD)
+
+fezolinetant 60
+mg
+(N = 6)
+Mean (SD)
+
+-4.86 (12.6)
+-10.7 (28.1)
+-40.3 (61.9)
+-2.47 (1.44)
+7.50 (1.50 - 24.0)
+
+-12.1 (16.9)
+-12.7 (28.2)
+-15.5 (38.7)
+-2.06 (1.16)
+4.00 (3.00 - 6.00)
+
+-21.4 (11.9)
+-23.2 (35.5)
+1.92 (74.7)
+-2.30 (0.794)
+7.00 (4.00 - 12.0)
+
+-2.83 (2.38)
+-5.00 (3.17)
+-6.07 (3.54)
+-0.513 (0.188)
+6.00 (3.00 - 12.0)
+
+-3.59 (5.27)
+-4.24 (10.1)
+-0.419 (16.7)
+-0.483 (0.427)
+6.00 (6.00 - 12.0)
+
+-4.61 (2.88)
+-9.20 (7.46)
+-7.07 (13.7)
+-0.629 (0.330)
+12.0 (6.00 - 16.0)
+
+27.6 (131)
+60.6 (338)
+216 (685)
+-4.91 (5.96)
+16.0 (0 - 16.0)
+
+65.8 (106)
+120 (216)
+337 (460)
+1.84 (8.14)
+5.00 (1.50 - 16.0)
+
+96.6 (113)
+310 (187)
+815 (363)
+0.932 (8.89)
+9.00 (3.00 - 16.0)
+
+1.86 (2.23)
+6.41 (8.59)
+23.6 (18.8)
+-0.433 (0.142)
+12.0 (8.00 - 12.0)
+
+-12.5 (9.40)
+-5.55 (15.7)
+20.0 (23.5)
+-2.55 (0.858)
+6.00 (6.00 - 8.00)
+
+-23.7 (10.6)
+-30.7 (21.1)
+-14.9 (33.0)
+-3.71 (1.09)
+12.0 (6.00 - 12.0)
+
+Placebo
+(N = 4)
+
+54
+
+Reference ID: 5083095
+
+free testosterone
+AUC12 (h·pg/mL)
+AUC24 (h·pg/mL)
+AUC48 (h·pg/mL)
+Cmin (pg/mL)
+tmin (h) †
+
+13.5 (26.9)
+-29.5 (33.4)
+16.0 (71.9)
+-23.7 (57.0)
+63.5 (150)
+51.9 (93.9)
+-3.16 (2.47)
+-7.38 (2.11)
+12.0 (8.00 - 16.0)
+6.00 (6.00 - 12.0)
+†, Median (minimum - maximum)
+Source: Tables A12.5.8.1, A12.5.9.1, A12.5.10.1, A12.5.11.1 and A12.5.12.1
+
+-55.0 (29.8)
+-79.7 (47.2)
+-49.9 (60.5)
+-9.11 (3.19)
+12.0 (8.00 - 12.0)
+
+In Part 1, mean LH, FSH, total and free testosterone serum concentrations decreased after a single
+dosing of fezolinetant compared to placebo and greater in 60 mg group than 15 mg group. Maximum
+decrease was observed between 6 to 12 hours postdose. Thereafter, all of these concentrations
+returned to baseline by 24 hours postdose. There was no notable change of mean SHBG serum
+concentration after a single dosing of fezolinetant.
+
+In Part 2, LH, FSH, SHBG, total and free testosterone, estradiol and progesterone were measured as PD
+parameters (Table 28 and Table 29).
+
+55
+
+Reference ID: 5083095
+
+Table 28 Change from Baseline of Pharmacodynamic Parameters in Part 2 on Day 1
+
+Parameter
+Statistic
+Placebo
+(N = 3)
+LH
+AUC12 (h·mIU/mL)
+AUC24 (h·mIU/mL)
+AUC48 (h·mIU/mL)
+Cmin (mIU/mL)
+tmin (h) †
+FSH
+AUC12 (h·mIU/mL)
+AUC24 (h·mIU/mL)
+AUC48 (h·mIU/mL)
+Cmin (mIU/mL)
+tmin (h) †
+SHBG
+AUC12 (h·nmol/L)
+AUC24 (h·nmol/L)
+AUC48 (h·nmol/L)
+Cmin (nmol/L)
+tmin (h) †
+Total testosterone
+AUC12 (h·ng/mL)
+AUC24 (h·ng/mL)
+AUC48 (h·ng/mL)
+Cmin (ng/mL)
+tmin (h) †
+
+Mal
+e
+
+Single Dose
+(Day 1)
+Premenopausal Female
+fezolinetant
+180 mg
+(N = 9)
+Mean (SD)
+
+Placebo
+(N = 2)
+
+3.54 (4.85)
+9.21 (6.38)
+11.6 (20.5)
+-0.849 (0.510)
+8.00 (4.00 - 24.0)
+
+Mean (SD)
+
+fezolinetant
+180 mg (N
+= 6)
+Mean (SD)
+
+Mean (SD)
+
+Mean (SD)
+
+-21.6 (9.29)
+-37.9 (21.6)
+-36.0 (35.7)
+-2.26 (0.675)
+12.0 (6.00 - 24.0)
+
+-3.97 (NA)
+-4.08 (NA)
+-16.8 (NA)
+-1.17 (NA)
+27.0 (6.00 - 48.0)
+
+-21.0 (14.9)
+-20.3 (28.0)
+-3.55 (45.3)
+-2.62 (1.39)
+7.00 (4.00 - 16.0)
+
+2.31 (NA)
+-9.66 (NA)
+-8.92 (NA)
+-4.41 (NA)
+12.8 (1.50 - 24.0)
+
+-138 (38.3)
+-194 (85.7)
+-196 (79.8)
+-16.2 (4.75)
+10.0 (6.00 - 16.0)
+
+-0.869 (2.09)
+-0.676 (5.49)
+5.63 (14.7)
+-0.239 (0.180)
+12.0 (8.00 - 16.0)
+
+-8.76 (5.07)
+-19.4 (9.84)
+-21.7 (16.7)
+-1.13 (0.510)
+12.0 (6.00 - 24.0)
+
+-6.63 (NA)
+-13.4 (NA)
+-31.9 (NA)
+-0.950 (NA)
+24.8 (1.50 - 48.0)
+
+-18.7 (17.4)
+-32.6 (33.3)
+-44.4 (60.5)
+-2.41 (2.02)
+8.00 (6.00 - 16.0)
+
+7.46 (NA)
+-10.6 (NA)
+15.4 (NA)
+-6.21 (NA)
+32.0 (16.0 - 48.0)
+
+-111 (35.2)
+-215 (85.6)
+-206 (209)
+-16.0 (3.68)
+10.0 (6.00 - 16.0)
+
+-42.2 (104)
+-74.7 (239)
+-49.6 (477)
+-7.77 (5.43)
+16.0 (12.0 - 16.0)
+
+-9.60 (40.7)
+-10.6 (82.4)
+81.2 (131)
+-6.54 (2.71)
+12.0 (0 - 16.0)
+
+11.8 (NA)
+-50.5 (NA)
+-107 (NA)
+-12.1 (NA)
+8.50 (1.00 - 16.0)
+
+17.5 (136)
+48.4 (365)
+234 (663)
+-10.4 (16.0)
+6.00 (4.00 - 16.0)
+
+156 (NA)
+275 (NA)
+581 (NA)
+-2.97 (NA)
+8.50 (1.00 - 16.0)
+
+75.4 (112)
+162 (242)
+388 (588)
+-9.44 (13.7)
+10.0 (6.00 - 48.0)
+
+7.22 (10.6)
+20.7 (17.9)
+59.8 (29.9)
+-0.303 (1.00)
+8.00 (8.00 - 12.0)
+
+-25.4 (9.93)
+-49.5 (17.4)
+-52.7 (38.8)
+-3.59 (0.782)
+12.0 (8.00 - 24.0)
+
+-0.169 (NA)
+-0.449 (NA)
+0.351 (NA)
+-0.0717 (NA)
+14.0 (12.0 - 16.0)
+
+-0.256 (0.308)
+-0.673 (0.658)
+-0.186 (0.929)
+-0.0739 (0.0425)
+12.0 (6.00 - 16.0)
+
+-0.0513 (NA)
+-0.411 (NA)
+-0.191 (NA)
+-0.0533 (NA)
+10.0 (8.00 - 12.0)
+
+-0.258 (0.320) ‡
+-0.910 (0.406) ‡
+-1.43 (0.806) ‡
+-0.0667 (0.0113) ‡
+12.0 (1.00 - 16.0) ‡
+
+Mean (SD)
+
+56
+
+Reference ID: 5083095
+
+Postmenopausal Female
+Placebo (N
+= 2)
+
+fezolinetant 180
+mg (N = 6)
+
+Parameter
+Statistic
+Placebo
+(N = 3)
+Free testosterone
+AUC12 (h·pg/mL)
+AUC24 (h·pg/mL)
+AUC48 (h·pg/mL)
+Cmin (pg/mL)
+tmin (h) †
+Estradiol
+AUC12 (h·pg/mL)
+AUC24 (h·pg/mL)
+AUC48 (h·pg/mL)
+Cmin (pg/mL)
+tmin (h) †
+
+Male
+
+Mean (SD)
+12.9 (30.3)
+39.3 (47.3)
+138 (95.3)
+-1.66 (2.71)
+8.00 (8.00 - 12.0)
+NC
+NC
+NC
+NC
+NC
+
+fezolinetant
+180 mg
+(N = 9)
+Mean (SD)
+-53.9 (19.2)
+-109 (41.3)
+-105 (88.2)
+-8.15 (1.33)
+12.0 (6.00 - 16.0)
+NC
+NC
+NC
+NC
+NC
+
+Single Dose
+(Day 1)
+Premenopausal Female
+Placebo (N = 2)
+fezolinetant
+180 mg (N
+= 6)
+Mean (SD)
+Mean (SD)
+
+Mean (SD)
+
+Mean (SD)
+
+-0.463 (NA)
+-1.76 (NA)
+1.84 (NA)
+-0.400 (NA)
+8.50 (1.00 - 16.0)
+
+0.300 (1.83)
+-0.867 (3.02)
+2.20 (5.21)
+-0.272 (0.122)
+16.0 (6.00 - 16.0)
+
+0.438 (NA)
+-2.56 (NA)
+-3.96 (NA)
+-0.433 (NA)
+16.0 (16.0 - 16.0)
+
+-0.583 (1.32)
+-3.55 (2.49)
+-6.42 (5.33)
+-0.361 (0.124)
+12.0 (12.0 - 16.0)
+
+68.4 (NA)
+242 (NA)
+859 (NA)
+-0.600 (NA)
+7.00 (6.00 - 8.00)
+
+-34.0 (179) ‡
+96.3 (669) ‡
+834 (1670) ‡
+-25.0 (19.8) ‡
+8.00 (6.00 - 16.0) ‡
+
+NA (NA)§
+NA (NA)§
+NA (NA)§
+NA (NA)§
+NA §
+
+83.6 (NA) ¶
+260 (NA) ¶
+676 (NA) ¶
+-1.13 (NA) ¶
+12.0 ¶
+
+-0.103 (NA) ¶
+-0.263 (NA) ¶
+-0.583 (NA) ¶
+-0.0133 (NA) ¶
+2.00 ¶
+
+-4.13 (NA) ‡‡
+-8.85 (NA) ‡‡
+-18.2 (NA) ‡‡
+-0.395 (NA) ‡‡
+10.0 (4.00 - 16.0) ‡‡
+
+Progesterone
+AUC12 (h·ng/mL)
+AUC24 (h·ng/mL)
+AUC48 (h·ng/mL)
+Cmin (ng/mL)
+tmin (h) †
+
+NC
+NC
+-0.449 (NA)
+-1.56 (2.34) ††
+NC
+NC
+-0.849 (NA)
+-3.89 (5.11) ††
+-0.989 (NA)
+-8.09 (11.3) ††
+NC
+NC
+-0.0583 (NA)
+-0.243 (0.278) ††
+NC
+NC
+1.25 (1.00 - 1.50) 16.0 (1.00 - 48.0) ††
+NC
+NC
+†, Median (minimum - maximum); ‡, n = 5; §, n = 0; ¶, n = 1; ††, n = 4; ‡‡, n = 2
+Source: Tables B12.5.8.1.1, B12.5.9.1.1, B12.5.10.1.1, B12.5.11.1.1, B12.5.12.1.1, B12.5.13.1.1 and B12.5.14.1.1
+
+57
+
+Reference ID: 5083095
+
+Postmenopausal Female
+Placebo (N = 2)
+fezolinetant 180
+mg (N = 6)
+
+Table 29 Change from Baseline of Pharmacodynamic Parameters in Part 2 on Day 10
+
+Parameter
+Statistic
+
+Placebo (N = 3)
+
+Male
+
+fezolinetant 180 mg
+(N = 8)
+
+Multiple Dose (Day 10)
+Premenopausal Female
+Placebo (N = 2)
+fezolinetant
+180 mg (N =
+6)
+Mean (SD)
+Mean (SD)
+
+Mean (SD)
+Mean (SD)
+LH
+AUCtau (h·mIU/mL)
+3.02 (13.7)
+-13.3 (18.2)
+-6.07 (NA)
+4.65 (41.7)
+Cmin (mIU/mL)
+-0.986 (0.679)
+-1.95 (0.606)
+-1.28 (NA)
+-1.96 (1.15)
+tmin (h) †
+48.0 (8.00 - 48.0)
+8.00 (4.00 - 12.0)
+20.0 (16.0 - 24.0)
+5.00 (3.00 - 6.00)
+FSH
+AUCtau (h·mIU/mL)
+-8.64 (10.0)
+-12.9 (12.0)
+-73.4 (NA)
+-67.4 (154)
+Cmin (mIU/mL)
+-0.582 (0.584)
+-0.994 (0.602)
+-3.42 (NA)
+-3.64 (6.18)
+tmin (h) †
+12.0 (8.00 - 48.0)
+12.0 (8.00 - 16.0)
+16.0 (16.0 - 16.0)
+6.00 (6.00 - 48.0)
+SHBG
+AUCtau (h·nmol/L)
+-349 (186)
+46.6 (169)
+-370 (NA)
+-199 (685)
+Cmin (nmol/L)
+-17.2 (8.19)
+-2.73 (4.77)
+-18.5 (NA)
+-30.6 (33.2)
+tmin (h) †
+1.50 (1.00 - 12.0)
+5.00 (1.00 - 16.0)
+7.50 (3.00 - 12.0)
+5.00 (0 - 16.0)
+Total testosterone
+AUCtau (h·ng/mL)
+-4.67 (43.3)
+-47.2 (24.5)
+1.24 (NA)
+-0.428 (1.22)
+Cmin (ng/mL)
+-1.14 (2.00)
+-3.59 (0.962)
+-0.0167 (NA)
+-0.0689 (0.0586)
+tmin (h) †
+8.00 (8.00 - 12.0)
+10.0 (6.00 - 12.0)
+12.0 (12.0 - 12.0)
+12.00 (6.00 - 16.0)
+Free testosterone
+AUCtau (h·pg/mL)
+52.8 (53.2)
+-101 (52.3)
+-2.03 (NA)
+-2.06 (2.32)
+Cmin (pg/mL)
+-1.86 (2.43)
+-8.10 (1.65)
+-0.350 (NA)
+-0.356 (0.100)
+tmin (h) †
+8.00 (6.00 - 12.0)
+12.0 (6.00 - 12.0)
+16.0 (16.0 - 16.0)
+12.0 (1.50 - 16.0)
+Estradiol
+AUCtau (h·pg/mL)
+NC
+NC
+1880 (NA)
+-570 (1970) §
+Cmin (pg/mL)
+NC
+NC
+58.4 (NA)
+-41.7 (78.2) §
+tmin (h) †
+NC
+NC
+10.0 (8.00 - 12.0)
+12.0 (1.50 - 12.0) §
+Progesterone
+AUCtau (h·ng/mL)
+NC
+NC
+174 (NA)
+29.6 (72.3) ‡
+Cmin (ng/mL)
+NC
+NC
+5.24 (NA)
+0.643 (1.90) ‡
+tmin (h) †
+NC
+NC
+4.00 (0 - 8.00)
+3.50 (0 - 12.0) ‡
+†, Median (minimum - maximum); ‡, n = 4; §, n = 5; ¶, n = 0; ††, n = 1
+Source: Tables B12.5.8.1.2, B12.5.9.1.2, B12.5.10.1.2, B12.5.11.1.2, B12.5.12.1.2, B12.5.13.1.2 and B12.5.14.1.2
+
+58
+
+Reference ID: 5083095
+
+Postmenopausal Female
+Placebo (N
+fezolinetant 180
+= 2)
+mg (N = 5)
+Mean (SD)
+
+Mean (SD)
+
+50.4 (NA)
+-3.24 (NA)
+2.00 (1.00 - 3.00)
+
+-230 (111)
+-15.8 (4.02)
+12.0 (6.00 - 12.00)
+
+140 (NA)
+-1.67 (NA)
+9.50 (3.00 - 16.0)
+
+-253 (190)
+-16.6 (8.42)
+12.0 (6.00 - 16.0)
+
+101 (NA)
+-25.0 (NA)
+4.00 (0 - 8.00)
+
+179 (961)
+-21.2 (55.0)
+8.00 (0 - 48.0)
+
+0.0538 (NA)
+-0.0533 (NA)
+9.00 (6.00 - 12.0)
+
+-0.392 (0.434) ‡
+-0.0683 (0.00430) ‡
+14.0 (6.00 - 16.0) ‡
+
+-7.28 (NA)
+-0.533 (NA)
+9.00 (6.00 - 12.0)
+
+-4.27 (1.26)
+-0.367 (0.111)
+12.0 (0 - 16.0)
+
+NA (NA) ¶
+NA (NA) ¶
+NA ¶
+
+-729 (NA)††
+-31.4 (NA)††
+0††
+
+-0.320 (NA) ††
+-0.0133 (NA) ††
+0 ††
+
+-0.498 (NA) ††
+-0.0233 (NA) ††
+0 ††
+
+In part 2, mean LH, FSH, total and free testosterone serum concentrations decreased after single and
+multiple dosing of fezolinetant. Maximum decrease was observed between 6 to 12 hours postdose.
+Thereafter, these concentrations returned to baseline by 48 hours postdose. There were no remarkable
+changes of SHBG serum concentration in fezolinetant dose groups compared to placebo groups.
+The individual estradiol and progesterone serum concentrations showed high variability and were
+quantifiable in a limited number of subjects.
+Pharmacodynamic parameters of LH, FSH, total testosterone and free testosterone were observed to
+have a similar tendency in terms of AUC and Cmin after single and multiple dosing.
+For LH and FSH, a decrease was observed in males, premenopausal females and postmenopausal
+females. For total and free testosterone, a decrease was observed in males.
+In all pharmacodynamic parameters, no tendencies were observed in Cpredose from Day 1 to Day 10.
+Conclusion:
+•
+•
+
+•
+•
+•
+
+•
+•
+•
+
+AUC and Cmax of fezolinetant and ES259564 were similar between healthy Japanese male and
+premenopausal female and slightly higher in postmenopausal female.
+Visual inspection of the single dosing data indicated a dose proportional increase in AUCinf,
+AUClast and Cmax over the dose range of 15 to 180 mg fezolinetant when it was assessed in
+healthy Japanese male.
+With once daily multiple dosing of 180 mg fezolinetant, fezolinetant and ES259564
+concentrations reached steady state by day 3 of dosing.
+Slight accumulation of fezolinetant and ES259564 were observed after multiple dosing of
+fezolinetant.
+The treatment of fezolinetant had an impact of decrease on LH and FSH serum concentrations in
+male, premenopausal female, and postmenopausal female. In male, the treatment of
+fezolinetant had an impact of decrease on total and free testosterone serum concentrations.
+The pharmacodynamic parameters of LH, FSH, total testosterone and free testosterone
+decreased with increased dose of fezolinetant within the dose range of 15 to 180 mg in males.
+The pharmacodynamic parameters of LH and FSH decreased in both pre- and postmenopausal
+female after administration of fezolinetant.
+Single and multiple oral doses of fezolinetant in healthy Japanese male and female (pre- and
+postmenopausal) subjects were safe and well tolerated.
+
+4.3.5 Regional Pharmacokinetic Study 2693-CL-0030 (CHINESE FEMALE)
+Title: An Open-Label, Single and Multiple Dose Study to Evaluate the Pharmacokinetics and Safety of
+Fezolinetant in Healthy Chinese Female Subjects
+
+59
+
+Reference ID: 5083095
+
+Primary Objective: This study was designed to evaluate the pharmacokinetic(s) (PK) and safety of
+fezolinetant after single-dose and multiple-dose administration in healthy Chinese female subjects.
+Study Design: This is an open-label study incorporating a single-dose and multiple-dose period to
+evaluate the pharmacokinetics and safety of fezolinetant (Figure 12).
+Figure 12 Study design scheme of 2693-CL-0030
+
+ESV: end-of-study visit
+a). ESV took place 19 to 23 days after the last pharmacokinetic sample was collected (or at early discontinuation
+from the study).
+b). Dose administration on days 1, 4, 7 and 16 was in the morning after an approximate 10-hour fast and
+approximately 4 hours before the next meal. Dose administration on days 10 through 15 was after breakfast. Each
+dose administration was with 150-mL of water.
+
+Participants received single doses of 15 mg fezolinetant on day 1, 30 mg on day 4, and 60 mg on day 7.
+Repeated doses of 30 mg fezolinetant were given daily from day 10 to day 16. Blood samples were
+collected pre-dose on days 10, 11, 12, 13, 14, and 15 and at pre-dose, 0.5, 1, 1.5, 2, 3, 4, 6, 8, 12, 24, and
+48 hours post-dose on day 1, 4, 7, and 16.
+Subject Disposition: A total of 16 healthy postmenopausal female subjects were randomized, and 16
+subjects completed the study. Data from all subjects were included in the analyses of safety and PK.
+PK results:
+PK parameters of fezolinetant are summarized for single ascending dose and multiple doses in Chinese
+female subjects (Table 30)
+Table 30 Pharmacokinetic Parameters of Fezolinetant (Single and Multiple Dose)
+
+Parameter
+Statistics
+Cmax (ng/mL)
+Mean (SD)
+%CV
+tmax (h)
+Min, Max
+
+Fezolinetant
+Day 1
+15 mg
+n = 16
+
+Single Dose
+Fezolinetant
+Day 4
+30 mg
+n = 16
+
+Fezolinetant
+Day 7
+60 mg
+n = 16
+
+Multiple Dose
+Fezolinetant
+Day 16
+30 mg qd
+n = 16
+
+221 (87.9)
+39.7
+
+439 (92.9)
+21.1
+
+834 (268)
+32.1
+
+481 (104)
+21.7
+
+0.500, 4.00
+
+0.500, 3.00
+
+1.00, 4.00
+
+0.500, 4.00
+
+60
+
+Reference ID: 5083095
+
+Median
+1.50
+1.50
+1.75
+1.25
+tlag (h)
+Min, Max
+0, 0
+0, 0
+0, 0
+0, 0
+Median
+0
+0
+0
+0
+AUC24h (h*ng/mL)
+Mean (SD)
+1240 (362)
+2330 (659)
+4520 (1240)
+NC
+%CV
+29.3
+28.3
+27.4
+NC
+AUCtau (h*ng/mL)
+Mean (SD)
+NC
+NC
+NC
+2690 (839)
+%CV
+NC
+NC
+NC
+31.2
+AUCinf (h*ng/mL)
+Mean (SD)
+1330 (441)
+2530 (794)
+4930 (1470)
+NC
+%CV
+33.2
+31.3
+29.8
+NC
+AUCinf (%extrap)
+Mean (SD)
+2.01 (1.24)
+1.14 (0.413)
+1.15 (0.353)
+NC
+%CV
+61.5
+36.1
+30.8
+NC
+AUClast (h*ng/mL)
+Mean (SD)
+1300 (432)
+2500 (776)
+4870 (1440)
+NC
+%CV
+33.2
+31.0
+29.6
+NC
+t1/2 (h)
+Mean (SD)
+6.12 (1.72)
+7.69 (0.71)
+7.44 (0.707)
+9.74 (1.320)
+%CV
+28.0
+9.2
+9.5
+13.6
+CL/F (L/h)
+Mean (SD)
+12.6 (4.84)
+12.9 (3.95)
+13.2 (3.82)
+12.2 (3.89)
+%CV
+38.3
+30.6
+28.9
+31.8
+Vz/F (L)
+Mean (SD)
+104 (27.1)
+142 (40.8)
+139 (32.5)
+171 (56.3)
+%CV
+26.0
+28.8
+23.4
+32.9
+PTR
+Mean (SD)
+NC
+NC
+NC
+29.9 (14.6)
+%CV
+NC
+NC
+NC
+48.9
+Rac (AUC)
+Mean (SD)
+NC
+NC
+NC
+1.15 (0.132)
+%CV
+NC
+NC
+NC
+11.4
+Rac (Cmax)
+Mean (SD)
+NC
+NC
+NC
+1.12 (0.224)
+%CV
+NC
+NC
+NC
+20.1
+All registered participants who received at least 1 dose of the study drug and have had at least 1 time point of
+sample taken for study drug concentration assessments (pharmacokinetic analysis set).
+CV: coefficient of variation; Max: maximum; Min: minimum; n: number of participants; NC: not calculated;
+PTR: peak to trough ratio.
+Source: Study 2693-CL-0030, Tables 6 and 7
+
+Fezolinetant exhibited rapid absorption with median tmax 1.50 to 1.75 hours after single dose
+administration of fezolinetant tablets in the fasted state, then the plasma levels declined with mean t1/2
+of 6.12 to 7.69 hours at dose levels of 15, 30, and 60 mg.
+There was an observed dose proportional increase in Cmax, AUCinf, and AUClast for fezolinetant across
+the 15, 30, and 60 mg doses studied. The drug exposure parameters had a low to moderate variability
+(21.1% to 39.7%) at the dose levels tested.
+
+61
+
+Reference ID: 5083095
+
+Following multiple administration of 30 mg fezolinetant qd for 7 days (day 10 to day 16), median tmax
+was 1.25 hours and the steady state was achieved on the second day after starting multiple dose
+administration (day 11). Fezolinetant had minimal accumulation after 7 days of qd dosing of 30 mg with
+accumulation ratios (Rac [AUC] and Rac [Cmax]) of 1.15 and 1.12, respectively.
+Metabolite ES259564 following single dose of fezolinetant had a median tmax of 1.50 to 2.00 hours and
+the plasma levels declined with mean t1/2 ranging from 5.72 to 6.31 hours across the doses tested.
+Metabolite ES259564 showed a dose proportional increase in Cmax, AUCinf and AUClast following single
+dose administration of 15, 30 and 60 mg fezolinetant. After multiple administration of 30 mg
+fezolinetant qd for 7 days (from day 10 to day 16), there was a marginal accumulation (Rac [AUC] and
+Rac [Cmax] were both 1.17) of the metabolite.
+Metabolite ES259564 systemic exposure was less than (not exceeding 70%) the parent AUC. The
+metabolite to parent ratio (MPR) ranged from 0.652 to 0.696 following single and multiple dose
+administration of fezolinetant.
+Conclusion:
+•
+
+•
+
+•
+
+•
+
+Fezolinetant exhibited rapid absorption and formation of the ES259564 metabolite in healthy
+female Chinese subjects. A median tmax of 1.50 to 1.75 hours was exhibited after single-dose
+administration of fezolinetant tablets in the fasted state and a median steady state tmax of 1.25
+hours after multiple-dose administration.
+Plasma levels of fezolinetant declined with a mean t1/2 of 6.12 to 7.69 hours at dose levels of 15, 30
+and 60 mg and the steady state was achieved on the second day of the multiple-dose period (Day
+11) after multiple administration of 30 mg fezolinetant.
+There was a dose-proportional increase in Cmax, AUCinf, and AUClast for fezolinetant and its
+metabolite, ES259564, across the 15, 30, and 60 mg doses. Fezolinetant and its metabolite showed
+minimal accumulation after 30 mg multiple-dose administration once daily for 7 days and the
+metabolite ES259564 systemic exposure was less than the parent AUC (not exceeding 70%).
+Oral administration of fezolinetant was safe and well-tolerated after single-dose (15 to 60 mg) and
+7-day multiple-dose (30 mg once daily) administration in healthy Chinese female subjects. No new
+safety findings were identified during the study.
+
+4.3.6. Dedicated Hepatic Impairment Study 2693-CL-0007
+Title: A Phase 1 Study to Investigate the Effect of Mild and Moderate Hepatic Impairment on the
+Pharmacokinetics, Safety and Tolerability of Fezolinetant Compared to Subjects with Normal Hepatic
+Function
+
+62
+
+Reference ID: 5083095
+
+Study Objectives:
+
+Study Design:
+This was an open-label, single oral dose study in female participants comprising 3 groups (groups 1.1 to
+1.3) based on hepatic function. The study was conducted at 4 study sites in the US. Eligible participants
+were admitted to the clinical unit on day -1 and were residential for a single period of 6 days/5 nights.
+On day 1, participants received a single oral dose of 30 mg fezolinetant under fasting conditions
+followed by a 96-hour in-house blood and urine sampling period. Participants were to remain
+semirecumbent for 4 hours postdose. Standard safety and tolerability assessments were conducted.
+Inclusion/Exclusion Criteria:
+Female participants between 18 to 75 years of age, inclusive, were enrolled in this study. Each
+participant had either normal hepatic function, or mild (Child-Pugh classification Class A, score 5 or 6) or
+moderate (Child-Pugh classification Class B, score 7 to 9) hepatic impairment. Healthy participants with
+normal hepatic function were matched (1:1) to the participants with mild and/or moderate hepatic
+impairment by age (± 10 years), BMI (± 20%), race and sex.
+PK Assessment:
+
+63
+
+Reference ID: 5083095
+
+•
+
+•
+
+Blood samples for fezolinetant pharmacokinetics and ES259564 (fezolinetant metabolite)
+concentrations were collected predose on day 1 and at the following postdose time points on
+day 1: 0.5, 1, 1.5, 2, 3, 4, 6, 8, 12, 24, 36, 48, 72 and 96 hour(s).
+Urine samples for fezolinetant pharmacokinetics and ES259564 (fezolinetant metabolite)
+concentrations were collected predose on day 1 and at the following postdose intervals on day
+1: 0 to 4, 4 to 8, 8 to 12, 12 to 24, 24 to 36, 36 to 48, 48 to 72 and 72 to 96 hours.
+
+Subject Disposition:
+A total of 26 participants (8 participants with mild hepatic impairment, 8 participants with moderate
+hepatic impairment and 10 participants with normal hepatic function) were enrolled and completed the
+treatment, the investigational period, and the follow-up as per the protocol.
+One participant in the normal hepatic function group (who was matched to both a participant with mild
+hepatic impairment and a participant with moderate hepatic impairment) completed the study, was
+excluded from the pharmacokinetic analysis due to excluded concomitant medication use and was
+replaced by a new participant in the normal hepatic function group.
+Results:
+Plasma PK of ESN364
+Mean plasma concentration-time profiles of fezolinetant by hepatic function group are presented in
+Figure 4. A summary of the PK parameters of fezolinetant by hepatic function group were presented in
+Table 31. Results of the statistical assessment of the effect of hepatic impairment on the PK of
+fezolinetant were provided in Table 32. These analyses used PK analysis set, which included all enrolled
+participants who received at least 1 dose of investigational product for which concentration data were
+available to facilitate derivation of at least 1 primary pharmacokinetic parameter. Note: Normal
+participants may have been enrolled to match more than 1 impaired participant in different impairment
+groups; these participants were not re-treated.
+
+64
+
+Reference ID: 5083095
+
+Figure 13. Mean (SD) Plasma Concentration-time Profiles of Fezolinetant by Hepatic Function Group
+
+Source: Figure 3 of Study 2693-CL-0007
+Table 31. Plasma Pharmacokinetic Parameters of Fezolinetant by Hepatic Function Group
+
+65
+
+Reference ID: 5083095
+
+Source: Table 11 of Study 2693-CL-0007
+Table 32. Statistical Assessment of the Effect of Hepatic Impairment on the Plasma Pharmacokinetics of Fezolinetant
+
+66
+
+Reference ID: 5083095
+
+Source: Table 12 of Study 2693-CL-0007
+
+Reviewer’s comments:
+•
+
+After a single oral dose of 30 mg fezolinetant, compared to respective normal hepatic function
+groups,
+o mild hepatic impairment group had 56% increase in AUCs and 23% increase in Cmax of
+fezolinetant.
+o moderate hepatic impairment group had ~95% increase in AUCs and 15% decrease in
+Cmax of fezolinetant.
+
+Plasma PK of ES259564 (the major metabolite)
+Results of the statistical assessment of the effect of renal impairment on the PK of ES259564 were
+provided in Table 33.
+Table 33. Statistical Assessment of the Effect of Hepatic Impairment on the Plasma Pharmacokinetics of ES259564
+
+67
+
+Reference ID: 5083095
+
+Source: Table 12 of Study 2693-CL-0007
+
+Reviewer’s comments:
+•
+
+After a single oral dose of 30 mg fezolinetant, compared to respective normal hepatic function
+groups,
+o mild hepatic impairment group had 14% increase in AUCs and 21% decrease in Cmax of
+ES259564.
+o moderate hepatic impairment group had 13% increase in AUCs and 47% decrease in
+Cmax of ES259564.
+
+4.3.7. Dedicated Renal Impairment Study 2693-CL-0008
+Title: A Phase 1 Open-label Study to Investigate the Effect of Renal Impairment on the
+Pharmacokinetics, Safety and Tolerability of Fezolinetant Compared to Subjects with Normal Renal
+Function
+Study Objectives:
+
+68
+
+Reference ID: 5083095
+
+Study Design:
+This was an open-label, single oral dose study comprising 4 groups of participants based on renal
+function. Eligible participants with mild, moderate and severe renal impairment and healthy participants
+with normal renal function were admitted to the clinical unit on day -1 and were residential for a single
+period of 6 days/5 nights. On day 1, participants received a single oral dose of 30 mg fezolinetant under
+fasting conditions followed by a 96-hour in-house blood and urine sampling period. Participants were to
+remain awake, seated or semirecumbent, and avoided lying on either the left or right side for at least 4
+hours postdose. Standard safety and tolerability assessments were conducted.
+Inclusion/Exclusion Criteria:
+Female participants between 18 to 75 years of age, inclusive, were enrolled in this study.
+Participants were enrolled into 1 of 4 groups based on renal function. Renal function was measured by
+eGFR using the MDRD formula:
+•
+•
+•
+•
+
+Participants with mild (eGFR 60 to < 90 mL/min per 1.73 m2) renal impairment
+Participants with moderate (eGFR 30 to < 60 mL/min per 1.73 m2) renal impairment
+Participants with severe (eGFR < 30 mL/min per 1.73 m2) renal impairment and not on
+hemodialysis. At least 50% of participants should have had an eGFR of ≤ 20 mL/min per 1.73 m2
+Healthy participants with normal (eGFR ≥ 90 mL/min per 1.73 m2) renal function
+
+69
+
+Reference ID: 5083095
+
+Healthy participants with normal renal function were enrolled following the enrollment of mild and/or
+moderate and/or severe impairment participants and were demographically matched (1:1) by age (± 10
+years), BMI (± 20%) and race to the enrolled impairment participant(s).
+PK Assessment:
+Blood samples for fezolinetant and ES259564 (fezolinetant metabolite) concentrations were collected
+predose on day 1 and at the following postdose time points on day 1: 0.5, 1, 1.5, 2, 3, 4, 6, 8, 12, 24, 48,
+60, 72 and 96 hours.
+Urine samples for fezolinetant and ES259564 (fezolinetant metabolite) concentrations were collected
+predose on day 1 and at the following postdose intervals on day 1: 0 to 4, 4 to 8, 8 to 12, 12 to 24, 24 to
+48, 48 to 72 and 72 to 96 hours.
+Subject Disposition:
+A total of 27 participants (6 participants with mild renal impairment, 6 participants with moderate renal
+impairment, 5 participants with severe renal impairment and 10 participants with normal renal function)
+were enrolled, assigned to, and received a single oral dose of 30 mg fezolinetant under fasted conditions
+in an open-label manner on day 1 and completed the treatment and the follow-up periods as per the
+protocol.
+One participant with normal renal function withdrew on day 3 during the investigational period (Subject
+(b) (6)
+, withdrawal by subject but agreeable to complete the end of study visit [ESV]; this participant
+completed ESV and was included in the safety analysis but was excluded from the pharmacokinetic
+analysis due to withdrawal from the study during the investigational period. The participant was
+replaced by a new participant with normal renal function.
+Results:
+Plasma PK of ESN364
+Mean plasma concentration-time profiles of fezolinetant by renal function group were presented in
+Figure 4. A summary of the PK parameters of fezolinetant by renal function group were presented in
+Table 34. Results of the statistical assessment of the effect of renal impairment on the PK of fezolinetant
+were provided in Table 35. These analyses used PK analysis set, which included all enrolled participants
+who received at least 1 dose of investigational product for which concentration data were available to
+facilitate derivation of at least 1 primary pharmacokinetic parameter. Note: Normal participants may
+have been enrolled to match more than 1 impaired participant in different impairment groups; these
+participants were not re-treated.
+Figure 14. Mean (SD) Plasma Concenttration-time Profiles of Fezolinetant by Renal Function Group
+
+70
+
+Reference ID: 5083095
+
+Source: Figure 3 of Study 2693-CL-0008
+Table 34. Plasma PK Parameters of Fezolinentant by Renal Function Group
+
+Source: Table 11 of Study 2693-CL-0008
+
+71
+
+Reference ID: 5083095
+
+Table 35. Statistical Assessment of the Effect of Renal Impairment on Plasma Pharmacokinetics of Fezolinetant
+
+Source: Table 13 of Study 2693-CL-0008
+
+Reviewer’s comments:
+•
+
+•
+
+•
+
+Compared to respective normal renal function groups, severe renal impairment had marginal
+effects on fezolinetant’s PK exposure (GMR: 118% for AUCinf; 90% for AUClast; and 106% for
+Cmax; with all 90% CI including 100%).
+Compared to respective normal renal function groups, mild and moderate impairment groups
+had similar Cmax but lower AUClast (GMR: 81% for Mild; 69% for Moderate; with all 90% CI
+including 100%).
+Statistical analysis based on AUCinf may not be as robust as AUClast because AUCinf could not
+be accurately calculated for 4 participants and therefore excluded from the analyses. More
+details can be found in response to IR dated 09/02/22 (SN 0011) and 10/03/22 (SN0019).
+
+Plasma PK of ES259564 (the major metabolite)
+Results of the statistical assessment of the effect of renal impairment on the PK of ES259564 were
+provided in Table 36.
+Table 36. Statistical Assessment of the Effect of Renal Impairment on Plasma Pharmacokinetics of ES259564
+
+72
+
+Reference ID: 5083095
+
+Source: Table 15 of Study 2693-CL-0008
+
+Reviewer’s comments:
+•
+
+•
+
+Compared to respective normal renal function groups,
+o
+
+mild renal impairment had marginal effects on ES259564 exposure (GMR: 105% for
+AUCinf; 103% for AUClast; and 114% for Cmax; with all 90% CI including 100%).
+
+o
+
+moderate renal impairment group had 70% increase in ES259564 exposure (GMR: 175%
+for AUCinf; 177% for AUClast; and 175% for Cmax; with all 90% CI above 100%).
+
+o
+
+sever renal impairment group had 2-5-fold increase in ES259564 exposure (GMR: 479%
+for AUCinf; 479% for AUClast; and 231.0% for Cmax; with all 90% CI above 100%).
+
+The CLR of ES259564 progressively decreased with increased severity of renal impairment.
+Compared to their respective match participants with normal renal function, participants with
+
+73
+
+Reference ID: 5083095
+
+renal impairment had lower mean ES259564 CLR (9.56 vs 10.4 L/h for mild, 6.98 vs 13.0 L/h for
+moderate, and 1.61 vs 13.1 L/h for severe renal impairment groups).
+
+4.3.8. Study 2693-CL-0012 Effect of Food on the Pharmacokinetics of Fezolinetant
+Title: A Phase 1 Crossover Study to Investigate the Effect of Food on the Pharmacokinetics of
+Fezolinetant in Healthy Female Participants
+Primary Objective: This study evaluated the effect of food on the pharmacokinetics of a single oral dose
+of fezolinetant to-be-marketed formulation under fasted and fed conditions in healthy female
+participants.
+Study design:
+This was a randomized, open-label, 2-period, 2-sequence, single dose crossover study in healthy female
+participants. Sixteen participants (i.e., 8 participants per sequence) were randomized to 1 of 2
+sequences according to Table 37 below.
+Table 37 Sequences and Study Drug Assignments (2693-CL-0012)
+
+Sequence
+1
+2
+
+n
+8
+8
+
+Period 1
+Fezolinetant (fed)
+Fezolinetant (fasted)
+
+Period 2
+Fezolinetant (fasted)
+Fezolinetant (fed)
+
+Participants received a single oral administration of a 45 mg fezolinetant tablet (to-be-marketed
+formulation) under fed or fasted condition on day 1 of each period. The 2 treatment periods were
+separated by a 5-day washout period. Pharmacokinetic samples were collected at multiple time points
+up to 72 hours postdose (i.e., 0.25, 0.5, 1, 1.5, 2, 3, 4, 6, 8, 12, 16, 24, 36, 48, 60 and 72 hours postdose).
+Subject Disposition: A total of 16 healthy female subjects were randomized, and 16 subjects completed
+the study. Data from all subjects were included in the analyses of safety and PK.
+Safety Results:
+No deaths, serious adverse events or treatment-emergent adverse events (TEAEs) that led to withdrawal
+of treatment were reported during the conduct of this study. The frequency of all TEAEs reported during
+the study was similar between fasting and fed conditions. Overall, 14 mild TEAEs were reported for 6
+(37.5%) participants during the study with 3 participants under the fed condition and 5 participants
+under the fasted condition.
+PK Results:
+PK parameters of fezolinetant and its metabolite, ES259564, in fasting and fed conditions are
+summarized below (Table 38 and Table 39).
+
+74
+
+Reference ID: 5083095
+
+Table 38 Fezolinetant Plasma Pharmacokinetic Parameters
+
+Fezolinetant Plasma Pharmacokinetic Parameters
+Parameter Category/Statistics
+
+Fasted
+
+Fed
+
+AUCinf (h•ng/mL)
+n
+9†
+9†
+Mean (SD)
+2870 (962)
+2760 (994)
+%CV
+33.5
+35.9
+Median
+3070
+2600
+Min - Max
+1770 - 4500
+1870 - 4590
+AUClast (h•ng/mL)
+n
+16
+16
+Mean (SD)
+2590 (877)
+2470 (845)
+%CV
+33.8
+34.3
+Median
+2310
+2240
+Min -Max
+1260 - 4410
+1310 - 4570
+Cmax (ng/mL)
+n
+16
+16
+Mean (SD)
+453 (153)
+343 (112)
+%CV
+33.8
+32.8
+Median
+467
+312
+Min - Max
+207 - 810
+225 - 589
+tmax (h)
+n
+16
+16
+Median
+1.49
+2.04
+Min - Max
+0.500 - 4.00
+0.500 - 8.03
+All randomized participants who received at least 1 dose of study drug for which concentration data were available
+to facilitate derivation of at least 1 primary pharmacokinetic parameter (pharmacokinetic analysis set).
+CV: coefficient of variation; Max: maximum; Min: minimum; SD: standard deviation.
+† AUCinf values from 7 participants were not reported and thus not included in the statistical assessment due to
+undefined elimination phase. AUClast including all evaluable participants, as well as AUCinf excluding these 7
+participants, provided consistent bioequivalence results. Refer to [Study 2693-CL-0012, End-of-Text
+Table 9.4.2.1] for details.
+Source: Study 2693-CL-0012, End-of-Text Table 9.4.2.1
+Table 39 ES259564 Plasma Pharmacokinetic Parameters
+
+Parameter Category/Statistics
+AUCinf (h•ng/mL)
+n
+Mean (SD)
+%CV
+Median
+Min, Max
+AUClast (h•ng/mL)
+n
+
+Fasted
+
+Fed
+
+16
+2100 (389)
+18.5
+2020
+1640, 2960
+
+16
+2090 (344)
+16.5
+2150
+1520, 2700
+
+16
+
+16
+
+75
+
+Reference ID: 5083095
+
+Mean (SD)
+2090 (387)
+2070 (345)
+%CV
+18.5
+16.7
+Median
+2010
+2120
+Min, Max
+1610, 2930
+1500, 2680
+Cmax (ng/mL)
+n
+16
+16
+Mean (SD)
+263 (84.1)
+217 (58.0)
+%CV
+32.0
+26.7
+Median
+247
+223
+Min, Max
+145, 425
+119, 301
+tmax (h)
+n
+16
+16
+Median
+2.00
+3.00
+Min, Max
+0.517, 4.00
+1.02, 8.03
+All randomized participants who received at least 1 dose of study drug for which concentration data were
+available to facilitate derivation of at least 1 primary pharmacokinetic parameter.
+CV: coefficient of variation; Max: maximum; Min: minimum
+Source: End-of-Text Table 9.4.2.2
+
+Statistical analysis of food effects on exposure of fezolinetant and its metabolite, ES259564, in fasting
+and fed conditions are summarized below (Table 40 and Table 41).
+
+Table 40 Statistical Assessment of Food Effect on Fezolinetant
+
+Parameter
+n
+
+Fasted
+Geometric LS
+Mean
+
+n
+
+Fed
+Geometric LS
+Mean
+
+Geometric LS
+Mean Ratio (%)†
+
+90% CI of Ratio
+
+AUCinf
+9‡
+2630
+9‡
+2540
+96.57
+(86.38, 107.96)
+(h•ng/mL)
+AUClast
+16
+2460
+16
+2350
+95.53
+(89.93, 101.49)
+(h•ng/mL)
+428
+16
+328
+76.70
+(62.03, 94.83)
+Cmax (ng/mL) 16
+All randomized participants who received at least 1 dose of study drug for which concentration data were
+available to facilitate derivation of at least 1 primary pharmacokinetic parameter.
+Assessment based on an analysis of variance performed on natural logarithmic-transformed parameters with
+period and food condition as fixed effects and participant as a random effect.
+CI: confidence interval; LS: least squares
+† Ratios and confidence limits were transformed back to raw scale and values are expressed as percentages.
+‡ AUCinf values from 7 participants were not reported and thus not included in the statistical assessment due to
+undefined elimination phase. Refer to [End-of-Text Table 9.4.2.1] for details.
+Source: End-of-Text Table 9.4.3.1
+
+Table 41 Statistical Assessment of Food Effect on ES259564
+
+Fasted
+
+Fed
+
+76
+
+Reference ID: 5083095
+
+Parameter
+
+n
+16
+
+AUCinf
+(h•ng/mL)
+AUClast
+16
+(h•ng/mL)
+Cmax (ng/mL) 16
+
+Geometric LS
+Mean
+2070
+
+Geometric LS Mean
+Ratio (%)†
+99.51
+
+90% CI of
+Ratio
+(96.85, 102.25)
+
+2040
+
+99.43
+
+(96.73, 102.20)
+
+210
+
+83.60
+
+(74.91, 93.31)
+
+n
+16
+
+Geometric LS
+Mean
+2060
+
+2050
+
+16
+
+251
+
+16
+
+All randomized participants who received at least 1 dose of study drug for which concentration data were
+available to facilitate derivation of at least 1 primary pharmacokinetic parameter.
+Assessment based on an analysis of variance performed on natural logarithmic-transformed parameters with
+period and food condition as fixed effects and participant as a random effect.
+CI: confidence interval; LS: least squares
+† Ratios and confidence limits were transformed back to raw scale and values are expressed as percentages.
+Source: End-of-Text Table 9.4.3.2
+
+The geometric LS mean ratio and 90% CI for the AUCinf and AUClast of fezolinetant and ES259564 fell
+within the 80 to 125% boundary when comparing fed and fasted conditions. Whereas a high-fat meal
+reduced fezolinetant Cmax (geometric LS mean ratio of 76.70%; 90% CI [62.03, 94.83]) and ES259564
+Cmax (geometric LS mean ratio of 83.6%; 90% CI [74.91, 93.31]). The median tmax of fezolinetant was
+also delayed by 30 minutes (from 1.49 hours to 2.04 hours) and by 1 hour for ES259564.
+Conclusions:
+Therefore, following a single 45 mg dose of fezolinetant to healthy female participants, a high-fat, highcalorie meal did not affect fezolinetant AUCinf and AUClast compared to under fasted conditions.
+The high-fat, high-calorie meal decreased Cmax (< 20%) of fezolinetant and delayed the time to reach
+Cmax (by ~ 30 minutes) compared to under fasted conditions.
+The decrease in Cmax and delay in tmax with food is not clinically relevant, thus fezolinetant can be
+administered with or without food.
+Reviewer comments: The applicant’s conclusion is acceptable.
+
+4.3.9. Drug-drug Interaction with Fluvoxamine and Smoking (Study 2693-CL-0006)
+Since fezolinetant is extensively metabolized by the CYP1A2 enzyme, phase 1 Study 2693-CL-0006 was
+conducted to assess the effect of multiple doses of fluvoxamine, a strong inhibitor of CYP1A2, and
+smoking, a CYP1A2 inducer, on the single dose PK of fezolinetant in healthy postmenopausal women.
+Title: A Phase 1 Study to Assess the Effect of Multiple Doses of Fluvoxamine and Smoking on the Single
+Dose Pharmacokinetics of fezolinetant in Healthy Postmenopausal Female Subjects (2693-CL-0006)
+Primary objectives: To evaluate the effect of concomitant administration of fluvoxamine, a strong
+cytochrome P450 (CYP)1A2 inhibitor, on the pharmacokinetics of a single oral dose of fezolinetant in
+healthy postmenopausal female subjects
+
+77
+
+Reference ID: 5083095
+
+Secondary Objectives: To evaluate the effect of smoking on the pharmacokinetics of fezolinetant with
+and without concomitant administration of fluvoxamine; To evaluate the effect of concomitant
+administration of fluvoxamine on the pharmacokinetics of fezolinetant in smokers and nonsmokers; To
+evaluate the safety and tolerability of a single oral dose of fezolinetant alone and in combination with
+fluvoxamine
+Study Design: This study had an open-label, single sequence design. A total of 18 participants, 9 of which
+were smokers, were enrolled into the study. See the flow chart below for illustration.
+
+On day 1, a single dose of 30 mg fezolinetant was administered in the morning. On day 3 in the evening
+and on day 10 in the morning, a single oral dose of 50 mg fluvoxamine was administered. On days 4 to 9,
+multiple oral doses of 50 mg fluvoxamine were administered bid with a 12-hour interval. On day 7 (fifth
+day of fluvoxamine dosing), the single dose of 30 mg fezolinetant was administered simultaneously with
+the morning dose of fluvoxamine. Smokers were instructed to smoke their usual number of cigarettes
+per day.
+Subject Disposition: A total of 18 healthy postmenopausal female subjects were randomized, and 16
+subjects completed the study. Data from all subjects were included in the analyses of safety and PK.
+4.3.9.1 Effect of Fluvoxamine (CYP1A2 Inhibitor)
+PK results:
+The results showed that when fezolinetant was co-administered with fluvoxamine, a strong CYP1A2
+inhibitor, there was a 9.39-fold increase (90% CI: 788.06%, 1119.91%) in AUCinf and a 1.82-fold increase
+(90% CI: 161.79%, 203.93%) in Cmax of fezolinetant (Table 42).
+Table 42 Statistical Assessment of the Effect of Fluvoxamine on the Pharmacokinetics of Fezolinetant (co-administered)
+
+Parameter
+
+Fezolinetant Alone
+Geometric LS
+n
+Mean
+
+Fezolinetant +
+Fluvoxamine
+Geometric LS
+n
+Mean
+
+Cmax (ng/mL)
+
+18
+
+233
+
+18
+
+424
+
+181.64
+
+AUCinf
+(h•ng/mL)
+
+18
+
+941
+
+18
+
+8840
+
+939.44
+
+78
+
+Reference ID: 5083095
+
+Geometric
+LS Mean
+Ratio (%)†
+
+90% CI of
+Ratio (%)†
+(161.79,
+203.93)
+(788.06,
+1119.91)
+
+All participants who took at least 1 dose of study drug and for which concentration data were available to facilitate
+derivation of at least 1 primary pharmacokinetic parameter.
+Assessment based on an analysis of variance performed on natural logarithmic-transformed parameters with
+treatment as a fixed effect and participant as a random effect.
+CI: confidence interval; LS: least squares; n: number of participants.
+† Ratios and confidence limits were transformed back to raw scale and values are expressed as percentages.
+Source: Study 2693-CL-0006, End-of-Text Table 12.4.3.1
+
+There was an increase in the t1/2 of fezolinetant (4 hr vs 22. 4 hr) but no substantial changes in tmax.
+For the metabolite, co-administration of fluvoxamine resulted in a ~80% reduction of ES259564 Cmax,
+but a slightly increase (1.08-fold) of AUCinf (90% CI: 102.81%, 113.39%) (Table 43).
+Table 43 Study 2693-CL-0006: Statistical Assessment of the Effect of Fluvoxamine on the Pharmacokinetics of ES259564
+
+Parameter
+
+Fezolinetant Alone
+Geometric LS
+Mean
+239
+
+Fezolinetant + Fluvoxamine
+Geometric LS
+Mean
+48.0
+
+Geometric
+LS Mean
+Ratio (%)†
+20.10
+
+90% CI of
+Ratio (%)†
+Cmax (ng/mL)
+(17.06, 23.68)
+AUCinf
+(102.81,
+18
+1680
+18
+1810
+107.97
+113.39)
+(h•ng/mL)
+All participants who took at least 1 dose of study drug and for which concentration data were available to facilitate
+derivation of at least 1 primary pharmacokinetic parameter.
+Assessment based on an analysis of variance performed on natural logarithmic-transformed parameters with
+treatment as a fixed effect and participant as a random effect.
+CI: confidence interval; ES259564: fezolinetant metabolite; LS: least squares; n: number of participants.
+† Ratios and confidence limits were transformed back to raw scale and values are expressed as percentages.
+Source: Study 2693-CL-0006, End-of-Text Table 12.4.3.2
+n
+18
+
+n
+18
+
+4.3.9.2 Effect of Smoking (CYP1A2 Inducer)
+Smoking is considered as a potent CYP1A2 induction factor. The pharmacokinetic parameters of
+fezolinetant and ES259564 after fezolinetant administration alone and after fezolinetant coadministration with fluvoxamine in smokers and nonsmokers are summarized below (Table 44).
+Table 44 Study 2693-CL-0006: Pharmacokinetic Parameters of Fezolinetant And ES259564 After Fezolinetant Administration
+Alone and After Fezolinetant Co-Administration With Fluvoxamine In Smokers And Nonsmokers
+
+Parameter
+
+Cmax
+(ng/mL)
+AUCinf
+(h•ng/mL)
+CL/F (L/h)
+t½ (h)
+tmax (h)
+
+Smokers
+(n = 9)
+
+Fezolinetant
+Nonsmokers
+Total
+Smokers
+(n = 9)
+(n = 18)
+(n = 9)
+Fezolinetant Alone
+
+Total
+(n = 18)
+
+207
+
+282
+
+244
+
+281
+
+211
+
+246
+
+670
+
+1400
+
+1040
+
+1540
+
+1880
+
+1710
+
+47.1
+3.23
+1.00
+
+22.9
+4.79
+1.00
+
+35.0
+4.01
+1.00
+
+NA
+7.61
+1.50
+
+NA
+6.41
+1.50
+
+NA
+7.01
+1.50
+
+79
+
+Reference ID: 5083095
+
+ES259564
+Nonsmokers
+(n = 9)
+
+Vz/F (L)
+MPR
+
+213
+NA
+
+151
+182
+NA
+NA
+Fezolinetant + Fluvoxamine
+
+NA
+2.29
+
+NA
+1.35
+
+NA
+1.82
+
+Cmax
+407
+458
+432
+63.2
+41.0
+(ng/mL)
+AUCinf
+7060
+13200
+10100
+1780
+1920
+(h•ng/mL)
+CL/F (L/h)
+5.04
+2.80
+3.92
+NA
+NA
+t½ (h)
+16.0
+28.8
+22.4
+16.5
+30.1
+tmax (h)
+1.50
+1.50
+1.50
+12.0
+8.00
+Vz/F (L)
+101
+96.2
+98.8
+NA
+NA
+MPR
+NA
+NA
+NA
+0.285
+0.169
+Data are the arithmetic means, except tmax, which is the median.
+CV: coefficient of variation; Max: maximum; Min: minimum: MPR: metabolite to parent ratio; NA: not
+applicable
+Source: End-of-Text Tables 12.4.2.1 and 12.4.2.2
+
+52.1
+1850
+NA
+23.3
+12.0
+NA
+0.227
+
+Statistical analysis of exposure of fezolinetant demonstrate when fezolinetant was administered alone,
+fezolinetant AUCinf in smokers decreased by about a half with LS mean ratio of 48.29% (90% CI: 39.14%,
+59.58%) to non-smoker, while Cmax decreased ~30 % with a geometric LS mean ratio of 71.74% (90% CI:
+57.04%, 90.22%) to non-smoker (Table 45).
+Table 45 Study 2693-CL-0006: Statistical Assessment of the Effect of Smoking on Fezolinetant After Administration Alone and
+After Co-administration with Fluvoxamine
+
+Treatment
+Parameter
+
+n
+
+Nonsmoker
+Geometric LS
+Mean
+
+Fezolinetant Alone
+Cmax (ng/mL)
+9
+AUCinf
+9
+(h•ng/mL)
+Fezolinetant + Fluvoxamine
+Cmax (ng/mL)
+9
+AUCinf
+9
+(h•ng/mL)
+
+n
+
+Smoker
+Geometric LS
+Mean
+
+Geometric
+LS Mean
+Ratio (%)†
+
+90% CI of
+Ratio (%)†
+
+276
+
+9
+
+198
+
+71.74
+
+(57.04, 90.22)
+
+1350
+
+9
+
+654
+
+48.29
+
+(39.14, 59.58)
+
+450
+
+9
+
+399
+
+88.65
+
+(74.98, 104.81)
+
+12000
+
+9
+
+6490
+
+53.92
+
+(36.83, 78.96)
+
+Assessment based on an analysis of variance performed on natural logarithmic-transformed parameters
+with smoking status as a fixed effect.
+
+CI: confidence interval; LS: least squares; n: number of participants.
+† Ratios and confidence limits were transformed back to raw scale and values are expressed as percentages.
+Source: Study 2693-CL-0006, End-of-Text Table 12.4.3.5
+
+For the metabolite ES259564, statistical analysis demonstrated when fezolinetant was administered
+alone, the Cmax geometric LS mean ratio for smokers versus nonsmokers was 130.20% (90% CI: 109.43,
+154.92) and AUCinf geometric LS mean ratio was 81.84% (90% CI: 70.34, 95.22) (Table 46).
+
+80
+
+Reference ID: 5083095
+
+Table 46 Study 2693-CL-0006: Statistical Assessment of the Effect of Smoking on the Pharmacokinetics of ES259564 After
+Fezolinetant Administration Alone and After Co-administration with Fluvoxamine
+
+Smoking
+Status
+n
+Parameter
+Fezolinetant Alone
+Cmax (ng/mL)
+
+Nonsmoker
+Geometric LS
+Mean
+
+9
+
+AUCinf
+9
+(h•ng/mL)
+Fezolinetant + Fluvoxamine
+Cmax (ng/mL)
+
+9
+
+n
+
+Smoker
+Geometric LS
+Mean
+
+Geometric
+LS Mean
+Ratio (%)†
+
+90% CI of
+Ratio (%)†
+
+209
+
+9
+
+273
+
+130.20
+
+(109.43,
+154.92)
+
+1860
+
+9
+
+1520
+
+81.84
+
+(70.34, 95.22)
+
+38.6
+
+9
+
+59.7
+
+154.45
+
+(113.69,
+209.84)
+
+AUCinf
+9
+1880
+9
+1750
+93.12
+(77.32, 112.15)
+(h•ng/mL)
+CI: confidence interval; ES259564: fezolinetant metabolite; LS: least squares; n: number of participants.
+† Ratios and confidence limits were transformed back to raw scale and values are expressed as percentages.
+Source: Study 2693-CL-0006, End-of-Text Table 12.4.3.6
+
+Conclusion:
+• Co-administration of fezolinetant with fluvoxamine resulted in increased fezolinetant exposure
+and t½, with no change in tmax, due to decreases in both CL/F and Vz/F. The magnitude of
+exposure increase (9.39-fold increase in AUCinf and 1.82-fold increase in Cmax) was similar in
+smokers and nonsmokers. These results were consistent with inhibition of fezolinetant
+metabolic clearance following co-administration of fluvoxamine.
+• Following fezolinetant administration, ES259264 exhibited elimination-rate limited kinetics. Coadministration of fezolinetant with fluvoxamine resulted in a large decrease in ES259564 Cmax
+(geometric LS mean ratio 20.10%), a small increase in AUCinf (geometric LS mean ratio 107.97%)
+and a large increase of t½ plus a decrease in the MPR. These changes were similar whether the
+subject was a smoker or nonsmoker. The addition of fluvoxamine appears to slow the rate of
+formation of the metabolite and slow its metabolic clearance.
+• Smoking resulted in decreased fezolinetant exposure (geometric LS mean ratio 48.29% for
+AUCinf and 71.74% for Cmax) with similar decreases observed when fezolinetant was coadministered with fluvoxamine. Both CL/F and Vz/F increased with smoking leading to a
+decrease in fezolinetant t½. The increase in CL/F and decrease in t½ were consistent with
+smoking increasing CYP1A2 activity. The increase in Vz/F can be explained by increased first pass
+metabolism leading to a decrease in oral bioavailability.
+• When fezolinetant was administered alone in smokers, ES259564 Cmax slightly increased (1.30fold), AUCinf slightly decreased (geometric LS mean ratio 81.84%), while the MPR increased.
+These results were of the same magnitude when fezolinetant was administered in combination
+with fluvoxamine. These results are consistent with smoking increasing the fraction of parent
+converted to metabolite, but not affecting the amount of the metabolite.
+Reviewer comments: The applicant’s conclusion for impact of CYP1A2 inhibitor (fluvoxamine) and
+inducer (smoking) to exposure of fezolinetant is reasonable.
+
+81
+
+Reference ID: 5083095
+
+4.3.10. Phase 2 Dose-finding Study ESN364-HF-205
+Title: A Randomized, Placebo-Controlled, Double-Blind, Dose-Ranging, Phase 2b Study to Investigate the
+Efficacy of ESN364 in Postmenopausal Women Suffering From Vasomotor Symptoms (Hot Flashes)
+Primary Objective:
+The primary objective of this study was to evaluate the effect of different doses and dosing regimens of
+ESN364 on frequency and severity of VMS (hot flashes).
+There were 4 co-primary efficacy endpoints:
+•
+•
+•
+•
+
+Mean change in the frequency of moderate to severe VMS from baseline to Week 4
+Mean change in the frequency of moderate to severe VMS from baseline to Week 12
+Mean change in the severity of moderate to severe VMS from baseline to Week 4
+Mean change in the severity of moderate to severe VMS from baseline to Week 12
+
+Study Design:
+This was a 12-week, randomized, double-blind, placebo-controlled, dose-ranging, parallel-group,
+multicenter study to assess the efficacy of ESN364 in postmenopausal women with VMS (hot flashes). A
+schematic overview of the study design was provided in Figure 6.
+Figure 15. Overview of Study ESN364_HF_205
+
+PK Assessment:
+
+82
+
+Reference ID: 5083095
+
+Pharmacokinetic samples were taken at week 4 (visit 3) predose and 1 (± 30 min), 3 (± 30 min), 5 (-1
+h/30 min), and 7 hours (-1 h/+2 h) postdose as well as predose at week 12 (visit 5).
+PD Assessment:
+Venous blood samples were collected for pharmacodynamic assessments at day 1 (visit 2), week 4 (visit
+3), week 8 (visit 4), week 12 (visit 5)/early termination (ET), and at the follow-up visit (week 15 [visit 6]).
+The Week 4 PD sample was taken at the same time as the 3-hour postdose PK sample.
+Subject Disposition:
+A total of 356 patients were randomized to treatment (including placebo). Among them, 287 patients
+(80.6%) completed the study and (19.4%) discontinued treatment. See Table 47 for more details.
+Discontinuations due to adverse events of ALT or AST increase were observed in 2 patients at 60 mg BID,
+and 1 patient each at 90 mg BID, 60 mg QD and 120 mg QD.
+Table 47. Patient Classification: All Randomized Subjects
+
+Results
+Efficacy results:
+Primary analysis of change from baseline in frequency and severity of VMS at Week 4 and Week 12 were
+presented in Table 48 and Table 49.
+83
+
+Reference ID: 5083095
+
+Table 48. Primary Analysis of Change in the Mean Frequency of Moderate and Severe VMS per 24 h from Baseline to Week 4
+and Week 12: Full Analysis Set
+
+Source: Table 7 of CSR for Study ESN364-HF-205
+Table 49. Primary Analysis of Change in the Mean Severity of Moderate and Severe VMS per 24 h from Baseline to Week 4
+and Week 12: Full Analysis Set
+
+84
+
+Reference ID: 5083095
+
+Source: Table 8 of CSR for Study ESN364-HF-205
+
+Reviewer’s comments:
+•
+•
+
+•
+
+All 4 of co-primary endpoints were significantly different from placebo for the 90 mg BID, 60 mg
+BID and 60 mg QD dose groups.
+All ESN364 dose groups were significantly different from placebo with respect to mean change
+in the frequency of moderate to severe VMS at both weeks 4 and 12.
+o The improvement in frequency of moderate to severe VMS relative to placebo at weeks
+4 and 12 was greater than 2, indicative of a clinically relevant improvement, for all dose
+groups except 15 mg BID.
+All groups were significantly different from placebo with respect to mean change in the severity
+of moderate to severe VMS from baseline to week 4, but only 60 mg BID, 90 mg BID and 60 mg
+QD demonstrated significance with respect to mean change in severity at week 12.
+
+85
+
+Reference ID: 5083095
+
+PK results:
+PK data from this Phase 2 study were analyzed, together with data from other studies, in the population
+PK analysis.
+PD results:
+•
+
+•
+
+•
+
+•
+
+LH: LH levels showed a small mean and median decrease from baseline in the placebo group. In
+the ESN364 groups, there was a mean and median decrease from baseline at all postbaseline
+time points, particularly at 3 hours postdose at week 4. The decrease appears to be dose-related
+and persisted through week 12. However, the very low numbers of patients with 3-hour
+postdose samples at later weeks hinders accurate analysis at weeks 8 and 12 (n = 0, 1, or 2).
+FSH: All treatment groups showed a small mean and median decrease from baseline in FSH
+levels during the treatment period including the placebo group. There was no treatment- or
+dose-related effects. One patient in the 30 mg BID group had an adverse event of blood FSH
+decreased.
+Estradiol (E2): Patients with an estradiol level below the limit of quantification (73.4 pmol/L),
+were recorded as having a result at half the limit of quantification. Since a large proportion of
+patients in all treatment groups had levels recorded as this, the summary statistics are skewed,
+and the median value was 36.70 pmol/L, for all treatment groups at all post baseline time
+points. For the mean change from baseline, the interpatient variability was large, and there
+were no clear trends or differences from placebo.
+SHBG: There were no clinically meaningful changes in SHBG levels over the course of the study
+in any treatment group, and no difference from placebo.
+
+4.4. Physiologically based Pharmacokinetic Modeling and Simulation Review
+EXECUTIVE SUMMARY
+The objective of this review is to evaluate the adequacy of the Applicant’s Physiologically based
+Pharmacokinetic (PBPK) analysis to predict the DDI liability of fezolinetant as a victim of CYP1A2mediated interaction by moderate and weak CYP1A2 inhibitors.
+
+The Division of Pharmacometrics has reviewed the PBPK submission (Reports 2693-pk-0005,
+2693-pk-0014 and modeling files), and responses to FDA’s requests for information (dated
+9/2/22 and 10/6/22) to conclude the following:
+•
+
+The PBPK modeling analysis was considered adequate to predict the effect of moderate and
+weak CYP1A2 inhibitors on the exposure of 45 mg fezolinetant
+o coadministration of the moderate CYP1A2 inhibitor mexiletine (200 mg three times
+a day (TID) or 400 mg TID) is expected to increase the Cmax and AUC of fezolinetant
+1.4- to 1.6-fold and 3.4- to 4.6- fold, respectively.
+86
+
+Reference ID: 5083095
+
+o coadministration of the weak CYP1A2 inhibitor cimetidine (400 mg twice daily (BID)
+or 300 mg four times a day (QID)) is expected to increase the Cmax and AUC of
+fezolinetant 1.3- to 1.4-fold and 1.6- to 2.0-fold, respectively.
+Methods
+Model Development
+The PBPK analyses were performed using the software Simcyp® version 21 release 1. The PBPK
+model of fezolinetant was developed based on physicochemical properties, preclinical, and
+clinical PK data.
+The absorption of fezolinetant for the tablet formulation, under fasted and fed state, was
+described using the Advanced Dissolution, Absorption and Metabolism (ADAM) model. Human
+jejunum effective permeability (Peff) of fezolinetant was determined by estimating the
+transcellular passive permeability (Ptrans,0) using the Mechanistic Passive Regional
+Permeability Predictor (MechPeff) model. A passive permeability value of 101.9 x 10-6 cm/s
+was estimated using in vitro Caco-2 cells permeability data [2693-ME-0011] and analysis in SIVA
+3.
+The in vitro Papp values of fezolinetant at 2, 20 and 200 μM were 27, 28 and 29 x 10-6 cm/s for
+the apical to basal direction [2693-ME-0011]. Those values were approximately twice that of
+propranolol (Papp= 13.6 x 10-6 cm/s), suggesting that fezolinetant is a highly permeable
+compound. In the human mass balance study, unchanged fezolinetant accounted for 0.1 % in
+feces in 0 to 24-hour post-dose sample [ESN364-CPK-103] suggesting high drug absorption.
+Weibull functions was used to characterize the fasted and fed dissolution profiles of
+fezolinetant. The in vitro dissolution data were used to mimic the fasted dissolution profile
+[CTD Module 3.2.P.5.4], while the fed dissolution profile was optimized based on observed
+clinical data under fed condition [2693-CL-0012 and ESN364-CPK-101]. There were around 20%
+decrease in Cmax, 30-min delay in Tmax, and no change in AUC with a high-fat, high calorie
+meal [2693-CL-0012].
+The unbound fraction of fezolinetant in plasma (fup) was 0.49, concentration-independent with
+albumin as main plasma binding protein [2693-ME-0012]. The blood-to-plasma partitioning
+ratio was set at 0.9. A full PBPK model was used to characterize the disposition of fezolinetant.
+The Rodgers and Rowland method was used to predict the volume of distribution at steady
+state (Vss=0.82 L/kg). In vitro data suggested no evidence for active uptake of fezolinetant by
+the transporters OATP1B, OATP1A2, OATP2B1 and PEPT1; neither efflux by the transporters
+MRP2 and MRP3 [2693-ME-0008, ESN364-DDI-004, ESN364-DDI-005 and Tebu-03-25Feb2015].
+
+87
+
+Reference ID: 5083095
+
+Metabolic profiles of fezolinetant were obtained from in vitro [2693-ME-0009] and in vivo
+studies [2693-ME-0006, 2693-ME-0015]. In human hepatocytes, fezolinetant was extensively
+metabolized, primarily to yield a hydroxylated metabolite ES259564 [CYP0720-R1]. In the
+human mass balance study [ESN364-CPK-103], ES259564 AUC was approximately 2-fold higher
+than fezolinetant AUC, with only fezolinetant and ES259564 being detected in plasma. The
+metabolite-to-parent ratio (MPR) ranged from 0.7 to 1.8. ES259564 was considered 20-fold less
+potent against NK3 receptors than parent with no significant off-target activities.
+In vitro, three approaches to reaction phenotyping (assays with recombinant human CYP
+enzymes, human liver microsomes and chemical inhibitors) implicated CYP1A2 as the primary
+catalyzing enzyme to the formation of ES259564 from fezolinetant and minor contributions
+from CYP2C9 and CYP2C19 [2693-ME-0009]. Clinically, co-administration of the strong CYP1A2
+inhibitor fluvoxamine (50 mg BID) increased the AUCinf and Cmax of fezolinetant (single 30 mg
+dose) by 9.4-fold and 1.8-fold, respectively, and decreased the mean MPR from 1.8 to 0.23
+[2693-CL-0006].
+The contribution of CYP1A2 to fezolinetant clearance was optimized to 92% (metabolic
+fmCYP1A2=0.9) based on the clinical DDI effect of fluvoxamine in non-smoking women. The
+intrinsic clearance of CYP1A2 (Clint, CYP1A2) and additional hepatic clearance (HLM Clint) were
+calculated by retrograde analysis using the apparent clearance (CL/F) value of 14.5 L/h reported
+in the study 2693-CL-007 (control cohort). The renal clearance of fezolinetant was set to 0.2
+L/h, based on the reported value in this study.
+Additional comments:
+• High variability of CL/F (inter-study and inter-subject within each study) was reported. The
+CL/F of fezolinetant was estimated to be 10.8 L/h for a typical nonsmoking woman receiving
+the tablet formulation in the phase 2 and 3 studies, and the inter-subject variability (%CV)
+of CL/F was estimated to be 46% in postmenopausal female participants with VMS, based
+on a population PK analysis [2693-PK-0010]. In addition, the reported mean CL/F ranged
+from 12.4 L/h in premenopausal and menopausal nonsmoking women receiving 45 mg
+fezolinetant [2693-CL-0010] to 22.9 L/h in the clinical DDI study with fluvoxamine in the
+control group of healthy postmenopausal nonsmoking women receiving 30 mg fezolinetant
+[2693-CL-0006]. This CL/F variability was not readily explained by menopausal status, age,
+or dose (<120 mg), and bioavailability was not expected to be a significant factor
+(considering fezolinetant solubility and permeability/absorption profile).
+Neither fezolinetant or metabolite ES259564 showed significant reversible or time-dependent
+inhibition towards the CYP isoforms 1A2, 2B6, 2C8, 2C9, 2C19, 2D6 and 3A4, in vitro [CYP0720
+R2F]. Weak to null induction liability of fezolinetant and metabolite towards CYP1A2, CYP2B6
+and CYP3A4 was reported in vitro [CYP0720 R2F].
+88
+
+Reference ID: 5083095
+
+Model Application
+The PBPK analysis was used to predict the PK of fezolinetant following 45 mg single dose (SD) in
+the presence of the following CYP1A2 inhibitors:
+•
+•
+
+Moderate CYP1A2 inhibitor mexiletine (200 mg TID or 400 mg TID)
+Weak CYP1A2 inhibitor cimetidine (300 mg QID or 400 mg BID)
+
+The software’s library compound models for fluvoxamine and cimetidine were used in the
+simulations for the respective DDIs. The Applicant developed a PBPK model for mexiletine. The
+default PBPK model of cimetidine did not include the parameter of CYP1A2 reversible inhibition
+constant (Ki).
+In response to FDA’s request to information (dated 9/2/22), the Applicant provided a
+verification of the ability of the PBPK analysis to predict CYP1A2-mediated DDI by cimetidine
+and mexiletine. Database and literature search were conducted for in vitro CYP1A2 IC50/Ki
+values of cimetidine and mexiletine, and clinical DDI studies (in non-smokers) between
+cimetidine or mexiletine and CYP1A2 substrates. DDI simulations were conducted for the
+CYP1A2 substrates caffeine, theophylline (IV and oral), and zolpidem (default software’s
+compound library models) using the reported lowest and highest in vitro IC50/Ki values for each
+CYP1A2 inhibitor. Simulated results were compared to reported AUC or clearance (CL) change
+in the presence of the CYP1A2 inhibitors. Several-fold reduction of the in vitro values were
+required to adequately describe the observed inhibitory DDI effect; thus, in vivo optimized
+values for CYP1A2 Ki were determined for cimetidine and mexiletine.
+Additional comments:
+
+•
+
+For cimetidine, all the predicted/observed ratios for the AUC or CL changes with the
+optimized CYP1A2 Ki value (3.5 µM) fell into a 0.8-1.25 range, except for one clinical study
+out of 18 studies. For mexiletine, a poor CYP1A2 predictive performance was determined
+using a 0.8-1.25 range: the predicted/observed ratios fell outside the range in 3 out of 5
+studies. Nonetheless, all predicted/observed ratios fell within a 0.5-1.50 range. The
+Reviewer noted the submitted validation analysis for mexiletine was considered sufficient
+to assess the effect of a moderate CYP1A2 inhibitor on fezolinetant PK based on magnitude
+of the estimated DDI effect and regulatory decision for risk management of DDI in the
+prescribing information (i.e., avoid use with moderate CYP1A2 inhibitor).
+
+Results
+1. Can the PBPK model adequately describe the PK profiles of fezolinetant?
+
+89
+
+Reference ID: 5083095
+
+Yes, the PBPK model of fezolinetant described well the observed PK profile in women receiving
+single and multiple doses of fezolinetant under fasting and fed conditions [Studies ESN364-CPK101, 2693-CL-0006, -0007, -0008, -0010 and -0012] (Figure 1 and Table 1). The percent
+prediction errors (%PE) for AUC and Cmax were equal or less than 30% for all clinical studies
+used in the model validation, except for study 2693-CL-0006 (control cohort). A higher apparent
+clearance was reported in this study and the reason for this observation could not be identified
+by the Applicant (refer to Methods section: ‘additional comments’ for further discussion).
+Figure 1. Predicted and observed plasma concentration-time profiles of fezolinetant
+
+Linear (left panel) and log-linear (right panel) PK profiles of 45 mg SD dosing of fezolinetant in fasted women. Individual and
+mean data from Study 2693-CL-0010 (circles). Solid red line: mean for the predicted population (N = 220, 22 x 10 trials); grey
+lines: 5th-95th concentration-time percentiles. (Source: Simulation output file “asp2693_t09_pk07.xlxs”).
+
+Linear (left panel) and log-linear (right panel) PK profiles of 45 mg SD dosing of fezolinetant in women under fed state.
+Individual and mean data from Study 2693-CL-0012 (circles). Solid red line: mean for the predicted population (N = 160, 16 x
+10 trials); grey lines: 5th-95th concentration-time percentiles. (Source: Simulation output file “asp2693_t09_pk09.xlxs”).
+
+Table 1. Predicted and observed PK parameters of fezolinetant following single and multiple doses
+Fezolinetant Dosage
+[Study]
+
+20 mg Day 21 [ESN364-CPK-101, fed]
+30 mg SD [2693-CL-0006, non-smoker, fasted]
+30 mg SD [2693-CL-0007, control cohort 1, fasted]
+
+Cmax (ng/mL)
+Obs
+Pred
+%PE
+185
+163
+-12
+282
+329
+17
+358
+294
+-18
+
+90
+
+Reference ID: 5083095
+
+AUC (ng/mL.h)
+Obs
+Pred
+%PE
+1130
+1470
+30
+1400
+2680
+91
+2300
+2440
+6
+
+30 mg SD [2693-CL-0007, control cohort 2, fasted]
+30 mg SD [2693-CL-0008, control cohort 1, fasted]
+30 mg SD [2693-CL-0008, control cohort 2, fasted]
+30 mg SD [2693-CL-0008, control cohort 3, fasted]
+45 mg SD [2693-CL-0010, to-be-market formulation]
+45 mg SD [2693-CL-0010, phase 3 formulation]
+45 mg SD [2693-CL-0012, fasted]
+45 mg SD [2693-CL-0012, fed]
+60 mg Day 21 [ESN364-CPK-101, fed]
+
+384
+270
+260
+286
+506
+527
+453
+343
+423
+
+294
+298
+298
+298
+431
+431
+439
+325
+401
+
+-23
+10
+15
+4
+-15
+-18
+-3
+-5
+-5
+
+2340
+2220
+2200
+2470
+3840
+3960
+2870
+2760
+2880
+
+2440
+2420
+2420
+2420
+3353
+3353
+3354
+3221
+3740
+
+4
+9
+10
+-2
+-13
+-15
+17
+17
+30
+
+PK parameters are mean values. AUC values represent AUCinf for single dose (SD), expect for AUC24h for Day 21 in the Study
+ESN364-CPK-101. %PE= [(predicted value – observed value)/observed value] x 100. (Source: Applicant’s Response to IR dated
+10/6/22, Table 1).
+
+Q2. Can PBPK analyses predict the effect of a CYP1A2 inhibitor on the PK of fezolinetant?
+Yes, the PBPK analysis was considered adequate to estimate the DDI liability of fezolinetant as a
+victim of CYP1A2 inhibition.
+The model adequately predicted the interaction effect of the strong CYP1A2 inhibitor
+fluvoxamine (50 mg BID) on the PK of fezolinetant (30 mg SD) in nonsmoking women [2693-CL0006]. The predicted geometric mean ratios of Cmax and AUCinf were within 10% of the
+observed values (Table 2). These results suggest that fezolinetant PBPK model provided a
+reasonable estimate of the metabolic contribution of CYP1A2 (fmCYP1A2=0.92) to fezolinetant
+clearance at single dose in vivo.
+Table 2. Predicted and observed Cmax and AUC changes of fezolinetant in the presence of the strong
+CYP1A2 inhibitor fluvoxamine
+DDI Scenario
+
+fezolinetant 30 mg SD
++ fluvoxamine 50 mg BID
+
+Cmax ratio (90%CI)
+
+AUCinf ratio (90%CI)
+
+Observed
+
+Predicted
+
+Observed
+
+Predicted
+
+1.63
+(1.38 - 1.94)
+
+1.48
+(1.44 - 1.53)
+
+8.89
+(6.91 - 11.4)
+
+8.57
+(8.13 – 9.42)
+
+PK data are geometric mean ratios. Cmax and AUC ratios are expressed as with/without inhibitor. Observed: Study 2693-CL0006. (Source: Applicant’s Response to IR dated 10/6/22, Table 2).
+
+The model was used to predict the interaction effect of moderate and weak CYP1A2 inhibitors
+on fezolinetant 45 mg SD, under both fasted and fed conditions. The predicted geometric mean
+ratios of Cmax and AUC of fezolinetant in the presence of mexiletine (moderate CYP1A2
+inhibitor) or cimetidine (weak CYP1A2 inhibitor) are summarized in Table 3.
+Table 3. PBPK predicted Cmax and AUC ratios for fezolinetant in the presence of CYP1A2 inhibitors
+CYP1A2 Inhibitor
+
+Fezolinetant (45 mg SD) PK in the presence of CYP1A2 inhibitors
+
+91
+
+Reference ID: 5083095
+
+Dosing Regimen
+
+Mexiletine 400 mg TID – fasted
+Mexiletine 400 mg TID – fed
+Mexiletine 200 mg TID – fasted
+Mexiletine 200 mg TID – fed
+Cimetidine 300 mg QID - fasted
+Cimetidine 300 mg QID - fed
+Cimetidine 400 mg BID – fasted
+Cimetidine 400 mg BID - fed
+
+Cmax Ratio
+(90% CI)
+
+AUCinf Ratio
+(90% CI)
+
+1.41 (1.38, 1.45)
+1.59 (1.54, 1.64)
+1.36 (1.33, 1.39)
+1.50 (1.47, 1.54)
+1.30 (1.27, 1.32)
+1.33 (1.30, 1.35)
+1.32 (1.29, 1.35)
+1.36 (1.33, 1.39)
+
+4.61 (4.39, 4.84)
+4.55 (4.33, 4.78)
+3.43 (3.27, 3.59)
+3.38 (3.24, 3.54)
+2.01 (1.96, 2.05)
+1.91 (1.87, 1.95)
+1.75 (1.71, 1.79)
+1.61 (1.58, 1.64)
+
+PK data are geometric mean ratios and 90% confidence interval. Cmax and AUC ratios are expressed as with/without inhibitor.
+Simulations were conducted using the population model “Sim-Healthy Volunteers”, with weight distribution adjusted to give
+mean weight = 74 kg. N=10 x 10 trials, proportion of females=1, age range 40-65 years. Abbreviations: BID: twice daily; TID:
+three times a day; QID: four times a day (Source: Applicant’s Response to IR dated 10/6/22, Table 11).
+
+Additional comments:
+•
+
+•
+
+The Applicant demonstrated that the predicted magnitude of DDI did not change
+significantly with multiple-dose administration of fezolinetant in the presence of an
+inhibitor compared to the predicted DDI of single dose administration of fezolinetant. These
+results are in line with the short half-life and minimal accumulation of fezolinetant.
+In vitro assays [2693-ME-0009] determined that fezolinetant is primarily metabolized by
+CYP1A2, with minor contributions of CYP2C9 and CYP2C19. The clinical interaction effect of
+the strong CYP1A2 inhibitor fluvoxamine [2693-CL-0006] was used to optimize the
+percentage contribution of CYP1A2 to fezolinetant metabolism in vivo. However, the
+Applicant acknowledged that fluvoxamine is an inhibitor of several CYP isoforms, including
+the ones determined to be involved in fezolinetant metabolism in vitro (CYP1A2, CYP2C9
+and CYP2C19). Thus, by assigning the magnitude of the effect of fluvoxamine being only
+mediated by CYP1A2 inhibition, the current PBPK analysis seemed to represent the maximal
+effect of CYP1A2 inhibition on the clearance of fezolinetant. The DDI predictions with the
+CYP1A2 inhibitors should be interpreted with caution.
+
+Conclusions
+The PBPK modeling analysis was used to predict the effect of moderate and weak CYP1A2
+inhibitors on the PK of fezolinetant and serve as the regulatory basis for recommendations for
+management of DDI risk in the prescribing information.
+The PBPK modeling analysis was considered adequate to predict the effect of moderate and
+weak CYP1A2 inhibitors on the exposure of 45 mg fezolinetant:
+
+92
+
+Reference ID: 5083095
+
+The mean apparent volume of
+distribution (Vz/F) of fezolinetant is 189
+L.
+
+Elimination
+The apparent clearance at steady-state
+(b) (4)
+of fezolinetant is 10.8 L/h.
+
+Specific Populations
+(b) (4)
+
+98
+
+Reference ID: 5083095
+
+Applicant - Table 8:
+
+Summary of Key Baseline Characteristics and Laboratory Values in the Dataset, Stratified by Study
+
+99
+
+Reference ID: 5083095
+
+100
+
+Reference ID: 5083095
+
+Study Number Index: 2=ESN364-UF-02, 6=2693-CL-0006, 9=2693-CL-0009, 10=2693-CL-0010, 12=2693-CL-0012, 20=2693-CL-0020,
+30=2693-CL-0030, 101=ESN364-CPK-101,
+102=ESN364-CPK-102, 201=ESN364-PCO-201, 204=ESN364_HF_204, 205=ESN364_HF_205, 301=2693-CL-0301, 302=2693-CL-0302
+SD = standard deviation, Min = minimum, Max = maximum
+Creatinine clearance was calculated using the Cockroft-Gault equation.
+Source: MSTask14_Blind/script/report-2693-pk-0010-data-summary-section5.1.html
+
+Source provided in the Population PK report.
+
+101
+
+Reference ID: 5083095
+
+Applicant - Table 14:
+
+Parameter Estimates for the Best Model in Derived Analysis Dataset 3
+
+Parameter a
+
+Notation Estimate (%SEM)
+
+Fixed Effects
+ktr – Known Meal Status [log 1/hr]
+
+θ1
+
+2.698 [ 2.9 ]
+
+CL [log L/hr]
+
+θ2
+
+2.382 [ 0.7 ]
+
+Vc [log L]
+
+θ3
+
+4.562 [ 0.3 ]
+
+Q [log L/hr]
+
+θ4
+
+0.853 [ 4.0 ]
+
+Vp [log L]
+
+θ5
+
+4.540 [ 4.1 ]
+(b) (4)
+
+Current Smoker on CL [log fraction]
+
+θ12
+
+0.414 [ 9.6 ]
+
+Unknown Smoking Status on CL [log fraction]
+
+θ13
+
+0.077 [ 74.1 ]
+
+Change in CL at Time=0 for Study 2693-CL-0020 [log fraction]
+
+θ14
+
+0.345 [ 7.5 ]
+
+Half-Life for Rate of Decline of CL for 2693-CL-0020 [log hr]
+
+θ15
+
+4.960 FIX
+
+Meal Status = Fed on ktr [log fraction]
+
+θ16
+
+-1.071 [ 5.3 ]
+
+ktr - Unknown Meal Status [log 1/hr]
+
+θ17
+
+3.194 [ 4.0 ]
+
+Body Weight on Vc [power]
+
+θ25
+
+0.938 [ 5.1 ]
+
+Race = Black on Vc [log fraction]
+
+θ26
+
+0.094 [ 24.2 ]
+
+Study 2693-CL-0006 on CL [log fraction]
+
+θ30
+
+0.486 [ 24.8 ]
+
+Phase 1 studies on CL [log fraction]
+
+θ31
+
+0.166 [ 27.2 ]
+
+Box-Cox Parameter
+
+θ32
+
+-0.347 [ 14.8 ]
+
+Dose on ktr [power]
+
+θ33
+
+-0.150 [ 29.3 ]
+
+2
+
+0.238 [ 17.3 ]
+
+Interindividual Variability
+IIV ktr – Meal Status Known
+102
+
+Reference ID: 5083095
+
+ω1
+IIV CL
+
+2
+
+0.213 [ 4.5 ]
+
+ω2
+IIV Vc
+
+2
+
+0.023 [ 15.5 ]
+
+ω4
+IIV Vp
+
+2
+
+3.654 [ 15.8 ]
+
+ω5
+IIV ktr – Meal Status=Unknown
+
+2
+
+1.077 [ 13.1 ]
+
+ω6
+Residual Variability
+RV Phase 1/2 - Proportional [sd]
+
+θ6
+
+0.383 [ 1.8 ]
+
+RV Phase 1/2 - Proportional – Time > 3.5 hr [sd]
+
+θ7
+
+0.253 [ 1.4 ]
+
+RV Phase 3 - Proportional [sd]
+
+θ8
+
+0.396 [ 1.9 ]
+
+RV Phase 3 - Proportional – Time > 3.5 hr [sd]
+
+θ9
+
+0.557 [ 1.8 ]
+
+a Parameters represent typical values in which the reference individual is a white, non-smoker with a body
+weight of 70 kg receiving 90 mg of the tablet formulation in the fasted state in the phase 2 or phase 3 studies
+Source: MSTask14_Blind/deliv/table/parms-best-model-full3035-dad3.csv
+Code: MSTask14_Blind/script/report-2693-PK-0010-best-model-parameter-summary.Rmd
+Source provided in the Population PK report.
+
+103
+
+Reference ID: 5083095
+
+Applicant – Adapted from Best Model Goodness-of-Fit Plots (Section 9, PopPK report) and from Figure
+11 (study 2693-CL-0006)
+
+104
+
+Reference ID: 5083095
+
+The FDA’s Assessment:
+The applicant’s population PK analysis is considered acceptable for the purpose of supporting analyses
+objectives.
+PPK Review Issues
+There are no PPK review issues.
+Reviewer’s Independent Analysis
+The applicant’s analyses were verified by the reviewer, with no significant discordance identified. We
+further verified the steady-state AUCs of fezolinetant in participants with normal, mild, and moderate
+renal impairment from the phase 3 studies (2693-CL-0301 and 2693-CL-0302) predicted based on the
+population PK analysis. We noticed that the cutoff value between normal and mild was set as 80 instead
+of 90 ml/min with respect to eGFR. After correcting the error, the total exposure of fezolinetant in
+participants with mild or moderate renal impairment was similar to the exposures in participants with
+normal renal function, as shown in [Sponsor Table 5 in the IR response dated 9/29/2022] and [Sponsor
+Figure 1 in the IR response dated 9/29/2022].
+
+Sponsor Table 5: Predicted AUC (Mean, Range) for Participants Based on Renal Function in Phase 3
+Studies (PopPK Analysis)
+DOSE RENCAT
+
+N
+
+(mg)
+
+MEAN_AUC
+
+MEDIAN_AUC
+
+SD_AUC
+
+MIN_AUC
+
+MAX_AUC
+
+(ng.h/mL)
+
+(ng.h/mL)
+
+(ng.h/mL)
+
+(ng.h/mL)
+
+(ng.h/mL)
+
+CV_AUC
+
+30
+
+Normal
+
+201
+
+2803
+
+2690
+
+1360.9
+
+802
+
+9276
+
+48.6
+
+30
+
+Mild
+
+267
+
+2594
+
+2397
+
+1232.8
+
+774
+
+10904
+
+47.5
+
+30
+
+Moderate
+
+7
+
+2393
+
+2096
+
+942.9
+
+1234
+
+4298
+
+39.4
+
+45
+
+Normal
+
+199
+
+4159
+
+3930
+
+1886.6
+
+1269
+
+11325
+
+45.4
+
+45
+
+Mild
+
+275
+
+4097
+
+3863
+
+1712.3
+
+1348
+
+12689
+
+41.8
+
+45
+
+Moderate
+
+9
+
+4061
+
+3402
+
+1487
+
+2516
+
+7308
+
+36.6
+
+AUCss: AUC0-24 at steady state; CV: coefficient of variation; N: number of participants; PopPK: population
+pharmacokinetics.
+
+108
+
+Reference ID: 5083095
+
+APPEARS THIS WAY ON ORIGINAL
+
+Sponsor Figure 1: The Distribution of Fezolinetant AUC at 30 mg and 45 mg in Postmenopausal Women
+with VMS and in Female Participants with Mild and Moderate Renal Impairment.
+
+109
+
+Reference ID: 5083095
+
+APPEARS THIS WAY ON ORIGINAL
+
+110
+
+Reference ID: 5083095
+
+Applicant - Table 50:
+
+Summary of Baseline Characteristics
+
+115
+
+Reference ID: 5083095
+
+Source provided in the ER report.
+
+116
+
+Reference ID: 5083095
+
+Applicant - Table 8 and 12:
+Parameter Estimates for Best Moderate and Severe Hot Flash
+Frequency and Severity Model
+Best Frequency Model
+
+Best Severity Model
+
+117
+
+Reference ID: 5083095
+
+Source provided in the ER report.
+
+118
+
+Reference ID: 5083095
+
+Applicant - Table 1 in IR response on 8/22/2022:
+Original and Simplified Severity Models
+
+Comparison of Model Parameter Estimates for
+
+Applicant - Figure 11, 19 and 20: Illustration of Baseline and Post-Baseline Placebo-time Effects and
+Drug Effect Components of Moderate and Severe Hot Flash Frequency and Severity Model
+119
+
+Reference ID: 5083095
+
+Frequency Model
+
+Severity Model
+
+120
+
+Reference ID: 5083095
+
+121
+
+Reference ID: 5083095
+
+Source provided in the ER report.
+
+Applicant - Figure 1 in IR response dated 8/31/2022: Mean Predicted Probability of Mild, Moderate,
+and Severe Hot Flashes for Simplified Model (Run109_mod.txt)
+
+122
+
+Reference ID: 5083095
+
+123
+
+Reference ID: 5083095
+
+Applicant - Figure 12, 13 and 14: Visual Predictive Check for Placebo-Corrected Change from Baseline
+(Average (Daily)) Moderate and Severe Hot Flash Frequency for the Best Model
+
+124
+
+Reference ID: 5083095
+
+125
+
+Reference ID: 5083095
+
+Source provided in the ER report.
+
+126
+
+Reference ID: 5083095
+
+Applicant - Figure 21, 22, 23, 24 and 25: Visual Predictive Check for the Best Severity Model
+
+127
+
+Reference ID: 5083095
+
+128
+
+Reference ID: 5083095
+
+129
+
+Reference ID: 5083095
+
+130
+
+Reference ID: 5083095
+
+131
+
+Reference ID: 5083095
+
+Applicant - Table 6: Summary of Covariates Evaluated in Model-based Analyses
+
+Applicant - Table 7, 8 and 11: Cox Proportional Hazard Model Parameter Estimates for ALT or AST
+Elevations >3x ULN for Fezolinetant Exposure
+
+136
+
+Reference ID: 5083095
+
+Source provided in the ER report.
+
+137
+
+Reference ID: 5083095
+
+Applicant - Figure 5, 6, 7 and 8: Maximum Post-baseline ALT and Maximum Change from Baseline ALT
+in Studies 2693-CL-0301 and 2693-CL-0302 Over the 12-week Treatment Period
+
+138
+
+Reference ID: 5083095
+
+139
+
+Reference ID: 5083095
+
+140
+
+Reference ID: 5083095
+
+Source provided in the ER report
+Applicant - Figure 21: Predicted Cumulative Distribution Function for Different Baseline ALT
+Values in Phase 3 Studies 2693-CL-0301 and 2693-CL-0302
+
+141
+
+Reference ID: 5083095
+
+Source provided in the ER report.
+
+APPEARS THIS WAY ON
+ORIGINAL
+
+142
+
+Reference ID: 5083095
+
+Applicant - Figure IV: Residual Plots for Cox PH Model Including Baseline ALT
+
+Source provided in the ER report attachment 3
+
+143
+
+Reference ID: 5083095
+
+Applicant - Figure 22, 23, 24 and 25: Predicted Cumulative Distribution Function for Total Daily Dose
+Model with Baseline ALT at Different Fezolinetant Total Daily Dose/Cavg Levels
+
+144
+
+Reference ID: 5083095
+
+Source provided in the ER report.
+
+The Reviewer’s Assessment:
+The applicant’s analyses results are considered acceptable for the purpose of supporting analyses
+objectives.
+
+146
+
+Reference ID: 5083095
+
+Signature Page 1 of 1
+
+-------------------------------------------------------------------------------------------This is a representation of an electronic record that was signed
+electronically. Following this are manifestations of any and all
+electronic signatures for this electronic record.
+-------------------------------------------------------------------------------------------/s/
+-----------------------------------------------------------LIN ZHOU
+11/23/2022 11:17:11 AM
+YANING SUN
+11/23/2022 11:22:37 AM
+JUNSHAN QIU
+11/23/2022 11:25:03 AM
+JINGYU YU
+11/23/2022 11:27:21 AM
+MANUELA GRIMSTEIN
+11/23/2022 11:57:59 AM
+MANUELA GRIMSTEIN on behalf of YUCHING N YANG
+11/23/2022 01:58:59 PM
+I sign on behalf of Dr. Yuching Yang
+YANHUI LU
+11/23/2022 02:04:47 PM
+SHIRLEY K SEO
+11/23/2022 04:37:35 PM
+
+Reference ID: 5083095
+
+

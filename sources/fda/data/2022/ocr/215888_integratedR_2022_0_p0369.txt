@@ -1,0 +1,46 @@
+IND 111675 VT-1161 Page 17 of 32
+male Rats _Poly-3 test.
+0 mg Vehicle 0.5 mg 1.5 mg 5/3 mg
+Cont (N=70) | Low (N=70) | Med (N=70) | High (N=70)
+Organ Name Tumor Name P- Trend P-Cvs.L | P-Cvs.M | P-Cvs.H
+Kidneys Liposarcoma, Malignant 1/70 (29) 0/70 (31) 0/70 (32) 0/70 (15)
+1.0000 1.0000 1.0000 1.0000
+Large Intestine, Sarcoma, Undifferentiated, 0/70 (29) 0/70 (31) 1/70 (32) 0/70 (15)
+Cecum Malignant 0.4393 NC 0.5246 NC
+Large Intestine, Sarcoma, Undifferentiated, 0/70 (29) 1/70 (31) 0/70 (32) 0/70 (15)
+Colon Malignant 0.7290 0.5167 NC NC
+Lip Carcinoma, Squamous Cell, 0/70 (29) 0/70 (31) 1/70 (32) | 0/70 (15)
+Malignant 0.4393 NC 0.5246 NC
+Liver Adenoma, Hepatocellular, Benign | 0/70 (29) 4/70 (33) | 8/70(35) | 2/70 (16)
+0.1263 0.0734 0.0053* 0.1212
+Carcinoma, Hepatocellular, 1/70 (29) 0/70 (31) | 0/70 (32) 1/70 (15)
+Malignant 0.2619 1.0000 1.0000 0.5708
+Adenoma/Carcinoma, 1/70 (29) 4/70 (33) | 8/70(35) | 3/70 (16)
+Hepatocellular, Benign/Malignant 0.0804 0.2201 0.0273 0.1212
+Lung Carcinoma, Squamous Cell, 0/70 (29) 0/70 (31) 1/70 (32) 0/70 (15)
+Malignant 0.4393 NC 0.5246 NC
+Mammary Gland | Adenocarcinoma, Malignant 0/70 (29) 0/70 (31) 1/70 (32) 0/70 (15)
+0.4393 NC 0.5246 NC
+Fibroadenoma, Benign 1/70 (29) 0/70 (31) 1/70 (33) 1/70 (15)
+0.2343 1.0000 0.7853 0.5708
+Multicentric Hemangioma, Benign 1/70 (29) 0/70 (31) 0/70 (32) 0/70 (15)
+Neoplasm 1.0000 1.0000 1.0000 1.0000
+Hemangiosarcoma, Malignant 0/70 (29) 0/70 (31) 1/70 (33) 0/70 (15)
+0.4444 NC 0.5323 NC
+Leukemia, Granulocytic, 0/70 (29) 0/70 (31) 1/70 (33) | 0/70 (15)
+Malignant 0.4444 NC 0.5323 NC
+Lymphoma, Malignant 2/70 (30) 1/70 (32) 1/70 (33) 1/70 (15)
+0.4589 0.8926 0.8978 0.7139
+Sarcoma, Histiocytic, Malignant 0/70 (29) 1/70 (32) 1/70 (33) | 0/70 (15)
+0.5265 0.5246 0.5323 NC
+Oral Cavity Papilloma, Squamous Cell, 0/70 (29) 0/70 (31) 0/70 (32) 1/70 (15)
+Benign 0.1402 NC NC 0.3409
+Pancreas Adenoma, Acinar Cell, Benign 2/70 (29) 0/70 (31) 2/70 (33) 0/70 (15)
+0.7260 1,0000 0.7413 1.0000
+Adenoma, Islet Cell, Benign 4/70 (30) 1/70 (31) 1/70 (32) 1/70 (15)
+0.7005 0.9760 0.9780 0.8834
+Carcinoma, Islet Cell, Malignant 2/70 (29) 0/70 (31) 0/70 (32) 0/70 (15)
+1.0000 1.0000 1.0000 1,0000
+
+Reference ID: 4883049
+

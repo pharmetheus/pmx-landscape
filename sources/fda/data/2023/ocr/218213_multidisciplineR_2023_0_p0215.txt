@@ -1,0 +1,47 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 218213}
+Repotrectinib (BMS-986472)
+
+Selectivity & matrix 6 lots, all passed Yes
+effect
+Interference & All 6 lots have 0.0% mean LLOQ analyte response and 0.0% IS Yes
+specificity response
+Hemolysis effect 1 lot, bias -8.0% (3.00 ng/mL) and -4.1% (800 ng/mL) Yes
+Lipemic effect 1 lot, bias -3.3% (3.00 ng/mL) and -3.2% (800 ng/mL) Yes
+Dilution linearity & hook} 2500 ng/mL 20x dilution, bias -3.2% Yes
+effect
+Bench-top/process 5 days at room temperature, bias: Yes
+stability -7.1% to 5.0%
+Freeze-Thaw stability 5 cycles (-30 to -10°C/RT), bias -9.4% to -2.7% Yes
+5 cycles (-80 to -60°C/RT), bias -9.4% to -3.3%
+Long-term storage 359 days at -30 to -10°C, bias 9.9% to 14.7% Yes
+359 days at -80 to -60°C, bias: 6.1% to 14.3%
+Parallelism NA NA
+Carry over < 10.1% for analyte Yes
+< 0.3% for internal standard
+Method performance in study TPX-0005-01 Phase 2 interim report 8455-910
+Assay passing rate ISR passing rate 97.1% when include 2 ISR samples that are Yes
+tested out of validated stability and 97.0% when exclude these
+2 ISR samples
+Standard curve * Cumulative bias range: -2.0% to 2.0% Yes
+performance * Cumulative precision (%CV): < 6.9%
+QC performance * Cumulative bias range: 1.0% to 3.1% Yes
+* Cumulative precision (%CV): < 7.2%
+Method Incurred sample re-analysis was performed in 11.7% of study Yes
+reproducibility samples, and 97.1% of the samples met the pre- specified
+criteria. Two of the 68 ISR samples were tested
+out of validated stability, when exclude these 2 samples, ISR
+was performed in 11.4% of study samples and 97.0% of the
+samples met the pre-specified criteria.
+Study sample The standard/QCs are stable at -80°C to -60°C for 359 days, Yes
+analysis/ stability study samples were stored at -80°C to -60°C for no more than
+350 days
+
+Source: Module 2.7.1 Summary of Biopharmaceutic Studies and Associated Analytical Methods Table 34.
+
+214
+Version date: June 2022 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5277412

@@ -1,0 +1,63 @@
+BLA Multi-disciplinary Review and Evaluation {Biologics License Application (BLA) 761208}
+{tisotumab vedotin}
+
+Covariate Level Total SGNTV- | GCT1015 | GEN701 | GEN702
+001 -04
+N(%) 399 (100%) 70 101 195 33
+(17.5%) _|_ (25.3%) (48.9%) (8.3%)
+Male 103 44 (62.9%) - 55 (28.2%) | 4 (12.1%)
+Sex (25.8%)
+(SEX) Female 296 26 (37.1%) | 101 140 (71.8%) 29
+(74.2%) (100%) (87.9%)
+White 368 59 (84.3%) | 96 (95%) | 182 (93.3%) 31
+(92.2%) (93.9%)
+Race Black 6(1.5%) | 3(43%) | 1(1%) 2 (1%) -
+(RACE) Asian 10 (2.5%) 1 (1.4%) 2 (2%) 5 (2.6%) 2 (6.1%)
+Other 15 (3.8%) | 7(10%) | 2(2%) 6 (3.1%) -
+383 (96%) | 63 (90%) 95 193 (99%) | 32 (97%)
+Ethnicity | Non-Hispanic (94.1%)
+Hispanic 16 (4%) 7 (10%) | 6 (5.9%) 2 (1%) 1 (3%)
+0 155 21 (30%) 59 63 (32.3%) 12
+ECOG (38.8%) (58.4%) (36.4%)
+Status 1 244 49 (70%) 42 132 (67.7%) 21
+(61.2%) (41.6%) (63.6%)
+Normal 215 42 (60%) 46 112 (57.4%) 15
+Renal (53.9%) (45.5%) (45.5%)
+° 142 23 (32.9%) 40 66 (33.8%) 13
+"RENAL. Mild (35.6%) (39.6%) (39.4%)
+Moderate 42 (10.5%) | 5 (7.1%) sou) 17 (8.7%) | 5 (15.2%)
+Hepatic | Normal 341 56 (80%) 93 167 (85.6%) 25
+Impairment (85.5%) (92.1%) (75.8%)
+(HEP) Mild 58 (14.5%) | 14 (20%) | 8 (7.9%) | 28(14.4%) | 8 (24.2%)
+172 - 107 57 (29.2%) 14
+Tumor Type Cervical (43.1%) (100%) (42.4%)
+Other 227 70 (100%) - 138 (70.8%) 19
+(56.9%) (57.6%)
+Europe 282 5 (7.1%) 86 162 (83.1%) 29
+Region (70.7%) (85.1%) (87.9%)
+USA 117 65 (92.9%) 15 33 (16.9%) | 4 (12.1%)
+(29.3%) (14.9%)
+ADA status [Negative 386(96.7%) | 68(97.1%) | 96 (95%) | 189(96.9%) | 33 (100%)
+Positive 13 (3.3%) | 2(29%) | 5 (5%) 6 (3.1%) :
+Note that only 6 black patients (1.5% of the overall study population) were enrolled in the studies.
+
+Source: Table 11 in the Population PK report.
+
+ADC Model: The ADC plasma concentration-time data is fitted with a two-compartment model with
+parallel linear and Michalis-Menten (MM) elimination (Vmax, Km). Baseline covariate effects of special
+interest: body weight on CL, V1, V2, and Q; albumin and sex on CL, V1 and V2; age, ECOG, hepatic
+impairment, eGFR, tumor size, and tumor type on CL; ECOG, hepatic impairment, and eGFR on V1 were
+studied in the development of the ADC covariate model. All other covariates including race were tested
+by diagnostic plots of random effects versus covariates. No dependencies on race were noticeable to be
+clinically meaningful. The effects of body weight on CL, V1, V2, and Q, and the effects of albumin and sex
+on CL and V1 were included in the final ADC model. None of the other covariates, including ADA status,
+drug material, and TFE H-score, have a clinically meaningful impact on ADC exposures. The final ADC
+model parameter estimates are summarized in Table 47. The covariate effects are summarized in Table
+
+201
+
+Version date: March 2021 (ALL NDA/ BLA reviews)
+Disclaimer: In this document, the sections labeled as “The Applicant’s Position” are completed by the Applicant
+and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 4858975

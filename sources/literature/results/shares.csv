@@ -1,0 +1,229 @@
+"source","year","software","n","base_n","share_pct","partial_year"
+"Europe PMC (full text)",2021,"BUGS",2,511,0.391389432485323,FALSE
+"Europe PMC (full text)",2022,"BUGS",0,578,0,FALSE
+"Europe PMC (full text)",2023,"BUGS",1,425,0.235294117647059,FALSE
+"Europe PMC (full text)",2024,"BUGS",3,458,0.655021834061135,FALSE
+"Europe PMC (full text)",2025,"BUGS",2,612,0.326797385620915,FALSE
+"Europe PMC (full text)",2026,"BUGS",2,556,0.359712230215827,TRUE
+"Europe PMC (full text)",2021,"FERX",0,511,0,FALSE
+"Europe PMC (full text)",2022,"FERX",0,578,0,FALSE
+"Europe PMC (full text)",2023,"FERX",0,425,0,FALSE
+"Europe PMC (full text)",2024,"FERX",0,458,0,FALSE
+"Europe PMC (full text)",2025,"FERX",0,612,0,FALSE
+"Europe PMC (full text)",2026,"FERX",0,556,0,TRUE
+"Europe PMC (full text)",2021,"InsightRX",6,511,1.17416829745597,FALSE
+"Europe PMC (full text)",2022,"InsightRX",7,578,1.21107266435986,FALSE
+"Europe PMC (full text)",2023,"InsightRX",5,425,1.17647058823529,FALSE
+"Europe PMC (full text)",2024,"InsightRX",4,458,0.873362445414847,FALSE
+"Europe PMC (full text)",2025,"InsightRX",14,612,2.28758169934641,FALSE
+"Europe PMC (full text)",2026,"InsightRX",15,556,2.69784172661871,TRUE
+"Europe PMC (full text)",2021,"MATLAB NLME",0,511,0,FALSE
+"Europe PMC (full text)",2022,"MATLAB NLME",0,578,0,FALSE
+"Europe PMC (full text)",2023,"MATLAB NLME",0,425,0,FALSE
+"Europe PMC (full text)",2024,"MATLAB NLME",2,458,0.436681222707424,FALSE
+"Europe PMC (full text)",2025,"MATLAB NLME",0,612,0,FALSE
+"Europe PMC (full text)",2026,"MATLAB NLME",1,556,0.179856115107914,TRUE
+"Europe PMC (full text)",2021,"Monolix",45,511,8.80626223091977,FALSE
+"Europe PMC (full text)",2022,"Monolix",64,578,11.0726643598616,FALSE
+"Europe PMC (full text)",2023,"Monolix",60,425,14.1176470588235,FALSE
+"Europe PMC (full text)",2024,"Monolix",67,458,14.6288209606987,FALSE
+"Europe PMC (full text)",2025,"Monolix",95,612,15.5228758169935,FALSE
+"Europe PMC (full text)",2026,"Monolix",97,556,17.4460431654676,TRUE
+"Europe PMC (full text)",2021,"NLMIXED",3,511,0.587084148727984,FALSE
+"Europe PMC (full text)",2022,"NLMIXED",2,578,0.346020761245675,FALSE
+"Europe PMC (full text)",2023,"NLMIXED",1,425,0.235294117647059,FALSE
+"Europe PMC (full text)",2024,"NLMIXED",2,458,0.436681222707424,FALSE
+"Europe PMC (full text)",2025,"NLMIXED",7,612,1.1437908496732,FALSE
+"Europe PMC (full text)",2026,"NLMIXED",0,556,0,TRUE
+"Europe PMC (full text)",2021,"nlmixr",5,511,0.978473581213307,FALSE
+"Europe PMC (full text)",2022,"nlmixr",2,578,0.346020761245675,FALSE
+"Europe PMC (full text)",2023,"nlmixr",4,425,0.941176470588235,FALSE
+"Europe PMC (full text)",2024,"nlmixr",4,458,0.873362445414847,FALSE
+"Europe PMC (full text)",2025,"nlmixr",11,612,1.79738562091503,FALSE
+"Europe PMC (full text)",2026,"nlmixr",13,556,2.33812949640288,TRUE
+"Europe PMC (full text)",2021,"NONMEM",321,511,62.8180039138943,FALSE
+"Europe PMC (full text)",2022,"NONMEM",335,578,57.9584775086505,FALSE
+"Europe PMC (full text)",2023,"NONMEM",213,425,50.1176470588235,FALSE
+"Europe PMC (full text)",2024,"NONMEM",262,458,57.2052401746725,FALSE
+"Europe PMC (full text)",2025,"NONMEM",350,612,57.1895424836601,FALSE
+"Europe PMC (full text)",2026,"NONMEM",287,556,51.6187050359712,TRUE
+"Europe PMC (full text)",2021,"OpenPMX",0,511,0,FALSE
+"Europe PMC (full text)",2022,"OpenPMX",0,578,0,FALSE
+"Europe PMC (full text)",2023,"OpenPMX",0,425,0,FALSE
+"Europe PMC (full text)",2024,"OpenPMX",0,458,0,FALSE
+"Europe PMC (full text)",2025,"OpenPMX",0,612,0,FALSE
+"Europe PMC (full text)",2026,"OpenPMX",1,556,0.179856115107914,TRUE
+"Europe PMC (full text)",2021,"Phoenix NLME",26,511,5.0880626223092,FALSE
+"Europe PMC (full text)",2022,"Phoenix NLME",39,578,6.74740484429066,FALSE
+"Europe PMC (full text)",2023,"Phoenix NLME",25,425,5.88235294117647,FALSE
+"Europe PMC (full text)",2024,"Phoenix NLME",32,458,6.98689956331878,FALSE
+"Europe PMC (full text)",2025,"Phoenix NLME",42,612,6.86274509803922,FALSE
+"Europe PMC (full text)",2026,"Phoenix NLME",28,556,5.03597122302158,TRUE
+"Europe PMC (full text)",2021,"PhysPK",0,511,0,FALSE
+"Europe PMC (full text)",2022,"PhysPK",0,578,0,FALSE
+"Europe PMC (full text)",2023,"PhysPK",1,425,0.235294117647059,FALSE
+"Europe PMC (full text)",2024,"PhysPK",1,458,0.218340611353712,FALSE
+"Europe PMC (full text)",2025,"PhysPK",1,612,0.163398692810458,FALSE
+"Europe PMC (full text)",2026,"PhysPK",0,556,0,TRUE
+"Europe PMC (full text)",2021,"Pmetrics",20,511,3.91389432485323,FALSE
+"Europe PMC (full text)",2022,"Pmetrics",31,578,5.36332179930796,FALSE
+"Europe PMC (full text)",2023,"Pmetrics",18,425,4.23529411764706,FALSE
+"Europe PMC (full text)",2024,"Pmetrics",11,458,2.40174672489083,FALSE
+"Europe PMC (full text)",2025,"Pmetrics",12,612,1.96078431372549,FALSE
+"Europe PMC (full text)",2026,"Pmetrics",10,556,1.79856115107914,TRUE
+"Europe PMC (full text)",2021,"PoPy",0,511,0,FALSE
+"Europe PMC (full text)",2022,"PoPy",0,578,0,FALSE
+"Europe PMC (full text)",2023,"PoPy",0,425,0,FALSE
+"Europe PMC (full text)",2024,"PoPy",0,458,0,FALSE
+"Europe PMC (full text)",2025,"PoPy",0,612,0,FALSE
+"Europe PMC (full text)",2026,"PoPy",0,556,0,TRUE
+"Europe PMC (full text)",2021,"Pumas",2,511,0.391389432485323,FALSE
+"Europe PMC (full text)",2022,"Pumas",8,578,1.3840830449827,FALSE
+"Europe PMC (full text)",2023,"Pumas",4,425,0.941176470588235,FALSE
+"Europe PMC (full text)",2024,"Pumas",6,458,1.31004366812227,FALSE
+"Europe PMC (full text)",2025,"Pumas",14,612,2.28758169934641,FALSE
+"Europe PMC (full text)",2026,"Pumas",10,556,1.79856115107914,TRUE
+"Europe PMC (full text)",2021,"S-ADAPT",4,511,0.782778864970646,FALSE
+"Europe PMC (full text)",2022,"S-ADAPT",4,578,0.692041522491349,FALSE
+"Europe PMC (full text)",2023,"S-ADAPT",6,425,1.41176470588235,FALSE
+"Europe PMC (full text)",2024,"S-ADAPT",5,458,1.09170305676856,FALSE
+"Europe PMC (full text)",2025,"S-ADAPT",5,612,0.816993464052288,FALSE
+"Europe PMC (full text)",2026,"S-ADAPT",6,556,1.07913669064748,TRUE
+"Europe PMC (full text)",2021,"SAAM II",1,511,0.195694716242661,FALSE
+"Europe PMC (full text)",2022,"SAAM II",0,578,0,FALSE
+"Europe PMC (full text)",2023,"SAAM II",0,425,0,FALSE
+"Europe PMC (full text)",2024,"SAAM II",0,458,0,FALSE
+"Europe PMC (full text)",2025,"SAAM II",0,612,0,FALSE
+"Europe PMC (full text)",2026,"SAAM II",2,556,0.359712230215827,TRUE
+"Europe PMC (full text)",2021,"saemix",1,511,0.195694716242661,FALSE
+"Europe PMC (full text)",2022,"saemix",1,578,0.173010380622837,FALSE
+"Europe PMC (full text)",2023,"saemix",2,425,0.470588235294118,FALSE
+"Europe PMC (full text)",2024,"saemix",0,458,0,FALSE
+"Europe PMC (full text)",2025,"saemix",3,612,0.490196078431373,FALSE
+"Europe PMC (full text)",2026,"saemix",2,556,0.359712230215827,TRUE
+"Europe PMC (full text)",2021,"Stan/Torsten",0,511,0,FALSE
+"Europe PMC (full text)",2022,"Stan/Torsten",3,578,0.519031141868512,FALSE
+"Europe PMC (full text)",2023,"Stan/Torsten",3,425,0.705882352941177,FALSE
+"Europe PMC (full text)",2024,"Stan/Torsten",7,458,1.52838427947598,FALSE
+"Europe PMC (full text)",2025,"Stan/Torsten",7,612,1.1437908496732,FALSE
+"Europe PMC (full text)",2026,"Stan/Torsten",5,556,0.899280575539568,TRUE
+"Europe PMC (full text)",2021,"USC*PACK",2,511,0.391389432485323,FALSE
+"Europe PMC (full text)",2022,"USC*PACK",1,578,0.173010380622837,FALSE
+"Europe PMC (full text)",2023,"USC*PACK",2,425,0.470588235294118,FALSE
+"Europe PMC (full text)",2024,"USC*PACK",2,458,0.436681222707424,FALSE
+"Europe PMC (full text)",2025,"USC*PACK",1,612,0.163398692810458,FALSE
+"Europe PMC (full text)",2026,"USC*PACK",1,556,0.179856115107914,TRUE
+"PubMed (title/abstract)",2021,"BUGS",0,997,0,FALSE
+"PubMed (title/abstract)",2022,"BUGS",0,851,0,FALSE
+"PubMed (title/abstract)",2023,"BUGS",0,721,0,FALSE
+"PubMed (title/abstract)",2024,"BUGS",0,862,0,FALSE
+"PubMed (title/abstract)",2025,"BUGS",0,936,0,FALSE
+"PubMed (title/abstract)",2026,"BUGS",0,789,0,TRUE
+"PubMed (title/abstract)",2021,"FERX",0,997,0,FALSE
+"PubMed (title/abstract)",2022,"FERX",0,851,0,FALSE
+"PubMed (title/abstract)",2023,"FERX",0,721,0,FALSE
+"PubMed (title/abstract)",2024,"FERX",0,862,0,FALSE
+"PubMed (title/abstract)",2025,"FERX",0,936,0,FALSE
+"PubMed (title/abstract)",2026,"FERX",0,789,0,TRUE
+"PubMed (title/abstract)",2021,"InsightRX",2,997,0.200601805416249,FALSE
+"PubMed (title/abstract)",2022,"InsightRX",0,851,0,FALSE
+"PubMed (title/abstract)",2023,"InsightRX",0,721,0,FALSE
+"PubMed (title/abstract)",2024,"InsightRX",0,862,0,FALSE
+"PubMed (title/abstract)",2025,"InsightRX",2,936,0.213675213675214,FALSE
+"PubMed (title/abstract)",2026,"InsightRX",0,789,0,TRUE
+"PubMed (title/abstract)",2021,"MATLAB NLME",0,997,0,FALSE
+"PubMed (title/abstract)",2022,"MATLAB NLME",0,851,0,FALSE
+"PubMed (title/abstract)",2023,"MATLAB NLME",0,721,0,FALSE
+"PubMed (title/abstract)",2024,"MATLAB NLME",0,862,0,FALSE
+"PubMed (title/abstract)",2025,"MATLAB NLME",0,936,0,FALSE
+"PubMed (title/abstract)",2026,"MATLAB NLME",0,789,0,TRUE
+"PubMed (title/abstract)",2021,"Monolix",26,997,2.60782347041123,FALSE
+"PubMed (title/abstract)",2022,"Monolix",15,851,1.76263219741481,FALSE
+"PubMed (title/abstract)",2023,"Monolix",27,721,3.74479889042996,FALSE
+"PubMed (title/abstract)",2024,"Monolix",23,862,2.66821345707657,FALSE
+"PubMed (title/abstract)",2025,"Monolix",37,936,3.95299145299145,FALSE
+"PubMed (title/abstract)",2026,"Monolix",37,789,4.68948035487959,TRUE
+"PubMed (title/abstract)",2021,"NLMIXED",0,997,0,FALSE
+"PubMed (title/abstract)",2022,"NLMIXED",0,851,0,FALSE
+"PubMed (title/abstract)",2023,"NLMIXED",0,721,0,FALSE
+"PubMed (title/abstract)",2024,"NLMIXED",0,862,0,FALSE
+"PubMed (title/abstract)",2025,"NLMIXED",0,936,0,FALSE
+"PubMed (title/abstract)",2026,"NLMIXED",0,789,0,TRUE
+"PubMed (title/abstract)",2021,"nlmixr",1,997,0.100300902708124,FALSE
+"PubMed (title/abstract)",2022,"nlmixr",2,851,0.235017626321974,FALSE
+"PubMed (title/abstract)",2023,"nlmixr",0,721,0,FALSE
+"PubMed (title/abstract)",2024,"nlmixr",1,862,0.116009280742459,FALSE
+"PubMed (title/abstract)",2025,"nlmixr",3,936,0.320512820512821,FALSE
+"PubMed (title/abstract)",2026,"nlmixr",5,789,0.633713561470216,TRUE
+"PubMed (title/abstract)",2021,"NONMEM",138,997,13.8415245737212,FALSE
+"PubMed (title/abstract)",2022,"NONMEM",108,851,12.6909518213866,FALSE
+"PubMed (title/abstract)",2023,"NONMEM",89,721,12.3439667128988,FALSE
+"PubMed (title/abstract)",2024,"NONMEM",104,862,12.0649651972158,FALSE
+"PubMed (title/abstract)",2025,"NONMEM",110,936,11.7521367521368,FALSE
+"PubMed (title/abstract)",2026,"NONMEM",87,789,11.0266159695817,TRUE
+"PubMed (title/abstract)",2021,"OpenPMX",0,997,0,FALSE
+"PubMed (title/abstract)",2022,"OpenPMX",0,851,0,FALSE
+"PubMed (title/abstract)",2023,"OpenPMX",0,721,0,FALSE
+"PubMed (title/abstract)",2024,"OpenPMX",0,862,0,FALSE
+"PubMed (title/abstract)",2025,"OpenPMX",0,936,0,FALSE
+"PubMed (title/abstract)",2026,"OpenPMX",1,789,0.126742712294043,TRUE
+"PubMed (title/abstract)",2021,"Phoenix NLME",9,997,0.902708124373119,FALSE
+"PubMed (title/abstract)",2022,"Phoenix NLME",10,851,1.17508813160987,FALSE
+"PubMed (title/abstract)",2023,"Phoenix NLME",10,721,1.3869625520111,FALSE
+"PubMed (title/abstract)",2024,"Phoenix NLME",10,862,1.16009280742459,FALSE
+"PubMed (title/abstract)",2025,"Phoenix NLME",9,936,0.961538461538462,FALSE
+"PubMed (title/abstract)",2026,"Phoenix NLME",4,789,0.506970849176172,TRUE
+"PubMed (title/abstract)",2021,"PhysPK",0,997,0,FALSE
+"PubMed (title/abstract)",2022,"PhysPK",0,851,0,FALSE
+"PubMed (title/abstract)",2023,"PhysPK",0,721,0,FALSE
+"PubMed (title/abstract)",2024,"PhysPK",0,862,0,FALSE
+"PubMed (title/abstract)",2025,"PhysPK",0,936,0,FALSE
+"PubMed (title/abstract)",2026,"PhysPK",0,789,0,TRUE
+"PubMed (title/abstract)",2021,"Pmetrics",20,997,2.00601805416249,FALSE
+"PubMed (title/abstract)",2022,"Pmetrics",15,851,1.76263219741481,FALSE
+"PubMed (title/abstract)",2023,"Pmetrics",11,721,1.52565880721221,FALSE
+"PubMed (title/abstract)",2024,"Pmetrics",9,862,1.04408352668213,FALSE
+"PubMed (title/abstract)",2025,"Pmetrics",4,936,0.427350427350427,FALSE
+"PubMed (title/abstract)",2026,"Pmetrics",1,789,0.126742712294043,TRUE
+"PubMed (title/abstract)",2021,"PoPy",0,997,0,FALSE
+"PubMed (title/abstract)",2022,"PoPy",0,851,0,FALSE
+"PubMed (title/abstract)",2023,"PoPy",0,721,0,FALSE
+"PubMed (title/abstract)",2024,"PoPy",0,862,0,FALSE
+"PubMed (title/abstract)",2025,"PoPy",0,936,0,FALSE
+"PubMed (title/abstract)",2026,"PoPy",0,789,0,TRUE
+"PubMed (title/abstract)",2021,"Pumas",2,997,0.200601805416249,FALSE
+"PubMed (title/abstract)",2022,"Pumas",3,851,0.352526439482961,FALSE
+"PubMed (title/abstract)",2023,"Pumas",1,721,0.13869625520111,FALSE
+"PubMed (title/abstract)",2024,"Pumas",0,862,0,FALSE
+"PubMed (title/abstract)",2025,"Pumas",2,936,0.213675213675214,FALSE
+"PubMed (title/abstract)",2026,"Pumas",4,789,0.506970849176172,TRUE
+"PubMed (title/abstract)",2021,"S-ADAPT",0,997,0,FALSE
+"PubMed (title/abstract)",2022,"S-ADAPT",0,851,0,FALSE
+"PubMed (title/abstract)",2023,"S-ADAPT",2,721,0.277392510402219,FALSE
+"PubMed (title/abstract)",2024,"S-ADAPT",2,862,0.232018561484919,FALSE
+"PubMed (title/abstract)",2025,"S-ADAPT",0,936,0,FALSE
+"PubMed (title/abstract)",2026,"S-ADAPT",0,789,0,TRUE
+"PubMed (title/abstract)",2021,"SAAM II",0,997,0,FALSE
+"PubMed (title/abstract)",2022,"SAAM II",0,851,0,FALSE
+"PubMed (title/abstract)",2023,"SAAM II",0,721,0,FALSE
+"PubMed (title/abstract)",2024,"SAAM II",0,862,0,FALSE
+"PubMed (title/abstract)",2025,"SAAM II",0,936,0,FALSE
+"PubMed (title/abstract)",2026,"SAAM II",0,789,0,TRUE
+"PubMed (title/abstract)",2021,"saemix",1,997,0.100300902708124,FALSE
+"PubMed (title/abstract)",2022,"saemix",0,851,0,FALSE
+"PubMed (title/abstract)",2023,"saemix",0,721,0,FALSE
+"PubMed (title/abstract)",2024,"saemix",2,862,0.232018561484919,FALSE
+"PubMed (title/abstract)",2025,"saemix",1,936,0.106837606837607,FALSE
+"PubMed (title/abstract)",2026,"saemix",0,789,0,TRUE
+"PubMed (title/abstract)",2021,"Stan/Torsten",0,997,0,FALSE
+"PubMed (title/abstract)",2022,"Stan/Torsten",1,851,0.117508813160987,FALSE
+"PubMed (title/abstract)",2023,"Stan/Torsten",0,721,0,FALSE
+"PubMed (title/abstract)",2024,"Stan/Torsten",3,862,0.348027842227378,FALSE
+"PubMed (title/abstract)",2025,"Stan/Torsten",0,936,0,FALSE
+"PubMed (title/abstract)",2026,"Stan/Torsten",2,789,0.253485424588086,TRUE
+"PubMed (title/abstract)",2021,"USC*PACK",0,997,0,FALSE
+"PubMed (title/abstract)",2022,"USC*PACK",0,851,0,FALSE
+"PubMed (title/abstract)",2023,"USC*PACK",0,721,0,FALSE
+"PubMed (title/abstract)",2024,"USC*PACK",0,862,0,FALSE
+"PubMed (title/abstract)",2025,"USC*PACK",0,936,0,FALSE
+"PubMed (title/abstract)",2026,"USC*PACK",0,789,0,TRUE

@@ -1,0 +1,95 @@
+NDA/BLA Multi-disciplinary Review and Evaluation/New Drug Application (NDA) 219908
+
+REVTORPYK (gedatolisib)
+
+* Source = Clinical Study Reports (includes Arm C of Study
+CELC-G-301)
+
+Dose(s) Included
+
+Study B2151009
+
+Gedatolisib 180 mg/week or 180 mg/week (3-weeks-on/1-
+week-off)
+
+Palbociclib 125 mg/day (21-days-on/7-days-off)
+
+Letrozole 2.5 mg/day or
+
+Fulvestrant 500 mg intramuscular (IM) (once every 2 weeks
+[Q2W] « 2; once every 4 weeks [Q4W])
+
+Study CELC-G-301
+Gedatolisib 180 mg/week (3-weeks-on/1-week-off)
+Palbociclib 125 mg/day (21-days-on/7-days-off)
+Fulvestrant 500 mg IM (Q2W x 2: Q4W)
+
+Study B2151001
+Gedatolisib 10 to 319 mg once weekly
+
+Exposure Metrics Explored (range)
+
+Reference Table A.8.1 Listing of Individual Exposures in the
+Population PK-PD Report for a complete list of all individual
+values
+
+Covariates Evaluated
+
+None
+
+Final Model Parameters
+
+Summary Acceptability
+
+[FDA’s
+comments]
+
+Model Structure
+
+For AEs, the incidence rate versus Acceptable
+exposure was explored graphically.
+Adverse event incidence was modeled
+using logistic regression and the impact
+of patient-derived exposure metrics was
+studied.
+
+Most assessed AEs did not show a
+statistically significant relationship to
+gedatolisib exposure. Statistically
+significant safety endpoints were either
+inconsistent across studies or were not
+relevant in the range of exposures
+observed at the recommended dose and
+dosing regimen.
+
+Model Parameter Estimates
+
+Not applicable / model not developed. NA
+
+Model Evaluation
+
+Not applicable NA
+
+Covariates and Clinical Relevance
+
+Not applicable NA
+
+Simulation for Specific Population
+
+Not applicable NA
+
+Visualization of E-R relationships
+
+Reference Section 4.3 of the Population | Acceptable
+PK-PD Report Exposure-Safety Analysis
+
+247
+
+Version date: February 10, 2025 (ALL NDA/BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5832496
+

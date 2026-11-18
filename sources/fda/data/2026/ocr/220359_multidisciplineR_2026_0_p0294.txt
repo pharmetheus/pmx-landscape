@@ -1,0 +1,58 @@
+and Table 8, Sex, n (%): 151 (100%) female.
+
+ERES report) Race, n (%): White: 92 (60.9%); Black or African
+American: 4 (2.6%); Asian: 38 (25.2%); Other 3 (2.0%):
+and Missing: 14 (9.3%).
+
+Pediatrics (if | None.
+any)
+
+Dose(s) Included Camizestrant 75 mg QD (94.7%); patients dose reduced
+to 50 mg QD (5.3%).
+
+Exposure Metrics Explored Camizestrant exposure:
+
+(range) Camizestrant + palbociclib (n = 115)
+e¢ Cmin; (ng/mL): 7.10-74.7
+
+e@ Cmax;s (ng/mL): 28.8-179
+
+e AUCs (ng*h/mL): 405-2471
+
+Camizestrant + abemaciclib (n = 14)
+e¢ = Cminss (ng/mL): 12.3-59.7
+
+e@ Cmax;s (ng/mL): 51.1-145
+e AUC.s (ng*h/mL): 711-2133
+
+Camizestrant + ribociclib (n = 22)
+
+¢ Cminss (ng/mL): 17.4-150
+e Cmax;s (ng/mL): 74.9-290
+@ AUC. (ng*h/mL): 910-4828
+
+Covariates Evaluated Camizestrant exposure metrics and CDK4/6i used.
+
+Final Model Parameters Summary Acceptability
+
+[FDA’s
+comments]
+
+Model Structure Primary endpoint: PFS Acceptable
+
+Cox proportional hazard model
+relating exposure and PFS indicated
+
+293
+Version date: March 1, 2024 (All NDA/BLA reviews)
+
+In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the Applicant,
+which do not necessarily reflect the positions of the FDA.
+
+The FDA review was conducted in conjunction with other regulatory authorities under Project ORBIS. The FDA
+collaborated with Australia’s Therapeutic Goods Administration (TGA), Brazilian Health Regulatory Agency
+(ANVISA), Health Canada (HC), Singapore’s Health Sciences Authority (HSA), and Switzerland’s Swissmedic
+(SMC). While the conclusions and recommendations expressed herein reflect the FDA’s completed review of the
+application, the applications may still be under review at the other regulatory agencies.
+
+Reference ID: 5864804

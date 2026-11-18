@@ -1,0 +1,59 @@
+NDA 217388
+Wainua (eplontersen)
+
+Individual estimates of shrinkage for baseline TTR, ICso and Kou were 11.7%, 8.8% and 17.9%,
+respectively. Parameter estimates from the PKPD model are shown in Table 91.
+
+Table 91. Parameter Estimates From the Final Population PD Model
+
+Parameter Name Estimated Value (% RSE)
+Baseline TTR (BLTTR, mg/dL)* 22.6 (2.5)
+Covariate Effect of Sex on Baseline TTR (Fold) 0.864 (4.2)
+Covariate Effect of Patient with Non-V30M Mutation on Baseline TTR (Fold) 0.767 (4.8)
+First-order Elimination Rate of TTR (Kouy:. 1/h)* 0.00313 (5.6)
+Covariate Effect of Black or African American Race on Koy (Fold) 1.39 (11.1)
+Covariate Effect of Japanese (CS20) Race on Kou: (Fold) 1.41 (11.8)
+Covariate Effect of Patient with V30M Mutation on Kou: (Fold) 0.425 (8.5)
+Covariate Effect of Patient with Non-V30M Mutation on Kou: (Fold) 0.521 (9.2)
+Maximum Inhibitory Effect (Imax, fraction)* 0.963 (0.1)
+Exponent for Body Weight on Imax 1.24 (22.3)
+Exponent for Baseline TTR on Imax 0.716 (22.1)
+Half Maximal Inhibitory Concentration (ICsp, ng/mL)" 0.0343 (9.4)
+Covariate Effect of Black or African American Race on ICs (Fold) 0.363 (27.5)
+Covariate Effect of Asian (excluding Japanese CS20) Race on on ICso (Fold) 0.358 (22.5)
+Hill Coefficient (y) 0.822 (0.7)
+Between Subject Variability for Baseline TTR (% CV) 25 (6.8)
+Between Subject Variability for Kou: (% CV) 40.5 (7.5)
+Between Subject Variability for ICsp (% CV) 148 (6.3)
+Residual Unexplained Variability (Proportional) (%) 17.1 (2.6)
+
+Source: Table 9 on Page 112 of ppk01-final-report.pdf.
+
+Note: PK parameters were fixed to the PK final EBE estimates (Table 8).
+
+A reference subject, defined as a White male ATTRV-PN patient with V30M mutation receiving 45 mg eplontersen Q4W with a body
+weight of 70 kg, an observed baseline TTR of 21.4 mg/dL has model estimated baseline TTR = 22.6 mg/dl, Kou = 0.00133 1/h, Tmax =
+0.963, ICso = 0.0343 ng/mL and y 822.
+
+CV = coefficient of variation, RSE = relative standard error, TTR = transthyretin protein, WT = total body weight.
+
+*BLTTR = 22.6 - 0.864 (if female) - 0.767 (if patient with non-V30M mutation)
+
+*Kout = 0.00313 - 1.39 (if Black or African American) « 1.41 (if Japanese (CS20)) - 0.425 (if patient with V30M mutation) - 0.521 (if
+patient with non-V30M mutation)
+
+*Logit(Imax) = In (0.963/(1 - 0.963) where, ‘In’ is the natural logarithm.
+
+Imax = exp(logit(Imax) + (1.24 * In(WT/70)) + ( 0.716 * In(BLTTR/21.4)))/(1 + exp(logit(Imax) + (1.24 * In(WT/70)) + ( 0.716 *
+In(BLTTR/21.4)))) where, ‘exp’ is the exponential function.
+
+*ICso = 0.0343 - 0.363 (if Black or African American) - 0.358 (if Asian (excluding Japanese CS20))
+
+Figure 25 and Figure 26 show the relationship between ETAICs, and baseline covariates. The
+findings support the proposed labeling statement that eplontersen pharmacodynamics are not
+affected by age, body weight, sex, or race.
+
+167
+Integrated Review Template, version 3.0 (05/25/2022)
+
+Reference ID: 5299039

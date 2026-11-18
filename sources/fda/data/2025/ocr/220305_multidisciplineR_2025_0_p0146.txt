@@ -1,0 +1,59 @@
+NDA Multidisciplinary Review and Evaluation
+NDA 220305
+Komzifti (ziftomenib)
+
+FDA Table 26. Ziftomenib PK Parameters with PPI and H2RA Inhibitor Use
+
+Dose-normalized Cuax_| Dose-normalized AUCiast Dose-normalized AUCo 24
+ng/mL/mg | _GMR ng*h/mL/mg | _GMR. ng*h/mL/mg | GMR
+Any azole
+No ARA 0.23 2.2 2.6
+(n=13) (179.7) 7 (191.6) 7 (159.9) .
+Antacid 0.34 1.48 2.8 1.23 2.7 1.04
+(n=3) (209.9) | (0.45.4.86) | (207.5) _| (0.37. 4.11) (203.7) (0.31, 3.42)
+H2RA 0.35 1.53 3.8 171 42 1.60
+(n=7) (98.9) | (0.64,3.65) | (142.7) _| (0.71. 4.14) (156.0) (0.63. 4.03)
+PPI 0.07 0.30 0.8 0.34 0.8 0.29
+(m=16) (150.2) | (0.15. 0.59) (129.8) (0.17. 0.69) (136.9) (0.14, 0.60)
+Strong azoles
+
+No ARA 0.23 2.9 29
+(n=5) (260.7) - (210.0) - (210.9) .
+H2RA 0.35 1.56 4.0 1.37 45 1.56
+(n=6) (112.2) _| (0.45,5.39) |__ (164.8) _| (0.42. 4.48) (186.2) (0.42. 5.76)
+PPI 0.10 0.44 ll 0.39 12 0.43
+(n=8) (172.6) | (0.14, 1.42) | _(129.2) _| (0.13, 1.19) (139.4) (0.13, 1.43)
+Parameters presented as geometric mean (geometric % CV): GMR presented as GMR (90% CI)
+
+Source: Reviewer analysis.
+
+H2RAs: The FDA generally agrees with the Applicant’s position that H2RAs can be
+concomitantly used but that staggered dosing of H2RAs is appropriate (10 hours before or 2
+hours after KOMZIFTI administration).
+
+The Applicant’s PopPK analysis indicated that concomitant use with H2RA inhibitors on the
+same day of ziftomenib administration has no clinically significant effect on ziftomenib PK
+[Section 19.4.2.2]. However, this analysis may be limited, as dosing time of H2RA inhibitor to
+ziftomenib is not recorded, and approximately 50% of patients were treated when there was not
+restriction on ARA use in KO-MEN-001. Therefore, the FDA assessed the effect of H2RAs on
+ziftomenib PK at C1D1, as shown in
+
+FDA Table 26. Patients were stratified by azole antifungal use, given that ziftomenib exposure
+increases when ziftomenib is coadministered with strong CYP3A inhibitors. There was a limited
+sample size and high variability in ziftomenib PK, resulting in wide 90% CIs. However, the
+analysis demonstrated that there is no evidence that coadministration of ziftomenib with H2RAs
+decreases ziftomenib PK (GMRs ranged from 1.37 to 1.71).
+
+Additionally, the FDA evaluated the effect of duration of H2RA use on response in NPM/-m
+R/R AML (n=112, Phase 1b EAS + Phase 2; FDA Table 27). Patients were classified based on if
+they received strong CYP3A-inhibiting azoles for minimum (1 - 10%), some (11-75%), or the
+majority (more than 75%) of study time.
+
+145
+Version date: March 1, 2024 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5694243
+

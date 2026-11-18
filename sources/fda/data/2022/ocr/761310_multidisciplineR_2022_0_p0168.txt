@@ -1,0 +1,100 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {Biologics License Application (BLA) 761310}
+
+{Mirvetuximab soravtansine}
+
+AST: Aspartate aminotransferase. CRCL: Creatinine
+clearance. CYP3A: Cytochrome P450 3A4. FcgR: Fc
+gamma receptors. Baseline tumor burden as determined
+by the sum of the longest diameter of the target lesions.
+
+Time-varying
+
+Final Model
+
+Summary
+
+Acceptability
+[FDA’s
+comments]
+
+Software and Version
+
+NONMEMS® (version 7.4)
+
+Acceptable
+
+Model Structure
+
+Mirvetuximab soravtansine: a two-
+compartment model with combined
+linear (non-specic) and nonlinear
+(target-mediated) elimination from
+the central compartment
+
+DM4 and metabolite: a central and a
+target compartment for DM4 and
+
+a central compartment for S-methyl-
+DM4
+
+Acceptable
+
+Model Parameter Estimates
+
+Table 44 and Table 45
+
+Acceptable
+
+Uncertainty and Variability
+(Relative Standard Error [RSE],
+llV, Shrinkage, Bootstrap)
+
+Parameters were generally estimated
+with good precision (RSE <20%)
+except for ABW on V2apc, and AST on
+METDM4 (Table 44 and Table 45)
+
+BLQ for Parameter Accuracy
+
+PK observations BLQ were retained in
+the dataset and were flagged as
+missing. In total, 0.792%, 0.771%,
+37.2%, and 2.99% of the
+mirvetuximab soravtansine, total
+antibody (TAb), DM4, and
+S-methyl-DM4 observations were
+reported as BQL, respectively.
+Mirvetuximab soravtansine, DM4,
+and S-methyl-DM4 concentration
+values that were BQL were omitted
+from the PopPK analysis. TAb
+concentrations were not
+
+evaluated in the PopPK models.
+
+Acceptable
+
+Goodness of Fit (GOF), Visual
+Predictive check (VPC)
+
+Figure 8, Figure 9, Figure 10, and
+Figure 11
+
+Acceptable
+
+Significant Covariates and
+Clinical Relevance
+
+Figure 12 and Figure 13
+
+Acceptable
+
+Analysis Based on Simulation
+(optional)
+
+Version date: October 12, 2018
+
+Reference ID: 5076613
+
+167
+

@@ -1,0 +1,65 @@
+NDA/BLA Multi-disciplinary Review and Evaluation - NDA 220641
+
+Relacorilant
+
+Male: 0%
+
+Dose(s) Included
+
+CORT125134-552
+
+*  Relacorilant 100 mg + Nab-paclitaxel 80 mg/m?
+*  Relacorilant 150 mg + Nab-paclitaxel 80 mg/m?
+* Nab-Paclitaxel 100 mg/m?
+
+CORT125134-556
+
+Relacorilant 150 mg + Nab-paclitaxel 80 mg/m?
+
+Exposure Metrics Explored
+(range)
+
+CORT125134-552
+Relacorilant: AUC(-24n), Cmax
+Nab-Paclitaxel: AUC(0-6n), Cmax
+CORT125134-556
+Relacorilant: AUC@-24n), Cmax
+
+Covariates Evaluated NA
+Final Model Parameters- Summary Acceptability
+[FDA’s
+comments]
+Model Structure Scatterplot along with arithmetic Acceptable
+means, standard deviations, and/or
+p-values.
+Logistic regression plots with
+exposures on x-axis and probability
+of the adverse event on the y-axis,
+including binary event data and
+predicted probabilities.
+Model Parameter Estimates See visualization Acceptable
+Model Evaluation No hypothesis testing was Acceptable
+
+performed in CORT125134-552.
+Arithmetic means and visualization
+of data points were used to evaluate
+the relationship between the
+exposure of relacorilant and nab-
+
+paclitaxel versus safety responses in
+Study CORT125134-552.
+
+In Study CORT125134-556, t-test
+was performed for testing the null
+hypothesis of no difference in mean
+exposure (AUCo-24 and/or Cmax)
+between groups. Additionally,
+
+325
+
+Version date: February 10, 2025 (ALL NDA/ BLA reviews)
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5769316
+

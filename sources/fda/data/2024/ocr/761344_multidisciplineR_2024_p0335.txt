@@ -1,0 +1,65 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {BLA 761344}
+{Tarlatamab}
+
+Standard Cumulative accuracy (%bias) from LLOQ to -2 to 3% | Yes
+
+calibration curve ULOQ
+
+performance Cumulative precision (%CV) from LLOQ to <4% Yes
+
+during accuracy & | yLoq
+
+precision
+
+QCs performance | Cumulative accuracy (%bias) in 5 QCs -9to 3% | Yes
+
+during accuracy &
+
+precision Inter-batch %CV <11% Yes
+Percent total error (TE) < 16% Yes
+
+Cross-validation 30 QC samples (six sets of five levels of QCs NA NA
+
+(ULOQ, HQC, MQC, LQC and LLOQ) were
+tested. The relative percent difference
+between the reference and the comparator
+lab was less than 30%.
+
+30 patient sera collected in clinical study
+20160323 were tested. 84% of the evaluable
+samples were comparable with
+concentrations measured in the original
+assay run (< 20%Diff from original level)
+
+Selectivity & A total of 37 individual lots (10 normal human serum; 7 | Yes
+matrix effect diseased sera (SCLC), 10 hemolytic and 10 lipemic) of
+human serum samples were tested unspiked and spiked
+at the LLOQ (0.352 ng/mL) and HQC (67.5 ng/mL) levels.
+No matrix effect was observed (pass rate: > 80%).
+
+Interference & Recombinant DLL-3 was spiked at concentrations of Yes
+specificity 1000, 500, 250, 100, and 10 pg/mL in ULOQ (90 ng/mL),
+HQC (67.5 ng/mL), MQC (10.0 ng/mL), LQC (1.00 ng/mL)
+and LLOQ (0.352 ng/mL) tarlatamab samples.
+
+No interference for recombinant DLL-3 was observed at
+all 5 levels of QCs.
+
+Hemolysis effect Ten hemolytic sera were tested unspiked and spiked at | Yes
+the LLOQ (0.352 ng/mL) and HQC (67.5 ng/mL) levels.
+No matrix effect was observed (pass rate: 80%).
+
+Lipemic effect Ten lipemic sera were tested unspiked and spiked at the | Yes
+LLOQ (0.352 ng/mL) and HQC (67.5 ng/mL) levels.
+No matrix effect was observed (pass rate: 90%).
+
+Dilution linearity 50000 ng/mL, 1000 ng/mL and 600 ng/mL tarlatamab Yes
+& hook effect was diluted 1:10, 1:100, 1:1000 and 1:10000.
+
+335
+Version date: June 2022 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5382024

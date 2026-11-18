@@ -1,0 +1,52 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 219249}
+{Inavolisib}
+
+or metastatic, PIK3CA-mutated breast cancer. However, no information is available in the
+population PK analysis to assess the effect of moderate to severe hepatic impairment and
+severe renal impairment on inavolisib PK, and information to assess the effect of moderate
+renal impairment on inavolisib PK is too limited to draw a definitive conclusion. Therefore,
+dedicated studies to evaluates these effects are warranted. Refer to Section 6.1.2.2 for results
+of the moderate renal impairment group in the ongoing renal impairment study.
+
+The Applicant’s analyses were verified by the reviewer, with no significant discordance
+identified. The results of the population PK analyses were used to support the proposed
+labeling statements regarding PK parameters of inavolisib and the effects of intrinsic and
+extrinsic factors.
+
+19.4.2.2. PPK Assessment Summary
+
+The Applicant’s Position: PopPK analysis was performed using 3863 samples from 336 patients
+(187 from Study GO39374 and 149 from Study WO41554). The final model was a three-
+compartment model with first-order rate of absorption and linear elimination, a combined
+additive and proportional error model, a block omega on CL and Vc and between-subject
+variability (BSV) on Ka, and Vp.
+
+The typical values of CL and Vc of inavolisib were 8.83 L/h and 155 L, respectively. For the
+peripheral compartments, the typical values of Q, Q2, Vp and Vp2 were 7.50 L/h, 0.14 L/h, 68 L,
+and 31 L, respectively. The rate of absorption was estimated at 0.92 h* for Phase 3 formulation.
+The population PK model included a significant effect of eGFR on CL, with an exponent of 0.441
+[i.e., (eGFR/86)°**"]. This suggests a higher clearance for subjects with higher eGFR. Body
+weight was significant on Vc, with an exponent of 0.635 [i.e., (WT/65)°5]. Subjects with a
+higher body weight had therefore a higher volume of distribution. The volume of distribution
+was also found to be approximately 25% lower in Asian subjects compared to non-Asian
+subjects. The rate of absorption was found to be approx. 51% slower with the Phase 1
+formulation and phase 1 resupply formulation compared to the phase 3 formulation. No
+apparent trend remaining between random effects of parameters and the covariates were seen
+in the final model.
+
+Based on the goodness-of-fit plots and prediction-corrected visual predictive checks, the popPK
+model was considered adequate to derive the patient-level exposure metrics (AUC, Cmax, Cmin)
+for subsequent exposure-response analyses. The exposure metrics were also used to compare
+exposures between the sub-groups of interests by simulations.
+
+The sub-groups of interests included race (Asian vs. non-Asian), patients enrolled from China
+sites (Chinese vs. Non-Chinese), hepatic impairment status (mild vs. normal), renal impairment
+status (mild or moderate vs. normal), age group (265 years vs. <65 years; 65 - <75 years, or 275
+
+193
+Version date: June 2022 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5460147

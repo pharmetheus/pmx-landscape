@@ -1,0 +1,66 @@
+NDA 220848
+LIPFENDRA (enlicitide)
+
+Lp(a) is a secondary endpoint in Trial PO18 and is an LDL-like particle that carries a single
+apoprotein (a) bound to the ApoB component. Higher Lp(a) increases ASCVD risk but is not yet
+considered a surrogate endpoint in drug trials as Lp(a) measurement is not yet standardized and
+therapeutically lowering Lp(a) has not yet been demonstrated to lower ASCVD risk. (a)
+
+Statistical Analysis Plan and Amendments
+
+The Applicant’s Description:
+Key elements of the SAP are summarized in [Table 16].
+
+Table 16: Applicant - Key Elements of the Statistical Plan (P018)
+Analysis Populations | Efficacy: Full Analysis Set (FAS)
+
+Safety: All Participants as Treated (APaT)
+Primary Endpoint(s) | ¢ Mean percent change from baseline in LDL-C at Day 56
+
+Key Secondary © Mean percent change from baseline in ApoB at Day 56
+
+Endpoints © Mean percent change from baseline in non-HDL-C at Day 56
+
+Statistical Methods The primary efficacy analysis compared the mean percent change from baseline in
+for Key Efficacy LDL-C at Day 56 using an ANCOVA model with treatment as fixed effects and
+Analyses baseline LDL-C as a covariate. Missing data were imputed using the WI imputation
+
+method as the primary analysis method and retum to baseline imputation method as
+the sensitivity analysis method. The analysis of secondary efficacy endpoints
+regarding mean percent change from baseline in ApoB at Day 56 and non-HDL-C
+at Day 56 followed the same approach as the primary efficacy analysis.
+
+Statistical Methods For analyses in which 95% CIs will be provided for between-treatment differences
+
+for Key Safety in the percentage of participants with events, the analyses were provided using the
+Analyses Miettinen and Nurminen method.
+Interim Analyses Efficacy: No interim efficacy analyses were planned
+
+Safety: The DMC was responsible for periodic interim safety reviews, to be
+specified in the DMC charter.
+
+Multiplicity Testing will be performed in order of the primary and secondary efficacy endpoints
+with hypotheses as below:
+
+H1: Enlicitide is superior to bempedoic acid on mean percent change from baseline
+in LDL-C at Day 56.
+
+H2: Enlicitide is superior to ezetimibe on mean percent change from baseline in
+LDL-C at Day 56.
+
+H3: Enlicitide is superior to ezetimibe and bempedoic acid on mean percent change
+from baseline in LDL-C at Day 56.
+
+H4: Enlicitide is superior to bempedoic acid on mean percent change from baseline
+in ApoB at Day 56.
+
+HS: Enlicitide is superior to ezetimibe on mean percent change from baseline in
+ApoB at Day 56.
+
+102
+Version date: February 10, 2025 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant's Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5833849

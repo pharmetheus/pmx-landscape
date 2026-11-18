@@ -1,0 +1,75 @@
+NDA/BLA Multi-disciplinary Review and Evaluation - BLA 761336
+Anktiva (nogapendekin alfa inbakicept)
+
+proportional to the concentration of N-830 in the samples) is measured
+at 450 nm with a reference wavelength of 650 nm. The concentrations in
+the QC and test samples are determined by a weighted four-parameter
+logistic (4-PL) regression interpolation.
+
+Materials used for
+calibration curve &
+concentration
+
+N-803 (ALT-803) reference standard (2.00 mg/mL), Lot # 3-FIN-3045,
+(provided by ImmunityBio, Inc.)
+
+Validated assay
+range
+
+100 to 3,000 pg/mL
+
+Material used for
+QCs & concentration
+
+N-830 (ALT-803) reference standard (2.00 mg/mL), Lot # 3-FIN-3045,
+(provided by ImmunityBio, Inc.)
+
+Minimum required
+dilutions (MRDs)
+
+No MRD was performed
+
+Source & lot of
+reagents (LBA)
+
+(b) (4)
+
+IL-15 (human) ELISA Kit Lot# P256649
+
+Pooled Human Serum © Lot# MP201125_0014
+
+Regression model &
+
+4-parameter logistic (PL) regression model (weighted)
+
+weighting
+Validation Method validation summary Acceptability
+parameters
+Calibration curve No of standard calibrators from LLOQ to ULOQ | 7 Yes
+performance during
+accuracy & precision | Cumulative accuracy (%bias) from LLOQ to -0.958 | Yes
+ULOQ to
+0.938%
+Cumulative precision (%CV) from LLOQ to s Yes
+ULOQ 6.60%
+QCs performance Cumulative accuracy (%bias) in 5 QCs Lac, Yes
+during accuracy & QCs: 100 (LLOQ), 300 (LQC), 1,200 (IQC), 2,400 | 1QC
+precision (HQC), 3,000 pg/mL (ULOQ) and
+Hac
+0.667
+to
+3.68%
+LLO:
+and
+ULOQ
+3.00 to
+4.28%
+
+211
+Version date: July 2021 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5170457
+

@@ -1,0 +1,55 @@
+NDA/BLA Multi-disciplinary Review and Evaluation Biologics License Application 761400
+linvoseltamab
+
+Figure 12: FDA - Model-Predicted Total Linvoseltamab Concentration over Time
+for 5/25/50 mg and 5/25/200 mg Dosages: Linear (top) and Semilog (bottom)
+
+Scales
+°
+—
+.~
+: i
+i. er NR
+A NN NNN CCN NN C CER is \
+
+14 8 42 76 20 24 28 a2 36 40 44 4a 52 1 4 6 12 16 2 24 28 32 36 40 4a 48 52
+Study Week
+
+| 5/25/60 mg 5/25/200 mg
+
+AAA
+
+HNMR
+
+erperny
+
+Linvoseltamab in Serum (mg/L)
+Pepin
+
+1 4 8 42 16 20 24 2 32 36 40 4¢ 48 62 14 4 8 12 16 20 24 28 92 36 40 4s 48 82
+Study Week
+
+Solid line = median. Shaded region = 5" to 95" percentile.
+
+Total linvoseltamab concentration was simulated in 282 patients in Study R5458-ONC-1826 with RRMM
+following the 5/25/50 mg dosage regimen (left) and the 5/25/200 mg dosage regimen (right).
+
+For the simulation of the 5/25/50 mg dosage regimen, subjects received 5 mg on the first day of Week 1,
+then 25 mg on the first day of Week 2, then 50 mg on the first day of Week 3 and once weekly thereafter
+for a total of 12 doses, then 50 mg every 2 weeks thereafter.
+
+For the simulation of the 5/25/200 mg dosage regimen, subjects received 5 mg on the first day of Week 1,
+then 25 mg on the first day of Week 2, then 200 mg on the first day of Week 3 and once weekly
+thereafter for a total of 12 doses, then 200 mg every 2 weeks thereafter for a total of 5 doses, then
+200 mg every 4 weeks thereafter.
+
+Source: Reviewer's analysis of Applicant's response to 8Feb2024 IR and Applicant's
+linvo_exposure_sims-run5200_rmd.txt (seqn0008)
+
+188
+
+Version date: August 2023 (ALL NDA/BLA reviews)
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are
+completed by the Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5432800

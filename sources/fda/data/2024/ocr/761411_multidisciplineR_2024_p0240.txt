@@ -1,0 +1,39 @@
+BLA Multidisciplinary Review and Evaluation
+BLA 761411
+Niktimvo (axatilimab-csfr)
+
+FDA Table 109. Summary of Total Clearance at First Dose and Steady State in Virtual Adult
+
+Population
+Parameter | Treatment Sample |Median| Geometric Geometric
+Size Mean Cv%
+Clearance, |0.3 mg/kg after first dose 1000 0.082 0.083 47.2%
+U/h 0.3 mg/kg Q2W at steady 1000 0.079 0.081 48.6%
+state
+
+CV = coefficient of variation; Q2W = every 2 weeks.
+Source: Table 1 in Applicant’s response to 22Mar2024 IR (seqn0013)
+
+Higher body weight is associated with higher axatilimab AUC and Cmax following weight-based
+dosing (i.e., mg/kg), as shown in FDA Figure 14. After accounting for body weight, no clear
+differences in PK parameters or axatilimab exposure were identified according to age as a
+continuous or categorical (i.e., 6 to <12 years, 12 to <17 years, and 17 years and older)
+covariate in patients with cGVHD ages 6 years and older. The youngest age in the popPK
+dataset was 7 years, but no age-dependent differences in PK are expected between a 6-year-
+old patient and a 7-year-old patient after accounting for body weight.
+
+No clinically meaningful differences in axatilimab exposure were identified according to sex,
+race (Asian, Black, or White), mild to moderate renal impairment (CLcr 30 to <90 mL/min), mild
+hepatic impairment, positive TE ADA status, or positive neutralizing TE ADA status. The
+potential effects of severe renal impairment (CLcr <30 mL/min) and moderate to severe hepatic
+impairment could not be assessed in the popPK analysis due to insufficient sample size in the
+popPK dataset. Although positive time-varying ADA status was associated with a statistically
+significant increase in linear clearance, ADA status did not significantly impact AUC, Cmax, or
+Ctrough (see Figure 10).
+
+239
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA. The FDA's position is highlighted in gray.
+
+Reference ID: 5429649

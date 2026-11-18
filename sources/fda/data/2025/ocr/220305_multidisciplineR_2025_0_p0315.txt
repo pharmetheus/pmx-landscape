@@ -1,0 +1,60 @@
+NDA Multidisciplinary Review and Evaluation
+NDA 220305
+Komzifti (ziftomenib)
+
+on ziftomenib AUC ranging from 1.8- to 2.7-fold. For moderate or weak CYP3A inhibitors,
+however, population PK analyses showed no effects on ziftomenib exposure.
+
+14.4.4.4.3. Effects of ziftomenib on the substrates of CYP3A, CYP2Cs and
+UGTIA1
+
+Ziftomenib is expected to have a moderate inhibitory effect on the sensitive CYP3A substrate
+midazolam and have a minimal effect (AUC ratio <1.25) on the UGT1A1 substrate raltegravir
+and substrates of CYP2C isoforms in patients with cancer (FDA Table 67).
+
+FDA Table 67. Predicted effects of ziftomenib on the substrates of CYP3A, CYP2C
+isoenzymes and UGT1A1 following oral administration of multiple doses of ziftomenib in
+patients with cancer
+
+Substrates Ky. (HM) | Kya (HM) AUC int Coos
+a GMR GMR
+Midazolam 0.036 0013 2.41 (2.16, 2.69) | 1.48 (1.42, 1.55)
+(CYPSAN) 0.0036 0.013 2.61(232,294) | 1.55 (1.49, 1.62)
+Raltegravir 0.070 NA 1.01 (1.01, 1.01) | 1.01 (1.01, 1.01)
+(UGTIAl1
+0.0070 NA 1.07 (1.06, 1.08) | 1.08 (1.07, 1.09)
+Repaglinide | 0.412 1.23 (1.19, 1.27) | 1.13 (11, 1.15)
+(CYP2C8) 0.0412 1.24 (1.20, 1.28) | 1.13 (1.12, 1.15) |
+S-Warfarin [0.190 1.00 (1.00, 1.00) | 1.00 (1.00, 1.00)
+(CYP20€9) 0.0190 1.01 (1.01, 1.01) | 1.00 (1.00, 1.00)
+Omeprazole | __0.224 1.18 (1.13, 1.24) | 1.05 (1.05, 1.06)
+(cyp2c19) | 0.0224 1.21 (1.16, 1.27) | 1.07 (1.06, 1.08)
+A single dose of 5 mg midazolam, 0.25 mg repaglinide, 10 mg warfarin, 20 mg omeprazole, or 400 mg raltegravir was given on Day 11 following
+ziftomenib 600 mg QD* for 24 days.
+
+*1400 mg QD dose of ziftomenib was used in the simulations so that the simulated steady state ziftomenib AUC (12560h*ng/mL) could match
+the higher exposure observed in patients with coadministration of a strong CYP3A inhibitor.
+
+K, values were calculated from in vitro IC50 values using the Cheng-Prusoff equation. Simulations were also conducted using 10-fold lower K;
+values.
+
+Sources: Table 3 in Responses to FDA Clin Pharm IR dated July 28, 2025 (seq 0026)
+Reviewer’s comments:
+
+e Inthe report KO-ADME-0201, the fa mic value was predicted based on a microsomal protein
+concentration of 0.05 mg/mL, 0.853 for the CYP3A inhibition experiments. The microsomal
+protein concentration was 0.25 mg/mL for the mechanism-based CYP3A inhibition study. In
+addition, the nonspecific binding in HLM was measured and reported in KO-ADME-0046.
+The measured fu mic values were approximately 0.04 at 0.1 mg/mL and 0.011 at 0.3 mg/mL,
+which are much lower than the predicted values. The Applicant was requested to recalculate
+the fu.mic value for the simulation based on the actual microsomal concentration and measured
+fa mic value. The reported results in FDA Table 67 were simulated using a fi mic value of 0.04
+for CYP3A4 K; and 0.011 for CYP3A4 Ky.
+
+314
+Version date: March 1, 2024 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5694243

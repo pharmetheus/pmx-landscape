@@ -1,0 +1,61 @@
+NDA 216951
+Jesduvrog (daprodustat)
+
+time, then the death was included in the analysis.” Intercurrent events'? such as treatment
+discontinuation, use of rescue therapies, or changes in other treatments were considered as part
+of the treatments (daprodustat versus control) being compared.
+
+Within-treatment-group incidence rates, expressed as numbers of events per 100 PY, and CI for
+primary and secondary endpoints adjusted for follow-up time were calculated using the exact
+Poisson method.
+
+The primary analysis of time to first MACE and other time-to-event endpoints was a Cox
+proportional hazards model controlling for treatment and adjusting for the following baseline
+variables used in stratified randomization: region (Asia Pacific, Eastern Europe/South Africa,
+Western Europe/Canada/Australia/New Zealand, Latin America, USA), current ESA use
+(ASCEND-ND only: User, Non-user), and dialysis type (ASCEND-D only: hemodialysis,
+peritoneal dialysis).
+
+In addition to the hazard ratio estimate from the Cox model, the prespecified, unadjusted
+incidence rate difference (IRD) between treatments provided an interpretation (without
+hypothesis testing) on the absolute scale. IRD and CIs between treatments were calculated using
+Wald’s method for normal approximation.
+
+In a supportive analysis of MACE, the Applicant used another estimand strategy called the
+while-on-treatment strategy, referred to as the On-Treatment (OT) analysis, whereby response to
+treatment within a time window (ascertainment window) of the intercurrent event is of interest.
+We considered three variations of the OT analysis accounting for differing dosing intervals in the
+treatment arms (see Section 7.6.1.1.2). The period for capturing MACE for each variation are the
+following:
+
+e OT + 28 (prespecified): treatment start date to the earlier of the date of study
+completion/withdrawal or last non-zero dose date + 28 days.
+
+e OT + Dosing Frequency (exploratory): treatment start date to the earlier of the date of
+study completion/withdrawal or last non-zero dose date + dosing interval, where the
+dosing interval was 1 day (daprodustat); 7, 14, or 28 days (darbepoetin alfa); 2 or 7 days
+(epoetin alfa).
+
+e OT + Dosing Frequency + 28 (exploratory): treatment start date to the earlier of the date
+of study completion/withdrawal or last non-zero dose date + dosing interval + 28 days.
+
+Sensitivity analyses were conducted using tipping point methods to assess departures from a
+non-informative censoring mechanism (i.e., missing at random) on the robustness of the primary
+MACE analysis conclusion. For each treatment arm, the assumed event rates ranged from all
+prematurely censored subjects who had a MACE at the time of censoring to all prematurely
+
+12 We note that analyses including deaths after study completion/withdrawal is not customary of survival analysis
+with a study completion date. Furthermore, including these deaths assumed that patients did not have nonfatal
+MACE events after the CV follow-up period and allowed for differing follow-up periods that depended on the
+occurrence of death. We requested the Applicant to conduct exploratory analyses of MACE for the entire population
+and for select subgroups excluding deaths after the date of study completion/withdrawal. Because these results did
+not materially change the interpretation of the MACE results that included deaths after study
+completion/withdrawal, we presented findings that included deaths after study completion/withdrawal.
+
+13 Events occurring after treatment initiation that affect either the interpretation or the existence of the measurements
+associated with the clinical question of interest.
+
+121
+Integrated Review Template, version 3.0 (05/25/2022)
+
+Reference ID: 5119138

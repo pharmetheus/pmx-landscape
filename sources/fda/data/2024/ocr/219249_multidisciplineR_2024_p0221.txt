@@ -1,0 +1,87 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 219249}
+}
+
+coefficient
+
+Neutral: 2: lon: 6
+
+jection Parameter Unie Value References and/or justification
+mw omot 407.4 Measured, data on file
+LogPow 0.08 Measured, data on tile
+Acia/Base Monoprotic Base Measured, data on tile
+Physicochemical
+pka 312 Measured, data on tile
+er 1 Measured, data on tile
+foo 0.03 Measured, data on tile
+Model Setting ADAM
+Poem 10% cm/s: 0.439 Predicted
+See Appendix 1
+mock 10° eve 26 Measured, data on tle
+Absorption Formulation Solid Formulation —
+Immediate Release,
+module (4)
+Intrinsic solubility moymt_ wa) Measured, data on file
+() (4)
+Panticte size vn 450-16 sim, data on tle
+Micelle partition Optumized
+
+See Appenaix 2
+
+Distribution
+
+‘Model Setting
+vss
+
+K, seatar
+
+Full PBPK
+265 UKg
+6.31
+
+GP42652 CSR
+
+Optimized
+
+‘Model Setting
+
+Enzyme Kinetics
+
+cu Une peed P4z0s2 CSR
+GP4zes2 coR
+clmination cin—cresaa — BUMIVEME! 6 cor44 Retrograde calculation
+a See Appendix 2 and 4
+oPazes2 CSR
+Adational CL— — uLimirvma
+fiver HUM oon 277 Retrograde calculation
+See Appendix 3 and 4
+Model Setting cyPaaa
+Kae una es 416-0806-GNE-In Vitro Report
+Koes time 402 16-0808-GNE-In Vitro Report
+fone 0.904 Measured. data on fie
+Interaction 46-0131-GNE-In Vitro Report and
+ING ut Appendix 5
+@razes2 cok
+InoCeo una 540 16-0131-GNE-In Vitro Report and
+Appendix 5
+fone 0.904 Set as equal to measured fame
+
+B/P=ratio of drug concentration in blood over plasma; CLr= intrinsic clearance; CLr=renal clearance; fune=unbound
+fraction in the in vitro incubation; fum<=UnbOUNG fraction in the microsomal incubation; fu =fraction unbound in plasma;
+IndC.=q =compound concentration that causes haif maximal induction; Indmax=maximal fold induction over vehicle;
+Kep=drug concentration to reach haif maximal inactivation rate for the time-dependent inhibition; Kmaa=inactivation rate of
+the enzyme; K,=tissue: plasma partitioning; LogPo:w= the log10 of the coefficient for solvent partitioning between 1-
+octanol and water; MDCK=Madin-Darby canine kidney; MW=molecular weight; Permn=effective permeability of the
+‘compound in the human jejunum; pKs=logarithmic acid dissociation constant; Ve=volume of distribution at steady state.
+
+Source: Table 1 in the PBPK report 129287
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+
+220
+
+Version date: June 2022 (ALL NDA/ BLA reviews)
+
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5460147
+

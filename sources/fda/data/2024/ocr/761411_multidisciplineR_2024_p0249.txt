@@ -1,0 +1,118 @@
+BLA Multidisciplinary Review and Evaluation
+
+BLA 761411
+Niktimvo (axatilimab-csfr)
+
+Final Model Parameters
+
+Summary
+
+Acceptability
+[FDA’s comments]
+
+Model Structure
+
+Logistic regression models, time-
+to-event models, and linear
+regression models
+
+Model Parameter Estimates
+
+Table 114 (for primary and key
+secondary endpoints)
+
+relationships
+
+Model Evaluation Figure 19
+Covariates and Clinical Figure 20
+Relevance
+Simulation for Specific Table 115
+Population
+Visualization of E-R Figure 21
+
+Overall Clinical Relevance for
+E-R
+
+Table 116 and Table 117
+
+The E-R analyses of efficacy support 0.3
+mg/kg (max 35 mg) Q2W in patients
+weighing 40 kg and above.
+
+Higher Cycle 1 exposure was associated
+with lower probability of objective
+response, >7-point improvement in
+mLSS, and response in joints and fascia
+in patients who received 0.3 mg/kg
+Q2W, 1 mg/kg Q2W, or 3 mg/kg Q4W
+(see FDA Figure 22, FDA Figure 23,
+and FDA Figure 24).
+
+In the subgroup of 79 patients in the 0.3
+mg/kg Q2W cohort, there was no clear
+difference in the probability of efficacy
+across Cycle 1 exposure.
+
+Labeling Language
+
+Description
+
+12.2 Pharmacodynamics
+
+Acceptability
+[FDA’s comments]
+
+(b) (4)
+axatilimab caused a dose-
+dependent increase om
+nd (0) (4)
+
+dose-dependent reduction in the
+levels of nonclassical monocytes in
+peripheral blood.
+
+Axatilimab-csfr caused a dose-
+dependent increase from 0.15 mg/kg to
+6 mg/kg in CSF-1 and interleukin (IL)-34
+concentrations and a dose-dependent
+reduction in the levels of nonclassical
+monocytes in peripheral blood.
+
+Source: DMB-23.76
+
+Table 110: Summary of Baseline Characteristics and Laboratory Values in the Dataset
+
+AGAVE-201
+
+Covariate (N= 239)
+Sex, n (%)
+
+Male 149 (62.3%)
+
+Female 90 (37.7%)
+Race, n (%)
+
+White 198 (82.8%)
+
+Black 5 (2.1%)
+
+Asian 16 (6.7%)
+
+Other 4 (1.7%)
+
+Missing 16 (6.7%)
+Ethnicity, n (%)
+
+Latino or Hispanic 19 (7.9%)
+
+Non-Latino or non-Hispanic 213 (89.1%)
+
+Missing 7 (2.9%)
+
+249
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA. The FDA's position is highlighted in gray.
+
+Reference ID: 5429649
+

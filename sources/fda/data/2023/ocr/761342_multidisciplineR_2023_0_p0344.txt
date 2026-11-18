@@ -1,0 +1,72 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {BLA 761342}
+Talquetamab-tgvs
+
+Minimum required 1/2
+dilutions
+Source & lot of reagents | Janssen — MT ot MOS00191032
+Janssen — ©@©moso0189483
+Regression model & Five PL Auto-estimate regression with 1/Y? weighting in Watson LIMS
+weighting
+Validation parameters Method validation summary Acceptability
+Standard calibration Number of standard calibrators from LLOQ to ULOQ 7 Yes
+curve performance Cumulative accuracy (%bias) from LLOQ to ULOQ -3.05 to Yes
+during accuracy & 2.73%
+precision Cumulative precision (%CV) from LLOQ to ULOQ <3.61% Yes
+QCs performance Cumulative accuracy (“%bias) in 5 QCs 5.72 to Yes
+during accuracy & 10.59%
+precision Inter-batch %CV_ <4.31% _| Yes
+Total Error (TE) <14.49% | Yes
+Selectivity & matrix ¢ Healthy serum: acceptable recovery in 10 out of 10 individuals Yes
+effect (“bias -15.54 to -4.92%), all results for all un-spiked individuals
+below LLOQ.
+
+* Multiple myeloma serum: acceptable recovery in 8 out of 10
+individuals (“bias -26.52 to -3.99%), all results for all un-spiked
+individuals below LLOQ.
+
+Interference & © Presence of antidrug anti-CD3 antibody at 200 ng/mL and 500 Unlikely to
+
+specificity ng/mL does not affect recovery of talquetamab at MQC significantly
+concentration (%bias -10.92 to -9.91%). LLOQ was impacted at | impact results
+500 ng/mL (%bias -27.31%, but not at 200 ng/mL anti-CD3 given the lack
+antibody (“bias -17.18%). of ADA
+
+© Presence of antidrug anti-GPRCSD antibody at 200 ng/mL and impact on PK
+500 ng/mL affects recovery of talquetamab at MQC and LLOQ in the PPK
+concentrations (bias -89.02 to -77.29%). model
+
+¢ Presence of a non-neutralizing antihuman Fe antibody at 200
+ng/mL and 500 ng/mL does not affect recovery of talquetamab at
+MQC and LLOQ concentrations (“bias -8.69 to -0.97%).
+
+Hemolysis effect 25% level of hemolyzation does not affect the recovery of Yes
+talquetamab at the LLOQ concentration in 5 out of 5 samples tested (-
+17.84 to -12.59%).
+
+Lipemic effect High lipemic levels do not affect the recovery of talquetamab at the Yes
+LLOQ concentration in 5 out of 5 samples tested (“bias -8.05 to -
+1.44%).
+Dilution linearity & Dilutional linearity demonstrated up to 1/16,000. No hook effect Yes
+hook effect present at 1/2 dilution of a 12 g/mL spike.
+Bench-top/process Room temperature: up to 24 hours Yes
+stability 4°C: 4 weeks
+-20°C: 4 weeks
+Freeze-Thaw stability 8 cycles Yes
+Long-term storage Up to 4 years (1,457 days) at -70°C Yes
+Parallelism 41 00% passing rate Yes
+
+Janssen, Spring House, PA: 100% passing rate
+
+Method performance in study 64407564MMY1001
+
+Materials Used for INJ-64407564, Lot number: 19J21, Expiry 30 Oct 2022; Lot number 20114, Expiry 13
+Calibration Oct 2023; Lot number 17E29, Expiry 09 Sep 2024: JNJ-64407564 HQC, MQC, LQC
+Curve and QC
+Assay passing rate 89.4% I Yes
+
+Version date: June 2022 (ALL NDA/ BLA reviews) 348
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5222858

@@ -1,0 +1,50 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {BLA 761344}
+{Tarlatamab}
+
+Figure 17. Applicant — Kaplan-Meier Plot for Progression-free Survival as Assessed by BICR (Study 20200491 BICR Full Analysis Set for
+Part 1 and Part 2)
+
+1->10 mg (N= 99) 1->100 mg (N=87)
+
+1.07
+08-5
+06-5
+04-4
+024
+0.04
+
+Median OS (95% Cl) 14.3 (10.8, NE) NE (12.4, NE)
+
+——r-- A
+
+Survival Probability
+
+T T T T T T T
+i) 3 6 9 12 15 18
+
+Months
+
+Number of Subjects at Risk: | 1->10mg_——— 11001 |
+
+1->10mg 99 84 67 44 17 3 te)
+1->100mg 87 62 53 39 16 2 0
+
+-> = step dose to target dose (eg, 1 -> 10 mg = 1 mg step dose to 10 mg target dose); BICR = blinded independent central review; KM = Kaplan-Meier;
+PFS = progression-free survival; RECIST = Response Evaluation Criteria in Solid Tumors
+
+The BICR Full Analysis Set for Part 1 and Part 2 consisted of all subjects who were randomized (Part 1) or enrolled (Part 2), received at least 1 dose of tarlatamab,
+and had 1 or more measurable lesions at baseline as assessed by BICR using RECIST 1.1 criteria.
+
+Progression-free survival per RECIST 1.1 was defined as the interval from the date of first dose of tarlatamab to the earlier of progressive disease per RECIST 1.1 or
+death due to any cause.
+
+Censor indicated by vertical bar |.
+
+The survival curves and median PFS were estimated using KM method and their 95% Cl were estimated using log-log transformation of KM survival estimate by
+Brookmeyer and Crowley (1982) method.
+
+Data snapshot date: 01 March 2024. Data cutoff date: 27 June 2023.
+
+Source: Figure 14-4.4.6 of Study 20200491
+
+Reference ID: 5382024

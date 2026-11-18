@@ -1,0 +1,59 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {BLA 761342}
+Talquetamab-tgvs
+
+FDA Table 18: Simulated Talquetamab Crrough for Dose Delay Scenarios of 0.8 mg/kg Q2W
+
+Regimen
+Median (90% Prediction Interval)
+
+Last Dose Days Since Simulated Crrough (ng/mL) | Reference Crrough
+Administered | Last Dose Recommended Action at End of Dose Delay (ng/ml)
+0.06 mg/kg 8to 28 days _| Repeat 0.06 mg/kg 24.5 (3.0, 82.1) 13.4 (4.1, 35.7)
+0.4 mg/kg 8to28days_| Repeat 0.4 mg/kg 168 (20.1, 562) 93 (29.1, 249)
+
+29 to 56 days | Restart at 0.06 mg/kg 28.4 (0.4, 191) 13.4 (4.1, 35.7)
+0.8 mg/kg 15 to 28 days | Continue at 0.8 mg/kg Q2W. 448 (50.1, 1,510) 634 (199, 1,680)
+
+29 to 56 days | Restart at 0.4 mg/kg 77.6 (0.9, 520) 93 (29.1, 249)
+
+Ctrough = trough concentration; Q2W = every 2 weeks.
+Source: IR Response received 15 Feb 2023, Tables 9-32
+
+For most dose delay scenarios, the PK-based criterion was met. For the 0.8 mg/kg Q2W
+regimen, continuation of 0.8 mg/kg Q2W after a delay of 15 to 28 days fails to meet the
+PK-based criterion. Therefore, safety data were evaluated to assess this dose restart
+recommendation. A total of 74 dose delay events with a 15 to 28 day interval after a dose of
+0.8 mg/kg were identified. Among these 74 cases, there were 3 events of Grade 1 CRS after the
+subsequent dose (4.1%). The recommendation to continue at 0.8 mg/kg Q2W for a delay of up
+to 28 days after the last dose is adequately supported by the observed PK variability and safety
+profile.
+
+Longer delays (i.e., >7 days for step-up dose 1; >28 days for step-up dose 2; and >56 days for
+step-up dose 3, the treatment dose of 0.4 mg/kg QW, or the treatment dose of 0.8 mg/kg Q2W)
+all require restarting talquetamab at step-up dose 1 (0.01 mg/kg).
+
+Overall, the dose restart after dose delay recommendations are supported by the available PK
+and safety data. The protocol for MonumenTAL-1 required permanent discontinuation of
+talquetamab for dose delays >28 days or consultation with the Sponsor if continuation was
+considered in the best interest of the patient. Therefore, the labeling will note that providers
+should evaluate the benefit-risk of restarting talquetamab if a dose is delayed by more than
+28 days and consider permanent discontinuation if a dose is delayed by more than 56 days.
+Refer to Section 8.2.4 for additional information.
+
+6.3.2.3. Is an alternative dosing regimen or management strategy
+required for subpopulations based on intrinsic patient factors (eg,
+race, ethnicity, age, performance status, genetic subpopulations,
+etc.)?
+
+Data:
+
+For both RP2Ds, ORR was examined based on IRC assessment in prespecified subgroups,
+including demographic and clinical characteristics, number of prior therapies, refractoriness to
+prior therapies, cytogenetic risk at baseline, and baseline GPRC5D expression. Talquetamab
+
+Version date: June 2022 (ALL NDA/ BLA reviews) 97
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5222858

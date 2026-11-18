@@ -1,0 +1,77 @@
+NDA Multi-Disciplinary Review and Evaluation
+
+NDA 219876
+Dordaviprone
+
+Analysis Based on Simulation
+
+The results of PK simulation based on final
+population PK model was summarized in
+Table 17. All pediatric weight groups
+except the 10 to 12.4 kg weight group had
+median Cmax ratios (adult Cmax as
+reference) of 0.8 or higher. In reference to
+
+As there were only 2
+pediatric subjects with
+bodyweight 10-12.4 kg
+involved in the
+simulation, the results of
+the simulation should be
+
+recommended for patients with hepatic
+impairment or renal impairment.
+
+(Geiemty the AUC of the adult subjects, two pediatric | interpreted with caution.
+groups had a median AUC ratio of 0.8 or
+higher (27.5-42.4 kg and 52.2+kg). All
+other pediatric groups had a median AUC
+ratio of less than 0.8.
+
+“ Acceptability
+Labeling Language Description [FDA’s comments]
+Based on population PK
+
+No clinically significant differences in the analysis, no dose
+PK of dordaviprone were observed based on | adjustments are
+
+12.3 PK age, sex, or race. No dose adjustments are recommended for patients
+
+with mild or moderate
+renal impairment, with
+mild hepatic impairment.
+
+Table 19.1: Applicant — Parameter Estimates for the Refined Final PPK Model with the
+
+Updated Dataset
+Parameters Estimate %RSE 95 % CI
+CL/F (L/hr) 29.7 3.13 27.9 -31.5
+V2/F (L) 30.0 5.15 27.0 — 33.0
+KA (hr) 0.438 3.90 0.405 — 0.471
+ALAG (hr) 0.250 0.0300 0.249 — 0.250
+QF (Lit) 278 3.80 25.8-29.9
+V3/F (L) 195 3.06 183 — 206
+BWT ~ volume 1.03 4.58 0.936 — 1.12
+(Exponent)
+BWT ~ clearance 0.634 7.58 0.540 — 0.729
+(exponent)
+Albumin ~ CL/F 1.95 15.3 1.36 — 2.53
+(exponent)
+Albumin ~V2/F 3.87 11.1 3.03 — 4.71
+(exponent)
+Healthy volunteer ~ -0.873 4.50 -0.950 — -0.796
+V2/F
+(fractional change)
+Albumin ~V3/F 0.766 24.8 0.394—1.14
+(exponent)
+Random Effects Estimate (%CV) %RSE 95% CI Shrinkage (%)
+
+207
+
+Version date: March 1, 2024 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5638121
+

@@ -1,0 +1,55 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 218213}
+Repotrectinib (BMS-986472)
+
+Interference & All 6 lots have 0.00% mean LLOQ analyte response and 0.00% Yes
+specificity mean IS response
+
+All 6 lots have no impact on LLOQ quantification
+
+Hemolysis effect Yes
+1 lot, bias 4.03% (750 ng/mL) and 4.54% (3.0 ng/mL)
+
+Lipemic effect Yes
+1 lot, bias 0.438% (750 ng/mL) and 4.08% (3.0 ng/mL)
+
+Dilution linearity & hook . Yes
+effect 400 ng/mL 2.5X, bias 3.93%
+2500 ng/mL, 10X, bias -1.28%
+Bench-top/process
+stability p/p 24.13 hours at room temperature, Ves
+bias: -0.658% (750 ng/mL) and 3.45% (3.0 ng/mL)
+Freeze-Thaw stability Yes
+5 cycles (-25°C/RT), bias 0.991% to 1.97%
+5 cycles (-80°C/RT), bias 0.428% to 0.738%
+Long-term storage Yes
+320 days at -25°C, bias 0.684% to 3.29%
+320 days at -80°C, bias: -0.143% to 0.587%
+Parallelism NA NA
+Carry over Yes
+
+< 18.7% for analyte
+
+Method performance in study TPX-0005-09 bioanalytical report AMAA
+
+Assay passing rate ISR passing rate 100%
+Standard curve * Cumulative bias range: -2.24% to 1.90% Yes
+performance
+
+* Cumulative precision (%CV): < 3.51%
+
+QC performance * Cumulative bias range: -5.78 to -2.56% Yes
+* Cumulative precision (%CV): < 2.71%
+
+Method — Incurred sample re-analysis was performed in 10.9% of study Yes
+reproducibility samples, and 100% of the samples met the pre- specified
+criteria.
+Study sample ; The standard/QCs are stable at -80°C for 320 days; study samples Yes
+analysis/ stability were stored at -80°C for no more than 44 days
+213
+
+Version date: June 2022 (ALL NDA/ BLA reviews)
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5277412
+

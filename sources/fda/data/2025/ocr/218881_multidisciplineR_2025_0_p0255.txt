@@ -1,0 +1,41 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {Insert Application Type and Number}
+{Insert Product Trade and Generic Name}
+
+significant relationship between imlunestrant exposure and PFS. The initial statement—that
+patients with 2-fold higher exposures experienced approximately 5 months longer median PFS
+compared to the mean exposure at 400 mg once daily, while patients with 2-fold lower exposures
+had approximately 2 months shorter median PFS— ©® and should be discarded based on
+the corrected exposure-PFS analysis presented in the addendum PK/PD report.
+
+Table 19.3 (addendum). Parameter Estimates from Logistic Regression Model for PFS
+
+Parameter Description Estimate (SEE)
+Baseline Hazard (©1)* -3.19 (3.32)
+Gompertz Shape Parameter (3) -0.00329 (65.7)
+Effect of CDK4/6i prior therapy on baseline hazard (@,)> -0.461 (13.7)
+Effect of abemaciclib on baseline hazard (s)° -0.405 (17.5)
+Effect of visceral metastases on baseline hazard (@6)4 -0.386 (17.9)
+
+Abbreviations: %SEE = percent standard error of the estimate: CDK4/6i = cyclin-dependent kinase 4/6 inhibitor:
+EXP = exponential; PFS = progression-free survival
+
+® Baseline hazard = EXP(@)),
+
+b Baseline hazard = ©;*I where I = (1+©4) for patients without prior CDK4/6i therapy (with visceral metastases
+and without abemaciclib).
+
+© Baseline hazard = @*I where I = (1+@s) for patients with abemaciclib (with visceral metastases and CDK4/6i
+prior therapy).
+
+4 Baseline hazard = ©;*I where I = (1+@¢) for patients without visceral metastases (with CDK4/6i prior therapy
+and without abemaciclib).
+
+Source: Applicant's Population PK and PD Report Addendum, page 47, Table 9.4.
+
+254
+Version date: March 1, 2024 (ALL NDA/BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5665313

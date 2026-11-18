@@ -1,0 +1,53 @@
+NDA Multi-disciplinary Review and Evaluation - NDA 215814
+REZLIDHIA, olutasidenib
+
+Standard calibration Number of standard calibrators from LLOQ to ULOQ | 8 Yes
+curve performance
+during accuracy &
+precision Cumulative accuracy (%bias) from LLOQ to ULOQ Yes
+
+Olutasidenib (FT-2102) | -7.8 to 2.0 %
+
+‘Cumulative precision (%CV) from LLOQ to ULOQ Yes
+Olutasidenib (FT-2102) | < 4.9%
+
+QCs performance Cumulative accuracy (Ybias) in QCs Yes
+during accuracy & Qs: Inter-batch: | -3.7 to 1.0%
+precision Intra-batch: | -5.1 to 5.0%
+Inter-batch %CV. Yes
+QCs: <7.1%
+Total Error (TE) Not N/A
+QCs: applicable
+Selectivity & matrix Matrix Effects: Six total lots tested. Range of observed bias: -9.3 to- | Yes
+effect 1.0%.
+Interference & Six total replicates tested (double blanks and control blanks). No Yes
+specificity interference observed at the retention time of FT-2102.
+Hemolysis effect One lot tested. Yes
+Range of observed bias: 1.3 to 1.6%.
+Lipemic effect One lot tested. Range of observed bias: 0.8 to 3.0%. Yes
+Dilution linearity & Highest concentration tested: 25000 ng/mL Yes
+hook effect Dilution factor: 50
+
+Range of observed bias: 0.0%
+Hook effect: not applicable
+
+Bench-top/process FT-2102 in K2EDTA whole blood (room temperature for 2 hours): % | Yes
+stability difference (3750 ng/mL) = 0.0%
+
+FT-2102 in K2EDTA plasma (room temperature for 28 hours): %
+difference for QC-Low (30.0 ng/mL) = -3.7 and QC-High (3750
+ng/mL) = -4.3%.
+
+Freeze-Thaw stability 4 cycles of -80°C/room temperature: % difference QC-Low (30.0 Yes
+ng/mL) =-1.3 and QC-High (3750 ng/mL) = -0.3%.
+
+4 cycles of -20°C/room temperature: % difference QC-Low (30.0
+ng/mL) = -1.0 and QC-High (3750 ng/mL) = -4.3%.
+
+236
+Version date: January 2020 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “The Applicant’s Position” are completed by the Applicant
+and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5086659

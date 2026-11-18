@@ -1,0 +1,463 @@
+"year","affiliation_type","software","n","base_n","share_pct","partial_year"
+"2021","academia","InsightRX",2,767,0.260756192959583,FALSE
+"2022","academia","InsightRX",0,667,0,FALSE
+"2023","academia","InsightRX",0,576,0,FALSE
+"2024","academia","InsightRX",0,662,0,FALSE
+"2025","academia","InsightRX",2,732,0.273224043715847,FALSE
+"2026","academia","InsightRX",0,633,0,TRUE
+"2021","CRO","InsightRX",0,33,0,FALSE
+"2022","CRO","InsightRX",0,17,0,FALSE
+"2023","CRO","InsightRX",0,16,0,FALSE
+"2024","CRO","InsightRX",0,23,0,FALSE
+"2025","CRO","InsightRX",0,22,0,FALSE
+"2026","CRO","InsightRX",0,19,0,TRUE
+"2021","industry","InsightRX",0,171,0,FALSE
+"2022","industry","InsightRX",0,149,0,FALSE
+"2023","industry","InsightRX",0,112,0,FALSE
+"2024","industry","InsightRX",0,149,0,FALSE
+"2025","industry","InsightRX",0,145,0,FALSE
+"2026","industry","InsightRX",0,103,0,TRUE
+"2021","no affiliation","InsightRX",0,9,0,FALSE
+"2022","no affiliation","InsightRX",0,6,0,FALSE
+"2023","no affiliation","InsightRX",0,10,0,FALSE
+"2024","no affiliation","InsightRX",0,6,0,FALSE
+"2025","no affiliation","InsightRX",0,14,0,FALSE
+"2026","no affiliation","InsightRX",0,7,0,TRUE
+"2021","regulator","InsightRX",0,4,0,FALSE
+"2022","regulator","InsightRX",0,4,0,FALSE
+"2023","regulator","InsightRX",0,0,NA,FALSE
+"2024","regulator","InsightRX",0,3,0,FALSE
+"2025","regulator","InsightRX",0,6,0,FALSE
+"2026","regulator","InsightRX",0,4,0,TRUE
+"2021","unclassified","InsightRX",0,12,0,FALSE
+"2022","unclassified","InsightRX",0,6,0,FALSE
+"2023","unclassified","InsightRX",0,7,0,FALSE
+"2024","unclassified","InsightRX",0,18,0,FALSE
+"2025","unclassified","InsightRX",0,14,0,FALSE
+"2026","unclassified","InsightRX",0,14,0,TRUE
+"2021","vendor","InsightRX",0,1,0,FALSE
+"2022","vendor","InsightRX",0,2,0,FALSE
+"2023","vendor","InsightRX",0,0,NA,FALSE
+"2024","vendor","InsightRX",0,1,0,FALSE
+"2025","vendor","InsightRX",0,3,0,FALSE
+"2026","vendor","InsightRX",0,9,0,TRUE
+"2021","academia","Monolix",25,767,3.25945241199478,FALSE
+"2022","academia","Monolix",14,667,2.09895052473763,FALSE
+"2023","academia","Monolix",26,576,4.51388888888889,FALSE
+"2024","academia","Monolix",22,662,3.32326283987915,FALSE
+"2025","academia","Monolix",36,732,4.91803278688525,FALSE
+"2026","academia","Monolix",33,633,5.21327014218009,TRUE
+"2021","CRO","Monolix",0,33,0,FALSE
+"2022","CRO","Monolix",0,17,0,FALSE
+"2023","CRO","Monolix",1,16,6.25,FALSE
+"2024","CRO","Monolix",0,23,0,FALSE
+"2025","CRO","Monolix",0,22,0,FALSE
+"2026","CRO","Monolix",0,19,0,TRUE
+"2021","industry","Monolix",0,171,0,FALSE
+"2022","industry","Monolix",1,149,0.671140939597315,FALSE
+"2023","industry","Monolix",0,112,0,FALSE
+"2024","industry","Monolix",0,149,0,FALSE
+"2025","industry","Monolix",1,145,0.689655172413793,FALSE
+"2026","industry","Monolix",2,103,1.94174757281553,TRUE
+"2021","no affiliation","Monolix",0,9,0,FALSE
+"2022","no affiliation","Monolix",0,6,0,FALSE
+"2023","no affiliation","Monolix",0,10,0,FALSE
+"2024","no affiliation","Monolix",0,6,0,FALSE
+"2025","no affiliation","Monolix",0,14,0,FALSE
+"2026","no affiliation","Monolix",0,7,0,TRUE
+"2021","regulator","Monolix",0,4,0,FALSE
+"2022","regulator","Monolix",0,4,0,FALSE
+"2023","regulator","Monolix",0,0,NA,FALSE
+"2024","regulator","Monolix",0,3,0,FALSE
+"2025","regulator","Monolix",0,6,0,FALSE
+"2026","regulator","Monolix",0,4,0,TRUE
+"2021","unclassified","Monolix",0,12,0,FALSE
+"2022","unclassified","Monolix",0,6,0,FALSE
+"2023","unclassified","Monolix",0,7,0,FALSE
+"2024","unclassified","Monolix",1,18,5.55555555555556,FALSE
+"2025","unclassified","Monolix",0,14,0,FALSE
+"2026","unclassified","Monolix",1,14,7.14285714285714,TRUE
+"2021","vendor","Monolix",1,1,100,FALSE
+"2022","vendor","Monolix",0,2,0,FALSE
+"2023","vendor","Monolix",0,0,NA,FALSE
+"2024","vendor","Monolix",0,1,0,FALSE
+"2025","vendor","Monolix",0,3,0,FALSE
+"2026","vendor","Monolix",1,9,11.1111111111111,TRUE
+"2021","academia","nlmixr",0,767,0,FALSE
+"2022","academia","nlmixr",2,667,0.299850074962519,FALSE
+"2023","academia","nlmixr",0,576,0,FALSE
+"2024","academia","nlmixr",0,662,0,FALSE
+"2025","academia","nlmixr",3,732,0.409836065573771,FALSE
+"2026","academia","nlmixr",3,633,0.4739336492891,TRUE
+"2021","CRO","nlmixr",0,33,0,FALSE
+"2022","CRO","nlmixr",0,17,0,FALSE
+"2023","CRO","nlmixr",0,16,0,FALSE
+"2024","CRO","nlmixr",0,23,0,FALSE
+"2025","CRO","nlmixr",0,22,0,FALSE
+"2026","CRO","nlmixr",0,19,0,TRUE
+"2021","industry","nlmixr",1,171,0.584795321637427,FALSE
+"2022","industry","nlmixr",0,149,0,FALSE
+"2023","industry","nlmixr",0,112,0,FALSE
+"2024","industry","nlmixr",0,149,0,FALSE
+"2025","industry","nlmixr",0,145,0,FALSE
+"2026","industry","nlmixr",0,103,0,TRUE
+"2021","no affiliation","nlmixr",0,9,0,FALSE
+"2022","no affiliation","nlmixr",0,6,0,FALSE
+"2023","no affiliation","nlmixr",0,10,0,FALSE
+"2024","no affiliation","nlmixr",0,6,0,FALSE
+"2025","no affiliation","nlmixr",0,14,0,FALSE
+"2026","no affiliation","nlmixr",0,7,0,TRUE
+"2021","regulator","nlmixr",0,4,0,FALSE
+"2022","regulator","nlmixr",0,4,0,FALSE
+"2023","regulator","nlmixr",0,0,NA,FALSE
+"2024","regulator","nlmixr",0,3,0,FALSE
+"2025","regulator","nlmixr",0,6,0,FALSE
+"2026","regulator","nlmixr",0,4,0,TRUE
+"2021","unclassified","nlmixr",0,12,0,FALSE
+"2022","unclassified","nlmixr",0,6,0,FALSE
+"2023","unclassified","nlmixr",0,7,0,FALSE
+"2024","unclassified","nlmixr",1,18,5.55555555555556,FALSE
+"2025","unclassified","nlmixr",0,14,0,FALSE
+"2026","unclassified","nlmixr",2,14,14.2857142857143,TRUE
+"2021","vendor","nlmixr",0,1,0,FALSE
+"2022","vendor","nlmixr",0,2,0,FALSE
+"2023","vendor","nlmixr",0,0,NA,FALSE
+"2024","vendor","nlmixr",0,1,0,FALSE
+"2025","vendor","nlmixr",0,3,0,FALSE
+"2026","vendor","nlmixr",0,9,0,TRUE
+"2021","academia","NONMEM",118,767,15.3846153846154,FALSE
+"2022","academia","NONMEM",99,667,14.8425787106447,FALSE
+"2023","academia","NONMEM",77,576,13.3680555555556,FALSE
+"2024","academia","NONMEM",89,662,13.4441087613293,FALSE
+"2025","academia","NONMEM",96,732,13.1147540983607,FALSE
+"2026","academia","NONMEM",71,633,11.216429699842,TRUE
+"2021","CRO","NONMEM",4,33,12.1212121212121,FALSE
+"2022","CRO","NONMEM",0,17,0,FALSE
+"2023","CRO","NONMEM",3,16,18.75,FALSE
+"2024","CRO","NONMEM",2,23,8.69565217391304,FALSE
+"2025","CRO","NONMEM",4,22,18.1818181818182,FALSE
+"2026","CRO","NONMEM",2,19,10.5263157894737,TRUE
+"2021","industry","NONMEM",11,171,6.4327485380117,FALSE
+"2022","industry","NONMEM",9,149,6.04026845637584,FALSE
+"2023","industry","NONMEM",7,112,6.25,FALSE
+"2024","industry","NONMEM",8,149,5.36912751677852,FALSE
+"2025","industry","NONMEM",10,145,6.89655172413793,FALSE
+"2026","industry","NONMEM",13,103,12.621359223301,TRUE
+"2021","no affiliation","NONMEM",2,9,22.2222222222222,FALSE
+"2022","no affiliation","NONMEM",0,6,0,FALSE
+"2023","no affiliation","NONMEM",2,10,20,FALSE
+"2024","no affiliation","NONMEM",1,6,16.6666666666667,FALSE
+"2025","no affiliation","NONMEM",0,14,0,FALSE
+"2026","no affiliation","NONMEM",1,7,14.2857142857143,TRUE
+"2021","regulator","NONMEM",0,4,0,FALSE
+"2022","regulator","NONMEM",0,4,0,FALSE
+"2023","regulator","NONMEM",0,0,NA,FALSE
+"2024","regulator","NONMEM",1,3,33.3333333333333,FALSE
+"2025","regulator","NONMEM",0,6,0,FALSE
+"2026","regulator","NONMEM",0,4,0,TRUE
+"2021","unclassified","NONMEM",3,12,25,FALSE
+"2022","unclassified","NONMEM",0,6,0,FALSE
+"2023","unclassified","NONMEM",0,7,0,FALSE
+"2024","unclassified","NONMEM",3,18,16.6666666666667,FALSE
+"2025","unclassified","NONMEM",0,14,0,FALSE
+"2026","unclassified","NONMEM",0,14,0,TRUE
+"2021","vendor","NONMEM",0,1,0,FALSE
+"2022","vendor","NONMEM",0,2,0,FALSE
+"2023","vendor","NONMEM",0,0,NA,FALSE
+"2024","vendor","NONMEM",0,1,0,FALSE
+"2025","vendor","NONMEM",0,3,0,FALSE
+"2026","vendor","NONMEM",0,9,0,TRUE
+"2021","academia","OpenPMX",0,767,0,FALSE
+"2022","academia","OpenPMX",0,667,0,FALSE
+"2023","academia","OpenPMX",0,576,0,FALSE
+"2024","academia","OpenPMX",0,662,0,FALSE
+"2025","academia","OpenPMX",0,732,0,FALSE
+"2026","academia","OpenPMX",1,633,0.157977883096367,TRUE
+"2021","CRO","OpenPMX",0,33,0,FALSE
+"2022","CRO","OpenPMX",0,17,0,FALSE
+"2023","CRO","OpenPMX",0,16,0,FALSE
+"2024","CRO","OpenPMX",0,23,0,FALSE
+"2025","CRO","OpenPMX",0,22,0,FALSE
+"2026","CRO","OpenPMX",0,19,0,TRUE
+"2021","industry","OpenPMX",0,171,0,FALSE
+"2022","industry","OpenPMX",0,149,0,FALSE
+"2023","industry","OpenPMX",0,112,0,FALSE
+"2024","industry","OpenPMX",0,149,0,FALSE
+"2025","industry","OpenPMX",0,145,0,FALSE
+"2026","industry","OpenPMX",0,103,0,TRUE
+"2021","no affiliation","OpenPMX",0,9,0,FALSE
+"2022","no affiliation","OpenPMX",0,6,0,FALSE
+"2023","no affiliation","OpenPMX",0,10,0,FALSE
+"2024","no affiliation","OpenPMX",0,6,0,FALSE
+"2025","no affiliation","OpenPMX",0,14,0,FALSE
+"2026","no affiliation","OpenPMX",0,7,0,TRUE
+"2021","regulator","OpenPMX",0,4,0,FALSE
+"2022","regulator","OpenPMX",0,4,0,FALSE
+"2023","regulator","OpenPMX",0,0,NA,FALSE
+"2024","regulator","OpenPMX",0,3,0,FALSE
+"2025","regulator","OpenPMX",0,6,0,FALSE
+"2026","regulator","OpenPMX",0,4,0,TRUE
+"2021","unclassified","OpenPMX",0,12,0,FALSE
+"2022","unclassified","OpenPMX",0,6,0,FALSE
+"2023","unclassified","OpenPMX",0,7,0,FALSE
+"2024","unclassified","OpenPMX",0,18,0,FALSE
+"2025","unclassified","OpenPMX",0,14,0,FALSE
+"2026","unclassified","OpenPMX",0,14,0,TRUE
+"2021","vendor","OpenPMX",0,1,0,FALSE
+"2022","vendor","OpenPMX",0,2,0,FALSE
+"2023","vendor","OpenPMX",0,0,NA,FALSE
+"2024","vendor","OpenPMX",0,1,0,FALSE
+"2025","vendor","OpenPMX",0,3,0,FALSE
+"2026","vendor","OpenPMX",0,9,0,TRUE
+"2021","academia","Phoenix NLME",9,767,1.17340286831812,FALSE
+"2022","academia","Phoenix NLME",10,667,1.49925037481259,FALSE
+"2023","academia","Phoenix NLME",10,576,1.73611111111111,FALSE
+"2024","academia","Phoenix NLME",9,662,1.3595166163142,FALSE
+"2025","academia","Phoenix NLME",9,732,1.22950819672131,FALSE
+"2026","academia","Phoenix NLME",4,633,0.631911532385466,TRUE
+"2021","CRO","Phoenix NLME",0,33,0,FALSE
+"2022","CRO","Phoenix NLME",0,17,0,FALSE
+"2023","CRO","Phoenix NLME",0,16,0,FALSE
+"2024","CRO","Phoenix NLME",0,23,0,FALSE
+"2025","CRO","Phoenix NLME",0,22,0,FALSE
+"2026","CRO","Phoenix NLME",0,19,0,TRUE
+"2021","industry","Phoenix NLME",0,171,0,FALSE
+"2022","industry","Phoenix NLME",0,149,0,FALSE
+"2023","industry","Phoenix NLME",0,112,0,FALSE
+"2024","industry","Phoenix NLME",0,149,0,FALSE
+"2025","industry","Phoenix NLME",0,145,0,FALSE
+"2026","industry","Phoenix NLME",0,103,0,TRUE
+"2021","no affiliation","Phoenix NLME",0,9,0,FALSE
+"2022","no affiliation","Phoenix NLME",0,6,0,FALSE
+"2023","no affiliation","Phoenix NLME",0,10,0,FALSE
+"2024","no affiliation","Phoenix NLME",0,6,0,FALSE
+"2025","no affiliation","Phoenix NLME",0,14,0,FALSE
+"2026","no affiliation","Phoenix NLME",0,7,0,TRUE
+"2021","regulator","Phoenix NLME",0,4,0,FALSE
+"2022","regulator","Phoenix NLME",0,4,0,FALSE
+"2023","regulator","Phoenix NLME",0,0,NA,FALSE
+"2024","regulator","Phoenix NLME",0,3,0,FALSE
+"2025","regulator","Phoenix NLME",0,6,0,FALSE
+"2026","regulator","Phoenix NLME",0,4,0,TRUE
+"2021","unclassified","Phoenix NLME",0,12,0,FALSE
+"2022","unclassified","Phoenix NLME",0,6,0,FALSE
+"2023","unclassified","Phoenix NLME",0,7,0,FALSE
+"2024","unclassified","Phoenix NLME",1,18,5.55555555555556,FALSE
+"2025","unclassified","Phoenix NLME",0,14,0,FALSE
+"2026","unclassified","Phoenix NLME",0,14,0,TRUE
+"2021","vendor","Phoenix NLME",0,1,0,FALSE
+"2022","vendor","Phoenix NLME",0,2,0,FALSE
+"2023","vendor","Phoenix NLME",0,0,NA,FALSE
+"2024","vendor","Phoenix NLME",0,1,0,FALSE
+"2025","vendor","Phoenix NLME",0,3,0,FALSE
+"2026","vendor","Phoenix NLME",0,9,0,TRUE
+"2021","academia","Pmetrics",20,767,2.60756192959583,FALSE
+"2022","academia","Pmetrics",15,667,2.24887556221889,FALSE
+"2023","academia","Pmetrics",11,576,1.90972222222222,FALSE
+"2024","academia","Pmetrics",9,662,1.3595166163142,FALSE
+"2025","academia","Pmetrics",4,732,0.546448087431694,FALSE
+"2026","academia","Pmetrics",1,633,0.157977883096367,TRUE
+"2021","CRO","Pmetrics",0,33,0,FALSE
+"2022","CRO","Pmetrics",0,17,0,FALSE
+"2023","CRO","Pmetrics",0,16,0,FALSE
+"2024","CRO","Pmetrics",0,23,0,FALSE
+"2025","CRO","Pmetrics",0,22,0,FALSE
+"2026","CRO","Pmetrics",0,19,0,TRUE
+"2021","industry","Pmetrics",0,171,0,FALSE
+"2022","industry","Pmetrics",0,149,0,FALSE
+"2023","industry","Pmetrics",0,112,0,FALSE
+"2024","industry","Pmetrics",0,149,0,FALSE
+"2025","industry","Pmetrics",0,145,0,FALSE
+"2026","industry","Pmetrics",0,103,0,TRUE
+"2021","no affiliation","Pmetrics",0,9,0,FALSE
+"2022","no affiliation","Pmetrics",0,6,0,FALSE
+"2023","no affiliation","Pmetrics",0,10,0,FALSE
+"2024","no affiliation","Pmetrics",0,6,0,FALSE
+"2025","no affiliation","Pmetrics",0,14,0,FALSE
+"2026","no affiliation","Pmetrics",0,7,0,TRUE
+"2021","regulator","Pmetrics",0,4,0,FALSE
+"2022","regulator","Pmetrics",0,4,0,FALSE
+"2023","regulator","Pmetrics",0,0,NA,FALSE
+"2024","regulator","Pmetrics",0,3,0,FALSE
+"2025","regulator","Pmetrics",0,6,0,FALSE
+"2026","regulator","Pmetrics",0,4,0,TRUE
+"2021","unclassified","Pmetrics",0,12,0,FALSE
+"2022","unclassified","Pmetrics",0,6,0,FALSE
+"2023","unclassified","Pmetrics",0,7,0,FALSE
+"2024","unclassified","Pmetrics",0,18,0,FALSE
+"2025","unclassified","Pmetrics",0,14,0,FALSE
+"2026","unclassified","Pmetrics",0,14,0,TRUE
+"2021","vendor","Pmetrics",0,1,0,FALSE
+"2022","vendor","Pmetrics",0,2,0,FALSE
+"2023","vendor","Pmetrics",0,0,NA,FALSE
+"2024","vendor","Pmetrics",0,1,0,FALSE
+"2025","vendor","Pmetrics",0,3,0,FALSE
+"2026","vendor","Pmetrics",0,9,0,TRUE
+"2021","academia","Pumas",2,767,0.260756192959583,FALSE
+"2022","academia","Pumas",3,667,0.449775112443778,FALSE
+"2023","academia","Pumas",1,576,0.173611111111111,FALSE
+"2024","academia","Pumas",0,662,0,FALSE
+"2025","academia","Pumas",2,732,0.273224043715847,FALSE
+"2026","academia","Pumas",4,633,0.631911532385466,TRUE
+"2021","CRO","Pumas",0,33,0,FALSE
+"2022","CRO","Pumas",0,17,0,FALSE
+"2023","CRO","Pumas",0,16,0,FALSE
+"2024","CRO","Pumas",0,23,0,FALSE
+"2025","CRO","Pumas",0,22,0,FALSE
+"2026","CRO","Pumas",0,19,0,TRUE
+"2021","industry","Pumas",0,171,0,FALSE
+"2022","industry","Pumas",0,149,0,FALSE
+"2023","industry","Pumas",0,112,0,FALSE
+"2024","industry","Pumas",0,149,0,FALSE
+"2025","industry","Pumas",0,145,0,FALSE
+"2026","industry","Pumas",0,103,0,TRUE
+"2021","no affiliation","Pumas",0,9,0,FALSE
+"2022","no affiliation","Pumas",0,6,0,FALSE
+"2023","no affiliation","Pumas",0,10,0,FALSE
+"2024","no affiliation","Pumas",0,6,0,FALSE
+"2025","no affiliation","Pumas",0,14,0,FALSE
+"2026","no affiliation","Pumas",0,7,0,TRUE
+"2021","regulator","Pumas",0,4,0,FALSE
+"2022","regulator","Pumas",0,4,0,FALSE
+"2023","regulator","Pumas",0,0,NA,FALSE
+"2024","regulator","Pumas",0,3,0,FALSE
+"2025","regulator","Pumas",0,6,0,FALSE
+"2026","regulator","Pumas",0,4,0,TRUE
+"2021","unclassified","Pumas",0,12,0,FALSE
+"2022","unclassified","Pumas",0,6,0,FALSE
+"2023","unclassified","Pumas",0,7,0,FALSE
+"2024","unclassified","Pumas",0,18,0,FALSE
+"2025","unclassified","Pumas",0,14,0,FALSE
+"2026","unclassified","Pumas",0,14,0,TRUE
+"2021","vendor","Pumas",0,1,0,FALSE
+"2022","vendor","Pumas",0,2,0,FALSE
+"2023","vendor","Pumas",0,0,NA,FALSE
+"2024","vendor","Pumas",0,1,0,FALSE
+"2025","vendor","Pumas",0,3,0,FALSE
+"2026","vendor","Pumas",0,9,0,TRUE
+"2021","academia","S-ADAPT",0,767,0,FALSE
+"2022","academia","S-ADAPT",0,667,0,FALSE
+"2023","academia","S-ADAPT",2,576,0.347222222222222,FALSE
+"2024","academia","S-ADAPT",2,662,0.302114803625378,FALSE
+"2025","academia","S-ADAPT",0,732,0,FALSE
+"2026","academia","S-ADAPT",0,633,0,TRUE
+"2021","CRO","S-ADAPT",0,33,0,FALSE
+"2022","CRO","S-ADAPT",0,17,0,FALSE
+"2023","CRO","S-ADAPT",0,16,0,FALSE
+"2024","CRO","S-ADAPT",0,23,0,FALSE
+"2025","CRO","S-ADAPT",0,22,0,FALSE
+"2026","CRO","S-ADAPT",0,19,0,TRUE
+"2021","industry","S-ADAPT",0,171,0,FALSE
+"2022","industry","S-ADAPT",0,149,0,FALSE
+"2023","industry","S-ADAPT",0,112,0,FALSE
+"2024","industry","S-ADAPT",0,149,0,FALSE
+"2025","industry","S-ADAPT",0,145,0,FALSE
+"2026","industry","S-ADAPT",0,103,0,TRUE
+"2021","no affiliation","S-ADAPT",0,9,0,FALSE
+"2022","no affiliation","S-ADAPT",0,6,0,FALSE
+"2023","no affiliation","S-ADAPT",0,10,0,FALSE
+"2024","no affiliation","S-ADAPT",0,6,0,FALSE
+"2025","no affiliation","S-ADAPT",0,14,0,FALSE
+"2026","no affiliation","S-ADAPT",0,7,0,TRUE
+"2021","regulator","S-ADAPT",0,4,0,FALSE
+"2022","regulator","S-ADAPT",0,4,0,FALSE
+"2023","regulator","S-ADAPT",0,0,NA,FALSE
+"2024","regulator","S-ADAPT",0,3,0,FALSE
+"2025","regulator","S-ADAPT",0,6,0,FALSE
+"2026","regulator","S-ADAPT",0,4,0,TRUE
+"2021","unclassified","S-ADAPT",0,12,0,FALSE
+"2022","unclassified","S-ADAPT",0,6,0,FALSE
+"2023","unclassified","S-ADAPT",0,7,0,FALSE
+"2024","unclassified","S-ADAPT",0,18,0,FALSE
+"2025","unclassified","S-ADAPT",0,14,0,FALSE
+"2026","unclassified","S-ADAPT",0,14,0,TRUE
+"2021","vendor","S-ADAPT",0,1,0,FALSE
+"2022","vendor","S-ADAPT",0,2,0,FALSE
+"2023","vendor","S-ADAPT",0,0,NA,FALSE
+"2024","vendor","S-ADAPT",0,1,0,FALSE
+"2025","vendor","S-ADAPT",0,3,0,FALSE
+"2026","vendor","S-ADAPT",0,9,0,TRUE
+"2021","academia","saemix",1,767,0.130378096479791,FALSE
+"2022","academia","saemix",0,667,0,FALSE
+"2023","academia","saemix",0,576,0,FALSE
+"2024","academia","saemix",2,662,0.302114803625378,FALSE
+"2025","academia","saemix",1,732,0.136612021857924,FALSE
+"2026","academia","saemix",0,633,0,TRUE
+"2021","CRO","saemix",0,33,0,FALSE
+"2022","CRO","saemix",0,17,0,FALSE
+"2023","CRO","saemix",0,16,0,FALSE
+"2024","CRO","saemix",0,23,0,FALSE
+"2025","CRO","saemix",0,22,0,FALSE
+"2026","CRO","saemix",0,19,0,TRUE
+"2021","industry","saemix",0,171,0,FALSE
+"2022","industry","saemix",0,149,0,FALSE
+"2023","industry","saemix",0,112,0,FALSE
+"2024","industry","saemix",0,149,0,FALSE
+"2025","industry","saemix",0,145,0,FALSE
+"2026","industry","saemix",0,103,0,TRUE
+"2021","no affiliation","saemix",0,9,0,FALSE
+"2022","no affiliation","saemix",0,6,0,FALSE
+"2023","no affiliation","saemix",0,10,0,FALSE
+"2024","no affiliation","saemix",0,6,0,FALSE
+"2025","no affiliation","saemix",0,14,0,FALSE
+"2026","no affiliation","saemix",0,7,0,TRUE
+"2021","regulator","saemix",0,4,0,FALSE
+"2022","regulator","saemix",0,4,0,FALSE
+"2023","regulator","saemix",0,0,NA,FALSE
+"2024","regulator","saemix",0,3,0,FALSE
+"2025","regulator","saemix",0,6,0,FALSE
+"2026","regulator","saemix",0,4,0,TRUE
+"2021","unclassified","saemix",0,12,0,FALSE
+"2022","unclassified","saemix",0,6,0,FALSE
+"2023","unclassified","saemix",0,7,0,FALSE
+"2024","unclassified","saemix",0,18,0,FALSE
+"2025","unclassified","saemix",0,14,0,FALSE
+"2026","unclassified","saemix",0,14,0,TRUE
+"2021","vendor","saemix",0,1,0,FALSE
+"2022","vendor","saemix",0,2,0,FALSE
+"2023","vendor","saemix",0,0,NA,FALSE
+"2024","vendor","saemix",0,1,0,FALSE
+"2025","vendor","saemix",0,3,0,FALSE
+"2026","vendor","saemix",0,9,0,TRUE
+"2021","academia","Stan/Torsten",0,767,0,FALSE
+"2022","academia","Stan/Torsten",0,667,0,FALSE
+"2023","academia","Stan/Torsten",0,576,0,FALSE
+"2024","academia","Stan/Torsten",1,662,0.151057401812689,FALSE
+"2025","academia","Stan/Torsten",0,732,0,FALSE
+"2026","academia","Stan/Torsten",1,633,0.157977883096367,TRUE
+"2021","CRO","Stan/Torsten",0,33,0,FALSE
+"2022","CRO","Stan/Torsten",1,17,5.88235294117647,FALSE
+"2023","CRO","Stan/Torsten",0,16,0,FALSE
+"2024","CRO","Stan/Torsten",0,23,0,FALSE
+"2025","CRO","Stan/Torsten",0,22,0,FALSE
+"2026","CRO","Stan/Torsten",1,19,5.26315789473684,TRUE
+"2021","industry","Stan/Torsten",0,171,0,FALSE
+"2022","industry","Stan/Torsten",0,149,0,FALSE
+"2023","industry","Stan/Torsten",0,112,0,FALSE
+"2024","industry","Stan/Torsten",2,149,1.34228187919463,FALSE
+"2025","industry","Stan/Torsten",0,145,0,FALSE
+"2026","industry","Stan/Torsten",0,103,0,TRUE
+"2021","no affiliation","Stan/Torsten",0,9,0,FALSE
+"2022","no affiliation","Stan/Torsten",0,6,0,FALSE
+"2023","no affiliation","Stan/Torsten",0,10,0,FALSE
+"2024","no affiliation","Stan/Torsten",0,6,0,FALSE
+"2025","no affiliation","Stan/Torsten",0,14,0,FALSE
+"2026","no affiliation","Stan/Torsten",0,7,0,TRUE
+"2021","regulator","Stan/Torsten",0,4,0,FALSE
+"2022","regulator","Stan/Torsten",0,4,0,FALSE
+"2023","regulator","Stan/Torsten",0,0,NA,FALSE
+"2024","regulator","Stan/Torsten",0,3,0,FALSE
+"2025","regulator","Stan/Torsten",0,6,0,FALSE
+"2026","regulator","Stan/Torsten",0,4,0,TRUE
+"2021","unclassified","Stan/Torsten",0,12,0,FALSE
+"2022","unclassified","Stan/Torsten",0,6,0,FALSE
+"2023","unclassified","Stan/Torsten",0,7,0,FALSE
+"2024","unclassified","Stan/Torsten",0,18,0,FALSE
+"2025","unclassified","Stan/Torsten",0,14,0,FALSE
+"2026","unclassified","Stan/Torsten",0,14,0,TRUE
+"2021","vendor","Stan/Torsten",0,1,0,FALSE
+"2022","vendor","Stan/Torsten",0,2,0,FALSE
+"2023","vendor","Stan/Torsten",0,0,NA,FALSE
+"2024","vendor","Stan/Torsten",0,1,0,FALSE
+"2025","vendor","Stan/Torsten",0,3,0,FALSE
+"2026","vendor","Stan/Torsten",0,9,0,TRUE

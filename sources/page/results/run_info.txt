@@ -1,0 +1,16 @@
+run_date: 2026-09-29
+sitemaps from: 2026-09-26
+mode: full
+abstract pages in sitemaps: 6901
+selection: sitemap positions 561 to 6901 (first abstract from 2004 or later, found by bisection)
+order check: 40 random pages before position 561 have years 1995 to 2004, none from 2006 or later
+pages processed: 6341
+pages and PDFs that could not be fetched: 0
+pages without the abstract layout (no citation year): 1
+abstracts whose PDF could not be read (left out of the shares): 10
+years kept: 2006 to 2026
+abstracts kept: 6136
+processed pages outside the years (year: n): 1992: 7, 1993: 19, 1994: 42, 1998: 10, 2005: 126, NA: 1
+affiliation decided by (step: n): first affiliation: 5897, other affiliation: 33, shared prefix: 18, whole line: 101, NA: 87
+PDFs searched: 852
+PDF hits awaiting a decision: 0

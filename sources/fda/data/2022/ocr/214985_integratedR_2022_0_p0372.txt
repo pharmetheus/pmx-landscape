@@ -1,0 +1,54 @@
+Table 6: Analysis Results on Overall Drug Liking Emax and Take Drug Again Emax (N=63)
+
+TRT 230 $150 T50 T100 T150 P
+N=63
+a
+Endpoint Comparison | Med Diff | (Q1, Q3) ist p-value 25Ja)
+LCL UCL
+230 vs. P 25 (8, 40) 0 <0.0001 7 Infty
+230 vs. T50 1 (-2, 16) ) 0.0460 ) Infty
+730 vs. 7100 fy) (4,4) 0 0.5000 BI Infty
+230 vs. 7150 0 (8,4) 0 0.7121 2 Infty
+Overall Drug
+
+Liking Emax |-5150vs.P 25 (9, 45) 0 <0.0001 22 Infty
+$150 vs. T50 2 (1, 15) 0 0.0088 0 Infty
+$150 vs. 1100 t) (3,2) 0 0.5000 oO Infty
+$150 vs. T150 0 (3,2) 0 0.7200 a Infty
+
+T50 vs. P 17 (0, 36) ) <0.0001 6 24
+
+TRT 230 $150 T50 T100 T150 P
+
+N=63
+weno] 5 | ba | wa | oa | oo | os
+95% Cl
+
+Endpoint | Comparison ee tana) ist p-value a va
+230 vs. P 24 (7,41) ) <0.0001 17 Infty
+730 vs. 150 0 (-2,9) 0 0.1562 0 Infty
+730 vs. 7100 0 (3,3) 0 0.8144 a Infty
+Take Drug | 230 vs. T150 0 (-4, 0) 0 0.967 1 Infty
+Again Emax | sao vs. P 26.0 27 ) <0.0001 214 Infty
+$150 vs. T50 0 (-2, 10) 0 0.0298 0 Infty
+$150 vs. 1100 ty) (-1, 2) 0 0.2612 0 Infty
+$150 vs. T150 0 (3,2) 0 0.5000 0 Infty
+
+Note: 1) The Sign test was performed for the comparisons in green. In such a case, the median difference and interquartile range
+(Q1, Q3) of the difference as well as the distribution free 95% confidence interval of the median difference were listed.
+
+The results show that for Overall Drug Liking Emax
+
+1. The mean or median difference between each positive control and placebo was significantly great
+than zero (p<0.0001).
+
+2. The median differences between each positive control and each dose of ACT-541468 were not
+significantly greater than 0 (p>0.5000) except the comparisons between each positive control and 50
+mg ACT-541468 (p<0.0460).
+
+3. For exploratory purpose, the test for the comparison between 50 mg ACT-541468 and placebo was
+performed. The median difference between 50 mg ACT-541468 and placebo was significantly
+
+20
+
+Reference ID: 4859554

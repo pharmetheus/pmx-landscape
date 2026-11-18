@@ -1,0 +1,74 @@
+NDA 220848
+
+LIPFENDRA (enlicitide)
+FDA Figure 8. Subjects With Adverse Events 22% by OND Custom Medical Query (Narrow), Trial
+P017
+Diarrhea BHO ATA eo
+Dizziness 7 4%o---& 8.9% T ——
+Pneumonia} 1%0-& 3.5% 1 ——-——
+Vomiting 1% 94 2.5% —eo—
+Nasopharyngitis 7 13.9% OA 15.3% 1 ————
+Headache ——_.+
+Arrhythmia} ——
+Back Pain| —.
+Rash ——_e—
+Hyperatycemia ——.
+Thrombosis —e
+Pyrexia} ——
+Myaigia a
+Fracture ee
+Fatigue} ——+—
+Systemic Hypertension | —
+Renal & Urinary Tract Infection | —_-—,
+Dyspepsia —+—_
+Viral infection a
+Hemorrhage —__+
+Bacterial Infection —_—_—_.+
+Arthritis ——
+Myocardial Ischemia + me
+Arthraigia —
+Abdominal Pain| | —— {
+Zo rc) ao 3 3 70
+Frequency (%) Risk Difference with 95% Cl
+
+A. 017_Enlicitide 20 mg (N=202) © 017_Placebo (N=101)
+
+Source: adae xpt; Software: R
+
+Treatment-emergent AE defined as [definition].
+
+MedDRA version [e.g., 27.0].
+
+Duration is [e.g., X week double-blind treatment period or median and a range of pooled trial durations].
+Risk difference (with 95% confidence interval) is shown between total treatment and comparator.
+
+The confidence interval of risk difference is estimated by the Miettinen and Nurminen method.
+
+Laboratory Findings
+
+Data:
+
+Table 29: Applicant - Participants With Liver Function Laboratory Findings That Met
+Predetermined Criteria (All Participants as Treated) Placebo-Controlled Pool (P013, P017)
+
+Enlicitide 20 mg Placebo Total
+
+Criteria n/m (%) n/m (%) wm (%)
+Participants in population 2137 1070 3207
+Alanine Aminotransferase
+23 x ULN 7/2084 (0.3) 6/1047 (0.6) 13/3131 (0.4)
+>5 x ULN 3/2084 (0.1) 2/1047 (0.2) 5/3131 (0.2)
+>10 x ULN 1/2084 (0.0) 0/1047 (0.0) 1/3131 (0.0)
+>20 x ULN 0/2084 (0.0) 0/1047 (0.0) 0/3131 (0.0)
+Aspartate Aminotransferase
+23 x ULN 6/2084 (0.3) | 7/1047 (0.7) 13/3131 (0.4)
+
+146
+
+Version date: February 10, 2025 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5833849
+

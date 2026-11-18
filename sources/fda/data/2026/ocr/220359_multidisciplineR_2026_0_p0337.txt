@@ -1,0 +1,51 @@
+Table 54 Percent contributions of different elimination pathways in camizestrant
+disposition under different simulation scenarios
+
+Liver function cvP2a6 cyezca | cyezcis| cypzos | cyeaaa | cvesas | uctiaa | UcTIAS [Additional] Renal | Biliary
+liver Liver Liver Liver liver Liver Liver | Kidney | HLM | Clearance | Clearance
+Normal liver function | 0.35 0.36 0.16 0.28 53.01 0.78 2296 | 007 1341 5.69 2.79
+Moderate Hi 0.36 a7 0.24 43.63 187 21.28 0.15 19.48 787 4.41
+[Severe HI 0.33 075 0.13 40.77 092 10.10 023 29.70 | 937 6.97
+[Severe HV/ribo 0.48 101 0.15 12.46 289 13.87 038 453s | 1331 9.09
+
+Simulations were performed in Simcyp V24 using the Applicant's workspace adding the output of contributions of each pathway.
+
+Source: reviewer's analyses
+
+Figure 21 Predicted and observed camizestrant plasma concentration-time profiles and PK
+parameters following coadministration of a single 75 mg camizestrant with itraconazole
+
+Control Itraconazole | raconazole/Controt Predicted contiol arm Predicted itraconazole arm
+Trials - © Observed control arm Observed itraconazole arm
+Cae | AUCing | Cmae AUCinn | Cmax AUCint 100
+Observed| 45.1 821.2 618 | 1561.0 | 1.37 1.90
+Predicted} 42.1 894.2 59.6 | 1768.3 | 1.42 1.98
+Pred./Obs, 0.93 1.09 0.96 1.13 1.03 1.04
+
+10
+
+Asingle 75 mg dose of Camizestrant was coadministerec with itraconazole
+on Day 1 of a three-day, once daily 200 mg itraconazole regimen. The
+simulation was performed using the Applicant’s workspace except that the
+camizestrant PBPK mocel was replaced with the Reviewer's model. 1
+Crnaw» peak plasma concentration. 72 84 96 108 120 132 144
+AUC,» area under the plasma concentration-time curve to infinity. Time (h)
+
+Systemic Concentration (ngimL)
+
+Source: reviewer's analysis
+
+336
+Version date: March 1, 2024 (All NDA/BLA reviews)
+
+In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the Applicant,
+which do not necessarily reflect the positions of the FDA.
+
+The FDA review was conducted in conjunction with other regulatory authorities under Project ORBIS. The FDA
+collaborated with Australia’s Therapeutic Goods Administration (TGA), Brazilian Health Regulatory Agency
+(ANVISA), Health Canada (HC), Singapore’s Health Sciences Authority (HSA), and Switzerland’s Swissmedic
+(SMC). While the conclusions and recommendations expressed herein reflect the FDA’s completed review of the
+application, the applications may still be under review at the other regulatory agencies.
+
+Reference ID: 5864804
+

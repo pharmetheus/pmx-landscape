@@ -1,0 +1,139 @@
+NDA 217389
+
+OHTUVAYRE (ensifentrine)
+
+Table 67. Summary of Method Performanc«
+
+Method Validation
+
+Bioanalytical method validation ition of a PPT/UPLC-MS for the determination of RPLSS4 in human plasma (lithium heparin)
+report name, amendments, and 1355QB02
+
+hyperlinks
+
+‘Method description PPT/UPLC-MS/MS
+
+“Materials used for standard Biological matrix — human plasma (lithium heparin)
+
+calibration curve and Ensifentrine diluted for calibration standards: 5.00, 10.0, 40.0, 200, 700, 2000, 4000, 5000 pg/ml.
+concentration
+
+Validated assay range
+
+“Material used for quality controls
+and concentration
+
+Biological Matrix for QC’s was human plasma (lithium heparin)
+Concentrations of QC’s used were 5.00, 15.0, 250 and 3750 pg/mL
+
+‘Minimum required dilutions 1 in 10
+‘Source and lot of reagents RPLSS4" :
+Lot number AJO74C3 Lot 5602
+Retest date 17 Oct 2017 | Lot number Retest date 05 Dec 2021
+Retest date 31 Jan 2017 Lot number 1.1
+RPLSS4; Retest date: N/A.
+Lot Number: - 131112M
+Retest Date: - 12-January
+2018
+Regression model and weighting _ | Linear weighted 1/x”
+‘Validation parameters ‘Method Validation Summary Location
+‘Standard calibration curve ‘Number of standard calibrators from LLOQ to ULOQ | 8 1355QB02, Table 2
+performance during accuracy and ‘Cumulative accuracy (bias) from LLOQ to ULOQ | -1. |
+precision runs ‘Cumulative precision (%CV) from LLOQ to ULOQ | 2.6- 5.7
+Performance of QCs during ‘Cumulative accuracy (%bias) in 4 QCs | 5.01: 4.2 1355QB02, Table
+accuracy and precision runs 15.4:-0.7
+2542-12
+3790:-24
+Inter-batch %CV in 4 QCs | 5.01: 80
+154.93
+254: 5.6
+3790: 3.2
+Total Error [ N/A.
+
+‘Selectivity & matrix effect
+
+Selectivity was confirmed for ensifentrine and] Vin 6 independent control blank 1355QB02, Section
+plasma samples. No significant matrix effect was observed across 6 individual control | 12.4
+blank human plasma samples at low and high QC levels.
+
+Selectivity in the presence of {li/M(20 po/mL) - there were no significant
+interfering peaks observed at the retention times of ensifentrine and RPL5S4-d, in 5/6
+control blank human plasma samples examined
+
+Interference & specificity
+
+There were no significant peaks observed at the retention times of ensifentrine | NA
+OA
+
+and RPLS54-ds in the presence of 20 pg/mL 5 control black samples.
+
+‘Hemolysis effect
+
+QC low: 6.4% CV, 11.3% bias
+
+QC high: 3.1% CV, -0.5% bias
+
+‘No significant hemolysis effect was observed on the quantitation of ensifentrine in
+‘human plasma.
+
+'1355QB02, Section
+126.2
+
+Lipemic effect
+
+QC low: 3.5% CV, -2.0% bias
+
+QC high: 1.8% CV, 1.1% bias
+
+No significant hyperlipidemic effect was observed on the quantitation of ensifentrine in
+human plasma.
+
+|(2il4s1355QB02, Section
+1263
+
+Dilution linearity & hook effect
+
+‘The precision and ‘of diluted samples after a one in ten dilution (1:10 or 10-fold | ()Ms1355QB02, Section
+dilution) was within +15% bias of the nomial concentration with a precision within 15% | 12.3.4
+
+CV. This is considered to validate any dilution up to and including @ 1 in 10 dilution.
+Hook effect is not applicable in MS/MS methods of analysis.
+
+Bench-top/process stability
+
+Stable in human plasma stored up to 26 hours at nominally +22°C and |) | MMA4HS1355QB02, Section
+
+(OECo pp'mL) stored up to 25 hours at nominally +22°C 127
+
+‘Freeze-Thaw stability
+
+Stable in human plasma for four cycles at nominally -20°C/+22°C and JOY |
+(20, ) for four cycles at nominally -20°C/+22°C
+
+Long-term storage Confirmed up to 183 days at nominally -20°C
+
+Parallelism ‘Not applicable for MS/MS-based methods,
+
+‘Carry over For 3% Pitssissoan, Table 30
+Fe ‘maximum 0.0%
+
+For RPL554-d.: maximum 0.5%
+
+‘These results show acceptable carry over for ensifentrine WO @ana
+
+RPLSS4-ds.
+
+‘Source: Summary of Biopharmaceutical Studies, Table 13
+
+Abbreviations: CV, coefficient of variation; URSA TEER
+MS/MS, tandem mass spectrometry; N/A, not applical protein precipi -, quality control; ULOQ, upper limit of
+
+quantitation; UPLC, ultra-performance liquid chromatography
+
+LLOQ, lower limit of quantitation;
+
+104
+
+Integrated Review Template, version 3.0 (05/25/2022)
+
+Reference ID: 5403306

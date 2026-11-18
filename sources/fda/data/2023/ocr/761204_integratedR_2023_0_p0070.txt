@@ -1,0 +1,51 @@
+BLA 761204 and NDA 215211
+Pombiliti (cipaglucosidase alfa-atga) and Opfolda (miglustat)
+
+Patient ©©® (comparator group) was a statistical outlier with an improvement of 355 m at
+52 weeks from baseline in the 6MWD. He received an investigational anabolic steroid (ostarine)
+for approximately 9 months after his diagnosis with LOPD; he discontinued ostarine 2 to 4
+weeks before enrolling in ATB200-03. An assessment of his pulmonary function at 8 months
+before the trial showed that his FVC (% predicted) was 93%. Sixteen weeks before his trial
+enrollment his 6MWT was 585 m. However, at the two screening visits, his 6MWT was 337 and
+303 m and his FVC (% predicted) was 83% and 84%. At Week 52, his 6MWD and FVC (%
+predicted) were 657 m and 91%, representing an improvement of 355 m and 7.5%, respectively.
+This patient had the largest improvement from baseline in both 6MWD and FVC (% predicted)
+among the patients in the comparator group. Figure 10 shows the deviation of the patient’s
+6MWD observations from the range of improvement in the other patients. In previous trials of
+Lumizyme and Nexviazyme, the maximum improvement in 6MWD was 268 m at 52 weeks and
+262 m at 49 weeks, respectively, providing further evidence that a change exceeding 350 mis
+likely implausible. Clinical site inspections conducted by the FDA did not raise concerns for data
+integrity/quality issues for other patients.
+
+Figure 10. Observed 6MWD Change From Baseline Over Time, ATB200-03 (All Patients)
+
+12 Weeks If 26 Weeks il 38 Weeks li 52 Weeks |
+30} TE Subjecr: _(©0(6)
+Ohher Subjects
+
+Count
+
+0.
+
+a 1 1 1
+a a re ) 300250 00 3 wo 260 360
+6MWD Change from Baseline
+Source: Produced by the review team based on the adeff.xpt dataset, located at
+\WCDSESUB1\evsprod\BLA761204\0003\m5\datasets\atb200-03\analysis\adam\datasets
+Abbreviation: 6MWD, 6-minute walk distance
+
+Inclusion of this patient’s data leads to a highly skewed distribution, which violates the normality
+assumption relied on by the predefined MMRM analysis. A nonparametric approach would be
+more suitable for detecting a treatment difference when the assumption of normality is violated.
+The Wilcoxon rank-sum test was performed to test a difference in the distribution of the two
+treatment groups. This test, when including data from the outlier, yielded p=0.116 which is
+substantially smaller than the p=0.608 yielded by the primary analysis. In addition, the mean
+change in 6MWD when excluding the outlier and the median change in 6MWD over time reveal
+clear separation between the treatment groups, providing supportive evidence in favor of the
+cipa-mig group (Figure 1] and Figure 12). Even with the inclusion of the outlier, the primary
+endpoint numerically favors the cipa-mig group over the comparator group (estimated treatment
+difference of 5.33 m at Week 52).
+
+50
+
+Reference ID: 5061679

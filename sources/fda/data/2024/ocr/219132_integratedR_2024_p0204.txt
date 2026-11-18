@@ -1,0 +1,28 @@
+NDA 219132
+Aqneursa (levacetylleucine)
+
+Evaluation of Dosing Regimen
+
+The Applicant’s proposed dosing regimen is based on | body weight. |
+
+To estimate steady state PK profiles of
+levacetylleucine following the proposed dosing regimen, PopPK simulations were conducted
+using the reviewer’s PopPK model, which is similar to the Applicant’s. As body weight was the
+only significant covariate included in the PopPK model, simulations were conducted in virtual
+populations, each of which includes 1000 subjects whose body weight was sampled from
+uniformly distributed values within each body weight group. To generate the reference range for
+comparison, PopPK simulation was conducted based on a virtual NPC population (n=1000)
+sampled from the subjects with NPC from Trials IB1001-201 and IB1001-301. The red lines in
+Figure 28 to Figure 30 present 5“, mean, and 95" percentiles of the reference PK exposures
+(Cmax and daily AUC).
+
+The simulations show that PK exposure metrics (Cyax, and daily AUC) are generally similar
+across body weight groups 15 to <25 kg (dose group 3), 25 to <35 kg (dose group 4), and >35 kg
+(dose group 5). The proposed dosing regimens for patients weighing >15 kg are deemed
+adequate and supported by the efficacy and safety findings from Trial IB1001-301, and the
+similar PK exposures across body weight groups.
+
+192
+Integrated Review Template, version 4.0 (11/1/23)
+
+Reference ID: 5451862

@@ -1,0 +1,58 @@
+NDA 216403
+Filspari (sparsentan)
+
+Can PBPK Analyses Predict the Effects of Strong and Moderate CYP3A Inhibitors and
+Inducers on the PK of Sparsentan?
+
+Yes. The sparsentan PBPK model could be used to predict the effects of CYP3A inhibitors and
+inducers. The predicted effects of fluconazole and erythromycin on sparsentan exposure were
+similar to the observed effect of cyclosporine, a moderate CYP33A inhibitor (Table 101).
+Because efavirenz is not expected to induce intestinal P-gp (Mouly et al. 2002), the sparsentan
+PBPK model could also be used to predict the induction effect of efavirenz, and efavirenz was
+predicted to have minimal induction effect on sparsentan PK (Table 101). The effect of rifampin
+on sparsentan exposure may be underpredicted, which has minimal impact on the product
+labeling for the reasons detailed below.
+
+Reviewer’s Comments
+
+e To predict the effects of moderate CYP3A inhibitors and inducers on sparsentan PK, the
+fraction metabolized by CYP3A (fmcyp3a) is one of the key parameters that needs to be
+verified in the sparsentan PBPK model. The relative contribution of CYP3A4, CYP2C9, and
+CYP2E1 in hepatic metabolism was estimated to be 81.3%, 18.5%, and 0.2%, respectively,
+based on the metabolites identified in HLMs and their formation by recombinant CYP3A4,
+CYP2C9 and CYP2E1 (RE-021-Report020-2014-DMPK). Thus, the fmcyp3a value of 0.81
+was applied to the sparsentan PBPK mode. This model could reproduce the inhibitory effect
+of itraconazole on sparsentan which was not affected by the inhibition or induction
+parameters incorporated in the sparsentan PBPK model (Table 101). Therefore, the fin.cyp3a
+value is considered verified.
+
+e Itraconazole is an inhibitor of CYP3A and P-gp. Sparsentan is a substrate of CYP3A and P-
+gp. The observed effect of itraconazole on sparsentan PK could be due to inhibition of both
+CYP3A and P-gp.
+the kinetic parameters of the P-gp could not be verified. Sparsentan has a high permeability
+with a passive permeability value ranging from 13 to 20x 10° cm/s in the presence of the P-
+gp inhibitor verapamil (Study PCO-NC-018). The human ADME study showed that the
+fraction absorbed of sparsentan was close to 90%. These data suggest that P-gp may play a
+minimal role in sparsentan absorption following oral administration of a single 400-mg dose
+of sparsentan. Therefore, the observed effect of itraconazole on sparsentan PK is most likely
+due to CYP3A inhibition. In addition, the reviewer conducted a PBPK simulation to evaluate
+the effects of itraconazole on sparsentan following multiple doses of itraconazole and
+sparsentan using the submitted sparsentan PBPK model. The result showed that the
+inhibitory effects of itraconazole on sparsentan at steady state are similar to those observed
+following a single dose of itraconazole (Table 101).
+
+¢ To assess the potential of a P-gp inhibitor on sparsentan exposure, the Applicant ]
+
+. This approach is not acceptable a
+
+. However, a P-gp inhibitor is expected to have little effect on
+sparsentan PK because, as mentioned above, P-gp may play a minimal role in sparsentan
+absorption.
+
+e Predicted effect of rifampin on sparsentan: Rifampin is known to decrease the exposure of P-
+gp substrates by P-gp induction. Even though P-gp plays a minimal role in sparsentan
+
+176
+Integrated Review Template, version 3.0 (05/25/2022)
+
+Reference ID: 5128407

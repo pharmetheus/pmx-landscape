@@ -1,0 +1,41 @@
+2.4.2.2. Statistical Testing
+
+The statistical model used in the reviewer’s secondary analysis was a mixed-effects model which included
+sequence, period, treatment and first-order-carryover effect as fixed effects and subject as a random
+effect. The W test on residuals for both secondary endpoints were significant (p< 0.0007). Therefore, the
+normality of paired differences was further examined. Table 5 shows p-value of the W test and skewness
+for each paired difference for Overall Drug Liking Emax and Take Drug Again Emax.
+
+Table 5: The W-Test results for the pairwise comparisons for Overall Drug Liking Emax and Take
+Drug Again Emax (N=63)
+
+aun oes king Take Drug Again Emax
+skewness | p-value _| skewness _| p-value
+
+Z30-P -0.22 | 0.01060 0.56 | 0.00510
+Z30-T50 0.62 | 0.00473 2.26 | 0.00000
+Z30-T100 -0.23 | 0.00009 -0.18 | _0.00000
+Z30-T150 0.67 | 0.00000 1.43 | 0.00000
+$150-P -0.37 | 0.00093 0.41 | 0.00223
+$150-T50 0.55 0.00070 2.05 0.00000
+$150-T100 1.16 | 0.00000 1.30 | 0.00000
+$150-T150 1.84 | 0.00000 2.81 | 0.00000
+T50-P. 0.14 0.00008 -0.17 0.00004
+T100-P -0.36 | 0.00057 0.29 | 0.00410
+T150-P -0.53 | 0.00151 0.04 | 0.00805
+
+From the Table values, one may see that the W tests for all comparisons were highly significant. Based on
+the sponsor’s changes on the planned analyses (Section 9.8 of the study report), the t-test was only used
+if the distribution of the paired difference was normal or slightly skewed, i.e., skewness=0 to 0.5 for
+upper-tailed test: skewness = —0.5 to 0 for lower-tailed test: and skewness=—0.5 to 0.5 for two-tailed test.
+The cases with blue skewness satisfied the rules. The Sign test was used for the rest of comparisons.
+
+Table 6 shows the test results. The p-value of a failed test is in red. Note that the comparisons between
+any dose of ACT-541468 and placebo was performed, only when the comparisons between this dose and
+each positive control were significant. The comparison between 50 mg ACT-541468 and placebo was a
+two-tailed test. For this test, no difference between two treatments was in the null hypothesis. Therefore,
+the p-value in blue shows significant difference between 50 mg ACT-541468 and placebo.
+
+19
+
+Reference ID: 4859554

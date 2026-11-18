@@ -1,0 +1,57 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {BLA 761342}
+Talquetamab-tgvs
+
+FDA Table 37: Final Multivariate Cox Proportional Hazard Model of Overall Survival
+
+Covariate Hazard Ratio 95% Cl p value
+Cavgro1 above 513 ng/ml (yes versus no) 0.53 0.31, 0.89 0.016
+Baseline ALP (U/L x 1/10) 1.05 1.01, 1.09 0.007
+Baseline LDH (U/L x 1/100) 1.09 1.03, 1.16 0.005
+Baseline ECOG Score 1 or 2 (versus ECOG Score of 0) 2.33 1.28, 4.22 0.006
+High disease burden at baseline 1.73 1.03, 2.89 0.038
+
+ALP units were converted from U/L to U/L * 1/10 and LDH units were converted from U/L to U/L * 1/100 in order
+to allow for easier interpretation of hazard ratio.
+
+ALP = alkaline phosphatase; Cave ro1 = average concentration following first treatment dose; Cl = confidence
+interval; LDH = lactate dehydrogenase.
+
+Source: Reviewer analysis.
+
+FDA review did not identify any clear E-R associations with PFS or DOR across Cavg,awks OF
+Ctrough,fp1 quartiles, which is congruent with the Applicant’s analyses in Applicant Figure 20 and
+Applicant Figure 23.
+
+Overall, E-R efficacy analysis shows that higher talquetamab exposure was generally associated
+with better ORR in MonumenTAL-1 patients with RRMM and that the ORR plateaus at an
+exposure less than or equal to the median exposures following 0.4 mg/kg QW and 0.8 mg/kg
+Q2W. The E-R efficacy analysis supports both proposed dosage regimens (i.e., 0.4 mg/kg QW
+and 0.8 mg/kg Q2W).
+
+19.4.2.3. ER (safety) Executive Summary
+
+The FDA’s Assessment:
+
+The E-R safety analysis supports both the 0.4 mg/kg QW regimen and the 0.8 mg/kg Q2W
+regimen.
+
+Higher talquetamab exposures (i.e., Cavg and Cmax) are associated with higher incidence of
+dysgeusia, Grade 22 dysgeusia, skin toxicity, Grade 22 skin toxicity, skin exfoliation, nail toxicity,
+oral toxicity, and Grade 22 oral toxicity.
+
+After accounting for the difference in median treatment duration between regimens in Study
+MonumenTAL-1, the 0.8 mg/kg Q2W regimen had a higher risk of Grade 1 skin toxicity and
+Grade 1 skin exfoliation compared to 0.4 mg/kg QW which may be due to the higher Cavg or Cmax
+with the 0.8 mg/kg Q2W regimen. However, E-R safety analysis did not identify any major
+safety differences between the proposed regimens.
+
+19.4.2.4. ER (safety) Assessment Summary
+
+The Applicant’s Position:
+
+Version date: June 2022 (ALL NDA/ BLA reviews) 301
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5222858

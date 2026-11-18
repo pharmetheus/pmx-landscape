@@ -1,0 +1,86 @@
+NDA/BLA Multi-Disciplinary Review and Evaluation
+
+Tovorafenib (DAY101)
+
+19.4.2.2. Exposure-Response (efficacy) Assessment Summary
+
+Applicant’s Position
+
+Exposure-efficacy analysis using data from Arm 1 of FIREFLY-1 study was performed to evaluate
+the relationship between tovorafenib exposure and efficacy endpoints (ie, tumor response and
+tumor size). Tumor response was assessed by an IRC based on the RANO-HGG criteria and
+tumor size was assessed by the SPPD at each visit. The key findings of these analyses include:
+
+Table 69.
+
+General Information
+
+Goal of ER analysis
+
+To provide E-R relationship analysis that characterizes exposure-
+efficacy relationships in patients in Arm 1 of Study FIREFLY-1 for the
+following efficacy endpoints:
+
+. Tumor response (RANO-HGG by IRC)
+° Tumor size (SPPD)
+Study Included Arm 1 of FIREFLY-1 study
+Endpoints . Tumor response as assessed by IRC based on the RANO-
+
+HGG criteria (ie, complete and partial response [responder]
+versus stable disease, progressive disease, and not
+evaluable [non-responder]).
+
+. Tumor size time course data from each participant were
+modelled using either predicted tovorafenib concentration
+(Claret et al model) or steady-state tovorafenib exposure
+(Cmin Cmax, and AUC; Wang et al model). In addition,
+simplified models based on the maximum or mean SPPD
+percent change from baseline for each patient were also
+explored.
+
+No. of Patients (total, and with
+
+WN = 69 (tumor response)
+
+individual PK) N = 67 (tumor size — SPPD). Two subjects were excluded from the
+analysis as they had only baseline tumor size information.
+Individual PK was simulated using the final population PK model.
+Population General Tumor Response:
+Characteristics Age median: 8 years (range: 2 — 21 years)
+Table 65} Weight median: 31.5 kg (range: 14.2 — 93.4 kg)
+
+N = 36 (52.2%) male
+N = 36 (52.2%) White; N = 33 (47.8%) Asian/Black/
+other/unknown/multiple
+
+Pediatrics
+
+Exposure Metrics Explored (range)
+
+N= 14 (20.3%) 2 - <6 years
+
+N = 36 (52.2%) 6 - < 12 years
+
+N = 16 (23.2%) 12 - < 18 years
+©) 4)
+
+Crime Cmax, AUCs, TAE
+
+Covariates Evaluated
+
+In the absence of a relationship between tumor response and
+exposure, no covariate analysis was performed.
+
+Final Model Parameters
+
+Summary Acceptability
+[FDA’s comments]
+
+Model Structure
+
+Exposure-Tumor Response: Logistic | Yes
+Regression
+
+Reference ID: 5368881
+
+280

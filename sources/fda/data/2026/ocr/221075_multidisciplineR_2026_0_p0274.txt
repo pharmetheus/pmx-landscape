@@ -1,0 +1,57 @@
+NDA/BLA Multi-disciplinary Review and Evaluation NDA 221075
+Iberdomide (ZENBEXUS)
+
+building dataset from CC-220-MM-
+002 model evaluation of the full
+model shows that the model-predicted
+mean (90% CI) of MRD-negative CR
+at any time or >VGPR was consistent
+with the observed data as shown in
+Figure 30, indicating adequate model
+performance.
+
+Covariates and Clinical Significant covariate effects identified | Acceptable
+Relevance for MRD-negative CR at any time
+included high-risk cytogenetic
+abnormality, age above 70 years, and
+Asian race. Subjects with high-risk
+cytogenetic abnomnality and those
+aged above 70 years had a lower
+probability of achieving MRD-
+negative CR at any time, whereas
+subjects of Asian race had a higher
+probability compared with White
+subjects.
+
+Significant covariate effects identified
+for >VGPR included high-risk
+cytogenetic abnonmality, age above 70
+years, and ISS Stage II. The predicted
+probability of achieving >VGPR was
+lower in subjects with high-risk
+cytogenetic abnonnality, in those aged
+above 70 years, and in those with ISS
+Stage II compared with ISS Stage I.
+Effect of region was evaluated as a
+sensitivity analysis due to
+multicollinearity of region and race in
+the initial full model. Region,
+including North America, was not a
+significant covariate for achieving
+MRD-negative CR at any time and
+>VGPR. The effect of region (Asia vs.
+Europe) was borderline significant for
+achieving MRD-negative CR at any
+time, with the lower bound of the 95%
+Cl of the OR at 1.
+
+Simulation for Specific NA Acceptable
+Population
+
+275
+Version date: February 10, 2025 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5851050

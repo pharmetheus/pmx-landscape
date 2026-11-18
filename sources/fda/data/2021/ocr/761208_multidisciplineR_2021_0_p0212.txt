@@ -1,0 +1,65 @@
+BLA Multi-disciplinary Review and Evaluation {Biologics License Application (BLA) 761208}
+{tisotumab vedotin}
+
+100
+
+ADG . . MMAE
+
+2 gle Ee
+5 8s p *
+2 ee
+5 2 8
+3 —
+5 eo e :
+g * E
+5 8
+a 8
+2 84 |
+a
+
+2 3
+
+0 5 10 15 20
+
+Time afier dose (day)
+
+_ $7 MMAE
+a3 i gE 4
+Z# 8 eo
+s | 2
+5. 3 84
+5 27 S
+§ & ¢
+Q Ww
+29
+T T T T T T t—
+0 5 10 15 20 0 5 10 1 2 2 30 35
+Time after dose (day) Time after dose (day)
+
+The solid lines are median (red), and 5th and 95th percentiles (blue) of observed predictioncorrected
+ADC (left) or MMAE (right) concentrations (top and middle) or fraction of BQL
+
+concentrations (bottom). The shaded regions show the 90% confidence intervals on these
+
+quantities obtained by simulations. The simulated values were computed from 500 trials with
+dosing, sampling, and the covariate values of the analysis dataset.
+
+Source: Figure 99 in the Population PK Report.
+
+Covariate Effects: The effects of covariates on steady-state exposure (in Cycle 6) is illustrated in Figure
+18. ADC exposure was most influenced by weight, with higher exposure in heavier patients. MMAE
+exposure depended on 9 covariates. Tumor size had the strongest effect, with higher exposure in
+patients with higher tumor size. Several other covariates that are generally correlated with overall
+patients’ condition (albumin, ECOG, decrease of eGFR and hepatic impairment) also increased MMAE
+exposure. The combined effect of these covariates may more than double the exposure in patients with
+poor overall health status compared to exposure of the reference (healthier) subject. This is consistent
+with the high value of the upper bound of 90% prediction interval of MMAE exposure in the study
+population.
+
+211
+
+Version date: March 2021 (ALL NDA/ BLA reviews)
+Disclaimer: In this document, the sections labeled as “The Applicant’s Position” are completed by the Applicant
+and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 4858975

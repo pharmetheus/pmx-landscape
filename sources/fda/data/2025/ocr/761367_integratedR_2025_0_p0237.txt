@@ -1,0 +1,52 @@
+BLA 761367
+
+Andembry / garadacimab
+Table 107. Applicant Parameter Estimates From the Final ER Model
+Estimate 95% CL
+Structural model parameters
+BL hazard (1/h) exp(6;) Baseline HAE attack 0.00440 0.00381, 0.00510
+hazard
+ECS0 (ng/mL) exp(02) Concentration athalfof 303 160, 533
+the maximal effect
+Placebo exp(5) Placebo effect 0.728 0.621, 0.849
+Imax exp(6,)/(1+ exp(@;))_ Maximum inhibition of 1 FIXED
+the HAE attack hazard
+Hill exp(95) Hill coefficient 1.00 FIXED
+Covariate effect parameters
+BL HAE hazard ~ exp(9s) Age effect on BL HAE 1.01 1.00, 1.01
+Age (years) hazard
+EC50~ Age (years) exp(s) Age effect on EC50 0.987 0.961, 1.01
+BL HAE hazard ~ exp(Aiz) Japanese effect on BLHAE 0.789 0.486, 1.21
+Japanese hazard
+ECS0 ~ Japanese exp(s) Japanese effect on EC50 4.26 0.781, 19.5
+BLHAEhazard~ —_exp(0,s) Chinese effecton BLHAE 0.487 0.285, 0.868
+Chinese hazard
+ECS0 ~ Chinese exp(9,s) Chinese effect on EC50 1.05 0.125, 6.29
+BL HAE hazard ~ exp(Oi6) Male effect on BL HAE 1.05 0.861, 1.29
+Male hazard
+C50 ~ Male exp(9,7) Male effect on EC50 0.479 0.191, 1.25
+BLHAEhazard~ ——exp(O ja) Prior treatmenteffecton 1.28 0.967, 1.66
+Prior treatment BL HAE hazard
+ECS50 ~ Prior exp(O9) Prior treatmenteffecton 1.53 0.464, 4.69
+treatment ECS50
+BL HAE hazard ~ exp(O29) FXII HAE type effect on BL 0.946 0.593, 1.51
+FXII HAE type HAE hazard
+EC50~FXIIHAE ——exp(0.;) FXII HAE type effect on 451 56.2, 5020
+type EC50
+Estimate 95% Cl Shrinkage (%)
+Interindividual variance parameters
+IIV-BL HAE attack hazard Qa) 0.206 [CV%=47.9] 0.142, 0.289 28.6
+IIV-ECSO 22) 4.95 [CV%=1.18e+03] 3.20, 7.37 22.7
+
+Interindividual covariance parameters
+BL HAE attack hazard -EC50_ 2, 0.0445 [Corr=0.0407] _-0.228, 0.327 -
+Source: Applicant's ER Report, Tables S29 and S30.
+Confidence intervals based on 2.5th and 97.5th percentiles of sampling importance sampling resample.
+CV% of log-normal omegas=sqrt(exp(estimate) — 1) 100.
+Abbreviations: BL, baseline; Cl, confidence interval; corr, correlation coefficient, CV, coefficient of variation; ER, exposure-response;
+FXII, Factor XII; HAE, hereditary angioedema
+
+213
+Integrated Review Template, version 3.0 (05/25/2022)
+
+Reference ID: 5458438

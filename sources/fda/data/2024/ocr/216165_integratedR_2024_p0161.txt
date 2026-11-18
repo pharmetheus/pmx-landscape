@@ -1,0 +1,58 @@
+NDA 216165
+Cefepime-Enmetazobactam
+
+Exposure-Response Analysis
+
+Objectives
+
+To conduct PK-PD target attainment analyses to provide support for cefepime-enmetazobactam
+dose selection for the treatment of subjects with cUTI with varying degrees of renal function.
+
+Methods
+
+Data
+
+PK/PD target attainment analyses were carried out using simulated data with demographic data
+from subjects with cUTI infections in the Phase 3 trial AT-301. Approximately 8000 subjects
+were simulated per subject group. The distributions of demographic variables that resembled the
+observed target population. The dosing regimen for each group in the Monte-Carlo simulation
+was following that in Table 103.
+
+PK Exposure
+
+The final population PK model for cefepime and enmetazobactam was used to generate cefepime
+and enmetazobactam exposures.
+
+In Vitro Surveillance Data
+
+In vitro surveillance data for 9905 clinical isolates of enterobacterales, 1,165 clinical isolates of
+P. aeruginosa, and 583 clinical isolates of A. baumannii collected from relevant geographic areas
+worldwide over a period between 2017 and 2021 against cefepime-enmetazobactam with
+enmetazobactam fixed at 8 g/mL was used to interpret the findings of the PK/PD target
+attainment analyses. The MIC distributions for cefepime-enmetazobactam against
+enterobacterales and P. aeruginosa were used to interpret the PK/PD target attainment results and
+calculate overall percent probabilities of PK/PD target attainment.
+
+Nonclinical PK/PD Targets
+
+Table 105. Enmetazobactam and Cefepime Plasma PK/PD Targets
+Molecule Target
+
+Enmetazobactam 45% fT > C1=2 pg/mL
+
+Cefepime 60% or 68% fT > MIC=8 pg/mL
+
+Source: Applicant's population PK report AAI101-PK-21-01, Table 1, page 19
+Abbreviations: MIC, minimum inhibitory concentration; PD, pharmacodynamic; PK, pharmacokinetic; %fT, the percentage of time
+that unbound drug concentrations exceed a given threshold
+
+Percent Probabilities of PK/PD Target (%PTA) Attainment
+
+Percent probabilities of PK/PD target attainment by MIC were determined using free-drug
+plasma exposures. Using the above-described PK/PD targets and in vitro surveillance data, an
+algorithm was used to assess percent probabilities of PK/PD target attainment by MIC for the
+
+146
+Integrated Review Template, version 3.0 (05/25/2022)
+
+Reference ID: 5333102

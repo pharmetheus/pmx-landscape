@@ -1,0 +1,53 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {BLA 761344}
+{Tarlatamab}
+
+Scenario 1: 1mg on D1 followed by dose interruption
+
+1000.
+
+Cone (ng/mL)
+
+8
+
+‘ Clinical dosing regimen
+— Delayed dosing, re-priming not required
+Delayed dosing, re-priming required
+
+0 7 #14 2 2 35 42 49 56 63 70 77 84 91 98 105 112 119
+Time (day)
+
+The line displayed median and shaded area represented the 90% prediction interval, The red line
+display simulation of planned clinical dosing regimen, which is the reference concentration. The
+green line displays delayed dosing, re-priming not required (e.g., Dose 1 step-up 1 mg, Day 15
+target dose 10 mg, Day 22 target dose 10 mg, followed by planned dosing schedule). The blue
+line displays dosing, re-priming required, repeat step-dose schedule per Cycle 1 (e.g., simulation
+of step-up dose 1 1mg, day 16 step up dose 1mg, day 23 target dose 10mg, day 30 target dose
+10mg followed by planned dosing schedule).
+
+Source: Applicant’s response to FDA IR on 1/5/2024
+
+6.3.2.2 Is an alternative dosing regimen or management strategy required for
+subpopulations based on intrinsic patient factors (e.g. race, ethnicity,
+age, performance status, genetic subpopulations, etc.)?
+
+Data:
+
+See Section 6.2.2.2, Therapeutic Individualization.
+The Applicant's Position:
+
+None of the covariates evaluated in these analyses resulted in clinically meaningful
+changes in efficacy or safety and therefore no dose adjustment is recommended.
+
+The FDA’s Assessment:
+
+FDA agrees with Applicant’s position that there is no need for dose adjustment for the
+currently proposed indication based on age, BW, sex, race (White and Asian), mild or
+moderate renal impairment or mild hepatic impairment.
+
+111
+Version date: June 2022 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are
+
+completed by the Applicant and do not necessarily reflect the positions of the FDA.
+Reference ID: 5382024

@@ -1,0 +1,85 @@
+Figure 16. Individual (Post-hoc) Steady-State Normalized AUCO-24h Predictions vs Key Covariates -Final Model
+
+Dataset subset: Phase 3 Study PVT-2201-301 (Dermatomyositis), 15 and 30 mg QD [Normalized to 30 mg dose level]
+
+H n Median (IQR, 5-95th)
+
+All :
+AlLPosthoc Predictions SSeS SS 187 1930 |1060-3020, 531-4340}
+aale —————— 80 1900 [1010-2660, 478-8560]
+Female es 127 1940 [1140-3120, 563-4300]
+
+Race '
+white 0m 109 1800 |1010-2920, 474-4250}
+Black — 11 $290 [2370-3790, 1740-4300]
+Asian oo 16 1880 [1540-2760, 754-5640]
+Native American  —— 2 1870 (1450-2300, 1110-2640)
+‘Other Race a 19 2460 [1 160-3030, 344-4140]
+
+Body Weight Quartiles (kg) '
+
+Q1: 42.8-62 — 42 1710 [993-2980, 590-4660]
+0262-71 a 37 1680 1030-3020, 384-4860]
+Q3: 71-84.4 SSS 39 1930 |1070-2920, 531-3810]
+Q4: 84.4~126.5 SS SS 39 2400 |1520-3020, 785-4120]
+Alanine Transaminase Quartiles (UU/L) :
+Qt: 12-19 a a 41 1940 (1030-2940, 569-3920}
+Q2: 19-26 a 40 1740 [963-2940, 255-3720]
+Q3: 26-37 - 40 2150 |1010-3290, 603-5210}
+Q4: 37-171 a 36 2060 |1720-3159, 719-4320]
+eGFR Quartiles (mLimin/173m2) '
+‘Qt: 44.69-928 a 40 2140 [993-3390, 395~4450]
+Q2: 92.8-105.51 a 89-1680 [1 150-3160, 895-4070}
+Q3; 105.51-115.63 ees 89 1560 (986-2300, 411-3960]
+Q4: 11563-14931 SSS 99 2460 1880-3070, 710-4730]
+
+Renal Impairment (CDK-EP!) '
+
+Normal — ———————— 122 1850 [1070-2070, 562-4310]
+wild ss 83. 2120 [1020-3380, 502-4520]
+Moderato = 2 2320 [2140-2510, 1990-2680]
+
+Hepatic Funetion '
+
+Normal ooo 114 1820 |1020-040, 394~4340}
+Mild SS 43 2040 |1860-2840, 731~4310]
+
+2000 2000 4000 5000 ‘e000
+
+° 1000
+AUCO-24h,SS (ng*h/mL/mg)
+Reference value: AUCO-24hSS, 1830 ng'hinLing
+
+Boxes: Median and interquartile range (25% and 75%). Whiskers: 5% and 95" percentiles.
+
+Reference: Population PK Report: PVT-2201-301-PPK-1; Figure 18; Page no. 60
+
+Table 36. Single Dose and Steady State Brepocitinib Exposure Metrics (Based on Post-Hoc Parameter Estimates)
+Across All Subjects in the Phase 3 Study in Patients with Dermatomyositis (PVT-2201-301) by Dose
+
+PK metric Bepocitinib Dose N Mean (SD) Median Min-Max —25th- 75th Sth-@5th gM (gSD) —_ gCV (%) __ gMR (%)
+
+AUCO-24h 15 77 910 (495) 852 0.263 - 2080 526-1280 239-1680 696 (3.06) 158.0 100
+20 80 1970 (1110) 1870 81 - 5950 990-2680 418-2780 100 (2.11) 86.7 230
+AUCO-24hss 15 77 1030 (605) 922 95.7- 2590 532-1470 266-2080 842 (2) 785 100
+30 80 2270 (1450) 2000 169-8540 1100 - 3060 589-4380 1810 (2.11) 86.2 215
+Cmax 15 77 978 (41.8) 106 0.0112-182 733-124 20-154 76.3 (2.35) 182.0 100
+30 80-206 (88.1) 212 4.12 - 424 142-275 454-333 177 (2.02) 80.2 232
+Cima ss 15 77 108 (48) 112 3.99-210 772-143 265-175 91.4 (2) 789 100
+20 80 230 (106) 233 11.6 - 502 152-308 55.3- 384 108 (1.01) 72.4 27
+Cmin,24h 15 T? 9.15 (8.64) 5.95 0.0112 - 32.7 241-137 0.746- 26.1 4.99 (3.83) 225.0 100
+30 80 21.6 (21.5) 16.4 0.00805 -123 499-32 0.26- 56.4 108 (4.74) 320.0 216
+Cmin,ss 15 7 u2(1) 66 0.651 - 42 271-158 6.29 (2.28) 1760 100
+30 80 25.7 (294) 18.5 0.0184- 1825.89 - 37.8 129 (467) 313.0 205
+
+AUCO-24h: Single/first dose 24h exposure (ng*h/mL). Cmax: Single/first dose Cmax (ng/mL). Cmin,24h: Single/first dose 24h Cmin (ng/ml).
+AUCO-24,ss: Stoady-stato exposure (ng*h/mL). Cmax,ss: Steady-state Cmax (ng/mL). Cmin,ss: Stoady-stato Cmin (ng/mL). N: Uniquo
+Individuals. Mean: Arithmetic mean. SD: Standard deviation. Median: Median value. Min - Max: Minimum and maximum value, 25th
+= T5th: Interquartile range (IQR). 5th - 95th: 5th to 95th percentile range. gM: Geometric mean, gSD: Geometric standard deviation. gCV (%):
+Geometric coefficient of variation. gMR (%): Geometric mean ratio. Reference for gMR is 15 mg. NA: Not available.
+
+Reference: Population PK Report: PVT-2201-301-PPK-1; Table 12; Page no. 59
+
+43
+
+Reference ID: 5859282

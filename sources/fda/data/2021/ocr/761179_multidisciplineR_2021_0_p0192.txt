@@ -1,0 +1,47 @@
+BLA Multidisciplinary Review and Evaluation
+BLA 761179
+Rylaze (JZP-458)
+
+The unexplained biases in CL/F and V/F when plotted against identified covariates was minimal
+in the final model (Figure 19).
+
+Figure 19 Unexplained Variabilities in Apparent Clearance and Volume of Distribution Plotted
+Against the Identified Significant Covariates in the FDA’s Final PopPK Model.
+
+1 1 i 1 1 i i i 1 1
+
+06 or 06 4 -
+o4 2 08 %o [ 04 - ° | 057
+rs] 02 eT oD 02 *r & oo
+6 005 oS + 6 oo4 L >
+2021 Be f + 2 o24 L ~ -054
+= 8 So =
+04 ey TT “04 41 ~
+T T T T T
+0.5 1.0 1.5 20 25 12367 0.5 1.0 1.5 2.0 2.5
+2
+BSA (m2) Race BSA (m?)
+
+IV: Inter-individual variability; CL/F: apparent clearance; V/F: apparent volume of distribution.
+Race: 1=White, 2=Black or African American; 3=Asian; 6=Declined to State, 7=Other.
+Source: FDA’s analysis.
+
+In general, the established final PopPK model based on FDA’s independent analysis described
+well the observed SAA data both above and below LLOQ from 85 patients in Cohorts 1a and 1b
+of Study 201. The impact of BSA (0.44 to 2.53 m2) on CL/F and V/F supported the Applicant’s
+proposed BSA-based dosing regimen. Black (n=10) and Asian (n=5) patients had 28.8% lower CL/F
+compared to White (n=61) patients. See Section 14.4.4 for further discussion on the need of dose
+adjustment based on race. There were no differences in CL/F between Hispanic (n=28) and Non-
+Hispanic (n=53) patients. There were no clinically significant differences in PK of JZP-458 SAA
+based on age (1 to 52 years), weight (9 to 131 kg), or sex after the dose was adjusted by BSA.
+Therefore, no dosage modification is recommended based on age, weight, sex, or ethnicity.
+
+The final PopPK model was used to generate the individual PK parameters, which are summarized
+in Table 69.
+
+200
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA. The FDA's position is highlighted in gray.
+
+Reference ID: 4819545

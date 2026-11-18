@@ -1,0 +1,49 @@
+BLA 761134
+Ryzneuta (efbemalenograstim alfa-vuxw)
+
+Since the clinical efficacy endpoint, DSN is count data, both Poisson and Zero-inflated Poisson
+(ZIP) regression models were used for the E-R analysis. ZIP model showed a better prediction of
+observed DSN than the Poisson model. However, none of efbemalenograstim PK exposures was
+found a statistically significant predictor of DSN. As shown in the Figure 50 as an example, there
+was no significant E-R relationship between logarithm transformed AUC21a and DSN.
+
+Figure 50. Exposure-Response Analysis for Duration of Severe Neutropenia Using Zero Inflated
+Poisson Model
+
+5
+4
+3 .
+8
+rd 2 ec coom
+(=)
+1 ° eames ce @
+0 a
+0 2 4 6 8
+Log(AUCz1a)
+
+Source: Reviewer’s analysis
+
+Despite of different efbemalenograstim PK exposures used for E-R analysis, Reviewer’s analysis
+results were consistent with the Applicant’s E-R analysis results, which showed no significant E-
+R relationship for efficacy at the proposed dose of 20 mg. The flat E-R relationship for efficacy
+endpoints may imply that the effectiveness of efbemalenograstim reached the plateau, which
+seems to support the proposed dose (20 mg).
+
+14.5.2.2. Summary of Applicant’s Exposure-Response for
+Safety
+
+The dataset for the safety E-R analysis of efbemalenograstim comprised 196 subjects from trial
+GC-627-05. One subject from the efbemalenograstim treatment group was not included in this
+analysis due to lack of post hoc PK parameters. There was no missing safety endpoint data. The
+safety E-R analysis dataset covered a body weight range between 45 and 137 kg and an age
+range of 28 and 83 years old. Table 127 shows statistical summaries of baseline continuous
+covariates for the evaluable subjects, and Table 128 shows statistical summaries of baseline
+categorical covariates. The following safety endpoints were included in the E-R analysis, grade
+>3 treatment-emergent adverse events (TEAE), grade >2 alopecia, grade >2 nausea, grade >2
+bone pain, grade >2 asthenia, grade >2 leukopenia, and grade >2 thrombocytopenia. The
+Applicant concluded that no statistically significant E-R relationship was identified for these
+
+239
+Integrated Review Template, version 3.0 (05/25/2022)
+
+Reference ID: 5278513

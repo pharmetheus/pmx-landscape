@@ -1,0 +1,63 @@
+Pediatrics (if
+any)
+
+Not applicable
+
+Dose(s) Included
+
+Planned: 30 mg QD and 45 mg QD; Pooled: up to 180 mg daily.
+
+Exposure Metrics Explored (range)
+
+Planned: Individual predicted steady-state AUC(0-t) and Cmax
+
+were explored
+Pooled: Total daily dose, individual predicted
+
+Cavg, and treatment effect (i.e., step function Dose > 0 yes/no).
+
+Covariates Evaluated
+
+* Continuous Covariates: age, BMI,
+baseline liver transaminase level
+
+* Categorical Covariates: Race, smoking status, diabetes mellitus
+history (Smoking
+
+status was unknown in Study ESN364_HF_204 and not
+previously identified as predictive of
+
+liver transaminase elevations and was therefore not
+
+investigated in the pooled dataset.)
+
+Final Model Parameters
+
+Summary Acceptability
+
+[FDA’s
+comments]
+
+Model Structure
+
+For safety event endpoints: Cox regression Acceptable
+
+model
+Model Parameter Estimates Applicant - Table 7 and 8 Acceptable
+Model Evaluation Applicant - Figure IV and 21 Acceptable
+
+Covariates and Clinical Relevance
+
+Of the covariates tested, only baseline ALT Acceptable
+and baseline AST were identified as
+
+statistically significant covariates. Since
+baseline ALT and baseline AST were highly
+
+correlated and the model with baseline ALT
+provided a better fit, the model including
+
+Reference ID: 5083095
+
+133
+

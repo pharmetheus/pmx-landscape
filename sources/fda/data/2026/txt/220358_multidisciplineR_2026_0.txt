@@ -1,0 +1,3779 @@
+CENTER FOR DRUG EVALUATION AND
+RESEARCH
+APPLICATION NUMBER:
+
+220358Orig1s000
+MULTI-DISCIPLINE REVIEW
+Summary Review
+Clinical Review
+Non-Clinical Review
+Statistical Review
+Clinical Pharmacology Review
+
+NDA Multi-disciplinary Review and Evaluation NDA 220358
+milsaperidone
+
+NDA/BLA Multi-Disciplinary Review and Evaluation
+
+Application Type
+Application Number(s)
+Priority or Standard
+Submit Date(s)
+Received Date(s)
+PDUFA Goal Date
+Division/Office
+Review Completion Date
+Established/Proper Name
+(Proposed) Trade Name
+Pharmacologic Class
+Code name
+Applicant
+Doseage form
+
+Applicant proposed Dosing
+Regimen
+
+NDA
+220358
+Standard
+02/21/2025
+02/21/2025
+02/21/2026
+Division of Psychiatry/Office of Neuroscience
+02/20/2026
+Milsaperidone
+BYSANTI
+Atypical antipsychotic
+VHX-896
+Vanda Pharmacueticals
+Tablet
+Schizophrenia
+Starting dosage: 1 mg twice daily
+Recommended dosage: 6 mg to 12 mg twice daily
+
+Bipolar mania
+Starting dosage: 1 mg twice daily
+Recommended dosage: 12 mg twice daily
+Applicant Proposed Treatment of schizophrenia in adults
+Indication(s)/Population(s) Acute treatment of manic or mixed episodes associated with
+bipolar I disorder in adults
+Applicant Proposed
+SNOMED CT Indication 58214004 Schizophrenia (disorder)
+Disease Term for each 371596008 Bipolar I disorder (disorder)
+Proposed Indication
+Recommendation on
+Approval
+Regulatory Action
+Recommended Treatment of schizophrenia in adults
+Indication(s)/Population(s) Acute treatment of manic or mixed episodes associated with
+(if applicable) bipolar I disorder in adults
+Recommended SNOMED
+CT Indication Disease 58214004 Schizophrenia (disorder)
+Term for each Indication 371596008 Bipolar I disorder (disorder)
+(if applicable)
+Schizophrenia
+Recommended Dosing Starting dosage: 1 mg twice daily
+Regimen Recommended dosage: 6 mg to 12 mg twice daily
+
+Version date: October 12, 2018
+Reference ID: 5749703
+
+1
+
+NDA Multi-disciplinary Review and Evaluation NDA 220358
+milsaperidone
+Bipolar mania
+Starting dosage: 1 mg twice daily
+Recommended dosage: 12 mg twice daily
+
+Version date: October 12, 2018
+Reference ID: 5749703
+
+2
+
+NDA Multi-disciplinary Review and Evaluation NDA 220358
+milsaperidone
+
+Table of Contents
+Table of Tables .............................................................................................................................. 5
+Table of Figures ............................................................................................................................. 6
+Reviewers of Multi-Disciplinary Review and Evaluation................................................................ 7
+Signatures ..................................................................................................................................... 9
+Glossary ...................................................................................................................................... 10
+1
+
+Executive Summary.............................................................................................................. 12
+Product Introduction .................................................................................................... 12
+Conclusions on the Substantial Evidence of Effectiveness ............................................ 12
+Benefit-Risk Assessment ............................................................................................... 13
+Patient Experience Data ............................................................................................... 17
+
+2
+
+Therapeutic Context ............................................................................................................ 18
+Analysis of Condition .................................................................................................... 18
+Analysis of Current Treatment Options ........................................................................ 20
+
+3
+
+Regulatory Background ........................................................................................................ 23
+U.S. Regulatory Actions and Marketing History ............................................................ 23
+Summary of Presubmission/Submission Regulatory Activity ........................................ 23
+
+4
+
+Significant Issues from Other Review Disciplines Pertinent to Clinical Conclusions on
+Efficacy and Safety ............................................................................................................... 26
+Office of Study Integrity and Surveillance (OSIS) .......................................................... 26
+Product Quality ............................................................................................................. 26
+Clinical Microbiology .................................................................................................... 26
+Devices and Companion Diagnostic Issues ................................................................... 26
+
+5
+
+Nonclinical Pharmacology/Toxicology ................................................................................. 27
+Executive Summary ...................................................................................................... 27
+Referenced NDAs, BLAs, DMFs ..................................................................................... 27
+Impurities Justification ................................................................................................. 27
+
+6
+
+Clinical Pharmacology .......................................................................................................... 32
+Executive Summary ...................................................................................................... 32
+Summary of Clinical Pharmacology Assessment ........................................................... 32
+Clinical Pharmacokinetics ...................................................................................... 34
+General Dosing and Therapeutic Individualization ................................................ 35
+Comprehensive Clinical Pharmacology Review............................................................. 35
+Clinical Pharmacology Questions........................................................................... 35
+
+Version date: October 12, 2018
+Reference ID: 5749703
+
+3
+
+NDA Multi-disciplinary Review and Evaluation NDA 220358
+milsaperidone
+7
+
+Sources of Clinical Data and Review Strategy ...................................................................... 40
+Table of Clinical Studies ................................................................................................ 40
+Review Strategy ............................................................................................................ 42
+
+8
+
+Clinical Review of Individual Trials and Review of Safety ..................................................... 43
+Review of Safety ........................................................................................................... 43
+Safety Review Approach ........................................................................................ 43
+Review of the Safety Database .............................................................................. 43
+Adequacy of Applicant’s Clinical Safety Assessments ............................................ 43
+Safety Results ........................................................................................................ 44
+Analysis of Submission-Specific Safety Issues ........................................................ 48
+Clinical Outcome Assessment (COA) Analyses Informing Safety/Tolerability ........ 48
+Safety Analyses by Demographic Subgroups ......................................................... 48
+Additional Safety Explorations............................................................................... 48
+Safety in the Postmarket Setting ........................................................................... 50
+Integrated Assessment of Safety .................................................................... 50
+Conclusions and Recommendations ............................................................................. 50
+
+9
+
+Advisory Committee Meeting and Other External Consultations ........................................ 51
+
+10 Pediatrics ............................................................................................................................. 52
+11 Labeling Recommendations ................................................................................................. 55
+Prescription Drug Labeling ........................................................................................ 55
+12 Risk Evaluation and Mitigation Strategies (REMS) ............................................................... 57
+13 Postmarketing Requirements and Commitment ................................................................. 58
+14 Division Director (Clinical) Comments.................................................................................. 59
+15 Office Director Comments ................................................................................................... 60
+16 Appendices .......................................................................................................................... 61
+References ................................................................................................................ 61
+Financial Disclosure ................................................................................................... 63
+Nonclinical Pharmacology/Toxicology....................................................................... 63
+Clinical Pharmacology ............................................................................................... 64
+Additional Clinical Outcome Assessment Analyses ................................................... 86
+
+Version date: October 12, 2018
+Reference ID: 5749703
+
+4
+
+NDA Multi-disciplinary Review and Evaluation NDA 220358
+milsaperidone
+
+Table of Tables
+Table 1. FDA-Approved Medications for the Acute Treatment of Manic or Mixed Episodes
+Associated With Bipolar I Disorder, Including Antipsychotics as Monotherapy and/or Adjunctive
+Therapy ....................................................................................................................................... 22
+Table 2. Statistical comparison of pharmacokinetic parameters for milsaperidone and
+iloperidone after oral administration of VHX-896, 3 × 1 mg, and Iloperidone, 3 × 1 mg, in healthy
+participants ................................................................................................................................. 36
+Table 3. Statistical comparison of steady-state pharmacokinetic parameters for milsaperidone
+and iloperidone after oral administration of VHX-896 and Iloperidone at 12 mg BID in
+participants with schizophrenia or bipolar I disorder .................................................................. 37
+Table 4. Statistical comparison of pharmacokinetic parameters for milsaperidone and
+Iloperidone after oral administration of VHX-896, 2 × 1 mg, under fed and fasted conditions in
+healthy male and female participants. ........................................................................................ 39
+Table 5. Listing of Clinical Trials Relevant to NDA 220358........................................................... 41
+Table 6. Overview of Bioanalytical Method Validation Parameters for the Determination of
+Milsaperidone in Human K2EDTA Plasma (Method 18037). ....................................................... 64
+Table 7. Overview of Bioanalytical Method 18037 Validation Parameters for the Determination
+of Iloperidone in Human K2EDTA Plasma (Method 18037)......................................................... 66
+Table 8. Overview of Bioanalytical Method Validation Parameters for the Determination of P95
+in Human K2EDTA Plasma (Method 18037). ............................................................................... 68
+Table 9. Overview of Bioanalytical Method Validation Parameters for the Determination of
+Milsaperidone in Human K2EDTA Plasma ( (b)
+(4)41907-01) ............................................................ 69
+Table 10. Overview of Bioanalytical Method Validation Parameters for the Determination of
+Iloperidone in Human K2EDTA Plasma ( (b)
+(4)41907-01) ................................................................. 72
+Table 11. Overview of Bioanalytical Method Validation Parameters for the Determination of P95
+(b)
+in Human K2EDTA Plasma ( (4)41907-01) .................................................................................... 75
+Table 12. Statistical comparison of pharmacokinetic parameters for P95 after oral
+administration of VHX-896, 3 × 1 mg, and Iloperidone, 3 × 1 mg, to healthy male and female
+participants ................................................................................................................................. 80
+Table 13. Statistical comparison of pharmacokinetic parameters for P95 after oral
+administration of VHX-896, 2 × 1 mg, under fed and fasted conditions...................................... 82
+Table 14. Statistical comparison of steady-state pharmacokinetic parameters for P95 after oral
+administration of 12 mg VHX-896 and iloperidone tablets BID in participants with schizophrenia
+or bipolar I disorder .................................................................................................................... 85
+
+Version date: October 12, 2018
+Reference ID: 5749703
+
+5
+
+NDA Multi-disciplinary Review and Evaluation NDA 220358
+milsaperidone
+
+Table of Figures
+Figure 1. Geometric mean plasma concentrations of milsaperidone and iloperidone after oral
+administration of VHX-896 (3 × 1 mg) and iloperidone (3 × 1 mg) in healthy participants.......... 36
+Figure 2. Geometric mean steady-state plasma milsaperidone and iloperidone concentrations
+after oral administration of VHX-896 and Iloperidone at 12 mg BID in participants with
+schizophrenia or bipolar I disorder. ............................................................................................ 37
+Figure 3. Geometric mean plasma concentrations of milsaperidone and iloperidone after oral
+administration of VHX-896, 2 × 1 mg, under fed and fasted conditions in healthy male and
+female participants. .................................................................................................................... 38
+Figure 4. Geometric mean plasma concentrations of P95 after oral administration of VHX-896, 3
+× 1 mg, and iloperidone, 3 × 1 mg, in healthy male and female participants .............................. 80
+Figure 5. Geometric mean plasma concentrations of P95 after oral administration of VHX-896, 2
+× 1 mg, under fed and fasted conditions..................................................................................... 82
+Figure 6: Overview of Study Design for Study VP-VHX-896-1103 ................................................ 83
+Figure 7. Geometric mean steady-state plasma P95 concentrations after oral administration of
+12 mg VHX-896 and iloperidone tablets BID in participants with schizophrenia or bipolar I
+disorder ....................................................................................................................................... 85
+
+Version date: October 12, 2018
+Reference ID: 5749703
+
+6
+
+NDA Multi-disciplinary Review and Evaluation NDA 220358
+milsaperidone
+
+Reviewers of Multi-Disciplinary Review and Evaluation
+Regulatory Project Manager
+Nonclinical Reviewer
+Nonclinical Team Leader
+Nonclinical Supervisor
+Division of Pharmacology/Toxicology for
+Neurosciene Director
+Office of Clinical Pharmacology Reviewer(s)
+Office of Clinical Pharmacology Team Leader(s)
+Clinical Reviewer
+Clinical Team Leader
+Statistical Reviewer
+Statistical Team Leader
+Cross-Disciplinary Team Leader
+Division Director (DP)
+Office Director (ON)
+
+Additional Reviewers of Application
+
+Office of Pharmaceutical Quality (OPQ)
+
+Microbiology
+Office of Prescription Drug Promotion (OPDP)
+Office of Scientific Investigations (OSI)
+Office of Surveillance and Epidemiology (OSE)/
+Division of Epidemiology (DEPI)
+OSE/ Division of Medication Error Prevention and
+Analysis (DMEPA)
+OSE/ Division of Risk Management (DRM)
+OSE/Division of Pharmacovigilence (DPV)
+Version date: October 12, 2018
+Reference ID: 5749703
+
+7
+
+Shin-Ye (Sandy) Chang
+Eric Maltbie
+Antonia Dow
+Ikram Elayan (secondary)
+Dan Mellon (acting, tertiary)
+Li Tan
+Venkateswaran ChithambaramPillai
+Paul Bossie
+Martine Solages
+N/A
+N/A
+Martine Solages
+Tiffany R Farchione
+Teresa Buracchio
+
+Drug Substance – Zhixing Shan
+(primary) and Sam (Sukhamaya) Bain
+(secondary)
+DS Supervisor - Donna Christner
+Drug Product – Eric Bow (primary) and
+Valerie Amspacher (secondary)
+DP Supervisor – Julia Pinto
+Process and Facilities – Jinal Dadhania
+(primary) and Jingbo Xiao (secondary)
+Biopharm – Jia Leo (primary) and
+Ta-Chen Wu (secondary)
+ATL – Valerie Amspacher
+RBPM – Teshara Bouie
+N/A
+Rachael Oyewole
+N/A
+Po-Yin Chang/Yandong Qiang
+Amy Bao/Sevan Kolejian
+Stephanie Olumba/Carolyn Tieu
+Rebecca Owings/Jamie Klucken
+
+NDA Multi-disciplinary Review and Evaluation NDA 220358
+milsaperidone
+Other:
+Division of Pediatrics and Maternal Health (DPMH)
+
+RPM: Anissa Davis-Williams
+CPMS: George Greeley
+MO: Ndidi Nwokorie
+TL: Mona Khurana
+DD: John Alexander
+
+Version date: October 12, 2018
+Reference ID: 5749703
+
+8
+
+NDA Multi-disciplinary Review and Evaluation NDA 220358
+milsaperidone
+
+Signatures
+See archived signatory memos for each discipline.
+
+Version date: October 12, 2018
+Reference ID: 5749703
+
+9
+
+NDA Multi-disciplinary Review and Evaluation NDA 220358
+milsaperidone
+
+Glossary
+AC
+ADME
+AE
+AI
+ALT
+APA
+AR
+AST
+AUC
+BPD-I
+BRF
+CDER
+CDTL
+CFR
+Cmax
+CMC
+CPCA
+CSR
+CSS
+DMSO
+DPMH
+DSM-5-TR
+ECG
+eCTD
+EPA
+EPS
+FDA
+FGA
+GCP
+GRAS
+ICH
+IND
+iPSP
+MDE
+MRHD
+NDA
+NDSRIs
+NME
+NMT
+
+advisory committee
+absorption, distribution, metabolism, excretion
+adverse event
+acceptable intake
+alanine aminotransferase
+American Psychiatric Association
+adverse reaction
+aspartate aminotransferase
+area under the curve
+bipolar I disorder
+Benefit Risk Framework
+Center for Drug Evaluation and Research
+Cross-Discipline Team Leader
+Code of Federal Regulations
+peak plasma concentration
+chemistry, manufacturing, and controls
+carcinogenic potency categorization
+clinical study report
+Controlled Substance Staff
+dimethyl sulfoxide
+Division of Pediatric and Maternal Health
+Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition, Text
+Revision
+electrocardiogram
+electronic common technical document
+United States Environmental Protection Agency
+extrapyramidal symptoms
+Food and Drug Administration
+first-generation antipsychotic
+good clinical practice
+generally recognized as safe
+International Conference on Harmonisation
+Investigational New Drug
+initial Pediatric Study Plan
+maximum daily exposure
+maximum recommended human dose
+new drug application
+nitrosamine drug substance related impurities
+new molecular entity
+no more than
+
+Version date: October 12, 2018
+Reference ID: 5749703
+
+10
+
+NDA Multi-disciplinary Review and Evaluation NDA 220358
+milsaperidone
+NOEL
+OCP
+OPQ
+OSE
+OSI
+PI
+PK
+PMC
+PMR
+PP
+PPI
+PREA
+PRO
+PSP
+(Q)SAR
+QTcF
+REMS
+SAE
+SAP
+SGA
+sNDA
+ULN
+
+no-observed-effect level
+Office of Clinical Pharmacology
+Office of Pharmaceutical Quality
+Office of Surveillance and Epidemiology
+Office of Scientific Investigation
+prescribing information
+pharmacokinetics
+postmarketing commitment
+postmarketing requirement
+per protocol
+patient package insert (also known as Patient Information)
+Pediatric Research Equity Act
+patient reported outcome
+Pediatric Study Plan
+quantitative structure-activity relationship
+QT interval as corrected by Fridericia’s method
+risk evaluation and mitigation strategy
+serious adverse event
+statistical analysis plan
+second-generation antipsycotic
+supplemental new drug application
+upper limit of normal
+
+Version date: October 12, 2018
+Reference ID: 5749703
+
+11
+
+NDA Multi-disciplinary Review and Evaluation NDA 220358
+milsaperidone
+
+1 Executive Summary
+Product Introduction
+Milsaperidone (P88, VHX-896; proposed trade name: Bysanti) is an atypical antipsychotic that
+rapidly non-enzymatically interconverts in vivo with iloperidone, which is an atypical
+antipsychotic approved for the treatment of schizophrenia in adults and for the acute
+treatment of manic or mixed episodes associated with bipolar I disorder (BPD-I) in adults (trade
+name: Fanapt, NDA 022192). Milsaperidone and iloperidone have similar in vitro receptor
+binding profiles including antagonist activity at dopamine-2, serotonin-2, and alpha-adrenergic
+receptors. The Applicant proposes to rely upon the Agency’s previous findings of safety and
+effectiveness of iloperidone for the same indications; the Applicant owns the rights to
+iloperidone data.
+The Applicant plans to supply milsaperidone as 1-, 2-, 4-, 6-, 8-, 10-, and 12-mg tablets for oral
+administration. The proposed dosing regimen follows that of iloperidone, with an up-to-7-day
+titration from 1 mg twice daily to the recommended range of 6 mg to 12 mg twice daily for
+schizophrenia, and a 5-day titration from 1 mg twice daily to the recommended 12 mg twice
+daily for manic or mixed episodes associated with BPD-I. A reduction in dosage by one-half is
+recommended for use in patients who are known CYP2D6 poor metabolizers or if
+coadministered with strong CYP2D6 or CYP3A4 inhibitors.
+
+Conclusions on the Substantial Evidence of Effectiveness
+Substantial evidence of effectiveness for milsaperidone for the treatment of schizophrenia in
+adults and for the acute treatment of manic or mixed episodes associated with BPD-I in adults is
+provided by the Agency’s previous findings of safety and effectiveness for iloperidone and the
+establishment of a scientific bridge between milsaperidone and iloperidone using
+pharmacokinetic data.
+The pharmacokinetic comparative bioavailability studies VP-VHX-896-1101 (single dose
+crossover of 3x1-mg tablets in healthy subjects) and VP-VHX-896-1103 (steady-state crossover
+at 12 mg twice daily in subjects with schizophrenia or BPD-I) demonstrated that an adequate
+scientific bridge has been established between milsaperidone and iloperidone. Therefore,
+substantial evidence of effectiveness is established for product approval.
+
+Version date: October 12, 2018
+Reference ID: 5749703
+
+12
+
+NDA Multi-disciplinary Review and Evaluation NDA 220358
+milsaperidone
+
+Benefit-Risk Assessment
+Benefit-Risk Summary and Assessment
+NDA 220358 for milsaperidone (proposed trade name: Bysanti) relies upon the Agency’s previous findings of safety and effectiveness for
+iloperidone (trade name: Fanapt, NDA 022192), and the pharmacokinetic bridge that was established between iloperidone and the proposed
+product, milsaperidone. Therefore, the safety profile and effectiveness for milsaperidone are expected to be similar to iloperidone. No new
+safety issues were identified from the Applicant’s pharmacokinetic (PK) studies. The benefit-risk profile of milsaperidone does not differ from
+iloperidone. This assessment supports marketing approval of milsaperidone for the treatment of schizophrenia in adults and for the acute
+treatment of manic or mixed episodes associated with bipolar I disorder in adults.
+Dimension
+
+Analysis of
+Condition
+
+Evidence and Uncertainties
+
+Schizophrenia
+Schizophrenia and BPD-I are a serious, chronic
+conditions associated with severe symptoms
+• Schizophrenia is a serious, chronic psychotic disorder causing severe
+and impairment in functioning.
+distress and impairment in personal, social, and occupational
+functioning.
+• Individuals with schizophrenia have a significantly higher mortality
+rate than the general population, with proportionally higher rates of
+suicide (particularly in younger patients) and cardiovascular disease,
+as well as other natural causes.
+• Schizophrenia is characterized by psychotic symptoms (e.g., delusions,
+hallucinations, thought disorganization); negative symptoms (e.g.,
+diminished emotional expression or avolition); and cognitive
+impairment (e.g., impairment in executive function, attention, or
+memory).
+• The clinical course often includes a period of exacerbations and remissions
+of psychosis (with variable degrees of psychiatric and functional recovery).
+Bipolar I Disorder
+• Bipolar I disorder (BPD-I) is a serious, chronic psychiatric condition
+
+Version date: October 12, 2018
+Reference ID: 5749703
+
+Conclusions and Reasons
+
+13
+
+NDA Multi-disciplinary Review and Evaluation NDA 220358
+milsaperidone
+Dimension
+
+Current
+Treatment
+Options
+
+Evidence and Uncertainties
+causing severe distress and impairment in functioning.
+• Individuals with BPD-I may be unable to work, maintain relationships,
+attend to self-care, and in the most severe cases may become
+hospitalized, attempt suicide, or die by suicide.
+• The clinical course of BPD-I is heterogenous and characterized by
+recurrent mood episodes, including at least one lifetime manic
+episode, and often includes hypomanic episodes, major depressive
+episodes, and episodes with mixed features (i.e., mixed episodes).
+• Greater than 90% of people who have a manic episode have recurrent
+mood episodes.
+Schizophrenia
+• Current practice guidelines for the treatment of schizophrenia
+recommend that patients should be treated with an antipsychotic
+medication and monitored for effectiveness and side effects.
+• Antipsychotics are primarily effective at reducing the positive
+symptoms of schizophrenia, such as hallucinations and delusions,
+compared to effects on negative symptoms or the cognitive
+impairment associated with schizophrenia.
+• Antipsychotics are broadly classified as so-called “typical,” or firstgeneration antipsychotics and so-called “atypical,” or secondgeneration antipsychotics.
+• Adverse reactions from antipsychotics vary between drugs but may
+include weight gain, extrapyramidal side effects, increased
+prolactin, sedation, and QT prolongation.
+• Although there are a number of treatments approved for use in
+schizophrenia, individual patient response cannot be predicted. For
+an individual patient, several trials of different products may be
+required before an effective and tolerable treatment can be
+
+Version date: October 12, 2018
+Reference ID: 5749703
+
+14
+
+Conclusions and Reasons
+
+The primary pharmacological treatments for
+schizophrenia are antipsychotic drugs and for
+BPD-I are mood stabilizers or antipsychotic
+drugs. Atypical antipsychotics are part of
+treatment guidelines for schizophrenia and
+BPD-I.
+
+NDA Multi-disciplinary Review and Evaluation NDA 220358
+milsaperidone
+Dimension
+
+Evidence and Uncertainties
+
+Conclusions and Reasons
+
+identified. Thus, there is value in having additional treatment
+options available.
+
+Benefit
+
+Bipolar I Disorder
+• The primary pharmacological treatments for BPD-I are mood
+stabilizers (lithium and antiepileptic drugs) or antipsychotic drugs.
+• Atypical antipsychotics are part of various treatment guidelines for
+BPD-I, and multiple studies have demonstrated their effectiveness,
+including various oral atypical antipsychotics.
+• Although there are a number of treatments approved for use in BPD-I,
+individual patient response cannot be predicted. For an individual
+patient, several trials of different products may be required before
+an effective and tolerable treatment can be identified. Thus, having
+additional treatment options is valuable.
+• This NDA 220358 for milsaperidone (proposed trade name: Bysanti)
+relies upon the Agency’s previous findings of safety and
+effectiveness for iloperidone (trade name: Fanapt, NDA 022192),
+which is approved for the treatment of schizophrenia in adults and
+for the acute treatment of manic or mixed episodes associated with
+BPD-I in adults.
+• The pharmacokinetic comparative bioavailability studies VP-VHX-8961101 (single dose crossover of 3x1-mg tablets in healthy subjects)
+and VP-VHX-896-1103 (steady-state crossover at 12 mg twice daily
+in subjects with schizophrenia or BPD-I) demonstrated that an
+adequate scientific bridge has been established between
+milsaperidone and iloperidone.
+
+Version date: October 12, 2018
+Reference ID: 5749703
+
+15
+
+The effectiveness of milsaperidone is expected
+to be similar to iloperidone (Fanapt), for the
+treatment of schizophrenia in adults and for
+the acute treatment of manic or mixed
+episodes associated with BPD-I in adults.
+
+NDA Multi-disciplinary Review and Evaluation NDA 220358
+milsaperidone
+Dimension
+
+Evidence and Uncertainties
+
+• This NDA relies upon the Agency’s previous findings of safety of
+iloperidone. The Office of Clinical Pharmacology (OCP) review finds
+that the PK bridge between milsaperidone and iloperidone is
+adequate.
+Risk and Risk
+Management • No new or worsened safety signals were apparent from the
+pharmacokinetic studies.
+• The available postmarketing information for iloperidone does not
+suggest any new or worsened safety signals.
+
+Version date: October 12, 2018
+Reference ID: 5749703
+
+16
+
+Conclusions and Reasons
+The safety of milsaperidone is expected to be
+similar to iloperidone for the treatment of
+schizophrenia in adults and for the acute
+treatment of manic or mixed episodes
+associated with BPD-I in adults.
+
+NDA Multi-disciplinary Review and Evaluation NDA 220358
+milsaperidone
+
+Patient Experience Data
+Patient Experience Data Relevant to this Application (check all that apply)
+□ The patient experience data that were submitted as part of the Section of review where
+application include:
+discussed, if applicable
+
+□ Clinical outcome assessment (COA) data, such as
+□
+□
+□
+□
+
+Patient reported outcome (PRO)
+Observer reported outcome (ObsRO)
+Clinician reported outcome (ClinRO)
+Performance outcome (PerfO)
+
+□ Qualitative studies (e.g., individual patient/caregiver
+
+interviews, focus group interviews, expert interviews, Delphi
+Panel, etc.)
+□ Patient-focused drug development or other stakeholder
+meeting summary reports
+
+□ Observational survey studies designed to capture patient
+
+experience data
+□ Natural history studies
+□ Patient preference studies (e.g., submitted studies or
+scientific publications)
+□ Other: (Please specify):
+
+□ Patient experience data that were not submitted in the application, but were considered
+in this review:
+□ Input informed from participation in meetings with patient
+stakeholders
+□ Patient-focused drug development or other stakeholder
+meeting summary reports
+□ Observational survey studies designed to capture patient
+experience data
+□ Other: (Please specify):
+
+X
+
+Patient experience data was not submitted as part of this application.
+
+Version date: October 12, 2018
+Reference ID: 5749703
+
+17
+
+NDA Multi-disciplinary Review and Evaluation NDA 220358
+milsaperidone
+
+2 Therapeutic Context
+Analysis of Condition
+Schizophrenia
+Schizophrenia is a serious, chronic psychotic disorder causing severe distress and impairment in
+personal, social, and occupational functioning, estimated to affect approximately 0.3 to 0.7% of
+the U.S. population (American Psychiatic Association (APA) 2022). Diagnosis is made clinically,
+with criteria such as specified in the Diagnostic and Statistical Manual of Mental Disorders, Fifth
+Edition, Text Revision (DSM-5-TR). Symptoms include so-called “positive” symptoms (such as
+delusions or hallucinations); disorganized thought, speech, or behavior; “negative” symptoms
+(such as diminished emotional expression or avolition); and cognitive impairment (such as
+impairment in executive function, attention, or memory). Accurate diagnosis requires ruling out
+other causes of psychosis, such as other medical/psychiatric conditions or substance use (APA
+2022).
+Individuals who develop schizophrenia vary substantially in terms of onset, symptom
+presentation, and outcome. Though variable, the clinical course may include:
+•
+
+A childhood premorbid phase (sometimes associated with subtle cognitive, motor, or
+social deficits)
+
+•
+
+An adolescent prodromal phase (that may be associated with attenuated psychotic
+symptoms and functional decline)
+
+•
+
+An initial episode of florid psychotic symptoms (or “first break”) in the second or third
+decade of life
+
+•
+
+A period of exacerbations and remissions of psychosis (with variable degrees of
+psychiatric and functional recovery)
+
+•
+
+A residual phase, often characterized by a decrease in positive symptom severity despite
+ongoing negative symptoms (Tandon et al. 2009)
+
+Individuals with schizophrenia have a significantly higher mortality rate than the general
+population, with proportionally higher rates of suicide (particularly in younger patients) and
+cardiovascular disease, as well as other natural causes (Auquier et al. 2006). The years of
+potential life lost in individuals with schizophrenia has been estimated to be 14.5 years
+(Hjorthøj et al. 2017).
+Bipolar I Disorder
+
+Version date: October 12, 2018
+Reference ID: 5749703
+
+18
+
+NDA Multi-disciplinary Review and Evaluation NDA 220358
+milsaperidone
+Bipolar I disorder (BPD-I) is a serious, chronic mood disorder causing severe distress and
+impairment in personal, social, and occupational functioning, estimated to affect approximately
+1.5% of the U.S. population (APA 2022; Ringeisen et al. 2023). BPD-I is a clinical diagnosis, with
+criteria such as specified in the DSM-5-TR. According to the DSM-5-TR, the clinical course of
+BPD-I is heterogenous and characterized by recurrent mood episodes, including at least one
+lifetime manic episode, and often includes hypomanic episodes, major depressive episodes,
+and episodes with mixed features (i.e., mixed episodes). Accurate diagnosis requires ruling out
+other causes, such as other medical/psychiatric conditions or substance use (APA 2022).
+•
+
+Manic episodes are distinct periods of abnormal and persistently elevated, expansive, or
+irritable mood and persistently increased goal-directed activity or energy, lasting at least 1
+week and present most of the day, nearly every day (or any duration if hospitalization is
+necessary), along with three or more manic symptoms such as inflated self-esteem,
+decreased need for sleep, pressured speech, racing thoughts and distractibility, and
+excessive involvement in risky activities. The episodes must be sufficiently severe to cause
+marked impairment in social or occupational functioning or to necessitate hospitalization to
+prevent harm to self or others, or there are psychotic features.
+
+•
+
+Hypomanic episodes include similar symptoms as a manic episode, but last at least 4
+consecutive days, are not severe enough to cause marked impairment in social or
+occupational functioning or to necessitate hospitalization, and do not include psychotic
+features.
+
+•
+
+Major depressive episodes involve depressed mood and/or loss of interest or pleasure
+among a total of at least five depressive symptoms, such as changes in appetite or sleep,
+low energy, low self-worth, poor concentration, and the occurrence of suicidal ideation and
+behavior, that cause clinically significant distress or impairment in functioning. The episodes
+can include psychotic features.
+
+•
+
+Mixed episodes can include manic, hypomanic, or major depressive episode symptoms with
+mixed features of the other polarity (APA 2022).
+Individuals who develop BPD-I vary substantially in terms of onset, symptom presentation,
+and outcome. Although the initial episode of mania typically occurs in late adolescence to
+young adulthood, it can present at younger or older ages, with some symptoms frequently
+starting in adolescence (Angst and Sellaro 2000). Individuals with BPD-I may be unable to
+work, maintain relationships, attend to self-care, and in the most severe cases may become
+hospitalized, attempt suicide, or die by suicide. Suicide risk is a major concern: for individuals
+with BPD-I, suicide risk is estimated to be at least 15 times the general population risk
+(Marangell et al. 2006). Functional impairment is also significant: one study found that
+individuals with BPD-I demonstrate severe impairment in occupational functioning
+approximately 30% of the time (Judd et al. 2008), and individuals with BPD-I attain lower
+
+Version date: October 12, 2018
+Reference ID: 5749703
+
+19
+
+NDA Multi-disciplinary Review and Evaluation NDA 220358
+milsaperidone
+levels of socioeconomic status than members of the general population with equivalent
+educational levels (Schoeyen et al. 2011).
+
+Analysis of Current Treatment Options
+Schizophrenia
+The APA practice guideline for the treatment of schizophrenia recommends that patients
+should be treated with an antipsychotic medication and monitored for effectiveness and side
+effects (APA 2021). Antipsychotics are primarily effective at reducing the positive symptoms of
+schizophrenia, such as hallucinations and delusions, compared to effects on negative symptoms
+or the cognitive impairment associated with schizophrenia (Fusar-Poli et al. 2015; Kahn and
+Keefe 2013).
+Antipsychotics are broadly classified as so-called “typical,” or first-generation antipsychotics
+(FGAs) and so-called “atypical,” or second-generation antipsychotics (SGAs; a category of thirdgeneration antipsychotics has been proposed for dopamine partial agonist SGAs). FGAs include
+medications such as chlorpromazine and haloperidol. SGAs include clozapine, risperidone,
+olanzapine, ziprasidone, quetiapine, aripiprazole, paliperidone, asenapine, iloperidone,
+lurasidone, cariprazine, brexpiprazole, and lumateperone. The mechanism by which FGAs and
+SGAs improve psychotic symptoms is not completely understood but appears to involve
+antagonism of dopamine-2 receptors and/or serotonin-2A receptors. Binding to other
+neurotransmitter receptors (e.g., α1-adrenergic, muscarinic, and histaminergic receptors)
+generally corresponds to the adverse reaction profile for a given drug (Correll and Kane 2014).
+Important risks of FGAs and SGAs can include:
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+
+An increased risk of death and cerebrovascular events in geriatric patients with dementiarelated psychosis
+Extrapyramidal symptoms (EPS), e.g., dystonia, parkinsonism
+Tardive dyskinesia
+Weight gain and metabolic effects, e.g., hyperglycemia, diabetes mellitus, dyslipidemia
+QT interval prolongation
+Orthostatic hypotension, syncope, and falls
+Neuroleptic malignant syndrome
+Leukopenia, neutropenia, and agranulocytosis
+Hyperprolactinemia
+Dysphagia
+Seizures
+Potential for cognitive and motor impairment
+Body temperature dysregulation
+Drug reaction with eosinophilia and systemic symptoms
+
+Version date: October 12, 2018
+Reference ID: 5749703
+
+20
+
+NDA Multi-disciplinary Review and Evaluation NDA 220358
+milsaperidone
+A Bayesian-framework, multiple-treatments meta-analysis comparing the efficacy and
+tolerability of 15 antipsychotic drugs found that antipsychotics differ primarily in adverse
+reactions (e.g., weight gain, EPS, prolactin increase, QT prolongation, and sedation).
+Antipsychotics differed less in efficacy, with the exception of clozapine, amisulpride (not
+approved in the United States), olanzapine, and risperidone (Leucht et al. 2013).
+Most recently, the fixed-drug combination product xanomeline and trospium chloride was
+approved for the treatment of schizophrenia. The mechanism of action of xanomeline in the
+treatment of schizophrenia is unclear; however, its efficacy is thought to be due to its agonist
+activity at M1 and M4 muscarinic acetylcholine receptors in the central nervous system.
+Although there are a number of treatments approved for use in schizophrenia, individual
+patient response cannot be predicted. For an individual patient, several trials of different
+products may be required before an effective and tolerable treatment can be identified. Thus,
+having additional treatment options is valuable.
+Bipolar I Disorder
+The primary medications approved for the treatment of acute manic or mixed episodes
+associated with BPD-I are mood stabilizers (lithium and antiepileptic drugs) or antipsychotic
+drugs (mainly SGAs) as per Table 1.
+
+Version date: October 12, 2018
+Reference ID: 5749703
+
+21
+
+NDA Multi-disciplinary Review and Evaluation NDA 220358
+milsaperidone
+Table 1. FDA-Approved Medications for the Acute Treatment of Manic or Mixed Episodes
+Associated With Bipolar I Disorder, Including Antipsychotics as Monotherapy and/or
+Adjunctive Therapy
+Episode Type
+
+Class
+Product
+Mood stabilizers
+Carbamazepine ER capsules
+Lithium
+Valproate
+Antipsychotics
+Aripiprazole (oral)
+Asenapine
+Cariprazine
+Chlorpromazine
+Iloperidone
+Olanzapine
+Olanzapine and samidorphan
+Quetiapine
+Quetiapine ER
+Risperidone (oral)
+Ziprasidone
+
+Manic
+
+Mixed
+
+Yes
+Yes
+Yes
+
+Yes
+Yes
+--
+
+M or A
+M or A
+M
+M
+M
+M or A
+M or A
+M or A
+M or A
+M or A
+M
+
+M or A
+M or A
+M
+-M
+M or A
+M or A
+-M or A
+M or A
+M
+
+Source: Clinical reviewer-created from product labeling per Drugs@FDA: FDA-Approved Drugs, https://accessdata.fda.gov,
+accessed July 9, 2025
+Abbreviations: A, adjunctive with lithium or valproate; ER, extended release; M, monotherapy
+
+SGAs are part of various treatment guidelines for BPD-I, and multiple studies have
+demonstrated their effectiveness (Goodwin et al. 2016; Hirschfeld 2005; Yatham et al. 2018).
+Similar to schizophrenia, the mechanism by which atypical antipsychotics improve BPD-I
+symptoms is unclear but could be mediated through a combination of D2 and 5-HT2A receptor
+antagonism. Although there are a number of treatments approved for use in BPD-I, individual
+patient response cannot be predicted. For an individual patient, several trials of different
+products may be required before an effective and tolerable treatment can be identified. Thus,
+having additional treatment options is valuable.
+
+Version date: October 12, 2018
+Reference ID: 5749703
+
+22
+
+NDA Multi-disciplinary Review and Evaluation NDA 220358
+milsaperidone
+
+3 Regulatory Background
+U.S. Regulatory Actions and Marketing History
+Milsaperidone (VHX-896) is not currently marketed in the United States or elsewhere.
+Milsaperidone is an active metabolite of iloperidone (Fanapt, NDA 022192), which is approved
+for the treatment of schizophrenia in adults and the acute treatment of manic or mixed
+episodes associated with BPD-I in adults.
+
+Summary of Presubmission/Submission Regulatory Activity
+Milsaperidone was developed for the treatment of schizophrenia under IND 153819.
+On December 15, 2020, the Division granted the Applicant’s November 25, 2020, Type B preIND meeting request to discuss the development plan for the treatment of schizophrenia. In
+their January 4, 2021, background materials for the meeting, the Applicant hypothesized that
+the active metabolite may contribute favorably to the clinical response and adverse reaction
+profile observed with approved formulations of iloperidone. The Applicant presented
+information from two completed pharmacokinetic (PK) studies, VP-VYV-683-1002 and VP-VYV683M-1201, from which the Applicant concluded that the exposures of milsaperidone,
+iloperidone, and another major iloperidone metabolite P95, were similar at equivalent doses of
+milsaperidone and iloperidone. The Applicant proposed to cross reference the existing clinical
+and nonclinical data from the iloperidone development program to support an IND and future
+505(b)(2) NDA.
+On February 4, 2021, the Division issued preliminary comments for the meeting, in which the
+Division:
+•
+
+Noted that the intended NDA would not be a 505(b)(2) application if the Applicant owns or
+has a right-of-reference to all of the data that is necessary for approval.
+
+•
+
+Agreed that on face, a comparative bioavailability approach appeared to be reasonable,
+although the adequacy of the scientific bridge between the proposed product and
+iloperidone would be a matter of review.
+
+•
+
+Recommended that the Applicant conduct a dose-proportionality PK study and evaluate the
+effect of food on the PK of VHX-896 and its metabolites.
+
+•
+
+Advised that depending on the results of the planned VHX-896 comparative bioavailability
+study in humans, the Applicant may be able to cross-reference nonclinical toxicology data
+from the iloperidone development program.
+
+On February 9, 2021, after receiving the Division’s preliminary comments, the Applicant
+canceled the scheduled February 11, 2021, Type B pre-IND meeting.
+Version date: October 12, 2018
+Reference ID: 5749703
+
+23
+
+NDA Multi-disciplinary Review and Evaluation NDA 220358
+milsaperidone
+On March 23, 2021, the original IND was received, including the comparative bioavailability
+protocol VP-VHX-896-1101, and the may proceed determination was conveyed via email on
+April 22, 2021. On May 3, 2021, the formal Study May Proceed letter, containing clinical
+(addition of QT prolongation-specific safety objectives and exploratory genome wide
+association study endpoint concerns) and nonclinical comments for consideration, was issued.
+On June 9, 2022, the Applicant submitted the food-effect protocol VP-VHX-896-1102, for which
+the Agency had no comments.
+On November 20, 2023, the Division granted the Applicant’s October 16, 2023, request for Type
+B CMC pre-NDA Written Responses regarding drug substance and drug product questions. On
+December 14, 2023, the Division issued the CMC pre-NDA Written Responses.
+On November 20, 2023, the Division granted a Type B pre-NDA meeting to discuss the planned
+NDA submission seeking approval of VHX-896 for the treatment of schizophrenia, with reliance
+upon the completed comparative bioavailability Study VP-VHX-896-1101 and the food-effect
+Study VP-VHX-896-1102. On February 1, 2024, the Division issued preliminary comments stating
+that:
+•
+
+The completed studies appeared sufficient for submission of an NDA relying, in part, on
+iloperidone, although a formal filing determination would be made after NDA submission.
+
+•
+
+It would take additional requested data into consideration when determining whether it
+would be appropriate to grant a waiver of the requirement to submit in vivo bioavailability
+data for a higher strength, or whether additional data from an in vivo study would be
+needed to demonstrate dosage strength proportionality.
+
+•
+
+The Applicant may cross-reference the existing nonclinical study reports from the
+iloperidone development program.
+
+On February 5, 2024, after receiving the Division’s preliminary comments, the Applicant
+canceled the scheduled February 7, 2024, Type B pre-NDA meeting.
+On April 30, 2024, in a general advice letter to respond to the Applicant’s April 11, 2024,
+request for clarification, the Division stated that the Applicant’s proposed dose proportionality
+study design appeared reasonable and recommended submission of the full protocol for review
+and feedback prior to initiation.
+On May 16, 2024, the Applicant submitted dose proportionality protocol VP-VHX-896-1103, for
+which the Agency provided clinical comments (inclusion of schizophrenia population only) and
+clinical pharmacology comments (exclusion of subjects with Child-Pugh Class B and C hepatic
+impairment) on July 5, 2024. The Applicant’s July 15, 2024, response justifying inclusion of
+subjects with bipolar I disorder was considered acceptable by the Division, and the Applicant’s
+September 3, 2024, protocol amendment addressing the Applicant’s agreement with the
+clinical pharmacology comment was reviewed without further Agency comment.
+Version date: October 12, 2018
+Reference ID: 5749703
+
+24
+
+NDA Multi-disciplinary Review and Evaluation NDA 220358
+milsaperidone
+On September 20, 2024, the Applicant submitted a request for review of the proposed
+proprietary name Bysanti.
+On February 14, 2025, the Applicant submitted an initial Pediatric Study Plan (iPSP) to support
+their proposal to extend findings from the iPSP for iloperidone and its associated postmarketing
+requirements (PMRs) under NDA 022192 and Supplement-023 to VHX-896 (milsaperidone), for
+the indications of treatment of schizophrenia and acute treatment of manic or mixed episodes
+associated with BPD-I.
+On March 17, 2025, the Agency informed the Applicant that the proposed proprietary name
+request was unacceptable because it could result in medication errors due to confusion with
+another product that was under review. Therefore, the ultimate acceptability of the proposed
+proprietary name would be dependent upon which underlying application is approved first. In
+(b) (4)
+order to initiate review of the alternate proprietary name,
+, the Applicant was asked to
+submit a new complete request for proprietary name review.
+On April 22, 2025, the Division informed the Applicant that the iPSP process only applies while
+the application is in the IND phase, and any additional pediatric studies/data that may be
+needed will be determined during the NDA review cycle. The Division requested that the
+Applicant submit the proposed pediatric study plan (PSP) to the NDA, which the Applicant did
+on May 20, 2025.
+On December 22, 2025, the Agency advised the Applicant that if Bysant is still the preferred
+proprietary name, the Applicant should submit another request for for proprietary name review
+for Bysanti. The Applicant submitted this request on December 26, 2025, and it was found
+acceptable.
+
+Version date: October 12, 2018
+Reference ID: 5749703
+
+25
+
+NDA Multi-disciplinary Review and Evaluation NDA 220358
+milsaperidone
+
+4 Significant Issues from Other Review Disciplines Pertinent to Clinical
+Conclusions on Efficacy and Safety
+Office of Study Integrity and Surveillance (OSIS)
+An Office of Study Integrity and Surveillance (OSIS) consult request was submitted to conduct
+an inspection for the clinical site (QPS Bio-Kinetic Clinical Applications, LLC) and bioanalytical
+(b) (4)
+site
+A previous inspection of the same clinical site in March 2025 for NDA 210745 suggested that
+data from the reviewed studies were reliable. OSIS determined that an inspection for the
+clinical site was not needed.
+A previous inspection of the same bioanalytical site in
+for
+suggested
+that data from the reviewed studies were reliable. OSIS determined that an inspection for the
+bioanalytical site was not needed.
+(b) (4)
+
+NON-RESPONSIVE
+
+Product Quality
+The Office of Pharmaceutical Quality (OPQ) review team has assessed NDA 220358 with respect
+to chemistry, manufacturing, and controls (CMC) and has determined that it meets all
+applicable standards to support the identity, strength, quality, and purity that it purports. As
+such OPQ recommends approval of this NDA from a quality perspective.
+Refer to the integrated quality assessment review from the OPQ for additional information.
+
+Clinical Microbiology
+There were no clinical microbiology data submitted with this application.
+
+Devices and Companion Diagnostic Issues
+There were no issues related to devices or companion diagnostics in this application.
+
+Version date: October 12, 2018
+Reference ID: 5749703
+
+26
+
+NDA Multi-disciplinary Review and Evaluation NDA 220358
+milsaperidone
+
+5 Nonclinical Pharmacology/Toxicology
+Executive Summary
+Milsaperidone, is a major human metabolite of iloperidone, which was approved for treatment
+of schizophrenia in adults under NDA 022192 in 2009 (see Section 3 for regulatory background).
+Iloperidone and milsaperidone rapidly interconvert in vivo, reaching metabolic equilibrium
+when either is administered clinically. The Applicant is relying on nonclinical data from chronic
+toxicity, reproductive/developmental toxicity, and carcinogenicity studies conducted for the
+iloperidone development program. Reliance on toxicology data for iloperidone is acceptable
+based on the clinical pharmacokinetic bridge established between milsaperidone and
+iloperidone (see Section 0).
+New in vitro genotoxicity and phototoxicity studies for milsaperidone were reviewed under the
+IND (reviewed by Dr. Sonia Tabacova; July 09, 2021). Milsaperidone did not induce mutations in
+a valid bacterial reverse mutation assay, nor did it induce any biologically relevant clastogenic
+effects in a valid mammalian cell cytogenetic test with Chinese hamster ovary cells.
+Additionally, milsaperidone did not show phototoxic potential in a valid in vitro phototoxicity
+assay.
+The Applicant has proposed limits for six potential impurities that are not considered under the
+cross-referenced NDA 022192 and require justification based on the applicable guidances.
+These impurities and the justifications for the Applicant’s proposed limits are reviewed in
+Section 5.3. There are no safety concerns with the proposed levels/specifications for these
+impurities.
+
+Referenced NDAs, BLAs, DMFs
+NDA 022192
+
+Impurities Justification
+The limits proposed by the Applicant for the following impurities required justification:
+1)
+
+(b) (4)
+
+impurity); limited to No More Than (NMT)
+
+(b)
+(4)
+
+%.
+(b) (4)
+
+In humans, iloperidone is strictly converted to (b) (4) with no (b) (4) exposure detected when
+(b) (4)
+iloperidone is administered. The Applicant’s proposed limit of no more than (NMT) %
+(b) (4)
+corresponds to a maximum daily exposure (MDE) of
+mg/day at the Maximum
+(b) (4)
+Recommended Human Dose (MRHD) of 24 mg/day. This proposed limit is
+
+Version date: October 12, 2018
+Reference ID: 5749703
+
+27
+
+NDA Multi-disciplinary Review and Evaluation NDA 220358
+milsaperidone
+(b) (4)
+
+The Applicant submitted justification for controlling (b) (4) at NMT (b) (4)%, including
+qualification through mouse toxicology studies, pharmacological evidence of a similar binding
+(b) (4)
+(b) (4)
+profile to
+, and in vitro evidence that human exposure to
+is likely to be limited due
+to rapid conversion to iloperidone.
+(b) (4)
+
+Unlike humans, mice produce
+following administration of iloperidone or
+milsaperidone. Based on data from a single 5 mg/kg dose of carbon-14 labeled milsaperidone
+(b) (4)
+administered to mice, the relative area-under-the-curve (AUC) exposure ratios were
+(b) (4)
+(b) (4)
+for iloperidone, milsaperidone
+, and
+, respectively. The Applicant’s
+iloperidone development program included oral single-dose toxicity, 13-week repeat-dose
+toxicity, 2-year carcinogenicity, and in vivo micronucleus genotoxicity studies in mice.
+(b) (4)
+
+Based on in vitro metabolism data submitted by the Applicant,
+is likely to be rapidly
+(b) (4)
+converted to iloperidone in humans and thus exposure is expected to be transient. When
+(b) (4)
+was incubated with human liver S9 fraction, iloperidone and
+were formed. When (b) (4)
+was incubated with human liver S9 fraction, only iloperidone was formed with no detectable
+(b) (4)
+levels of
+. This is consistent with the in vivo measurements of iloperidone metabolism in
+(b) (4)
+(b) (4)
+humans where no
+is formed. The in vitro estimate for the clearance rate of
+(b) (4)
+conversion to iloperidone was
+μL/mg/min, comparable to the in vitro estimate for the
+(b) (4)
+(b) (4)
+clearance rate of
+of
+μL/mg/min.
+(b) (4)
+
+Based on the qualification of
+in the mouse toxicology studies and likely transient human
+(b) (4)
+exposure due to rapid metabolism to iloperidone, the MDE
+and the
+(b)
+Applicant’s justification for the proposed limit of NMT (4) % are acceptable and in accordance
+with the recommendations in ICH Q3A(R2) (2008)1 and M7 Q&A (2023) 2.
+(b) (4)
+
+2)
+
+(b) (4)
+
+; limited to NMT
+
+(b)
+(4)
+
+%.
+
+The Applicant’s proposed limit of NMT
+(b) (4)
+(b) (4)
+corresponds to an MDE of
+mg/day at the MRHD of 24 mg/day, which is
+(b) (4)
+
+(b)
+(4)
+
+%
+
+(b) (4)
+
+The previously approved iloperidone product contains
+impurity that is
+(b) (4)
+(b) (4)
+controlled at NMT %. The difference in chemical structures between
+is
+comparable to the difference between iloperidone and milsaperidone, consisting of a
+(b) (4)
+
+(b) (4)
+
+(b) (4)
+
+Guidance for industry, Q3A (Revision 2) Impurities in New Drug Substances (June 2008).
+Guidance for industry, M7(R2) Assessment and Control of DNA Reactive (Mutagenic) Impurities in
+Pharmaceuticals to Limit Potential Carcinogenic Risk (July 2023).
+
+1
+2
+
+Version date: October 12, 2018
+Reference ID: 5749703
+
+28
+
+NDA Multi-disciplinary Review and Evaluation NDA 220358
+milsaperidone
+The Applicant submitted justification for controlling the
+impurity at NMT (4) %
+including a quantitative structure-activity relationship [(Q)SAR] assessment for mutagenic
+potential. The Applicant’s (Q)SAR assessment provided a negative prediction for bacterial
+mutagenicity. The Agency performed an independent (Q)SAR assessment of the mutagenic
+(b) (4)
+potential of
+. The Agency’s (Q)SAR assessment provided a negative expert prediction
+(b) (4)
+for bacterial mutagenicity of
+(b) (4)
+
+(b)
+
+Based on the MDE of
+mg/day
+and the Agency’s
+corroboration of a negative (Q)SAR prediction for bacterial mutagenicity, the Applicant’s
+(b) (4)
+(b)
+justification for limiting
+to NMT (4) % is acceptable and in accordance with the
+recommendations in ICH M7 Q&A (2023).
+(b) (4)
+
+3)
+
+(b) (4)
+
+(b) (4)
+
+; limited to NMT
+
+(b) (4)
+
+parts per million (ppm).
+
+The proposed limit of NMT
+(b) (4)
+ug/day at the MRHD of 24 mg/day.
+(b) (4)
+
+(b) (4)
+
+ppm, corresponds to an MDE of
+(b) (4)
+
+In the United States, average dietary exposure to
+is estimated to be
+(b)
+(b) (4)
+mg/day and
+intake is estimated at up to (4)mg/day 4. The U.S. Institute of
+(b) (4)
+(b) (4)
+Medicine Food and Nutrition Board recommends a tolerable upper limit of mg/day for
+for adults4.
+(b) (4)
+
+(b) (4)
+
+At the proposed limit, the MDE of (4) ug/day
+is far below both the average dietary
+exposure and the EPA’s appreciable risk level based on the available toxicology data. Therefore,
+(b) (4)
+(b) (4)
+the proposed limit of NMT ppm and MDE of
+are acceptable and in accordance with
+the recommendations in ICH Q3D(R2).
+(b)
+
+(b) (4)
+
+(b) (4)
+
+United States Institute of Medicine Panel on Micronutrients, 2001, Dietary Reference Intakes for Vitamin A,
+Vitamin K, Arsenic, Boron, Chromium, Copper, Iodine, Iron, Manganese, Molybdenum, Nickel, Silicon, Vanadium,
+and Zinc. Washington (DC): National Academies Press, https://www.ncbi.nlm.nih.gov/books/NBK222322/
+
+4
+
+Version date: October 12, 2018
+Reference ID: 5749703
+
+29
+
+NDA Multi-disciplinary Review and Evaluation NDA 220358
+milsaperidone
+4)
+
+(b) (4)
+
+; limited to NMT
+
+(b) (4)
+
+ppm.
+(b) (4)
+
+The Applicant proposes a limit of NMT
+ppm and an MDE of (b) (4) µg/day
+(b) (4)
+at the MRHD of 24 mg/day.
+has not been detected in any of the current
+batch analyses.
+(b) (4)
+
+(b) (4)
+
+(b) (4)
+
+(b) (4)
+
+(b) (4)
+
+is listed as a generally recognized as safe (GRAS) food additive in CFR 172.515
+(b) (4)
+
+. A technical report commissioned by the World Health Organization in 2000 8
+(b) (4)
+estimated the daily intake of
+by consumers in the United
+(b) (4)
+(b) (4)
+States to be approximately
+equivalent to
+µg/day for a 60 kg
+individual.
+Based on the available toxicology information in scientific literature, the MDE of
+µg/day,
+(b) (4)
+which is
+of the estimated daily dietary intake and lower than any of the
+(b) (4)
+(b) (4)
+recommended exposure limits for
+, the proposed limit of NMT
+ppm is acceptable in accordance with the recommendations in ICH Q3C-R8.
+(b) (4)
+
+5)
+6)
+
+(b) (4)
+
+; limited to NMT
+ppm, and
+(b) (4)
+(b) (4)
+; limited to NMT
+ppm.
+(b) (4)
+
+(b) (4)
+
+Joint World Health Organization & Food and Agriculture Organization of the United Nations Expert Committee on
+Food Additives (JECFA), 2000, Evaluation of certain food additives and contaminants, Fifty-third report of the
+JECFA.
+8
+
+Version date: October 12, 2018
+Reference ID: 5749703
+
+30
+
+NDA Multi-disciplinary Review and Evaluation NDA 220358
+milsaperidone
+Based on the Applicant’s nitrosamine risk assessment there are two nitrosamine drug
+substance related impurities (NDSRIs) that may be formed as part of the manufacturing
+(b) (4)
+process:
+The Applicant has proposed
+(b) (4)
+acceptable intake (AI) limits of
+ng/day and (b) (4)ng/day for these two nitrosamines which
+(b) (4)
+(b) (4)
+correspond to
+and
+ppm, respectively, at the MRHD of 24 mg/day.
+No nonclinical studies examining these nitrosamines were submitted by the Applicant and there
+are no experimental data available from published literature. The proposed nitrosamine AIs are
+based on the Applicant’s evaluation using a carcinogenic potency categorization approach
+(b) (4)
+(CPCA) 9
+An independent CPCA evaluation was performed by the Agency,
+(b) (4)
+
+in agreement with the
+
+Applicant’s evaluation.
+
+The recommended AI limits for NDSRIs in CPCA
+are
+ng/day and
+(b) (4)
+(b) (4)
+9
+ng/day, respectively . Therefore, the Applicant’s proposed AI limits of
+ng/day (NMT
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+ppm) and
+ng/day (NMT
+ppm) for
+(b) (4)
+
+(b) (4)
+
+are acceptable.
+
+Guidance for industry, Recommended Acceptable Intake Limits for Nitrosamine Drug Substance Related Impurities
+(NDSRIs) (August 2023).
+
+9
+
+Version date: October 12, 2018
+Reference ID: 5749703
+
+31
+
+NDA Multi-disciplinary Review and Evaluation NDA 220358
+milsaperidone
+
+6 Clinical Pharmacology
+Executive Summary
+The Applicant is seeking approval of milsaperidone (VHX-896; P88) tablets for the treatment of
+schizophrenia in adults and acute treatment of manic or mixed episodes associated with bipolar
+I disorder in adults. Milsaperidone tablets are available as 1 mg, 2 mg, 4 mg, 6 mg, 8 mg, 10 mg,
+and 12 mg strengths. The recommended maintenance dose of milsaperidone is 6 to 12 mg
+twice daily in adult patients with schizophrenia and 12 mg twice daily in adult patients with
+acute treatment of manic or mixed episodes associated with bipolar I disorder. Milsaperidone is
+an active metabolite of iloperidone (Fanapt; NDA 022192). It undergoes rapid interconversion
+to iloperidone and vice-versa through oxidation-reduction reactions, in vivo. The receptor
+binding profiles (5-hydroxytryptamine subtype 2A (5-HT2A) and dopamine (D2) receptor) of
+milsaperidone are comparable to iloperidone. Functional assays conducted with milsaperidone
+indicate that milsaperidone also exhibits dopamine receptor antagonist properties similar to
+that of iloperidone and other antipsychotic agents with established clinical efficacy. Therefore,
+this application relies on the Agency’s previous findings of safety and efficacy of iloperidone
+oral tablet for the treatment of schizophrenia in adults and acute treatment of manic or mixed
+episodes associated with bipolar I disorder in adults.
+As milsaperidone is an active metabolite of iloperidone, the pharmacokinetic (PK) and
+pharmacodynamic (PD) effects of milsaperidone are considered to have been previously
+evaluated in the development program of iloperidone. The clinical pharmacology program in
+this submission includes two relative bioavailability studies (VP-VHX-986-1101 (a single dose
+study in healthy subjects; 3 mg) and VP-VHX-986-1103 (a multiple dose study in subjects with
+schizophrenia; titration to 12 mg twice daily)) to establish a PK bridge between VHX-896 and
+iloperidone, and a food effect study (VP-VHX-896-1102) evaluating impact of a high-fat meal on
+the PK of VHX-896.
+The Office of Clinical Pharmacology (OCP) reviewed the above mentioned three studies and
+finds that the scientific bridge between VHX-896 and iloperidone is adequate. The high-fat meal
+did not appreciably affect the PK of VHX-896. Per recommendation from the Office of Study
+Integrity and Surveillance (OSIS), data from the clinical and bioanalytical sites for the pivotal
+relative bioavailability studies (VP-VHX-986-1101 and VP-VHX-986-1103) are found acceptable.
+Therefore, VHX-896 can rely on the Agency’s previous findings of efficacy and safety of
+iloperidone for the treatment of schizophrenia and bipolar I disorder in adults.
+OCP recommends the approval of VHX-896 for the same indications as iloperidone.
+
+Summary of Clinical Pharmacology Assessment
+During the development of iloperidone oral tablets, the PK of iloperidone and its major
+metabolites, milsaperidone (VHX-896 or P88) and P95, have been extensively characterized
+following oral administration of iloperidone. These studies demonstrate that milsaperidone and
+Version date: October 12, 2018
+Reference ID: 5749703
+
+32
+
+NDA Multi-disciplinary Review and Evaluation NDA 220358
+milsaperidone
+iloperidone rapidly interconvert into each other in vivo. Therefore, the plasma exposures of
+iloperidone, milsaperidone, and P95 are expected to be similar after administration of either
+iloperidone or VHX-896. Based on this information, the Applicant proposed to establish a
+scientific bridge between VHX-896 and iloperidone in order to rely on the efficacy and safety
+findings of iloperidone for the treatment of schizophrenia and bipolar I disorder in adults.
+Due to the nonlinear pharmacokinetic characteristics of iloperidone, the PK bridge was
+established using the lowest strength (1 mg x 3 = 3 mg) and the highest strength (12 mg) tablets
+of VHX-896 and corresponding dose levels of iloperidone. Because iloperidone may pose safety
+risks to healthy subjects at a dose greater than 3 mg, a single dose relative bioavailability study
+was conducted using 3 x 1 mg strengths in healthy adults and a multiple dose (titrated to 12 mg
+twice daily) relative bioavailability study was performed in adult subjects with schizophrenia.
+In both relative bioavailability studies, the geometric mean ratios (GMRs; VHX-896/iloperidone)
+and 90% confidence intervals (CI) around GMRs of PK parameters of milsaperidone and
+iloperidone are within the regulatory criteria of 80% to 125%.
+In a single dose relative bioavailability study in healthy adults (3x1 mg; study VP-VHX-8961101), the GMR (90% CI) of peak plasma concentration (Cmax) of iloperidone is 105.2%
+(96.53%, 114.6%), area under the plasma concentration-time curve (AUCinf) is 100.8% (96.74,
+105.1%) and median time to reach Cmax (Tmax) of iloperidone is 2 hours and 1.5 hours,
+respectively, following administration of VHX-896 and iloperidone. Given that VHX-892 is
+intended for chronic administration, a slight delay in the median Tmax (i.e., 0.5 hours) is not
+considered clinically relevant. The GMR (90%CI) of Cmax of milsaperidone is 98% (93%, 105%),
+AUCinf is 99% (96%, 104%) and median Tmax of milsaperidone is 4 hours following
+administration of VHX-896 and iloperidone.
+In a multiple-dose relative bioavailability study in adult subjects with schizophrenia (doses were
+titrated from 1 mg twice daily to 12 mg twice daily; Study VP-VHX-896-1103), the GMR (90% CI)
+of Cmax of iloperidone is 97% (95%, 99%), AUCtau is 93% (92%, 94%) and median Tmax of
+iloperidone is 2 hours following administration of VHX-896 and iloperidone. The GMRs (90% CI)
+of Cmax of milsaperidone is 95% (94%, 96%), AUCtau is 95% (94%, 96%) and median Tmax of
+milsaperidone is 3.5 hours following administration of VHX-896 and iloperidone. The results
+from both the single dose and multiple dose studies demonstrate that the PK bridge between
+VHX-896 and iloperidone is adequate.
+In a food effect study (Study VP-VHX-896-1102), the exposures of VHX-892 and iloperidone
+were compared after VHX-896 administered under fasted and fed conditions. The study results
+showed milsaperidone and iloperidone exposures (Cmax and AUCinf) were similar regardless of
+whether VHX-896 was administered with or without food. Therefore, VHX-896 is recommended
+to be administered with or without food, similar to iloperidone.
+
+Version date: October 12, 2018
+Reference ID: 5749703
+
+33
+
+NDA Multi-disciplinary Review and Evaluation NDA 220358
+milsaperidone
+Clinical Pharmacokinetics
+Following oral administration of iloperidone (iloperidone and milsaperidone rapidly
+interconvert in vivo), the plasma exposure of milsaperidone increased approximately
+proportionally over the therapeutic dosage range and plasma exposure of iloperidone
+increased slightly more than dose proportionally. Steady-state concentrations of milsaperidone
+are attained within 3 to 4 days of dosing. Accumulation of iloperidone is at least 2-fold with
+twice daily dosing regimen after administration of oral iloperidone tablets.
+After administration of oral iloperidone tablets (iloperidone and milsaperidone rapidly
+interconvert in vivo) in CYP2D6 normal metabolizers, the major metabolite P95, milsaperidone,
+and iloperidone accounted for approximately 48%, 20%, and 9% of the total plasma exposure,
+respectively. After administration of oral iloperidone tablets in CYP2D6 poor metabolizers, the
+major metabolite P95, milsaperidone, and iloperidone accounted for 23%, 34%, and 16% of the
+total exposure, respectively.
+Absorption
+Following oral administration of VHX-896 or oral iloperidone tablets, no clinically significant
+differences in the pharmacokinetics of milsaperidone and its metabolites, iloperidone and P95,
+were observed with the two treatments.
+Following oral administration of VHX-896, the time to peak plasma concentrations (Tmax)
+occurred within 4 hours for milsaperidone, 2 hours for iloperidone, and 6 hours for P95.
+Effect of Food: Following administration of VHX-896 with high-fat meal (approximately 1000
+calories, 50% fat), no clinically significant differences in the pharmacokinetics of milsaperidone
+and its metabolites were observed compared to the fasted state.
+Distribution
+Milsaperidone and iloperidone have an apparent volume of distribution of 1715 to 2343 L and
+1340 to 2800 L, respectively. At therapeutic concentrations, the unbound fraction in plasma is
+approximately 8% for milsaperidone, 3% for iloperidone, and 8% for P95.
+Elimination
+In CYP2D6 normal metabolizers, the observed mean elimination half-lives were 26 hours for
+milsaperidone, 18 hours for iloperidone, and 23 hours for P95. In CYP2D6 poor metabolizers,
+the mean elimination half-lives were 37 hours for milsaperidone, 33 hours for iloperidone, and
+31 hours for P95.
+Milsaperidone and iloperidone have an apparent clearance (clearance/bioavailability) of 32 to
+69 L/h and 47 to 102 L/h, respectively.
+
+Version date: October 12, 2018
+Reference ID: 5749703
+
+34
+
+NDA Multi-disciplinary Review and Evaluation NDA 220358
+milsaperidone
+Metabolism: Milsaperidone undergoes oxidation to form iloperidone and iloperidone
+undergoes a stereospecific carbonyl reduction to form milsaperidone. Elimination of
+milsaperidone and iloperidone is mainly through hepatic metabolism. Iloperidone is
+metabolized primarily by three biotransformation pathways: carbonyl reduction, hydroxylation
+(mediated by CYP2D6) and O-demethylation (mediated by CYP3A4).
+Excretion: Studies of iloperidone showed the majority of the radioactive materials were
+recovered in the urine. The mean recovery was 58% in CYP2D6 normal metabolizers and 45% in
+CYP2D6 poor metabolizers, with feces accounting for 20% in CYP2D6 normal metabolizers and
+22% in CYP2D6 poor metabolizers of the administered radioactivity.
+General Dosing and Therapeutic Individualization
+General Dosing
+Because milsaperidone and iloperidone interconvert rapidly in vivo and the exposures of
+milsaperidone and iloperidone after VHX-896 administration were similar to those after
+iloperidone, the information relevant to dosing and therapeutic individualization of VHX-896
+can rely upon iloperidone.
+
+Comprehensive Clinical Pharmacology Review
+Clinical Pharmacology Questions
+1. Is the PK bridging between the proposed product, VHX-896 and iloperidone adequately
+established?
+Yes. The PK bridge between VHX-896 and iloperidone is adequately established.
+Given that iloperidone showed greater than dose proportional PK characteristics, the Applicant
+compared the PK of milsaperidone and its major metabolites, iloperidone and P95, following
+administration of VHX-896 and iloperidone at the lowest and highest strengths. Because
+iloperidone may not be tolerated in healthy subjects at doses greater than 3 mg, the Applicant
+conducted a relative bioavailability study (VP-VHX-896-1101) in healthy subjects using three 1mg strengths (i.e., maximum tolerated dose in healthy subjects). The Applicant also conducted
+a multiple dose relative bioavailability study (VP-VHX-896-1103) in subjects with schizophrenia
+or bipolar I disorder using the highest strength, 12 mg (through the titration of doses from 1 mg
+twice daily (BID) to 12 mg BID).
+Study VP-VHX-896-1101 was a two-period, single-dose, crossover study in healthy volunteers
+who received VHX-896 (Test) or iloperidone (Reference) at 3 x 1 mg. The results from this study
+showed superimposable PK profiles between VHX-896 and iloperidone (Figure 1) for
+milsaperidone and iloperidone, respectively. The PK parameters, Cmax, AUCt and AUCinf for
+milsaperidone and iloperidone were comparable (Table 2).
+
+Version date: October 12, 2018
+Reference ID: 5749703
+
+35
+
+NDA Multi-disciplinary Review and Evaluation NDA 220358
+milsaperidone
+Figure 1. Geometric mean plasma concentrations of milsaperidone and iloperidone after oral
+administration of VHX-896 (3 × 1 mg) and iloperidone (3 × 1 mg) in healthy participants
+Milsaperidone
+
+Iloperidone
+
+Source: Reviewer’s analysis.
+
+Table 2. Statistical comparison of pharmacokinetic parameters for milsaperidone and
+iloperidone after oral administration of VHX-896, 3 × 1 mg, and Iloperidone, 3 × 1 mg, in
+healthy participants
+Milsaperidone
+
+Test
+
+Ref
+
+GeoMean Ratio (%) (90%CI)
+
+AUCinf (pg×hr/mL)
+
+55285
+
+55577
+
+99 (96, 104)
+
+AUCt (pg×hr/mL)
+
+50485
+
+50751
+
+99 (95, 104)
+
+Cmax (pg/mL)
+
+1986
+
+2018
+
+98 (92, 105)
+
+Tmax (hr)1
+
+4.0 (2.0, 8.0)
+
+4.0 (3.0, 8.0)
+
+-
+
+Iloperidone
+
+Test
+
+Ref
+
+GeoMean Ratio (%) (90%CI)
+
+AUCinf (pg×hr/mL)
+
+32744
+
+32482
+
+101 (96, 105)
+
+AUCt (pg×hr/mL)
+
+30208
+
+29637
+
+102 (98, 106)
+
+Cmax (pg/mL)
+
+2419
+
+2300
+
+105 (97, 115)
+
+2.0 (1.0, 3.0)
+
+1.5 (1.0, 4.0)
+
+-
+
+Tmax (hr)1
+
+Reported as median (range)
+AUCinf: area under the curve from time 0 to infinity; AUCt: area under the curve from time 0 to t; Cmax: peak plasma concentration;
+Tmax=time post dose to reach peak plasma concentration; GeoMean Ratio: geometric mean ratio
+Source: Study VP-VHX-896-1101 report, pages 55-57
+1
+
+Study VP-VHX-896-1103 was a two-period, multiple-dose, crossover study in subjects with
+schizophrenia or bipolar I disorder dosed at 12 mg BID. Subjects initiated treatment on Day 1
+and maintained at 12 mg BID until Day 15, then switched to treatment 2 on Day 16 and
+maintained until Day 24. The PK parameters after reaching steady state for each treatment
+period (on Day 15 and Day 24) showed Cmax,ss and AUCtau,ss for milsaperidone and
+iloperidone were also comparable (Figure 2 and Table 3).
+
+Version date: October 12, 2018
+Reference ID: 5749703
+
+36
+
+NDA Multi-disciplinary Review and Evaluation NDA 220358
+milsaperidone
+Figure 2. Geometric mean steady-state plasma milsaperidone and iloperidone concentrations
+after oral administration of VHX-896 and Iloperidone at 12 mg BID in participants with
+schizophrenia or bipolar I disorder.
+Milsaperidone
+
+Iloperidone
+
+Source: Study VP-VHX-896-1103 report, pages 63 and 65.
+
+Table 3. Statistical comparison of steady-state pharmacokinetic parameters for milsaperidone
+and iloperidone after oral administration of VHX-896 and Iloperidone at 12 mg BID in
+participants with schizophrenia or bipolar I disorder
+Milsaperidone
+AUCtau,ss (pg×hr/mL)
+Cmax,ss (pg/mL)
+Tmax (hr)1
+
+Test
+253310
+28889
+3.5 (2.0, 4.1)
+
+Ref
+265887
+30365
+3.5 (2.0, 4.1)
+
+Iloperidone
+AUCtau,ss (pg×hr/mL)
+Cmax,ss (pg/mL)
+Tmax (hr)1
+
+Test
+186633
+24840
+2.0 (1.0, 8.0)
+
+Ref
+200856
+25610
+2.0 (1.0, 6.0)
+
+GeoMean Ratio (Test/Ref %)
+(90%CI)
+95 (94, 97)
+95 (94, 96)
+GeoMean Ratio (Test/Ref %)
+(90%CI)
+93 (92, 94)
+97 (95, 99)
+-
+
+1
+Reported as median (range)
+AUCtau,ss: area under the curve during one dosing interval at steady state; Cmax,ss: peak plasma concentration at steady state; Tmax: time
+post dose to reach peak plasma concentration; GeoMean Ratio: geometric mean ratio
+Source: Study VP-VHX-896-1103 report, pages 64 and 66.
+
+Because the results from the above two studies demonstrated comparable exposures for
+milsaperidone and iloperidone after administration, the PK bridging between the proposed
+product, VHX-896, and iloperidone is considered adequate. Therefore, VHX-896 can rely on the
+Agency’s previous findings of safety and effectiveness of iloperidone for the treatment of
+schizophrenia and bipolar I disorder.
+
+Version date: October 12, 2018
+Reference ID: 5749703
+
+37
+
+NDA Multi-disciplinary Review and Evaluation NDA 220358
+milsaperidone
+2. Is there clinically relevant food-drug interaction, and what is the appropriate
+management strategy?
+No, there is no clinically relevant food effect on the PK of VHX-896. The proposed product, VHX896 can be administered with or without food.
+The effect of high-fat meal on the PK of VHX-896 was evaluated in a single dose (2 x 1 mg), twoperiod, two-sequence, two-treatment randomized, crossover study (VP-VHX-896-1102) in
+healthy volunteers under fasted and fed conditions. Following an overnight fast of at least 10
+hours, subjects received the designated dose under fasted state or consumed a standard highfat and high-calorie breakfast beginning 30 minutes prior to dosing (fed condition). Participants
+were asked to swallow the medication as a whole and not to chew it. The participants were not
+allowed to eat any food for at least 4 hours post-dose.
+PK data collected showed that the exposures (Cmax, AUCt and AUCinf) of milsaperidone and
+iloperidone are similar following administration of VHX-896 under fasted and fed conditions
+(Figure 3 and Table 4). No clinically significant differences in the PK of milsaperidone and
+iloperidone were observed following administration of VHX-896 under fasted and fed states.
+Therefore, the clinical pharmacology reviewer recommends that VHX-896 can be administered
+with or without food.
+Figure 3. Geometric mean plasma concentrations of milsaperidone and iloperidone after oral
+administration of VHX-896, 2 × 1 mg, under fed and fasted conditions in healthy male and
+female participants.
+Iloperidone
+
+Milsaperidone
+
+Source: Study VP-VHX-896-1102 report, pages 54 and 56.
+
+Version date: October 12, 2018
+Reference ID: 5749703
+
+38
+
+NDA Multi-disciplinary Review and Evaluation NDA 220358
+milsaperidone
+Table 4. Statistical comparison of pharmacokinetic parameters for milsaperidone and
+Iloperidone after oral administration of VHX-896, 2 × 1 mg, under fed and fasted conditions in
+healthy male and female participants.
+Milsaperidone
+AUCinf (pg×hr/mL)
+AUCt (pg×hr/mL)
+Cmax (pg/mL)
+Tmax (hr)1
+Iloperidone
+AUCinf (pg×hr/mL)
+AUCt (pg×hr/mL)
+Cmax (pg/mL)
+Tmax (hr)
+
+Fed
+41837
+36502
+1227
+6.0 (3.0, 8.0)
+Fed
+26781
+23055
+1297
+3.0 (1.5, 6.0)
+
+Fasted
+36095
+31226
+1154
+4.0 (2.5, 8.0)
+Fasted
+22439
+19293
+1331
+2.0 (1.0, 3.0)
+
+GeoMean Ratio (%) (90%CI)
+116 (112, 121)
+117 (112, 122)
+106 (99, 114)
+GeoMean Ratio (%) (90%CI)
+119 (114, 125)
+120 (113, 126)
+97 (86, 111)
+-
+
+1
+Reported as median (range)
+AUC: area under the curve; Cmax: peak plasma concentration; Tmax: time post dose to reach peak plasma concentration; GeoMean Ratio:
+geometric mean ratio
+Source: Study VP-VHX-896-1102 report, pages 54 and 56.
+
+3. Is the dose proportionality of milsaperidone adequately characterized in the proposed
+dose range?
+Because milsaperidone demonstrates an adequate scientific bridge with iloperidone at the
+highest (12 mg) and lowest strengths (3 X 1 mg), milsaperidone can rely on the dose
+proportional PK characteristics of iloperidone. The dose proportionality of iloperidone was
+evaluated at multiple dose levels (i.e., 2, 4, 8, and 12 mg BID) in subjects with schizophrenia
+(Study ILO522 0112). This information was reviewed when NDA 022192 for iloperidone was
+submitted. The dose proportionality study demonstrated that iloperidone showed slightly
+greater than dose-proportional PK characteristics and milsaperidone exerted approximately
+dose proportional PK over the dose range of 2 mg to 12 mg BID (Table 4). Therefore, it is
+concluded that milsaperidone following VHX-896 administration exhibits approximately dose
+proportional PK and iloperidone exerts slightly greater than dose-proportional PK over the
+therapeutic dose range.
+Refer to the clinical pharmacology review for NDA 022192, Fanapt, for additional information.
+
+Version date: October 12, 2018
+Reference ID: 5749703
+
+39
+
+NDA Multi-disciplinary Review and Evaluation NDA 220358
+milsaperidone
+
+7 Sources of Clinical Data and Review Strategy
+Table of Clinical Studies
+The Applicant has submitted data from four clinical pharmacology studies: comparative
+bioavailability Study VP-VHX-896-1101 (Study 1101), food effect Study VP-VHX-896-1102 (Study
+1102), dose proportionality Study VP-VHX-896-1103 (Study 1103), and PK Study VP-VYV-683M1201 (Study 1201). See Table 5 for an overview of the studies.
+
+Version date: October 12, 2018
+Reference ID: 5749703
+
+40
+
+NDA Multi-disciplinary Review and Evaluation NDA 220358
+milsaperidone
+Table 5. Listing of Clinical Trials Relevant to NDA 220358
+Trial
+Identity
+
+Trial Design
+
+Regimen/ Schedule/
+Route
+
+Study
+Endpoints
+PK, safety,
+and
+tolerability
+
+Treatment
+Duration/
+Follow Up
+
+Single dose of
+each treatment
+with 14-day
+washout
+
+Number
+of
+Subjects
+
+VP-VHX896-1101
+
+Randomized, open-label,
+crossover, comparative
+bioavailabilty study of
+VHX-896 versus
+iloperidone
+Randomized, open-label,
+crossover, comparative
+bioavailabilty study of
+VHX-896 under fed versus
+fasted conditions
+Randomized, open-label,
+crossover, comparative
+bioavailability study of 12
+mg twice daily steadystate VHX-896 versus
+iloperidone
+
+Single oral dose each of
+three 1 mg tablets VHX-896
+and three 1 mg tablets
+iloperidone
+
+25
+
+Healthy adults
+ages ≥18 to ≤55
+years
+
+Single center
+(United States)
+
+Single oral dose each of two
+1 mg tablets VHX-896 under
+fed and fasted conditions
+
+PK, safety,
+and
+tolerability
+
+Single dose of
+each treatment
+with 14-day
+washout
+
+24
+
+Healthy adults
+ages ≥18 to ≤55
+years
+
+Single center
+(United States)
+
+Titration: oral VHX-896 filmcoated tablets OR
+iloperidone tablets 1, 2, 4,
+6, 8, and 10 mg twice daily
+x1 day each Days 1 to 6
+
+PK, safety,
+and
+tolerability
+
+24 days inpatient
+treatment
+including 6 days
+titration and 9
+days maintenance
+of each treatment
+with immediate
+crossover (no
+washout)
+
+26
+
+Adults ages ≥18
+to ≤65 years
+with
+schizophrenia
+or bipolar I
+disorder
+
+Three centers
+(United States)
+
+Randomized, open-label,
+PK, safety,
+Single dose during
+PK and safety study of
+and
+4-day inpatient
+iloperidone metabolites
+tolerability evaluation
+P88 (VHX-896) and P95
+Source: Clinical reviewer-created from Applicant’s tabular listing of clinical studies and clinical study reports
+1
+NCT number NCT06803290
+Abbreviations: PK, pharmacokinetic
+
+26
+
+Healthy adults
+ages ≥18 to ≤45
+years
+
+Single center
+(Switzerland)
+
+VP-VHX89611021
+VP-VHX896-1103
+
+VP-VYV683M1201
+
+Version date: October 12, 2018
+Reference ID: 5749703
+
+Maintenance: oral VHX-896
+film-coated tablets OR
+iloperidone tablets 12 mg
+twice daily x9 days each
+Single oral dose of 2 mg
+VHX-896 or 1 mg P95
+
+41
+
+Study
+Population
+
+Number of
+Centers and
+Countries
+
+NDA Multi-disciplinary Review and Evaluation NDA 220358
+milsaperidone
+
+Review Strategy
+The Applicant has not conducted any safety and efficacy studies and intends to rely upon the
+Agency’s findings of safety and effectiveness for iloperidone, based upon a scientific bridge
+between milsaperidone and iloperidone established with comparative bioavailability PK studies.
+See Section 6 for the Office of Clinical Pharmacology review of the PK study designs and PK
+results. The clinical review will provide a brief overview of the PK studies safety findings.
+
+Version date: October 12, 2018
+Reference ID: 5749703
+
+42
+
+NDA Multi-disciplinary Review and Evaluation NDA 220358
+milsaperidone
+
+8 Clinical Review of Individual Trials and Review of Safety
+Review of Safety
+Safety Review Approach
+See Section 7.2. Safety assessment will rely on scientific bridge to iloperidone; a review of
+deaths, serious adverse events, and discontinuations due to adverse events that occurred in the
+milsaperidone development program; and a review of other safety parameters for qualitative
+assessment of similarity to iloperidone.
+Review of the Safety Database
+Overall Exposure
+A total of 86 subjects were exposed to at least one dose of milsaperidone in the four phase 1
+studies.
+Adequacy of the safety database:
+The safety population includes all subjects who received at least one dose of milsaperidone.
+Given the different study designs of the four phase 1 PK studies, pooling of safety data was not
+appropriate.
+Clinical Reviewer’s Comment: Safety assessment is limited by the lack of placebo control
+in the open-label PK studies and in Study 1103 by the direct switch between treatments
+without washout.
+Adequacy of Applicant’s Clinical Safety Assessments
+Issues Regarding Data Integrity and Submission Quality
+The data were of sufficient integrity and quality for review.
+Categorization of Adverse Events
+The Applicant categorized adverse events (AEs) using the Medical Dictionary for Regulatory
+Activities versions 23.1 and 27.0. AEs were examined by system organ class as well as by
+preferred terms. AEs, severity of AEs, and serious AEs (SAEs) were appropriately defined. AE
+assessment included spontaneous reporting in response to questioning (as well as related to
+the results of relevant tests such as clinically significant laboratory assessments). The Applicant
+did not specify any AEs of special interest. Verbatim-to-preferred-term mapping appeared
+generally appropriate.
+
+Version date: October 12, 2018
+Reference ID: 5749703
+
+43
+
+NDA Multi-disciplinary Review and Evaluation NDA 220358
+milsaperidone
+Routine Clinical Tests
+Safety assessments included adverse events, vital signs, electrocardiograms (ECGs), clinical
+laboratory assessments (including hematology, chemistry, and urinalysis), and (in Study 1103)
+assessment of suicidal ideation and behavior and clinical global impression of schizophrenia
+symptoms. The Applicant’s criteria appeared appropriate for identifying laboratory and vital
+sign values as clinically significant. Serum prolactin was not assessed, which appears reasonable
+given either the single-dose (Studies 1101, 1102, and 1201) or brief duration (Study 1103) study
+designs.
+Safety Results
+Deaths
+No deaths occurred in any of the four phase 1 studies.
+Serious Adverse Events
+•
+
+One SAE of fall (leading to ankle fracture and hospitalization) occurred in Study 1103. The
+62-year-old male subject with BPD-I completed period 1 treatment with milsaperidone; on
+the first day of iloperidone dosing, the subject experienced AEs of mild dizziness and
+lightheadedness that were considered resolved same-day following treatment with oral
+fluids. On the seventh day of iloperidone dosing, the subject fell on recently mopped floors
+lacking cautionary signage; the investigator considered the fall unrelated.
+
+•
+
+No SAEs occurred in the other studies.
+
+Dropouts and/or Discontinuations Due to Adverse Effects
+•
+
+Study 1101: one healthy subject (
+) discontinued for an AE of electrocardiogram QT
+prolonged after iloperidone dosing in period 1. The subject did not receive period 2
+milsaperidone.
+
+•
+
+Study 1102: one healthy subject (
+) discontinued for AEs of cough, sore throat, and
+fatigue reported ≥10 days after the last dose of study medication (milsaperidone under fed
+conditions in period 1). The subject did not receive period 2 milsaperidone under fasting
+conditions.
+
+•
+
+Study 1103: three subjects were reported as discontinued for AEs and three subjects
+withdrew consent with ongoing or recent AEs:
+
+(b) (6)
+
+(b) (6)
+
+o Subject
+
+(b) (6)
+
+for the SAE of fall, as described above.
+
+o Subject
+
+(b) (6)
+
+, a 62-year-old male with schizophrenia, discontinued for AEs of
+
+Version date: October 12, 2018
+Reference ID: 5749703
+
+44
+
+NDA Multi-disciplinary Review and Evaluation NDA 220358
+milsaperidone
+dizziness, euphoria, and dry mouth after 3 days of period 1 iloperidone dosing. The
+subject did not receive period 2 milsaperidone.
+o Subject
+, a 53-year-old male with schizophrenia and type II diabetes (on
+sitagliptin), discontinued for an AE of worsening of type II diabetes that was detected as
+increased serum glucose collected on Day 15, the final day of period 1 iloperidone
+dosing (but reported on Day 17, 2 days after the switch to period 2 milsaperidone
+dosing). Milsaperidone was discontinued.
+(b) (6)
+
+o Subject
+, a 58-year-old male with schizophrenia (without apparent cessation of
+olanzapine per ADCM dataset, which was not recorded as a protocol deviation),
+insomnia, depression, and anxiety, who was reported as discontinuation for withdrawal
+of consent, appears to have discontinued on Day 7 of period 1 milsaperidone dosing
+following several mild AEs including constipation, parasthesia, hot flush, somnolence,
+(increased) anxiety, and headache (all intermittent except somnolence continuous, and
+all ongoing at time of study drug discontinuation, later resolved).
+(b) (6)
+
+o Subject
+, a 36-year-old female with schizophrenia, insomnia, and anxiety
+(whose aripiprazole and trazodone were discontinued at baseline), who was reported as
+discontinuation for withdrawal of consent, appears to have discontinued on Day 19, 4
+days after completing period 1 milsaperidone dosing and switching to period 2
+iloperidone, with three ongoing mild AEs including intermittent restlessness and fatigue
+that had started on Days 1 and 7, respectively, during period 1 milsaperidone dosing.
+The subject received several doses of lorazepam and zolpidem during the study for
+restlessness and insomnia.
+(b) (6)
+
+o Subject
+, a 45-year-old male with schizophrenia, was reported as
+discontinuation for withdrawal of consent during period 1 iloperidone dosing following
+AEs of chest pain and loss of consciousness. The subject did not receive period 2
+milsaperidone.
+(b) (6)
+
+•
+
+Study 1201: no subjects discontinued for AEs.
+Clinical Reviewer’s Comment: No SAEs or formally reported discontinuations for AEs
+appear related to milsaperidone. Of the two subjects who withdrew consent with
+ongoing AEs that began during milsaperidone dosing, all were mild AEs; one subject’s
+AEs may have been confounded by ongoing olanzapine (if its continuation was not a
+reporting error, as it was prohibited) and comorbid anxiety, and the other subject’s AEs
+may have been confounded by comorbid insomnia and anxiety, cessation of aripiprazole
+and trazodone, and ongoing occurrence of the AEs during period 2 iloperidone dosing.
+Somnolence, extrapyramidal disorder, headache, akathisia, fatigue, dizziness,
+parasthesia, and restlessness are labeled adverse reactions for iloperidone.
+
+Version date: October 12, 2018
+Reference ID: 5749703
+
+45
+
+NDA Multi-disciplinary Review and Evaluation NDA 220358
+milsaperidone
+Significant Adverse Events
+•
+
+In Study 1103, two subjects experienced two severe AEs each:
+o The SAEs of fall and fracture described above for Subject
+
+(b) (6)
+
+.
+
+o The AEs of chest pain and loss of consciousness described above for Subject
+who withdrew consent.
+•
+
+(b) (6)
+
+No severe AEs were reported in the other three studies.
+
+Treatment Emergent Adverse Events and Adverse Reactions
+•
+
+Study 1101: the most frequent AEs (≥5% of either treatment group, milsaperidone versus
+iloperidone) included dizziness (83.3% versus 95.8%), nausea (45.8% versus 41.7%),
+headache (16.7% versus 12.5%), palpitations (8.3% versus 16.7%), syncope (4.2% versus
+12.5%), vomiting (12.5% each), nasal congestion (8.3% each), and asthenia (8.3% versus
+0.0%).
+
+•
+
+Study 1102: the most frequent AEs (≥5% of either milsaperidone treatment group, highest
+frequency of either fasting or fed condition) included dizziness (60.9%); nausea (43.5%);
+hypotension (30.4%); headache (25.0%); tinnitus (16.7%); dyspnea and vision blurred
+(12.5% each); syncope, vomiting, hypertension, nasal congestion, and heart rate increased
+(8.7% each); and lethargy, hot flush, and asthenia (8.3% each).
+
+•
+
+Study 1103: the most frequent AEs (≥5% of either treatment group, beginning during
+treatment with milsaperidone versus iloperidone) included headache and nausea (8.3%
+versus 4.0% each), somnolence (8.3% versus 0.0%), dizziness (4.2% versus 16.0%), dry
+mouth (0.0% versus 12.0%), and tachycardia (4.2% versus 8.0%).
+
+•
+
+Study 1201: the most frequent AEs (≥5% of either treatment group, milsaperidone versus
+P95) included dizziness (46.7% versus 33.3%); nausea and faintness (13.3% versus 0.0%
+each); feeling cold, abdominal pain, and vomiting (6.7% versus 0.0% each); and headache
+(6.7% versus 33.3%).
+Clinical Reviewer’s Comment: AEs in each of the four phase 1, open-label, PK studies (all
+lacking placebo control) appear overall generally consistent with labeled adverse
+reactions for iloperidone and do not suggest a new or worsened safety signal with
+milsaperidone.
+
+Laboratory Findings
+•
+
+In Study 1103, no clinically significant abnormal chemistry laboratory values were reported.
+Across both treatment periods, three subjects had low hematocrit and/or hemaglobin
+
+Version date: October 12, 2018
+Reference ID: 5749703
+
+46
+
+NDA Multi-disciplinary Review and Evaluation NDA 220358
+milsaperidone
+values (two in the milsaperidone-iloperidone arm, and one in the iloperidone-milsaperidone
+arm). One subject each in the milsaperidone-iloperidone arm had a urinalysis abnormality
+of glucose increase ≥2 units and protein increase ≥2 units. Both treatment arms had
+increases in mean serum urate at Day 15 (end of period 1) and Day 24 (end of period 2)
+from baseline, which were generally similar in amount except for the milsaperidoneiloperidone arm Day 24 change, which was less than the other time periods.
+Other than than the discontinuation for an AE of worsening diabetes mellitus described
+previously, one AE of blood triglycerides increased was reported at end-of-study for a
+subject in the milsaperidone-iloperidone treatment arm.
+•
+
+No clinically significant abnormal laboratory values were reported in the other three
+studies.
+Clinical Reviewer’s Comment: Iloperidone labeling includes report of iloperidone-treated
+patients with hematocrit values below the extended normal range with a suggested
+mechanism of hemodilution (observed with other alpha receptor antagonists), and
+describes increased mean serum urate level in a 4-week placebo-controlled trial in
+subjects with bipolar mania. The results appear overall generally consistent with labeling
+for iloperidone and do not suggest a new or worsened safety signal with milsaperidone.
+
+Vital Signs
+•
+
+Study 1101: Proportions of subjects with clinically notable abnormalities of vital signs (blood
+pressure and heart rate) were generally similar between treatment groups. No orthostasis
+AEs were reported, but AEs of dizziness and syncope were reported as previously described.
+
+•
+
+Study 1102: Proportions of subjects with clinically notable abnormalities of vital signs (blood
+pressure and heart rate) were generally similar between treatment groups. No orthostasis
+AEs were reported, but AEs of dizziness, hypotension, syncope, hypertension, and heart rate
+increased were reported as previously described.
+
+•
+
+Study 1103: Proportions of subjects with clinically notable abnormalities of vital signs (blood
+pressure and heart rate) were generally similar between treatment groups. One AE of
+orthostatic hypotension was reported on Day 7 during treatment period 1 with iloperidone,
+and an AE of loss of consciousness prior to withdrawal of consent was reported as
+previously described. AEs of dizziness and tachycardia were reported as previously
+described.
+
+•
+
+Study 1201: No clinically significant out-of-range vital sign values were reported. No
+orthostasis AEs were reported, but AEs of dizziness were reported as previously described.
+Clinical Reviewer’s Comment: Iloperidone labeling includes orthostatic hypotension and
+
+Version date: October 12, 2018
+Reference ID: 5749703
+
+47
+
+NDA Multi-disciplinary Review and Evaluation NDA 220358
+milsaperidone
+syncope as a Warning and Precaution (including association with dizziness and
+tachycardia). The results appear overall generally consistent with labeling for iloperidone
+and do not suggest a new or worsened safety signal with milsaperidone.
+Electrocardiograms (ECGs) and QT
+Increases in QT interval were consistent with labeling for iloperidone. Proportions of subjects
+with clinically notable abnormalities of ECG values were generally similar between treatment
+groups across the studies. No subjects with QT intervals >500 ms or changes from baseline >60
+ms were reported. An AE of electrocardiogram QT prolonged leading to discontinuation
+occurred in Study 1101 and AEs of tachycardia occurred in Study 1102 and Study 1103 as
+described previously.
+Clinical Reviewer’s Comment: Iloperidone labeling includes a Warning and Precaution for
+QT prolongation. The results appear overall generally consistent with labeling for
+iloperidone and do not suggest a new or worsened safety signal with milsaperidone.
+Analysis of Submission-Specific Safety Issues
+AEs related to QT prolongation, metabolic changes, and orthostatic hypotension and syncope
+were previously described. No other notable class or iloperidone-specific AEs were reported
+across the studies.
+Clinical Outcome Assessment (COA) Analyses Informing
+Safety/Tolerability
+Study 1103 included the Clinical Global Impression-Severity and -Change scales and the
+Columbia-Suicide Severity Rating Scale. As described by the Applicant, the results were
+unremarkable with baseline results similar to those at each treatment visit. No subject
+decompensated or discontinued for psychiatric reasons, and no treatment-emergent suicidal
+ideation or behavior occurred.
+Safety Analyses by Demographic Subgroups
+Given the limited sample sizes, the Applicant did not report (nor did the Division conduct) any
+subgroup safety analyses.
+Additional Safety Explorations
+Human Reproduction and Pregnancy
+•
+
+Pregnancy: Following an information request from the Division of Pediatric and Maternal
+Health (DPMH), the Applicant submitted a review of clinical iloperidone data. Per DPMH,
+clinical data are limited to iloperidone exposure only; no clinical data pertaining to
+milsaperidone are available. There were ten iloperidone-exposed pregnancies (nine from
+
+Version date: October 12, 2018
+Reference ID: 5749703
+
+48
+
+NDA Multi-disciplinary Review and Evaluation NDA 220358
+milsaperidone
+pharmacovigilance and one in the published literature). Among the iloperidone-exposed
+pregnancies, no major birth defects or adverse pregnancy, maternal or fetal outcomes were
+identified; however, the data are limited by a large amount of missing information about
+pregnancy outcomes (six cases without information) and a small number of cases.
+DPMH recommends a statement in labeling that iloperidone cases are insufficient to inform
+safe use during pregnancy. DPMH also recommends including the nonclinical information
+about iloperidone along with the general benefit-risk statement about birth defects and
+miscarriage under the Risk Summary. In the Highlights of Prescribing Information and
+subsection 8.1 under Clinical Considerations Fetal/Neonatal Adverse Reactions, DPMH
+recommends including information about extrapyramidal and withdrawal symptoms that
+may occur in neonates after exposure to milsaperidone during the third trimester. This
+information appears in the labeling for other atypical antipsychotic medications, including
+the parent drug, iloperidone.
+DPMH also recommends a section under Clinical Considerations titled Disease-associated
+maternal and/or embryo/fetal risk to explain the risk of adverse perinatal outcomes
+associated with schizophrenia and BPD-I, such as preterm birth. Although a diseaseassociated maternal and/or embryo/fetal risk section does not appear in iloperidone
+labeling, this information appears in the labeling for other atypical antipsychotic
+medications, including risperidone, olanzapine, quetiapine, ziprasidone, and paliperidone.
+As the DPMH review did not uncover a new safety signal related to iloperidone or
+milsaperidone, DPMH does not recommend issuing a post-marketing requirement (PMR) for
+a pregnancy safety study. Iloperidone is part of the National Pregnancy Registry for Atypical
+Antipsychotics, so this information should be conveyed in Subsection 8.1 under Pregnancy
+Exposure Registry.
+•
+
+Lactation: Per DPMH, there are no new nonclinical or clinical data related to lactation to
+inform lactation labeling for milsaperidone. Iloperidone labeling advises not to breastfeed
+during treatment due to the potential for serious adverse reactions. Due to the potential for
+serious adverse reactions in infants exposed to milsaperidone via breast millk, such as QT
+prolongation, neuroleptic malignant syndrome, tardive dyskinesia, metabolic changes,
+seizures, cytopenias, priapism, and cognitive and motor impairment, DPMH recommends
+advising in labeling that women not breastfeed during treatment with milsaperidone and
+for 5 to 6 half-lives after the last dose (i.e., 6 days after the last dose for CYP2D6 normal
+metabolizers and 8 days after the last dose for CYP2D6 poor metabolizers). In terms of
+PMRs for lactation, DPMH recommends issuing a PMR for a milk-only clinical lactation study
+because schizophrenia and bipolar I disorder are common in females of reproductive
+potential and the parent drug, iloperidone, is known to be present in rat milk. A milk-only
+study would quantify the amount of drug in milk and provide an assessment of the potential
+risk to breastfed infants. The information from a clinical lactation study has the potential to
+change labeling of Subsection 8.2.
+
+Version date: October 12, 2018
+Reference ID: 5749703
+
+49
+
+NDA Multi-disciplinary Review and Evaluation NDA 220358
+milsaperidone
+•
+
+Reproduction: Per DPMH, there are no new nonclinical or clinical data related to fertility.
+Iloperidone is not known to be genotoxic or to have drug-drug interactions with hormonal
+contraceptives. For these reasons, DPMH recommends omitting subsection 8.3, as there are
+no data to convey to prescribers.
+Safety in the Postmarket Setting
+
+Safety Concerns Identified Through Postmarket Experience
+The Applicant did not submit a separate review of iloperidone postmarketing data.
+Clinical Reviewer’s Comment: A review of iloperidone annual reports and Periodic
+Adverse Drug Experience Reports since the last iloperidone efficacy supplement approval
+(review dated April 2, 2024) includes two annual reports and two Periodic Adverse Drug
+Experience Reports covering May 6, 2023, to May 5, 2024, and May 6, 2024, to May 5,
+2025. No new or worsened safety signals are apparent from the available data.
+Expectations on Safety in the Postmarket Setting
+Given the adequate scientific bridge, the safety profile of milsaperidone is expected to be
+similar to that of iloperidone as described in labeling.
+Integrated Assessment of Safety
+The Applicant proposes to rely on the Agency’s previous safety findings for iloperidone with a
+scientific PK bridge, which the Office of Clinical Pharmacology considers adequate (see Section
+6). Otherwise, no new or worsened safety signals are apparent from the PK trial data.
+Milsaperidone is expected to have a similar safety profile as iloperidone.
+
+Conclusions and Recommendations
+The Applicant proposes to rely on the Agency’s previous efficacy and safety findings for
+iloperidone with a scientific PK bridge, which the Office of Clinical Pharmacology considers
+adequate (see Section 6). No new or worsened safety signals for milsaperidone are apparent
+from the PK trial safety data. The clinical review team recommends approval of milsaperidone
+for the treatment of schizophrenia in adults and acute treatment of manic or mixed episodes
+associated with BPD-I in adults.
+
+Version date: October 12, 2018
+Reference ID: 5749703
+
+50
+
+NDA Multi-disciplinary Review and Evaluation NDA 220358
+milsaperidone
+
+9 Advisory Committee Meeting and Other External Consultations
+An Advisory Committee meeting was not convened for this submission. This application relies
+on the findings of safety and efficacy of iloperidone. There were no questions for an Advisory
+Committee.
+
+Version date: October 12, 2018
+Reference ID: 5749703
+
+51
+
+NDA Multi-disciplinary Review and Evaluation NDA 220358
+milsaperidone
+
+10 Pediatrics
+The Applicant submitted an initial pediatric study plan (iPSP) 1 week prior to NDA submission.
+On April 22, 2025, the Division informed the Applicant that the iPSP process only applies while
+the application is in the IND phase, and any additional pediatric studies/data that may be
+needed will be determined during the NDA review cycle. The Division requested that the
+Applicant submit the proposed pediatric study plan (PSP) to the NDA, which the Applicant did
+on May 20, 2025.
+The Applicant’s PSP cross-references the PSPs for NDA 022192 iloperidone and its efficacy
+supplemental NDA (sNDA)-023. The Applicant proposes to extend findings from iloperidone and
+adopt the associated PSPs for milsaperidone given adult scientific bridge results. It is acceptable
+for the Applicant to provide pediatric assessments for milsaperidone as per the assessments for
+iloperidone.
+Original NDA 022192
+Fanapt (iloperidone) was approved on May 6, 2009, for the acute treatment of schizophrenia in
+adults with the following Pediatric Research Equity Act (PREA) postmarketing requirements
+(studies in neonates or pediatric patients younger than 12 were waived because necessary
+studies are highly impractical, given the very low incidence of schizophrenia diagnosed prior to
+age 13):
+4-1
+
+A deferred pediatric study under PREA for the treatment of schizophrenia in
+pediatric patients ages 13 to 17. A study to obtain pharmacokinetic data and
+provide information pertinent to dosing of iloperidone tablets in the relevant
+pediatric population.
+Final Protocol Submission:
+Study Completion:
+Final Report Submission:
+
+4-2
+
+March 1, 2010
+September 1, 2013
+March 1, 2014
+
+A deferred pediatric study under PREA for the treatment of schizophrenia in
+pediatric patients ages 13 to 17. A study of the efficacy and safety of
+iloperidone tablets in the relevant pediatric population.
+Final Protocol Submission:
+Study Completion:
+Final Report Submission:
+
+March 1, 2010
+September 1, 2013
+March 1, 2014
+
+On August 24, 2016, the Division notified the Applicant that PMR 4-1 had been fulfilled.
+
+Version date: October 12, 2018
+Reference ID: 5749703
+
+52
+
+NDA Multi-disciplinary Review and Evaluation NDA 220358
+milsaperidone
+In a January 15, 2020, General Advice letter, the Division informed the Applicant that it is
+acceptable to extrapolate the effectiveness of atypical antipsychotic drugs approved for the
+treatment of schizophrenia in adults to pediatric patients 13 years of age and older, and to
+extrapolate the effectiveness of drugs approved for the treatment of bipolar I disorder in adults
+to pediatric patients 10 years of age and older. Further efficacy studies are unnecessary based
+on full extrapolation of efficacy, provided that the Sponsor submit a population PK analysis to
+support dose-selection and safety data from a long-term, open-label safety study.
+On March 16, 2021, the Division released the Applicant from PMR 4-2, which was replaced by:
+4-7
+
+A study of the long-term safety (exposure for at least 1 year) of iloperidone
+tablets in pediatric patients ages 13 to 17.
+Final Protocol Submission: June 2021
+Study Completion: December 2022
+Final Report Submission: January 2023
+
+Following September 30, 2022, and July 2, 2024, deferral extension requests granted by the
+Division, the most recent revised milestone dates include:
+4-7
+
+A study of the long-term safety (exposure for at least 1 year) of iloperidone
+tablets in pediatric patients ages 13 to 17.
+Study Completion: June 2026 (revised date)
+Final Report Submission: November 2026 (deferral extension date)
+
+The Applicant states that pediatric Study VP-VYV-683-4101 is ongoing under IND 146403 to
+fulfill PMR 4-7.
+NDA 022192-Supplement 023
+Efficacy supplemental NDA (sNDA)-023 was approved on April 2, 2024, for the acute treatment
+of manic or mixed episodes associated with bipolar I disorder in adults, with the following
+sNDA-023 PREA postmarketing requirements (the pediatric studies requirement for ages 0 to
+less than 10 years were waived because studies are impossible or highly impractical due to the
+low incidence of bipolar I disorder diagnosis in ages less than 10 years):
+4606-1
+
+Conduct a GLP juvenile animal study to assess the toxicology of iloperidone in
+juvenile rats to support clinical trials of iloperidone in the intended pediatric
+population ages 10 to <13 years.
+Final Protocol Submission: April 2024
+Study Completion: April 2025
+
+Version date: October 12, 2018
+Reference ID: 5749703
+
+53
+
+NDA Multi-disciplinary Review and Evaluation NDA 220358
+milsaperidone
+Final Report Submission: October 2025
+4606-2
+
+Conduct an open-label, multiple oral dose study to demonstrate the safety,
+tolerability, and pharmacokinetics of iloperidone in patients ages 10 to <13
+years with manic or mixed episode associated with bipolar I disorder.
+Draft Protocol Submission: March 2025
+Final Protocol Submission: July 2025
+Study Completion: July 2026
+Final Report Submission: January 2027
+
+4606-3
+
+Conduct an open-label study to assess the long-term safety of iloperidone
+in patients aged 10 to <13 years with bipolar I disorder.
+Draft Protocol Submission: March 2025
+Final Protocol Submission: July 2025
+Study Completion: July 2030
+Final Report Submission: January 2031
+
+Following a January 29, 2025, deferral extension request for PMR 4606-1 granted by the
+Division, the most recent revised milestone dates include:
+4606-1
+
+Conduct a GLP juvenile animal study to assess the toxicology of iloperidone in
+juvenile rats to support clinical trials of iloperidone in the intended pediatric
+population ages 10 to <13 years.
+Study Completion: January 2026 (revised date)
+Final Report Submission: July 2026 (deferral extension date)
+
+The Division denied a May 2, 2025, deferral extension request for PMRs 4606-2 and 4606-3 as
+premature.
+The Applicant states that planned nonclinical and clinical studies are ongoing. (Study protocols
+to fulfill PMR 4606-1 have been submitted and found acceptable by the Division, and a draft
+protocol synopsis has been submitted for PMRs 4606-2 and 4606-3; the Division requested that
+the Applicant submit full study protocols for review.)
+
+Version date: October 12, 2018
+Reference ID: 5749703
+
+54
+
+NDA Multi-disciplinary Review and Evaluation NDA 220358
+milsaperidone
+
+11 Labeling Recommendations
+Prescription Drug Labeling
+Prescribing information (PI)
+The Applicant’s proposed labeling largely mirrors that of iloperidone. Labeling changes or
+updates include:
+•
+
+Highlights: updated to be consistent with changes in the full PI.
+
+•
+
+Section 2 Dosage and Administration:
+o Modified some of the language to improve communication of the dosage and
+administration information.
+o Given that 2% to 7% of the U.S. population are CYP2D6 poor metabolizers and the
+recommended dosage is lower in such patients compared to CYP2D6 normal
+metabolizers, the Agency recommended addition of a sentence (in the CYP2D6 poor
+metabolizer subsection) recommending consideration of CYP2D6 genetic testing to
+determine the patient’s CYP2D6 metabolizer status prior to dosing.
+o Improved clarify for dosage mofidication instructions in Section 2.4 for scenarios when
+milsaperidone or concomitant medication is initiated or stopped.
+
+•
+
+Section 5 Warnings and Precautions: updated to improve clarity of information and be
+consistent with most recent guidance.
+
+•
+
+Section 6 Adverse Reactions:
+o Added linkage statement from milsaperidone to iloperidone data.
+o Removal of redundant preferred terms from table footnotes of grouped terms.
+o In the Laboratory Test Abnormalities subsection, the Applicant proposed to add
+elevated serum urate levels results from schizophrenia Study 2 (Study VP-VYV-6833101) to iloperidone’s label bipolar I disorder Study 4 results, “to strengthen this section
+of the label as not being indication specific but observed across both indications.” The
+Division did not object to the addition as the data appeared generally consistent across
+studies with a greater elevation from baseline in the iloperidone groups compared to
+placebo.
+
+Version date: October 12, 2018
+Reference ID: 5749703
+
+55
+
+NDA Multi-disciplinary Review and Evaluation NDA 220358
+milsaperidone
+•
+
+Section 7 Drug Interactions: updated Section 7.1 to improve clarity of information.
+
+•
+
+Section 8 Use in Specific Populations:
+o Updated Sections 8.1 and 8.2 per DPMH and PLLR format.
+o Updated Section 8.6 to improve clarity of information.
+o Added Section 8.7 for Use in Genomic Subgroups.
+
+•
+
+(b) (4)
+
+•
+
+Section 10 Overdosage: moved description of overdose statement out of management
+section.
+
+•
+
+Section 12 Clinical Pharmacology:
+o Moved cardiac electrophysiology results to Section 12.2.
+o Updated Section 12.3 to include relevant PK measures and parameters that are
+important for the safe and effective use of Bysanti tablets, as per current labeing
+guidance.
+o Updated Section 12.5 Pharmacogenomics information.
+
+•
+
+Section 13 Nonclinical Toxicology:
+o Added in vitro mutagenicity data for milsaperidone to Section 13.1.
+
+•
+
+Section 14 Clinical Studies: added linkage statement as above.
+
+Other Prescription Drug Labeling
+The Division of Medication Error Prevention and Analysis 1 (DMEPA 1) concluded that the
+“commercial container labels and titration pack labeling, and professional sample container
+labels, carton labeling, and titration pack labeling are unacceptable from a medication error
+perspective.” See the DMEPA 1 review for details of the identified medication error issues, the
+rationale for concern, and proposed recommendations to minimize the risk for medication
+error.
+
+Version date: October 12, 2018
+Reference ID: 5749703
+
+56
+
+NDA Multi-disciplinary Review and Evaluation NDA 220358
+milsaperidone
+
+12 Risk Evaluation and Mitigation Strategies (REMS)
+No specific risk evaluation and mitigation strategies are recommended as an adequate scientific
+bridge has been established and the safety profile of milsaperidone does not appear to differ
+from iloperidone.
+
+Version date: October 12, 2018
+Reference ID: 5749703
+
+57
+
+NDA Multi-disciplinary Review and Evaluation NDA 220358
+milsaperidone
+
+13 Postmarketing Requirements and Commitment
+Division of Pediatric and Maternal Health (DPMH) recommends issuing a PMR for a milk-only
+clinical lactation study because schizophrenia and biopolar I disorder are common in females of
+reproductive potential and the parent drug, iloperidone, is known to be present in rat milk. A
+milk-only study would quantify the amount of drug in milk and provide an assessment of the
+potential risk to breastfed infants. The information from a clinical lactation study has the
+potential to change labeling of Subsection 8.2 in the future.
+
+Version date: October 12, 2018
+Reference ID: 5749703
+
+58
+
+NDA Multi-disciplinary Review and Evaluation NDA 220358
+milsaperidone
+
+14 Division Director (Clinical) Comments
+This review reflects my edits and feedback. I agree with the findings as described by the review
+team and concur with the approval decision.
+
+Version date: October 12, 2018
+Reference ID: 5749703
+
+59
+
+NDA Multi-disciplinary Review and Evaluation NDA 220358
+milsaperidone
+
+15 Office Director Comments
+This review reflects Office-level edits and feedback. I agree with the findings as described by the
+review team and concur with the approval decision.
+
+Version date: October 12, 2018
+Reference ID: 5749703
+
+60
+
+NDA Multi-disciplinary Review and Evaluation NDA 220358
+milsaperidone
+
+16 Appendices
+References
+American Psychiatric Association. Diagnostic and Statistical Manual of Mental Disorders, 5th
+ed., Text Revision. Washington, DC: American Psychiatric Publishing, 2022. doi:
+10.1176/appi.books.978089042578
+American Psychiatric Association. The American Psychiatric Association Practice Guideline for
+the Treatment of Patients With Schizophrenia, Third Edition. Washington, DC: American
+Psychiatric Publishing, 2021.
+Angst J, Sellaro R. Historical perspectives and natural history of bipolar disorder. Biol Psychiatry.
+2000 Sep 15;48(6):445-57. doi: 10.1016/s0006-3223(00)00909-4. PMID: 11018218.
+Auquier P, Lançon C, Rouillon F, Lader M, Holmes C. Mortality in schizophrenia.
+Pharmacoepidemiol Drug Saf. 2006 Dec;15(12):873-9. doi: 10.1002/pds.1325. PMID: 17058327.
+Correll CU, Kane JM. Schizophrenia: mechanism of action of current and novel treatments. J Clin
+Psychiatry. 2014 Apr;75(4):347-8. doi: 10.4088/JCP.13078co8c. PMID: 24813403.
+Fusar-Poli P, Papanastasiou E, Stahl D, Rocchetti M, Carpenter W, Shergill S, McGuire P.
+Treatments of Negative Symptoms in Schizophrenia: Meta-Analysis of 168 Randomized
+Placebo-Controlled Trials. Schizophr Bull. 2015 Jul;41(4):892-9. doi: 10.1093/schbul/sbu170.
+Epub 2014 Dec 20. Erratum in: Schizophr Bull. 2022 May 7;48(3):721. doi:
+10.1093/schbul/sbz071. PMID: 25528757; PMCID: PMC4466178.
+Goodwin GM, Haddad PM, Ferrier IN, Aronson JK, Barnes T, Cipriani A, Coghill DR, Fazel S,
+Geddes JR, Grunze H, Holmes EA, Howes O, Hudson S, Hunt N, Jones I, Macmillan IC, McAllisterWilliams H, Miklowitz DR, Morriss R, Munafò M, Paton C, Saharkian BJ, Saunders K, Sinclair J,
+Taylor D, Vieta E, Young AH. Evidence-based guidelines for treating bipolar disorder: Revised
+third edition recommendations from the British Association for Psychopharmacology. J
+Psychopharmacol. 2016 Jun;30(6):495-553. doi: 10.1177/0269881116636545. Epub 2016 Mar
+15. PMID: 26979387; PMCID: PMC4922419.
+Hirschfeld RMA. Guideline Watch: Practice Guideline for the Treatment of Patients with Bipolar
+Disorder, 2nd edition. Arlington, VA: American Psychiatric Publishing, 2005.
+Hjorthøj C, Stürup AE, McGrath JJ, Nordentoft M. Years of potential life lost and life expectancy
+in schizophrenia: a systematic review and meta-analysis. Lancet Psychiatry. 2017 Apr;4(4):295301. doi: 10.1016/S2215-0366(17)30078-0. Epub 2017 Feb 22. Erratum in: Lancet Psychiatry.
+2017 Sep;4(9):e19. doi: 10.1016/S2215-0366(17)30326-7. PMID: 28237639.
+
+Version date: October 12, 2018
+Reference ID: 5749703
+
+61
+
+NDA Multi-disciplinary Review and Evaluation NDA 220358
+milsaperidone
+Judd LL, Schettler PJ, Solomon DA, Maser JD, Coryell W, Endicott J, Akiskal HS. Psychosocial
+disability and work role function compared across the long-term course of bipolar I, bipolar II
+and unipolar major depressive disorders. J Affect Disord. 2008 May;108(1-2):49-58. doi:
+10.1016/j.jad.2007.06.014. Epub 2007 Nov 19. PMID: 18006071.
+Leucht S, Cipriani A, Spineli L, Mavridis D, Orey D, Richter F, Samara M, Barbui C, Engel RR,
+Geddes JR, Kissling W, Stapf MP, Lässig B, Salanti G, Davis JM. Comparative efficacy and
+tolerability of 15 antipsychotic drugs in schizophrenia: a multiple-treatments meta-analysis.
+Lancet. 2013 Sep 14;382(9896):951-62. doi: 10.1016/S0140-6736(13)60733-3. Epub 2013 Jun
+27. Erratum in: Lancet. 2013 Sep 14;382(9896):940. PMID: 23810019.
+Marangell LB, Bauer MS, Dennehy EB, Wisniewski SR, Allen MH, Miklowitz DJ, Oquendo MA,
+Frank E, Perlis RH, Martinez JM, Fagiolini A, Otto MW, Chessick CA, Zboyan HA, Miyahara S,
+Sachs G, Thase ME. Prospective predictors of suicide and suicide attempts in 1,556 patients
+with bipolar disorders followed for up to 2 years. Bipolar Disord. 2006 Oct;8(5 Pt 2):566-75. doi:
+10.1111/j.1399-5618.2006.00369.x. PMID: 17042830.
+Ringeisen H, Edlund MJ, Guyer H, Geiger P, Stambaugh LF, Dever JA, Liao D, Carr CM, Peytchev,
+A, Reed W, McDaniel K, Smith TK. Mental and Substance Use Disorders Prevalence Study:
+Findings report. Research Triangle Park: RTI International, 2023.
+Schoeyen HK, Birkenaes AB, Vaaler AE, Auestad BH, Malt UF, Andreassen OA, Morken G. Bipolar
+disorder patients have similar levels of education but lower socio-economic status than the
+general population. J Affect Disord. 2011 Mar;129(1-3):68-74. doi: 10.1016/j.jad.2010.08.012.
+Epub 2010 Sep 15. PMID: 20832866.
+Tandon R, Nasrallah HA, Keshavan MS, Schizophrenia, “Just the Facts” 4. Clinical Features and
+Conceptualization. Schizophr Res. 2009 May;110(1-3):1-23. doi: 10.1016/j.schres.2009.03.005.
+Epub 2009 Mar 27. PMID: 19328655.
+Yatham LN, Kennedy SH, Parikh SV, Schaffer A, Bond DJ, Frey BN, Sharma V, Goldstein BI, Rej S,
+Beaulieu S, Alda M, MacQueen G, Milev RV, Ravindran A, O'Donovan C, McIntosh D, Lam RW,
+Vazquez G, Kapczinski F, McIntyre RS, Kozicky J, Kanba S, Lafer B, Suppes T, Calabrese JR, Vieta
+E, Malhi G, Post RM, Berk M. Canadian Network for Mood and Anxiety Treatments (CANMAT)
+and International Society for Bipolar Disorders (ISBD) 2018 guidelines for the management of
+patients with bipolar disorder. Bipolar Disord. 2018 Mar;20(2):97-170. doi: 10.1111/bdi.12609.
+Epub 2018 Mar 14. PMID: 29536616; PMCID: PMC5947163.
+
+Version date: October 12, 2018
+Reference ID: 5749703
+
+62
+
+NDA Multi-disciplinary Review and Evaluation NDA 220358
+milsaperidone
+
+Financial Disclosure
+Covered Clinical Study (Name and/or Number): VP-VHX-896-1101, -1102, -1103
+Was a list of clinical investigators provided:
+
+Yes
+
+No
+(Request list from
+Applicant)
+
+Total number of investigators identified: 41
+Number of investigators who are Sponsor employees (including both full-time and part-time
+employees): 0
+Number of investigators with disclosable financial interests/arrangements (Form FDA 3455):
+0
+If there are investigators with disclosable financial interests/arrangements, identify the
+number of investigators with interests/arrangements in each category (as defined in 21 CFR
+54.2(a), (b), (c) and (f)): Not applicable
+Compensation to the investigator for conducting the study where the value could be
+influenced by the outcome of the study:
+Significant payments of other sorts:
+Proprietary interest in the product tested held by investigator:
+Significant equity interest held by investigator in S
+Sponsor of covered study:
+Is an attachment provided with details Yes
+of the disclosable financial
+interests/arrangements: Not applicable
+
+No
+(Request details from
+Applicant)
+
+Is a description of the steps taken to
+Yes
+No
+(Request information
+minimize potential bias provided: Not
+from Applicant)
+applicable
+Number of investigators with certification of due diligence (Form FDA 3454, box 3)
+Is an attachment provided with the
+reason: Not applicable
+
+Yes
+
+No
+(Request explanation
+from Applicant)
+
+Nonclinical Pharmacology/Toxicology
+See Section 5.1.
+
+Version date: October 12, 2018
+Reference ID: 5749703
+
+63
+
+NDA Multi-disciplinary Review and Evaluation NDA 220358
+milsaperidone
+
+Clinical Pharmacology
+Bioanalytical methods
+Liquid chromatography and tandem mass spectrometry (LC-MS/MS) method (18037) was
+(b) (4)
+developed and validated by
+, was used for the quantitation of iloperidone,
+milsaperidone and P95 in human K2EDTA plasma from clinical studies VHX-986-1101 and VHX(b) (4)
+986-1102. This method was transferred to
+after a partial validation using PK samples
+from clinical study VHX-986-1103. The validation is summarized in report 41907-01.
+Table 6. Overview of Bioanalytical Method Validation Parameters for the Determination of
+Milsaperidone in Human K2EDTA Plasma (Method 18037).
+
+Version date: October 12, 2018
+Reference ID: 5749703
+
+64
+
+NDA Multi-disciplinary Review and Evaluation NDA 220358
+milsaperidone
+
+Failed run 2 sensitivity test excluded from statistics.
+The stock and spike solution stability for P88 (milsaperidone) also apply to P88-13CD3.
+c
+Whole blood stability failed to meet acceptance criteria in run 8 for iloperidone and P88 at both temperatures. Test was repeated in run 17 in
+ice water temperature only. Iloperidone and P88 met acceptance criteria in run 17 but P95 failed at the QCL level. Test was not repeated
+further.
+d
+Hyperlipidemia experiment failed to meet acceptance criteria at the QCL level for P95 in run 5. Hyperlipidemia was repeated in run 6 at the
+QCL level only. Experiment failed to meet acceptance criteria in run 6 for P95. Experiment was not repeated further. Hyperlipidemia summary
+statistics reported from run 5 results since run 6 was only performed at QCL.
+a
+
+b
+
+Version date: October 12, 2018
+Reference ID: 5749703
+
+65
+
+NDA Multi-disciplinary Review and Evaluation NDA 220358
+milsaperidone
+Table 7. Overview of Bioanalytical Method 18037 Validation Parameters for the
+Determination of Iloperidone in Human K2EDTA Plasma (Method 18037).
+
+Version date: October 12, 2018
+Reference ID: 5749703
+
+66
+
+NDA Multi-disciplinary Review and Evaluation NDA 220358
+milsaperidone
+
+Failed run 2 sensitivity test excluded from statistics.
+The stock and spike solution stability for iloperidone also applies to iloperidone-13CD3.
+c
+Whole blood stability failed to meet acceptance criteria in run 8 for iloperidone and P88 at both temperatures. Test was repeated in run 17 in
+ice water temperature only. Iloperidone and P88 met acceptance criteria in run 17 but P95 failed at the QCL level. Test was not repeated
+further.
+d
+Hyperlipidemia experiment failed to meet acceptance criteria at the QCL level for P95 in run 5 and was repeated in run 6 at the QCL level only.
+Experiment failed to meet acceptance criteria in run 6 for P95. Experiment was not repeated further. Hyperlipidemia summary statistics
+reported from run 5 results since run 6 was only performed at QCL.
+a
+
+b
+
+Version date: October 12, 2018
+Reference ID: 5749703
+
+67
+
+NDA Multi-disciplinary Review and Evaluation NDA 220358
+milsaperidone
+Table 8. Overview of Bioanalytical Method Validation Parameters for the Determination of
+P95 in Human K2EDTA Plasma (Method 18037).
+
+Version date: October 12, 2018
+Reference ID: 5749703
+
+68
+
+NDA Multi-disciplinary Review and Evaluation NDA 220358
+milsaperidone
+
+Failed run 2 sensitivity test excluded from statistics.
+The stock and spike solution stability for P95 also apply to P95-13CD3.
+c
+Whole blood stability failed to meet acceptance criteria in run 8 for iloperidone and P88 at both temperatures. Test was repeated in run 17 in
+ice water temperature only. Iloperidone and P88 met acceptance criteria in run 17 but P95 failed at the QCL level. Test was not repeated
+further.
+d
+Hyperlipidemia experiment failed to meet acceptance criteria at the QCL level for P95 in run 5. Hyperlipidemia was repeated in run 6 at the
+QCL level only. Experiment failed to meet acceptance criteria in run 6 for P95. Experiment was not repeated further. Hyperlipidemia summary
+statistics reported from run 5 results since run 6 was only performed at QCL.
+a
+
+b
+
+Table 9. Overview of Bioanalytical Method Validation Parameters for the Determination of
+Milsaperidone in Human K2EDTA Plasma ( (b)
+(4)41907-01)
+(b) (4)
+
+(b)
+(4)
+(b)
+(4)
+
+Version date: October 12, 2018
+Reference ID: 5749703
+
+69
+
+NDA Multi-disciplinary Review and Evaluation NDA 220358
+milsaperidone
+
+Version date: October 12, 2018
+Reference ID: 5749703
+
+70
+
+NDA Multi-disciplinary Review and Evaluation NDA 220358
+milsaperidone
+
+Version date: October 12, 2018
+Reference ID: 5749703
+
+71
+
+NDA Multi-disciplinary Review and Evaluation NDA 220358
+milsaperidone
+Table 10. Overview of Bioanalytical Method Validation Parameters for the Determination of
+(b)
+Iloperidone in Human K2EDTA Plasma ( (4)41907-01)
+
+(b) (4)
+
+(b)
+(4)
+(b)
+(4)
+
+Version date: October 12, 2018
+Reference ID: 5749703
+
+72
+
+NDA Multi-disciplinary Review and Evaluation NDA 220358
+milsaperidone
+
+Version date: October 12, 2018
+Reference ID: 5749703
+
+73
+
+NDA Multi-disciplinary Review and Evaluation NDA 220358
+milsaperidone
+
+Version date: October 12, 2018
+Reference ID: 5749703
+
+74
+
+NDA Multi-disciplinary Review and Evaluation NDA 220358
+milsaperidone
+Table 11. Overview of Bioanalytical Method Validation Parameters for the Determination of
+(b)
+P95 in Human K2EDTA Plasma ( (4)41907-01)
+(b) (4)
+
+(b)
+(4)
+(b)
+(4)
+
+Version date: October 12, 2018
+Reference ID: 5749703
+
+75
+
+NDA Multi-disciplinary Review and Evaluation NDA 220358
+milsaperidone
+
+Version date: October 12, 2018
+Reference ID: 5749703
+
+76
+
+NDA Multi-disciplinary Review and Evaluation NDA 220358
+milsaperidone
+
+Lipemic Sample Evaluation for P88 in Human
+Plasma (EDTA)
+
+Lipemic Sample Evaluation for Iloperidone
+in Human Plasma (EDTA)
+
+Lipemic Sample Evaluation for P95 in Human
+Plasma (EDTA)
+
+Version date: October 12, 2018
+Reference ID: 5749703
+
+77
+
+NDA Multi-disciplinary Review and Evaluation NDA 220358
+milsaperidone
+
+Source: Tables 35-37, iloperidone, P88, and P95 in Human Plasma (EDTA) Validation Report for
+
+(b)
+
+Study (4)41907-01
+
+(b) (4)
+
+OCP Reviewer’s comments: Both bioanalytical methods 18037 and (4)41907-01 failed the test
+for hyperlipidemia, therefore, quantitation of the moieties in hyperlipidemia samples cannot be
+accurately determined. Of all the three pharmacokinetic studies submitted in this application,
+(b) (6)
+only Subject
+had a medical history of hypercholesterolemia and completed drug
+treatment and PK collection in Study VP-VHX-896-1103. This subject was on Lipitor, a
+medication to treat hypercholesterolemia, laboratory tests showed normal cholesterol levels
+for this subject. Therefore, the impact to the PK analysis is not expected. Moreover, the
+reviewer conducted PK analysis with and without this subject, the conclusion was not impacted.
+(b)
+
+Other than hyperlipidemia test, the bioanalytical methods satisfy the criteria for “method
+validation” and “application to routine analysis” set by the guidance M10 Bioanalytical Method
+Validation and Study Sample Analysis (Nov 2022), 10 and are acceptable.
+The passing rate of incurred sample reanalysis (ISR) was 91.8%% for iloperidone and 99.3% for
+milsaperidone in study VHX-896-1101. The passing rate of incurred sample reanalysis (ISR) was
+69% for iloperidone and 86% for milsaperidone in Study VHX-896-1102. The passing rate of ISR
+was >98% for both iloperidone and milsaperidone in study VHX-896-1103. The Applicant
+reported contamination of some samples in the ISR runs for Study VHX-896-1102 in 23 samples,
+including 12 samples for milsaperidone and 10 samples for P95, however, even considering
+those contaminated sample as not meeting ISR acceptable criteria (>±20%), the passing rate
+were still greater than two-thirds (i.e., 67%) for the total number of samples, the ISR evaluation
+is considered acceptable.
+Summary of Individual Clinical Pharmacology Studies
+Study VP-VHX-896-1101
+Title: An open-label, two-period, randomized, single oral dose, crossover study to evaluate the
+bioequivalence of three 1 mg VHX-896 tablets relative to three 1 mg iloperidone tablets in
+healthy volunteers.
+
+https://www.fda.gov/regulatory-information/search-fda-guidance-documents/m10-bioanalytical-methodvalidation-and-study-sample-analysis
+10
+
+Version date: October 12, 2018
+Reference ID: 5749703
+
+78
+
+NDA Multi-disciplinary Review and Evaluation NDA 220358
+milsaperidone
+Clinical sample collection period: June 30, 2021, through October 13, 2021.
+Bioanalysis study period: November 02, 2021, through June 30, 2022
+EDR: \\CDSESUB1\evsprod\NDA220358\0002\m5\53-clin-stud-rep\531-rep-biopharmstud\5312-compar-ba-be-stud-rep\vp-vhx-896-1101
+Study design
+This was a single center, single dose, two-sequence, two-period, randomized, open-label,
+crossover study designed to evaluate the relative bioavailability of 3x1 mg VHX-896 tablets
+relative to 3x1 mg iloperidone tablets in healthy volunteers under fasted conditions. A washout
+period between treatments is 14 days.
+Treatment A: 3x1 mg VHX-896, followed by 3x1 mg iloperidone.
+Treatment B: 3x1 mg iloperidone, followed by 3x1 mg VHX-896.
+Pharmacokinetic (PK) sampling and analysis: A series of PK samples were collected at pre-dose,
+0.5, 1, 1.5, 2, 2.5, 3, 4, 6, 8, 12, 16, 24 (Day 2), 36, 48 (Day 3), 72 (Day 4), and 96 (Day 5) hours
+post-dose. Plasma concentrations of all three major moieties (i.e., milsaperidone, iloperidone,
+and P95) were analyzed.
+Results
+Demographic profile
+Randomized/Completed/Discontinued
+Mean (±SD) Age (median (range)) years
+Male/Female
+Race (White/Black/Multi-race)
+
+25/23/2*
+32.3 (±9.07) (34.0 (18, 49))
+12/13
+22/2/1
+
+*One subject discontinued due to QT prolongation while receiving iloperidone treatment in period 2, one subject discontinue due to other
+reasons.
+
+Pharmacokinetic summary:
+After administration of VHX-896 or iloperidone, the main circulating moieties observed were
+milsaperidone, iloperidone, and P95. Refer to Figure 1 and Table 2 in Section 6.3 for PK
+characterization of both iloperidone and milsaperidone. P95 is not active but a major
+metabolite after administration of VHX-896 or iloperidone. Results showed superimposable PK
+profiles between the two treatments (Figure 4). The PK parameters, Cmax, AUCt, and AUCinf
+were also comparable (Table 12).
+
+Version date: October 12, 2018
+Reference ID: 5749703
+
+79
+
+NDA Multi-disciplinary Review and Evaluation NDA 220358
+milsaperidone
+Figure 4. Geometric mean plasma concentrations of P95 after oral administration of VHX-896,
+3 × 1 mg, and iloperidone, 3 × 1 mg, in healthy male and female participants
+
+Source: Study VP-VHX-896-1101 report, page 57
+
+Table 12. Statistical comparison of pharmacokinetic parameters for P95 after oral
+administration of VHX-896, 3 × 1 mg, and Iloperidone, 3 × 1 mg, to healthy male and female
+participants
+P95
+
+Test
+
+Ref
+
+GeoMean Ratio (%) (90%CI)
+
+AUCinf (pg×hr/mL)
+
+121770
+
+124166
+
+98 (93, 103)
+
+AUCt (pg×hr/mL)
+
+110875
+
+113601
+
+97 (93, 103)
+
+Cmax (pg/mL)
+
+2967
+
+3010
+
+99 (92, 106)
+
+6.0 (2.0, 12.0)
+
+6.0 (2.0, 24.0)
+
+-
+
+Tmax (hr)1
+
+Reported as median (range)
+AUC: area under the curve; Cmax: peak plasma concentration; Tmax: time post dose to reach peak plasma concentration
+Source: Study VP-VHX-896-1101 report, page 58
+1
+
+OCP Reviewer’s Comments:
+As the maximum tolerated dose in healthy subjects is 3 mg, a single dose of 3 mg (3 x 1 mg
+strengths) was used in the relative bioavailability. A 14-day washout period was applied
+between each treatment period and is sufficient for complete elimination based on the halflives between 25 to 30 hours for milsaperidone, iloperidone and P95.
+Based on the results from the PK analysis, the exposures of milsaperidone and iloperidone after
+VHX-896 3x1 mg were similar to that of iloperidone at 3x1 mg under fasted conditions. The
+time to reach Cmax is also similar between the two treatments for all three major moieties. The
+PK bridge between the formulations is adequate.
+
+Version date: October 12, 2018
+Reference ID: 5749703
+
+80
+
+NDA Multi-disciplinary Review and Evaluation NDA 220358
+milsaperidone
+Study VP-VHX-896-1102
+Title: An open-label, two-period, two-sequence, two-treatment randomized, single oral dose,
+crossover study to evaluate the effect of food on the pharmacokinetic profile of VHX-896 in
+healthy volunteers.
+Clinical sample collection period: June 21, 2022, through December 27, 2022
+Bioanalysis study period: March 02, 2023, through August 04, 2023
+EDR: \\CDSESUB1\evsprod\NDA220358\0002\m5\53-clin-stud-rep\534-rep-human-pdstud\5341-healthy-subj-pd-stud-rep\vp-vhx-896-1102
+Study design
+This is an open-label, two-period, two-sequence, two-treatment randomized, single oral dose,
+crossover study to evaluate the effect of food on the pharmacokinetic profile of VHX-896 in
+healthy volunteers. A minimum washout period between treatments is 14 days.
+Treatment A: 2x1 mg VHX-896 under fed conditions, followed by 2x1 mg VHX-896 under fasted
+conditions, 11 completers.
+Treatment B: 2x1 mg VHX-896 under fasted conditions, followed by 2x1 mg VHX-896 under fed
+conditions.
+Pharmacokinetic (PK) sampling and analysis: A series of PK samples were collected at pre-dose,
+0.5, 1, 1.5, 2, 2.5, 3, 4, 6, 8, 12, 16, 24 (Day 2), 36, 48 (Day 3),72 (Day 4), and 96 (Day 5) hours
+post-dose. Plasma concentrations of all three major moieties (i.e., milsaperidone, iloperidone,
+and P95) were analyzed.
+Results
+Demographic profile
+Randomized/Completed/Discontinued
+Mean (±SD) Age (median (range)) years
+Male/Female
+Race (White/Black/Asian)
+
+24/23/1*
+33.5 (±8.71) (33.5 (18, 53)
+13/11
+17/6/1
+
+*Subject discontinued due to illness (cough, sore throat and fatigue) during washout after Period 2.
+
+Pharmacokinetic summary
+Refer to Figure 3 and Table 4 in Section 6.3 for PK characterization of both iloperidone and
+milsaperidone. Results for P95 after administration of VHX-896 or iloperidone are shown to be
+comparable between the two treatments (Figure 5). The PK parameters, Cmax, AUCt, and
+AUCinf were also comparable (Table 13).
+
+Version date: October 12, 2018
+Reference ID: 5749703
+
+81
+
+NDA Multi-disciplinary Review and Evaluation NDA 220358
+milsaperidone
+Figure 5. Geometric mean plasma concentrations of P95 after oral administration of VHX-896,
+2 × 1 mg, under fed and fasted conditions
+
+Source: Study VP-VHX-896-1102 report, page 57
+
+Table 13. Statistical comparison of pharmacokinetic parameters for P95 after oral
+administration of VHX-896, 2 × 1 mg, under fed and fasted conditions.
+P95
+AUCinf (pg×hr/mL)
+AUCt (pg×hr/mL)
+Cmax (pg/mL)
+Tmax (hr)1
+
+Fed
+67464
+58690
+1346
+8.0 (4.0, 24.2)
+
+Fasted
+70313
+63881
+1752
+6.0 (4.0, 16.0)
+
+Geometric Mean Ratio (%) (90%CI)
+96 (91, 101)
+92 (88, 96)
+77 (73, 81)
+-
+
+1
+Reported as median (range)
+AUC: area under the curve; Cmax: peak plasma concentration; Tmax: time post dose to reach peak plasma concentration
+Source: Study VP-VHX-896-1102 report, page 58
+
+OCP Reviewer’s Comments
+A single dose of 2 mg was used in the food effect study because the maximum tolerated dose of
+iloperidone in healthy subjects is 3 mg. It is acceptable. A washout period of 14 days appears
+sufficient for all the three moieties. There are 11 completers in treatment A and 12 completers
+in treatment B. Three participants (two under fasted and one under fed) experienced emesis
+before 2x Tmax, those four participants were excluded from the PK population per protocol.
+Based on the results from the PK analysis, Cmax, AUCt and AUCinf of milsaperidone and
+iloperidone were comparable between fed and fasted conditions. Although AUCinf of P95 was
+comparable, Cmax was approximately 23% lower under fed state compared to the fasted state.
+As P95 is pharmacologically inactive, a slightly lower Cmax is not considered clinically
+significant. The impact of food on the PK of VHX-986 is considered clinically insignificant.
+
+Version date: October 12, 2018
+Reference ID: 5749703
+
+82
+
+NDA Multi-disciplinary Review and Evaluation NDA 220358
+milsaperidone
+Study VP-VHX-896-1103
+Title: Crossover Bioequivalence Study of 12mg VHX-896 and Iloperidone Tablets Under SteadyState Conditions
+Clinical sample collection period: June 11, 2024, through October 24, 2024
+Bioanalysis study period: August 23, 2024, through November 20, 2024
+EDR: \\CDSESUB1\evsprod\NDA220358\0001\m5\53-clin-stud-rep\531-rep-biopharmstud\5312-compar-ba-be-stud-rep\vp-vhx-896-1103
+Study design
+This study was a randomized, open-label, two-period, two-treatment, two-sequence crossover
+study designed to investigate the bioequivalence of VHX-896 to iloperidone at 12 mg twice daily
+at steady state in subjects with schizophrenia or bipolar I disorder.
+Figure 6: Overview of Study Design for Study VP-VHX-896-1103
+
+The Treatment and Evaluation Phase consisted of two treatment periods:
+Sequence A: VHX-896 from 1 mg twice daily gradually up titrate to 12 mg twice daily in 6 days
+(see Figure 6 for details of the titration scheme), maintenance on VHX-896 for 9 days
+(treatment 1), switch to iloperidone and maintain for another 9 days (treatment 2).
+Sequence B: Iloperidone from 1 mg twice daily gradually up titrate to 12 mg twice daily in 6
+days, maintenance on iloperidone for 9 days (treatment 1), switch to VHX-896, and maintain for
+another 9 days (treatment 2).
+Pharmacokinetic (PK) sampling and analysis: morning predose and 2 h postdose from day 1 to
+day 14 and day 17 to day 23; pre-dose, 0.25, 0.5, 0.75, 1, 1.5, 2, 2.5, 3, 3.5, 4, 6, 8, and 12 hours
+
+Version date: October 12, 2018
+Reference ID: 5749703
+
+83
+
+NDA Multi-disciplinary Review and Evaluation NDA 220358
+milsaperidone
+postdose on days 15 (last day on the first treatment), 16 (first day on the second treatment),
+and 24 (last day on the second treatment). Blood samples (4 mL) were collected for analysis of
+iloperidone, VHX-896, and P95 plasma concentrations.
+Disposition of participants
+
+(b) (6)
+
+(b) (6)
+(b) (6)
+
+(b) (6)
+
+Results
+Demographic profile
+Randomized/Completed/Discontinued
+Mean (±SD) Age (median (range)) years
+Male/Female
+Race (White/Black/Other/Asian)
+Schizophrenia/Bipolar I disorder
+
+26/20/6*
+45.4 (±12.23) (46 (21, 64)
+19/7
+17/6/2/1
+23/3
+
+(b) (6) withdraw due to ankle fracture; subject
+(b) (6) discontinued due to gastrointestinal disorders; subject
+*Subject
+discontinued due to worsening of diabetes; 3 subjects discontinued due to withdrawal of consent.
+
+(b) (6)
+
+Pharmacokinetic summary
+Refer to Figure 2 and Table 3 in Section 6.3 for PK characterization and analysis of both
+milsaperidone and iloperidone at steady state (Days 15 and 24). Results for P95 after
+administration of VHX-896 or iloperidone are shown to be comparable between the two
+treatments in Figure 7, Cmax,ss, and AUCtau were also comparable at steady state in Table 14.
+
+Version date: October 12, 2018
+Reference ID: 5749703
+
+84
+
+NDA Multi-disciplinary Review and Evaluation NDA 220358
+milsaperidone
+Figure 7. Geometric mean steady-state plasma P95 concentrations after oral administration
+of 12 mg VHX-896 and iloperidone tablets BID in participants with schizophrenia or bipolar I
+disorder
+
+Source: Study VP-VHX-896-1103 report, page 67
+
+Table 14. Statistical comparison of steady-state pharmacokinetic parameters for P95 after
+oral administration of 12 mg VHX-896 and iloperidone tablets BID in participants with
+schizophrenia or bipolar I disorder
+P95
+
+Test
+
+Ref
+
+GeoMean Ratio (%) (90%CI)
+
+AUCtau,ss (pg×hr/mL)
+
+428219
+
+424389
+
+101 (100, 102)
+
+Cmax,ss (pg/mL)
+
+42288
+
+42091
+
+101 (99, 102)
+
+3.5 (1.0, 8.1)
+
+3.0 (1.5, 12.0)
+
+-
+
+Tmax (hr)
+
+1
+
+Reported as median (range)
+AUCtau,ss: area under the curve during one dosing interval at steady state; Cmax,ss: peak plasma concentration at steady state; Tmax: time
+post dose to reach peak plasma concentration
+Source: Study VP-VHX-896-1103 report, pages 67-68
+1
+
+OCP Reviewer’s Comments
+A multiple-dose relative bioavailability study at the highest dose (12 mg BID) was conducted in
+subjects with schizophrenia or bipolar I disorder. To improve tolerability, treatment was
+initiated at 1 mg twice daily and titrated to 12 mg twice daily over 7 days. The titration scheme
+is consistent with the scheme approved for iloperidone. Treatment 1 was maintained at the
+highest dose, 12 mg twice daily for 9 days to allow attainment of steady state and PK samples
+were collected on the last day (i.e., day 15) of this maintenance period. Treatment 2 was
+initiated on day 16 at 12 mg twice daily and maintained for another 9 days till day 24. A series
+of PK samples were collected for Day 16 and Day 24 to characterize PK immediately after switch
+treatments and steady state of treatment 2.
+
+Version date: October 12, 2018
+Reference ID: 5749703
+
+85
+
+NDA Multi-disciplinary Review and Evaluation NDA 220358
+milsaperidone
+Comparison of VHX-896 and iloperidone showed comparable steady state Cmax and AUCtau
+between the two treatments for the three major moieties regardless of drug administration
+sequence, Tmax values were also similar between the treatments.
+
+Additional Clinical Outcome Assessment Analyses
+None.
+
+Version date: October 12, 2018
+Reference ID: 5749703
+
+86
+
+Signature Page 1 of 1
+
+-------------------------------------------------------------------------------------------This is a representation of an electronic record that was signed
+electronically. Following this are manifestations of any and all
+electronic signatures for this electronic record.
+-------------------------------------------------------------------------------------------/s/
+-----------------------------------------------------------TIFFANY R FARCHIONE
+02/20/2026 01:43:22 PM
+TERESA J BURACCHIO
+02/20/2026 01:52:19 PM
+
+Reference ID: 5749703
+
+

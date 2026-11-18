@@ -1,0 +1,70 @@
+{
+ "_note": "The estimation patterns of the published FDA run (sources/fda/config/patterns.json), regexes unchanged; the expanded NONMEM name counts as NONMEM, as in fdaVerify().",
+ "patterns": {
+  "NONMEM": {
+   "group": "estimation",
+   "regex": "\\bNON-?ME[MN]E?S?\\b|(?i:\\bnonmem\\b)",
+   "family": "NONMEM"
+  },
+  "NONMEM (name expanded)": {
+   "group": "estimation",
+   "regex": "[Nn]onlinear mixed[- ]effects? modell?ing\\s*(?:\\(|®)?\\s*(?:[Vv]ersion|[Vv]\\.?|VII)?\\s*\\[?\\s*(?:Level\\s*)?\\d|Perl[- ]?[Ss]peaks[- ][Nn]onlinear",
+   "family": "NONMEM"
+  },
+  "Monolix": {
+   "group": "estimation",
+   "regex": "(?i:\\bmonolix\\b)",
+   "family": "Monolix"
+  },
+  "Phoenix NLME": {
+   "group": "estimation",
+   "regex": "Phoenix\\W{0,3}(?:NLME)",
+   "family": "Phoenix NLME"
+  },
+  "nlmixr": {
+   "group": "estimation",
+   "regex": "\\bnlmixr2?\\b",
+   "family": "nlmixr"
+  },
+  "Pumas": {
+   "group": "estimation",
+   "regex": "\\bPumas\\b|PumasAI",
+   "family": "Pumas"
+  },
+  "Stan/Torsten": {
+   "group": "estimation",
+   "regex": "\\bTorsten\\b|\\bStan\\b|\\b[rc]?[Ss]tan\\b|cmdstan",
+   "family": "Stan/Torsten"
+  },
+  "saemix": {
+   "group": "estimation",
+   "regex": "\\bsaemix\\b",
+   "family": "saemix"
+  },
+  "FERX": {
+   "group": "estimation",
+   "regex": "\\bFERX\\b",
+   "family": "FERX"
+  },
+  "S-ADAPT/ADAPT": {
+   "group": "estimation",
+   "regex": "\\bS-ADAPT\\b|\\bADAPT\\s*(?:5|II|V)\\b",
+   "family": "S-ADAPT/ADAPT"
+  },
+  "Pmetrics": {
+   "group": "estimation",
+   "regex": "\\bPmetrics\\b",
+   "family": "Pmetrics"
+  },
+  "NLMIXED": {
+   "group": "estimation",
+   "regex": "\\bNLMIXED\\b",
+   "family": "NLMIXED"
+  },
+  "WinBUGS/NONMEM-BUGS": {
+   "group": "estimation",
+   "regex": "\\bWinBUGS\\b|\\bOpenBUGS\\b|\\bJAGS\\b",
+   "family": "WinBUGS/NONMEM-BUGS"
+  }
+ }
+}

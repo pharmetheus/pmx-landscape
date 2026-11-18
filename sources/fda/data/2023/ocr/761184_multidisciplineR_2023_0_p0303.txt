@@ -1,0 +1,48 @@
+BLA 761184
+
+Ngenla (somatrogon)
+Somatrogon Genotropin
+
+N=109 N=115 Risk Difference
+Preferred Term n(%) n(%) (95% Cl)!
+Nasal congestion 1 (0.9) 3 (2.6) -1.7 (-5.1, 1.7)
+Otitis media acute 1 (0.9) 3 (2.6) -1.7 (-5.1, 1.7)
+Animal bite i} 2 (1.7) -1.7 (-4.1, 0.7)
+Blood glucoseincreased 0 2 (1.7) -1.7 (-4.1, 0.7)
+Blood thyroid stimulatin
+PGR HG aa ad 0 2(1.7) “1.7 (-4.1,0.7)
+Body temperature increased 0 2(1.7) -1.7 (-4.1, 0.7)
+Insomnia oO 2(1.7) -1.7 (-4.1, 0.7)
+Leukopenia 0 2 (1.7) -1.7 (-4.1, 0.7)
+Myalgia O 2(1.7) -1.7 (-4.1, 0.7)
+Neck pain C) 2(1.7) “1.7 (-4.1, 0.7)
+Pruritus to) 2(1.7) -1.7 (-4.1, 0.7)
+Seasonal allergy 0 2 (1.7) -1.7 (-4.1, 0.7)
+Tonsillitisstreptococcal 0 2 (1.7) -1.7 (-4.1, 0.7)
+Varicella i) 2(1.7) -1.7 (-4.1, 0.7)
+Viral tonsillitis 0 2(1.7) “1.7 (-4.1, 0.7)
+Nasopharyngitis 25 (22.9) 29 (25.2) -2.3 (-13.5, 8.9)
+Arthralgia 5 (4.6) 8 (7.0) -2.4 (-8.5, 3.7)
+Otitis media 4(3.7) 7 (6.1) -2.4 (-8.0, 3.2)
+Blood thyroid stimulating
+hormone decreased q 3 (2.6) =26;(565,.0:3)
+Gastroenteritis viral 0 3 (2.6) -2.6 (-5.5, 0.3)
+Thrombocytopenia O 3 (2.6) -2.6 (-5.5, 0.3)
+Abdominal pain upper 2 (1.8) 6 (5.2) -3.4 (-8.2, 1.4)
+Ear pain 2(1.8) 7 (6.1) -4.3 (-9.3, 0.7)
+Bronchitis 3 (2.8) 9 (7.8) -5.0 (-10.8, 0.8)
+Headache 18 (16.5) 25 (21.7) -5.2 (-15.5, 5.1)
+Blood creatine phosphokinase 2(1.8) 8 (7.0) -5.2 (-10.5, 0.1)
+increased
+
+Source: adae xpt software, Python.
+Treatment-emergent adverse events defined as if the event started forthe first time after the start of treatment or increased in
+severity if another event also occurred before the start of treatment.
+
+" Risk difference column shows difference (with 95% confidence interval) between total treatment and comparator.
+Abbreviations: AE, adverse event; Cl, confidence interval; N, number of subjects in treatment am; n, numberof subjects with
+adverse event
+
+201
+
+Reference ID: 4924352

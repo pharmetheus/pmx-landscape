@@ -1,0 +1,52 @@
+Clinical/Statistical Review
+NDA 213378
+Lybalvi (Olanzapine/Samidorphan, ALKS 3831)
+
+Table 35: Sensitivity Analysis by Including both On- and Off-treatment Weight Assessments
+after Premature Discontinuation of Study Drug (Study A303)
+
+Sensitivity Analysis Primary Analysis
+(including both on-treatent and off- (including on-treatment weight
+treatment weight assessments) assessments)
+
+Treatment Treatment Treatment
+
+group difference difference
+LS mean (SE) (ALKS 3831 - LS mean (SE) (ALKS 3831 —
+
+Olanzapine) Olanzapine)
+
+(95% Cl) (95% Cl)
+ALKS 3831 3.89 (0.637) -2.40 4.21 (0.681) -2.38
+
+Olanzapine 6.29 (0.626) (3.81, 1.00) 6.59 (0.668) (-3.88, -0.88)
+
+LS: least-squares; SD: standard deviation; SE: standard error; Cl: unadjusted Cl.
+Source: Table 14.2.1 and Table 14.2.2.3.2 of Applicant’s CSR, confirmed by FDA statistical reviewer
+
+e The Applicant performed a third pre-specified sensitivity analysis using a mixed-effect
+model with repeated measures. The results were similar to those of the primary analysis. LS
+mean weight change in this analysis was +3.78% in the ALKS 3831 group and +6.10% in the
+olanzapine group. The difference between groups was -2.32% (-3.79, -0.85).
+
+The Applicant also performed the same sensitivity analyses on the second co-primary endpoint
+(proportion of subjects with > 10% in weight gain at Week 24). The results support the
+robustness of the primary analysis on this categorical co-primary endpoint. In particular, even
+when the unobserved percent weight gain for olanzapine-treated subjects who discontinued is
+assumed to be, on average, 2.38% (that is, 100% of the estimated treatment difference from
+the primary analysis) smaller than olanzapine subjects who continued, the results are still
+statistically significant in favor of ALKS 3831, with an odds ratio estimate of 0.58 (95% Cl: 0.36,
+0.92). Analysis by adding in off-treatment assessments resulted in an odds ratio estimate of
+0.46 (95% Cl: 0.29, 0.74).
+
+e Upon FDA request, additional sensitivity analyses were conducted for the categorical co-
+primary endpoint (proportions of subjects with 2 10% in body weight from baseline to Week
+24) in which subjects with missing weight assessments at Week 24 were imputed as (1)
+gaining 210% in body weight from Baseline at Week 24, and (2) not gaining that amount of
+weight (<10%) at Week 24. As seen in , imputing missing as > 10% weight gain or less than
+amount results in some attenuation of the treatment effect, both measured by odds ratio
+and risk difference.
+
+106
+
+Reference ID: 4701252

@@ -1,0 +1,61 @@
+BLA 761416 Multi-disciplinary Review and Evaluation
+Zanidatamab
+
+Summary of Validation Report 8425-100 and Addendum-1
+5. SUMMARY
+
+Validation Study Number: 8425-100
+
+Method Type: ELISA
+
+Curve Fit: Weighting Factor SPL; 1 y weighting
+
+Analyte Name(s): ZW25
+
+Species Matrix: Human Serum
+
+Sample Volume: 1.0 mL requested (0.5 mL minimum)
+Minimum Required Dilution (MRD): _| 1/100
+
+Calibrator: ZWw25
+
+Plate type: Microtiter Plate Nunc No. 439454
+Capture Reagent: Anti-ZW25 Antibody
+
+Detection Reagents: Human Anti-Trastuzumab Antibody:HRP
+Substrate: Tetramethylbenzidine (TMB)
+
+Lower Limit of Quantitation (LLOQ): | 75.0 ng/mL
+Upper Limit of Quantitation (ULOQ): | 3200 ng/mL
+
+Sample Storage Temperature: -60 to -80°C
+Freeze/Thaw Stability: Up to 6 cycles
+Room Temperature Stability: Up to 27 hours 40 min
+Refrigerated Temperature (2 to 8°C) | Up to 71 hours 43 min
+Stability:
+Long Term Stability: Up to 357 days at -60 to -80°C
+Up to 219 days at -15 to -30°C
+Working Stock Stability: Up to 387 days at -60 to -80°C
+Dilutional Linearity: 1/15,000
+Method Developed By: ee
+Validation Item | Result Reference
+Table*
+Accuracy and Intra-assay, inter-assay bias, precision (Y%CV) and total Table 4
+Precision error for the LLOQ, LQC, MQC, HQC and ULOQ were
+within the target specifications.
+Selectivity Normal human serum selectivity evaluated in 10 lots Table 6
+met the acceptance criteria at LLOQ (75.0 ng/mL) and
+HQC (2560 ng/mL).
+Lipemic matrix selectivity evaluated in 5 lots met target Table 7
+specifications criteria at LLOQ and HQC.
+Hemolyzed selectivity evaluated in 5 lots met target Table 8
+specifications criteria at LLOQ and HQC.
+
+134
+Version date: August 2023 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5482010
+

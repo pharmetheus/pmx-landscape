@@ -1,0 +1,53 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {BLA 761234}
+Opdualag™ (nivolumab and relatlimab-rmbw)
+
+Final Model Parameters Summary Acceptability
+[FDA’s comments]
+Model Structure E-R of Gr2+ IMAEs and Gr3+ DRAEs were characterized by time-to- | Acceptable
+event modeling using Cox proportional hazard methodology. For
+both Gr2+ IMAEs and Gr3+ DRAEs, the model with log-
+transformed relatlimab Cavgd28 and linear nivolumab Cavgd28
+provided the best fit to the data. .
+Model Parameter Estimates Table 86 (Gr2+ IMAEs) and Table 87 (Gr3+ DRAEs) Acceptable
+Model Evaluation Figure 45 (Gr2+ IMAEs) and Figure 46 (Gr3+ DRAEs) Acceptable
+Covariates and Clinical Figure 47 (Gr2+ IMAEs) and Figure 48 (Gr3+ DRAEs) Acceptable
+Relevance
+Simulation for Specific N/A N/A
+Population
+Visualization of E-R Figure 49 (Gr2+ IMAEs) and Figure 50 (Gr3+ DRAEs) Acceptable
+
+relationships
+
+Overall Clinical Relevance for
+ER
+
+Gr2+ IMAEs: The risk of Gr2+ IMAEs was significantly associated
+with nivolumab and relatlimab exposure, resulting in a higher risk
+in nivolumab + relatlimab combination compared with nivolumab
+monotherapy.
+
+Gr3+ DRAEs: The risk of Gr3+ DRAEs was significantly associated
+with relatlimab exposure, resulting in a higher risk in nivolumab +
+relatlimab combination compared with nivolumab monotherapy.
+Nivolumab exposure was not significantly associated with the risk
+of Gr3+ DRAEs.
+
+For both Gr2+ IMAEs and Gr3+ DRAEs, the risk was similar across
+the range of relatlimab exposures (Cavgd28) produced by the
+studied combination dosing regimen in Studies CA224020 and
+CA224047, supporting a flat E-R relationship over this exposure
+
+The result observed with
+nivolumab might be
+inconclusive due to the
+relative narrow dose
+range ( 240 mg Q2W and
+480 mg Q4W).
+
+303
+Version date: January 2020 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “The Applicant’s Position” are completed by the Applicant and do not necessarily reflect the positions
+of the FDA.
+
+Reference ID: 4955210

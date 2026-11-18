@@ -1,0 +1,49 @@
+NDA 219947
+REDEMPLO (plozasiran)
+
+Where:
+e  Y; is the binary outcome indicating having an event or not for subject i,
+© Bgroupfi) are treatment effects for each group, and
+
+e x; is the binary stratification factor of level of triglycerides at screening (=2000 mg/dL versus
+<2000 mg/dL) for subject i.
+
+A weakly informative prior was assigned to placebo group:
+Bi ~ Normal (0, 1000)
+
+Plozasiran 25 mg and 50 mg shared a hierarchical structure with group-specific effects drawn
+from a common distribution for j =2, 3:
+
+B;~Normal(ug, Tp)
+The following forms are used for the parameters and hyperpriors:
+Hp~ Normal(0, 1000)
+Ts~ Gamma(0.001, 0.001)
+The effect of the binary covariate x is represented by:
+y ~ Normal(0,10)
+
+After deriving the posterior distributions for these parameters, the marginal treatment effects for
+the plozasiran 25-mg and 50-mg dose groups can be calculated by averaging the covariate-
+specific effects over both levels of the binary covariate x;.
+
+To assess the model's sensitivity to varying degrees of shrinkage, we conducted a sensitivity
+analysis by varying the scale parameters of the hierarchical priors across a predefined grid. The
+hierarchical prior structure was specified as:
+
+For treatment groups (j =2, 3):
+B;~Normal(ug, te)
+Scale parameter specification:
+u ~ Half-Normal(0,1)
+Te =(uxs)?
+The scale parameter s was incrementally varied across the following grid: 0.1, 0.5, 1.0, 2.0, 5.0,
+and 10.0.
+Details of Method II
+
+Method II incorporates dose-response relationships across placebo, 25-mg, and 50-mg doses.
+This approach models treatment effects as a continuous function of dose level while accounting
+for uncertainty and potential deviations from strict dose-response linearity through random-effect
+components.
+
+356
+Integrated Review Template, version 4.0 (11/1/23)
+
+Reference ID: 5696440

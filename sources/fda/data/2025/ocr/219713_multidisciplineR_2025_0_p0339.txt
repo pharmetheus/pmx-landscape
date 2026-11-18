@@ -1,0 +1,64 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 219713}
+
+{IBTROZI™, Taletrectinib}
+
+Cavgss; is the value of Cavgss in
+subject i, and Beavgss is the estimated
+effect of Cavgss on the nadir of SLD.
+Additionally, x;; represents the
+value of covariate j in subject i, and
+f; are estimated parameters.
+
+ER
+
+between taletrectinib exposure
+measures (Cavgss) and efficacy
+endpoints
+
+Model Parameter Estimates Table 22 and 25 in the ER report Yes
+(for primary and secondary
+endpoints)
+Model Evaluation The visual predictive checks were Yes
+constructed from simulated datasets
+(N=1000) containing simulated
+responses. The observed proportion
+of responders (overall and stratified
+by Cavgss quartiles) was compared
+to the corresponding simulated 90%
+prediction interval.
+Covariates and Clinical TKI-pretreatment status Albumin was
+Relevance identified as an
+additional
+covariate in the
+updated E-R
+model.
+Simulation for Specific NA
+Population
+Visualization of E-R Figure 37
+relationships
+Overall Clinical Relevance for | No relationship was identified Interpret with
+
+caution given
+narrow exposure
+range with data
+mainly contributed
+by 600 mg QD
+dosage.
+
+Labeling Language
+
+Description
+
+Acceptability
+
+[FDA’s
+comments]
+
+338
+
+Version date: March 1, 2024 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5606238

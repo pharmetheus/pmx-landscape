@@ -1,0 +1,45 @@
+Clinical/Statistical Review
+NDA 213378
+Lybalvi (Olanzapine/Samidorphan, ALKS 3831)
+
+showed a statistically significantly difference from placebo, supporting the findings from the
+primary efficacy endpoint although the observed treatment difference (point estimate = -0.38
+
+and 95% Cl =(-0.61, -0.14) was relatively small. Olanzapine also showed similar effects.
+
+Table 12: CGI-S Change from Baseline to Week 4 (Study A305)
+
+ALKS 3831 132 5.1 (0.7) 1.2 (0.08) 0.38 (-0.61, -0.14)°
+Olanzapine 132 5.1 (0.7) 1.3 (0.08) 0.44 (-0.67, -0.20)
+Placebo 133 5.10.7) ~0.8 (0.09) -
+
+SD: standard deviation; LS Mean=least-squares mean; SE=standard error; CI = confidence interval, not adjusting for
+multiple comparisons
+
+A negative change from baseline indicates improvement.
+
+'The corresponding p-value was 0.002.
+
+Source: Table 12 of Applicant’s CSR
+
+Premature Discontinuations and Missing Data
+Overall, nearly 90% of the subjects completed the double-blind phase. The top discontinuation
+reason was “withdrawal by subject.”
+
+To assess the robustness of the primary analysis of the primary endpoint and impact of missing
+data, the Applicant performed a sensitivity analysis using a delta-adjusted Pattern Mixture
+Model. This model incorporated the clinical assumption that ALKS 3831 subjects who
+discontinued at a given time point would have, on average, their unobserved PANSS worsened
+by some amount 6 compared with the observed PANSS of subjects on the same treatment arm
+who continue to the next time point, and subjects who discontinued from the olanzapine arm
+would have the same PANSS trajectory as the olanzapine subjects who stay on the study. Shift
+parameters used in the sensitivity analysis accounted for 10%, 20%, 30%, 40%, and 50% of the
+observed treatment difference between ALKS 3831 and olazapine. In this trial, 50% of the
+observed treatment difference was equivalent to 3.2 points. The sensitivity analysis results
+were very robust in support of the primary anlaysis even if the ALKS 3831 dropouts were
+assumed to have PANSS outcomes worsened, on average, by up to 3.2 points of those of ALKS
+3831 subjects whose PANSS scores were collected.
+
+54
+
+Reference ID: 4701252

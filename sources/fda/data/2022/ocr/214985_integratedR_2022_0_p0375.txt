@@ -1,0 +1,43 @@
+The p-value in red shows the test was not significant. The p-value in blue shows that the median
+difference between 50 mg ACT-541468 and placebo was significantly greater than zero for Overall Drug
+Liking Emax. The results from the sensitivity analyses were consist of those from the primary and
+secondary analyses (See Tables 3 and 6).
+
+2.4.4. Descriptive statistics for other secondary endpoints
+
+Table 10 summarizes the mean, standard deviation (SD), minimum (Min), the first quartile (Q1), median
+(Med), the third quartile (Q3), and maximum (Max) for the 6 treatments in the study for secondary
+endpoints: Alertness/Drowsiness Emin, Any Effects Emax, Bad Effects Emax, Good Effects Emax and
+Feeling High Emax. Note that Alertness/Drowsiness VAS is a bipolar scale. Instead of reporting results
+based on the change from predose response for this measure, the reviewer reported the results from
+predose and post-dose separately. In addition, predose responses of all subjects to Feeling High VAS
+were 0 except one subject whose score was 1. Therefore, summary statistics for Feeling High Emax were
+based on post-dose responses.
+
+Table 9: Summary Statistics of secondary endpoints: Alertness/Drowsiness Emin, Any Effects
+Emax, Bad Effects Emax, Good Effects Emax and Feeling High Emax (N=63)
+
+Endpoint TRT Mean sD Min ai Med a3 Max
+230 19.4 15.2 0 1 21 29.5 50
+$150 121 12.2 0 0.75 8.5 18.25 50
+ji Alertness | T50 23.3 17.8 0 21 38 50
+Ena 1100 13.9 14.2 0 11.5 24 50
+1150 93 10.4 0 5 16 36
+P 42.1 15.8 ) 39 50 50 50
+230 50 0 50 50 50 50 50
+$150 51.4 7.8 49 50 50 50 100
+ees T50 50.0 0.1 49 50 50 50 50
+predose 100 50.7 55 50 50 50 50 94
+T150 50.3 2.3 50 50 50 50 68
+P 50.7 6.4 43 50 50 50 100
+Z30 62.9 27.5 0 45 64 85 100
+$150 70.9 29.1 0 52 78 100 100
+Any Effects T50 47.2 34.3 0 9 50 7 100
+Emax 7100 62.0 32.2 0 38 68 92 100
+T150 68.5 26.1 9 55 75 89 100
+P 7.8 19.4 ) ) ) ) 77
+Feeling Bad 230 14.0 27.6 0 16 100
+Drug Effects $150 118 23.3 i) 12 100
+23
+
+Reference ID: 4859554

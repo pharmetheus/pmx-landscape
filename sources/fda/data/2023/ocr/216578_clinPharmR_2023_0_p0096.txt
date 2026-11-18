@@ -1,0 +1,58 @@
+patients into normal and mild renal impairment categories as
+shown in Table 8. The regular cutoff in eGFR of 90 ml/min
+between normal and mild renal impairment was not used.
+
+Pediatrics (if
+any)
+
+Not applicable
+
+No. of Patients, PK Samples, and
+below level of quantitation (BLQ)
+
+No. of patients: 1488
+No. of PK samples measurable: 11577
+
+N (%) BLQ: 1480 (11.3%)
+
+Sampling
+Schedule
+
+Rich or Sparse
+
+Extensive PK sampling designs (i.e., phase 1) and those with
+
+Sampling sparse designs (i.e., phase 2 and phase 3) (See Table 1 in the
+popPK report).
+
+In TT NA
+
+Population
+
+Covariates
+Evaluated
+
+Covariates of interest were added simultaneously in order to
+evaluate a full model. Covariates were pre-specified in
+accordance with ICH guidelines and selected based on clinical
+utility and mechanistic plausibility.
+
+Body weight: CL/F, Vc/F
+Age: ka, CL/F, Vc/F
+
+Race: CL/F, Vc/F
+
+Creatinine clearance: CL/F
+Study Phases: CL/F
+
+Formulation: ka, F
+Pre-menopause: CL/F, Vc/F
+
+Food: ka
+
+The intended to be evaluated covariates:
+
+Reference ID: 5083095
+
+95
+

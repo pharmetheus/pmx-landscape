@@ -1,0 +1,74 @@
+BLA 761306 Multi-disciplinary Review and Evaluation
+Ebglyss (lebrikizumab) injection
+
+Note: patients who received topical or systemic rescue medication, or discontinued treatment due to lack of efficacy, had values set
+to their baseline value subsequent to this time through Week 16; MCMC-MI was used to handle the remaining missing data. The
+
+analysis results were combined across all multiply imputed datasets using SAS PROC MIANALYZE. Percentage is calculated after
+MCMC-MI is used to handle the missing data.
+
+The common risk difference is the difference in proportions adjusted for the stratification factor(s): geographic region (US versus
+EU versus rest of world), age (adolescent patients 12 to <18 versus adults >=18 years) and disease severity (IGA 3 versus 4),
+where the confidence intervals are calculated using Mantel-Haenszel-Sato method. The relative risk and odds ratio are also
+adjusted for the same stratification factor(s)
+
+* Unadjusted response rate and confidence interval.
+2 Cochran-Mantel-Haenszel (CMH) test adjusted by geographic region (US versus EU versus rest of world), age (adolescent
+patients 12 to <18 versus adults > 18 years) and disease severity (IGA 3 versus 4).
+Source: reviewer analysis; adsl.xpt and adigamc.xpt
+
+To evaluate the impact of the site exclusion in Studies KGAC and KGAD, discussed in
+
+Compliance with Good Clinical Practices, reviewer conducted for primary endpoint analysis
+using primary estimand MCMC-MI with ITT population, which includes all subjects from the
+audited site. Table 29 presents the statistical reviewer's analysis results. For Study KGAC,
+theoverall efficacy results in the mITT and ITT populations were consistent across primary
+endpoint. However, for Study KGAD, the primary endpoint is no longer statistically significant
+because the high placebo response rate from subjects enrolled at Site 6006 that contributes to
+a higher-than-expected overall placebo response rate. The site exclusion is detailed in
+Compliance with Good Clinical Practices.
+e Study KGAC: placebo-treated group, 12.7%; lebrikizumab-treated group, 34.7%; p<0.001
+e Study KGAD: placebo-treated group, 32.1%; lebrikizumab-treated group, 44.3%; p=0.11
+
+Table 29. Percentage of Subjects with an IGA score of 0 or 1 and a > 2-point reduction from
+Baseline at Week 16, Markov Chain Monte Carlo Multiple Imputation (MCMC-MI), ITT
+
+Population
+J2T-DM-KGAB J2T-DM-KGAC J2T-DM-KGAD
+
+LEB250, LEB250, LEB250
+PBO Q2W PBO Q2w PBO+TCS Q2W+TCS
+N=141 N=283, N=150 N=295) N=75 N=153
+Response, n (%)! 18(12.7) 122 (43.1 19(12.7) 102 (34.7 24 (32.1) 68 (44.3)
+95% Cl! (6.9,18.5) (37.1,49.0) (7.3,18.1) (29.0,40.4} (20.9,43.3) (36.2, 52.3)
+Difference - 29.7] - 21.6 - 11.3
+(95% Cl)? (21.6, 37.8 (13.8, 29.4 (-2.4, 25.0)
+Odds Ratio - 5.69) - 3.68) - 1.64
+(95% Cl)? (3.08, 10.53 (2.10, 6.46 (0.88, 3.04)
+p-value? - <0.0001 - <0.0001| - 0.11
+
+Abbreviations: Cl = confidence interval; IGA = Investigator Global Assessment, ITT = intent to treat, LEB = Lebnkizumab; n =
+number of patients in the specified category; N = number of patients in the analysis population; PBO = placebo; Q2W = every 2
+weeks; TCS = topical corticosteroids.
+
+Note: patients who received topical or systemic rescue medication, or discontinued treatment due to lack of efficacy, had values set
+to their baseline value subsequent to this time through Week 16; MCMC-MI was used to handle the remaining missing data. The
+
+analysis results were combined across all multiply imputed datasets using SAS PROC MIANALYZE. Percentage is calculated after
+MCMC-MI is used to handle the missing data.
+
+The common risk difference is the difference in proportions adjusted for the stratification factor(s): geographic region (US versus
+EU versus rest of world), age (adolescent patients 12 to <18 versus adults >=18 years) and disease severity (IGA 3 versus 4),
+where the confidence intervals are calculated using Mantel-Haenszel-Sato method. The relative risk and odds ratio are also
+adjusted for the same stratification factor(s).
+
+* Unadjusted response rate and confidence interval.
+2 Cochran-Mantel-Haenszel (CMH) test adjusted by geographic region (US versus EU versus rest of world), age (adolescent
+patients 12 to <18 versus adults > 18 years) and disease severity (IGA 3 versus 4).
+
+Source: reviewer analysis; ads|.xpt and adigamc.xpt
+
+110
+Version date: October 12, 2018
+
+Reference ID: 5252985

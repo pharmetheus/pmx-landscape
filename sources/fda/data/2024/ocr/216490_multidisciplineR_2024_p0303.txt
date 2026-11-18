@@ -1,0 +1,55 @@
+NDA 216490
+Yorvipath (Palopegteriparatide)
+
+Table 95. Specific Comments on Applicant’s Final Population PK Model
+
+Utility of the Final Model Reviewer’s Comments
+Support Applicant’s Intrinsic * "Suggest changing the
+proposed labeling factor age, sex, or body weight. _ first sentence wording
+statements about The data for race and ethnicity did not _to:
+intrinsic and show any trends indicating differences,
+extrinsic factors but the available data are too limitedto “ Wey
+
+make definitive conclusions.”
+
+Please refer to Section
+14.5.2.1 for details.
+Extrinsic N/A N/A
+factor
+
+Source: From reviewer
+Abbreviations: PK, pharmacokinetics; PTH, parathyroid hormone
+
+14.5.1.2. Introduction
+
+The primary objectives of the Applicant’s analysis were to:
+
+e Characterize the PopPK of palopegteriparatide from the combined phase 1, 2 and 3 trials
+starting from the previous trial I-II population PK analysis:
+
+e Confirm patient factors (covariates) impacting palopegteriparatide exposure that were
+identified in the phase 1+2 analysis, and determine if there are any other covariate effects;
+
+e Determine the clinical significance of identified covariates to support dosing considerations
+in subpopulations;
+
+e Run simulations to assess the impact of missed doses or fever (by increasing the linker
+release rate) on free PTH(1-34) and free PTH(1-33) exposure.
+
+14.5.1.3. Model Development
+
+Data
+
+The PopPK analysis was performed based on data collected in 300 subjects and 9569
+quantifiable postdose samples collected across studies (Trials CT-103, TCP-104, TCP-105, TCP-
+201, and TCP-304 for mPEG, total PTH, free PTH(1-34), and free PTH(1-33) were included in
+the analysis. Brief descriptions of the studies included are presented in Table 96.
+
+Monolix Suite (2019R2) was used for PopPK modeling. PK simulations were done in R using
+the Simulx mlxR library. All diagnostic plots were constructed using Monolix. Table 97 provides
+summary statistics of the baseline demographic covariates in the analysis dataset.
+
+208
+Integrated Review Template, version 3.0 (05/25/2022)
+
+Reference ID: 5165921

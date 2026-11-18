@@ -1,0 +1,49 @@
+(2) G) a) (8) @) (3)
+Recovered/resolved 67% 77% 72% 62% 56% 31%
+(8) (23) (18) (29) (14) (9)
+
+* Visual effects GT (FDA recommended): diplopia, photophobia, photopsia, vision blurred, visual field defect,
+visual acuity decreased, visual acuity reduced, visual impairment and visual perseveration
+** Bradycardia grouped term (GT): bradycardia and sinus bradycardia
+Source:
+1. Applicant response (dated 4 DEC 2025) to clinical pharmacology information request (IR) sent on 7 NOV
+2025
+2. D8530C00002 CSR Table 14.3.2.19 in Module 5.3.5.4
+
+FDA Table 5: Camizestrant Cycle 1 Day 15 PK Parameters for Camizestrant Monotherapy
+and in Combination with Abemaciclib, Palbociclib, or Ribociclib
+
+Camizestrant monotherapy Camizestrant | Camizestrant Camizestrant +
++ + ribociclib
+abemaciclib palbociclib
+75 mg 150 mg 300 mg 75 mg + 75 mg + 75 mg + 75 mg +
+abemaciclib palbociclib 125 | ribociclib | ribociclib
+150mg BID | mg QD (21d 400 mg QD | 600 mg QD
+on/7d off) (21d on/7d_ | (21d on/7d
+off) off)
+Cmaxss 64.7 (49) | 166 (36) 376 (41) 85.4 (41) 94 (56) 153 (38) 2749 (55)
+(ng/mL) [22] [23] [28] [16] [24] [23] [22]
+Tmax (h) | 3.7 (1-8) | 2.2 (1-24) | 3 (1.7-7) 4 (1-6) 3.9 (14.3) 3.6 (1-6) 4 (1-8)
+[22] [23] [28] [16] [24] [23] 22]
+AUCtau 862 (47) | 2162 (39) | 4784 (38) 1124 (41) 1197 (49) 2277 (43) | 2749 (55)
+(ng-h/mL) | [22] [23] [26] 15] [24] [22] [22]
+Cmin 20.4 (58) | 50.6 (64) | 97.8 (50) 22 (58) 27 (58) 55 (66) 73 (67)
+(ng/mL) [22] [23] [27] [16] [24] [22] [22]
+
+Data presented as geomean (% geometric CV%) [n] with the exception of tmax where median (min-max) [n]
+
+Source: Table 15 in Summary of Clinical Pharmacology Module 2.7.2.
+15/
+
+Version date: March 1, 2024 (All NDA/BLA reviews)
+
+In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the Applicant,
+which do not necessarily reflect the positions of the FDA.
+
+The FDA review was conducted in conjunction with other regulatory authorities under Project ORBIS. The FDA
+collaborated with Australia’s Therapeutic Goods Administration (TGA), Brazilian Health Regulatory Agency
+(ANVISA), Health Canada (HC), Singapore’s Health Sciences Authority (HSA), and Switzerland’s Swissmedic
+(SMC). While the conclusions and recommendations expressed herein reflect the FDA’s completed review of the
+application, the applications may still be under review at the other regulatory agencies.
+
+Reference ID: 5864804

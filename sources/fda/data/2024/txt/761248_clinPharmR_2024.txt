@@ -1,0 +1,4283 @@
+CENTER FOR DRUG EVALUATION AND
+RESEARCH
+APPLICATION NUMBER:
+
+761248Orig1s000
+CLINICAL PHARMACOLOGY
+REVIEW(S)
+
+Office of Clinical Pharmacology (OCP) Review
+Applicant
+
+Eli Lilly and Company
+
+Product (Generic Name)
+
+Donanemab (LY3002813)
+
+Product (Trade Name)
+
+KISUNLA®
+
+Link to EDR
+
+\\CDSESUB1\evsprod\BLA761248\0104
+
+BLA Submission
+
+761248 (Sequence 0104)
+
+Dosage Form (Strength)
+
+350 mg/20 mL (17.5 mg/mL) in a single-dose vial
+
+Route of Administration
+
+Intravenous Infusion
+
+Proposed Dosing
+regimen
+
+700 mg administered as an intravenous infusion over
+approximately 30 minutes every four weeks for the first
+three doses, followed by 1400 mg every four weeks.
+
+Proposed Indication
+
+Treatment of Alzheimer’s disease. Treatment with
+KISUNLA should be initiated in patients with mild
+cognitive impairment or mild dementia stage of disease,
+the population in which treatment was initiated in the
+clinical trials.
+
+Submission Date
+
+12 June 2023
+
+OCP Review Team
+
+Anantha Ram Nookala*, Ph.D., Michael Bewernitz*,
+Ph.D., Mohsen Rajabiabhari*, Ph.D., Xiulian Du*, Ph.D.,
+Hobart Rogers*, Pharm.D., Ph.D., Jeffrey Kraft#, Ph.D.,
+Yow-Ming Wang#, Ph.D., Atul Bhattaram#, Ph.D., Bilal
+AbuAsal#, Ph.D., Sreedharan Sabarinath^, Ph.D., Hao
+Zhu^, Ph.D., Ramana Uppoor^, Ph.D.
+
+OCP Final Signatory
+
+Mehul Mehta^, Ph.D.
+
+OCP Division
+
+Division of Neuropsychiatric Pharmacology (DNP)
+
+OND Division
+
+Division of Neurology I (DN1)
+
+*denotes Primary Reviewer, #denotes Team Leader, ^denotes Director, Deputy director or Associate
+director
+
+1
+
+Reference ID: 5333786
+
+Contents
+1.
+
+Executive Summary ................................................................................................. 4
+1.1 Recommendations ................................................................................................. 5
+1.2 Post marketing requirements and commitments .................................................... 6
+
+2.
+
+Summary of Clinical Pharmacology Assessment ..................................................... 7
+2.1 Pharmacology and Clinical Pharmacokinetics ....................................................... 7
+2.2 Dosing and Therapeutic Individualization .............................................................. 7
+2.2.1 General Dosing ............................................................................................... 7
+2.2.2 Therapeutic individualization ........................................................................... 7
+2.3 Outstanding Issues ................................................................................................ 7
+2.4 Summary of Labeling Recommendations .............................................................. 8
+
+3. Comprehensive Clinical Pharmacology Review .......................................................... 8
+3.1 Overview of the Product and Regulatory Background ........................................... 8
+3.2 General Pharmacology and Pharmacokinetic Properties ...................................... 9
+3.3 Clinical Pharmacology Questions ........................................................................ 10
+3.3.1 To what extent does the available clinical pharmacology information provide
+pivotal or supportive evidence of effectiveness? .................................................... 10
+3.3.2 Is the proposed dosing regimen appropriate for the general population for which
+the indication is being sought? ............................................................................... 19
+3.3.3 Is an alternative dosing regimen and management strategy required for
+subpopulations based on intrinsic/extrinsic factors? .............................................. 23
+3.3.4 What clinical pharmacology information is available to inform the assessment
+of benefit and risk in subgroups with different APOE4 genotypes? ........................ 24
+3.3.5 What clinical pharmacology information is available to inform the assessment
+of benefit and risk in subgroups with different baseline tau? .................................. 28
+3.3.6 Is the to-be-marketed formulation the same as the clinical trial formulation, and
+if not, are there bioequivalence data to support approval of the to-be marketed
+formulation? ........................................................................................................... 31
+4. Appendix ................................................................................................................... 32
+4.1. Summary of Bioanalytical Method Validation ...................................................... 32
+4.1.1 Bioanalysis of donanemab in human serum.................................................. 32
+2
+
+Reference ID: 5333786
+
+4.1.2 Bioanalysis of p-tau217 in human plasma ..................................................... 32
+4.1.3 Bioanalysis of p-tau181 in human plasma ..................................................... 34
+4.1.4 Bioanalysis of GFAP in human plasma ......................................................... 36
+4.2. Impact of Immunogenicity ................................................................................... 38
+4.2.1 Impact of immunogenicity on PK ................................................................... 38
+4.2.2 Impact of immunogenicity on amyloid PET reduction .................................... 40
+4.2.3 Impact of immunogenicity on Efficacy ........................................................... 42
+4.3 Population PK Review ......................................................................................... 44
+4.3.1 Population PK Model ..................................................................................... 44
+4.4 Exposure-Response Analyses ............................................................................. 46
+4.4.1 Amyloid-Plaque Reduction ............................................................................ 46
+4.4.2 ARIA-E .......................................................................................................... 57
+4.4.3 P-tau217........................................................................................................ 60
+4.4.4 GFAP ............................................................................................................ 64
+4.4.5 Disease Progression ..................................................................................... 68
+4.5 DTPM Review ...................................................................................................... 81
+
+3
+
+Reference ID: 5333786
+
+1. Executive Summary
+Donanemab (Tradename: KISUNLA®) is a recombinant humanized immunoglobulin G1
+monoclonal antibody (mAb) designed to target the N-terminal, third amino acid,
+pyroglutamate formation (N3pG) amyloid beta epitope found in cerebral amyloid plaques.
+Previously, its Biologics License Application (BLA) 761248 received a complete response
+letter for the treatment of Alzheimer’s disease (AD) via an accelerated approval pathway
+on January 18, 2023, due to its insufficient long-term safety experience. Please refer to
+OCP review in DARRTS dated 01/17/2023 for details. In this BLA 761248 resubmission,
+Eli Lilly and Company, the applicant, is seeking traditional approval of donanemab for the
+treatment of AD. The proposed dosing regimen for donanemab involves administering
+700 mg given as an intravenous (IV) infusion over approximately 30 minutes every four
+weeks for the first three doses. Subsequent infusions consist of 1400 mg IV infusions
+over approximately 30 minutes, also administered every four weeks. The sponsor
+proposes to consider stopping donanemab treatment once amyloid plaque is cleared.
+In this resubmission, the applicant has provided the results from a Phase 3 registrational
+trial (AACI). The AACI trial included 1736 subjects and was a multicenter, randomized,
+double-blind, phase 3 study followed by an open-label extension phase (Study AACILTE). The registration trial assessed the safety, efficacy, and tolerability of donanemab
+compared to a placebo group in individuals with early symptomatic AD. This evaluation
+was carried out using the proposed dosing regimen.
+The results from the AACI trial demonstrated a statistically significant reduction in AD
+clinical decline in both the low/medium tau population and the combined population as
+measured using the iADRS (primary endpoint) and CDR-SB, ADAS-Cog13, and ADCSiADL (key secondary endpoints). The evidence of effectiveness is also supported by 1)
+findings from the phase 2 Study AACG, 2) amyloid PET imaging data from AACI and
+AACG, 3) plasma biomarker data supporting downsteam AD pathophysiology, and 4)
+exposure-response analysis evaluating the relationship between donanemab treatment
+and reduction in clinical decline (iADRS and CDR-SB) from studies AACG and AACI.
+In Study AACI, a time-dependent decrease in the amyloid PET was observed with
+donanemab treatment compared to the placebo. The mean amyloid PET reduction
+observed in Study AACI was comparable to that observed in Phase 2 Study AACG. Two
+phase 1 studies demonstrated a dose- and time-dependent decrease in amyloid PET.
+Please refer to OCP review in DARRTS dated 01/17/2023 for details on amyloid PET
+reduction from phase 1 and 2 studies. Changes in plasma biomarkers [tau
+phosphorylated at threonine 217 (p-tau217), tau phosphorylated at threonine 181 (ptau181), and glial fibrillary acidic protein (GFAP)] further support for the effects of
+donanemab on downstream AD pathophysiology. Exposure-response analysis supported
+
+4
+
+Reference ID: 5333786
+
+for calculating amyloid PET reaccumulation rate beyond 76
+weeks, lack of evaluation for long-term efficacy beyond 76
+weeks and exclusion of participants continuing on
+donanemab despite meeting dose cessation criteria.
+Therefore, the proposed dosing regimen, except for
+stopping donanemab treatment after amyloid plaque
+clearance, is acceptable from OCP review team.
+
+Dosing in patient groups
+(intrinsic and extrinsic
+factors)
+
+No dosage adjustments are recommended based on
+intrinsic and extrinsic factors such as age, race, sex, APOE4
+genotype, baseline tau levels, renal or hepatic impairment.
+Body weight and ADA titer were identified as covariates to
+impact donanemab exposures. However, the change in the
+exposures was not found to have a clinically meaningful
+effect on slowing of clinical decline and therefore, no dose
+adjustments are warranted. Neither APOE4 genotype nor
+baseline tau level affected donanemab PK.
+The efficacy of donanemab in patients with different APOE4
+genotype was evaluated; APOE4 non-carriers and
+heterozygotes showed nominally higher treatment benefit
+and lower ARIA risk compared to homozygotes. Changes in
+in amyloid PET and plasma biomarkers (p-tau217, ptau181, and GFAP) reflected changes in clinical efficacy.
+However, given the positive trends in treatment benefit and
+biomarkers for all subgroups, the review team recommends
+dosing in all APOE4 genotypes.
+Metabolic/transporter mediated interactions or impact of
+food does not apply for donanemab.
+
+Bridge between the “tobe-marketed” and
+clinical trial formulations
+
+No differences were noted between the pivotal clinical trial
+and to-be-marketed (solution) donanemab formulations.
+
+1.2 Post marketing requirements and commitments
+None.
+
+6
+
+Reference ID: 5333786
+
+2. Summary of Clinical Pharmacology Assessment
+2.1 Pharmacology and Clinical Pharmacokinetics
+For information of mechanism of action, ADME characteristics, therapeutic
+individualization, please refer to the clinical pharmacology review in DARRTS dated
+01/17/2023.
+Immunogenicity:
+Postbaseline, 793 participants in the donanemab group were evaluable for treatmentemergent ADAs (TE-ADAs) during the treatment period from Study AACI. Of these
+subjects, TE-ADAs were detected in 693 subjects; these subjects are therefore deemed
+ADA+ and the ADA incidence is 693/793 (87.4%). Neutralizing antibodies (NAbs) were
+detected in all the ADA+ subjects (693/693; 100%). The presence of TE-ADAs affected
+various PK measures, such as Cmin,ss and AUCss. Also, the presence of TE-ADAs affected
+amyloid plaque reduction; subjects with higher maximum ADA titer had less amyloid PET
+reduction compared to subjects with lower maximum ADA titer. However, the changes in
+amyloid PET associated with high ADA titer did not translate into changes in efficacy
+measured on iADRS and CDR-SB up to week 76. (Please refer to Section 4.2.2 and 4.2.3
+for more information).
+
+2.2 Dosing and Therapeutic Individualization
+2.2.1 General Dosing
+The general dosing regimen is 700 mg diluted in 0.9% sodium chloride to a final
+concentration of 4 mg/mL to 10 mg/mL and administered as IV infusion over 30 minutes
+every four weeks for the first three doses. Subsequent infusions are 1400 mg IV infusions
+over 30 minutes administered every 4 weeks. The sponsor proposed to consider stopping
+treatment after amyloid is cleared. However, due to limitations as discussed in section
+3.3.2, OCP review team considers the proposed dosing regimen acceptable except for
+the proposal to consider stopping donanemab treatment after amyloid plaque is cleared.
+2.2.2 Therapeutic individualization
+No therapeutic individualization is necessary based on intrinsic and extrinsic factors such
+as age, race, sex, APOE4 genotype, baseline tau levels renal impairment, hepatic
+impairment or ADA status. Donanemab is administered by IV route, and therefore, fooddrug interactions are not anticipated. In addition, its CYP enzyme/transporter-based drugdrug interaction liability is considered low.
+
+2.3 Outstanding Issues
+None.
+7
+
+Reference ID: 5333786
+
+2.4 Summary of Labeling Recommendations
+The proposed labeling concepts in Section 12.2 and 12.3 are generally acceptable. The
+Office of Clinical Pharmacology recommends the following labeling edits:
+Section 12.2:
+•
+
+The Applicant proposed to use plasma p-tau217 data from Study AACI. While the
+quantitative data can be presented, the review team recommends including the
+following statement in the table; “Results should be interpreted with caution due to
+uncertainties in bioanalysis.”
+
+Section 12.6:
+•
+
+The Applicant proposed to use ADA/NAb incidence based on data from Study
+(b) (4)
+AACI
+, the review team recommends including the data from
+Study AACI (Phase 3 study).
+
+3. Comprehensive Clinical Pharmacology Review
+3.1 Overview of the Product and Regulatory Background
+Donanemab is a humanized IgG1 mAb that is composed of 2 identical Ig kappa light
+chains and 2 identical Ig gamma heavy chains. Donanemab is anticipated to selectively
+target the N-terminal, third amino acid, pyroglutamate formation (N3pG) amyloid beta
+epitope present in cerebral amyloid plaques to exert its therapeutic effects in AD.
+Donanemab is supplied at a concentration of 17.5 mg/mL (350 mg/20 mL) in a single-use
+glass vial for dilution in 0.9% sodium chloride prior to intravenous infusion.
+Donanemab was granted fast track designation in July 2018 and breakthrough therapy
+designation in June 2021. The agency issued a complete response letter on 01/18/2023
+denying accelerated approval of donanemab due to insufficient long-term safety
+experience. In the current submission, the applicant is seeking traditional approval of
+donanemab. This is based on safety and efficacy data obtained from the Phase 3 Study
+AACI, along with integrated safety data from Studies AACI and AACG. Furthermore, the
+clinical pharmacology properties of donanemab were assessed in two phase 1 studies
+(Study AACC and AACD). These studies involved the evaluation of both single doses
+(ranging from 0.1 to 40 mg/kg) and multiple doses (ranging from 0.1 to 20 mg/kg) of
+donanemab in patients with mild cognitive impairment due to AD or mild-to-moderate AD.
+Additionally, safety information on donanemab was derived from ongoing studies,
+including the AACI safety addendum, AACI long-term extension, Study AACH, and Study
+AACN in subjects with early symptomatic AD. Please refer to Clinical Review for details
+of safety evaluation.
+
+8
+
+Reference ID: 5333786
+
+3.2 General Pharmacology and Pharmacokinetic Properties
+In single doses ranging from 10 to 40 mg/kg (approximately 2 times the proposed
+recommended dosage of 1400 mg for a 70 kg body weight), exposures (Cmax and AUC)
+of donanemab exhibited a proportional increase. Upon repeated dosing with 10 mg/kg or
+20 mg/kg every 4 weeks, the AUC ratio from Day 141 to Day 1 was 1.06 and 1.26,
+respectively, indicating minimal accumulation.
+The central volume of distribution is measured at 3.36 L. Donanemab undergoes
+degradation by proteolytic enzymes and is not expected to undergo renal elimination or
+metabolism by hepatic enzymes. The mean terminal half-life of donanemab is
+approximately 12.1 days, and its clearance is 0.0255 L/h. Age, sex, or race did not
+demonstrate a significant impact on the pharmacokinetics of donanemab. Although body
+weight and maximum ADA titer were found to influence donanemab pharmacokinetics,
+the resulting changes did not affect clinical efficacy.
+For additional details, please refer to the OCP review in DARRTS dated 01/17/2023.
+
+9
+
+Reference ID: 5333786
+
+3.3 Clinical Pharmacology Questions
+3.3.1 To what extent does the available clinical pharmacology information provide
+pivotal or supportive evidence of effectiveness?
+The pivotal evidence supporting the effectiveness of donanemab treatment is from Study
+AACI and is based on a statistically significant reduction in the clinical decline of AD as
+measured by the iADRS score at 76 weeks, compared to a placebo, in two predefined
+primary analysis populations: the low/medium tau population and the combined
+population. Additionally, donanemab treatment demonstrated a significant reduction in
+AD clinical progression across all secondary endpoints, which assessed cognitive and
+functional decline, including the CDR-SB, ADAS-Cog13, and ADCS-iADL scales, at 76
+weeks compared to the placebo. The efficacy of donanemab was further supported by its
+effects on brain amyloid PET levels, downstream plasma biomarkers, and exposureresponse relationships, as observed in Studies AACI and AACG.
+Study AACI was a randomized, multicenter, double-blind, placebo-controlled, Phase 3
+study designed to evaluate the efficacy and safety of donanemab in subjects with early
+symptomatic AD. The study enrolled participants aged 59 to 86 years who had
+experienced a gradual and progressive decline in memory functions for at least six
+months, with a MMSE score between 20 to 28 and evidence of pathologic tau deposition
+on a flortaucipir PET scan. Participants were categorized into those with low/medium
+(1.10 ≤ SUVr ≤ 1.46) and high (SUVr > 1.46) levels of tau pathology at baseline. These
+eligible participants were randomly assigned in a 1:1 ratio to receive either donanemab
+or a placebo for a duration of 76 weeks during the double-blind period, followed by an
+open-label extension phase.
+The results from the Study AACI met the primary and key secondary endpoints, showing
+a statistically significant difference between donanemab and placebo in terms of the
+change from baseline in iADRS at 76 weeks. Donanemab treatment resulted in a
+reduction of clinical decline measured on iADRS, with an adjusted mean treatment
+difference of 3.3 (35% less decline compared to placebo) in the low/medium tau
+population and 2.9 (22% less decline compared to placebo) in the combined (low/medium
+and high tau) population. Donanemab treatment also resulted in a reduction of clinical
+decline measured on CDR-SB, with an adjusted mean treatment difference of 0.68 (37%
+less decline compared to placebo) in the low/medium tau population and 0.67 (29% less
+decline compared to placebo) in the combined population. Please refer to clinical review
+and statistical review for additional details on efficacy assessment.
+The evidence of efficacy is supported by data from amyloid PET, plasma biomarkers, and
+exposure-response relationships from phase 2 and phase 3 studies. In Study AACI,
+donanemab-treated participants across study populations showed a time-dependent
+reduction in amyloid plaque levels compared to those receiving the placebo. This
+10
+
+Reference ID: 5333786
+
+Source: Applicant’s summary of clinical efficacy; Table 2.7.3.5; Pg-43
+
+The proportion of subjects achieving amyloid PET reduction to <24.1 centiloids (CL)
+(equates to a negative visual read on an amyloid PET scan according to the sponsor)
+increased with an increase in the treatment duration. Among participants receiving
+donanemab, 34% (178/521), 71% (330/463), and 80% (347/433) achieved amyloid PET
+values <24.1 CL at weeks 24, 52, and 76, respectively, in the low/medium tau population.
+In the combined population, 30% (226/761), 66% (443/670), and 76% (469/614) of
+participants achieved amyloid PET values <24.1 CL at weeks 24, 52, and 76, respectively.
+Four placebo-treated participants achieved amyloid PET values <24.1 CL at any time
+point during the double-blind period. Additional support for donanemab treatment
+mediated dose- and time-dependent reduction in amyloid PET is obtained from studies
+AACC, AACD, and AACG. Please refer to the OCP review in DARRTS dated 01/17/2023
+for more information. The evidence of effectiveness is also supported by exposureresponse analysis evaluating the relationship of donanemab treatment to amyloid PET
+and reduction in clinical decline.
+Donanemab treatment reduced disease progression rate estimated using exposureamyloid plaque-scores model on iADRS by 33.2%, while donanemab treatment reduced
+progression rate as measured by CDR-SB by 36.3% in the low/medium tau population
+(Figure 2).
+
+12
+
+Reference ID: 5333786
+
+In the combined population, disease progression rate on iADRS score was reduced by
+29.3%, while progression rate as measured by CDR-SB was reduced by 31.7% (Figure
+3). Please refer to pharmacometrics analyses section 4.4.5 Disease Progression for
+further details on the modeling analysis.
+Figure 3: Simulated CDR-SB for participants with MCI and participants with mild
+dementia due to AD in the Combined Population By Treatment Druation over 72
+Weeks
+
+CDR-SB = clinical dementia rating-sum of boxes; MCI = mild cognitive impairment; Mild = mild dementia
+due to Alzheimer’s disease. Patients were simulated to follow dosing treatment regimen, including the
+potential for down-titration based on Centiloids at Weeks 24 and 52. Median (90% prediction interval) is
+shown by solid line and shaded areas.
+Source: sequence 0104, module 5335, ly3002813-population-pk-pd-report_us_sub2-donan.pdf, page 97 of
+245
+
+The applicant also submitted data on tau PET biomarker, tau phosphorylated at threonine
+217 (p-tau217), tau phosphorylated at threonine 181 (p-tau181), glial fibrillary acidic
+protein (GFAP), and Neurofilament Light Chain (NfL) in plasma, to evaluate donanemab
+-related effects on potential markers of downstream AD pathophysiology. The results are
+discussed below.
+14
+
+Reference ID: 5333786
+
+Tau PET
+The applicant has evaluated the changes in brain tau PET deposition measured using
+flortaucipir F18 upon treatment with donanemab. There were no significant differences
+between donanemab and placebo groups in either the low/medium tau population or the
+combined population when comparing the changes in frontal lobe tau and AD-signatureweighted-SUVr. Please see the clinical review for details on Tau PET results.
+Plasma p-tau217
+Both the low/medium tau population and the high tau population exhibited a timedependent reduction in plasma p-tau217 levels. At week 76, donanemab treatment
+resulted in a reduction of approximately 35% from baseline while placebo increased by
+about 8% from baseline in the combined population (Figure 4). Similar results were
+observed for the low/medium tau population.
+Figure 4: Change in Plasma p-tau217 from Baseline by Treatment in Study AACI
+
+Source: Applicant’s AACI CSR; Figure AACI.5.14; Pg-161
+
+The exposure-response analysis evaluating the relationship between p-tau217 and
+donanemab suggested that donanemab treatment reduced the formation rate of plasma
+p-tau217 (Figure 5). Please refer to section 4.4.3 P-tau217 of the appendix for further
+details on the modeling analysis.
+
+15
+
+Reference ID: 5333786
+
+Figure 5: Simulation from final plasma P-tau217 model for placebo and with
+donanemab treatment
+
+P-tau217 = tau phosphorylated at threonine 217;. The shaded areas represent a 90% prediction interval.
+The lines represent the median prediction. Patients were simulated to follow dosing treatment regimen as
+applied in Study AACI. Actual participants’ titer time courses, weight, age, and baseline PD values sampled
+from the NONMEM dataset.
+Source: sequence 0104, module 5335, ly3002813-population-pk-pd-report_us_sub2-donan.pdf, page 92 of
+245
+
+Plasma p-tau181, GFAP and NfL
+A time-dependent decrease in the plasma p-tau181 and GFAP, but not plasma NfL were
+observed upon donanemab treatment compared to placebo in both low/medium tau
+population and combined population (Figure 6).
+
+16
+
+Reference ID: 5333786
+
+Figure 7: Simulation from final GFAP model for placebo and with donanemab
+treatment
+
+GFAP = glial fibrillary acidic protein. The shaded areas represent a 90% prediction interval. The lines
+represent the median prediction. Patients were simulated to follow dosing treatment regimen as applied in
+Study AACI. Actual participants’ titer time courses, weight, age, and baseline PD values sampled from the
+NONMEM dataset.
+Source: sequence 0104, module 5335, ly3002813-population-pk-pd-report_us_sub2-donan.pdf, page 92 of
+245
+
+For all the plasma biomarkers, it should be noted that the long-term stability along with
+other bioanalytical method validation aspects were not adequately established (refer to
+Appendix 4.1). Therefore, while qualitative descriptions are appropriate, the interpretation
+of any quantitative analysis results should be approached with caution.
+
+18
+
+Reference ID: 5333786
+
+3.3.2 Is the proposed dosing regimen appropriate for the general population for
+which the indication is being sought?
+Yes, the proposed donanemab dosing regimen as indicated in section 1.1 except for the
+proposal to consider stopping treatment after amyoid plaque is cleared is acceptable from
+clinical pharmacology standpoint.
+The applicant is seeking approval of the donanemab dosing regimen which includes 700
+mg dose administered as IV infusions for the first three doses followed by 1400 mg IV
+infusions every 4 weeks. Applicant is also proposing to consider stopping donanemab
+trearment once the brain amyloid plaque is cleared. This dosing regimen with a minor
+difference was evaluated in Study AACI where donanemab treatment was stopped if
+sufficient reduction amyloid PET was achieved (<11 centiloid at one scan or between 11
+to 24.1 centiloid in successive scans). In Study AACI, nearly 70% of participants in the
+combined population at 18 months met the eligibility criteria for dose cessation. Based on
+the observed effect of donanemab on clinical endpoints, amyloid PET reduction, reduction
+in plasma biomarkers, and biomarker exposure-response relationships, this regimen is
+considered reasonable in terms of safety and efficacy.
+The review team evaluated the adequacy of the sponsor’s proposal to consider stopping
+donanemab treatment based on amyloid PET imaging criteria. The rationale was based
+on the following.
+A. Efficacy data in subjects who met the criteria for early amyloid clearance (<24.1
+CL) at Week 24
+B. Biomarker data in subjects who received donanemab for 24 weeks
+C. Amyloid PET re-accumulation rate in subjects who received donanemab for 24
+weeks
+
+19
+
+Reference ID: 5333786
+
+•
+
+•
+
+•
+
+•
+
+Majority of the amyloid PET reaccumulation rate data is based on the subjects who
+stopped donanemab treatment at week 24. The off-treatment period of 12 months
+may not be sufficient, especially considering that the last dose of donanemab
+administered to patients who have stopped dosing at Week 24 may continue to
+exert a pharmacodynamic effect for some time after dose cessation as shown with
+single dose of donanemab.
+Amyloid PET reaccumulation rate beyond 76 weeks was calculated from a small
+subset of participants (n=15) which may not be a reflective of general population
+with diverse baseline characteristics.
+The applicant has not evaluated the long-term efficacy beyond 76 weeks in
+subjects who have stopped donanemab treatment by week 24. It is not known if
+the efficacy of donanemab will be observed beyond 76 weeks after stopping the
+donanemab treatment at Week 24.
+Study AACI did not include participants who have continued to receive donanemab
+despite meeting the dose cessation criteria based on the amyloid PET. This would
+have helped to understand if efficacy observed with donanemab would have
+improved or not.
+
+The most commonly reported AEs include Amyloid Related Imaging Abnormality (ARIA)
+– microhemorrhages and superficial siderosis (ARIA-H), Edema/Effusions (ARIA-E),
+headache, infusion related reactions, and nausea. In studies AACI and AACG, higher
+incidences of ARIA-E and ARIA-H were observed; ARIA-E was observed in 24% of
+participants treated with donanemab compared to 2% on placebo and ARIA-H was
+observed in 25% of patients treated with donanemab, compared to 11% on placebo.
+Please refer the clinical review for more details.
+Therefore, based on the available data, the proposed dosing regimen except for the
+proposal to consider stopping donanemab treatment after amyloid plaque is cleared is
+acceptable from clinical pharmacology standpoint.
+3.3.3 Is an alternative dosing regimen and management strategy required for
+subpopulations based on intrinsic/extrinsic factors?
+No. There is no need for alternative donanemab dose or dosing regimen for
+subpopulation based on the intrinsic factors such as body weight, age, race, sex, BMI,
+APOE4 carrier status, renal or hepatic impairment and extrinsic factor such as ADA
+status. No dedicated renal and hepatic impairment studies were conducted. Population
+pharmacokinetic analysis was conducted on data from 2131 participants (46 participants
+from Study AACD, 131 participants from Study AACG, 54 participants from Study AACH,
+Part B, and 1900 participants from AACI [PC and Safety Addendum]) to evaluate the
+impact of intrinsic and extrinsic factors. Body weight and ADA were identified to affect
+23
+
+Reference ID: 5333786
+
+Abbreviations: CDR-SB = Clinical Dementia Rating Scale – Sum of Boxes; iADRS = integrated Alzheimer's Disease
+Rating Scale
+
+Consistent with efficacy results, APOE4 heterozygotes and non-carriers demonstrated a
+higher reduction in amyloid PET compared to APOE4 homozygotes (refer to Figure 12).
+At Week 76, the median change in amyloid PET from baseline was -64.2, -86.5, and 90.5 centiloids for homozygotes, heterozygotes, and non-carriers, respectively. The
+percentage of subjects who achieved amyloid plaque levels of <11 centiloids and <24.1
+centiloids across different APOE4 genotype subgroups are presented in Table 2. These
+results indicate that a lower percentage of APOE4 homozygotes achieved amyloid PET
+reduction to <24.1 or <11 centiloids by week 76 across compared to APOE4
+heterozygotes and non-carriers. Further, the median reduction in plasma p-tau217, ptau181, and GFAP levels due to donanemab treatment was more pronounced in
+heterozygotes and non-carriers at Week 76 compared to homozygotes (Figure 12).
+Notably, baseline amyloid PET levels were similar across all APOE4 subgroups, but
+differences were observed in baseline plasma biomarkers (p-tau217, p-tau181, and
+GFAP). While homozygotes showed a lower change in biomarkers compared to
+heterozygotes and non-carriers, it is important to note that the differences still favored
+donanemab treatment compared to placebo.
+Table 2: Percentage of Donanemab Treated Participants by APOE4 genotype with
+Amyloid PET levels <24.1 or 11 centiloids at Week 76
+APOE ε4 subgroup
+
+<24.1 Centiloid
+
+<11 Centiloid
+
+Homozygotes, % (n/N)
+
+55.6 (55/99)
+
+23.2 (23/99)
+
+Heterozygotes, % (n/N)
+
+74.1 (247/324)
+
+53.1 (172/324)
+
+Non-carriers, % (n/N)
+
+86.8 (165/190)
+
+64.7 (123/190)
+
+Abbreviations: n = number of subjects who met the criteria; N = Total number of subjects in the subgroup.
+Source: Reviewer’s Analysis
+
+25
+
+Reference ID: 5333786
+
+treatment effect among APOE4 genotypes, given the exploratory nature of the analyses
+and the lack of a comprehensive understanding, we defer to the clinical team regarding
+the inclusion of a benefit/risk assessment description based on APOE4 genotypes in
+labeling. For further details on the impact of the APOE4 genotype on the benefit and risk
+assessment of donanemab, please refer to Appendix 4.5 Pharmacogenomics Review and
+the Clinical Review.
+3.3.5 What clinical pharmacology information is available to inform the assessment
+of benefit and risk in subgroups with different baseline tau?
+In the pivotal phase 3 Study AACI, 31.8% (552/1736) were categorized as having high
+tau (SUVr at baseline >1.46) and 68.2% (1182/1736) were categorized as having
+low/medium tau (SUVr at baseline: ≥1.10 to ≤1.46). According to the sponsor, subjects
+with baseline tau SUVr <1.10 (categorized as very low or no tau) were excluded from
+Study AACI due to their anticipated slow clinical progression, making it challenging to
+observe significant treatment effects in an 18-month study. The sponsor conducted an
+exploratory subgroup analysis for iADRS and CDR-SB in participants enrolled in the AACI
+DB period based on the tau status (low/medium versus high) to assess the consistency
+of treatment effects (refer to Figure 14). While the treatment benefit with donanemab
+appeared to trend positively for both clinical end points (iADRS and CDR-SB) in
+low/medium tau and high tau groups, subjects with low/medium tau appeared to have a
+higher treatment benefit compared to subjects with high tau. These analyses are
+considered exploratory, and the study was not powered to detect the differences between
+baseline tau subgroups. The sponsor proposes allowing donanemab treatment to
+subjects irrespective of their baseline tau status. To inform the benefit assessment of
+donanemab treatment for patients with different baseline tau levels, the review team
+evaluated the impact of baseline tau on amyloid PET, plasma biomarkers, and PK as
+summarized below.
+A cohort of subjects with no or very low tau status were enrolled in the open-label
+addendum to Study AACI (AACI Safety Addendum) as they did not meet the tau PET
+scan eligibility criteria for the Study AACI placebo-controlled Main Study. Clinical efficacy
+data were not collected while amyloid PET and plasma biomarker (p-tau217 and GFAP)
+were collected from these subjects for 76 weeks. The subjects with no/very low tau
+exhibited lower baseline values for amyloid PET and plasma biomarkers compared to
+subjects with low/moderate or high tau, possibly indicating an earlier disease state
+(Figure 15).
+
+28
+
+Reference ID: 5333786
+
+low tau (1.10 ≤ baseline tau SUVR < 1.23), medium tau (1.23 ≤ baseline tau SUVR <
+1.46), and high tau (baseline tau SUVR ≥ 1.46) is 65.2, 67.3, 68.2, and 68.7 ug/mL,
+respectively. These results indicate that PK was similar among baseline tau subgroups
+and may not explain the observed differences in clinical end points.
+In summary, as significant reductions were observed in amyloid PET and plasma
+biomarkers in subjects with very low/no baseline tau, the review team recommends the
+use of donanemab in this population. Further, the observed differences in clinical efficacy
+between low/medium tau and high tau subgroups could not be attributed to differences in
+PK. Given the comparable reductions in amyloid PET and plasma biomarkers across all
+subgroups, the review team does not propose alternate dosing recommendations based
+on baseline tau levels.
+3.3.6 Is the to-be-marketed formulation the same as the clinical trial formulation,
+and if not, are there bioequivalence data to support approval of the to-be marketed
+formulation?
+Yes. Donanemab solution formulation is supplied as a 17.5-mg/mL solution drug product
+in a 20-mL glass vial and is the proposed to-be-marketed formulation. The applicant used
+the same solution formulation of donanemab drug product in the pivotal Study AACI.
+
+31
+
+Reference ID: 5333786
+
+4. Appendix
+4.1. Summary of Bioanalytical Method Validation
+4.1.1 Bioanalysis of donanemab in human serum
+For the determination of serum donanemab concentrations from Study AACI, the
+applicant used an Enzyme-Linked Immunosorbent Assay (ELISA) method (Report 8352531). This report along with two other validation reports (Reports 8248-152 and 8338154) were reviewed previously. Please refer to the OCP review in DARRTS dated
+01/17/2023 for more information. The ELISA method was validated in compliance with
+the standards set forth in the 2018 FDA Bioanalytical Method Validation guidance.
+Accuracy and precision of QC samples were ≤20% (and ≤25% at LLOQ and ULOQ), and
+calibration curves for the ELISA bioanalytical assay were within acceptable limits. Further,
+based on the recoveries and passing rates of spiked controls and incurred serum sample
+pools, the cross validation was considered acceptable.
+4.1.2 Bioanalysis of p-tau217 in human plasma
+For the determination of plasma p-tau217 concentrations, the applicant used an
+(b) (4)
+Immunoaffinity (IA)-LC-MS/MS method.
+
+Summary of the validation
+parameters submitted by the applicant are presented in Table 4.
+
+32
+
+Reference ID: 5333786
+
+4.1.3 Bioanalysis of p-tau181 in human plasma
+The applicant used Simoa® pTau-181 Advantage V2.1 Kit to determine the concentrations
+(b) (4)
+of p-tau181 in human plasma samples from Study AACI.
+
+34
+
+Reference ID: 5333786
+
+b. Insufficient number of EQC samples:
+
+(b) (4)
+
+4.1.4 Bioanalysis of GFAP in human plasma
+The applicant used Simoa® Neurology 2-Plex B Advantage Kit to determine the
+(b) (4)
+concentrations of GFAP in human plasma samples from Study AACI.
+
+Summary of the validation parameters submitted by the applicant are presented in
+Table 6.
+
+36
+
+Reference ID: 5333786
+
+(b) (4)
+
+4.2. Impact of Immunogenicity
+For the determination of ADAs, the applicant used an affinity capture and elution bridge
+immunogenicity assay. The assay was developed at Lilly Research Laboratories (Eli Lilly
+(b) (4)
+and Company, Indianapolis, Indiana, USA) and validated at
+. Various method validation parameters for
+assessing immunogenicity were considered adequate. Please refer to the
+immunogenicity assay review by OBP for additional details.
+4.2.1 Impact of immunogenicity on PK
+To evaluate the impact of immunogenicity on PK, we compared the observed
+concentrations in ADA+ and ADA- subjects with time-matched PK and ADA data. The
+average donanemab concentrations (ADA+ and ADA- groups) were calculated at each
+timepoint and are presented in Table 7 and Figure 16. The results show that the mean
+concentrations in ADA+ subjects were lower than ADA- subjects at all the time points.
+The geometric mean ratio (GMR) of concentrations between ADA+ and ADA- groups by
+time point and the related 90% CI are presented in Table 7 and Figure 17. Subjects in
+the ADA+ group had lower pre-dose concentrations at all the evaluated time points with
+lower concentrations in ADA+ group starting from week 4, i.e., at the end of the first dosing
+interval.
+Table 7: Study AACI - Summary of average concentration by ADA status
+Visit
+#
+
+Timepoint
+
+Total N
+
+Donanemab Concentration (μg/mL),
+geometric mean
+ADA+ group
+N
+ADAN
+group
+2.96
+284
+7.53
+543
+
+3
+
+Week 4
+
+827
+
+4
+
+Week 8
+
+788
+
+2.59
+
+596
+
+9.72
+
+192
+
+0.27 (0.2,0.3)
+
+5
+
+Week 12
+
+733
+
+2.52
+
+664
+
+11.44
+
+69
+
+0.22 (0.2, 0.3)
+
+6
+
+Week 16
+
+759
+
+4.59
+
+672
+
+21.48
+
+87
+
+0.2 (0.2,0.3)
+
+8
+
+Week 24
+
+724
+
+5.68
+
+624
+
+24.82
+
+100
+
+0.2 (0.2,0.3)
+
+11
+
+Week 36
+
+689
+
+4.95
+
+551
+
+27.23
+
+138
+
+0.18 (0.1,0.2)
+
+15
+
+Week 52
+
+643
+
+3.33
+
+438
+
+23.74
+
+205
+
+0.14 (0.1,0.2)
+
+38
+
+Reference ID: 5333786
+
+GMR (90%CI)
+ADA+/ADA-
+
+0.39 (0.3,0.4)
+
+Figure 21: Change from Baseline in CDR-SB and iADRS by Low vs High Maximum ADA
+Titer
+
+Source: Reviewer’s analysis
+
+43
+
+Reference ID: 5333786
+
+4.3 Population PK Review
+4.3.1 Population PK Model
+The population PK model used to describe the pharmacokinetics (PK) of donanemab and
+characterize the relationship between donanemab PK with demographics and other
+covariates was reviewed previously and was considered acceptable (Refer to OCP review
+in DARRTS dated 01/17/2023).
+In the current submission, the applicant updated the model by including the data from
+Study AACI. The PK dataset contained 22,288 observations from 2131 participants (46
+participants from Study AACD, 131 participants from Study AACG, 54 participants from
+Study AACH, Part B, and 1900 participants from AACI [PC and Safety Addendum]). The
+selected final model has 2 compartments following IV infusion, with interparticipant
+variability on CL, as well as central and peripheral volumes of distribution. Additionally,
+clearance and distributional clearance were scaled allometrically by weight, and central
+and peripheral volumes of distribution were also scaled allometrically with weight, using
+exponents of 0.8 for clearance terms and 1 for volume terms. Following stepwise
+covariate modeling, the final model identified effect of titer change over time on clearance
+as a significant covariate.
+Table 8: Pharmacokinetic and Covariate Parameters in Population
+
+44
+
+Reference ID: 5333786
+
+Source: ly3002813-population-pk-pd-report_us_sub2-donan, page 52
+Abbreviations: CI = confidence interval; CL = clearance; CV = coefficient of variation; NA = not applicable; V1 = volume
+of distribution, central compartment; V2 = volume of distribution, peripheral compartment; Q = intercompartment
+clearance; WT = weight at baseline.
+
+Similar PK exposures were observed in Study AACI compared to Study AACG which may
+explain the comparable reductions observed in amyloid PET between these studies
+(Figure 22).
+Figure 22: Steady State Concentrations of Average and Trough in Studies AACI and
+AACG
+A
+
+B
+
+Source: Reviewer’s Analysis
+
+Reviewer’s Comments: Even after the inclusion of PK data from Study AACI, the same
+PK model was able to adequately explain donanemab pharmacokinetics.
+
+45
+
+Reference ID: 5333786
+
+4.4 Exposure-Response Analyses
+Report ly3002813-population-pk-pd-report_us_sub2-donan.pdf, titled “Population
+Pharmacokinetic and Pharmacodynamic Analyses of Studies I5T-MC-AACD, I5T-MCAACG, I5T-MCAACH (Parts B and C), and I5T-MC-AACI (PC and Safety Addendum)”
+was submitted to module 5335 in sequence 0104. The exposure-response analyses
+described in this report assess the relationship of donanemab exposure with amyloid
+plaque reduction, ARIA-E, P-tau217, plasma GFAP, iADRS, and CDR-SB. The amyloid
+data were measured in study AACD, AACG, AACH (parts B and C), and AACI (placebocontrolled phase and safety addendum phase). The ARIA-E, iADRS, and CDR-SB data
+were obtained from study AACG and ACCI. The PK values applied in these analyses
+were obtained from individual PK paramter estimates from the population PK analyses
+(see section 4.3.1 Population PK Model for details) using individual dosing history for
+each subject. The analyes were performed using NONMEM version 7.5.0 software.
+[Reviewer comment: Exposure-response analyses for these endpoints were previously
+submitted in sequence 0002 and reviewed by OCP. Please refer to the clinical
+pharmacology review of NDA 761248 archived on 2023/01/17 for details. The current
+submission includes updates to each E-R model with a larger data base of PD
+observations.
+The Applicant used the name run001 to refer to the final model for PPK, ARIA-E TTE,
+and P-tau217.]
+4.4.1 Amyloid-Plaque Reduction
+4.4.1.1 Modeling
+The dataset used for these analyses contains 12128 amyloid plaque measurements from
+n=2023 subjects from studies AACD, AACG, AACH, and AACI. The median observation
+time is 12 months. The maximum observation time is 25.1 months.
+The applicant applied a turnover model (also known as an indirect response model) to
+describe the amyloid plaque data. The treatment effect was implemented as stimulating
+the plaque degradation term when PK is over a threshold concentration. This model is
+parameterized in terms of a plaque elimination half-life and baseline plaque level. The
+Applicant applied a Box-Cox transformation to the between subject variability term for the
+baseline amyloid value. Covariates tested on the half-life and baseline amyloid plaque
+parameters included age, weight, ADA titer, TE ADA status, time from diagnosis, and
+baseline tau PET SUVR as continuous relationships, and low/medium (PET SUVR ≤1.46)
+and high (tau PET SUVR >1.46) and APOE4 status as categorical relationships. The final
+model (run077) did not include any covariates. Parameter estimates for the final model
+are presented in Table 9.
+46
+
+Reference ID: 5333786
+
+Table 9: Parameter Estimates for the Final Amyloid Plaque Reduction Model
+(run077)
+
+CI = confidence interval; CV = coefficient of variation; SD = standard deviation. a 95% CI from bootstrap.
+Source: sequence 0104, module 5335, ly3002813-population-pk-pd-report_us_sub2-donan.pdf, page 55 of
+245
+
+Key diagnostic plots are presented in Figure 23 and Figure 24.
+
+47
+
+Reference ID: 5333786
+
+Figure 23: Diagnostic plots for the amyloid-plaque reduction PKPD model
+
+PET = positron emission tomography.
+Source: sequence 0104, module 5335, ly3002813-population-pk-pd-report_us_sub2-donan.pdf, page 168
+of 245
+
+48
+
+Reference ID: 5333786
+
+Figure 24: Visual predictive check for the final PKPD model for Amyloid Plaque
+Reduction
+Donanemab
+
+Placebo
+
+Solid red line: median of ob served concentrations; dashed red lines: 5th and 95 th percentiles of observed
+concentrations; red shaded area: 95% confidence interval for the median of simulated data; blue shaded
+areas: 95% confidence intervals for the 5th and 95th percentiles of simulated data; blue full circles: individual
+observed amyloid plaque data. Data and predictions are stratified by placebo (right panel, TRT0 = 2) and
+donanemab treatment (left panel, TRT0 = 1). X-axis depicts hours and y-axis depicts Centiloids.
+Source: sequence 0104, module 5335, ly3002813-population-pk-pd-report_us_sub2-donan.pdf, page 56 of
+245
+
+The Applicant concludes the following:
+•
+
+•
+
+An exposure-response analysis described the relationship with amyloid reduction
+as measured using amyloid PET. Treatment effect was associated with
+maintaining serum donanemab concentrations above a median (95% CI) threshold
+concentration of 15.2 (8.54, 18.0) μg/mL. No covariate effects, including APOE ε
+4 and baseline tau burden, influencing amyloid removal were identified.
+Although serum clearance of donanemab increased with increasing ADA titer,
+leading to clearance increasing by approximately 39% at the highest titer in studies
+included in the meta PK/PD analysis (Studies AACD, AACG, AACH Parts B and
+C, and AACI [PC and Safety Addendum]), there was a significant overlap in
+concentrations across different titers, even between extreme ADA titers (<1:5120
+and >1:20480). The majority (more than 80%) of participants maintained average
+concentrations above the threshold efficacy concentration.
+
+49
+
+Reference ID: 5333786
+
+•
+
+The impact of completing active treatment on plaque reaccumulation was
+investigated by simulations using treatment exposure-response (amyloid plaque)
+model using previously published methods (Shcherbinin et al. 2022; Gueorguieva
+et al. 2023). The amyloid reaccumulation rate (median, 95% CI) is estimated at
+2.80 (2.16, 3.11) Centiloids/year. These findings are supported by natural
+accumulation modeling studies (Jagust et al. 2021) showing approximately 3.3
+Centiloids/year as the estimated rate of the natural amyloid accumulation model.
+
+[Reviewer comment: The eta shrinkage is 12.4%, 5, and 13.8% for half-life, baseline
+amyloid, and the scaler parameters, respectively. Epsilon shrinkage is 12.4%. The
+between subject variability was highest for the treatment effect (90.3%).
+The diagnostic plots (Figure 23) do not indicate the presence of systemic bias with respect
+to time nor prediction magnitude. The visual predictive check (VPC; Figure 24) indicates
+that the model is able to represent the overall distribution of amyloid measurements in the
+pooled treatment arm as well as in the pooled placebo arm reasonably well.
+The condition number is 36 which does not suggest overparameterization. Correlation
+among parameters is low. The Applicant’s PKPD model for amyloid plaque reduction is
+acceptable.]
+
+50
+
+Reference ID: 5333786
+
+4.4.1.2 Simulation
+The Applicant used the exposure-response model for amyloid reduction to simulate effect
+of donanemab concentration, baseline amyloid pet, effect of completion active treatment,
+and effect of APOE ε4 on amyloid levels.
+
+Donanemab Concentration Effect on Amyloid Reduction
+The Applicant’s final amyloid reduction model included treatment effect was associated
+with maintaining a median (95% CI) threshold concentration of 15.2 (8.54, 18.0) μg/mL.
+To assess the effect titer impact, PK parameters were calculated for ADA- and each titer
+category using simulations with 3000 virtual participants. Applicant estimated median,
+5th, 20th, 80th, and 95th percentiles for trough concentrations, AUC, average drug
+concentration (Cav) and Cmax at steady state for different titer cutoff as well as ADAnegative status. The results are presented in Table 10.
+Table 10: Simulated Steady-State PK By ADA Status and Titer.
+
+ADA = antidrug antibody; AUC ,ss = area under the concentration versus time curve during 1 dosing
+interval at steady state; Caverage,ss = average drug concentration under steady-state conditions during
+multiple dosing; CI = confidence interval; Cmax,ss = maximum observed drug concentration during a dosing
+interval at steady state; Ctrough,ss = minimum observed drug concentration during a dosing interval at
+steady state; TE ADA = treatment-emergent antidrug antibody.
+Source: sequence 0104, module 5335, ly3002813-population-pk-pd-report_us_sub2-donan.pdf, page 84 of
+245
+
+51
+
+Reference ID: 5333786
+
+Effect of Completing Active Treatment on Plaque Reaccumulation
+The Applicant applied the amyloid plaque reduction model to simulate the reaccumulation of amyloid plaque upon cessation of donanemab treatment. This
+simulation exercise involved subjects who achieved < 11 Centiloids amyloid plaque by 6
+months (form studies AACG and AACI), completed donanemab treatment, and were
+followed for 1.5 years (studies AACG and AACI) and further to ~3 years (from
+observation of a subgroup of the same participants who were followed in Study AACH,
+Part C). These analyses assumed a linear rate of amyloid reaccumulation rate over time
+(b) (4)
+beyond the maximum observed period of 3 years.
+The results of
+simulated plaque reaccumulation are presented in Figure 26.
+
+53
+
+Reference ID: 5333786
+
+Figure 26: Simulated Amyloid Plaque Profile For Subjects That Achieved < 11
+Centiloids and Stopped Treatment by Week 24
+
+Abbreviations: AACD = Study I5T-MC-AACD; AACG = Study I5T-MC-AACG; AACH = Study I5T-MCAACH; AACI = Study I5T-MC-AACI. Top two panels: Participants (n = 10,000) were simulated to follow
+dosing treatment regimen as described in the Methods section. Model developed using data from Studies
+AACD, AACG, AACH, and AACI. Reference line shows 24.1 Centiloids. Median (90% prediction intervals)
+are represented by solid line and shaded area.
+Source: sequence 0104, module 5335, ly3002813-population-pk-pd-report_us_sub2-donan.pdf, page 89 of
+245
+
+54
+
+Reference ID: 5333786
+
+The Applicant concludes the following:
+•
+•
+
+The amyloid reaccumulation rate (median, 95% CI) is estimated at 2.80 (2.16,
+3.11) Centiloids/year.
+These findings are supported by natural accumulation modeling studies1 showing
+approximately 3.3 Centiloids/year (where it took 6.4 years for amyloid to increase
+from 4 Centiloids to 25 Centiloids; (25-4)/6.4 = 3.28) as the estimated rate of the
+natural amyloid accumulation model.
+
+[Reviewer comment: The Applicant’s simulated re-accumulation rate appears reasonable
+to estimate the amyloid re-accumulation rate within the 3-year time frame within which
+there are observed amyloid measurements. It is not clear that the amyloid reaccumulation
+rate can be reliably generalized outside of the 3-year time frame for which observations
+are provided.]
+
+Effect of APOE4 Status on Baseline Amyloid and Amyloid Removal Half-Life
+The Applicant states that none of the investigated covariates (age, weight, baseline tau,
+ADA titer, time from diagnosis, and APOE e4 carrier status) were identified as covariates
+in the amyloid PET model. A plot of eta values for baseline amyloid and eta values for
+amyloid half-life by APOE status are presented in Figure 27.
+
+1 Jagust WJ, Landau SM, Alzheimer’s Disease Neuroimaging Initiative. Temporal dynamics of Beta-amyloid
+
+accumulation in aging and Alzheimer’s disease. Neurol. 2021;96(9):e1347-e1357.
+https://doi.org/10.1212/WNL.0000000000011524
+
+55
+
+Reference ID: 5333786
+
+Figure 27: Between Subject Variability of Amyloid Half-Life and Baseline Amyloid
+For the Final Amyloid Plaque Model
+
+ApoE4 = apolipoprotein subtype E allele 4; PET = positron emission tomography; participants with unknown
+carrier status (N = 0.4) were grouped with carriers. Lower and upper hinges correspond to 25th and 75th
+percentiles; the upper whisker extends from the hinge to the largest value no further than 1.5 × inter-quartile
+range.
+Source: sequence 0104, module 5335, ly3002813-population-pk-pd-report_us_sub2-donan.pdf, page 91 of
+245
+
+The Applicant concludes that the individual predictions of amyloid PET baseline and PET
+half-life were similar between APOE e4 carriers and non-carriers.
+[Reviewer comment: The distribution of eta values in Figure 27 support the decision to
+not include APOE4 status as a covariate on baseline or half-life.]
+
+56
+
+Reference ID: 5333786
+
+4.4.2 ARIA-E
+The analysis of time-to-first ARIA-E data included 2974 subjects where 462 subjects had
+at least 1 ARIA-E event. In subjects with multiple events, only the first event was used.
+The subjects in the dataset came from studies AACG and AACI. The Applicant assessed
+exponential, Weibull, and Gompertz hazard models. The probability density function was
+estimated for individuals that experience ARIA-E at time=t and the probably of not having
+ARIA-E at time=t was estimated for subjects who did not have an ARIA-E event during
+the observation period (or were censored). Drug concentrations were estimated for
+subjects using individual PK parameters with the observed dosing history.
+The covariates tested with the three hazard models include APOE ε4, age of the study
+participant, time since onset of symptoms of Alzheimer’s disease, time since diagnosis of
+Alzheimer’s disease, baseline C-reactive protein, antidrug antibodies, initial rate of plaque
+removal and sex. A stepwise forward inclusion, backward elimination (stepwise covariate
+modeling) was implemented. Linear, power, and exponential covariate relationships were
+evaluated. OFV reduction, clinical relevance, magnitude of effect, and precision of the
+estimates were taken into consideration for covariate selection. The parameter estimates
+for the final TTE model (run001) are presented in Table 11.
+
+57
+
+Reference ID: 5333786
+
+Table 11: Parameter Estimates for the Final ARIA-E Time-to-Event Model (run001)
+
+APOE ε4 = apolipoprotein E4; ARIA-E = amyloid-related imaging abnormalities-edema/effusions; CI =
+confidence interval; Cav,ss = average serum concentration at steady state; NA = not applicable.
+Source: sequence 0104, module 5335, ly3002813-population-pk-pd-report_us_sub2-donan.pdf, page 58 of
+245
+
+A visual predictive check is presented in Figure 28.
+
+58
+
+Reference ID: 5333786
+
+Figure 28: Visual predictive check for the final ARIA-E TTE Model (run001)
+
+APOE4 = apolipoprotein E4; ARIA-E = amyloid-related imaging abnormalities-edema/effusions. Note: The
+solid lines are the Kaplan-Meier plot of the observed data, and the shaded areas are the 95% confidence
+intervals for the simulated data.
+Source: sequence 0104, module 5335, ly3002813-population-pk-pd-report_us_sub2-donan.pdf, page 59 of
+245
+
+The Applicant concludes the following:
+•
+
+•
+
+•
+
+•
+
+•
+
+There is a clear donanemab treatment effect for ARIA-E. ARIA-E hazard (that is,
+instantaneous risk) is driven by the baseline hazard, donanemab treatment, APOE
+e4 genotype, average concentration at steady state, number of baseline
+microhemorrhages, and time components.
+ARIA-E baseline hazard differed by APOE ε4 genotype, and by Week 24, it was
+1.8 times higher in heterozygote APOE ε4 compared with noncarriers, 3.9 times
+higher in homozygote APOE ε4 compared with noncarriers, and 2.1 times higher
+in homozygotes APOE ε4 compared with heterozygotes APOE ε4.
+The baseline hazard for ARIA-E increased with the increase of number of
+microhemorrhages (evaluated for up to and including 4 baseline
+microhemorrhages).
+Participants with higher Cav,ss have an increased risk of ARIA-E compared with
+those with median Cav,ss. The baseline hazard for ARIA-E was 1.2 times higher
+in participants with the highest observed Cav,ss (233 μg/mL, n = 1; 0.05% of the
+PK evaluable population) compared with those with median Cav,ss (52.1 μg/mL,
+n = 2131; 50% of the PK evaluable population).
+The risk of ARIA-E was similar regardless of age, time since onset of symptoms of
+AD, time since diagnosis of AD, baseline MMSE, antithrombotic medication during
+study period, white matter disease, sex, baseline C-reactive protein, ADA titer,
+59
+
+Reference ID: 5333786
+
+•
+
+baseline amyloid plaque, initial rate of plaque removal, superficial siderosis present
+at baseline, baseline tau burden, AUCss, Cmax,ss, and Ctrough,ss. The analysis
+used data from Studies AACG and AACI, both of which examined a single dosage
+regimen.
+Although immunogenicity had an impact on PK, there was no statistically
+significant impact of immunogenicity on risk of ARIA-E based on these analyses.
+
+[Reviewer comment: The VPC presented in Figure 28 demonstrates overlap between the
+90% prediction intervals with the Kaplan-Meier plot of the observed data across the
+treatment groups and by APOE status.
+The ARIA-E model in the original submission did not include PK as a covariate in the final
+model. However, the ARIA-E model in the current submission includes PK as a covariate
+such that subjects with higher Cav,ss have increased ARIA-E risk. One possible
+explanation for this change in the ARIA-E TTE model may be that the PK effect could not
+be detected with the smaller dataset available in the original submission (37 ARIA-E
+events from n=254 subjects) but is detectable in larger dataset in the current submission
+(462 ARIA-E events from n=2974 subjects).]
+4.4.3 P-tau217
+The Applicant utilized a turnover model (also known as an indirect response model) to
+describe the time course of plasma p-tau217 (P-tau217). In this modeling approach,
+donanemab was assessed as inhibiting the formation of P-tau217. The final dataset
+includes 7195 observations from n=1675 subjects. Individual post-hoc participant
+parameters from the final population PK and the amyloid plaque models were added to
+the P-tau217 dataset to obtain predicted drug concentrations and amyloid plaque levels
+for individual patients. The Applicant assessed age at entry, APOE ε4 carrier status,
+gender, race, weight at entry, presence of TE ADA, time since onset of symptoms of AD,
+time since diagnosis of AD, and baseline tau PET SUVR as potential covariates on
+baseline P-tau217. The parameter estimates for the final P-tau217 model (run001) are
+presented in Table 12.
+
+60
+
+Reference ID: 5333786
+
+Table 12: Parameter Estimates for the Final P-tau217 Model (run001)
+
+BTAUSUVR = Baseline Tau PET SUVR; CI = confidence interval; CV = coefficient of variation; Kin =
+formation rate; NA = not applicable; P-tau217 = tau phosphorylated at threonine 217; PET = positron
+emission tomography; SUVR = standardized uptake value ratio.
+Source: sequence 0104, module 5335, ly3002813-population-pk-pd-report_us_sub2-donan.pdf, page 60 of
+245
+
+Key diagnostic plots are presented in Figure 29 and Figure 30.
+
+61
+
+Reference ID: 5333786
+
+Figure 29: Diagnostic plots for the final P-tau217 Model (run001)
+
+iWRES = individual weighted residuals; P-tau217 = tau phosphorylated at threonine 217.
+Source: sequence 0104, module 5335, ly3002813-population-pk-pd-report_us_sub2-donan.pdf, page 234
+of 245
+
+62
+
+Reference ID: 5333786
+
+Figure 30: Visual Predictive Check for the final P-tau217 Model (run001)
+Donanemab
+
+Placebo
+
+P-tau217 = tau phosphorylated at threonine 217. The points are the observed P-tau217 concentration in
+pg/mL plotted across time from first dose in hours. The lines are the 5th, 50th, and 95th percentiles of the
+observed data. The shaded areas are the model-predicted 95% confidence interval of the corresponding
+percentiles. The left panel is donanemab treatment and right panel is placebo.
+Source: sequence 0104, module 5335, ly3002813-population-pk-pd-report_us_sub2-donan.pdf, page 61 of
+245
+
+The Applicant applied the model to simulate the P-tau217 concentration time profile in
+treatment versus placebo subjects (see Figure 5 in section “3.3.1 To what extent does
+the available clinical pharmacology information provide pivotal or supportive evidence of
+effectiveness?”).
+The Applicant concludes:
+•
+•
+
+Donanemab treatment reduced the formation rate of plasma P-tau217.
+A statistically significant relationship was identified between baseline P-tau217 and
+baseline tau PET SUVR, with higher P-tau217 concentrations associated with
+higher values of tau SUVR.
+
+[Reviewer comment: The modeling results indicate an effect of donanemab on the
+lowering of P-tau21. These analyses suggest between baseline tau PET SUVR and
+baseline P-tau217, such that increases in P-tau217 are associated with higher baseline
+tau PET SUVR values.]
+
+63
+
+Reference ID: 5333786
+
+4.4.4 GFAP
+A turnover model was applied to describe the time course of plasma glial fibrillary acidic
+protein (GFAP). The effect of donanemab treatment on GFAP was addressed via two
+approaches: 1) treatment inhibits the GFAP formation process, and 2) reduction in
+amyloid load inhibits the GFAP formation process. The Applicant states that both
+approaches describe the data well. The Applicant selected the model using amyloid as a
+predictor of GFAP in part due to a published article describing a positive correlation
+observed between amyloid load and plasma GFAP2. Age at entry, sex, weight at entry,
+eGFR, baseline MMSE, baseline tau PET SUVR, and baseline P-tau217 were assessed
+as covariates on baseline GFAP concentration. None of these variables were selected
+for inclusion as covariates in the final model. The parameter estimates for the final model
+(run216) are presented in Table 13.
+Table 13: Parameter Estimates for the Final GFAP Model (run216)
+
+CI = confidence interval; CV = coefficient of variation; GFAP = glial fibrillary acidic protein; Kin = formation
+rate.
+Source: sequence 0104, module 5335, ly3002813-population-pk-pd-report_us_sub2-donan.pdf, page 62 of
+245
+
+Key diagnostic plots are presented in Figure 31 and Figure 32.
+
+2 Pereira JB, Janelidze S, Smith R, et al. Plasma GFAP is an early marker of amyloid-β but not tau pathology
+
+in Alzheimer’s disease. Brain. 2021;144(11),3505-3516.
+
+64
+
+Reference ID: 5333786
+
+Figure 31: Diagnostic plots for the final GFAP Model (run216)
+
+GFAP = glial fibrillary acidic protein; iWRES = individual weighted residuals.
+Source: sequence 0104, module 5335, ly3002813-population-pk-pd-report_us_sub2-donan.pdf, page 245
+of 245
+
+65
+
+Reference ID: 5333786
+
+Figure 32: Visual Predictive Check for the final GFAP Model (run216)
+Donanemab
+
+Placebo
+
+GFAP = glial fibrillary acidic protein. The points are the observed plasma glial fibrillary acidic protein
+concentration in pg/mL plotted across time from the first dose in hours. The lines are the 5th, 50th, and 95th
+percentiles of the observed data. The shaded areas are the model-predicted 95% confidence interval of the
+corresponding percentiles. The left panel is donanemab treatment and the right panel is placebo.
+Source: sequence 0104, module 5335, ly3002813-population-pk-pd-report_us_sub2-donan.pdf, page 63 of
+245
+
+Applicant applied the model to simulate the GFAP concentration time profile in treatment
+versus placebo subjects (see Figure 7 in section “3.3.1 To what extent does the available
+clinical pharmacology information provide pivotal or supportive evidence of
+effectiveness?”).
+
+66
+
+Reference ID: 5333786
+
+The Applicant concludes the following:
+•
+•
+
+Donanemab treatment was found to reduce the rate of formation of plasma GFAP.
+Reduction in amyloid load (a relative change from baseline) was associated with
+decrease in the rate of GFAP formation.
+
+[Reviewer comment: The approach to use amyloid as the predictor for GFAP is
+reasonable. The model adequately describes the GFAP data. The modeling results
+indicate an effect of donanemab on reducing GFAP.]
+
+67
+
+Reference ID: 5333786
+
+4.4.5 Disease Progression
+Separate disease progression models for iADRS as well as CDR-SB. The approach was
+identical for both models. The CDR-SB model was coded to constraining predictions
+within the 0 to 18 range and within 0 to 144 for iADRS. Richard’s logistic regression was
+selected for the disease progression model to ensure constrained predictions within the
+acceptable range as well as accounting for possible non-linear disease progression and
+heteroscedasity of the residual error. Beta regression was used to account for decreasing
+variance in residual error as data approach the boundary values.
+The Applicant assessed drug exposure using maximum effect models as well as
+threshold models as a single dose level was studied. The effect of amyloid PET values
+(express as absolute change from baseline or relative change from baseline) was
+assessed as a predictor of disease progression rate.
+Covariate effects were assessed on baseline measure value, disease progression rate,
+and drug effect. Variables screen as covariate were APOE ε4 genotype, baseline tau PET
+SUVR, baseline amyloid PET, age of the study participant, time since onset of symptoms
+of AD, time since diagnosis of AD, baseline MMSE, TE ADA, ADA titer, sex, and body
+weight. The Applicant assessed linear, power, and expontial forms of covariate
+relationships. Covariate selection was based on OFV reduction, clinical relevance,
+magnitude of effect, and precision of the estimates.
+For both the iADRS and CDR-SB models, the treatment effect is active at any time when
+the concentration in the central compartment is greater than an estimated threshold
+concentration. Otherwise, the treatment effect is inactive when concentrations are below
+the threshold. PK values were obtained using the individual estimates from the population
+PK model and observed dosing history for each subject. The parameter estimates for the
+final disease progression models for CDR-SB as well as iADRS are presented in Table
+14.
+[Reviewer comment: The Applicant states that a concentration effect-relationship could
+not be identified for either iADRS or CDR-SB models as only one dose regimen was
+assessed in studies AACG and AACI. For this reason, the Applicant implemented the
+concentration threshold approach.]
+
+68
+
+Reference ID: 5333786
+
+Table 14: Parameter Estimates for the Final Disease Progression Models for
+iADRS (run102) and CDR-SB (run101) – Treatment Effect
+
+AADIAG = time from diagnosis of Alzheimer’s disease; CI = confidence interval; CV = coefficient of
+variance; MCI = mild cognitive impairment; SEE = standard error of the estimate; Tau groups defined as:
+<1.10 (low tau, ‘no tau’ in specifications); ≤1.10 to <1.46 (groups low and medium tau from specifications);
+≥1.46 (high tau, ‘high tau’ in specifications).
+Source: sequence 0104, module 5335, ly3002813-population-pk-pd-report_us_sub2-donan.pdf, page 6667 of 245
+
+69
+
+Reference ID: 5333786
+
+The diagnostic plots and modeling conclusions for each model can be found in the next
+sections.
+4.4.5.1 iADRS Modeling
+The Key diagnostic plots for iADRS disease progression model are shown in Figure 33
+and Figure 34.
+
+Figure 33: Diagnostic plots for the final iADRS Model (run102) – Treatment Effect
+
+DV = dependent variable; iADRS = integrated Alzheimer’s disease rating scale; IPRED = individually
+predicted value; LOWESS = locally weighted scatterplot smoothing; PRED = population predicted values;
+SOR = standardized ordinary residuals. LOWESS fit, a smoothed value given by a weighted linear leastsquares regression over the span of observations, for data are presented (black line) in addition to a line of
+identity (gray line on top panel).
+Source: sequence 0104, module 5335, ly3002813-population-pk-pd-report_us_sub2-donan.pdf, page 68 of
+245
+
+70
+
+Reference ID: 5333786
+
+Figure 34: Visual Predictive Check for the final iADRS Model (run102) – Treatment
+Effect
+
+AD = Alzheimer’s disease; iADRS = integrated Alzheimer’s disease rating scale; SUVR = standardized
+uptake value ratio. Very Low Tau: <1.10 SUVR Intermediate label = low/medium Tau: SUVR <1.10, with a
+topographic deposition pattern consistent with advanced AD (AD++), or ≤1.10 SUVR ≤1.46, with a
+topographic deposition pattern consistent with moderate AD (AD+). High Tau: SUVR >1.46, with a
+topographic deposition pattern consistent with either moderate (AD+) or advanced AD (AD++). The points
+are the observed data. The lines are the 5th, 50th, and 95th percentiles of the observed data. The shaded
+areas are the model-predicted 95% confidence interval of the corresponding percentiles.
+Source: sequence 0104, module 5335, ly3002813-population-pk-pd-report_us_sub2-donan.pdf, page 69 of
+245
+
+In addition to the treatment effect model, the Applciant developed an alternate disease
+progression model where amyloid beta was used as a predictor of iADRS disease
+progression. The alternate model is discussed in detail in section 4.4.5.4 Use of
+Biomarkers as Predictors of Disease Progression. Conclusions can be found in section
+4.4.5.5 Conclusions.
+
+71
+
+Reference ID: 5333786
+
+[Reviewer comment: The eta shrinkage for between subject variability in baseline iADRS
+is 2.5%. Epsilon shrinkage is not applicable as this model does not include residual
+variability.
+The diagnostic plots (Figure 33) do not suggest the presence of systemtic bias with
+respect to time or magntidue of prediction. The visual predictive check (Figure 34)
+suggests that the model describes the data well for treatment and placebo at low,
+intermediate, and high tau levels. Overall, the Applicant’s disease progression model for
+iADRS using a treatment effect is acceptable.]
+4.4.5.2 CDR-SB Modeling
+The Key diagnostic plots for CDR-SB disease progression model are shown in Figure
+35 and Figure 36.
+Figure 35: Diagnostic plots for the final CDR-SB Model (run101) – Treatment
+Effect
+
+CDR-SB = clinical dementia rating-sum of boxes; DV = dependent variable; IPRED = individually predicted
+value; LOWESS = locally weighted scatterplot smoothing; PRED = population predicted values; SOR =
+standardized ordinary residuals. LOWESS fit, a smoothed value given by a weighted linear least-squares
+regression over the span of observations, for data are presented (black line) in addition to a line of identity
+(gray line on top panel). Four participants with inconsistent observations were removed from these plots.
+For completeness, their observations are included in appendix plots.
+Source: sequence 0104, module 5335, ly3002813-population-pk-pd-report_us_sub2-donan.pdf, page 70 of
+245
+
+72
+
+Reference ID: 5333786
+
+Figure 36: Visual Predictive Check for the final CDR-SB Model (run101) –
+Treatment Effect
+
+AD = Alzheimer’s disease; CDR-SB = clinical dementia rating-sum of boxes; SUVR = standardized uptake
+value ratio. Very Low Tau: <1.10 SUVR Intermediate = low/medium Tau: SUVR <1.10, with a topographic
+deposition pattern consistent with advanced AD (AD++), or ≤1.10 SUVR ≤1.46, with a topographic
+deposition pattern consistent with moderate AD (AD+). High Tau: SUVR >1.46, with a topographic
+deposition pattern consistent with either moderate (AD+) or advanced AD (AD++). The points are the
+observed data. The lines are the 5th, 50th, and 95th percentiles of the observed data. The shaded areas
+are the model-predicted 95% confidence interval of the corresponding percentiles.
+Source: sequence 0104, module 5335, ly3002813-population-pk-pd-report_us_sub2-donan.pdf, page 71 of
+245
+
+In addition to the treatment effect model, the Applicant developed an alternate disease
+progression model where amyloid beta was used as a predictor of CDR-SB disease
+progression rate. The alternate model is discussed in detail in section “4.4.5.4 Use of
+Biomarkers as Predictors of Disease Progression”. Conclusions can be found in section
+4.4.5.5 Conclusions.
+.
+
+73
+
+Reference ID: 5333786
+
+[Reviewer comment: The eta shrinkage for between subject variability in baseline CDRSB is 3.1%. Epsilon shrinkage is not applicable as this model does not include residual
+variability.
+The goodness of fit plots (Figure 35) do not show any signs of bias with respect to time
+nor measurement magnitude. The visual predictive check (Figure 36) indicates that the
+model describes the CDR-SB data well for treatment and placebo groups at low,
+intermediate, and high tau levels.
+Overall, the treatment effect disease progression model for CDR-SB is acceptable.]
+4.4.5.3 Simulations
+The Applicant conducted 6000 simulations of the available population using the disease
+progression model. Simulations assessed the effect of baseline disease state (mild
+cognitive impairment [a.k.a. MCI] versus mild dementia due to Alzheimer’s disease [a.k.a.
+mild]), tau (low/medium tau versus combined population), and the effect of ceasing
+donanemab treatment when amyloid plaque levels decrease below 24.1 Centiloids. The
+Combined Population is subjects with low/medium tau combined with subjects with high
+tau. The simulations for iADRS and CDR-SB are presented side-by-side.
+Figure 37 shows the predicted donamemab treatment effect in subjects with mild
+dementia due to Alzheimer’s disease versus mild cognitive impairment in the combined
+population.
+
+74
+
+Reference ID: 5333786
+
+Figure 37: Simulated CDR-SB (top panel) and iADRS (bottom panel) score for
+participants with MCI and participants with mild dementia due to AD in the
+combined population For 72 Weeks
+
+AD = Alzheimer’s disease; CDR-SB = clinical dementia rating-sum of boxes; iADRS = integrated
+Alzheimer’s disease rating scale; MCI = mild cognitive impairment; Mild = mild dementia due to Alzheimer’s
+disease; Patients were simulated to follow dosing treatment regimen, including the potential for downtitration based on Centiloids at Weeks 24 and 52. Median (95% prediction interval) is shown by solid line
+and shaded areas.
+Source: sequence 0104, module 5335, ly3002813-population-pk-pd-report_us_sub2-donan.pdf, page 94 of
+245
+
+75
+
+Reference ID: 5333786
+
+Figure 2 in section “3.3.1 To what extent does the available clinical pharmacology
+information provide pivotal or supportive evidence of effectiveness?” shows the
+predicted donamemab treatment effect in subjects with mild dementia due to
+Alzheimer’s disease versus mild cognitive impairment for the low/medium tau population
+over a 72 week duration.
+Figure 38 shows the predicted donamemab treatment effect in subjects with mild
+dementia due to Alzheimer’s disease versus mild cognitive impairment for the
+low/medium tau population over a 5-year duration.
+
+76
+
+Reference ID: 5333786
+
+Figure 38: Simulated CDR-SB (top panel) and iADRS (bottom panel) score for
+participants with MCI and participants with mild dementia due to AD in the
+low/medium tau population For 5 Years
+
+AD = Alzheimer’s disease; CDR-SB = clinical dementia rating-sum of boxes; iADRS = integrated
+Alzheimer’s disease rating scale; MCI = mild cognitive impairment; Mild = mild dementia due to Alzheimer’s
+disease; Simulation extended to 5 years to demonstrate that the effect of relative disease slowing following
+donanemab treatment, increases over time. Patients were simulated to follow dosing treatment regimen,
+including the potential for down-titration based on Centiloids at Weeks 24 and 52. Median (90% prediction
+interval) is shown by solid line and shaded areas.
+Source: sequence 0104, module 5335, ly3002813-population-pk-pd-report_us_sub2-donan.pdf, page 96 of
+245
+
+77
+
+Reference ID: 5333786
+
+Figure 3 in section “3.3.1 To what extent does the available clinical pharmacology
+information provide pivotal or supportive evidence of effectiveness?” shows simulated
+CDR-SB by treatment duration for participants with MCI and participants with mild
+dementia due to AD in the combined population over 72 weeks.
+[Reviewer comment: The simulations in Figure 3 do not suggest a clear relationship
+between timing of dose reduction (reduction at 24 weeks, reduction at 52 weeks, or no
+dose reduction up to week 76) and CDR-SB through 76 weeks of treatment. ]
+Conclusions can be found in section 4.4.5.5 Conclusions.
+
+78
+
+Reference ID: 5333786
+
+4.4.5.4 Use of Biomarkers as Predictors of Disease Progression
+Alternate forms of the disease progression models for iADRS and CDR-SB were
+developed. The alternate form used amyloid beta values as the predictor instead of a
+treatment effect. The amyloid value was assessed as an absolute change from baseline
+as well as a relative change from baseline. Similar to the threshold concentration
+estimated in the treatment effect model, this alternate model employed an estimate of a
+threshold amyloid plaque reduction for activation of a reduction in disease progression
+rate. The amyloid levels used in this model were predicted using the amyloid plaque
+reduction model (see section 4.4.1 Amyloid-Plaque Reduction for details). A comparison
+of the model parameterized with a treatment effect versus the model parameterized with
+amyloid as a predictor is provided in Table 15.
+Table 15: Changes in Objective Function When Using Treatment Effect versus
+Amyloid To Predict Disease Progression for iADRS or CDR-SB
+
+CDR-SB = clinical dementia rating-sum of boxes; iADRS = integrated Alzheimer’s disease rating scale;
+OFV = objective function value. A) Three degrees of freedom relative to the final model; treatment/amyloid
+effect and any related covariate effect were removed. B) Four degrees of freedom relative to the final model;
+treatment/amyloid effect and any related covariate effect were removed.
+Source: sequence 0104, module 5335, ly3002813-population-pk-pd-report_us_sub2-donan.pdf, page 64 of
+245
+
+The Applicant concludes that the greater reduction in objective function value using the
+treatment effect versus amyloid as a predictor suggests that the treatment effect has a
+better correlation with iADRS and CDR-SB than amyloid PET alone in the current dataset.
+[Reviewer comment: These findings are consistent with a positive relationship between
+amyloid plaque reduction and improvement in iADRS or improvement in CDR-SB.]
+
+79
+
+Reference ID: 5333786
+
+4.4.5.5 Conclusions
+The Applicant provides the following conclusions regarding disease progression modeling
+for iADRS and CDR-SB:
+•
+•
+
+•
+•
+
+There was an observed effect in both low/medium (intermediate) tau and combined
+(low/medium tau and high tau) populations.
+Disease progression rate estimated using exposure-amyloid plaque-scores model
+on iADRS was reduced by 33.2%, while progression as measured by CDR-SB was
+reduced by 36.3% in the low/medium tau population. In the combined population,
+disease progression rate on iADRS score was reduced by 29.3% (p<.001), while
+progression as measured by CDR-SB was reduced by 31.7% (p<.001).
+TE ADA and ADA titer was tested on the treatment effect term of the model and
+was not found to be statistically significant for iADRS or CDR-SB.
+Limitations of disease progression analysis were that the model was built only on
+data that explored a single dosing regimen with a relatively narrow range of
+exposures.
+
+[Reviewer comment: The Applicant’s exposure-response analyses support a treatment
+effect of donanemab on reducing disease progression rate in terms of iADRS as well as
+CDR-SB. Benefit is shown in the low/tau group as well as the combined tau group.]
+
+80
+
+Reference ID: 5333786
+
+4.5 DTPM Review
+OFFICE OF CLINICAL PHARMACOLOGY
+DIVISION OF TRANSLATIONAL AND PRECISION MEDICINE REVIEW
+
+NDA/BLA Number
+
+761248
+
+Submission Date
+
+6/12/2023
+
+Applicant Name
+
+Eli Lilly Inc
+
+Generic Name
+
+Donanemab
+
+Proposed Indication
+
+Treatment of Alzheimer’s Disease
+
+Primary Reviewer
+
+Hobart Rogers, Pharm.D., Ph.D.
+
+Secondary Reviewer
+
+Jeff Kraft, Ph.D.
+
+Executive summary
+Donanemab is an intravenously-infused monoclonal antibody directed against insoluble
+N-truncated pyroglutamate amyloid beta in the brain. The applicant has submitted the
+BLA for approval, primarily relying on a 76-week, placebo-controlled study in 1727
+patients with early Alzheimer’s disease treated with either donanemab or placebo.
+Overall, donanemab met the primary endpoint of change in iADRs from baseline at week
+76 in the low/medium tau population compared to placebo (p < 0.001). Treatment with
+donanemab resulted in increases in both ARIA-E, and ARIA-H. There was an increased
+risk of ARIA-E and ARIA-H based on the number of APOE ε4 alleles, with the risk being
+highest in the homozygous group.
+The purpose of this review is to evaluate the Applicant’s submission to determine if APOE
+ε4 genotype is associated with the safety or efficacy of donanemab. The findings of this
+review indicate that APOE ε4 genotype is associated with both the safety and efficacy of
+donanemab. Specifically, the APOE4 ε4 allele increased the risk of both ARIA-E and
+ARIA-H in an allele-dose dependent manner. Moreover, data from the confirmatory study
+(AACI) indicates that there is diminished pharmacodynamic response, and a slight trend
+toward lower responses on clinical endpoints following treatment with donanemab in
+APOE ε4 homozygous patients. In summary, our findings support that there are
+
+81
+
+Reference ID: 5333786
+
+differences in both the safety and efficacy of donanemab for APOE ε4 homozygous
+patients.
+
+1
+
+Background
+
+The Applicant (Eli Lilly Inc.) submitted a BLA for donanemab in the treatment of
+Alzheimer’s Disease. Donanemab is a novel monoclonal antibody designed to bind to
+and remove insoluble N-truncated pyroglutamate amyloid beta. Study AACI serves as the
+confirmatory trial to verify the clinical benefit of donanemab.
+The confirmatory study (AACI) met the primary endpoint of integrated Alzheimer’s
+Disease Rating Scale (iADRS) at week 76 (p<0.001). In addition, it met the secondary
+endpoints of Clinical Dementia Rating Scale Sum of Boxes (CDR-SB), Alzheimer’s
+Disease Assessment Scale – Cognitive subscale with 13 tasks (ADAS-Cog13), and
+Alzheimer’s Disease Cooperative Study – Instrumental Activities of Daily Living (ADCSiADL), and Clinical Dementia Rating Scale – Global Score (CDR-G).
+Donanemab was relatively well tolerated, however serious adverse events were noted in
+both amyloid related imagining abnormalities- edema/effusion (ARIA-E) and ARIAhemorrhage (ARIA-H). Approximately 70% of the AACI participants were APOE ε4
+carriers. APOE ε4 carrier status influenced the frequency of any ARIA. The incidence of
+both ARIA-E and ARIA-H was higher in the homozygous APOE ε4 population. The
+frequency of ARIA-E was highest in homozygous carriers (41.1%), followed by
+heterozygote carriers (23.8%), and noncarriers (14.8%). Similar results were observed
+for ARIA-H, with the highest frequency in homozygous carriers (53.6%), followed by
+heterozygote carriers (30.8%), and noncarriers (18.9%).
+The proposed dosage of donanemab is 700 mg administered as an intravenous infusion
+over approximately 30 minutes every four weeks for the first three doses, followed by
+1400 mg every four weeks for additional doses.
+In the US, there is one other product (lecanemab) under full approval and one product
+(aducanumab) approved under the accelerated approval pathway for the treatment of AD
+based on a reduction in amyloid beta plaques.
+The purpose of this review is to evaluate the association between APOE ε4 genotype and
+the safety and efficacy of donanemab.
+
+2
+
+Submission Contents Related to Genomics
+
+APOE genotyping was a mandatory part of the clinical program. Investigators were
+blinded to the results and the sample was assayed by a Lilly-designated laboratory. In
+trial AACI, the APOE genotype sample was able to be collected at an alternative visit if
+82
+
+Reference ID: 5333786
+
+not collected at baseline. A whole blood sample was also collected for pharmacogenetic
+analysis, as specified in the Schedule of Assessments where local regulations allowed.
+Trial AACI enrolled 1736 trial participants, of which 289 subjects were identified as
+homozygous APOE ε4 carriers, 930 subjects were heterozygous APOE ε4 carriers, and
+510 subjects were APOE ε4 noncarriers.
+Primary and secondary efficacy endpoints as well as safety outcomse were evaluated in
+APOE genotype subgroups.
+The Applicant proposed the following language related to APOE genotype in their draft
+labeling:
+(b) (4)
+
+(b) (4)
+
+3
+
+Key Question and Summary of Findings
+
+3.1
+
+Does efficacy and safety of donanemab differ based on APOE ε4 genotype?
+83
+
+Reference ID: 5333786
+
+Yes, APOE ε4 genotype does appear to impact both the safety and efficacy of
+donanemab. APOE ε4 carriers have a higher risk for both ARIA-E and H, with the risk
+being highest in APOE ε4 homozygotes. In addition, APOE ε4 homozygotes appear to
+have a diminished response to donanemab compared to APOE ε4 carriers and
+noncarriers, which is supported by diminished pharmacodynamic responses (biomarkers)
+in APOE ε4 carriers.
+3.1.1 APOE ε4 Genotype and Safety
+Applicant’s Analysis
+ARIA-E and ARIA-H
+For serious or symptomatic ARIA-E, APOE ε4 genotype was identified as a risk factor,
+where homozygous and heterozygous carriers have higher risk relative to noncarriers.
+Given the lower frequency of symptomatic or serious ARIA observed, compared with any
+ARIA, further covariate and risk factor analyses for symptomatic or serious ARIA are
+limited.
+APOE ε4 Carrier Status and Risk of ARIA
+ARIA-E baseline hazard differed by APOE ε4 genotype, and by Week 24, it was
+•
+
+1.8 times higher in heterozygotes APOE ε4 compared with noncarriers,
+
+•
+
+3.9 times higher in homozygotes APOE ε4 compared with noncarriers, and
+
+•
+
+2.1 times higher in homozygotes APOE ε4 compared with heterozygotes APOE ε4
+
+The frequency of ARIA-E (based on MRI and TEAE cluster) was the highest in
+donanemab-treated homozygote APOE ε4 carriers.
+•
+
+homozygote APOE ε4 carriers (placebo, 3.4%; donanemab, 41.7%)
+
+•
+
+heterozygote APOE ε4 carriers (placebo, 1.9%; donanemab, 24.1%), and
+
+•
+
+noncarriers (placebo, 0.7%; donanemab, 14.8%).
+
+The frequency of symptomatic ARIA-E was also the highest in donanemab-treated
+homozygote APOE ε4 carriers (placebo, 0.6%; donanemab, 7.7%). The frequency of
+serious ARIA-E was also the highest in donanemab-treated homozygote APOE ε4
+carriers (placebo, 0%; donanemab, 3.0%).
+Exposure-ARIA-E relationship was evaluated in preplanned analyses specified in the
+PK/PD analysis plan. Findings showed the ARIA-E risk is driven by the baseline hazard,
+donanemab treatment, APOE ε4 genotype, average concentration at steady state,
+number of baseline microhemorrhages, and time components (Population PK/PD report).
+Results from a post hoc ARIA risk factor analysis showed APOE ε4 genotype, baseline
+microhemorrhages, superficial siderosis-CNS, and white matter disease were associated
+84
+
+Reference ID: 5333786
+
+with ARIA-E, symptomatic ARIA-E, and ARIA-H. In addition, this post hoc analysis
+showed that age, baseline weight, and baseline amyloid level were also associated with
+ARIA risk. However, the magnitude of association with these factors, measured by odds
+ratio, was smaller compared with baseline MRI abnormality and APOE ε4 genotype.
+Baseline tau level was not associated with an increased ARIA risk (Resubmission Safety
+Update Report, Section 5.5.9.1.4).
+Similar results were observed for ARIA-H, with the highest frequency in homozygote
+carriers (53.6%), followed by heterozygote carriers (30.8%), and noncarriers (18.9%). The
+frequency of serious ARIA-H was the highest in donanemab-treated homozygous APOE
+ε4 carriers (1.2%) compared with none in the placebo-treated participants.
+There were no clinically meaningful interactions of non-ARIA-related TEAEs by APOE ε4
+carrier status and treatment group on the frequency of common TEAEs (Resubmission
+Safety Update Report, Sections 5.5.2.5, 5.5.9.1.2.6, and 5.5.9.1.3.5).
+Reviewer’s Analysis
+No additional analyses were conducted regarding APOE ε4 genotype and the risk of both
+ARIA-E and ARIA-H.
+The increased risk of both ARIA-E and ARIA-H is also noted in the product labeling
+(Warnings and Precautions) for the other approved products, lecanemab and
+aducanumab.
+Please see the Clinical review for complete evaluation of safety findings.
+3.1.2 APOE ε4 Genotype and Efficacy:
+Applicant’s Analysis
+Study AACI met its primary objective, demonstrating a statistically significant slowing of
+AD clinical decline at 76 weeks, as measured by the iADRS. Positive results for the
+primary endpoint in the intermediate tau population, overall population, CDR-SB in the
+intermediate tau population, and CDR-SB in the overall population (Figure 39 to Figure
+42 below) were also demonstrated across all secondary endpoints measuring cognitive
+and functional decline, as assessed by the CDR-SB, ADAS-Cog13, and ADCS-iADL.
+Study AACI demonstrated that donanemab treatment showed slowing of clinical decline
+across APOE ε4 carrier and noncarrier subgroups, as measured across all clinical
+efficacy scales.
+APOE ε4 carrier status was further categorized into heterozygous carrier (ε2/ε4, ε3/ε4)
+and homozygous carrier (ε4/ε4). Slowing of clinical decline was observed across
+heterozygous and homozygous carrier subgroups.
+85
+
+Reference ID: 5333786
+
+Similar subgroup analyses were performed for the Pooled Subgroup Analysis Set
+(Studies AACI and AACG) which showed similarly consistent results across APOE ε4
+subgroups.
+Figure 39: iADRS Subgroup analysis by demographic and baseline characteristics,
+intermediate tau population (AACI-PC period)
+
+Source: page 176 AACI CSR
+
+86
+
+Reference ID: 5333786
+
+Figure 40: iADRS Subgroup analysis by demographic and baseline
+characteristics, overall population (AACI-PC period)
+
+Source: page 177 AACI CSR
+
+87
+
+Reference ID: 5333786
+
+Figure 41: CDR-SB Subgroup analysis by demographic
+characteristics, intermediate tau population (AACI-PC period)
+
+Source: page 178 AACI CSR
+
+88
+
+Reference ID: 5333786
+
+and
+
+baseline
+
+Figure 42: CDR-SB Subgroup analysis by demographic
+characteristics, overall population (AACI-PC period)
+
+Source: page 179 AACI CSR
+
+89
+
+Reference ID: 5333786
+
+and
+
+baseline
+
+The applicant also provided a subgroup analyses of amyloid PET scan by APOE4 carrier
+status and by number of ε4 alleles (Figure 43 below).
+Figure 43: MMRM: Subgroup analysis by amyloid PET scan, intermediate
+population (AACI-PC period)
+
+Source: page 181 AACI CSR
+
+Reviewer’s Analysis
+APOE ε4 Genotype and Efficacy
+Additional analyses were not performed by the reviewer. This review primarily focused on
+the efficacy findings in the phase 3 study (AACI). Here, a trend of diminished response to
+donanemab was observed within the APOE ε4 homozygous patient subgroup for the
+primary endpoint iADRS (Figure 39 and Figure 40, above). Furthermore, a similar trend
+was observed across the secondary endpoint of CDR-SB (Figure 41 and Figure 42).
+Diminished pharmacodynamic responses measured by amyloid PET scan were also
+observed in APOE ε4 homozygotes (Figure 43). APOE ε4 homozygous patients
+appeared to show a diminished response to donanemab treatment compared to carriers
+and noncarriers, across primary and secondary clinical endpoints.
+Please see the Clinical Review for complete evaluation of efficacy findings.
+
+4
+
+Summary and Conclusions
+
+90
+
+Reference ID: 5333786
+
+We identify a trend across the various endpoints in the study AACI, that suggest a
+diminished response to donanemab in APOE ε4 homozygotes compared to APOE ε4
+heterozygotes and noncarriers.
+We find that donanemab is appropriate for the indicated population of patients with MCI
+due to AD regardless of APOE ε4 genotype. Additionally, our findings support that APOE
+ε4 genotype may influence both the safety and efficacy of donanemab.
+
+5
+
+Recommendations
+
+We recommend that the description of the increased risk of both ARIA-E and ARIA-H in
+APOE ε4 carriers and homozygotes be included in labeling.
+
+91
+
+Reference ID: 5333786
+
+Signature Page 1 of 2
+
+-------------------------------------------------------------------------------------------This is a representation of an electronic record that was signed
+electronically. Following this are manifestations of any and all
+electronic signatures for this electronic record.
+-------------------------------------------------------------------------------------------/s/
+-----------------------------------------------------------ANANTHA RAM NOOKALA
+02/22/2024 09:17:28 PM
+MICHAEL A BEWERNITZ
+02/22/2024 11:04:43 PM
+MOHSEN RAJABI ABHARI
+02/23/2024 08:13:36 AM
+YOW-MING C WANG on behalf of XIULIAN DU
+02/23/2024 04:49:31 PM
+I am signing on behalf of Dr. Xiulian Du as she is currently on leave with no access to
+the DARRTS.
+HOBART ROGERS
+02/24/2024 02:47:58 PM
+JEFFREY B KRAFT
+02/25/2024 01:53:58 PM
+YOW-MING C WANG
+02/25/2024 02:10:55 PM
+VENKATESH A BHATTARAM
+02/25/2024 02:26:25 PM
+BILAL S ABUASAL
+02/26/2024 10:19:33 AM
+SREEDHARAN N SABARINATH
+02/26/2024 10:49:24 AM
+HAO ZHU
+02/26/2024 11:11:38 AM
+RAMANA S UPPOOR
+02/26/2024 11:43:43 AM
+
+Reference ID: 5333786
+
+Signature Page 2 of 2
+
+MEHUL U MEHTA
+02/26/2024 11:49:02 AM
+
+Reference ID: 5333786
+
+Office of Clinical Pharmacology (OCP) Review
+Applicant
+
+Eli Lilly and Company
+
+Product (Generic Name)
+
+Donanemab (LY3002813)
+
+Product (Trade Name)
+
+KISUNLA®
+
+Link to EDR
+
+\\CDSESUB1\evsprod\BLA761248\0002
+
+BLA Submission
+
+761248 (Sequence 0002)
+
+Dosage Form (Strength)
+
+Lyophilized formulation of 700 mg in a 50-mL vial
+reconstituted in diluent prior to use.
+
+Route of Administration
+
+Intravenous infusion
+
+Proposed Dosing
+regimen
+
+700 mg administered as an intravenous infusion every
+four weeks for the first three doses, followed by 1400 mg
+every four weeks.
+
+Proposed Indication
+
+Indicated for the treatment of Alzheimer’s disease (AD)
+
+Submission Date
+
+05/18/2022
+
+OCP Review Team
+
+Anantha Ram Nookala, Ph.D., Michael Bewernitz, Ph.D.,
+Mohsen Rajabiabhari, Ph.D., Xiulian Du, Ph.D.,
+Yow-Ming Wang, Ph.D., Atul Bhattaram, Ph.D.,
+Bilal AbuAsal, Ph.D., Sreedharan Sabarinath, Ph.D.,
+Hao Zhu, Ph.D., Ramana Uppoor, Ph.D.
+
+OCP Final Signatory
+
+Mehul Mehta, Ph.D.
+
+OCP Division
+
+Division of Neuropsychiatric Pharmacology (DNP)
+
+OND Division
+
+Division of Neurology I (DN1)
+
+1
+
+Reference ID: 5110430
+
+Contents
+1.
+
+Executive Summary ................................................................................................. 4
+1.1 Recommendations ................................................................................................. 5
+1.2 Post marketing requirements and commitments .................................................... 6
+
+2.
+
+Summary of Clinical Pharmacology Assessment ..................................................... 7
+2.1 Pharmacology and Clinical Pharmacokinetics ....................................................... 7
+2.2 Dosing and Therapeutic Individualization .............................................................. 8
+2.2.1 General Dosing ............................................................................................... 8
+2.2.2 Therapeutic individualization ........................................................................... 8
+2.3 Outstanding Issues ................................................................................................ 8
+2.4 Summary of Labeling Recommendations .............................................................. 8
+Dosing instructions ................................................................................................... 8
+Labeling recommendations for plasma biomarkers .................................................. 9
+
+3. Comprehensive Clinical Pharmacology Review .......................................................... 9
+3.1 Overview of the Product and Regulatory Background ........................................... 9
+3.2 General Pharmacology and Pharmacokinetic Properties .................................... 10
+3.3 Clinical Pharmacology Questions ........................................................................ 11
+3.3.1 To what extent does the available clinical pharmacology information provide
+pivotal or supportive evidence of effectiveness? .................................................... 11
+3.3.2 Is the proposed dosing regimen appropriate for the general population for which
+the indication is being sought? ............................................................................... 20
+3.3.3 Is an alternative dosing regimen and management strategy required for
+subpopulations based on intrinsic/extrinsic factors? .............................................. 23
+3.3.4 Are there clinically relevant food-drug or drug-drug interactions and what is the
+appropriate management strategy? ....................................................................... 25
+3.3.5 Is the to-be-marketed formulation the same as the clinical trial formulation, and
+if not, are there bioequivalence data to support approval of the to-be marketed
+formulation? ........................................................................................................... 25
+4 APPENDICES ............................................................................................................ 26
+4.1 Summary of Bioanalytical Method Validation ....................................................... 26
+4.1.1 Bioanalysis of donanemab in human serum.................................................. 26
+2
+
+Reference ID: 5110430
+
+4.1.2 Bioanalysis of p-tau217 in human plasma ..................................................... 28
+4.1.3 Bioanalysis of GFAP in human plasma ......................................................... 32
+4.2. Impact of Immunogenicity ................................................................................... 35
+4.2.1 Impact of immunogenicity on PK ................................................................... 36
+4.2.2 Impact of immunogenicity on PD ................................................................... 39
+4.2.3 Impact of immunogenicity on Safety and Efficacy ......................................... 42
+4.3 Population PK Review ......................................................................................... 42
+4.3.1 Reviewer PK Simulations .............................................................................. 45
+4.4 Exposure-Response Analyses ............................................................................. 47
+4.4.1 Amyloid-Plaque Reduction ............................................................................ 47
+4.4.2 ARIA-E .......................................................................................................... 57
+4.4.3 p-Tau217 ....................................................................................................... 61
+4.4.4 Disease Progression ..................................................................................... 64
+
+3
+
+Reference ID: 5110430
+
+1. Executive Summary
+In this original Biologics License Application (BLA) 761248, the applicant, Eli Lilly and
+Company is seeking approval of donanemab via accelerated approval pathway for the
+treatment of Alzheimer’s disease (AD). Donanemab (Tradename: KISUNLA®) is a New
+Molecular Entity (NME) and is not marketed in the US for any indication. It is a
+recombinant immunoglobulin G1 monoclonal antibody (mAb) that is anticipated to target
+the N-terminal, third amino acid, pyroglutamate formation (N3pG) amyloid beta epitope
+present in cerebral amyloid plaques. The original proposed dosing regimen of
+donanemab is 700 mg diluted in 0.9% sodium chloride to a final concentration of 4 mg/mL
+to 10 mg/mL and administered as IV infusion over 30 minutes every four weeks for the
+first three doses. Subsequent infusions are 1400 mg IV infusions over 30 minutes
+administered every 4 weeks, until the brain amyloid plaque is cleared.
+The clinical development program consists of two Phase 1 studies (AACC and AACD)
+and a Phase 2 registration study (AACG) to evaluate the safety, efficacy, and effect on
+brain amyloid plaque deposition, and an ongoing Phase 3 trial (AACI). Reduction in brain
+amyloid has been established as a biomarker reasonably likely to predict clinical benefit
+in subjects with AD. The applicant is relying on the brain amyloid PET data from a pivotal,
+multicenter, randomized, double blind, placebo-controlled phase 2 study (AACG) in
+subjects with evidence of AD neuropathology to support the accelerated approval
+pathway. A time-dependent decrease in the amyloid PET was observed with donanemab
+treatment compared to the placebo. The applicant also conducted two phase 1
+randomized, double-blind, placebo-controlled dose ranging studies (AACC and AACD).
+A dose- and time-dependent decrease in amyloid PET was observed and data from this
+study informed the dose/dosing regimen for the phase 2 trial. The evidence of
+effectiveness is also supported by exposure-response analysis evaluating the
+relationship between amyloid PET reduction and reduction of disease progression.
+Additional mechanistic support for downstream AD pathophysiology is obtained from
+donanemab-mediated changes in biomarker data, including tau PET, tau phosphorylated
+at threonine 217 (p-tau217) and glial fibrillary acidic protein (GFAP) in plasma.
+The primary focus of this review is to (1) evaluate the acceptability of general dosing
+recommendations and dose cessation and to explore the need for dose optimization
+based on extrinsic and intrinsic factors, (2) to evaluate the biomarker changes and
+correlation with amyloid PET, and (3) to evaluate the impact of immunogenicity on PK,
+and PD.
+
+4
+
+Reference ID: 5110430
+
+Metabolic/transporter mediated interactions or impact of
+food does not apply for donanemab.
+
+Bridge between the “tobe-marketed” and
+clinical trial formulations
+
+Minor differences were noted between the pivotal clinical
+trial (lyophilized) and to-be-marketed (solution) donanemab
+formulations. The applicant performed supportive studies to
+compare the formulations. OBP confirmed that applicant
+has provided adequate comparability studies to
+demonstrate that the to-be-marketed product and the
+pivotal clinical trial formulation are comparable. Please refer
+to OBP review for details.
+
+1.2 Post marketing requirements and commitments
+None from the OCP review team.
+
+6
+
+Reference ID: 5110430
+
+2. Summary of Clinical Pharmacology Assessment
+2.1 Pharmacology and Clinical Pharmacokinetics
+Mechanism of Action
+Donanemab is a humanized IgG1 isotype mAb that is anticipated to selectively target the
+N-terminal, third amino acid, pyroglutamate formation (N3pG) amyloid beta epitope
+present in cerebral amyloid plaques.
+Absorption
+Since donanemab is administered by IV infusion, absorption is not relevant.
+Distribution
+The volume of distribution of donanemab is 3.37 liters.
+Metabolism and excretion
+Donanemab is expected to be degraded to small peptides and amino acids via catabolic
+pathways in the same manner as endogenous IgGs. Monoclonal antibodies typically do
+not undergo metabolism by the cytochrome P450 system and unlikely to be affected by
+drug transporters; therefore, no drug interaction studies were conducted with donanemab.
+The mean clearance of donanemab is 0.0249 L/h and the mean terminal half-life was
+approximately 11.8 days.
+Age, Race, Body Weight, and Sex
+No dose adjustments are recommended on the basis of age, race, body weight or sex.
+Specific Populations:
+Patients with Renal or Hepatic Impairment
+No dedicated clinical studies were conducted to evaluate the impact of renal or hepatic
+impairment on the PK of donanemab. Generally, the IgG monoclonal antibodies undergo
+elimination via intracellular catabolism and therefore, hepatic impairment is not expected
+to significantly impact the disposition of donanemab. Furthermore, renal elimination of
+monoclonal antibodies is generally considered low. Therefore, the impact of renal/hepatic
+impairment is unlikely to be clinically relevant and no dose adjustments are recommended
+for donanemab in subjects with renal or hepatic impairment.
+Immunogenicity:
+Overall, the immunogenicity database consisted of 129 subjects from phase 2 clinical
+study from which anti-donanemab antibody (ADA) results were available. Of these
+subjects, treatment-emergent ADAs (TE-ADAs) were detected in 119 subjects; these
+subjects are therefore deemed ADA+ and the ADA incidence is 119/129 (92.2%).
+7
+
+Reference ID: 5110430
+
+Neutralizing antibodies (NAbs) were detected in all the ADA+ subjects (119/119; 100%).
+All the ADA+ subjects have developed the ADA titers by week 16 and many of the
+subjects (84/107; 78.5%) have achieved the individual maximum titer by week 24. The
+presence of TE-ADAs had an effect on various PK measures, such as Cmin,ss and AUCss.
+However, the changes in donanemab exposures were found not to affect amyloid PET
+reduction. Please refer to Appendix 4.2 and Office of Biotechnology Products review for
+additional details on immunogenicity assessments.
+
+2.2 Dosing and Therapeutic Individualization
+2.2.1 General Dosing
+The general dosing regimen is 700 mg diluted in 0.9% sodium chloride to a final
+concentration of 4 mg/mL to 10 mg/mL and administered as IV infusion over 30 minutes
+every four weeks for the first three doses. Subsequent infusions are 1400 mg IV infusions
+over 30 minutes administered every 4 weeks.
+Clinical judgment should be used when considering whether an individual patient’s dosing
+should be continued, reduced, or ceased in the absence of a safety issue otherwise
+warranting alteration in dosing.
+2.2.2 Therapeutic individualization
+No therapeutic individualization is necessary for extrinsic/intrinsic factors. Donanemab is
+administered by intravenous route, and therefore, food-drug interactions are not
+anticipated. In addition, its CYP enzyme/transporter-based drug-drug interaction liability
+is considered low (See Section 2.1). No dedicated clinical studies were performed in
+subjects with renal or hepatic impairment; however, renal/hepatic impairment is not
+expected to impact the pharmacokinetics of donanemab. Therefore, no dose adjustment
+is warranted in patients with hepatic/renal impairment.
+
+2.3 Outstanding Issues
+None.
+
+2.4 Summary of Labeling Recommendations
+The proposed labeling concepts in Section 12.2 and 12.3 are generally acceptable.
+However, the review team recommends the following major edits to dosing instructions
+and plasma biomarkers:
+Dosing instructions
+Donanemab treatment showed significant reduction of amyloid PET burden compared to
+the placebo. Further, the reductions in amyloid PET observed in patients who achieved
+amyloid levels <11 centiloids by week 24 were maintained until the end of 76-week
+treatment period. The reductions in amyloid PET with donanemab depended upon the
+8
+
+Reference ID: 5110430
+
+baseline value and the subjects who reached amyloid PET <11 centiloids by week 24 had
+(b) (4)
+lower amyloid PET at the baseline compared to the subjects who did not reach.
+
+Labeling recommendations for plasma biomarkers
+Plasma p-tau217
+: The bioanalysis method validation has scientific
+gaps, including insufficient coverage of long-term stability and therefore, quantitative
+changes in biomarker levels over time cannot be reliably estimated. Although quantitative
+(b) (4)
+statements are not acceptable, there was an observed change in plasma p-tau217
+with dosing regimen indicated in section 1.1 compared to placebo in Study
+(b) (4)
+AACG. The review team believes that the effect of donanemab on plasma p-tau217
+in study AACG is unlikely to arise merely due to the deficiencies in the
+bioanalytical method (please refer to Section 3.3.1, 4.1.2, and 4.1.3 for additional details).
+Hence, the review team recommends including qualitative description of the data in the
+label. Further, the review team recommends including a statement to highlight the
+uncertainties in bioanalysis if inclusion of any quantitative description of plasma
+biomarkers is considered clinically necessary.
+(b) (4)
+
+3. Comprehensive Clinical Pharmacology Review
+3.1 Overview of the Product and Regulatory Background
+Donanemab, also known as LY3002813 is supplied at a concentration of 17.5 mg/mL
+(350 mg/20 mL) in a single-use glass vial for dilution in 0.9% sodium chloride prior to
+intravenous infusion. Donanemab is a humanized IgG1 mAb that is composed of 2
+identical Ig kappa light chains and 2 identical Ig gamma heavy chains. Donanemab is
+anticipated to selectively target the N-terminal, third amino acid, pyroglutamate formation
+(N3pG) amyloid beta epitope present in cerebral amyloid plaques to exert its therapeutic
+effects in AD.
+The clinical development program for donanemab BLA submission consists of six
+completed or on-going clinical studies. Study AACG is the pivotal study, which is a
+multicenter, randomized, double blind, placebo-controlled phase 2 study. Study AACC
+and AACD are completed phase 1 studies that evaluated single (0.1 to 40 mg/kg) and
+multiple doses (0.1 to 20 mg/kg) in patients with mild cognitive impairment due to AD or
+mild-to-moderate AD. In addition, an on-going phase 2 study (AACH), and two on-going
+phase 3 studies (AACN and AACI) in subjects with early symptomatic AD provided safety
+information of donanemab. Please refer to Clinical Review for details of safety evaluation.
+9
+
+Reference ID: 5110430
+
+Figure 1: Observed Amyloid PET Values by Treatment in Study AACG
+
+source: 2-7-2-clin-pharm-sum—us---ad-.pdf, page 29
+
+The study consisted of a 9-week screening period, followed by a 76-week double-blind
+treatment period during which donanemab or IV placebo was administered to the subjects
+randomized in a 1:1 ratio. Subjects enrolled in the study were 60 to 85 years of age and
+with a gradual and progressive change in memory functions for at least 6 months with a
+MMSE score of 20 to 28 and have evidence of pathologic tau deposition on a flortaucipir
+PET. Patients with sufficient amyloid plaque reduction as measured by amyloid PET
+scans at Week 24 or Week 52 had a double-blinded dose reduction of donanemab for the
+remaining duration of the double-blind period. Specifically, participants in the donanemab
+group were titrated down from 1400 mg to 700 mg if amyloid PET levels reached 11 to
+less than 25 CL, or to placebo if less than 11 CL at any 1 measure, or 11 to less than 25
+CL for 2 consecutive measures. Based on the amyloid PET levels, approximately 27%
+(26/95) and 24% (23/95) of the subjects were titrated down to placebo and 700 mg,
+respectively at week 28, and approximately 55% (41/75) and 21% (16/75) were titrated
+down to placebo and 700 mg, respectively at week 56. The proportion of participants that
+discontinued from the study due to treatment emergent adverse events was higher with
+donanemab treatment (16%) compared to the placebo group (7.2%). Please refer to
+clinical safety review for more information. Donanemab treatment resulted in a timedependent decrease in amyloid PET; a least square mean change of -67.8 centiloids at
+week 24 (p<0.001), -82.3 centiloids at week 52 (p<0.001), and -85.1 centiloids at week
+76 (p<0.001) compared to the placebo group. The proportion of subjects achieving
+amyloid PET reduction to <11 or <24.1 centiloids (CL) increased with an increase in the
+treatment duration. With donanemab treatment, 40% (46/115), 60% (55/92), and 68%
+12
+
+Reference ID: 5110430
+
+Overall, the results of amyloid PET reduction from study AACG along with supportive
+evidence from study AACD and modeling analysis indicate donanemab significantly
+lowers amyloid PET burden in the brain.
+In addition to the data listed above, the applicant provided data from study AACG on tau
+PET biomarker, tau phosphorylated at threonine 217 (p-tau217) and glial fibrillary acidic
+protein (GFAP) in plasma, to evaluate donanemab -related effects on potential markers
+of downstream AD pathophysiology. The results are discussed below.
+Tau PET
+The applicant has evaluated the changes in brain tau PET deposition upon treatment with
+donanemab. There were no significant differences between treatment groups when
+comparing the changes in global tau load from baseline to Week 76 using TauIQ method.
+However, donanemab treatment resulted in a reduction of overall tau deposition and in
+specific brain regions including, the frontal lobe, parietal lobe, and the lateral temporal
+lobe compared to the placebo. Please see the clinical review for details on Tau PET
+results.
+p-tau217
+Published literature showed plasma p-tau217 to correlate with amyloid beta, AD
+progression, and also discriminate AD from other neurodegenerative diseases6,7. A timedependent decrease in the plasma p-tau217 levels were shown in Study AACG (Figure
+5); donanemab-treated patients had a 22.4% decrease from baseline to Week 76 while
+placebo-treated patients had a 7.2% increase. Separation between donanemab and the
+placebo groups was observed from 12 weeks of treatment and continued until the end of
+76-week treatment period. In addition, correlation analysis conducted between change in
+p-tau217 from baseline at week 76 and change in amyloid PET from baseline at week 76
+indicated that a decrease in amyloid PET was associated with a decrease in plasma ptau217 (Figure 6). The association between change in p-tau217 from baseline at week
+76 and change in amyloid PET from baseline at week 76 was observed in both APOE ε4carriers and APOE ε4 non-carriers.
+
+6 Palmquist S et al. Discriminative Accuracy of Plasma Phospho-tau217 for Alzheimer Disease vs Other
+
+Neurodegenerative Disorders. JAMA. 2020 Aug 25;324(8):772-781.
+7 Mattson-Carlgren N et al. Longitudinal plasma p-tau217 is increased in early stages of Alzheimer’s
+disease. Brain. 2020 Dec 5;143(11):3234-3241.
+
+16
+
+Reference ID: 5110430
+
+The relationship between p-tau217 and iADRS clinical disease progression was
+supported by modeling analysis. The results suggested that donanemab-mediated
+plasma p-tau217 reduction was associated with the reduction in disease progression, as
+measured by iADRS. This effect is only apparent in APOE ε4-carrier patients; in APOE4
+noncarriers, p-tau217 reduction was not associated with a reduction in disease
+progression as measured by iADRS. Refer to section (4.4.4 Disease Progression) for
+further details on the applicant’s disease progression modeling analyses.
+The review team noted that the bioanalytical method validations have not been fully
+established for plasma p-tau217 and thus all the plasma biomarker analyses presented
+in this review are considered as exploratory and should be interpreted with caution (refer
+to Appendix 4.1.2 Bioanalysis of p-tau217 in human plasma). However, considering
+totality of evidence such as magnitude of difference (29% difference between the placebo
+and donanemab groups at week 76), positive correlation between p-tau217 and change
+in amyloid PET and iADRS clinical disease progression and no apparent correlation
+between baseline plasma levels of p-tau217 collected at various time points, the review
+team believes that the effect of donanemab on plasma p-tau217 in study AACG is unlikely
+to arise merely due to the deficiencies in the bioanalytical method. Hence, the review
+team recommends including qualitative description of the exploratory data in the label.
+Further, the review team recommends including a statement to highlight the uncertainties
+in bioanalysis if inclusion of any quantitative description of plasma biomarkers is
+considered clinically necessary in the label.
+GFAP
+Astrocyte reactivity was previously shown to be present surrounding amyloid beta
+plaques in the brains of AD patients8. Plasma GFAP, a biomarker of astrocyte reactivity
+has been shown to associate with brain beta amyloid pathology9. A time-dependent
+decrease in the GFAP levels were shown in Study AACG (Figure 7). Donanemab-treated
+patients demonstrated a 12% decrease from baseline to Week 76 while placebo-treated
+patients had a 15% increase. Separation between donanemab and the placebo groups
+was observed from 12 weeks of treatment and continued until the end of the treatment
+period of 76 weeks. However, these data should be interpreted with caution because the
+observed differences (12-15%) are small relative to bioanalytical assay variability (up to
+30%) and physiological variabilities. In addition, correlation analysis conducted between
+change in GFAP from baseline at week 76 and change in amyloid PET from baseline at
+week 76 indicated that a decrease in amyloid PET was associated with a decrease in
+plasma GFAP (Figure 8).
+Osborn LM et al. Astrogliosis: An integral player in the pathogenesis of Alzheimer’s disease. Prog
+Neurobiol. 2016;144:121–141.
+9 Pereira JB et al. Plasma GFAP is an early marker of amyloid-b but not tau pathology in Alzheimer’s
+disease. Brain. 2021 Dec 16;144(11):3505-3516.
+8
+
+18
+
+Reference ID: 5110430
+
+The review team noted that the bioanalytical method validations have not been fully
+established for plasma GFAP and thus all the biomarker analyses results presented in
+this review are considered as exploratory and should be interpreted with caution (refer to
+Appendix 4.1.3 Bioanalysis of GFAP in human plasma). However, considering the
+totality of evidence such as magnitude of difference , slightly positive correlation between
+GFAP and change in amyloid PET, a trend for an increase in the plasma GFAP
+concentrations over time in the placebo group, and no apparent correlation between
+baseline plasma levels of GFAP collected at various times, the review team believes that
+the effect of donanemab on plasma GFAP in study AACG is unlikely to arise merely due
+(b) (4)
+to the deficiencies in the bioanalysis method. Hence,
+
+. We note that the plasma GFAP is a relatively a new biomarker
+and has not been studied widely in AD before.
+3.3.2 Is the proposed dosing regimen appropriate for the general population for
+which the indication is being sought?
+The proposed dosing regimen seems acceptable from clinical pharmacology standpoint.
+However, the available clinical pharmacology information is not adequate to support
+treatment cessation after a certain amyloid reduction or treatment period. Details are
+discussed below.
+The applicant is seeking approval of the donanemab dosing regimen which includes 700
+mg dose administered as IV infusions for the first three doses followed by 1400 mg
+infusions every 4 weeks until the brain amyloid plaque is cleared. This dosing regimen
+with a difference was evaluated in the Phase 2 trial where a dose reduction from 1400
+mg to 700 mg or cessation of dosing if sufficient reduction amyloid PET is achieved was
+adopted. Based on the observed effect of donanemab on amyloid PET reduction in
+studies AACD and AACG, reduction of brain tau PET and soluble biomarkers, biomarker
+exposure-response relationships, favorable trends in clinical endpoints, and safety, this
+regimen is considered effective and well-tolerated.
+The recommended dose of 1400 mg administered Q4W resulted in mean amyloid PET
+reduction of -67.8 centiloids at week 24 (p<0.001), -82.3 centiloids at week 52 (p<0.001),
+and -85.1 centiloids at week 76 (p<0.001) compared to the placebo group. With
+donanemab treatment, 40% (46/115), 60% (55/92), and 68% (61/90) of the subjects had
+complete amyloid PET levels <24.1 CL at week 24, 52, and 76, respectively. Additional
+support for the use of 1400 mg dose is obtained from AACD study where the 20 mg/kg
+(equivalent to 1400 mg in a 70 kg individual) cohort who received donanemab Q4W for
+72 weeks had complete amyloid PET levels <24.1 CL in 50% (5/10) subjects compared
+20
+
+Reference ID: 5110430
+
+to 25% (2/8) subjects in the 10 mg/kg (see Figure 4). Please refer to clinical safety review
+for details about the adequacy of safety data to support the removal of donanemab down
+titration from dosing instructions.
+The applicant proposed to continue donanemab treatment until brain amyloid is cleared.
+The review team evaluated the adequacy of treatment cessation proposal. The rationale
+was based on a very small re-accumulation rate of amyloid deposits in the brain based
+on the available data. The clinical pharmacology team doesn’t have enough information
+to support accurate estimation of amyloid re-accumulation rate. Further, there is no data
+to support that additional clinical benefit will not be gained from continuous donanemab
+treatment.
+According to the applicant, single donanemab dose of 20 mg/kg and 40 mg/kg showed
+amyloid PET reductions that had not returned to baseline by 76 weeks (see Figure 4). In
+study AACG and AACD, subjects who stopped donanemab treatment at week 24 and
+switched to placebo showed consistent amyloid PET at 24, 52 and 76 weeks (Figure 9).
+Figure 9: Amyloid PET in Subjects who Stopped Donanemab Treatment at Week
+24
+
+Source: Summary of Clinical Efficacy, Pg-34
+The applicant conducted additional PK/PD analysis to simulate the amyloid reaccumulation in patients who achieved amyloid reduction to <11 centiloids and ceased
+treatment starting at 24 weeks. The results suggest that when ceasing treatment at week
+24, in subjects that reached <11 Centiloid, amyloid plaque levels may increase by ~ 3.4
+centiloids per year (see Figure 10).
+
+21
+
+Reference ID: 5110430
+
+In conclusion, dosing regimen as indicated in section 1.1 is acceptable from a clinical
+pharmacology perspective. We defer to the clinical team regarding the adequacy of safety
+data set for the proposed dose. Overall, based on the limited clinical pharmacology
+analysis to support treatment cessation, it is not clear whether the maximum benefit has
+been attained when amyloid levels reach <11 or 11 to 24.1 centiloid on two visits.
+3.3.3 Is an alternative dosing regimen and management strategy required for
+subpopulations based on intrinsic/extrinsic factors?
+No. There is no need for alternative donanemab dose or dosing regimen for
+subpopulation based on the intrinsic factors such as body weight, age, race, sex, BMI,
+renal or hepatic impairment and extrinsic factor such as ADA status as described below.
+No dedicated renal and hepatic impairment studies were conducted. Population
+pharmacokinetic analysis was conducted on data from 177 subjects (46 subjects from
+Study AACD and 131 subjects from Study AACG) to evaluate the impact of intrinsic and
+extrinsic factors.
+Body Weight
+Body weight was found to be a statistically significant predictor of donanemab clearance
+and volume of distribution; increase in the body weight decreased donanemab exposures
+at steady state. The body weight in the entire PK data was distributed between 40.3 and
+123 kg. Final population PK model was used to simulate the steady state concentrationtime profile following 1400 mg Q4W in 50 kg (5th percentile) and 98 kg (95th percentile).
+The Cmax of the 50 kg subject was increased by 93.5% compared to the 98 kg subject
+(624 vs 322 µg/mL). Subjects were divided into different groups based on the body weight
+to evaluate if the body weight mediated changes in donanemab exposures had an effect
+on amyloid reduction (refer to 4.3.1 Reviewer PK Simulations and 4.4.1.1 Effect of WT
+on Amyloid Plaque Reduction for additional details). Irrespective of the body weight
+group, all the subjects showed similar amyloid PET reduction. These results indicate that
+changes in donanemab exposures across this range of bodyweights are not clinically
+significant and no dose adjustments are warranted.
+Renal impairment
+No dedicated renal impairment studies were conducted. Based on the population
+pharmacokinetic analysis, the mean predicted exposures for mild renal impairment
+patients (n=57) and moderate renal impairment patients (n=41) at steady state were
+increased by 26% and 49% for AUC,ss, respectively, compared to normal renal function
+patients (n=14). However, the apparent exposure increases in subjects with renal
+impairment compared to normal renal function were caused by the differences in body
+weights rather than differences in renal function. This is because weight is a covariate on
+donanemab PK, mild renal impairment and moderate renal impairment subjects had 19%
+and 31% lower body weight compared to normal renal function subjects. In general, renal
+23
+
+Reference ID: 5110430
+
+elimination of monoclonal antibodies is considered low and no dose adjustment is
+recommended based on renal impairment..
+Hepatic impairment
+No dedicated hepatic impairment studies were conducted. Based on the population
+pharmacokinetic analysis, the mean predicted exposures at steady state for mild hepatic
+impairment patients (n=9) were comparable to normal hepatic function patients (n=122).
+In general, hepatic elimination of monoclonal antibodies is considered low and given the
+minimal impact on exposures, no dose adjustment is recommended based on hepatic
+impairment.
+APOε4 Status
+APOε4 status was evaluated as a covariate in the population pharmacokinetic model. No
+differences in the donanemab exposures were observed in patients who are APOε4
+carriers compared to non-APOε4 carriers. ARIA-E and ARIA-H incidence are greater in
+APOε4 carriers than non-carriers. However, the clinical team has determined that no
+dose-adjustment is required based on APOε4 status. Please refer to Clinical safety review
+for details on ARIA-E.
+Sex
+Based on the population pharmacokinetic analysis, the mean predicted exposures for
+females (n=55) at steady state were increased by 33% for AUC,ss compared to males
+(n=57). However, the increase in the exposures were due to the differences in the body
+weights rather than the sex as identified in the Pop PK covariate modeling. Female
+subjects had 22% lower body weight compared to male subjects. Further, the amyloid
+PET reduction and ARIA-E incidence are similar between males and females and
+therefore, no dose adjustment is recommended.
+Anti-Drug Antibodies
+Development of ADA against donanemab negatively affected donanemab
+pharmacokinetics. Clearance of donanemab increased proportionally to the logarithm of
+ADA titer. ADA positive subjects had lower donanemab concentrations compared to ADA
+negative subjects at all the time points. The geometric mean ratio and the upper limit of
+the 90% CIs were less than 1 at all the time points except for week 12. To account for
+worst case scenario, final Pop PK model with subjects maintaining the same ADA titer
+was used to simulate the impact of ADA on donanemab exposures. At the maximum titer
+range (>1:81920), median exposure (AUCt,ss) was reduced by 23% and trough
+concentration at steady state was reduced by 55%, compared with the low titer (<1:5120).
+Subjects were divided into different groups based on the maximum ADA titer to evaluate
+if the ADA titer mediated changes in donanemab exposures had an effect on amyloid
+PET reduction (refer to section 4.2.1 and 4.2.2 for additional details). Irrespective of the
+24
+
+Reference ID: 5110430
+
+ADA titer group, all the subjects showed similar amyloid PET reduction. However, as
+single and multiple doses of donanemab showed sustained reductions in amyloid PET,
+changes mediated by ADA titer may not be immediately reflected on amyloid PET
+reduction.
+3.3.4 Are there clinically relevant food-drug or drug-drug interactions and what is
+the appropriate management strategy?
+Since donanemab is administered by intravenous infusion, food-drug interactions are not
+anticipated.
+Donanemab is a monoclonal antibody and is not a cytokine modulator, therefore it is
+unlikely to influence drug metabolizing enzymes/transporters. Therefore, no drug-drug or
+transporter-drug interaction studies were conducted in-vitro or in-vivo.
+3.3.5 Is the to-be-marketed formulation the same as the clinical trial formulation,
+and if not, are there bioequivalence data to support approval of the to-be marketed
+formulation?
+No. The applicant used lyophilized donanemab drug product in the phase 2 trial and is
+proposing to use a solution formulation as the to-be-marketed formulation. The applicant
+performed supportive studies to compare the formulations. OBP confirmed that applicant
+has provided adequate comparability studies to demonstrate that the to-be-marketed
+product and the pivotal clinical trial formulation are comparable. Please refer to OBP
+review for details.
+
+25
+
+Reference ID: 5110430
+
+4 APPENDICES
+4.1 Summary of Bioanalytical Method Validation
+4.1.1 Bioanalysis of donanemab in human serum
+For the determination of serum donanemab concentrations, the applicant used an
+Enzyme-Linked Immunosorbent Assay (ELISA) method. The applicant submitted three
+validation reports (Reports 8248-152, 8338-154, and 8352-531) to support donanemab
+quantification in human plasma. The applicant conducted cross-validation assessments
+between the different methods by analyzing spiked serum controls and incurred serum
+sample pools. The recovery of the spiked controls and incurred pools was within 30% on
+comparing different methods and is considered acceptable.
+Briefly, the final method used [Pyr3]-β-amyloid (3-40) capture reagent precoated on Nunc
+Medisorp Microtiter® plates to capture donanemab present in the serum. Bound
+donanemab was detected by using mouse anti-human IgG-coupled horseradish
+peroxidase and visualized using 3, 3', 5, 5'–tetramethylbenzidine peroxidase substrate
+solution. The color development was stopped, and the intensity of the color was
+measured at 450 nm with a wavelength correction set to 650 nm. The concentration of
+the samples was obtained from a 5-parameter logistic curve fit of the standard curve with
+(b) (4)
+1/y weighting. This method was developed and validated by
+. The ELISA method was validated in compliance with the standards set
+forth in the 2018 FDA Bioanalytical Method Validation guidance. Summary of the
+validation parameters are presented in the Table 1 below:
+Table 1: Summary of Donanemab Serum Bioanalytical Assay Validation Report
+Analyte
+
+LY3002813 (Donanemab)
+
+Source and Lot of Reagents
+
+Donanemab drug product, Eli Lilly and
+Company, Lot RS1009; 4.6 mg/mL
+
+Biological Matrix
+
+Human serum
+
+Minimum Required Dilution
+
+1:40
+
+LLOQ
+
+200 ng/mL
+
+ULOQ
+
+5000 ng/mL
+
+MQC
+
+1500 ng/mL
+26
+
+Reference ID: 5110430
+
+Cumulative
+Standards
+
+Accuracy
+
+(%Bias)
+
+of -1.3% to 2.2%
+
+Cumulative
+Standards
+
+Precision
+
+(%CV)
+
+of ≤3.0%
+
+Cumulative Accuracy (%Bias) of QCs
+
+-1.5% to 5.0%
+
+Cumulative Precision (%CV) of QCs
+
+≤9.7%
+
+Total Error QCs
+
+≤12.3%
+
+Selectivity & matrix effect
+
+Evaluated in ten samples of normal human
+serum and diseased human serum at 200
+or 300 ng/mL. All spiked samples had
+acceptable recoveries (≤20%), and all the
+blank samples were less than LLOQ.
+
+Dilution Linearity and Hook Effect
+
+3200-fold dilution validated. No hook effect
+was observed.
+
+Hemolysis Effect
+
+Five hemolyzed samples were evaluated
+unspiked and spiked at 200 or 300 ng/mL.
+All spiked samples had acceptable
+recoveries (≤20%), and all the unspiked
+samples were less than LLOQ.
+
+Freeze-thaw stability
+
+6 freeze-thaw cycles at -70°C
+
+Long-term storage
+
+364 days at -20°C and 631 days at -70°C
+
+Lipemic effect
+
+Five lipemic samples were evaluated
+unspiked and spiked at 200 or 300 ng/mL.
+All spiked samples had acceptable
+recoveries (≤20%), and all the unspiked
+samples were less than LLOQ.
+
+Reviewer’s comments:
+The validated assay performance was reviewed for the pivotal phase 2 study. Accuracy
+and precision of QC samples were ≤15% (and ≤20% at LLOQ), and calibration curves for
+the LC-MS/MS bioanalytical assay were within acceptable limits. Further, based on the
+27
+
+Reference ID: 5110430
+
+recoveries and passing rates of spiked controls and incurred serum sample pools, the
+cross validation was considered acceptable.
+4.1.2 Bioanalysis of p-tau217 in human plasma
+For the determination of plasma p-tau217 concentrations, the applicant used a bead(b) (4)
+based ELISA method.
+
+(b) (4)
+
+Summary of the validation parameters submitted by the applicant are presented
+in Table 2. Deficiencies were identified in some of the validation parameters which are
+described below.
+
+28
+
+Reference ID: 5110430
+
+Reviewer’s comments: Below is the list of the deficiencies related to validation
+parameters.
+1. Inadequate long term stability duration:
+
+(b) (4)
+
+2. Insufficient stability assessment with respect to concentration range:
+
+(b) (4)
+
+3. Insufficient data to support lack of cross-reactivity:
+
+(b) (4)
+
+4. No accuracy data:
+
+(b) (4)
+
+5. Inadequate data to support the use of different matrices for calibrators and
+(b) (4)
+actual samples:
+
+30
+
+Reference ID: 5110430
+
+therefore, the integrity of analyte during study conduct cannot be assured. Following to
+(b) (4) 0
+the mid-cycle meeting, the applicant submitted additional long term stability data at
+C
+for up to 12 months. However, the established stability period of 12 months is insufficient
+to support the sample storage duration of approximately 3.5 years.
+4.1.3 Bioanalysis of GFAP in human plasma
+For the determination of plasma GFAP concentrations, the applicant used a bead-based
+(b) (4)
+ELISA method.
+
+Summary of the
+applicant submitted validation parameters are presented in the Table 3 below.
+Deficiencies were identified in some of the validation parameters which are described
+below.
+
+32
+
+Reference ID: 5110430
+
+1. Inadequate long term stability data:
+
+(b) (4)
+
+2. Insufficient data to support no interference from hemolysis and lipemic
+(b) (4)
+plasma:
+
+3. Lack of selectivity data:
+
+(b) (4)
+
+4. Inadequate accuracy data:
+
+(b) (4)
+
+5. Insufficient freeze/thaw stability assessment with respect to concentration
+(b) (4)
+range:
+
+The reviewer conducted an exploratory analysis to evaluate the potential impact of longterm storage stability on GFAP analysis. The reviewer examined the plasma GFAP
+34
+
+Reference ID: 5110430
+
+. Various method validation parameters for
+assessing immunogenicity were considered adequate. Please refer to the
+immunogenicity assay review by OBP for additional details.
+(b) (4)
+
+4.2.1 Impact of immunogenicity on PK
+To evaluate the impact of immunogenicity on PK, we compared the observed
+concentrations in ADA+ and ADA- subjects with time-matched PK and ADA data. The
+average donanemab concentrations (ADA+ and ADA- groups) were calculated at each
+timepoint and are presented in Figure 13. The results show that the mean concentrations
+in ADA+ subjects were lower than ADA- subjects. The geometric mean ratio (GMR) of
+APPEARS concentration data between ADA+ and ADA- groups and the related 90% CI are
+THIS WAY presented in the
+ON
+Table 4: Study AACG - Summary of average concentration by ADA status
+ORIGINAL
+Visit #
+
+Treatment
+week
+(predose)
+
+donanemab Concentration (μg/mL),
+geometric mean
+
+Total N
+ADA+ group
+
+N
+
+ADA- group
+
+N
+
+GMR
+(90%CI)
+ADA+/ADA-
+
+2
+
+0
+
+127
+
+3.128
+
+6
+
+4.642
+
+121
+
+0.67 (01,3.4)
+
+3
+
+4
+
+131
+
+2.004
+
+34
+
+7.158
+
+97
+
+0.28 (0.2,0.3)
+
+4
+
+8
+
+126
+
+2.366
+
+97
+
+10.948
+
+29
+
+0.21 (0.1,0.3)
+
+5
+
+12
+
+125
+
+22.661
+
+114
+
+52.865
+
+11
+
+0.42 (0.1,1.4)
+
+6
+
+16
+
+117
+
+4.469
+
+106
+
+17.899
+
+11
+
+0.25 (0.1,0.6)
+
+7
+
+20
+
+5
+
+0.774
+
+5
+
+-
+
+0
+
+-
+
+8
+
+24
+
+111
+
+36.740
+
+93
+
+86.669
+
+18
+
+0.4 (0.2,0.9)
+
+9
+
+28
+
+5
+
+0.689
+
+5
+
+-
+
+0
+
+-
+
+10
+
+32
+
+2
+
+0.845
+
+2
+
+-
+
+0
+
+-
+
+11
+
+36
+
+101
+
+2.938
+
+84
+
+7.491
+
+17
+
+0.39 (0.2,0.8)
+
+12
+
+40
+
+1
+
+1
+
+-
+
+0
+
+15
+
+52
+
+91
+
+10.073
+
+76
+
+43.478
+
+15
+
+0.23 (0.1,0.7)
+
+18
+
+64
+
+1
+
+-
+
+0
+
+BLQ
+
+1
+
+-
+
+19
+
+68
+
+1
+
+BLQ
+
+1
+
+-
+
+0
+
+-
+
+36
+
+Reference ID: 5110430
+
+21
+
+76
+
+72
+
+0.627
+
+53
+
+2.229
+
+19
+
+0.28 (0.1,0.6)
+
+N: number of subjects; GMR: geometric mean ratio; CI: confidence interval; BLQ: below limit of quantification;
+ADA status represents the ADA reported for study samples at each study visit
+
+Source: Reviewer’s analysis
+
+and Figure 14. Subjects in the ADA+ group had lower pre-dose concentrations at all the
+evaluated time points with lower concentrations in ADA+ group starting from week 4, i.e.,
+at the end of the first dosing interval.
+Figure 13: Donanemab concentrations from ADA positive and ADA negative
+subjects during the treatment period (72 weeks)
+
+The donanemab concentrations at each visit in the ADA negative group are presented in a blue
+box and the ADA positive group are presented as a line plot. Open rhombus and solid red circle
+represents the mean donanemab concentrations at each time point.
+
+Changes in donanemab exposures mediated by ADA titer were also confirmed by
+modeling and simulations. To account for worst case scenario, the final Pop PK model
+with subjects maintaining the same ADA titer was used to simulate the impact of ADA on
+donanemab exposures. There was a significant overlap in the concentrations across
+different titer cutoff points (<1:5120 and >1:81920). At the maximum titer range
+(>1:81920), the median exposure (AUCt,ss) was reduced by 23% and trough
+concentration at steady state was reduced by 55%, compared with the low titer (<1:5120).
+37
+
+Reference ID: 5110430
+
+Treatment
+week
+(predose)
+
+ADA+ group
+
+N
+
+ADA- group
+
+N
+
+GMR
+(90%CI)
+ADA+/ADA-
+
+2
+
+0
+
+127
+
+3.128
+
+6
+
+4.642
+
+121
+
+0.67 (01,3.4)
+
+3
+
+4
+
+131
+
+2.004
+
+34
+
+7.158
+
+97
+
+0.28 (0.2,0.3)
+
+4
+
+8
+
+126
+
+2.366
+
+97
+
+10.948
+
+29
+
+0.21 (0.1,0.3)
+
+5
+
+12
+
+125
+
+22.661
+
+114
+
+52.865
+
+11
+
+0.42 (0.1,1.4)
+
+6
+
+16
+
+117
+
+4.469
+
+106
+
+17.899
+
+11
+
+0.25 (0.1,0.6)
+
+7
+
+20
+
+5
+
+0.774
+
+5
+
+-
+
+0
+
+-
+
+8
+
+24
+
+111
+
+36.740
+
+93
+
+86.669
+
+18
+
+0.4 (0.2,0.9)
+
+9
+
+28
+
+5
+
+0.689
+
+5
+
+-
+
+0
+
+-
+
+10
+
+32
+
+2
+
+0.845
+
+2
+
+-
+
+0
+
+-
+
+11
+
+36
+
+101
+
+2.938
+
+84
+
+7.491
+
+17
+
+0.39 (0.2,0.8)
+
+12
+
+40
+
+1
+
+1
+
+-
+
+0
+
+15
+
+52
+
+91
+
+10.073
+
+76
+
+43.478
+
+15
+
+0.23 (0.1,0.7)
+
+18
+
+64
+
+1
+
+-
+
+0
+
+BLQ
+
+1
+
+-
+
+19
+
+68
+
+1
+
+BLQ
+
+1
+
+-
+
+0
+
+-
+
+21
+
+76
+
+72
+
+0.627
+
+53
+
+2.229
+
+19
+
+0.28 (0.1,0.6)
+
+N: number of subjects; GMR: geometric mean ratio; CI: confidence interval; BLQ: below limit of quantification;
+ADA status represents the ADA reported for study samples at each study visit
+
+Source: Reviewer’s analysis
+4.2.2 Impact of immunogenicity on PD
+To evaluate if the ADA titer mediated changes in donanemab exposures were translated
+to a reduced PD effect (amyloid PET reduction), the subjects were divided into three
+different quantiles based on their maximum ADA titer (Figure 15). The results indicated
+that the reduction in amyloid PET was observed irrespective of the observed maximum
+titer. Additional analyses were also conducted by grouping the subjects based on a)
+median titer and b) time of appearance of maximum titer i.e., if the maximum titer was
+39
+
+Reference ID: 5110430
+
+4.2.3 Impact of immunogenicity on Safety and Efficacy
+There is insufficient data to assess whether the observed ADA-associated changes in
+pharmacokinetics reduces effectiveness. Also, because of the low occurrence of subjects
+without ADAs, the effect of ADA on the safety of donanemab is unknown.
+
+4.3 Population PK Review
+The applicant developed a population PK model to describe the pharmacokinetics (PK)
+of donanemab, characterize the relationship between donanemab PK with demographics
+and other covariates. The PK dataset includes subjects with early symptomatic AD.
+Summary of PK data
+In total, the PK dataset consisted of 2578 observations from 177 subjects. The data was
+obtained from 2 clinical studies:
+Phase 1b: AACD: 46 subjects
+Phase 2: AACG: 131 subjects
+Study details can be found in 3.1 Overview of the Product and Regulatory Background.
+Population PK Model
+Applicant’s modeling approach utilized the rich PK data from phase 1 studies (Study
+AACC and AACD) to develop the structural model. Next, the data from Study AACG was
+included along with the data from Study AACD for (re)estimation of model parameters.
+Based on the previous experience from phase 1 studies, body weight was prospectively
+included as a covariate in the base model. The applicant evaluated the possible effect of
+various covariates for their clinical relevance on the disposition of donanemab during the
+final model development.
+The selected base model had two-compartments following intravenous infusion and was
+parameterized in terms of clearance (CL), volume of distribution of the central (V1) and
+peripheral compartment (V2), and intercompartment clearance (Q). Interindividual
+variability was added on clearance, as well as central and peripheral volumes of
+distribution. Following the completion of stepwise covariate modeling and additional
+covariate testing outside stepwise covariate modeling, one covariate effect (ADA titer)
+was found to be statistically significant. The final model included covariate effect of titer
+change over time on clearance.
+Allometric Scaling: Clearance and distributional clearance were scaled allometrically by
+weight and central and peripheral volumes of distribution were also scaled allometrically
+with weight, using exponents of 0.8 for clearance terms and 1 for volume terms.
+Residual variability: Multiplicative
+
+42
+
+Reference ID: 5110430
+
+Covariates: The final model identified ADA titer as a covariate on clearance and body
+weight normalized to 72 kg as a covariate on clearance and volume using a power model.
+Fixed power coefficients of 0.8 and 1 were applied to clearance and volume, respectively.
+Typical estimates of PK model parameters were CL=0.0249 L/h, V1=3.37 L, V2=3.63 L,
+and Q=0.0189 L/h with %SE ranging from 3% to 12%. Variance terms highlighted a large
+inter-individual variability in the population on V2 (84.4 %CV). Inter-individual variability
+in the population on CL and V1 were limited being 19.6 and 21.8%, respectively.
+The parameter estimates for the base model and the final model are shown in the Table
+5 below.
+Table 5: Pharmacokinetic and Covariate Parameters in Population Model
+
+The model diagnostics are presented in Figure 17 and Figure 18
+
+43
+
+Reference ID: 5110430
+
+dosing regimen simulated is three administrations of 700 mg once monthly followed by
+1400 mg once monthly until steady-state (nine administrations of 1400 mg once monthly
+used to represent steady-state). The simulated state-state Cmax for 1400 mg once
+monthly for a 50 kg and 98 kg subject are 624 μg/mL and 323 μg/mL (93% greater for a
+typical 50 kg subject compared to 98 kg), respectively. Please refer to 4.4.1 AmyloidPlaque Reduction for details on the anticipated impact of weight on amyloid plaque.
+
+46
+
+Reference ID: 5110430
+
+4.4 Exposure-Response Analyses
+The Applicant submitted report pop-pk-aacg-report.pdf, titled “Population
+Pharmacokinetic and Pharmacodynamic Analyses of Studies I5T-MC-AACD and I5TMC-AACG” submitted to module 5335 in sequence 0002. The exposure-response
+analyses in the report assess the relationship between exposure and ARIA-E, amyloid
+PET, P-tau217, and disease progression (via iADRS and CDR-SB). The amyloid PET
+analyses include data from studies AACD and AACG. The analyses of ARIA-E and
+disease progression models (iADRS and CDR-SB) include data from AACG.
+The individual PK parameters estimates from the population PK analyses (see 4.2.3
+APPEARS Impact of immunogenicity on Safety and Efficacy
+THIS WAY
+There is insufficient data to assess whether the observed ADA-associated changes in
+ON
+ORIGINAL pharmacokinetics reduces effectiveness. Also, because of the low occurrence of subjects
+without ADAs, the effect of ADA on the safety of donanemab is unknown.
+4.3 Population PK Review) were used with the observed dosing history for each subject
+to obtain drug concentration predictions for inclusion in these analyses. All analyses were
+performed in the NONMEM version 7.4.2 software package.
+4.4.1 Amyloid-Plaque Reduction
+The dataset includes n=1147 amyloid plaque observations a total of 304 subjects from
+studies AACD and AACG. The observed amyloid plaque data are shown for study AACG
+in Figure 1 for study AACD in Figure 4.
+A turnover model (also referred to as an indirect response model) was applied to describe
+the time-course of amyloid plaque level. The model is parameterized in terms of amyloid
+plaque elimination half-life and individual subject baseline plaque level. The effect of PK
+on amyloid plaque levels was coded as a simulating the amyloid plaque degradation rate
+constant. Covariates tested on the treatment effect parameter include ADA titer and time
+from diagnosis as continuous linear relationships, and treatment emergent ADA status as
+well as APOE4 status as categorical relationships. Covariates tested on the baseline
+amyloid plaque parameter included time from diagnosis as a continuous linear
+relationship and APOE4 status as a categorical relationship. None of the covariates
+assessed were statistically significant. Parameter estimates are shown in Table 6.
+
+47
+
+Reference ID: 5110430
+
+Table 6: Parameter Estimates for the Final Amyloid Plaque Reduction Model.
+
+Source: sequence 0002, module 5335, pop-pk-aacg-report.pdf, page 45 of 176
+
+Key diagnostic plots are presented in Figure 19.
+
+48
+
+Reference ID: 5110430
+
+Figure 19: Diagnostic plots for the amyloid-plaque reduction PKPD model
+
+IWRES = individual weighted residual.
+Source: sequence 0002, module 5335, pop-pk-aacg-report.pdf, page 137 of 176
+
+A visual predictive check is presented in Figure 20.
+
+49
+
+Reference ID: 5110430
+
+Figure 21: Observed (5th, 50th, 95th percentile) and PKPD Simulated (median and
+95% CI) Amyloid Plaque Levels In Subjects With Early Treatment Cessation.
+
+CI = confidence interval; PET = positron emission tomography. PKPD simulated median and
+95% CI of the median represented by solid line and shaded areas, respectively. Observed 5th,
+50th (median) and 95th percentiles represented by dose and bars, respectively.
+Source: sequence 0002, module 5335, pop-pk-aacg-report.pdf, page 47 of 176
+
+51
+
+Reference ID: 5110430
+
+[Reviewer comment: Eta shrinkage is 37% and 7%, for treatment effect and baseline
+amyloid level, respectively. Epsilon shrinkage 18%. The between subject variability on
+the treatment effect is high (CV 95%). The residual unexplained variability (12.5 Centiloid)
+is ~1/3 of the treatment effect size (38.6 Centiloid).
+The diagnostic plots (Figure 19) do not suggest the presence of systematic bias with
+respect to time after dose or magnitude of concentrations. The VPC (Figure 20)
+demonstrates that the model appears to capture the central tendency of the model more
+reliably (with 2-3 times smaller confidence interval width) than the extreme values.
+The Applicant’s model for amyloid plaque reduction demonstrates the presence of an
+exposure dependent effect. Overall, the PKPD model is acceptable.
+
+52
+
+Reference ID: 5110430
+
+PKPD Simulations of Amyloid Beta
+The Applicant utilized the amyloid PKPD model to conduct numerous simulations. For
+each amyloid PKPD simulation, the applicant utilized the titration and maintenance
+dosing in Phase 2 study AACG. All simulated subjects started on 700 mg Q4W for the
+first three doses, followed by 1400 mg Q4W up to Week 76; the dosing amount for each
+simulated subject was adjusted at Weeks 24 and 52 based on each simulated subject’s
+predicted amyloid plaque level, where if amyloid plaque level <11 Centiloid, then the
+dose amount was reduced by 1 level from 1400 to 700 mg or from 700 to 0 mg. If
+amyloid plaque level ≥11 Centiloid at Weeks 24 or 52, then the simulated patient
+continued receiving the current dose.
+Effect of Immunogenicity: The Applicant assessed the effect of ADA titer (a
+covariation donanemab PK) on the predicted amyloid beta profile. The amyloid levels
+were simulated for donanemab treatment as administered in Phase 2 study AACG
+(refer to the previous paragraph for details on dosing). The Applicant concludes that
+while higher ADA titers are associated with increased donanemab clearance, the effect
+of donanemab on amyloid beta are generally similar in subjects with no ADA titer versus
+subjects with the highest observed ADA titer assigned at each timepoint in the
+simulation.
+The reviewer conducted independent analyses to assess the Applicant’s conclusion
+regarding the effect of immunogenicity on amyloid levels. The reviewer generated plots
+of observed amyloid beta time profile for subjects stratified by maximum titer level.
+Based on these analyses (see Figure 15, Figure , and Figure 16), amyloid plaque
+removal was observed irrespective of the maximum titer value or whether the maximum
+titer occurred before or after the dose escalation to 1400 mg at week 12.
+Effect of Withdrawal at Week 24 When < 11 Centiloid Is Achieved: The Applicant
+utilized the amyloid-plaque model and applied it to assess the effects of donanemab
+discontinuation on amyloid-plaque levels. For this analysis the Sponsor used the PPK
+model, the documented donanemab dosing history for subjects that includes dosing
+lapses, and the amyloid degradation model to predict the effects of dosing lapse on the
+amyloid beta profile. The predicted the amyloid-beta profile is compared against the
+observed amyloid-beta values in Figure 22.
+
+53
+
+Reference ID: 5110430
+
+outcomes as far as out as 15 years. As such, the simulations beyond week 76 will not be further
+discussed.]
+
+4.4.1.1 Effect of WT on Amyloid Plaque Reduction
+
+Weight is a covariate on donanemab pharmacokinetics (see
+
+Source: Reviewer’s analysis
+
+Table 4: Study AACG - Summary of average concentration by ADA status
+Visit #
+
+Treatment
+week
+(predose)
+
+donanemab Concentration (μg/mL),
+geometric mean
+
+Total N
+ADA+ group
+
+N
+
+ADA- group
+
+N
+
+GMR
+(90%CI)
+ADA+/ADA-
+
+2
+
+0
+
+127
+
+3.128
+
+6
+
+4.642
+
+121
+
+0.67 (01,3.4)
+
+3
+
+4
+
+131
+
+2.004
+
+34
+
+7.158
+
+97
+
+0.28 (0.2,0.3)
+
+4
+
+8
+
+126
+
+2.366
+
+97
+
+10.948
+
+29
+
+0.21 (0.1,0.3)
+
+5
+
+12
+
+125
+
+22.661
+
+114
+
+52.865
+
+11
+
+0.42 (0.1,1.4)
+
+6
+
+16
+
+117
+
+4.469
+
+106
+
+17.899
+
+11
+
+0.25 (0.1,0.6)
+
+7
+
+20
+
+5
+
+0.774
+
+5
+
+-
+
+0
+
+-
+
+8
+
+24
+
+111
+
+36.740
+
+93
+
+86.669
+
+18
+
+0.4 (0.2,0.9)
+
+9
+
+28
+
+5
+
+0.689
+
+5
+
+-
+
+0
+
+-
+
+10
+
+32
+
+2
+
+0.845
+
+2
+
+-
+
+0
+
+-
+
+11
+
+36
+
+101
+
+2.938
+
+84
+
+7.491
+
+17
+
+0.39 (0.2,0.8)
+
+55
+
+Reference ID: 5110430
+
+12
+
+40
+
+1
+
+1
+
+-
+
+0
+
+15
+
+52
+
+91
+
+10.073
+
+76
+
+43.478
+
+15
+
+0.23 (0.1,0.7)
+
+18
+
+64
+
+1
+
+-
+
+0
+
+BLQ
+
+1
+
+-
+
+19
+
+68
+
+1
+
+BLQ
+
+1
+
+-
+
+0
+
+-
+
+21
+
+76
+
+72
+
+0.627
+
+53
+
+2.229
+
+19
+
+0.28 (0.1,0.6)
+
+N: number of subjects; GMR: geometric mean ratio; CI: confidence interval; BLQ: below limit of quantification;
+ADA status represents the ADA reported for study samples at each study visit
+
+Source: Reviewer’s analysis
+4.2.2 Impact of immunogenicity on PD
+To evaluate if the ADA titer mediated changes in donanemab exposures were translated
+to a reduced PD effect (amyloid PET reduction), the subjects were divided into three
+different quantiles based on their maximum ADA titer (Figure 15). The results indicated
+that the reduction in amyloid PET was observed irrespective of the observed maximum
+titer. Additional analyses were also conducted by grouping the subjects based on a)
+median titer and b) time of appearance of maximum titer i.e., if the maximum titer was
+observed before or after dose escalation to 1400 mg at week 12 (Figure and Figure 16).
+These results indicated that the reduction in amyloid PET was observed irrespective of
+the observed maximum median titer or observed maximum median titer before or after
+12 weeks.
+Amyloid PET values for each subject are presented by individual black lines and solid black
+circles. The mean on amyloid PET in each group at each time point is represented by a solid red
+color.
+
+Source: Reviewer’s analysis
+
+56
+
+Reference ID: 5110430
+
+Source: Reviewer’s analysis
+4.2.3 Impact of immunogenicity on Safety and Efficacy
+There is insufficient data to assess whether the observed ADA-associated changes in
+pharmacokinetics reduces effectiveness. Also, because of the low occurrence of subjects
+
+APPEARS without ADAs, the effect of ADA on the safety of donanemab is unknown.
+THIS WAY
+4.3 Population PK Review for details). A typical subject weighing 50 kg is expected to have
+ON
+ORIGINAL 93% higher Cmax steady state than a 98 kg subject for the proposed dosing of 1400 mg once
+monthly (see 4.3.1 Reviewer PK Simulations). The effect of weight on amyloid plaque profile
+was assessed graphically in Figure 23.
+Figure 23: Observed Amyloid Plaque Profile by Baseline Weight in Study AACG
+
+Subjects were binned in 8 quantiles by baseline body weight. Each point represents mean ±
+standard error amyloid plaque level in centiloids at each timepoint.
+source: reviewer’s analysis
+The data in Figure 23 do not support the existing of a relationship between weight and amyloid
+beta plaque reduction in study AACG.
+
+4.4.2 ARIA-E
+The ARIA-E events were modeled using a time-to-event framework. These analyses
+utilized a dataset that included a total of 37 ARIA-E events (37 subjects each with one
+57
+
+Reference ID: 5110430
+
+event) out of a group of n=254 subjects. In subjects with multiple ARIA-E events, only
+the first occurrence was included in these analyses. Exponential, Weibull, and Gompertz
+hazard models were assessed. The probability density function was estimated for
+individuals that experience ARIA-E at time=t and the probably of not having ARIA-E at
+time=t was estimated for subjects who did not have an ARIA-E event during the
+observation period (or were censored).
+Covariates assess on the three hazard models were APOE ε4, age of the study
+participant, time since onset of symptoms of Alzheimer’s disease, time since diagnosis of
+Alzheimer’s disease, baseline C-reactive protein, antidrug antibodies, initial rate of plaque
+removal and sex. A stepwise forward inclusion, backward elimination (stepwise covariate
+modeling) was implemented. Linear, power, and exponential covariate relationships were
+evaluated. Covariates were selected based on OFV reduction, clinical relevance,
+magnitude of effect, and precision of the estimates.
+The final model parameter estimates are listed in Table 7.
+
+58
+
+Reference ID: 5110430
+
+Table 7: Parameter Estimates for Final PKPD Model for Time-To-First-ARIA-E
+Event
+
+APOE ε4 = apolipoprotein E4; ARIA-E = amyloid-related imaging abnormalities-edema/effusions,
+CI=confidence interval; SEE = standard error of estimate.
+
+Source: sequence 0002, module 5335, pop-pk-aacg-report.pdf, page 49 of 176
+Key model diagnostics are presented below.
+Figure 24: Visual Predictive check for time-to-first ARIA-E event model
+
+APOE4 = apolipoprotein E4; ARIA-E = amyloid-related imaging abnormalities-edema/effusions.
+The solid lines are the Kaplan-Meier plot of the observed data and the shaded areas are the 90%
+prediction interval for the simulated data.
+Source: sequence 0002, module 5335, pop-pk-aacg-report.pdf, page 50 of 176
+
+59
+
+Reference ID: 5110430
+
+The Applicant provides the following conclusions:
+•
+
+•
+
+•
+
+For safety measurement ARIA-E, there is a clear donanemab treatment effect.
+APOE ε4 carrier/noncarrier had different treatment response regarding ARIA-E.
+APOE ε4 carriers and noncarriers had a 24% and 6%, respectively, likely to
+develop ARIA-E by Week 24 while placebo treatment had <1%. Donanemabtreated APOE ε4 carriers had 4 times greater likelihood of ARIA-E at Weeks 24
+and 96 than donanemab-treated APOE ε4 noncarriers.
+No correlation between donanemab serum concentration and ARIA-E incidence
+could be determined. The analysis did not identify an exposure limit that was
+associated with increased risk of ARIA-E. The analysis used data from Study
+AACG, which examined only a single dosage regimen. The lack of an exposureresponse relationship for ARIA-E likely reflects the narrow distribution of exposures
+in this study.
+Although immunogenicity had an impact on PK, the number of observed ARIA-E
+events did not provide sufficient power to detect an effect of immunogenicity on
+ARIA-E incidence at the level of significance required to be included in the model.
+At p<0.05, the data suggests that ADA titer is likely associated with reduced risk
+of ARIA-E.
+
+[Reviewer comment: According to Figure 24, 90% prediction interval (PI) contains the
+Kaplan-Meier curves for three groups. Compared to the other two groups, the KaplanMeier curve for the APOE4 negative group is generally closer to its PI boundary and is
+outside of it at ~12 weeks and 24 weeks. The relative abundance of APOE4 positive
+subjects (~74.6% positive) is a factor that likely explains the greater performance in
+APOE4 positive subjects compared to APOE4 negative subjects.]
+
+60
+
+Reference ID: 5110430
+
+4.4.3 p-Tau217
+A turnover model (also known as an indirect response model) was utilized to describe
+the time-course of plasma P-Tau217. The effect of donanemab on P-Tau217 was coded
+as a simulating the elimination term for P-tau217. Covariates tested on the treatment
+effect parameter include ADA titer and time from diagnosis as continuous linear
+relationships, and treatment emergent ADA status as well as APOE4 status as
+categorical relationships. Covariates tested on the baseline amyloid plaque parameter
+included time from diagnosis as a continuous linear relationship and APOE4 status as a
+categorical relationship. None of the covariates assessed were statistically significant.
+Parameter estimates are shown in Table 8.
+Table 8: Parameter Estimates for the P-tau217 Model
+
+BTAUSUVR = Baseline Tau PET SUVr; CI = confidence interval; CV = coefficient of variation;
+PET = positron emission tomography; SUVr = standardized uptake value ratio a 0.384* (1 +
+0.966*(BTAUSUVR-1.2)) where BTAUSUVR is baseline tau PET SUVr b Inter-individual
+variability was calculated using the following equation for log-normal distributions of the random
+effects %CV = 100 × √(e^(OMEGAN) − 1), where OMEGAN is the variance of the parameter.
+c 95% CI from bootstrap
+Source: sequence 0002, module 5335, pop-pk-aacg-report.pdf, page 51 of 176
+
+Key diagnostic plots are shown in the figures below.
+61
+
+Reference ID: 5110430
+
+Figure 25: Basic Diagnostic Plots for the P-tau217 Model
+
+iWRES = individual weighted residuals
+Source: sequence 0002, module 5335, pop-pk-aacg-report.pdf, page 165 of 176
+
+62
+
+Reference ID: 5110430
+
+Figure 26: Visual Predictive Check of the Final P-tau217 Model
+
+The points are the observed data. The lines are the 5th, 50th, and 95th percentiles of the
+observed data. The shaded areas are the model-predicted 95% confidence interval of the
+corresponding percentiles.
+Source: sequence 0002, module 5335, pop-pk-aacg-report.pdf, page 52 of 176
+
+[Reviewer comment: The model demonstrates an effect of donanemab on the lowering
+P-tau217 levels. The eta shrinkage on the term for drug effect is 61%.
+
+63
+
+Reference ID: 5110430
+
+4.4.4 Disease Progression
+The Applicant developed disease separate disease progression models for the iADRS as
+well as the CDR-SB measures. The model-building approach was identical for both
+models. Each model was coded to constraint predictions within the acceptable range of
+values (0 to 18 for CDR-SB and 0 to 146 for iADRS). For each model , numerous logistic
+models were assessed including the Verhulst logistic model and the Richard’s logistic
+model. Beta regression was used to account for the decreasing variance in residual error
+as the data approach the boundary values (heteroscedasticity).
+Applicant assessed drug exposure through maximum effect models as well as threshold
+models due to the use of a single dose level was studied. Applicant also assess a
+treatment effect model. The effect of amyloid PET values (as absolute change from
+baseline or relative change from baseline) was evaluated as a predictor of disease
+progression.
+Covariate analyses was performed using a stepwise forward inclusion, backward deletion
+process. Linear, power, and exponential covariate relationships were evaluated. Due to
+sample size constraints, the forward inclusion and backward deletion criteria were
+p<0.01. Covariate selection was based on OFV reduction, clinical relevance, magnitude
+of effect, and precision of the estimates. Covariates assessed on both models are
+presented in Table 9.
+Table 9: Covariates Assessed in the disease progression model development for
+iADRS and CDR-SB
+
+Source: sequence 0002, module 5335, pop-pk-aacg-report.pdf, page 40 of 176
+
+For both the iADRS and CDR-SB models, the treatment effect is active at any time when
+the concentration in the central compartment is greater than 1 ng/mL. Otherwise, the
+treatment effect is inactive. The parameter estimates for the final CDR-SB disease
+progression model and final iADRS disease progression model are found in Table 10.
+
+64
+
+Reference ID: 5110430
+
+Table 10: Parameter Estimates for the Disease Progression Models for iADRS and
+CDR-SB
+
+Treatment effect is estimated only for APOE4 carriers and presented as “Reduction in disease
+progression for APOE ε4 carriers (%)” in this table. AADIAG = time from diagnosis of Alzheimer’s
+disease; APOE4 = apolipoprotein subtype E allele 4; BTau = baseline tau; CI = confidence
+interval; CV = coefficient of variance; CDR-SB = clinical dementia rating-sum of boxes; iADRS =
+integrated Alzheimer’s disease rating scale; SEE = standard error of the estimate.
+•
+•
+•
+•
+•
+
+a Estimate as back-transformed from the logit scale.
+b Tau parameter for Beta distribution.
+c Typical logit for baseline iADRS = -1.06 + 1.17*(BTau - 1.2) + 0.0255*(Age – 75.5).
+d Typical disease progression for CDR-SB = 0.00517* (1 + 1.33 *[BTau – 1.2]) *(1 +
+0.0246*[Age - 75.5]).
+e Typical logit for baseline CDR-SB = -1.56 + 0.112*(AADIAG – 0.53).
+
+Source: sequence 0002, module 5335, pop-pk-aacg-report.pdf, page 55 of 176
+
+Diagnostic plots and modeling conclusions can be found in the next sections.
+
+65
+
+Reference ID: 5110430
+
+4.4.4.1 iADRS
+Key diagnostic plots for the disease progression model based on iADRS are shown in
+Figure 27.
+Figure 27: Diagnostic Plots for iADRS Disease Progression Model – Treatment
+Effect
+
+DV = dependent variable; iADRS = integrated Alzheimer’s disease rating scale; IPRED =
+individually predicted value; LOWESS = locally weighted scatterplot smoothing; PRED =
+population predicted values; SOR = standardized ordinary residuals. LOWESS fit, a smoothed
+value given by a weighted linear least-squares regression over the span of observations, for data
+are presented (black line) in addition to a line of identity (gray line on top panel).
+Source: sequence 0002, module 5335, pop-pk-aacg-report.pdf, page 56 of 176
+
+The visual predictive check is presented in Figure 28.
+
+66
+
+Reference ID: 5110430
+
+Figure 28: Visual Predictive Check for iADRS Disease Progression Model –
+Treatment Effect
+
+APOE4 = apolipoprotein subtype E allele 4; iADRS = integrated Alzheimer’s disease rating scale.
+The points are the observed data. The lines are the 5th, 50th, and 95th percentiles of the observed
+data. The shaded areas are the model-predicted 95% confidence interval of the corresponding
+percentiles.
+Source: sequence 0002, module 5335, pop-pk-aacg-report.pdf, page 57 of 176
+
+The Applicant constructed an alternate disease progression model where amyloid beta
+or P-tau217 were used as a predictor of iADRS disease progression instead of a
+treatment effect. The final model retained a treatment effect as it provides a better fit
+(lower objective function) than amyloid beta or P-tau217. The alternate model is
+discussed further in 4.4.4.3 Use of Biomarkers As Predictors of Disease Progression
+.
+[Reviewer comment: Eta shrinkage for the treatment effect is 2%. Epsilon shrinkage is
+not applicable as there is no residual variability term in this model.
+The Applicant’s goodness of fit plots (Figure 27) do not indicate systematic bias over time
+or with concentration magnitude.
+The visual predictive check (Figure 28) indicates that the model describes the central
+tendency and 95th percentile values well in APOE4 carriers and non-carriers for treatment
+or placebo. The 95% confidence intervals for the 5th percentile are wider than for the 50th
+or 95th percentiles in all 4 panels..
+The Applicant’s iADRS disease progression model with a treatment effect is
+acceptable.
+
+67
+
+Reference ID: 5110430
+
+4.4.4.2 CDR-SB
+Key diagnostic plots for the disease progression model based on CDR-SB are shown in
+Figure 29.
+Figure 29: Diagnostic Plots for CDR-SB Disease Progression Model – Treatment
+Effect
+
+CDR-SB = clinical dementia rating-sum of boxes; DV = dependent variable; IPRED = individually
+predicted value; LOWESS = locally weighted scatterplot smoothing; PRED = population predicted
+values; SOR = standardized ordinary residuals. LOWESS fit, a smoothed value given by a
+weighted linear least-squares regression over the span of observations, for data are presented
+(black line) in addition to a line of identity (gray line on top panel).
+Source: sequence 0002, module 5335, pop-pk-aacg-report.pdf, page 58 of 176
+
+The visual predictive check is presented in Figure 30.
+
+68
+
+Reference ID: 5110430
+
+Figure 30: Visual Predictive Check for CDR-SB Disease Progression Model –
+Treatment Effect
+
+APOE4 = apolipoprotein subtype E allele 4; CDR-SB = clinical dementia rating-sum of boxes. The
+points are the observed data. The lines are the 5th, 50th, and 95th percentiles of the observed
+data. The shaded areas are the model-predicted 95% confidence interval of the corresponding
+percentiles.
+Source: sequence 0002, module 5335, pop-pk-aacg-report.pdf, page 59 of 176
+
+The Applicant constructed an alternate disease progression model where amyloid beta
+was used as a predictor of CDR-SB disease progression instead of treatment. The final
+model retained a treatment effect as it provides a better fit (lower objective function) than
+amyloid beta. The alternate model is discussed further in 4.4.4.3 Use of Biomarkers As
+Predictors of Disease Progression.
+[Reviewer comment: Eta shrinkage for the baseline CDR-SB term is 3%. Epsilon
+shrinkage is 2.4%.
+The diagnostic plots (Figure 29) do not suggest the presence of bias in terms of time
+after administration or prediction magnitude.
+The visual predictive check (Figure 30) suggests that the model represents the central
+tendency and 5th percentile values well for treatment or placebo, in APOE4 carriers and
+non-carriers. The 95% confidence intervals are wider for the 95th percentiles than the 5th
+or 50th percentile in all 4 panels,.
+Overall, the Applicant’s disease progression model for CDR-SB is acceptable.
+
+69
+
+Reference ID: 5110430
+
+4.4.4.3 Use of Biomarkers As Predictors of Disease Progression
+The Applicant assessed the ability of amyloid beta to predict disease progression for both
+iADRS and CDR-SB. While amyloid was a significant predictor of disease progression in
+iADRS and CDR-SB models that did not include a treatment effect, the objective function
+value (OFV) decrease is greater for treatment effect alone than for amyloid PET alone
+(see Table 11).
+Table 11: Changes in Objective Function When Using Treatment Effect
+versus Amyloid To Predict Disease Progression for iADRS or CDR-SB
+
+Source: sequence 0002, module 5335, pop-pk-aacg-report.pdf, page 53 of 176
+
+The Applicant assessed the ability of P-tau217 to predict iADRS disease progression.
+effect. The Applicant reports that use of P-tau217 as a predictor of disease progression
+with the iADRS scale provides a similar change in OFV as the model using amyloid as a
+predictor of disease progression. For these reasons, the Applicant’s final disease
+progression models for iADRS and CDR-SB utilized a treatment effect only.
+[Reviewer comment: This modeling result is consistent with a positive relationship
+between amyloid plaque reduction or P-tau217 reduction and improvement in iADRS or
+improvement in CDR-SB. ]
+4.4.4.5 Conclusions
+The Applicant provides the following conclusions regarding disease progression modeling
+for iADRS as well as CDR-SB:
+•
+
+•
+•
+
+There is a donanemab treatment effect on the overall population (any APOE4
+status) with disease progression reductions for iADRS by 28% and CDR-SB by
+20%.
+In APOE4 carriers, donanemab reduced disease progression for iADRS by 42%
+and for CDR-SB by 28%.
+A concentration-effect relationship for disease progression with iADRS and CDRSB could not be identified as only 1 dosing regimen was studied in study AACG.
+This likely reflects the narrow distribution of exposures in this study.
+
+[Reviewer comment: The Applicant’s exposure-response analyses support a treatment
+effect of donanemab on reducing disease progression in terms of iADRS as well as
+CDR-SB. ]
+70
+
+Reference ID: 5110430
+
+Signature Page 1 of 1
+
+-------------------------------------------------------------------------------------------This is a representation of an electronic record that was signed
+electronically. Following this are manifestations of any and all
+electronic signatures for this electronic record.
+-------------------------------------------------------------------------------------------/s/
+-----------------------------------------------------------ANANTHA RAM NOOKALA
+01/17/2023 10:50:33 AM
+MICHAEL A BEWERNITZ
+01/17/2023 11:03:21 AM
+MOHSEN RAJABI ABHARI
+01/17/2023 12:29:54 PM
+XIULIAN DU
+01/17/2023 12:40:17 PM
+YOW-MING C WANG
+01/17/2023 12:45:03 PM
+VENKATESH A BHATTARAM
+01/17/2023 01:00:11 PM
+BILAL S ABUASAL
+01/17/2023 01:30:24 PM
+SREEDHARAN N SABARINATH
+01/17/2023 01:33:23 PM
+HAO ZHU
+01/17/2023 01:44:04 PM
+RAMANA S UPPOOR
+01/17/2023 01:47:28 PM
+MEHUL U MEHTA
+01/17/2023 02:24:08 PM
+
+Reference ID: 5110430
+
+

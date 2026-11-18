@@ -1,0 +1,45 @@
+NDA 215973 lenacapavir injection, for subcutaneous use
+NDA 215974 lenacapavir tablets, for oral use
+
+Resistant to 3
+
+Failing Classes & PI RT INSTI Phenotypic
+BGRD Screening Failing on EFF VF Resistance Resistance Resistance SC
+PID Arm Regimen Resistance Regimen Day1VL_ OBT YIN _WK26_atSC at SC at SC Resistance
+"PLACEBO FTCTDF NRTI Y 62,100 DTG N Y M461 147V M41LD67N T97A FTC >83
+IBL NNRTI DRV I50V K55R_~_L741 A98A/G E138K TDF 1.8
+PIINSTI FTC G73E L76V L100I G140S IBL-R
+TAF IBL V82T L89V K103N Q148H
+V108V/I G163S
+M184V
+L210W
+T215Y
+K219N
+L228H
+(6) PLACEBO DRVIC NRTI N(PI,NNRTI 193,000 DTG N Y v77l K65K/R E92Q DRV 0.83
+FTC TDF and INSTI DRV/C S68G FTC >100
+available) RPV Y181C TDF 0.58
+nonadherent M184M/V
+(6) "PLACEBO DRV NRTI Y (DTG 175,000 DTG N Y L33M M46L A62V D67E DRV >568
+FTC NNRTI available) LAM IBL I54L K55R T69S A98G FTC >68
+PI Mvc G73S T74P_ _V1061
+
+I84V I85V = -Y181F
+L89V_L90M M184V
+Y188L
+L210W
+T215Y
+
+Source: FDA Review team analysis.
+
+Bolded: Resistant phenotype
+
+Abbreviations: ABC, abacavir; AF, assay failure; BGRD, background; BIC, bictegravir, DOR, doravirine; DRV, darunavir, DTG, dolutegravir, EFF, efficacy; ENF, enfuvirtide; FTC, emtricitabine; HIV,
+human immunodeficiency virus; IBL, ibalizumab; INSTI, integrase inhibitor; LAM, lamivudine; LEN, lenacapavir, MVC, maraviroc; N, no; N/A, not applicable; ND, not determined; NNRTI, non-
+nucleoside reverse transcriptase inhibitor, NRTI, nucleoside reverse transcriptase inhibitor, OBT, optimized background treatment, PI, protease inh bitor, PID, patient identity; RPV, rilpivirine; RT,
+reverse transcriptase; SC, screening; TAF, tenofovir alafenamide; TDF, tenofovir disoproxil fumarate; VF, virologic failure; VL, viral load; WK, week; Y, yes
+
+259
+Integrated Review Template, version 2.0 (04/23/2020)
+
+Reference ID: 4944206

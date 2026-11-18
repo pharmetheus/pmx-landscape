@@ -1,0 +1,52 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {BLA 761289 and sBLA 761069}
+{IMJUDO, tremelimumab; IMFINZI, durvalumab}
+
+19.4.1.4.Reviewer’s Independent Analysis
+None
+19.4.2. Exposure-Response Analysis
+19.4.2.1.ER (efficacy) Executive Summary
+
+The FDA's Assessment:
+
+In support of this BLA, the Applicant submitted reports of exposure-response (E-R) analyses for efficacy
+based on data from durvalumab 1500 mg Q4W + tremelimumab 300 mg single dose arm (T300+D) of
+the Phase III study HIMALAYA (D419CCO0002). The Applicant’s E-R for efficacy analysis was conducted
+in 388 patients only from durvalumab + tremelimumab (T300+D) group. The E-R analysis dataset covered
+a body weight range between 59.6 and 80 kg and an age range of 58 and 71 years old and was based on
+individual PK exposures derived from an Applicant’s PopPK model. For the efficacy analysis, the
+relationship of overall survival (OS) or progression-free survival (PFS) of HCC patients to first dose and/or
+steady-state Cmax, Cmin, and AUC of durvalumab or tremelimumab was assessed based on data from
+durvalumab 1500mg Q4W + tremelimumab 300 mg single dose arm (T300+D) of HIMALAYA study.
+Kaplan-Meier estimates stratified by the quartile exposure for any of the exposure metrics indicated no
+exposure-response relationship. A Cox proportional hazard analysis identified AST and NLR as the
+significant factors (p<0.001) for the OS hazard and no covariate was identified as a significant factor
+(p<0.001) for the PFS hazard. Overall, Kaplan-Meir survival analysis and COXPH multivariate regression
+results showed that there was no significant E-R relationship for OS and PFS vs. any of durvalumab and
+tremelimumab PK exposure metrix. E-R for efficacy analysis showed no significant E-R relationship for
+efficacy at the proposed dose of T300+D regimen. The flat E-R relationship for efficacy endpoints may
+imply that the effectiveness of durvalumab reached the plateau, supporting the proposed dose
+(durvalumab 1500mg Q4W + tremelimumab 300 mg single dose).
+
+The Applicant’s E-R efficacy analysis appears to be adequate. Therefore, E-R for efficacy supports that
+no dose adjustment for durvalumab or tremelimumab is needed.
+
+19.4.2.2.ER (efficacy) Assessment Summary
+
+The Applicant’s Position:
+
+General Information
+Goal of ER analysis * Assess the durvalumab/tremelimumab ER (efficacy) relationship
+using HIMALAYA study data
+* Support the evidence of effectiveness and justify the dosages
+and dosing regimens in the ITT population (T300+D)
+
+* Evaluate the intrinsic and extrinsic factors, and identify
+important covariates if any
+
+214
+Version date: July 2021 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5064925

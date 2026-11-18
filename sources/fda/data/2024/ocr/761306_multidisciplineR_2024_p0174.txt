@@ -1,0 +1,57 @@
+BLA 761306 Multi-disciplinary Review and Evaluation
+Ebglyss (lebrikizumab) injection
+
+The frequency of ocular events during the monotherapy maintenance period was similar in LEB
+250 mg Q4W group compared to placebo and was lower in LEB 250 mg Q2W compared to
+
+placebo.
+[Table 60. Summary of Ocular AESIs During the Monotherapy Maintenance Period
+PEO LEB 250 mg | LEB 250 mg
+Q4w Q2w
+Preferred Term (N=62) (N=122) (N=121)
+fire) ni) nlm)
+Conjunctivitis allergic As 2) 7K5.7) 21.7)
+Conjunctivitis Eg 8) 6((4.9) (0.0)
+|Atopic keratoconjunctivitis fo 0) 1((0.8) (0.0)
+Dry eye qo.) tos) tho.)
+Blepharitis do 0) ok0.0) 1f0.8)
+\Vernal keratoconjunctivitis oo 0) (0.0) 40.8)
+Source: OCS Analysis Studio, Safety Explorer.
+Filters: TRTO2A = "PQ2W" and MPSAFFL = "Y" and SAFFL = "Y" (PBO); TRTO2A = "L250Q4W" and MPSAFFL = "Y" and SAFFL = "Y" (LEB 250
+mg Q4W), TRTO2A = "L250Q2W" and MPSAFFL = "Y" and SAFFL = "Y" (LEB 250 mg Q2W); TRTEMFL = "Y" and ANLO3FL = "Y" and TEMAPFL
+="Y" and AEDECOD = "Conjunctivitis" or "Conjunctivitis viral" or *Keratitis" or "Atopic keratoconjunctivitis” or "Vernal keratoconjunctivitis" or
+“Blepharitis” or "Dry eye" or "Eye irritation” or "Eye infection” or "Conjunctivitis allergic” (Adverse Events).
+
+Combined Induction and Maintenance Period (AD Mono/TCS Weeks 0 to 52/56
+
+For the combined induction and maintenance period, ocular symptoms were reported more
+frequently in lebrikizumab-treated subjects than placebo-treated subjects.
+
+Table 61. Ocular AESIs: Atopic Dermatitis Monotherapy and TCS Combination Safety Population (Ph3)
+Induction and Maintenance Periods (Weeks 0 — 52/56) Atopic Dermatitis Combined Induction and
+Maintenance Periods Analysis Set (Studies KGAB, KGAC, KGAD, and KGAA)
+All
+LEB250Q2W only LEBAeoaawica All LEB250Q2W | LEB250Q2W/Q4 PBO
+(N=872) (et 51) (N=1023) Ww (N=365)
+(N=1023)
+
+Dry Eye Cluster 17 (1.9) 3 (2.0) 19(1.9) 14 (1.4) 2(0.5)
+Blepharitis Cluster 7 (0.8) 3(2.0) 10 (1.0) 6 (0.6) 1(0.3)
+Keratitis 6 (0.7) 1(07) 7(07) 5 (0.5) 10.3)
+Conjunctivitis 60 (6.9) 18 (11.9) 73(7.1) 67 (6.5) 7(1.9)
+Conjunctivitis
+allergic 42(4.8) 9(6.0) 45 (4.4) 36 (3.5) 3(0.8)
+Vernal
+keratoconjunctiviti 3(0.3) 0 3(0.3) 2(0.2) 0
+s
+Conjunctivitis
+bactonal 5(0.6) 3(2.0) 7(07) 6 (0.6) 0
+‘Source: OCS Analysis Studio, Custom Table Tool.
+Columns - Dataset: Demographics; Filter: COMBIMFL = "Y', SAFFL = "Y', TRTNEW = 'LEB250Q2W only’ or "LEB250Q2W/Q4W only’ or ‘All LEB250Q2W' or ‘All
+LEB250Q2W/Q4W' or ‘PBO’.
+CMQ or SMQ Tem - Dataset: Adverse Events, Fite TEFLNEW = Y.
+
+161
+Version date: October 12, 2018
+
+Reference ID: 5252985

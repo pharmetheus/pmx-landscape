@@ -1,0 +1,49 @@
+BLA 761367
+Andembry / garadacimab
+
+Table 86. PK Method Validation for RnD-SOP-000053165
+
+Report Number and Title: Module 5.3.1.4, REP-007341 [formerly REP-20231] (Automated version), Automated CSL312 Pharmacokinetic
+Assay Validation Report
+
+Assay Procedure: RuD-SOP-000053165 (automated method)
+
+Acceptance eriteria Suminary of result Source location in
+validation report
+System suitability | RE and CV < 20% for 7 out of 9 non-zero standards | RE: -23.84% to 10.4% Tables 2,3
+(excluding anchor points) CV: 2.849% to 22.86%
+Range Determined by the acceptable range for accuracy and_| 1.25 to 100 ng/mL. Section 7.2
+precision
+Accuracy RE < 20% (< 25% for LLOQ/ULOQ) Repeatability: -18.43% to 4.11% Tables 4, 5.6
+
+Inter-assay precision: -7.51% to 9.80%
+Inter-operative precision: -1,64% to
+
+13.49%
+Intermediate CV < 20% (< 25% for ULC/UHC) Repeatability: 2.51% to 18.79% Tables 4, 5.6
+precision / Inter-assay precision: 1.62% to 10.49%
+repeatability Inter-operative pre: 1.81% to 7.23%
+Quantitation limit | Quantitatively determined with acceptable precision | LLOQ: 125 ng/mL Seetion 7.5
+and accuracy Minimum required dilution: 100
+
+Source: Table 3, Summary of Biopharmaceutic Studies.
+
+The minimum required dilution (MRD) of the assay is 1:100. Standard curves used a five-parameter curve fit without weighting.
+Precision and accuracy were demonstrated by interpolating the concentration of five controls and examining the relative error (RE)
+and coefficient of variation (CV). Based on the concentrations of the controls (ie., 1.25, 5, 40, 80, and 100 ng/mL), the range of the
+assay was shown to be 1.25 to 100 ng/mL.
+
+The mean relative error of -23.84% and %CV of 22.8% were both assessed for a theoretical concentration of 1.01 ng/mL, which is
+below the LLOQ of 1.25 ng/mL. The mean % relative error and %CV for theoretical values in between the assay limits ranges
+
+from -9.2 to 10.4% and 2.8 to 8.5%, respectively
+
+Repeatability refers to three sets of controls assayed on one plate; interassay precision refers to three sets of controls each assayed
+on independent assay runs on the automated platform; interoperative precision is included in error and refers to evaluation of
+overlapping process iterations meaning three sets of controls assayed on overlapping process iterations on the automated platform.
+Abbreviations: LLOQ, lower limit of quantification, PK, pharmacokinetics
+
+171
+Integrated Review Template, version 3.0 (05/25/2022)
+
+Reference ID: 5458438

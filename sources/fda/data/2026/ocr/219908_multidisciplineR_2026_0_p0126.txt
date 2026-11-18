@@ -1,0 +1,63 @@
+NDA/BLA Multi-disciplinary Review and Evaluation/New Drug Application (NDA) 219908
+
+REVTORPYK (gedatolisib)
+Table 28: Overview of Progression-Free Survival Sensitivity Analyses
+
+PFS Sensitivity Analyses (Arm A vs Arm C) HR 95% CI
+
+ITT analysis 0.24 0.17, 0.35
+Excluding Subjects Who Did Not Have Both a PIK3CA Tissue WT and 0.23 0.15. 0.35
+PIK3CA Liquid biopsy WT Test Result - eee
+Excluding Subjects Who Only Had a PIK3CA Liquid biopsy WT Test 023 0.16.0.35
+result (No PIK3CA Tissue WT test result was available) * SS
+Post hoc PFS Analysis of Subjects Eligible Based on Liquid Biopsy 027 0.10. 0.72
+Results Only
+Excluding Subjects with Concurrent Therapy for Bone Metastases 0.25 0.17, 0.38
+Including Subjects with Clinical Progression/New Therapies 0.33 0.25, 0.46
+Censoring Subjects Who Received a New Anticancer Therapy 0.24 0.17. 0.35
+Adjusting for Imaging Visits Outside of Window 0.24 0.17, 0.35
+Post hoc Analysis Including Subjects Who Withdrew or Were Lost to 025 0.19.0.36
+Follow-up
+
+PFS Sensitivity Analyses (Arm B vs Arm C) HR 95% CI
+
+ITT analysis 0.33 0.24, 0.48
+Excluding Subjects Who Did Not Have Both a PIK3CA Tissue WT and 038 0.26. 0.55
+PIK3CA Liquid biopsy WT test result . —
+Excluding Subjects Who only had a PIK3CA Liquid biopsy WT test result 038 0.27,0.54
+(No PIK3CA Tissue WT test result was available) ° “ve
+Post hoc PFS Analysis of Subjects Eligible Based on Liquid Biopsy 0.18 0.08, 0.60
+Results Only
+Excluding Subjects with Concurrent Therapy for Bone Metastases 0.30 0.22. 0.48
+Including Subjects with Clinical Progression/New Therapies 0.39 0.29, 0.53
+Censoring Subjects Who Received a New Anticancer Therapy 0.34 0.24, 0.48
+Adjusting for Imaging Visits Outside of Window 0.33 0.24, 0.48
+Post hoc Analysis Including Subjects Who Withdrew or Were Lost to 033 0.24, 0.46
+Follow-up
+
+Abbreviations: CI = confidence interval: CSR = clinical study report: HR = hazard ratio: ITT = Intent-to-Treat;
+
+PFS = progression free survival; PIK3CA = gene that encodes the p110 alpha catalytic subunit of phosphatidylinositol-3-kinase:
+WT = wild type.
+
+Source: Module 5.3.5.1, CELC-G-301 CSR Table 12, Table 13, Table 23, Table 24, Table 25, Table 26, Table 27, Table 28,
+Table 29, Table 30.
+
+e Subgroup Analyses - Progression-Free Survival
+
+Extensive PFS subgroup analyses were conducted (Table 29). In these analyses, Arms A and B
+demonstrated superior efficacy compared with Arm C across a broad spectrum of patient
+subgroups. Arm A exhibited a robust reduction in the risk of progression or death, with hazard
+ratios ranging from 0.01 to 0.35 in nearly all subgroups. These included subjects with or without
+visceral metastases, varying HER2 expression levels, different baseline tumor burdens, age
+groups, menopausal statuses, prior therapies, and diverse geographic regions. Notably, Arm A
+achieved a consistent PFS benefit in 16 out of 20 subgroups (80.0%), reflecting a strong and
+wide-ranging treatment effect.
+
+125
+Version date: February 10, 2025 (ALL NDA/BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5832496

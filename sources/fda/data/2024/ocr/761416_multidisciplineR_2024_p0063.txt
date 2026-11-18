@@ -1,0 +1,52 @@
+BLA 761416 Multi-disciplinary Review and Evaluation
+Zanidatamab
+
+6.3.2.3. Is an alternative dosing regimen or management strategy required for
+subpopulations based on intrinsic patient factors (e.g. race, ethnicity, age,
+performance status, genetic subpopulations, etc.)?
+
+Data:
+
+A PopPK analysis was performed to evaluate the need for dose adjustment in special populations
+based on the participant’s baseline covariates. Age, sex, race, AST, ALT, TBIL, NCI liver
+function group (normal to mild), eGFR, renal function categories (normal, mild, and moderate),
+tumor size, cancer type (other than GEA), HER2 expression, and sHER2 ECD concentration had
+no significant influence on the PK of zanidatamab. Although baseline body weight, ALB, and
+the number of lesions were statistically significant covariates, they are not expected to have a
+clinically relevant impact on zanidatamab PK exposure (Section 6.2.2.2) as the GMR values of
+PK exposures for all covariate groups were maintained within the bounds of 0.8 to 1.25.
+
+The Applicant’s Position:
+
+Dose modifications are not necessary based on the evaluated intrinsic or anticipated extrinsic
+factors.
+
+The FDA’s Assessment:
+
+FDA generally agrees with the Applicant’s position (refer to Section 6.2.2.2 for the assessment
+and Section 19.4 for details of PopPK and E-R analyses).
+
+6.3.2.4. Are there clinically relevant food-drug or drug-drug interactions, and what
+is the appropriate management strategy?
+
+Data:
+No formal food-drug or drug-drug interaction studies have been conducted with zanidatamab.
+
+The Applicant’s Position:
+
+As an IV antibody, extrinsic factors (eg, food, smoking, concomitant medications) are not
+expected to affect zanidatamab’s PK. Hence, the effect of extrinsic factors on the PK has not
+been evaluated with dedicated studies or in the PopPK analysis. Zanidatamab is not expected to
+impact CYP enzymes or target mechanisms related or unrelated to proinflammatory cytokines
+that may impact the PK of concomitant medicines.
+
+The FDA’s Assessment:
+FDA agrees with the Applicant’s position.
+
+62
+Version date: August 2023 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5482010

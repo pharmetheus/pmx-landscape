@@ -1,0 +1,131 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {BLA 761342}
+
+Talquetamab-tgvs
+
+o 0.8 mg/kg every 2 weeks (Q2W) with 3 step-up doses of
+0.01, 0.06, 0.3 mg/kg before the first full dose, also
+referred to as 0.8 mg/kg Q2W.
+© Phase 1: SC doses ranging from 0.005 to 0.8 mg/kg weekly, at
+0.8 or 1.2 mg/kg Q2W or 1.6 mg/kg monthly
+
+Exposure Metrics Explored
+(range)
+
+Efficacy E-R analysis PK metrics:
+
+© Predicted average concentration during the first 4 weeks of treatment full
+doses (Covg.sweeks)
+
+¢ Predicted trough concentration after the first treatment full dose
+(Ctrough,ast dose)
+
+* Other PK metrics such as Cavg.astdose, Cave,2weeks, ANC Cave,3rd-athweeks were also
+explored.
+
+Covariates Evaluated
+
+RP2D regimens (weekly or Q2W), age, sex, race, body weight, baseline
+ECOG, number of lines of prior therapy (<4 versus >4), refractory status,
+prior autologous stem cell transplant, prior allogenic stem cell transplant,
+subtype of myeloma (IgG versus non-IgG), ISS, revised ISS, cytogenetic risk,
+extramedullary plasmacytoma, baseline tumor GPRCSD expression,
+baseline sBCMA, baseline bone marrow % plasma cells, and other baseline
+biomarkers such as CD4+, CD8+, CD25 expression, total T cell level and PD-1
+expression.
+
+Final Model
+Parameters
+
+Summary
+
+Acceptability
+[FDA’s comments]
+
+Model Structure
+
+Logistic Regression Analysis (ORR)
+Cox proportional hazard model (OS)
+
+An Emax model appears to
+adequately describe ORR in
+
+Model Parameter
+Estimates
+
+follow-up
+
+Applicant Table 28 for RP2D ORR with at least 3
+months follow-up
+Applicant Table 29 for RP2D OS with at least 3 months
+
+Phase 1 patients (Applicant
+Figure 19) and in all
+MonumenTAL-1 patients with
+at least 12 weeks of data at
+
+Model Evaluation .
+
+An E-R trend was observed for ORR assessed by the
+
+clinical cutoff date (FDA
+Figure 17). The Emax model
+
+investigator based on IMWG 2011 criteria in SC
+participants in Phase 1 (Phase 1 ORR), where ORR
+increased with talquetamab exposure across SC
+doses ranging less than RP2D and approaching
+plateau at or above the RP2Ds. A similar trend was
+observed in Phase 1 PFS analysis, where the less
+than RP2D participants did not achieve as good PFS
+as those with >RP2D doses. No apparent E-R trend
+
+using Ctrough,ro1 provided a
+better fit to the observed
+
+Cog tuts
+
+Cox proportional hazard
+modeling appears to
+
+ORR compared to Caygrp1 Or
+
+was observed for Phase 1 DOR.
+
+© —RP2D E-R analyses indicated a near flat E-R trend
+for ORR assessed by IRC based on IMWG 2016
+criteria in participants who received RP2Ds and
+previously not dosed with CAR-T or bispecific
+antibodies (RP2D ORR) and with at least 3 months
+follow-up. In addition, DOR, PFS, and OS were not
+significantly correlated with talguetamab
+exposures at the RP2D doses, supporting that
+RP2D participants had sufficient exposure.
+
+Covariates and © The prognostic factors significantly associated
+
+with the RP2D ORR response were baseline
+
+Clinical Relevance
+
+adequately describe
+associations between OS and
+exposure and patient
+covariates. Better OS was
+associated with Cavgro1 above
+513 ng/mL (i.e., greater than
+the 25th percentile of Cavgrp1),
+lower ALP, lower LDH, ECOG
+score equal to 0 (versus 1 or
+2), and no high disease
+burden at baseline (FDA
+Table 37). However,
+
+Version date: June 2022 (ALL NDA/ BLA reviews)
+
+276
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5222858

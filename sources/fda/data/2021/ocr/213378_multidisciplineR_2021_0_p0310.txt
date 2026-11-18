@@ -1,0 +1,52 @@
+Cmax and AUC of SAM, respectively, following multiple oral doses of SAM 10 mg for
+14 days
+
+The Applicant also conducted PBPK simulations which employed the predicted fup values for
+mild, moderate and severe HI subjects (fup =0.71, 0.76 and 0.81, respectively). The simulated
+results showed that increased fup in HI subjects had a small (<10%) impact on the magnitude of
+changes in SAM PK (Table 14).
+
+Table 14 Predicted and observed Cmax and AUC for SAM PK in HI subjects following single-
+dose and at steady-state
+
+Health [Mild [ Moderate | Severe
+A single ®® dose of 1 mg samidorphan; observed data |
+Cmax AUC inf Cmax | AUC AUC | Cmax | AUC
+(ng/mL) | @g/mL.h) | R R Cmax R R R R
+Predicted
+(GM)# 3.02 25.91 1.08 1.29 1.23 1.94 1.34 2.58
+Observed (GM) _| 1.95 17.7 1.14 1.26 1.50 1.88 1.47 2.15
+P/O 0.94 1.02 0.82 1.03 0.92 1.20
+A single oral dose of 10 mg samidorphan, observed data from ALK3831-A105
+Predicted
+(GM)* 33.5 277 1.46 1.26 1.63 2.02 1.83 2.55
+Observed (GM) _| 29.6 278 1.66 1.56
+P/O 0.98 1.25
+Multiple oral doses of 10 mg samidorphan
+Predicted
+(GM)*
+(fup= 0.69) 35.2 261 1.47 1.26 1.79 2.02 2.10 2.55
+Predicted 35.2 261 1.47 1.23 1.79 1.90 2.10 2.32
+(GM)!
+(alternative fup)
+
+# Reviewer’s independent analysis. *Extracted from Tables 21, 23, and 24 (PBPK report #10):
+ISAM fup of 0.71, 0.76, and 0.81 for mild, moderate, and severe HI, respectively, were used in
+the simulations (see Table 9 summary) .
+
+Reviewer’s comment:
+
+e There is limited experience on using PBPK modeling to evaluate the effect of HI in
+regulatory submission. The Reviewer found PBPK analysis couple with default HI
+virtual population might overestimate the effect of HI on a drug’s PK??. One potential
+uncertainty is the impact of hepatic impairment on CYP expression and transporter
+activities’. In the current HI PBPK analysis, there was a good agreement between the
+
+2 https://www accessdata fda gov/drugsatfda_docs/nda/2018/211155Orig]Orig2s000MultidisciplineR pdf
+3 Hal 2019, “PBPK 360-The State of Science. Industry Perspective” — Presentation at 2019 FDA PBPK Public Workshop, (http://www fda gov/media/134096/downlcad)
+
+4,Jones et al., Clin Pharmacol Ther 2015 Mar;97(3):247-62
+
+56
+
+Reference ID: 4678460

@@ -1,0 +1,30 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 215833}
+{Tradename / lutetium (177Lu) vipivotide tetraxetan}
+
+Prediction corrected LIDV
+
+time
+The time corresponds to the time after start of infusion, in hours. LIDV corresponds to the
+concentration in KBq/mL. Solid lines display observed 10", 50°, 90" percentiles. Blue/Pink regions
+show 90% prediction interval around the percentiles. Blue dots are the concentrations above the LOQ|
+and red dots the simulated concentrations below the LOQ
+Source: Figures 7-11 and 7-13 in the PopPk report.
+
+Simulations: Individual patients’ data, including dosing information, WTBL and CrCIBL values,
+were used to predict longitudinal concentrations during the first cycle and to derive Cmax and
+AUCinf for the 30 sub-study patients. The results as in
+
+Figure 13 and Table showed a 42% and 20% increase in median of simulated AUCinf for
+moderate and mild renal impairment (based on CrCIBL) respectively vs. for normal renal
+function. There was no significant effect of renal function on Cmax and of WTBL on Cmax.
+
+However, the simulation results should be interpreted with caution since in the popPK dataset
+there is only one patient with modetrate renal impairment and body weight range is narrow.
+
+202
+Version date: January 2020 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 4957011

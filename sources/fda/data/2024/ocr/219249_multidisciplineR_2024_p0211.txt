@@ -1,0 +1,103 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 219249}
+
+{Inavolisib}
+
+Model Parameter Estimates.
+
+Phase Ill Study WO41554:
+
+No exposure-response relationships (both probability and time to onset)
+were observed for Grade 23 AE, Neutropenia Grade >2, Hyperglycemia
+Grade >2, Thrombocytopenia >2, inavolisib dose Modification due to AE,
+Diarrhea Grade >2, Stomatitis Grade >2; positive exposure-response
+relationship was observed for probability of Anemia Grade > 2 (see Tables
+31-48 in Report 1129439).
+
+Phase | Study GO39374;
+
+Positive exposure-response relationships (both probal
+onset) were observed for Grade 23 AE, hyperglycemia Grade >2, and
+inavolisib dose modification due to AE (see Tables 12-16 in Report
+1129439).
+
+and time to
+
+Model Evaluation
+
+Covariates and Clinical Relevance
+
+‘Same as exposure-efficacy analysis
+
+Various baseline covariates were identified for the safety endpoints, such
+as Hemoglobin for Grade >2 anemia (probability and time to onset),
+Neutrophil count for Grade >2 Neutropenia (probability and time to
+onset), and Platelet count for Grade >2 Thrombocytopenia (probability and
+time to onset). The identification of those covariates in the model were
+expected because as lab values they are highly relevant to the respective
+AE endpoints. Race was also identified as cov: te for Grade >2
+Hyperglycemia and Thrombocytopenia (probability and time to onset), and
+for Grade >2 anemia and Grade 23 AE (time to onset), with higher
+probability or early on-set of those AEs in Asian patients, however, the rate
+of inavo dose modification or dose reduction in Asian or Chinese patients
+are comparable to those in the global patients.
+
+Phase | Study GO39374:
+
+Patients with high risk factors for Hyperglycemia at Study Entry (i.e., BMI >
+30 or HbA1C > 5.7%) are at a higher probability of experiencing an AE
+Grade >3 or hyperglycemia Grade >2; this was expected given
+hyperglycemia is an on-target AE for inavolisib. Patients receiving
+inavolisib in combination with palbociclib and fulvestrant are also at a
+
+lity of experiencing an AE Grade 23; this was expected given
+the most common AE for palbo
+
+‘Simulation for Specific Population
+
+Not applicable
+
+Visualization of E-R relationships
+
+The relationship between inavolisib exposure metric and the AE endpoints
+(time to onset and probability) were graphically explored using Kaplan-
+Meier plots and logistic plots.
+
+Overall Clinical Relevance for ER
+
+‘Although positive relationship between inavolisib exposure and safety
+endpoints (Grade >3 AE, hyperglycemia Grade >2, and inavolisib dose
+modification) were revealed in Study G039374, no positive relationship
+was found for WO41554 (except Anemia Grade >2). This can be explained
+by a wider exposure range in study GO39374 compared to Study
+WO041554, broader HbA1c and fasting blood glucose eligibility criteria in
+Study GO39374 compared to Study WO41554, and better AE management
+in WO41554.
+
+Labeling Language
+
+Description
+
+Acceptal
+[FDA’s comments}
+
+12.2 Pharmacodynamics
+
+(b) (4)
+
+See Table 2 and 3 for Study G039374 and Table 17 and 18 for Study WO41554 in Report 1129439 for Summary of Baseline
+Characteristics and Laboratory Values in the exposure-efficacy Datasets.
+See Appendix 2, Section 10.1 in Report 1129439 for Covariate Distribution over Quartiles of AUCss, Cmaxss aNd Cminss for All
+Subjects Included in the exposure-efficacy analysis of inavolisib for Study WO41554.
+See Table 6, 8, 9, 10 for Study GO39374 and Table 21, 23, 25, 26-29 for Study WO41554 in Report 1129439 for Parameter
+Estimates from Final exposure-efficacy Models of Inavolisib.
+See Figure 4, 5, 6, 10 and Appendix 1, Section 9.6, 9.10, 9.11, 9.13 in Report 1129439 for exposure-efficacy Curves of Inavolisib
+vs AUCs, Cmaxss OF Cminss for Study GO39374.
+
+210
+
+Version date: June 2022 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5460147

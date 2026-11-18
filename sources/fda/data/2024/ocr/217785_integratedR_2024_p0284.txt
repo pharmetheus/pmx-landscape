@@ -1,0 +1,62 @@
+NDA 217785
+REZDIFFRA (resmetirom)
+
+13.2.1.2. In Vitro Pharmacology Study of Compounds 3196-M1
+and MGL-3196, Study 100004698
+
+MGL-3196 and 3196-M1 (MGL-3623) were evaluated in a THR radioligand assay. T3 was used
+as a reference compound. Rat liver tissue was the source of the THRs used in the binding
+determination. Equivalent mRNA concentrations for THR-a2 and THR-1, but negligible
+concentrations of THR-a1 have been measured in adult rat liver (Keijzer et al. 2007). Since
+THR-a2 lacks the ligand binding domain and does not bind to T3 (Paisdzior et al. 2022), THR-
+1 is assumed to be the receptor tested in this assay. The reported K; values were 4.310 M and
+1.3x107 M for MGL-3623 and MGL-3196, respectively. This demonstrates a 33-fold lower
+binding affinity for MGL-3623 compared to MGL-3196. The reported K; for the reference
+compound T3 was 6.810"!'M. The Ky value for radiolabeled T3 was 0.24 nM.
+
+13.2.2. Other Toxicology/Specialized Studies
+
+13.2.2.1. Neutral Red Uptake Phototoxicity Assay of MGL-3196
+in BALB/c 3T3 Mouse Fibroblasts, Study 3196-19-001
+
+The phototoxic effects of MGL-3196 was evaluated in BALB/c 3T3 mouse fibroblasts. Cells
+were treated with MGL-3196 at concentrations ranging from 1.78 to 100 j1g/mL, and viability
+was measured in the presence or absence of 5 J/em* of UV-A and 21 to 22 mJ/cm? of UV-B
+radiation. Promethazine was used as the positive control. MGL-3196 did not show phototoxic
+potential in this assay.
+
+13.2.3. Impurities/ Degradants
+
+13.2.3.1. ©: A Bacterial Reverse Mutation Test in
+Salmonella Typhimurium and Escherichia Coli,
+Study 3196-22-008
+
+Background Information
+
+The potential mutagenicity of the impurity (also known as OO was
+
+evaluated using both Derek 6.1.1 Nexus 2.4.0 (mutagenicity only) and LSMA Version 3.0.2-4
+
+(mutagenicity suite) (Q)SAR tools, as described in the study report JCH M7 Assessment of a
+(Study 3196-22-007). In the Derek model, mutagenicity of this impurity
+
+(b) (4)
+
+was predicated to be plausible due to the presence of an ©® The LMSA model
+provided a positive prediction for bacterial mutagenicity for ©® based on two
+structural features ( ©® functional groups) that provided the
+
+strongest positive contributions to the mutagenic potential of the compound. Thus, T
+
+was designated as Class 3 in accordance with (ICH M7(R2) 2023).
+
+The Applicant conducted the current study (Ames test) for
+mutagenicity prediction from the (Q)SAR methods.
+
+5 “ys
+© to confirm the positive
+
+261
+Integrated Review Template, version 4.0 (11/1/23)
+
+Reference ID: 5346512

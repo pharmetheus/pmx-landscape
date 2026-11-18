@@ -1,0 +1,108 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {BLA 761342}
+
+Talquetamab-tgvs
+
+General Information
+
+Goal of ER analysis
+
+To explore the E-R relationship for selected treatment-emergent adverse
+events (TEAEs)
+
+Study Included
+
+64407564MMY1001 (clinical cutoff date of 16 May 2022)
+
+Population Included
+
+Adult participants with relapsed or refractory multiple myeloma
+
+Endpoint
+
+Grade >3 neurotoxicity, tumor lysis syndrome, infections, cytopenia
+(thrombocytopenia, anemia, neutropenia, leukopenia and lymphopenia),
+hypogammaglobulinemia, and skin toxicity (Rash); or Grade 22 oral toxicity
+(ageusia or dysgeusia), nail loss, and weight loss; any grade cytokine release
+syndrome (CRS), Grade 22 CRS and TEAE leading to dose modifications
+(including cycle delay, dose interruption, dose reduction, and drug
+discontinuation).
+
+No. of Patients (total, and
+with individual PK)
+
+© General SC safety population: total 365 participants, among which
+353 participants with individual PK
+
+© — Participants with prior CAR-T or bispecific antibodies: total 51
+participants among which 50 participants with individual PK
+
+Based on general SC safety population (N=365)
+
+Age ( median 66 yr, range 38-86 yr, 47.1% <65 yr, 37.3% 265 yr - <75 yr, 15.6%
+275 yr)
+
+Weight (median 73.6 kg, range 40.2-143 kg)
+
+210 (57.5%) male; 155 (42.5%) female
+
+318 (87.1%) white, 28 (7.7%) Black or African American, 19 (5.2%) Asian and
+Other
+
+Hepatic (Naitional Cancer Institute Organ Dysfunction Working Group
+criteria): 304 (83.3%) normal, 57 (15.6%) mild impairment, 2 (0.5%) moderate
+impairment, 2 (0.5%) not reported
+
+Renal (eGFR by Modification of Diet in Renal Disease method): 82 (22.5%) 290
+mL/min/1.73 m? (normal)
+
+177 (48.5%) >60-<90 mL/min/1.73 m?(mild impairment)
+
+106 (29.0%) >30-<60 mL/min/1.73 m?(moderate impairment)
+
+Not applicable
+
+Population General
+
+Characteristics
+
+(Applicant
+
+Table 30)
+Organ
+impairment
+Pediatrics
+(if any)
+Geriatrics
+(if any)
+
+‘Age ( median 66 yr, range 38-86 yr, 47.1% <65 yr, 37.3% 265 yr - <75 yr, 15.6%
+>75 yr)
+
+Dose(s) Included
+
+Exposure Metrics Explored
+(range)
+
+Safety E-R analysis PK metrics:
+
+* Predicted maximal concentration over the 1*, 2"4 and 3% step-up dose for
+CRS safety endpoints
+
+* Predicted maximum concentration during the first full dose and first
+4 weeks of full doses treatment (Cmax, 1stdose, Cmax, weeks)
+
+Covariates Evaluated
+
+Key covariates evaluated graphically as exploratory analysis for safety
+endpoints included the following: exposure parameters, key covariates
+identified from population pharmacokinetics models, sex, age, baseline renal
+function, baseline hepatic function, geographic region, race, and baseline
+percent plasma cells. For CRS safety endpoints, the concomitant use of
+tocilizumab and its impact on CRS was also explored.
+
+Version date: June 2022 (ALL NDA/ BLA reviews) 302
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5222858

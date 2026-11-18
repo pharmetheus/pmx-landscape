@@ -1,0 +1,97 @@
+BLA 761367
+
+Andembry / garadacimab
+
+Figure 54. Applicant Impact of Significant PK Covariates on Exposure
+
+Healthy or Patient with HAE
+Patients with HAE
+Japanese or Non-Japanese
+Japanese
+
+Chinese or Non-Chinese
+Chinese
+
+Weight (kg)
+
+BLWT_ 105
+BLWT_95
+BLWT_85
+BLWT_75
+BLWT__65
+BLWT_55
+Serum Creatinine (mg/dL)
+
+BLCREAT_0.6
+BLCREAT__1
+
+Bilirubin (umol/L)
+
+BLBILI_13
+BLBILI__4
+
+Alanine Aminotransferase (U/L)
+
+BLALT_40
+BLALT_10
+
+AUCtau,ss (ug*hour/mL)
+
+02 06 10 14 18
+Fraction and 95% Cl
+Relative to Reference
+
+Source: Applicant's Population PK Report, Figure S82.
+
+Median [95% Cl]
+
+Healthy or Patient with HAE
+0.944 [0.857, 1.04]
+
+vapanese or Non-Japanese
+0.790 [0.697, 0.892]
+Chinese or Non-Chinese
+0.976 [0.824, 1.17]
+
+Weight (kg)
+
+0.624 (0.578, 0.681]
+
+0.701 (0.662, 0.749)
+
+0.798 [0.769, 0.832]
+
+0.923 [0.911, 0.937]
+
+1.09 [1.07, 1.11]
+1.32 [1.26, 1.39]
+
+Serum Creatinine (mg/dl)
+
+0,999 [0.951, 1.03]
+1.01 (0.961, 1.07]
+
+Bilirubin (umol/L)
+
+1.07 [1.04, 1.10]
+0.911 (0.868, 0.951)
+Alanine Aminotransforaso (U/L)
+
+1.04 (1.00, 1.07]
+0.930 [0.871, 1.00]
+
+The covariates in the model were visualized by varying single covariates individually while keeping all other conditions constant
+(ceteris paribus). Results are presented relative to a reference subject, i.e., a non-Japanese, non-Chinese, healthy volunteer with
+baseline weight of 70 kg, baseline SCR of 0.75 mg/dL, baseline ALT of 25 U/L and baseline BILI of 8umol/L. The colored diamonds
+represent the median and the solid horizontal lines represent the 95% confidence interval. The grey shaded reference range of 80-
+125% was analogous to the region of practical equivalence (ROPE). For continuous covariates, the upper and lower values used in
+the simulations were determined based on the 10th and 90th percentiles in the observed dataset.
+
+Abbreviations: AUC, area under the concentration-time curve; BLWT, baseline weight (kg), BLCREAT, baseline serum creatinine
+(mg/dL), BLBILI, baseline bilirubin (umol/L), BLALT, baseline alanine aminotransferase (U/L), HAE, hereditary angioedema, Cl,
+confidence interval; PK, pharmacokinetics
+
+205
+Integrated Review Template, version 3.0 (05/25/2022)
+
+Reference ID: 5458438

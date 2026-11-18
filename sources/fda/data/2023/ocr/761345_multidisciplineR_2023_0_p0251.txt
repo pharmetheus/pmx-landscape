@@ -1,0 +1,57 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {BLA 761345}
+
+elranatamab
+
+Dose(s) Included
+
+IV: 0.1, 0.3, 1, 3, 10, 30, and 50 yg/kg, SC: 80, 130, 215,
+360, 600, and 1000 pg/kg, 4, 12, 20, 32, 44, and 76 mg
+
+Elranatamab Concentrations
+(ng/ml)
+
+e Total elranatamab analysis median (range):
+© 6270.0 (0.0-117000.0)
+e Free elranatamab analysis
+© 1960.0 (0.0-101000.0)
+Table 77 and Table 78— Summary Statistics of Total and
+Free Elranatamab Concentrations and ECG
+Measurements for Baseline and During Treatment,
+respectively.
+
+Covariates Evaluated
+
+Age, sex, race
+
+Final Model Parameters Summary Acceptability
+[FDA’s comments]
+Model Structure Linear Regression Analysis Acceptable
+
+Model Parameter Estimates
+
+Model Parameter Estimates for RR | Acceptable
+Versus Total Elranatamab
+Concentration Relationship
+(Table 79)
+
+Model Parameter Estimates for RR
+Versus Free Elranatamab
+Concentration Relationship
+
+(Table 80)
+
+Total Elranatamab Final Base Model
+Parameter Estimates and Bootstrap
+for QTcF (Table 81)
+
+Free Elranatamab Final Base Model
+Parameter Estimates and Bootstrap
+for QTcF (Table 82)
+
+252
+
+Version date: January 2020 (ALL NDA/ BLA reviews)
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5226136

@@ -1,0 +1,74 @@
+Multi-disciplinary Review and Evaluation
+NDA 218784
+VORANIGO (vorasidenib)
+
+Uncertainty and Variability (RSE, | Table 62
+IIV, Shrinkage, Bootstrap)
+
+BLQ for Parameter Accuracy BLQ concentrations of vorasidenib during active Yes
+treatment were excluded. Since the number of
+BLQ samples was <10%, no other methods were
+considered to account for BLQ observations.
+
+GOF, VPC GOF: Figure15 and Figure16 Yes
+VPC: Figure17 and Figure18
+
+Significant Covariates and Clinical |} ¢ — Formulation effect on relative bioavailability: Yes.
+
+Relevance 0.666 vs. 1 for Formulation F1 and The sex effect was not
+
+Formulation F2, respectively. considered clinically
+
+© — Dose effect on relative bioavailability of meaningful given the
+Formulation F1: the higher the dose, the lack of significantly
+lower the relative bioavailability. positive E-R
+
+© Ethnicity on CL/F: Hispanic or Latino subjects | relationship for
+were found to have a 28.8% lower CL/F efficacy and safety.
+compared to others (ie, Not Hispanic nor
+Latino, or missing). Simulations showed a The time-varying
+GMR of 1.21, 1.25 and 1.05 in Hispanic or covariate tablet
+Latino subjects compared to others, for AUC,, | strength populated
+Ctrough and Cmax, respectively. for Study AG881-C-
+
+© Sex on V2/F and CL/F: Female subjects were 004 (84% patients
+found to have a 33.1% lower V2/F and a received 1x40 mg F2,
+33.7% lower CL/F than Male subjects. 88% patients received
+
+Simulations showed a GMR of 1.60, 1.69 and 4x10 mg F2) was not
+1.57 in females compared to males, for AUC;s, | identified as a
+
+Crrough ANd Cmax, respectively. significant covariate.
+Analysis Based on Simulation Figure19 Yes
+(optional) Adolescent
+
+extrapolation (refer to
+19.4.1.3 and 19.4.1.4)
+supported the
+proposed dosages in
+adolescent patients.
+
+Labeling Language Description Acceptability
+[FDA’s comments]
+12.3 PK Specific Populations Yes.
+No clinically significant effects on the PK of The time to steady
+vorasidenib were observed based on age (16 to 75 | state was updated to
+years), sex, race (White, Black or African within 28 days
+
+American, Asian, American Indian/Alaskan Native, | according to further
+Native Hawaiian or Other Pacific Islander, Other), PK accumulation from
+ethnicity (Hispanic and non-Hispanic), body weight | C1D15 to C2D1 of
+
+(43.5 to 168 kg), mild or moderate hepatic Study AG881-C-002
+impairment (Child-Pugh A or B), or mild or and population PK
+moderate renal impairment (CL[{cr] >40 mL/min). analysis.
+The FDA’s Assessment:
+The population PK analysis is considered adequate and applicable to be adapted for adolescent
+287
+
+Version date: December 2023(ALL NDA/BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5425021

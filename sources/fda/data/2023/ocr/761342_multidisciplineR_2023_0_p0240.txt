@@ -1,0 +1,111 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {BLA 761342}
+
+Talquetamab-tgvs
+
+Final Model
+
+‘Summary
+
+Acceptability
+[FDA’s comments]
+
+Model
+Parameter
+Estimates
+
+Applicant Table 25
+
+Uncertainty
+and
+Variability
+(RSE, IIV,
+Shrinkage,
+Bootstrap)
+
+Applicant Table 25
+
+All model parameters were estimated reasonably
+well with relative standard errors no greater
+than 30% for all the structural PK, covariate
+effect, and IIV parameter estimates.
+
+Parameter uncertainty was evaluated using
+nonparametric method sampling importance
+resampling (SIR). All model parameter estimates
+were close to the median of SIR results and fell
+within the 95% confidence interval of SIR results.
+IIV on key structural PK parameters were
+moderate to high (Clo 51.7%, CLect 59.7%).
+
+The ETA shrinkages of key structural PK
+parameters were low to moderate (CLo 20%,
+CLocr 23.3%); thus, estimates of individual PK
+parameters were considered to be reasonable.
+
+BLQ for
+Parameter
+Accuracy
+
+Since 1.7% postdose PK records were BLQ,
+exclusion of the postdose BLQ PK observations
+should not result in appreciable bias in the
+parameter estimates of the model because of
+the very few samples with BLQ values (Beal
+2001, Ahn 2008). Sensitivity analysis using the
+likelihood based (M3) method was not deemed
+necessary and was not performed, as specified in
+the Analysis Plan.
+
+GOF, VPC
+
+Applicant Figure 11 for GOF
+Applicant Figure 12 for VPC
+Applicant Figure 13 for VPC stratified by Cohort
+
+The Applicant’s model is generally
+acceptable for the purpose of
+characterizing talquetamab PK following
+SC administration in patients with
+RRMM.
+
+Significant
+Covariates
+and Clinical
+Relevance
+
+Final PK model includes body weight, ISS staging,
+multiple myeloma subtype on total clearance at
+time zero (Clo) and body weight on central
+volume (V1).
+
+By weight-based dosing, talquetamab exposure
+cross weight quartiles were similar (i.e. <20%
+difference). Talquetamab exposure was
+approximately 100% higher in participants with
+non-IgG subtype of myeloma vs IgG subtype of
+myeloma and approximately 30% lower in
+patients at ISS stage Il or Ill vs ISS stage I.
+Applicant Figure 14, Applicant Figure 15,
+Applicant Figure 16 show the forest plot of
+Cavgaweeks, Ctrough,1stdose ANd Cmax aweeks at SC 0.4
+mg/kg weekly RP2D; trends at SC 0.8 mg/kg Q2W
+RP2D were similar. Talquetmab exposure was
+similar across different subgroups except that
+
+Following the proposed weight-based
+dosing (i.e., mg/kg), no clinically relevant
+differences in exposure according to
+patient characteristics were identified.
+
+The FDA’s assessment of the E-R analysis
+of efficacy endpoints is in Section
+19.4.2.2.
+
+Version date: June 2022 (ALL NDA/ BLA reviews)
+
+239
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5222858

@@ -1,0 +1,53 @@
+Clinical/Statistical Review
+NDA 213378
+Lybalvi (Olanzapine/Samidorphan, ALKS 3831)
+
+Parameter ALKS 3831
+90% of Treatment Difference Between ALKS 3831 and Olanzapine (%) -2.14 -
+LS Mean Difference (SE) vs. Olanzapine - -1.41 (0.764)
+P-value - 0.066
+100% of Treatment Difference Between ALKS 3831 and Olanzapine (%) -2.38 -
+LS Mean Difference (SE) vs. Olanzapine - -1.31 (0.765)
+P-value - 0.087
+
+Abbreviations: Cl=confidence interval; LS=least squares; SE=standard error.
+
+Notes: Estimates and p-values were unadjusted for the sample size increase. The delta adjusted pattern
+mixture model is implemented using multiple imputation with 500 imputations to incorporate the
+assumption of missing-not-at-random. Olanzapine subjects who discontinue would have, on average, their
+unobserved percent weight gain decreased by the shift parameter compared with the observed weight gain
+of olanzapine subjects who continue. ALKS 3831 subjects who discontinue would have the same weight gain
+trajectory as the ALKS 3831 subjects that stay on the study. The ANCOVA model is used to analyze the
+change from baseline at Week 24. Rubin's rule is used to combine the treatment effect estimates and
+standard errors across imputations. The shift parameters account for up to 100% of the observed treatment
+difference between olanzapine and ALKS 3831 from the primary analysis of the percent change from
+baseline in body weight at Week 24 in the FAS Population.
+
+Source: extracted from Tables 11 and 13 of Applicant’s CSR, confirmed by FDA statistical reviewer
+
+The Applicant performed a second prespecified sensitivity analysis by repeating the primary
+analysis but including both on- and off-treatment weight assessments after premature
+discontinuation of study drug. Forty of the 186 early discontinuing subjects had off-
+treatment weight assessments at Week 24 (18 and 22 subjects for the ALKS 3831 and
+olanzapine groups, respectively). Sixty-eight early discontinuing subjects returned for off-
+treatment interval weight assessments but not for the Week 24 assessment. Figure 20
+displays the mean weight gain trajectories for the completers’ cohort and noncompleters’
+cohorts, composed of those who discontinued at the same visit. Whereas the top panel
+summarizes on-treatment weights only, the bottom panel incorporates these discontinued
+subjects with off-treatment weights. The curves of the weight assessments for subjects
+randomized to olanzapine are generally higher than those randomized to ALKS 3831,
+regardless of whether they are on- or off-treatment assessments. Weight gain in both
+treatment groups was slightly attenuated in this analysis compared with the primary
+analysis. The difference between the treatment groups (ALKS 3831 — olanzapine) was
+similar to the primary analysis (Table 30). The response trajectories including off-treatment
+assessments did not differ much from the trajectories without off-treatment assessments—
+possibly because only 40 of the 168 discontinuing subjects were added in as “completers”
+and there were still many missing data in describing the response trajectories. The slightly
+attenuated percent weight gain observed in the olanzapine response trajectories that
+incorporated off-treatment assessments also suggests that the resulting estimated
+treatment difference of -1.51% (95% Cl: -3.00, -0.01) in the first sensitivity analysis (via a
+
+104
+
+Reference ID: 4701252
+

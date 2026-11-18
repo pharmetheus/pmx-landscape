@@ -1,0 +1,92 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {Biologics License Application (BLA) 761310}
+
+{Mirvetuximab soravtansine}
+
+Covariates Evaluated
+
+* Continuous Covariates: Age, AIBW, albumin, creatinine
+clearance (CLcr), baseline tumor burden, and soluble
+
+folate receptor a (sFR-a)
+
+* Categorical Covariates: Race (white vs. non-white, as the
+
+majority was white)
+
+Final Model Parameters
+
+Summary
+
+Acceptability
+[FDA’s
+comments]
+
+Model Structure
+
+Primary endpoints: ORR by logistic
+regression model
+
+Other endpoints: DOR and PFS by Cox
+regression model
+
+Acceptable
+
+Model Parameter Estimates
+
+Table 47
+
+Acceptable
+
+Model Evaluation
+
+Figure 14, Figure 15, Figure 16, and
+
+Figure 17
+
+Acceptable
+
+Covariates and Clinical
+Relevance
+
+ORR: none for 417 and albumin (ALB)
+and soluble folate receptor o: (sFR-o:)
+for pooled 401 and 403
+
+DOR: no correlation and not
+performed.
+
+PFS: Alkaline phosphatase (ALP) given
+Ctrough for 417 and ALB, sFR-o:, tumor
+size and age for pooled 401 and 403
+
+Acceptable
+
+Simulation for Specific
+Population
+
+The ORR model based on
+mirvetuximab soravtansine AUCO-d21,
+and the ocular toxicity model based on
+mirvetuximab soravtansine AUCO-d21
+were used to predict the ORR response
+rate and ocular AE incidence rate over
+a wide range of exposures. Aligned
+with the overlaid efficacy and safety ER
+curves were the AUCO-d21 ranges of
+mirvetuximab soravtansine for doses
+from 3.3 mg/kg to 7 mg/kg TBW,
+including 6 mg/kg AIBW, that were
+administered in the three clinical
+studies. In addition, simulated AUCO-
+d21 range following 6 mg/kg AIBW and
+6 mg/kg TBW dosing (n=I000 subjects)
+is illustrated.
+
+Acceptable
+
+Version date: October 12, 2018
+
+Reference ID: 5076613
+
+180
+

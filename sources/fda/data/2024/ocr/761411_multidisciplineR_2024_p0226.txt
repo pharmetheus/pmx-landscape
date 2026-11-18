@@ -1,0 +1,79 @@
+BLA Multidisciplinary Review and Evaluation
+BLA 761411
+Niktimvo (axatilimab-csfr)
+
+55 (16.9%); Severe-3 (0.9%), Unknown-1 (0.3%)
+
+Pediatrics Eight participants aged 17 and under
+No. of Patients, PK Samples, 325 participants; 5048 PK, 1659 CSF-1, 1683 NCMC, 4966 AST, and 4571
+and BLQ. CPK observation records; 1797 BLQ
+Sampling Rich Sampling | Single dose: predose, 5, 15, and 30 minutes, 1, 1.5, 2, 4, 8, 24, 36, 48, 72,
+Schedule (Study SNDX- | 168, and 336 hours after the start of the infusion on Day 1 and anytime on
+6352-0001 Days 22, 29, 57, and 85.
+In cGVHD For Q2W:
+Population C1D1: predose, 30 min, 1, 8, and 168 hrs after start of infusion
+
+C1D15: predose, 30 min, 1 and 8 hrs after start of infusion
+D1 of every cycle > 2: predose
+
+For Q4W:
+C1D1: predose, 30 min, 1, 8, 168, 336, and 504 hrs after start of infusion
+D1 of every cycle > 2: predose
+
+Covariates Static Sex, race, age, body weight, cGVHD severity, participant population, renal
+
+Evaluated impairment, hepatic impairment, CNIs administration, corticosteroids
+administration, albumin, ALP, ALT, AST, bilirubin, CPK, LDH, lipase, and
+monocytes
+
+Time-varying | ADA status, administration of concomitant medications with CNIs and
+corticosteroids
+
+Final Model Summary Acceptability
+[FDA’s comments]
+
+Software and Version | Monolix software version 2020R1; Lixoft, France | The Applicant’s popPK/PD model
+R software version 4.2.1; R Project, www.r- adequately characterized PK in
+project.org patients with cGVHD ages 6 years
+
+Model Structure The final model consists of 2 PK compartments | and older. FDA Figure 13 shows
+with nonspecific linear clearance and a time- goodness-of-fit plots for
+dependent effect of ADA, as well as nonlinear axatilimab PK on a linear scale.
+elimination via binding with target CSF-1R. In
+addition to the PK component, the model Higher body weight was
+consists of 4 PD biomarkers: CSF-1, NCMC, CPK, | associated with higher axatilimab
+and AST. exposure following 0.3 mg/kg IV
+
+Model Parameter Table 107 Q2W. No PK or exposure
+
+Estimates associations were identified
+
+Uncertainty and Table 107 across age or age subgroup after
+
+Variability (RSE, IIV, accounting for the impact of body
+
+Shrinkage, Bootstrap) weight on PK and exposure.
+
+BLQ for Parameter The drug and biomarker concentrations
+
+Accuracy reported as being below the LLOQ are
+represented by the values of LLOQ and flagged.
+
+M4 likelihood imputation method was used to
+account for these values during model
+calibration.
+
+GOF, VPC Figure 8 and Figure 9
+
+Significant Covariates | Figure 10
+
+and Clinical
+
+Relevance
+
+225
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA. The FDA's position is highlighted in gray.
+
+Reference ID: 5429649

@@ -1,0 +1,44 @@
+BLA 761184
+Ngenla (somatrogon)
+
+The base structural model for the Allometric model was the same as the PHASE-2 PopPK-
+MODEL, which was a 2-compartment PK model with delayed first order absorption kinetics and
+PK parameters allometrically scaled by body weight as shown in equation (1.2). All parameters
+of the base model were fixed to values estimated in the PHASE-2 PopPK-MODEL. Inter-subject
+variability parameter for KA was fixed to a PHASE-2 PopPK-MODEL value but was re-
+estimated for CL and V parameters.
+
+BodyWeight\®
+Py = Poy x (Eoeeetgtt)” on
+15
+(1.2)
+Where:
+6 = Weight ef fect on clearance and volume parameters
+
+14.3.1.3.3. Covariate Analysis
+
+In both model developments, graphical exploration of parameter-covariates relationships was
+used to guide selection of relations to be statistically tested during covariate model development.
+Goodness-of-fit (GOF) plots were also used to guide structural model modification and covariate
+selections. GOF plots included ratios of observed-to-population predicted values versus time and
+observed versus population predicted values were examined. Covariates that were included in
+graphical assessments included age, sex, height, BMI, body surface area, alkaline phosphatase,
+alanine aminotransferase, aspartate aminotransferase, creatinine clearance, serum creatinine and
+antidrug antibody (ADA) status for Allometric model.
+
+For Weight-normalized model a factor indicating decrease in clearance after day 125 was
+included in the model while for Allometric model a factor indicating proportional decrease in
+clearance for subjects who ADA positive was included. In addition, a factor indicating higher
+clearance in the phase 3 study compared to clearance estimated in the phase 2 PopPK-model was
+estimated.
+
+No additional covariates were identified for both models.
+14.3.1.3.4. Final Model
+
+For both the Allometric and the Weight-Normalized PopPK models, the covariate models were
+the final models. The parameter estimates of the final Allometric and Weight-Normalized PopPK
+model are listed in Table 75 and Table 76. respectively.
+
+134
+
+Reference ID: 4924352

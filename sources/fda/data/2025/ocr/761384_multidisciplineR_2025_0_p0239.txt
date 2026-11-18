@@ -1,0 +1,53 @@
+NDA/BLA Multi-disciplinary Review and Evaluation — BLA 761384
+Telisotuzumab Vedotin
+
+FDA Table 12: Input parameters for the PBPK model of telisotuzumab vedotin
+
+Final Parameter
+Value used in
+Parameter PBPK Model Source/Details
+
+ABT-700 (Naked Antibody)
+
+Physicochemical Properties
+
+Lange molecule type Therapeutic
+protein/ Antibody
+(no deconjugation)
+
+Molecular weight (g/mol) 148,692 Telisotuzumab vedotin Investigator's Brochure”
+Isoelectric point YF internal data
+Blood to plasma ratio 0.55 Li 2014*
+fa plese I Li 20148
+Distribution (Minimal PBPK Model)
+
+FeRN binding affinity (uM) 39 Based on in vitro study!
+Uptake rate in the endosomal 0.0218 Calibrated to capture PK data
+space, endocytosis rate (1/h)
+Recycling rate (1/h) 3.3 Simeyp default for wild-type IgG
+Recyeling fraction of FERN 05 Simeyp default for wild-type IgG
+bound drug
+
+Elimination
+Catabolic clearance (L/h) 0.0175 Li 2014%
+
+Telisotuzumab Vedotin (ABBV-399)
+
+Physicochemical Properties
+
+Large molecule type Therapeutic
+protein/Antibody
+with deconjugation
+
+Molecular weight (g/mol) 148,692 Telisotuzumab vedotin Investigator's Brochure”?
+may
+
+Isoelectric point Internal data
+
+238
+Version date: March 1, 2024 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as "Data" and "The Applicant's Position" are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5590242

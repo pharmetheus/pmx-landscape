@@ -1,0 +1,65 @@
+Bioanalytical method validation report name and
+amendments
+
+© Study No 8388242: Validation of a Method for the
+Determination of AZD9833 in Human Plasma by HPLC with
+MS/MS Detection
+
+Method description
+
+‘A method (AZ33HPP) was validated for measuring
+camizestrant in human plasma (K2-EDTA). Samples were
+analyzed using a 25 lL aliquot volume and processed by
+protein precipitation followed by LC/MS/MS.
+
+Materials used for calibration curve and
+concentration
+
+Human plasma (K2-EDTA) Calibration standard
+concentrations:
+
+Camizestrant: 0.500, 1.00, 4.00, 15.0, 50.0, 200, 425, and 500
+ng/mL
+
+Validated assay range 0.500 to 500 ngimL
+Material used for QCs and concentration Human plasma (K2-EDTA)
+QC levels:
+
+Camizestrant: 0.500, 1.50, 20.0, 200, 400, and 4000 ng/mL
+
+Minimum required dilutions NA
+Source and lot of reagents NA
+Regression model and weighting Linear 1/x?
+Validation Parameters Method Validation Summary Acceptability
+Standard calibration Number of standard 8 Yes
+curve performance calibrators from LLOQ
+during accuracy and to ULOQ
+precision Cumulative accuracy -2.2 to22 Yes
+(%bias) from LLOQ to
+ULOQ camizestrant
+Cumulative precision 1.7to78 Yes
+(%CV) from LLOQ to
+ULOQ camizestrant
+QCs performance Cumulative accuracy -6.0 to 0.0 Yes
+during accuracy and (%obias) in 18 QCs for
+precision camizestrant
+Inter-batch %CV QCs 2.0to72 Yes
+for camizestrant
+Selectivity and matrix effect Camizestrant Matrix Effect at LLOQ (n= 6) Yes
+%Bias -0.6, %RSD 2.2
+
+340
+
+Version date: March 1, 2024 (All NDA/BLA reviews)
+
+In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the Applicant,
+which do not necessarily reflect the positions of the FDA.
+
+The FDA review was conducted in conjunction with other regulatory authorities under Project ORBIS. The FDA
+collaborated with Australia’s Therapeutic Goods Administration (TGA), Brazilian Health Regulatory Agency
+(ANVISA), Health Canada (HC), Singapore’s Health Sciences Authority (HSA), and Switzerland’s Swissmedic
+(SMC). While the conclusions and recommendations expressed herein reflect the FDA’s completed review of the
+application, the applications may still be under review at the other regulatory agencies.
+
+Reference ID: 5864804
+

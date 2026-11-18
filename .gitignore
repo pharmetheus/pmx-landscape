@@ -1,0 +1,54 @@
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# Python
+__pycache__/
+
+# FDA review PDFs and TOC pages: re-downloaded by 02_retrieve.py (3.2 GB)
+**/data/*/pdf/
+**/data/*/toc/
+
+# PAGE abstract HTML is PAGE's content and is not published
+page_cache/
+
+# styler check output (pmxlandscape Makefile)
+styler.diff
+
+# PAGE pilot output: includes author names and affiliations
+sources/page/pilot/
+
+# testthat failure snapshots
+_problems/
+
+# PAGE review snippets: PAGE text, not committed
+sources/page/review/
+testthat-problems.rds
+
+# Literature caches and review samples: record text, not committed
+sources/literature/cache/
+sources/literature/refinement/cache/
+sources/literature/refinement/corpus/cache/
+sources/literature/review/
+
+# FDA literature cross-check caches: API responses and full text, not committed
+sources/fda/crosscheck/cache/
+
+# Analysis types: fetched records and reading samples, not committed
+analysis/analysis_types/cache/
+analysis/analysis_types/review/
+analysis/model_size/review/
+
+# FDA other-review PDFs, text and TOC pages for the not-stated drugs (other_reviews/fetch.R)
+sources/fda/other_reviews/cache/
+# AI and ML analysis caches: PubMed records, Europe PMC full text, parsed PAGE text, review snippets
+analysis/ai_ml/cache/
+# Software discovery caches: parsed source text, matches, registry pages, reading queue
+taxonomy/discovery/cache/
+# Corpus text (the committed tables describe it; FDA text is committed under sources/fda)
+corpus/cache/
+# FDA retrieval in R: pages, openFDA answers, TOCs and review PDFs (re-fetched by retrieve.R)
+sources/fda/cache/
+# Classification runs: rendered requests and raw responses hold source text
+classifications/*/cache/

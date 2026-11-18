@@ -1,0 +1,58 @@
+Bioanalytical method Report 202160PVDIS_EI
+validation report name,
+amendments, and hyperlinks
+‘Method description Partial Method Validation for the Quantitation of Tirzepatide (LY3298176) (Supplied
+as a 1:1 Mixture of !4Cs-LY3298176/!2C-LY3298176) in Human Plasma by
+LC/HRMS
+Matecils send fateniacd 14C4-LY3298176/12C-LY3298176 (supplied as a 1:1 mixture in control plasma)
+ration curve g
+Scmnaioaiiens Internal standard (IS): LSN3479389 lot ALE-BE06321-058 Dry powder
+‘Validated assay range 3.12 to 390 ng/mL
+‘Material used for quality 14C4-LY32981762C-LY3298176 (supplied as a 1:1 muxture in control plasma)
+=—— oo and Intemal standard (1S): LSN3479389 lot ALE-BE06321-058 Dry powder
+ios required dilutions | Not applicable
+Source and lot of reagents ‘Not applicable
+(LBA)
+‘Regression model and Weighted 1/x? quadratic regression
+weighting
+Validation parameters Method validation summary Source location
+Standard calibration Number of standard calibrators from LLOQ | 8 202160PVDJS_EI
+curve performance during | to ULOQ Section 5.3.1.4
+accuracy and precision Cumulative accuracy (bias) from LLOQ to | -8.2 to 202160PVDJS_EI
+runs ULOQ 5.9% Section 5.3.1.4
+Tirzepatide
+Cumulative precision (%CV) from LLOQ to | <5.7% 202160PVDJS_EII
+ULOQ Section 53.1.4
+Tirzepatide
+Performance of QCs Cumulative accuracy (*ebias) in 4 QCs 29 to 202160PVDJS_EIL
+during accuracy and QCs: 8.2% Section 5.3.1.4
+precision runs Tirzepatide
+Inter-batch %CV DM 202160PVDJS_EI
+QCs: Section 53.1.4
+Tirzepatide
+Total Error (TE) Not
+QCs: applicable
+Selectivity & matrix effect | Number of total lots tested. Range of observed bias. Six lots of blank plasma
+State any issue were tested.
+was =20.0% of LLOQ.
+Tnterference & specificity ‘Number of total lots tested Range of observed bias. Six lots of blank plasma
+State any issue
+‘Hemolysis effect ‘Number of total lots tested. Range of observed bias. One lot of 2% hemolyte
+State any issue plasma was tested.
+Response was 0.0% of
+LLOQ
+‘Lipemic effect ‘Number of total lots tested. Range of observed bias. ‘One lot of lipemic plasma
+State any issue was tested. was
+15.3% of LLOQ.
+ee hook 10-fold dilution validated. Hook effect not applicable.
+Bench-top'process stability | Plasma: 24 hours at room temperature
+Extracted plasma: 177 hours at room temperature
+Freeze-Thaw stability* 5 freeze/thaw cycles at -20 and -70°C
+Long-term storage* 378 days at -20 and 522 days at -70°C
+Parallelisin Not applicable
+Carry over There was no significant carryover.
+
+Reference ID: 4954959
+
+42
+

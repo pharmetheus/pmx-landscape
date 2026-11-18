@@ -1,0 +1,77 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 218213}
+Repotrectinib (BMS-986472)
+
+AUCing
+(ng-h/mt) 9665 9946 97.2 91.1, 103.6
+Cmax (ng/mL) 453.6 483.3 93.9 78.4, 112.3
+
+Source: Module 2.7.1 Section 2.1.1
+
+Food Effect
+(Fed/Fasted)
+
+In the TRIDENT-1 study, effects of a high-fat meal were evaluated in a pilot sub-study (Phase
+1b). A modest but not clinically significant food effect (AUCin¢ and Cmax under fed conditions
+were 123% and 115% of modified fasted conditions, respectively) was observed where
+modified fasted conditions were defined as no food and beverage 1 hour before and 2 hours
+after dosing.
+
+Fasted Fed
+Parameter (Reference) (Test) GMR 90% Cl
+. N/n . . Test/Refer
+(Unit) Geometric Geometric ence (%) (%)
+LSM LsM
+
+AUC),3:/Dose 28/24 66.41 84.26 127.4 (114.4, 141.9)
+(ng:h/mL/mg)
+AUCine /Dose 28/21 74.12 91.13 123.0 (110.0, 137.4)
+(ng-h/mL/mg)
+Cmax /Dose 28/24 4.869 5.603 115.1 (96.9, 136.7)
+(ng/ml/mg)
+
+Source: Module 2.7.1 Section 2.3.1
+
+In a dedicated food effect study in healthy subjects (TPX-0005-11), food effects were
+demonstrated where an overnight fast of at least 10 hours was implemented. AUCing and Cmax
+of repotrectinib with high fat meal was 156% and 249% of fasted conditions.
+
+Fasted -
+Reference Fed-Test | cuir Test/
+Parameter (ueig (N=14) Reference 90% CI | Intrasubject
+(Unit) ‘ Geometric (%) cv (%)
+Geometric ism (%)
+LsM
+AUCiast 9970.5 16189 162.36 141.28, 20.87
+(ng-h/mL) 186.59
+AUCine 10707 16721 156.17 136.76, 19.90
+(ng-h/mL) 178.34
+Cmax (ng/ml) 498.2 1240 248.93 209.83, 25.78
+295.32
+
+Source: Module 2.7.1 Section 2.3.2
+
+The difference in food effect on Cmax was likely due to the modified fasted conditions used in
+cancer patients on the TRIDENT-1 study versus the overnight fasted conditions used in
+healthy subjects.
+
+Acid-reducing
+Agent Effect
+
+Repotrectinib is a neutral compound where pKa cannot be experimentally determined.
+Solubility of repotrectinib at 37°C is pH independent ranging from 0.008 mg/mL at pH 1.2 to
+
+0.006 at pH 7.4. Therefore, acid reducing agents are not expected to affect the bioavailability
+of repotrectinib.
+
+Distribution
+Volume of The mean (CV%) steady state volume of distribution (Vd.s) was 264 L (22.3%) following a
+Distribution single intravenous dose.
+
+79
+Version date: June 2022 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5277412
+

@@ -1,0 +1,49 @@
+IND 111675 VT-1161
+
+Page 20 of 32
+
+Table 3B: Tumor Rates and P-Values for Dose Response Relationship and the pairwise comparisons
+
+Female Rats Poly-3 test
+Omg 0.5 mg 1.5 mg 5/3 mg
+Cont (N=70) | Low (N=70) | Med (N=70) | High (N=70)
+Organ Name Tumor Name P-Trend | P-Cvs.L | P-Cvs.M | P-Cvs.H
+Adrenal Glands Adenoma, Cortical, Benign 8/70 (31) 5/70 (30) 4/70 (33) 7/70 (32)
+0.5176 0.8822 0.9585 0.7457
+Pheochromocytoma, Benign 2/70 (27) 1/70 (28) | 3/70(32) | 0/70(28)
+0.8718 0.8885 0.5819 1.0000
+Bone Osteosarcoma, Malignant 1/70 (27) 0/70 (28) 0/70 (30) 0/70 (28)
+1.0000 1.0000 1.0000 1.0000
+Brain Glioma, Malignant 0/70 (26) 1/70 (29) 0/70 (30) 1/70 (29)
+0.3287 0.5273 NC 0.5273
+Granular Cell Tumor, Malignant | 0/70 (26) 1/70 (28) | 0/70(30) | 0/70(28)
+0.7679 0.5185 NC NC
+Mixed Glioma, Malignant 0/70 (26) 1/70 (29) 3/70 (33) 1/70 (29)
+0.3423 0.5273 0.1678 0.5273
+Oligodendroglioma, Malignant 0/70 (26) 1/70 (28) | 0/70(30) | 0/70(28)
+0.7679 0.5185 NC NC
+Heart Schwannoma, Endocardial, 0/70 (26) 0/70 (28) 0/70 (30) 2/70 (30)
+Benign 0.0675 NC NC 0.2825
+Kidneys Liposarcoma, Malignant 0/70 (26) 0/70 (28) 1/70 31) 0/70 (28)
+0.5221 NC 0.5439 NC
+Liver Adenoma, Hepatocellular, 0/70 (26) 0/70 (28) 0/70 (30) 1/70 (29)
+Benign 0.2566 NC NC 0.5273
+Carcinoma, Hepatocellular, 0/70 (26) | 0/70(28) | 0/70(30) | 3/70(30)
+Malignant 0.0169* NC NC 0.1465
+Mammary Gland _ | Adenocarcinoma, Malignant 18/70 (37) | 15/70(37) | 11/70(36) | 14/70 (37)
+0.7848 0.8252 0.9660 0.8797
+Adenoma, Benign 4/70 (29) | 4/70(30) | 4/70(33) | 3/70(31)
+0.7064 0.6663 0.7177 0.8148
+Adenocarcinoma, Malignant / 22/70 (40) | 18/70(39) | 14/70(38) | 15/70 (38)
+Adenoma, Benign 0.8955 0.8440 0.9671 0.9454
+Fibroadenoma, Benign 26/70 (41) | 24/70 (42) | 29/70(45) | 18/70 (38)
+0.9121 0.7903 0.5495 0.9519
+Hair Follicle Tumor, Benign 0/70 (26) 1/70 (28) 0/70 (30) 0/70 (28)
+0.7679 0.5185 NC NC
+Multicentric Hemangiosarcoma, Malignant 0/70 (26) 0/70 (28) 0/70 (30) 1/70 (29)
+Neoplasm 0.2566 NC NC 0.5273
+Lymphoma, Malignant 0/70 (26) 1/70 (28) 1/70 (31) | 3/70(31)
+0.0551 0.5185 0.5439 0.1536
+
+Reference ID: 4883049
+

@@ -1,0 +1,56 @@
+NDA Multidisciplinary Review and Evaluation
+NDA 220305
+Komzifti (ziftomenib)
+
+Hematology
+Hemoglobin (g/L) — Decreased 72/110 (65) 62/110 (56)
+Platelets (10°9/L) — Decreased 69/110 (63) 65/110 (59)
+Lymphocytes (10°9/L) — Decreased 65/108 (60) 45/108 (42)
+Leukocytes (10°9/L) — Decreased 65/110 (59) 56/110 (51)
+Neutrophils (10°9/L) — Decreased 53/109 (49) 53/109 (49)
+Lymphocytes (10*9/L) — Increased 21/108 (19) 2/108 (1.9)
+
+Source: FDA analysis using adsl.xpt and adlb.xpt
+
+*Indicates that only these select labs were included in USPI.
+
+Note that certain laboratory values listed in the USPI were within 1% higher than FDA’s calculations: therefore,
+
+the FDA accepted the Applicant’s values for use in the USPI.
+
+Vital Signs
+The FDA agrees with the Applicant’s assessment of vital signs.
+
+QT/Electrocardiograms (ECGs)
+
+The FDA does not agree with the Applicant’s assessment that ziftomenib is not associated with
+clinically meaningful QTc prolongation. Please see the discussion of FDA modeling of
+ziftomenib concentration and QTc prolongation in Section 6. As shown in FDA Table 48, QTc
+prolonged was noted to occur at any grade in 12% of the key safety population with grade 3
+events in 8% of the population.
+
+Clinical Reviewer’s Comment: It is important to note that grade 3 OTc prolongation requires
+either an average OTc > 501 ms or a > 60 ms increase from baseline. Moreover, for a OTc
+prolongation event to rise to grade 4, an associated clinical event of Torsade de pointes,
+polymorphic ventricular tachycardia, or other signs/symptoms of serious arrhythmia is required.
+While the treatment of patients in this single-arm study makes it difficult to attribute all QTc
+prolongation events to ziftomenib alone, since most patients were receiving concomitant
+medications (azole antifungals, antiemetics, antibiotics) commonly used in this population, the
+FDA decided that the combination of the concentration-dependent increase in QTc noted above,
+combined with the potential for inadvertent ziftomenib concentration increases from drug-drug
+interactions or food effects and standard use of supportive medications with OTc-prolonging
+potential, required the addition of a OTc prolongation warning and precaution to the label to
+mitigate this risk in clinical use.
+
+Immunogenicity
+
+The FDA agrees with Applicant’s position. The risk of immunogenicity for small molecules is
+low, and there was no indication in the TEAE analysis of an issue with immunologic problems.
+
+245
+Version date: March 1, 2024 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5694243

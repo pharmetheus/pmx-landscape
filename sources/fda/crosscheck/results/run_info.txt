@@ -1,0 +1,7 @@
+run_date: 2026-09-26
+drugs: 238  papers found: 795  with a sponsor author: 261
+drugs missing from openFDA (sponsor from sponsor_overrides.csv): 1
+validation (FDA tool stated, single tool in sponsor papers): 50 drugs, 48 agree with FDA
+  by evidence tier: sponsor paper near submission: 47 of 48 agree; sponsor paper, other years: 1 of 2 agree
+not stated in FDA review: 63 drugs; evidence: none: 39, other authors only: 7, sponsor paper near submission: 13, sponsor paper, other years: 3, sponsor papers name several tools: 1
+inferred for not-stated drugs: Monolix: 1, NONMEM: 15

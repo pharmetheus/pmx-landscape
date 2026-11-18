@@ -1,0 +1,55 @@
+NDA/BLA Multi-disciplinary Review and Evaluation - NDA 220641
+Relacorilant
+
+The FDA agrees that PFS per BICR results from the primary analysis were statistically
+significant, with an observed difference in median PFS of approximately 1 month. To evaluate
+the robustness of the PFS results, both the Applicant and FDA conducted multiple sensitivity
+analyses of PFS per BICR, as listed in Table 23. Results of the sensitivity analyses support the
+primary PFS results, with HR point estimates ranging from 0.68 to 0.80 and differences in
+median PFS ranging from 0.7 to 1.4 months.
+
+Table 23: FDA - Sensitivity Analyses of PFS per BICR
+
+Median (months) HR
+Relacorilant+Nab- (95% CI)
+Paclitaxel vs. Nab-
+Paclitaxel
+Primary PFS-BICR analysis 6.5 vs. 5.5 0.70 (0.54, 0.91)
+Applicant SA1: Initiation of a new anticancer therapy was 5.7 vs. 5.0 0.69 (0.55, 0.88)
+counted as a PFS event.
+Applicant SA2. Treatment discontinuation due to any 5.5 vs. 4.2 0.74 (0.58, 0.95)
+reason was counted as a PFS event.
+Applicant SA3. Clinical progression per investigator was 6.3 vs. 5.4 0.68 (0.53, 0.88)
+counted as a PFS event.
+Applicant SA4. Death due to progressive disease 6.8 vs. 5.6 0.77 (0.60, 0.98)
+
+occurring after 2 or more consecutive missed tumor
+assessment were counted as a PFS event.
+
+Applicant SAS. Disease progression or death that occurred 6.5 vs. 5.5 0.69 (0.53, 0.89)
+after 2 or more missing tumor assessments (defined as no
+scans within 119 days of progression or death) were
+censored.
+
+FDA SAI: Patients were not censored for receiving a new 6.5 vs. 5.5 0.69 (0.53, 0.90)
+anti-cancer therapy prior to disease progression and
+treatment policy approach was used by including all tumor
+assessments into PFS analysis
+
+FDA SA2. Progression or death was counted as events 6.8 vs. 5.6 0.77 (0.61, 0.98)
+regardless of missing two or more consecutive
+assessments
+FDA SA3. PFS data was analyzed using an interval- 6.2 vs. 4.8 0.69 (0.54, 0.90)
+censoring method.
+FDA SA4. PFS analysis was stratified by stratification 6.5 vs. 5.5 0.70 (0.54, 0.91)
+factor data collected on eCRF.
+FDA SAS. PFS analysis was based on an unstratified 6.5 vs. 5.5 0.71 (0.55, 0.92)
+analysis.
+
+136
+
+Version date: February 10, 2025 (ALL NDA/ BLA reviews)
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant's Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5769316

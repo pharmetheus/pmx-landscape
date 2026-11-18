@@ -1,0 +1,51 @@
+carbamazepine (strong CYP3A inducer) on camizestrant PK. During Period 1,
+participants received a single oral dose of 75 mg camizestrant with PK sampling on Days
+1 —4. During Period 2, participants received carbamazepine 100 mg BID on Day 4 to
+Day 6, 200 mg BID on Day 7 to Day 9, and 300 mg BID on Day 10 to Day 15. On Day
+13, participants received a single oral dose of 75 mg camizestrant in the morning with PK
+sampling up to 72 h post-dose on Day 16. In protocol version 2.0, the duration of
+carbamazepine administration in Period 2 was 21 days; however, due to carbamazepine-
+telated hyponatremia AEs, the duration of carbamazepine administration in Period 2 was
+shortened to 13 days. Three participants (Subject ID ©)
+were enrolled under protocol version 2.0, and 20 participants under protocol version 3.0.
+The Applicant’s PK analysis omitted the 3 participants enrolled under protocol version
+2.0 to ensure consistency in the analysis population as the extended exposure of
+carbamazepine could have a potential impact on PK parameters, which is reasonable.
+
+The FDA reviewer’s independent analysis was consistent with the Applicant’s findings
+demonstrating a decrease in camizestrant AUC and Cmax GMR to 30% and 40%,
+respectively, when administered concomitantly with carbamazepine.
+
+FDA does not agree that moderate CYP3A inducers may be administered concomitantly
+with camizestrant with caution. FDA recommends avoiding concomitant use of
+camizestrant and moderate inducers of CYP3A; however, PBPK simulations support
+increasing the dosage of camizestrant to 150 mg QD when given in combination with
+palbociclib or abemaciclib if concomitant use with a moderate CYP3A inducer cannot be
+avoided. Based on the PBPK modeling, the simulated exposures of camizestrant in
+patients with cancer when camizestrant 150 mg QD is co-administered with a moderate
+CYP3A inducer (phenobarbital or efavirenz) are similar to the observed geometric mean
+Cmaxss of 74 ng/mL and AUC, of 1,116 ng/mL-h of camizestrant on Day 15 of Cycle 1 in
+patients following administration of camizestrant 75 mg QD in SERENA-1. Therefore,
+the dose of camizestrant may be increased to 150 mg QD when given in combination
+with palbociclib or abemaciclib if concomitant use with a moderate CYP3A inducer
+cannot be avoided. FDA does not recommend an increase in camizestrant dosage for
+patients receiving camizestrant in combination with ribociclib concomitantly with a
+moderate CYP3A inducer, as the exposure of camizestrant 75 mg QD when combined
+with ribociclib is already increased 2-fold. See Section 19.4.3.4.2 for detailed PBPK
+assessment.
+
+FDA does not agree that only sensitive substrates or substrates with a narrow therapeutic
+149
+
+Version date: March 1, 2024 (All NDA/BLA reviews)
+
+In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the Applicant,
+which do not necessarily reflect the positions of the FDA.
+
+The FDA review was conducted in conjunction with other regulatory authorities under Project ORBIS. The FDA
+collaborated with Australia’s Therapeutic Goods Administration (TGA), Brazilian Health Regulatory Agency
+(ANVISA), Health Canada (HC), Singapore’s Health Sciences Authority (HSA), and Switzerland’s Swissmedic
+(SMC). While the conclusions and recommendations expressed herein reflect the FDA’s completed review of the
+application, the applications may still be under review at the other regulatory agencies.
+
+Reference ID: 5864804

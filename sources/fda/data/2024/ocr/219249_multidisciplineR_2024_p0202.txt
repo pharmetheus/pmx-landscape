@@ -1,0 +1,32 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 219249}
+{Inavolisib}
+
+Observed Percentiles -- 5% — so% - 95% Simulated Percentiles 5% = 50% = 95%
+(black lines) Median (lines) 95% Cl (areas)
+
+__ 39374
+
+Prediction Corrected Inara Concentracion (ng'mL)
+
+“Time After Dose (hours)
+
+Notes: black dash (small and large dashes) and solid lines represent observed 5", 95 and 50" percentiles,
+respectively. Solid colored lines represent the 5th (red), 50th (blue), and 95th (red) percentiles of the simulated
+data. Shaded areas represent 95% confidence intervals about the 5", 50", and 95" percentiles for the
+corresponding simulated data.
+
+Abbreviations: Cl=confidence interval; VPC=visual predictive check.
+Source: Figure 9 on page 43 of Applicant’s population PK report
+
+Exposure Estimates from the Final Population PK Model: The individual PK parameters from
+the final model were used to simulate the exposure parameters after single and multiple doses
+of 9 mg PO QD. Summary statistics of exposure estimates of inavolisib by formulation status
+(Phase 1 vs Phase 3; Phase 1 resupply vs Phase 3) are presented in Table 49 .
+
+201
+Version date: June 2022 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5460147

@@ -1,0 +1,51 @@
+SAGE-217 (zuranolone) Page 28 of 30
+10 mg Vehicle Omg Water} 10mg 30mg 100 mg 75mg
+Cont (N=25) Cont (N=25)| Low(N=25)| Med(N=25) | High (N=25) | Posi (N=15)
+Organ Name Tumor Name P-Trend |P - VC vs. W|P - VC vs. L| P- VC vs. L] P- VC vs.M] P- VC vs. H
+Thymus Thymoma, Benign 0/25(25) | 0/25(25) | 0/25(24) | 0/25(24) 1/25 (23) 0/15 (11)
+0.2396 NC NC NC 0.4792 NC
+Thymoma, Malignant 1/25 (25) 1/25 (25) 0/25 (24) 1/25 (24) 0/25 (23) 1/15(11)
+0.7421 NC 1.0000 0.7449 1.0000 0.5238
+Uterus With | Polyp, Endometrial 0/25(25) | 0/25(25) | 0/25(24) | 0/25(24) | 0/25(23) 1/15(11)
+Cervix Stromal, Benign NC NC NC NC NC 0.3056
+& X/ZZ (YY): X=number of tumor bearing animals: YY=mortality weighted total number of animals; ZZ= total number of animals observed:
+NC = Not calculable:
+*: Statistically significant at levels of 0.01 and 0.05 for common and rare tumors, respectively in pairwise comparisons
+Figure 2A: Kaplan-Meier Survival Curves for
+Male Mice
+Product-Limit Survival Estimates
+10 I I ‘
+08
+£
+3 06
+a
+B
+3 04
+a
+02
+
+Reference ID: 5174472
+
+0.0. + Censored
+
+0
+
+High-100 mg/kg
+Positive-75 NMU
+
+10
+
+15
+
+Time in week of death or sacrifice
+
+dosegp
+
+Low-10 mg/kg
+Vehicle Control-0 mg/kg
+
+25
+
+Medium-30 mg/kg
+Water Control-0 mg/kg
+

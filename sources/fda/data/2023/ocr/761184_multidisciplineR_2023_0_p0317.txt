@@ -1,0 +1,68 @@
+BLA 761184
+Ngenla (somatrogon)
+
+Period Ill Period Ill Period Ill Period IV Period V
+Somatrogon Somatrogon Somatrogon Somatrogon Somatrogon
+0.25 mg/kg/wk 0.48 mg/kg/wk 0.66mg/kg/wk 0.66mg/kg/wk 0.66 mg/kg/wk
+System Organ Class N=16 N=17 N=15 N=44 N=40
+Preferred Term n(%) n (%) n(%) n(%) n (%)
+Metabolism and
+nutrition disorders 0 0 0 1 (2.3) 1 (2.5)
+(SOC)
+Obesity 0 1 (2.3) 0
+Hypercholesterolemi 0 0 1(25)
+a x
+Reproductive system
+and breast disorders 0 0 0 1 (2.3) 1 (2.5)
+(SOC)
+Testicular disorder ie} ie} (0) 1 (2.3) 1 (2.5)
+Ear and labyrinth
+disorders (SOC) 0 e 8 1@3) 9
+Deafness ie} i?) 0 1 (2.3) i?)
+Immune system
+disorders (SOC) 0 0 0 0 125)
+Food allergy ie} ie} (0) 0} 1 (2.5)
+Psychiatric disorders
+(SOc) 0 0 0 0 1(2.5)
+Autism spectrum
+disorder g o o 0 25)
+
+Source: adae.xpt, software, Python
+
+Treatment-emergent adverse events defined as any AE onset occuming post-treatment.
+Safety analysis of data provided in the orginal BLA submission (data lock date November 1, 2019)
+Abbreviations: N, number of subjects in treatment arm; n, number of subjects with adverse event OLE, open-label extension
+
+Table 115. Treatment Emergent Adverse Events by Anti-Drug Antibody Status in PEN Year 1
+
+Group, Trial CP-4-004 (OLE Period)
+
+PEN Year 1 (N=40)
+
+Positive ADA Negative ADA
+
+System Organ Class N=15 N=25
+Preferred Term n(%) n(%)
+Any TEAE 9 (60.0) 14 (56.0)
+Endocrine disorders (SOC) 1(6.7) 1 (4.0)
+Hypothyroidism 1 (6.7) 0
+Delayed puberty 0 4 (4.0)
+Eye disorders (SOC) 0 1 (4.0)
+Conjunctivitis allergic ie} 1 (4.0)
+Gastrointestinal disorders (SOC) 1 (6.7) 2 (8.0)
+Dyspepsia 1 (6.7) (¢)
+Erosive oesophagitis 0 1 (4.0)
+Gastrooesophageal reflux disease 0 1 (4.0)
+Vomiting 0 1 (4.0)
+General disorders and administration site conditions (SOC) 1 (6.7) 2 (8.0)
+Injection site reaction 1(6.7) 2(8.0)
+Hepatobiliary disorders (SOC) 0 1 (4.0)
+Sphincter of Oddi dysfunction 0 1 (4.0)
+Immune system disorders (SOC) 0 1 (4.0)
+Food allergy 0 4 (4.0)
+Infections and infestations (SOC) 4 (26.7) 10 (40.0)
+Acute sinusitis 1(6.7) 0
+
+215
+
+Reference ID: 4924352

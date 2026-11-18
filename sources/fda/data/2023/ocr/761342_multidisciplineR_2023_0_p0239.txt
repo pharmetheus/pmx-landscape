@@ -1,0 +1,58 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {BLA 761342}
+
+Talquetamab-tgvs
+
+Step-up Dose 4: predose, 2h
+C1: D1 predose, D2, D3, D4, D9, D15 predoseC2: D1 predose D15 predose
+C3: D1 predose, D2, D3, D4, D9, D15 predose
+C4.D1 predose
+EOT & FU (4W, 8W)
+Step-up dose samples were taken in cohorts where step-up doses were
+administered.
+In 1T Phase 2 (Part 3): Sparse PK sampling only
+Population
+SC Weekly: 28-day cycle=4 full doses/cycle (2 step-up doses)
+Step-up Dose 1: predose
+C1 D1 predose, D8 predose
+Day 1 predose of C2, C3, C4, C6, C7, C10, C13, then every 6 months until
+EOT
+EOT & FU (4W, 8W)
+SC Biweekly: 28-day cycle=2 full doses/cycle (3 step-up doses)
+Step-up Dose 1: predose
+C1 D1 predose, D15 predose
+Day 1 predose of C2, C3, C4, C6, C7, C10, C13, then every 6 months until
+EOT
+EOT & FU
+Covariates Static Demographics: age, weight, race, sex, region, ethnicity
+Evaluated Baseline biomarkers and disease characteristics: ISS stage, revised ISS stage,
+IgG vs non-IgG type of multiple myeloma, total T cells, GPRCSD expression,
+sBCMA, bone marrow percent plasma cells, extramedullary plasmacytoma,
+lesion number, lytic lesion, ECOG status, and cytogenetic risk
+Baseline clinical laboratory characteristics: albumin, alanine
+aminotransferase, alkaline phosphatase, and lactate dehydrogenase.
+Baseline organ function: renal function (creatine clearance, eGFR), hepatic
+function
+Prior treatment and refractory status: prior use of anti-CD38 antibodies,
+daratumumab, anti-PD1/PD-L1, anti-BCMA, triple refractory status, penta
+refractory status, number of prior therapies [<4 versus >4], prior autologous
+transplantation or allogenic transplantation
+Use of tocilizumab
+Use of human immunoglobulin
+Whether participants experienced CRS events or not
+Time- ADA, formulation
+varying
+Final Model Summary Acceptability
+[FDA’s comments]
+Software and | NONMEM (version 7.4.3) The Reviewer identified errors in the
+Version Perl-speaks-NONMEM (version 4.8.1) Applicant's reported IV CV% and RSE
+R (version 4.0.3 or later) values in Applicant Table 25. See FDA
+Model 2-compartment model with sequential zero Table 33 for the Reviewer's final model
+Structure order plus first order absorption and parallel parameter estimates with corrected IIV
+time-independent and time-dependent linear CV% and IIV RSE values.
+elimination pathways
+Version date: June 2022 (ALL NDA/ BLA reviews) 238
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5222858

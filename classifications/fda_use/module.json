@@ -1,0 +1,37 @@
+{
+  "name": "fda_use",
+  "version": "2",
+  "question": "For each estimation tool named in this drug's FDA review documents, what does the review show about the Applicant's (the sponsor's) use of it for the drug's population analyses: stated, indirect, only the FDA template sentence, or no use by the Applicant?",
+  "scope": {
+    "FDA": [
+      "review"
+    ]
+  },
+  "candidates": {
+    "patterns": "patterns.json",
+    "groups": [
+      "estimation"
+    ]
+  },
+  "text": {
+    "mode": "window",
+    "width": 400,
+    "max_snippets": 20,
+    "headings": {
+      "numbered": "^[ \\t]*\\d{1,2}(?:\\.\\d{1,2})+(?:\\.[ \\t]+[A-Z]|[ \\t]+[A-Z][a-z’']|[ \\t]+[A-Z]{2,}[ \\t]+[A-Z][a-z])[^\\n]{2,120}$",
+      "labels": "^[ \\t]*(?:The )?(?:Applicant[’']?s Position|FDA[’']?s Assessment|Reviewer[’']?s Comments?|Agency Assessment|FDA Reviewer Comments?)[: \\t]*$",
+      "max_parts": 20
+    }
+  },
+  "values": "values.csv",
+  "rubric": "rubric.md",
+  "reader": {
+    "model": "claude-sonnet-5-5",
+    "max_tokens": 1024
+  },
+  "check": {
+    "model": "claude-opus-5-5",
+    "fraction": 0.15,
+    "seed": 20261018
+  }
+}

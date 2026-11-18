@@ -1,0 +1,54 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {BLA 761345}
+elranatamab
+
+Quantitative Systems Pharmacology (QSP) Modeling Review
+Division Of Pharmacometrics, Office of Clinical Pharmacology
+
+EXECUTIVE SUMMARY
+
+The objective of this QSP analysis is to explore the predicted efficacy at different dosing
+regimens in high and low baseline (BL) soluble B-cell Maturation Antigen (sBCMA) populations,
+as well as to compare the maintenance of responses with and without transition from once a
+week (QW) to twice a week (Q2W) after 24 weeks for participants with persistent responses.
+
+The Division of Pharmacometrics has reviewed the QSP analysis report (Study: PMAR-EQDD-
+C107a-DP4-1513), supporting modeling files, and the Applicant’s responses to Clinical
+Pharmacology Information Requests (IR). The QSP review team concluded that QSP analysis, in
+addition to the observations from clinical trials, can be used to support the approval of
+elranatamab based on:
+
+e The QSP analysis can describe the pharmacokinetic profiles of elranatamab and dynamics of
+biomarkers (i.e., integrated paraproteins, sBCMA) and biochemical response rate (BRR)
+after elranatamab treatment
+
+e@ The QSP analysis provided supportive evidence for the recommended dosing regimen of 76
+mg QW SC with a priming regimen and a QW to Q2W dosing interval change after 6 Cycles
+with weekly dosing for participants with IMWG responses of >= partial response (PR) for at
+least 2 Cycles.
+
+A. BACKGROUND
+
+Elranatamab is a heterodimeric humanized full-length bispecific antibody (BsAb) that binds
+BCMA on MM cells and CD3 on T cells, which directs T cells to myeloma target cells,
+circumvents the need for the interaction of the T-cell receptor and antigen and expands the T
+cell repertoire to all CD3+T cells, thus reacting against BCMA-expressing cells, including
+myeloma cells. The Applicant developed a QSP model to describe tumor dynamics in response
+to elranatamab in relapsed/refractory multiple myeloma (RRMM) patients and the QSP model
+was used to explore the predicted efficacy at different dosing regimens in RRMM patients, and
+to compare the maintenance of responses with and without transition from QW to Q2W for
+participants with persistent responses.
+
+B. METHODS
+1. Model Structure
+
+Asimplified schematic of the QSP model is depicted in Figure 58. The major disease
+components involve MM cells at the site of action (bone marrow (BM) compartment) which
+express BCMA receptors that can be shed in the central compartment. Paraproteins (M-protein
+and free light chain (FLC)) are also produced at a rate proportional to the total number of MM
+cells and shed in the central compartment to allow calibration with clinical data. T cell
+
+Version date: January 2020 (ALL NDA/ BLA reviews)
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5226136

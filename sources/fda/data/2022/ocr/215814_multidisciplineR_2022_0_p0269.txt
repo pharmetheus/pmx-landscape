@@ -1,0 +1,66 @@
+NDA Multi-disciplinary Review and Evaluation - NDA 215814
+REZLIDHIA, olutasidenib
+
+20.4.3.2 E-R (efficacy) Assessment Summary
+The Applicant’s Position:
+The number (% occurrence) of subjects with CR/CRh was 117 (36%) (Table 93). The response
+rate appeared to be generally similar across exposure quartiles, however, the highest incidence of
+CR/CRh occurred at the highest quartile of exposure (Table 94). Evaluation of exposure
+distributions for responders and non-responders for CR/CRh confirmed that exposure ranges
+were similar for responders and non-responders (Figure 23).
+
+The relationship between olutasidenib exposure (steady-state Caves, Cmaxss, ad Cminss) and the
+probability of experiencing a clinical response (CR/CRh) was evaluated using univariate logistic
+regression analysis. There was no observed relationship between exposure and the probability of
+achieving a clinical response, exposure effects on the incidence of response were minimal for
+each of the efficacy endpoints, with p-value of 0.306 (Figure 24).
+
+Final model parameter estimates for a multivariate logistic regression analysis with selected
+covariates performed for CR/CRh are presented in Table 95. Model predicted occurrence of
+CR/CRh and 95% CI across exposure quantiles at steady state are presented in Table 96.
+
+General Information
+
+(Goal GER anes To characterize the relationship between olutasidenib exposure
+and efficacy endpoints.
+
+Study Included. 2102-HEM-101
+
+Endpoint Primary: CR/CRh
+Secondary: CBR, ORR
+
+No. of Patients (total, and with 324
+
+individual PK)
+
+Population General 2102-HEM-101:
+
+Characteristics Age median (range): 70.0 (28.0, 90.0) yr
+
+(Table 90 and Weight median (range): 72.0 (36.3, 145) kg
+
+Table 91) n (XX%) male: 169 (52.2%)
+n (XX%) in each race: White 183 (56.5%), Black/A frican-
+American 14 (4.3%), Asian 9 (2.8%), Other 20 (6.2%, Missing
+98 (30.2%)
+
+Pediatrics (if None
+any)
+
+Dose(s) Included 100 mg, 150 mg, 300 mg QD and 150 mg BID
+
+Exposure Metrics Explored Due to the high correlation among Cavgss. Cmaxss. ad Cminss, each
+
+(range) exposure was tested separately against each efficacy endpoint
+using univariate logistic regression. The exposure metric that
+produced the lowest AIC was selected for the E-R analysis.
+
+Covariates Evaluated Table 90 and Table 91
+
+268
+Version date: January 2020 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “The Applicant’s Position” are completed by the Applicant
+and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5086659

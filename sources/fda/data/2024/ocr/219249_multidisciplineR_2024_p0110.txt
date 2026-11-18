@@ -1,0 +1,52 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 219249}
+
+{Inavolisib}
+Visceral Disease
+Yes 69/127 95/126 0.42 | (0.30, 0.59)
+No 13/34 18/38 0.51 | (0.24, 1.08)
+Endocrine Resistance
+Primary 36/57 46/59 0.31 | (0.18, 0.51)
+Secondary 46/104 67/105 0.53 | (0.36, 0.78)
+Region
+Asia 27/58 45/62 0.37 | (0.22, 0.61)
+N. America/W. Europe 35/62 40/63 0.68 | (0.42, 1.09)
+Other 20/41 28/39 0.26 | (0.13, 0.50)
+
+PFS results were mostly consistent within subgroups but varied somewhat by region, with the
+North America/Western Europe region performing the worst of the three regions. The
+difference in survival between arms is diminished in the North America/Western Europe region
+in OS (HR=1.04 [95% Cl: 0.54, 2.00]) and BICR-assessed PFS (HR=0.99 [95% Cl: 0.60, 1.66]) as
+well. However, the sample sizes in these subgroups are small, so these results should be
+interpreted with caution.
+
+FDA queried the Applicant about subgroup results for the North America/West Europe (NA/WE)
+patient population. In an Information Request Response dated May 20, 2024, the Applicant
+stated that they “observed a relatively large extent of imbalances in some baseline
+characteristics with known prognostic impact between the two arms in the NA/WE subgroup
+compared to the FAS population, which may negatively impact the performance of the
+inavolisib arm relative to the placebo arm in this subgroup and potentially explain the
+numerically larger hazard ratio for PFS.” These included a lower proportion of patients with 1
+organ site (lower overall disease burden) in the inavolisib arm compared with the placebo arm
+(8.1% vs. 25.4%) in the NA/WE subgroup, which would be considered a better prognostic factor
+compared to >1 organ site involvement. In addition, they noted a higher proportion of patients
+with liver metastases (56.5% vs 46%) and progesterone receptor (PR)-negative disease (30.6%
+vs 20.6%) in the inavolisib arm compared with the placebo arm in the NA/WE subgroup,
+respectively. Both the presence of live metastases and PR negative disease may be poor
+prognostic factors. The Applicant stated the difference in OS results for NA/WE subgroup when
+compared to other subgroups could also be attributed to these same imbalances noted for the
+PFS results and due to the limited number of OS events. FDA agrees that these imbalances may
+have impacted the subgroup results but again notes these subgroup analyses should be
+interpreted with caution.
+
+The concordance of PFS assessment between INV and BICR were examined and summarized in
+the table below (Table 22). The early discordance rate (EDR) and late discordance rate (LDR)
+were calculated for each arm. EDR is the frequency that the investigator declares recurrence
+earlier than BICR, and LDR is the frequency that investigator declares recurrence later than
+
+109
+Version date: June 2022 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5460147

@@ -1,0 +1,58 @@
+BLA 761261
+Xenpozyme (olipudase alfa-rpep)
+
+Figure 114. Comparison of the Predicted Treat and Untreated Spleen Volume in Patients With
+Different REA Values
+
+Adult (n = 20)
+REA 1% REA 20%
+wo treatment ® with treatment wo treatment ® with treatment
+_ 40 — 40
+5 5
+5
+2 30 2 30
+i= =
+2 20 2 20
+3 3
+§ 10 —— 8 10 Ss ;
+3 B ——=
+0 0
+1 1
+Pediatric (n = 16)
+REA 1% REA 20%
+wo treatment ® with treatment wo treatment ® with treatment
+=> 40 => 40
+— Zz
+S =
+5 30 = 30
+E E
+3 20 3 20
+§ 0 oo g 10 :
+$ a ——
+0 Bo
+1 1
+
+Source: Independent analysis by reviewer
+
+Lines within the boxplot represent the median and the upper and lower quartiles and ‘x’ is the averaged value.
+
+Similar sensitivity parameter profiles across cohorts would support mechanistic similarity. To
+evaluate the parameter sensitivity profile for each patient, the Applicant run a simulation using
+the optimized parameter values of each individual patient calibration, followed with 20%
+increase in each parameter value. Then the resulting simulated results were compared to the
+original simulated results. Applicant stated this analysis aimed to assess whether both cohorts
+shared similar parameter influences on their outputs, supporting mechanistic similarity. Figure
+115 presents the heatmaps of parameters sensitivities influencing plasm lyso-SPM at baseline
+and week 52 treatment timepoint. As shown in the Figure 115, there are differences in the
+magnitude of the parameter sensitivity for each individual patient (different intensity of the
+color), however the trend (positive or negative correlation) is consistent across all patients,
+regardless of age cohort.
+
+Reviewer noted that the assessments of similarity of sensitivities were qualitative, as similarity
+was defined, irrespective of magnitude, as consistent directionality trends across cohorts.
+Overall, the Applicant’s analysis support that the similar parameter sensitivities were shared in
+both pediatric and adult cohorts.
+
+290
+
+Reference ID: 5038752

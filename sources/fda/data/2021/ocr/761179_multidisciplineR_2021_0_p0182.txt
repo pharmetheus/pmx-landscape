@@ -1,0 +1,57 @@
+BLA Multidisciplinary Review and Evaluation
+
+BLA 761179
+Rylaze (JZP-458)
+
+biotinylated antibody. The sulfo-tagged labels on the antibody complex emitted
+light upon electrochemical stimulation of the electrode surfaces on the plate.
+The intensity of the light emitted was proportional to the concentration of RC-P
+in the sample. Electrochemiluminescence was detected using an MSD Sector S
+600 reader.
+
+Materials used for
+calibration curve &
+
+RCP, Lot No. CMC-M-0002, at concentration ranges 1.000 to 128.0 ng/mL
+
+concentration
+Validated assay 1.000 ng/mL to 128.0 ng/mL
+range
+Material used for RCP, Lot No. CMC-M-0002, at the following concentrations:
+QCs & LLOQ - 1.000 ng/mL; LC - 3.000 ng/mL; MC - 12.00 ng/mL; HC - 96.00
+concentration ng/mL; ULOQ - 128.0 ng/mL; DC — 50,000 ng/mL
+Minimum required | 5-fold
+dilutions (MRDs)
+Regression model & | 4-PL, 1/y’
+weighting
+Validation Method validation summary Acceptability
+parameters
+Calibration curve No of standard calibrators from LLOQ to Eight Acceptable
+performance during | ULOQ
+accuracy & Cumulative accuracy (%bias) from LLOQ to -0.51 to Acceptable
+precision ULOQ 1.75
+Cumulative precision (%CV) from LLOQ to 0.73 to 2.41 | Acceptable
+ULOQ
+QCs performance Cumulative accuracy (%bias) across all QCs -7.73 to Acceptable
+during accuracy & 9.30
+precision
+Tnter-batch %CV across all QCs 4.64 to Acceptable
+11.33
+Percent total error (TE) across all QCs 9.12 to Acceptable
+19.50
+Selectivity Unspiked: 100% BLQ Acceptable
+At LLOQ: 100% acceptable
+Interference & Interference of anti-asparaginase antibodies to the SAC assay | Not
+specificity was not assessed acceptable
+(needs to be
+considered in
+evaluating
+study data)
+
+181
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA. The FDA's position is highlighted in gray.
+
+Reference ID: 4819545
+

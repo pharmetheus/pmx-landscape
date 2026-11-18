@@ -1,0 +1,47 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {BLA 761234}
+Opdualag™ (nivolumab and relatlimab-rmbw)
+
+Model Parameter Estimates | Table 81 (RO), Table 82 (PFS) and Table 83 (OR) Acceptable
+Model Evaluation Figure 35 (RO), Figure 36 (PFS), and Figure 37 (OR) Acceptable
+Covariates and Clinical RO: N/A, Figure 38 (PFS), Figure 39 (OR) Acceptable
+Relevance
+
+Simulation for Specific N/A N/A
+Population
+
+Visualization of E-R Figure 40 (RO), Figure 41 (PFS), and Figure 42 (OR) Acceptable
+
+relationships
+
+Overall Clinical Relevance for | RO: The predicted peripheral RO was similar between rela 80 mg + Acceptable
+E-R nivo 240 mg Q2W and nivo 480 mg + rela 160 mg Q4W dose
+regimens. The model predicted average relatlimab peripheral RO at
+nivo 480 mg + rela 160 mg Q4W following the first dose (ROavg1)
+and at steady state (ROavgss) were similar across different drug
+products for FDC, SAV coadministration, and SAV sequential
+administration in the melanoma population.
+
+PFS: Predicted HRs of PFS were similar across the range of
+exposures produced by nivo 240 mg + rela 80 mg Q2W, nivo 480 mg
++ rela 160 mg Q4W, and nivo 480 mg + rela 480 mg Q4W suggesting
+a flat E-R relationship.
+
+OR: Predicted probability of OR was higher with nivo 480 mg + rela
+480 mg Q4W compared with nivo 240 mg + rela 80 mg Q2W and
+nivo 480 mg + rela 160 mg Q4W.
+
+The E-R relationships of relatlimab and nivolumab were not
+dependent upon covariate values for both PFS and OR (interactions
+with covariates were not significant).
+
+Despite the trend towards higher OR with higher exposure, it should
+be noted that OR lacks the DOR component of clinical benefit,
+whereas the PFS end point captures the DOR component and the
+
+286
+Version date: January 2020 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “The Applicant’s Position” are completed by the Applicant and do not necessarily reflect the positions
+of the FDA.
+
+Reference ID: 4955210

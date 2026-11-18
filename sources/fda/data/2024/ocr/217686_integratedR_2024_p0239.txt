@@ -1,0 +1,69 @@
+NDA 217686
+TRYVIO (aprocitentan)
+
+Table 131. Optimized Final Population PK Model
+
+Population parameters IV
+
+Parameter (unit) Description Estimate %RSE Estimate %RSE
+thy @) Absorption lag time 0.69 3.0 02 28.9
+TOV ont, ©) Tnter-occasion variability 042 65 - -
+Tablet A Covariate effect 0.29 3.6
+Tablet B Covariate effect 0.073 141
+Food status om ty (-) Covariate effect (fed) 0.86 49 - -
+Covariate effect (uncontrolled) 0.17 203
+k(n) Absorption rate constant Os4 67 0.43 12.5
+10Vonk, () Inter-occasion variability 048 79 - -
+Tablet A Covariate effect 035 256
+Tablet B Covariate effect 021 61.7
+Food status on k, (-) Covariate effect (fed) 0.32 81 - -
+Covariate effect (uncontrolled) 0.34 527 - -
+FO Relative bioavailability ea - 0.15 103
+IOV on F Inter-occasion variability oll 115 - -
+Tablet A Covariate affect 0.16 93
+Tablet B Covariate effect 0.083 372
+Dose 300 mg on F (-) Covariate effect 0.24"
+Dose 600 mg on F (-) Covariate effect 0.572%  - - -
+VF @) Apparent volume of distribution, 17.24 035 0.024 108
+central compartment
+Body weight on V/F (-)  Covariate effect 1* - - -
+CLF (Lh) Apparent clearance 031 19 0.26 425
+Body weight on CL/F(-) _ Covariate effect 0.75* - - -
+GFR on CLF (-) Covariate effect 016 20.1 - -
+Moderate HI on CLF (-) — Covariate effect 0.23 42.1 - -
+Sex on CLF (-) Covariate effect (male) 0.033 66 - -
+OF Lh) Apparent intercompartmental 0.53 144 149 87
+drug transfer
+Body weight on Q'F (-) Covariate effect 0.75* - - -
+VF Q) Apparent volume of distribution, 3.32 3 027 98
+peripheral compartment
+Body weight on VF (-) Covariate effect 1* - - -
+‘Residual error terms
+a Constant error ol* -
+b Proportional error 014 09
+
+Source: Reviewer's independent assessment
+
+* Parameter was fixed in the final model estimation.
+
+Covariates were normalized to 70 kg (standard allometric scaling), 90 mL/min/1.73m? (median in modeling data set), and a
+reference subject was fasted, had no HI, and was female.
+
+Tablet A and B are film-coated tablets containing drug substance with different! ©) 4)
+
+‘Abbreviations: a;, constant error, b;, proportional error, CL/F, apparent clearance, eGFR, estimated glomerular filtration rate; F,
+relative bioavailability; HI, hepatic impairment, IIV, interindividual variability; |OV, inter-occasion variability; k., absorption rate
+constant; PK, pharmacokinetics; PopPK, population pharmacokinetics; Q/F, apparent drug transfer, RSE, relative standard error, t,.,,
+absorption lag time; V./F, apparent volume of distribution, central compartment; V,/F, apparent volume of distribution, peripheral
+compartment
+
+14.5.2.5. Simulation
+
+Simulations based on the final population PK model were employed to assess the clinical
+televance of the covariates identified in the model development process. Aprocitentan
+concentration-time profiles were derived from model predictions for a reference female subject
+
+226
+Integrated Review Template, version 3.0 (05/25/2022)
+
+Reference ID: 5347932

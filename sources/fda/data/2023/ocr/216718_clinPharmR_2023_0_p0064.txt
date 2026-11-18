@@ -1,0 +1,42 @@
+Table 12: Predicted DDI effect of verapamil on the PK of midazolam (MDZ) based on
+verapamil dosing
+
+Verapamil dose regimen, MDZ dose MDzAUC | MDZ Cmax ratio
+ratio
+Observed 80 mg TID 2 days (5 doses), MDZ 15 mg SD on day 2 2.92 1.97
+Predicted 80 mg TID 2 days (5 doses), MDZ 15 mg SD on day 2 oa)
+Predicted 120 mg QD 9 days, MDZ 15 mg SD on day 4
+
+Observed: Backman et al 1994; Predicted values using population representative. Analysis conducted by the Reviewer using
+simcyp workspaces file, with modification of verapamil dosing.
+
+The Applicant acknowledged other potential reason for inconsistency between the observed
+
+and predicted DDI effect of verapamil on omaveloxolone PK a
+
+As the Applicant also acknowledged, the evaluation of DDI predictive performance of verapamil
+PBPK model as a CYP3A inhibitor (software’s library V18r2) was limited to one clinical DDI
+dataset. Additionally, in general, clinical interaction effect of a strong CYP inhibitor has higher
+sensitivity and utility for fmCYP value verification compared to clinical DDI data of a moderate
+CYP inhibitor.
+
+In conclusion, the observed DDI effect of verapamil on omaveloxolone could not be explained by
+
+the current PBPK analysis using the Applicant’s omaveloxolone model.
+
+The Reviewer then conducted exploratory analysis of the PBPK model structure of
+omaveloxolone to evaluate the impact of model uncertainties on the predicted DDI effect of
+CYP3A inhibitors.
+
+The Applicant’s first-order absorption model was replaced by a mechanistic absorption model,
+which incorporated in vitro solubility data and predictions of bile micelle partition coefficients,
+aiming to recovery the dose-dependent trend of Cmax decrease reported following single-dose
+[Study 408-C-1703]. Subsequently, SA was undertaken to evaluate the impact of the values of
+first-pass metabolism (Fg.Fh), fmCYP3A4 and fraction unbound in enterocytes (fugut) on the
+changes of exposure to omaveloxolone when co-administered with CYP3A inhibitors. The
+results showed that fugut, Fg and fmCYP3A4 were sensitive model parameters for the purpose
+of DDI predictions. These results were also supported by the observation of minor change in
+omaveloxolone half-life in the presence of itraconazole suggesting that inhibition of first-pass
+gut metabolism of CYP3A4 appears to be the main mechanism of interaction with itraconazole.
+
+Reference ID: 5131074

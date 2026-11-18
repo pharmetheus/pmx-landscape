@@ -1,0 +1,58 @@
+BLA Multi-disciplinary Review and Evaluation {Biologics License Application (BLA) 761208}
+
+{tisotumab vedotin}
+
+Power analysis for ADC dose proportionality: Study GEN701
+
+Parameter N Slope 90% CI
+Came (j12/mL.) 27 11 (0.96,1.25)
+AUCo+(day*pg/mL) 27 1.6 (1.37,1.79)
+
+Source: 2.7.2 Summary of Clinical Pharmacology Studies, Table 4
+Following the first dose of tisotumab vedotin, Cmax and AUCO-t of the
+total antibody increased in a more than dose-proportional manner over
+
+the 0.3-2.2 mg/kg dose range.
+
+Power analysis for total antibody dose proportionality: Study GEN701
+
+Parameter N Slope 90% CI
+Caax (g/mL) 27 1.1 (1.01, 1.26)
+AUCos (day*j.g/mL) 27 17 (1.51, 1.98)
+
+Source: 2.7.2 Summary of Clinical Pharmacology Studies, Table 6
+
+Following the first dose of tisotumab vedotin, MMAE Cmax and AUCO-t
+increased in a dose-proportional manner over the 0.3-2.2 mg/kg dose
+range, though the 90%CI for AUCO-t was wide.
+
+Power analysis for MMAE dose proportionality: Study GEN701
+
+Parameter N Slope 90% CL
+Cmax(ng/mL) 27 0.9 (0.66,1.18)
+AUCo.(day*ng/mL) 27 0.9 (0.40,1.31)
+
+Source: 2.7.2 Summary of Clinical Pharmacology Studies, Table 8
+
+Immunogenicity
+
+Please see OBP review regarding the bioanalytical performance of the
+ADA and neutralizing antibody assays.
+
+In Study 04, 93 patients with cervical cancer treated at the proposed
+dosage had immunogenicity assessment at baseline and at least one time
+point post-dose. Five of 93 (5.4%) patients developed treatment-
+emergent ADA against tisotumab vedotin. Of these 5 patients, 2 patients
+first tested positive for treatment-emergent ADA at C4, 1 patient first
+tested positive at C7 and 2 patients first tested positive at the treatment
+discontinuation visit. Two of these 5 patients in Study 04, tested positive
+for neutralizing antibodies against tisotumab vedotin.
+
+71
+Version date: March 2021 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “The Applicant’s Position” are completed by the Applicant
+and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 4858975
+

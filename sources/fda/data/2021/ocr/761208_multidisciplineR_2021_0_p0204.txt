@@ -1,0 +1,46 @@
+BLA Multi-disciplinary Review and Evaluation {Biologics License Application (BLA) 761208}
+{tisotumab vedotin}
+
+Parameter Description Value | RSE% 95% Cl
+CL (L/day) 8, | non-specific clearance 1.61 4.78 1.46 ; 1.76
+Q (Liday) 82 | inter-compartment clearance 3.73 2.69 3.53 ; 3.93
+Vv; (L) 83 | central volume 3.12 1.15 3.05 ; 3.19
+V2 (L) 4 | peripheral volume 4.27 2.75 4.04 54.5
+V, .
+(ug/mLiday) 85 | maximum MM elimination 248 13.3 1.83 ; 3.13
+Ky (ug/mL) 8, | MM constant 2.81 12.2 2.14 ; 3.49
+SD of residual error: .
+Ssrop 8, | Sroportional part 0127 | 2 0.122 ; 0.132
+sas (g/mL) @ oar residual error: additive 0.0171 75 0.0146 - 0.0196
+Oma a, | Study 702 effect on ADC 143 | 531 1.28; 1.58
+residual error
+Clyt=Qwr 81. | Weight effect on CL and Q 0.45 6.46 0.393 ; 0.507
+Viwt 6,, | Weight effect on V, 0.387 9.19 0.318 ; 0.457
+Vowr 812 | Weight effect on V2 0.619 7.27 0.53 ; 0.707
+Clas 8,3 | Albumin effect on CL -0.364 21.1 -0.514 ; -0.213
+Vi a8 @,4 | Albumin effect on V; -0.202 32.7 -0.332 ; -0.0728
+Clsexu 615 | SEX=Male effect on CL 1.11 3.06 1.05 ; 1.18
+Visexm 81. | SEX=Male effect on V, 1.12 1.99 1.08 ; 1.17
+Parameter Value RSE% 95% Cl cv Shrinkage
+wo On 0.0491 9.46 0.04 ; 0.0581 CV=22.1% 4.0%
+R We Wy: Qi 0.0175 124 0.0133 ; 0.0218 R=0.467
+wr Qn 0.0286 8.32 0.024 ; 0.0333 CV=16.9% 2.8%
+RwyiWv2 | O23 0.0136 14.7 0.00965 ; 0.0175 R=0.562
+wv2 Osa 0.0203 14 0.0148 ; 0.0259 CV=14.3% 19.8%
+ws Ons 0.0571 11.2 0.0446 ; 0.0696 CV=23.9% 23.6%
+om Zi 1 fixed 7.8%
+w2 and 02: variances of inter-individual and residual variability, respectively, SE: Standard Error; PE:
+Parameter Estimate; RSE%: Relative Standard Error = 100-abs(SE/PE); 95% Cl: 95% confidence
+interval; CV: coefficient of variation
+
+Source: Table 17 in the population PK report.
+
+Table 48. Covariate Effects in Final ADC Model.
+
+203
+
+Version date: March 2021 (ALL NDA/ BLA reviews)
+Disclaimer: In this document, the sections labeled as “The Applicant’s Position” are completed by the Applicant
+and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 4858975

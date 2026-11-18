@@ -1,0 +1,62 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {BLA 761234}
+Opdualag™ (nivolumab and relatlimab-rmbw)
+
+Nivolumab-relatlimab FDC Nivolumab Total
+N=355 N=359 N=714
+= Grade 3 | Grade 4 =e Grade 3 Grade 4 se Grade 3 | Grade 4
+
+n (%) n(%) n(%) n (9%) n(%) n(%) n (%) n(%) n(%)
+Decreased Appetite | 52 (15) 2 (0.6) 0 26 (7) 1(0.3) i) an) 3 (0.4) 0
+Respiratory, Thoracic And Mediastinal Disorders
+Cough (GT) 52(15) | 1(0.3) o | 40(a1) 0 0 a 1(0.1) 0
+Endocrine Disorders
+yoo 60 (17) 0 0 50 (14) 0 0 as 0 (0.0) 0
+Blood And Lymphatic System Disorders
+Anemia 48 (14) 7 (2) 0 34(9) | 11(3.1) 0 ay) 18 (2.5) 0
+
+Source: ADSL (Subject-Level Analysis Dataset) - 2021-05-12, ADAE (Analysis Adverse Events) - 2021-05-12. Variables
+used: USUBJID, TRTO1A, SAFFL, TRTEMFL, AEDECOD, AETOXGRN, AEACN, AEBODSYS, AESER
+
+Group Musculoskeletal Pain (GT) includes PT terms PAIN IN EXTREMITY, BACK PAIN, ARTHRALGIA,
+SPINAL PAIN. MYALGIA, NECK PAIN, ARTHRITIS. MUSCULOSKELETAL CHEST PAIN, BONE PAIN.
+MUSCULOSKELETAL PAIN, MUSCULOSKELETAL STIFFNESS. MUSCULOSKELETAL DISCOMFORT,
+Group Rash (GT) includes PT terms RASH, RASH MACULAR, RASH ERYTHEMATOUS, DERMATITIS,
+ECZEMA, RASH MACULO-PAPULAR, LICHEN PLANUS. PALMAR-PLANTAR
+ERYTHRODYSAESTHESIA SYNDROME. RASH PAPULAR, DERMATITIS ACNEIFORM, RASH
+PRURITIC, SKIN EXFOLIATION, PEMPHIGOID, DYSHIDROTIC ECZEMA, DERMATITIS BULLOUS.
+RASH MORBILLIFORM. DRUG ERUPTION. RASH VESICULAR,
+
+Group Abdominal Pain (GT) includes PT terms ABDOMINAL PAIN, ABDOMINAL PAIN UPPER,
+ABDOMINAL PAIN LOWER, ABDOMINAL DISCOMFORT, GASTROINTESTINAL PAIN, ABDOMINAL
+TENDERNESS,
+
+Group Diarrhea (GT) includes PT terms DIARRHOEA, COLITIS, AUTOIMMUNE COLITIS, ENTERITIS,
+FREQUENT BOWEL MOVEMENTS.
+
+Group Urinary Tract Infection (GT) includes PT terms URINARY TRACT INFECTION, CYSTITIS,
+
+Group Headache (GT) includes PT terms HEADACHE, MIGRAINE,
+
+Group Fatigue (GT) includes PT terms FATIGUE, ASTHENIA,
+
+Group Neuropathy Peripheral (GT) includes PT terms HYPOAESTHESIA, PARAESTHESIA, NEUROPATHY
+PERIPHERAL, POLYNEUROPATHY, DYSAESTHESIA, NEURALGIA, HYPERAESTHESIA, PERIPHERAL
+MOTOR NEUROPATHY, PERIPHERAL SENSORY NEUROPATHY,
+
+Group Pyrexia (GT) includes PT terms PYREXIA,
+
+Group Cough (GT) includes PT terms COUGH, PRODUCTIVE COUGH, UPPER-AIRWAY COUGH
+SYNDROME,
+
+Group Hypothyroidism (GT) includes PT terms HYPOTHYROIDISM, AUTOIMMUNE HYPOTHYROIDISM,
+
+See discussion of submission specific primary safety concerns re: myocarditis, CNS AEs, and
+hypersensitivity reactions in Sections 8.2.6.1, 8.2.6.2, and 8.2.6.3.]
+
+200
+Version date: January 2020 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “The Applicant’s Position” are completed by the Applicant
+and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 4955210

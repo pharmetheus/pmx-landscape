@@ -1,0 +1,55 @@
+BLA 761184
+
+Ngenla (somatrogon)
+
+Table 76. Parameter Estimates of the Applicant’s Final Weight-Normalized PopPK Model
+Parameter Estimate Inter-individual Variability*
+FCTR —t
+
+Through Day 125 1.0
+After Day 125 0.890255
+SCALE KG/77 —t
+
+Clearance/F (L / hour) 1.62012 © SCALE ¢ FCTR 1.091
+Vi/F (L) 35.8774 ¢ SCALE 1.251
+Distributional Clearance/F (L / hour) 0.0793539 ¢ SCALE 0.748
+V2/F (L) 357.084 * SCALE 0.8744
+Absorption Rate (/ hour) 0.416988 1.043
+Absorption Lag (hours) 0.998283 —t
+
+* Calculated as sqrt(omega*) where omega’ is the variance of the corresponding eta term; 68% of the population
+lies within this range of the typical value.
+
+t Inter-individual variability was not permitted for this term
++ KG is weight in kg; the value of 77 kg (median value in adults) is applied to center the parameter estimates
+FCTR = Factor for time-related step-change in apparent clearance, SCALE = Scaling term for systemic parameters
+
+Standard errors were not obtained.
+
+Source: Population PK and PKPD report (Report number PMAR-EQDD-C031b-DP4-1121), page 6/1938.
+
+Abbreviations: F, bioavailability; PKPD, pharmacokinetics/pharmacodynamics; PopPK, population pharmacokinetics; sqrt, square
+root; V1, apparent volume of the central compartment; V2, apparent volume of the peripheral compartment
+
+The goodness-of-fit plots for the final Allometric and the Weight-Normalized PopPK models are
+
+shown in Figure 32 and Figure 33, respectively.
+Figure 32. GOF of the Applicant’s Final Allometric PopPK Model
+
+‘Observed InConc)
+‘Observed iniConc)
+
+CWRES!
+
+CWRESI
+
+ee [iy 4 BO fi |
+
+Time (week) Time (week)
+
+Source: PopPK report (report number PMAR-EQDD-C031b-DP3-1093), page 42/231
+Abbreviations: GOF, goodness-offit; PopPK, population pharmacokinetics
+
+136
+
+Reference ID: 4924352

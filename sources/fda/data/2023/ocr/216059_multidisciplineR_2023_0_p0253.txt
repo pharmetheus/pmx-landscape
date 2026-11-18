@@ -1,0 +1,76 @@
+NDA/BLA Multi-disciplinary Review and Evaluation - NDA 216059
+Jaypirca (pirtobrutinib)
+
+Bosentan PBPK model
+
+The bosentan PBPK model was developed according to Posada et al. (2020). The model
+included hepatic and non-hepatic clearance as observed at therapeutic bosentan plasma
+concentrations (Volz et al. 2017) and auto-induction of CYP3A4-mediated bosentan clearance.
+The input parameters of the bosentan model are listed in Table 100.
+
+Table 100: PBPK Input Parameters for Bosentan
+
+Parameter Value Method/Reference
+
+Molecular weight (g/mol) 551.61 Krupa et al 2017
+
+Log P 4.94
+
+Compound type Monoprotic acid
+
+pKa 5.11 In-house measured
+
+B:P 0.55 Simcyp default for acids
+
+fup 0.029 In-house measured
+
+Fa 0.68 Predicted using simcyp and comparing to recovery
+of bosentan in feces reported in Weber et al. 1999
+
+ka (1/h) 0.37 Predicted using simcyp
+
+Lag time (h) 0.5 Fitted based on observed data in Wrishko et al.
+2008
+
+Fugut 1 Assigned
+
+Qgut (L/h) 5.7 Predicted using simcyp
+
+Peff,man (10-4 cm/s) 0.85 Predicted from Papp in MDCK cells (Varma et al.
+2015) using internal data for calibration
+
+Vss (L/kg) 0.16 Weber et al. 1996
+
+Microsomal CYP3A4 CLint,u_ | 20 Varma et al 2014
+
+(uL/min/mg)
+
+Active uptake into 2 fitted
+
+hepatocyte
+
+Additional Clearance (L/h) 5.1 Calculated target-mediated (saturable) CL from
+dose-dependent intravenous data (total CL minus
+unsaturable CL;10.8 minus 5.7 L/h, Weber et al.
+1996)
+
+IndC50 (uM) 0.9 Sun et al. 2017
+
+Indmax 13.7
+
+Source: PBPK report Table 3.4
+
+The Applicant validated the bosentan PBPK model by comparing the observed and predicted
+bosentan PK following a single dose of 125 mg or 62.5 mg, as well as after single ascending
+doses of 100, 200 and 500 mg in healthy volunteers. The predicted versus observed Cmax and
+AUC ratios are within 0.66 to 1.02 and 0.80 to 1.05, respectively (The Applicant’s PBPK report).
+Figure 34 presents the observed and predicted concentration-time profiles of bosentan.
+
+3 Posada et al, The Journal of Clinical Pharmacology 60(7): 915-930.
+252 of 265
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5116352
+

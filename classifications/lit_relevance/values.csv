@@ -1,0 +1,5 @@
+value,definition
+own_fit,"The authors fit a population (nonlinear mixed-effects) model of their own to data, in pharmacology: PK, PK/PD, exposure-response, disease progression, time-to-event, QSP or PBPK with population estimation, or pharmacometric methodology tested on data or by simulation and estimation."
+not_own_fit,"No population model fit of the authors' own: a published model used to simulate or predict, non-compartmental analysis only, simulation only, dosing software or MIPD validation, review, meta-analysis of published parameters without a population model, editorial, commentary, letter, protocol, guideline, erratum."
+outside_field,"Mixed-effects or pharmacometric wording used outside pharmacology: ecology, agriculture, animal growth, psychology, epidemiology or social science without drug exposure or response."
+unclear,"Cannot be told from the text given."

@@ -1,0 +1,178 @@
+[
+  {
+    "no": 1,
+    "name": "Zepatier",
+    "ingr": "elbasvir and grazoprevir",
+    "date": "1/28/2016",
+    "label": "CDER NME and new biologic compilation",
+    "appl": "208261"
+  },
+  {
+    "no": 2,
+    "name": "Briviact",
+    "ingr": "brivaracetam",
+    "date": "2/18/2016",
+    "label": "CDER NME and new biologic compilation",
+    "appl": "205836"
+  },
+  {
+    "no": 3,
+    "name": "Anthim",
+    "ingr": "obiltoxaximab",
+    "date": "3/18/2016",
+    "label": "CDER NME and new biologic compilation",
+    "appl": "125509"
+  },
+  {
+    "no": 4,
+    "name": "Taltz",
+    "ingr": "ixekizumab",
+    "date": "3/22/2016",
+    "label": "CDER NME and new biologic compilation",
+    "appl": "125521"
+  },
+  {
+    "no": 5,
+    "name": "Cinqair",
+    "ingr": "reslizumab",
+    "date": "3/23/2016",
+    "label": "CDER NME and new biologic compilation",
+    "appl": "761033"
+  },
+  {
+    "no": 6,
+    "name": "Defitelio",
+    "ingr": "defibrotide sodium",
+    "date": "3/30/2016",
+    "label": "CDER NME and new biologic compilation",
+    "appl": "208114"
+  },
+  {
+    "no": 7,
+    "name": "Venclexta",
+    "ingr": "venetoclax",
+    "date": "4/11/2016",
+    "label": "CDER NME and new biologic compilation",
+    "appl": "208573"
+  },
+  {
+    "no": 8,
+    "name": "Nuplazid",
+    "ingr": "pimavanserin",
+    "date": "4/29/2016",
+    "label": "CDER NME and new biologic compilation",
+    "appl": "207318"
+  },
+  {
+    "no": 9,
+    "name": "Tecentriq",
+    "ingr": "atezolizumab",
+    "date": "5/18/2016",
+    "label": "CDER NME and new biologic compilation",
+    "appl": "761034"
+  },
+  {
+    "no": 10,
+    "name": "Zinbryta",
+    "ingr": "daclizumab",
+    "date": "5/27/2016",
+    "label": "CDER NME and new biologic compilation",
+    "appl": "761029"
+  },
+  {
+    "no": 11,
+    "name": "Axumin",
+    "ingr": "fluciclovine F 18",
+    "date": "5/27/2016",
+    "label": "CDER NME and new biologic compilation",
+    "appl": "208054"
+  },
+  {
+    "no": 12,
+    "name": "Ocaliva",
+    "ingr": "obeticholic acid",
+    "date": "5/27/2016",
+    "label": "CDER NME and new biologic compilation",
+    "appl": "207999"
+  },
+  {
+    "no": 13,
+    "name": "Netspot",
+    "ingr": "gallium Ga 68 dotatate",
+    "date": "6/1/2016",
+    "label": "CDER NME and new biologic compilation",
+    "appl": "208547"
+  },
+  {
+    "no": 14,
+    "name": "Epclusa",
+    "ingr": "sofosbuvir and velpatasvir",
+    "date": "6/28/2016",
+    "label": "CDER NME and new biologic compilation",
+    "appl": "208341"
+  },
+  {
+    "no": 15,
+    "name": "Xiidra",
+    "ingr": "lifitegrast",
+    "date": "7/11/2016",
+    "label": "CDER NME and new biologic compilation",
+    "appl": "208073"
+  },
+  {
+    "no": 16,
+    "name": "Adlyxin",
+    "ingr": "lixisenatide",
+    "date": "7/27/2016",
+    "label": "CDER NME and new biologic compilation",
+    "appl": "208471"
+  },
+  {
+    "no": 17,
+    "name": "Exondys 51",
+    "ingr": "eteplirsen",
+    "date": "9/19/2016",
+    "label": "CDER NME and new biologic compilation",
+    "appl": "206488"
+  },
+  {
+    "no": 18,
+    "name": "Lartruvo",
+    "ingr": "olaratumab",
+    "date": "10/19/2016",
+    "label": "CDER NME and new biologic compilation",
+    "appl": "761038"
+  },
+  {
+    "no": 19,
+    "name": "Zinplava",
+    "ingr": "bezlotoxumab",
+    "date": "10/21/2016",
+    "label": "CDER NME and new biologic compilation",
+    "appl": "761046"
+  },
+  {
+    "no": 20,
+    "name": "Eucrisa",
+    "ingr": "crisaborole",
+    "date": "12/14/2016",
+    "label": "CDER NME and new biologic compilation",
+    "appl": "207695"
+  },
+  {
+    "no": 21,
+    "name": "Rubraca",
+    "ingr": "rucaparib",
+    "date": "12/19/2016",
+    "label": "CDER NME and new biologic compilation",
+    "appl": "209115"
+  },
+  {
+    "no": 22,
+    "name": "Spinraza",
+    "ingr": "nusinersen",
+    "date": "12/23/2016",
+    "label": "CDER NME and new biologic compilation",
+    "appl": "209531"
+  }
+]

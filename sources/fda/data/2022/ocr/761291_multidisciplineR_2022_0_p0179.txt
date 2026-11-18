@@ -1,0 +1,116 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {BLA 761291}
+
+teclistamab
+
+Final Model
+
+Summary
+
+Acceptability
+[FDA’s comments]
+
+Software and Version
+
+NONMEM (version 7.3.0)
+Perl-speaks-NONMEM (version 4.6.0)
+R (version 3.4.1)
+
+Model Structure
+
+2-compartment model with first-order
+absorption and parallel time-independent
+and time-dependent elimination pathways
+
+Model Parameter Estimates
+
+Table 23
+
+Uncertainty and Variability (RSE, IIV,
+Shrinkage, Bootstrap)
+
+All model parameters were estimated
+reasonably well with relative standard
+errors no greater than 30% for all the
+structural PK and covariate effect
+parameter estimates with the exception of
+Q, which had a RSE of 48.5%. The ETA
+shrinkages of the structural PK parameters
+were low to moderate (18.0% for Cli, 36.7%
+‘for Cl2, 40.0% for Vi, and 37.9% for Ke);
+thus, estimates of individual PK parameters
+were considered to be reasonable.
+
+See FDA Table 8 for
+Applicant's updated final
+PPK model parameter
+estimates.
+
+The Applicant’s model is
+generally acceptable for
+the purpose of
+characterizing
+teclistamab PK in
+patients with relapsed
+or refractory multiple
+myeloma.
+
+BLQ for Parameter Accuracy
+
+Since 0.72% postdose PK records were BLQ,
+exclusion of the postdose BLQ PK
+observations should not result in
+appreciable bias in the parameter estimates
+of the model because of the very few
+samples with BLQ values (Beal 2001, Ahn
+2008). Sensitivity analysis using the
+likelihood based (M3) method was not
+deemed necessary and was not performed,
+as specified in the Analysis Plan.
+
+GOF, VPC
+
+Figure 5 for GOF
+Figure 6 for VPC stratified by cohort
+
+See FDA Figure 5 for
+GOF using linear scale.
+
+The GOF and VPC show
+that the model fit is
+generally acceptable.
+
+Significant Covariates and Clinical
+Relevance
+
+Figure 7 for forest plot of Cave,1stdose
+Figure 8 for forest plot of Ctrough,ss
+
+No clinically relevant
+differences in exposure
+according to patient
+characteristics were
+identified.
+
+Analysis Based on Simulation
+(optional)
+
+Figure 9 for RP2D Time Profiles
+
+See FDA Figure 8 for PK
+profile on linear scale;
+FDA Table 8 for
+summary of PK
+parameters;
+
+FDA Table 9 for
+summary of exposure.
+
+Version date: January 2020 (ALL NDA/ BLA reviews)
+
+178
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5065872
+

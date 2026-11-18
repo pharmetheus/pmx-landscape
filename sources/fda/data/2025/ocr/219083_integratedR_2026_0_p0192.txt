@@ -1,0 +1,67 @@
+NDA 219083
+
+MYQORZO (aficamten)
+Table 108. Summary of Method Performance for Determination of Free Dabigatran in Human
+Plasma (ZZ55164-01
+Bioanalytical Validation of an LC-MS/MS Method for the Determination of Dabigatran (Free) in Acidified
+Method Validation | Human Plasma (EDTA)
+Report Name, Method Validation Report ZZ55164-01 Amendment 2
+Amendments, and
+Hyperlinks
+
+Method Description | An aliquot of acidified human plasma (EDTA) containing the analyte and internal standard is
+extracted using a solid phase extraction procedure. The extracted samples are analyzed by an HPLC
+equipped with an AB SCIEX API 4000 triple quadrupole mass spectrometer using an ESI source.
+Positive ions are monitored in the MRM mode.
+
+Materials Used for Dabigatran.
+
+Standard Cayman Chemical, Lot 0464319-31
+Calibration Curve Calibration standards: 0.500. 1.00, 3.00, 6.00, 15.0, 45.0, 90.0, 200, and 250 ng/mL
+
+and Concentration
+Intemal standard:
+
+8C¢-Dabigatran,
+VA] ot CC-8022
+
+Validated Assay 0.500 to 250 ng/mL
+
+Range
+
+Material Used for Dabigatran,
+
+QCs and Cayman Chemical, Lot 0464319-31
+
+Concentration QC concentration levels: 0.500 (LLOQ), 1.50 (LQC). 12.5 (MQC). and 185 (HQC) ng/mL
+
+Intemal standard:
+
+3C,Dabigatran,
+M7 ot CC-8022
+
+Minimum Required =| NR
+Dilutions
+
+Source and Lot of 4)
+
+Reagents
+
+Regression Model Linear, weighted (1/concentration?)
+and Weighting
+
+Validation Method Validation Summary Source Location
+Parameters
+
+Standard Number of standard calibrators from LLOQ to ULOQ 9 ZZ55164-01
+
+Calibration Curve — — ——— Amendment 2
+Performance During | Cumulative accuracy @6bias) from LLOQ to ULOQ _| -3.8%102.8% | Table 4
+
+Accuracy and Cumulative precision (“%CV) from LLOQ to ULOQ <4.6%
+Precision Runs
+
+175
+Integrated Review Template, version 4.0 (11/1/23)
+
+Reference ID: 5715605

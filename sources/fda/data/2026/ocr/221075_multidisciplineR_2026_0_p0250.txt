@@ -1,0 +1,55 @@
+NDA/BLA Multi-disciplinary Review and Evaluation NDA 221075
+
+Iberdomide (ZENBEXUS)
+-Mild Hepatic Impairment (30, 6.1%)
+-Moderate Hepatic Impairment (4, 0.8%)
+-Severe Hepatic Impairment (0, 0%)
+Pediatrics | Not applicable
+(if any)
+No. of Patients, PK Samples, | No. of patients: 488
+and BLQ No. of PK samples: 1,989
+No. of pre-/post-dose BLQ samples: 39 (1.96%)
+No. of PK samples included in the PK modeling: 1902
+Sampling Rich CC-220-MM-001:
+Schedule Sampling | Cohort A:
+Sparse PK (all subjects): Cycles 1-4, D8, 15, 22:1 predose
+sample per visit;
+Intensive PK: (minimum 2 subjects per dose level; in addition
+to sparse PK): Cycle 1, D15: 1, 2, 3, 4, 6, 8h and 24h
+postdose.
+Cohort E:
+Sparse PK (all subjects): Cycles 1-4, D8, 15:1 predose sample
+per visit;
+Intensive PK (minimum 1 subject per dose level; in addition
+to sparse PK): Cycle 1, D8: 1 timepoint at 2 h, 1 timepoint
+between 4-8 h, and 1 timepoint at 24 h postdose
+Cohort K:
+Sparse PK (all subjects): Cycles 1-2, D15:1 predose sample
+per visit and 1 timepoint at 2 h postdose
+InITT CC-220-MM-002:
+Population | Sparse PK (all subjects receiving iberdomide): Cycles 1-2,
+D8, 15:1 predose sample per visit;
+Intensive PK (minimum 6 subjects per arm for Stage 1; in
+addition to sparse PK): Cycle 1, D8: 1 timepoint at 2 h, 1
+timepoint between 4-8 h, and 1 timepoint at 24 h postdose;
+Additional intensive PK (approximately 12 Chinese subjects
+in stage 2 arm A): Cycle 1, D1, 8:1 predose sample, and 1, 2,
+3, 4, 6, 8 h and 24 h postdose
+Covariates Static Age (continuous), sex, BW/BSA/BMI (continuous), race,
+Evaluated renal function (eGFR), hepatic function (total bilirubin,
+AST/ALT), ISS (1, II, II), ECOG
+Time- NA
+varying
+Final Model Summary Acceptability
+[FDA’s
+comments]
+
+Reference ID: 5851050
+
+251
+
+Version date: February 10, 2025 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+

@@ -1,0 +1,4284 @@
+CENTER FOR DRUG EVALUATION AND
+RESEARCH
+APPLICATION NUMBER:
+
+206966Orig1s000
+CLINICAL PHARMACOLOGY
+REVIEW(S)
+
+Clinical Pharmacology Memorandum
+NDA:
+SD#:
+Product:
+Submission Date:
+Type of Submission:
+Applicant:
+Proposed Indication:
+Primary Reviewer:
+Secondary Reviewer:
+OCP Division Director:
+OCP Division:
+OND Division:
+
+206966
+28
+Xeglyze (abametapir) 0.74% Lotion
+11/12/2019
+Re-submission of NDA
+Dr. Reddy’s Laboratories, SA
+Treatment of head lice infestation in patients 6 months of age
+and older
+Soo Hyeon Shin, Pharm.D., Ph.D.
+Chinmay Shukla, Ph.D.
+Chandrahas Sahajwalla, Ph.D.
+Division of Inflammation and Immune Pharmacology
+Division of Dermatology and Dental Product
+
+Background:
+NDA 206966 is a 505(b)(1) application which was initially submitted on 09/14/2015. On
+08/30/2016, a Complete Response Letter was issued to the Applicant due to deficiencies
+identified during the inspection of a manufacturing facility.
+The Clinical Pharmacology reviewer, Dr. Doanh Tran, completed a review and determined that
+the submission was approvable from a Clinical Pharmacology perspective (see review dated
+04/26/2016 in DARRTS). With the original approval, Clinical Pharmacology recommended two
+post-marketing requirements (PMRs) and one post-marketing commitment (PMC).
+Current submission:
+The resubmitted NDA included new and additional information related to manufacturing of the
+drug product. No new Clinical Pharmacology information was submitted and thus a formal
+review this resubmission was not conducted.
+Recommendation:
+This reviewer concurs with the recommendations from the previous reviewer, Dr. Tran. This
+resubmission is approvable from a Clinical Pharmacology perspective and the previously
+recommended PMRs and PMC, which are outlined below, are still recommended.
+PMRs:
+• Conduct a maximal use pharmacokinetic trial of Xeglyze lotion, 0.74% in 16 pediatric
+subjects 6 months to 3 years 11 months of age to fully characterize the concentration
+time profile of abametapir and metabolite abametapir carboxyl.
+• Conduct a clinical trial to evaluate the potential for Xeglyze lotion, 0.74% to inhibit the
+activity of cytochrome P450 3A4 at several time points post dosing. The systemic
+
+Reference ID: 4601861
+
+exposure of abametapir and abametapir carboxyl should be similar to those observed
+under maximal use conditions in pediatrics. Additional drug interaction trials may be
+needed depending on the results of this trial.
+PMC:
+• Conduct a study to evaluate the long-term storage stability of abametapir carboxyl in
+plasma stored at -80 ºC for duration of at least 1251 days.
+
+Reference ID: 4601861
+
+Signature Page 1 of 1
+
+-------------------------------------------------------------------------------------------This is a representation of an electronic record that was signed
+electronically. Following this are manifestations of any and all
+electronic signatures for this electronic record.
+-------------------------------------------------------------------------------------------/s/
+-----------------------------------------------------------SOO HYEON SHIN
+05/01/2020 03:22:38 PM
+CHINMAY SHUKLA
+05/01/2020 03:25:14 PM
+CHANDRAHAS G SAHAJWALLA
+05/02/2020 02:59:25 PM
+
+Reference ID: 4601861
+
+OFFICE OF CLINICAL PHARMACOLOGY REVIEW
+NDA: 206966
+
+Submission Date(s): 9/14/2015, 10/26/2015,
+12/16/2015
+
+Brand Name
+
+Xeglyze
+
+Generic Name
+
+Abametapir lotion, 0.74% w/w
+
+Primary Reviewer
+Secondary Reviewer
+
+Doanh Tran, Ph.D.
+Capt. E. Dennis Bashaw, Pharm.D.
+
+OCP Division
+
+Division of Clinical Pharmacology 3
+
+OND division
+
+Division of Dermatology and Dental Products
+
+Applicant
+
+Dr. Reddy’s Laboratories
+
+Relevant IND(s)
+
+77510
+
+Submission Type
+
+Original NDA
+
+Formulation; Strength(s)
+
+Lotion; 0.74% w/w
+
+Indication
+
+Topical treatment of head lice infestation in patients
+6 months and older
+
+Table of Contents
+1
+
+Executive Summary ......................................................................................................2
+1.1 Recommendation....................................................................................................2
+1.2 Phase IV Requirements and Commitments............................................................2
+1.3 Summary of Important Clinical Pharmacology and Biopharmaceutics Findings ..2
+2 Question-Based Review ................................................................................................7
+2.1 General Attributes ..................................................................................................7
+2.2 General Clinical Pharmacology..............................................................................7
+2.3 Intrinsic Factors ....................................................................................................14
+2.4 Extrinsic Factors...................................................................................................15
+2.5 General Biopharmaceutics ...................................................................................20
+2.6 Analytical .............................................................................................................26
+3 Detailed Labeling Recommendations .........................................................................29
+4 Appendix.....................................................................................................................32
+4.1 Individual Study Reviews ....................................................................................32
+
+1
+Reference ID: 3922694
+
+1 Executive Summary
+The Applicant has developed Abametapir lotion 0.74% for the treatment of head lice infestation
+in patients 6 months of age and older. Abametapir (initially referred to as Ha44) is a compound
+from the class of bipyridinium molecules. Bipyridine molecules can coordinate as chelating
+ligands to form complexes with transition metal ions. The mechanism of action of abametapir as
+a pediculicide is believed to be via the chelation of metal cations which results in inhibition of
+metalloproteinases critical to louse egg development and survival.
+The abametapir lotion formulation has been evaluated in a Phase 2a study (Ha02-002) and a
+Phase 2b study (Ha02-003) in both a 0.37% and 0.74% strength. Based on superior efficacy and
+equivalent safety, the higher concentration (0.74%) was chosen for commercial development.
+The NDA also includes 2 Phase 3 studies (Ha03-001 and Ha03-002), a Phase 2 study
+investigating ovicidal activity (Ha03-008), 2 pediatric pharmacokinetic (PK) studies (Ha03-003
+and Ha03-004), a cardiac safety (TQT) study (Ha02-005), and 2 dermal safety studies (Ha03-006
+and Ha03-007). A prototype formulation, referred to as “Ha44 Lotion,” was also evaluated in a
+Phase 1 study (Ha01-001) but it is not considered in support of the NDA.
+1.1
+
+Recommendation
+
+The Office of Clinical Pharmacology/Division of Clinical Pharmacology 3 finds NDA 206966
+acceptable pending agreement on recommended labeling changes and post marketing
+requirements and commitments.
+1.2
+
+Phase IV Requirements and Commitments
+
+Requirements:
+Conduct a maximal use pharmacokinetic trial of Xeglyze lotion, 0.74% in 16 pediatric subjects 6
+months to 3 years 11 months of age to fully characterize the concentration time profile of
+abametapir and metabolite abametapir carboxyl.
+Conduct a clinical trial to evaluate the potential for Xeglyze lotion, 0.74% to inhibit the activity
+of cytochrome P450 3A4 at several time points post dosing. The systemic exposure of
+abametapir and abametapir carboxyl should be similar to those observed under maximal use
+conditions in pediatrics. Additional drug interaction trials may be needed depending on the
+results of this trial.
+Commitments:
+Conduct a study to evaluate the long-term storage stability of abametapir carboxyl in plasma
+stored at -80 ºC for duration of at least 1251 days.
+1.3
+
+Summary of Important Clinical Pharmacology and Biopharmaceutics Findings
+
+2
+Reference ID: 3922694
+
+Bioavailability:
+The pharmacokinetics of Abametapir lotion, 0.74% were evaluated in 3 trials, namely Trials
+Ha02-003, Ha03-003 and Ha03-004. Each trial enrolled lice infested subjects who received a
+single 10 minute application of Abametapir lotion, 0.74%. Pharmacokinetic samplings were
+carried out to 72 hours post dose in adults and 8 hours post dose in pediatrics for all trials.
+Trial Ha02-003 evaluated pharmacokinetics in 6 adult and 12 pediatric subjects aged 3 to 12
+years of age. The mean (%CV) abametapir plasma maximum concentration (Cmax) and area
+under the concentration time curve from 0 to 8 hours post dose (AUC0-8h) in the adult group
+were 41 (66%) ng/mL and 121 (50%) ng*h/mL, respectively. The mean (%CV) Cmax and
+AUC0-8h in the pediatric group were 73 (57%) ng/mL and 264 (67%) ng*h/mL, respectively,
+and were higher compared to the values for adults. The mean (%CV) terminal half-life in adults
+was 21 (11%) hours.
+Trials Ha03-003 and Ha03-004 evaluated pharmacokinetics in pediatric subjects aged 6 months
+to 17 years of age. The pharmacokinetic results for plasma abametapir are shown in table below.
+As expected, even though the values varied between the 2 trials, abametapir exposure increased
+as the age of the subject decreased. Abametapir absorption was rapid with a median Tmax of
+0.57 to 1.54 hours.
+Table 1: Abametapir pharmacokinetic parameters in subjects with head lice infestation
+Study
+Cmax (ng/mL)
+AUC0-8
+Age Group
+n
+(ng*h/mL) Mean (%CV)
+Mean (%CV)
+HA03-003
+1
+418
+1057
+6 months to
+<1 year
+HA03-004
+5
+228 (50%)
+688 (43%)
+HA03-003
+HA03-004
+HA03-003
+HA03-004
+HA03-003
+HA03-004
+
+1 year to <2
+years
+
+3
+
+209 (62%)
+
+446 (65%)
+
+8
+
+147 (49%)
+
+406 (37%)
+
+2 years to <3
+years
+
+6
+
+206 (66%)
+
+633 (57%)
+
+8
+
+160 (48%)
+
+602 (51%)
+
+3 years to 17
+years
+
+12
+
+121 (60%)
+
+330 (49%)
+
+7
+
+52 (45%)
+
+254 (67%)
+
+Serum concentration of benzyl alcohol, an excipient in the formulation of Abametapir lotion,
+0.74%, was assessed in Trials Ha03-003 and Ha03-004. Benzyl alcohol in serum was measurable
+(limit of quantitation = 0.5 µg/mL) in 7 subjects out of 39 evaluable subjects. The Cmax of
+benzyl alcohol in these 7 subjects ranged from 0.52 to 3.57 µg/mL.
+Distribution:
+Abametapir plasm protein binding ranged from 91.3 – 92.3% and was concentration independent
+within the tested concentration range of 50 – 800 ng/mL. Metabolite abametapir carboxyl plasm
+protein binding ranged from 96.0 – 97.5% and was concentration independent within the tested
+concentration range of 1000 – 13000 ng/mL.
+
+3
+Reference ID: 3922694
+
+Metabolism:
+The metabolic pathway of abametapir involves the sequential formation of abametapir hydoxyl
+followed by abametapir carboxyl catalyzed by phase I oxidative metabolism enzymes with
+glucuronidation of both metabolites mediated by Phase II metabolism catalyzed by UDPGlucuronosyltransferases (UGTs). In vitro studies using liver microsomes showed that
+abametapir is extensively metabolized, primarily by CYP1A2 and to a lesser extent CYP2B6. In
+vivo data suggests glucuronidated metabolites contribute only a small proportion of total drug
+related exposure and their overall levels are low. The unconjugated abametapir carboxyl
+accounts for the vast majority of drug related plasma exposure in humans.
+Abametapir carboxyl is cleared slowly from the systemic circulation and results in plasma
+concentration significantly higher than that of abametapir. Based on data in adults in Trial Ha02­
+003, where samplings was carried out to 72 hours, the ratios of Cmax and AUC0-72h between
+abametapir carboxyl and abametapir were about 30 and 250, respectively. The elimination halflife of abametapir carboxyl has not been well characterized but is estimated to be approximately
+(mean ± SD) 71 ± 40 hours or longer. In vitro data suggest that abametapir carboxyl is not
+further metabolized by CYP450s or other NADPH-dependent microsomal enzymes.
+Drug-drug interactions:
+In vitro studies suggest there is low risk of in vivo cytochrome P450 (CYP) inhibition for
+abametapir and low risk of CYP induction for both abametapir and abametapir carboxyl.
+However, there is a potential risk of CYP 3A4 inhibition due to high and sustained concentration
+of abametapir carboxyl following application of Abametapir lotion, 0.74%. Results of
+microsomes studies suggests that abametapir carboxyl at concentrations observed in clinical
+trials would not inhibit CYP enzymes. However, studies using hepatocytes showed concentration
+dependent inhibition of CYP3A4 and to a lesser extent CYP2B6 and CYP1A2. The potential of
+Abametapir lotion, 0.74% to inhibit CYP3A4 should be further evaluated in vivo.
+Abametapir and abametapir carboxyl are not substrates for ABC (ATP binding cassette) efflux
+transporters MDR1 and BCRP and SLC (solute carrier) uptake transporters OATP1B1,
+OATP1B3, OAT1, OAT3 and OCT2. Abametapir and abametapir carboxyl have the potential to
+inhibit various transporters at high concentrations. Abametapir has the potential to inhibit OCT2
+(IC50 = 35.4 μM) and OAT3 (IC50 = 57.5 μM), but the ratio of the unbound Cmax to the IC50
+is less than 0.1. Abametapir carboxyl has the potential to inhibit OAT3 (IC50 = 17.1 μM),
+OCT2, OAT1, OATP1B1, and MDR1, however the unbound Cmax / IC50 ratios for OAT3,
+OCT2, and OAT1 also are all less than 0.1. Abametapir carboxyl IC50 values were not
+determined for MDR1 and OATP1B1(i.e., IC50 >100 µM) due to solubility limitations; the total
+Cmax / IC50 ratios for both transporters are <0.24. Overall, the data suggest low risk of
+interaction with drug transporters following topical application of Abametapir lotion, 0.74% for
+treatment of head lice infestation.
+Exposure to benzyl alcohol:
+Benzyl alcohol is an excipient in the formulation of Abametapir lotion, 0.74%. Because systemic
+exposure to benzyl alcohol can lead to neonatal gasping syndrome, serum benzyl alcohol was
+measured following application of Abametapir lotion, 0.74% to assess this risk. Benzyl alcohol
+serum concentrations were assessed in PK samples from trials Ha03-003 and Ha03-004 using an
+4
+Reference ID: 3922694
+
+assay with LLOQ of 0.5 mcg/mL. In trial Ha03-003, one of 9 evaluable subjects had measurable
+concentration of 0.536 and 0.726 mcg/mL at 0.5 hour and 1 hour post dose, respectively. In trial
+Ha03-004, six of 30 subjects had measurable concentrations of 0.524, 0.664, 0.826, 0.877, 1.39,
+and 3.57 mcg/mL. Only one measurable concentration was seen in each subject.
+These observed concentrations of benzyl alcohol do not appear to be a safety concern. Systemic
+exposure to benzyl alcohol at concentration of ~109.2 µg/mL (1.01 mmol/L) has been associated
+with neonatal gasping syndrome (Gershanik et al., N Engl J Med 1982; 307:1384-1388).
+QT interval:
+The Applicant conducted a thorough QT study Ha02-005 and reported that administration of
+Abametapir lotion, 0.74% for 60 minutes to the scalp and back area in healthy adults without
+head lice did not prolong cardiac repolarization (QTc interval). The results of this study were
+reviewed by interdisciplinary review team for QT (IRT-QT) under IND 77510 on 6/14/2013,
+which concurred with the Applicant’s conclusion. The mean observed abametapir Cmax in this
+study was 432 ±137 ng/mL, which exceeded those observed under maximal use conditions in
+subjects with active head lice infestation. Therefore, the results of this study are applicable to the
+target population and it can be concluded that there is no concern regarding QTc prolongation
+with Abametapir lotion, 0.74% for treatment of head lice infestation.
+Pediatrics:
+The Applicant conducted Phase 3 safety and efficacy trials and PK trials in subjects 6 months of
+age and older. The Applicant requests a waiver of studies in pediatrics <6 months of age. The
+waiver request is reasonable. The waiver request was discussed at a meeting of the Pediatric
+Review Committee (PeRC) 0n 3/23/2016 and the PeRC agreed with the waiver.
+Clinical vs. to-be-marketed formulation:
+The to-be-marketed formulation was used in all clinical studies, except for an initial tolerability
+Phase 1 study Ha01-001. Study Ha01-001 was not essential to support the NDA.
+Method validation:
+The plasma samples from the human PK studies were analyzed for abametapir, abametapir
+hydroxyl and abametapir carboxyl using tandem mass spectrometry (LC-MS/MS) methods.
+Serum samples from the human PK studies were analyzed for benzyl alcohol by gas
+chromatography-mass spectrometric procedures (GC-MS). All bioanalytical methods were
+adequately validated.
+Analysis of abametapir in plasma samples in all clinical trials were conducted within established
+long term storage stability. For analysis of benzyl alcohol, samples from 19 of 22 subjects were
+analyzed within the 452 days demonstrated storage stability. Samples from the remaining 3
+subjects were analyzed after up to 472 days of storage. This is a minor deviation from the
+demonstrated storage duration of 452 days and all data were considered acceptable for review.
+For analysis of abametapir carboxyl, samples from trials Ha03-003 and Ha03-004 were analyzed
+within the demonstrated storage stability duration of 568 days. Samples from trial Ha02-003
+were collected in 2011 and retained in storage for 1251 days prior to analysis for abametapir
+5
+Reference ID: 3922694
+
+carboxyl. Therefore, there is insufficient demonstrated stability to support the analysis of
+abametapir carboxyl in trial Ha02-003. The sponsor suggested that since stability was
+demonstrated for extended period of 568 days the stability may be inferred out to 1251 days.
+This reviewer also note that the AUC and Cmax for pediatric subjects (aged 3 – 12 years) in trial
+Ha02-003 was similar to and in between those observed for the 3 - 17 years age group in trials
+Ha03-003 and Ha03-004, which were analyzed within the demonstrated stability period. The
+same order among the 3 trials was seen for the parent abametapir. These data suggest that there
+were no overt degradation of abametapir carboxyl samples from trial Ha02-003 and the data may
+be used for review. However, the sponsor should continue to evaluate the storage stability to
+fully support the storage duration as a post marketing commitment.
+Office of Clinical Pharmacology (OCP) briefing:
+An Optional Inter-Divisional OCP briefing was held on 4/21/2016 with the following in
+attendance: Kevin Clark, Yanhui Lu, Dinko Rekic, Chinmay Shukla, Sam Raney, Steven Li,
+Sudharshan Hariharan, Markham Luke, Martina Sahre, Dennis Bashaw, and Doanh Tran
+
+6
+Reference ID: 3922694
+
+2
+
+Question-Based Review
+
+2.1
+
+General Attributes
+
+2.1.1
+
+What are the highlights of the chemistry and physical-chemical properties of the drug
+substance abametapir?
+Abametapir, the active compound in Abametapir lotion 0.74%, is a bipyridyl compound with the
+chemical name 5,5’-dimethyl-2,2’-bipyridyl and an international nonproprietary name (INN) of
+abametapir. It has appearance of a white to pale yellow solid. Abametapir has a molecular
+formula of C12H12N2 and a molecular weight of 184.24 g/mol. The chemical structure is shown
+in Figure 1.
+
+Figure 1: Structural formula of abametapir
+
+Abametapir is a metalloproteinase inhibitor. Metalloproteinases have a role in physiological
+processes critical to egg development and survival of lice.
+2.1.2 What are the proposed indication and dosing regimen for Abametapir lotion, 0.74%?
+Abametapir lotion, 0.74% is indicated for the topical treatment of head lice infestation
+(Pediculosis humanis capitis) in patients 6 months of age and older. The dosing instruction is to
+apply Abametapir lotion, 0.74% to dry hair in an amount sufficient to thoroughly coat the hair
+and scalp and massage into the scalp and throughout the hair. Leave on the hair and scalp for 10
+minutes and then rinse off with warm water.
+2.2
+
+General Clinical Pharmacology
+
+2.2.1
+
+What were the design features of the clinical pharmacology and clinical trials used to
+support Abametapir lotion, 0.74%?
+The abametapir lotion formulation has been evaluated in a Phase 2a study (Ha02-002) and a
+Phase 2b study (Ha02-003) in both a 0.37% and 0.74% strength. Based on superior efficacy and
+equivalent safety, the higher concentration (0.74%) was chosen for commercial development.
+The abametapir lotion 0.74% formulation was evaluated for safety and efficacy in 2 Phase 3
+studies (Ha03-001 and Ha03-002), a Phase 2 study investigating ovicidal activity (Ha03-008) as
+well as 2 Phase 2 pediatric pharmacokinetic (PK) studies (Ha03-003 and Ha03-004), a cardiac
+safety (TQT) study (Ha02-005) and 2 dermal safety studies (Ha03-006 and Ha03-007). A
+prototype formulation, referred to as “Ha44 Lotion”, was also evaluated in a Phase 1 study
+(Ha01-001). A summary of clinical pharmacology studies is shown in Table 2.
+
+7
+Reference ID: 3922694
+
+Table 2: Tabular summary of clinical pharmacology studies
+Study I
+
+Primari· Endpoint
+
+Phase
+HaOl--00 11
+I'
+Ha02--002/
+2:&
+
+To dc.tcnuinc tJ1c safc1y a nd tolerability o rHa44 Lotion
+
+when applied topically to 1hc hair and scalp.
+Primary Objective: To dctcnninc the sMe1y and 1olcmbili1y
+ofabamerapir lotion after a single topical application to the
+hair aud scalp of adult subjects willl head lice infestation.
+
+Ha02--0031
+2b
+
+Proportion of subjects who were lice free at all follow-up
+vis.its 1hrough the Doy 14 visi1.
+
+Ha02-005/
+
+abamewpir lotion 0.74% with increaf>ing exposure dura1ions
+in bealtliy male and lcmalc subjects 10 dctcnnioc the
+supratherapeutic dose th:u \vould be used in P~Jtl 2.
+
+Assess the ,;,1lc1y and 1olerability of single doses or
+2
+
+Ha03--003/
+2
+HaOJ --0041
+2
+
+E\'ulua1c the sa fe ty and 1olcrabi.li1y of 11 single applica1ion or
+
+ab,mietapir lotion 0.74% m1dcr truL~imal use conditions for
+the tre:mnent of head lice.
+Ev:.1lua1c the safe ty and 1olerabili1y ofa single <1pplica1ion of
+abamer::tpir lotion 0.74% unde-r fft.'\x1rn.al use condiLions for
+
+the trc:itmcm of head Iice.
+
+o/o abamC'tapir 1
+Application Time
+AppUcation Arca
+
+Stud~' Purpose
+
+-#
+
+aotl Dcsig,n
+
+Sub.ice rs
+
+Hcal1by
+Volwneers /
+Adttl!S
+
+ECG. PK. Safc1y
+R. DB. PC. SEO
+
+32
+
+Patients I Adults
+
+ECG. PK. Safe1y
+R. DB. PC. ID
+
+30
+
+0.37%. 10 minutes
+0.74%. 10 minutes
+Scalp
+
+Patients I Ages 3
+years and older
+
+PK, Safety
+R. DB, VC,PL
+
+142
+
+0.74%
+20. 40. 60 minutes
+Scalp. Back
+
+Healthy
+Vo1tu11ecrs I
+Adults
+
+ECG. PK, Safety
+R. DB, PC. AC.
+XR
+
+81
+
+0.74%
+IOminutes
+Scalp
+
+Pa1ien1s I Peds 6
+mos to <I 7 years
+of age
+
+PK. Safety
+OL. lD
+
+22
+
+0.74%
+
+Pmicu1s I Peds 6
+mos to < l 7 years
+
+PK. Safety
+OL, I D
+
+JS
+
+037%, 0.74%
+
+I0. 20 mint11es
+Scalp
+
+Population I Age
+
+O.:n~~. LO ntimucs
+
+0.74%. 20 minutes
+Scalp
+
+10 minu1es
+Scalp
+
+of age
+
+Abbrcvrnuons: AC = acove controlled: DB = double blind: EB = e'aluator blmd: ECG = electrocard1ogram: mos = momhs: OL = open label: PC = placebo
+controlled: peds = pediatrics: PL = paraIlcl: R = randomized: ID = single dose: SED = single escalating dose: VC = vehicle controlled: A'R = cross-over.
+(bl(l
+1abame1:1pir c-0nccn1ralion is exprcs.~-cd <iS %w/v for 1hc H~tO l -001 Sludy ~lnd %w/ w ror l<ll 011ter studies. Abmnctapir 0.74% w/ v is equivalent 10
+!6f('4}
+
+---
+
+' HaOl -00 1 uscd a prOLOLy~ aba111ctapir lotion formulation that differs to L11c 01hcr clinical studies listed in this table (refer 10 2.7.1 Summ:iry ofB iopharn•~Ccutic
+Studies aod Associated Aoalytical Methods. Table I).
+
+2.2.2
+
+What are the charncteristics of the exposure-response relationships (dose-response,
+concentration-response) for efficacy and safety?
+A Phase 2b study (Ha02-003) was conducted to evaluate the safety and efficacy of a single, I 0
+minute treatment of abametapir lotion at 2 concentrations (0.37% and 0.74%) compared with a
+vehicle control in adult and pediatric subjects (2 years of age and older). 67.4% (31/46) of
+subjects in the abametapir lotion 0.37% treatment group and 85.7% (42/49) of subjects in the
+abametapir lotion 0.74% treatment group achieved treatment success compared to 23.4% (11/47)
+of subjects in the vehicle lotion group. Both treatment group differences were statistically
+significant (both p-values were <0.001) and demonstrated the efficacy of Abametapir lotion,
+0.37% and Abametapir lotion, 0.74%. Because the 0.74% strength product showed higher rate of
+success and no apparent safety concerns, it was chosen for further development.
+The safety and efficacy of Abametapir lotion, 0.74% was fuither evaluated in 2 Phase 3 trials
+(Ha03-001 and Ha03-002). hi Study Ha03-001 , 81.1 % (43/53) of index subjects in the
+Abametapir lotion, 0.74% group compared to 50.9% (28/55) of index subjects in the vehicle
+lotion group achieved treatment success (no live lice present at any post-Baseline Visit). This
+result was significant (p=0.001) and demonstrated the efficacy of Abametapn· lotion, 0.74%.
+hi Study Ha03-002 , 81.8% (45/55) of index subjects in the Abametapn· lotion 0.74% treatment
+group as compru·ed to 47.2% (25/53) of subjects in the vehicle lotion group achieved treatment
+success (no live lice present at any post-Baselll1e Visit). This result was significant (p<0.001) and
+demonstrated the efficacy of Abametapir lotion, 0.74% while confnming the results obtained in
+the Ha03-001 study.
+
+8
+Reference ID: 3922694
+
+According to the medical officer, Dr. Kevin Clark, most of the adverse effects were local
+reactions, except for vomiting which occurred in 6 of 349 (1.7%) subjects on Abametapir lotion,
+0.74%. In contrast, vomiting occurred in 2 of 350 (0.6%) subjects in the Vehicle group. In the
+Phase 3 trials, laboratory evaluation (hematology, blood chemistry including electrolytes, liver
+and renal function) were checked at baseline and on day 14 with no significant changes.
+Complete physical exams were performed at Baseline and Day 14, and brief exams at Days 1
+and 7.
+2.2.3
+
+What is the systemic bioavailability of Abametapir lotion, 0.74% under maximal use
+conditions?
+The pharmacokinetics of Abametapir lotion, 0.74% were evaluated in 3 trials, namely Trials
+Ha02-003, Ha03-003 and Ha03-004. Each trial enrolled lice infested subjects who received a
+single 10 minute application of Abametapir lotion, 0.74%. Pharmacokinetic samplings were
+carried out to 72 hours post dose in adults and 8 hours post dose in pediatrics for all trials.
+Trial Ha02-003 evaluated pharmacokinetics in 6 adult and 10 pediatric subjects aged 6 to 12
+years of age and 2 pediatric subjects 3 – 5 years of age. The PK profiles out to 72 hours are
+shown in Figure 2 (note: the figure also include plot for a lower strength 0.37% product not
+discussed further in this review). There appears to be a biphasic distribution for abametapir.
+Figure 3 show the PK profile for adults and pediatrics for up to 8 hours post dose, the last time
+point measure in pediatrics (note: the figure also include plot for a lower strength 0.37% product
+not discussed further in this review). The pediatric group had higher systemic exposure to
+abametapir compared to adults.
+The mean (%CV) abametapir plasma maximum concentration (Cmax) and area under the
+concentration time curve from 0 to 8 hours post dose (AUC0-8h) in the adult group were 41
+(66%) ng/mL and 121 (50%) ng*h/mL, respectively (Table 3). The mean (%CV) Cmax and
+AUC0-8h in the pediatric group were 73 (57%) ng/mL and 264 (67%) ng*h/mL, respectively,
+and were higher compared to the values for adults. The mean (%CV) terminal half-life in adults
+was 21 (11%) hours.
+
+9
+Reference ID: 3922694
+
+Figure 2: Mean abametapir (Ha44) plasma concentration time plots in adults (Ha02-003)
+
+Figure 3: Mean abametapir plasma concentration time plots by treatment and age group
+(Ha02-003)
+
+Table 3: Mean (%CV) abametapir PK parameters (Ha02-003)
+Group
+Cmax
+Tmaxa
+T1/2 (h)
+AUC0-tlast AUC0-inf
+(h)
+(ng/mL)
+(h*ng/mL)
+(h*ng/mL)
+Adults
+41.0
+1.54
+21.3
+278.8 (44%) 302.5
+(n=6)
+(66%)
+(0.48­
+(11%)
+(42%)
+4.02)
+Pediatrics 72.6
+0.58
+Not
+263.2 (63%) NA
+(n=12)
+(57%)
+(0.42­
+calculated
+1.03)
+a Median (range)
+
+AUC0-8h
+(h*ng/mL)
+120.7
+(50%)
+263.9
+(62%)
+
+10
+Reference ID: 3922694
+
+Trials Ha03-003 and Ha03-004 evaluated pharmacokinetics in pediatric subjects aged 6 months
+to 17 years of age. The pharmacokinetic results for plasma abametapir are shown in Table 4. As
+expected, even though the values varied between the 2 trials, abametapir exposure increased as
+the age of the subject decreased. Abametapir absorption was rapid with a median Tmax of 0.57
+to 1.54 hours. The PK profile is similar to those seen in trial Ha02-003 (data not shown).
+Table 4: Abametapir pharmacokinetic parameters in subjects with head lice infestation
+(Ha03-003 and Ha03-004)
+Study
+Cmax (ng/mL)
+AUC0-8h (ng*h/mL)
+Age Group
+n
+Mean (%CV)
+Mean (%CV)
+HA03-003 6 months to <1 1
+418
+1057
+HA03-004 year
+5
+228 (50%)
+688 (43%)
+HA03-003
+HA03-004
+HA03-003
+HA03-004
+HA03-003
+HA03-004
+
+1 year to <2
+years
+
+3
+
+209 (62%)
+
+446 (65%)
+
+8
+
+147 (49%)
+
+406 (37%)
+
+2 years to <3
+years
+
+6
+
+206 (66%)
+
+633 (57%)
+
+8
+
+160 (48%)
+
+602 (51%)
+
+3 years to 17
+years
+
+12
+
+121 (60%)
+
+330 (49%)
+
+7
+
+52 (45%)
+
+254 (67%)
+
+Abametapir hydroxyl and abametapir carboxyl:
+Abametapir hydroxyl and abametapir carboxyl are metabolites of abametapir. The concentrations
+of abametapir hydroxyl are low compared to abametapir and will not be discussed further here
+(see individual study reviews in section 4 for details).
+The concentration of abametapir carboxyl (MW 214.2) was much higher compared to
+abametapir. Based on data in adults in trial Ha02-003, where samplings was carried out to 72
+hours, the ratios of Cmax and AUC0-72h between abametapir carboxyl and abametapir were
+about 30 and 250, respectively. The mean PK profile from trial Ha03-003 is shown in Figure 4.
+As seen with the parent, abametapir carboxyl concentration increased with decreasing age. At the
+last sampling time of 8 hour, the concentration appears to be still rising. Even sampling out to 72
+hours in trial Ha02-003 did not adequately capture the full profile of abametapir carboxyl (Figure
+5). The elimination half-life of abametapir carboxyl has not been well characterized but is
+estimated to be approximately (mean ± SD) 71 ± 40 hours or longer in adults. In some subjects
+the plasma abametapir carboxyl concentrations appears to be at a plateau out to 72 hours. The
+summary of PK parameters for abametapir carboxyl from the 3 PK trials is shown in Tables 5 to
+7. The Cmax values noted in these tables may not represent the true Cmax because the sampling
+times were not adequate to capture Tmax in all pediatric and some adult subjects.
+
+11
+Reference ID: 3922694
+
+Figure 4: Mean plasma abametapir carboxyl concentration-time plot by age group (Ha03003) (Group 1: <12 months, group 2: 1 to <2 years, group 3: 2 to <3 years, group 4: 3 to <18
+years)
+12000
+
+10000
+
+:;
+
+8000
+
+~
+
+i
+
+"
+1
+:c
+
+8000
+
+4000
+
+2000
+
+Tl.,.(h)
+
+1-o-oup 1 (n= 1) -e-Group 2 (n=JJ -
+
+Gt'oup 3 {n=6) -II- Group 4 (n=12)
+
+I
+
+Figure 5: Mean (±SD) plasma abametapir carboxyl concentration-time plot in adults
+(Ha02-003)
+2000
+>.
+
+)(
+
+_g ::::r 1500
+'- E
+
+I I
+
+cu
+CJ -C>
+
+·a. .s 1000
+
+I
+
+J9C1> c:
+c.i
+
+i 8 500
+.c
+<(
+
+o...~~~--~~~--~~--~~~.....
+0
+
+20
+
+40
+
+60
+
+80
+
+Time (h)
+Table 5: Abametapir carboxyl PK parameters in adults and pediatrics for Abametapir
+Lotion 0.74% from trial Ha02-003.
+II
+
+Age Group
+
+Cmu (ng/mL)
+
+Trun (hours)
+
+AUC0-s (ng*h/mL)
+
+Mcan±SD
+
+Median ± SD
+
+Mcan ±SD
+
+6
+
+Adults
+
+1130 ± 397
+
+28.7 ± 16.9
+
+4900 ± 1680
+
+12
+
+2 to 12 years
+
+2000 ± l 140
+
+8.0±0.0
+
+11400 ± 6550
+
+Abbrcv1anons: n= number of subjects; SD= staud1ud dcv1anou.
+
+12
+Reference ID: 3922694
+
+Table 6: Abametapir carboxyl PK parameters for Abametapir lotion, 0.74% from trial
+Ha03-003.
+
+Table 7: Abametapir carboxyl PK Parameters for Abametapir lotion, 0.74% from trial
+Ha03-004.
+
+2.2.4 What are protein binding and distribution properties of abametapir?
+Abametapir plasma protein binding was assessed using equilibrium dialysis over 2 hours. The
+protein binding in human plasma was similar over the tested concentration range of 50 – 800
+(b) (4)
+ng/mL and ranged from 91.3 – 92.3% (report
+0014).
+Abametapir carboxyl plasma protein binding was assessed using equilibrium dialysis over 4
+hours. The protein binding in human plasma was similar over the tested concentration range of
+(b) (4)
+1000 – 13000 ng/mL and ranged from 96.0 – 97.5% (report
+0021).
+2.2.5 What is the metabolic pathway for abametapir?
+Incubation of abametapir with liver microsomes in vitro showed that both abametapir hydroxyl
+(abametapir-OH) and abametapir carboxyl (abametapir-COOH) are formed under permissive
+phase I metabolism conditions and glucuronide conjugates of both abametapir-OH and
+abametapir-COOH are formed under permissive Phase II metabolism conditions. It is proposed
+that the metabolic pathway of abametapir involves the sequential formation of abametapir-OH
+followed by abametapir-COOH catalyzed by phase I oxidative metabolism enzymes with
+glucuronidation of both metabolites mediated by Phase II metabolism catalyzed by UDP(b) (4)
+Glucuronosyltransferases (UGTs) (Report
+-036B). Additional in vitro studies using liver
+microsomes showed that abametapir is extensively metabolized, primarily by CYP1A2 and to a
+(b) (4)
+lesser extend CYP2B6 (Report
+0013). The proposed metabolic pathway is shown in Figure
+6.
+
+13
+Reference ID: 3922694
+
+Figure 6: Proposed metabolic pathway of abametapir
+
+Mass spectrometry screening of human plasma following topical administration of Abametapir
+lotion, 0.74% found 3 moieties, namely abametapir and metabolites abametapir-OH and
+(b) (4)
+abametapir-COOH (Report
+0011). In vitro studies identified the capacity for
+glucuronidation of both metabolites, but in vivo data suggests glucuronidated metabolites
+contribute only a small proportion of total drug related exposure and their overall levels are low.
+In vivo, unconjugated abametapir carboxyl accounts for the vast majority of drug related plasma
+exposure in humans.
+Abametapir carboxyl is not metabolized by CYP450s or other NADPH-dependent microsomal
+(b) (4)
+enzymes (Report
+0020).
+2.2.6 What is the effect of Abametapir lotion, 0.74% on QT interval?
+The Applicant conducted a thorough QT study Ha02-005 and reported that administration of
+abametapir lotion, 0.74% for 60 minutes to the scalp and back in healthy adults without head lice
+did not prolong cardiac repolarization (QTc interval). The results of this study were reviewed by
+IRT-QT under IND 77510 on 6/14/2013, which concurred with the Applicant’s conclusion. The
+mean observed abametapir Cmax in this study was 432 ± 137 ng/mL, which exceeded those
+observed under maximal use conditions in subjects with active head lice infestation. The
+metabolite abametapir carboxyl Cmax was 6010 ± 1120 ng/mL, which covered most subjects
+except for those <1 year of age. Therefore, the results of this study are applicable to the target
+population and it can be concluded that there is no concern regarding QTc prolongation with
+Abametapir lotion, 0.74% for treatment of head lice infestation.
+2.2.7
+
+What is the systemic exposure of benzyl alcohol following application of Abametapir
+lotion, 0.74%?
+
+Benzyl alcohol is an excipient in the formulation of Abametapir lotion, 0.74%. Because systemic
+exposure to benzyl alcohol can lead to neonatal gasping syndrome, serum benzyl alcohol was
+measured following application of Abametapir lotion, 0.74% to assess this risk. Benzyl alcohol
+serum concentrations were assessed in PK samples from trials Ha03-003 and Ha03-004 using an
+assay with LLOQ of 0.5 µg/mL. In trial Ha03-003, one of 9 evaluable subjects (13 subjects from
+site 02 were excluded due to inadvertent use of saline flush containing benzyl alcohol) had
+measurable concentration of 0.536 and 0.726 mcg/mL at 0.5 hour and 1 hour post dose,
+respectively. In trial Ha03-004, six of 30 subjects had measurable concentrations of 0.524, 0.664,
+0.826, 0.877, 1.39, and 3.57 µg/mL. Only one measurable concentration was seen in each
+14
+Reference ID: 3922694
+
+subject. Four of the samples were seen at 0.5 hours post dose and two samples (the highest 2
+concentrations) were seen at 8 hours post dose.
+These observed concentrations of benzyl alcohol do not appear to be a safety concern. Systemic
+exposure to benzyl alcohol at concentration of ~109.2 µg/mL (1.01 mmol/L) has been associated
+with neonatal gasping syndrome (Gershanik et al., N Engl J Med 1982; 307:1384-1388). The
+highest benzyl alcohol observed in the current trial of 3.57 µg/mLis about 30 fold lower. For
+reference, the highest plasma benzyl alcohol observed in studies with Natroba and Uleasfia, two
+other products approved for treatment of head lice infestation, were 2.37 µg/mL and 2.99 µg/mL,
+respectively.
+2.3
+
+Intrinsic Factors
+
+2.3.1 What is the systemic exposure of Abametapir lotion, 0.74% in pediatrics?
+The systemic exposure of abametapir and its metabolites was higher in pediatrics and increased
+with decreasing age. See section 2.2.3 for further details.
+2.3.2 What is the effect of hepatic and renal impairment on Abametapir lotion, 0.74% PK?
+The effect of hepatic and renal impairment on PK of Abametapir lotion, 0.74% was not
+evaluated by the applicant.
+2.4
+
+Extrinsic Factors
+
+2.4.1
+
+What is the effect of CYP enzymes inhibition on the pharmacokinetics of Abametapir
+lotion, 0.74%?
+
+The effects of CYP enzyme inhibition on the PK of Abametapir lotion, 0.74% were not
+evaluated. Since abametapir is metabolized mainly by CYP1A2, inhibition of this enzyme may
+lead to increased systemic exposure to abametapir.
+2.4.2
+
+What is the effect of Abametapir lotion, 0.74% on the PK of other drugs?
+
+There is low risk of in vivo CYP inhibition for abametapir and low risk of CYP induction for
+both abametapir and abametapir carboxyl. However, there is a potential risk of CYP3A4
+inhibition due to high and sustained plasma concentration of abametapir carboxyl following
+application of Abametapir lotion, 0.74%. The potential of Abametapir lotion, 0.74% to inhibit
+CYP3A4 should be further evaluated in vivo. A brief discussion of this recommendation is
+presented below followed by additional details of in vitro inhibition and induction results for
+abametapir and abametapir carboxyl, respectively.
+Briefly, in human liver microsomes studies, the results showed no significant (>30%) inhibition
+of CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, or CYP3A4/5 at concentration
+up to 200 μM for abametapir carboxyl. Based on highest clinically observed plasma total Cmax
+of 45.3 µM (9710 ng/mL) or unbound concentration of 1.81 µM, the Cmax/Ki (assuming
+Ki=IC50/2) would be <0.227 based on total drug and <0.0181 based on unbound drug
+
+15
+Reference ID: 3922694
+
+concentration. Given that this was based on the highest observed clinical sample, it suggests the
+risk of CYP inhibition for abametapir carboxyl is low.
+However, in a study with human hepatocytes to evaluate the induction potential, abametapir
+carboxyl showed concentration dependent inhibition of all 3 tested enzymes, namely CYP1A2,
+CYP2B6 and CYP3A4 with 50% inhibition of enzyme activity at concentrations in the range of
+50 – 200 µM and 50% inhibition of mRNA expression as low as in the range of 5 – 15 µM. A
+similar trend of CYP enzyme inhibition (primarily CYP3A4) in hepatocytes was also seen at the
+highest concentration tested for abametapir (i.e., 40 µM). It is not clear the reason for this
+discrepancy between results of hepatocyte studies and microsomal studies. It is possible that
+hepatocytes could form metabolites and lead to the observed inhibition. Abametapir carboxyl
+may also be acting as a suppressor of CYP enzyme expression as both enzyme activity and
+mRNA expression was inhibited. The potential for Abametapir lotion, 0.74% to inhibit CYP
+enzymes, particularly, CYP3A4 should be further evaluated in vivo.
+CYP inhibition potential of abametapir:
+The potential for abametapir to inhibit CYP450 enzymes commonly active in the metabolism of
+(b) (4)
+xenobiotics was assessed in vitro using pooled human liver microsomes (Report
+0009).
+Abametapir (0, 40 μM) was incubated with human liver microsomes (pooled from 50 donors) in
+the presence of NADPH for 0 and 0.5 hours, in duplicate. Subsequently, CYP450 specific
+chemical substrates were added to the incubations. The inhibition results are shown in Table 8.
+Abametapir reversibly inhibited the activity of CYP1A2 (Ki = 39 μM). It did not inhibit the
+activity of CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6 or CYP3A4/5 at up to 40 μM.
+Considering the highest mean Cmax (in subjects <1 year of age) in maximal use PK trials Ha03­
+003 and Ha03-004 was 1.41 µM, the [I]/Ki is <0.1 suggesting low risk of in vivo CYP inhibition.
+
+16
+Reference ID: 3922694
+
+Table 8: CYP450-Specific Substrates Utilized to Identify Abametapir Potential for CYP450
+Inhibition and results of inhibition
+~0009
+
+Stud)' !\ umbC'r
+
+Type of Study
+Method
+Compound
+C}1ochrome P450 Type
+
+Jnhibitiou ofCYPJ A2. 286. 2C8. 2C9. 2Cl9. 2D6. aud 3A4/5 activiry levels in buman Liver microsorues
+Enzyme activity assay: LC-MS/MS ru1alysis of enzyme substrate levels over time
+Inhibition potential was assessed at an abametapir concentration of 40 µM. Abametapir was subsequently titrated from 0 to
+120 11M to further characterize its potential forthe inhibition of CYP IA2.
+% Inhibition
+Abaonetapir
+
+Enzyme
+
+Selecti ve lnhibilOr
+
+0 min prt·incubation
+
+30 mln pre·incubation
+51
+
+CY PIA2
+
+Phenacetin 0-deethylasc
+
+63
+
+CYP2B6
+
+Bupropion hydroxylase
+
+10
+
+8
+
+781{Furali'lli ne, 3 ftM)
+97 1(Th io-TEP1\. 50 µM)
+
+CYP2C8
+
+Taxol 6a-hydroxylase
+
+6
+
+.3
+
+361 {Trimethoprim. 80 ~tM)
+
+CYP2C9
+
+Diclofenac 4'-hydroxylase
+
+-I
+
+0
+
+95' (Sulphaphenazole, 20 p M }
+
+CYP2C l9
+
+S-Mephcnytoin 4'·hydroxylase
+
+6
+
+3
+
+!>I' (Uenzylni rvanol, 5 ~1M)
+
+CYP2D6
+
+fJu ruralol I'-hydroxylaS<>
+
+10
+
+6
+
+61' (Quinidiae. 5 pM)
+
+CYP3A4/5
+
+Testosterone 61}-hydroxylase
+
+15
+
+6
+
+95' (Ketoconazole, I µM)
+97 1(Troleaodomycin. I00 ftM)
+
+CYP3A415
+
+Midazolam I'-bydroxylase
+
+-23
+
+-18
+
+942(Ketoconazole. I µM)
+95\Troleaodomycin, 100 ftMJ
+
+..
+
+..
+
+Add1uonal l11forma11on: Abamctnptr (at 40 µM) reversibly (compet1uvely) 111b1b1ts CY PI A2. Aba111ctapir was rnrated (0 10 120 µM) to characterize the
+inh ibition potential against CYPIA2 and the resulting Ki was detennined to be 39 ~tM.
+l Mcchanism·based selective chemical inhibitor requiring 30 minutes pre-incubation.
+l
+
+Direct selective chemicaJ inhibitor re<1uiring 0 minutes pre-incubation.
+
+CYP inhibition potential of abametapir carboxyl:
+The potential for abametapir carboxyl to inhibit CYP450 enzymes c01mnonly active in the
+metabolism of xenobiotics was assessed in vitro using pooled human liver microsomes (Report
+1 1
+~ 0017). Abametapir carboxyl (0, 200 µM) was incubated with human liver microsomes
+(pooled from 150 donors) in the presence ofNADPH for 0 and 0.5 hours, in duplicate.
+Subsequently, CYP450 specific chemical substrates were added to the incubations. The
+inhibition results are shown in Table 9.
+No significant (>30%) inhibition ofCYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19,
+CYP2D6, or CYP3A4/5 was observed at either time point. Thus, abametapir carboxyl is not a
+competitive/reversible or time-dependent inhibitor of human CYP450 enzymes at up to 200 µM.
+In vivo systemic exposure of abametapir carboxyl under clinical use condition resulted in
+concentration up to 9710 ng/mL or 45.3 µM. Based on protein binding of 96%, the unbound
+concentration is equal to 1.81 µMand the calculated unbound Cmax/Ki (assuming Ki=IC50/2) is
+<0.0181 suggesting low risk of in vivo inhibition. However, in a study with human hepatocyte to
+evaluate the induction potential, abametapir carboxyl showed unexpected concentration
+dependent inhibition of all 3 tested enzymes, namely CYP1A2, CYP2B6 and CYP3A4 with 50%
+inhibition of enzyme activity at concentrations in the range of 50 - 200 ~tM (see discussion of
+hepatocyte induction study below).
+
+17
+Reference ID: 3922694
+
+Table 9: CYP450-Specific Substrates Utilized to Identify Abametapir Carboxyl Potential
+for CYP450 Inhibition and inhibition results
+Stud)' Number
+
+~01 7
+
+Type ofSttKly
+
+Inhibition o f CYPI Al. 266. 2CS, ZC9, 2Cl9. 206. and 3A4/ 5 activ ity levels in human liver microsomes
+
+Method
+
+Enzyme activity assay; LC-MS/~<fS ;inalysis of e-nzyme substrate levels over time
+lobibitiou potentia l was assessed at an abametapir carboxyl co11ce11tratiou of ZOO JLM
+
+% luhibition
+
+Compound
+
+Abanietapir carboxyJ
+Cytochrome P450 Type
+
+Enzyme
+
+Selective lnbibitor
+
+0 min pre-incubation
+
+30 min p re-i ncubation
+
+CYPIA2
+
+Phenacetin 0 -deethylase
+
+-5
+
+-26
+
+69 1 (Furafy1Ji11e . 3 µM)
+
+CYP2B6
+
+Bupropion hydroxylase
+
+. ))
+
+.5
+
+97 1 (Thio-T EPA. 50 JtM)
+
+CYP2CS
+
+Amodiaquine N..deethylase
+
+II
+
+12
+
+83 2 (Monrelukast. I 11M)
+
+CYP2C9
+
+Diclofonac 4'-hydroxylase
+
+.Jo
+
+7
+
+IOO' (Sulphaphenazole . 20 1tM)
+
+CYP2Cl9
+
+S·Mcphenytoin 4'-hydroxylase
+
+-9
+
+s
+
+90 2 (Beuzylnirvauol, 5 JtM)
+
+CYP2D6
+
+Bufuralo l l'·hydroxylase
+
+·2 3
+
+- 12
+
+SO' (Quinidine , 5 p M)
+97' I Ketoconazole. l ~tM)
+97 1(Trolcandomycin, 100 µMl
+
+CYP3A4/S
+
+Testosterone 61\-hydnaxylase
+
+-2
+
+II
+
+CYP3A415
+
+M idazola m J'.hydroxylas e
+
+I
+
+·6
+
+96' c Ketoconazole, I ~LM)
+97 1 (Trolea ndomycin. JOO ~tM)
+
+Additional Info rmation: Abao1etapir carboxyl (at 200 llM) does not inhibit the ac tivity of any of the cy1ochrome P450s 1ested.
+1Mechanism-based selective chemica l inh ibitor l'equiriog 30 minutes pre-incubmiou.
+'Direct selective chemical inhibitor requiring 0 111inu1es pre-incubation .
+
+CYP induction potential of abametapir:
+The p otential for abametapir to induce CYP450 mRNA and enzyme activity levels was assessed
+in vitro using c1yopreserved human hepatocytes (Repo1i bH 4•0010). Abametapir (0.4, 1.3, 4.0,
+12, and 40 ~1M) was incubated with cultured hepatocytes from 3 donors (male and female) for 48
+hours, with medium changes at 24 hours. Subsequently, cells were washed and chemical
+substrates for CYP1A2 (phenacetin), CYP2B6 (buproprion), and CYP3A4 (midazolam) were
+added to the cultures for 0.25 , 0.33, and 1 hour, respectively. Following these incubations,
+reactions were quenched and samples either were analyzed for substrate metabolites
+(acetaminophen, hydroxybuproprion, and 1-hydroxymidazolam) using LC-MS/MS or were
+analyzed for CYP1A2, CYP2B6, and CYP3A4 mRNA expression using quantitative RT-PCR
+and SYBR-green technology. Positive and negative controls were assessed concunently. Results
+are shown in Table 10.
+Abametapir did not markedly (::'.:2-fold) induce CYP1A2, CYP2B6, or CYP3A4 activity (most
+cases were :Sl.4-fold except for CYP1A2) and did not markedly induce (::'.:20% of that elicited by
+the positive control) CYP1A2, CYP2B6, or CYP3A4 mRNA expression. There was no evident
+of positive concentration response relationship for any enzymes tested. Thus, at up to 40 µ.M ,
+abarnetapir is not considered an inducer of human CYP450s.
+
+18
+
+Reference ID: 3922694
+
+Table 10
+Study N umber
+
+E.!!!0 0 10
+
+Type of Study
+
+Induction ofCYPIA2, 266, and 3A4/5 mRNA and activity levels in human hepatocytes
+mRNA assay: quantitative-PCR using SYBR' -green technology
+Enzyme activity assay: LC-MS/MS analysis of enzyme substrate levels over time
+Induction potential was assessed at abametapir concentrmion.s of0.4, 1.3, 4.0. 12 and 40 µM
+
+Method
+Assay
+
+mRNA expression
+Abametapir
+Coocenrratioo with
+
+Fold Induction
+
+Maximal Induction (~•M)
+
+Enzyme activity
+
+Relative
+Potency(%)
+
+Abamctapir
+C'ooceotratio11 \Vhh
+Maximal Induction (pM)
+
+Fold Induction
+
+Relative
+Potency(%)
+
+5.5
+
+CY PIA2
+Donor (b)(6
+
+12
+
+1.7
+
+2. 1
+
+12
+
+1.5
+
+Donor
+
+12
+
+1.9
+
+3.1
+
+12
+
+1.7
+
+21
+
+12
+
+1.9
+
+2.9
+
+12
+
+1.4
+
+4.5
+
+Donor
+CY P2B6
+
+-
+
+Donor lti)(6
+
+-l.O
+
+1.3
+
+2.0
+
+4.0
+
+I.I
+
+7.1
+
+Donor
+
+4.0
+
+LS
+
+2.2
+
+4.0
+
+1.2
+
+6.6
+
+Donor .......
+
+4.0
+
+1.8
+
+2.3
+
+1.3
+
+1.3
+
+7.8
+
+1.2
+
+CYP3A4/5
+Donor 1uns ·
+
+4.0
+
+1.2
+
+1.3
+
+12
+
+I.I
+
+Donor
+
+4.0
+
+2.0
+
+2 .9
+
+4.0
+
+1.2
+
+1.7
+
+Donor
+
+l.3
+
+2 .0
+
+3.6
+
+0.4
+
+l.J
+
+1,7
+
+CYP induction potential of abametapir carboxyl:
+The potential for abametapir carboxyl to induce CYP450 mRNA and enzyme activity levels was
+assessed in vitro using c1yoprese1ved human hepatocytes using same method outline for
+abametapir above except incubation duration was 72 hours (Repo1i bll.il 0018). Abametapir
+carboxyl was tested at concentrations of 5, 15, 50, 100, and 200 µM, each in duplicate.
+Abametapir carboxyl did not markedly (:'.:::2-fold) induce CYP1A2, CYP2B6, or CYP3A4 activity
+and did not markedly induce (:'.:::20% of that elicited by the positive control) CYP1A2, CYP2B6,
+or CYP3A4 mRNA expression. There were 2 cases where it exceeded the above thresholds,
+namely a 40.7% relative potency for CYP2B6 in one donor and a 20.7% relative potency for
+CYP3A4 in another donor. There was no positive concentration induction response trend. Thus,
+abametapir carboxyl, at up to 200 µM, is not considered an inducer of human CYP450s. In
+contrast, it appears that there were significant inhibition of activity and mRNA expression of all
+3 CYP enzymes tested. Results of maximum enzyme inhibition are shown in Table 11 below.
+Evaluation of CYP enzyme activities at all concentrations tested showed that there appears to be
+concentration dependent inhibition with 50% inhibition of enzyme activity occmTed at
+concentrations in the range of 50- 200 µM, with CYP3A4 being most sensitive. Similar results
+were seen with mRNA expression, where CYP3A4 was most sensitive with 50% mRNA
+inhibition in the range of as low as 5 - 15 ~tM.
+
+19
+Reference ID: 3922694
+
+Table 11: CYP enzyme inhibition in hepatocytes due to abametapir carboxyl.
+Study Number
+
+Jblf4~018
+
+T ype o f Stody
+
+Induction ofCYPIA2 , 286, and 3A4/ 5 mRNJ\ a nd activity levels in human hepatocytes
+mRNA assay: qu~ntirativc-PCR using SYB R' ·b'fecn tcchnolof.'Y
+Enzyme acti vity assay: LC-MS1MS analysis o f enzyme s ubstrate levels over t ime
+
+Mel hod
+
+Jncl uction potential was assessed a t abameta pir concenO'ations of 5, I 5, 50 . I 00. and 200 rtM
+Assay
+
+mRNA expression
+Abametapir Carboxyl
+Concentration with
+
+Fold Induction
+
+Enzyme activity
+Suppre ssion(%)
+
+Maximal Induction (µ M)
+
+Abametapir Carboxyl
+Concemra tion with
+
+Fold Induction
+
+Suppression(%)
+
+Maxima l lnduc1ion (ftM)
+
+CYJ>JA2
+Donor (6)16
+
+20 0
+
+0.48
+
+52
+
+200
+
+0.52
+
+~8
+
+Donor
+
+200
+
+0 .27
+
+73
+
+200
+
+0.48
+
+52
+
+Donor
+
+200
+
+0. 19
+
+81
+
+200
+
+0.11
+
+89
+
+200
+
+0 .08
+
+92
+
+200
+
+0. 16
+
+84
+
+200
+
+0.21
+
+79
+
+200
+
+0.40
+
+60
+
+200
+
+0.28
+
+72
+
+200
+
+0.09
+
+91
+83
+
+CY P2B6
+
+t6J(6
+
+Douor
+Donor
+Donor
+
+-
+
+CYP3A4/ 5
+
+(b)(6
+
+200
+
+0 ,02
+
+98
+
+200
+
+0.17
+
+Donor
+
+200
+
+0 .05
+
+95
+
+200
+
+0.23
+
+77
+
+Donor
+
+200
+
+0,02
+
+98
+
+200
+
+0.10
+
+90
+
+Donor
+
+2.4.3 Are abametapi.r and abametapir carboxyl substrates of drng transpo11ers?
+The applicant conducted studies to assess whether abametapir and major metabolite abametapir
+carboxyl are substrate of drng transpo1ters. The results showed that neither abametapir nor
+abametapir carboxyl are substrates for ABC (ATP binding cassette) efflux transporters MDRl
+and BCRP and SLC (solute caiTier) uptake transporters OATPlBl, OATP1B3, OATl , OAT3
+and OCT2. Additional details for abametapir and abametapir carboxyl are shown separately
+below.
+Abametapir:
+The p otential for abametapir to be a substrate for efflux and uptake transpo1ters was assessed in
+vitro in a series of assays using liquid scintillation counting (LSC) (Rep011 (brf410008). 14Cabametapir (0.4, 4 and 40 µM) was administered to the apical or basolateral chambers of
+monolayers ofMDCKII cells transfected with MDRl (P-glycoprotein) or BCRP, and the
+bidirectional transpo1t of abametapir was detennined via LSC after 0, 0.25, 0.5, 1, and 2 hours of
+incubation. Appropriate p ositive and negative controls were conducted concurrently and verified
+the validity of the assay. Background-conected efflux ratios of abametapir were approximately 1
+in both MDCKII-MDRl and MDCKII-BCRP monolayers at all concentrations tested. Therefore,
+abametapir is not considered a substrate of the ABC efflux transpo11ers MDRl and BCRP at
+concentrations up to 40 µM.
+14C-abametapir (0.4 and 40 µM) was administered to Chinese hamster ova1y (CHO) cells
+
+transfected w ith human OATPlBl, human OATP1B3, human OATl , or human OCT2 and
+HEK293 cells transfected with human OAT3 for 2 and 20 minutes of incubation. The
+accumulation of abametapir was detected through LSC of cell lysates. Appropriate p ositive and
+negative controls were conducted concunently and verified the validity of the assay. Less than 2fold accumulation of abainetapir was observed in any of the cell cultures. Therefore, abametapir
+
+20
+Reference ID: 3922694
+
+is not considered a substrate of the SLC uptake transporters OATP1B1, OATP1B3, OAT1,
+OCT2 and OAT3 at concentrations up to 40 μM.
+Abametapir carboxyl:
+The potential for abametapir carboxyl to be a substrate for ABC efflux and SLC uptake
+transporters was assessed in vitro (Report OPT-2014-056). Abametapir carboxyl (5 and 50 μM)
+was administered to MDCKII monolayers transfected with MDR1 or Caco-2 cells endogenously
+expressing BCRP for 2 hours in the absence or presence of transporter-specific inhibitors.
+Positive controls consisted of radiolabeled transporter-specific probe substrates. Reactions were
+quenched, and samples from the basal and apical wells were measured for abametapir carboxyl
+by LC-MS/MS and for positive controls by radiometric detection. Transport was measured in
+both the apical-to-basal and basal-to-apical directions. MDR1 efflux ratios for abametapir
+carboxyl were less than 2. BCRP efflux ratios for abametapir carboxyl were slightly >2 at 5 µM
+and <2 at 50 µM, but the presence of the BCRP-specific inhibitor did not impact the efflux.
+Therefore, abametapir carboxyl is not considered a substrate of the ABC transporters MDR1 and
+BCRP at concentrations up to 50 µM.
+Abametapir carboxyl (5 and 50 µM) was administered to MDCKII monolayers transfected with
+OATP1B1, OATP1B3, OAT1, OCT2, or OAT3 for 5 minutes in the absence and presence of
+transporter-specific inhibitors. Identical treatments were made to MDCKII monolayers which did
+not express the transporters. Positive controls consisted of radiolabeled transporter-specific probe
+substrates. Reactions were quenched, and quantities of abametapir carboxyl in cell extracts were
+determined by LC-MS/MS, while quantities of positive controls in cell extracts were measured
+by radiometric detection. Net transporter mediated uptake was calculated by subtracting
+concentrations in monolayers not expressing transporters from concentrations in monolayers
+expressing the transporter of interest. Net transporter mediated cellular accumulation was
+minimal. Therefore, abametapir carboxyl is not considered a substrate of the SLC uptake
+transporters OATP1B1, OATP1B3, OAT1, OCT2 and OAT3 at concentrations up to 50 µM.
+2.4.4 What is the effect of Abametapir lotion, 0.74% on drug transporters?
+The applicant conducted studies to assess whether abametapir and major metabolite abametapir
+carboxyl can inhibit or induce the function of drug transporters MDR1(P-gp), BCRP, OATP1B1,
+OATP1B3, OAT1, OCT2 and OAT3. The results showed that abametapir and abametapir
+carboxyl have the potential to inhibit various transporters at high concentrations. Abametapir has
+the potential to inhibit OCT2 (IC50 = 35.4 μM) and OAT3 (IC50 = 57.5 μM), but the ratio of the
+unbound Cmax to the IC50 is less than 0.1. Abametapir carboxyl has the potential to inhibit
+OAT3 (IC50 = 17.1 μM), OCT2, OAT1, OATP1B1, and MDR1, however the unbound Cmax /
+IC50 ratios for OAT3, OCT2, and OAT1 also are all less than 0.1. Abametapir carboxyl IC50
+values were not determined for MDR1 and OATP1B1(i.e., IC50 >100 µM) due to solubility
+limitations; the total Cmax / IC50 ratios for both transporters are <0.24. Overall, the data suggest
+low risk of interaction with drug transporters following topical application of Abametapir lotion,
+0.74% for treatment of head lice infestation. Additional details for abametapir and abametapir
+carboxyl are shown separately below.
+Abametapir:
+
+21
+Reference ID: 3922694
+
+The potential for abametapir to inhibit ABC efflux and SLC uptake transporters was assessed in
+(b) (4)
+a series of in vitro assays using vesicles and cell monolayers (Report
+0008). Abametapir
+(0.16 to 120 μM) was administered to membrane vesicles prepared from mammalian K and M
+cells overexpressing MDR1 or BCRP in the presence of transporter-specific probe substrates and
+ATP or AMP for 3 or 1 minute, respectively. Positive controls consisted of transporter-specific
+inhibitors, and negative controls consisted of vehicle. Identical treatments were made to vesicles
+which did not express the transporters. Reactions were quenched, and the amount of transporterspecific substrate inside the vesicles was measured using LSC. Abametapir stimulated MDR1
+transport in a dose-dependent manner with a maximum stimulation of about 2-fold relative to
+vehicle control. Abametapir weakly inhibited BCRP transport with a maximum inhibition of
+22% at 120 μM.
+Abametapir (40 μM) was administered to the apical or basolateral chambers of monolayers of
+MDCKII cells transfected with MDR1 or BCRP for 2 or 1 hours of incubation, respectively, and
+the bidirectional transport of radiolabeled probe substrates was detected through LSC. Identical
+treatments were made to monolayers which did not express the transporters. Positive controls
+consisted of transporter-specific inhibitors, and negative controls consisted of vehicle. Due to
+equivocal results, this experiment was conducted twice. After appropriately correcting for
+background in the second set of experiments, this study confirmed abametapir carboxyl did not
+affect the apparent permeability in either direction for MDR1 and the efflux ratio for BCRP was
+approximately 1. Therefore, abametapir was not considered an inhibitor of the ABC efflux
+transporters MDR1 and BCRP at 40 μM.
+For SLC uptake transporters, abametapir (0.16 to 120 μM) was administered to CHO cells
+transfected with human OATP1B1, OATP1B3, OAT1, or OCT2, and HEK293 cells transfected
+with human OAT3 for 5 or 10 minutes of incubation in the presence of radiolabeled transporterspecific probe substrates. Reactions were quenched, and the accumulation of transporter-specific
+probe substrates was detected through LSC of cell lysates. Identical treatments were made to
+cells which did not express the transporters. Positive controls consisted of transporter-specific
+inhibitors, and negative controls consisted of vehicle. OATP1B1, OATP1B3, and OAT1­
+mediated transport were inhibited by less than 30% at abametapir concentrations up to 120 μM.
+OCT2 and OAT1-mediated transport were weakly inhibited by abametapir carboxyl, with IC50
+values determined as 35.4 and 57.5 μM, respectively. Detailed results are shown in Table 12.
+
+22
+Reference ID: 3922694
+
+Table 12: Results of abametapir vesicular transport and uptake transport inhibition assays
+Stud~· ~umbe r
+
+~TI~oos
+
+Type of Study
+
+Transponer inhibition potemial
+
+AbarneLaJ)il' (0. 16 to 120 11M) inhibiuon of vesiculat Lranspol't al\d up1ake 1ra1lspon in CHO or HEK29:S cells 1·rtmsfeclied '"ith P-gp. BCRP,
+OATP I B l. 0 ATPIB3. OATI . 0AT3. or OCT2.
+
+Method
+
+Vesicular Transp011 aud Uptake Trausp!:>rt luhibition Assays
+Abam.etapir Concemration
+
+O(DMSO)
+
+0.1 6µM
+
+0.49 µ M
+
+1.48 ftM
+
+13.33 µM
+
+40.00itM
+
+120.00 µM
+
+Inhibitor
+
+92.59 ± 5.72
+
+98.13 ± 12.S
+
+163.3 1
+11.62
+
+=
+
+201.6 7 ±
+
+253.43 ±
+
+5.63
+
+285.94 ±
+3.33
+
+291.99 ±
+31.86
+
+6.53 2.96
+(Verapamil,
+JOO µM)
+
+100 8.74
+
+=
+
+105.98 ± 15
+
+176.38 ;,
+16.63
+
+217.8 1 ±
+24.38
+
+238.43:>
+17.96
+
+273.71 ±
+17.98
+
+308.82 Jo
+19.43
+
+3 15.36 *
+39.55
+
+7.06 ± 3.12
+(Verapamil.
+JOO 1u\1)
+
+234 94 ±
+7.67
+
+245.46 ±
+39.76
+
+292.9 ±
+74.85
+
+250.JJ : 4.9
+
+224.7 ±
+41.39
+
+247.55 ±
+24.88
+
+229.39 ± 7.8
+
+182.87 *
+4.56
+
+1.87 ± 0.94
+<Ko l 34. I µ Ml
+
+100 ±4.62
+
+104.48 +
+17.26
+
+124.67 ,J,
+32.12
+
+106.46 ,J,
+4.05
+
+95.64 ..
+17.89
+
+105.37 ..
+I 1.13
+
+97.64 ±4.6
+
+77.84 = 3.2
+
+0.79 ± 0.4
+(Ko l 34. I µM )
+
+843± 68.S
+
+894 ± 16.27
+
+875.67±
+93.9
+
+909.67 ±
+25.4 1
+
+860.67 ±
+53.28
+
+833 ± 83.08
+
+762± 52.97
+
+623.67 *
+76.02
+
+51.67 ± 17.7
+(Cecivastatin,
+JOOµM )
+
+100 ,i. 11.54
+
+106.05 ±
+S.87
+
+103.88
+14.00
+
+=
+
+107.9 1
+9.31
+
+=
+
+102.1 0±
+10.46
+
+98.81 ±
+12.73
+
+90.39 + 9.69
+
+73.98 ±
+10.85
+
+6. 13 ± 2. 16
+(Cerivnstarin.
+JOO 11M)
+
+Transporter
+speci fic
+
+mwspon
+P·gp
+
+Transponer
+specific
+1mnspon
+
+transpon (% of
+
+control)
+
+Transporter
+specific
+tmnspo1•t (cpm)
+
+Re lative
+11'9.l'ISp Ott (%of
+
+comrol)
+Srudy Numbtr
+
+f6H\ 1oos
+
+Type of S111dy
+
+Transporter inhibi1ion po tential
+
+0 ATPJ83
+
+Transponet
+specific
+transpon (Al'V>
+
+Relati\.'e
+tra11spo11 (%of
+
+15 1,273.33
+
+± 6,950.29
+
+146.740.00
+10,227.79
+
+=
+
+148.179.67
+± 13 ,306.32
+
+100 ±6.50
+
+97.00 ± 8.10
+
+97.95± 9.88
+
+1,303.00 *
+13.93
+
+1,265.33 ±
+57.97
+
+1,273.33 ±
+120.07
+
+COnll'OI)
+
+OATI
+
+0AT3
+
+Traospo11er
+specific
+traospon (cpm)
+
+155.885.67
+± 9,213.47
+
+103.05 ±
+
+7.71
+1,284.00±
+25.4 7
+
+145.939.00
+±I 1,225.04
+
+154.044.67
+± 2,13 1.00
+
+166,256.33
+± 6,136. 75
+
+15 1,38 1.67
+± 13.219. IS
+
+7,057.6H,
+931.84
+(F1uvastatin,
+30 µM)
+
+96.4 7 ± 8.64
+
+10 1.83 ±
+4.89
+
+109.'lO .,
+6.48
+
+100.07 ±
+9.87
+
+4.67±0.65
+(Fl11\'11S1a1in.
+30 µM)
+
+1,201.67±
+26.43
+
+1,207.33 *
+19.12
+
+1,11 3.67±
+69. 12
+
+96 1.67±
+40.86
+
+ReJatlve
+transpoll (%of
+control)
+
+100 * I.SI
+
+97 11 * 4.57
+
+97 72 * 9.2 7
+
+98.54 :t 2 22
+
+Transponcr
+sped fie
+transpon (cpm)
+
+500.33 *
+I 1.08
+
+6 11.33 ±
+39.16
+
+:>49.67 ±
+69.20
+
+525.67 ±
+31.46
+
+492.83 :
+39.63
+
+462 .00 ±
+39.38
+
+100 ± 3.13
+
+122.19±
+8.28
+
+109.86±
+14.04
+
+105.06 ± 6 .7
+
+98.50 ± S.22
+
+603.00±
+62.38
+
+597.67 ±
+24.47
+
+617.67 ±
+37.31
+
+54 5.67 ±
+39.79
+
+52 1.67
+3 1.1 5
+
+=
+
+JOO± 14.63
+
+99. 12 ±
+11.03
+
+!02.43
+12.27
+
+90.49 *
+I 1.45
+
+86.SI ±
+J0.33
+
+Rela1ive
+tmos1>011 (%of
+
+control)
+
+92.22
+
+* 2 25
+
+Trans1>0ner
+
+OCT2
+
+=
+
+(pmollmg/min)
+
+Re la1ive
+
+OATPI B I
+
+220.76 ± 9.S
+
+(pmoVmg/min)
+
+Relath•e
+u:mspon (0 '0 of
+comroll
+
+BCRP
+
+18.82
+
+4.44 ftM
+
+specific
+transport
+(pmolfmg/min)
+
+Relative
+transpon (%of
+control)
+
+=
+
+81.67 ± 18.74
+(ProbClJCCid.
+200~M)
+
+73.80 ;, 3.23
+
+6.27 ± 1.44
+(Probenecid .
+200µM)
+
+331.00 ±
+27.31
+
+207.33 ±
+5.60
+
+37.00 ± 16.66
+(Probenecid,
+200 µ~1)
+
+92.34 " S. D
+
+66.16 : 5.65
+
+41.44 ±1 .45
+
+7.40 ± 3.3
+(Probene.:id .
+200µMl
+
+430.33 :!:
+13.2
+
+292.67 ±
+13.98
+
+147.00±
+8.29
+
+24.00 ± 12.04
+(Vcrapamil,
+IOOµ M)
+
+7 1.37 ± 7.70
+
+48.54 % 5.53
+
+24.38"' 2.87
+
+3.98±2.04
+(Verapamil.
+IOOµM)
+
+92.66 ± l .77
+
+85.47
+
+* 5 38
+
+= P~gl )'Coprote m : BCRP .. BreasLCancer Resistance Pro1ern; OAT I= Organic Anion Transporter I; 0 AT3 = Or~a111c Anion Transporter 3: OATPI BI =
+Organic Anion Transporting Polypep1ide IB I, OATP I 8 3 = Organic Anion Trauspor1ing Polypeptide I 8 3. OCT2 = Orgouic Cation Transporter 2.
+Addi1ional Info rmation: Abameiapfr OCT2 ICso• 35.4 JLM, AbametapirOAT'J JCso,.. 5 7.5 JJ.\1
+1\b br~vra 11 o ns: P ~gp
+
+Abametapir carboxyl:
+The potential for abametapir carboxyl to function as an inhibitor of ABC efflux and SLC uptake
+transporters was assessed in vitro (Repo11s OPT-2014-055 and OPT-2014-081). Abametapir
+carboxyl (100 µM) was administered to MDCKII monolayers transfected with MDRl or Caco-2
+cells endogenously expressing BCRP for 2 hours in the presence of radiolabeled transporter23
+Reference ID: 3922694
+
+specific probe substrates. Positive controls consisted of transporter-specific inhibitors, and
+negative controls consisted of vehicle and, for MDR1, non-transfected monolayers. Reactions
+were quenched, and samples from the basal and apical wells were measured for probe substrates
+by radiometric detection. Transport was measured in both the apical-to-basal and basal-to-apical
+directions. BCRP transport was not inhibited, while MDR1 transport was inhibited only 18.7%
+by abametapir carboxyl at 100 μM.
+Abametapir carboxyl (100 μM) was administered to MDCKII monolayers transfected with
+OATP1B1, OATP1B3, OAT1, OCT2, or OAT3 for 5 minutes in the presence of radiolabeled
+transporter-specific probe substrates. Positive controls consisted of transporter-specific inhibitors
+in the presence of probe substrates. Negative controls consisted of probe substrates without
+candidate inhibitors. Identical treatments were made to MDCKII monolayers which did not
+express the transporters. Reactions were quenched, and quantities of probe substrates in cell
+extracts were measured by radiometric detection. OAT1, OCT2, and OATP1B1-mediated
+transport were inhibited by less than 30% (OAT1 by 25.4%, OCT2 by 28.7%, OATP1B1 by
+21.8%). OAT3-mediated transport was inhibited by 77.4% (p=0.0016) at a concentrations of 100
+μM. Inhibition of OAT3-mediated transport was further characterized over the abametapir
+carboxyl concentration range of 3 to 200 μM in the same manner as described above, and the
+IC50 was determined to be 17.1 μM. Detailed results are shown in Table 13.
+
+24
+Reference ID: 3922694
+
+Table 13: Results of abametapir carboxyl transporter inhibition
+
+2.5
+
+General Biopharmaceutics
+
+2.5.1 What is the formulation composition of Abametapir lotion, 0.74%?
+Abametapir lotion 0.74% is a white to off white lotion consisting of an oil-in-water emulsion.
+(b) (4)
+The formulation of the drug product is shown in Table 14. Notably the formulation contains
+w/w benzyl alcohol.
+
+25
+Reference ID: 3922694
+
+Table 14: Abametapir lotion 0.74% formulation composition
+Q uantity
+Co m1>onen t
+
+Amoun t 1>er un it
+(g/bottle)
+
+Abametapir (5,5'-Dimethyl-2,2'dipyridyl)
+Light minera l oil r
+
+1
+
+(6)[.ft
+
+%w/w
+
+0.74
+
+Function
+
+Q ua lity
+S ta ndard
+
+Act ive
+
+In-house
+(6)T4
+
+(b)(4~
+
+NF
+
+Polysorbate 20
+
+NF
+
+Benzyl Alcohol
+
+NF
+NF
+NF
+
+B utylated hydroxyro luene
+Carbomer 9801
+
+·1bllif\
+
+Tro lamine
+
+NF
+
+Puri tied Water
+
+USP
+
+Abbreviations: NF= National Formulary: USP= United States Pha1111acopeia; % w/w =weight per weight.
+
+2.5.2 Was the to-be-marketed fo1mulation used in the clinical trials?
+Yes. The to-be-marketed fo1mulation was used in all clinical studies, except for an initial
+tolerability Phase 1 study HaOl -001. Study HaOl -001 was not essential to suppo1i the NDA.
+2.6
+
+Analytical
+
+2.6.1
+
+What bioanalytical methods were used to assess abametapir and its metabolites
+abametapir hydroxyl and abametapir carboxyl and were they adequately validated?
+
+The plasma samples from the human PK studies were analyzed for abametapir by tandem mass
+spectromet1y (LC-MS/MS) procedures in methods V508 vl , V508 v2, V555 , and V580. Method
+V580 also included analysis of metabolites abametapir hydroxyl and abametapir carboxyl in
+plasma samples. Serum samples from the human PK studies were analyzed for benzyl alcohol by
+gas chromatography-mass spectrometric procedures (GC-MS). All bioanalytical methods were
+adequately validated. A sulllllla1y ofresults are shown in Tables 15, 16 and 17 for abametapir,
+abametapir metabolites and benzyl alcohol, respectively.
+
+T a ble 15 .. Summarv of p l asma a b amet ap1r assay per ormance
+V508 v l
+V508 v2
+V555
+Parameter/Methods
+HaOl -001
+Ha02-002
+Ha02-003,
+Affected studies
+Ha02-005,
+Ha03-004
+0.25
+- 100
+Assay range
+1 - 500 ng/mL
+1 - 100
+ng/mL
+ng/mL
+Intra-nm precision
+1.91 to 5.63% 2.9 to 11.6%
+4.5 to 5.4%
+Intra-nm accuracy
+
++6.72 to
++8.12%
+
+-10.7 to
+-0.1 %
+
+-5.8 to
++4.8%
+
+v 580
+Ha03-003
+
+0.25 - 1000
+ng/mL
+0.8 to 11.8%
+-8.2 to
++11.9%,
+except for
+26
+
+Reference ID: 3922694
+
+Inter-run precision
+
+6.41 to 8.13%
+
+Inter-run accuracy
+
+-6.83 to 2.40%
+
+Long term storage
+stability
+
+106 days at ­
+80 ºC
+
+Not tested
+(partial
+revalidation
+after v1)
+Not tested
+(partial
+revalidation
+after v1)
+106 days at ­
+80 ºC
+
+2.6 to 8.0%
+
++17.6% at
+LLOQ for
+one run.
+1.3 to 8.5%
+
++2.7 to
++6.4%
+
+-7.4 to
++12.2%
+
+259 days at ­
+80 ºC
+
+568 days at ­
+80 ºC
+
+Table 16: Summary of plasma abametapir carboxyl and abametapir hydroxyl assay
+performance in method V 580.
+Parameter/Analyte Abametapir carboxyl Abametapir hydroxyl
+Affected studies
+Ha02-003, Ha02-005, Ha03-003, Ha03-004
+Assay range
+0.25 - 1000 ng/mL
+0.50 – 1000 ng/mL
+Intra-run precision
+0.9 to 8.6%
+0.7 to 6.5%
+Intra-run accuracy
+-10.3 to +9.1%
+-7.1 to +15.0%
+Inter-run precision
+2.5 to 7.6%
+2.6 to 7.2%
+Inter-run accuracy
+-8.1 to +5.8%
+-4.5 to +10.1%
+Long term storage
+568 days at -80 ºC
+stability
+Table 17: Summary of serum benzyl alcohol assay performance
+Parameter/Analyte
+Benzyl alcohol
+Affected studies
+Ha03-003 and Ha03-004
+Assay range
+0.5 – 5 µg/mL
+Intra-run precision
+1.7 to 2.7%
+Intra-run accuracy
+-2.2 to +9.3%
+Inter-run precision
+1.9 to 6.1%
+Inter-run accuracy
++5.6 to +7.7%
+Long term storage
+452 days at -80 ºC
+stability
+Storage stability:
+Analysis of abametapir in plasma samples in all clinical trials were conducted within established
+long term storage stability. For analysis of benzyl alcohol, samples from 19 of 22 subjects were
+analyzed within the 452 days demonstrated storage stability. Samples from the remaining 3
+subjects were analyzed after up to 472 days of storage. This is a minor deviation from the
+demonstrated storage duration of 452 days and all data were considered acceptable for review.
+
+27
+Reference ID: 3922694
+
+For analysis of abametapir carboxyl, samples from trial Ha03-003 were analyzed in real time and
+were analyzed within the demonstrated storage stability duration of 568 days. Samples from trial
+Ha03-004 were analyzed retrospectively but were also within the demonstrated stability period.
+Samples from trial Ha02-003 were collected in 2011 and retained in storage for 1251 days prior
+to analysis for abametapir carboxyl. Therefore, there is insufficient demonstrated stability to
+support the analysis of abametapir carboxyl in trial Ha02-003. The sponsor suggested that since
+stability was demonstrated for extended period of 568 days the stability may be inferred out to
+1251 days. This reviewer also note that the AUC and Cmax for pediatric subjects (aged 3 – 12
+years) in trial Ha02-003 was similar to and in between those observed for the 3 - 17 years age
+group in trials Ha03-003 and Ha03-004 (see Table 18), which were analyzed within the
+demonstrated stability period. The same order among the 3 trials was seen for the parent
+abametapir (Table 19). These data suggest that there were no overt degradation of abametapir
+carboxyl samples from trial Ha02-003 and the data may be used for review. However, the
+sponsor should continue to evaluate the storage stability to fully support the storage duration as a
+post marketing commitment.
+Table 18: Summary of abametapir carboxyl exposure in pediatric subjects ≥3 years of age
+Study
+Age group
+N
+Cmax (ng/mL)
+AUC0-8h (ng*h/mL)
+Mean (%CV)
+Mean (%CV)
+Ha02-003
+3 to 12 years
+12 2000 (57%)
+11400 (57%)
+Ha03-003
+3 to <17 years
+12 3353 (58%)
+21369 (64%)
+Ha03-004
+3 to <18 years
+7
+1760 (42%)
+10000 (46%)
+Table 19: Summary of abametapir exposure in pediatric subjects ≥3 years of age
+Study
+Age group
+N
+Cmax (ng/mL)
+AUC0-8h (ng*h/mL)
+Mean (%CV)
+Mean (%CV)
+Ha02-003
+3 to 12 years
+12 65 (57%)
+254 (67%)
+Ha03-003
+3 to <17 years
+12 121 (60%)
+330 (49%)
+Ha03-004
+3 to <18 years
+7
+52 (45%)
+194 (39%)
+
+28
+Reference ID: 3922694
+
+3
+
+Detailed Labeling Recommendations
+
+The following changes are recommended for sections 5, 8 and 12 of the label. Deletions are
+noted as stiikethrnugh and additions are noted as double underline.
+7
+
+DRUG INTERACTIONS
+
+In vitro studies suggest there is a potential for inhibition of cytochrome P450 CCYP) 3A4. 2B6
+11
+4l,
+and 1A2 enzyme following a single application ofXEGLYZE C (b':J Use ofXEGLYZE r
+with chugs that are substrate of these enzymes may lead to increased systemic concentration of
+the interacting chugs. Avoid administration of ch11gs that are substrates of CYP3A4, CYP2B6, or
+4
+CYP1A2 within 2 weeks after application XEGLYZE
+lbl< r. If this is not feasible. avoid use of
+XEGLYZE
+bf<'4I [see Clinical Pharmacologv 12.31.
+
+12 CLINICAL PHARMACOLOGY
+12.1 Mechanism of Action
+Abameta ir 5,5' -dimethyl 2,2' -bipyridinyl) is a metalloproteinase inhibitor
+14
+Metalloproteinases have
+lb>
+a
+4
+<b><4>role in
+(bJ< i-.h-y "s"'i"""'
+olo ical recesses
+lb) J
+critica to eg,u develo ment and survival of
+ti)1;(
+
+12.3 Pha1macokinetics
+Absorption
+
+29
+Reference ID: 3922694
+
+1bT !4l
+
+4
+
+The ha1macokinetics of:XEGLYZE
+ltif< were evaluated in 3 trials. namely Trials A.
+B. and C. Each trial enrolled lice infeste su6'iects who received a single 10 minute
+application of:XEGLYZE I
+>l'l. Phaimacokinetic samplings were caITied out to 72 hours
+post dose in adults and 8 hours post dose in pediatrics for all trials.
+Trial A evaluated phaimacokinetics in 6 adult and 12 pediatric subjects 3 to 12 yeai·s of
+age. The mean (%CV) abametapir plasma maximum concentration (Cmax) and area under
+the concentration time cmve from 0 to 8 hours post dose CAUC0-8h) in the adult group were
+41 (66%) ng/mL and 121 (50%) ng*h/mL. respectively. The mean (%CV) Cmax and AUCQ:
+8h in the pediatric group were 73 (57%) ng/mL and 264 E:}%) ng*h/mL, respectively J<blf4 .
+adults. The mean (%CV) te1minal half-life in adults was 21
+11% hours.
+Trials B and C evaluated pha1macokinetics in pediatric subjects 6 months to 17 years, <
+:l,
+4
+The phaima.cokinetic results for plasma. a.bametapir ai·e shown in Table!
+ltil< :...
+even though the values varied between the 2 trials. abametapir exposure increased as the age
+of the subject decreased. Abametapir absomtion was rapid with a median Tmax of 0.57 to
+1.54 hours.
+T able 21 Abametapir p harmacokinetic parameters in subjects with h ead lice
+infestation
+Study
+Cm,.x (ng/mL)
+AUCo-s
+Age Group
+!!
+Mean(o/oCV)
+(nQ*h/mL) Mean (o/oCV)
+i ( bl\4
+418
+1057
+6 months to < l
+l
+-
+
+yeai·
+
+-
+
+1 yeai· to <2
+yeai·s
+
+-
+
+2 years to <3
+years
+
+2
+l
+
+228 (50%)
+
+688 (43%)
+
+209 (62%)
+
+446 (65%)
+
+~
+
+147 (49%)
+
+406 (37%)
+
+Q
+
+206 (66%)
+
+633 (57%)
+
+~
+
+160 (48%)
+
+602 (51%)
+
+30
+Reference ID: 3922694
+
+Study
+
+Age Grou~
+
+!!
+
+3 years to 17
+years
+
+12
+
+C™(ng/mL)
+Mean(o/oCV)
+121 (60%)
+
+1
+
+52 (45%)
+
+- (b/14
+
+AUCo-s
+(n!!*h/mL) Mean (o/oCV)
+330 (49%)
+
+I
+
+CbTC4i
+
+Semm concentration ofbenzyl alcohol. an excipient in the fonnulation ofXEGLYZE
+4
+Cb)< was assessed in Trials Band C. Benzyl alcohol in serum was measurable (limit of
+guantitation = 0.5 ug/mL) in 7 subjects out of 39 evaluable subjects. The Cmax of benzyl
+alcohol in these 7 subjects ranged from 0.52 to 3.57 ug/mL [see Warnings and Precautions
+(5.){) and Use in Specific Populations (8.4)7.
+Distribution
+AbametaE_ir and its primary human metabolite, abametapir cai-boxyl, are highly bound to
+proteins in Cb>T4 plasma. Abametapir is 91.3 - 92.3% bound to plasma proteins, and
+abametapir carboxyl is 96.0% -97.5% bound to plasma proteins.
+Elimination
+MetabolismMetabolism
+rn metabolized, primarily by the cytochrome P450
+Abametapir is extensively
+enzyme CYP1A2 to a mono-hydroxylated metabolite (abametapir hydroxyl) and further to a
+mono-carboxylated metabolite (abametapir carboxyl). Abametapir carboxyl is cleared
+4
+Cb>f higher
+slowly from the systemic circulation resulting in plasma concentration!
+than that of abametapir. Based on data in adults in Trial A above. where samplings was
+canied out to 72 hours, the ratios of Cmax and AUCO-72h between abametapir carboxyl and
+abametapir were about 30 and 250. respectively. The elimination hal f-life of abametapir
+carboxyl has not been well characterized but is estimated to be approximately (mean± SD)
+71±40 hours or longer in adults.
+
+I
+
+&cretioBExcretion
+Excretion of abameta ir and its human metabolites was not examined in atients.
+(6) (4)
+
+Drng interaction:
+In vitro studies suggest that there is a potential for inhibition of cytochrome P450 3A4.
+2B6. and 1A2 enzyme following application ofXEGLYZE r (b)<"J due to high and prolonged
+systemic exposure of the metabolite abametapir carboxyl [seeDrug Interactions (7)1.
+
+31
+Reference ID: 3922694
+
+4
+
+Appendix
+
+4.1
+
+Individual Study Reviews
+
+32
+Reference ID: 3922694
+
+4.1.1
+
+Trial Ha02-003
+
+Title: An Efficacy and Safety Study of Ha44 Gel Administered Topically for the Treatment of
+Head Lice Infestation.
+Studied period:
+Date of first enrolment: 13 Apr 2011
+Date of last completed: 16 Aug 2011
+Objectives:
+Primary objective: To evaluate the efficacy of Ha44 Gel
+Secondary objective: To evaluate the safety, tolerability and the pharmacokinetics of Ha44 Gel
+Study design:
+This was a Phase 2b, multicenter, double-blind, randomized, vehicle-controlled, parallel study.
+The study consisted of 2 identical, consecutive stages (Stage 1 and Stage 2), with a planned
+interim analysis between the 2 stages. Stage 1 was to enroll approximately 43 subjects and Stage
+2 was to enroll approximately 89 subjects, for a total of 132 study subjects. Subjects could only
+be enrolled once in the study and could not participate in both stages of the study. Enrollment
+was suspended at the completion of Stage 1 to allow these subjects to complete all study visits.
+The number of subjects enrolled in Stage 1 was dependent on the size of the last household
+enrolled in Stage 1. In each stage, subjects were randomized at 1:1:1 ratio to the Ha44 Gel 0.37%
+w/v (Group A), Ha44 Gel 0.74% w/v (Group B) and the vehicle control (Group C) treatment
+groups.
+The study was designed to assess the efficacy, safety, and tolerability of a single application of
+Ha44 Gel at 2 different dose levels (0.37% and 0.74%) compared to a vehicle control. The
+treatment groups are identified as Ha44 Gel 0.37%, Ha44 Gel 0.74% and Control in the study
+result sections.
+The study also assessed the pharmacokinetics (PK) of Ha44 Gel in 2 subsets of subjects:
+Pediatric PK subset (2-12 years of age) and Adult PK subset (≥ 18 years of age). PK assessments
+were performed only at 1 study center. The Pediatric PK subset was to be comprised of 33
+pediatric subjects enrolled from 1 of the 2 study centers, which was to include at least 11 subjects
+2-5 years of age and 22 subjects 6-12 years of age. To ensure a sufficient number of subjects ≤5
+years of age, the Pediatric PK subset could include more than 33 enrolled subjects. Subjects
+could be enrolled into the Pediatric PK subset from either Stage 1 or Stage 2 of the study. The
+Adult PK subset was to be comprised of 20 adult subjects enrolled from the same study center.
+Subjects could be enrolled into the Adult PK subset from either Stage 1 or Stage 2 of the study.
+All PK sampling times were determined by the investigational product (IP) application start time,
+i.e. when the IP was first applied to the hair and scalp. Pediatric PK sampling time points were: 0
+(predose), 30, 60 minutes and 8 hours and the Adult PK sampling time points were: 0 (predose);
+30; 60 minutes; and 2; 4; 8; 24, 48 and 72 hours. PK assessment windows were ±5 min for the 30
+
+33
+Reference ID: 3922694
+
+and 60 min assessments; ±10 min for 2, 4 and 8 hr assessments; and ±1 hr for the 24, 48 and 72
+hr assessments.
+All household members were to be consented and screened for study eligibility. Eligible subjects
+within each household were enrolled and randomized to the same treatment group. The youngest
+member of the household who was between 2 and 12 years of age and met the eligibility criteria
+(including the presence of at least 3 live lice on Day 0) was the index subject for that household.
+Each family was required to have an eligible index subject to qualify for enrollment. Non-index
+household members were to have at least 1 live louse present on Day 0 to participate in the trial.
+Eligible subjects from each household were treated together on the same day with a single
+application of IP by the study staff. This was the only application of IP in the study. All subjects
+then returned to the study center for at least 3 follow-up clinic visits on Days 1, 7 and 14 (i.e. at
+least 4 visits in total). The adult PK subset had 2 additional clinic visits on Day 2 and 3 (i.e. at
+least 6 visits in total).
+Number of subjects (planned and analyzed): Approximately 132 pediatric and adult subjects,
+2 years of age or older, with an active head lice infestation were planned to be enrolled into the
+study.
+A total of 142 subjects were registered from 2 study centers in the US. All subjects met the
+eligibility criteria and were randomized to the Ha44 Gel 0.37% (46), Ha44 Gel 0.74% (49), and
+the Vehicle (47) treatment groups. A total of 134 subjects (Ha44 Gel 0.37%, 42; Ha44 Gel
+0.74%, 48; Vehicle, 44) completed all of the study visits.
+A total of 55 (Ha44 Gel 0.37%, 18; Ha44 Gel 0.74%, 19; Vehicle, 18) subjects from Center 2
+participated in the PK analysis. The Pediatric PK subset included 11 subjects (Ha44 Gel 0.37%,
+4; Ha44 Gel 0.74%, 3; Vehicle, 4) 2-5 years and 24 subjects (Ha44 Gel 0.37%, 10; Ha44 Gel
+0.74%, 10; Vehicle, 4) 6-12 years of age. A total of 20 subjects (Ha44 Gel 0.37%, 4; Ha44 Gel
+0.74%, 6; Vehicle, 10) >18 years of age were included in the Adult PK subset.
+Diagnosis and main criteria for inclusion:
+1. Male or female.
+2. 2 years of age or older.
+3. Be in good health, as determined by medical history and physical examination.
+4. Body weight of at least 33 pounds.
+5. Had an active head lice infestation at Day 0 as determined by an experienced evaluator. An
+active infection was defined as at least 3 live lice for the index subject and at least 1 live louse
+for the other household members.
+6. Female subjects were:
+a. of non-childbearing potential (no history of menstrual periods, post-hysterectomy, or,
+post-menopausal for at least 2 years) OR,
+b. if of childbearing potential, had to have a negative urine pregnancy test prior to
+treatment and agreed to use a highly effective method of contraception from Day 0
+through the Day 14 visit. Acceptable methods of contraception included abstinence,
+vasectomized partner, tubal ligation, combined oral hormonal contraceptive,
+34
+Reference ID: 3922694
+
+contraceptive injection, contraceptive patch or IUD. If a hormonal contraception was the
+only method, the subject had to be on a stable dose for at least 3 months.
+7. If the subject was in the Pediatric PK subset, parent/guardian agreed to have serial blood
+samples collected for PK analysis on Day 0.
+8. Signed an informed consent and/or assent form (ICF).
+Test product, dose and mode of administration, batch number: The volume of the Ha44 Gel
+applied to each subject had to be sufficient to achieve saturation of the scalp and hair. No more
+than 200 mL (1 bottle) of IP was to be applied to each subject’s scalp and hair regardless of their
+hair length and/or thickness. Total time of IP exposure is the time it took to apply the IP
+(expected to be less than 5 minutes), followed by the 10 minute treatment period.
+The batch number of the 0.37% Ha44 Gel was RD-10091 and 0.74% Ha44 Gel was RD-10092.
+Duration of treatment: The duration of the study for each subject from screening (Day 0) to the
+follow-up visit was approximately 14 days.
+Reference therapy, dose and mode of administration, batch number: The vehicle control is
+identical in appearance, odor and formulation to Ha44 Gel except without the active ingredient.
+The batch number of the vehicle control was RD-10090.
+Criteria for evaluation:
+Primary Efficacy Endpoint: The primary efficacy endpoint was the proportion of subjects who
+were lice free at all follow-up visits through the Day 14 visit.
+Secondary Efficacy Endpoints:
+1. Proportion of index subjects who were lice free at all follow-up visits through the Day 14 visit.
+2. Proportion of all subjects who were lice free at each follow-up study visit (Day 1, 7, 14).
+Safety Endpoints: The assessment of safety and tolerability of Ha44 Gel included treatment
+emergent adverse events (TEAEs), scalp/eye irritation assessment, clinical laboratory safety test
+results, vital signs, physical examination and ECG.
+PK analysis:
+Ha44 plasma concentrations were summarized using descriptive statistics (including N, mean,
+standard deviation (SD), coefficient of variation (CV%), median, minimum, and maximum) for
+each treatment. Post hoc analysis for abametapir carboxyl was also conducted.
+Results:
+Review note: This section focuses only on the PK results. For safety and efficacy results, please
+see clinical review.
+Protocol deviation:
+There were no major protocol deviations.
+Ha44 pharmacokinetics:
+
+35
+Reference ID: 3922694
+
+Fifty-five (55) subjects enrolled in this study provided PK samples for analysis of Ha44 plasma
+concentrations. Of the 55 subjects, plasma concentrations were evaluated for a subset of 33
+subjects who received Ha44 Gel and had sufficient data points to determine concentration-time
+profiles. This group of 33 subjects was comprised of 24 children aged 3-12 years (Ha44 Gel
+0.37%, 12; Ha44 Gel 0.74%, 12) and 9 adults aged ≥18 years (Ha44 Gel 0.37%, 3; Ha44 Gel
+0.74%, 6) [Note: the trial allowed enrollment of subjects ≥2 years of age but the youngest subject
+enrolled was 3 years of age]. Due to practical and ethical limitations on the number of blood
+samples that can be drawn from pediatric subjects, PK sampling was conducted only through 8
+hours post dosing. The longest measure of exposure for the pediatric subjects was AUC(0-8).
+The mean Ha44 concentration-time profiles for adults (through 72 hours post-dose) showed rapid
+absorption into the systemic circulation followed by a biphasic distribution (Figure 7). Median
+Tmax values were 0.97 to 1.54 hours in adults and 0.58 to 0.98 hours in pediatric subjects across
+the 2 dose levels demonstrating rapid absorption of Ha44 Gel for all age groups. The mean t½ of
+Ha44 Gel in adults was 28.8 and 21.3 hours for the 0.37% and 0.74% doses, respectively,
+indicating a relatively long terminal phase component for the systemic concentration-time
+profile. For the individual adult subjects, AUC(0-8) represents 24% to 57% of AUCinf while the
+percent extrapolation from AUClast to AUCinf in the terminal phase was 25% or less. Ha44
+exposure was higher in pediatrics compared to adults (Figure 8). The t½ of Ha44 Gel in pediatric
+subjects could not be accurately estimated due to the short PK sampling time of only 8 hours
+post-dose (Table 22).
+Exposure to Ha44 Gel in plasma measured by mean Cmax and AUC(0-8) approximately doubled
+when the concentration of Ha44 Gel doubled from 0.37% to 0.74%. This increase in exposure
+was seen in both the pediatric and adult populations. For adult subjects, AUClast and AUCinf
+approximately doubled with increase in dose from 0.37% and 0.74%.
+Ha44 Gel exposure (AUC(0-8) and Cmax) increased with decreasing age, body weight, body
+mass index (BMI), and with increasing weight adjusted Ha44 Gel dose levels. The strongest
+correlations were found to exist between Ha44 Gel exposure and body weight, and Ha44 Gel
+exposure and dose normalized by body weight (mg/kg) (data not shown).
+Exposure (measured by both Cmax and AUC(0-8)) was higher in the pediatric group compared
+to the adult group at both dose levels of Ha44 Gel 0.37% and 0.74%. When comparing within the
+same dose level, the pediatric age group (3-12 years of age) had approximately 2-fold higher
+mean Cmax and AUC(0-8) values compared to those seen in the adult age group (≥18 years of
+age).
+
+36
+Reference ID: 3922694
+
+Figure 7: Mean Ha44 plasma concentration time plots by treatment in adults
+
+so
+40
+-::1'
+E
+
+s--
+
+30
+
+~
+
+"'c 20
+
+::i:
+
+"'
+Q)
+
+::<:
+
+10
+
+0
+12
+
+0
+
+48
+
+36
+
+24
+
+60
+
+72
+
+Time (h)
+A, Ha44 Gel 0.37%
+
+- - B, Ha44 Gel 0 .74%
+
+Fi2ure 8: Mean Ha44 plasma concentration time plots by treatment and a2e 2roup
+80
+70
+'.'.]'
+
+60
+
+E
+
+:§: 50
+v
+v
+~
+c
+
+"'"'
+::.:
+
+40
+30
+20
+10
+0
+2
+
+0
+
+s
+
+4
+
+3
+
+6
+
+7
+
+8
+
+Time (h)
+
+Adult PK, Ha44 Gel 0.37%
+-0- Adult PK, Ha44 Gel 0.74%
+
+..,.._ Pediatric PK, Ha44 Gel 0.37%
+~ Pediatric PK, Ha44 Gel 0.74%
+
+Table 22: Mean (%CV) Ha44 parameters of all 2roups
+Group
+
+Ha44
+Dose
+
+Cm ax
+
+tYz
+
+(ng/mL)
+
+Tm ax"
+(h)
+
+/,z
+(l/h)
+
+(h)
+
+A UC lase
+(h*ng/mL)
+
+A UCinf
+(h*ng/mL)
+
+AUC(0-8)
+(h*ng/mL)
+
+Adults A
+(N=3)
+
+0.37%
+
+19.0
+(8.3%)
+
+0.97
+(0.93- I .02)
+
+0.036
+(72%)
+
+28.8
+(76%)
+
+124.6
+(44%)
+
+143.9
+(41 %)
+
+59.0
+(27%)
+
+AdultsB
+(N=6)
+
+0.74%
+
+41.0
+(66%)
+
+1.54
+(0.48-4.02)
+
+0.033
+(11%)
+
+21.3
+(11 %)
+
+278.8
+(44%)
+
+302.5
+(42%)
+
+120.7
+(50%)
+
+Peds A
+(N=12)
+
+0.37%
+
+37.0
+(69%)
+
+0.98
+(0.47-1.12)
+
+NC
+
+NC
+
+153.9
+(63%)
+
+NA
+
+154.2
+(63%)
+
+PedsB
+(N=J2)
+
+0.74%
+
+72.6
+(57%)
+
+0.58
+(0.42-1.03)
+
+NC
+
+NC
+
+263.2
+(62%)
+
+NA
+
+263.9
+(62%)
+
+%CV listed in parentheses
+NC= nor calcu lated
+
+• Median (range)
+
+37
+Reference ID: 3922694
+
+Ha44 carboxyl phannacokinetics:
+Abametapir metabolites were identified after study Ha02-003 was complete. Archived samples
+were analyzed for abametapir carboxyl several years after. Only the archived plasma samples for
+subjects treated with the to-be-marketed fo1mulation of abametapir lotion 0.74% were analyzed
+for metabolites. Stability data for abametapir metabolites did not extend to the dmation of frozen
+storage of plasma samples used in retrospective analyses of study Ha02-003, however all data
+collected to date indicate robust long-te1m stability of both the abametapir carboxyl and
+abametapir hydroxyl metabolites in plasma and suppo1i the inte1p retation that the metabolite
+concentration data dete1mined retrospectively in stored samples are indeed accmate (see
+additional discussion in section 2.6.1 of this review).
+The Cmax and AUC0-8 of the prima1y metabolite, abametapir carboxyl, were higher in
+pediatrics compared to adults (Table 23). There was insufficient data from pediatrics to calculate
+AUCinf, tl/2 and /...z. The concentrations of abametapir carboxyl appear to be much greater than
+that of the parent abametapir. Based on data in adults, where samplings was canied out to 72
+homs, the ratios of Cmax and AUC0-72h between abametapir carboxyl an d abametapir were
+about 30 and 250, respectively (Table 24). The elimination half-life of abametapir carboxyl has
+not been well characterized but is estimated to be approximately (mean± SD) 71 ± 40 hom s in
+adults .
+
+Table 23: Abametapir carboxyl PK parameters in adults and pediatrics for Abametapir
+Lotion 0.74%
+Cmax (ng/ mL )
+
+T run (hou rs)
+
+AUCo..s (ng*h/mL)
+
+Mean ± SD
+
+Median ± SD
+
+Mean ± SD
+
+Adults
+
+1130±397
+
+28.7 ± 16.9
+
+4900 ± 1680
+
+2 to 12 years
+
+2000± I 140
+
+8.0±0.0
+
+11400±6550
+
+n
+
+Age G r ou 1>
+
+6
+12
+
+Ab breviations: n= number of subjects: SD = standard deviation.
+
+Table 24: R atio of abametapir carboxyl m etabolite to parent in adults (Source: Table 15 of
+r eport HATC201401)
+Study
+
+SubJcCI ID
+
+J-\!?e <y~)
+
+Wdg,ht(I.:~)
+
+Ab~uudap1r Abamctaplr
+
+Ab<l..fnt-1-:tpu
+
+Abai n~tapJJ"-C'OOH
+
+c.l\D
+
+AUCo t-11:51
+
+AUCo-«>
+
+Cmir.'
+
+Alxunt'tap1r--COOH
+AUC6- L,.1$1
+
+1ng/mL)
+
+1bt*ny'ml)
+
+thr'*ng;m.L>
+
+rn~mL1
+
+~ hr•ngJmL>
+
+29
+
+121.q
+
+200.-l
+
+(t74
+
+-13100
+
+27
+28
+
+117.-16
+75.7-1
+
+17.4
+J7,6
+31.8
+
+l lSO.l.J
+
+Ph2b
+Ph2h
+
+435.7
+
+-155.4
+-1.l0.9
+
+swoo
+
+Ph1h
+
+26
+
+107.9-1
+
+')()
+
+'.\i.5.2
+
+339.2
+
+Ph2h
+Ph2h
+
+24
+51
+
+107.0.,
+42.9'J
+
+38
+15.)
+
+:?I-LI
+
+247.4
+
+13 1.1
+6
+
+l.Jl.5
+
+'1-17
+15.lO
+1630
+1210
+779
+6
+
+Pii2il-<bn6I
+
+N
+
+6
+
+6
+
+h
+
+Mc1u1
+
+'\O I(\
+
+l)5.b8
+
+SD
+
+I0.()3
+
+~0.51>
+
+31.9-1
+
+Medi.111
+Min
+
+12.52
+'21.5
+:14
+51
+
+.i .02
+27. IJ
+N>.I:"
+
+J07A8
+
+~1.9
+
+42.99
+122.9
+
+q.cv
+M;i;<
+
+J96
+
+6
+
+278.8.S
+122.67
+4) 99
+26-1.65
+
+302.·17
+126.96
+-11.97
+
+15.J
+
+1 3 1 .~
+
+'J()
+
+-1)5.7
+
+1-1 1.5
+JS5.4
+
+29'.L~
+
+1130
+
+J97.21
+35. 16
+!078.S
+(t14
+1610
+
+9 1MO
+85600
+6.~400
+
+-12 1{)()
+
+Ab~1..n1e-t,1ptr-COOH
+
+Cm..,,
+
+AUCo-L~
+
+Al'C'<>....,
+
+Met:P~wnt
+
+Mctl'ar¢nl Me1;P:1rent
+Rut10
+R<Uio
+
+thrungtmL)
+IOl-177.76
+2J5076..4
+186265.-12
+140234.95
+lJ0855A5
+66330.SJ
+
+Rt1ti-.>
+
+AUCo-.
+
+'.Hi.74
+
+2-11.57
+
+19.89
+-I0.74
+
+I ZI 64
+
+51~.20
+
+~3182
+
+·02,27
+
+l}\. 11
+
+27157
+
+.&13.43
+
+31.84
+50.92
+
+.l l9A8
+320.8&
+6
+251 lb
+
+528.92
+4(>8.77
+6
+-177.6(,
+
+6
+
+h
+
+6
+
+6-1 100
+2 1313.S.S
+33.25
+60700
+-12100
+Qlil/IO
+
+1-L\'.\73.47
+1>()177.26
+-11.97
+135545.2
+('6330.8-1
+235076.-1
+
+3). 37
+
+506.38
+
+12.71
+38.0'I
+
+73.74
+
+J7.3 ~
+
+~9.36
+
+~S.29
+
+9.91
+-187.57
+
+IH. 11
+
+256.57
+121.64
+
+S0.92
+
+320.88
+
+413.-IJ
+SlR92
+
+Efficacy and Safety: Please see clinical review.
+
+38
+Reference ID: 3922694
+
+4.1.2
+
+Trial Ha03-003
+
+Title: A Pediatric Safety and Pharmacokinetic Study of Ha44 Gel Administered Topically for
+the Treatment of Head Lice Infestation.
+Studied period:
+Date of first enrolment: 8 Apr 2013
+Date of last completed: 2 Jul 2014
+Objectives:
+Primary objective: To evaluate the safety and tolerability of a single application of Ha44 Gel
+0.74% w/w for the treatment of head lice
+Secondary objective: To evaluate the pharmacokinetics of Ha44, its metabolites and benzyl
+alcohol (contained in the Ha44 Gel vehicle) under conditions of maximal exposure in a pediatric
+population.
+Design: This was an open-label safety and pharmacokinetic (PK) study of a single application of
+Ha44 Gel in a pediatric population.
+All participants had to have an active head lice infestation (at least 3 live lice) and scalp
+erythema with evidence of excoriation or inflammation and be 6 months to < 18 years of age.
+The study enrolled 22 pediatric subjects in order to ensure at least 19 PK-evaluable subjects. The
+first 3 subjects enrolled (all in group 3) did not have scalp erythema with evidence of excoriation
+or inflammation. The study enrolled subjects in the following age groups:
+Group
+1
+2
+3
+4
+
+Age Range
+Number of Subjects
+6 to < 12 months
+1
+1 to < 2 years
+3
+2 to < 3 years
+6
+3 to 17 years
+12
+
+More than one household member with an active lice infestation and scalp erythema with
+evidence of scalp excoriation or inflammation could participate in the study. Eligible subjects
+were to be treated at the study site on Day 0 with a single application of the maximum feasible
+amount of Ha44 Gel, to ensure saturation of the scalp and hair. This was to be the only
+application of Ha44 Gel in the study. All subjects were to return to the study site for three
+follow-up clinic visits at Days 1, 7 and 14.
+PK samplings:
+PK samples for Ha44, Ha44 metabolites and benzyl alcohol were to be collected at 0 (predose),
+30 and 60 min and 2 and 8 hr time points following the investigational product (IP) application,
+with the exception that a 2 hour benzyl alcohol sample was not to be collected in infants
+weighing less than 29 lb if the subject was enrolled in protocol amendment 1, but 16lbs if the
+subject was enrolled in amendment 2 or 3. PK assessment windows were ± 5 min for the 30 and
+39
+Reference ID: 3922694
+
+60 min assessments and ± 10 min for the 2 and 8 hr assessments. Note: All post-treatment
+assessments were to be performed at time points relative to the start of the IP application, which
+was defined as the time at which the IP was first applied to the scalp and/or hair.
+Number of subjects (planned and analyzed): Approximately 22 pediatric subjects were
+planned to be enrolled into the study in order to ensure that 19 PK-evaluable pediatric subjects.
+Twenty nine (29) pediatric subjects were screened and 22 of these subjects were eligible for
+enrollment and received treatment. All 22 subjects completed the study were included in the
+safety and PK analyses.
+Diagnosis and main criteria for inclusion:
+1. Male or female, 6 months to <18 years of age
+2. Be in good health, as determined by medical history and physical examination
+3. Had an active head lice infestation at screening as determined by an experienced evaluator. An
+active infestation is defined as the presence of at least 3 live lice.
+4. Had a primary or secondary eczematous dermatological condition of the scalp at Screening
+including, but not limited to eczema, atopic dermatitis or active head lice infestation and had at
+least Grade 2 erythema or pruritus (scratching) with evidence of excoriation/inflammation
+5. The parent/guardian agreed to allow serial blood samples collected from subject for PK
+analysis during study.
+6. Parent or guardian signed an Informed Consent Form (ICF).
+Test product, dose and mode of administration, batch number: The application of the Ha44
+Gel was performed by study staff. A single application of the maximum feasible amount of Ha44
+Gel up to 200 g (one container) was administered to each subject ensuring complete saturation of
+the scalp and hair. The amount of product applied to each subject and time of application were
+recorded. The Ha44 Gel was in contact with the subject’s scalp and hair for the time it took to
+apply the Ha44 Gel (expected to be less than 5 minutes), followed by the 10 minute treatment
+period.
+The batch number for the Ha44 Gel used in this study was RD 13-003.
+Duration of treatment: The duration of the study for each subject from screening (Day 0) to the
+follow-up visit (Visit 3) was approximately 14 days.
+Criteria for evaluation:
+PK endpoint: Blood samples were analyzed for concentrations of Ha44, Ha44 metabolites
+(plasma) and benzyl alcohol (serum).
+Safety endpoints: The assessment of safety and tolerability of Ha44 Gel included treatment
+emergent adverse events (TEAEs), scalp/eye irritation assessment, clinical laboratory safety test
+results, vital signs, physical examination and ECG.
+Statistical methods: Descriptive statistics for continuous variables, sample size (n), mean,
+standard deviation, median and range are presented; for categorical variables, count and
+percentage are presented.
+Two planned study populations were defined as follows:
+40
+Reference ID: 3922694
+
+
+
+
+Safety Population: all subjects who received Ha44 Gel.
+PK Population: all subjects who received Ha44 Gel and had sufficient concentration-time
+profiles to derive the PK parameters (Cmax, Tmax, and AUC0-8) for Ha44 and Ha44
+metabolites (abametapir carboxylic and abametapir hydroxyl) and benzyl alcohol.
+
+Bioanalytical methods:
+See section 2.6.1 of this review.
+Results:
+Protocol Deviation:
+The sponsor noted that 9 of 13 subjects from Site 02 had at least one reported benzyl alcohol
+value that was probably due to the bacteriostatic saline solution (NaCl + 0.9% benzyl alcohol)
+inadvertently used for flushing the catheter between blood sample drawings. The study
+coordinator responsible for blood draws at this site did not document the use of the bacteriostatic
+saline solution. The site could not identify those subjects that were affected. To avoid bias, the
+sponsor excluded values from site 02 in the summary statistics and plots for benzyl alcohol.
+Demographic:
+The majority of subjects were Caucasian (95.5%) and female (90.9%). The mean weight was
+30.1 kg with a range from 9 to 87 kg and the mean height was 111.2 cm with a range from 69 to
+165 cm. The mean age was 6.4 years (range: 0.9 - 17.0 years): one subject was 6 to <12 months
+of age, 3 subjects were 1 to <2 years, 6 subjects were 2 to <3 years and 12 subjects were 3 to <18
+years of age.
+Treatment compliance:
+Ha44 Gel was applied by the clinic staff; all subjects (100%) were compliant to treatment.
+PK parameters:
+Due to practical and ethical limitations on the number of blood samples that can be drawn from
+pediatric subjects, blood sampling for PK analysis was conducted only from pre-dose through 8
+hours after dosing. Therefore, the longest measure of exposure for the pediatric subjects was
+AUC0-8. This duration adequately captured the PK profile for abametapir but was inadequate for
+the major metabolite abametapir carboxyl.
+Abametapir (also denoted as Ha44):
+PK analysis of plasma concentrations of Ha44 showed the mean Cmax was 169.5 ng/mL (range:
+43.9 - 423.0 ng/mL), the median Tmax was 0.50 hours (range: 0.45 - 7.93 hr) and the mean
+AUC0-8 was 461.7 ng*h/mL (range: 113.1 - 1226.5 ng*h/mL).
+
+41
+Reference ID: 3922694
+
+Table 25: PK parameters of Ha44
+
+Abametapir carboxyl:
+PK analysis of plasma concentrations of Ha44 carboxyl showed the mean Cmax was 4480.1
+ng/mL (range: 833.0 – 9710.0 ng/mL), the median Tmax was 7.93 hours (range: 2.00 – 8.03 hr)
+and the mean AUC0-8 was 28241.5 ng*h/mL (range: 5286.1 – 62407.8 ng*h/mL).
+Table 26: PK parameters of abametapir carboxyl
+
+Abametapir hydroxyl:
+PK analysis of plasma concentrations of Ha44 hydroxyl showed the mean Cmax was 1.79 ng/mL
+(range: 0 - 4.23 ng/mL), the median Tmax was 1.00 hours (range: 0.50 - 8.02 hr) and the mean
+AUC0-8 was 6.76 ng*h/mL (range: 0 - 19.73 ng*h/mL).
+
+42
+Reference ID: 3922694
+
+Table 27: PK parameters of abametapir hydroxyl
+Ha44
+
+(N = 22)
+
+cmax ( ng/mL)
+
+N
+MEAN
+SD
+MEDIAN
+RANG E
+CV%
+
+22
+1. 79
+1.32
+1.73
+(0 . 00, 4.23)
+73.9
+
+Tmax ( h)
+
+N
+MEAN
+SD
+MEDIAN
+RANGE
+
+18
+1.23
+1. 71
+1.00
+(0.50, 8.02)
+138 .4
+
+CV%
+
+AUC(0-8) (h*ng/ml)
+
+N
+MEAN
+SD
+MEDIAN
+RANGE
+
+22
+6.76
+5.89
+5.96
+(0.00, 19.73)
+87.1
+
+CV%
+
+The individual subject metabolite to parent and metabolite to metabolite ratios for Cmax and
+AUC0-8 confinns that Ha44 hydroxyl is a minor metabolite (Ha44 hydroxyl AUC0-8/Ha44
+AUC0-8 < 0.10) and that Ha44 carboxyl is a major metabolite (Ha44 carboxyl AUC0-8/Ha44
+AUC0-8 > 0.10).
+Benzyl alcohol:
+Of the 9 evaluable subjects from Site 01 , only one
+lf>T<&I had
+measurable serum benzyl alcohol at 0.5 (0.536 µg/mL) and 1.0 (0.726 µg/mL) hours post
+treatment time points.
+
+Table 28: evaluable subject with measurable benzyl alcohol concentrations
+Subject
+
+-
+
+(bT(&
+
+Time
+(h)
+
+Plasma Ha44
+Concentration
+
+Plasma Ha44
+Hydroxyl
+
+Plasma Ha44
+Carboxyl
+
+Serum Benzyl
+Alcohol
+
+(ng/mL)
+
+Concentration
+
+Concentration
+
+Concentration
+
+(ng/mL)
+
+(ng/ mL)
+
+(µg/mL)
+
+0.5
+
+266
+
+2.27
+
+2030
+
+0.536
+
+1.0
+
+41 8
+
+4.23
+
+6020
+
+0.726
+
+PK parameters values by age:
+Mean Ha44 and Ha44 metabolites plasma concentration-time profiles for all age groups are
+presented over the 0 to 8 hour post-dose period (Table 29). The mean Ha44 and Ha44
+metabolites Cmax and AUC0-8 tended to increase with decreasing age. Mean Ha44 and Ha44
+metabolites plasma concentrations were approximately 2 fold higher in the younger groups (<3
+43
+Reference ID: 3922694
+
+years of age) compared to the older group (3 to < 18 years). Ha44 was rapidly absorbed in all
+groups. Mean concentration time profiles for Ha.44, Ha44 hydroxyl, and Ha44 carboxyl by age
+are shown in Figures 9 - 11.
+
+Table 29: Mean (%CV) Ha44 and Ha44 metabolites PK parameters (Group 1: <12 months,
+group 2: 1 to <2 years, group 3: 2 to <3 years, group 4: 3 to <18 years)
+Group
+
+Analyt e
+
+l (N= l)
+
+Ha44
+Ha44 Hydroxyl
+Ha44 Carboxyl
+2 (N=3)
+Ha44
+Ha44 Hydrox yl
+H;J 44 Carboxyl
+3 (N=6)
+Ha 44
+Ha44 Hydroxyl
+Ha44 Cm-boxyl
+4 (N=l 2)
+Ha44
+Ha44 Hydroxyl
+Ha44 Carboxyl
+%CV listed m parentheses
+
+"
+
+Cmax
+
+T nrnx:
+
+(ng/ mL)
+
+(h)
+0.98
+0.98
+7.92
+0.50 (0.50- 1.02)
+0.50 (0.50- J 02)
+7. 9 7 (7 .90-8 03)
+0.54 (0.48- 1 00)
+0.99 (0. 50-8.02)
+7.99 (7.90-8.02)
+0.50 (0.45-7.93)
+1.00 (0. 50- 1.00)
+7.89 (2.00-8.03)
+
+4 18
+4.23
+9710
+209.27 (62)
+2.57 (44"t
+3863.33 (41 )
+205.58 (66)
+2. 16 (5 l"t
+6 17 1.67 (34)
+120.89 (60)
+1.2 1 (98'1
+3352.75 (S8)
+
+AUCo.s
+(ng* h/mL)
+1056.8
+19.73
+62407.83
+446.47 (65)
+8.05 (68)
+24 157 .56 (30)
+632.83 (57)
+9. 19 (56)
+38334.19 (37)
+330.26 (49)
+4.14 ( 114)
+2 1368.86 (64)
+
+' Medim1 (range)
+
+Figure 9: Mean Ha44 plasma concentration-time plot by age group
+450
+
+350
+
+300
+
+250
+200
+
+150
+100
+
+T lm e (h >
+
+t~Gn.xip 1 (n=1) ~Group2(n=3) -+-G1~:J(n=6) - -Gioup-4 (n=12)1
+
+44
+Reference ID: 3922694
+
+Figure 10: Mean Ha44 hydroxyl plasma concentration-time plot by age group
+
+Figure 11: Mean Ha44 carboxyl plasma concentration-time plot by age group
+
+Safety:
+The sponsor states that there were no clinically significant findings in physical examinations or
+vital signs; no abnormalities in laboratory safety tests were reported as TEAEs. There were no
+SAEs reported during the study. No subjects discontinued from the study due to a TEAE. See
+Clinical review for further details.
+
+45
+Reference ID: 3922694
+
+4.1.3
+
+Trial Ha03-004
+
+Title: A Safety and Pharmacokinetic Study of Ha44 Gel Administered Topically Under Maximal
+Use Conditions for the Treatment of Head Lice Infestation.
+Studied period:
+Date of first enrolment: 15 Mar 2013
+Date of last completed: 15 Jul 2013
+Objectives:
+Primary objective: To evaluate the safety and tolerability of a single application of Ha44 Gel
+0.74% w/w under maximal use conditions for the treatment of head lice
+Secondary objective: To evaluate the pharmacokinetics of both Ha44 and benzyl alcohol
+(contained in the Ha44 Gel vehicle) under maximal use conditions
+Study design:
+This was a Phase 2, open-label, safety and PK study involving a single application of Ha44 Gel
+0.74% administered under maximal use conditions. All participants had to have an active head
+lice infestation (at least 3 live lice) and be 6 months to 17 years of age. More than one household
+member with an active lice infestation could participate in the study. Subjects were consented
+and screened for study eligibility on Day 0 (Visit 1) and were treated at the study site on the
+same day (Day 0). This was the only application of Ha44 Gel in the study.
+Ha44 Gel was applied to the scalp and hair of subjects for 10 minutes. Administration of the
+investigational product (IP) under maximal use conditions was achieved by a single application
+of one whole container (~200 mL) of Ha44 Gel 0.74% to each subject where feasible. Otherwise,
+the maximum feasible volume was applied ensuring that there was complete saturation of the
+scalp and hair. The amount of product applied to each subject was recorded.
+PK samples for plasma Ha44 level and benzyl alcohol level were collected at 0 (predose), 30 and
+60 minute and 2 and 8 hour time points, except that a 2 hour sample for benzyl alcohol level was
+not collected in infants weighing less than 16 lb. Not collecting a 2 hour sample in infants
+weighing less than 29 lb was due to IRB requirement referring to guidelines for daily blood
+volumes collected from children. PK assessment windows were ± 5 minutes for the 30 and 60
+minute assessments and ± 10 minutes for the 2 and 8 hour assessments. Note: all post-treatment
+assessments were performed at time points relative to the start of the IP application (when the IP
+was first applied to the scalp and hair).
+All treated subjects returned to the study site for three follow-up clinic visits at Days 1, 7 and 14.
+Number of subjects (planned and analyzed): Approximately 36 pediatric subjects were
+planned to be enrolled into the study in order to ensure that 21 PK-evaluable pediatric subjects
+between the ages of 6 months and 2 years were enrolled.
+46
+Reference ID: 3922694
+
+Fifty (50) subjects were screened and 38 of these subjects were eligible for enrollment and
+received treatment. All 38 subjects completed the study were included in the safety analysis.
+Twenty eight (28) subjects who had sufficient concentration-time profiles were included for PK
+analyses.
+Diagnosis and main criteria for inclusion:
+1. Male or female
+2. 6 months to 17 years of age
+3. Be in good health, as determined by medical history and physical examination
+4. Had an active head lice infestation at screening as determined by an experienced evaluator. An
+active infestation is defined as the presence of at least 3 live lice.
+5. Female subjects were:
+a. Of non-childbearing potential (no history of menstrual periods, post-hysterectomy, or
+post-menopausal for at least 2 years) OR,
+b. If of childbearing potential, had to have a negative urine pregnancy test prior to treatment
+and agreed to use a highly effective method of contraception from Day 0 through the Day 14
+visit. Acceptable methods of contraception included abstinence, vasectomized partner, tubal
+ligation, combined oral hormonal contraceptive, contraceptive injection, contraceptive patch,
+or IUD. If a hormonal contraception was the only method, the subject had to be on a stable
+dose for at least 3 months.
+6. The parent/guardian agreed to allow serial blood samples collected from subject for PK
+analysis during study.
+7. Signed an informed consent and/or assent form (ICF).
+Test product, dose and mode of administration, batch number: The application of the Ha44
+Gel was performed by study staff. A single application of one whole container (~200 mL) of
+Ha44 Gel 0.74% was administered to each subject where feasible. For subjects for whom it was
+not feasible to apply the full 200 mL of Ha44 Gel 0.74%, the maximum feasible volume was
+applied ensuring that there was complete saturation of the scalp and hair. The amount of product
+applied to each subject was recorded. No more than one container of IP (200 mL) could be
+applied to each subject’s scalp and hair regardless of their hair length and/or thickness. The Ha44
+Gel was in contact with the subject’s scalp and hair for the time it took to apply the Ha44 Gel
+(expected to be less than 5 minutes), followed by the 10 minute treatment period.
+The batch number for the Ha44 Gel used in this study was RD 13-003.
+Duration of treatment: The duration of the study for each subject from screening (Day 0) to the
+follow-up visit (Visit 3) was approximately 14 days.
+Criteria for evaluation:
+Primary PK endpoint: Blood samples were analyzed for concentrations of Ha44 (plasma) and
+benzyl alcohol (serum). Post-hoc analysis for plasma Ha44 carboxyl concentrations were
+performed as well.
+
+47
+Reference ID: 3922694
+
+Safety endpoints: The assessment of safety and tolerability of Ha44 Gel included treatment
+emergent adverse events (TEAEs), scalp/eye irritation assessment, clinical laboratory safety test
+results, vital signs and physical examination.
+Statistical methods: Descriptive statistics for continuous variables, sample size (n), mean,
+standard deviation, median and range are presented; for categorical variables, count and
+percentage are presented.
+Two planned study populations were defined as follows:
+ Safety Population: all subjects who received Ha44 Gel.
+ PK Population: all subjects who received IP and had sufficient concentration-time
+profiles to derive the PK parameters (Cmax, Tmax, and AUC0-8) for Ha44 and/or benzyl
+alcohol.
+Bioanalytical methods:
+See section 2.6.1 of this review.
+Results:
+Protocol Deviation:
+There were no major protocol deviations.
+Demographic:
+The majority of subjects were Caucasian (89.5%), 47.4% were male, and the mean age was 3.75
+years (0.6 – 15.8 years). Of the 38 treated subjects, 8 subjects were <12 months of age, 9 subjects
+were 1 to <2 years, 11 subjects were 2 to <3 years and 10 subjects were 3 to 17 years of age. The
+mean weight was 42.5 lbs with a range from 16 to 173 lbs.
+Demographic characteristics for the PK population are similar to Safety Population and details
+are shown in Table 30.
+
+48
+Reference ID: 3922694
+
+Table 30: Demographic – PK population
+
+Treatment compliance:
+Ha44 Gel was applied by the clinic staff; all subjects (100%) were compliant to treatment.
+PK parameters:
+Abametapir (also denoted as Ha44):
+Thirty (30) subjects provided samples for PK analysis of plasma concentrations of Ha44, 28
+subjects were evaluable for Cmax and 24 subjects had an 8 hour sample considered evaluable for
+calculation of AUC0-8. Of the 28 subjects, 5 subjects were 6 to <12 months of age, 8 subjects
+were 1 to <2 years, 8 subjects were 2 to <3 years and 7 subjects were 3 to 17 years of age. Two
+subjects each in the 1 to <2 years and 2 to <3 years age groups did not have an 8 hour sample for
+AUC0-8 analysis.
+Overall, the mean Cmax was 141.4 ng/mL (range: 16 - 397 ng/mL) and the Tmax was 0.8 hours
+(range: 0 - 2 hr) showing rapid absorption into the systemic circulation. The mean AUC0-8 was
+447.5 ng*h/mL (range: 80 - 971 ng*h/mL). The mean Cmax and AUC0-8 increased with
+decreasing age (Figure 12 and Table 31).
+
+49
+Reference ID: 3922694
+
+Figure 12: Mean Ha44 plasma concentration-time plot by age group
+
+Table 31: Mean (%CV) Ha44 PK parameters (Group 1: <12 months, group 2: 1 to <2
+years, group 3: 2 to <3 years, group 4: 3 to 17 years)
+
+Abametapir carboxyl:
+The mean abametapir carboxyl Cmax and AUC0-8 appeared to increase with decreasing age
+(Figure 13 and Table 32). The median abametapir carboxyl Tmax value was similar for all
+groups (range 5.00 to 8.00 hours) and reflected the time of the final PK sample taken rather than
+a true maximum concentration. While most subjects had a Tmax between 7.83 to 8.08 hours, 1
+subject in the 1 to <2 years age group had an unusually early Tmax of 2.03 hours. The plasma
+concentrations of abametapir carboxyl were much greater than that of the parent abametapir.
+Table 32: Ha03-004 Abametapir Carboxyl PK Parameters for Abametapir Lotion 0.74%
+
+50
+Reference ID: 3922694
+
+Figure 13: Ha03-004 Mean Abametapir Carboxyl Concentration vs Time by Age Group
+8000
+
+I
+~
+
+'S
+
+;
+
+6000
+- - Group l
+- - Group2
+- - Group3
+- - Group4
+
+u
+
+~
+
+4000
+
+v
+
+1
+
+B 2000
+
+_ _ _ _ _ .......<:)
+
+i
+
+/re-
+
+j
+0
+
+2
+
+6
+
+10
+
+Time (hr)
+
+Group I = 6to <12 monrhs, Group 2 = I to <2 years. Group 3 = 2 to <3 years, Group 4 = 3 to 17 years.
+
+Benzyl alcohol:
+Thirty (30) subjects provided samples for benzyl alcohol analysis, 6 subjects (01 -401 , 01 -406,
+02-404, 02-406, 02-407 and 03-420) had sufficient data points to evaluate Cmax however none
+had an 8 hour sample and were not evaluable for AUC0-8. The measurable concentrations are
+shown in Table 33.
+Overall, the mean Cmax was 1.3 itg/mL (range: 0.7 - 3.6 µg/mL) with Tmax range of 0.5-8 hr.
+Table 33: Subjects with measurable benzyl alcohol concentrations
+Subject
+
+Plasma Ha44
+
+Serum Beuzyl Alcohol
+
+Concentration
+
+Couceutration
+
+(ng/mL)
+
+(µ g/mL)
+
+0.5
+
+397
+
+0.877
+
+8
+
+16.J
+
+l.39
+
+8
+
+21.9
+
+3.57
+
+0.5
+
+239
+
+0.826
+
+0.5
+
+242
+
+0.664
+
+0.5
+
+201
+
+0.524
+
+Time (h)
+
+(bl(6
+
+Safety:
+The sponsor states that there were no SAEs repo1ted during the study. No subjects discontinued
+from the study due to a TEAE. See Clinical review for fmther details.
+
+51
+Reference ID: 3922694
+
+--------------------------------------------------------------------------------------------------------This is a representation of an electronic record that was signed
+electronically and this page is the manifestation of the electronic
+signature.
+--------------------------------------------------------------------------------------------------------/s/
+---------------------------------------------------DOANH C TRAN
+04/26/2016
+EDWARD D BASHAW
+04/26/2016
+Concur with the need for two PMRs and the analytical PMC. As the target population is primarily
+(but not exclusively children) the obtaining of adequate pk data in the pediatric population is
+important in addition to clarifying the potential for drug drug interactions in light of the conflicting
+data from the in vitro metabolism studies.
+
+Reference ID: 3922694
+
+

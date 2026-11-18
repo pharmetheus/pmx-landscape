@@ -1,0 +1,43 @@
+BLA Multi-disciplinary Review and Evaluation {Biologics License Application (BLA) 761324
+{epcoritamab}
+
+o
+5 3°
+6 6
+® © 2 S . £ ¢ &
+Population Predictions (ug/mL) Time after First Dose (days)
+816
+64
+on
+gE
+ro)
+6
+
+ro)
+v
+ca
+
+Time After Last Dose (days)
+
+Loess in solid blue; Linear regression in dashed red. The lower limit of quantification (LLOQ) for observed PK
+samples was 0.01 ug/mL. CWRES = conditional weighted residual; TAD = time after dose.
+Source: Reviewer analysis
+
+The model’s under-estimation of higher concentrations may be related to the limited sampling
+timepoints in Study GCT3013-01 and GCT3013-04. The majority of PK samples in the PPK
+analysis were measured shortly before the next SC dose or shortly after (i.e., <12 hours) SC
+dose administration when concentrations would be relatively low. The PPK analysis indicates
+that median Tmax occurs between 2.3 to 5.0 days (range of 0.3 to 7 days) after SC administration
+of 48 mg epcoritamab (Table 96). However, the Applicant’s PPK dataset indicates that only
+177/6819 (2.6%) PK samples in the analysis were collected between 2 to <5 days after last dose
+(Table 97). The PK sampling schedule did not measure PK around the time of peak
+concentration in most or all patients. Additional PK data closer to Tmax would likely improve the
+model fit at higher concentrations.
+
+277
+Version date: June 2022 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5176690

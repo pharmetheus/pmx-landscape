@@ -1,0 +1,77 @@
+NDA 217686
+TRYVIO (aprocitentan)
+
+Table 127. Summary of Baseline Demographic Covariates for Analysis
+
+Variable Min 10° r Median Mem 9 Max.
+Nin percentile quartile , quartile percentile
+
+Age (years) 18 30 45 55 53 65 71 84
+
+Body weight (kg) 436 66.7 755 870 905 1018 120 195.8
+
+Height (cm) 124 158 165172 1722179183 199
+
+BMI (kg/m?) 182 234 261 «297 30.7 347391 639
+
+Lean body weight 299 421 487 595 586-675-750 99.2
+
+(kg)
+
+Fat mass (kg) 81 173 220 «2932318390 491 1072
+
+Creatinine
+
+concentration at 3561 n 80 8695 1s 318
+
+baseline (jimol/L)
+
+Le; (mL/min) 26 671 86 110 m3 135161 323
+
+eGFR 17 59 n 89 89 104122 197
+
+(mL/min/1.73 m2?
+
+Variable Group (size)
+Sex Female (330), Male (572)
+Race/ethnicity American Indian or Alaska Native (4), Asian (33), Black or African American
+
+(183), Hispanic or Latino (3), Other/Not reported (2), White (677)
+
+Hepatic impairment Healthy (894), moderate (8)
+
+eGFR category 215 & < 30 (16), 230 & < 45 (26), >45 & < 60 (54), >60 & < 90 (370), >90 (436)
+
+Food status* Fasted (264), fed (5), uncontrolled (671)
+
+Formulation* Capsule (373), Tablet A* (534), Tablet B* (33)
+
+Disease status Healthy (251), hypertension (651) of which essential hypertension (226) and
+resistant hypertension (425)
+
+Study phase Phase 1 (251), Phase 2 (226), Phase 3 (425)
+
+Diabetes Yes (258), No (644)
+
+Source: Applicant's PopPK report, Page 19
+
+eGFR calculated using the MDRD formula (Levey et al. 1999).
+
+* The total number of subjects of 940 is larger than 902, as one subject can be both, fed and fasted, or receive different formulations
+in different periods of the same study.
+
+* Tablet A and B are film-coated tablets containing drug substance with different o)(4)
+
+)
+‘Abbreviations: BMI, body mass index; CL, creatinine clearance; eGFR, estimated glomerular filtration rate; max., maximum;
+MDRD, Modification of Diet in Renal Disease; min., minimum
+
+Base Model
+
+The base model is a two-compartment PK model with absorption lag time (tlag), first-order
+absorption and first-order elimination from the central compartment.
+
+219
+Integrated Review Template, version 3.0 (05/25/2022)
+
+Reference ID: 5347932

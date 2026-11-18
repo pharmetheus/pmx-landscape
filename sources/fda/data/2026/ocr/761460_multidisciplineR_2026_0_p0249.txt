@@ -1,0 +1,64 @@
+NDA/BLA Multi-disciplinary Review and Evaluation - BLA 761460
+Pivekimab Sunirine IMGN632)
+
+Acceptability
+
+Final Model Summary [FDA's comments]
+
+Software and Version NONMEM (Version 7.4.4) Yes
+
+Model Structure PVEK: Intergrated PK ADC model simultaneously ‘Yes
+describing the PK properties of PVEK (ADC), TAb
+and FGN849 (payload)
+
+Two compartment model for ADC for each drug-to-
+antibody ratio and 1-compartment model for
+FGN849
+
+ADC and TAb were modelled in terms of CLpvex.
+Ve. vex. Qpvex and Vp, pvex, While the disposition of
+FGNS849 was modelled in terms of CLranao. V ranao.
+and Kec, BOV included on CLpvex
+
+Integrated model with a dose covariate on CLpvex
+for non-linearity and body weight on CLpvex and
+Ve, pvEK
+
+Model Parameter Estimates Table 90
+
+Uncertainty and Variability (RSE. | Integrated ADC model: All structural PK With two-
+
+IIV, Shrinkage, Bootstrap) parameters in the model were estimated with a compartment model
+relative standard error <!°"™%. The shrinkages for _} structure. the
+CLoevex and Ve, pvex. Vransi9. CL ronsao, Were shrinkage of Ve and
+
+© respectively. The | Q is very large
+between subject variability for CLpvex. Ve. pvex, (©90%).
+CLrensao and Vransa9 were WH
+and{© | respectively.
+
+BLQ for Parameter Accuracy The impact of BLQ values was assessed during Payload PK data do
+model development. BLQ values were not included | not support a robust
+in the final model due to high residual variability for | popPK analysis
+FGN849 when BLQ values were included. given substantial %
+
+of BLQ values
+across all time
+points post-dose.
+
+GOF, VPC (Figure 14, Figure 15, Figure 16) Data anomaly was
+The final models adequately described the PK data. | identified (refer to
+
+19.4.2.1) but not
+reflected by model
+diagnostics due to
+data exclusion in
+popPK analysis.
+
+248
+Version date: February 10, 2025 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as "Data" and “The Applicant's Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5805215

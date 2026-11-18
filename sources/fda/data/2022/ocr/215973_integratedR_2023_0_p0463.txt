@@ -1,0 +1,53 @@
+NDA 215973 lenacapavir injection, for subcutaneous use
+NDA 215974 lenacapavir tablets, for oral use
+
+The independent analysis compared the capsid gene changes from baseline and postbaseline
+samples for each virologic failure subject to determine if treatment-emergent substitutions could
+be detected. Different capsid sequences were used as references for the mapping of capsid genes
+from different HIV-1 genotypes and subgroups, including 1) AE (n=2), HIV-1 isolate M114
+subtype CRF01_AE from Thailand (DQ354117.1); 2) B (n=16), HIV-1 isolate JIRFL from USA
+(U63632.1); and 3) BF (n=1), HIV-1 isolate CH80 subtype BF from Chile (FJ358521.1).
+
+Fastq files for all samples from virologic failures in clinical Study 4625 were mapped to
+reference sequences using the CLC Genomics Workbench. Variants were detected using the Low
+Frequency Variant Caller. Substitutions associated with treatment were detected by comparing
+baseline samples to post-baseline samples and identifying substitutions that were not detected at
+baseline (frequency <3%) but were detected at later timepoints in multiple subjects and at
+frequencies >5%.
+
+Table 140. Resistance Analysis of Treatment Failures From Clinical Study 4625 (DAV Analysis)
+No. of RESIST
+
+GTSG AAPOS Subjects — CAT Explanation
+Vill 1 P-RAS OTE 5% WA; 12% W10
+TE, 3% W10; 9% W22 and : TE,
+N21S 2 P-RAS 5, wig
+Q63H 1 P-RAS ): TE, 6% W4
+. A . (b) (6)
+
+Mee! 5 RAS TE >20% in 5 TF subjects:
+
+TE >20% in 3 TF subjects: oe
+Q67H 3 RAS . Q67K also emerged at 10% in oe)
+
+1 (b) (6) i
+K70R 3 RAS TE >25% in two TF ( ) and 2% in
+B  N74D 1 P-RAS TE >90% W10 and W22
+
+E79K 1 P-RAS TE 6% W4
+
+TE >35% in © (W10 and W22) and me
+Al0sT = 3 RAS (W26) and 5% in N18) (yy26)
+V134I 1 P-RAS OTE 8% W4
+
+TE, 24% W4. N139S detected at 2% in
+N139D 1 P-RAS (Wa) and 1) (Wi0)
+M53v00« 4 BL P-RAS >90% at BL
+P160S 1 BL P-RAS >90% at BL
+R162K 1 BL P-RAS 9% at BL
+ui72i 4 BL P-RAS >75% at BL
+261
+
+Integrated Review Template, version 2.0 (04/23/2020)
+
+Reference ID: 4944206

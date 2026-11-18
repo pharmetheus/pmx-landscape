@@ -1,0 +1,93 @@
+NDA Multi-disciplinary Review and Evaluation - NDA 215814
+
+REZLIDHIA, olutasidenib
+
+Population PK model evaluation and E-
+R analyses: R (version 3.6.3 or higher).
+
+proposed in Section 12.3 of the USPI.
+
+Model Structure 2-compartment oral model with first Acceptable.
+order elimination
+Model Parameter Estimates Table 88 Acceptable.
+Uncertainty and Variability (RSE, | Table 88 Acceptable.
+IIV, Shrinkage, Bootstrap)
+BLQ for Parameter Accuracy BLQ values were kept in the analysis Acceptable.
+dataset and flagged accordingly. Fewer
+than 3% of the data were BLQ:
+therefore, imputation methods, such as
+the M3 likelihood imputation, were not
+performed.
+GOF, VPC Figure 16: Goodness-of-Fit Plots for the | Acceptable.
+Final Population PK Model
+and Figure 17
+Significant Covariates and Figure 20 See Figure 20 and
+Clinical Relevance related text.
+Labeling Language Description Acceptability
+[FDA’s comments]
+12.3 PK No population-PK language was Acceptable.
+
+Table 84: Summary of Continuous Covariates in the Population PK Dataset
+
+2102-HEM-101 2102-HVS-105 Overall
+(N=324) (N=25) (N=349)
+Age (year's)
+Mean (SD) 67.9 (11.3) 58.4 (6.87) 67.2 (11.3)
+
+Median [Min, Max]
+
+70.0 (28.0, 90.0) 61.0 [38.0, 70.0]
+
+70.0 [28.0, 90.0]
+
+Baseline body weight (kg)
+
+Mean (SD)
+
+73.8 (17.1) 84.9 (22.2)
+
+74.6 (17.7)
+
+Median [Min, Max]
+
+72.0 [36.3, 145] 77.1 [52.6, 135]
+
+72.6 [36.3, 145]
+
+Baseline lean body weight (kg)
+
+Mean (SD)
+
+52.6 (9.81) 58.8 (12.9)
+
+53.0 (10.2)
+
+Median [Min, Max]
+
+53.6 [30.5, 88.3] 57.7 [35.1, 87.6]
+
+53.7 [30.5, 88.3]
+
+Baseline body surface area (m7)
+
+Mean (SD)
+
+1.82 (0.223) 1.97 (0.293)
+
+1.83 (0.231)
+
+Median [Min, Max]
+
+1.82 [1.23, 2.59] 1.92 [1.45, 2.64]
+
+1.83 [1.23, 2.64]
+
+Version date: January 2020 (ALL NDA/ BLA reviews)
+
+243
+
+Disclaimer: In this document, the sections labeled as “The Applicant’s Position” are completed by the Applicant
+and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5086659
+

@@ -1,0 +1,122 @@
+NDA 217673
+
+Brinsupri (brensocatib)
+
+Table 95. Summary of Method Validation Performance (Report 8462136)
+
+Bioanalytical method
+validation report name,
+amendments, and hyperlinks
+
+Method description
+
+Method Transfer and Cross-Validation for the Determination of Brensocatib in Human Plasma by
+HPLC with MS/MS Detection
+
+Report 8462136
+Report 8462136 Addendum |
+Report 8462136 Addendum 2
+
+Proiein precipitation / liquid chromatography with tandem mass spectrometric detection
+
+Materials used for standard
+calibration curve and
+concentration
+
+Calibration curve: 0.841 (LLOQ), 1.68, 4.20, 10.5, 42.0, 168, 420, 757, $41 (ULOQ) ng/mL of
+Reference Standard INS1007 in human plasma.
+
+Validated assay range
+
+0.841 to 841 ngimL
+
+Material used for QCs and
+concentration
+
+Quality Controls: 0.841 (LLOQ), 2.52, 37.8, and 673 ng/mL of Reference Standard INS 1007 in
+human plasma
+
+MRDs
+
+NA
+
+Source and lot of reagents
+
+Reference Standard INS1007:
+
+Lot 19-401 YA)... niratiowtetest: 09 DEC 2021
+
+Internal Standard INS10074Cg'
+
+Lot 12232020 1) @)...piration/retest: 13 MAY 2022
+
+Regression model and
+weighting
+
+Tinear regression: y=a > bx
+
+weighting: Vx
+
+‘Validation parameters
+
+Method validation summary Source location
+
+Standard calibration curve
+performance during
+accuracy and precision runs
+
+Number of standard 9 Report 8462136
+calibrators from LLOQ to [Table 6.2]
+ULOQ
+
+‘Cumulative accuracy
+(*ébias) from LLOQ to
+ULOQ- INS1007
+
+~4.6 to 8.1 % bias Report 8462136
+
+[Table 6.2]
+
+Cumulative precision NA
+(CV%) from LLOQ to
+
+ULOQ - INS1007
+
+Performance of QCs during
+accuracy and precision runs
+
+Cumulative accuracy
+(bias) in 4 QCs
+
+Intra-assay: Report 8462136
+
+-2.0% bias (LLOQ): [able 64]
+
+QCs for INS1007: 0841 Ts 515 > 106 bias (above LLOQ)
+
+(LLOQ), 2.52. 37.8, and
+673 ng/mL
+Inter-batch CV% Intra-assay. Report 8462136
+
+QCs for INS1007: 0.841 Table 6.4]
+
+(LLOQ). 2.52. 37.8. and
+673 ng/mL
+
+5.1% CV (LLOQ):
+2.1 to 4.7% CV (above LLOQ)
+
+Selectivity & matrix effect
+
+Acceptable selectivity demonstrated for the quantification of AZD7986 and
+(2C6)AZ13661057 in Report 8309775 (6 spiked matrix lots).
+
+Report 8309775
+[able 7.2]:
+
+191
+
+Integrated Review Template, version 4.0 (11/1/23)
+
+Reference ID: 5640933
+

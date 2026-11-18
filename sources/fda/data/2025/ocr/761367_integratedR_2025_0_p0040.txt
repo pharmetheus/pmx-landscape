@@ -1,0 +1,63 @@
+BLA 761367
+Andembry / garadacimab
+
+Figure 1. Relative Risk of an HAE Attack as a Function of Garadacimab Concentration
+
+1.00 4
+
+0.754
+
+0.50 4
+
+0.254
+
+Relative risk of HAE attack
+
+0.00 4
+
+0 20 40 60
+Daily CSL312 concentration (g/mL)
+
+ST
+
+75mg SC QIM
+
+100 mg SC QiM
+
+200 mg SC QiM
+
+|
+
+300 mg SC QiM
+
+600 mg SC QiM
+
+0 20 40 60
+Steady state CSL312 trough concentration (g/mL)
+
+Source: Summary of Clinical Pharmacology, Figure 14
+
+In the top panel, the blue line is the model prediction, and the gray ribbon is the approximate 95% Cl. In the bottom panel, the box
+plots indicate distribution of steady state garadacimab Cy,ou,, by dose. The box represents the IQR, the line in the box represents the
+median, and the whiskers represent 1.5x IQR. Red dashed lines in both panels correspond to relative risk of HAE attacks of 0.50,
+0.25, and 0.10 (left to right). Each dosing regimen includes an initial SC loading dose of twofold the Q1M dose.
+
+Abbreviations: Cl, confidence interval; CSL312, garadacimab; C:.gh, Plasma trough concentration; HAE, hereditary angioedema;
+IQR, interquartile range; Q1M, once monthly; SC, subcutaneously
+
+Based on the results of the phase 2 dose-ranging trial (2001) and assessment of exposure-
+response (E-R) relationships for efficacy, selection of the 200-mg dose for the phase 3 trial
+(3001) appears to be reasonable.
+
+Trial 3001
+
+The 200 mg monthly maintenance dosing regimen (with a 400 mg loading dose) was further
+evaluated in the 6-month, randomized, double-blind, placebo-controlled, phase 3 trial (3001).
+The 200-mg dose met the primary endpoint of time-normalized number of HAE attacks per
+month and all key secondary efficacy endpoints, demonstrating an improvement over placebo
+(see Sections 6.2.4.3 and 6.2.4.4).
+
+16
+Integrated Review Template, version 3.0 (05/25/2022)
+
+Reference ID: 5458438

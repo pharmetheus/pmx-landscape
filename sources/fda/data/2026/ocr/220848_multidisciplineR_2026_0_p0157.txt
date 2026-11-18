@@ -1,0 +1,45 @@
+NDA 220848
+LIPFENDRA (enlicitide)
+
+In Trial P017, the adverse events with a risk difference >3.0% were diarrhea, gastroenteritis, and
+dizziness. Diarrhea and dizziness will be incorporated into the label for Trial P017 given the
+magnitude of the risk difference in Trial P017, even though they were equivocal in Trial P013, as
+shown below. A small imbalance in gastroenteritis was seen by PT term but not when using
+OCMQs because there is not a specific CMQ for gastroenteritis (there are only custom queries
+for gastrointestinal discomfort, gastrointestinal pain, gastrointestinal upset and gastroenteritis
+Escherichia coli). Gastroenteritis, as an infection, is more likely due to chance.
+
+FDA Table 18. Adverse Events With Risk Difference 22%, Trial P017
+
+Enlicitide Enlicitide Enlicitide Enlicitide
+20mg _ Placebo} 20mg _ Placebo | 20 mg_013 vs. 20 mg_017 vs.
+
+013 013 017 017 Placebo_013 Placebo_017
+
+N=1935 _N=969|__N=202__N=104|_RD (%) (95% Cl)|__RD (%) (95% Cl)
+Preferred Term n %n % nn % Nn WRD(%) 95%Cl| RD(%) 95% Cl
+Diarrhoea 48 2527 28 15 74 #2 20 -03 -1.7,09) 5.4 -0.1, 10.3
+Accidental 80 4130 3.1) 16 79 4 4.0 1.0 -0.5, 2.4) 40 -25,9.3
+overdose
+Gastroenteritis 28.614 8 08 8 40 1 1.0 0.6 -0.3, 1.4 3.0 -1.7,6.8
+Dizziness 47 2423 24 14° 69 4 40) 0.1 -1.2, 1.2 3.0 -3.4, 8.1
+Pneumonia 18 0912 12 7° #35 #1 #10) -03 -1.3,0.4! 2.5 -2.2,6.2
+Sinusitis 17,0912 ~=125 #25 #0 00} -04 -1.3,0.4! 2.5 -1.2,5.7
+Viral upper 7 04 1 01) 4 #20 O 0. 0.3 -0.2, 0.7 2.0 -1.7,5.0
+respiratory tract
+infection
+Gastrooesophageal 27 1412 1.2) 6 3.0 1 1.0 0.2 -0.8, 1.0 2.0 -2.6,5.5
+reflux disease
+Flatulence 8 04 5 05 4 20 0 00} -01 -0.8,04/ 2.0 -1.7,5.0
+Source: Clinical Data Scientist
+Abbreviations: Cl, confidence interval; RD, risk difference
+
+144
+
+Version date: February 10, 2025 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5833849

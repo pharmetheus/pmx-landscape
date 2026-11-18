@@ -1,0 +1,54 @@
+NDA/BLA Multi-disciplinary Review and Evaluation — NDA 219972
+Sevabertinib (BAY 2927088) — Version 2.0
+
+The FDA’s Assessment:
+
+FDA agrees with the Applicant’s assessment that no dosage adjustment is required for age (18 to
+91 years), race (27% White, 65% Asian), sex, body weight (29 to 155 kg), smoking status, eGFR
+30 to < 90 mL/min, or mild hepatic impairment (AST > ULN and total bilirubin < ULN; or total
+bilirubin > 1 to 1.5x ULN and any AST).
+
+HER2 genetic alternations and treatment effect:
+
+FDA explored the treatment efficacy by HER2 genetic alteration in the primary efficacy
+population, Group D, in study 21607. In study 21607, group D, 81 patients with activating HER2
+mutations were enrolled. HER2 mutations were detected at a laboratory accredited by Clinical
+Laboratory Improvement Amendments (CLIA) or equivalent standard. The local HER2 results
+were retrospectively confirmed by the Thermo Fisher Oncomine™ Dx Target Test (ODxTT) as
+part of the clinical bridging study for companion diagnostic development. Based on an
+information request response (dated 05/21/2025), there was no pre-defined list of HER2 variants
+eligible for enrollment. Variants known to contribute to carcinogenesis and activate the HER2
+pathway, based on publications and public databases including ClinVar
+(https://www.ncbi.nlm.nih.gov/clinvar/) and COSMIC (https://cancer.sanger.ac.uk/cosmic), were
+considered as activating HER2 mutations. Consistent with literature (Loeffler et al. 2023), the
+majority of identified HER2 genetic alterations were exon 20 insertions (N=64, 83%), with
+HER2 Y722_A775 dup (YVMA) identified as the most common exon 20 insertion (N=48, 59%).
+Treatment response was observed across HER2 genetic alterations (Table 26). Responses were
+numerically lower in patients with point mutations, compared to patients with exon 20 insertions.
+However, the results for patients with point mutations need to be interpreted with caution due to
+small sample size. This analysis suggests sevabertinib treatment is effective for patients with
+activating HER2 mutations, and did not identify efficacy concems for any mutation subtypes or
+specific mutations based on the limited available data.
+
+Table 26. Efficacy by HER2 Genetic Alterations in Study 21607 Group D, by BICR
+
+HER2 Mutations N Responders? (N) ORR (%)
+HER2 Y722_A775 dup (YVMA) 48 37 7
+Other HER2 Exon 20 insertions 19 10 52
+G776delinsVC 8 4 50
+G778_P780dup 5 2 40
+G776delinsLC 4 3 50
+G778_S779insCPG 1 0 0
+M774dup 1 1 100
+HERz2 Point Mutations 13 5 39
+V659E 3 0 0
+S310Y 2 2 100
+$310F 2 0 0
+125
+
+Version date: March 1, 2024 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5697816

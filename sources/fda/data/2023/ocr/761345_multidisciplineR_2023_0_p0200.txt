@@ -1,0 +1,67 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {BLA 761345}
+elranatamab
+
+No. of Patients, PK Samples, 13233 observations; 3739 total elranatamab (<1% post-
+and BLQ dose BLQ) observations, 2947 free elranatamab (13%
+post-dose BLQ) observations, 3812 total sBCMA (3% post-
+dose BLQ) observations, and
+
+2735 free sBCMA (22% post-dose BLQ) observations
+
+Sampling Rich Sampling | Timepoints of sampling (hour)
+Schedule Study C1071001 Part 1: C1D1: 0, 2, 4, 24, 72; C2D1: 0, 2,
+4,72.
+
+Study C1071001 Part 1.1 and 2A: CODO: 0, 2, 4, 8, 24;
+C1D1: 0, 2, 4, 24.
+Study C1071002: CODO: O, 2, 4, 8, 24, 72; C1D1: 0, 2, 4, 8,
+
+24.
+Sparse sampling (mostly predose) for other cycles and
+studies.
+In ITT Not applicable
+Population
+Covariates Static Age, sex, body weight, eGFR, sBCMA, formulation
+Evaluated strength, hepatic function (albumin, bilirubin, AST),
+baseline ADA, ADA status (positive/negative) (Table 73,
+Table 74)
+Time-varying Time-varying ADA.
+
+Final Model Summary Acceptability
+[FDA’s
+comments]
+
+Software and Version NONMEM version 7.5.0, PsN version | Acceptable
+5.2.6, R version 3.6.1
+
+Model Structure Asemi-mechanistic target-binding Acceptable
+model structure with first-order
+absorption
+
+Model Parameter Estimates Table 71 Acceptable
+
+Uncertainty and Variability All main model parameters were Acceptable
+
+(RSE, IIV, Shrinkage, Bootstrap) | estimated with good precision
+(relative standard error (RSE) <30%),
+were within the 95% Cls, and are in
+agreement with published values for
+monoclonal antibodies.
+
+BLQ for Parameter Accuracy M1 method — BLQ were ignored Acceptable
+
+GOF, VPC Figure 31 for total elranatamab and | Acceptable
+Figure 32 for free elranatamab
+
+Significant Covariates and Figure 33 exposure by sex, Figure 34 | Acceptable
+
+Clinical Relevance exposure by body weight, Figure 35
+
+exposure by Age.
+
+201
+Version date: January 2020 (ALL NDA/ BLA reviews)
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5226136

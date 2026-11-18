@@ -1,0 +1,47 @@
+BLA Multi-disciplinary Review and Evaluation {BLA 761263, Lunsumio (Mosunetuzumab)}
+
+CL=CLara‘CLersates grate>1; Ve=Veyra’ Vc,crs. males’ Ve,co297s13 Ve=V,na’ Vp,crsmales’ Vp,co2o781;
+Kior=KinesraKin,crs; KuesKaesra’Kaescrs, Where CLra, Vera, Ve.ra, Kinwra, and Keg.na are parameter estimates for
+patients with RA described by Table 2
+
+Parameter Estimate | %RSE 95% CI Variability | Shrinkage
+
+VatB O12 oO Fixed
+
+Verot O15 0 Fixed
+
+sBASE exp(Ozs) 29.4 11.2
+
+CLers grate>1 exp(0s1) 1.60 12.4
+
+Vesces= Vrscrs | _exp(0s2) LIS 549
+
+Qens exp(6ss) 3.59 7.34
+
+Kinncrs exp(@s1) 2.09 751 E
+
+Kasa.crs exp(6ss) 76 1.64: 1.89
+
+oct 20.1) 0.291 0.0114 ; 0.57 CV=53.9% 18.30%
+over 202.2) 0.0681 0.0367 : 0.0996 | CV=26.1% 5.70%
+Oaase 209.9) 0.381 CV=61.7% -9.8%
+Outer QU111) | 0.0130 CV=11.4% 20.6%
+© eps.rez 213,13) | 0.128 45.0%
+© EpssiLan 204,14) | 0.354 27.2%
+Orcz X11) 1 17.8%
+Carer (2,2) 6.7%
+PE: Parameter Estimat PE); 95% CI:
+
+95% confidence interval; SD: Standard Deviation: CV: coefficient of variation, CV = 100*SD %.
+Source file: 1 78ParEst.esv (CRS_DiagnosticPlots.R)
+Source: Applicant’s Population PK Report (poppk-1114219), Table 2 and Table 8.
+
+Figure 56: Goodness of Fit for Final Model: Tocilizumab and sIL-6R
+
+264
+Version date: January 2020 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5100050

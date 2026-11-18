@@ -1,0 +1,64 @@
+NDA Multi-Disciplinary Review and Evaluation
+
+NDA 219876
+Dordaviprone
+‘Observed Predicted (Kj=25 uM) __ Predicted (X= 13 uM)
+Cimetidine Dosing Regimens Dosing Regimens of CYP3A Substrates, ae = as
+“400 mg cimetidine BID (3 doses) “Midazolam 15 mg SD (02) (30 min NA 1351.33 14 163 182
+400mg cimetidine SD Midazolam 15mg SD (2 hrs after 1370137123126 146 155
+Cimetidine 200 mg TID with 400 mg pr on D1. 200 mg on D2. Midazolam 15 mg SD (02) 2.sh after 238 20214 ery 12 124
+‘Cimetidine 300 mg QID for 2 days ‘Triazolam 0.5 me SD (02) 1390013200 4B aaa 134 as
+Cimetidine 200 mg TID with 400 mg pm for 9 days Triazolam0.5 me QD at night for 7 days 15122125 13 1s 16
+‘Cimetidine 300 mg QIO (4 doses) ‘Triazolam 0.Sme SO (1 hr after 3rd cimetidine dose) 1350015500 4g 3.22 135 16
+Cimetidine 200 mg TID with 400 mg pm for 9 days Alprazolam 0.5mg TID for 7 days and morningdoseon 08 182 164 106 108, 1 117
+‘Cimetidine 800 mg QD for 5 days Nifedipine 10 mg TI for 4 Ds, 1 dose D5 23002 141164 455 208
+Cimetidine 200 mg TID with 400 mg pm for 7 days Nifedipine 10 mg QI0 for 6 Ds, 1 dose 07 20216 1331.23 1 153
+‘Cimetidine 200 me TID with 400mg pm for 3 days Nifedipine 20 mg SO 02 (1 hrafterfirstcimetidinedose) = NA 1310-147 1.23 135 ast
+Cimetidine 300 mg QID for 7 days Nifedipine 20 mg SD 07 1415221133, 143 un
+‘Cimetidine 800 mg QD for 5 days Nifedipine 20 mg SO DS (thr afer cimetidine) 16s 17704564. 78 1.96 242
+Cimetidine 300 mg QID for 7 days Quinidine 330 me (free base) SO on D6 1215710716 113 132
+‘Cimetidine 300me QID for 3 days, a.m. dose day 4 ‘Quinidine 330 me (free base) SO on D4 10127107 14 13 12
+Cimetidine 800 mg QD for 4 days Sildenafil $0 mg SO 3 (2 hrs after) 154156 136 1d 155, 178
+
+SD, single dose; BID, twice daily, QD, once daily, TID, 3 times a day, D, day, am, in the morning. pm, at the night
+Source: sv-cimetidinesummary-V21-kiupdated (NDA219685 seq0023)
+
+Can PBPK analyses be used to estimate the effects of dordaviprone on substrates of various
+cytochrome P450 enzymes and transporters?
+
+Effects of dordaviprone on midazolam:
+
+Dordaviprone is expected to have a minimal effect on CYP3A4 substrates following once
+weekly dosing of 625 mg dordaviprone. Details are discussed as follows:
+
+Dordaviprone 625 mg once weekly was predicted to have no inhibitory effect on the exposure of
+the CYP3A4 substrate midazolam. However, the hepatocyte induction study showed that
+dordaviprone increased CYP3A4 mRNA expression by 2- to 8-fold in all three donors at 2 and
+20 uM of dordaviprone, which are below or close to 50 times of its unbound plasma peak
+concentration (Cmax, 14.4 |1M). The increase in expression was concentration-dependent despite
+approximately 50% decrease in hepatocyte viability and 80% reduction in 18s ribosomal RNA
+expression compared to the vehicle control at dordaviprone concentrations > 20 1M). Therefore,
+potential CYP3A4 induction in vivo by dordaviprone cannot be ruled out.
+
+Assuming that dordaviprone functions as a clinical inducer, the potential effect on CYP3A
+substrates under weekly dosing regimens was evaluated by (1) simulating midazolam
+interactions with rifampin (t12= 3.5 h) and rifabutin (ti2= 38 h), a moderate CYP3A inducer,
+under various scenarios, and (2) collecting clinical DDI data involving rifapentine (t12=14 -18 h),
+a strong CYP3A inducer, and rifabutin under twice-weekly dosing regimens. For comparison,
+the effects of these inducers following once daily dosing were included. The results in Table
+19.13 indicated that, once weekly rifampin dosing had a minimal effect on midazolam exposure;
+and twice weekly administration, particularly with two consecutive doses, could result in
+moderate or weak induction effects on CYP3A substrates. Therefore, even if dordaviprone is a
+strong CYP3A inducer, its effect on the exposure of a CYP3A substrate is expected to be
+negligible under once-weekly dosing.
+
+Table 19.13 Effects of CYP3A inducers on the exposure of CYP3A substrates following
+various dosing regimens
+
+229
+Version date: March 1, 2024 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5638121

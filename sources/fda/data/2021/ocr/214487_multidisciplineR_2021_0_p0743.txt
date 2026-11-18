@@ -1,0 +1,43 @@
+NDA 214487 CCX168 Page 28 of 35
+Male Hamster Poly-3 Test
+0 mg Veh. Omg 10 mg 30 mg 100 mg
+Cont (N=65) |Water (N=65)| Low(N=65) | Med (N=65) | High (N=65)
+Organ Name Tumor Name P-Trend |P-VCvs.W| P-VCvs.L | P-VCvs.M | P-VCvs.H
+
+M-Malignant schwannoma 0/65 (35) 1/65 (46) 0/65 (36) 0/65 (39) 0/65 (37)
+
+NC 0.5679 NC NC NC
+M-Sarcoma NOS 2/65 (37) 1/65 (46) 0/65 (36) 0/65 (39) 0/65 (37)
+1.0000 0.9154 1.0000 1.0000 1.0000
+M-Squamous cell carcinoma 0/65 (35) 0/65 (46) 0/65 (36) 1/65 (39) 0/65 (37)
+
+0.5170 NC NC 0.5270 NC
+Spleen B-Haemangioma 0/64 (35) 1/65 (46) 0/65 (36) 1/65 (39) 0/65 (37)
+
+0.5170 0.5679 NC 0.5270 NC
+Stomach B-Squamous cell papilloma 0/65 (35) 3/64 (46) 1/65 (36) 1/65 (39) 4/65 (38)
+0.0164* 0.1779 0.5070 0.5270 0.0678
+Tail B-Hemangioma 1/65 (36) 0/65 (46) 0/65 (36) 0/65 (39) 0/65 (37)
+1.0000 1.0000 1.0000 1.0000 1.0000
+Thymus B-Benign thymoma 1/54 (28) 0/46 (34) 0/49 (27) 0/46 (28) 0/50 (28)
+1.0000 1.0000 1.0000 1.0000 1.0000
+Thyroid B-C-cell adenoma 0/65 (35) 1/63 (46) 0/63 (35) 0/63 (38) 1/62 (37)
+0.2552 0.5679 NC NC 0.5139
+B-Follicular cell adenoma 0/65 (35) 0/63 (46) 0/63 (35) 1/63 (38) 0/62 (37)
+
+0.5172 NC NC 0.5205 NC
+M-C-cell carcinoma 0/65 (35) 0/63 (46) 0/63 (35) 1/63 (38) 1/62 (38)
+0.2028 NC NC 0.5205 0.5205
+B-C-cell adenoma/ M-C-cell 0/65 (35) 1/63 (46) 0/63 (35) 1/63 (38) 2/62 (38)
+carcinoma 0.0692 0.5679 NC 0.5205 0.2675
+
+& X/ZZ (YY): X=number of tumor bearing animals, YY=mortality weighted total number of animals, ZZ=unweighted total number of animals
+
+observed:
+
+NC =Not calculable
+*: Statistically significant at 0.005 and 0.025 for common and rare tumors, respectively in dose response relationship (trend) tests and
+significance levels of 0.01 and 0.05 for common and rare tumors, respectively in pairwise comparisons.
+
+Reference ID: 4754346
+

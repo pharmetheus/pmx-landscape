@@ -1,0 +1,31 @@
+NDA 215973 lenacapavir injection, for subcutaneous use
+NDA 215974 lenacapavir tablets, for oral use
+
+Failing
+BGRD 1° EFF PI RT INSTI Phenotypic
+PID Arm Regimen OBR ___Timepoint Resistance HIVVL Y/N Capsid Resistance Resistance Resistance Resistance
+WK26 2420 S41T Q50A M36M/I M461 M41LD67N ND TAF 1.4
+T107S 147V I50V L741 L1001 LEN 46
+A105A/T K55R A71V_ K103N
+G73EL76V K104K/R
+V82T L89V_—-V1081
+M184V
+L210W
+T215Y
+K219N
+L228H
+(8) PLACEBO DRV/C DAY 1 NRTI 193,000 N v77l K65K/R E92Q DRV 0.83
+FTC TDF (Pl, NNRTI S68S/G FTC >100
+and INSTI Y181C TDF 0.58
+available) M184M/V LEN 0.9
+nonadherent
+DTG WK26 561 M661 A78S__V771 K65R S68N DTG >0.51
+DRV/C Y181C DRV 0.77
+RPV RPV 2.2
+LEN 138
+WK52 11,400
+
+250
+Integrated Review Template, version 2.0 (04/23/2020)
+
+Reference ID: 4944206

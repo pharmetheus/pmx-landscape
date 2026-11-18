@@ -1,0 +1,64 @@
+NDA/IND Multi-disciplinary Review and Evaluation NDA 219379/219389
+Mirdametinib (GOMEKLI)
+
+Model Evaluation Final safety PKPDx models were Acceptable
+determined based on model fit
+improvement using AIC: Akaike’s
+Information Criterion, Chi-square test
+statistic statistical significance,
+physiological plausibility of parameter
+values, successful numerical
+convergence.
+
+Covariates and Clinical Relevance TGI: The natural history model showed | Acceptable
+effects of age and baseline tumor
+volume on natural growth parameters.
+Pediatric participants had higher
+natural growth rates (Ks) combined
+with lower tumor decay rates (Ko) and
+higher drug effect. Adult participants
+had lower Keand higher Ko but with
+lower drug effect. These factors lead
+to a similar change in tumor volume
+over time between the age groups.
+
+No other covariate effects were
+supported by the data.
+
+BOR: No statistically significant
+covariates were identified for the
+relationship between BOR and
+mirdametinib exposure. A longer time-
+to-tumor growth (TTG), a predicted
+parameter from the TG! model was
+associated with higher probability of
+BOR. Age group (2 to <12, 12 to 17,
+and >17) and baseline tumor volume
+were significant covariates in the
+relationship with BOR, suggesting that
+a better response is correlated with
+younger age and smaller baseline
+tumor volume. However, correlation
+with baseline tumor volume is not
+considered clinically relevant because
+a single tumor lesion is not reflective
+of the overall disease burden.
+
+Simulation for Specific Population Population simulations of tumor Acceptable
+volume response to varying dose
+levels of mirdametinib treatment were
+conducted using virtual participants
+with weight, BSA, and age sampled
+from NHANES demographic
+distributions. Simulations were
+conducted for no treatment and at 1,
+1.5, 2, 2.2, and 3 mg/m? BID
+administered 3 weeks on and 1 week
+
+330
+Version date: June 2022 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5528369

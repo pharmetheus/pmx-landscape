@@ -1,0 +1,56 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 219249}
+{Inavolisib}
+
+In the clinical trial GO39374, palbociclib was co-administered with 9-mg QD inavolisib along
+with letrozole. The steady state PK parameters of palbociclib in this study were mostly within
+30% of the values published in the Palbociclib FDA Clinical Pharmacology Review (NDA 207103
+Review, 2014). During inavolisib model verification, the Applicant simulated palbociclib PK in
+this study using the induction parameters generated from lot 1198 together with CYP3A TDI
+parameters generated in human liver microsomes. The ability of the simulations to capture the
+steady state palbociclib PK profile was used as the evidence that the CYP3A interaction
+parameters were adequately established (Figure 21). The reviewer performed additional
+simulations to examine the effects of inavolisib on palbociclib PK when inavolisib behaved as a
+CYP3A inducer. These simulations were performed using the Applicant’s palbociclib model or
+the reviewer-modified model (see Methods) and the induction parameters generated from lot
+FOS but without the CYP3A TDI parameters. The results showed that the steady-state
+palbociclib PK profiles and parameters were not significantly changed (Figure 21 and Table 55)
+even when inavolisib was predicted to reduce midazolam AUC close to 50% under these
+conditions (Table 56). Therefore, capturing the steady state palbociclib PK profiles is not
+sufficient evidence to verify the CYP3A interaction parameters.
+
+Of note, although cytotoxicity was not observed in hepatocytes from lot 1198 and lot 1421,
+crystallization was observed from cell morphology at 100 1M inavolisib, which may be the
+potential reason for the reduced response observed at 100 1M compared to 10 1M, the second
+highest concentration (Report 16-0131). The maximum induction responses of the hepatocytes
+from lot 1198 and lot 1421 to inavolisib were not reached, which may affect the accuracy of
+induction parameter estimation.
+
+Taken together, the effect of inavolisib on CYP3A substrates cannot be confidently predicted.
+The potential induction effect of inavolisib on CYP3A cannot be ruled out.
+
+Table 54: Induction parameters of inavolisib and rifampin and predicted effects of inavolisib
+on midazolam exposure
+
+Inavolisib Rifampin Inavolisib Predicted GMR of
+Hepatocy calibrated MDZ
+telots Eran un Ennax uy Index uy AUC | Crnox
+Lot 1198 44.39 6.66 65.77 0.39 11.12 5.46 0.9 0.93
+Lot 1421 52.07 12.54 52.00 0.75 16.02 S35) 0.86 0.9
+Lot FOS 33.55 3.75 73.28 1.81 7.87 0.66 0.63 0.72
+
+MDZ, midazolam; GMR, geometric mean ratio; Indmax, the maximum fold induction, and ECso, the concentration that gives half
+maximal fold induction; Emax = Indmax -1
+
+Source: Table 5 and Appendix 5 in the PBPK report 129287
+
+Table 55: Comparison of observed steady state palbocicilib pharmacokinetic parameters in
+the presence of inavolisib (9 mg QD) with those predicted using various induction parameters
+of inavolisib
+
+226
+Version date: June 2022 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5460147

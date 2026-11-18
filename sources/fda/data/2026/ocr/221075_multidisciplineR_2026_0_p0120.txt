@@ -1,0 +1,56 @@
+NDA/BLA Multi-disciplinary Review and Evaluation NDA 221075
+Iberdomide (ZENBEXUS)
+
+The results of Study CC-220-CP-008 are shown in Table 37. Subjects with eGFR < 30
+mL/min/1.73 m? who are not receiving dialysis exhibited ~1.8-fold higher iberdomide AUC with
+comparable Cmax to subjects with normal renal function. The FDA performed a sensitivity
+analysis of Study CC-220-CP-008 using individual eGFR (i.e., in mL/min) to achieve congruent
+units with drug clearance. The results of analysis using individual eGFR were generally
+consistent with that of the analysis using BSA-indexed eGFR (subjects with eGFR < 30 mL/min
+not receiving dialysis had ~2-fold higher iberdomide AUC with comparable Cmax). Notably,
+following calculation of individual eGFR, 2 of 6 (33%) subjects with eGFR < 30 mL/min/1.73
+ny’ who are not receiving dialysis were re-classified to having eGFR > 30 mL/min.
+
+In Study CC-220-CP-008, subjects with eGFR < 30 mL/min/1.73 m? on intermittent
+hemodialysis exhibited comparable iberdomide exposure to subjects with normal renal function
+when iberdomide was administered on both on- and off-dialysis days. Dialysis clearance of
+iberdomide was 3.1 L/h.
+
+eGFR (22-138 mL/min/1.73 m’) was a significant covariate for iberdomide clearance in the
+PopPK analysis, with patients with higher baseline eGFR having higher iberdomide clearance.
+However, model-predicted iberdomide exposures at 1 mg showed relatively comparable values
+for patients with eGFR 60-90 mL/min/1.73 m? (~15% higher Cavgss) and eGFR 30-60
+mL/min/1.73 m? (~34% higher Cayg.ss) as compared to those with normal renal function (see
+Section 19.5.3).
+
+Table 37: FDA — Geometric mean ratio of iberdomide pharmacokinetics in subjects with
+eGFR < 30 mL/min/1.73 m2 or mL/min and on intermittent hemodialysis as compared to
+healthy controls in Study CC-220-CP-008
+
+eGFR < 30, non-dialysis eGFR < 30 mL/min/1.73 m*, IHD
+mL/min/1.73 m mL/min On-dialysis Off-dialysis
+(n=8) (=4) (n=8) (=8)
+t 1.19 1.24 1.18 0.90
+= (0.80, 1.76) (0.84, 1.84) (0.81, 1.70) (0.62, 1.29)
+1.73 1.88 1.17 1.06
+AUCtau
+(1.18, 2.53) (1.15, 3.09) (0.83, 1.65) (0.75, 1.59)
+1.89 2.10 1.17 1.07
+AUCint (1.28, 2.78) (1.38, 3.18) (0.82, 1.67) (0.75, 1.52)
+
+Abbreviations: 90% CI. 90% confidence interval: AUCint, area under the concentration-time curve from 0 to
+infinity: AUCo96. area under the concentration time-curve from 0 to 96 hours; Cmax, maximum plasma
+concentration: eGFR, estimated glomerular filtration rate: GMR. geometric mean ratio; IHD, intermittent
+hemodialysis; RI. renal impairment
+
+Source: FDA Analysis
+Presented as GMR (90% CI) with reference to normal renal function (n=6 for eGFR < 30 mL/min/1.73 m? non-
+dialysis, n=10 for eGFR < 30 mL/min/1.73 non-dialvsis, n=8 for eGFR < 30 mL/min/1.73 m?, IHD)
+
+119
+Version date: February 10, 2025 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5851050

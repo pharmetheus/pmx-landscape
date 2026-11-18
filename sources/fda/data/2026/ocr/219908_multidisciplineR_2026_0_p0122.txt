@@ -1,0 +1,66 @@
+NDA/BLA Multi-disciplinary Review and Evaluation/New Drug Application (NDA) 219908
+REVTORPYK (gedatolisib)
+Efficacy Results — Primary Endpoint (Including Sensitivity Analyses)
+
+Data and the Applicant’s Position:
+
+e Progression-Free Survival: Arm A vs Arm C
+
+Subjects treated with the gedatolisib-triplet in Arm A experienced a clinically and statistically
+significant improvement in PFS compared with those treated with fulvestrant in Arm C
+(HR=0.24; 95% CI: 0.17, 0.35; p <0.0001) (Table 26, Figure 8.1). Median PFS was 9.3 months
+(95% CI: 7.2, 16.6) in Arm A and 2.0 months (95% CT: 1.8, 2.3) in Arm C. The number of
+subjects who experienced either disease progression or death was 59 (45.0%) of 131 subjects in
+Arm A and 89 (67.9%) of 131 subjects in Arm C.
+
+Table 26: Progression-Free Survival: Arms A and C (BICR; ITT; Study 1)
+Parameter Sree Cee
+(N= 131) (N= 131)
+Subjects with Event - n (%)
+Disease progression 50 (38.2) 83 (63.4)
+Death without disease progression 9 (69) 6 (4.6)
+Censored Subjects - n (%)
+Withdrawal from study (EOS) other than due to death 8 (6.1) 10 (7.6)
+Data cut (ongoing follow-up) 59 (45.0) 26 (19.8)
+Other * 5 (3.8) 6 (4.6)
+Median PFS - (months, 95% CI) > 9.3 (7.2, 16.6) 2.0 (1.8, 2.3)
+Comparison Avs C
+HR (95% CI) © 0.24 (0.17, 0.35)
+p-value (stratified log-rank test) p <0.0001
+
+PFS Rate at 6 months (%, 95% CI) 4
+PFS Rate at 12 months (%, 95% CI) 4
+PFS Rate at 18 months (%, 95% CI) 4
+
+61.5 (51.4, 70.1) 16.9 (9.8, 25.6)
+41.9 (30.5, 53.0) 11.0 (4.9, 19.9)
+34.8 (21.6, 48.2) 0 (NE, NE)
+
+Median PFS follow-up - (months, 95% CI) * 7.4 (7.2, 10.9) 74 (5.5, 9.1)
+
+‘Abbreviations: BICR = blinded independent central review; CI = confidence interval, CSR = clinical study report, EOS = end of
+study; HR = hazard ratio; ITT = Intent-to-Treat; N = total number of subjects; n = number of subjects meeting specified criteria;
+NE = not evaluable; PFS = progression-free survival; vs = versus.
+
+a. Subjects censored due to missing 2 or more tumor assessments, except 1 subject in Arm A who was censored due to
+withdrawal of consent.
+
+Kaplan Meier method and CIs by the Brookmeyer and Crowley Method.
+
+Stratified Cox regression model, CIs for HR were based on the score test.
+
+Kaplan Meier method and Cls by the product-limit method.
+
+Based on the reverse Kaplan Meier method.
+
+Source: Module 5.3.5.1, CELC-G-301 CSR (Table 14.2.1.1.1).
+
+eRe
+
+121
+Version date: February 10, 2025 (ALL NDA/BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5832496

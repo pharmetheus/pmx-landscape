@@ -1,0 +1,58 @@
+NDA 219083
+
+MYQORZO (aficamten)
+Table 105. Summary of Method Performance for Determination of Aficamten in Human Urine
+(CA27882-01)
+Bioanalytical Method Validation of an LC-MS/MS Method for the Determination of CK-3773274 in
+Validation Report Name, | Isopropanol (IPA)-Treated Human Urine
+Amendments, and Method Validation Report CA27882-01 Amendment 1
+Hyperlinks
+Method Description An aliquot of IPA-treated human urine containing the analyte and intemal standard are
+extracted using a liquid-liquid extraction procedure. The extracted samples are analyzed using
+‘Waters Acquity UPLC Binary Solvent Manager pump. Waters Acquity UPLC I-Class System.
+(SM-FTN) autosampler, and AB SCIEX APT 5000 triple quadmapole mass spectrometer using
+an ESI source. Positive ions are monitored in the MRM mode.
+Materials Used for Aficamten (CK-3773274).
+Standard Calibration
+
+Curve and Concentration
+
+Cambrex High Point, Lot 2471-1808-00416
+Calibration standards: 1,00, 2.00, 5.00, 10.0, 20.0, $0.0, 150, 420, and 500 ng/mL
+
+Internal standard:
+
+Deuterated aficamten (CK-3942912),
+Cytokinetics, Ine, Lot 01
+
+Validated Assay Range
+
+1.00 to 500 ng/mL
+
+Material Used for QCs and | Aficamten (CK-3773274).
+
+Concentration Cambrex High Point, Lot 2471-1808-00416
+QC concentration levels: 1.00 (LLOQ). 3.00 (LQC), 22.0 (MLQC), 150 (MHQC), and
+375 (HQC) ng/mL,
+Internal standard:
+Deuterated aficamten (CK-3942912),
+Cytokinetics. Inc. Lot 01
+
+Minimum Required NR
+
+Dilutions
+
+Source and Lot of
+
+Reagents
+
+Regression Model and Linear, weighted (1 /concentration’)
+
+Weighting
+
+159
+
+Integrated Review Template, version 4.0 (11/1/23)
+
+Reference ID: 5715605
+

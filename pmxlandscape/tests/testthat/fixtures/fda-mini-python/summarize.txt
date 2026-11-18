@@ -1,0 +1,9 @@
+sponsor_category,2098,2099,All,share_all
+"Monolix, stated",1,0,1,25.0%
+"NONMEM, stated",0,1,1,25.0%
+No popPK analysis in review,0,1,1,25.0%
+"Phoenix NLME, stated",0,1,1,25.0%
+Total,1,3,4,100%
+
+Drugs with an identifiable sponsor tool: 3 {'Monolix': '1 (33%)', 'NONMEM': '1 (33%)', 'Phoenix NLME': '1 (33%)'}
+FDA reviewer software (drugs): {'NONMEM': 1}

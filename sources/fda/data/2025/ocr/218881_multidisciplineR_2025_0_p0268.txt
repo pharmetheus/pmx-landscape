@@ -1,0 +1,52 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {Insert Application Type and Number}
+
+{Insert Product Trade and Generic Name}
+
+Bench-top/process stability Plasma: 25 hours on wet ice Yes
+Freeze-thaw stability 5 cycles at -20°C and -70°C Yes
+Long-term storage 372 days at -20°C and 960 days at -70°C Yes
+Parallelism Not applicable NA
+Carry over There was no significant carry over. Yes
+Method performance in Studies
+Assay passing rate JZLC: 5 out of 7 runs passed (71%) Yes
+Standard curve * Cumulative bias range: Yes
+performance IZLC: -3.3% to 1.5%
+* Cumulative precision:
+IZLC: <4.6% CV
+QC performance * Cumulative bias range: Yes
+SZLC: -2.5% to 2.5%
+* Cumulative precision:
+IZLC: <4.8% CV
+‘Method reproducibility JZLC: 12% of samples run in ISR and 100% passed criteria Yes
+Study sample Samples were stored at -70°C for up to 441 days. Stability Yes
+analysis/stability was established for 960 days at -70°C.
+
+Abbreviations: CV = coefficient of variation: ISR = incurred sample reanalysis; K7EDTA = dipotassium
+ethylenediaminetetraacetic acid; LC-MS/MS = liquid chromatography with tandem mass spectrometry; LLOQ =
+lower limit of quantitation; QC = quality control; ULOQ = upper limit of quantitation.
+
+Assessment Conclusions
+
+The Applicant has sufficiently validated bioanalytical methods for determination of imlunestrant
+concentration in human plasma by HPLC with MS/MS detection (8415876) as well as in
+KEDTA plasma by LC-MS/MS (400008-213865-PMV_1).
+
+The precision and accuracy of quality control (QC) were within the prespecified acceptance
+limits. The Applicant validated the selectivity, matrix effect, hemolysis effect, lipemic effect,
+dilution linearity, bench-top and process stability, and freeze-thaw stability. The long term
+stability was established for concentration control was 1393 days at -70°C and 960 days at -70°C
+for methods 8415876 and 400008-213865-PMV_1, respectively.
+
+19.5 Additional Safety Analyses Conducted by FDA
+
+The FDA’s Assessment:
+
+Refer to the FDA analysis for Safety in Section 8.
+
+267
+Version date: March 1, 2024 (ALL NDA/BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5665313

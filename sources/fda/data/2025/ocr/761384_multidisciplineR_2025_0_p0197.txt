@@ -1,0 +1,46 @@
+NDA/BLA Multi-disciplinary Review and Evaluation — BLA 761384
+
+Telisotuzumab Vedotin
+
+Significant Covariates and Clinical | (Figure 11 and Figure 12) Yes.
+
+Relevance The final telisotuzumab vedotin conjugate model Body weight has a
+included the effect of ADA, albumin, and race on significant impact
+CL and albumin, age, and sex on Ve. The impact of | on ADA CL, which
+albumin, age, sex, and ADAs did not have a is parameterized
+clinically meaningful impact on telisotuzumab using power
+vedotin conjugate exposures. Subjects with Asian | function with
+race had similar conjugate exposures compared to exponent of 0.405.
+White subjects. Black or African American subjects | Since CL does not
+had higher conjugate exposure (GMR 1.56 (95% CI, | scale linearly with
+0.951 — 2.56) for steady-state AUCi and 1.23 (95% | weight, weight cap
+CI, 0.965 — 1.58) for Cmax) compared to White (up to 100 kg) was
+subjects, but was within the overall variability of used to avoid
+white subjects. Given the small number of Black or | overexposure in
+African American subjects, conclusions on impact heavier patients.
+are limited.
+The final MMAE model included the effect of Further analysis
+albumin, and renal function on CL: body weight on | suggests baseline
+Ve: and age, albumin, and race on Ka. Renal tumor is associated
+function did not have clinically meaningful impact with a reduced CL
+on MMAE exposure. The GMR for free MMAE of ADC, and
+payload Cmax and AUCtau for albumin > 41.6 g/L increased
+compared to albumin < 41.6 g/L was 0.663 (95% production of
+CI, 0.590 — 0.746) and 0.652 (95% CI MMAE with
+0.581 — 0.732), respectively. This is not expected to | statistical
+impact efficacy since telisotuzumab vedotin significance of
+exposure (not MMAE) is correlated with efficacy p<0.001 (refer to
+based on E-R analyses. 19.4.1.4).
+
+Analysis Based on Simulation N/A
+
+(optional)
+
+196
+
+Version date: March 1, 2024 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as "Data" and "The Applicant's Position" are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5590242

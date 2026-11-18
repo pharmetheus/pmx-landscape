@@ -1,0 +1,64 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 219249}
+{Inavolisib}
+
+Table 25: Applicant - Overview of Study GO39374 Efficacy: Arm B, Arm E and Arm F
+
+Inavo + Palbo + Letro Inavo + Palbo + Fulv Inavo + Palbo + Fulv + Metf
+Arm B Arm E Arm F
+‘ORR* 25 15 18
+Responders, n (%) 13 (52.0%) 6 (40.0%) 3 (16.7%)
+95% Cl 30.42, 73.58 11.87, 68.13 0.00, 33.66
+DoR* 13 6 3
+Patients with event, n (%) 8 (61.5%) 5 (83.3%) 3 (100%)
+Median (months) (95% Cl) 42.3 (14.7, NE) 11.9 (7.6, 33.4) 9.2 (9.1, NE)
+BOR rate* 25 15 18
+Responders, n (%) 15 (60.0%) 6 (40.0%) 3 (16.7%)
+95% Cl 38.80, 81.20 11.87, 68.13 0.00, 36.66
+cBR* 33 20 20
+Responders, n (%) 24 (72.7%) 18 (90.0%) 10 (50.0%)
+95% Cl 57.53, 87.92 76.85, 100.00 28.09, 71.91
+PFS* 33 20 20
+Patients with event (%) 24 (72.7%) 9 (45.0%) 14 (70.0%)
+Median (months) (95% Cl) 23.3 (9.2, 44.4) 35.0 (17.7, NE) 10.8 (3.4, 12.5)
+
+BOR = best overall response; CBR = clinical benefit rate; Cl = confidence interval; DOR = duration of response; ORR = confirmed objective
+
+response rate; NE= not estimated; PFS = progression free-survival.
+
+> ORR and BOR rate were summarized for safety analysis set with measurable disease. DOR was summarized for safety analysis set with
+measurable disease and a confirmed response. CBR and PFS were summarized in safety analysis set.
+
+Source: Study GO39374 CSR, Report 1125233, Table 22, Table 23, Table 24, Table 25, Table 26;
+
+t_ef_rsp_CSR_CBOR_SEMD_27MAR2023_ 39374; t_ef_rsp_CSR_BOR_SEMD_27MAR2023_39374;
+
+t_ef_tte_CSR_CRSD_SEMD_27MAR2023_39374; t_ef_rsp_CSR_CBR_SE_27MAR2023_39374; t_ef_tte_CSR_PFS_SE_27MAR2023_39374;
+
+Dataset: ADaM: ADRS, ADTTE
+
+The Applicant's Position: The triplet combination of inavolisib plus palbociclib and an endocrine
+agent (fulvestrant or letrozole) across Arm B, Arm E and Arm F from the Phase | GO39374 study
+resulted in promising clinical activity in terms of investigator-assessed endpoints of ORR, DOR,
+CBR, and PFS, in patients with P/K3CA-mutated HR+, HER2— LA/mBC.
+
+The FDA’s Assessment:
+
+The confirmed ORR results in patients with measurable disease in Arm B (N=25), Arm E (N=15),
+and Arm F (N=18) were 52% (31%, 72%), 40% (16%, 68%), and 17% (0%, 41%), respectively,
+using the Clopper-Pearson exact method to calculate the 95% confidence intervals. While
+activity was observed across the three treatment arms based on the confirmed ORR and DOR,
+given the small sample sizes and wide Cl of ORR, the contribution of inavolisib to efficacy was
+unclear in these single arm cohorts. |
+
+8.1.3. Integrated Review of Effectiveness
+The FDA’s Assessment:
+
+FDA’s conclusions regarding the efficacy of inavolisib plus palbociclib and fulvestrant for the
+treatment of adults with endocrine resistant, PIK3CA-mutated, HR-positive, HER2-negative,
+118
+Version date: June 2022 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5460147

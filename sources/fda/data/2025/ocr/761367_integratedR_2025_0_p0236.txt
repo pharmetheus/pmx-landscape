@@ -1,0 +1,46 @@
+BLA 761367
+
+Andembry / garadacimab
+B: Categorical covariates by study
+Study
+CSL312_3002
+CSL312_2001 CSL312_3001 naive subjects Summary
+n=44 n=64 n=69 n=177
+
+Race
+Caucasian 39 (88.6) 55 (85.9) 53 (76.8) 147 (83.1)
+Black or African American 1 (2.3) 1 (1.6) 1(1.4) 3 (1.7)
+Asian 3 (6.8) 6 (9.4) 15 (21.7) 24 (13.6)
+Other 1 (2.3) 2 (3.1) 0 (0.0) 3 (1.7)
+Asian or non-Asian
+Asian 3 (6.8) 6 (9.4) 15 (21.7) 24 (13.6)
+Non-Asian 41 (93.2) 58 (90.6) 54 (78.3) 153 (86.4)
+Chinese or non-Chinese
+Chinese 1 (2.3) 0 (0.0) 9 (13.0) 10 (5.6)
+Non-Chinese 43 (97.7) 64 (100.0) 60 (87.0) 167 (94.4)
+Japanese or non-Japanese
+Japanese 0 (0.0) 6 (9.4) 6 (8.7) 12 (6.8)
+Non-Japanese 44 (100.0) 58 (90.6) 63 (91.3) 165 (93.2)
+Sex
+Female 27 (61.4) 38 (59.4) 48 (69.6) 113 (63.8)
+Male 17 (38.6) 26 (40.6) 21 (30.4) 64 (36.2)
+HAE treatment used prior to study entry
+No 31 (70.5) 58 (90.6) 57 (82.6) 146 (82.5)
+Yes 13 (29.5) 6 (9.4) 12 (17.4) 31 (17.5)
+HAE subtypes
+Healthy 0 (0.0) 0 (0.0) 0 (0.0) 0 (0.0)
+Type! 36 (81.8) 56 (87.5) 65 (94.2) 157 (88.7)
+Type II 2 (4.5) 8 (12.5) 4 (5.8) 14 (7.9)
+FXII/PLG HAE 6 (13.6) 0 (0.0) 0 (0.0) 6 (3.4)
+
+Source: Applicant's ER Report, Tables S5 and S6.
+
+Summary is count (percentage) for categorical variables.
+
+Abbreviations: CSL312, garadacimab; ER, exposure-response; FXII/PLG, Factor Xil/plasminogen; HAE, hereditary angioedema; n,
+number of records summarized, SD, standard deviation, min, minimum, max, maximum
+
+212
+Integrated Review Template, version 3.0 (05/25/2022)
+
+Reference ID: 5458438

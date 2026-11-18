@@ -1,0 +1,60 @@
+NDA/BLA Multi-disciplinary Review and Evaluation/New Drug Application (NDA) 219908
+
+REVTORPYK (gedatolisib)
+Table 9: Calculated Safety Margins from Pivotal Toxicology Studies
+‘Species AUC Cmax Cmax
+Study/eCTD Location _| Dose (mg/kg/dose) | (ngxhr/mL) * |AUC Margin »| (ng/mL) ¢ Margin 4
+Sprague-Dawley rats
+8-dose toxicity study 5
+(RPT-76626/4.2.3.2) (NOAEL) 7245 0.33 13700 1.06
+4-cycle toxicity study 1 5
+(F86-0001-TX/4.2.3.2) (NOAEL) 1355 0.06 1245 ol
+Beagle dogs
+8-dose toxicity study 5 >
+(RPT-76625/4.2.3.2) (NOAEL) 13272 0.60 20114 156
+4-cycle toxicity study 15
+(F86-0002-TX/4.2.3.2)® (NOAEL) 2890 0.13 5855 0.45
+
+Abbreviations: AUC = area under the concentration-time curve; Cmax = maximum observed concentration; eCTD = electronic
+common technical document; NOAEL = no-observed-adverse-effect level.
+a. Data provided as mean of male and female values.
+b. AUC margins calculated using geometric mean AUCiast of 22143 ngxhr/mL based on pooled data from all arms, after
+administration of gedatolisib 180 mg in Study B2151009.
+c. Data provided as mean of male and female values.
+d. Cuax margins calculated using geometric mean Cmax of 12890 ng/mL based on pooled data from all arms, after
+administration of gedatolisib 180 mg in Study B2151009.
+¢. NOAEL was only established for females, Due to microscopic and organ weight change in testes, no NOAEL could be
+established for males.
+
+The FDA’s Assessment:
+
+Tn general, the FDA agrees with the Applicant’s position.
+
+The AUC in animals was measured over 96 hours. Animal to human exposures were calculated
+using the mean steady state clinical Cmax (13,700 ng/mL) and AUCo-16s (21,400 ng*h/mL) at the
+recommended dose. The mean free fraction was 0.017, indicating that gedatolisib is highly
+bound to human plasma proteins. The Cmax unbound in human was 233 ng/mL (378 nM). The
+mean half-life of gedatolisib in human was 35.8 hours. The nonclinical safety margins, based on
+the clinical dosing schedule (IV, 3 weeks on/1 week off), were > 0.02 in rats (1 mg/kg low dose)
+and 0.04 in Beagle dogs (0.5 mg/kg low dose) when comparing animal exposure to the human
+AUC at the recommended dose.
+
+See the clinical pharmacology Section 6 for information regarding human data and drug-drug
+interaction (DDI) studies.
+
+Additional data (presented by the FDA):
+Type of Study Major Findings
+
+Distribution
+
+In vitro *H protein binding in _| The in vitro binding of [H]gedatolisib to proteins was assessed by ultra
+male rat, dog. monkey, and centrifugation (4 hours at 37°C) in the female nude mouse, male rat, dog.
+
+58
+Version date: February 10, 2025 (ALL NDA/BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5832496
+

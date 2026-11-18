@@ -1,0 +1,50 @@
+NDA/BLA Multi-disciplinary Review and Evaluation — NDA 219972
+
+Sevabertinib (BAY 2927088) — Version 2.0
+Table 43. DOR by BICR and Investigator Assessment — Group D, as of 28 MAR 2025 (FAS)
+
+BICR Investigator
+Updated data
+As of 14 OCT 2024 Confirmed All Responders as of _|All Responders as of
+(for reference) * Responders» 28 MAR 2025° 28 MAR 2025°
+N 49 49 52 51
+Number (%) of participants with event 20 (40.8%) 28 (57.1%) 28 (53.8%) 35 (68.6%)
+Death 2 (4.1%) 2 (4.1%) 2 (3.8%) 0 (0%)
+First progression 18 (36.7%) 26 (53.1%) 26 (50.0%) 35 (68.6%)
+Number (%) of participants censored 29 (59.2%) 21 (42.9%) 24 (46.2%) 16 (31.4%)
+25th percentile [95% Cl], months 43 [36, 5.5] 5.2 [3.9, 6.3] 5.2 [3.9, 6.8] 4.3 [2.8, 5.5]
+Median [95% Cl], months 6.8 [5.2, 15.0] 9.2 [5.8, 15.0] 9.2 [6.3, 15.0] 8.2 [5.5, 12.2]
+75th percentile [95% Cl], months A[9.2, A] 15.9 [12.6, A] 15.9 [12.6, A] 17.6 [10.9, A]
+Range (including censored values), months (1.3"* - 21.5") (1.3 - 25.7") (1.3 - 25.7") (1.4% - 25.7")
+Range (without censored values), months (2.6 - 15.0) (2.6 - 24.1) (2.6 - 24.1) (2.5 - 25.1)
+DOR rate at Month 3 [95% Cl] 0.934 [0.861, 1.000] 0.936 [0.866, 1.000] 0.940 [0.874, 1.000] 0.839 [0.736, 0.941]
+Month 6 [95% Cl] 0.558 [0.382, 0.734] 0.641 [0.499, 0.782] 0.656 [0.519, 0.794] 0.569 [0.429, 0.708]
+Month 9 [95% Cl] 0.472 [0.287, 0.657] 0.510 [0.357, 0.663] 0.528 [0.378, 0.679] 0.457 [0.315, 0.600]
+Month 12 [95% Cl] 0.425 [0.237, 0.613] 0.425 [0.258, 0.592] 0.440 [0.272, 0.608] 0.374 [0.230, 0.519]
+
+BICR=Blinded independent central review, Cl=Confidence interval; DOR=Duration of response; FAS=Full analysis set; N=Number of participants
+
+™ Censored observation
+
+A. Value cannot be estimated due to censored data.
+
+Median, percentile, timepoint DOR rate and 95% Cls were calculated using Kaplan-Meier estimates.
+
+The 95% Cls for the median and percentiles were calculated using a log-log transformation, and the 95% Cls for the timepoint DOR rate were calculated using a linear
+(identity) transformation.
+
+a: Results from the database cut-off date 14 OCT 2024, provided as a reference (ie, results from the previous clinical study report B003047), see Table 46.
+
+b: Updated results providing cumulative data up to 28 MAR 2025, for those participants with a confirmed response as of 14 OCT 2024.
+
+c: Results for all responders as of the database cut-off date 28 MAR 2025.
+
+Source: Module 5.3.5.2, Report B004166, t_14_2_2_tte_dorkm14.sas, t_14_2_2_tte_dorkm28.sas (Datasets ADTTE and ADSL)
+
+175
+Version date: March 1, 2024 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the Applicant and do not necessarily reflect the
+positions of the FDA.
+
+Reference ID: 5697816

@@ -1,0 +1,57 @@
+NDA 216951
+Jesduvrog (daprodustat)
+
+e History of bone marrow aplasia or pure red cell aplasia
+
+e Anemia other than anemia of CKD.
+
+e MI, acute coronary syndrome, stroke, or transient ischemic attack within 4 weeks prior to
+screening through to randomization (Day 1)
+
+¢ QTcB >500 msec, or QTcB >530 msec in participants with bundle branch block at
+randomization (Day 1)
+
+e Chronic Class IV heart failure
+Uncontrolled hypertension
+Prior or current history of cancer; liver disease or known hepatic or biliary abnormalities;
+or gastrointestinal bleeding.
+
+e Participants requiring treatment with strong inhibitor of CYP2C8 or a strong inducer of
+CYP2C8 were excluded.
+
+6.2.3.2. Statistical Analysis Plan
+
+Sample Size Determination
+
+Approximately 402 participants were planned to be randomized in a 2:1 ratio to daprodustat TIW
+or rhEPO (268 to the daprodustat TIW arm and 134 to the rhEPO arm), to provide at least 100
+participants exposed to daprodustat for one year. Participants were treated to achieve and
+maintain Hb between 10 and 11 g/dL. The expected difference in mean Hb change from baseline
+and the EP, between arms, was 0 g/dL and the anticipated between participant standard deviation
+(SD) was 1.5 g/dL, based on historical rhEPO trials and daprodustat clinical trial experience to
+date. With a prespecified non-inferiority margin of -0.75 g/dL, a two-sample t-test and assuming
+that up to approximately 10% of participants had no Hb values measured during the EP, 402
+randomized participants would provide >90% power to test the primary hypothesis.
+
+With 402 randomized participants, it was anticipated that the difference in mean Hb change from
+baseline between arms would be estimated with a precision of 0.33 g/dL (half width of the two-
+sided 95% CI) and the largest (most negative) difference between arms that would meet the
+statistical criterion for non-inferiority would be -0.42 g/dL.
+
+Interim Analysis
+
+No interim analyses were performed.
+
+Missing Data
+
+For the analysis of the primary efficacy endpoint, a multiple imputation approach was used to
+handle missing Hb values. Both intermittent missing and monotone missing scheduled Hb data
+were imputed based on the MAR assumption. However, it is important to examine the sensitivity
+of inferences to departures from the MAR assumption for the monotone missing data. A tipping
+point analysis was performed as a sensitivity analysis for the assumptions of missing data, that is,
+to mimic MNAR in which the missing observations depend on unobserved values.
+
+66
+Integrated Review Template, version 3.0 (05/25/2022)
+
+Reference ID: 5119138

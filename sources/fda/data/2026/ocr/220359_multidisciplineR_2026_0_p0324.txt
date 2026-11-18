@@ -1,0 +1,59 @@
+Table 45: Predicted and Observed Drug-Drug Interaction of Camizestrant (75 mg QD)
+when Co-Administered with Carbamazepine using Clinical Study Design (D8352C00006)
+
+PK Parameter Observed * Predicted
+Schwenger cancer population | Simcyp cancer population
+(Reduced CYP expression) _| (Normal CYP expression)
+AUC ratio 29.51 (27.54, 31.62) 38.0 (36.7, 39.3) 36.3 (34.7, 38.0)
+(geo mean, 90% CI)
+Cmax ratio 41.03 (36.82, 45.72) 53.4 (52.0, 54.8) 51.4 (49.6, 53.3)
+
+(geo mean, 90% CI)
+
+* Carbamazepine dosage regimen in clinical study D8352C00006: 100 mg BID (Day 4 to 6). 200 mg BID
+(Day 7 to 9), 300 mg bid (Day 10 to 15). Camizestrant 75 mg single dose on Day 1 and on Day 13 in
+healthy female volunteers (Module 5.3.3.4, Clinical Study Protocol version 3)
+
+Source: Table 2 in the response-to-query-féa-phpk-information-request-nda-220359 (seq0037)
+
+Camizestrant is a P-gp substrate. However, P-gp may play an insignificant role
+
+in camizestrant absorption because: (1) camizestrant is a BCS class 1 drug with high
+pemneability; and (2) the human ADME study confirms that the fraction absorbed
+
+of camizestrant is high, assuming that the parent drug identified in the feces was from
+hydrolysis of camizestrant glucuronide as discussed above. Furthermore, the
+
+current camizestrant PBPK model, which does not incorporate P-gp, could fully explain
+the effects of itraconazole on camizestrant exposure. Given that itraconazole is also a P-
+gp inhibitor, the fact that CYP3A inhibition alone accounts for the observed DDI
+suggests that P-gp inhibition does not significantly contribute to camizestrant disposition.
+If P-gp does contribute to the camizestrant disposition, the fmcyp3a may be overestimated
+in the current model, as some of the clearance attributed to CYP3A metabolism may in
+fact reflect P-gp-mediated efflux. Nevertheless, the simulated induction effects may still
+teflect a worst-case scenario since CYP3A inducers have greater induction effects on
+CYP3A than on P-gp (PMID: 29569723 and 29569712).
+
+The Applicant was requested to simulate the exposure of camizestrant in cancer patients
+when camizestrant 150 mg QD is coadministered with moderate CYP3A inducers and
+then compare the simulated exposure with that observed in patients following
+administration of camizestrant 75 mg QD. The results are shown in Table 46. The
+simulated exposures of camizestrant in cancer patients when camizestrant 150 mg QD is
+co-administered with moderate CYP3A inducers are similar to the observed geometric
+mean Cmax.ss of 65 ng/mL and AUC,, of 862 ng/mL.h of camizestrant on Day 15 of Cycle
+1 in patients following administration of camizestrant 75 mg QD from the FTIH study
+(SERENA-1, D8530C00001 Addendum 1). Therefore, the dose of camizestrant may be
+
+323
+Version date: March 1, 2024 (All NDA/BLA reviews)
+
+In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the Applicant,
+which do not necessarily reflect the positions of the FDA.
+
+The FDA review was conducted in conjunction with other regulatory authorities under Project ORBIS. The FDA
+collaborated with Australia’s Therapeutic Goods Administration (TGA), Brazilian Health Regulatory Agency
+(ANVISA), Health Canada (HC), Singapore’s Health Sciences Authority (HSA), and Switzerland’s Swissmedic
+(SMC). While the conclusions and recommendations expressed herein reflect the FDA’s completed review of the
+application, the applications may still be under review at the other regulatory agencies.
+
+Reference ID: 5864804

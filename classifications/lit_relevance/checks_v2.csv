@@ -1,0 +1,2 @@
+"run","first_reader","check_run","check_reader","items","seed","compared","agree","share","kappa","alpha"
+"agents-all-read-v2; agents-all-reread-v2","Claude Code subagent (Claude Sonnet 5.5)","agents-all-check-v2","Claude Code subagent (Claude Opus 5.5)",2470,20261019,2470,2362,0.956275303643725,0.912360299176103,0.912366883707359

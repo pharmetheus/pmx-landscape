@@ -1,0 +1,44 @@
+IND 111675 VT-1161 Page 22 of 32
+Female Rats Poly-3 test
+Omg 0.5 mg 1.5 mg 5/3 mg
+Cont (N=70) | Low (N=70) | Med (N=70) | High (N=70)
+Organ Name Tumor Name P-Trend | P-Cvs.L | P-Cvs.M | P-Cvs.H
+Schwannoma, Malignant 1/70 (27) 0/70 (28) 0/70 (30) 0/70 (28)
+1.0000 1.0000 1.0000 1.0000
+Stomach, Carcinoma, Squamous Cell, 0/70 (26) 1/70 (28) 0/70 (30) 0/70 (28)
+Nonglandular Malignant 0.7679 0.5185 NC NC
+Thymus Thymoma, Benign 1/70 (27) 0/70 (28) 0/70 (30) 0/70 (28)
+1.0000 1.0000 1.0000 1,0000
+Thymoma, Malignant 0/70 (26) | 0/70 (28) 1/70 (31) | 0/70 (28)
+0.5221 NC 0.5439 NC
+Thyroid Gland Adenoma, C-Cell, Benign 1/70 (27) | 4/70(30) | 4/7032) | 5/70(31)
+0.1340 0.2108 0.2342 0.1315
+Adenoma, Follicular Cell, Benign} 0/70 (26) | 2/70(29) | 12/70(37) | 28/70 (43)
+<0.0001* 0.2734 0.0007* <0.0001*
+Carcinoma, Follicular Cell, 0/70 (26) | 0/70(28) | 2/70(32) | 6/70 (32)
+Malignant 0.0010* NC 0.3001 0.0224*
+Adenoma/Carcinoma, Follicular | 0/70 (26) 2/70 (29) | 13/70(37) | 32/70(45)
+Cell, Benign/Malignant <0.0001* 0.2734 0.0003* <0.0001*
+Uterus with Cervix | Granular Cell Tumor, Benign 2/70 (28) 1/70 (29) | 6/70(34) | 10/70 (34)
+0.0018* 0.8880 0.2003 0.0269
+Granular Cell Tumor, Malignant | 0/70 (26) 0/70 (28) 1/70 (31) 0/70 (28)
+0.5221 NC 0.5439 NC
+Polyp, Endometrial Stromal, 6/70 (30) | 6/70(31) | 4/70(32) | 2/70(29)
+Benign 0.9525 0.6498 0.8745 0.9707
+Polyp, Stromal, Benign 0/70 (26) 0/70 (28) 1/70 (31) 0/70 (28)
+0.5221 NC 0.5439 NC
+Sarcoma, Endometrial Stromal, 1/70 (27) | 0/70 (28) 1/70 (31) | 0/70 (28)
+Malignant 0.7694 1.0000 0.7877 1.0000
+Sarcoma, Stromal, Malignant 0/70 (26) | 0/70(28) | 2/70 (32) 1/70 (29)
+0.2145 NC 0.3001 0.5273
+Vagina Granular Cell Tumor, Benign 3/70 (28) | 1/70(28) | 0/70(30) | 5/70(31)
+0.0896 0.9443 1.0000 0.4133
+Granular Cell Tumor, Malignant 0/70 (26) 0/70 (28) 1/70 (31) 0/70 (28)
+0.5221 NC 0.5439 NC
+Polyp, Endometrial Stromal, 0/70 (26) 0/70 (28) 0/70 (30) 1/70 (29)
+Benign 0.2566 NC NC 0.5273
+Sarcoma, Stromal, Malignant 0/70 (26) 0/70 (28) 1/70 (31) 0/70 (28)
+0.5221 NC 0.5439 NC
+
+Reference ID: 4883049
+

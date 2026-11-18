@@ -1,0 +1,62 @@
+Methods:
+
+e Report# -95: Concentration-dependent effects were assessed using 0.1-10 1M AZD9833
+after 72-hour treatment, and time-dependent effects were evaluated using 10 14M AZD9833
+at 1, 6, 24, 48, and 72-hour timepoints.
+
+e Report# -96: Time-dependent effects were evaluated using 10 11M AZD9833 over 24, 48,
+and 72 hours with daily media changes.
+
+Results:
+
+e Report # -95: Time-dependent analysis revealed significant reduction beginning at 6 hours
+(39.13% inhibition) with 10 14M AZD9833 treatment.
+
+e Report # -96: Treatment with 10 1M AZD9833 significantly reduced hHCN4 functional
+
+expression in a time-dependent manner by 34.0%, 54.0%, and 54.3% after 24, 48, and 72
+hours respectively.
+
+Studies BE002385-25, BE003624-97, and BE003624-98 (effect on sinoatrial node cells)
+Methods: Known cardiac pacemaker current (If) inhibitors, 3 4M Ivabradine and 5 uM ZD7288,
+were included as positive controls, with 0.1% (v/v) DMSO serving as vehicle control.
+
+e Report# -25: Beat rate was measured every 24 hours using the xCelligence impedance
+platform.
+
+e Report# -97: Action potential recordings were made using whole-cell perforated patch
+clamp configuration with gramicidin perforation. Ivabradine (10 1M) served as positive
+control and 0.1% DMSO as vehicle control.
+
+e Report# -98: Pacemaker current recordings were made using whole-cell patch clamp
+configuration with hyperpolarizing voltage steps.
+
+Results:
+
+e Report# -25: The positive controls Ivabradine and ZD7288 produced reductions in beat
+rate within 30 minutes of treatment, confirming that the cardiac pacemaker current
+contributes to beat rate regulation in these hESC-derived sinoatrial node cells.
+
+e Report# -97: Treatment (48 hours) with 10 14M AZD9833 reduced beat frequency and
+increased action potential duration at 90% (APD90), with no changes in action potential
+threshold or maximal depolarization rate.
+
+e Report# -98: Treatment (72 hours) with AZD9833 reduced functional expression of the
+pacemaker current in a concentration and time dependent manner (23.7%, 56.1%, 71.1%,
+and 100.3% reduction at 0.01, 0.1, 1, and 10 tM respectively) and time-dependency was
+demonstrated as 1 tM AZD9833 reduced pacemaker current by 43% and 71% after 24
+and 72 hours, respectively.
+
+115
+Version date: March 1, 2024 (All NDA/BLA reviews)
+
+In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the Applicant,
+which do not necessarily reflect the positions of the FDA.
+
+The FDA review was conducted in conjunction with other regulatory authorities under Project ORBIS. The FDA
+collaborated with Australia’s Therapeutic Goods Administration (TGA), Brazilian Health Regulatory Agency
+(ANVISA), Health Canada (HC), Singapore’s Health Sciences Authority (HSA), and Switzerland’s Swissmedic
+(SMC). While the conclusions and recommendations expressed herein reflect the FDA’s completed review of the
+application, the applications may still be under review at the other regulatory agencies.
+
+Reference ID: 5864804

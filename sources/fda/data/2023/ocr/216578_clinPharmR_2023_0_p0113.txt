@@ -1,0 +1,67 @@
+acyclovir, were inadvertently excluded from the data set due toa
+mismatch in the searched term, “ACYCLOVIR”, and the standardized
+medication name, “ACICLOVIR”.
+
+Population General
+Characteristics
+(Applicant -
+Table 1)
+
+Age: median 54.0 yr (min, max: 40.0, 65.0)
+Body Mass Index: median 27.8 (min, max: 18.0, 38.0)
+Sex: 1022 (100%) female
+
+Race: 828 (81%) White, 174 (17%) Black, 4 (0.4%) American Indian, 10 (1%)
+Asian, 6 (0.6%) Other
+
+Pediatrics (if
+any)
+
+Not applicable
+
+Dose(s) Included
+
+30 mg QD and 45 mg QD
+
+Exposure Metrics Explored
+(range)
+
+Individual predicted steady-state AUC(0-t) was selected to drive exposure-
+response relationships instead of integrating fezolinetant concentration in
+each count interval.
+
+Covariates Evaluated
+
+* Continuous Covariates: Age, Body mass index, Baseline average hot flash
+frequency, Time since onset of hot
+
+flashes (in months), Time since onset of
+amenorrhea (in months).
+
+* Categorical Covariates: Oophorectomy status, Race (Non-black vs. black),
+Smoking status (Non-smokers, Smokers)
+
+Final Model Parameters
+
+Summary
+
+Model Structure
+
+Frequency endpoints: Non-linear mixed Acceptable
+effect frequency model (Poisson
+distribution model):
+
+Auy™
+
+aT eo 4s
+
+POy = N)=
+
+where Aj is an estimated function,
+containing fixed and random effects, and
+represents the expected number of hot
+flashes within a particular time interval.
+
+Reference ID: 5083095
+
+112

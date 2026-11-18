@@ -1,0 +1,88 @@
+NDA/BLA Multi-disciplinary Review and Evaluation/New Drug Application (NDA) 219908
+
+REVTORPYK (gedatolisib)
+
+Goal of ER analysis ‘Assess the gedatolisib exposure-efficacy relationship for change
+in tumor size over time, maximum percent change in tumor
+size, progression-free survival (PFS) over time and best overall
+response (BOR) in Study B2151009 and Study CELC-G-301.
+
+Studies Included Study B2151009 Arm D only
+Study CELC-G-301 Arms A and B only
+
+Endpoint Study B2151009 and Study CELC-G-301
+
+Change in tumor size, PFS, and BOR
+
+No. of Patients (total, and with individual
+PK and analyzed efficacy endpoints)
+
+Study B2151009 Arm D
+
+N= 27,27
+
+Study CELC-G-301 Arms A and B
+N= 261, 227
+
+Population Characteristics | General
+
+Exposure-Efficacy Analysis dataset total (N = 254)
+
+Age, Mean (range): 57.3 (32 to 83) years
+
+Weight, Mean (range): 69.8 (38.1 to 137) kg
+
+Sex: Male, 1 (0.4%): female, 253 (99.6%)
+
+Race: White, 181 (71.3%); Black/African American, 10
+(3.9%); Asian, 31 (12.2%); American Indian or Alaska Native,
+3 (1.2%); Native Hawaiian or Other Pacific Islander, 1 (0.4%);
+Multiple/Other, 28 (11.0%)
+
+Pediatrics (if
+any)
+
+No pediatric subjects were included
+
+Dose(s) Included
+
+Study B2151009 Arm D
+
+Gedatolisib 180 mg/week (3-weeks-on/1-week-off)
+Palbociclib 125 mg/day (21-days-on/7-days-off)
+Fulvestrant 500 mg (once every 2 weeks [Q2W] 2: once
+every 4 weeks [Q4W])
+
+Study CELC-G-301 Arms A and B
+
+Gedatolisib 180 mg/week (3-weeks-on/1-week-off)
+Palbociclib 125 mg/day (21-days-on/7-days-off) *
+Fulvestrant 500 mg (Q2W « 2: Q4W)
+
+*Palbociclib only used in Arm A
+
+Exposure Metrics Explored (range)
+
+Reference Table 16 of the Population PK-PD Report Summary
+of Exposures and Covariates for the Efficacy Analysis
+Reference Table A.8.1 Listing of Individual Exposures in the
+Population PK-PD Report for a complete list of all individual
+values
+
+Covariates Evaluated None
+Final Model Parameters Summary ‘Acceptability
+[FDA’s
+comments]
+Model Structure Continuous efficacy endpoint, change in Acceptable
+tumor size. was graphically explored. based
+on plots of observations over time stratified
+by exposure. PFS and BOR were explored,
+
+240
+
+Version date: February 10, 2025 (ALL NDA/BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5832496

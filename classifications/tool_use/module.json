@@ -1,0 +1,62 @@
+{
+  "name": "tool_use",
+  "version": "5",
+  "question": "For each estimation tool named in the item, did the authors use it for their own analysis, use it only as a comparator, or only mention it?",
+  "scope": {
+    "PAGE": [
+      "title",
+      "body"
+    ],
+    "PubMed": [
+      "title",
+      "abstract"
+    ],
+    "Europe PMC": {
+      "sections": [
+        "title",
+        "abstract",
+        "methods"
+      ],
+      "fallback": [
+        "title",
+        "abstract",
+        "body"
+      ],
+      "required": [
+        "methods"
+      ],
+      "min_chars": 200
+    }
+  },
+  "candidates": {
+    "patterns": "../../taxonomy/patterns.json",
+    "groups": [
+      "estimation"
+    ]
+  },
+  "text": {
+    "mode": "item"
+  },
+  "values": "values.csv",
+  "rubric": "rubric.md",
+  "reader": {
+    "model": "claude-sonnet-5-5",
+    "max_tokens": 1024
+  },
+  "check": {
+    "model": "claude-opus-5-5",
+    "fraction": 0.15,
+    "seed": 20261018
+  },
+  "rules": "rules.csv",
+  "extra": {
+    "other_tools": {
+      "instruction": "every other software for estimating population or mixed-effects model parameters that the text names and that is not among the candidates, as written in the text (a name, not a sentence); an empty list when there is none. Leave out general programming languages unless the text names their estimation functions, and tools only for data handling, plotting or simulation."
+    }
+  },
+  "heldout": {
+    "seed": 20261020,
+    "per_stratum": 50,
+    "rule_items": 60
+  }
+}

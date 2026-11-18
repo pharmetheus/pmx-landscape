@@ -1,0 +1,69 @@
+NDA/BLA Multi-disciplinary Review and Evaluation — NDA 219972
+
+Sevabertinib (BAY 2927088) — Version 2.0
+
+Exposure Metrics Explored AUC 24nss (1328 — 95580 pug-h/L), Crrough,ss (8.35- 3263 pg/L),
+(range) Cmax ss (171.6— 4798 pg/L), AUC24h,day1 (1210 — 39300 ug-h/L)
+(Tables 14-50 - 14-55, »Ctroughdayt (5.18— 1554 g/L), Cmaxdayt (165.7— 2617 pg/L)
+Module 5.3.3.5, Report B003834)
+
+Covariates Evaluated Body weight, Age, Sex, Race, Geographical region (Asia/North
+
+America/South America/Western Europe and Israel; China vs
+ee 5.33.5, rest of the world; Japan vs rest of the world, Total bilirubin,
+AST, ALT, NCI-ODQG liver function, Loperamide use prior to
+the first all grade diarrhea adverse event, History of irritable
+bowel (IBS) and or inflammatory bowel syndrome (IBD), History
+diarrhea, Use of drugs for constipation at baseline, Prior
+antibiotic use, Previous lines of anti-cancer therapy, Prior
+platinum therapy, Prior immunotherapy, Immunotherapy as last
+systemic treatment prior to treatment start, Prior Enhertu, Prior
+HER2 Ex20ins-targeted therapy, Prior EGFR Ex20ins-targeted
+therapy, Liver metastases, ECOG performance, Baseline tumor
+size, AJCC grading at initial diagnosis, Tumor stage
+
+Final Model Parameters Summary Acceptability
+[FDA’s comments]
+
+Model Structure Cox proportional hazards (Cox-PH) Acceptable
+model with non-linear/saturable/Emax
+type exposure-response relationship for
+all grade diarrhea, diarrhea of grade = 3
+and all grade rash and linear exposure-
+response relationship for all-type
+TEAEs leading to dose modifications
+
+Model Parameter Estimates all grade diarrhea: Table 17-9 Acceptable
+(located in Module 5.3.3.5, diarrhea of grade = 3: 17-10
+Report B003834)
+
+all-type TEAEs leading to dose
+modifications: 17-11
+
+all grade rash: 17-12
+
+Model Evaluation all grade diarrhea: section 16-5 Acceptable
+(located in Module 5.3.3.5, diarrhea of grade = 3: section 16-6
+Report B003834)
+
+all-type TEAEs leading to dose
+modifications: section 16-7
+
+all grade rash: section 16-8
+
+Covariates and Clinical Relevance | Participants from Japan had a Acceptable
+significantly higher baseline risk of all
+grade diarrhea compared to the rest of
+the participants.
+
+Younger participants and participants
+with ECOG=1 had a lower risk of
+diarrhea Grade 23 at baseline
+
+316
+Version date: March 1, 2024 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5697816

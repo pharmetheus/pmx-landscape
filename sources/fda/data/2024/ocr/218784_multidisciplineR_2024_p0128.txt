@@ -1,0 +1,56 @@
+Multi-disciplinary Review and Evaluation
+
+NDA 218784
+
+VORANIGO (vorasidenib)
+
+for 30 days) and rifampicin (600 mg BID for 30 days), a weak interaction (0.5 < GMRs < 0.8) was
+predicted (AUC GMR up to 0.579 and Cmax GMR up to 0.702), corresponding to a decrease in
+vorasidenib steady-state Cmax and AUCtau by approximately 30 and 40%, respectively (Table 34).
+Refer to Section 19.4.3 for complete details on the submitted PBPK analysis.
+
+Table 34. Summary of simulated vorasidenib PK (gMean ratios) in the absence and presence
+of CYP1A2 inhibitors and inducers in healthy subjects following single and repeated oral
+dosing of 40 mg vorasidenib QD.
+
+a Multiple Dose
+Single Dose (40 mg F2) (40 mg QD F2)
+perpetietor AUCoinr GMR Cmax GMR AUCiou GMR Cmax GMR
+(90% Cl) (90% Cl) (90% Cl) (30% Cl)
+ot 10.5 111 7.18 5.70
+Fluvoxamine (9.59 - 11.4) (1.1 - 1.13) (6.52-7.91) (5.26 - 6.18)
+ee 0.579 0.937 0.610 0.703
+Phenytoin (0.552-0.606)  (0.929-0.946) | (0.580-0.643) (0.677 - 0.729)
+eas 0.594 0.935 0.609 0.702
+P (0.568-0.662) _ (0.926 - 0.943) | (0.586-0.634) _(0.683 - 0.723)
+
+Source: PBPK report, AG881-C-META-PBPK.
+
+6.3.1.7. Vorasidenib as a Precipitant of DDI (PBPK analysis)
+
+Based upon the in vitro studies,
+© Vorasidenib is an inducer of CYP2B6, CYP2C8, CYP2C9, CYP2C19 and CYP3A and UGT1A4.
+
+0° Vorasidenib is an inhibitor of BCRP.
+
+Based upon the PBPK analysis (refer to Section 19.4.3), administration of multiple dose 40 mg
+QD vorasidenib with a sensitive CYP3A4 probe substrate (midazolam), decreased AUC of
+midazolam by at least 80% (refer to PBPK report, AG881-C-META-PBPK). However, based upon
+the FDA internal analysis, the submitted PBPK analysis may overestimate the DDI potential
+between vorasidenib and CYP3A substrates. Lamotrigine is mainly metabolized by UGT2B7 and
+UGT1A4 which are also induced by CYP3A inducers. Based on FDA internal analysis of available
+literature studies, strong/moderate inducers of CYP3A decrease lamotrigine AUC by 40-60%. If
+vorasidenib were a strong inducer of CYP3A, it would have significantly decreased lamotrigine
+AUC as other strong CYP3A inducers. Since, vorasidenib coadministration did not significantly
+decrease lamotrigine exposure (7.3% and 4.8% reduction for AUCo+ and Cmax, respectively)
+compared to lamotrigine alone administration, FDA estimates that vorasidenib may be a weak
+to moderate inducer of CYP3A and post marketing study will adequately determine the
+magnitude of DDI between vorasidenib and CYP3A substrates (Table 15).
+
+127
+Version date: December 2023(ALL NDA/BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5425021

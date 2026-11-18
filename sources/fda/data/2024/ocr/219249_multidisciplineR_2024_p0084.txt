@@ -1,0 +1,58 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 219249}
+{Inavolisib}
+
+moderate or severe hepatic impairment because, based on the ADME properties of inavolisib,
+hepatic impairment is unlikely to have a clinically significant impact on the PK of inavolisib.
+Population PK: PK of inavolisib following oral administration was well-described by a
+population PK model consisting of a three-compartment model with first-order rate of
+absorption and elimination. eGFR effect on clearance (CL) and body weight and race (Asian)
+effects on central volume of distribution (V-) were identified as significant with higher CL for
+subjects with higher eGFR, higher V- for subjects with higher body weight and 25% lower V; in
+Asian subjects compared to non-Asian subjects. However, PopPK model based simulations
+indicated that body weight, age, race, mild hepatic impairment, and mild renal impairment
+were not associated with clinically relevant differences in inavolisib exposures following 9 mg
+QD dosing.
+
+The Applicant's Position: No DDIs were identified or predicted with inavolisib. Given the lack of
+clinically relevant impact of body weight, age, race (Asian vs. Non-Asian), hepatic impairment
+(mild, moderate, severe), or renal impairment (mild) on inavolisib PK, dose adjustment of
+inavolisib in these specific populations is not warranted.
+
+The FDA’s Assessment:
+
+FDA generally agrees with the Applicant’s summary of ADME (absorption, distribution,
+metabolism, and excretion) properties and dose proportionality of inavolisib. FDA disagrees
+with the Applicant’s positions in the following areas:
+
+* Total metabolites in the excreta accounted for 48% (38% in feces and 10% in urine) of
+the dose, rather than the Applicant’s summarized 42%.
+
+e Per the interim CSR of the ongoing renal impairment study submitted on August 7,
+2024, inavolisib AUCo; was 64% higher and AUCo int was 73% higher in subjects with
+moderate renal impairment compared to subjects with normal renal function after a
+single 6 mg oral dose of inavolisib (Table 8). The Cmax values were similar between
+subjects with normal renal function and subjects with moderate renal impairment.
+
+e FDA disagrees with the Applicant’s conclusion that a dedicated hepatic impairment
+study is not warranted (see Section 6.1.2.2). A PMR will be issued to request a dedicated
+clinical hepatic impairment study.
+
+@ The popPK analysis included sufficient White and Asian patients to assess for PK
+differences between these two racial groups only. There was limited representation of
+Black/African American, Hispanic/Latino, and other underrepresented minority patients
+in the inavolisib development program. Clinical pharmacology data will be requested to
+be included if a PMC on race and ethnicity to be issued by FDA.
+
+The inavolisib steady state AUC is 1,010 h*ng/mL (25%) and Cmax is 69 ng/mL (27%) at the
+recommended dosage (9 mg PO QD). Inavolisib steady state apparent (oral) volume of
+distribution is 155 L (3.5%). The estimated total clearance of inavolisib is 5.5 L/hr (29%).
+
+QT Analysis:
+
+83
+Version date: June 2022 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5460147

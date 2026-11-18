@@ -1,0 +1,1919 @@
+CENTER FOR DRUG EVALUATION AND
+RESEARCH
+APPLICATION NUMBER:
+
+761177Orig1s000
+CLINICAL PHARMACOLOGY AND
+BIOPHARMACEUTICS REVIEW(S)
+
+Office of Clinical Pharmacology Review
+BLA Number
+Link to EDR
+Submission Date
+Submission Type
+Brand Name
+Generic Name
+Dosage Form and
+Strength
+Route of
+Administration
+Proposed Indication
+
+761177
+\\CDSESUB1\evsprod\BLA761177\761177.enx
+June 25, 2020; December 23, 2020
+351(a)
+Skytrofa
+Lonapegsomatropin
+Injectable solution; 3.0, 3.6, 4.3, 5.2, 6.3, 7.6, 9.1, 11.0 or 13.3 mg
+powder in glass cartridge and diluent for auto-injector
+Subcutaneous, 0.24 mg human growth hormone/kg body weight,
+given once-weekly
+
+Applicant
+Associated IND
+OCP Review Team
+
+Ascendis Pharma, Inc.
+126053
+Sang Chung, PhD, Justin Earp, PhD, Jayabharathi Vaidyanathan,
+PhD
+Doanh Tran, PhD
+
+OCP Final Signatory
+
+(b) (4)
+
+1
+
+Reference ID: 4756870
+
+Table of Contents
+1.
+
+EXECUTIVE SUMMARY................................................................................................................... 5
+1.1
+Recommendations ......................................................................................................................... 5
+1.2
+
+Post-Marketing Requirements and Commitments ........................................................................ 6
+
+2. SUMMARY OF CLINICAL PHARMACOLOGY ASSESSMENT ....................................................... 6
+2.1
+Pharmacology and Clinical Pharmacokinetics .............................................................................. 6
+2.2
+
+3.
+
+Dosing and Therapeutic Individualization .................................................................................... 7
+
+2.2.1
+
+General dosing ...................................................................................................................... 7
+
+2.2.2
+
+Therapeutic individualization ............................................................................................... 7
+
+2.3
+
+Outstanding Issues ........................................................................................................................ 7
+
+2.4
+
+Summary of Labeling Recommendations ..................................................................................... 7
+
+COMPREHENSIVE CLINICAL PHARMACOLOGY REVIEW ...................................................... 8
+3.1
+Overview of the Product and Regulatory Background ................................................................. 8
+3.2
+
+General Pharmacological and Pharmacokinetic Characteristics ................................................... 8
+
+3.2.1
+
+Mechanism of Action: ........................................................................................................... 9
+
+3.2.2
+
+Pharmacokinetics: ................................................................................................................. 9
+
+3.3
+
+Clinical Pharmacology Questions ............................................................................................... 14
+
+3.3.1
+
+Does the clinical pharmacology information provide supportive evidence of effectiveness?
+14
+
+3.3.2
+Is the proposed general dosing regimen appropriate for the general patient population for
+which the indication is being sought? ................................................................................................. 14
+3.3.3
+Is an alternative dosing regimen and management strategy required for subpopulations
+based on intrinsic factors? ................................................................................................................... 19
+3.3.4
+Are there clinically relevant drug-drug interactions and what is the appropriate
+management strategy? ......................................................................................................................... 22
+3.3.5
+Was there the pivotal PK bridging between to-be-marketed product and clinical trial
+product? 22
+4.
+
+APPENDICES .................................................................................................................................... 25
+4.1
+Summary of Bioanalytical Method Validation ........................................................................... 25
+4.2
+
+Summary of Individual Clinical Pharmacology Studies ............................................................. 26
+
+4.2.1. Study CT-102 – Pivotal PK bridging study for the TBM product compared to clinical product
+............................................................................................................................................................ 26
+4.2.2. Study CT-101 – Relative bioavailability and PK-dose proportionality .................................... 29
+(b)
+
+4.2.3. Study CT-004 – dose ranging with ACP-001 (pegylated with (4) kDa) vs Genotropin® in
+pediatric patients ................................................................................................................................. 33
+
+2
+
+Reference ID: 4756870
+
+4.2.3. Study CT-301 ............................................................................................................................ 35
+4.3. Pharmacometrics Review ................................................................................................................. 39
+4.3.1 Synopsis: Prediction of mPEG concentration in choroid plexus of children ............................. 39
+4.3.2 Synopsis: Population PK and PK/PD modeling of hGH ........................................................... 42
+4.3. Formulation composition of
+
+(b) (4)
+
+solution ......................................................................... 48
+
+List of Tables
+Table 1
+Table 2
+Table 3
+Table 4
+Table 5
+Table 6
+Table 7
+Table 8
+Table 9
+Table 10
+Table 11
+Table 12
+Table 13
+Table 14
+Table 15
+Table 16
+Table 17
+Table 18
+Table 19
+Table 20
+Table 21
+
+Descriptive summary of PK parameters (Study CT-101) .................................................. 10
+Descriptive summary of PK parameters in PGHD (PK/PD subset, Study CT-301) .......... 12
+Least-Square Means (and 95% Confidence Intervals) for AHV [cm/year] at 6 Month ..... 14
+Primary efficacy endpoints – AHV (cm/year) at Week 52 (Study CT-301) ...................... 16
+Statistical Comparisons of Baseline-Corrected Serum hGH PK (upper) and PD (lower)
+parameters (Study CT-102) ................................................................................................ 22
+Statistical analyses of PK parameters following a worst-case scenario ............................. 24
+Summary of bioanalytical method validation .................................................................... 25
+Summary of hGH PK and statistical analysis for the comparability (Study CT-102) ....... 27
+Summary of IGF-1 parameters and statistical analysis for the comparability (Study CT102) ................................................................................................................................... 28
+Summary of PK (top) and PD (middle) parameters, and statistical assessment of
+comparability (bottom).............................................. (b)..................................................... 30
+Summary of pegylated prodrug PK (TransCon PEG (4)hGH and TransCon PEG40 hGH)
+[GM (%CV)] (Study CT-101, Group 1)............................................................................. 31
+Summary of PK-dose proportionality (Study CT-101, Group 2) ....................................... 31
+PK Analysis at Week 13 (Visit 3) PK Parameters (PK/PD Subset) ................................... 37
+Dual Chamber cartridge dose strengths and body weight bracket to use ........................... 38
+Summary of studies used for the serum mPEG PK analysis .............................................. 39
+Summary of estimated PK parameters (MODHGH001) ................................................... 40
+Overview of trials and covariates included in the population PK and PK/PD evaluation . 42
+Summary of estimated parameters ..................................................................................... 43
+Covariate effects in the final PK model ............................................................................. 43
+Parameter estimates from the full and final model ............................................................ 47
+Composition of drug products in vials and dual chamber cartridge................................... 48
+
+3
+
+Reference ID: 4756870
+
+List of Figures
+Figure 1
+Figure 2
+Figure 3
+Figure 4
+Figure 5
+Figure 6
+Figure 7
+Figure 8
+Figure 9
+Figure 10
+Figure 11
+Figure 12
+Figure 13
+Figure 14
+Figure 15
+Figure 16
+Figure 17
+Figure 18
+Figure 19
+Figure 20
+Figure 21
+Figure 22
+Figure 23
+Figure 24
+Figure 25
+
+Structure of lonapegsomatropin.......................................................................................................... 9
+Mean lonapegsomatropin (blue), hGH (red) and mPEG (green) concentration-time profile (on log
+scale) following single dose administration in healthy subjects (Study CT-101) ............................. 10
+(b)
+Mean (SD) hGH (upper), lonapegsomatropin (middle), and mPEG (4) (lower) concentration-time
+profiles at Week 1 and 13 in PGHD patients (Study CT-004) ......................................................... 11
+Predicted mPEG (lines) and individual observed mPEG (symbols) in serum (left) and choroid
+plexus (right) of children (BW = 22 kg, black) and cynomolgus monkey (BW = 3 kg, green and
+cyan) following 3 doses .................................................................................................................... 13
+Schematic summary of release products of lonapegsomatropin and mPEG elimination. ................ 13
+Box plot of AUC (hGH; left, IGF-1; right) by cohort and visit; AUC0-168h for cohort 1-3, AUC0-24h x
+7 for cohort 4 (Study CT-004) .......................................................................................................... 15
+Individual dose during the treatment period (Study CT-301) ........................................................... 16
+Box plot of average IGF-1 SDS over 52 weeks by treatment group (Study CT-301). ..................... 17
+Predicted IGF-1 SDS among scenarios ............................................................................................ 17
+Relationship between change in QTcF from pre-dose and hGH concentration at Week 13 in a subset (n=11).......................................................................................................................................... 18
+Relationship between average IGF-1 SDS and body weight at Week 1 or 13 by sex ...................... 19
+Effect of sex and body weight on AUCtau of lonapegsomatropin (left) or hGH (right); Median, 5th
+and 95th percentiles from 500 simulated profiles ............................................................................. 20
+Scatter plot for AUCtau of lonapegsomatropin (Lona), hGH (HGH) and mPEG (MPEG40) versus
+body weight at baseline in PK/PD subset (N=11) of CT-301 ........................................................... 20
+Forest Plot of AHV by subgroups ................................................................................................... 20
+Relationships between 1) mPEG concentration versus CRCL by Cockcroft-Gault method (upper
+left) or Age by renal function sub-group (upper right) or 2) mPEG (lower) versus CRCL by
+modified Schwartz method (Study CT-301)..................................................................................... 21
+Mean hGH (left) or IGF-1 (right) serum concentration-time profiles (Study CT-102) .................... 26
+Relationship between PK (hGH AUC) and PD (IGF-1 AUC) (Study CT-004) ............................... 34
+Observed concentrations of lonapegsomatropin (upper), hGH (middle) and mPEG (lower) and
+corresponding concentrations from the site (Site ID=748, right column) with potential dosing
+deviation (Study CT-301) ................................................................................................................. 36
+Subjects (n=5) with unusual high dose (right) during the treatment period (Study CT-301) ........... 38
+Schematic summary of mPEG compartment model ......................................................................... 40
+Relationship between predicted steady state concentrations among pegylated compounds and
+observed vacuolation in choroid plexus epithelial cells non-clinical models ................................... 41
+Schematic summary of modeling ..................................................................................................... 42
+Effect of sex and body weight on week-13 lonapegsomatropin (upper), rGH (middle) and IGF-1
+(lower) concentrations following 0.24 mg hGH/kg/week. Median, 5th and 95th percentiles from
+500 simulated profiles. ..................................................................................................................... 44
+Simulation for the effect of a missed dosing scenario on PD; Predicted IGF-1 concentration profiles
+at steady state with missed dosing scenario; weekly (7-7-7-7) versus 7 days-5 days-9 days-7 days
+(7-5-9-7) for a dose of 0.24 mg hGH/kg........................................................................................... 45
+Standard goodness of fit diagnostics; DV vs PRED or iPRED for hGH (upper, left) and IGF-1 (top,
+right), PWRES or IWRES vs TIME for hGH (lower, left) and IGF-1 (lower, right). ...................... 46
+
+4
+
+Reference ID: 4756870
+
+1. EXECUTIVE SUMMARY
+Ascendis Pharma, Inc. (applicant) submitted the original Biologics License Application (BLA)
+(b) (4)
+under the 351(a) regulatory pathway
+Lonapegsomatropin is a longacting prodrug of human GH (hGH), where hGH is conjugated with four methoxypolyethylene
+glycol (mPEG) moieties, each with approximately 10 kDa molecular weight as a carrier via a
+TransCon linker.
+The drug product is supplied as a powder with diluent in a dual chamber cartridge (DCC) with an
+auto-injector for subcutaneous (SC) use.
+
+1.1
+
+Recommendations
+
+The Office of Clinical Pharmacology/Division of Cardiometabolic and Endocrine Pharmacology
+(OCP/DCEP) has reviewed the clinical pharmacology data submitted under BLA 761177 and
+recommends approval. Key review issues with specific recommendations and comments are
+summarized below:
+Review Issues
+
+Recommendations and Comments
+
+Supportive evidence of
+effectiveness
+
+The primary evidence of effectiveness for the proposed
+weekly weight-based dosing regimen were obtained from
+the pivotal Study CT-301 in treatment-naïve pediatric
+patients, where the primary efficacy endpoint (i.e.,
+annualized height velocity, AHV) was significantly greater
+following lonapegsomatropin compared to that of daily
+injection of Genotropin, active treatment. The estimated
+mean difference in AHV between treatments was 0.83
+cm/year with 95% Confidence interval of [0.22, 1.50]
+(p=0.0088).
+
+General dosing
+instructions
+
+The proposed dosing of lonapegsomatropin is 0.24 mg
+hGH/kg body weight once weekly. This should be
+administered subcutaneously into the abdomen, buttock, or
+thigh with regular rotation of the injection sites.
+
+Dosing in patient
+subgroups
+Bridge between the “to-bemarketed” and clinical trial
+formulations
+
+There is no specific dosing for any patient subgroups.
+The to-be-marketed (TBM) drug product (i.e., an autoinjector with DCC) was bridged to the clinical product
+(i.e., prefilled syringe/needle with lyophilized powder in
+vial) using the pivotal pharmacokinetic (PK) comparability
+study. The hGH PK administered as lonapegsomatropin
+using the TBM product was shown to be comparable to
+that of the clinical product. Further, the safety of TBM
+product was evaluated in the open-label extension study
+(Study CT-301EXT).
+5
+
+Reference ID: 4756870
+
+1.2
+Post‐Marketing Requirements and Commitments
+None.
+2. SUMMARY OF CLINICAL PHARMACOLOGY ASSESSMENT
+2.1
+Pharmacology and Clinical Pharmacokinetics
+Lonapegsomatropin is a pro-drug of hGH, which consists of hGH conjugated with four mPEG
+moieties (mPEG40) through a TransCon linker. The hGH release from lonapegsomatropin is
+assumed to follow a first-order non-specific autocleavage kinetics. The slow release characteristics
+of hGH from lonapegsomatropin may contribute to the observed relatively long hGH terminal halflife (t1/2; 20.5 hours, Study CT-102) in plasma following lonapegsomatropin subcutaneous (SC)
+injection compared to that of a daily injection hGH product [e.g., t1/2 of 3.0 hours in adults with
+growth hormone deficiency (GHD), labeling of Genotropin]. This prolonged in vivo t1/2 supports
+proposed once weekly injection regimen.
+The following is a summary of the clinical pharmacokinetics of hGH, lonapegsomatropin, and
+mPEG following administration of lonapegsomatropin:
+Absorption:
+
+Distribution:
+
+Elimination:
+
+ The maximum plasma concentration (Cmax) was reached 16, 36, and 240
+hours post dose for hGH, lonapegsomatropin and mPEG40, respectively,
+following 0.24 mg hGH/kg SC injection in healthy adult subjects. There
+was no significant accumulation for hGH or lonapegsomatropin following
+weekly dosing. However, significant accumulation was observed for
+mPEG40 at steady-state and is consistent with its long half-life (i.e., 508
+hours).
+ PK of hGH was greater than dose-proportional following single doses of
+0.24, 0.3, and 0.42 mg hGH/kg.
+ The estimated volume of distribution (V/F) of hGH and lonapegsomatropin
+is approximately 61.8 and 1.3 L for typical 19 kg pediatric patients with
+growth hormone deficiency (PGHD) according to the population PK
+analyses.
+ The elimination half-life of hGH, lonapegsomatropin and mPEG40 in
+healthy adult subjects was 51.9, 25.4, and 508 hours, respectively,
+following administration of 0.24 hGH/kg SC.
+ The primary elimination of lonapegsomatropin occurs via auto-hydrolysis
+to mPEG40-TansCon and hGH
+ hGH elimination involves known protein catabolism in both liver and
+kidneys.
+ It is reported that mPEG is excreted into urine predominantly as intact
+mPEG and undergoes minor oxidative degradation in phagosomes.
+
+6
+
+Reference ID: 4756870
+
+2.2
+
+Dosing and Therapeutic Individualization
+
+2.2.1 General dosing
+The recommended dosing is 0.24 mg hGH/kg body weight once weekly. The lonapegsomatropin
+drug product strength is described in weight of hGH (e.g., 0.24 mg hGH) to distinguish from a
+dose of lonapegsomatropin.
+2.2.2 Therapeutic individualization
+General dosing is individualized by body weight. No separate dose/dosing regimen is
+recommended in patient subgroups due to intrinsic (sex, race, body weight, renal impairment) and
+extrinsic factors. Lonapegsomatropin was not studied in specific populations including patients
+with organ impairment.
+2.3
+Outstanding Issues
+None.
+2.4
+Summary of Labeling Recommendations
+The Office of Clinical Pharmacology recommends the following labeling concepts be included in
+the final package insert:
+Label Section
+
+Recommendation
+
+2 DOSAGE AND ADMINISTRATION
+
+
+
+7 DRUG INTERACTIONS
+
+o
+We recommend the following with sub-heading as ‘a missed
+dose’;
+o A dose can be taken ±2 days from the scheduled day if
+needed
+o If a dose is missed for more than 2 days, skip the scheduled
+dose and resume the next dose as scheduled.
+ We recommend a tabular format for Section 7 drug-drug
+interactions.
+(b) (4)
+ We recommend deleting
+in Section 12.2 as it is
+described in text.
+ We recommend including clinically relevant covariates for
+hGH PK in Section 12.3 (e.g., age, sex, race and renal
+function).
+
+12.2 Pharmacodynamics
+12.3 Pharmacokinetics
+
+The recommended dose is 0.24 mg hGH/kg for treatment naïve
+patients or for patients switching from daily GH (somatropin).
+The recommended starting dose was evaluated and supported
+by results of the pivotal Phase 3 study (Study CT-301).
+Maintenance dose can be reduced if IGF-1 SDS is elevated
+above +2.0. Dose adjustment data due to elevated IGF-1 SDS
+were sparse in the pivotal Phase 3 study. Therefore, the clinical
+relevance of IGF-1 elevation is inconclusive.
+ The proposed labeling for a missed dose is as follows;
+(b) (4)
+o
+
+7
+
+Reference ID: 4756870
+
+3. COMPREHENSIVE CLINICAL PHARMACOLOGY REVIEW
+3.1
+
+Overview of the Product and Regulatory Background
+
+Lonapegsomatropin is a hGH prodrug, which is designed to slowly release hGH, the active moiety,
+through hydrolysis from mPEG conjugation and TransCon linker. The released hGH from
+lonapegsomatropin acts on the GH receptor in tissues and also stimulates the hepatic production
+of insulin-like growth factor 1 (IGF-1), which is considered as the primary pharmacodynamic (PD)
+marker for GH.
+(b)
+
+The applicant initially evaluated potential of a hGH conjugation with four molecules of (4) kDa
+(b)
+mPEG (described as (4) kDa, ACP-001) and conducted a Phase 2 dose-ranging study in PGHD
+(b) (4)
+(Study CT-004) under IND
+with this product. However, it was determined that the
+formulation of ACP-001 was not supporting the TBM device due to its high viscosity and large
+injection volume. The applicant therefore selected mPEG with 10 kDa as an optimal candidate for
+lonapegsomatropin (also known as ACP-011) and used this formulation with a syringe/needle in
+Phase 3 studies under IND 126053 supporting this BLA. To bridge the clinical information
+obtained from ACP-001, the applicant conducted a Phase 1 study to evaluate PK and PD
+comparability between the two molecules (ACP-001 and ACP-011) (Study CT-101).
+The applicant proposed an auto-injector as the TBM device. The proposed auto-injector was
+introduced in US sites of the Phase 3 extension study (Study CT-301EXT), and the comparability
+between clinical (syringe/needle) and TBM device was evaluated in a Phase 1 study (Study CT102).
+There were no significant pending clinical pharmacology issues from the regulatory
+communications and meetings during the development of lonapegsomatropin.
+
+3.2
+General Pharmacological and Pharmacokinetic Characteristics
+Growth hormone (GH) is secreted from the anterior pituitary gland through the stimulation by GH
+releasing hormone from the hypothalamus. Therefore, the known etiology of PGHD is associated
+with the congenital (e.g, pituitary aplasia or genetic) or acquired (e.g, tumors of the hypothalamicpituitary region, head trauma or infection) conditions of pituitary gland or hypothalamus.
+However, the most common diagnosis of PGHD is known to be without clear etiology or
+idiopathic.
+Lonapegsomatropin is a pegylated hGH with four molecules of mPEG and designed to slowly
+release hGH following SC injection (Figure 1). Molecular weight is an average of 63 kDa for
+lonapegsomatropin, approximately 22 kDa for hGH and average of approximately 41 kDa for
+mPEG-TransCon linker. The number of ethylene glycol units in each mPEG-chains is
+(b) (4)
+approximately
+.
+
+8
+
+Reference ID: 4756870
+
+(b) (4)
+
+Figure 1
+
+Structure of lonapegsomatropin
+(Source: Module 2.3.S.1 CTD)
+
+The clinical pharmacology information was evaluated in six studies: two studies in healthy adult
+subjects (CT-101 and CT-102), one study in PGHD patients using exploratory molecule (CT-004),
+and three Phase 3 studies in PGHD patients (CT-301, CT-301EXT and CT-302).
+3.2.1 Mechanism of Action:
+Lonapegsomatropin is a hGH pro-drug and slowly releases hGH, the active molecule, and mPEGlinker through hydrolysis after SC injection. The mechanism of action of hGH is the stimulation
+of GH-receptor in tissues and hepatic production of IGF-1, which mediates GH actions. The major
+effects of hGH are growth stimulation, body composition change (i.e., decreased body fat mass,
+increased lean body mass, increased bone mineral density) and stimulation of metabolic actions.
+3.2.2
+
+Pharmacokinetics:
+
+3.2.2.1 Absorption
+The single dose PK of lonapegsomatropin following SC administration was evaluated in healthy
+subjects (CT-101) at dose levels of 0.24, 0.30 or 0.42 mg hGH/kg.
+The median (minimum, maximum) time to peak serum concentration (Tmax) was 16.0 (8.00, 48.0),
+36.0 (16.0, 4.0) or 240 (36.0, 670) hours post-dose for hGH, lonapegsomatropin or mPEG,
+respectively, following 0.24 mg hGH/kg (Figure 2, Table 1).
+The PK (AUC and Cmax) of hGH, lonapegsomatropin and mPEG was greater than doseproportional; AUC0-168 increased 2.5-, 5.3-, and 3.3-fold for hGH, lonapegsomatropin and mPEG,
+respectively, with an 1.8-fold increase in dose (from 0.24 to 0.42 mg hGH/kg) (Figure 2, and Table
+1). Results of a power model systematically assessing the PK-dose proportionality (PK parameter
+= a*Doseb) indicate that PK was greater than proportional to dose as exponents of the model (b)
+were greater than 1 (proportional) for hGH, lonapegsomatropin and mPEG. Clinical relevance of
+the PK-dose proportionality may not be significant as there is no proposed dose adjustment with
+any intrinsic/extrinsic factors.
+
+9
+
+Reference ID: 4756870
+
+Figure 2 Mean lonapegsomatropin (blue), hGH (red) and mPEG (green) concentrationtime profile (on log scale) following single dose administration in healthy subjects
+(Study CT-101)
+(Source: Figure 3, Module 2.7.2 CTD)
+
+Table 1
+
+Descriptive summary of PK parameters (Study CT-101)
+(Source; Table 3-5, Module 2.7.2, CTD)
+
+Compound
+hGH
+
+Lonapegsomatropin
+
+mPEG
+
+0.24 mg hGH/kg
+(N=27)
+
+0.30 mg hGH/kg
+(N=9)
+
+0.42 mg hGH/kg
+(N=9)
+
+AUC0-168 (h*ng/mL)
+
+617 (49.8)
+
+957 (25.8)
+
+2050 (46.5)
+
+Cmax (ng/mL)
+
+13.4 (28.4)
+
+19.4 (20.2)
+
+32.9 (26.9)
+
+Tmax (h)
+
+16.0 (8.00, 48.0)
+
+24.0 (12.0, 36.0)
+
+36.0 (12.0, 36.0)
+
+t½ (h)
+
+25.4 (40.1)
+
+21.8 (13.3)
+
+25.0 (26.1)
+
+AUC0-168 (h*ng/mL)
+
+30900 (114.7)
+
+60300 (56.7)
+
+164000 (118.0)
+
+Cmax (ng/mL)
+
+535 (112.4)
+
+1280 (70.4)
+
+2480 (133.4)
+
+Tmax (h)
+
+36.0 (16.0, 48.0)
+
+24.0 (24.0, 36.0)
+
+36.0 (36.0, 48.1)
+
+t½ (h)
+
+51.9 (35.4)
+
+39.5 (29.0)
+
+40.8 (32.1)
+
+AUC0-168 (h*ng/mL)
+
+314,000 (50.4)
+
+470,000 (23.2)
+
+770,000 (57.4)
+
+Cmax (ng/mL)
+
+3,060 (32.9)
+
+4,010 (15.8)
+
+6,870 (30.6)
+
+Tmax (h)
+
+240 (36.0, 670)
+
+168 (48.0, 336)
+
+48.1 (36.0, 504)
+
+t½ (h)
+
+508 (18.0)
+
+594 (16.1)
+
+616 (14.1)
+
+Parameter (Unit)
+
+The steady state PK was evaluated in PGHD patients following multiple doses of
+lonapegsomatropin (Study CT-301) or ACP-001 (Study CT-004). PK assessments were done at
+Week 1, Week 13, and at later visits (trough concentrations) in both the studies (Study CT-301
+and CT-004). It appears that hGH, lonapegsomatropin, and mPEG reached apparent steady-state
+by 13 weeks after multiple dosing in pediatric patients (Figure 3 from Study CT-004, Figure 18 in
+
+10
+
+Reference ID: 4756870
+
+Appendix from Study CT-301). There was no significant accumulation of hGH and
+lonapegsomatropin, while a significant accumulation of mPEG was observed.
+
+(b)
+
+Figure 3 Mean (SD) hGH (upper), lonapegsomatropin (middle), and mPEG (4) (lower)
+concentration-time profiles at Week 1 and 13 in PGHD patients (Study CT-004)
+(Source: Figure 10, 8, 15, CSR, CT-004)
+
+The impact of different injection sites on PK was not formally evaluated. Although injection sites
+were rotated among 6 sites (i.e., the left and right buttock, left and right thigh, and left and right
+abdomen) in Phase 3 studies, injection site information was not available as a covariate in the
+population PK analysis. There was no specific safety signal related to the injection sites in Phase
+3 studies. Therefore, applicant’s proposal to rotate injection sites is acceptable.
+The variability in PK was relatively high as CV of AUC0-168h was 82.3%, 67.0%, 34.0% for hGH,
+lonapegsomatropin and mPEG, respectively, in Phase 3 Study CT-301 (Table 2). There was
+apparent cross-reactivity in bioanalytical method measuring hGH from lonapegsomatropin. In
+general, the impact of cross reactivity in hGH PK assessment was not significant (Table 2, See
+further details of cross-reactivity in bioanalytical method in Appendix 4.1).
+11
+
+Reference ID: 4756870
+
+Due to the presence of endogenous hGH and IGF-1, its contribution was adjusted using the
+baseline as an average of pre-dose concentrations. In general, the contribution of endogenous level
+was low in the study with healthy adults [Study CT-102, mean (SD) and median hGH baseline
+were 0.18 (0.54) and 0 ng/mL, respectively] and in the PGHD population [Study CT-301 (n=19
+with baseline reported), mean (SD) and median hGH baseline concentration =1.18 (1.35) and 0.66
+ng/mL, respectively, or mean (SD) peak stimulated hGH =5.75 ng/mL (n=161) ] .
+Table 2
+
+Descriptive summary of PK parameters at steady-state in PGHD (PK/PD subset,
+Study CT-301)
+(source; Table 7, Module 2.7.2, CTD)
+
+3.2.2.2 Distribution
+There was no formal study for the distribution of lonapegsomatropin or mPEG. The estimated
+mean volume of distribution (Vd/F) for hGH, lonapegsomatropin, and mPEG in PGHD weighing
+approximately 20 kg was 61.8, 1.3, 3.5 L, respectively. The mean Vd/F of hGH following
+lonapegsomatropin seems to be significantly higher than that of estimated Vd/F from daily hGH
+(2.6 L or 1.3 L/kg, Genotropin labeling). The difference in bioavailability (F) values may result in
+the difference in Vd/F of hGH following ACP-011 compared to that of Genotropin. Further, the
+Vd/F of hGH following administration of lonapegsomatropin is confounded as its systemic
+availability is a hybrid of hGH release from lonapegsomatropin and subsequent absorption of hGH.
+There is a concern of mPEG accumulation in tissues particularly in choroid plexus and its potential
+impact on the brain or central nervous system considering its long half-life and chronic dosing in
+children. It is known that certain PEGs may cause vacuolation leading to cell death in animal
+studies. The applicant addressed those concerns using 1) the relationship between estimated
+exposure in serum and choroid plexus from modeling and simulation and 2) extrapolating
+information using animal scale up related to ‘No Observed Vacuolation’ from non-clinical models,
+which utilizes similar approach of non-clinical risk assessment as that done with ‘No-ObservedAdverse-Effect-Level’ (Figure 4). The predicted mPEG levels in pediatric subjects was within the
+range of concentrations where there was no observed vacuolation in animal studies (Figure 4). See
+further details in Appendix 4.3.1. Overall, there was no adverse events related to the vacuolation
+in the clinically relevant lonapegsomatropin dosing groups in non-clinical studies. Further, there
+was no specific clinical safety signal in the Phase 3 program. No CNS or immune system associated
+safety events were detected in the Phase 3 program. Therefore, clinical concerns at the mPEG
+accumulation in choroid plexus and its adverse events appears to be minimal at the proposed dosing.
+
+12
+
+Reference ID: 4756870
+
+Figure 4 Predicted mPEG (lines) and individual observed mPEG (symbols) in serum (left)
+and choroid plexus (right) of children (BW = 22 kg, black) and cynomolgus
+monkey (BW = 3 kg, green and cyan) following 3 doses
+[0.24 mg hGH/kg in children (black), 0.4 mg hGH/kg in monkey (green, No Observed
+Vacuolation) and 1.6 mg hGH/kg in monkey (cyan)]
+(Source; Figure 2, MODHGH001)
+
+3.2.2.3 Metabolism and elimination
+There was no formal in vivo study (e.g., mass balance or ADME study) for lonapegsomatropin.
+Lonapegsomatropin is known to go through auto-hydrolysis and a few products were identified
+(b) (4)
+during auto-hydrolysis: lonapegsomatropin, hGH, mPEG linker
+(b) (4)
+, and a leaving group
+The hGH, when released from lonapegsomatropin, is considered to follow known catabolism of
+endogenous GH mainly in both the liver and kidney.
+(b) (4)
+
+It is reported that the elimination of mPEG
+is primarily via
+excretion in the urine as intact mPEG (Figure 5) and metabolism represents a minor route (Webster
+et al., Drug Metab Dispo, 35:9-16, 2007).
+
+Figure 5 Schematic summary of release products of lonapegsomatropin and mPEG
+elimination.
+(Source: Figure 2, Module 2.2, CTD)
+
+The terminal half-life was 25.4, 51.9, and 508 hours for hGH, lonapegsomatropin and mPEG,
+respectively, following 0.24 hGH/kg in adults (Table 1). The mean clearance of hGH was
+13
+
+Reference ID: 4756870
+
+estimated as 125 L/day for PGHD with 19 kg body weight and it was similar to that of daily hGH
+in AGHD (0.3 L/hr/kg = 136.8 L/day in patient with 19 kg body weight, Genotropin labeling).
+
+3.3
+
+Clinical Pharmacology Questions
+
+3.3.1 Does the clinical pharmacology information provide supportive evidence of
+effectiveness?
+Yes, the data presented in this BLA provides supportive evidence of effectiveness for SC
+(b) (4)
+lonapegsomatropin as
+. Refer to Section 3.3.2 for additional details.
+3.3.2 Is the proposed general dosing regimen appropriate for the general patient
+population for which the indication is being sought?
+Yes, the proposed dosing regimen is appropriate for the PGHD from the clinical pharmacology
+perspective.
+Although number of subjects was relatively small (N=12-14 per cohort), the results indicate that
+the efficacy was numerically increased with increasing dose in the exploratory dose-ranging study
+with a predecessor molecule (ACP-001) (Study CT-004, Table 3). Further, the efficacy of all doses
+of ACP-001 was numerically higher than that of active treatment, Genotropin 0.03 mg/kg daily
+injection (equivalent to 0.21 mg/kg/week) (Table 3). While exposure of hGH was comparable,
+IGF-1 was higher following 0.21 mg hGH/kg/week ACP-001 injection compared to those of active
+treatment (Figure 6). IGF-1 AUC was similar between 0.21 to 0.30 mg hGH/kg/week, and it
+indicates that IGF-1 response reached an apparent plateau from 0.21 mg hGH/kg/week.
+Table 3 Least-Square Means (and 95% Confidence Intervals) for AHV [cm/year] at 6
+Month
+Statistics
+LS Mean (AHV [cm/year])
+95% CI
+
+Cohort 1 (N=12)
+
+Cohort 2 (N=14)
+
+Cohort 3 (N=14)
+
+Cohort 4 (N=13)
+
+12.56
+
+13.29
+
+13.91
+
+12.27
+
+10.56 to 14.56
+
+11.45 to 15.13
+
+12.09 to 15.74
+
+10.32 to 14.22
+
+(Source; Table 23, CSR, CT-004)
+Cohort 1; 0.14 mg hGH/kg/week, Cohort 2; 0.21 mg hGH/kg/week, Cohort 3; 0.30 mg hGH/kg/week
+Cohort 4; 0.03 mg hGH/kg/day (Genotropin once daily)
+
+14
+
+Reference ID: 4756870
+
+IGF-1 AUC (ng/mL*h)
+
+hGH AUC (ng/mL*h)
+
+Figure 6 Box plot of AUC (hGH; left, IGF-1; right) by cohort and visit; AUC0-168h for cohort
+1-3, AUC0-24h x 7 for cohort 4 (Study CT-004)
+[Cohort 1; 0.14 mg hGH/kg/week, Cohort 2; 0.21 mg hGH/kg/week, Cohort 3; 0.30 mg hGH/kg/week
+Cohort 4; 0.03 mg hGH/kg/day (Genotropin once daily)]
+(Source: Reviewer’s analysis)
+
+In the Phase 3 studies, the applicant selected 0.24 mg hGH/kg/week for both lonapegsomatropin
+and Genotropin. The dose selection for the Phase 3 studies seems reasonable based on results from
+the Study CT-004. In addition, the weekly lonapegsomatropin dosing is consistent with the weekly
+dose of active treatment, which is 0.16 to 0.24 mg/kg/week for the PGHD and the weekly dose
+should be divided into 6 (in case of 6 days administration for a week) or 7 (in case of 7 days
+administration for a week) injections as per the Genotropin labeling. Subjects were randomized
+2:1 ratio to lonapegsomatropin and Genotropin (N=161 hGH-treatment naïve subjects in the ITT
+population).
+Although according to the protocol, dose adjustment was allowed related to the elevated IGF-1
+SDS, actual dose adjustment was extremely rare (see outlier observations for the dose adjustments
+from the pivotal Phase 3 study, Figure 19) (Figure 7). Therefore, there was no adequate data to
+support covariates for the different starting dose or dose adjustment during the treatment period in
+the pivotal Phase 3 study. There was a deviation (-11% to +9%) in the dosing from the designated
+0.24 mg hGH/kg/week (Figure 7) mainly due to the body weight bracketing due to limited cartridge
+strengths (see Table 14 in Appendix). For example, dose is ranged 0.261-0.216 mg hGH/kg/week
+using 3 mg hGH cartridge for body weight bracket 11.5-13.9. However, this does not appear to be
+clinically meaningful.
+
+15
+
+Reference ID: 4756870
+
+Figure 7 Individual dose during the treatment period (Study CT-301)
+(note; TransCon hGH is for lonapegsomatropin)
+(Source: Reviewer’s analysis)
+
+The primary efficacy endpoint was AHV at 52 weeks following weekly lonapegsomatropin and
+daily Genotropin treatments. The estimated treatment difference in AHV was statistically
+significant, for lonapegsomatropin over Genotropin (Table 4). Overall, it was concluded that onceweekly dose of lonapegsomatropin administered up to 52 weeks was well tolerated and no
+clinically significant safety issues were identified. Refer to the Clinical Review by Dr. Shivangi
+Vachhani and Statistics Review by Dr. Alex Cambon for additional details on efficacy and safety
+assessment of lonapegsomatropin in Phase 3 studies.
+Table 4
+
+Primary efficacy endpoints – AHV (cm/year) at Week 52 (Study CT-301)
+
+Summary Statistic
+
+Lonapegsomatropin
+(N=105)
+
+Genotropin
+(N=56)
+
+11.17 (0.23)
+[10.71, 11.62]
+
+10.31 (0.30)
+[9.73, 10.89]
+
+Least square mean (SE)
+[95% CI]
+
+Estimate of Difference
+Lonapegsomatropin Genotropin
+0.86 (0.33)
+[0.22, 1.50]
+
+P-value
+0.0088
+
+(Source, Table 19, CSR, CT-301)
+
+In Phase 3 study, once-weekly lonapegsomatropin showed numerically higher average IGF-1 SDS
+levels at steady state compared to those of Genotropin (Figure 8).
+
+16
+
+Reference ID: 4756870
+
+Figure 8 Box plot of average IGF-1 SDS over 52 weeks by treatment group (Study CT-301).
+(Source: Figure 8, CSR, CT-301)
+
+Missed dose:
+To evaluate the impact of a missed or delayed dose of lonapegsomatropin, simulations of hGH and
+IGF-1 were performed for different scenarios - effect of shortened (7-5-9-7 days schedule) or
+extended dosing intervals (7-9-5-7 days schedule) compared to regular intervals (7-7-7-7 days
+schedule) starting at Week 13. There was no significant difference in simulated average IGF-1
+SDS among scenarios tested (Figure 9). In addition, there was no significant change in simulated
+hGH levels as its accumulation was known to be minimal at steady-state.
+
+Figure 9
+
+Predicted IGF-1 SDS among scenarios
+(Source: Figure 97, MODHGH002)
+
+The applicant proposed the dosing instruction based on the simulations as follows;
+
+
+17
+
+Reference ID: 4756870
+
+(b) (4)
+
+
+We recommend labeling as follows;
+ a dose can be taken within ±2 days of the scheduled day
+o this is to ensure that there is a dosing interval of no less than 5 days between 2
+consecutive doses
+ if more than 3 days have passed, the dose should be skipped, and the next dose should be
+administered on the regular dosing day
+(b) (4)
+
+Effect on QT/QTc interval:
+The applicant did not conduct a dedicated QT/QTc trial. The potential effect of lonapegsomatropin
+on cardiac repolarization was assessed based on ECGs collected in the Phase 3 Study CT-301. The
+ECGs were collected at baseline and Week 26 from all subjects, and there was extensive ECG
+sampling matching to PK sampling including at the expected Tmax in a sub-set (n=11).
+There was no meaningful signal from the qualitative data summary as follows;
+ change in QTcF from baseline at Week 26 was 8.9 ms in the lonapegsomatropin group
+and 5.3 ms in the Genotropin group
+
+ at the median hGH Tmax (12 h postdose) of the PK/PD subset, the mean QTcF change
+from Week 13 pre-dose was 2.9 ms
+There was no apparent positive relationship observed between change in QTcF from pre-dose at
+Week 13 and hGH plasma concentrations (Figure 10).
+According to non-clinical study results, there was no significant inhibition of the hERG channel
+from the intact PEGylated hGH,(b)as(4) well as the products of the hydrolysis, hGH and mPEG linker
+
+Figure 10 Relationship between change in QTcF from pre-dose and hGH concentration at
+Week 13 in a sub-set (n=11)
+(source, Figure 15, CSR, CT-301)
+
+18
+
+Reference ID: 4756870
+
+Immunogenicity:
+Overall, 11 subjects (10.5%) had detectable but transient antibodies after baseline for any of
+antibodies - anti-hGH (n=7, 6.7%), anti-mPEG (n=2, 1.9%) and anti-lonapegsomatropin (n=4,
+3.8%) in lonapegsomatropin treatment arm compared to anti-hGH (n=2, 3.6%) in Genotropin arm
+(Source; Table 47, Module 2.7.4, CTD). There were no observed effects of immunogenicity on
+safety, efficacy, IGF-1 or PK. Refer to the Quality review in DARRTS for additional detail on the
+immunogenicity assay for lonapegsomatropin, hGH and mPEG.
+3.3.3
+
+Is an alternative dosing regimen and management strategy required for subpopulations
+based on intrinsic factors?
+Results from the clinical pharmacology trials and population PK analysis of data from Phase 3
+studies indicate that dose adjustment is not required for patients based on intrinsic factors of sex,
+body weight, race, ethnicity or renal function. Although hGH exposure and IGF-1 SDS response
+were relatively lower in female patients, average IGF-1 SDS was not significantly different
+between males and females in PGHD (Figure 11). The proposed dosing is weight-based.
+Therefore, no further dose adjustment is needed for the known clinically relevant covariates such
+as sex and age since they are highly correlated with body weight.
+
+Figure 11 Relationship between average IGF-1 SDS and body weight at Week 1 or 13 by
+sex
+(source, Figure 13, 2.7.2 CTD)
+
+3.3.3.1 Race, Sex, Body weight, Age, and Renal Function
+The effects of clinically relevant pre-specified covariates on exposure of lonapegsomatropin, hGH
+and mPEG and IGF-1 response were assessed using population PK and PK/PD analyses based on
+data from CT-101 in healthy adults (N=45) and CT-301 in PGHD (N=105).
+Of all investigated covariates, body weight and sex were the major covariates (Figure 11, and
+Figure 12). Mean (SD) age of patients was 8.5 (2.7) years in Study CT-301. The age ranged from
+3.3 to 13.1 years and approximately 24% (N=25) patients were less than 6 years of age in the
+lonapegsomatropin treatment arm. However, there was no apparent relationship between
+significant covariates (body weight and sex) and exposure in PGHD (Figure 13). Further, there
+was no clinically significant covariates supporting additional dose adjustment for the primary
+efficacy endpoint (Figure 14).
+
+19
+
+Reference ID: 4756870
+
+Therefore, no dose adjustment is necessary for those covariates in addition to the body weightbased dosing. See Appendix 4.3 for additional details of population analyses.
+
+Figure 12 Effect of sex and body weight on AUCtau of lonapegsomatropin (left) or hGH
+(right); Median, 5th and 95th percentiles from 500 simulated profiles
+
+AUC (ng/mL*h)
+
+hGH AUC (ng/mL*h)
+
+(source, Figure 54,88, MODHGH002)
+
+Figure 13 Scatter plot for AUCtau of lonapegsomatropin (Lona), hGH (HGH) and mPEG
+(MPEG40) versus body weight at baseline in PK/PD subset (N=11) of CT-301
+
+Figure 14
+
+Forest Plot of AHV by subgroups
+(Source; Figure 5, 2.5 CTD)
+
+20
+
+Reference ID: 4756870
+
+The impact of renal function on hGH, lonapegsomatropin and mPEG was evaluated using the
+relationship between estimated creatinine clearance (CRCL) and their observed concentrations in
+PGHD (Study CT-301). There were no apparent relationships between CRCL and hGH or
+lonapegsomatropin. The primary concern related to the renal function change was potential for
+increase in mPEG exposure as mPEG is known to primarily be excreted into urine. There was no
+apparent impact of renal function on mPEG exposure (Figure 15). The sponsor used CockcroftGault (CG) method for CRCL estimation. In addition, they introduced lower conversion factor for
+female [CRCL=(140-age)*BW/(72*Scr)*0.385 (if female)] compared to that of CG method (i.e.,
+0.85 for female). Due to CG method with lower female factor, there were unusual numbers of
+subject classified with the severe renal impairment in the sponsor’s analysis. However, it was
+found that there were no severe and limited moderate renal impairment sub-group following the
+original conversion factor of CG method or Schwartz methods (i.e., eGFR=k*height/Scr, k=0.419
+if male aged >13 years, otherwise 0.373), which is known to provide better estimation of
+glomerular filtration rate for children compared to other methods. There was no apparent
+association between mPEG concentrations and CRCL estimated by the Schwartz method (Figure
+15).
+
+Figure 15
+
+Relationships between 1) mPEG concentration versus CRCL by CockcroftGault method (upper left) or Age by renal function sub-group (upper right) or
+2) mPEG (lower) versus CRCL by modified Schwartz method (Study CT-301)
+(about 5 measures per subject)
+
+21
+
+Reference ID: 4756870
+
+3.3.4 Are there clinically relevant drug‐drug interactions and what is the appropriate
+management strategy?
+There was no formal study for the evaluation of potential of drug-drug interaction. It is known that
+mPEG is primarily excreted into urine through the glomerular filtration and metabolism is minor
+elimination pathway. Therefore, there is no significant metabolic potential for drug-drug
+interaction with lonapegsomatropin or mPEG.
+Lonapegsomatropin releases hGH. hGH can induce changes in CYP450 activity in humans, and
+concomitant treatment with CYP450 substrates is addressed as per the class labeling of GH
+products.
+3.3.5 Was there PK bridging between to‐be‐marketed product and clinical trial
+product?
+Yes, the applicant conducted the pivotal PK comparability study (Study CT-102) to bridge the
+proposed to-be-marketed product (auto-injector and dual chamber cartridge) to the clinical product
+(pre-filled syringe and needle with lyophilized powder in vial).
+The comparability of hGH was assessed in a Phase 1, randomized, open-label trial comparing
+lonapegsomatropin administered as a single dose of 13.3 mg hGH via syringe and needle versus
+auto-injector in healthy volunteers (Study CT-102). The primary endpoint was baseline corrected
+PK parameters (AUC and Cmax) of hGH, and the secondary endpoint was PD parameters (AUC
+and Cmax of IGF-1).
+Results indicate that the comparability of hGH was demonstrated between the TBM and clinical
+products (Table 5).
+Table 5
+
+Statistical Comparisons of Baseline-Corrected Serum hGH PK (upper) and PD
+(lower) parameters (Study CT-102)
+(Source; Table 14, CSR, CT-102)
+
+22
+
+Reference ID: 4756870
+
+a Geometric least-squares means were obtained by the back-transformation of least-squares means of the parameters from an
+ANOVA using a mixed model based on log-transformed data. The model included treatment modality (Auto-Injector or
+Syringe and Needle), period, and sequence as fixed effects and subjects within sequence as a random effect.
+ Abbreviations: ANOVA = analysis of variance; CI = confidence interval
+ Baseline; average of two pre-dose concentrations
+ In IGF-1 table, Cmax=Emax, AUC=AUEC
+
+The applicant submitted responses to the clinical pharmacology Information Request (IR), which
+was communicated during the Mid-Cycle Communication dated December 7, 2020. The IR was
+to address potential impact of the cross-reactivity (0.29%) between lonapegsomatropin and hGH
+in the bioanalytical method. The applicant indicated that the cross-reactivity may not affect the
+comparability conclusions since it will introduce the same bias in the measurement of hGH from
+the two treatments. The division recommended that the applicant confirm the assumption using a
+worst-case scenario since lonapegsomatropin was not measured in Study CT-102. The applicant
+responded to the IR using the known cross-reactivity and concentration relationship between
+hGH and lonapegsomatropin from the previous relative bioavailability study (Study CT-101) as
+designs were comparable between the two studies. The observed hGH concentrations were
+adjusted in a time-dependent manner using ratios between hGH and lonapegsomatropin
+concentrations from Study CT-101; hGHcorr(t) = hGHobs(t) – hGHobs(t)*ratio(t)*crossreactivity. The bioanalytical bias was expected to increase with higher lonapegsomatropin
+concentration compared to that of hGH in a given time (ratio) and the ratios ranged from 14 to
+212. Results of this reanalysis indicate that the comparability assessment remains unchanged.
+The impact of cross-reactivity on the comparability assessment is not significant according to a
+worst-case scenario (Table 6). Therefore, the conclusion of comparability between the TBM and
+clinical products is acceptable.
+
+23
+
+Reference ID: 4756870
+
+Table 6
+
+Statistical analyses of PK parameters following a worst-case scenario
+Source;
+Table
+4,
+Responses
+to
+IR
+dated
+12/23/2020
+(\\CDSESUB1\evsprod\BLA761177\0022)
+
+a and c; data from CT-102 CSR
+b and d; new results following cross-reactivity adjustment
+
+The on-site inspection for the bioanalytical and clinical study (CT-102) was requested to the Office
+of Study Integrity and Surveillance (OSIS). The OSIS determined that the inspection was not
+warranted for the sites as the Office of Regulatory Affairs and OSIS inspected the clinical and
+bioanalytical sites recently.
+
+24
+
+Reference ID: 4756870
+
+4.
+
+APPENDICES
+
+4.1
+
+Summary of Bioanalytical Method Validation
+
+Lonapegsomatropin, hGH and mPEG in human serum were quantified by bioanalytical methods
+of enzyme-linked immunosorbent assay (ELISA).
+Methods of ELISA followed standard assay methods. To minimize cross-reactivity between hGH
+and lonapegsomatropin, lonapegsomatropin was removed from the serum sample prior to assaying
+with immunoprecipitation step with biotinylated rabbit anti-mPEG polyclonal antibody coupled to
+streptavidin coated agarose beads. The capture antibody and detection antibody were as follows:
+ hGH; a biotinylated rabbit anti-hGH antibody, a rabbit anti-hGH polyclonal antibody
+ lonapegsomatropin; a sheep anti-hGH polyclonal antibody, a biotinylated rabbit antimPEG monoclonal antibody
+ mPEG; a rabbit anti-mPEG monoclonal antibody, a biotinylated anti-PEG mouse
+monoclonal antibody
+In general, the bioanalytical methods (Table 7) were acceptable refering guidelines in the guidance
+(https://www.fda.gov/media/70858/download).
+Table 7
+
+Summary of bioanalytical method validation
+
+Matrix
+Analytical method/detection
+Calibration Range
+Cumulative accuracy (%
+bias) in standard calibrators
+from LLOQ to ULOQ
+Cumulative precision (%
+CV) from LLOQ to ULOQ
+Cumulative accuracy
+(%bias) in QCs
+Dilution Linearity & Hook
+Effect
+
+hGH
+Normal and GHD children
+serum
+Sandwich ELISA
+2.00 – 50.0 ng/mL
+0.500 ng/mL – 15.0 ng/mL
+-1.6 to 2.9%
+-5.8 to 6.5%
+
+Lonapegsomatropin
+Human serum
+
+mPEG
+Human serum
+
+Sandwich ELISA
+15.0 – 500 ng/mL corresponding
+to: 5.00 – 167 ng hGH/mL
+-0.9 to 2.0%
+
+Sandwich ELISA
+300 – 8000 ng/mL
+-2.3 to 3.8%
+
+≤ 3.0%
+≤ 7.9%
+-2.4 to 9.8%
+-11.8 to 2.2%
+Dilution QC: 500 ng /mL
+(dilution factor: 25, 30, 50)
+Accuracy: 92.6 – 99.6%
+Precision: 4.0 – 9.8%
+
+≤ 8.1%
+
+≤ 9.1%
+
+-14.2 to -8.0%
+
+-5.8 to 7.1%
+
+Dilution QC: 10,000 ng/mL
+(dilution factor: 200)
+Accuracy: 85.0%
+Precision: 4.96%
+Dilution QC: 60,000 ng/mL
+(dilution factor: 500)
+Accuracy: 102.3%
+Precision: 7.20%
+Dilution QC: 60,000 ng/mL
+(dilution factor: 1000)
+Accuracy: 102.7%
+Precision: 5.11%
+6 freeze (-80 C)-thaw (ambient
+temperature) cycles in
+polypropylene tubes under white
+light
+259 days in polypropylene tubes
+at -80 C
+92 days in polypropylene tubes
+at -20 C
+
+Dilution QC: 50,000 ng/mL
+(dilution factor: 8, 10 and 15)
+Accuracy: 101.4 to 103.2%
+Precision: 1.7 to 4.7%
+
+Dilution QC: 100 ng /mL
+(dilution factor: 8, 50, 100)
+Accuracy range: 89.9 - 109%
+Precision: ≤ 7.2%
+
+Freeze-Thaw Stability
+
+Long-Term Storage
+
+hGH: 6 freeze (-80 C)-thaw
+(ambient temperature) cycles
+in polypropylene tubes under
+white light
+hGH: 406 days in
+polypropylene tubes at -80 C
+476 days in polypropylene
+tubes at -20 C
+
+25
+
+Reference ID: 4756870
+
+6 freeze (-80 C)-thaw (ambient
+temperature) cycles in
+polypropylene tubes under white
+light
+456 days in polypropylene tubes
+at -80 C (low and dilution QCs),
+329 days in polypropylene
+tubes at -80 C (low and high
+QCs), 87 days (low QC) and 71
+days (dilution QC) in
+polypropylene tubes at -20 C,
+179 days in polypropylene tubes
+at - 20 C (low and dilution QCs)
+
+4.2
+
+Summary of Individual Clinical Pharmacology Studies
+
+4.2.1. Study CT-102 – Pivotal PK bridging study for the TBM product compared to clinical
+product
+Title: A Phase 1, randomized, open-label bioequivalence trial in healthy volunteers comparing
+TransCon hgH administered as a single dose via syringe and needle vs. auto-injector
+Objective:
+Primary objective:
+ To establish pharmacokinetic (PK) bioequivalence between TransCon hGH administered by
+syringe/needle and auto-injector, measured as human growth hormone (hGH) maximum
+concentration (Cmax) and area under the concentration-time curve (AUC).
+Secondary objectives:
+ To establish pharmacodynamic (PD) bioequivalence of TransCon hGH administered by
+syringe/needle and auto-injector, measured as insulin-like growth factor-1 (IGF-1) maximum
+observed response (Emax) and area under the effect-time curve (AUEC).
+ To characterize the safety and tolerability profile of TransCon hGH administered by syringe
+and needle or an auto-injector.
+ To characterize the immunogenicity of TransCon hGH after two single doses.
+
+Study design:
+This was a single center, Phase 1, randomized, open-label, single dose, crossover study in healthy
+male adult subjects (N=26) designed to compare the PK and PD of two injection modalities of
+TransCon hGH to confirm bioequivalence (BE). PK (hGH) was to be evaluated by Cmax and AUC,
+and PD (IGF-1) was to be evaluated by Emax and AUEC.
+TransCon hGH was to be administered at a fixed nominal dose of 13.3 mg hGH (corresponding to
+approximately 0.20 mg hGH/kg) subcutaneously (SC) to normal healthy volunteers via syringe and
+needle versus the auto-injector during 2 separate periods separated by a washout period.
+
+Major study results:
+ PK of hGH was comparable between TBM and clinical products
+ The impact of potential bioanalytical bias due to cross-reactivity between hGH and
+lonapegsomatropin on the comparability assessment was not significant (see in section
+3.3.5).
+
+Figure 16
+
+Mean hGH (left) or IGF-1 (right) serum concentration-time profiles (Study CT-102)
+(Source, Figure 2 and 3, CSR)
+
+26
+
+Reference ID: 4756870
+
+Table 8 Summary of hGH PK and statistical analysis for the comparability (Study CT102)
+(Source; Table 12 and 14, CSR)
+
+Comparability assessment using baseline-corrected PK parameters
+
+27
+
+Reference ID: 4756870
+
+Table 9
+
+Summary of IGF-1 parameters and statistical analysis for the comparability
+(Study CT-102)
+(Source; Table 15 and 17, CSR)
+
+Comparability assessment using baseline-corrected PD parameters
+
+28
+
+Reference ID: 4756870
+
+4.2.2. Study CT-101 – Relative bioavailability and PK-dose proportionality
+Title: A Phase 1, Randomized, Open-Label Study in Healthy Volunteers, Investigating the Safety
+and Tolerability of a Single Dose of ACP-011 at Three Different Dose Levels and Comparing
+Exposures of a Single Dose of ACP-011 to ACP-001 in a Cross-Over Design
+Objectives:
+Primary objective:
+ To evaluate the safety and tolerability of a single dose of ACP-011 at 3 different dose levels
+Secondary objectives:
+ To evaluate the pharmacodynamic (PD) response parameters of ACP-011 compared to ACP001 at a single dose level.
+ To evaluate the pharmacokinetic (PK) and PD parameters of ACP-011 at 3 different dose
+levels
+Study design:
+This was a single-center, randomized, open-label study designed to evaluate the safety,
+tolerability, pharmacokinetics, and pharmacodynamics of ACP-011 at doses of 0.24, 0.30, and
+0.42 mg human growth hormone (hGH)/kg administered subcutaneously as a single dose to
+healthy subjects. There was a crossover portion in the study to compare ACP-011 and ACP-001
+in terms of PK and PD parameters.
+Group 1:
+Twenty-eight healthy subjects were randomly assigned to the comparative crossover portion of
+the study to receive 1 of 2 treatment sequences (AB or BA) in a 1:1 ratio. Treatment A was a
+single subcutaneous (SC) dose of ACP-001 0.24 mg hGH/kg. Treatment B was a single SC dose
+of ACP-011 0.24 mg hGH/kg.
+Group 2:
+Eighteen subjects (9 subjects in each dose cohort) were enrolled in Group 2. Subjects were
+assigned to a dose cohort based on the order in which they were enrolled. Subjects in Cohort 1
+received a single SC dose of ACP-011 0.30 mg hGH/kg (Treatment C) and subjects in Cohort 2
+received a single SC dose of ACP-011 0.42 mg hGH/kg (Treatment D). There was only 1
+treatment period for subjects in Group 2; subjects in Cohort 1 were enrolled and dosed before
+subjects in Cohort 2.
+Major study results:
+ PK of hGH was comparable between ACP-011 and ACP-001.
+ PK proportionality of hGH, lonapegsomatropin and mPEG was greater than dose
+following single doses. Numbers of subject were small (N=9) for 0.3 and 0.42 mg
+hGH/kg compared to that of 0.24 mg hGH/kg (N=27). Therefore, variability in PK was
+heterogenous among doses.
+
+29
+
+Reference ID: 4756870
+
+Table 10
+
+Summary of PK (top) and PD (middle) parameters, and statistical
+assessment of comparability (bottom)
+
+hGH (geometric mean and % CV) (source; Table 11-2)
+
+IGF-1 (Baseline-Adjusted) (geometric mean and % CV) (source; Table 11-3)
+
+Statistical Assessment of PK and PD parameters Between ACP-011 (Treatment B) and ACP-001 (Treatment A)
+(Source; Table 11-4)
+
+Treatment A: A single SC dose of ACP-001 0.24 mg hGH/kg.
+Treatment B: A single SC dose of ACP-011 0.24 mg hGH/kg.
+
+30
+
+Reference ID: 4756870
+
+Table 11
+
+(b)
+
+Summary of pegylated prodrug PK (TransCon PEG (4)hGH and TransCon
+PEG40 hGH) [GM (%CV)] (Study CT-101, Group 1)
+(Source; Table 11-6)
+(b)
+(4)
+
+Table 12
+
+Summary of PK-dose proportionality (Study CT-101, Group 2)
+
+hGH [GM (%CV)] (source; Table 11-9, CSR)
+
+Lonapegsomatropin [GM (%CV)] (Source; Table 11-10)
+
+31
+
+Reference ID: 4756870
+
+mPEG [GM (%CV)] (Source; Table 11-11)
+
+Statistical Assessment of Dose Proportionality for Pharmacokinetic Parameters of ACP-011
+(Treatments B, C, and D) (Pharmacokinetic Analysis Set) (Source; Table 11-12)
+
+32
+
+Reference ID: 4756870
+
+(b)
+
+4.2.3. Study CT-004 – dose ranging with ACP-001 (pegylated with (4) kDa) vs Genotropin® in
+pediatric patients
+Title: A multicenter, Phase 2, randomized, open label, active-controlled, parallel-group study
+investigating the safety, tolerability, and efficacy of different dose levels of ACP-001 administered
+once weekly versus standard daily rhGH replacement therapy in pre-pubertal children with Growth
+Hormone Deficiency (GHD)
+Objectives:
+Primary objective:
+ To compare the safety and pharmacokinetic and pharmacodynamic (PK/PD) profile of three
+different ACP-001 doses to that of a commercially available standard daily recombinant
+human growth hormone (rhGH) formulation (Genotropin®) in pre-pubertal children with
+growth failure due to GHD
+Secondary objectives:
+ To evaluate the 6-month growth pattern (height velocity)
+ To select a safe and efficacious dose for pivotal development
+Study design:
+This was a Phase 2, randomized, open label, active-controlled trial of 3 different dose levels of
+ACP-001 administered weekly, compared with a currently available growth hormone (GH)
+replacement therapy (Genotropin) administered daily over a period of 26 weeks (6 calendar
+months).
+A total of 34 AGHD patients were exposed in the trial (25 male and 9 female patients). A total of
+33 patients were White and 1 patient was reported as ‘other’ (White/African). The age range was
+21−69 years. The medical history and concomitant illnesses were consistent with a diagnosis of
+AGHD. The patients were all to be in stable GH replacement therapy for at least 3 months at
+inclusion and a GH wash-out period of 14 days was required prior to randomization.
+Treatments were as follows;
+ Cohort 1: ACP-001 once weekly at a dose equivalent to 0.14 mg rhGH/kg/week
+ Cohort 2: ACP-001 once weekly at a dose equivalent to 0.21 mg rhGH/kg/week
+ Cohort 3: ACP-001 once weekly at a dose equivalent to 0.30 mg rhGH/kg/week
+ Cohort 4: Genotropin once daily at a dose of 0.03 mg rhGH/kg/day (equivalent to 0.21 mg
+rhGH/kg/week)
+PK/PD samplings were as follows;
+ Cohorts 1-3: predose, 2*, 4*, 6, 8, 12, 24, 48, 72, 96, 120, and 168 hours post-dose (*: PK
+only)
+ Cohort 4: predose, 1*, 2*, 4*, 6, 8, 12, 24, and 168** hours post-dose (*: PK only, **: PD
+only)
+Study endpoints:
+ PK endpoints: AUC0-168h, AUC0-24h (Genotropin®), Cmax, Tmax, t1/2 and others
+33
+
+Reference ID: 4756870
+
+
+
+
+
+PD endpoints: AUEC0-168h, Cmax, Tmax for both IGF-1 and IGFBP-3, change from baseline at
+168 hours for IGF-1 and IGFBP-3, IGF-1 SDS, and IGFBP-3 SDS at 168 hour and Cmax SDS
+at 168 hours
+Annualized HV [cm/year] at Visit 3 =
+Delta HT * 365 / (Visit 3 visit date – Visit 1 visit date) [days]), where Delta HT is (Mean
+body HT at Visit 3 [cm]) - (Mean body HT at Visit 1 [cm])
+ Annualized HV [cm/year] at Visit 5 =
+Delta HT * 365 / (Visit 5 visit date – Visit 1 visit date) [days]), where Delta HT is (Mean
+body HT at Visit 5 [cm]) - (Mean body HT at Visit 1 [cm])
+ The HV SDS ranges were determined according to Prader et al., 1989 Helv Paediatr Acta
+Suppl. 52:1-125.
+
+AHV
+
+IGF1 AUC (ng/mL*h)
+
+Major study results:
+ The study was considered as exploratory since drug was predecessor version (ACP-001).
+ There was no significant accumulation of hGH or ACP-001, while a significant
+accumulation of mPEG in Week 13 compared to those in Week 1.
+ There was trend towards a dose related AHV increase though it was not statistically
+significant due to small numbers of subject per dose.
+ There were no apparent relationships between 1) PK (e.g., AUC of hGH) and PD (e.g.,
+AUC of IGF-1) or 2) PD (e.g., AUC of IGF-1) and AHV. It should be cautious at
+comparison in those relationship between ACP-001 and Genotropin as PK and PD
+parameters were within corresponding dosing intervals, weekly vs. daily.
+
+Figure 17 Relationship between PK (hGH AUC) and PD (IGF-1 AUC) (Study CT-004)
+[note; there was dosing interval difference between Genotropin (Cohort 4, daily) and
+ACP-001 (other cohorts, weekly)]
+
+34
+
+Reference ID: 4756870
+
+4.2.3. Study CT-301 – Phase 3
+Title: A Multicenter, Phase 3, Randomized, Open-Label, Active-Controlled, Parallel-Group Trial
+Investigating the Safety, Tolerability and Efficacy of Lonapegsomatropin Administered Once a
+Week Versus Standard Daily hGH Replacement Therapy Over 52 Weeks in Prepubertal Children
+with Growth Hormone Deficiency
+Objectives:
+Primary objective:
+ To evaluate and compare the AHV of prepubertal children with GHD treated with weekly
+lonapegsomatropin to that of a commercially available daily hGH formulation at 52 weeks.
+Secondary objectives:
+ To evaluate the safety of weekly lonapegsomatropin compared to daily hGH over 52 weeks
+ To evaluate and compare the AHV of weekly lonapegsomatropin to daily hGH over 52
+weeks
+ To evaluate and compare the change in HT SDS of weekly lonapegsomatropin to daily hGH
+over 52 weeks
+ To evaluate serum IGF-1, IGFBP-3, IGF-1 SDS and IGFBP-3 SDS; and the normalization of
+IGF-1 SDS of weekly lonapegsomatropin or daily hGH over 52 weeks
+ To describe the PK/PD profile of lonapegsomatropin, hGH, IGF-1, IGF-1 SDS, IGFBP-3,
+IGFBP-3 SDS and mPEG administered as a weekly injection (PK/PD subset;
+lonapegsomatropin group only)
+ To compare the Cmax for hGH of lonapegsomatropin to the anticipated Cmax of daily hGH
+ To determine the incidence of anti-hGH antibodies for both treatments, and treatmentemergent anti-mPEG antibodies for lonapegsomatropin over 52 weeks
+Study design:
+Treatments were as follows;
+ Lonapegsomatropin 0.24 mg hGH/kg/week (administered once-weekly), or
+ Genotropin 0.034 mg hGH/kg/day, a dose equivalent to 0.24 mg hGH/kg/week (administered
+daily)
+PK/PD samplings were as follows;
+ Blood samples were processed to serum for quantification of hGH, lonapegsomatropin (ie,
+TransCon mPEG40 hGH) and mPEG (40 kDa [mPEG40]), at screening and Visits 1 through
+6.
+ Blood samples for PK assessment in the lonapegsomatropin group PK/PD population (n=11)
+were collected at Visit 3 (Week 13) at following time points: Pre-dose (defined as time zero),
+8, 12, 16, 24, 36, 48, 72, 96, 120, and 168 h post-dose.
+Major study results related to clinical pharmacology information:
+ The primary endpoint, AHV at Week 52, was compared between lonapegsomatropin and
+daily Genotropin by a non-inferiority comparison with a non-inferiority margin of 2.0
+cm/year, followed by a test of superiority if non-inferiority was established (see details in
+review Section 3.3.2).
+ It was reported that the site 748 had potential dosing error (e.g., administering the
+reconstituted product up to one week after reconstitution). To investigate the issue, subject
+35
+
+Reference ID: 4756870
+
+
+
+
+level concentrations of hGH, lonapegsomatropin and mPEG were identified from the site
+(N=3) and compared those with population level. There were no apparent trends in
+concentrations from the site compared to the population levels (Figure 18).
+There were no starting dose adjustment or dose adjustment during the treatment period using
+covariates.
+There was no significant covariate identified warranting a dose adjustment in addition to the
+proposed dosing based on body weight.
+
+(b) (6)
+
+(b) (6)
+
+(b) (6)
+
+(b) (6)
+
+(b) (6)
+
+Figure 18 Observed concentrations of lonapegsomatropin (upper), hGH (middle) and
+mPEG (lower) and corresponding concentrations from the site (Site ID=748,
+right column) with potential dosing deviation (Study CT-301)
+(note: observed concentrations were pooled from extensive PK sampling, which included Cmax, and
+Ctrough)
+
+36
+
+Reference ID: 4756870
+
+Table 13 PK Analysis at Week 13 (Visit 3) PK Parameters (PK/PD Subset)
+(Source; Table 37, CSR)
+
+37
+
+Reference ID: 4756870
+
+
+
+Observations with unusual dose changes
+
+Dose (mg hGH/kg)
+
+Dose adjustment (i.e., 20% reduction) for both lonapegsomatropin and Genotropin was allowed
+mainly if IGF-1 SDS was elevated > +2.0 with clinical concerns. In general, dose adjustment rarely
+occurred during the treatment for Study CT-301 (Figure 7). There were two subjects with starting
+dose higher than an average; 0.746 and 0.427 mg hGH/kg/week for initial 2 weeks to Subject ID
+(b) (6)
+(b) (6)
+TransCon_hGH_
+and TransCon_hGH_
+, respectively
+(Figure 19). It was not clear for the reason of unusual high starting dose in two subjects. In addition,
+three subjects had sporadic and erratic doses higher than starting dose (e.g., 0.427 or 0.494 mg
+hGH/kg/week) (Figure 19).
+
+(b) (6)
+
+(b) (6)
+
+Figure 19
+
+Subjects (n=5) with unusual high dose (right) during the treatment period
+(Study CT-301)
+(Source: Reviewer’s analysis)
+
+Table 14
+
+Dual Chamber cartridge dose strengths and body weight bracket to use
+(Source; Table 2, Module 2.5)
+
+Subject Weight (kg)
+
+Cartridge(s) mg hGH
+
+11.5 - 13.9
+
+3.0
+
+14.0 – 16.4
+
+3.6
+
+16.5 – 19.9
+
+4.3
+
+20.0 – 23.9
+
+5.2
+
+24.0 – 28.9
+
+6.3
+
+29.0 – 34.9
+
+7.6
+
+35.0 – 41.9
+
+9.1
+
+42.0 – 50.9
+
+11.0
+
+51.0 – 60.4
+
+13.3
+
+60.5 – 69.9
+
+Two cartridges of 7.6 each
+
+70.0 – 84.9
+
+Two cartridges of 9.1 each
+
+85.0 – 100.0
+
+Two cartridges of 11.0 each
+
+38
+
+Reference ID: 4756870
+
+4.3. Pharmacometrics Review
+4.3.1 Synopsis: Prediction of mPEG concentration in choroid plexus of children
+The aim of study was 1) to characterize population PK of mPEG in healthy adult volunteers and
+PGHD, 2) to predict the choroid plexus concentration of mPEG in children after 0.24 mg hGH/kg,
+and 3) to compare them to those of predicted the prediction in cynomolgus monkeys, where dose
+related vacuole formation was investigated.
+PK of mPEG was best characterized using a two-compartment model (Figure 20) for data from
+studies in rat, monkey, healthy volunteers and PGHD (Table 15). Clinically relevant covariates
+(sex, age, body weight and dose) were investigated. The models were evaluated by standard
+goodness of fit diagnostics.
+Table 15
+
+Summary of studies used for the serum mPEG PK analysis
+(Source; Table 3, MODHGH001)
+
+Estimated PK parameters are summarized in Table 16. Clearance and volume were scaled well with
+body weight in humans; coefficients were 0.84 (CL) and 0.86 (V) for clearance and volume,
+respectively. Corresponding inter-species scaling parameters were characterized as 0.83 and 0.69.
+Biodistribution coefficient into choroid plexus was available from rat model of nonacog beta pegol
+(N9-GP), which is another approved PEGylated biologics and has the same molecular weight as
+the PEG-moiety contained in lonapegsomatropin. The coefficient was scaled to human based on
+the allometric scaling coefficients and the overall scaling approach was informed using available
+data from N9-GP.
+
+39
+
+Reference ID: 4756870
+
+Figure 20
+
+Table 16
+
+Schematic summary of mPEG compartment model
+
+Summary of estimated PK parameters (MODHGH001)
+
+(source; Table 2, MODHGH001)
+
+Parameterization of human mPEG serum-choroid plexus model in adults (BW = 70 kg) and children with GHD (BW
+= 22 kg). (Source; Table 13, MODHGH001)
+
+Predicted mPEG concentrations in choroid plexus of pediatric subjects following 0.24 mg
+hGH/kg/week were comparable to those of monkey following a dose of 0.4 mg hGH/kg/week,
+which did not result in vacuolation and was significantly below following a dose of 1.6 mg
+hGH/kg/week, associated with vacuolation (Figure 4). The predicted serum concentration threshold
+of mPEG for vacuolation was 100 mcg/mL, and the predicted threshold reasonably explained the
+relationship between observed vacuolation in choroid plexus epithelial cell and serum
+concentrations (Figure 21) for lonapegsomatropin and other biologics containing similar mPEG in
+literature.
+40
+
+Reference ID: 4756870
+
+Figure 21 Relationship between predicted steady state concentrations among pegylated
+compounds and observed vacuolation in choroid plexus epithelial cells nonclinical models
+(Yes-observed vacuolation, No-no vacuolation, Source; Figure 3, MODHGH001)
+Reviewer’s comment: The modeling and simulation were acceptable for supportive information.
+However, it should be used with caution for interpreting clinical relevance of results as the results
+of modeling and simulation is largely based on theoretical considerations and cross-study
+comparisons (e.g., using mPEG safety experience in other adult and pediatric indications). There
+was no safety signal related to the vacuolation in the clinically relevant doses groups in
+lonapegsomatropin non-clinical studies. Further, there was no specific clinical safety signal in the
+Phase 3 program (See the clinical review by Dr. Shivangi Vachhani). No CNS or immune system
+associated safety signs were detected in the Phase 3 program. Therefore, clinical concerns at the
+mPEG accumulation in choroid plexus and its adverse events appears to be minimal at the proposed
+dosing.
+
+41
+
+Reference ID: 4756870
+
+4.3.2 Synopsis: Population PK and PK/PD modeling of hGH
+The aim of study was 1) to characterize population PK of lonapegsomatropin, 2) to characterize the
+population PK/PD between hGH and IGF-1, and 3) to evaluate covariates of PK or PK/PD for data
+obtained from Study CT-101 and CT-301 (Table 17).
+Table 17 Overview of trials and covariates included in the population PK and PK/PD
+evaluation
+(Source; Table 9, MODHGH002)
+
+Models describing data (Figure 22) were as follows;
+
+
+
+
+Lonapegsomatropin; a one-compartment model with parallel first- and zero-order absorption.
+Serum clearance was described with a nonlinear elimination process.
+hGH: a one-compartmental model with first-order absorption and linear clearance.
+PK/PD: effect of hGH on IGF-1 with an Emax model with hGH stimulating the IGF-1
+production.
+
+Lonapegsomatropin (Source; Figure 3)
+Figure 22
+
+PK/PD (Source; Figure 4)
+
+Schematic summary of modeling
+
+42
+
+Reference ID: 4756870
+
+Clinically relevant covariates (sex, age, body weight, renal function) were investigated. The models
+were evaluated by the typical measures of goodness-of-fit and model diagnostics.
+Table 18
+
+Summary of estimated parameters
+
+Lonapegsomatropin (Source; Table 2, MODHGH002)
+
+hGH (Source; Table 3, MODHGH002)
+
+Table 19
+
+Covariate effects in the final PK model
+
+Lonapegsomatropin (Source; Table 14, MODHGH002)
+
+hGH (Source; Table 19, MODHGH002)
+
+PK/PD (Source; Table 20, MODHGH002)
+
+Results
+
+
+
+PK and PK/PD models described reasonably well for observed data, and characterized the
+effects of covariates (Figure 23)
+Simulation provided reasonable supporting information for a missed dose scenario (Figure
+24).
+43
+
+Reference ID: 4756870
+
+Figure 23 Effect of sex and body weight on week-13 lonapegsomatropin (upper), rGH
+(middle) and IGF-1 (lower) concentrations following 0.24 mg hGH/kg/week.
+Median, 5th and 95th percentiles from 500 simulated profiles.
+(Source: Figure 53, 87 and 91 for lonapegsomatropin, hGH and mPEG, respectively,
+MODHGH002)
+
+44
+
+Reference ID: 4756870
+
+Figure 24 Simulation for the effect of a missed dosing scenario on PD; Predicted IGF-1
+concentration profiles at steady state with missed dosing scenario; weekly (7-77-7) versus 7 days-5 days-9 days-7 days (7-5-9-7) for a dose of 0.24 mg hGH/kg.
+(Black lines: Predictions for typical individuals. Grey: Median (dashed) and 5th to
+95th percentile (area) from 500 simulated profiles. BW = 19 kg for all simulated
+individuals.)
+(Source; Figure 95)
+Reviewer’s Comment: The applicant’s population PK, and PK/PD models generally appear
+acceptable for characterizing covariate effects and PD (IGF-1). However, the absorption kinetics
+of hGH and mPEG was confounded by lonapegsomatropin absorption and release kinetics of hGH
+and mPEG from lonapegsomatropin. Therefore, it should be interpreted and applied with caution.
+
+45
+
+Reference ID: 4756870
+
+
+
+Final parameter estimates for PK and PK/PD models
+
+Figure 25 Standard goodness of fit diagnostics; DV vs PRED or iPRED for hGH (upper,
+left) and IGF-1 (top, right), PWRES or IWRES vs TIME for hGH (lower, left)
+and IGF-1 (lower, right).
+Green lines: empirical 10th, 50th and 90th percentiles. Dashed lines: predicted percentiles.
+DV; observation, PRED; population predicted, iPRED; individual predicted, PWRES; population
+weight residual, IWRES; individual weight
+(Source; Figure 60, 62, 64, and 65 MODHGH002)
+
+46
+
+Reference ID: 4756870
+
+Table 20
+Parameter estimates from the full and final model
+lonapegsomatropin (Source; Table 13, MODHGH002)
+
+PK (hGH)/PD (IGF-1) (Source; Table 18, MODHGH002)
+
+47
+
+Reference ID: 4756870
+
+4.3. Formulation composition of
+Table 21
+
+(b) (4)
+
+solution
+
+Composition of drug products in vials and dual chamber cartridge
+
+(b) (4)
+
+(b) (4)
+(b) (4)
+
+(b) (4)
+
+Source: Table 1, Module 2.7.1, CTD
+
+48
+
+Reference ID: 4756870
+
+Signature Page 1 of 1
+
+-------------------------------------------------------------------------------------------This is a representation of an electronic record that was signed
+electronically. Following this are manifestations of any and all
+electronic signatures for this electronic record.
+-------------------------------------------------------------------------------------------/s/
+-----------------------------------------------------------SANG M CHUNG
+03/04/2021 10:04:58 AM
+JUSTIN C EARP
+03/04/2021 10:34:34 AM
+JAYABHARATHI VAIDYANATHAN
+03/04/2021 10:57:55 AM
+DOANH C TRAN
+03/04/2021 12:25:55 PM
+
+Reference ID: 4756870
+
+

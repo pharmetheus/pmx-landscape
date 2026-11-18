@@ -1,0 +1,69 @@
+NDA/BLA Multi-di:
+elranatamab
+
+inary Review and Evaluation {BLA 761345}
+
+Figure 54: Applicant — Overview of Virtual Population Generation Workflow
+
+Plausible Patients
+
+Virtual Patients
+
+Create Candidate Plausible Patient Simulations (N=5,000)
+
+Evaluate Treatment Regimens on Plausible Patients
+
+‘Simulated C1071001 cohorts SC 80
+ug/kg to 1000 QW regimens
+
+‘Simulated C1071003 12/32/76 mg
+‘QW regimen
+
+Sample initial states from baseline
+data: sBCMA, M-spike, FLC
+
+‘Sample uniform distributions for a
+subset of 9 parameters: BCMA &
+D3 receptor densities, T cell
+resistance, tumor growth rates
+
+\7Z
+
+Select Virtual Patient Cohorts (N=100) that match M-spike,
+FLC and BRR data stratified by dose and BL sBCMA
+
+‘Objective function components: %
+change of M-protein/FLC, BOR, BRR
+for all doses stratified by sBCMA
+
+Virtual patient cohorts optimized using
+Genetic Algorithm
+
+Plausible Patients Selection (N = 3,256)
+
+\Z
+
+Only retain parametrizations that yield model outputs in
+physiologically plausible ranges
+
+Evaluate Final Virtual Population performance against
+additional data
+
+Model outputs compared with sBCMA time course data not used for
+calibration
+
+VPop workflow starts with a generation of plausible patients (PP), and through calibration steps with participant
+data, selection of virtual populations (VPop) cohorts (simulation of only one VPop from PP set shown here). Initial
+states from plausible patients are sampled from empirical distributions built from pooled participant data. Plausible
+patient distributions of model parameters are sampled from a uniform distribution, then model parametrizations
+are filtered according to doubling times of plasma cells and serum M-protein to obtain the PP. These
+parametrizations are further refined by matching to clinical data (Studies C1071001 and C1071003) to obtain each
+VPop (N=100). BL sBCMA = baseline sBCMA.
+
+Version date: January 2020 (ALL NDA/ BLA reviews)
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5226136
+
+266

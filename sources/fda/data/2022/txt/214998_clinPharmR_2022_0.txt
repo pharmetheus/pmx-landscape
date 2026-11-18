@@ -1,0 +1,5164 @@
+CENTER FOR DRUG EVALUATION AND
+RESEARCH
+APPLICATION NUMBER:
+
+214998Orig1s000
+CLINICAL PHARMACOLOGY
+REVIEW(S)
+
+Office of Clinical Pharmacology
+Integrated Clinical Pharmacology Review
+[Amendment]
+
+Reference ID: 4942684
+
+NDA Number
+
+214998
+
+Link to EDR
+
+\\CDSESUB1\evsprod\NDA214998\0001\
+
+Submission Date
+
+28-Jan-2021
+
+Submission Type
+
+505(b)(1) Application
+(Review Amendment)
+
+Brand Name
+
+Camzyos®
+
+Generic Name
+
+Mavacamten
+
+Dosage Form (Strength)
+
+Immediate-release Capsule (2.5, 5, 10, and 15 mg)
+
+Proposed Indication
+
+Treatment of symptomatic obstructive hypertrophic
+cardiomyopathy in adults to improve functional capacity,
+(b) (4)
+and symptoms.
+
+Applicant
+
+MyoKardia Inc.
+
+Associated IND
+
+IND-121904
+
+OCP Review Team
+
+Girish Bende, Ph.D.,
+Nan Zheng, Ph.D.,
+Ying-Hong Wang, Ph.D.,
+Katarzyna Drozda, Pharm.D., M.S.,
+Christian Grimstein, Ph.D.,
+Xinyuan Zhang, Ph.D.,
+Liang Li, Ph.D., and
+Doanh Tran, Ph.D.
+
+OCP Final Signatory
+
+Doanh Tran, Ph.D.
+
+Clinical Pharmacology Review
+NDA-214998 (Mavacamten)
+
+Page 2
+
+Table of Contents
+
+1
+
+2
+
+3
+
+Reference ID: 4942684
+
+Table of Contents.................................................................................................................2
+List of Abbreviations ...........................................................................................................3
+Executive Summary.............................................................................................................4
+1.1
+Recommendations....................................................................................................5
+1.2
+Post-marketing Commitments and Requirements....................................................8
+Summary of Clinical Pharmacology Assessment................................................................9
+2.1
+Dosing and Therapeutic Individualization...............................................................9
+2.1.1
+General Dosing........................................................................................9
+2.1.2
+Therapeutic Individualization..................................................................9
+2.1.3
+Outstanding Issues...................................................................................9
+2.1.4
+Summary of Labeling Recommendations ...............................................9
+Comprehensive Clinical Pharmacology Review ...............................................................11
+3.1
+Clinical Pharmacology Questions..........................................................................11
+3.1.1
+Is there a dosing posology and monitoring plan that could provide
+acceptable safety and efficacy profile without the need for CYP2C19
+genotyping? ...........................................................................................11
+3.1.2
+Is dose adjustment needed for management of drug interactions with
+revised dosing posology and monitoring plan? .....................................14
+
+Clinical Pharmacology Review
+NDA-214998 (Mavacamten)
+
+List of Abbreviations
+AUC
+
+Area under the concentration-time curve
+
+Cmax
+
+Maximum (peak) drug concentration
+
+ECHO
+
+Echocardiography
+
+EM
+
+Extensive metabolizers
+
+ESRD
+
+End-stage renal disease
+
+fm
+
+Fraction metabolized
+
+HCM
+
+Hypertrophic cardiomyopathy
+
+IM
+
+Intermediate metabolizers
+
+LVEF
+
+Left ventricular ejection fraction (as %)
+
+LVOT
+
+Left ventricular outflow tract gradient (as mm Hg)
+
+NM
+
+Normal metabolizers
+
+NYHA
+
+New York Heart Association functional classification
+
+PD
+
+Pharmacodynamics
+
+PK
+
+Pharmacokinetics
+
+PM
+
+Poor metabolizers
+
+RM
+
+Rapid metabolizers
+
+UM
+
+Ultra-rapid metabolizers
+
+Reference ID: 4942684
+
+Page 3
+
+Clinical Pharmacology Review
+NDA-214998 (Mavacamten)
+
+1
+
+Page 4
+
+Executive Summary
+
+In this original New Drug Application (NDA), Myokardia Inc. is seeking approval of mavacamten
+capsule for the treatment of symptomatic obstructive hypertrophic cardiomyopathy (oHCM) in
+(b) (4)
+adult patients to improve functional capacity,
+and
+symptoms. This review is an amendment to our previous Integrated Clinical Pharmacology Review
+in DARRTS (Dt: 10/18/2021; Reference ID: 4872643) and describes discussions following the
+last review and additional analyses which were performed to determine a dosing posology and
+monitoring plan that could offer acceptable safety and efficacy profile without CYP2C19
+genotyping.
+Mavacamten (MYK-461) is a first-in-class, new molecular entity (NME) and it is not marketed in
+the US for any indication. It is a reversible cardiac myosin inhibitor which exhibits negative
+inotropic and positive lusitropic effects and is developed for oral administration. Since
+mavacamten is a cardiac myosin inhibitor, its treatment is also associated with reduction in
+baseline systolic function resulting reduced cardiac contractility. Mavacamten exhibits a high
+pharmacokinetic variability and positive exposure-response relationships between average weekly
+exposure and decreases in both left ventricular outflow tract gradient (LVOT) gradient and left
+ventricular ejection fraction (LVEF). In addition, the Applicant proposed a dose titration algorithm
+based on ECHO (LVEF and LVOT) monitoring and eliminating pharmacokinetic monitoring
+which was implemented in the pivotal study. Significantly increased exposures of mavacamten
+were observed in the subjects who are poor metabolizers (PM) of CYP2C19 compared to normal
+metabolizers (NM) of CYP2C19. Patients who are PM of CYP2C19 have higher exposures of
+mavacamten compared to normal, rapid (RM), and ultrarapid (UM) metabolizers. Previously, the
+OCP recommended genotyping patients for CYP2C19 status before initiation of mavacamten
+treatment (Discipline Review Letter, 09/30/2021) highlighting that prospective CYP2C19
+genotyping, and availability of a companion diagnostic is required for optimizing therapeutic use
+of mavacamten and minimizing safety risks for patients who are PM of CYP2C19. There were
+also concerns regarding the challenges in therapeutic management of mavacamten including an
+inherent risk from inadvertent drug interactions (e.g., over the counter use of CYP2C19 inhibitors)
+that are difficult to control in clinical use. However, there are no FDA approved CYP2C19
+genotype diagnostics on the market for the purpose of ensuring the safe use of mavacamten. It was
+necessary that the Applicant develops a companion diagnostic for mavacamten prior to approval
+if prospective genotyping is required for safe use of the product. Considering that the regulatory
+requirements for a companion diagnostic would lead to a delay in availability of this treatment
+option for patients, alternate strategies such as increasing monitoring schedule and/or a slower uptitration to ensure safe dosing in all patients were explored.
+In absence of approved diagnostic test for prospective genotyping of CYP2C19 status, the primary
+focus of this review amendment is to evaluate and identify 1.) if there are dose titration scheme
+and monitoring plan in absence of available genotyping data for CYP2C19 status that would be
+safe and effective and 2.) the need for dose adjustments for drug interactions management.
+
+Reference ID: 4942684
+
+Clinical Pharmacology Review
+NDA-214998 (Mavacamten)
+
+1.1
+
+Page 5
+
+Recommendations
+
+The Office of Clinical Pharmacology reviewed the information submitted under NDA-214998 and
+previously recommended approval of mavacamten capsule (starting dose of 5 mg; with the
+maximum dose of 15 mg once daily; with prospective genotyping) for the treatment of oHCM in
+adults. Since that time, a new dosing algorithm and safety monitoring schedule has been developed
+to allow safe and effective treatment irrespective of their CYP2C19 genotypes. Key review issues
+with specific recommendations and comments are summarized below in Table 1-1.
+Table 1-1
+
+Summary of Review Issues and OCP Recommendations
+
+Review Issues
+
+Recommendations and Comments
+
+General dosing
+instructions:
+
+The recommended dosing regimen includes: 1) starting dose of 5 mg once daily; 2)
+dose titration based on ECHO (LVEF and LVOT gradient) monitoring; 3) and
+maximum daily dose of 15 mg.
+(b) (4)
+
+Monitoring on Treatment:
+ We recommend a starting dose of 5 mg once daily in all patients irrespective of
+their CYP2C19 genotype and mandatory clinical assessment (ECHO) visits at
+Week 4, Week 8, Week 12, and every 12 weeks thereafter.
+
+Reference ID: 4942684
+
+
+
+The proposed dosing algorithm allows down-titration at Week 4 and Week 8 if
+VLVOT gradient is less than 20 mmHg (indicating that higher than desirable
+efficacy has reached; potential exaggerated pharmacology).
+
+
+
+A stepwise dose increase may be considered every 12 weeks (on Week 12, 24,
+(b) (4)
+etc.) if symptoms of obstructive HCM persist, i.e., LVOT gradient is
+(b) (4)
+30 mmHg (indicating that desirable efficacy has not reached) and LVEF is
+(b) (4)
+55% (indicating that it’s safe to increase dose with available ejection
+fraction).
+
+
+
+In addition, the dosing algorithm includes additional mandatory clinical
+assessment visit at week 4 following dose increase (i.e., due to up-titration or
+restart treatment after temporary discontinuation) ensuring safety at new dose
+level.
+
+Clinical Pharmacology Review
+NDA-214998 (Mavacamten)
+
+Review Issues
+
+Dosing in patient
+subgroups
+(intrinsic and
+extrinsic factors)
+
+Page 6
+
+Recommendations and Comments
+
+
+Temporary discontinuation (for at least 4 weeks) of mavacamten therapy is
+recommended if LVEF drops below 50% at any clinical visit during the treatment
+duration. Patient may resume mavacamten at one lower dose level (i.e., 15 to 10
+mg; 10 to 5 mg; 5 to 2.5 mg; once daily) if LVEF returns to above 50% at an
+additional visit 4 weeks after the temporary discontinuation.
+
+
+
+If up-titrated or re-started (after temporary discontinuation), schedule a clinical
+assessment visit at week 4 following a dose increase or re-start to evaluate if
+same dose level could be maintained (LVEF > 50%) or discontinue for 4 weeks
+if LVEF < 50% and resume at previous dose level if LVEF returns to >50%.
+
+
+
+Permanent discontinuation is recommended if a patient experiences 2
+incidences of LVEF falling below 50% at the lowest dose (i.e., at 2.5 mg once
+daily) at any clinical visit during the treatment duration.
+
+Specific Populations:
+Hepatic Impairment
+
+
+Mavacamten undergoes extensive hepatic metabolism. Increased plasma
+concentrations of mavacamten were observed in subjects with mild to moderate
+hepatic impairment (Child-Pugh A and B). However, no additional dose
+adjustment is required in patients with mild to moderate hepatic impairment with
+the recommended dose titration algorithm and monitoring plan. Mavacamten has
+not been studied in patients with severe (Child-Pugh C) hepatic impairment.
+
+Extrinsic factors:
+Drug Interactions:
+Impact of Other Drugs on Mavacamten
+Mavacamten is extensively metabolized, primarily through CYP2C19 and to lesser
+extent by CYP3A4. This section describes dosing recommendations for mavacamten
+during concomitant administration with modulators of CYP2C19 and CYP3A4.
+CYP2C19 or CYP3A4 Inhibitors
+
+
+Concomitant administration of mavacamten with a moderate to strong CYP2C19
+or a strong CYP3A4 inhibitor increases mavacamten exposures. Increased
+exposures of mavacamten may increase the risk of heart failure due to systolic
+dysfunction. Concomitant use of mavacamten with a moderate to strong
+CYP2C19 inhibitor or a strong CYP3A4 inhibitor is contraindicated.
+
+
+
+Concomitant administration of mavacamten with a weak CYP2C19 inhibitor or a
+moderate CYP3A4 inhibitor increases mavacamten exposures. Increased
+exposures of mavacamten may increase the risk of adverse drug reaction.
+o
+
+Reference ID: 4942684
+
+Considering the dose titration algorithm and monitoring plan, no additional
+dose adjustment is recommended during initiation of mavacamten therapy.
+It is recommended to initiate mavacamten at the recommended dosage in
+patients who are on stable therapy with a weak CYP2C19 inhibitor or a
+moderate CYP3A4 inhibitor.
+
+Clinical Pharmacology Review
+NDA-214998 (Mavacamten)
+
+Review Issues
+
+Page 7
+
+Recommendations and Comments
+o
+
+
+
+However, dose adjustment is recommended in patients who are on stable
+mavacamten therapy during the concomitant use. It is recommended to
+reduce dose of mavacamten by one level (i.e., 15 to 10 mg; 10 to 5 mg; 5 to
+2.5 mg; once daily) in patients who are on stable therapy and intend to initiate
+a weak CYP2C19 inhibitor or a moderate CYP3A4 inhibitor. In addition, a
+clinical assessment visit should be scheduled 4 weeks after inhibitor
+initiation; however, no potential up-titration should be performed until 12
+weeks after inhibitor initiation.
+
+Concomitant administration of mavacamten with a moderate to strong CYP2C19
+or a moderate to strong CYP3A4 inducer decreases mavacamten exposures.
+Decreased exposure of mavacamten may reduce its efficacy. Concomitant use
+of mavacamten with a moderate to strong CYP2C19 inducer or a moderate to
+strong CYP3A4 inducer is contraindicated. Depending on medical need,
+mavacamten treatment may be initiated after discontinuing the use of moderate
+to strong CYP2C19 or moderate to strong CYP3A4 inducers.
+
+Impact of Mavacamten on Other Drugs
+
+Labeling
+
+
+
+Mavacamten is an inducer of CYP3A4, CYP2C9, and CYP2C19. Concomitant
+administration of mavacamten with CYP3A4, CYP2C19, or CYP2C9 substrates
+may reduce plasma concentration of these drugs. It is recommended to closely
+monitor when mavacamten is used in combination with CYP3A4, CYP2C19, or
+CYP2C9 substrates where decreases in the plasma concentration of these drugs
+may reduce their activity.
+
+
+
+Combined Oral Contraceptives: Progestin and ethinyl estradiol are CYP3A4
+substrates. Concomitant administration of mavacamten may decrease
+exposures of ethinyl estradiol and progestin. Decreased exposures of hormonal
+contraceptives may lead to contraceptive failure and/or an increase in
+breakthrough bleeding. It is suggested to avoiding concomitant administration of
+mavacamten with combined oral contraceptives. If concomitant use is
+unavoidable, it is recommended to use an alternative contraceptive method that
+is not affected by enzyme inducers (e.g., intrauterine system) or additional
+nonhormonal contraception (such as condoms) during concomitant use and for
+4 months after discontinuation of mavacamten.
+
+The product label requires changes to reflect the recommended dose/regimen
+optimizations based on intrinsic and extrinsic factors described above.
+
+Based on these recommendations, the Division of Risk Management (DRM) included a REMS
+requiring periodic ECHO assessment of LVEF during the mavacamten therapy for early detection
+of mavacamten-induced depression of ventricular dysfunction and prevention of further
+deterioration through drug discontinuation or dose adjustment. In addition, the REMS included a
+pharmacy checklist of patients’ prescription and mechanisms to decrease the probability of drug
+interactions including over the counter medications, etc.
+
+Reference ID: 4942684
+
+Clinical Pharmacology Review
+NDA-214998 (Mavacamten)
+
+1.2
+None.
+
+Reference ID: 4942684
+
+Post-marketing Commitments and Requirements
+
+Page 8
+
+Clinical Pharmacology Review
+NDA-214998 (Mavacamten)
+
+2
+
+Summary of Clinical Pharmacology Assessment
+
+2.1
+
+Dosing and Therapeutic Individualization
+
+2.1.1
+
+General Dosing
+
+Page 9
+
+For the acute treatment of oHCM, the recommended starting dose is 5 mg to be administered orally
+once daily and the maximum daily dose is 15 mg. Refer to Table 1-1 for recommended dose
+titration algorithm as well as monitoring plan using echocardiography.
+2.1.2
+
+Therapeutic Individualization
+
+Therapeutic individualization is necessary for the following extrinsic/intrinsic factors:
+Drug Interactions
+Refer to Table 1-1 for dosing recommendations for mavacamten during its concomitant
+administration with modulators of CYP2C19 and CYP3A4.
+Specific Populations
+Hepatic Impairment
+In a clinical study, higher exposures of mavacamten (AUC increased by ~3.2-fold and ~1.9-fold)
+were observed in subject with mild (Child-Pugh A) and moderate (Child-Pugh B) hepatic
+impairment, respectively, compared to matched controls. However, no additional dose adjustment
+is required in patients with mild to moderate hepatic impairment with the recommended dose
+titration algorithm and monitoring plan.
+Other Specific Populations:
+No clinically significant differences in the pharmacokinetics of mavacamten were observed based
+on age (range: 18-82 years), sex, race, ethnicity or mild (eGFR: 60 to 89 mL/min/1.73 m2) to
+moderate (eGFR: 30 to 59 mL/min/1.73 m2) renal impairment. The effect of severe (eGFR: 15 to
+30 mL/min/1.73 m2) renal impairment and ESRD (eGFR: < 15 mL/min/1.73 m2; including patients
+on dialysis) are unknown.
+2.1.3
+
+Outstanding Issues
+
+None.
+2.1.4
+
+Summary of Labeling Recommendations
+
+The Office of Clinical Pharmacology has the following labeling concepts to be included in the
+final package insert.
+
+
+The recommended starting dose is 5 mg once daily with the maximum daily dose of 15 mg.
+The recommended dose titration algorithm and ECHO monitoring plan is described in Table
+1-1.
+
+Reference ID: 4942684
+
+Clinical Pharmacology Review
+NDA-214998 (Mavacamten)
+
+Page 10
+
+
+
+Mavacamten is extensively metabolized and <3% (~2.6% of total radioactivity) is excreted
+unchanged in the urine. Dose adjustment is not required for mild and moderate renal
+impairment with the recommended dose titration algorithm and monitoring plan. Mavacamten
+has not been studied in patients with severe renal impairment and ESRD (with or without
+dialysis).
+
+
+
+Increased plasma concentrations of mavacamten were observed in subjects with mild to
+moderate hepatic impairment. However, no additional dose adjustment is required in patients
+with mild to moderate hepatic impairment with the recommended dose titration algorithm and
+monitoring plan. Mavacamten has not been studied in patients with severe hepatic impairment.
+
+
+
+Mavacamten is extensively metabolized, primarily through CYP2C19 and to lesser extent by
+CYP3A4. Concomitant use of mavacamten with a moderate to strong CYP2C19 inhibitor or a
+strong CYP3A4 inhibitor is contraindicated. Similarly, concomitant use of mavacamten with
+a moderate to strong CYP2C19 inducer or a moderate to strong CYP3A4 inducer is
+contraindicated. Although concomitant administration of mavacamten with a weak CYP2C19
+inhibitor or a moderate CYP3A4 inhibitor also increases mavacamten exposures, given the
+magnitude of impact dose adjustment is recommended (in patients who are on stable
+mavacamten therapy during the treatment duration). Refer to Table 1-1 for impact of
+mavacamten on other drugs.
+
+Reference ID: 4942684
+
+Clinical Pharmacology Review
+NDA-214998 (Mavacamten)
+
+Page 12
+
+Therefore, the review team proposed an additional clinical visit at Week 8 during the initiation of
+treatment (Week 0 to Week 12) and a monitoring plan of every 12 weeks during the first two years
+of therapy. Mavacamten dose should be decreased to 2.5 mg QD if VLVOT is < 20 mmHg at
+Week 4 and may further be interrupted (0 mg) if VLVOT is still <20 mmHg at Week 8. In addition,
+to reduce the risk of cardiac events, the review team proposed permanent discontinuation of
+mavacamten treatment if LVEF<50% is observed for 2 times in patients who are on the lowest
+dose of 2.5 mg QD. A comparison of the review team’s proposed dosing regimen (USPI+) and the
+Applicant’s originally proposed dosing regimen (USPI) is shown in Table 3-1.
+Simulations were conducted in 200 virtual trials with each trial containing 500 patients equally
+distributed to 5 genotype groups to verify the review team’s proposed dosing regimen. Simulation
+analysis was based on the Applicant’s final popPK and E-R models. Refer to Section 4.1 of the
+previous review (Reference ID: 4872643) for more details regarding the Applicant’s models.
+Figure 3-1.
+
+Time Course of Average Daily Dose (Upper Left), Percent of Patients with
+VLVOT<30 mmHg (Upper Right), Percent of Patients with LVEF<50%
+(Lower Left), and Percent of Patients with LVEF<45% (Lower Right) with
+the Review Team’s Proposed Dosing Regimen.
+
+Source: Reviewer’s analysis.
+
+Reference ID: 4942684
+
+Clinical Pharmacology Review
+NDA-214998 (Mavacamten)
+
+3.1.2
+
+Page 14
+
+Is dose adjustment needed for management of drug interactions with
+revised dosing posology and monitoring plan?
+
+The main reason that led to the changes in CYP3A and CYP2C19 drug interaction management
+recommendation is the availability of CYP2C19 genotyping upon approval. The previous CYP3A
+and CYP2C19 DDI management recommendations in the previous review (Reference ID: 4872643)
+was based on CYP2C19 genotype or phenotype while the revised recommendation is regardless
+of CYP2C19 genotype or phenotype. The comparison of the recommendations is summarized in
+Table 3-2. Of note, at the time the previous review (Reference ID: 4872643) was finalized, there
+was no simulation for CYP2C19 IMs, or evaluation of the effects of a moderate CYP2C19
+inhibitor.
+Table 3-2
+
+Comparison of CYP3A and CYP2C19 Drug Interaction Management
+Recommendations
+Concomitant medications
+Previous recommendation*
+Current recommendation
+
+CYP2C19 inhibitors
+
+CYP3A inhibitors
+
+CYP2C19 and
+CYP3A inducers
+
+Strong
+
+Avoid in non-PMs
+
+Moderate
+
+Avoid in non-PMs
+
+Weak
+
+Dose adjustment in non-PMs
+
+Dose adjustment, refer to Figure
+3-3
+
+Strong
+
+Dose adjustment based on
+dose levels and CYP2C19
+phenotypes
+
+Avoid use regardless of CYP2C19
+phenotypes
+
+Strong
+
+Avoid
+
+Moderate
+
+Avoid or up titration based on
+dose levels
+
+Avoid use regardless of CYP2C19
+phenotypes
+
+Moderate
+
+Avoid use regardless of CYP2C19
+phenotypes
+
+Dose adjustment, refer to Figure
+3-3
+
+* Refer to Clinical Pharmacology Review (Reference ID: 4872643) for details. Non-PM includes IM, NM, RM and
+UM of CYP2C19.
+
+In response to the FDA Discipline Review Letter (DRL) dated 09/30/3021, the sponsor submitted
+a PBPK Report Addendum II (Inhibition Simulations 14102021_full sims) to address the Agency’s
+concern about lack of information to provide appropriate dosage recommendations for IM of
+CYP2C19 concomitantly administered with CYP2C19 and / or CYP3A inhibitors and for NM of
+CYP2C19 concomitantly administered with a moderate CYP2C19 inhibitor for CYP2C19
+genotype-based drug interaction management.
+
+Reference ID: 4942684
+
+Clinical Pharmacology Review
+NDA-214998 (Mavacamten)
+
+Page 15
+
+After reviewing the report, the FDA requested the sponsor to provided verification that the IM and
+UM population models could predict the PK or drug interaction of other sensitive CYP2C19
+substrates and PK of mavacamten in these populations (Clinical Pharmacology Information
+Request; Dt: 11/16/2021).
+In general, the Cmax and AUC of sensitive CYP2C19 substrates (e.g., omeprazole and lansoprazole)
+were underpredicted, especially for omeprazole, likely due to small sample size and different
+formulations (2021-11-16-fda-clin-pharm-q1-q2.pdf). Mavacamten pharmacokinetics, however,
+was reasonably predicted based on the limited data from phase I studies (Table 3-3).
+Table 3-3
+
+Comparison of Geometric Mean Exposure of Mavacamten in IMs and UMs
+Generated via PBPK and Observed in Phase 1 Studies.
+
+Source: Table 7 in 2021-11-16-fda-clin-pharm-q1-q2.pdf
+
+The predicted effects of CYP2C19 and CYP3A inhibitors on steady state mavacamten exposure
+in healthy subjects with various CYP2C19 phenotype are shown in Table 3-4. These results are,
+in general, consistent with the results from FDA’s analyses described in the previous review
+(Reference ID: 4872643). Based on these results, it was recommended that strong and moderate
+CYP2C19 inhibitors, strong CYP3A inhibitors, and strong and moderate CYP2C19 and CYP3A
+inducers should not be co-administered with mavacamten in all circumstances. A drug interaction
+management strategy for a moderate CYP3A inhibitor or a weak CYP2C19 inhibitor is depicted
+in Figure 3-3.
+
+Reference ID: 4942684
+
+Clinical Pharmacology Review
+NDA-214998 (Mavacamten)
+
+Table 3-4
+
+Page 16
+
+Predicted Effects of CYP2C19 and CYP3A Inhibitors on Mavacamten PK
+Following Concomitant Administration of Multiple Doses of Mavacamten
+in Healthy Subjects with Various CYP2C19 Phenotypes.
+
+Source: Table 9 in 2021-11-16-fda-clin-pharm-q1-q2.pdf
+
+Figure 3-3.
+
+Reference ID: 4942684
+
+Mavacamten Drug Interaction Management Strategy for Concomitant
+Administration with a Moderate CYP3A Inhibitor or a Weak CYP2C19
+Inhibitor.
+
+Signature Page 1 of 1
+
+-------------------------------------------------------------------------------------------This is a representation of an electronic record that was signed
+electronically. Following this are manifestations of any and all
+electronic signatures for this electronic record.
+-------------------------------------------------------------------------------------------/s/
+-----------------------------------------------------------GIRISH K BENDE
+02/24/2022 10:11:33 AM
+NAN ZHENG
+02/24/2022 10:27:19 AM
+YING-HONG WANG
+02/24/2022 12:14:55 PM
+KATARZYNA DROZDA
+02/24/2022 12:19:20 PM
+CHRISTIAN GRIMSTEIN
+02/24/2022 12:39:11 PM
+XINYUAN ZHANG
+02/24/2022 12:40:38 PM
+LIANG LI
+02/24/2022 12:43:37 PM
+DOANH C TRAN
+02/24/2022 01:33:31 PM
+
+Reference ID: 4942684
+
+Office of Clinical Pharmacology
+Integrated Clinical Pharmacology Review
+
+Reference ID: 4872643
+
+NDA Number
+
+214998
+
+Link to EDR
+
+\\CDSESUB1\evsprod\NDA214998\0001\
+
+Submission Date
+
+28-Jan-2021
+
+Submission Type
+
+505(b)(1) Application
+(Standard Review)
+
+Brand Name
+
+Camzyos®
+
+Generic Name
+
+Mavacamten
+
+Dosage Form (Strength)
+
+Immediate-release Capsule (2.5, 5, 10, and 15 mg)
+
+Proposed Indication
+
+Treatment of symptomatic obstructive hypertrophic
+cardiomyopathy in adults to improve functional
+(b) (4)
+capacity,
+and
+symptoms.
+
+Applicant
+
+MyoKardia Inc.
+
+Associated IND
+
+IND-121904
+
+OCP Review Team
+
+Girish Bende, Ph.D.,
+Nan Zheng, Ph.D.,
+Ying-Hong Wang, Ph.D.,
+Katarzyna Drozda, Pharm.D., M.S.
+Christian Grimstein, Ph.D.,
+Xinyuan Zhang, Ph.D.,
+Liang Li, Ph.D., and
+Manoj Khurana, Ph.D.
+
+OCP Final Signatory
+
+Doanh Tran, Ph.D.
+
+Clinical Pharmacology Review
+NDA-214998
+
+Page 2
+
+Table of Contents
+
+1
+
+2
+
+3
+
+4
+
+Reference ID: 4872643
+
+Table of Contents.................................................................................................................2
+List of Abbreviations ...........................................................................................................4
+Executive Summary.............................................................................................................5
+1.1
+Recommendations....................................................................................................6
+1.2
+Post-marketing Commitments and Requirements....................................................7
+Summary of Clinical Pharmacology Assessment................................................................8
+2.1
+Pharmacology and Clinical Pharmacokinetics.........................................................8
+2.2
+Dosing and Therapeutic Individualization.............................................................10
+2.2.1
+General dosing.......................................................................................10
+2.2.2
+Therapeutic individualization................................................................10
+2.2.3
+Outstanding Issues.................................................................................11
+2.2.4
+Summary of Labeling Recommendations .............................................12
+Comprehensive Clinical Pharmacology Review ...............................................................13
+3.1
+Overview of the Product and Regulatory Background ..........................................13
+3.2
+General Pharmacological and Pharmacokinetic Characteristics............................13
+3.3
+Clinical Pharmacology Questions..........................................................................16
+3.3.1
+To what extent does the available clinical pharmacology information
+provide pivotal or supportive evidence of effectiveness? .....................16
+3.3.2
+Is the proposed dosing regimen appropriate for the general population
+for which the indication is being sought?..............................................18
+3.3.3
+Is an alternative dosing regimen and management strategy required
+for subpopulations based on intrinsic factors? ......................................21
+3.3.4
+Are there clinically relevant food-drug or drug-drug interactions and
+what is the appropriate management strategy?......................................25
+3.3.5
+Is the to-be-marketed formulation the same as the clinical trial
+formulation, and if not, are there bioequivalence data to support
+approval of the to-be-marketed formulation?........................................33
+APPENDICES ...................................................................................................................35
+4.1
+Pharmacometrics Analysis.....................................................................................35
+4.1.1
+Sponsor’s Analysis ................................................................................35
+4.1.2
+Reviewer’s Analysis..............................................................................47
+4.2
+Pharmacogenomics Analysis .................................................................................51
+4.2.1
+Background............................................................................................51
+
+Clinical Pharmacology Review
+NDA-214998
+
+5
+
+Reference ID: 4872643
+
+Page 3
+
+4.2.2
+Contents.................................................................................................51
+4.2.3
+Labeling Recommendations ..................................................................57
+4.2.4
+Summary of Findings ............................................................................58
+4.3
+PBPK Analysis.......................................................................................................59
+4.3.1
+Executive Summary...............................................................................59
+4.3.2
+Background............................................................................................59
+4.3.3
+Methods .................................................................................................60
+4.3.4
+Results ...................................................................................................61
+4.3.5
+Conclusions ...........................................................................................70
+4.3.6
+References .............................................................................................72
+Additional Assessments.....................................................................................................73
+5.1
+Bioanalytical Method validation............................................................................73
+5.2
+Summary of Formulations Utilized in Clinical Studies .........................................75
+
+Clinical Pharmacology Review
+NDA-214998
+
+Page 4
+
+List of Abbreviations
+AE
+
+Adverse event
+
+AUC
+
+Area under the concentration-time curve
+
+AUClast
+
+AUC from time 0 to last measurable concentration
+
+BCRP
+
+Breast cancer resistance protein
+
+Cmax
+
+Maximum (peak) drug concentration
+
+CPET
+
+Cardiopulmonary exercise testing
+
+ECHO
+
+Echocardiography
+
+EM
+
+Extensive metabolizers
+
+ESRD
+
+End-stage renal disease
+
+fm
+
+Fraction metabolized
+
+HCM
+
+Hypertrophic cardiomyopathy
+
+IM
+
+Intermediate metabolizers
+
+LLOQ
+
+Lower limit of quantification
+
+LVEF
+
+Left ventricular ejection fraction (as %)
+
+LVOT
+
+Left ventricular outflow tract gradient (as mm Hg)
+
+NM
+
+Normal metabolizers
+
+NYHA
+
+New York Heart Association functional classification
+
+PD
+
+Pharmacodynamics
+
+P-gp
+
+P-glycoprotein
+
+PK
+
+Pharmacokinetics
+
+PM
+
+Poor metabolizers
+
+pVO2
+
+Peak oxygen uptake measured by CPET
+
+RM
+
+Rapid metabolizers
+
+SAE
+
+Serious adverse event
+
+SRT
+
+Septal reduction therapy
+
+Tmax
+
+Time of maximum (peak) drug concentration
+
+UM
+
+Ultra-rapid metabolizers
+
+Reference ID: 4872643
+
+Clinical Pharmacology Review
+NDA-214998
+
+1
+
+Page 5
+
+Executive Summary
+
+In this original New Drug Applications (NDA), Myokardia Inc. is seeking approval of mavacamten
+capsule for the treatment of symptomatic obstructive hypertrophic cardiomyopathy (oHCM) in
+(b) (4)
+adult patients to improve functional capacity,
+and
+symptoms.
+Mavacamten (MYK-461) is a first-in-class, new molecular entity (NME) and it is not marketed in
+the US for any indication. It is a reversible cardiac myosin inhibitor which exhibits negative
+inotropic and positive lusitropic effects and is developed for oral administration. Currently, there
+is no approved treatment for oHCM and the disease condition is managed by cardiovascular
+medications (including beta-blockers, verapamil, diltiazem, and disopyramide) to improve left
+ventricular outflow. In addition, septal reduction therapy is known to reduce obstruction and
+improve left ventricular outflow.
+The proposed starting dose of mavacamten is 5 mg once daily which can be adjusted based on
+electrocardiography (ECHO) monitoring to maintain the left ventricular ejection fraction above 50%
+and left ventricular obstruction gradient between 20- and 30- mm Hg using four different strengths
+(i.e., 2.5, 5, 10, and 15 mg) of available immediate-release capsule formulation. The proposed
+maximum daily dose is 15 mg.
+To demonstrate efficacy, the Applicant is relying on a randomized, double-blind, placebocontrolled, safety, and efficacy study in patients with oHCM (EXPLORER-HCM). The study
+included a dose titration algorithm based on mavacamten concentrations, ECHO monitoring (left
+ventricular ejection fraction, LVEF and left ventricular outflow tract gradient, LVOT) and the
+starting dose of 5 mg once daily. The study was designed to measure improvement in exercise
+capacity (measured by peak oxygen consumption; pVO2) and functional status (measured by New
+York Heart Association; NYHA functional classification) associated with mavacamten
+administration (over 30 weeks) compared to placebo.
+Higher proportion of patients treated with mavacamten achieved the composite primary endpoint.
+In addition, mavacamten treatment was also associated with reduction in obstruction gradient
+(LVOT) and increased exercise capacity (pVO2). Additionally, the Applicant used data from one
+Phase 2 open-label, proof-of-concept study (PIONEER-HCM), and two subsequent Phase 2 or 2/3
+ongoing, long-term treatment studies (MAVA-LTE and PIONEER-OLE) to support the use of
+mavacamten for treatment of oHCM. In addition to these safety efficacy studies, the Applicant
+included 12 phase 1 studies in this submission.
+Since mavacamten is a cardiac myosin inhibitor, its treatment is also associated with reduction in
+baseline systolic function resulting reduced cardiac contractility. Mavacamten exhibits a high
+pharmacokinetic variability and a steep exposure-response relationship for ejection fraction
+(LVEF). In addition, the Applicant proposed a dose titration algorithm based on ECHO (LVEF
+and LVOT) monitoring and eliminating PK monitoring which was implemented in the pivotal
+study. Thus, the primary focus of this review is to evaluate the suitability of proposed dose titration
+scheme, monitoring plan, and the need for dose adjustments based on intrinsic and extrinsic factors.
+
+Reference ID: 4872643
+
+Clinical Pharmacology Review
+NDA-214998
+
+1.1
+
+Page 6
+
+Recommendations
+
+The Office of Clinical Pharmacology has reviewed the information submitted under NDA-214998
+and we recommend approval of mavacamten capsule (starting dose of 5 mg; with the maximum
+dose of 15 mg once daily) for the treatment of oHCM in adults. Key review issues with specific
+recommendations and comments are summarized below in Table 1-1.
+Table 1-1
+
+Summary of Review Issues and OCP Recommendations
+
+Review Issues
+
+Recommendations and Comments
+
+Evidence of
+effectiveness:
+
+The evidence of effectiveness of mavacamten for the treatment of oHCM is from a
+randomized, double-blind, placebo-controlled, safety, and efficacy study
+(EXPLORER-HCM). Additionally, two Phase 2, 2/3 long-term studies (MAVA-LTE
+and PIONEER-OLE) were submitted to support the use of mavacamten for treatment
+of oHCM.
+
+General dosing
+instructions:
+
+The recommended dosing regimen includes: 1) starting dose of 5 mg once daily; 2)
+dose titration based on ECHO (LVEF and LVOT) monitoring; 3) and maximum daily
+dose of 15 mg.
+We also recommend to genotype patients for CYP2C19 status before initiation of
+mavacamten treatment. Recommended dosing in poor metabolizers (PM) of
+CYP2C19 includes initial 5 mg once daily doses for 4 weeks followed by a three-timeper-week dosing regimen.
+
+Dosing in patient
+subgroups
+(intrinsic and
+extrinsic factors)
+
+Specific Populations:
+Hepatic Impairment
+
+
+Mavacamten has not been studied in patients with severe (Child-Pugh C) hepatic
+impairment. Mavacamten undergoes extensive hepatic metabolism and thus,
+significantly increased plasma concentrations of mavacamten are expected in
+subjects with severe hepatic impairment (Child-Pugh C). Avoid use of
+mavacamten in patients with severe hepatic impairment.
+
+
+
+Increased plasma concentrations of mavacamten were observed in subjects with
+mild to moderate hepatic impairment (Child-Pugh A and B). It is recommended
+to use lower starting dose of 2.5 mg once daily with maximum daily dose of 10
+mg once daily in patients with mild to moderate hepatic impairment.
+
+Renal Impairment
+
+
+Reference ID: 4872643
+
+Mavacamten has not been studied in patients with severe (eGFR: 15 to 30
+mL/min/1.73 m2) renal impairment or ESRD (eGFR: < 15 mL/min/1.73 m2;
+including patients on dialysis). It is recommended to avoid use of mavacamten in
+patients with severe renal impairment or ESRD (including patients on dialysis).
+No dosage adjustment of mavacamten is required in patients with mild (eGFR:
+60 to 89 mL/min/1.73 m2) and moderate (eGFR: 30 to 59 mL/min/1.73 m2) renal
+impairment.
+
+Clinical Pharmacology Review
+NDA-214998
+
+Review Issues
+
+Page 7
+
+Recommendations and Comments
+Extrinsic factors:
+Modulators of CYP2C19 & CYP3A4
+The following table describes dosing recommendations for mavacamten during
+concomitant administration with modulators of CYP2C19 and CYP3A4.
+Table 1-2
+
+Dose Adjustment of Mavacamten during its Concomitant
+Administration with CYP Modulators
+
+Perpetrators
+
+CYP2C19
+Inhibitors
+
+CYP2C19
+Phenotype
+
+Current Mavacamten Dose (mg)
+2.5
+
+5
+
+10
+
+15
+
+Strong
+
+Non-PM†
+
+Avoid
+
+Moderate*
+
+Non-PM†
+
+Avoid
+
+Weak
+
+Non-PM†
+
+Avoid
+
+Reduce
+(to 2.5 mg)
+
+Reduce
+(to 7.5 mg)
+
+Reduce
+(to 10 mg)
+
+NM, RM, UM
+
+Avoid
+
+Reduce
+(to 2.5 mg)
+
+Reduce
+(to 7.5 mg)
+
+Reduce
+(to 10 mg)
+
+PM, IM
+
+Avoid
+
+Reduce
+(to 2.5 mg)
+
+Reduce
+(to 5 mg)
+
+Reduce
+(to 7.5 mg)
+
+Strong
+CYP3A
+Inhibitors
+
+Reduce
+(to 12.5 mg)
+
+No Dose Adjustment
+
+NM, RM, UM
+Moderate
+PM, IM
+CYP3A &
+CYP2C19
+Inducers
+
+Strong
+
+All
+
+Moderate
+
+All
+
+Avoid
+
+Reduce
+(to 2.5 mg)
+
+Reduce
+(to 5 mg)
+
+Reduce
+(to 7.5 mg)
+
+Avoid
+
+Avoid
+
+Avoid
+Up titration+
+
+Up titration+
+
++Up titration not to exceed 15 mg daily dose; †Non-PM includes IM, NM, RM and UM of CYP2C19.
+
+*No information is available on the effects of moderate inhibitors of CYP2C19.
+
+Labeling
+
+The product label requires changes to reflect the recommended dose/regimen
+optimizations based on intrinsic and extrinsic factors described above.
+
+Bridge between
+the “to-bemarketed” and
+clinical trial
+formulations
+
+The Phase-3 safety and efficacy studies utilized 2 immediate-release capsule
+(strengths: 2.5, 5, 10, 15 mg) formulations of mavacamten (Capsule 1 and Capsule
+2, intended for commercialization). Since the pivotal safety efficacy study (# 005)
+mostly utilized intended commercialization formulation (Capsule 2), PK bridging
+study was not required. However, the Applicant demonstrated bioequivalence
+between Capsule 1 and Capsule 2 in a relative bioavailability study (Section 3.3.5).
+
+1.2
+None.
+
+Reference ID: 4872643
+
+Post-marketing Commitments and Requirements
+
+Clinical Pharmacology Review
+NDA-214998
+
+2
+
+Summary of Clinical Pharmacology Assessment
+
+2.1
+
+Pharmacology and Clinical Pharmacokinetics
+
+Page 8
+
+Mechanism of Action:
+Mavacamten (MYK-461; MW: ~273.3 g/mol; pyrimidinedione derivative) is a reversible inhibitor
+of cardiac myosin and exhibits negative inotropic and positive lusitropic effects. Hypertrophic
+cardiomyopathy is associated with hypercontractility, impaired relaxation, and dynamic outflow
+tract obstruction. It’s believed that mavacamten treatment is associated with modulation of the
+number of myosin heads that can enter “on actin” states reducing force-producing (systolic) and
+residual (diastolic) cross-bridge formation resulting in reduced LVOT obstruction and ventricular
+filling pressures, improved symptoms, and increased exercise capacity.
+Absorption:
+The mean absolute bioavailability of mavacamten following oral administration is ~85%. The
+results of relative bioavailability study in healthy subjects demonstrated that the bioavailability of
+mavacamten from developmental capsule formulation is comparable to that with the intended tobe marketed capsule formulation. The median Tmax of mavacamten capsule are 1 and 4 h, under
+fasting and fed conditions, respectively.
+Food effect:
+Following administration of capsule formulation under fed condition with high fat meal, the rate
+and extent of absorption of mavacamten were decreased compared to that observed under fasting
+condition. The time to maximum plasma concentration was delayed by 3-hour, peak concentration
+was reduced by ~56% and total exposure was reduced by ~12%. However, the pivotal
+efficacy/safety studies were performed without regard to food. No information on fasted/fed state
+during efficacy assessments were collected in these studies.
+Distribution:
+The mean apparent volume of distribution of mavacamten is approximately 270 L in oHCM
+patients. Relatively lower volume of distribution was observed in healthy subjects (i.e., 114 to 206
+L). Mavacamten is approximately 97 to 98% bound to human plasma proteins.
+Metabolism:
+Mavacamten is extensively metabolized forming multiple metabolites with no major metabolites
+(i.e., metabolites that represented >10% of drug-related material) detected in plasma. Mavacamten
+is primarily excreted as metabolites with unchanged drug being the most abundant (~70% of total
+radioactivity) moiety in plasma. The hydroxy metabolite (M2; MYK-1078; with total plasma
+radioactivity <4%; followed by M27: <2%; traces of M32, M36 to M46) was the most abundant
+metabolite in plasma. In addition to hydrolysis and oxidative N-dealkylation, oxidation of
+mavacamten is the predominant biotransformation pathway. The other minor biotransformation
+pathways include dehydrogenation, dehydration, methylation, glucuronidation, and glycine
+
+Reference ID: 4872643
+
+Clinical Pharmacology Review
+NDA-214998
+
+Page 9
+
+conjugation. Studies indicate that the metabolism is mainly mediated by CYP2C19 (fm: ~74%),
+followed by CYP3A (fm: ~18%), and to lesser extent by CYP2C9 (fm: ~7.6%).
+Excretion:
+Following single oral dose administration of 25 mg [14C]-mavacamten to healthy male subjects,
+mavacamten was primarily excreted as metabolites in urine (~85% of total radioactivity) with
+biliary excretion as a minor excretion pathway (~7% of total radioactivity). Only, 2.6% was
+recovered as unchanged mavacamten in urine with estimated renal clearance of 30 to 40 mL/h.
+Elimination half-life of mavacamten depends on CYP2C19 genotype (8 days in NM vs 23 days in
+PM).
+Drug Interactions
+Refer to Table 1-2
+for dosing recommendations for mavacamten during concomitant
+administration with modulators of CYP2C19 and CYP3A4.
+Specific Populations:
+Renal Impairment
+No dedicated clinical study was conducted to evaluate the effect of renal function on the
+pharmacokinetics of mavacamten. Considering that the renal elimination is a minor excretion
+pathway, population pharmacokinetic analysis was utilized. Population pharmacokinetic analysis
+did not reveal clinically meaningful differences in the pharmacokinetics of mavacamten in patients
+with mild and moderate renal impairment compared to patients with normal renal function
+(Sections 3.3.3.3 and 4.1). However, mavacamten has not been studied in patients with severe
+renal impairment, ESRD (eGFR: < 15 mL/min/1.73 m2), and in patients on dialysis.
+Hepatic Impairment
+In a clinical study comparing pharmacokinetics of mavacamten in subjects with mild and moderate
+hepatic impairment (Child-Pugh Class A and B) to matched controls, higher exposures of
+mavacamten (AUC increased by ~3.4-fold) were observed in subject with mild hepatic impairment
+(Child-Pugh A). Although the observed exposures of mavacamten in subject with moderate hepatic
+impairment (Child-Pugh B) were relatively lower than those observed in subject with mild hepatic
+impairment, the correction between exposure and hepatic function could not be identified due to a
+limited sample size and high pharmacokinetic variability. Mavacamten is extensively metabolized
+by liver enzymes, significantly higher exposures of mavacamten are expected in subject with
+severe hepatic impairment (Child-Pugh C).
+Effects of Body Weight, Gender, Race, Age, and disease state
+Body weight, sex, race, and age did not have a clinically relevant effect on the exposure (AUC and
+Cmax) of mavacamten (Section 3.3.3.4).
+
+Reference ID: 4872643
+
+Clinical Pharmacology Review
+NDA-214998
+
+2.2
+
+Dosing and Therapeutic Individualization
+
+2.2.1
+
+General dosing
+
+Page 10
+
+For the acute treatment of oHCM, the recommended starting dose is 5 mg to be administered orally
+once daily and the maximum daily dose is 15 mg.
+2.2.2
+
+Therapeutic individualization
+
+Therapeutic individualization is necessary for following extrinsic/intrinsic factors:
+CYP2C19 Poor Metabolizers
+Significantly increased exposures of mavacamten were observed in the subjects who are PM of
+CYP2C19 compared to normal metabolizers (NM) of CYP2C19. Before initiation of mavacamten
+treatment, we recommended genotyping patients for CYP2C19 status. Patients who are PM of
+CYP2C19 have slower elimination and longer half-life compared to NM of CYP2C19 requiring
+less-frequent dosing than the proposed once daily regimen (Section 3.3.3.1). Recommended dosing
+in PM of CYP2C19 includes initial 5 mg once daily doses for 4 weeks followed by a three-timeper-week dosing regimen (Section 3.3.2).
+Drug Interactions
+Refer to Table 1-2
+for dosing recommendations for mavacamten during its concomitant
+administration with modulators of CYP2C19 and CYP3A4 (Section 3.3.4).
+Specific Populations
+Renal Impairment
+Population pharmacokinetic analysis did not reveal clinically meaningful differences in the
+pharmacokinetics of mavacamten in patients with mild and moderate renal impairment compared
+to patients with normal renal function (Section 4.1). No dose or dosing frequency adjustment is
+required in patients with mild to moderate renal impairment (Section 3.3.3.3).
+However, mavacamten has not been studied in patients with severe renal impairment, ESRD
+(eGFR: < 15 mL/min/1.73 m2), and in patients on dialysis. No dosing recommendations can be
+made for patients with severe renal impairment and ESRD. Therefore, use of mavacamten should
+be avoided in patient with severe renal impairment or ESRD.
+Hepatic Impairment
+In a clinical study, higher exposures of mavacamten (AUC increased by ~3.2-fold and ~1.9-fold)
+were observed in subject with mild (Child-Pugh A) and moderate (Child-Pugh B) hepatic
+impairment, respectively, compared to matched controls. The correction factor between exposure
+and hepatic function could not be identified due to a limited sample size and high pharmacokinetic
+variability. It is recommended to use lower starting dose of 2.5 mg once daily with maximum daily
+dose of 10 mg once daily in patients with mild to moderate hepatic impairment (Section 3.3.3.2).
+Significantly higher exposures of mavacamten are expected in subject with severe hepatic
+
+Reference ID: 4872643
+
+Clinical Pharmacology Review
+NDA-214998
+
+Page 11
+
+impairment (Child-Pugh C). Therefore, the use of mavacamten should be avoided in patients with
+severe hepatic impairment (Section 3.3.3.2).
+Other Specific Populations:
+No clinically significant differences in the pharmacokinetics of mavacamten were observed based
+on age, sex, race/ethnicity, body weight (Section 3.3.3.4).
+2.2.3
+None.
+
+Reference ID: 4872643
+
+Outstanding Issues
+
+Clinical Pharmacology Review
+NDA-214998
+
+2.2.4
+
+Page 12
+
+Summary of Labeling Recommendations
+
+The Office of Clinical Pharmacology has the following labeling concepts to be included in the
+final package insert.
+
+
+The recommended starting dose is 5 mg once daily in general population with the maximum
+daily dose of 15 mg.
+
+
+
+It is recommended to genotype patients for CYP2C19 status before initiation of mavacamten
+treatment. Recommended dosing in PM of CYP2C19 includes initial 5 mg once daily doses
+for 4 weeks followed by a three-time-per-week dosing regimen.
+
+
+
+Dose adjustment is not required for mild and moderate renal impairment. Mavacamten has not
+been studied in patients with severe renal impairment and ESRD (with or without dialysis). It
+is recommended to avoid use of mavacamten in patients with severe renal impairment or ESRD.
+
+
+
+Increased plasma concentrations of mavacamten were observed in subjects with mild to
+moderate hepatic impairment. It is recommended to use lower starting dose of 2.5 mg once
+daily with maximum daily dose of 10 mg once daily in patients with mild to moderate hepatic
+impairment. Mavacamten has not been studied in patients with severe (Child-Pugh C) hepatic
+impairment. Avoid use of mavacamten in patients with severe hepatic impairment.
+
+
+
+The dosage adjustment of mavacamten when it is concomitantly administered with a CYP2C19
+or CYP3A modulator is dependent upon the CYP2C19 phenotype of the patient (Table 1-2).
+
+
+
+Dose adjustment is not required based on demographic factors such as age, sex, race, and body
+weight.
+
+Reference ID: 4872643
+
+Clinical Pharmacology Review
+NDA-214998
+
+Page 13
+
+3
+
+Comprehensive Clinical Pharmacology Review
+
+3.1
+
+Overview of the Product and Regulatory Background
+
+Mavacamten is a cardiac myosin inhibitor, and it is formulated as an immediate-release capsule
+formulation. The product is intended for oral administration and contains 2.5, 5, 10, and 15 mg of
+mavacamten. The clinical development program to demonstrate the safety/efficacy for
+mavacamten consisted of one placebo-controlled Phase 3 study in patients with oHCM (Study #
+005). Additionally, the Applicant used data from 2 phase-2 dose finding studies (Study 004 in
+oHCM and Study # 006 in nHCM) in patients with HCM and 2 Phase 2/3, long-term safety studies
+(Study # 007; MAVA-LTE and Study # 008; PIONEER-OLE) to support the use of mavacamten
+for treatment of oHCM. The phase-3 studies were conducted with dose titration based on ECHO
+(LVOT and LVEF) monitoring. In addition, pivotal study (Study # 005) also included PK based
+dose adjustment. The application also included 12 phase 1 clinical studies.
+
+3.2
+
+General Pharmacological and Pharmacokinetic Characteristics
+
+The pharmacokinetic properties of mavacamten have been characterized in the phase-1 and 2
+studies (Table 3-1).
+Table 3-1
+
+Summary of Pharmacological and Pharmacokinetic Characteristics
+
+Pharmacology
+Mechanism of Action
+
+Mavacamten is a cardiac myosin inhibitor.
+
+Active Moieties
+
+Mavacamten
+
+QT Prolongation
+
+The effect of mavacamten on the QTc interval was evaluated in multiple
+clinical studied conducted in healthy subjects and HCM patients. A
+concentration-dependent QT prolongation was detected with multiple dosing
+(over a dose range of 2 to 25 mg) in healthy subjects (Study # 003). However,
+no significant QTc prolongation of mavacamten was detected with target
+population (oHCM and nHCM; Studies # 004, 005, and 006) over the
+therapeutic concentration range. The mechanism for QTc prolongation is
+unknown (refer to the IRT review dated 07/19/2021).
+
+General Information
+Bioanalysis
+
+The concentrations of mavacamten human plasma were determined using a
+validated LC-MS/MS method (Section 5.1).
+
+Healthy Subjects vs.
+Patients
+
+Higher exposures of mavacamten (~2.7-fold) were observed in patients
+compared to healthy subjects at the same dose level (Section 4.1).
+
+Reference ID: 4872643
+
+Clinical Pharmacology Review
+NDA-214998
+
+Page 14
+
+Dose Proportionality
+
+Mavacamten exhibits dose proportionate pharmacokinetics in dose range of
+6 and 48 mg (Study # 002).
+
+Accumulation
+
+Significant accumulation of mavacamten (AUC: ~7-fold; Cmax: 2-fold) was
+observed with once daily dosing. The accumulation is dependent on the
+metabolism status for CYP2C19 (Section 3.3.3.1).
+
+Pharmacokinetic
+Variability
+
+Mavacamten exhibits PK variability and coefficient of variation for Cmax and
+AUCinf were between ~30 to ~50% (Section 4.1).
+
+Absorption
+Bioavailability
+
+The mean absolute bioavailability
+administration is ~85% (Study # 013).
+
+of
+
+Tmax
+
+Approximately 1 h under fasting condition
+
+mavacamten
+
+following
+
+oral
+
+Approximately 4 h under fed condition
+Food Effect
+
+Mavacamten exhibits a negative food effect with decreased exposures under
+fed condition (with high-fat meal) compared to fasting condition (Section
+3.3.4.3.1).
+
+
+
+
+AUCinf decreased by ~12%
+Cmax decreased by ~56%
+Tmax was delayed by ~3 hour
+
+Distribution
+Apparent Volume of
+Distribution
+
+~270 L in oHCM patients (Section 4.1); Relatively lower volume of
+distribution was observed in healthy subjects (i.e., 114 to 206 L).
+
+Protein Binding
+
+97 to 98%
+
+Transports
+
+In vitro human transporter studies indicated that mavacamten is a substrate
+of P-gp and BCRP (Section 3.3.4.2).
+It was not found to be a substrate of OATP1B1, OATP1B3, OAT1, OAT3,
+OCT2, MATE1, and MATE2-K. Moreover, mavacamten exhibits a low renal
+clearance.
+Mavacamten was not found to be a potent inhibitor of P-gp, BSEP, BCRP,
+OAT1, OAT3, OCT1, OCT2, and MATE2k. It is a weak to moderate inhibitor
+of MATE1 (Section 3.3.4.2).
+
+Elimination
+Mean Terminal
+Elimination Half-life
+
+Reference ID: 4872643
+
+Elimination half-life considerably depends on CYP2C19 genotype (8 days in
+NM vs 23 days in PM; Section 3.3.3.1).
+
+Clinical Pharmacology Review
+NDA-214998
+
+Page 15
+
+Metabolism
+Metabolic Pathway
+
+Mavacamten is extensively metabolized primarily by oxidation with major
+contribution from CYP2C19 (fm: ~74%), followed by CYP3A (fm: ~18%), and
+to lesser extent by CYP2C9 (fm: ~7.6%).
+The hydroxy metabolite (M2; MYK-1078; with total plasma radioactivity <4%;
+followed by M27: <2%; traces of M32, M36 to M46) was the most abundant
+metabolite in plasma. In addition to hydrolysis and oxidative N-dealkylation,
+oxidation of mavacamten is the predominant biotransformation pathway. The
+other minor biotransformation pathways include dehydrogenation,
+dehydration, methylation, glucuronidation, and glycine conjugation.
+
+Inhibitor / Inducer
+
+In-vitro studies using human liver microsomes indicated that mavacamten is
+not an inhibitor of CYP1A2, 2B6, 2C9, 2C19, 2D6, or 3A4/5 up to 10 µM
+(Study # NC-17-0020).
+In-vitro studies using human liver microsomes also indicated that
+mavacamten is not a time-dependent inhibitor of CYP2C9, 2D6, or 3A4/5 up
+to 100 μM (Study # NC-17-0021).
+In-vitro studies using primary human hepatocyte culture indicated that
+mavacamten is an inducer of CYP2B6, 2C8, 2C9, 2C19 and 3A4 with no
+induction effect on CYP1A2 (Study # NC-17-0006 & # NC-17-0012).
+
+Excretion
+Excretion Pathway
+
+Reference ID: 4872643
+
+Mavacamten is predominately eliminated by metabolism and metabolites are
+primarily excreted in urine (~85% of total radioactivity) with biliary excretion
+as a minor excretion pathway (~7% of total radioactivity). Approximately,
+2.6% of the dose was recovered as unchanged mavacamten in urine (~92%
+of total recovery over 47 days post-dose; Study # 013; administered as a
+single oral administration of 25 mg of 14C mavacamten under the fasting
+condition in healthy subjects and NM of CYP2C19 ).
+
+Clinical Pharmacology Review
+NDA-214998
+
+Page 16
+
+3.3
+
+Clinical Pharmacology Questions
+
+3.3.1
+
+To what extent does the available clinical pharmacology information
+provide pivotal or supportive evidence of effectiveness?
+
+The evidence of effectiveness of mavacamten for the treatment of acute oHCM is from a pivotal
+clinical study (Study # 005; EXPLORER-HCM). In addition, the Applicant used data from one
+preceding Phase 2 open-label, proof-of-concept study (Study # 004; PIONEER-HCM, Table 3-2),
+and two subsequent Phase 2 or 2/3 ongoing, long-term treatment studies (Study # 007; MAVALTE and Study # 008; PIONEER-OLE) to support the use of mavacamten for treatment of oHCM
+(Table 3-3).
+To inform the dosing in pivotal studies, the Applicant conducted an open-label, placebo-controlled,
+dose-ranging study in patients with symptomatic oHCM (Study # 004; PIONEER-HCM). In this
+2-part study, the Applicant utilized higher starting doses (i.e., 10 mg once daily for BW ≤ 60 kg
+and 15 mg once daily for BW > 60 kg) in part-A of the study with dose titration at Week 4 (up to
+20 mg) based on percent decrease from baseline in LVEF. Part-B utilized, lower starting dose (i.e.,
+2 mg once daily) with dose titration at Week 4 (to 5 mg) was based on percent change from baseline
+in LVOT gradient.
+Table 3-2
+
+Reference ID: 4872643
+
+Summary of Left Ventricular Outflow Tract Gradient (Top) and Left
+Ventricular Ejection Fraction (Bottom) [Study # 004]
+
+Clinical Pharmacology Review
+NDA-214998
+
+Page 17
+
+*LVOT: Left Ventricular Outflow Tract Gradient.
+Source: Applicant’s Analysis; Study # 004 CSR
+
+The study explored PK/PD relationship and identified concentrations of mavacamten (Ctrough)
+associated LVOT gradient and LVEF. Considering steep PK/PD relationship for ejection fraction,
+the protocol pre-specified temporary discontinuation based on 1) mavacamten trough
+concentration ≥ 1000 ng/mL, 2) LVEF < 50%, or 3) increased QT interval (with ΔQTcF ≥ 15% as
+change from baseline). The PK/PD modeling was also used to inform the starting dose (i.e., 5 mg
+once daily) for subsequent Phase-3 studies. Phase-3 studies were designed to target a mavacamten
+plasma trough concentration <700 ng/mL to maintaining normal ejection fraction (i.e., LVEF >
+50%) while attaining and maintaining relevant decrease in gradient (i.e., LVOT < 30 mm Hg and >
+20 mm Hg).
+Table 3-3
+
+Summary of Clinical Safety and Efficacy Studies
+
+Clinical Studies
+
+Study # 005
+(EXPLORER-HCM)
+
+Study # 008
+(PIONEER-OLE)
+
+Study # 007
+(MAVA-LTE)
+
+Objective
+
+Superiority to Placebo
+
+Long-term Safety
+
+Long-term Safety
+
+Treatment
+
+Starting dose: 5 mg once daily; maximum daily dose: 15 mg once daily
+
+PK Guided
+
+PK
+
+PK
+
+-
+
+PD Guided
+
+PD*
+
+PD*
+
+PD*
+
+30-Weeks
+
+104-Week
+
+104-Week
+
+Design
+
+Double-blinded
+
+Open-label Extension
+
+Open-label Extension
+
+Placebo
+
+Placebo-controlled
+
+-
+
+-
+
+Formulation
+
+Capsule
+
+Capsule
+
+Capsule
+
+Patients
+
+oHCM
+
+oHCM
+
+nHCM and oHCM
+
+-
+
+Study # 004
+
+Studies # 005 & # 006
+
+Dosing Duration
+
+Continuation of
+Previous Studies
+
+Dose titration based on mavacamten concentrations, LVEF and LVOT measurements using ECHO.
+
+Reference ID: 4872643
+
+Clinical Pharmacology Review
+NDA-214998
+
+Page 18
+
+Study # 005 was the pivotal phase-3, randomized, double-blind, placebo-controlled study
+evaluating safety and efficacy of mavacamten in patients with oHCM (resting or provoked gradient
+≥ 50 mm Hg and LVEF >55%). Patients (n=251) received titration-based mavacamten dose
+(starting dose of 5 mg and maximum daily dose of 15 mg once daily) or placebo for 30 weeks. The
+study utilized a dosing algorithm based on measurements of mavacamten plasma concentrations
+and echocardiography (measurements of LVOT gradient and LVEF) assessed by a central
+laboratory.
+The primary objective of the study was to evaluate improvement in functional capacity and
+symptom burden with mavacamten treatment compared to placebo using 2 indicators: 1) peak
+oxygen uptake (pVO2) by cardiopulmonary exercise testing (CPET) and 2) NYHA functional
+classification. Study results indicated that a greater proportion of subjects treated with mavacamten
+achieved the primary composite functional endpoint that included both objective (pVO2) and
+subjective (NYHA class) assessments of functional capacity and symptoms compared with
+placebo (36.6% vs. 17.2%; between-group difference 19.4%, 95% CI: 8.7 to 30.1; p = 0.0005).
+Furthermore, the proportion of subjects who achieved the most stringent components of the
+composite functional endpoint (≥ 3.0 mL/kg/min increase in pVO2 AND ≥ 1 NYHA class
+improvement) was 20.3% for mavacamten-treated subjects compared with 7.8% for placebo
+subjects. Mavacamten treatment was associated with post-exercise LVOT gradient to below the
+standard threshold for invasive septal reduction therapy (i.e., < 50 mm Hg) in 74% of subjects who
+had post exercise gradient ≥ 50 mm Hg at baseline compared with 21% of subjects in the placebo
+group (Study # 005), and 65% of mavacamten-treated subjects improved by ≥ 1 NYHA class from
+baseline to Week 30 compared with 31% of subjects in the placebo group (Study # 005).
+Although the magnitude of the changes from baseline in the pVO2, KCCQ, and HCMSQ were
+statistically significant, considerable within-subject variabilities were observed for these
+parameters. The clinically relevance of these endpoints and the benefit-risk profile of mavacamten
+is discussed in the clinical review (by Dr. Tzu-Yun McDowell and Dr. Preston Dunnmon). The
+available safety data from completed and on-going studies is also available in a separate clinical
+review (by Dr. Tzu-Yun McDowell and Dr. Preston Dunnmon, MD).
+3.3.2
+
+Is the proposed dosing regimen appropriate for the general population
+for which the indication is being sought?
+
+Yes, one placebo-controlled, phase-3 study (Study # 005), one open-label, phase-2 study (Study #
+004), and 2 on-going long-term extension studies (Studies # 006, and # 007) demonstrated that
+mavacamten administered as once daily capsule is superior to placebo for the treatment of oHCM
+(Section 3.3.1).
+The Applicant conducted the exposure response analyses for efficacy and safety endpoints (Studies
+# 004, # 005, # 007, # 008) using a non-linear mixed effects modeling. Each of these studies
+included mavacamten as monotherapy or in addition to standard of care therapy. In general,
+hypertrophic cardiomyopathy is associated with patients who have unexplained left ventricular
+hypertrophy, hypercontractility, and impaired relaxation. Thus, HCM phenotypes are identified as
+
+Reference ID: 4872643
+
+Clinical Pharmacology Review
+NDA-214998
+
+Page 19
+
+the presence (obstructive; oHCM) or absence (non-obstructive; nHCM) of obstruction of the left
+ventricular outflow tract (LVOT; where obstruction is defined as a peak LV outflow gradient ≥ 30
+mm Hg; at rest or with provocation). Considering the targeted effect of mavacamten in reducing
+obstruction in outflow tract, the E-R model was developed to characterize the relationship between
+mavacamten exposure (trough) and VLVOT (LVOT gradient with provocation using Valsalva
+maneuver) in Figure 3-1. Since mavacamten is a cardiac myosin inhibitor, its treatment is also
+associated with undesirable effects on systolic function primarily due to its reduced cardiac
+contractility. For this purpose, the E-R model was also developed to characterize the relationship
+between mavacamten and LVEF (Figure 3-2). Analysis indicated a direct relationship between
+plasma concentrations (as Cavg at 168 h) and LVEF as well as between plasma concentrations (as
+Cavg at 168 h) and VLVOT.
+Figure 3-1
+
+Exposure-Response Relationship Between Mavacamten Concentrations
+and VLVOT (Efficacy; VPC)
+
+Source: Mavacamten-er-report.pdf, SN0038, Figure 16
+
+The developed model adequately characterized the relationship between Cavg168 with LVEF
+using a power model. Baseline LVEF was found to have significant effect on the model steepness
+parameter. In addition, baseline LVEF, disease type (nHCM vs. oHCM), and sex were all found
+to have significant impact on model intercept. There was inadequate data to characterize in
+hysteresis between mavacamten concentrations and ejection fraction. Similarly, the development
+model also adequately characterized the relationship between Cavg168 with VLVOT using a
+decaying exponential model. Baseline VLOT and baseline NT-proBNP levels were found to have
+
+Reference ID: 4872643
+
+Clinical Pharmacology Review
+NDA-214998
+
+Page 20
+
+significant effect on the model intercept parameter. As a model qualification, the simulation study
+outcomes for time-course data for concentrations, VLVOT, and LVEF were similar to those
+observed values (Study # 005; Figure 4-8).
+Figure 3-2
+
+Exposure-Response Relationship Between Mavacamten Concentrations
+and LVEF (Safety; VPC)
+
+Source: Mavacamten-er-report.pdf, SN0038, Figure 10
+
+Similar to the preliminary assessment (Study # 004), the final E-R analyses also demonstrated a
+concentration dependent reduction in VLVOT and LVEF. The analysis indicates that median
+mavacamten concentrations higher than 1000 ng/mL are associated with considerable decrease (≤
+50%) in LVEF. Combinedly, these relationships suggested use of mavacamten can be done with
+appropriate dose titrations based on the proposed PD marker of efficacy i.e., left ventricular
+outflow tract gradient (LVOT with Valsalva; <30 mm Hg) as well as the proposed PD marker of
+safety i.e., left ventricular ejection fraction (LVEF ≥ 50%).
+However, mavacamten exhibits a high pharmacokinetic variability (Section 4.1) and it undergoes
+extensive CYP enzyme-mediated metabolism with a major contribution (fm: ~74%) from
+polymorphic CYP2C19 enzyme (Section 3.3.3.1). Significantly increased exposures of
+mavacamten were observed in the subjects who are PM of CYP2C19 compared to NM of
+CYP2C19. Steady-state simulations of mavacamten exposures in different CYP2C19 genotypes
+indicated that a considerable part of PK variability can be explained using CYP2C19 genotypes
+(Figure 3-3).
+In addition to ECHO (LVEF and LVOT) monitoring based dose titrations, the phase-3 study
+(EXPLORER-HCM) also utilized concentrations (PK) based rules for dose titration instead of a
+prospective dose adjustment based on CYP2C19 genotypes. Most importantly, the Applicant
+
+Reference ID: 4872643
+
+Clinical Pharmacology Review
+NDA-214998
+
+Page 21
+
+proposed a dose titration algorithm which neither includes PK monitoring nor does it considered
+a differential dosing of mavacamten based on prospective genotyping of CYP2C19. Considering
+the steep relationship between concentrations of mavacamten and LVEF and its pharmacokinetic
+variability, evaluation of the proposed dose titration scheme and monitoring plan is critical for
+optimal and safe use of mavacamten. Based on the available pharmacokinetic, exposure-response
+(for LVEF and LVOT), clinical safety efficacy data (Section 4.1), the FDA reviewers conducted
+additional PK/PD simulations using POP-PK and E-R models evaluating suitability of proposed
+dosing regimens. Additional clinical scenarios were explored to derive optimal dosing regimen,
+titration algorithm, and ECHO monitoring plan. For this purpose, proportions of patients exceeding
+pre-specified threshold of concentrations (>700 ng/mL and > 1000 ng/mL), LVEF (≤ 50%; as PD
+endpoint for safety), and LVOT (< 30 mm Hg; as PD endpoint for efficacy) were compared across
+all scenarios (Section 4.1.2).
+The analyses results indicated that the proportions of patients below LVEF 50% with the proposed
+dosing regimen were consistently higher in PM of CYP2C19 compared to other genotypes of
+CYP2C19. These increased concentrations and lower LVEF in these patients may place them at
+higher risk for serious heart failure events. For this purpose, a modified dosing regimen is
+recommended for PM of CYP2C19 which includes an initial treatment with once daily doses for
+4 weeks and followed by a three-time-per-week (TIW, on Monday, Wednesday and Friday) dosing
+from Week 5. This modified dosing regimen is supported by similar mavacamten exposures,
+response of VLVOT <30 mm Hg, and risk of LVEF<50% in PM patients as compared to non-PM
+patients (Section 4.1.2).
+3.3.3
+
+Is an alternative dosing regimen and management strategy required for
+subpopulations based on intrinsic factors?
+
+Yes, we have recommendations on alternate dosing regimens and management strategy for
+following sup-populations based on intrinsic factors as outlined below. The Applicant conducted
+dedicated clinical studies assessing the impact of CYP2C19 genotypes and hepatic function on the
+exposures of mavacamten (see below).
+In addition, Population pharmacokinetic analysis did not reveal a significant impact of age, sex,
+body weight on the exposures of mavacamten. Dose adjustment is not necessary based on intrinsic
+factors such as age, sex, body weight.
+3.3.3.1
+
+CYP2C19 Genotype Status
+
+Mavacamten undergoes extensive CYP enzymes mediated metabolism with a major contribution
+from polymorphic CYP2C19 (fm: ~74%) enzyme. The Applicant conducted a dedicated
+pharmacogenomic study (Study # 012) comparing the pharmacokinetics of mavacamten between
+NM (*1/*1, *1/*3) of CYP2C19 and PM (*2/*2, *2/*3) of CYP2C19. This was an open-label,
+parallel group study evaluating the pharmacokinetics of mavacamten in healthy subjects (n=16; 8
+/cohort). Following prospective genotyping for CYP2C19 status, subjects were assigned to 2
+parallel cohorts (Cohort 1: NM of CYP2C19 and Cohort 2: PM of CYP2C19) and received single
+dose of 15 mg mavacamten (capsule formulation) under fasting condition. Blood samples were
+
+Reference ID: 4872643
+
+Clinical Pharmacology Review
+NDA-214998
+
+Page 22
+
+collected up to 60 days post-dose for the determination of mavacamten concentrations. The
+summary of pharmacokinetic parameters is presented in Table 3-4.
+Table 3-4
+
+Summary of PK Parameters [Study # MYK-461-012]
+PK Parameters*
+
+CYP2C19
+Genotype
+
+Geometric Mean Ratio
+(90% CI)
+
+Cmax
+(ng/mL)
+
+AUCinf
+(ng·h/mL)
+
+Cmax
+(ng/mL)
+
+AUCinf
+(ng·h/mL)
+
+PM
+
+509 (27%), n=8
+
+43520 (18%); n=8
+
+NM
+
+397 (56%); n=8
+
+14130 (57%); n=8
+
+1.47
+(0.93 – 2.33)
+
+3.41
+(2.44 – 4.79)
+
+*Data presented as mean (CV), number of subjects. NM: Normal (*1/*1, *1/*3) metabolizers of CYP2C19;
+PM: Poor (*2/*2, *2/*3) metabolizers of CYP2C19.
+Source: Reviewer’s analysis.
+
+Following a single dose, significant increase in the exposures of mavacamten (Cmax: 1.5-fold and
+AUCinf: 3.4-fold) were observed in the subjects who are PM of CYP2C19 compared to NM of
+CYP2C19. Similarly, the elimination half-life of mavacamten was significantly extended in PM
+compared to NM (PM: 572 vs. NM: 221 h) of CYP2C19. The FDA reviewers performed steadystate simulations in different CYP2C19 genotypes using population PK analysis (Figure 3-3).
+Figure 3-3
+Simulated Plasma (trough) Concentration versus Time Profiles following
+Multiple (Fixed at 2.5, 5, 10, and 15 mg Once Daily) Doses in Patients with Various CYP2C19
+Genotypes [POP-PK]
+
+PM: Poor Metabolizers of CYP2C19; IM: Intermediate Metabolizers of CYP2C19; NM: Normal
+Metabolizers of CYP2C19; RM: Rapid Metabolizers of CYP2C19; UM: Ultra-rapid Metabolizers of
+CYP2C19.
+Source: Reviewer’s Analysis
+
+Reference ID: 4872643
+
+Clinical Pharmacology Review
+NDA-214998
+
+Page 23
+
+These simulations indicate significantly increased exposures of mavacamten in PM of CYP2C19
+compared to other genotypes of CYP2C19 at all doses. Moreover, the time to steady-state was also
+longer for PM of CYP2C19 (~28 weeks for PM vs. ~6 weeks for NM) compared to NM of
+CYP2C19. In addition, these simulations indicate that higher doses (viz., 10 and 15 mg; once daily)
+are associated with steady-state though concentrations of >1000 ng/mL in PM of CYP2C19.
+3.3.3.2
+
+Hepatic Impairment
+
+The Applicant conducted a dedicated hepatic impairment study (Study # 015) evaluating the effect
+of hepatic function on the pharmacokinetics of mavacamten. This was an open-label, parallel group
+study evaluating the pharmacokinetics of mavacamten in subjects with hepatic impairment
+compared to that in subjects with normal hepatic function (healthy matched controls). Subjects
+with normal (n=11, cohort 3), mild (Child-Pugh Group A: 5 to 6 points; n=8, cohort 1), or
+moderate (Child-Pugh Group B: 7 to 9 points; n=8, cohort 1) hepatic impairment received a single
+25 mg dose of mavacamten (using immediate-release capsule formulation under fasting condition).
+All subjects were extensive (EM) or rapid metabolizers (RM) of CYP2C19. Blood samples were
+collected up to 72 h post-dose for the determination of total mavacamten and unbound mavacamten
+concentrations. The summary of pharmacokinetic parameters is presented in Table 3-5.
+Table 3-5
+
+Summary of PK Parameters [Study # MYK-461-015]
+PK Parameters*
+
+Hepatic
+Impairment
+Group
+
+Geometric Mean Ratio
+(90% CI)
+
+Cmax
+(ng/mL)
+
+AUCinf
+(ng·h/mL)
+
+Cmax
+(ng/mL)
+
+AUC
+(ng·h/mL)
+
+Mild
+
+596 (23%), n=8
+
+71000 (12%); n=4
+
+Matched
+control
+
+534 (36%); n=8
+
+18200 (67%); n=8
+
+1.12
+(0.86 to 1.45)
+
+3.24
+(2.25 to 4.68)
+
+Moderate
+
+468 (31%); n=8
+
+32800 (104%); n=4
+
+Matched
+Control
+
+426 (47%); n=8
+
+19700 (85%); n=8
+
+1.10
+(0.79 to 1.54)
+
+1.87
+(1.03 to 3.39)
+
+*Data presented as mean (CV), number of subjects.
+Source: Reviewer’s analysis.
+
+Relatively higher exposures of mavacamten (AUC) were observed in subjects with mild
+(Child-Pugh class A) and moderate (Child-Pugh class B) hepatic impairment compared to subjects
+with normal hepatic function (matched control). Similarly, half-life of mavacamten was increased
+subjects with hepatic impairment (mild: ~634 h and moderate: ~420 h) compared to their matched
+control (~171 h and ~189 h).
+Although the Applicant states that no clinically meaningful differences in the pharmacokinetics of
+mavacamten were observed in subjects with mild and moderate hepatic impairment compared to
+
+Reference ID: 4872643
+
+Clinical Pharmacology Review
+NDA-214998
+
+3.3.4
+
+Page 25
+
+Are there clinically relevant food-drug or drug-drug interactions and
+what is the appropriate management strategy?
+
+The Applicant conducted in vitro studies suggesting that mavacamten is extensively metabolized
+primarily by oxidation with major contribution from CYP2C19 (fm: ~74%), followed by CYP3A
+(fm: ~18%), and to lesser extent by CYP2C9 (fm: ~7.6%). Concomitant administration of
+mavacamten with a strong and moderate inhibitor or inducer of CYP enzymes is expected to
+significantly impact mavacamten exposures. The Applicant conducted clinical drug interaction
+studies to assess the interaction potential with 1) Inhibitors of CYP2C19 (Study # 018) and
+inhibitors of CYP3A4 (Study # 009), and 2) Substrate of CYP3A4 (Study # 016 and # 010). In
+addition, PBPK assessments were conducted to evaluate the impact of concomitant administration
+of mavacamten with modulators of CYP2C19 and/or CYP3A4 (Section 4.3).
+3.3.4.1
+
+Drug Interactions – CYP2C19, CYP3A4, and CYP2C9 Modulators
+
+3.3.4.1.1 Drug Interaction with Inhibitors of CYP2C19
+Since mavacamten is primarily metabolized by CYP2C19, the Applicant conducted a clinical drug
+interaction study (Study # 018) evaluating the effect of weak to moderate inhibitor of CYP2C19
+on the pharmacokinetics of mavacamten. This was an open-label, randomized, parallel-group
+study evaluating the effect of concomitant administration of omeprazole (multiple dose; 31-day
+course) on the pharmacokinetics of mavacamten (single dose) in healthy subjects.
+The study included healthy subjects who are NM of CYP2C19 and RM of CYP2C19. Subjects
+(n=29) were randomized to receive a single 15 mg dose of mavacamten (n=15) or a single 15 mg
+dose of mavacamten after omeprazole course (n=14). Subjects in latter cohort received once daily
+20 mg omeprazole from Day -3 until the Day 28 visit. Blood samples were collected for the
+determination of total mavacamten concentrations. The summary of pharmacokinetic parameters
+is presented in Table 3-6.
+Table 3-6
+
+Summary of PK Parameters [Study # MYK-461-018]
+PK Parameters*
+
+Treatment
+Group
+
+Mavacamten+
+omeprazole
+Mavacamten
+
+Cmax
+(ng/mL)
+
+AUCinf
+(ng·h/mL)
+
+Cmax
+(ng/mL)
+
+AUCinf
+(ng·h/mL)
+
+280 (40%); n=13
+
+14110 (35%); n=13
+
+-
+
+-
+
+284 (36%); n=15
+
+8377 (36%); n=15
+
+0.99
+(0.75 to 1.30)
+
+1.48
+(1.16 to 1.88)
+
+*Data presented as mean (%CV) number of subjects.
+Source: Reviewer’s analysis.
+
+Reference ID: 4872643
+
+Geometric Mean Ratio
+(90% CI)
+
+Clinical Pharmacology Review
+NDA-214998
+
+Page 26
+
+Concomitant administration of mavacamten with omeprazole (at steady state) resulted in increased
+exposures of mavacamten (AUC: ~50%) without a significant change in peak concentrations. The
+Applicant proposed no specific adjustment of dose or dosing frequency for concomitant
+administration of mavacamten with moderate to weak inhibitors of CYP2C19.
+The effect of a strong CYP2C19 inhibitor on the PK of mavacamten was evaluated using the PBPK
+analyses in different genotypes of CYP2C19 (Section 4.3) by the FDA reviewers. The effect of a
+moderate CYP2C19 inhibitor was not evaluated due to the lack of a PBPK perpetrator model.
+When mavacamten is concomitantly administered with fluconazole (a strong CYP2C19 and
+moderate CYP3A inhibitor), the steady state mavacamten Cmin,ss was predicted to increase by at
+least 5.4-foldin NM of CYP2C19. The effect of a strong CYP2C19 inhibitor on the PK of
+mavacamten in IM of CYP2C19 could not be evaluated due to lack of appropriate models. The
+proposed dosing recommendation in IM of CYP2C19 is based on a conservative approach.
+CYP2C19 strong inhibitors should be avoided in patients who are not PM (i.e., IM, NM, RM, UM)
+of CYP2C19 because a 5.4-fold increase in the current mavacamten dose that a patient is taken
+exceeds the recommended maximum therapeutic dose.
+Although the effect of a moderate CYP2C19 inhibitor on mavacamten has not been evaluated,
+considerably increased exposures of mavacamten in patients who are not PM of CYP2C19 are
+expected for concomitant administration with a moderate inhibitor of CYP2C19 based on the effect
+of a strong CYP2C19 inhibitor. Significantly increased exposures of mavacamten were also
+observed in PM of CYP2C19 compared to NM of CYP2C19. Based on the available clinical data
+and considering the steep relationship between concentrations of mavacamten and left ventricle
+ejection fraction (Section 4.1), it is recommended to avoid concomitant administration of
+mavacamten with a moderate inhibitor of CYP2C19.
+When mavacamten is co-administered with omeprazole (a weak CYP2C19 inhibitor), 50%
+increase in Cmin,ss was predicted in NM of CYP2C19. Therefore, we recommend dose reduction
+(i.e., 15 to 10 mg, 10 to 7.5 mg, 5 to 2.5 mg) and avoid using mavacamten for subject who are on
+2.5 mg daily dose) during the concomitant administration of mavacamten with weak inhibitors of
+CYP2C19 in patients who are not PM (i.e., IM, NM, RM, UM) of CYP2C19.
+The effect of a strong, moderate, or weak CYP2C19 inhibitor on the PK of mavacamten in PM of
+CYP2C19 is expected to be minimum because the CYP2C19 activity in PM of CYP2C19 is very
+low. Therefore, no dose adjustment is recommended for PM of CYP2C19 when mavacamten is
+co-administered with a CYP2C19 inhibitor.
+3.3.4.1.2 Drug Interaction with Inhibitors of CYP3A4
+The Applicant conducted a clinical drug interaction study (Study # 009) to evaluating the effect of
+moderate inhibitor of CYP3A4 on the pharmacokinetics of mavacamten. This was an open-label,
+randomized, parallel-group study evaluating the effect of concomitant administration of verapamil
+(multiple dose; 240 mg once daily; sustained release tablet) on the pharmacokinetics of
+mavacamten (single dose; 25 mg tablet) in healthy subjects.
+
+Reference ID: 4872643
+
+Clinical Pharmacology Review
+NDA-214998
+
+Table 3-8
+
+Page 29
+
+Summary of PK Parameters [Study # MYK-461-016]
+
+Analytes
+
+PK Parameters
+Cmax
+(ng/mL)
+
+Geometric Mean Ratio
+(90% CI)
+AUCinf
+(ng·h/mL)
+
+Cmax
+
+AUCinf
+
+Midazolam
+
+P1: 16.6 (22%); n=13
+P3: 15.5 (43%); n=12
+
+55.3 (62%); n=13
+48.8 (47%); n=9
+
+0.93
+(0.77 - 1.13)
+
+0.87
+(0.68 - 1.10)
+
+OH-Midazolam
+
+P1: 12.7 (47%); n=13
+P3: 16.2 (37%); n=12
+
+41.5 (24%); n=10
+47.8 (36%); n=7
+
+1.28
+(1.01 - 1.65)
+
+1.21
+(1.04 - 1.39)
+
+*Comparisons of analytes in the absence (P1) and presence (P3) of mavacamten doses.
+Source: Reviewer’s analysis.
+
+Concomitant administration of mavacamten with midazolam resulted in slightly decreased
+midazolam exposures and increased hydroxy-metabolite exposures. In addition, the trough
+concentrations of mavacamten (~314 ng/mL) observed in the study were comparable to those
+observed in Phase-3 study at Week 18 (~342 ng/mL; Study # 005). Note that this study was
+conducted in healthy subjects, which have lower mavacamten concentration compared to patients
+and thus may not show the maximum interaction potential in patients who receive the maximum
+dose of 15 mg/day.
+3.3.4.1.4 Drug Interaction with Oral Contraceptives
+In vitro studies indicated that mavacamten is an inducer of human CYP3A4. CYP3A4-mediated
+metabolism is the major pathway of oxidative metabolism of estrogen- and progestin-hormonal
+oral contraceptives (i.e., ethinyl estradiol and norethindrone). Concomitant administration of
+mavacamten with oral contraceptives may induce metabolism of contraceptives leading to
+decreased concentrations potentially affecting their efficacy. The Applicant conducted a clinical
+drug interaction study (Study # 010) evaluating the effect of mavacamten on the exposures of
+hormonal oral contraceptives (Ortho-Novum®: 1 mg norethindrone, 35 µg ethinyl estradiol). This
+was an open-label, 2-period, single-sequence (2-cycle), crossover study in normal healthy adult
+female subjects (n=13). The study included mostly NM (n=10) with one RM of CYP2C19 and 2
+UM of CYP2C19.
+In this 2-period study, subjects received a single dose of 35 μg ethinyl estradiol and 1 mg
+norethindrone on Day 1. Period 2 started 7 to 10 days after the previous oral contraceptive
+administration. Subjects received a 25 mg loading dose of mavacamten on Day 1 and a second 25
+mg loading dose on Day 2, followed by a daily dose of 15 mg on Days 3 through 17 (for a total of
+17 doses). On Day 15, subjects received the last mavacamten dose with a single dose of 35 μg
+ethinyl estradiol and 1 mg norethindrone. Ethinyl estradiol and norethindrone pharmacokinetics
+were determined after the first mavacamten dose and after all 17 doses had been administered.
+
+Reference ID: 4872643
+
+Clinical Pharmacology Review
+NDA-214998
+
+Page 30
+
+Mavacamten concentrations were determined on Day 16 and 17. The summary of pharmacokinetic
+parameters is presented in Table 3-9.
+Table 3-9
+
+Summary of PK Parameters [Study # MYK-461-013]
+
+Analytes
+
+PK Parameters
+
+Geometric Mean Ratio
+(90% CI)
+
+Cmax
+(ng/mL)
+
+AUCinf
+(ng·h/mL)
+
+Cmax
+
+AUCinf
+
+Ethinyl Estradiol
+
+P1: 0.065 (26%); n=13
+P2: 0.068 (30%); n=12
+
+0.73 (41%); n=13
+0.85 (44%); n=12
+
+1.05
+(0.95 - 1.16)
+
+1.20
+(1.08 - 1.33)
+
+Norethindrone
+
+P1: 7.22 (36%); n=13
+P2: 7.93 (24%); n=12
+
+40.4 (31%); n=13
+45.5 (32%); n=12
+
+1.14
+(0.98 - 1.33)
+
+1.12
+(1.01 - 1.24)
+
+*Comparisons of analytes in the absence (P1) and presence (P2) of mavacamten doses.
+Source: Reviewer’s analysis.
+
+The administration of a mavacamten did not affect pharmacokinetic of Ortho-Novum components
+considerably, as multiple dosing of mavacamten resulted in slightly increased exposures of ethinyl
+estradiol (AUC: ~1.20-fold) and norethindrone (AUC: ~1.12-fold). In addition, the study evaluated
+the pharmacokinetics of mavacamten on day 1 (25 mg as a single dose) and Day 15 (with once
+daily dosing of 15 mg).
+3.3.4.1.5 Drug Interaction with Inhibitors of CYP2C9
+The Applicant did not evaluate the effect of concomitant administration of mavacamten with
+inhibitor of CYP2C9 on the pharmacokinetics of mavacamten. However, considering that
+mavacamten is extensively and predominantly metabolized by CYP2C19 and to some extent by
+CYP3A4, no clinically meaningful differences in the pharmacokinetics of mavacamten are
+expected with concomitant administration CYP2C9 inhibitors.
+3.3.4.1.6 Drug Interaction with CYP2C Substrates
+The effects of mavacamten on the PK of CYP2C8/9/19 substrates were evaluated using PBPK
+analyses. The induction effects of mavacamten on probe substrates of CYP enzymes depend on
+mavacamten dose and the CYP2C19 phenotype, ranging from weak to moderate induction effects.
+Of note, there are uncertainties in these predictions which are described in the review (Section
+4.3).
+3.3.4.1.7 Drug Interaction with CYP2C19 and CYP3A Inducers
+The Applicant did not evaluate the effect of concomitant administration of mavacamten with
+inducer of CYP2C19 and CYP3A on the pharmacokinetics of mavacamten. However, considering
+
+Reference ID: 4872643
+
+Clinical Pharmacology Review
+NDA-214998
+
+Page 31
+
+that mavacamten is extensively and predominantly metabolized by CYP2C19 and to some extent
+by CYP3A4, mavacamten is susceptible to CYP induction.
+PBPK analyses suggested that following concomitant administration of mavacamten with a strong
+CYP3A and CYP2C19 inducer (e.g., rifampin) the steady-state Cmin of mavacamten was
+predicted to decrease by ~40- and ~4- fold in NM and PM of CYP2C19, respectively. Therefore,
+we recommend avoiding concomitant administration with strong inducers of CYP3A4 and
+CYP2C19.
+Concomitant administration of mavacamten with a moderate CYP3A (e.g., efavirenz), the steady
+state Cmin was predicted to decrease by ~2-fold in PM and NM of CYP2C19. It is recommended
+to avoid concomitant administration of mavacamten with moderate inducers of CYP3A4 and
+CYP2C19 for subject who are on higher doses (10 and 15 mg daily dose) because it is unlikely
+that an efficacious dose that is equal to or lower than the highest recommended dose (e.g., 15 mg
+once daily) can be achieved. However, for subject who are on lower doses of mavacamten (i.e.,
+2.5 and 5 mg), we recommend up titration, as needed, until the dose reaches the highest
+recommended dose (e.g., 15 mg once daily) during its concomitant administration with moderate
+inducers of CYP3A4 and CYP2C19.
+3.3.4.2
+
+Drug Interactions – Transporters
+
+3.3.4.2.1 Drug Interactions – Transporters Substrate
+The Applicant conducted in vitro studies to assess if mavacamten is a substrate of following
+transporters.
+P-glycoprotein and BCRP:
+Mavacamten was not found to be a substrate of P-glycoprotein and BCRP.
+OATP1B1 and OATP1B3:
+Mavacamten was not found to be a substrate of OATP1B1 and OATP1B3 (Study # NC-190014).
+OAT, OCT, and MATE:
+Mavacamten was not found to be a substrate of OAT, OCT, and MATE (Study # NC-190014).
+3.3.4.2.2 Inhibition
+The Applicant evaluated potential inhibitory effects of mavacamten on following transporters.
+P-gp, BSEP and BCRP:
+Mavacamten did not inhibit P-gp, BSEP, and BCRP suggesting that it is less likely to alter the
+absorption and distribution of drugs that are substrates these transporters (Study # NC-190017).
+OATP1B1 and OATP1B3:
+Mavacamten was not found to be a potent inhibitor of OATP1B1 and OATP1B3 (Study # NC190017).
+
+Reference ID: 4872643
+
+Clinical Pharmacology Review
+NDA-214998
+
+Page 32
+
+OAT, OCT, and MATE:
+Mavacamten was not found to be a potent inhibitor of OAT1, OAT3, OCT1, OCT2, and MATE2K (Study # NC-190019). However, mavacamten inhibited MATE1 (IC50 = 22.6 μM; 6200 ng/mL).
+Considering the peak concentrations at steady state with highest therapeutic doses and protein
+binding (~97%), clinically relevant drug interactions are less likely.
+3.3.4.3
+
+Food effect & Gastric pH Modifying Agents
+
+3.3.4.3.1 Food Effect
+The Applicant conducted a clinical study (Study # 014) evaluating the effect of food on the
+pharmacokinetics of mavacamten from intended commercial capsule (Capsule-2) formulation.
+This was an open-label, randomized (1:1:1), single-dose, cross-over (3-sequence; 3-period) study
+in healthy subjects (n=24; 16/group). This study also evaluated the relative bioavailability of
+mavacamten from 2 capsule formulations (Treatment A vs B; Section 3.3.5). All subjects were
+NM (n=10) or RM of CYP2C19. For assessment of food effect, the subjects received single oral
+administration of 15 mg capsule (Capsule-2) formulation under fasting condition (Treatment B)
+and fed condition (with a high-fat breakfast; Treatment C). The summary of pharmacokinetic
+parameters is presented in Table 3-11.
+Table 3-10
+
+Summary of PK Parameters [Study # MYK-461-014]
+
+Treatment
+Group+
+
+Fed
+Fasting
+
+PK Parameters*
+
+Geometric Mean Ratio
+(90% CI)
+
+Cmax
+(ng/mL)
+
+AUCinf
+(ng·h/mL)
+
+Cmax
+(ng/mL)
+
+AUCinf
+(ng·h/mL)
+
+153.0 (56%)
+
+9395 (50%)
+
+-
+
+-
+
+341.1 (28%)
+
+10690 (48%)
+
+0.44
+(0.36 to 0.54)
+
+0.88
+(0.84 to 0.91)
+
+*Data presented as mean (%CV), number of subjects +Intended commercial formulation (test product).
+Source: Reviewer’s analysis.
+
+In summary, capsule formulation exhibited a negative food effect with decrease in the rate of
+mavacamten absorption (Cmax) and its extent of absorption (AUCinf) following its administration
+with a high-fat breakfast compared to that under fasting condition. The effect on the rate of
+absorption was prominent as administration of mavacamten capsule under fed condition resulted
+in delayed Tmax with a significant decrease in peak concentrations (Table 3-11). Thus, there was
+a flattening of the concentration time profile under fed condition and the magnitude of effect on
+the exposure of mavacamten (AUC: ~12%) was moderate. Considering the available data on
+impact of food effect and fact that the efficacy/safety studies were conducted without food
+
+Reference ID: 4872643
+
+Clinical Pharmacology Review
+NDA-214998
+
+Page 33
+
+restrictions, the Applicant’s proposal to use mavacamten capsule formulation without regard to
+food appears reasonable.
+3.3.4.3.2 Gastric pH Modifying Agents
+The Applicant evaluated effect of acid-reducing agents on the pharmacokinetics of mavacamten
+in their drug interaction study (Study # 018). Since omeprazole is an inhibitor of CYP2C19, the
+study primarily evaluated effect of CYP2C19 inhibition on the pharmacokinetics of mavacamten
+(Section 3.3.4.1.1). Concomitant administration of mavacamten with omeprazole (at steady state)
+resulted in increased exposures of mavacamten (AUC: ~50%) without a significant change in peak
+concentrations. It is important to highlight that mavacamten is extensively and mainly metabolized
+by CYP2C19.
+(b) (4)
+
+Mavacamten exhibits a low solubility (pH 2 to 8: 0.02 mg/mL with
+) and high
+-7
+permeability (99.4 to 156 × 10 cm/sec between 1 to 200 µM; potential BCS Class II compound)
+(b) (4)
+profile and the immediate-release capsule formulation
+. Mavacamten does not exhibits a pH dependent solubility profile between pH 2 to 8. In
+(b) (4)
+addition, the Applicant’s dissolution profiles were not considerably different
+even at the highest dose proposed. Therefore, no clinically relevant changes in systemic exposures
+(Cmax or AUC) of mavacamten are expected when administered with acid-reducing agents.
+3.3.5
+
+Is the to-be-marketed formulation the same as the clinical trial
+formulation, and if not, are there bioequivalence data to support
+approval of the to-be-marketed formulation?
+
+Yes. The Applicant developed 2 immediate-release capsule (strengths: 2.5, 5, 10, 15 mg)
+formulations of mavacamten (Capsule 1 and Capsule 2, intended for commercialization) which
+were used in phase-3 safety and efficacy studies. Since the pivotal safety and efficacy study (#
+005) mostly utilized intended commercialization formulation (Capsule 2), PK bridging study was
+not required (Section 5.2).
+The Applicant conducted a clinical study (Study # 014) evaluating the relative bioavailability
+between the intended commercial capsule (Capsule-2) formulation versus the initial capsule
+(Capsule-1) formulation. It was an open-label, randomized, 3-way crossover study conducted in
+healthy subjects (n=24). All subjects were NM or RM of CYP2C19. For relative bioavailability
+assessment, the subjects received single oral administration of 15 mg capsule formulation under
+fasting conditions. The summary of pharmacokinetic parameters is presented in Table 3-11.
+Table 3-11
+Treatment
+Group
+
+Capsule-2+
+
+Reference ID: 4872643
+
+Summary of PK Parameters [Study # MYK-461-014]
+PK Parameters*
+
+Geometric Mean Ratio
+(90% CI)
+
+Cmax
+(ng/mL)
+
+AUCinf
+(ng·h/mL)
+
+Cmax
+(ng/mL)
+
+AUCinf
+(ng·h/mL)
+
+341.1 (28%)
+
+10690 (48%)
+
+-
+
+-
+
+Clinical Pharmacology Review
+NDA-214998
+
+Page 34
+
+Treatment
+Group
+
+Capsule-1
+
+PK Parameters*
+
+Geometric Mean Ratio
+(90% CI)
+
+Cmax
+(ng/mL)
+
+AUCinf
+(ng·h/mL)
+
+Cmax
+(ng/mL)
+
+AUCinf
+(ng·h/mL)
+
+337.5 (38%)
+
+10240 (47%)
+
+1.01
+(0.88 to 1.16)
+
+1.06
+(1.01 to 1.11)
+
+*Data presented as mean (%CV), number of subjects +Intended commercial formulation (test product).
+Source: Reviewer’s analysis.
+
+Both formulations indicated similar absorption rates and exposures with a bi-exponential decline
+after the peak concentration, and a long terminal elimination. The results from this study support
+bridging of data between Capsule-1 and intended commercial capsule formulation, Capsule-2.
+
+Reference ID: 4872643
+
+Clinical Pharmacology Review
+NDA-214998
+
+Page 35
+
+4
+
+APPENDICES
+
+4.1
+
+Pharmacometrics Analysis
+
+4.1.1
+
+Sponsor’s Analysis
+
+4.1.1.1
+
+Objectives
+
+
+
+to develop a population pharmacokinetic (popPK) model for mavacamten that describes data
+pooled from healthy subjects (HS), patients with oHCM, and patients with nHCM
+
+
+
+to quantify the variation in mavacamten exposure due to intrinsic and extrinsic factors
+including study population (HS, oHCM, and nHCM), CYP2C19 phenotypes (PM with *2/*2,
+IM with *1/*2, *2/*17, NM with *1/*1, RM with *1/*17, and UM with *17/*17), body weight,
+age, sex, race, renal function, dose level and formulation
+
+
+
+to develop exposure-response (E-R) models that characterize the relationships between
+mavacamten exposure vs. LVEF and VLVOT in patients with oHCM
+
+
+
+to use the popPK model and E-R models to simulate and explore dose titration regimens based
+on periodic measurement of LVEF and VLVOT
+
+4.1.1.2
+
+Data
+
+The source of data for the popPK modeling were from 12 clinical studies (studies 002, 003, 004,
+005, 006, 007, 008, 009, 010, 011, 012, and 014). The evaluable subjects had received at least 1
+dose of mavacamten and at least 1 measurable mavacamten concentration observation with
+associated sampling time and dosing information.
+The source of data for the E-R modeling were from 5 clinical studies (studies 004, 005, 006, 007,
+and 008). The evaluable subjects had baseline and at least 1 post-treatment (including post-placebo
+treatment) response measurement (LVEF or VLVOT) with associated sampling time.
+Table 4-1.
+
+Studies included in the popPK or E-R analysis.
+
+Study Number [Name]; Phase
+
+Study Design/Objective, Population
+
+Number of subjects
+(Active/Placebo)
+
+MYK-461-002 (002); Phase 1
+
+Single ascending dose study in HS
+
+36/12
+
+MYK-461-003 (003); Phase 1
+
+Multiple ascending dose study in HS
+
+50/10
+
+MYK-461-004 (004) [PIONEER]; Pilot study: 12-week study in patients with oHCM;
+LVOT-guided dose titration
+Phase 2, open label
+
+21/0
+
+MYK-461-005 (005)
+[EXPLORER]; Phase 3
+
+Pivotal placebo-controlled 30-week study in patients 123/128
+with oHCM; PK- and ECHO-guided dose titration
+
+MYK-461-006 (006)
+[MAVERICK]; Phase 2
+
+16-week study in patients with nHCM; PK-guided
+dose titration
+
+Reference ID: 4872643
+
+39/20
+
+Clinical Pharmacology Review
+NDA-214998
+
+Page 36
+
+MYK-461-007 (007)
+[EXPLORER] a; Phase 3 (LTE)
+
+104-week open-label study in patients with oHCM
+(from Study 005); ECHO-guided dose titration
+
+260/0
+
+MYK-461-008 (008)
+[PIONEER]a; Phase 2 (OLE-LTE)
+
+116-week OLE study in patients with oHCM (from 13/0
+Study 004); PK- and LVOTg-guided dose titration
+
+MYK-461-009 (009); Phase 1
+
+DDI (verapamil); Single dose in HS
+
+25/0 (12 - verapamil)
+
+MYK-461-010 (010); Phase 1
+
+DDI (oral contraception); Multiple-dose crossover
+study in HS
+
+13/0
+
+MYK-461-011 (011); Phase 1
+
+Single dose; Japanese vs Caucasian HS
+
+28/0
+
+MYK-461-012 (012); Phase 1
+
+PM OF CYP2C19 vs NM (*2/*2 vs *1/*1); Single
+dose in HS
+
+16/0
+
+MYK-461-014 (014); Phase 1
+
+Food effect; initial capsule vs intended commercial
+capsule; Single-dose crossover study in HS
+
+24/0
+
+a Study ongoing, partial study data to be included; data cut-off data: 30 Oct 2020. DDI: drug-drug
+
+interaction; HS: healthy subjects; LTE: long-term extension; LVOT: left ventricular outflow tract; nHCM:
+non-obstructive hypertrophic cardiomyopathy; NM: normal metabolizer; PM: poor metabolizer (CYP2C19
+*2/*2); oHCM: obstructive hypertrophic cardiomyopathy; OLE: open-label extension.
+Source: Adapted from Table S1 in Applicant’s popPK report (mavacamten-poppk-report.pdf, SN0038).
+
+4.1.1.3
+
+Method
+
+PopPK modeling was conducted using the nonlinear mixed effect modeling approach with
+NONMEM Version 7.4 facilitated by PsN Version 4.8.1 and R Version 4.0. First-order conditional
+estimation method with interaction was used for popPK model development. The structural base
+model was selected based on prior experience and included body weight, CYP2C19, and
+formulation (solution vs. tablet and capsule). Additional covariate selection was conducted in a
+stepwise process using SCM (significance levels: forward 0.01; backward 0.001).
+The following covariates were tested: ALT, LBW, TBIL, EGFR, CRCL, dose, race, sex, study
+population, tablet formulation, NYHA classification, concomitant omeprazole, esomeprazole,
+lansoprazole, or pantoprazole administration, and fed status (in HS only). Concomitant
+medications were evaluated without regard to the N=15 threshold. Age and AST were not tested
+because of high correlation with EGFR and ALT, respectively. Standard diagnostic plots were
+used to access each model in describing the observations. Prediction-corrected visual predictive
+checks (pcVPCs) were used to evaluate the predictive ability of the final model.
+E-R analyses were conducted using R Version 4.0. Direct-effect model was selected for LVEF
+(decreasing power model) and VLVOT (exponential model) based on prior experience and
+preliminary analysis. The primary exposure measure considered was the average concentration for
+the 7-day period prior to the endpoint measure (Cavg168). The selection of covariates for
+evaluation focused on clinical relevance and statistical significance. Standard diagnostic plots were
+used to access each model in describing the observations.
+Simulations were performed as a qualification tool and to compare study 005 and ECHO-guided
+titration regimens based on LVEF and VLVOT measures. VLVOT <30 mm Hg was selected as
+
+Reference ID: 4872643
+
+Clinical Pharmacology Review
+NDA-214998
+
+Page 37
+
+the threshold for the efficacy biomarker because in graphical analysis comparing VLVOT and the
+primary clinical endpoint NYHA classification, the best outcomes, consisting of improvement of
+1 to 2 levels in NYHA classification, were clustered at VLVOT levels below about 30 mm Hg.
+Simulations of different ECHO-guided titration regimens were also compared to results from study
+005. Simulation was conducted in 4000 subjects for all scenarios.
+4.1.1.4
+
+Results
+
+Population PK Analysis
+Mavacamten PK was best described by a 2-compartment model, including rapid first-order
+absorption with a short lag time, followed by rapid distribution, and a long terminal (first-order)
+elimination phase. The model included the effects of baseline body weight (WT) on clearances
+(apparent clearance [CL/F] and apparent inter-compartmental clearance [Q/F]) and volumes
+(apparent central volume of distribution [V2/F] and apparent peripheral volume of distribution
+[V3/F]); CYP2C19 phenotype on CL/F; HS, omeprazole and esomeprazole administration, and
+sex on CL/F; solution formulation on absorption rate constant (KA) and relative bioavailability
+(F); dose level on absorption lag time (ALAG1) and F; fed status on KA and F; and sex on F.
+Based on formal and exploratory covariate analysis, there was no significant effect of age (range:
+18-82 years), race (Caucasian 80%, Black/African American 5%, Asian 12.5%), and mild to
+moderate renal impairment (eGFR 29.5-148 mL/min/1.73m2) on mavacamten PK.
+The Parameter estimates of the Applicant’s Final PopPK model for mavacamten are listed in Table
+Table 4-2. The goodness-of-fit (GOF) plots are presented in Figure 4-4. The pcVPC plots are
+illustrated in Figure 4-5.
+Table 4-2.
+
+Parameter Estimates of Applicant’s Final Population PK Model of
+Mavacamten
+
+Fixed effect Parameters
+CL/F (L/hr)
+WT-CLx/F
+2C19:PM-CL/F
+2C19:IM-CL/F
+2C19:RM-CL/F
+2C19:UM-CL/F
+2C19:Missing
+HS-CL/F
+OMEP-CL/F
+EGFR-CL/F
+ESOMEP-CL/F
+Female-CL/F
+V2/F (L)
+WT-Vx/F
+
+Reference ID: 4872643
+
+Estimate
+0.914
+0.75 [Fixed]
+-0.722
+-0.331
+-0.0022
+0.253
+-0.14
+0.272
+-0.332
+0.205
+-0.421
+0.273
+6.63
+0.813
+
+%RSE
+3
+-3
+10
+2050
+51
+41
+21
+10
+42
+6
+20
+14
+9
+
+Parameter
+V3/F (L)
+Q/F (L/hr)
+KA (hr-1)
+Solution-KA
+Fasted HS-KA
+Dose-KA
+Log(ALAG1 (hr))
+Dose-ALAG1
+F
+Solution-F
+Dose-F
+Fasted HS-F
+Fed HS-F
+Female-F
+
+Estimate
+252
+16.3
+0.301
+0.681
+0.873
+-0.135
+0.192
+-0.087
+1 [Fixed]
+-0.194
+0.0777
+-0.314
+-0.433
+0.0945
+
+%RSE
+2
+4
+25
+23
+63
+20
+5
+43
+-21
+15
+7
+7
+27
+
+Clinical Pharmacology Review
+NDA-214998
+
+Random Effect
+IIV on CL/F
+CL-V2/F correlation
+IIV on V2/F
+CL-V3/F correlation
+V2-V3/F correlation
+IIV on V3/F
+IIV on KA
+IIV on Q/F
+IIV on RUV
+Residual Error
+EP
+EP14
+
+Page 38
+
+Estimate
+53.2%
+-2%
+131.9%
+58%
+3%
+22.6%
+41.1%
+23%
+46.6%
+Estimate
+0.0292
+0.478
+
+%RSE
+3
+
+Shrinkage (%)
+1
+
+9
+
+37
+
+5
+14
+8
+8
+%RSE
+5
+22
+
+13
+45
+43
+1
+1
+1
+
+Abbreviations: 2C19=cytochrome P450 2C19; ALAG1=absorption lag time; CL=clearance;
+CLx=clearances; CV=coefficient of variation; EP=exponential residual error; EP14 exponential residual
+error for Study MYK-461-014 data; ESOMEP=esomeprazole; F=relative bioavailability; HS=healthy
+subject; IIV=inter-individual variability; IM=intermediate metabolizer; KA=absorption rate constant;
+OMEP=omeprazole; PM=poor metabolizer; Q=inter-compartmental clearance; RSE=relative standard
+error; RUV=residual unexplained variability; UM=ultra-rapid metabolizer; V2=central volume of
+distribution; V3=peripheral volume of distribution; Vx=volumes; WT=body weight.
+Source: Applicant’s final model run117. Table 11 in Applicant’s PopPK study report.
+
+Reference ID: 4872643
+
+Clinical Pharmacology Review
+NDA-214998
+
+Figure 4-4.
+
+Page 39
+
+Goodness-of-Fit plots for the Applicant’s Final Model
+
+Source: mavacamten-poppk-report.pdf, SN0038, Figure 8
+
+Reference ID: 4872643
+
+Clinical Pharmacology Review
+NDA-214998
+
+Figure 4-5.
+
+Page 40
+
+pcVPC Plots for the Final PopPK Model (Top: study 005; Middle: single
+dose in healthy subjects; Bottom: multiple dose in healthy subjects)
+
+Source: mavacamten-poppk-report.pdf, SN0038, Figure 11 and Figure 20.
+
+The popPK model was used to simulate the effect on exposures of covariates on a univariate basis.
+Compared to the reference subject (a patient with oHCM, 84 kg male, NM of CYP2C19, with an
+eGFR of 95 mL/min/1.73 m2 without any concomitant medication on 5 mg QD mavacamten
+treatment for 30 weeks). Median steady state average concentration (Cavg-SS) was most influenced
+
+Reference ID: 4872643
+
+Clinical Pharmacology Review
+NDA-214998
+
+Page 41
+
+by dose level (0.45-fold with 2.5 mg QD to 3.6-fold with 15 mg QD) and CYP2C19 phenotype
+(from 0.8-fold in UM to 3.6-fold in PM). The effect of WT on Cavg-SS ranged from 0.68-fold (140
+kg) to 1.6-fold (45 kg). Healthy subjects had higher apparent clearance and reduced Cave-SS relative
+to the reference subject with oHCM. Similar covariate influence was seen on trough concentration
+at daily dosing interval (Ctrough) and maximum concentration (Cmax).
+Reviewer’s comments:
+
+
+The dataset has minor issues such as including non-zero concentration before the first dose.
+There were potential outlier observations with extremely long follow up time after the last
+dose.
+
+
+
+Intensive PK data were collected in healthy subject studies. Studies 005 and 006 collected 1
+post-dose PK data per study subject at 1-2 hours post-dose after repeated dosing; otherwise,
+only trough concentrations were collected in the patient population. Considering significant
+food effect on Cmax and a lack of control of meal intake in the patient studies, the population
+PK model cannot be used to predict Cmax in the target patient population.
+
+
+
+The large IIV on RUV suggested uncertainties in the prediction of individual concentrations.
+On the other hand, considering the small shrinkage on CL (~1%), which was set for the patient
+population, the model appears reasonable to predict average overall exposure and average
+concentration to support further exposure-response analysis.
+
+
+
+Reviewer’s independent analyses on revised datasets (e.g., remove pre-dose concentration,
+shorter follow-up from long term extension studies) and modified covariate models resulted in
+similar estimates on key parameters (e.g., CL/F, V2/F) and key covariate effect by CYP2C19
+genotype.h
+
+Exposure-Response Analyses
+The base model for exposure-LVEF analysis has the mathematical representation: E = E0 × (1 exp(kk) × (Cavg168)qq) with the exponent qq fixed to 1. The final model included baseline LVEF
+(centered at 74%), study population (nHCM versus oHCM) and sex on intercept parameter E0,
+and baseline LVEF and Study MYK-461-005 on steepness parameter kk and power model
+exponent qq. Random effects were retained on both E0 (additive) and kk (proportional). The
+parameter estimates of the Applicant’s final E-R model for LVEF are presented in Table 4-3. The
+VPC plots stratified by studies (Study 005 and others) are presented in Figure 4-6.
+Table 4-3.
+
+Parameter Estimates of Applicant’s Final Exposure-Response Model for
+LVEF
+
+Parameter
+Unit
+E0.(Intercept)
+%
+E0.I(log(BL.LVEF/74))
+%
+E0.POPnHCM
+%
+E0.SEXFEMALE
+%
+Log(kk.(Intercept)) (for Study MYK-461-005)
+1/(ng/mL)
+Log(kk.(Intercept)) (Additive value, other studies relative to study 005)
+
+Reference ID: 4872643
+
+Value
+74.0
+33.6
+-3.24
+1.40
+-12.8
+4.29
+
+Standard Error
+0.243
+1.73
+0.485
+0.345
+0.901
+0.869
+
+Clinical Pharmacology Review
+NDA-214998
+
+Page 42
+
+kk.I(log(BL.LVEF/74))
+qq.(intercept) (for Study MYK-461-005)
+qq.(intercept) (Additive value, other studies relative to study 005)
+Random effects
+SD (E0.(Intercept))
+SD (kk.(Intercept))
+Corr (E0,kk)
+Residual SD
+
+1/(ng/mL)
+
+1.73
+1.69
+-0.64
+
+%
+1/(ng/mL)
+%
+
+2.38
+0.616
+-0.062
+4.8
+
+0.418
+0.146
+0.142
+
+Source: Mavacamten-er-report.pdf, SN0038, Table 9
+Figure 4-6.
+
+VPC for the Final E-R Model for LVEF
+
+Source: Mavacamten-er-report.pdf, SN0038, Figure 10
+
+Reviewer’s comments:
+
+
+Dose adjustment based on PD response may introduce bias into the evaluation of the E-R
+relationships. The reviewer conducted sensitivity analysis using data on or before the first
+potential dose adjustment (Week 4 in study 004 and Week 6 in studies 005-008). The reviewer’s
+final model based on these early data points follows the mathematical representation: E = E0
+× (1 - kk × Cavg168). Baseline LVEF, patient population and sex were identified as significant
+covariates on E0, and baseline LVEF, pacemaker and study 005 were significant covariates
+on kk. The predicted drug effects on LEVF were similar to the Applicant’s final model for
+patients with oHCM in studies other than study 005. Study 005 has a shallower E-R slope as
+compare to the other studies.
+
+
+
+The Applicant’s final model included study specific effect on key model parameters. In a typical
+patient with oHCM, the predicted LVEF is higher with study 005 parameters than with nonstudy 005 parameters at concentrations below ~800 ng/mL; the predicted LVEF values was
+
+Reference ID: 4872643
+
+Clinical Pharmacology Review
+NDA-214998
+
+Page 43
+
+lower with study 005 parameters at concentrations above 800 ng/mL. In reviewer’s analyses,
+the confidence interval of the percent of patients with LVEF<50% highly overlap in
+simulations when using study 005 or non-study 005 parameters.
+
+
+Overall, reviewer’s analyses do not present major concerns of under-estimating the risks of
+reaching LVEF<50% threshold. It appears reasonable to use study 005 parameters in
+Applicant’s final model for simulation in further analysis.
+
+The base model for exposure-VLVOT analysis has the mathematical representation: E = exp(E0)
+× exp(-exp(kk) × Cavg168). The final model included baseline VLVOT (centered at 69 mm Hg) on
+both intercept parameter E0 and steepness parameter kk and baseline NT-proBNP (centered at 736
+pg/mL) on E0. Proportional random effects were retained on both E0 and kk. The model also
+included placebo effect in time. The parameter estimates of the Applicant’s final E-R model for
+VLVOT are presented in Table 4-3. The VPC plot for VLVOT is presented in Figure 4-7.
+Table 4-4.
+
+Parameter Estimates of Applicant’s Final Exposure-Response Model for
+VLVOT
+
+Parameter
+Log(E0.(Intercept))
+E0.I(log(VLVOT_BL/69)
+E0.I(log(NTPROBNP_BL/736))
+Log(kk.(Intercept))
+kk.I(log(VLVOT_BL/69))
+Placebo parameters
+kt
+aa (Fixed)
+Random effects
+SD (E0.(Intercept))
+SD (kk.(Intercept))
+Corr (E0,kk)
+Residual SD (exponential error)
+
+Source: Mavacamten-er-report.pdf, SN0038, Page 68; Table 10
+
+Reference ID: 4872643
+
+Unit
+mm Hg
+
+Value
+4.22
+0.521
+0.108
+-5.66
+0.438
+
+Standard Error
+0.0248
+0.0319
+0.0152
+0.0343
+0.0506
+
+1/wk
+
+0.0373
+0.8767
+
+0.0205
+-
+
+mm Hg
+1/(ng/mL)
+
+0.245
+0.433
+0.010
+0.468
+
+1/(ng/mL)
+
+Clinical Pharmacology Review
+NDA-214998
+
+Figure 4-7.
+
+Page 44
+
+VPC for the Final E-R Model for VLVOT
+
+Source: Mavacamten-er-report.pdf, SN0038, Figure 16
+
+Comparison of the time-course of study 005 data (VLVOT, LVEF, and concentration) with the
+simulation results using study 005 titration regimen suggested that models represent the data well
+(Figure 4-8).
+
+Reference ID: 4872643
+
+Clinical Pharmacology Review
+NDA-214998
+
+Figure 4-8.
+
+Page 45
+
+Predictive Check Comparing the Dose-Titration Simulation.
+
+Source: Mavacamten-er-report.pdf, SN0038, Figure 20.
+
+Simulations to Support the Applicant’s Proposed Dosing Regimen
+The Applicant’s proposed dosing regimen in the labeling was different from that was studied in
+Study 005. The proposed dosing regimen included potential down-titration at Week 4 if VLVOT
+<20 mm Hg, a scheduled return visit every 12 weeks for potential up-titration (if VLVOT gradient
+≥30 mm Hg and LVEF ≥55%; maximum dose: 15 mg QD) followed by an additional visit 4 weeks
+after, and temporary dose interruption at all visits for LVEF <50% followed by re-start at the next
+
+Reference ID: 4872643
+
+Clinical Pharmacology Review
+NDA-214998
+
+Page 46
+
+lower dose after LVEF ≥50%. This dosing regimen was selected based on primarily similar dose
+distribution (Table 4-5) and percentage of patients with LVEF<50% (Figure 4-9 upper left panel)
+or VLVOT<30% (Figure 4-9 upper right panel) at Week 30 in comparison to study 005 regimen,
+and secondly on visit frequency and feasibility considerations.
+Table 4-5. Final (Week 30) Observed and Predicted Percent at Each Dose Level in Study
+MYK-461-005
+Final Dose
+0
+2.5 mg
+5 mg
+10 mg
+15 mg
+
+Observed (%)
+1.65
+4.96
+49.6
+33.1
+10.7
+
+Predicted (%) – 005 regimen
+0.725
+5.9
+44.6
+38.6
+10.2
+
+Predicted (%) – proposed regimen
+1.75
+2.58
+44.6
+39.8
+11.2
+
+Source: adapted from Mavacamten-er-report.pdf, SN0038, Table 12 and Table 13.
+Figure 4-9.
+
+Reference ID: 4872643
+
+Time Course of Percent of Patients Achieving Key LVEF, VLVOT, and
+Concentration Thresholds for Long-term Dosing and Comparison to
+Study 005 Regimen.
+
+Clinical Pharmacology Review
+NDA-214998
+
+Page 48
+
+with each trial containing 500 patients equally distributed to 5 genotype groups. In the simulations,
+routine visits are scheduled every 12 weeks or 24 weeks with additional visit 4 weeks later for
+patients had an up-titration in any of the routine visit.
+Results:
+The Applicant’s proposed dosing regimen in the labeling results in a remarkably higher proportion
+of patients with PM of CYP2C19 experiencing LVEF<50% during the course of treatment, despite
+of a slightly higher response of VLVOT <30 mm Hg (Figure 4-10).
+Figure 4-10.
+
+Time Course of Percent of Patients Reaching LVEF (Left Panel) and
+VLVOT (Right Panel) Thresholds at the Applicant’s Proposed Dosing
+Regimen.
+
+Source: Reviewer’s analysis.
+
+One additional visit at Week 8 with potential down titration (VLVOT<20 mm Hg, same as Week
+4) reduces the percent of patients experience LVEF<50% in the PM group between weeks 12 to
+36; however, the risk is still significantly higher than the other groups (Figure 4-11).
+
+Reference ID: 4872643
+
+Clinical Pharmacology Review
+NDA-214998
+
+Figure 4-11.
+
+Page 49
+
+Time Course of Percent of Patients Reaching LVEF (Left Panel) and
+VLVOT (Right Panel) Thresholds at the Applicant’s Proposed Dosing
+Regimen with an Additional Visit at Week 8.
+
+Source: Reviewer’s analysis.
+
+More frequent visits after 1 year (changing from Q6M to Q3M) reduces the percent of patients
+with LVEF<50% in the PM group, but the risk is still unacceptably high (Figure 4-12). In addition,
+there does not appear to be major improvement in the percent of patients with LVEF<50% in the
+other genotypes.
+Figure 4-12.
+
+Time Course of Percent of Patients Reaching LVEF (Left Panel) and
+VLVOT (Right Panel) Thresholds at the Applicant’s Proposed Dosing
+Regimen with Additional Visits at Week 8 and After 1 Year.
+
+Source: Reviewer’s analysis.
+
+To further reduce the percent of patients with LVEF<50%, we simulated a scenario, in which all
+patients start with 5 mg QD, following the Applicant’s proposed ECHO-based dose adjustment
+criteria in the labeling, and receive doses on a three-times per week (TIW; Monday, Wednesday
+and Friday) basis from Week 5. The reduced dosing frequency lowered the maximum percent of
+patients with LVEF<50% to approximately 2.5% in patients with PM genotype, however, it also
+
+Reference ID: 4872643
+
+Clinical Pharmacology Review
+NDA-214998
+
+Page 50
+
+resulted in a significant reduction in percent of patients with VLVOT<30 mm Hg in the other
+genotype groups (Figure 4-13).
+Figure 4-13.
+
+Time Course of Percent of Patients Reaching LVEF (Left Panel) and
+VLVOT (Right Panel) Thresholds with a Reduced Dosing Frequency from
+Week 5.
+
+Source: Reviewer’s analysis.
+
+Overall, we recommend prospective genotyping before mavacamten treatment. Patients with nonPM genotypes should follow the Applicant’s proposed dosing regimen, while patients with PM
+genotype should follow a modified dosing regimen with a reduced dosing frequency after 4-week
+treatment with the same ECHO-guided dose adjustment criteria as the Applicant proposed in the
+labeling. Such a prospective genotyping doing regimen is expected to achieve similar benefit-risk
+(based upon similar incidence of LVEF <50% and VLVOT <30 mm Hg) across different
+CYP2C19 genotypes (Figure 4-14).
+Figure 4-14.
+
+Time Course of Percent of Patients Reaching LVEF (Left Panel) and
+VLVOT (Right Panel) Thresholds at the Reviewers’ Recommended Dosing
+Regimens.
+
+Source: Reviewer’s analysis.
+
+Reference ID: 4872643
+
+Clinical Pharmacology Review
+NDA-214998
+
+Page 51
+
+4.2
+
+Pharmacogenomics Analysis
+
+4.2.1
+
+Background
+
+Mavacamten is predominantly cleared by CYP2C19 (~74%), CYP3A4 (~18%), and CYP2C9
+(~7.6%). Many metabolites are formed; the most abundant metabolite MYK-1078 is <4% of the
+exposure of mavacamten.
+The CYP2C19 gene is highly polymorphic. Alleles are categorized into functional groups as
+follows: normal function (e.g., CYP2C19*1), decreased function (e.g., CYP2C19*9), no function
+(e.g., CYP2C19*2-*8), and increased function (e.g., CYP2C19*17). An individual carrying two
+increased function alleles is considered an UM of CYP2C19. An individual carrying one normal
+function allele and one increased function allele is a RM of CYP2C19. An individual carrying two
+normal function alleles is a NM of CYP2C19. An IM of CYP2C19 is defined as an individual
+carrying one normal function allele and one no function allele, or one increased function allele and
+one no function allele. PM of CYP2C19 is an individual carrying two no function alleles. The
+phenotype frequencies differ across ancestrally diverse populations (Table 4-6).
+Table 4-6
+
+Frequency of the CYP2C19 Phenotypes Across Racial/Ethnic Populations
+
+Racial/Ethnic
+Population
+
+CYP2C19 Phenotype Frequency (%)
+Ultrarapid
+
+Rapid
+
+Normal
+
+Intermediate
+
+Poor
+
+African-American
+
+4
+
+24
+
+33
+
+31
+
+4
+
+American†
+
+0.7
+
+14
+
+63
+
+21
+
+1
+
+Central/South Asian
+
+3
+
+19
+
+30
+
+41
+
+8
+
+East Asian
+
+<1
+
+3
+
+38
+
+46
+
+13
+
+European
+
+5
+
+27
+
+40
+
+26
+
+2
+
+Latino
+
+3
+
+24
+
+52
+
+19
+
+1
+
+Source: Reviewer-generated table based on PMID: 32770672. Racial/Ethnic Population categorization
+based on PMID: 30506572. †The American genetic ancestry group includes populations from both North
+and South America with ancestors predating European colonization, including American Indian, Alaska
+Native, First Nations, Inuit, and Métis in Canada, and Indigenous peoples of Central and South America.
+
+The purpose of this review is 1) to determine if the CYP2C19 phenotype assignments as performed
+by the Applicant are acceptable and 2) to evaluate the Applicant’s analyses of mavacamten efficacy
+in various HCM genotype pathogenicity subgroups.
+4.2.2
+
+Contents
+
+4.2.2.1
+
+CYP2C19 Genotyping Assessment and Phenotype Categorization
+
+Different CYP2C19 allele combinations are categorized into the following phenotypes (Table 4-7).
+
+Reference ID: 4872643
+
+Clinical Pharmacology Review
+NDA-214998
+
+Table 4-7
+
+Page 52
+
+Assignment of the CYP2C19 Phenotype Based on Genotype
+Phenotype
+
+Examples of CYP2C19 Diplotypes
+
+CYP2C19 ultrarapid metabolizer (UM)
+
+*17/*17
+
+CYP2C19 rapid metabolizer (RM)
+
+*1/*17
+
+CYP2C19 normal metabolizer (NM)
+
+*1/*1
+
+CYP2C19 intermediate metabolizer (IM)
+CYP2C19 poor metabolizer (PM)
+
+*1/*2, *1/*3, *2/*17, *3/*17
+*2/*2, *2/*3, *3/*3
+
+Source: Reviewer-generated table based on PMID: 32770672
+
+Table 4-8 contains studies with available CYP2C19 genotype data and assigned phenotypes status.
+In addition, Table 4-8 provides genotyping methods where available.
+
+Reference ID: 4872643
+
+Clinical Pharmacology Review
+NDA-214998
+
+MYK-461-013,
+Phase 1, open label,
+single dose
+MYK-461-015,
+Phase 1, open label,
+nonrandomized,
+parallel group
+MYK-461-014,
+Phase 1, randomized,
+open label,
+3-way crossover
+
+MYK,
+N=6
+MYK,
+N=27
+
+MYK,
+N=24
+
+Page 55
+
+Preferred participants will NM. RM may be enrolled
+with Applicant’s approval; no additional genotyping
+methods were provided
+Genotyping was performed at a single central
+laboratory; alleles detected: *1,*2,*3,*17 by the
+LUMINEX XTAG(R) CYP2C19 KIT V3 US-IVD
+
+---
+
+---
+
+(*1/*1), n=6
+
+---
+
+---
+
+---
+
+*1/*17, n= 12
+
+---
+
+---
+
+---
+
+Enrolled subjects with NM, RM or UM as determined
+by the central laboratory during the prescreening
+period; the CYP2C9 genotype was collected as part of
+subject characterization only; no additional genotyping
+methods were provided
+
+---
+
+*1/*17, n=5
+
+*1/*1, n=19
+
+---
+
+---
+
+Source: Reviewer-generated table based on data submitted in the NDA package. *Number of subjects completed the study. MYK= Mavacamten; V= Verapamil;
+OMEP= Omeprazole; MDZ= Midazolam; PLB= Placebo. Genotypes CYP2C19*2A and CYP2C19*2B are considered to be no function alleles and can be
+categorized as CYP2C19*2. PM: Poor Metabolizers of CYP2C19; IM: Intermediate Metabolizers of CYP2C19; NM: Normal Metabolizers of CYP2C19; RM:
+Rapid Metabolizers of CYP2C19; UM: Ultra-rapid Metabolizers of CYP2C19.
+
+Reference ID: 4872643
+
+Clinical Pharmacology Review
+NDA-214998
+
+Page 56
+
+Reviewer’s Comments:
+The Applicant’s CYP2C19 variant selection (i.e., *1, *2, *3, *9, *17) seems to be adequate to
+cover the most common and relevant genotypes of the CYP2C19 gene to adequately determine a
+patient’s CYP2C19 phenotype. The Applicant utilized categorization of the CYP2C19 alleles into
+the phenotype groups as presented in Table 2. The reviewer agrees with the proposed
+categorization. Of note, the CYP2C19 *1/*17 genotype was classified as UM in study MYK-461004 (n=3), which is not in agreement with established categorization approach, that classifies
+*1/*17 as RMs. All other phenotype assignments seem to be adequate. In most instances, limited
+information about genotype methods were provided in the submitted NDA package.
+4.2.2.2
+
+HCM Genotype Assessment
+
+Hypertrophic cardiomyopathy (HCM) is a primary myocardial disorder defined by left ventricular
+(LV) hypertrophy that cannot be explained by another cardiac or systemic disease. According to
+the Applicant, approximately 40% of affected individuals overall and 60% of those with a family
+history of clinical disease have a mutation in one or more sarcomeric structural genes.
+Pivotal study MYK-461-005 enrolled patients diagnosed with obstructive hypertrophic
+cardiomyopathy (oHCM). Clinical diagnoses of patients with oHCM were based on current
+clinical guidelines. In addition, blood samples were collected for optional HCM genotyping for
+subjects who provided separate, specific consent. In vitae performed HCM genotyping using a 60gene panel. A by-subject listings of the results from current and historical HCM genotype testing
+was provided by the Applicant.
+The 251 subjects randomized into the study were included in the intention to treat (ITT) population,
+including 123 subjects in the mavacamten group and 128 subjects in the placebo group. HCM
+genotyping was optional. Overall, 76% of subjects had HCM genotype assayed, including 73%
+(90/123 subjects) in the mavacamten group and 78% (100/128 subjects) in the placebo group. In
+the mavacamten group, 31% of subjects had at least 1 pathogenic or likely pathogenic mutation
+and 22% in the placebo group.
+The most common mutations identified were in the MYBPC3 (12% of mavacamten subjects and
+13% of placebo subjects) and MYH7 (8% of mavacamten subjects and 3% of placebo subjects)
+genes. More than 50% of subjects had at least 1 variant of uncertain significance (VUS) (59% of
+mavacamten subjects and 52% of placebo subjects). The most common VUSs were identified in
+the following genes:
+
+
+Mavacamten: FLNC (8%), MYH7 (6%), and MYBPC3 (4%)
+
+
+
+Placebo: MYBPC3 (7%), MYH6 (5%), FLNC (4%), and TPM1 (4%)
+
+Subjects with any HCM pathogenic, likely pathogenic, or VUS mutations were included in a
+subgroup analyses of efficacy endpoints. According to the Applicant analyses, there was an
+increase in magnitude of effect on the primary endpoint observed for the subgroup of subjects with
+a pathogenic or likely pathogenic mutation (28 subjects in the mavacamten group vs. 22 subjects
+in the placebo group; difference mavacamten vs. placebo 30% [95% CI, 3.7 to 56.0]) compared
+
+Reference ID: 4872643
+
+Clinical Pharmacology Review
+NDA-214998
+
+Page 57
+
+with those without pathogenic, likely pathogenic or VUS mutations (30 subjects in the
+mavacamten group vs. 35 subjects in the placebo group; difference mavacamten vs. placebo 9%
+[95% CI, -9.2 to 26.3]; Table 4-9). Minimal to no interaction was seen for the secondary endpoints.
+Table 4-9
+
+Between-Group Differences in the Composite Functional Endpoint at
+Week 30 by Baseline Characteristics and Stratification Factors (ITT
+Population, Study MYK-461-005)
+
+Source: The Applicant-generated Figure 6; Mavacamten Clinical Study Report MYK-461-005
+(EXPLORER-HCM). BMI = body mass index; HCM = hypertrophic cardiomyopathy; LVEF = left
+ventricular ejection fraction; NT-proBNP = N-terminal pro b-type natriuretic peptide; NYHA = New York
+Heart Association; VUS = variant of uncertain significance. The dotted vertical line represents the overall
+estimate. The 95% CIs of the response differences between mavacamten and placebo groups are based on
+normal approximation. The subgroups by stratification factors were determined using data in the eCRF.
+
+4.2.3
+
+Labeling Recommendations
+
+Please refer to labeling for a final labeling recommendation.
+
+Reference ID: 4872643
+
+Clinical Pharmacology Review
+NDA-214998
+
+4.2.4
+
+Page 58
+
+Summary of Findings
+
+The approach and methodologies utilized by the Applicant for determination of the metabolizer
+status based on the CYP2C19 genotype results seem generally acceptable. Of note, the CYP2C19
+*1/*17 genotype was classified as UM of CYP2C19 in study MYK-461-004, which is not in
+agreement with the established categorization and should be classified as RM of CYP2C19.
+However, we do not anticipate meaningful impact on results given phenotype classification of only
+three patients was affected.
+Based on the Applicant analyses, there seems to be an increase in magnitude of effect on the
+primary endpoint observed for the subgroup of subjects with the pathogenic or likely pathogenic
+HCM associated mutations compared to patients with no mutations. However, sample collection
+for HCM genotyping was optional and obtained from 76% of patients in study MYK-461-005,
+which limits interpretation of the results presented by the Applicant.
+
+Reference ID: 4872643
+
+Clinical Pharmacology Review
+NDA-214998
+
+4.3
+
+PBPK Analysis
+
+4.3.1
+
+Executive Summary
+
+Page 59
+
+The objective of this review is to evaluate the adequacy of the Applicant’s physiologically based
+pharmacokinetic (PBPK) analyses to evaluate the drug-drug interaction (DDI) potentials:
+
+
+as a victim of CYP3A in PM OF CYP2C19
+
+
+
+as an inducer of CYP2B6, CYP3A4, and CYP2C8/9/19
+
+The Division of Pharmacometrics has reviewed the PBPK analyses reports (myo-1-b-simcyp and
+NC-20-0047), the response to FDA’s information requests submitted on March 19th (SN0009),
+June 23rd (seq 0030), and June 29th, 2021 (seq 0032), and PBPK report addendum (SN0038)
+submitted on August 6th, 2021, and the modeling supporting files, and concluded the followings
+based on the reviewer’s simulation results.
+
+
+The induction effects of mavacamten on probe substrates of CYP3A4 and CYP2Cs in patients
+with obstructive hypertrophic cardiomyopathy (oHCM) ranged from weak to moderate
+induction effects depending on mavacamten dose and the CYP2C19 genotype.
+
+
+
+The PBPK analysis of the effect of mavacamten on CYP2B6 is inadequate due to the
+uncertainty about the relative contribution of CYP2B6 in the elimination of the CYP2B6 probe
+substrate bupropion.
+
+
+
+The effects of CYP3A and CYP2C19 modulators was evaluated/simulated in healthy subjects
+listed below. There is uncertainty about applying the predicted DDI effects to patients due to
+the unknown mechanism for higher exposure in this patient population.
+o In PM OF CYP2C19, the strong CYP3A inhibitors itraconazole and ketoconazole were
+predicted to increase mavacamten AUC0-24h,ss and Cmin,ss by approximately 2-fold.
+o In NM of CYP2C19, strong CYP2C19 inhibitor and moderate CYP3A inhibitor
+fluconazole was predicted to increase mavacamten AUC0-24h,ss by at least 3-fold and Cmin,ss
+by at least 5.4-fold.
+o The strong CYP3A and CYP2C19 inducer rifampin was predicted to reduce mavacamten
+AUC0-24h,ss by approximately 3- and 8-fold, and Cmin,ss by 4- and 40-fold in PM of
+CYP2C19 and NM of CYP2C19, respectively. The moderate CYP3A and CYP2C19
+inducer efavirenz was predicted to reduce mavacamten AUC0-24h,ss by approximately 1.5fold and Cmin,ss by approximately 2-fold.
+
+4.3.2
+
+Background
+
+Mavacamten (MYK-461, SAR439152) is a novel small molecule selective allosteric inhibitor of
+cardiac myosin and is being investigated for treatment of symptomatic obstructive hypertrophic
+cardiomyopathy. The available dose strengths are 2.5-, 5-, 10- and 15-mg. It was proposed that
+each patient starts from the lowest effective dose of 5-mg once daily regardless of food, age, sex,
+
+Reference ID: 4872643
+
+Clinical Pharmacology Review
+NDA-214998
+
+Page 60
+
+CYP2C19 genotype, organ impairment (mild or moderate), or concomitant medication. Dosetitration is based on each patient’s clinical response. The maximum recommended dose is 15-mg
+once daily. Following oral administration of multiple-dose of mavacamten, its average
+concentration at the steady-state, Cavg,ss, increased dose proportionally across the dose range of 2to 15-mg in healthy subjects and in patient population (mavacamten-poppk-report.pdf), and Cavg,ss
+in oHCM patients with the NM of CYP2C19 was approximately 2.7-fold higher than that in
+healthy NM of CYP2C19 (mavacamten-poppk-report.pdf). Its AUC accumulated approximately
+7-fold at steady-state in NM of CYP2C19. PM of CYP2C19 had 3.4-fold higher in AUC compared
+to NM of CYP2C19. Its terminal half-life was approximately 3 days in UM of CYP2C19, 8 days
+in NM of CYP2C19, and 23 days in PM of CYP2C19.
+Mavacamten appears to be a BCS class II compound. It is well-absorbed and is extensively
+metabolized primarily through CYP2C19 (74%), CYP3A4 (18%), and CYP2C9 (7.6%) (NC-170018). In the human ADME study, approximately 7% and 85% of radioactivity were recovered in
+the feces (1% unchanged parent) and the urine (3% unchanged parent), respectively. Mavacamten
+is not a substrate of P-gp, BCRP, OATP1B1 and OATP1B3. Mavacamten is determined in vitro
+to be a mechanism-based inhibitor of CYP2D6 and CYP2C19, and a competitive inhibitor of
+CYP3A (IC50 =175 µM), CYP2C9 (Ki =59.5 µM ) and CYP2C19 (Ki = 46.2 µM). Mavacamten is
+also an inducer of CYP2B6, CYP2C8, CYP2C9, CYP2C19 and CYP3A4 in vitro. The Applicant
+conducted clinical DDI studies with omeprazole, verapamil, oral contraceptives and midazolam,
+and a clinical PK study in NM of CYP2C19 to evaluate some of the in vitro findings. Refer to the
+Clinical Pharmacology review Section for detail information on mavacamten regarding ADME
+properties, in vitro and clinical studies used in PBPK modeling.
+4.3.3
+
+Methods
+
+Simulations related to evaluation of mavacamten as a victim of strong CYP3A inhibitors and
+inducers were performed using the PK/PD Profiles mode in the Simcyp® Simulator (Version 19
+Certara, Sheffield, UK). Simulations related to evaluation of mavacamten as an inducer of CYP
+enzymes were performed in GastroPlus 9.7. Schemes of the PBPK simulation strategy are shown
+in Figure 4-15, which summarizes the studies used for mavacamten model development and
+verification, and model applications in DDI predictions. For mavacamten PBPK model, based on
+results from in vitro metabolism and human ADME studies, fraction of mavacamten metabolized
+was assigned to be 74% for CYP2C19 (fm,CYP2C19), 18% for CYP3A (fm,CYP3A), and 8% for
+CYP2C9 (fm,CYP2C9). The Simcyp library files itraconazole_Fasted soln and SV-rifampin-MD were
+used for DDI simulations without any modification by the Applicant. The GastroPlus library files
+of midazolam, repaglinide, tolbutamide, ethinyl estradiol, lansoprazole and bupropion were used
+for simulating the effects of mavacamten.
+
+Reference ID: 4872643
+
+Clinical Pharmacology Review
+NDA-214998
+
+Figure 4-15.
+
+Page 61
+
+Modeling and Simulation Strategy
+
+a) Mavacamten as a victim (Simcyp V19)
+
+b) Mavacamten as a perpetrator (GastroPlus V9.7)
+
+* NM or EM = normal or extensive metabolizer, PM = poor metabolizer
+Source: This flow chart was generated by the reviewer based on myo-1-b-simcyp, NC-20-0047 and PBPK
+report addendum.
+
+4.3.4
+
+Results
+
+4.3.4.1
+
+Can the PBPK model adequately describe the PK profiles of mavacamten?
+
+Yes. The mavacamten PBPK models using both Simcyp and GastroPlus could describe
+mavacamten PK following administration of single and multiple doses of mavacamten in healthy
+subjects (Figure 4-16 and Table 4-10).
+
+Reference ID: 4872643
+
+Clinical Pharmacology Review
+NDA-214998
+
+Figure 4-16.
+
+Page 62
+
+Simulated and Observed PK Profiles following Oral Administration of 15mg Mavacamten in Healthy Subjects
+
+c) Simcyp
+
+Source: Figures 3 - 6 in the PBPK report (myo/1/b).
+
+d) GastroPlus
+
+Source: Figures 6 and 7 in rsp-fda-pharmacology-request-20210616.pdf (SN0030)
+
+Reference ID: 4872643
+
+Clinical Pharmacology Review
+NDA-214998
+
+Table 4-10
+
+Page 63
+
+Simulated and Observed PK Parameters following Oral Administration of
+Mavacamten in Healthy Subjects
+
+e) Simcyp
+Study #
+
+Populations
+
+Dose
+(mg)
+
+Dosing
+frequency
+
+Study
+day
+
+MYK-461-012
+MYK-461-012
+MYK-461-010
+MYK-461-010
+MYK-461-011
+MYK-461-011
+MYK-461-011
+MYK-461-011
+
+CYP2C19 NM
+CYP2C19 PM
+CYP2C19 NM
+CYP2C19 NM
+CYP2C19 NM JPN
+CYP2C19 NM JPN
+CYP2C19 NM JPN
+CYP2C19 NM NEC
+
+15
+15
+15
+15
+15
+5
+25
+25
+
+SD
+SD
+QD
+QD
+SD
+SD
+SD
+SD
+
+D1
+D1
+D1
+D15
+D1
+D1
+D1
+D1
+
+AUC (h*ng/mL) GM (CV%)
+simulated observed
+10630
+12530
+37130
+42800
+5043
+2768
+7286
+8313
+15010
+15410
+5395
+6277
+26689
+17370
+18404
+19280
+
+Cmax (ng/mL) GM (CV%)
+t 1/2 (h) GM (CV%)
+Table # in
+Sim/obs simulated observed Sim/obs simulated observed Sim/obs the Report
+0.85
+365
+333
+1.04
+173
+193
+0.9
+3
+0.9
+439
+490
+0.87
+318
+553
+0.58
+7
+1.82
+446
+391
+1.14
+ND
+ND
+ND
+4
+0.86
+512
+596
+0.86
+ND
+ND
+ND
+5
+0.97
+588
+289
+2.03
+156
+216
+0.72
+6
+0.86
+196
+141
+1.39
+156
+216
+0.72
+reviewer
+1.54
+979
+504
+1.94
+156
+141
+1.10
+reviewer
+0.95
+462
+516
+0.90
+214
+144
+1.49
+reviewer
+
+JPN: Japanese population, NEC: Caucasian population, ND: not determined.
+Source: Tables 3-7 in the PBPK report (myo/1/b) and reviewer’s analyses
+
+a) GastroPlus
+
+Source: Table 6 in rsp-fda-pharmacology-request-20210616.pdf (SN0030)
+
+f) Observed and predicted PK parameters of mavacamten following oral administration of
+single and multiple doses of mavacamten (MYK-461-002 and -003) in healthy subjects
+(Simcyp V19)
+
+Reference ID: 4872643
+
+Clinical Pharmacology Review
+NDA-214998
+
+Source: PBPK addendum (SN0038)
+
+Reference ID: 4872643
+
+Page 64
+
+Clinical Pharmacology Review
+NDA-214998
+
+4.3.4.2
+
+Page 65
+
+Can PBPK analyses be used to estimate the induction effects of
+mavacamten on substrates of CYP2Cs and CYP2B6?
+
+The Applicant conducted DDI simulations to predict the effects of mavacamten on probe substrates
+of CYP enzymes in healthy subjects, but the analyses were inadequate for the following reasons:
+(b) (4)
+
+The reviewer simulated the effects of mavacamten on probe substrates of CYP enzymes using the
+doses at which mavacamten AUC0-24,ss matched to that estimated from the oHCM patients in the
+phase 3 study and induction parameters calibrated to the induction parameters of rifampin that
+could reproduced its observed effects on substrates of CYP3A and CYP2Cs. Details of the
+reviewer’s analyses are discussed below in the Additional Comments. The results showed that the
+effects of mavacamten on the exposure of the probe substrates depended on mavacamten dose and
+CYP2C19 phenotype, ranging from weak to moderate induction effects (Table 4-11). Because
+there is no correlation between CYP2C19 mRNA and activity in vitro2 and no correlation between
+
+Reference ID: 4872643
+
+Clinical Pharmacology Review
+NDA-214998
+
+Page 66
+
+in vitro data and clinical observations, the confidence in the predicted effects of mavacamten on
+CYP2C19 substrates in NM of CYP2C19 is low (data not shown). In PM of CYP2C19, the
+predicted effects of mavacamten on the CYP2C19 substrate omeprazole was similar to that on the
+CYP3A substrate midazolam (Table 4-11). This is mainly because the fraction of omeprazole
+metabolized by CYP3A in the model increased to 100% in PM of CYP2C19.
+Table 4-11
+
+Predicted Effects of Mavacamten on Single-dose Pharmacokinetics of
+CYP-substrates following Concomitant Administration of Multiple Doses
+of Mavacamten in oHCM Patients with different CYP2C19 Phenotypes.
+
+Populations & Mavacamten
+Dosing regimen
+25 mg QD 2d, 15 mg QD 14d in
+CYP2C19 NM
+
+Interacting CYP
+
+CYP substrate
+
+AUC Ratio
+
+Cmax Ratio
+
+CYP3A
+
+midazolam
+
+0.76
+
+0.86
+
+CYP3A
+
+midazolam
+
+0.36
+
+0.52
+
+CYP2C8/CYP3A
+
+repaglinide
+
+0.61
+
+0.7
+
+CYP2C9
+
+tolbutamide
+
+0.35
+
+0.7
+
+CYP2C19/CYP3A
+
+omeprazole
+
+0.33
+
+0.7
+
+CYP2C19 PM & 5 mg QD 210d
+and
+CYP2C19 NM & 15 mg QD 50d
+
+CYP3A
+CYP2C8/CYP3A
+CYP2C9
+
+midazolam
+repaglinide
+tolbutamide
+
+0.55
+0.73
+0.46
+
+0.76
+0.81
+0.77
+
+CYP2C19 PM & 5 mg QD 210d
+
+CYP2C19/CYP3A
+
+omeprazole
+
+0.52
+
+0.83
+
+CYP3A
+
+midazolam
+
+0.79
+
+0.87
+
+CYP2C8/CYP3A
+
+repaglinide
+
+0.88
+
+0.92
+
+CYP2C9
+
+tolbutamide
+
+0.67
+
+0.89
+
+CYP2C19 PM & 15 mg QD 210d
+
+CYP2C19 NM & 5 mg QD 50d
+
+Source: reviewer’s analyses. 100 virtual subjects (20-50-year-old, 50% females) were given mavacamten
+once daily for either 50 days in NM of CYP2C19 or 210 days in PM OF CYP2C19. A single dose of CYP
+substrates midazolam (2 mg), repaglinide (0.25 mg), and tolbutamide (500 mg) was given 24h before the
+last dose of mavacamten. Simulations were performed using Simcyp V19 by the Reviewer.
+
+Additional Comments:
+
+
+In NM of CYP2C19, the steady-state exposure of mavacamten is more than two-fold higher in
+the oHCM patients compared to the healthy subjects following once daily dosing of 5-mg
+mavacamten (Table 4-12). The mechanism for higher exposure in patients is unknown. This
+may pose uncertainty about the predicted DDI effects.
+
+Reference ID: 4872643
+
+Clinical Pharmacology Review
+NDA-214998
+
+Table 4-12
+Dose
+(mg)
+5
+
+15
+
+10
+15
+30
+60
+
+Page 67
+
+Comparison of Mavacamten Steady-state Exposure in Healthy Subjects
+with its Exposure in Patients following Multiple Doses of Mavacamten
+Populations
+Healthy Subject,
+CYP2C19 NM
+oHCM patient,
+CYP2C19 NM
+oHCM patient,
+CYP2C19 PM
+oHCM patient,
+CYP2C19 NM
+oHCM patient,
+CYP2C19 PM
+Healthy Subject,
+CYP2C19 NM
+Healthy Subject,
+CYP2C19 PM
+Healthy Subject,
+CYP2C19 NM
+Healthy Subject,
+CYP2C19 PM
+
+AUCss
+(h*ng/mL)
+
+Cmax-SS
+(ng/mL)
+
+Cmin-SS
+(ng/mL)
+
+2100
+
+128
+
+78
+
+5568
+
+273
+
+216
+
+19272
+
+842
+
+785
+
+19272
+
+945
+
+745
+
+57816
+
+2526
+
+2355
+
+5795
+
+407
+
+19786
+
+1081
+
+14715
+
+1097
+
+54259
+
+3285
+
+Equivalent dose in
+patients (mg)
+
+Sources
+
+5
+popPK
+estimates
+15
+
+5
+PBPK
+simulation†
+15
+
+Median values are reported. PopPK estimated AUCss were calculated from Cavg-ss x 24h. PopPK
+estimates were based on a subject weighing 84 kg. †Reviewer’s analyses: 100 virtual subjects (20-50-yearold, 50% females) were given mavacamten once daily for 49 days in NM of CYP2C19 and for 210 days in
+PM of CYP2C19.
+
+
+
+To ensure sufficient exposures of parent drug for simulating the effect of multiple doses of
+mavacamten on single dose PK of a CYP substrate, the steady-state exposure of mavacamten
+in oHCM patients following once daily dosing of 5- or 15-mg mavacamten was simulated using
+higher doses of mavacamten in virtual healthy subjects (sim-healthy subject population) so
+that the simulated AUC was matched to that estimated by popPK analyses (Table 4-12).
+
+
+
+In the hepatocyte induction study (NC-19-0012), the CYP induction parameters (Emax and
+EC50) of rifampin, the positive control, estimated based on changes in CYP mRNA using the
+hepatocytes from the same donors were also available. It is possible to calibrate the induction
+parameters of mavacamten on CYP enzymes based on the relationship between rifampin
+induction of corresponding CYPs in vitro and in vivo. The optimized induction parameters of
+rifampin (Indmax and IndC50) in the SV-Rifampin MD model could capture the induction
+effects of rifampin observed in clinical DDI studies thus could be considered as in vivo
+induction parameters of rifampin. Therefore, the induction parameters of mavacamten on CYP
+enzymes (Table 4-13) were calibrated using the following equations:
+Calibrated Indmax (mavacamten) = 1+Emax(mavacamten)/Emax(RIF)*(Indmax(RIF)-1)
+Calibrated IndC50 (mavacamten) = EC50(mavacamten)/EC50(RIF)*IndC50(RIF)
+
+Reference ID: 4872643
+
+Clinical Pharmacology Review
+NDA-214998
+
+Page 68
+
+Note: The original induction parameters of CYP2C19 in the SV-rifampin MD model under(b) (4)
+predicted the effects on CYP2C19 substrate omeprazole
+. The values in Table 4-13 were optimized by the reviewer based on clinical DDI
+studies of rifampin with omeprazole 3-6. In addition, nonspecific binding of rifampin in the
+incubation medium was not incorporated in the calibration. The predicted induction effect of
+rifampin may be underpredicted.
+Table 4-13
+CYP
+mRNA
+CYP3A4
+CYP2C8
+CYP2C9
+CYP2C19
+
+In vitro CYP Induction Parameters and Calibrated Model Parameters of
+Mavacamten and Rifampin
+Hepatocyte induction parameters
+Induction
+RIF Mavacamten
+parameters
+EC50
+Emax
+EC50
+Emax
+EC50
+Emax
+EC50
+Emax
+
+0.47
+12.1
+0.3
+3.34
+1.05
+3.34
+0.89
+3.37
+
+3.94
+7.7
+2.88
+3.25
+4.47
+2.14
+3.55
+2.25
+
+Induction parameters in Simcyp models
+Model
+Mavacamten
+RIF
+fu,inc†
+parameters
+Calibrated
+IndC50
+Indmax
+IndC50
+Indmax
+IndC50
+Indmax
+IndC50
+Indmax
+
+0.32
+16
+0.3
+6.7
+0.1
+6
+0.11*
+22*
+
+2.68
+10.55
+2.88
+6.55
+0.43
+4.20
+0.44
+15.02
+
+0.7
+0.7
+0.7
+0.7
+0.7
+0.7
+0.7
+0.7
+
+*Reviewer optimized parameters. †Nonspecific binding of mavacamten. RIF: rifampin
+Source: reviewer’s analyses
+
+4.3.4.3
+
+Can PBPK analyses predict the effects of strong CYP3A and CYP2C19
+inhibitors and inducers on the PK of mavacamten?
+
+The simulated mavacamten PK in both healthy NM of CYP2C19 and PM of CYP2C19 was
+consistent with clinical observations (Figure 4-16 and Table 4-10). The Applicant also provided
+additional evidence to demonstrate the predictive performance of the NM of CYP2C19 and PM of
+CYP2C19 populations (rsp-fda-pharmacology-request-20210616, SN0030). Therefore, fraction
+metabolized by CYP2C19 (fm, CYP2C19), 74% based on the in vitro reaction phenotyping study,
+in the mavacamten model is considered verified. Subsequently, it is reasonable to assume that the
+in vivo fm, CYP3A4 value of mavacamten is similar to the 18% estimated from the same in vitro
+studies. Therefore, the mavacamten PBPK model could be used to predict the effects of CYP3A
+and CYP2C19 perpetrators in healthy subjects. As mentioned above, however, the steady-state
+exposure of mavacamten is more than two-fold higher in the oHCM patients compared to the
+healthy subjects, and the mechanism for higher exposure in patients is unknown. This poses
+uncertainty about applying the predicted DDI effects in healthy subjects discussed below to oHCM
+patients.
+In PM OF CYP2C19, when 15 mg mavacamten was co-administered with the strong CYP3A
+inhibitors itraconazole, the AUC of mavacamten was predicted to increase approximately 2-fold
+
+Reference ID: 4872643
+
+Clinical Pharmacology Review
+NDA-214998
+
+Page 69
+
+(Table 4-15), which is similar to the results submitted by the Applicant (Table 4-14). Greater effect
+was predicted when ketoconazole was co-administered (Table 4-15). Of note, the Applicantsimulated itraconazole DDI studies only lasted 59 days, which has not reached steady state
+considering the long half-life in PM OF CYP2C19. In NM of CYP2C19, the reviewer simulated
+the DDI study of mavacamten with the strong CYP2C19 inhibitor and moderate CYP3A inhibitor
+fluconazole. Fluconazole was predicted to increase mavacamten AUC by approximately 3.1-fold
+(Table 4-15), which was similar to the observed 3.4-fold difference in AUC between NM of
+CYP2C19 and PM of CYP2C19, therefore provided additional verification of fm, CYP2C19. Of
+note, fluconazole was predicted to have a greater effect on mavacamten exposure when CYP2C19
+induction parameters of mavacamten were incorporated in its model (Table 4-15).
+The Applicant didn’t investigate the potential effects of CYP induction on mavacamten in the
+initial submission. Mavacamten is a substrate of CYP2C19, CYP3A and CYP2C9, and is
+susceptible to CYP induction. The analyses conducted by the reviewer showed that the strong
+CYP3A and CYP2C19 inducer rifampin was predicted to reduce steady-state mavacamten AUC024h and Cmin by approximately 3- and 4-fold in PM of CYP2C19 and 8-and 40-fold in NM of
+CYP2C19, respectively (Table 4-15). The moderate CYP3A and CYP2C19 inducer efavirenz was
+predicted to reduce mavacamten AUC by approximately 1.5- fold and Cmin,ss by approximately
+2-fold regardless of CYP2C19 phenotype (Table 4-15).
+Table 4-14
+
+Summary of Mavacamten DDI Simulations as a Victim of CYP3A4 Inhibitor
+Itraconazole in Various Virtual Northern European Caucasian Populations
+
+Source: Table 8 in the PBPK report (myo/1/b)
+Table 4-15
+
+Strong CYP3A
+
+Reference ID: 4872643
+
+Predicted Drug Interactions of Mavacamten as a Victim of Strong CYP
+Inhibitors and Inducer in Healthy Subjects
+Perpetrator
+dosing regimen
+
+Mavacamten
+dosing regimen
+
+AUC† ratio
+
+Cmax ratio
+
+Ketoconazole
+
+15 mg SD D8
+
+1.96
+
+1.01
+
+Cmin ratio
+
+CYP2C19
+phenotype
+CYP2C19 PM
+
+Clinical Pharmacology Review
+NDA-214998
+
+inhibitors
+
+Moderate
+Moderate
+Strong CYP2C19
+inhibitor
+
+Strong CYP3A
+and CYP2C19
+inducer
+
+Moderate
+CYP3A and
+CYP2C19
+inducer
+
+Page 70
+
+400 mg QD 210d
+
+15 mg QD 210d
+
+2.27
+
+1.92
+
+Itraconazole
+200 mg QD 210d
+
+15 mg SD D8
+
+2.14
+
+1.01
+
+15 mg QD 210d
+
+1.72
+
+1.51
+
+1.82
+
+15 mg QD 210d
+
+1.42
+
+1.32
+
+1.55
+
+15 mg QD 60d
+
+1.14
+
+1.07
+
+1.19
+
+15 mg SD D10
+
+3.77
+
+1.04
+
+15 mg QD 60d‡
+
+3.10
+
+2.08
+
+5.35
+
+15 mg QD 60d‡
+
+4.13
+
+2.30
+
+9.48
+
+CYP2C19 UM
+
+5 mg SD D15
+
+0.3
+
+0.96
+
+5 mg QD 60d
+
+0.33
+
+0.49
+
+0.23
+
+CYP2C19 PM
+
+15 mg QD 60d
+
+0.39
+
+0.56
+
+0.23
+
+5 mg SD D15
+
+0.13
+
+0.78
+
+5 mg QD 60d
+
+0.13
+
+0.42
+
+0.025
+
+15 mg QD 60d
+
+0.13
+
+0.43
+
+0.025
+
+0.68
+
+0.77
+
+0.57
+
+CYP2C19 PM
+
+0.61
+
+0.78
+
+0.46
+
+CYP2C19 NM
+
+0.63
+
+0.81
+
+0.43
+
+CYP2C19 UM
+
+Diltiazem
+60 mg TID 210d
+Diltiazem
+60 mg TID 60d
+Fluconazole
+200 mg QD 60d
+
+Rifampin
+600 mg QD 60d
+
+Efavirenz*
+600 mg QD 60d
+
+15 mg QD 60d
+
+2.56
+
+CYP2C19 NM
+CYP2C19 NM
+
+CYP2C19 NM
+
+The optimized induction parameters (Indmax and IndC50) of rifampin for CYP2C19 in Table 4-13 were
+used in the simulations. Sim-Healthy Subject population aged 20 -50 with female ratio of 0.5 was used in
+these simulations. Geometric mean was reported. Simulations were performed using Simcyp V19. †AUC,
+AUC0-24h for steady-state, AUC0-inf for single dose. ‡ The induction parameters of mavacamten for
+CYP2C19 were not calibrated with rifampin. When the calibrated parameters were used, the AUC, Cmax
+and Cmin ratios were predicted to be 3.52, 2.02 and 7.62, respectively. * The default SV-Efavirenz model
+was used except that the Indmax and IndC50 of efavirenz for CYP2C19 used in the simulation were 1.86
+and 0.005 mM7.
+Source: Reviewer’s analyses
+Note: The Applicant submitted additional simulations to evaluate the effects of rifampin on mavacamten in
+NM of CYP2C19 after the mid-cycle review communication (PBPK report addendum, SN0038). However,
+the default induction parameters for CYP2C19 in the SV-rifampin-MD model were used. Therefore, the
+effects of rifampin on mavacamten were underestimated.
+
+4.3.5
+
+
+Conclusions
+
+The induction effects of mavacamten on probe substrates of CYP enzymes depend on
+mavacamten dose and the CYP2C19 phenotype, ranging from weak to moderate induction
+effects (Table 4-11).
+
+Reference ID: 4872643
+
+Clinical Pharmacology Review
+NDA-214998
+
+Page 71
+
+
+
+In CYP2C19PM, when 15 mg mavacamten was co-administered with the strong CYP3A
+inhibitors itraconazole and ketoconazole, the steady-state AUC0-24h and Cmin of
+mavacamten were predicted to increase by approximately 2-fold (Table 4-15).
+
+
+
+In NM of CYP2C19, co-administration of mavacamten with the strong CYP2C19 and
+moderate CYP3A inhibitor fluconazole was predicted to increase mavacamten AUC0-24h and
+Cmin by at least 3- and 5-fold, respectively (Table 4-15).
+
+
+
+The strong CYP3A and CYP2C19 inducer rifampin was predicted to reduce mavacamten
+AUC0-24h and Cmin by approximately 3- and 4-fold in PM of CYP2C19 and 8-and 40-fold
+in NM of CYP2C19, respectively (Table 4-15). The moderate CYP3A and CYP2C19 inducer
+efavirenz was predicted to reduce mavacamten AUC by approximately 1.5- fold and Cmin,ss
+by approximately 2-fold regardless of CYP2C19 phenotype.
+
+Reference ID: 4872643
+
+Clinical Pharmacology Review
+NDA-214998
+
+4.3.6
+
+Page 72
+
+References
+
+1. Fahmi OA et al. Evaluation of CYP2B6 Induction and Prediction of Clinical Drug–Drug
+Interactions: Considerations from the IQ Consortium Induction Working Group—An Industry
+Perspective. Drug Metab Dispos (2016), 44:1720–1730
+2. Hariparsad N et al. Considerations from the IQ Induction Working Group in Response to DrugDrug Interaction Guidance from Regulatory Agencies: Focus on Downregulation, CYP2C
+Induction, and CYP2B6 Positive Control. Drug Metab Dispos. (2017);45(10):1049-1059
+3. Bosilkovska M et al. Geneva Cocktail for Cytochrome P450 and P-Glycoprotein Activity
+Assessment Using Dried Blood Spots. Clinical Pharmacology & Therapeutics (2014); 96 (3):
+349–359
+4. Kamiya C et al. Effect of co-administered inducer or inhibitor on omeprazole pharmacokinetics
+based on CYP2C19 genotype. J Pharmacol Sci. (2019); 139(4):361-366.
+5. Park GJ et al. Drug-drug interaction of microdose and regular-dose omeprazole with a
+CYP2C19 inhibitor and inducer. Drug Des Devel Ther.( 2017);11:1043-1053
+6. Derungs A et al. Effects of Cytochrome P450 Inhibition and Induction on the Phenotyping
+Metrics of the Basel Cocktail: A Randomized Crossover Study. Clin Pharmacokinet.
+(2016) ;55(1):79-91.
+7. Nagai M et al. Characterization of CYP2C Induction in Cryopreserved Human Hepatocytes
+and Its Application in the Prediction of the Clinical Consequences of the Induction. J Pharm
+Sci (2018) 107: 2479 -2488.
+
+Reference ID: 4872643
+
+Clinical Pharmacology Review
+NDA-214998
+
+Page 73
+
+5
+
+Additional Assessments
+
+5.1
+
+Bioanalytical Method validation
+
+For the determination of mavacamten concentrations in human plasma, the Applicant used
+validated high-performance liquid chromatographic (HPLC) methods with tandem mass
+(b) (4)
+spectrometry detection methods (LC-MS/MS;
+) with multiple reaction
+(b) (4)
+monitoring transitions. In addition, the Applicant used LC-MS/MS methods (
+) method for the determination of [14C]-mavacamten concentrations in human plasma
+from the mass balance study. Since no major metabolites were detected in human plasma, no other
+analytical methods were developed for determination of metabolite concentrations in human
+plasma.
+Plasma samples containing K2EDTA as an anticoagulant and internal standard (MYK-1320 and
+(b) (4)
+MYK-1316) were processed using liquid-liquid extraction
+and protein
+(b) (4)
+precipitation
+prior to LC-MS/MS analysis. Summary of bioanalytical
+methods used in the clinical development program is provided in Table 5-1.
+Table 5-1
+
+Summary of Analytical Methods Utilized in Clinical Development
+
+Study Numbers
+
+Validation Summary
+
+Clinical Studies
+
+Studies # AD15-610, AD15493, AD15-569, AD17-699,
+AD20-1064, AD18-984, AD201083, AD20-1058, AD17-658,
+AD18-755, AD17-668, AD18908, AD20-1006, AD20-1044,
+AD20-1090, AD20-1068
+
+Range: 0.2 to 200 ng/mL
+
+Studies # 001, 002, 003, 004, 005,
+006, 007, 008, 009, 010, 011, 012,
+014, 015, 016, 018.
+
+8391620
+
+Accuracy: ±10.3% (max)
+Precision: ≤ 14.8% (max)
+
+Validation Report # AV15-MYK46101 & Its Addendum Reports
+
+Range: 0.2 to 200 ng/mL
+
+Study # 013
+
+Accuracy: -4.2% to 0.2%*
+
+Validation Report # NC-20-0041 &
+Its Addendum Reports
+
+Precision: ≤ 11.7%
+
+* Between run accuracy bias
+
+Analytical validation evaluated extraction recovery, stability (whole blood, benchtop, freeze-thaw,
+re-injection, long-term stability), carryover effects, matrix effects.
+Summary of bioanalytical method used in the relative bioavailability study is provided below
+(Table 5-2). Accuracy and precision of QC samples were ≤15% (and ≤20% at LLQ), and
+calibration curves for the LC-MS/MS bioanalytical assay were within acceptable limits. Incurred
+samples reanalysis was carried out on approx. 10% of randomly selected samples from above
+
+Reference ID: 4872643
+
+Clinical Pharmacology Review
+NDA-214998
+
+5.2
+
+Page 75
+
+Summary of Formulations Utilized in Clinical Studies
+
+During the development, three oral formulation, viz. an oral suspension, immediate release tablets
+(tablet 1 and 2) and immediate release capsules (capsule 1 and 2), were utilized. Since mavacamten
+(b) (4)
+exhibits a low solubility and high permeability (potential BCS Class II compound),
+were selected for clinical development.
+Table 5-3
+
+Summary of Formulations Utilized in Clinical Studies
+
+Formulations
+
+Clinical Studies
+
+Oral suspension†
+
+Studies # 001 and 002
+
+Tablet (1 and 2)
+
+Study # 003 (Tablet 1: 0.25, 1, 2.5 mg)
+Studies # 009, 010, 011 (Tablet 2: 2, 5, 10, and 20 mg)
+Study # 006 (Capsule 1)
+
+Capsule (1 and 2)
+
+Studies # 005, 007, 008, 012 (mostly Capsule 2‡)
+Study # 014* (Capsule 1 vs Capsule 2‡)
+(b) (4) ‡
+
+intended commercial formulation; *Relative
+bioavailability / Food effect study using capsule 1 and capsule 2 formulations.
+
+Both capsule 1 and capsule 2 (mostly capsule 2) were used in Phase 3 and Phase 2/3 studies
+(Studies # 005, 007, 008). The Applicant conducted a relative bioavailability study (Study # 014)
+to assess bioavailability between 2 capsule formulations (single dose). The study results indicated
+that the exposure of mavacamten (GMR for AUC: 1.06 and Cmax: 1.01; capsule 2 vs. capsule 1)
+from both formulations were comparable.
+
+Reference ID: 4872643
+
+Signature Page 1 of 1
+
+-------------------------------------------------------------------------------------------This is a representation of an electronic record that was signed
+electronically. Following this are manifestations of any and all
+electronic signatures for this electronic record.
+-------------------------------------------------------------------------------------------/s/
+-----------------------------------------------------------GIRISH K BENDE
+10/15/2021 11:52:39 AM
+NAN ZHENG
+10/15/2021 11:55:20 AM
+YING-HONG WANG
+10/15/2021 11:57:18 AM
+CHRISTIAN GRIMSTEIN
+10/15/2021 12:01:39 PM
+Signed also on behalf of Katarzyna Drozda.
+XINYUAN ZHANG
+10/15/2021 12:13:55 PM
+LIANG LI
+10/15/2021 12:17:42 PM
+MANOJ KHURANA
+10/17/2021 09:59:05 PM
+DOANH C TRAN
+10/18/2021 09:48:31 AM
+
+Reference ID: 4872643
+
+

@@ -1,0 +1,47 @@
+NDA 220149 Icotrokinra (INJ-77242113) Page 20 of 29
+Female Rats Poly-3 test
+0 mg Vehicle Smg 10 mg 20 mg
+Cont (N=65) | Low (N=65) | Med (N=65) | High (N=65)
+Organ Name Tumor Name P-Trend P-Cys.L | P-Cvs.M P-Cvs.H
+Liposarcoma 0/65 (26) 0/65 (26) 0/64 (28) 1/65 (27)
+0.2523 NC NC 0.5094
+Osteosarcoma 0/65 (26) 0/65 (26) 0/64 (28) 1/65 (27)
+0.2523 NC NC 0.5094
+Sarcoma 0/65 (26) 0/65 (26) 0/64 (28) 1/65 (27)
+0.2523 NC NC 0.5094
+Squamous Cell Papilloma | 0/65 (26) 1/65 (27) 0/64 (28) 0/65 (26)
+0.7570 0.5094 NC NC
+Small Intestine. Adenocarcinoma 0/65 (26) 0/65 (26) 0/65 (28) 1/65 (27)
+Duodenum 0.2523 NC NC 0.5094
+Spleen Hemangioma 0/65 (26) 1/65 (27) 0/65 (28) 0/65 (26)
+0.7570 0.5094 NC NC
+Hemangiosarcoma 1/65 (26) 0/65 (26) 0/65 (28) 0/65 (26)
+1.0000 1.0000 1.0000 1.0000
+Stomach Squamous Cell Papilloma | 0/65 (26) 1/65 (27) 1/65 (29) 0/65 (26)
+0.6310 0.5094 0.5273 NC
+Thymus Thymoma, Benign 0/60 (24) 0/63 (26) 0/63 (28) 1/59 (24)
+0.2353 NC NC 0.5000
+Thymoma, Malignant 0/60 (24) 0/63 (26) 1/63 (28) 0/59 (24)
+0.5098 NC 0.5385 NC
+Thymoma, Benign/ 0/60 (24) 0/63 (26) 1/63 (28) 1/59 (24)
+Malignant 0.1840 NC 0.5385 0.5000
+Uterus/Cervix Endometrial Stromal 2/65 (27) 1/65 (27) 1/65 (29) 3/65 (28)
+Polyp 0.2898 0.8821 0.8945 0.5177
+Endometrial Stromal 0/65 (26) 1/64 (27) 0/65 (28) 1/65 (27)
+Sarcoma 0.3178 0.5094 NC 0.5094
+Granular Cell Tumor, 1/65 (27) 0/64 (26) 0/65 (28) 0/65 (26)
+Benign 1.0000 1.0000 1.0000 1.0000
+Endometrial Stromal 2/65 (27) 2/64 (28) 1/65 (29) 4/65 (29)
+Polyp/ Sarcoma 0.2131 0.7084 0.8945 0.3701
+Vagina Granular Cell Tumor, 0/65 (26) 2/65 (28) 2/65 (29) 0/65 (26)
+Benign 0.6823 0.2642 0.2734 NC
+Whole Body Hemangiosarcoma 1/65 (26) 0/65 (26) 0/65 (28) 0/65 (26)
+1.0000 1.0000 1.0000 1.0000
+
+& X/ZZ (YY): X=number of tumor bearing animals. YY=mortality weighted total number of animals, ZZ=unweighted total number of animals
+
+observed;
+NC = Not calculable
+
+Reference ID: 5669827
+

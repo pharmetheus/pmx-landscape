@@ -1,0 +1,74 @@
+NDA Multi-Disciplinary Review and Evaluation
+
+NDA 219876
+Dordaviprone
+
+19.4.2.4. ER (safety) Assessment Summary
+
+The Applicant’s Position:
+
+General Information
+; To explore the relationship between dordaviprone exposure and safety in
+
+Gealciamiy patients from ONC006, ONCO13, and ONCO14
+
+ONC006, ONC013, ONCO14. These patient studies collected the safety
+Study Included endpoints of interest and allowed for assessment of safety in adult and
+
+pediatric patients
+Population Included ITT patients
+
+Any TEAE of Grade 3 or higher, neurological TEAE of Grade 3 or higher,
+RvDasti TEAE of special interest (noninfectious encephalopathy/delirium,
+
+extrapyramidal syndrome, torsade de pointes/QT prolongation, or embolic
+and thrombotic events) of Grade 3 or higher
+
+No. of Patients (total, and with
+
+(range)
+
+individual PK) N=264
+Age: 21.0 years median (range: 3.0 to 80.0 years)
+62.9 kg median (range: 11.8 to 158 kg)
+General =120 (45.5%) male
+=194 (73.5%) White, N= 22 (8.3%) Black or African American,
+1 (4.2%) Asian, N=1 (0.4%) American Indian/Alaska Native. N=2
+; (0.8%) Multiple. N= 34 (12.9%) Other/Unknown
+Population Organ Refer to population PK analysis for the numbers of patients with organ
+Characteristics impairment | impairment.
+Pediatrics | N=116 (43.9%)
+(if any) Age: 8.0 years median (range: 3.0 to 17.0 years)
+Weight: 30.1 kg median (range: 11.8 to 115.6 kg)
+a Not analyzed separately from the general population.
+Dose(s) Included 125 mg to 625 mg
+Exposure Metrics Explored
+
+AUCo.168, Cmax
+
+Covariates Evaluated
+
+‘Age, body weight, sex, race, number of relapses, Kamofsky/Lansky
+Performance score at baseline, concomitant medication use, diagnosis status,
+DIPG status, H3 K27M mutation status
+
+Final Model Parameters Summary Acceptability
+[FDA’s comments]
+Model Structure Univariate logistic regression and graphical | Acceptable
+exploration
+Model Parameter Estimates See Table 19 for univariate logistic Acceptable
+
+regression p-values
+
+Model Evaluation
+
+Not applicable
+
+216
+
+Version date: March 1, 2024 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5638121

@@ -1,0 +1,8 @@
+year,application,drug,software,attribution,use,pages,reason,decided_by,decided_on
+2022,215904,Ztalmy,Kinetica,Applicant,NCA of simulated data,integratedR p26,"the Applicant's earlier PK simulations and their NCA were done in Kinetica 5.0, which it no longer has; not the popPK estimation tool",Claude Opus 5.5 (read in session),2026-10-18
+2023,216951,Jesduvroq,ADMET Predictor,Applicant,PBPK input,integratedR p346,"predicted permeability entered into the Applicant's PBPK model (Simcyp ADAM) from ADMET Predictor v9",Claude Opus 5.5 (read in session),2026-10-18
+2023,216718,Skyclarys,nlme,Applicant,exposure-response,clinPharmR p46,"the Applicant's exploratory exposure-response analysis (ALT, AST, mFARS) with the nlme package in R; not the popPK tool",Claude Opus 5.5 (read in session),2026-10-18
+2023,217026,Daybue,ADMET Predictor,Applicant,PBPK input,clinPharmR p60,"in silico physicochemical and biopharmaceutical inputs for the Applicant's GastroPlus PBPK model from ADMET Predictor 9.5",Claude Opus 5.5 (read in session),2026-10-18
+2024,216165,Exblifep,MonolixSuite tools,FDA reviewer,simulation,integratedR p167,"Simulx program paths in a table compiled by the reviewer: the reviewer's own PK/PD simulations",Claude Opus 5.5 (read in session),2026-10-18
+2024,217686,Tryvio,MonolixSuite tools,Applicant,simulation,integratedR p234 and p276,"simulations done with Simulx 2021R1 (p234); p276 is the reference list",Claude Opus 5.5 (read in session),2026-10-18
+2024,216490,Yorvipath,MonolixSuite tools,Applicant,simulation,integratedR p303,"PK simulations in R with the Simulx mlxR library; the popPK model was fitted in Monolix",Claude Opus 5.5 (read in session),2026-10-18

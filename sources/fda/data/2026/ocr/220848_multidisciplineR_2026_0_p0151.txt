@@ -1,0 +1,40 @@
+NDA 220848
+LIPFENDRA (enlicitide)
+
+FDA Table 15. SAEs, Trial P017
+
+Summary of Subjects With Serious TEAEs
+
+Enlicitide
+20 mg Placebo
+System Organ Class N=202| N=101 Risk Difference
+Preferred Term n (%)_ n_ (%)}_ RD (95% Cl) Forest Plot
+Any SAE 9 (4.5) 4 (4.0) 0.50 (-4.25, 5.25) 2
+Infections and infestations 4 (2.0)) 1 (1.0)) 0.99 (-1.73, 3.71) ———_@__—_
+Pneumonia 4 (2.0)) 0 (0.0) 1.98 (0.06, 3.9) e
+Oral infection 0 (0.0) 1 (1.0) -0.99 (-2.92,0.94) __»
+
+Source: OCS Analysis Studio, Safety Explorer.
+
+Filters: TRTO1A = “Enlicitide 20 mg" and SAFFL = Y (Enlicitide 20 mg); TRTO1A = "Placebo" and SAFFL = Y (Placebo); TRTEMFL
+="Y" and AESER = "Y" (Adverse Events).
+
+Risk Difference calculated by comparing the left column (Group 1) to the right column (Group 2).
+
+Forest Plot Scale: Lower limit = -4.25, Risk Difference reference line = 0, Upper limit = 5.25.
+
+Red forest plots indicate that the confidence interval does not cross the reference line.
+
+Includes only PT terms with risk differences >1%.
+
+Abbreviations: Cl, confidence interval; OCS, Office of Computational Science; RD, risk difference; SAE, serious adverse event;
+TEAE, treatment-emergent adverse event
+
+138
+
+Version date: February 10, 2025 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5833849

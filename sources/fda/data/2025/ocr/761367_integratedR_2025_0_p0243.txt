@@ -1,0 +1,57 @@
+BLA 761367
+Andembry / garadacimab
+
+Figure 59. Applicant Population Simulations: HAE Relative Risk by AUCtau,ss in the Adolescent and
+Adult Populations
+
+0.204
+
+0.154
+
+0.104
+
+0.054
+
+0.00 5
+
+Relative risk of HAE attack
+
+10000 20000 30000 40000
+
+o4
+
+HAE patients (>=12 years) 4
+
+Simulated
+
+0 10000 20000 30000 40000
+AUCtau,ss (ug*hour/mL)
+
+Source: Applicant’s ER Report, Figure $162
+
+In the top panel, the simulated mean HAE relative risk is shown as the blue line with an approximate 95% Cl for the mean in grey
+The second panel shows the density of simulated AUC,,.... in which the boxplot indicates the 25th, 50th, and 75th percentiles with
+whiskers extending to 1.5x IQR. The dashed red line indicates the exposure threshold corresponding to a 10% relative risk of HAE
+attack.
+
+Abbreviations: AUC, area under the concentration-time curve; Cl, confidence interval; ER, exposure-response; FXII/PLG, Factor
+Xil/plasminogen; HAE, hereditary angioedema; IQR, interquartile range
+
+14.5.2.3. ER (Safety) Executive Summary
+
+Given a favorable safety and tolerability profile for garadacimab, the Applicant did not conduct
+exposure-response analysis for safety.
+
+14.5.2.4. ER (Safety) Assessment Summary
+
+Exposure-response (safety) analysis was not conducted as garadacimab has a favorable safety
+and tolerability profile.
+
+In general, the Applicant’s E-R analyses for garadacimab are considered acceptable for the
+purpose of supporting analyses objectives. The Applicant’s analyses were verified by the
+reviewer, with no significant discordance identified.
+
+219
+Integrated Review Template, version 3.0 (05/25/2022)
+
+Reference ID: 5458438

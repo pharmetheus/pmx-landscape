@@ -1,0 +1,67 @@
+BLA 761151 Multi-disciplinary Review and Evaluation
+BIMZELX (bimekizumab-bkzx) injection, for subcutaneous use
+
+300.00 ROUTE
+200.00) Intravenous
+190.00) see ‘Subcutaneous
+| DOSE
+8mg iv
+40mg iv
+80mg sc
+
+Plasma concentration of bimekizumab (yig/mL)
+
+0 7 14 Ft 28 95 42 4 56 6S 70 77 OF OT 88 105 TIR 10 128 153 140
+Time (days)
+Iv data showed as open symbols on selid tines
+(diamond: Br} ‘soma: triangle: 160mg; cross: 430mg; square: 640m).
+sc data sh symbols on dotted lines
+(square: 80mg; ‘160mg; circle: 320mg).
+Time refers to ime aftor drug adminisration,
+
+Source: Figure 5-3 of pk analysis report.
+
+Population PK parameter estimates of the final model is listed in
+Table 83:
+
+Table 83: Population PK Parameter Estimates of The Final Model
+
+Population estimates Tnter-individual variability QTV)
+Parameters | Value | RSE%_ | Parameters | Value (CV)| RSE% | Shrinkage
+[CL] LDay | 0.179 | 4.061 (cL] 0.0361 | 19.349 | 9.0%
+21.4%),
+Twa 303 | 3597 12] 24925 | 202%
+TQLDay | 0296 | S857 1Kal 32308 | 36.4%
+Wat zis] 6086 i) 3019 | alm
+
+[KA] DAY | 0.172 | 4.698
+
+Fy O70 | 5.007
+
+[proportional [0.128 | 7.125
+srror]
+
+[additive error] 0.173 [14.393
+(ug/ml)
+
+VawT 0508 | 2893
+
+cLwT 0.535 | 28.972
+
+(CV=cocficieat of varistioa: RSE=relative standard exon, CL=elimimation clearance: Vi=volume of ceatral
+‘comparuwent, Quinter-compartisent clearance. V3=volume of penphecal compartment, KAmsc absorptct rate
+Fi-bioavatlabihry of sc administration, V2WT=allometric exponent of body weight as covariate on V2.
+CLWTeallometne exponent of CL as covarate on V2
+
+Source; Table 5-4 of pk analysis report.
+
+Summary of Result:
+
+e PK: A two-compartment model, with body weight as covariate on clearance and on volume
+of central compartment, was found to adequately describe the bimekizumab plasma
+concentration after IV and SC administration.
+
+238
+Version date: October 12, 2018
+
+Reference ID: 4982337

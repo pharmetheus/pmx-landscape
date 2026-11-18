@@ -1,0 +1,89 @@
+BLA 761306 Multi-disciplinary Review and Evaluation
+Ebglyss (lebrikizumab) injection
+
+Table 9295. Summary of PopPK analyses
+
+General Information
+
+Objectives of PopPK analysis
+
+To characterize the pharmacokinetics (PK) of lebrikizumab in adult
+and adolescent participants with atopic dermatitis (AD) and healthy
+participants
+
+¢ To identify patient factors and laboratory parameters that may
+influence lebrikizumab disposition in this population, and
+
+© To derive individual PK parameters/exposure metrics for the future
+assessment of exposure-response relationships.
+
+Study and population included
+
+The PopPK analysis dataset contained data from 11 studies: 4 were in healthy
+participants and 7 were in participants with AD. The dataset includes a total
+of 1607 subjects from phase 1, 2, and 3 studies. Both adults and adolescents
+(12 to <18 years, >40 kg) were included in the phase 3 studies and included in
+the analysis. See Table 93 for details.
+
+Dose(s) included
+
+Single SC doses: 37.5 — 375 mg
+Single IV or SC dose: 1 mg/kg
+Multiple SC dose: 250 mg Q2W or Q4W preceded by 250— 500 mg loading
+doses.
+In phase 3 studies, the following doses and dosing regimen ( (ey
+in the target patient population) were evaluated in adult and
+adolescent patients (12 to <18 years weighing at least 40 kg):
+© Loading doses — 500 mg at Week 0 and Week 2
+© Induction doses — 250 mg every 2 weeks (Q2W) starting at Week 4
+and continuing to Week 16
+* Maintenance doses — 250 mg Q2W or 250 mg every 4 weeks (Q4W)
+starting at Week 16 and continuing to Week 52
+
+Refer to Table 93 for dosing regimen of individual study included in PopPK
+analysis.
+
+PopPK analysis dataset
+
+The source data from 11 studies contained 8050 post-baseline observations
+from 2015 participants. Based on criteria outlined in the analysis plan, 1190
+observations were excluded from the source data.
+
+No. of patients, PK samples,
+and BLQ
+
+Healthy subjects: 281
+
+Patients with AD: 1326
+
+Number of PK samples: 6860
+
+Total BLQs: None (All BLQs [N = 122] were excluded from the PopPK dataset)
+See Figure 12 for PK sample distribution.
+
+Population Characteristics See Table 94
+
+Final Model Summary Acceptability
+[FDA’s
+Comments]
+
+Software and version
+
+*¢ Nonlinear mixed effects modeling (NONMEM) Acceptable
+(Version 7.4.2; ICON Development Systems,
+Gaithersburg, MD, USA)
+
+® — R (Versions 4.1.2; R Foundation for Statistical
+Computing, Vienna, Austria)
+
+Model Structure
+
+This model was a two-compartment disposition model Acceptable
+with first-order absorption and linear elimination. Inter-
+
+219
+
+Version date: October 12, 2018
+
+Reference ID: 5252985
+

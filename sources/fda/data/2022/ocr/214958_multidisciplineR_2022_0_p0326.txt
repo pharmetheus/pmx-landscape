@@ -1,0 +1,89 @@
+Multi-disciplinary Review and Evaluation
+NDA 214958 Sotyktu (deucravacitinib) tablets, 6 mg
+
+{ Studies supported
+
+[1M011-071
+
+Table 90. Summary of LC-MS/MS Bioanalytical Method Validation for Determination of
+Deucravacitinib and BMT-153261 in Plasma
+
+Parameter Study Information
+Method ID 171731VRM_BPN
+Matrix Human plasma
+
+Anticoagulant
+
+Dipotassium ethylenediaminetetraacetic acid (K2EDTA)
+
+Extraction method
+
+Liquid-liquid extraction
+
+Analyte
+
+Internal standard (IS)
+
+Deucravacitinib, BMT-153261
+
+(IS deucravacitinib),
+© (1S for BMT-153261)
+
+Calibration curve range 0.500 to 500 ng/mL
+QC levels (ng/mL) LLOQ QC: 0.500
+QC1: 1.50
+QC2 (GM QC): 15.0
+QC3: 150
+QC4: 375
+Dilution QC: 5000
+Precision
+Drug LLOQ Qci Qc3 Qc4
+Deucravacitinib
+Between run (% CV) 84 64 4.0 7.0
+Within run (% CV) s11.1 59.2 <4.9 59.4
+BMT-153261
+Between run (% CV) 64 3.9 3.4 48
+Within run (% CV) s74 34.6 34.3 6.8
+Accuracy
+Drug LLOQ Qci Qc3 Qc4
+Deucravacitinib
+Between Run (% bias) 3.0 4.0 3.3 1.6
+Within Run (% bias) -1.0 to 5.4 3.3 to 4.7 2.7 to 4.0 -3.5 to 4.3
+BMT-153261
+Between run (% bias) 3.6 2.7 2.7 -1.1
+Within run (% bias) 1.0 to 7.2 0.0 to 4.7 2.0 to 2.7 -4.0 to 1.3
+
+Selectivity
+
+Deucravacitinib: LLOQ -8.0% to 19.2%; QC4 -13.6% to 0.8%.
+BMT-153261: LLOQ -16.4% to 6.8%; QC4 -15.2% to -3.7%.
+
+Matrix effect
+
+Deucravacitinib Mean Matrix Factor: 1.01 - 1.02
+BMT-153261 Mean Matrix Factor: 1.01
+
+Carry over <20% of LLOQ response
+Freeze/Thaw stability 5 cycles -20°C and -70°C
+Room temperature stability | 48 hours
+
+Long-term stability
+
+1064 days at -20 °C and -70 °C
+
+Studies supported
+
+1M011-011, IMO11-025, IMO11-031, IM011-039, IMO11-045, IM011-046,
+1M011-047, IMO11-048, IMO11-061, IM011-062, IMO11-071, IM011-084,
+1M011-087, IMO11-088, IMO11-090, IM011-100, IMO11-101, IM011-119
+
+Table 91. Cross Validation Summary of Method 171731VRM_BPN
+
+Parameter Study Information
+Method ID 400040-181206-PMV
+Matrix Human plasma
+
+Reference ID: 5043097
+
+325
+

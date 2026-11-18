@@ -1,0 +1,73 @@
+Uncertainty and Variability
+(Relative Standard Error [RSE], IlV,
+Shrinkage, Bootstrap)
+
+Parameters were generally estimated
+with good precision (RSE <20%) except
+for ABW on V2anc, and AST on METDM4.
+(Applicant - Table 9 and 11)
+
+BLQ for Parameter Accuracy
+
+The impact of concentrations below the
+limit of quantitation on fezolinetant PK
+parameters
+
+was also assessed during base model
+development. Attempts to incorporate
+the left censored
+
+BLQ measurements using the M3
+method were unsuccessful; however,
+models utilizing the
+
+M2 method with the YLO option
+indicated similar estimates for key
+parameters, overall, with
+
+larger estimates of residual variability. As
+such, advanced methods to handle BLQ
+data were
+
+not explored further and data below the
+LLOQ was excluded from the analysis.
+
+Acceptable
+
+Goodness of Fit (GOF), Visual
+Predictive check (VPC)
+
+Applicant-Best Model Goodness-of-Fit
+Plots and Figure 11-18 for VPC
+
+Acceptable
+
+Significant Covariates and Clinical
+Relevance
+
+Applicant - Figure 9 and 10
+
+Acceptable
+
+Analysis Based on Simulation
+(optional)
+
+Labeling Language
+
+Description
+
+Acceptability
+
+[FDA’s comments]
+
+12.3 PK
+
+Distribution
+
+Acceptable with
+minor changes.
+
+Reference ID: 5083095
+
+97
+

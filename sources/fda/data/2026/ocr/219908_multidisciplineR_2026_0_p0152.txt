@@ -1,0 +1,61 @@
+NDA/BLA Multi-disciplinary Review and Evaluation/New Drug Application (NDA) 219908
+
+REVTORPYK (gedatolisib)
+Table 38: B2151009 Study — 4 Arms: Gedatolisib Exposures and Treatment Durations
+Parameter Escalation Expansion Expansion Expansion
+ArmB Arm B Arm C ArmD
+(N= 20) (N= 13) (N= 32) (N=27)
+n(%) n(%) n(%) n(%)
+Number of IV Infusions Administered
+Mean (Standard deviation) 40.5 (48.8) 61.5 (54.2) 25.8 (28.9) 39.6 (29.0)
+Median (Quartile 1, Quartile 3) 26 2 15 30
+Minimum, Maximum 1,218 5, 162 1,127 5,98
+Total Cumulative Dose Administered (mg)
+Mean 6370.5 8923.8 4112.1 6341.5
+(Standard deviation) (8056.1) (7742.2) (4400.7) (4547.9)
+Median (Quartile 1, Quartile 3) 4410 6660 2490 5400
+Minimum, Maximum 180, 36870 770, 24270 180, 17930 810, 17640
+Relative Dose Intensity (%)
+Mean (Standard deviation) 88.7 (9.2) 83.2 (7.3) 92.5 (7.9) 90.0 (8.9)
+Median (Quartile 1, Quartile 3) 86.5 82.1 93.5 88.9
+Minimum, Maximum 74.2. 100.0 72.8. 100.0 75.6, 100.0 74.3. 100.0
+Average Dose per Infusion (mg)
+Mean (Standard deviation) 159.7 (16.5) 149.7 (13.1) 166.5 (14.1) 162.0 (15.9)
+Median (Quartile 1, Quartile 3) 155.6 147.8 168.3 160.0
+Minimum, Maximum 133.5, 180.0 131.0, 180.0 136.1, 180.0 133.8. 180.0
+Duration of Treatment (months) *
+Mean (Standard deviation) 10.7 (12.2) 16.3 (14.2) 6.7 (7.7) 12.8 (9.5)
+Median (Quartile 1, Quartile 3) 7.0 1L1 34 9.5
+Minimum, Maximum 0.1, 52.1 1.6, 42.3 0.1, 32.1 1.6, 33.6
+
+Abbreviations: CSR = clinical study report: IV = intravenous; N = total number of subjects.
+
+Notes: Relative Dose Intensity = cumulative dose received/planned cumulative dose per protocol up to the dose received.
+Average daily dose: cumulative dose received divided by the number of infusions that subjects received. All arms were
+gedatolisib + palbociclib + fulvestrant; all subjects received gedatolisib weekly except for subjects in Dose Expansion Arm D,
+who received gedatolisib on D1, D8, and D15 of every 28-day cycle.
+
+a. To calculate the duration of treatment in months, the following was used: (last dose date — first dose date + 1) / 30.4375.
+Source: Module 5.3.5.2, Study B2151009 CSR (Table 37).
+
+The median treatment duration in the 3 combined arms with weekly dosing was 24.1 weeks,
+compared with 41.1 weeks in Arm D, which used intermittent dosing (Table 39).
+
+Table 39: B2151009 Weekly vs Intermittent Triplet Dosing: Treatment Durations
+
+Weekly Dosing Intermittent Total
+Treatment Duration (weeks) (N= 65) Dosing (N=92)
+(W=27)
+Mean (standard deviation) 42.9 (48.55) 55.6 (41.10) 46.6 (46.63)
+Median (Quartile 1, Quartile 3) 24.1(7.3,57.1) 41.1 (23.0, 75.6) | 32.5 (12.5, 65.4)
+Minimum, Maximum 0.4, 226.4 7.0, 146.0 0.4, 226.4
+Abbreviations: N = total number of subjects.
+Source Table 1009-7.
+151
+
+Version date: February 10, 2025 (ALL NDA/BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5832496

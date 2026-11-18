@@ -1,0 +1,65 @@
+NDA 216951
+Jesduvrog (daprodustat)
+
+Exploratory OT analyses adjusted by the dosing frequencies of the different treatments
+attenuated the effect estimate; the extent of attenuation depended on the ascertainment window
+chosen (OT+Dosing Frequency+28: HR 1.18 (95% CI 0.99, 1.40) and OT+Dosing Frequency:
+HR 1.09 (95% CI 0.89, 1.33)).
+
+In summary, OT analyses produced HR estimates for MACE that were greater than the on-study
+analysis estimate, and the OT estimates differed depending on the ascertainment window used.
+However, comparisons based on the OT analyses are likely subject to bias, which cannot easily
+be corrected through analysis. The etiology and extent of this bias is thoroughly discussed in
+other work.” The design and conduct of ASCEND-ND was sufficient to evaluate and estimate
+risks based on an on-study analysis approach.
+
+Table 72. MACE On-Study and On-Treatment Analyses, ASCEND-ND
+Darbepoetin
+Daprodustat alfa
+N=19372 N=1935
+PY=3480* PY=34897 Hazard Ratio
+
+n [IR] n [IR] (95% Cl)
+On-study (primary) 378 [10.9] 371 [10.6] 1.03 (0.89, 1.19)
+On-treatment + 28 days (supportive) 274 [9.9] 202 [7.2] 1.40 (1.17, 1.68)
+On-treatment + dosing frequency + 28 days (exploratory) 275 [10.0] 248 [8.6] 1.18 (0.99, 1.40)
+On-treatment + dosing frequency (exploratory) 192 [7.3] 189 [6.8] 1.09 (0.89, 1.33)
+
+Source: FDA analysis.
+
+MACE: Composite of all-cause mortality, nonfatal MI, and nonfatal stroke.
+
+Dosing frequency: Dapro: daily; Darbe: weekly, every 2 weeks, or every 4 weeks.
+
+= Number of subjects (N) and person-years (PY) correspond to the on-study (primary) analysis only.
+
+Abbreviations: Cl, confidence interval; IR, incidence rate per 100 PY; MACE, major adverse cardiovascular event; MI, myocardial
+infarction; N, number of subjects; n, number of subjects with event; PY, person-year
+
+7.6.1.1.3. Subgroup Analyses
+
+Results of the prespecified subgroup analyses of MACE are shown in Figure 27. Estimated HRs
+for MACE were greater than 1.0 comparing daprodustat to darbepoetin alfa in the older age
+categories, among American Indian or Alaskan Native (HR 1.41; 95% CI 0.80, 2.49), among
+Black or African American (1.19; 95% CI 0.70, 2.02), among White (1.12; 95% CI 0.93, 1.34),
+in the USA region (HR 1.19; 95% CI 0.91, 1.54), and among ESA users at randomization (HR
+1.12; 95% CI 0.91, 1.36). Key considerations with the subgroup analyses included:
+
+e In general, the chance of observing a signal that is incongruous with the overall study
+population is non-negligible. Therefore, the signal could be an overestimation of the
+truth.
+
+e The low event rates and small samples sizes for the non-White race subgroups limited the
+interpretability of those analyses.
+
+e The higher incidence of MACE in the daprodustat arm for the prespecified USA
+subgroup and ESA user subgroup were of particular interest because the USA is under
+FDA’s jurisdiction and ESA is the standard of care. These subgroup sample sizes were
+moderate, approximately 500 (USA subgroup) and 900 (ESA-user subgroup) subjects,
+
+17 https://www.nejm.org/doi/full/10.1056/NEJMc2208182
+
+127
+Integrated Review Template, version 3.0 (05/25/2022)
+
+Reference ID: 5119138

@@ -1,0 +1,1018 @@
+CENTER FOR DRUG EVALUATION AND
+RESEARCH
+APPLICATION NUMBER:
+
+761148Orig1s000
+CLINICAL PHARMACOLOGY
+REVIEW(S)
+
+Office of Clinical Pharmacology
+BLA Number
+
+Integrated Review
+761148
+
+Link to EDR
+
+\\CDSESUB1\evsprod\BLA761148\0000
+
+Submission Date
+
+10/24/2019
+
+Submission Type
+
+351(a), Standard Review
+
+Brand Name
+
+Rolontis®
+
+Generic Name
+
+Eflapegrastim
+
+Dosage Form and Strength
+
+Subcutaneous Injection 13.6 mg
+(b) (4)
+
+Proposed Indication
+
+Applicant
+
+Spectrum Pharmaceuticals, Inc.
+
+Associated IND
+
+103461
+
+OCP Review Team
+
+Anusha Ande, Ph.D., Eliford Kitabi, Ph.D.,
+Justin Earp, Ph.D., Sudharshan Hariharan,
+Ph.D.
+
+OCP Final Signatory
+
+Shirley Seo, Ph.D.
+Division Director
+Division of Cardiometabolic and Endocrine
+Pharmacology (DCEP)
+
+1
+Reference ID: 4634882
+
+Table of Contents
+
+1. EXECUTIVE SUMMARY ..................................................................................................................... 4
+1.1 Recommendations.............................................................................................................................. 4
+1.2 Post-Marketing Requirements and Commitments ............................................................................. 5
+2. SUMMARY OF CLINICAL PHARMACOLOGY ASSESSMENT ...................................................... 5
+2.1 Pharmacology and Clinical Pharmacokinetics .................................................................................. 5
+2.2 Dosing and Therapeutic Individualization ......................................................................................... 8
+2.2.1 General dosing ............................................................................................................................ 8
+2.2.2 Therapeutic individualization ..................................................................................................... 8
+2.3 Outstanding Issues ............................................................................................................................. 8
+2.4 Summary of Labeling Recommendations.......................................................................................... 8
+3. COMPREHENSIVE CLINICAL PHARMACOLOGY REVIEW ......................................................... 9
+3.1 Clinical Pharmacology Questions...................................................................................................... 9
+3.1.1. To what extent does the available clinical pharmacology program provide supportive
+evidence of effectiveness? ................................................................................................................... 9
+3.1.2 Is the proposed dosing regimen appropriate for the general patient population for which the
+indication is being sought? ................................................................................................................ 12
+3.1.3 Is an alternative dosing regimen and/or management strategy required for subpopulations
+based on intrinsic factors? ................................................................................................................. 13
+3.1.4 Are there clinically relevant food-drug or drug-drug interactions and what is the appropriate
+management strategy? ....................................................................................................................... 14
+3.1.5 Is the to-be-marketed formulation the same as the clinical trial formulation, and if not, are
+there bioequivalence data to support the to-be marketed formulation? ............................................. 15
+4. APPENDICES ....................................................................................................................................... 15
+4.1 Summary of Bioanalytical Method Validation ................................................................................ 15
+4.2 Evaluation of Effect of Immunogenicity on PK/Efficacy/Safety of Eflapegrastim......................... 16
+4.3 Population PK Analysis ................................................................................................................... 18
+4.3.1 Review Summary...................................................................................................................... 18
+4.3.2 Introduction............................................................................................................................... 19
+4.3.3 Model development .................................................................................................................. 19
+4.3.4 Final Model............................................................................................................................... 23
+
+2
+Reference ID: 4634882
+
+4.4 Exposure-vs-efficacy Analysis ........................................................................................................ 28
+4.4.1 Review Summary...................................................................................................................... 28
+4.4.2 Results from the applicant’s analyses ....................................................................................... 29
+4.5 Exposure-vs-Safety Analysis ........................................................................................................... 32
+4.5.1 Review Summary...................................................................................................................... 32
+4.5.2 Results from the applicant’s analyses ....................................................................................... 32
+
+3
+Reference ID: 4634882
+
+1. EXECUTIVE SUMMARY
+This clinical pharmacology review is for an original Biologics License Application (BLA),
+submitted by Spectrum Pharmaceuticals to the Division of Non-malignant Hematology (DNH).
+The applicant is seeking approval for Rolontis® (Eflapegrastim) to decrease the incidence of
+infection, as manifested by febrile neutropenia, in patients with non-myeloid malignancies
+receiving myelosuppressive anti-cancer drugs associated with clinically significant incidence of
+febrile neutropenia. Eflapegrastim is a recombinant human granulocyte growth factor that binds
+to granulocyte-colony stimulating factor (G-CSF) receptors on myeloid progenitor cells and
+neutrophils, triggering signaling pathways that control cell differentiation, proliferation, migration
+and survival. There are currently two other myeloid growth factors (filgrastim and pegfilgrastim)
+that are approved in the U.S. for the same indication.
+The proposed dose of eflapegrastim is a single injection of 13.2 mg administered subcutaneously
+via a single-dose prefilled syringe once per chemotherapy cycle. The applicant is relying on the
+efficacy and safety information from two pivotal multicenter, randomized, open-label, activecontrolled Phase 3 studies in patients with early stage breast cancer (ESBC) receiving docetaxel
+and cyclophosphamide (TC) chemotherapy. The primary efficacy endpoint was met in both
+studies, with eflapegrastim demonstrating non-inferiority to pegfilgrastim for the duration of
+severe neutropenia (DSN) in Cycle 1. All secondary analyses in both pivotal studies showed that
+the efficacy of eflapegrastim was not different than pegfilgrastim.
+The primary focus of this review is to evaluate the acceptability of general dosing
+recommendations and to explore the need for dose optimization based on extrinsic and intrinsic
+factors.
+
+1.1 Recommendations
+The Office of Clinical Pharmacology review team has reviewed the information submitted in BLA
+761148 and recommends approval of eflapegrastim to decrease the incidence of febrile
+neutropenia in patients with non-myeloid malignancies receiving myelosuppressive anti-cancer
+drugs.
+Key review issues with specific recommendations and comments are summarized below:
+Review Issues
+
+Recommendations and Comments
+
+Pivotal or supportive
+evidence of effectiveness
+
+The primary evidence of effectiveness is from two pivotal
+Phase 3 multicenter, randomized, open-label, active-controlled
+studies in patients with ESBC receiving TC chemotherapy
+(SPI-GCF-301 and SPI-GCF-302). The primary efficacy
+variable was the DSN which showed non-inferiority for
+eflapegrastim compared to pegfilgrastim in Cycle 1.
+
+4
+Reference ID: 4634882
+
+An additional Phase 2 multicenter, sequentially enrolled, openlabel, active-controlled, dose-ranging study in patients with
+ESBC receiving TC chemotherapy (SPI-GCF-12-201)
+provided supportive evidence. A dose proportional effect in
+DSN was observed across the three eflapegrastim dosing
+cohorts, with mean DSN values generally decreasing with
+increasing dose.
+General dosing instructions
+
+The recommended dosage of Rolontis is a single subcutaneous
+injection of 13.2 mg administered once per chemotherapy
+cycle. Administer approximately 24 hours after cytotoxic
+chemotherapy. Do not administer between 14 days before and
+24 hours after administration of cytotoxic chemotherapy.
+
+Dosing in patient subgroups
+(intrinsic and extrinsic
+factors)
+
+No dose adjustments are needed based on age, race, sex,
+bodyweight,
+renal
+or
+hepatic
+impairment.
+Metabolic/transporter mediated interactions or impact of food
+does not apply for eflapegrastim.
+
+Labeling
+
+Pending agreement with the Applicant
+
+Bridge between the to-bemarketed and clinical trial
+formulations
+
+NA. The to-be-marketed formulation is the same as the
+clinical trial formulation.
+
+1.2 Post-Marketing Requirements and Commitments
+None.
+
+2. SUMMARY OF CLINICAL PHARMACOLOGY ASSESSMENT
+2.1 Pharmacology and Clinical Pharmacokinetics
+Eflapegrastim (Rolontis®) is a long-acting granulocyte-colony stimulating factor (G-CSF)
+produced by covalent coupling of a human G-CSF analog and human immunoglobulin G4 (IgG4)
+Fc fragment, both derived from recombinant Escherichia coli (E. coli), via a single 3.4 kDa
+polyethylene glycol (PEG) linker (Figure 1).
+
+5
+Reference ID: 4634882
+
+•
+•
+
+•
+
+Absorption: The median Tmax of eflapegrastim is 25 hours (6 to 144 hours) in patients with
+breast cancer following administration of the recommended dosage.
+Elimination: The geometric mean half-life of eflapegrastim in patients with breast cancer
+is 36.4 hours (16.1 to 115 hours) during Cycle 1. Following repeat administration,
+clearance increased in Cycle 3 as compared to Cycle 1, potentially due to the subsequent
+increase in neutrophils.
+Metabolism: Eflapegrastim is expected to be metabolized by endogenous degradation
+following receptor-mediated internalization by cells bearing the G-CSF receptor.
+
+3. COMPREHENSIVE CLINICAL PHARMACOLOGY REVIEW
+3.1 Clinical Pharmacology Questions
+3.1.1. To what extent does the available clinical pharmacology program provide supportive
+evidence of effectiveness?
+The primary evidence of effectiveness of eflapegrastim is based on two multicenter, randomized,
+open-label, active-controlled Phase 3 studies (SPI-GCF-301 and SPI-GCF-302) and a supportive
+Phase 2 study (SPI-GCF-12-201) in patients with ESBC receiving TC chemotherapy which are
+discussed in 3.1.2. From a clinical pharmacology perspective, supportive evidence for
+effectiveness comes from the mechanistic description of PK and PD from the Phase 1 study and
+dose-response data from the Phase 2 study.
+
+PK-ANC relationship:
+In both Phase 1 studies, PD endpoints were ANC and CD34+ cell counts in blood samples taken
+from pre-dose to 22 days after dosing. Single SC doses of eflapegrastim produced a dosedependent increase in ANC and CD34+ over the dose range of 3.3 to 270 μg/kg.
+
+The PK/PD relationship of eflapegrastim was evaluated using the data from one Phase 1 study
+(SPI-GCF-301-PK), conducted in patients dosed at the intended clinical dose (13.2 mg) once per
+chemotherapy cycle for 4 cycles. The mean eflapegrastim concentration and corresponding ANC
+over time are displayed in Figure 2. The mean ANC-versus-time profiles in both Cycles 1 and 3
+had an initial peak followed by a nadir, and then a recovery peak.
+
+9
+Reference ID: 4634882
+
+Figure 2 Mean Eflapegrastim Concentration Overlaid by Absolute Neutrophil Count
+
+*Eflapegrastim was administered on Day 2 of each Cycle [Source: SPI-GCF-301-PK CSR]
+In Cycle 1, the mean pre-dose ANC was 8.7×109/L and the first peak (23.7×109/L) occurred at 24
+hours after eflapegrastim administration (Cycle 1, Day 3). The nadir on Day 3 (Cycle 1, Day 5)
+was 7.1×109/L, or approximately 78% of the pre-dose mean ANC. The recovery peak
+(30.0×109/L) occurred on Day 8 (Cycle 1, Day 10) and remained >2-fold above pre-dose values
+
+10
+Reference ID: 4634882
+
+on Day 13 (Cycle 1, Day 15) (21.3×109/L). The first peak occurs due to a marked increase in
+peripheral blood neutrophil counts which is attributed to early release of neutrophils from the bone
+marrow granulocyte reserve, demargination of neutrophils, and prolongation of survival of
+neutrophils in circulation, which is followed by a neutrophil nadir caused by chemotherapy. The
+recovery peak occurs due to the rise in neutrophils as the bone marrow recovers.
+In Cycle 3, the mean pre-dose ANC (11.5×109/L) was approximately 33% higher than in Cycle 1.
+The post-dose ANC peak (47.2×109/L) at 24 hours (Cycle 3, Day 3) was 2-fold higher in Cycle 3
+than in Cycle 1. The mean ANC nadir (7.0×109/L) was approximately 50% of the pre-dose ANC
+and occurred on Day 6 (Cycle 3, Day 8). The recovery peak (28.3×109/L) occurred on the same
+day as in Cycle 1 on Day 8 (Cycle 3, Day 10). The Day 13 (Cycle 3, Day 15) mean ANC
+(18.5×109/L) was similar to the Cycle 1 recovery. Similar to Cycle 1, elimination of eflapegrastim
+in Cycle 3 appears to increase as mean ANC increases to its recovery peak.
+The lower eflapegrastim exposures in Cycle 3 were likely due to higher ANC levels in the cycle.
+Higher ANC levels are expected to cause a decrease in plasma concentrations of eflapegrastim
+due to target-mediated elimination of eflapegrastim. Because of the complex relationship of ANC
+to the clearance of eflapegrastim, only a mechanistic description of PK and PD as outlined above
+was attempted as a formal exposure-response analysis will be confounded and uninterpretable.
+
+Dose-DSN relationship:
+The Phase 2 study (SPI-GCF-12-201) was an open-label, multicenter, dose-ranging study of
+eflapegrastim and pegfilgrastim for the management of neutropenia in adult patients with breast
+cancer, who were candidates for TC chemotherapy regimen. Eflapegrastim was administered at a
+dose of 45, 135, or 270 μg/kg and pegfilgrastim at a dose of 6 mg; both were administered once
+per chemotherapy cycle, on Day 2 (approximately 24 hours ± 2 hours after chemotherapy). ANC
+was measured to determine the primary efficacy endpoint, i.e., duration of severe neutropenia
+(DSN) in Cycle 1, with severe neutropenia defined as ANC <0.5×109/L and DSN as the interval
+from the day of first observation of Grade 4 neutropenia to first ANC recovery to ≥2×109/L. The
+ANC-time profiles, after treatment with eflapegrastim, exhibited biphasic patterns, and the
+maximum ANC value was higher in Cycle 3 than in Cycle 1. The first ANC peak occurred
+between 1 to 3 days after eflapegrastim dose and the second peak between 8 to 13 days post-dose.
+Elimination of eflapegrastim appeared to increase as the mean ANC values increased to its
+recovery peak. The efficacy results from Phase 2 study are presented in the Table 1.
+
+11
+Reference ID: 4634882
+
+Table 1 Summary of efficacy results from Phase 2 study
+Eflapegrastim
+
+Eflapegrastim
+
+Eflapegrastim
+
+Pegfilgrastim
+
+(45 μg/kg)
+
+(135 μg/kg)
+
+(270 μg/kg)
+
+(6 mg)
+
+N=39
+
+N=36
+
+N=36
+
+N=36
+
+DSN (days)
+
+1.03
+
+0.44
+
+0.03
+
+0.31
+
+Difference
+
+0.72
+
+0.14
+
+-0.28
+
+95% CI
+
+0.19, 1.27
+
+-0.28, 0.64
+
+-0.56, -0.06
+
+0.002
+
+<0.001
+
+Non-inferiority
+p-value
+
+[Source: SPI-GCF-12-201 CSR]
+Both 135 and 270 μg/kg doses of eflapegrastim were found to be non-inferior to pegfilgrastim
+based on prespecified criteria (upper bound of 95% confidence interval [CI] <1 day). Furthermore,
+eflapegrastim, at a dose of 270 μg/kg, was statistically superior to pegfilgrastim (p=0.023).
+
+To maximize the effectiveness of eflapegrastim in the Phase 3 study and stay within the welltolerated dose range evaluated in SPI-GCF-12-201, an intermediate dose of approximately 188
+(b) (4)
+μg/kg for a 70 kg patient was selected. This translated to a dose of 13.2 mg
+mg G-CSF), which
+(b) (4)
+is approximately
+the dose of the active comparator, pegfilgrastim 6 mg (6 mg G-CSF). The
+fixed dose of 13.2 mg eflapegrastim was chosen for both Phase 3 studies.
+
+3.1.2 Is the proposed dosing regimen appropriate for the general patient population for which
+the indication is being sought?
+Yes, the proposed dosing regimen of 13.2 mg administered SC once per chemotherapy cycle is
+acceptable to decrease the incidence of febrile neutropenia in patients with non-myeloid
+malignancies receiving myelosuppressive anti-cancer drugs. This dose was evaluated in the two
+Phase 3 studies.
+SPI-GCF-301 (N=406) and SPI-GCF-302 (N=237) are two Phase 3 multicenter randomized,
+open-label, active-controlled studies in which patients with ESBC receiving TC chemotherapy
+were randomized to treatment with either eflapegrastim (13.2 mg) or pegfilgrastim (6 mg). These
+Phase 3 studies were identical in terms of their study design, primary endpoint, and statistical
+hypothesis and methodology, however, the studies differed in total numbers of patients and
+statistical power. After screening, eligible patients received TC chemotherapy (docetaxel 75
+
+12
+Reference ID: 4634882
+
+mg/m2 IV and cyclophosphamide 600 mg/m2 IV), on Day 1 of each of four 21-day cycles. On Day
+2 of each cycle, approximately 24 to 26 hours after the last dose of TC chemotherapy, patients
+received either eflapegrastim 13.2 mg or pegfilgrastim 6 mg. The primary efficacy endpoint of
+the DSN in Cycle 1 was met in both studies, with eflapegrastim demonstrating non-inferiority to
+pegfilgrastim based on a prespecified non-inferiority margin (upper bound of 95% CI <0.62 days)
+(Table 2). The mean DSN in the eflapegrastim arm was non-inferior to that of pegfilgrastim arm
+in Cycles 2 though 4 (secondary). During Cycle 1 in SPI-GCF-301, eflapegrastim treatment
+significantly reduced the absolute risk of severe neutropenia by 8.5% compared to pegfilgrastim
+treatment and the relative risk reduction was 34.9%. There were also reductions in the absolute
+risk (3.2%) and relative risk (13.6%) in SPI-GCF-302, but these differences were not significant.
+The proposed dosing regimen is acceptable because both the Phase 3 studies met the primary
+endpoint and the effect on DSN was maintained through Cycles 2-4.
+
+Table 2 Summary of efficacy results from Phase 3 studies
+
+SPI-GCF-301
+
+DSN (days)
+
+SPI-GCF-302
+
+Eflapegrastim
+
+Pegfilgrastim
+
+Eflapegrastim
+
+Pegfilgrastim
+
+N=196
+
+N=210
+
+N=118
+
+N=119
+
+0.2 (0.503)
+
+0.35 (0.683)
+
+0.31 (0.688)
+
+0.39 (0.949)
+
+Mean (SD)
+
+ΔDSN (eflapegrastim pegfilgrastim)
+95% Confidence
+Interval
+Non-Inferiority p-value
+
+-0.148
+
+-0.074
+
+(-0.264, -0.032)
+
+(-0.292, 0.129)
+
+<0.0001
+
+<0.0001
+
+[Source: SPI-GCF-301 CSR, SPI-GCF-302 CSR]
+
+3.1.3 Is an alternative dosing regimen and/or management strategy required for
+subpopulations based on intrinsic factors?
+No. Dose adjustment is not necessary based on intrinsic factors such as race, age, sex, body weight,
+BMI, renal or hepatic impairment. Population PK analysis was conducted on data from 329
+subjects to evaluate the impact of intrinsic and extrinsic factors. Covariates that were found to be
+statistically significant in the model were weight on CL/F, ANC on CL/F, weight on Vz/F. The
+
+13
+Reference ID: 4634882
+
+finding of ANC as a covariate is consistent with results from SPI-GCF-201 and SPI-GCF-301PK, in which ANC in Cycle 3 was found to be greater than Cycle 1 and eflapegrastim plasma
+concentration was lower in Cycle 3 than Cycle 1. No dose adjustment based on ANC is required
+as it is higher in Cycle 3 and the lower eflapegrastim exposures are a result of its target mediated
+clearance.
+While weight has a significant effect on CL/F and Vz/F in the popPK analysis, it is not expected
+to have a clinically significant effect. The weight range in the Phase 3 studies was 40.3 to 171 kg,
+equivalent to a 328 and 77 μg/kg dose of eflapegrastim, respectively. In these subjects, there was
+no notable difference in incidence of severe neutropenia for subjects weighing >97.7 kg receiving
+13.2 mg eflapegrastim (equivalent to <135 μg/kg, the lowest dose tested and shown to have noninferiority to 6 mg pegfilgrastim in Cycle 1) compared to subjects weighing ≤97.7 kg in Cycles 1
+to 3. In Phase 3 subjects who had severe neutropenia, there was no notable difference in DSN in
+any cycle for subjects weighing either above or below 97.7 kg (Table 3). The lack of difference in
+efficacy between weight groups and non-inferiority assessments support the use of a 13.2 mg
+eflapegrastim dose level across a broad body weight range.
+Table 3 Duration of Severe Neutropenia by Weight in Phase 3 Studies
+
+Characteristic
+
+Statistic
+
+>97.7 kg
+
+≤97.7 kg
+
+All Subjects
+
+DSN in Cycle 1
+
+N
+
+10
+
+46
+
+56
+
+Mean (SD)
+
+1.11 (0.57)
+
+1.31 (0.48)
+
+1.28 (0.49)
+
+N
+
+5
+
+23
+
+28
+
+Mean (SD)
+
+2.57 (0.87)
+
+2.46 (0.73)
+
+2.48 (0.74)
+
+DSN in Cycle 3
+
+[Source: Integrated Pharmacokinetic Report]
+Metabolism of eflapegrastim is mediated by endogenous degradation following receptor-mediated
+internalization by cells bearing the G-CSF receptor. Given that the excretion of eflapegrastim by
+kidneys is negligible, it is likely that the primary route of elimination of eflapegrastim is through
+ANC mediated degradation. Therefore, neither renal nor hepatic impairment is expected to affect
+eflapegrastim PK or response. No dedicated renal or hepatic impairment studies were conducted,
+and no dose adjustments are required in these patients.
+
+3.1.4 Are there clinically relevant food-drug or drug-drug interactions and what is the
+appropriate management strategy?
+Concomitant administration of eflapegrastim with other drugs is not expected to result in clinically
+relevant drug interactions. As eflapegrastim is expected to be metabolized by endogenous
+
+14
+Reference ID: 4634882
+
+degradation following receptor-mediated internalization by cells bearing the G-CSF receptor, it is
+unlikely to have an effect on drug metabolizing enzymes or transporters or be impacted by
+modulation of drug metabolizing enzymes or transporters. As a result, the applicant did not
+conduct in vitro studies to characterize its metabolism or evaluate drug interaction. Eflapegrastim
+is administered subcutaneously, and is not expected to be associated with clinically relevant fooddrug interactions.
+
+3.1.5 Is the to-be-marketed formulation the same as the clinical trial formulation, and if not,
+are there bioequivalence data to support the to-be marketed formulation?
+Yes, the to-be-marketed formulation is the same as the clinical trial formulation.
+
+4. APPENDICES
+4.1 Summary of Bioanalytical Method Validation
+For the determination of plasma eflapegrastim concentrations, the applicant used a ligand binding
+ELISA method. Briefly, the assay depended on the capturing antibody, biotin labeled antiHM10411 polyclonal antibody (pAb), being bound to streptavidin in wells of a streptawell 96well plate. Following blocking and washing steps, eflapegrastim in serum samples was then bound
+to the anti-HM10411 pAb. After incubation and washing, the detection antibody, horseradish
+peroxidase (HRP)-mouse anti-human immunoglobulin G4 (IgG4), is bound to eflapegrastim.
+After incubation and washing step, a colorimetric substrate was added. Colorization was stopped
+and the optical density (OD) of each well was determined, using a microplate reader, set to 450nm.
+(b) (4)
+This method was developed and validated by the
+The ELISA method was validated in compliance with the standards set
+forth in the FDA Bioanalytical Method Validation guidance. Summary of the validation
+parameters are presented in Table 4.
+Table 4 Summary Review of Bioanalytical Method Measuring Plasma Eflapegrastim
+Bioanalytical method validation report
+
+Study report MC14I-0017
+
+Method description
+
+Validation of a Method for the Quantification
+of HM10460A in Human Serum using ELISA
+Detection
+
+Validation assay range
+
+6.25 – 200 ng/mL
+
+QCs (ng/mL)
+
+6.25, 10, 100, 160, 200
+
+15
+Reference ID: 4634882
+
+Inter-day precision (%CV)
+
+8.62% to 12.2%
+
+Inter-day accuracy (%DEV)
+
+0.00% to 7.00%
+
+Intra-day precision (%CV)
+
+2.31% to 18.4%
+
+Intra-day accuracy (%DEV)
+
+-11.9% to 19.0%
+
+Reference standard
+
+Recombinant HM10460A
+Lot # PGC13001
+
+Specificity
+
+No interference in the blank matrix was seen
+
+Freeze/thaw stability (-70°C/RT)
+
+4 cycles: Precision (%CV): 3.04% – 7.53%;
+Accuracy (%DEV): -2.4% – 12.5%
+
+[Source: MC14I-0017 Validation Report]
+
+4.2 Evaluation of Effect of Immunogenicity on PK/Efficacy/Safety of Eflapegrastim
+Immunogenicity to eflapegrastim was evaluated in the following 5 clinical studies:
+•
+•
+•
+
+Two Phase 1 studies (08-HM10460A-101 and 09-HM10460A-102) in healthy volunteers
+One dose-ranging Phase 2 study (SPI-GCF-12-201) in patients with breast cancer
+undergoing TC chemotherapy, and
+Two pivotal Phase 3 studies (SPI-GCF-301 and SPI-GCF-302) in patients with breast
+cancer undergoing TC chemotherapy.
+
+Immunogenicity to pegfilgrastim, used as a comparator in clinical studies, was evaluated for the
+Phase 2 and Phase 3 studies, utilizing the same immunoassays as used for eflapegrastim.
+A bridging ELISA using labeled eflapegrastim was used to capture and detect antibodies to
+eflapegrastim and its protein domains (only to G-CSF for the Phase 1 and Phase 2 studies and to
+G-CSF and Fc fragment for the Phase 3 studies). A cell-based assay was used to detect NAb for
+all studies. A separate direct-binding ELISA was used to test samples from the Phase 3 studies for
+anti-PEG antibodies. Immunogenicity sample analysis for antibodies to eflapegrastim and its
+protein domains was performed following a standard tiered testing strategy. Samples were initially
+subjected to a screening assay, and putative positive samples from the screening assay were
+subjected to a confirmatory assay. Samples that were positive in the confirmatory assay were
+
+16
+Reference ID: 4634882
+
+subjected to a titer assay. In the Phase 3 studies, samples confirmed positive for ADA were also
+tested for reactivity to G-CSF and Fc domains and for cross reactivity to endogenous G-CSF
+(lenograstim). Samples reactive to the G-CSF domain or lenograstim were tested further in a NAb
+assay. OBP finds the validation of these ADA assays to be acceptable.
+The immunogenicity results from the two Phase 3 studies are outlined in Table 5. Cumulative
+incidence of ADAs was higher in patients treated with eflapegrastim compared to pegfilgrastim.
+Incidence of treatment-emergent anti-PEG antibodies was significantly higher in the pegfilgrastim
+arm than in the eflapegrastim arm.
+Table 5 Immunogenicity results from Phase 3 studies
+Eflapegrastim
+
+Assay
+
+Pegfilgrastim
+
+n
+
+%
+
+n
+
+%
+
+Treatment-Induced
+or
+Treatment-Boosted Antibodies
+
+28/297
+
+9.4
+
+10/306
+
+3.3
+
+Treatment-Emergent Anti-PEG
+Antibodies
+
+126/268
+
+47
+
+167/263
+
+63.5
+
+Treatment-Induced Neutralizing
+ADA
+
+1/297
+
+0.3
+
+0/306
+
+0.0
+
+[Source: Integrated Immunogenicity Summary Report]
+
+The impact of anti-eflapegrastim antibodies and anti-PEG antibodies on the PK of eflapegrastim
+was studied as a part of a popPK analysis. Anti-eflapegrastim and anti-PEG antibodies were not
+found to impact the clearance of eflapegrastim following the forward addition and backward
+elimination procedure. The impact of anti-eflapegrastim antibodies on efficacy was evaluated in
+Cycles 1 and 3 with pooled data from both the Phase 3 studies as a part of a popPK analysis by
+chi-square test of independence. DSN was found to be independent of the presence of antieflapegrastim antibodies in both Cycles 1 and 3. The impact of anti-eflapegrastim antibodies on
+efficacy was also evaluated in the two Phase 3 studies by studying the temporal correlation
+between occurrence of severe neutropenia and incidence of anti-eflapegrastim antibodies for all
+patients positive for anti-eflapegrastim antibodies. There was no apparent temporal correlation for
+any of the patients suggesting that anti-eflapegrastim antibodies had no demonstrable effect on
+efficacy. The impact of ADA on safety was also evaluated by examining potential hypersensitivity
+or allergic reactions reported for each patient who was positive for ADA. The incidence of allergic
+reactions was found to be independent of the presence of anti-eflapegrastim antibodies.
+
+17
+Reference ID: 4634882
+
+Table 7. Summary of Studies with PK Sampling Included in Population PK Analysis
+
+Source: Applicant’s amended population pharmacokinetic report (page 55 of 153)
+The final NONMEM data file for analysis contained 2147 PK observations from 329 subjects.
+Table 8 provides summary statistics of the baseline demographic covariates in the analysis dataset.
+
+20
+Reference ID: 4634882
+
+Table 8. Summary of Baseline Demographic Covariates for Analysis
+
+21
+Reference ID: 4634882
+
+Source: Applicant’s amended population pharmacokinetic report (page 70-71 of 153)
+Base Model
+The final base model was a one-compartment PK model with sequential zero order and first-order
+absorption. The effect of absolute neutrophil count was included as a time varying covariate on
+CL using a power model with exponent estimated. The effect of weight was included as a covariate
+on both CL/F and Vc/F using a power model with exponents estimated. The effects of ANC and
+body-weight on PK parameters were parameterized as shown in Figure 3 below. Data below limit
+of quantification (BLQ) were handled using Beal’s M3 method which estimates probability of a
+record being BLQ at given values of model parameter.
+Figure 3. Parameterization of the covariate effects on CL/F and V/F
+
+22
+Reference ID: 4634882
+
+Inter-individual variability (IIV) was modelled assuming a log-normal distribution for patient level
+random effects. Residual variability was tested as additive, proportional or both on the dependent
+variable. Model evaluation and selection of the base model were based on standard statistical
+criteria of goodness-of-fit such as a decrease in the minimum objective function value (OFV),
+accuracy of parameter estimation (i.e., 95% confidence interval excluding 0), successful model
+convergence, and diagnostic plots.
+Covariate Analysis
+Covariate effects on PK parameters, including anti-drug antibodies, cycle number, disease status,
+subject demographics (age, sex, race, and ethinicity), baseline body size (height, body surface area
+and BMI) and serum chemistry (creatinine, estimated glomerular filtration rate (eGFR), total
+bilirubin, alanine aminotransferase (ALT), aspertate aminotransferase (AST)) were assessed using
+stepwise covariate model building procedure. Clinical judgment, physiologic relevance, and
+mechanistic plausibility were used to determine which covariates should be tested with the various
+PK parameters. Continuous covariates were evaluated using a power function and categorical
+covariates were parameterized as a fractional change. In a foward step, covariate-parameter
+relationship was to be included into the model if OFV decreased by more than 3.84 (p<0.05). In a
+backward step, covariate-parameter relationship was to be excluded from the model if doing this
+would result is less than 10.828 increase in OFV.
+4.3.4 Final Model
+Covariate analysis did not identify any other additional covariates than ANC and body-weight.
+The parameter estimates for the final covariate model are listed in Table 9. The goodness-of-fit
+plots for the final covariate model for all data are shown in Figure 4. The Visual Predictive Check
+(VPC) plot for the final covariate model with all data is shown in Figure 5.
+Table 9. Parameter Estimates and Objective Function Values of Applicant’s Final Model
+Parameters
+
+Descriptions
+
+Estimates
+(RSE)
+
+OFV
+
+Objective function value
+
+14849.831
+
+CL
+
+Clearance (L/hr/78Kg)
+
+0.2003(17%)
+
+Vc
+
+Volume of central compartment (L/78Kg)
+
+2.072(22%)
+
+KA
+
+First order Absorption rate constant (/h)
+
+0.008684(44%)
+
+D1
+
+Duration of zero order absorption (h)
+
+7.848(12%)
+
+23
+Reference ID: 4634882
+
+Delay
+
+Time delay to start of zero order absorption
+(h)
+
+0(NA%)
+
+ADD
+
+Additive residual error
+
+4.933(9%)
+
+PROP
+
+Proportional residual error
+
+0.4548(3%)
+
+ANC ~ CL
+
+power term for effect of ANC on CL
+
+0.3289(17%)
+
+WT ~ CL
+
+Power term for effect of Weight on CL
+
+1.311(19%)
+
+ANC ~ VOL
+
+Power term for effect of ANC on Vc
+
+1.819(34%)
+
+CYCLE~F1
+
+fractional effect of CYCLE3 on F1
+
+0.3499(6%)
+
+BSC_CL
+
+Between subject variability for CL
+
+0.6006(5%)
+
+BSC_CL_cor_BSC_V
+
+variance correlation between CL and V
+
+0.4756(51%)
+
+BSC_V
+
+Between subject variability for V
+
+1.053(17%)
+
+BSC_KA
+
+Between subject variability for KA
+
+0.7823(10%)
+
+BSC_KA_cor_BSC_D1 variance correlation between KA and D1
+
+0.6444(13%)
+
+BSC_D1
+
+1.314(25%)
+
+Between subject variability for AD1
+
+Source: Reviewer’s re-analysis of the applicant’s final model
+
+24
+Reference ID: 4634882
+
+Figure 4. Goodness-of-fit plots for final covariate model
+
+Source: Reviewer’s re-analysis of the applicant’s final model
+
+25
+Reference ID: 4634882
+
+Figure 5. Visual predictive check of the final model: All cycles and all time points
+
+Source: Applicant’s amended population pharmacokinetics report (page 29 of 153)
+
+The reviewer’s analysis of covariates effect on PK was like that of the applicant. The effects of
+anti-drug antibodies, cycle number, disease status, subject demographics (age, sex, race, and
+ethinicity), baseline body size (height, body surface area and BMI) and serum chemistry
+(creatinine, estimated glomerular filtration rate (eGFR), total bilirubin, alanine aminotransferase
+(ALT), aspertate aminotransferase (AST)) are explored in Figure 6 and Figure 7.
+
+26
+Reference ID: 4634882
+
+Figure 6. ETA versus Categorical covariates
+
+Source: Reviewer’s re-analysis of the applicant’s final model
+
+27
+Reference ID: 4634882
+
+Figure 7. ETA versus Continuous covariates
+
+Source: Reviewer’s re-analysis of the applicant’s final model
+4.4 Exposure-vs-efficacy Analysis
+4.4.1 Review Summary
+The applicant’s exposure-response (E-R) analyses for efficacy have limitations and do not
+represent the expected (E-R) relationships. This is largely due to the CL of eflapegrastim being
+directly related to the PD (absolute neutrophil count) – response appears better in patients with
+lower eflapegrastim because of the available neutrophils and precursor cells in these patients. The
+applicant used post-hoc PK parameters (AUC, Cmax, and Cmin) from their population PK model to
+
+28
+Reference ID: 4634882
+
+assess linear or non-linear relationships between exposure and efficacy endpoints. The evaluated
+efficacy endpoints included neutrophil nadir (cells/uL), duration of severe neutropenia, and time
+to ANC recovery (time from ANC<1 × 103 cells/uL to ANC>1 × 103 cells/uL). Neutrophil nadir
+was found to be correlated with Cmax, but the relationship is confounded as Cmax is also a function
+of ANC -- subjects with lower Cmax had higher neutrophil nadir than subjects with high Cmax.
+Similarly, although AUC was positively related to both DSN and time to ANC recovery, the
+relationships were not clinically meaningful as they indicated better outcomes in patients with
+lower exposure than those with higher exposures. The identified relationships can be considered
+spurious owing to the neutrophil dependent clearance of eflapegrastim and visual inspection of
+plots of exposure versus efficacy indicated no obvious trends.
+4.4.2 Results from the applicant’s analyses
+Table 10 shows results from the applicant’s exposure-response modeling. Linear models estimated
+intercepts and slopes while Emax models estimated EC50 and Emax parameters. The estimated EC50
+for Cmax vs neutrophil nadir relationship was a negative value, which is implausible and is an
+indication that this relationship is spurious. Figure 8 shows no obvious trends between Cmax and
+neutrophil nadir. Similarly, although Table 10 shows significant linear relationships between AUC
+vs DSN, and AUC vs time to ANC recovery, Figure 9 and Figure 10 shows no linear trends
+between AUC and these efficacy endpoints. However, these analyses are confounded based on
+the neutrophil-PK relationship for eflapegrastim.
+Table 10. Parameter Estimates (RSE) of the Exposure-vs-efficacy models
+
+Source: Applicant’s amended population pharmacokinetic report (page 34 of 153)
+
+29
+Reference ID: 4634882
+
+Figure 8. Eflapegrastim Cmax versus neutrophil nadir
+
+Source: Applicant’s amended population pharmacokinetic report (page 35 of 153)
+
+30
+Reference ID: 4634882
+
+Figure 9. Eflapegrastim AUC versus Duration of severe neutropenia
+
+Source: Applicant’s amended population pharmacokinetic report (page 37 of 153)
+
+31
+Reference ID: 4634882
+
+Figure 10. Eflapegrastim AUC versus time to ANC recovery
+
+Source: Applicant’s amended population pharmacokinetic report (page 39 of 153)
+4.5 Exposure-vs-Safety Analysis
+4.5.1 Review Summary
+The applicant’s exposure -vs - safety analyses are acceptable when evaluating “off-target” adverse
+events. Using post-hoc PK parameters, the applicant assessed the relationship between
+eflapegrastim exposure and the following safety end points: Bone pain, immunogenicity and
+allergic reactions. Both, graphical and statistical analyses did not identify statistically significant
+(p-value<0.05) relationship.
+4.5.2 Results from the applicant’s analyses
+Table 11 shows parameter estimates for the logistic regression analyses of exposure -vs- allergic
+reactions. Allergic reactions were found to be unrelated to all three measures of exposure in the
+first cycle (AUC, Cmax, and Cmin). Figure 11 compares the distribution of eflapegrastim exposures
+between subjects with and without bone pain. There were no differences in AUC, Cmax or Cmin in
+subjects with or without bone pain.
+
+32
+Reference ID: 4634882
+
+Table 11. Parameter estimates for logistic regression analysis of exposure-vs-allergic
+reactions
+
+Source: Applicant’s amended population pharmacokinetic report (page 47 of 153)
+
+Figure 11. Exploratory Analysis of Eflapegrastim Exposure vs. Bone Pain in 1st Cycle
+
+Source: Applicant’s amended population pharmacokinetic report (page 143-144 of 153)
+
+33
+Reference ID: 4634882
+
+Signature Page 1 of 1
+
+-------------------------------------------------------------------------------------------This is a representation of an electronic record that was signed
+electronically. Following this are manifestations of any and all
+electronic signatures for this electronic record.
+-------------------------------------------------------------------------------------------/s/
+-----------------------------------------------------------ANUSHA ANDE
+07/02/2020 09:00:17 AM
+ELIFORD N KITABI
+07/02/2020 09:04:26 AM
+JUSTIN C EARP
+07/02/2020 10:54:03 AM
+SUDHARSHAN HARIHARAN
+07/02/2020 11:04:52 AM
+SHIRLEY K SEO
+07/02/2020 12:09:53 PM
+
+Reference ID: 4634882
+
+

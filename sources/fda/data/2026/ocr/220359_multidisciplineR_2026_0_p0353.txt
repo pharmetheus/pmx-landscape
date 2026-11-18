@@ -1,0 +1,65 @@
+Sample Viability: 129 hours at 2°C to 8°C
+Freeze-thaw stability 5 cycles at -10°C to -30°C Yes
+5 cycles at -60°C to -80°C
+Long-term storage 410 days at -10°C to -30°C 817 days at -60°C to -80°C Yes
+Carry over Passes acceptance criteria Yes
+
+Method Performance in Clinical Study D8530C00001 (Bioanalysis Report 8395364 — Clinical Subject Groups A-K/L)
+
+stability
+
+Assay passing rate 18 of 21 regressed runs passed (86%) Yes
+Standard curve performance %RSD 4.3 to 5.7, %Bias -2.3 to 2.4 Yes
+QC performance “RSD 6.1 to 8.8, %Bias -1.8 to 3.5 Yes
+Method reproducibility 86.1% of repeat and original results were within 20% of each other. (Pass: 62, Fail: 10) Yes
+Study sample analysis/ \Samples analyzed within proven stability Yes
+
+Method Performance in Clinical Study D8530C00001 (Bioanalysis Report 8395364 — Clinical Subject Groups E-J)
+
+stability
+
+Assay passing rate 8 of 10 runs passed (80%) Yes
+Standard curve performance | "RSD 3.7 to 6.2, %Bias -2.3 to 3.0 Yes
+QC performance %RSD 7.7 to 10.5, %Bias -2.8 to 4.8 Ts
+Method reproducibility Not required NA
+Study sample analysis/ Samples analyzed within proven stability Yes
+
+Source: Method Validation Reports, located in Module 5.3.1.4.
+
+FDA Table 62: Summary Method Performance of Bioanalytical Method RIBOHPP to
+Measure Ribociclib in Human Plasma
+
+Bioanalytical method © Study No 8484639: Validation of a Method for the Determination of Ribociclib in Human Plasma
+validation report name and by HPLC with MS/MS Detection.
+
+amendments
+
+Method description A method was validated for measuring ribociclib in human plasma (K2-EDTA). Samples were analyzed
+
+using a 25 tL aliquot volume and processed by protein precipitation followed by LC-MS/MS.
+
+Materials used for
+calibration curve and
+concentration
+
+Human plasma (K2-EDTA)
+Reference material: ribociclib
+
+IS: ribociclib-d6
+
+Ribociclib standard concentrations: 5.00, 10.0, 30.0, 100, 300, 1,000, 2,000, 25,000 ng/mL
+
+352
+Version date: March 1, 2024 (All NDA/BLA reviews)
+
+In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the Applicant,
+which do not necessarily reflect the positions of the FDA.
+
+The FDA review was conducted in conjunction with other regulatory authorities under Project ORBIS. The FDA
+collaborated with Australia’s Therapeutic Goods Administration (TGA), Brazilian Health Regulatory Agency
+(ANVISA), Health Canada (HC), Singapore’s Health Sciences Authority (HSA), and Switzerland’s Swissmedic
+(SMC). While the conclusions and recommendations expressed herein reflect the FDA’s completed review of the
+application, the applications may still be under review at the other regulatory agencies.
+
+Reference ID: 5864804
+

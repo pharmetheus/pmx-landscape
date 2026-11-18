@@ -1,0 +1,41 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 218213}
+Repotrectinib (BMS-986472)
+
+T50, which only impacts the time to reach
+steady-state.
+
+The final popPK model parameter estimates
+were contained within the 95% Cl determined
+by a bootstrap analysis based on 500 replicates.
+Median values following bootstrapping were
+very similar to the parameter estimates of the
+final model, and the 95% Cls overlapped with
+those of the final model, indicating that the final
+popPK model had good precision for parameter
+
+estimates.
+BLQ for Parameter Accuracy 678 BLQ observations (6.7%) were excluded Acceptable.
+from analysis and had no impact on PK
+objectives
+GOF, VPC Figure 8 and Figure 9. Acceptable.
+Significant Covariates and Clinical Figure 10 Food effects in
+Relevance Baseline BW was allometrically scaled on CLs population PK
+and volumes of distributions. Food effect on KA | should be
+and F1 was identified as a significant covariate, interpreted with
+
+while dose was a significant covariate on CLMAX | caution as the
+food status was
+
+unknown for the
+majority of
+subjects in popPK
+analysis
+Analysis Based on Simulation Table 71, Simulations of food effects after single | Acceptable.
+(optional) dose and multiple doses
+217
+
+Version date: June 2022 (ALL NDA/ BLA reviews)
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5277412

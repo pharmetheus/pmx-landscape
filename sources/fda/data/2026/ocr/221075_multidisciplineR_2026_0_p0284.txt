@@ -1,0 +1,63 @@
+NDA/BLA Multi-disciplinary Review and Evaluation NDA 221075
+
+Iberdomide (ZENBEXUS)
+
+Covariates Evaluated Baseline body weight, sex, age, race, ECOG performance
+status, ISS stage at diagnosis, baseline eGFR, baseline
+platelet count, baseline neutrophil count.
+
+Sensitivity analysis was performed to assess the effect of
+region by replacing the race with region in the full model.
+
+Final Model Parameters Summary Acceptability
+
+[FDA’s
+comments]
+
+Model Structure The relationship between iberdomide Acceptable
+
+Cavg] and time to first occurrence of
+safety endpoints were described by a
+semi-parametric CPH model and included
+assessments of the modulatory effect of
+covariates on the E-R relationship.
+The time-to-event in the CPH model was
+expressed as:
+
+A(t) = Ag(texp (B"X;)
+where A(t) is the baseline hazard
+function and X; is a vector of predictor
+variables, including iberdomide Cavg1
+and other covariates. The parameter
+vector P is estimated by maximum partial
+likelihood. The functional forms of
+exposure that provide the best fit to the
+data were selected by using the Bayesian
+information criteria.
+A full model approach was taken to
+incorporate all covariates that are included
+in the CPH model.
+
+Model Parameter Estimates Table 92, Table 93, Table 94, Table 95, Acceptable
+Figure 32, Figure 33, Figure 34, Figure 35
+
+Model Evaluation The CPH model fit was evaluated by Acceptable
+comparing the model-predicted
+cumulative time-to-event distribution with
+the corresponding distribution determined
+by non-parametric K-M analysis. The
+CPH model-predicted event probability of
+each individual was used to simulate the
+occurrence of events and subsequently
+calculate the cumulative time-to-event
+distribution. Simulations were performed
+to construct 90% prediction intervals of
+the distribution. The K-M curve was
+
+285
+Version date: February 10, 2025 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5851050

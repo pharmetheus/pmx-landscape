@@ -1,0 +1,51 @@
+NDA 217686
+TRYVIO (aprocitentan)
+
+Figure 26. ETA and CWRES Histograms for the Final PK Model
+
+APPEARS
+THIS WAY ON
+ORIGINAL
+
+nee neot
+
+Top: empirical distribution (histogram) and estimated density function (dashed line). Bottom: empirical (solid bue
+line) and estimated (dashed line) cummlative density functions.
+
+Source: Applicant's PopPK report, Page 33
+Abbreviations: CWRES, conditional weighted residuals; ETA, estimate of interindividual variability; IWRES, individual weighted
+residuals; NPDE; normalized prediction distribution error, PK, pharmacokinetics; PopPK, population pharmacokinetics
+
+Agency Assessment
+
+The reviewer independently assessed covariates of the final model by Monolix (version 2021R1).
+HI and eGFR were not identified as significant covariates, which implies that dose adjustment
+for moderate hepatic impairment and renal impairment are not required. In contrast,
+formulation (capsule, tablet A, tablet B) was identified as a significant covariate as shown in
+Table 130. The optimized model parameter estimates are shown in Table 131. Model parameter
+estimates based on this model were, as a whole, similar to those obtained in the Applicant’ final
+model. Therefore, the Applicant’s final model is considered acceptable.
+
+Table 130. Covariates Assessment
+
+Model OFV AOFV
+Final model 118626.32 0
+Model without HI 118606.91 -19.41
+Model without eGFR 11860996  -16.36
+Model without occasion 120553.68 1927.36
+Model Without food on Ka 119310.08 683.76
+Model with formulation on F 118239.15 -387.17
+Model with formulation on F, ka 118203.12 -423.2
+Model with formulation on F, tlag 118240.13 -386.19
+
+Model with formulation on F, ka, tlag 118151.38 -474.94
+
+Source: Reviewer's independent assessment
+
+Abbreviations: A, change; eGFR, estimated glomerular filtration rate; F, relative bioavailability; HI, hepatic impairment; K,, absorption
+tate; OFV, objective function value; tig, absorption lag time
+
+225
+Integrated Review Template, version 3.0 (05/25/2022)
+
+Reference ID: 5347932

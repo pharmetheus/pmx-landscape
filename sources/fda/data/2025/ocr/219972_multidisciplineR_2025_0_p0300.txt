@@ -1,0 +1,84 @@
+NDA/BLA Multi-disciplinary Review and Evaluation — NDA 219972
+Sevabertinib (BAY 2927088) — Version 2.0
+Table 80. Parameter Estimates and SE From Final Population PK Model
+
+Source: Table 8-6 in Module 5.3.3.5, Report B003829
+
+Table 8-6: Parameter estimates of the refined popPK model (runR323b)
+
+Parameter Unit Estimate RSE LLCIP ULCI Description
+[%yr
+Fixed effects (THETA)
+KApop 1h 7.90 3.29 7.39 841 Absorption rate (tablet)
+ChooplF Uh 3.09 2.59 294 325 Apparent clearance
+vciF L 30.02.13 288 31.3. Apparent volume of distribution (central)
+QF Uh 0.634 14.9 0.449 0.819 Apparent inter-compartmental clearance
+VPIF L204 19.8 12.5 28.3 Apparent volume of distribution (peripheral)
+
+0) (4)
+M&S Report — BAY 2927088 / 50245 / B003829
+
+Page: 46 of 353
+
+Table 8-6: Parameter estimates of the refined popPK model (runR323b)
+
+Parameter Unit Estimate RSE LLCIP ULCI° Description
+(%y"
+CFI = -0.361 18.1 -0.489 -0.233 Rel. Bioavailability for all LSFs compared to
+tablet (absolute change)
+CKAise - 0491 22.7 0.272 0.709 Proportional increase in KA for LSFs
+
+compared to tablet
+
+CF tase = 122 56 -0.880 Exponent for ALBO/PROTO influence on F1
+CF tawo 201517, 704 _-0.330_Exponent for BWO influence on F1
+Random effects: Inter-individual variability (OMEGA)
+
+KA (w?) - 0.330 10.9 0.259 0.401 Variance of exponential IIV on KA
+
+KA (CV) % 626 54.4 70.2
+
+KA (Shrinkage) % 8.58
+
+CUF (w*) - 0.135 10.5 0.107 0.162 Variance of exponential IIV on CL
+
+CUF (CV4) % 38.0 33.6 42.0
+
+CLF % 8.63
+
+(Shrinkage)
+
+Ft (w) = 0.0936 11.2 0.0730 0.114 Variance of exponential IIV on F1
+
+FA (CV) % 313 275 348
+
+Fi (Shrinkage) % 9.96
+
+Residual error (SIGMA)
+
+EPS(1,1)(0)- 0.250 4.44 0.228 0.271 Variance of proportional residual error for
+ove % 500 47.7 52.1. observations with TAD<1.167 h or STIM=0
+EPS(2,2)(6) - 0.110 5.08 0.0994 0.121 Variance of proportional residual error for
+cve % 33.2 31.5 34.8 observations with TAD2 1.167 h and
+
+STIM#0
+
+RSE = relative standard error (100 SE/estimate)
+
+lower limit of 95% confidence interval (estimate - 1.96°SE)
+
+upper limit of 95% confidence interval (estimate + 1.96-SE)
+
+4 Coefficient of variation (CV) calculated as 100-SQRT(EXP(w*)-1). The confidence intervals of CV
+are derived through transformation of confidence intervals of w?.
+
+* Coefficient of variation (CV) calculated as 100-SQRT(o”). The confidence intervals of CV are
+derived through transformation of confidence intervals of 0”
+
+299
+Version date: March 1, 2024 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5697816

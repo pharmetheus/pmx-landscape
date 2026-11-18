@@ -1,0 +1,38 @@
+Table 19: Imbalance between Treatment Arms in Baseline Proteinuria (Trial PB-102-F20)
+
+Reference ID: 5170483
+
+Treatment
+
+Population Group N | Mean | Median | Max | P75 | P25| Min | STD
+Overall 77| 0.38 0.11 3.12 | 0.52 | 0.06 | 0.02 | 0.57
+Overall Agalsidase beta | 25} 0.28 0.07 2.10 | 0.24 | 0.04] 0.02 | 0.49
+Overall PRX-102 52} 0.43 0.13 3.12 | 0.59 | 0.07} 0.02 | 0.60
+Sex: Female Agalsidase beta | 7 | 0.05 0.04 0.10 | 0.07 | 0.02] 0.02 | 0.03
+Sex: Female PRX-102 23) 0.18 0.09 1.02 | 0.13 | 0.05 | 0.02 | 0.27
+Sex: Male Agalsidase beta | 18} 0.38 0.11 2.10 | 0.54 | 0.06] 0.02 | 0.55
+Sex: Male PRX-102 29} 0.63 0.35 3.12 | 0.83 | 0.10] 0.03 | 0.72
+Phenotype: Classic Agalsidase beta | 14] 0.37 0.10 2.10 | 0.54| 0.04] 0.02 | 0.59
+Phenotype: Classic PRX-102 27| 0.64 0.35 3.12 | 0.87] 0.10] 0.03 | 0.74
+Phenotype: Non-classic | Agalsidase beta | 11} 0.18 0.06 1.04 | 0.24] 0.03 | 0.02 | 0.30
+Phenotype: Non-classic | PRX-102 25} 0.20 0.09 1.02 | 0.13 | 0.06] 0.02 | 0.28
+ADA: Negative Agalsidase beta |17| 0.29 0.07 2.10 | 0.24} 0.04] 0.02 | 0.53
+ADA: Negative PRX-102 34} 0.33 0.10 3.12 | 0.44 | 0.06 | 0.02 | 0.59
+ADA: Positive Agalsidase beta | 8 | 0.27 0.08 1.04 | 0.43 | 0.05] 0.02 | 0.39
+ADA: Positive PRX-102 18] 0.61 0.34 2.19 | 0.87} 0.11] 0.03 | 0.61
+Baseline eGFR<60 Agalsidase beta | 8 | 0.58 0.15 2.10 | 1.05 | 0.06 | 0.02 | 0.75
+Baseline eGFR<60 PRX-102 12| 0.99 0.77 3.12 | 1.30] 0.39] 0.08 | 0.89
+Baseline eGFR>=60 Agalsidase beta |17| 0.15 0.07 0.74 | 0.11} 0.04] 0.02 | 0.20
+Baseline eGFR>=60 PRX-102 40} 0.26 0.10 1.63 | 0.31 | 0.06 | 0.02 | 0.35
+Baseline slope <=-5 Agalsidase beta | 19] 0.33 0.07 2.10 | 0.54 | 0.03 | 0.02 | 0.55
+Baseline slope <=-5 PRX-102 33} 0.54 0.27 3.12 | 0.83 | 0.07 | 0.02 | 0.71
+Baseline slope >-5 Agalsidase beta | 6 | 0.13 0.11 0.32 | 0.12 | 0.06 | 0.04 | 0.10
+Baseline slope >-5 PRX-102 19| 0.24 0.11 0.96 | 0.32 | 0.07] 0.03 | 0.28
+ACEi/ARBs: No Agalsidase beta | 9 | 0.06 0.04 0.11 | 0.10} 0.03 | 0.02 | 0.04
+ACEi/ARBs: No PRX-102 27| 0.14 0.07 0.71 | 0.13 | 0.04] 0.02 | 0.16
+ACEi/ARBs: Yes Agalsidase beta | 16} 0.41 0.11 2.10 | 0.64 | 0.06 | 0.02 | 0.57
+ACEi/ARBs: Yes PRX-102 25| 0.75 0.52 3.12 | 1.02 | 0.15 | 0.06 | 0.74
+Region: USA. Agalsidase beta | 18} 0.20 0.05 1.05 | 0.12} 0.03 | 0.02 | 0.33
+Region: USA. PRX-102 34} 0.38 0.11 3.12 | 0.33 | 0.06 | 0.02 | 0.63
+
+Page 70 of 83

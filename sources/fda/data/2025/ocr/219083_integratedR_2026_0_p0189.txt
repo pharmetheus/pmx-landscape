@@ -1,0 +1,65 @@
+NDA 219083
+MYQORZO (aficamten)
+
+Table 107. Summary of Method Performance for Determination of Moxifloxacin in Human Plasma
+(2Z00945-02)
+
+Bioanalytical Method | Validation of an LC-MS/MS Method for the Determination of Moxifloxacin in Human Plasma
+Validation Report | (EDTA)
+
+Name, Amendments, | \fethod Validation Report ZZ00945-02 Amendment 3
+and Hyperlinks
+
+Method Description | An aliquot of human plasma (EDTA) containing the analyte and internal standard is extracted using
+a solid phase extraction procedure. The extracted samples are analyzed by an HPLC equipped with
+an AB SCIEX API 4000 triple quadrupole mass spectrometer using an ESI source. Positive ions are
+monitored in the MRM mode.
+
+Materials Used for Moxifloxacin hydrochloride.
+Standard Calibration | Usp. jot GIL290
+
+Curve and Calibration standards: 25.0, 50.0, 100, 250. 400, 900, 1400, 2500, 4000, and 5000 ny/mL
+Concentration
+Intemnal standard
+
+di-Moxifloxacin,
+(©) ot CD-MDSPSRS-IV-81
+
+Validated Assay 25.0 to 5000 ng/mL
+Range
+
+Material Used for Moxifloxacin hydrochloride,
+
+QCsand USP, Lot G1L290
+
+Concentration QC concentration levels: 25.0 (LLOQ). 75.0 (LQC). 350 (MQC). and 3750 (HQC) ng/mL
+
+Internal standard:
+
+d4-Moxifloxacin,
+(©) ot CD-MDSPSRS-IV-81
+
+Minimum Required NR
+
+Dilutions
+Source and Lot of aa
+Reagents
+Regression Model Linear, weighted (1/concentration?)
+and Weighting
+Validation Method Validation Summary Source Location
+Parameters
+Standard Calibration | Number of standard calibrators from LLOQ to ULOQ 10 ZZ00945-02
+Curve Performance Amendment 3 Table 4
+During Accuracy and | Ctmulative accuracy @ébias) fiom LLOQ to ULOQ _| 4.1% to 3.8% ° .
+Precision Runs Cumulative precision (%CV) from LLOQ to ULOQ <3.7%
+Performance of QCs_ | Cumulative accuracy (%bias) in 4 QC levels -2.1% to 2.0% | ZZ00945-02
+During Accuracy and Daca 500 Amendment 3 Table 2
+Precision Runs Interbatch %CV <5.9%
+
+Total error NR NA
+
+172
+
+Integrated Review Template, version 4.0 (11/1/23)
+
+Reference ID: 5715605

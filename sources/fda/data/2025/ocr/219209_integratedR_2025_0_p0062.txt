@@ -1,0 +1,62 @@
+NDA 219209
+Journavx (Suzetrigine; VX-548)
+
+6.3.2. Handling of Intercurrent Events
+
+Issue
+
+The Agency identified the following potential issues regarding the handling of intercurrent
+events in both Studies 104 and 105:
+
+Imputation methods for handling intercurrent events of treatment discontinuation:
+
+The single imputation methods (i.e., LOCF and BOCF) were used for imputing data
+following treatment discontinuation. Since single imputation methods may fail to reflect
+the uncertainty in data, the Agency recommended adding multiple imputation (MI) to the
+proposed handling strategies.
+
+Per Agency request as outlined above, the Applicant imputed data following treatment
+discontinuation using the MI approaches. When imputing data from a normal distribution
+in the MI process, the Applicant
+
+The Agency recommended using a truncated normal
+distribution with limits of 0 and 10 instead.
+
+Regarding the Applicant’s proposed! for treatment discontinuation due to LOE
+[lack of efficacy], the Agency recommended using the above-mentioned MI of BOCF
+method because treatment discontinuation due to lack of efficacy is generally viewed as a
+treatment failure.
+
+Imputation strategy for rescue medication:
+
+In case of multiple administrations of rescue medication leading to overlapping rescue w
+periods,
+
+the
+Agency recommended carrying forward each of the pre-rescue score until the end of that
+given rescue period, or the time of the next rescue use, whichever comes first.
+
+Past Communications
+
+In the investigational new drug application (IND) review stage, the first issue regarding the
+handling strategy for ICE of treatment discontinuation was communicated between the
+Agency and the Applicant.
+
+In the end-of-phase 2 (EOP2) meeting package, the Applicant proposed to impute missing NPRS
+scores following treatment discontinuation using the last observed NPRS score prior to
+discontinuation.
+
+The Agency advised in the August 12, 2022, EOP2 meeting communication that:
+
+Vertex proposed LOCF for subjects that discontinued the study or completed the
+treatment but with missing data from certain time point to 48 hours, which is not
+appropriate. For example, discontinuation due to lack of efficacy may suggest the
+assessments after the discontinuation will get worse and may be different from the
+observed assessments. An appropriate imputation scheme would be to assume these
+subjects do not contribute any treatment benefit in the primary analysis, such as multiple
+imputations of the subject’s baseline score.
+
+42
+Integrated Review Template, version 4.0 (11/1/23)
+
+Reference ID: 5521299

@@ -1,0 +1,3692 @@
+CENTER FOR DRUG EVALUATION AND
+RESEARCH
+APPLICATION NUMBER:
+
+213498Orig1s000
+CLINICAL PHARMACOLOGY
+REVIEW(S)
+
+OFFICE OF CLINICAL PHARMACOLOGY
+NDA- 213498 (PONVORY)
+CLINICAL PHARMACOLOGY REVIEW
+NDA Number
+
+213498
+
+Link to EDR
+
+\\CDSESUB1\evsprod\NDA213498\0001
+
+Submission Date(s)
+
+March 18, 2020
+
+Submission Type
+
+Type 1- New Molecular Entity (Standard Review)
+
+Brand Name
+
+PONVORY
+
+Generic Name
+
+Ponesimod
+
+Formulation and Strength Film-coated Tablets (2 mg, 3 mg, 4 mg, 5 mg, 6 mg, 7 mg, 8 mg,
+9 mg, 10 mg, and 20 mg)
+Route of Administration
+
+Oral
+
+Proposed Indication
+
+Relapsing forms of multiple sclerosis
+
+Applicant
+
+Janssen Pharmaceuticals Inc.
+
+Associated IND
+
+IND-101722
+
+Reviewers
+
+Dawei Li, Manuela Grimstein, Vishnu Sharma
+
+Team Leader
+
+Yuching Yang, Atul Bhattaram, Angela Men
+
+OCP Division
+
+Division of Neuropsychiatric Pharmacology
+
+Division Director
+
+Mehul Mehta, Ph.D.
+
+1
+Reference ID: 4737091
+
+Table of Contents
+
+Table of Contents ....................................................................................................................................... 2
+1
+
+Executive Summary...................................................................................................................... 3
+1.1
+
+Recommendation......................................................................................................................... 3
+
+1.2
+
+Post-marketing Requirements..................................................................................................... 4
+
+2
+
+Summary of Clinical Pharmacology Assessment ........................................................................ 4
+2.1
+
+The Pharmacology and Clinical Pharmacokinetics ..................................................................... 4
+
+2.2
+
+Dosing and Therapeutic Individualization................................................................................... 5
+
+2.2.1
+
+General Dosing..................................................................................................................... 5
+
+2.2.2
+
+Therapeutic Individualization............................................................................................... 5
+
+2.3
+
+Outstanding Issues....................................................................................................................... 5
+
+2.4
+
+Summary of Labeling Recommendations ................................................................................... 5
+
+3
+
+Comprehensive Clinical Pharmacology Review .......................................................................... 6
+3.1
+
+Overview of the Product and Regulatory Background ............................................................... 6
+
+3.2
+
+General Pharmacology and Pharmacokinetic Characteristics.................................................... 6
+
+3.3
+
+Clinical Pharmacology Review Questions ................................................................................... 8
+
+3.3.1
+
+Does the clinical pharmacology program provide supportive evidence of effectiveness? .. 8
+
+3.3.2
+Is the proposed dosing regimen appropriate for the general patient population for which
+the indication is being sought? ............................................................................................................. 9
+3.3.3
+Is an alternative dosing regimen and/or management strategy required for
+subpopulations based on intrinsic factors? ........................................................................................ 11
+3.3.4
+Are there clinically relevant food-drug or drug-drug interactions and what is the
+appropriate management strategy?................................................................................................... 11
+3.3.5
+Is the to-be-marketed formulation the same as the clinical trial formulation, and if not,
+are there bioequivalence data to support the to-be-marketed formulation? ................................... 13
+4
+
+Appendices................................................................................................................................. 14
+4.1
+
+Summary of Bioanalytical Method Validation and Performance ............................................ 14
+
+4.2
+
+Pharmacometric review............................................................................................................. 16
+
+4.3
+
+Physiologically based Pharmacokinetic Modeling Review....................................................... 34
+
+4.4
+
+Individual Study Review ............................................................................................................ 41
+
+2
+Reference ID: 4737091
+
+1
+
+Executive Summary
+(b)
+
+The Applicant is seeking approval for ponesimod (2 mg (4) 20 mg film coated tablets), for the
+treatment of relapsing forms of multiple sclerosis. Ponesimod is a sphingosine 1-phosphate
+(S1P) receptor 1 modulator. Ponesimod binds with high affinity to S1P receptor 1 and blocks the
+capacity of lymphocytes to egress from lymph nodes, reducing the number of lymphocytes in
+peripheral blood.
+The Applicant proposed dose titration starts with 2 mg once daily on Day 1 and Day 2, followed
+by once daily doses of 3 mg on Day 3 and Day 4, 4 mg on Day 5 and Day 6, 5 mg on Day 7, 6 mg
+on Day 8, 7 mg on Day 9, 8 mg on Day 10, 9 mg on Day 11, 10 mg on Day 12, Day 13 and Day 14.
+After dose titration is complete, the recommended maintenance dosage of ponesimod is one
+20 mg taken orally once daily with or without food.
+The efficacy and safety of ponesimod in patients with relapsing MS is supported by a single
+pivotal phase 3 randomized, double blind, parallel group active controlled superiority study.
+The primary endpoint is the annualized relapse rate (ARR) from baseline up to end of study
+(EOS). The Applicant reports statistically significantly superior to teriflunomide 14 mg (active
+control) in reducing the annualized relapse rate (ARR) up to EOS by 30.5% (p=0.0003).
+Ponesimod is extensively metabolized. Two inactive circulating metabolites, M12 and M13,
+have been identified in human plasma. M13 is approximately 20% and M12 is 6% of total drug
+related exposure. In vitro studies indicate that metabolism of ponesimod to M13 occurs
+primarily through a combination of non-Cytochrome P450 (CYP450) enzymatic activities.
+Multiple CYP450 (CYP2J2, CYP3A4, CYP3A5, CYP4F3A, and CYP4F12) and non-CYP450 enzymes
+catalyze the oxidation of ponesimod to M12. Ponesimod also undergoes direct glucuronidation
+(mainly UGT1A1 and UGT2B7). Ponesimod and M13 are unlikely to inhibit or induce CYP450
+enzymes, nor expected to inhibit major efflux and uptake transporters at clinically relevant
+doses. Currently, limited data showed that concomitant use of strong PXR agonists may
+decrease the systemic exposure of ponesimod. It is unclear whether the impact of strong PXR
+agonists (e.g. rifampin, phenytoin, carbamazepine) on ponesimod systemic exposure would be
+considered of clinical relevance.
+The key review focuses on the acceptability of the proposed dosing regimen including both
+titration and maintenance doses and appropriateness of dosing recommendations for
+ponesimod in specific populations and patients taking concomitant medications.
+
+1.1
+
+Recommendation
+
+The Office of Clinical Pharmacology has reviewed the clinical pharmacology and
+biopharmaceutical information submitted in NDA 213498 and considers it acceptable from a
+clinical pharmacology perspective. The key review issues with specific clinical pharmacology
+recommendations and comments are summarized below.
+Review Issues
+
+Recommendations and Comments
+
+Supportive evidence of effectiveness
+
+A single pivotal trial in patients with relapsing MS was submitted in
+
+3
+Reference ID: 4737091
+
+NDA 213498 as primary evidence of effectiveness.
+
+General dosing instructions
+
+Titration dosing regimen: 2 mg once daily on Day 1 and Day 2, 3 mg
+on Day 3 and Day 4, 4 mg on Day 5 and Day 6, 5 mg on Day 7, 6 mg
+on Day 8, 7 mg on Day 9, 8 mg on Day 10, 9 mg on Day 11, 10 mg on
+Day 12, Day 13 and Day 14.
+Maintenance dose: 20 mg/day with or without food
+
+Dosing in patient subgroups (intrinsic
+and extrinsic factors)
+
+Ponesimod is not recommended in patients with moderate and
+severe hepatic impairment.
+No therapeutic individualization for intrinsic or extrinsic factors is
+recommended
+
+Bridge between the “to-be­
+marketed” and clinical trial
+formulations
+
+Not applicable. To-be-marketed formulation was used in phase 3
+clinical trial.
+
+1.2
+
+Post-marketing Requirement
+
+Given that the impact of strong PXR agonists (e.g. rifampin, phenytoin, carbamazepine) on the
+PK of ponesimod is inconclusive.
+PMR XX_X: Requirement to conduct Drug-drug Interaction study to evaluate the impact of
+strong PXR agonists on the pharmacokinetics of ponesimod.
+Rationale: In vitro assessments and limited clinical data indicated that concomitant use of
+strong PXR agonists (e.g. rifampin, phenytoin, carbamazepine) may decrease the systemic
+exposure of ponesimod. It is unclear whether this decrease in ponesimod systemic exposure
+would be considered of clinical relevance.
+
+2
+
+Summary of Clinical Pharmacology Assessment
+
+2.1
+
+The Pharmacology and Clinical Pharmacokinetics
+
+Mechanism of Action
+Ponesimod is a sphingosine 1-phosphate (S1P) receptor 1 modulator. Ponesimod binds with high
+affinity to S1P receptor 1 located on lymphocytes. Ponesimod blocks the capacity of lymphocytes
+to egress from lymph nodes, reducing the number of lymphocytes in peripheral blood. The
+mechanism by which ponesimod exerts therapeutic effects in multiple sclerosis may involve
+reduction of lymphocyte migration into the central nervous system.
+Pharmacokinetics
+Absorption: Ponesimod exposure increases in an apparent dose proportional manner at dose
+range from 1 to 75 mg/day. The time to reach maximum plasma concentration of ponesimod is
+2 to 4 hours post-dose. The absolute oral bioavailability of a 10 mg dose is 83.8%. Food does
+not have a clinically relevant effect on ponesimod pharmacokinetics.
+
+4
+Reference ID: 4737091
+
+Distribution: Following IV administration in healthy subjects, the steady state volume of
+distribution of ponesimod is 160 L. Ponesimod is highly bound to plasma proteins (> 99%).
+Metabolism: Ponesimod is extensively metabolized prior to excretion in humans, though
+unchanged ponesimod was the main circulating component in plasma. Two inactive circulating
+metabolites, M12 and M13, have also been identified in human plasma. M13 is approximately
+20% and M12 is 6% of total drug related exposure. In vitro studies indicate that metabolism of
+ponesimod to M13 occurs primarily through a combination of non-Cytochrome P450 (CYP450)
+enzymatic activities. Multiple CYP450 (CYP2J2, CYP3A4, CYP3A5, CYP4F3A, and CYP4F12) and
+non-CYP450 enzymes catalyze the oxidation of ponesimod to M12. Ponesimod also undergoes
+direct glucuronidation (mainly UGT1A1 and UGT2B7).
+Elimination: After a single IV administration, the total clearance of ponesimod is 3.8 L/hour. The
+elimination half-life after oral administration is approximately 33 hours.
+Following a single oral administration of 14C ponesimod, 57% to 80% of the dose was
+recovered in feces (16% as unchanged ponesimod), and 10% to 18% in urine (no unchanged
+ponesimod).
+Drug-Drug Interaction (DDI) potential:
+Overall, at clinically relevant dose, the major metabolic enzyme and transporter mediated DDI
+potential of ponesimod was low. The impact of strong PXR agonists (e.g. rifampin, phenytoin,
+carbamazepine) on the PK of ponesimod is inconclusive.
+Population pharmacokinetic analysis did not reveal a significant impact of body weight, age,
+gender, race and disease status on the PK exposures of ponesimod.
+
+2.2
+
+Dosing and Therapeutic Individualization
+
+2.2.1
+
+General Dosing
+
+The Applicant proposed dose titration starts with 2 mg once daily on Day 1 and Day 2, followed
+by once daily doses of 3 mg on Day 3 and Day 4, 4 mg on Day 5 and Day 6, 5 mg on Day 7, 6 mg
+on Day 8, 7 mg on Day 9, 8 mg on Day 10, 9 mg on Day 11, 10 mg on Day 12, Day 13 and Day 14.
+After dose titration is complete, the recommended maintenance dosage of ponesimod is one
+20 mg taken orally once daily with or without food.
+2.2.2
+
+Therapeutic Individualization
+
+Ponesimod is not recommended in patients with moderate and severe hepatic impairment. No
+therapeutic individualization for intrinsic or extrinsic factors is recommended.
+
+2.3
+
+Outstanding Issues
+
+None.
+
+2.4
+
+Summary of Labeling Recommendations
+
+The Office of Clinical Pharmacology recommends the following labeling concepts to be included
+in the final package insert:
+
+5
+Reference ID: 4737091
+
+"7. DRUG I NTERACTIONS
+7.5
+
+In vitro assessments and limited clinical data indicated th at concomitant use of strong ltiH"
+(e.g . rifampin, phenytoin, carbamazepine) may decrease the systemic exposure of
+TRADENAME. It is unclear whether this decrease in QOnesimod systemic exQosure would be
+4
+considered of clinical relevance.
+lbll
+
+" 12.3
+E[f§ct ~[_Other Drngs
+, __
+on Ponesimod
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ __ ,'bll'll
+
+___ ______ _ ___
+,_,,
+
+__,
+
+_,_
+
+In vitro stuaies w1tli liuman Iiver preparat10ns illificate tliat
+metabolism of ponesimod occurs through multiple, distinct enzyme systems, including multiple
+CYP450 (CYP2J2, CYP3A4, CYP3A5, CYP4F3A, and CYP4F1 2), UGT (mainly UGTl Al and
+UGT2B7) and non-CYP450 oxidative enzymes, without major contribution by any single
+enzyme."
+
+3
+
+Comprehensive Clinical Pharmacology Review
+
+3.1
+
+Overview of the Product and Regulatory Background
+
+Ponesimod is developed to be avai lable as film coated tablets (2-20 mg) for oral administration.
+It is proposed for the treatment of patients with relapsing forms of mu ltiple sclerosis. The
+approval is based o n the cl inica l effectiveness obtained from one pivotal phase 3 randomized,
+double blind, para llel group active controlled su perio rity study.
+
+The key regulatory co rrespondences are summarized in the Table below.
+Date
+
+FDA Correspondence
+
+2-Mar-2009
+
+IND Study May Proceed Letter
+
+6-Dec-2011
+
+Type B End of Phase 2 Meeting to discuss the Phase 3 development
+plan of ponesimod for the treatment of relapsing-remitting multiple
+scl erosis (R RMS)
+
+4-May-2012
+
+FDA Email - FDA feedback regarding the cli nica l pharmacology
+program to support Phase 3 and an NOA
+
+4-Sep-2019
+
+3.2
+
+Type B Pre-NOA Meeting
+
+General Pharmacology and Pharmacokinetic Characteristics
+
+The cl inica l pharmacology and pharmacokinetics information of ponesimod are summa rized
+below.
+
+6
+Reference ID 4737091
+
+Table 1: Summary of Po n esimo d Clinical Pharmacology Information
+Pharmacology
+Mechanism of Action
+
+Ponesimod binds w ith high affinity to SlP receptor 1 located on
+lymphocytes. Ponesimod blocks t he capacity of lymphocytes to egress
+from lymph nodes, reducing the number of lymphocytes in peripheral
+blood.
+
+Act ive Moieties
+
+Ponesimod is the act ive moiety circulat ing in plasma accounted for 66.1%
+of total radioactivity in a mass balance study.
+
+QT Prolongation
+
+Exposure-response ana lysis indicates t hat at t he therapeutic dose of 20
+mg, no clinically relevant effect on QTc int erval is expected, with
+t he upper bound of t he 2-sided test 90% Cl being 5.9 ms.
+
+General Information
+Bioanalysis
+
+Ponesimod and M12, M13 metabolites w ere measured using validated
+LC/ MS/ MS methods. The accuracy, precision, and other relevant
+parameters for t he assay are sufficient to meet t he requirements of the
+submitted studies. A summary of t he analytical method is included in
+Appendix.
+
+Hea lt hy Volunteers vs.
+Pat ients
+
+The pharmacokinetics of ponesimod is similar in healt hy subjects and
+subjects with mult iple sclerosis.
+
+Drug tota l exposure
+follow ing t he
+t herapeutic dosing
+regimen
+
+In pat ients w ith RMS receiving ponesimod 20 mg QD, t he mean trough
+concentrat ions w ere 126 ng/ ml and 125 ng/ ml on week 12 and week 108,
+respectively, in the pivotal t rial (study AC-0588301).
+
+Dose Proport ionality
+
+The systemic exposures increased approximately proport iona lly with an
+increase in dose from 1 mg to 75 mg.
+
+Accumu lat ion
+
+A mean accumu lation ratio of 2.0 to 2.6 was observed at steady-stat e
+
+Variability
+
+The pharmacokinetic profile of ponesimod is characterized by t he inter
+subject variabilit y of approximately 25% across studies.
+
+Inhibitor/ Inducer [in
+vitro]
+
+Ponesimod and M13 are unlikely to in hibit any evaluated CYPs o r UGTs
+(1A2, 2B6, 2C8, 2C9, 2C19, 2D6, or 3A4 and UGT2B7 or UGTlAl) or induce
+CYP1A2, CYP2B6, CYP2C9, or CYP3A4 at clinica lly relevant doses.
+
+Transporter Systems [in
+vitro]
+
+Ponesimod is not ident ified as substrat e of P-gp, BCRP, OATPlBl or
+OATP1B3; ponesimod and M13 are unli kely to inhibit major efflux and
+uptake t ransporters at cli nically relevant doses.
+
+Absorption
+Bioavailability [oral]
+
+83.8%
+
+7
+Reference ID 4737091
+
+Tmax [ora l]
+
+2 to 4 hours post -dose
+
+Food effect (high-fat)
+GMR (90% Cl)
+
+AUCinf
+
+K:max
+
+1.2 [1.1-1.3)
+
+1.1 [1.0-1.3)
+
+Distribution
+Volume of Distribut ion
+
+The estimated steady st ate volume of distribut ion of ponesimod is 160 L.
+
+Plasma Protein Binding
+
+> 99% (mainly binding t o albumin and alpha-1-acid glycoprotein)
+
+Elimination
+Termina l Elimination
+Half-life
+M etabolism I
+Excretion
+
+Approximat ely 33 -hours.
+
+Metabolism:
+Ponesimod is ext ensively m etabolized . Two inactive circulat ing
+metabolites, M 12 and M13, have been identified in human plasma . M13 is
+approximate ly 20% and M12 is 6% of tota l drug related exposure. In vitro
+studies indicat e t hat metabolism of ponesimod t o M13 occurs primarily
+t hrough a com bination of non-Cytochrome P450 (CYP450) enzymatic
+act ivities. M ult iple CYP450 (CYP2J2, CYP3A4, CYP3AS, CYP4F3A, and
+CYP4F12) and non-CYP450 enzymes catalyze t he oxidation of ponesimod
+t o M 12. Ponesimod also undergoes direct glucuronidation (mainly UGTlAl
+and UGT2B7
+
+Excretion:
+Following a single oral administration of 14C ponesimod, 57% t o 80% of
+t he dose w as recovered in feces (16% as unchanged ponesimod), and 10%
+t o 18% in urine (no unchanged ponesimod).
+
+3.3
+
+Clinical Pharmacology Review Questions
+
+3.3.1
+
+Does the clinical pharmacology program provide supportive evidence of effectiveness?
+
+The evidence of effectiveness of ponesimod is primarily based on one Phase 3 pivot al,
+mu lticenter, random ized, double-blind (DB), active-cont rolled, parallel-group, superiority study
+(AC-0586301). Th is study met its primary endpoi nt: subjects treat ed with ponesi mod 20 mg
+statistically significantly red uced ARR (confirm ed relapses) up to end of study (EOS) by 30.5%
+compared to su bject s treated with teriflunom ide 14 mg (ARR ratio: 0.695; 99% confidence
+limits [Cl s]: 0.536, 0.902; p=0.0003) (Please refer to the cl inical review and biost atistics review
+for further det ails) .
+Per ipheral blood lymphocyte counts were measured to eva luate the pharmacologica l effect of
+ponesimod . In st udy AC-058 6301, t here was a ra pid decrease in lymphocyt e count from
+baseline to Week 2 and Week 4 in the ponesimod 20 mg grou p (mean percent change from
+baseline of -42.34% and - 59.15%, respect ively) compa red to the t erifl unom ide 14 mg grou p
+(- 5.21% and - 8.45%, respectively). In t he ponesimod 20 mg group, the largest mean percent
+
+8
+Reference ID 4737091
+
+decrease was observed at Week 12 (−63.61%) compared to −12.88% in the teriflunomide 14 mg
+group. From Week 12 onwards up to Week 108, mean lymphocyte count in the ponesimod 20
+mg group remained stable. (see Figure 1).
+Figure 1: Mean (plus/minus SE) Peripheral Blood Lymphocyte Count by Visit (Study B301)
+
+Source: Applicant’s Clinical Study Report – csr-full-ac-058b301, Figure 41 on page 202
+3.3.2 Is the proposed dosing regimen appropriate for the general patient population for
+which the indication is being sought?
+To reduce first-dose effects of ponesimod on heart rate (HR) and rhythm, a titration dosing
+regimen was proposed based on results from dose titration study (AC-058-115). The proposed
+titration dosing regimen (2 mg once daily on Day 1 and Day 2, followed by once daily doses of 3
+mg on Day 3 and Day 4, 4 mg on Day 5 and Day 6, 5 mg on Day 7, 6 mg on Day 8, 7 mg on Day 9,
+8 mg on Day 10, 9 mg on Day 11, 10 mg on Day 12, Day 13 and Day 14) was evaluated in the
+pivotal efficacy/safety study (AC-058B301).
+The proposed maintenance dosing regimen is the same that was evaluated in the pivotal
+efficacy/safety study (AC-058B301). Maintenance dose and dosing regimen for the pivotal study
+were selected based on a phase 2 dose finding study (AC-058B201) in patients with relapsingremitting multiple sclerosis.
+Efficacy of ponesimod was assessed in patient with relapsing multiple sclerosis in Study AC­
+058B301. As per applicant’s analyses, the mean ARR (number of confirmed relapses per year)
+was 0.202 and 0.290 in the ponesimod 20 mg and teriflunomide 14 mg groups, respectively
+(Table 1). Ponesimod 20 mg statistically significantly reduced ARR (confirmed relapses) up to
+EOS by 30.5% compared to teriflunomide 14 mg (ARR ratio: 0.695; 99% confidence limits [CLs]:
+0.536, 0.902; p=0.0003) (Figure 2, Table 2).
+
+9
+Reference ID: 4737091
+
+Table 2: Confirmed Relapses up to EOS - Annualized Relapse Rate From Negative Binomial
+Regression (Primary Analysis)
+
+Source: Applicant’s Clinical Study Report – csr-full-ac-058b301, Table 11 on page 93
+Figure 2: Confirmed Relapses up to EOS - Annualized Relapse Rate From Negative Binomial
+Regression (Primary Analysis)
+
+Source: Applicant’s Clinical Study Report – csr-full-ac-058b301, Figure 8 on page 92.
+In terms of safety, the proportion of subjects who experienced at least 1 TEAE during the study
+was similar in the 2 treatment groups (88.8% ponesimod 20 mg versus 88.2% teriflunomide 14
+mg). The proportion of subjects who experienced at least 1 SAE was similar in both treatment
+groups (8.7% and 8.1% of subjects in the ponesimod 20 mg and the teriflunomide 14 mg
+groups, respectively). TEAEs leading to premature treatment discontinuation were reported in
+
+10
+Reference ID: 4737091
+
+8.7% of subjects in the ponesimod 20 mg group compared to 6.0% in the teriflunomide 14 mg
+group. The safety profile of ponesimod appears to be consistent with the known safety profile
+of other S1P receptor modulators, such as bradycardia etc.
+Overall, the proposed dosing regimen is supported by the efficacy and safety results in Study
+AC-058B301. Please refer to the clinical review and statistical review for additional details.
+3.3.3 Is an alternative dosing regimen and/or management strategy required for
+subpopulations based on intrinsic factors?
+Dose adjustment is not necessary based on intrinsic factors such as age, gender, body weight,
+race, renal impairment and mild hepatic impairment. Population pharmacokinetic analysis did
+not reveal a significant impact of body weight, age, gender, race and disease status on the PK
+exposures of ponesimod. Please refer to 4.2 Pharmacometric review for details. The applicant
+conducted dedicated clinical studies assessing the impact of renal function and hepatic function
+on the PK of ponesimod (see below).
+Renal Impairment (Study AC-058-113)
+Ponesimod Cmax increased by 9% and AUC0-∞ increased by 14% in severe renal impaired
+subjects compared to matched healthy subjects. These differences were not clinically
+meaningful, and no dose adjustment is recommended for patients with renal impairment.
+Hepatic Impairment (Study AC-058-112)
+Ponesimod AUC0-∞ (geometric mean) in the mild, moderate, and severe hepatic impairment
+groups was 1.3-fold (1.0, 1.8), 2.0-fold (1.5, 2.7), and 3.1-fold (2.2, 4.3) greater, respectively,
+compared to healthy subjects. The elimination t½ (geometric mean) was 1.5-fold (90% CI: 1.2,
+1.8), 1.8-fold (1.3, 2.5), and 2.6-fold (2.0, 3.3) greater, in the mild, moderate, and severe liver
+impairment groups, respectively, compared to healthy subjects. Based on the PK results of this
+study, no dose adjustment of ponesimod is needed for patients with mild hepatic impairment.
+It is not feasible to have dose adjustment for moderate and severe hepatic impairment due to
+the designated distribution with fixed titration package of ponesimod. Therefore, ponesimod is
+not recommended in patients with moderate, and severe hepatic impairment.
+3.3.4 Are there clinically relevant food-drug or drug-drug interactions and what is the
+appropriate management strategy?
+Food-drug interactions
+Food-effect study conducted in healthy subjects indicated that high fat food increased the
+Cmax and AUC of ponesimod by 10% and 20%, respectively (AC-058-101). Tmax was slightly
+delayed (approximately 2.5 hours delay) in the presence of high fat food. The changes in Cmax
+and AUC are not considered clinically relevant and ponesimod is recommended to be
+administered without regard to food.
+Drug-drug interaction
+DDI of ponesimod as victim
+
+11
+Reference ID: 4737091
+
+In vitro studies suggested that metabolism of ponesimod to M13 occurs primarily through a
+combination of non-CYP enzymatic activities. Multiple CYPs (2J2, 3A4, 3A5, 4F3A, and 4F12) and
+non-CYP enzymes catalyze the oxidation of ponesimod to M12. Ponesimod also undergoes
+direct glucuronidation (mainly UGT1A1 and UGT2B7), in addition to other minor direct
+metabolic pathways involving oxidation or reduction. The sponsor claimed that this metabolism
+profile of multiple independent pathways involving multiple enzymes and without major
+contribution from any single enzyme, ponesimod is unlikely to be a victim of DDI involving
+metabolic enzyme inhibitors or inducers.
+Considering some inducers (e.g. rifampin) may co-induce multiple metabolic enzymes, which
+may potentially affect the PK of ponesimod, information request (IR) was sent to the sponsor
+during the review cycle, requesting for additional assessments of the impact of inducers on the
+PK of ponesimod. To address the Agency’s concern, the sponsor reassessed the potential
+contribution of PXR-inducible enzymes to the metabolic clearance of ponesimod based on in
+vitro and clinical data.
+The potential impact of strong, moderate, and weak PXR agonists on ponesimod AUC was then
+estimated using a literature-based approach (Asaumi R, 2018; Ohno Y, 2008*). The estimated
+AUC ratios for ponesimod in the induced vs. non-induced conditions ranged from 0.51 to 0.95
+(Table 3).
+Table 3: Estimated AUC Ratios with Coadministration of PXR Agonists Based on In Vitro
+Metabolism and Enzyme Phenotyping Data
+
+The sponsor also reviewed clinical studies AC-058B201 and AC-058B301 for experience with
+subjects receiving PXR agonist co-medication. Only 4 subjects on ponesimod were exposed to
+strong PXR agonists (carbamazepine) during treatment (Study AC-058B201).
+*Asaumi R, Toshimoto K, Tobe Y, et al. Comprehensive PBPK Model of Rifampicin for Quantitative Prediction of
+Complex Drug-Drug Interactions: CYP3A/2C9 Induction and OATP Inhibition Effects. CPT Pharmacometrics Syst
+Pharmacol. 2018;7(3):186-196.
+Ohno Y, Hisaka A, Ueno M, Suzuki H. General framework for the prediction of oral drug interactions caused by
+CYP3A4 induction from in vivo information. Clin Pharmacokinet. 2008;47(10):669-680.
+
+12
+Reference ID: 4737091
+
+The plasma concentrations in subjects receiving the strong PXR agonists were typically in the
+lower range (similar or lower than the first quartile) of the population never exposed to PXR
+agonists. Due to limited available data, it is unclear whether the expected decrease in
+ponesimod systemic exposure would be considered of clinical relevance.
+Overall, current available data is not sufficient to exclude the potential impact of strong PXR
+agonists (e.g. rifampin, phenytoin, carbamazepine) on the PK and efficacy of ponesimod.
+Based on results from in vitro studies, ponesimod is not identified as substrate of P-gp, BCRP,
+OATP1B1 or OATP1B3.
+DDI of ponesimod and M13 as perpetrators
+In vitro studies suggested that ponesimod and M13 are unlikely to inhibit major CYPs or UGTs
+(1A2, 2B6, 2C8, 2C9, 2C19, 2D6, or 3A4 and UGT2B7 or UGT1A1) or induce CYP1A2, CYP2B6,
+CYP2C9, or CYP3A4 at clinically relevant doses. Ponesimod and M13 are not expected to inhibit
+major efflux (P-gp, BCRP, MATE1, and MATE2K) and uptake transporters (OATP1B1, OATP1B3,
+OAT1, OAT3, OCT1, and OCT2) at clinically relevant doses.
+PBPK analyses were conducted to evaluate ponesimod’s potential for clinical DDI mediated by
+inhibition and/or induction of CYP3A, CYP2C9 and CYP2C19. PBPK analyses predicted that
+ponesimod (20 mg QD) has low potential for a clinically relevant interaction with a sensitive
+CYP3A substrate (such as midazolam), a CYP2C9 substrate (such as tolbutamide and S-warfarin)
+or a CYP2C19 substrate (such as omeprazole).
+Other DDIs
+Beta-Blockers: In a drug-drug interaction study (AC-058-117), the up-titration regimen of
+ponesimod was administered to subjects receiving propranolol (80 mg) once daily at steady
+state No significant changes in pharmacokinetics of ponesimod or propranolol were observed.
+Concomitant administration of ponesimod with propranolol resulted in an additive effect on
+HR. Compared to ponesimod alone, the combination with propranolol after the first dose of
+ponesimod (2 mg) had a 12.4 bpm (90% CI: -15.6 to -9.1) decrease in mean hourly heart rate
+and at the first dose of ponesimod (20 mg) after up titration a 7.4 bpm (90% CI: -10.9 to -3.9)
+decrease in mean hourly heart rate.
+Oral Contraceptives: In study AC-058-104, co-administration of ponesimod with an oral
+hormonal contraceptive (containing 1 mg norethisterone/norethindrone and 35 µg ethinyl
+estradiol) showed no clinically relevant pharmacokinetic interaction with ponesimod.
+3.3.5 Is the to-be-marketed formulation the same as the clinical trial formulation, and if not,
+are there bioequivalence data to support the to-be-marketed formulation?
+The to-be-marketed (TBM) formulation of ponesimod is film coated tablet (2 mg, 3 mg, 4 mg, 5
+mg, 6 mg, 7 mg, 8 mg, 9 mg, 10 mg, and 20 mg). Ponesimod capsules of the polymorphic Forms
+(b) (4)
+were
+used in the early stage of clinical development of ponesimod. Overall, inter- and intra-study
+comparisons suggest that, at equivalent doses, exposure to ponesimod is comparable among
+13
+Reference ID: 4737091
+
+o ral formu lations eva luated in the cl inica l program . Populat io n PK ana lyses indicated t hat
+4
+<1>>f ta blet o r capsu le formu lation, did not affect t he overa ll systemic
+polymorphic
+exposure to a significant extent . TBM tablet s were used in t he pivota l Phase 3 cl inical t ria l (AC­
+
+0586301).
+
+4
+
+Appendices
+
+4.1
+
+Summary of Bioanalytical Method Validation and Performance
+
+Bioa nalyt ica l methods used throughout t he clinica l development of ponesimod and its
+met abolites are summarized in Table 4 and Table 5.
+Table 4: Summary of Bioanalytical Method Measuring ponesimod in Plasma.
+Method ID
+
+SBA_S_06009
+
+SBA_S_09135
+
+BA-13.007
+
+BA13059
+
+AC-058-101, AC-058-102,
+AC-058-103, AC-058-104,
+St udy Number
+
+AC-058-105, AC-058-106,
+
+Supported
+
+AC-058-107, AC-058-108,
+AC-058-111, and AC­
+
+AC-058- 109, AC-058-110,
+AC-058- 112, and AC-058­
+113
+
+AC-058- 115 and
+AC-058B301
+
+AC-058-117
+
+058B201
+LLOQ (ng/ml)
+
+1
+
+1
+
+1
+
+1
+
+Linear Range (ng/ml)
+
+1.00-2000
+
+1.00-1000
+
+1.00-1000
+
+1.00-1000
+
+-3.7% -14.0%
+
+-0.3% - 3.8%
+
+-4 .1% - 0.8%
+
+-4 .3% - -0.6%
+
+3.6% - 6.2%
+
+3.2% - 7.1%
+
+4 .6% - 10.4%
+
+1.3% - 9.0%
+
+Inter-day Accura cy for
+QC
+Inter-day Precision fo r
+QC
+
+Table 5. Summary of Bioanalytical Met hod Measuring ponesimod Major Met abolite (M13) in Plasma.
+Met hod ID
+
+St udy Number Supported
+
+SBA_S_09135
+
+BA-13.232
+
+AC-058-109, AC-058-110, AC­
+058-112, and AC-058-113
+
+AC-058-114
+
+Analytes
+
+M13
+
+M13
+
+LLOQ (ng/ml)
+
+1
+
+1
+
+Linear Range (ng/ml)
+
+1.00-1000
+
+1.00-1000
+
+Inter-day Accura cy for QC
+
+2.9% - 5.9%
+
+-3.1% - 2.2%
+
+14
+Reference ID 4737091
+
+Inter-day Precision for QC
+
+3.2% - 7.0%
+
+1.4% - 7.0%
+
+Bioanalytical method performance was summarized in each individual study review.
+Stability in plasma
+Ponesimod is stable in plasma for up to 1233 days (QC samples) when stored in freezer. M13 is
+stable in plasma up to 98 days when stored in ultra-freezer. All samples were stored and
+processed in the time frame supported by the stability data.
+
+15
+Reference ID: 4737091
+
+4.2 Pharmacometric review
+EXECUTIVE SUMMARY
+This document is a review of the sponsor’s population pharmacokinetic (PK) analysis and
+PK/pharmacodynamic (PK/PD) model-based simulations analysis which support labeling
+statements.
+SPONSOR’S ANALYSIS
+Population PK analysis
+Objectives
+•
+•
+•
+
+To describe the population PK characteristics of ponesimod including between-subject
+variability.
+To investigate the relationship between covariates and model parameters.
+To assess the goodness-of-fit of the model and visualize the influence and relevance of
+identified covariates.
+
+Data: Th PK data of 680 subjects from a total of 13 studies (AC-058-101, -102, -103, -105, -107, ­
+108, -109, -110, -112, -113, -115, AC-058A200, and AC-058B201) were used to develop
+population PK models for ponesimod. The covariate characteristics of the data is provided in
+Table 6 .
+Table 6: Summary statistics of the 680 subjects included in the PK dataset
+Covariates
+Mean (Min, Max)
+Demographics
+Age (years)
+36.8 (17, 65)
+Body weight (Kg)
+74.9 (42, 129.3)
+Male N (%)
+336 (49)
+Race N (%)
+White
+601 (88)
+Asian
+16 (2)
+Black
+53 (8)
+Others
+10 (2)
+Disease Status N (%)
+Healthy
+255 (37)
+Hepatic Impairment (Mild / Moderate / Severe)
+8 (1.2) / 8 (1.2) / 8 (1.2)
+Renal Impairment (Moderate / Severe)
+8 (1.2) / 8 (1.2)
+Psoriasis
+45 (7)
+MS
+340 (50)
+Formulations N (%)
+Capsule A
+85 (12)
+Capsule B
+431 (61)
+Tablet C
+190 (27)
+
+16
+Reference ID: 4737091
+
+Method: Nonlinear mixed effect PK modeling was conducted using Monolix® software. The base
+structural model was first developed to describe ponesimod PK profiles. Covariate modeling
+was done using forward addition (p <0.01) and backward elimination (p <0.001). Covariates
+including age, weight, sex, race, food, formulation and disease status were tested. Continuous
+covariates were included into the model as a power relationship, while categorical covariates
+were implemented as a difference to a reference group. The final model was evaluated using
+goodness-of-fit plots, individual-predicted PK profiles, parameter distribution, and visual
+predictive checks.
+Results: The PK of ponesimod was described by a two compartments model with sequential
+zero/first-order absorption and first-order elimination (Figure 3). Body weight was added on
+clearance and volume of distribution (central and peripheral); race was added on clearance and
+peripheral volume of distribution; food status and formulation were added on lag time; and
+disease status (including psoriasis, MS, hepatic impairment (HI)) was added on clearance and
+central volume of distribution. The parameter estimates of the final pop PK model for
+ponesimod are shown in Table 7.
+Figure 3: Schematic representation of the PK model for ponesimod
+
+Source: Janssen population PK/PD report: Figure 10, Page 29.
+
+17
+Reference ID: 4737091
+
+Table 7: Parameter estimates of sponsor’s final population PK model for ponesimod
+
+Source: Janssen population PK report: Table 18, Page 38
+The population PK model for ponesimod was assessed with diagnostics plots including
+goodness-of-fit (Figure 10) and visual predictive checks (Figure 4). Overall, the PK model
+adequately describes the PK of ponesimod. The final population PK model was used to simulate
+
+18
+Reference ID: 4737091
+
+steady-state PK profiles of ponesimod 20 mg QD to evaluate the impact of covariates on
+ponesimod PK profiles and exposures (Cmax, Ctrough, and AUCtau) (Figure 5). While the effects of
+body weight, race, food status, formulation, MS, and psoriasis were within the range of the
+between-subject variability (simulated Cmax,ss values range from 132 (10th percentile) to 221
+ng/mL (90th percentile)), the influences of moderate and severe HI were larger than the
+between-subject variability (Cmax,ss >= 221 ng/mL).
+Figure 4: Visual Predictive Checks stratified by study. Ranges for median, and 10 and 90%
+quantiles of simulated values (blue and pink areas), observed quantiles (green lines), and data
+(blue dots)
+
+Source: Janssen population PK report: Figure 15, Page 44.
+
+19
+Reference ID: 4737091
+
+Figure 5: Covariate effects on ponesimod PK profiles at steady-state doses of 20 mg QD (top)
+and the corresponding change in exposure compared to the reference subject (bottom)
+
+Source: Janssen population PK report: Figure 18 and Table 20, Page 48-49.
+Population PK/PD simulation analysis
+Objectives
+• Effect of the proposed up-titration regimen (with the daily doses of 2-2-3-3-4-4-5-6-7-8­
+9-10-10-10-20 mg given for 15 days) on the bradycardia (<40 beats per minute (bpm))
+incidence in subjects with normal hepatic function and in subjects with mild HI.
+• To evaluate the impact of the baseline heart rate (HRBL) on the incidence of bradycardia
+(HR<40 bpm) during the ponesimod up-titration phase in subjects with normal hepatic
+function.
+• To provide guidance on the re-initiation of the ponesimod up-titration in case of
+treatment interruptions following either the maintenance treatment at 20 mg dose or
+during the up-titration period in subjects with normal hepatic function.
+• To estimate the required time to recover total lymphocytes count to normal values after
+ponesimod treatment interruption in subjects with normal liver function and in subjects
+with mild HI.
+
+20
+Reference ID: 4737091
+
+Method: The available PK model developed based on data in healthy subjects and in patients
+with MS, and the PK/PD models for describing the effects of ponesimod on HR and total
+lymphocyte counts, developed based on Phase 1 studies in healthy subjects, were used in a
+simulation-based approach to accomplish the objectives. Briefly, the PK/PD model for HR
+comprised a circadian rhythm, a tolerance compartment, and a drug effect modeled with a
+maximal effect (Imax) function, with Imax decreasing with increasing tolerance (Figure 6). This
+model was able to describe the effect of ponesimod on HR and its variability (Lott 2018). For
+PK/PD of total lymphocyte counts, an indirect response model with effect of circadian variation
+and concentration-dependent inhibition on the lymphocyte zero-order production rate
+described the effect of ponesimod on lymphocyte count (Figure -7)(Lott 2017).
+Figure 6: Schematics of the population PK/PD model for heart rate reduction
+
+Source: Janssen population PK/PD report: Figure 11, Page 32.
+
+21
+Reference ID: 4737091
+
+Figure -7: Schematics of the population PK/PD Model for lymphocytes
+
+Source: Janssen population PK/PD report: Figure 12, Page 34.
+Results:
+Effect of proposed up-titration regimen on bradycardia events: In subjects with normal liver
+function and in subjects with mild HI, model-based simulations suggested a mean daily
+bradycardia incidence of <1% during the first 15 days of therapy following the up-titration
+dosing (Table 8). The mean cumulative (Day 1-15) incidence of bradycardia was 2.922% and
+2.979% in subjects with normal liver function and subjects with mild HI, respectively. For the
+subjects with HRBL > 55 bpm, the mean cumulative incidences of bradycardia were 0.8%. These
+results supported the proposed gradual up-titration regimen of ponesimod in healthy subjects
+and subjects with mild HI. In the Phase 3 study, four subjects (out of 565 subjects, or 0.7%) have
+reported bradycardia with the proposed up-titration regimen of ponesimod. All these events
+were reported on Day 1 after treatment initiation.
+
+22
+Reference ID: 4737091
+
+Table 8: Bradycardia incidence (%) per day and overall (day 1-15) estimated during the
+proposed up-titration regimen in subjects with normal hepatic function and in subjects with
+mild hepatic impairment.
+
+Source: Janssen population PK/PD report: Table 4, Page 15.
+Effect of HR at baseline on bradycardia: The PK/PD simulation indicated that ponesimod
+administration to subjects with HRBL of 55 bpm would result in increased bradycardia incidence
+i.e. cumulative bradycardia incidence was ~28% as compared to <1% incidences predicted in
+subjects with HRBL >55 bpm (Figure 8). These results supported the recommendations for firstdose HR monitoring in subjects with HRBL<55 bpm.
+
+23
+Reference ID: 4737091
+
+Figure 8: Top row: Time course of the heart rate for the up-titration regimen in population of
+subjects with different values of HRBL. Bottom row: Overall bradycardia incidences (%)
+estimated for the proposed up-titration scheme in population of subjects with different
+values of HRBL.
+
+Source: Janssen population PK/PD report: Figure 3, Page 17.
+Effect of Treatment Discontinuation on bradycardia: The PK/PD simulation results indicated
+that for treatment discontinuation lasting up to 3 days during maintenance dosing resulted in
+<1% bradycardia incidences (Table 9). In case of treatment interruption during up-titration, the
+overall bradycardia incidences were like that of the uninterrupted up-titration regimen (Table
+10). These results suggested that for if less than 4 consecutive doses are missed, treatment can
+be resumed with the first missed dose. However, if 4 or more consecutive doses are missed,
+treatment should be reinitiated with Day 1 of the titration regimen.
+
+24
+Reference ID: 4737091
+
+Table 9: Top row: Description of doses (in mg QD) used in the different scenarios following
+the steady state in the maintenance phase. Bottom row: Overall bradycardia incidence (%)
+estimated after maintenance treatment discontinuation as a function of the duration of
+treatment discontinuation.
+
+Source: Janssen population PK/PD report: Table 6, Page 19.
+
+25
+Reference ID: 4737091
+
+Table 10: Top row: Description of doses (in mg QD) used in the different scenarios during the
+up-titration phase. Bottom row: Overall bradycardia incidence (%) estimated after uptitration treatment discontinuation period as a function of the duration of treatment
+discontinuation.
+
+Source: Janssen population PK/PD report: Table 7, Page 22.
+Effect of treatment discontinuation on total lymphocytes: The PK/PD simulations suggested
+that after stopping ponesimod maintenance treatment of 20 mg in subjects with normal
+hepatic function, the total lymphocyte count returns above the lower limit of the normal value
+within 2, 4 and 8 days in 50%, 90%, and 99% of subjects, respectively (Figure 9).
+
+26
+Reference ID: 4737091
+
+Figure 9: Top row: Total lymphocytes counts following ponesimod 20 mg QD for 10 days in
+subjects with normal hepatic function and mild hepatic impairment.; Bottom row: Total
+lymphocyte count nadir and time to recovery after stopping maintenance treatment (20 mg
+daily) in subjects with normal hepatic function and with mild hepatic impairment.
+
+Source: Janssen population PK/PD report: Figure 9 and Table 8, Page 23.
+
+27
+Reference ID: 4737091
+
+REVIEWER’S ANALYSIS
+Sponsor’s population PK model evaluation
+The reviewer was able to run the sponsor’s final PK model and obtained similar results. Model
+diagnostics for ponesimod is shown in Figure 10 respectively.
+Figure 10: Goodness-of-fit plots of sponsor’s population PK model for ponesimod
+
+The clinically relevant impact of the covariates on the PK of ponesimod was evaluated based on
+both pop PK modeling results and the observed data (by evaluating the overlap of 95% CI of PK
+profiles stratified by the covariate-of-interest). For the observed data, the rich PK sampling
+data from six studies (AC-058-101, -103, -107, -108, -112 and -113) were pooled together to
+evaluate the impact of covariates on ponesimod.
+
+28
+Reference ID: 4737091
+
+Age effect: The PK profiles of ponesimod were distributed into quartiles (i.e. 1st quartile: n=13,
+18-24; 2nd quartile: n=15, 24-36; third quartile: n=18, 36-45; and 4th quartile: n=16, 45-59)
+based on their weight distribution and plotted along with the corresponding median population
+predictions (Figure 11). Overall, overlap of 95% confidence intervals of the PK profiles by age
+quartiles suggested lack of clinically relevant impact of age on the PK of ponesimod.
+Additionally, the pop PK model developed from the data of 680 subjects (range: 17-65 years)
+did not identify age as a significant covariate affecting ponesimod PK.
+Figure 11: Top row: Individual PK profiles of ponesimod by age quartiles. Black dashed line
+indicates median population predictions from sponsor’s final PK model; Bottom row: Mean
+(95% CI) PK profiles of ponesimod by age quartiles. Red, green, cyan and purple color
+indicates 1st, 2nd, 3rd and 4th quartile of age respectively.
+
+Body weight effect: The PK data of ponesimod were distributed into quartiles (i.e. 1st quartile:
+n=14, 47-62; 2nd quartile: n=17, 62-69; third quartile: n=16, 69-78; and 4th quartile: n=15, 78­
+96) based on their weight distribution and plotted along with the corresponding median
+
+29
+Reference ID: 4737091
+
+population predictions (Figure 12). Overall, increase in body weight resulted in lower AUC and
+Cmax of ponesimod. Based on the the sponsor’s PK simulations, 23% increase in Cmax,ss and 19%
+increase in AUCtau,ss was predicted for subjects weighing 50 kg as compared to the reference
+subject weighing 75 kg (Figure 5). These changes in exposures do not suggest clinically
+relevance impact of body weight on ponesimod PK.
+Figure 12: Top row: Individual PK profiles of ponesimod by body weight quartiles. Black
+dashed line indicates median population predictions from sponsor’s final PK model; Bottom
+row: Mean (95% CI) PK profiles of ponesimod by body weight quartiles. Red, green, cyan and
+purple color indicates 1st, 2nd, 3rd and 4th quartile of body weights respectively.
+
+Sex effect: The PK profiles of 28 males and 34 females dosed with ponesimod were compared
+and plotted along with the corresponding population predictions (Figure 13). Overall, the
+median PK profiles of male subjects has shown a decrease of 25% in Cmax and 24% in AUC0-t. The
+body weight differences in male and female (i.e. median weight of 76 kg in male vs. 61 kg in
+female) appears to account for most of these PK exposures differences. Also, the pop PK model
+developed from the data of 680 subjects (336 females and 344 females) did not identify sex as a
+significant covariate of ponesimod PK.
+
+30
+Reference ID: 4737091
+
+Figure 13: Top row: Individual PK profiles of ponesimod by sex. Black dashed line indicates
+median population predictions from sponsor’s final PK model; Bottom row: Mean (95% CI) PK
+profiles of ponesimod by sex. Red color indicates males and strong cyan color indicates
+female subjects.
+
+Race effect: The PK data of 41 white, 12 asian, five black and four other subjects dosed with
+ponesimod were compared and plotted along with the corresponding median population
+predictions (Figure 14). The data was limited for black and other categories. For white and asian
+category, overlap of 95% confidence intervals of the PK profiles suggested lack of clinically
+relevant impact of race on the PK of ponesimod. The population PK model which was
+developed from a larger dataset (white [n=601], asian [n=16], black [n=53], and others (n=10)]
+confirmed the above findings (Figure 5).
+
+31
+Reference ID: 4737091
+
+Figure 14: Top row: Individual PK profiles of ponesimod by race. Black dashed line indicates
+median population predictions from sponsor’s final PK model; Bottom row: Mean (95%CI) PK
+profiles of ponesimod by race. Red, green, cyan and purple color indicates asian, black, other
+and white respectively.
+
+Multiple sclerosis effect: The Sponsor’s pop PK simulations estimated 5% difference in Cmax,ss
+and negligible changes in AUCtau,ss between healthy subjects and subjects with multiple
+sclerosis, which suggested lack of clinically relevant impact of multiple sclerosis on the PK of
+ponesimod (Figure 5).
+Sponsor’s population PK/PD simulation evaluation
+The sponsor’s PK/PD simulations were used to support (i) the proposed gradual up-titration
+regimen of ponesimod; (ii) first-dose HR monitoring in subjects with HRBL<55 bpm; (iii) missed
+doses strategy; and (iv) caution with immunosuppressants. Reviewers agrees with the sponsor’s
+PK/PD simulations analysis and conclusion described in section Population PK/PD simulation
+analysis.
+
+32
+Reference ID: 4737091
+
+LISTING OF ANALYSIS CODES AND OUTPUT FILES
+File Name
+
+Description
+
+Location
+
+pk_analysis_ponesimo
+d.R
+
+Exploratory PK
+analysis
+
+\\Reviews\Ponesimod_NDA213498_VS\Reviewer
+\Rscripts
+
+REFERENCES
+1. Janssen population PK report: Population pharmacokinetics of ponesimod, 2
+September 2016.
+2. Janssen population PK/PD report: Pharmacokinetic & pharmacodynamic model-based
+simulations supporting ponesimod dosing in multiple sclerosis subjects, 13 September
+2019.
+3. Lott D. Modeling and simulation report: Modelling the effect of ponesimod on heart
+rate. Doc No. D-17623 Actelion. 23 April 2018.
+4. Lott D, Krause A, Seemayer CA, Strasser DS, Dingemanse J, Lehr T. Modeling the effect
+of the selective S1P receptor modulator ponesimod on subsets of blood lymphocytes.
+Pharm Res. 2017c; 34(3):599-609.
+
+33
+Reference ID: 4737091
+
+4.3 Physiologically based Pharmacokinetic Modeling Review
+Executive Summary
+The aim of this review is to evaluate the adequacy of physiologically-based pharmacokinetic
+(PBPK) modeling to predict the drug-drug interaction (DDI) potential of ponesimod as a CYP
+perpetrator. Specifically, the Applicant applied the PBPK modeling approach to assess the
+effects of ponesimod on the exposures of midazolam (CYP3A), warfarin (CYP2C9), tolbutamide
+(CYP2C9) and omeprazole (CYP2C19).
+The Division of Pharmacometrics has reviewed the PBPK reports (FK13357 and FK13637) and
+supporting modeling files to conclude the following:
+• There is low potential for a drug-drug interaction (considered as less than 0.8-fold or
+greater than 1.25-fold change in AUC or Cmax), between ponesimod and a substrate for
+CYP3A, CYP2C9 or CYP2C19.
+Background
+Ponesimod is provided as film-coated tablets for oral use at a maintenance dose of 20 mg once
+daily (QD), after a gradual 14-day up-titration regimen. The ponesimod metabolites identified in
+human plasma are ACT-204426 (M12) and ACT-338375 (M13), with only M13 considered as
+major (defined as >10% of total drug exposure). The mean exposure to ponesimod, M12 and
+M13 increased in a dose-proportional manner following multiple-dosing in healthy adults
+[Clinical Pharmacology Summary]. Also, ponesimod showed a time-independent PK after
+multiple dosing (5 to 20 mg/day for 7 days) in healthy adults [Study AC-058-102]. The multipledose PK of ponesimod (10 mg, 20 mg and 40 mg QD for 24 weeks) in the target patient
+population (relapsing-remitting MS) were consistent with those established in healthy subjects
+[Study AC-058B201]. Food had no clinically relevant effect on ponesimod PK [Study AC-058­
+101].
+Ponesimod was extensively metabolized with several (>30) minor metabolites recovered in
+feces and urine [Study AC-058-106]. The metabolism of ponesimod to M13 is assumed to occur
+primarily via non-CYP metabolic pathway(s); while multiple CYPs (2J2, 3A4, 3A5, 4F3A, and
+4F12) and non-CYP enzymes catalyze the oxidation of ponesimod to M12 [FK13520, B-18.004].
+Ponesimod may undergo direct glucuronidation (UGT1A1 and UGT2B7, based on in vitro data
+[FK13537]. In the human mass balance study [Study AC-058-106], unchanged ponesimod in
+feces represented 16% of total dose. This may represent either unabsorbed dose, biliary
+excretion, and/or elimination as glucuronides with subsequent hydrolysis back to parent in the
+gastrointestinal tract. Glucuronides were not detected in plasma and feces, with minor amount
+(<2%) detected in urine. The potential for entero-hepatic circulation of ponesimod has not
+been investigated clinically. Ponesimod is not a substrate for the transporters P-gp, BCRP, or
+OATP1B1/3 [DD19014, FK13518, FK13541, FK13542].
+Ponesimod showed potential for inhibition of CYP3A activity in human liver
+microsomes. The CYP3A reversible inhibition interaction parameter Ki (concentration causing
+half- maximal inhibition) was 15 μM [B-05.078]. Neither ponesimod nor M13 metabolite were
+
+34
+Reference ID: 4737091
+
+time-dependent inhibitors of CYP3A activity in pooled human liver microsomes [B-08.581; B­
+13.080]. As the basic static models did suggest a potential for intestinal CYP3A inhibition (Rgut
+value ≥11), further analysis was conducted using PBPK modeling herein described.
+In vitro, ponesimod, but not M13 metabolite, showed induction potential towards CYP3A mRNA
+in all three human hepatocyte donors [FK13519]. The calculated nominal maximal effect (Emax)
+values for ponesimod were 12.0, 14.6, and 11.6-fold, with corresponding EC50 values of 3.11,
+4.61, and 3.71 μM. Applying the basic model to the nominal Emax and EC50 values indicated
+low potential for clinical inductive effect (R3 values>0.8) by ponesimod. Nonetheless, PBPK
+modeling was also conducted as a confirmatory analysis.
+Ponesimod showed potential for inhibition of the activity of CYP2C19 and CYP2C9, with
+respective Ki values of 5.9 and 6.5 μM, determined using human liver microsomes. Neither
+ponesimod nor M13 showed evidence of time-dependent inhibition of CYP2C9 and CYP2C19
+activities [B-08.581; B-13.080; FK13536]. Ponesimod did not have an inductive effect on CYP2C9
+activity or mRNA in hepatocyte cultures [B-08-466]. The basic static model indicated no
+potential for interaction with CYP2C9 or CYP2C19 (R1 values <1.02). Nonetheless, PBPK analysis
+was also conducted to further explore the clinical interaction potential of ponesimod on
+CYP2C9 and CYP2C19.
+Regarding the M13 metabolite, it most potently inhibited the CYP2C8 enzyme (Ki = 6.4 μM).
+However, M13 has low potential for clinical inhibition based on the basic static model (R1 value
+<1.02) [FK13357]. Thus, the DDI potential of M13 was not investigated with a PBPK model.
+The Applicant’s proposed label stated, “In vitro investigations indicate that at the
+dose of 20 mg once-daily, ponesimod and its metabolite M13 do not show any clinically
+relevant drug-drug interaction potential for CYP or UGT enzymes, or transporters” (Section
+12.3, Drug Interaction).
+
+(b) (4)
+
+The aim of this review is verifying the adequacy of the PBPK analysis related to the ponesimod
+potential for clinical DDI mediated by inhibition and/or induction of CYP3A, CYP2C9 and
+CYP2C19.
+Methods
+The PBPK analyses were performed using the population-based PBPK software Simcyp® (V18,
+Simcyp Ltd., a Certara Company, Sheffield, United Kingdom). Predictions of plasma
+concentration-time profiles and drug-drug interactions were conducted using the software’s
+default healthy volunteer virtual population.
+The PBPK model of ponesimod was developed based on physicochemical properties, preclinical,
+in vitro, and clinical PK data. Key model parameters are described as follows. A mechanistic
+absorption model (ADAM) was developed based on in vitro permeability data. The absorption
+of ponesimod following oral tablet was described using the ADAM (Advanced Dissolution
+Absorption and Metabolism) model and in vitro permeability data (Mean A-B Caco-2 Papp=11.5
+35
+Reference ID: 4737091
+
+x10-6 cm/s) [B-05.105]. The fraction absorbed (fa) was predicted to be 0.88 and the absolute
+bioavailability predicted to be around 90%, which is in line with the observed value of 84%
+[Study AC-058-114]. The unbound fraction in enterocytes (fugut) was assumed to be 1. The
+mean observed human clearance (CL=3.8 L/h) and volume of distribution (Vss=2.11 L/kg =161 L)
+following intravenous administration (5 mg, Study AC-058-114) were used as input parameters.
+The unbound fraction of ponesimod in plasma (fup) is 0.004 [B-05.075] and albumin is the main
+plasma binding protein [FK13292]. The blood-plasma partitioning ratio of ponesimod is 0.68.
+The in vitro reversible inhibition Ki values for CYP2C9, CYP2C19 and CYP3A, used in ponesimod
+PBPK model, was 6.5, 5.9 and 15 µM, respectively [B-13.080]. The unbound fraction in in vitro
+incubations (fumic) was 0.18. This value was determined under the conditions at 0.25 mg/mL
+microsomes as it provided a conservative approach. CYP2C9 and CYP2C19 assays have used
+lower amounts of microsomal protein (0.1-0.15 mg/mL).
+The in vitro CYP3A induction parameters Emax and EC50 values were 12-fold and 3.11 µM,
+respectively [FK13519]. The Applicant used the data from a donor (HC10-23) which had the
+largest Emax/EC50 ratio, thus it would represent the most conservative estimate for CYP3A
+induction from in vitro study. The data was calibrated against rifampicin control data (Emax and
+EC50 values were 155-fold and 0.919 µM, respectively) from the same donor. The unbound
+fraction in in vitro incubations (fuinc) was assumed to be equal to 1.
+The default compound files (software’s library V18) for the CYP2C9, CYP2C19 or CYP3A
+substrates SV-Tolbutamide, Sim-S-Warfarin, SV-Omeprazole_Solution, and Sim-Midazolam
+were used in the DDI simulations. Simulations were conducted under fasting conditions.
+Results
+Q1. Can PBPK analysis provide a reasonable description of the PK of ponesimod in adult
+healthy population?
+There was a reasonable agreement between PBPK predicted and observed PK profile of
+ponesimod following 5 mg IV (3 h infusion, SD), 10 mg SD PO and 20 mg QD administration in
+healthy fasted subjects [Studies AC-058-114 and AC-058-102] (Figure 15 and Table 11).
+
+36
+Reference ID: 4737091
+
+Figure 15. PBPK predicted and observed PK profiles of ponesimod
+
+Plasma concentration time-profiles of ponesimod. Mean PBPK predicted (green lines, n= 10 x 10), observed (open
+circles-mean or individual data) and 95% prediction interval (gray lines). (A) single IV dose of ponesimod 5 mg (3 h
+infusion), n=14 (Study AC-058-114). (B) single oral dose of ponesimod 10 mg in fasted state, n=14 (Study AC-058­
+114). (C) multiple oral dose of ponesimod 20 QD for 7 days, n=8 (Study AC-058-102). (Source: FK13357, Figures 1, 2
+and 3).
+
+Table 11. Comparison between PBPK predictions and observed PK of ponesimod
+
+5 mg IV SD
+
+Cmax
+(ng/mL)
+48.5
+
+Observed
+AUC
+(ng.h/mL)
+1246
+
+Tmax
+(h)
+NA
+
+10 mg tablet SD
+
+61.4
+
+2124
+
+20 mg QD Day 1
+
+91.7
+
+20 mg QD Day 7
+
+207
+
+Ponesimod dose
+regimen
+
+Cmax
+(ng/mL)
+37.2
+
+Predicted
+AUC
+(ng.h/mL)
+1284
+
+Tmax
+(h)
+NA
+
+4.0 (3-6)
+
+54.1
+
+2354
+
+3.0
+
+1318
+
+4.0 (2.5-4)
+
+105
+
+1939
+
+3.0
+
+3473
+
+2.5 (2.5-4)
+
+256
+
+4829
+
+2.6
+
+PK data are geometric means, except median values are listed for Tmax. Observed: Studies AC-058-114 and AC­
+058-102. NA: Not applicable. (Source: Simulation output files, Study Reports, Reviewer’s Analysis).
+
+Ponesimod model reasonably recovered drug accumulation at steady-state following 20 mg QD
+dosing: 2.7 vs 2.5 (observed vs predicted, respectively).
+
+37
+Reference ID: 4737091
+
+Reviewer’s comment:
+The Applicant acknowledged that the PBPK model overpredicted ponesimod plasma exposure
+(AUC and Cmax) following the therapeutic dose level of 20 mg QD compared to observed in
+Study AC-058-102 (PE=25-40%, Table 1). Nonetheless, the prediction error was within a
+reasonable range (PE<50%). The misprediction of ponesimod exposure will not negatively
+impact the intended application- DDI simulations of ponesimod as perpetrator- due to the
+higher predicted plasma concentrations.
+Q2. Can PBPK analysis be used to estimate the effects of ponesimod on a CYP3A substrate?
+Yes. PBPK DDI simulations were conducted between repeated doses of ponesimod (20 mg QD
+for 10 days) and single doses of midazolam (sensitive CYP3A substrate, 5 mg on Day 10), using
+the healthy volunteer population model.
+DDI simulations were performed with only CYP3A inhibition or induction parameters to
+determine the impact from each mechanism separately. This approach maximized the
+sensitivity of the simulation for potential induction effects or inhibitory effects. Therefore, it
+would represent a conservative scenario for the DDI potential compared to net-effect of the
+inhibition/induction mechanism simultaneously.
+Considering DDI potential of ponesimod as a CYP3A inhibitor only, the interaction effect on
+midazolam in terms of predicted geometric mean ratios for Cmax and AUC were 1.05 and 1.06,
+respectively. While considering ponesimod as a CYP3A inducer only, the model predicted a
+decrease of 9% (0.91-fold) on midazolam exposure in the presence of steady-state ponesimod
+(Table 12).
+Table 12. Predicted changes in midazolam’s Cmax and AUC in the presence of ponesimod
+Perpetrator ponesimod
+CYP3A interaction
+Reversible inhibition only
+Induction only
+
+CYP3A substrate midazolam 5 mg SD
+Cmax ratio
+AUC ratio
+[5th-95th percentile]a
+[5th-95th percentile]a
+1.05 [1.02, 1.09]
+1.06 [1.02, 1.10]
+0.91 [0.81, 0.99]
+
+0.91 [0.81, 0.99]
+
+Geometric mean ratios expressing the fold change in Cmax and AUC calculated as follows: PK with ponesimod/ PK
+without ponesimod. Simulation design: 10 groups of 10 subjects (n=100) after a single oral dose of 5 mg on day 10
+with or without 20 mg QD ponesimod administration for 10 days in healthy subjects. Simulations considering
+inhibition or induction interaction mechanism only. Source: Applicant’s simulation output files.
+
+a
+
+In the sensitivity analyses for the in vitro CYP3A interaction parameters Ki and EC50 of
+ponesimod, the geometric mean ratios for Cmax and AUC of midazolam were around the
+thresholds for weak interaction, in all cases. The 95th percentiles were below 2-fold for
+inhibition and above 0.5-fold for induction. Results suggested minor risk of underestimation of
+interaction potential of ponesimod treatment towards midazolam (Table 13).
+Overall, PBPK analysis suggested the DDI risk between ponesimod treatment and a sensitive
+
+38
+Reference ID: 4737091
+
+CYP3A substrate is low.
+Table 13. Sensitivity Analysis of the CYP3A interaction parameters of ponesimod
+Parameter
+CYP3A Ki (µM)
+CYP3A EC50 (µM)
+CYP3A Emax (fold)
+
+Fold-change
+from baseline
+0.1
+0.1
+6*
+
+Value
+1.5
+0.108
+12
+
+Midazolam
+AUC ratioa
+1.34 [1.15-1.62]
+0.76 [0.59-0.96]
+0.69 [0.51-0.89]
+
+Midazolam
+Cmax ratioa
+1.32 [1.14-1.61]
+0.77 [0.59-0.96]
+0.69 [0.51-0.89]
+
+Geometric mean [5th-95th percentiles] ratios of midazolam AUC and Cmax in the presence/absence of ponesimod.
+Abbreviations: Ki, drug concentration supporting half maximal inhibition; EC50, drug concentration supporting half
+maximal induction. Emax, maximal fold induction. *Value determined in vitro without rifampin calibration, using
+EC50=3.11 µM. Source: Reviewer’s independent analyses.
+a
+
+Q3. Can PBPK analysis be used to estimate the effects of ponesimod on a CYP2C9 substrate?
+Yes. PBPK DDI simulations were conducted between repeated doses of ponesimod (20 mg QD
+for 15-25 days) and single doses of warfarin (10 mg on Day 10) or tolbutamide (500 mg on Day
+10), as sensitive CYP2C9 substrates, using the healthy volunteer population model.
+Ponesimod interaction effect on tolbutamide in terms of predicted geometric mean [5th-95th
+percentiles] ratios for Cmax and AUC216-336h were 1.00 [1.00-1.01] and 1.00 [1.00-1.01],
+respectively. Sensitivity analysis of CYP2C9 Ki value showed less than 1.25-fold increase in
+tolbutamide exposure with up to 10-fold lower Ki value than that reported in vitro.
+The interaction effect on warfarin represented by geometric mean [5th-95th percentiles] ratios
+for Cmax and AUC216-576h ratios were 1.00 [1.00-1.01] and 1.00 [1.00-1.01], respectively.
+Sensitivity analysis of CYP2C9 Ki value suggested minor risk of underprediction of inhibition
+potential of ponesimod towards S-warfarin. The Cmax and AUC ratios of S-warfarin were below
+the threshold of 1.25-fold with up to a10-fold lower Ki value than that reported in vitro
+(Reviewer’s Analysis).
+Therefore, PBPK analysis suggested a clinically relevant DDI between ponesimod and a CYP2C9
+substrate is unlikely.
+Q4. Can PBPK analysis be used to estimate the effects of ponesimod on a CYP2C19
+substrate?
+Yes. PBPK DDI simulations were conducted between repeated doses of ponesimod (20 mg QD
+for 10 days) and single doses of S-mephenytoin (200 mg on Day 9) or omeprazole (20 mg on
+Day 10), using the healthy volunteer population model.
+Ponesimod interaction effects on omeprazole represented by Cmax and AUC ratios were 1.05
+[5th-95th percentiles:1.01-1.11] and 1.06 [5th-95th percentiles:1.02-1.12], respectively. Sensitivity
+analysis of CYP2C19 Ki value showed less than 1.25-fold increase in omeprazole exposure with
+up to 10-fold lower Ki value than that reported in vitro. (Reviewer’s Analysis).
+
+39
+Reference ID: 4737091
+
+The Applicant also evaluated the potential of ponesimod inhibition towards S-mephenytoin,
+which showed no DDI effect.
+Conclusions
+PBPK analysis predicted there is a low potential for a clinically relevant interaction between
+ponesimod (20 mg QD) and a sensitive CYP3A substrate (such as midazolam).
+Similarly, PBPK analyses predicted that ponesimod (20 mg QD) has low potential for a clinically
+relevant interaction with a CYP2C9 substrate (such as tolbutamide and S-warfarin) or a CYP2C19
+substrate (such as omeprazole).
+
+40
+Reference ID: 4737091
+
+4.4 Individual Study Review
+4.4-1. BIOPHARMACEUTICS STUDIES
+4.4-1.1 Bioavailability
+Study AC-058-114: Single-center, open-label, randomized, two-way crossover study to
+investigate the absolute bioavailability of a single oral dose of ponesimod in healthy male
+subjects.
+Objectives:
+1) To investigate the absolute bioavailability of a single dose of oral ponesimod (tablet)
+compared to an intravenous (i.v.) formulation
+2) To investigate the pharmacokinetics (PK), safety, and tolerability of ponesimod and its
+metabolites ACT-204426 (M12) and ACT-338375 (M13) after a single-dose treatment (i.v. and
+oral formulation) in healthy male subjects.
+Methodology:
+The study consisted of two parts: a pilot phase and the main study. The pilot phase was
+completed prior to the start of the main study.
+Pilot phase: Subjects arrived at the site on Day 1. The study drug was administered on the
+morning of Day 1 and was followed by a 144-hour (6 days) observation period. On Day 2, i.e., 24
+hours after study drug administration (start of the infusion), the subjects were discharged from
+the study site. The subjects returned to the study site 36, 48, 72, 96, 120, and 144 hours after
+study drug administration for additional tolerability, safety, and PK assessments.
+Main study (Treatments A and B): Each subject received both Treatment A (ponesimod i.v.) and
+Treatment B (ponesimod oral). Subjects were randomized to one of two possible sequences of
+treatments A and B: A-B or B-A (1:1 ratio).
+Washout period between doses was 14 days for all subjects.
+Number of subjects:
+Pilot phase: 3 healthy male subjects.
+Main study: 14 healthy male subjects.
+Main criteria for inclusion:
+Healthy males aged 18–45 years (inclusive) with body mass index of 18–28 kg/m2 (inclusive) at
+screening, supine systolic blood pressure (SBP) 100–145 mmHg and diastolic blood pressure
+(DBP) 50–90 mmHg, heart rate (HR) 50–95 bpm (inclusive) and PR interval < 200 ms measured
+by 12-lead electrocardiogram (ECG).
+Test product, dose and mode of administration:
+Pilot phase: A 3-hour i.v. infusion of 5 mg ponesimod in sterile 0.9% sodium chloride (NaCl)
+administered to subjects in the fasted state. A total volume of 50 mL was infused.
+
+41
+Reference ID: 4737091
+
+Main study: Treatment A: a 3-hour i.v. infusion of 5 mg ponesimod in sterile 0.9% NaCl
+administered to subjects in the fasted state. A total volume of 50 mL was infused. Treatment B:
+a single oral dose of 10 mg ponesimod administered as 1 tablet to subjects in the fasted state.
+Analytical assay:
+Ponesimod and metabolites (M12 and M13) were determined by validated liquid
+chromatography with tandem mass spectrometry methods with an LLOQ of 1.00 ng/mL for
+ponesimod, 1.00 ng/mL for ACT-204426 (M12), and 1.00 ng/mL for ACT-338375 (M13).
+PK Evaluations:
+For each treatment period (including pilot phase), the following plasma PK parameters of
+ponesimod and its metabolites ACT-204426 (M12) and ACT-338375 (M13) were derived by noncompartmental analysis of the concentration-time data.
+• After oral administration: Cmax, Tmax, AUC0-t, AUCinf, T1/2,
+• After i.v. administration: AUC0-t, AUCinf, T1/2, CL, Vss.
+• The absolute bioavailability (F) was defined as the oral to i.v. ratio of AUCinf values.
+PD Evaluations:
+Absolute lymphocyte count, absolute change from baseline, and percentage change from
+baseline for each timepoint of assessment.
+RESULTS
+Pharmacokinetics
+Ponesimod
+Summary of PK parameters of ponesimod (main study)
+
+42
+Reference ID: 4737091
+
+Mean (±SD) concentration-time profile (semilogarithmic scale) of ponesimod after a single oral
+dose of 10 mg (solid line) and after a single 3-hour i.v. infusion of 5 mg is presented graphically
+by treatment in the Figure below (main study):
+Mean (± SD) plasma concentration (semilogarithmic scale) vs time profiles of ponesimod after a single
+oral dose of 10 mg (solid line) and after a single 3-hour i.v. infusion of 5 mg (dotted line) in healthy
+subjects (n=14)
+
+M12 metabolite
+Summary of PK parameters of M12 (ACT-204426).
+
+Mean (± SD) plasma concentration (semilogarithmic scale) vs time profiles of M12 (ACT­
+204426) after a single oral dose of 10 mg (solid line) and after a single 3-hour i.v. infusion of 5
+mg (dotted line) in healthy subjects (n=14, main study) is presented in the Figure below:
+
+43
+Reference ID: 4737091
+
+M13 metabolite
+A summary of the PK parameters for M13 is presented by treatment in the table below.
+
+Mean (± SD) plasma concentration (semilogarithmic scale) vs time profiles of M13 (ACT­
+338375) after a single oral dose of 10 mg (solid line) and after a single 3-hour i.v. infusion of 5
+mg (dotted line) in healthy subjects (n=14, main study) is presented in the Figure below:
+
+44
+Reference ID: 4737091
+
+Pharmacodynamics
+A transient decrease in total lymphocyte count was observed following both i.v. and oral
+administration of ponesimod. In the main study, the maximum decrease from baseline was 0.56
+± 0.45 x 109 cells/L (baseline: 1.98 ± 0.35 x 109 cells/L) and 0.70 ± 0.30 x 109 cells/L (baseline:
+1.90 ± 0.34 x 109 cells/L) for the i.v. and the oral route, respectively, observed 6 h post-dose
+(i.e., 6 hours after the start of infusion for Treatment A).
+ECG recording
+Following i.v. infusion (5 mg) in both phases of the study, a similar transient decrease of HR was
+observed when compared to oral administration (10 mg) of ponesimod. The HR effect of
+ponesimod in the main study during the first 10 hours following administration was showed in
+the Figure below,
+Mean (± SD) HR following i.v. (dotted line) or oral (solid line) administration of ponesimod - main
+study (n=14)
+
+45
+Reference ID: 4737091
+
+Safety
+In both the pilot phase and the main study, no AEs leading to discontinuation and no SAEs were
+observed. No clinically significant treatment-emergent abnormalities in clinical laboratory
+variables were observed. In addition to the events of sinus bradycardia, analysis of treatmentemergent 12-lead ECG abnormalities revealed one finding of short PQ interval (Treatment B),
+two findings of QTc prolongation (Treatment A), and one finding of short QTc (Treatment A). All
+these findings were observed in the main study only.
+CONCLUSIONS
+Pharmacokinetics
+The absolute bioavailability of ponesimod was estimated to be 83.8% (90% CI: 80.2–87.5).
+Clearance and volume of distribution of ponesimod (following a single i.v. infusion of 5 mg
+during 3 hours) were 3.8 L/h (95% CI: 3.3 –4.3) and 160 L (95% CI: 146.1–174.2), respectively.
+Safety and tolerability
+Both i.v. and oral ponesimod formulations were well tolerated. The most frequently reported
+AEs (main study and pilot) included headache and sinus bradycardia. Apart from one severe AE
+of headache, all AEs were of mild to moderate intensity. There were no SAEs and no AEs leading
+to discontinuation.
+No clinically significant treatment-emergent abnormalities in clinical laboratory, vital signs, or
+ECG variables were observed.
+
+46
+Reference ID: 4737091
+
+4.4-2. IN VITRO STUDIES PERTINENT TO PK USING HUMAN BIOMATERIALS
+4.4-2.1 In Vitro Metabolism
+Study B-18.004: Identification of the human enzymes involved in ponesimod metabolism
+Objectives: identification of the human enzymes involved in the formation of M12 and M13.
+METHODS
+1) incubation of ponesimod with human hepatocytes in the absence or presence of the broad
+non-selective P450 inhibitor ABT to unravel the respective roles of P450 and non-P450 enzymes.
+Cryopreserved hepatocytes were thawed at 37 °C and purified on a P ercoll cushion (15 %) at 50
+g for 4 min at 4 °C. The cell pellet was resuspended in 1 mL culture medium. The cell suspension
+was then adjusted with culture medium at a nominal density of 5 x 105 viable cells/mL. The
+cells were pre-incubated 30 minutes in the presence or absence of 1 mM ABT followed by the
+addition of 5 μM ACT-128800C for a further 24 h incubation. Duplicate wells were sampled
+after 24 h of incubation by addition of 200 μL of a cetonitrile and the entire well was
+transferred into Eppendorf vials. Samples were stored frozen at -20 °C pending analysis.
+Samples were centrifuged at 20800 g for 5 min at 10 °C and the supernatant was submitted to
+HPLC with radiochemical detection.
+2) incubations of ponesimod with human liver or intestinal microsomes, cytosol, mitochondria
+and S9 to characterize the subcellular localization of ponesimod metabolic pathways.
+Incubations of ACT-128800C were performed for 24 h at a single substrate concentration of 5
+uM in a total volume of 200 uL. A 1 uL-aliquot of the compound stock solution was added to
+100 mM phosphate buffer (pH 7.4) containing the subcellular fraction at a concentration of 3
+mg/mL or 1 mg/mL and the mixture was incubated at 37 °C in an Eppendorf thermomixer at
+550 rpm. The reaction was initiated by addition of 20 uL of freshly prepared NAD and NADPH
+stock solutions and terminated by addition of 200 uL of ice-cold acetonitrile after 24 h. Samples
+were centrifuged at 20800 g for 5 min at 10 °C and the supernatants were submitted to HPLC
+analysis with radio detection.
+3) incubations of ponesimod with recombinant human enzymes.
+The identification of the individual enzymes involved in ponesimod metabolism was performed
+using recombinant human enzymes. Unstable intermediate metabolites were put into evidence
+using the carbonyl trapping agent methoxyamine and co-incubation of relevant recombinant
+enzymes was performed to unravel sequential metabolic steps.
+RESULTS
+P450 versus non-P450 contributions using the P450 non-selective inhibitor ABT
+Incubations of ACT-128800C with human hepatocytes were performed in the presence of the
+non-selective P450 inhibitor ABT. Four metabolites were seen in hepatocytes, i.e. the
+(b) (4)
+M10 and M11, and the oxidation products M12 and M13. The
+following Table gives an overview on the number of metabolites formed together with their
+individual relative contributions.
+
+47
+Reference ID: 4737091
+
+Ponesimod Metabolism by Human Hepatocytes in the Presence or Absence of the Pan-CYP Inhibitor 1­
+ABT
+
+The formation of M10, M11 and M13 was not affected by the presence of ABT, with
+contributions remaining in the same range, i.e. 1.2-13 %, 3.9-20 % and 14-34 %, respectively.
+M12 formation was reduced to a 2.0-4.5 % range which represented between one third to nine
+tenth of the respective contributions without ABT. As M13 formation was undiminished,
+indicating that M13 formation was independent of both CYPs and M12 formation. Overall,
+using ABT in hepatocytes, ponesimod turnover was at most reduced by 5 %. Ponesimod
+turnover was only marginally affected by the presen ce of ABT, suggesting that P450 enzymes
+were overall playing a minor role in ponesimod metabolism.
+Subcellular localization of ponesimod metabolism
+ACT-128800C was incubated with human liver microsomes, cytosol, mitochondria and S9
+fraction to identify the subcellular localization of the hepatic enzymes involved in ponesimod
+metabolism. The following Table gives an overview on the number of metabolites formed in the
+different incubations together with their individual relative contributions.
+
+48
+Reference ID: 4737091
+
+Metabolic profiles of ACT-128800C after 24 h incubations with human liver microsomes, cytosol,
+mitochondria, S9 fraction and hepatocytes
+
+Ponesimod metabolism using recombinant human enzymes
+ACT-128800C was incubated with a panel of recombinant human P450 and non-P450 enzymes
+to identify which could metabolize ponesimod. The following Table gives an overview on the
+number of observed metabolites in the relevant incubations together with their individual
+relative contributions.
+
+ACT-128800C turnover was only seen using CYP2J2, CYP3A4, CYP3A5, CYP4F3A and CYP4F12.
+CYP2J2 was the most productive enzyme, yielding 74% of M32, 3.4 % of M12 and 3.8 % of M13.
+
+49
+Reference ID: 4737091
+
+CONCLUSIONS
+•
+•
+
+•
+
+M13 formation was independent of both CYPs and M12 formation.
+P450 and non-P450 enzymes catalyze the initial formation of a glyceraldehyde intermediate
+metabolite which is subsequently metabolized to M12 in the cytosol. The formation of the
+glyceraldehyde intermediate was catalyzed by CYP2J2, CYP3A4, CYP3A5, CYP4F3A and
+CYP4F12.
+P450 enzymes were playing a limited role in overall metabolic clearance of ACT-128800C
+
+50
+Reference ID: 4737091
+
+Study DMPK FK13537: In Vitro Uridine Diphospho Glucuronosyltransferase (UGT) Reaction
+Phenotyping of JNJ-67896153 (Ponesimod)
+Objectives: To determine the uridine diphosphate glucuronosyltransferases (UGTs) involved in
+the formation of the glucuronide conjugates of JNJ -67896153 using recombinant single enzyme
+systems.
+METHODS
+Recombinant UGT1A1, 1A3, 1A4, 1A6, 1A7, 1A8, 1A9, 1A10, 2B4, 2B7, 2B10, 2B15 and 2B17
+(0.15 mg/mL) prepared from baculovirus infected insect cells, HLM and HIM (0.2 mg/mL) were
+incubated with 1 μM JNJ-67896153 for up to 90 minutes at 37°C. Samples were preincubated
+with 25 μg/mL alamethicin at room temperature for 10 minutes to minimize latency in catalytic
+activity. Reactions were started by the addition of 2 mM uridine 5’-diphosphoglucuronic acid
+(UDPGA) as the cofactor. Aliquots were removed and quenched with acetonitrile at 0, 30 and
+90 minutes. Umbelliferone and chenodeoxycholic acid were selected as control substrates and
+were incubated under the same conditions as JNJ-67896153.Incubations were carried out at
+protein concentrations of 0.15 mg/mL for the UGT enzymes, and 0.2 mg/mL for the human liver
+and intestinal microsomes.
+RESULTS
+The following Table summarized the relative amounts formed in the individual enzyme
+incubations.
+Phenotyping Screen: Relative Fold-Increases in JNJ-67896153 Glucuronide Formation in Recombinant
+Human UGT Enzymes, HLM and HIM.
+
+51
+Reference ID: 4737091
+
+In single recombinant UGT incubations, time-dependent product formation was seen in several
+isoforms. UGT2B7 and UGT1A1 catalyzed the highest rates of formation (34- and 19-fold
+increases compared to time 0, respectively) with lower rates (3- to 7-fold increases) observed
+with other isoforms (UGT1A3, 1A4 and 2B4). JNJ-67896153 turnover in all UGTs, HLM and HIM
+(normalized to the UGT insect control samples) was minimal (less than 10%).
+CONCLUSIONS
+•
+•
+
+The UGTs involved in M10 and M11 formation were identified.
+UGTs 1A1 and 2B7 catalyzed the highest rate of formation of M10/M11, with lower rates
+observed for UGTs 1A3, 1A4, and 2B4.
+
+52
+Reference ID: 4737091
+
+Study B-05.078: Assessment of the inhibition potential of human cytochrome P450 enzymes by
+the S1P1 receptor agonist ACT-128800 in vitro
+Objectives: to assess the potential of ACT-128800 for inhibition of the human cytochrome P450
+isoforms 1A2, 2A6, 2B6, 2C9, 2Cl 9, 2D6, 2El, and 3A4 using either human liver microsomes and
+isoform-specific marker reactions or recombinant cytochrome P450 enzymes.
+METHODS
+Inhibition of CYPs 1A2, 2A6, 2C9, 2D6, 2E1 and 3A4 was tested using human liver microsomes
+and isoform-specific marker transformations. Inhibition of CYP2B6 and 2C19 activities was
+done with the recombinant P450 enzymes expressed in baculovirus- infected Sf9 cells. Two
+different probes were used to assess the inhibitory potential of ACT-128800 on CYP3A4 activity,
+i.e. midazolam 1’-hydroxylation and testosterone 6β-hydroxylation. For the determination of
+IC50 values, all marker substrates were used at one single concentration around their
+respective Km values. Seven to eight different ACT-128800 concentrations up to 100 µM were
+used for inhibition. Metabolite formation was monitored using either 14C-radiodetection (CYPs
+2B6, 2C19), UV detection at an appropriate selective wavelength (CYPs 2A6 and 2E1), or LC­
+MS/MS (CYPs 1A2, 2C9, 2D6, and 3A4). IC50 values were determined for all P450 isoforms,
+where appropriate. In addition, the Ki values of ACT-128800 on the activities of CYPs 2C9, 2Cl 9,
+2D6 and 3A4 (midazolam 1’-hydroxylation) were determined using four different substrate
+concentrations. The Ki values were estimated by re-plotting the slopes derived from the
+Lineweaver-Burk plots against the ACT-128800 concentrations. Literature-known reference
+inhibitors for all P450 isoforms were run in parallel.
+RESULTS
+The overview on the marker transformations and the estimated IC50 and Ki values was
+presented in the Table below:
+Overview on the inhibition data of ACT-128800 on the different human cytochrome P450 isoforms
+
+In these in vitro experiments, ACT-128800 had only a weak effect on the activities of CYPs 1A2,
+2A6, 2B6 and 2E1. ACT-128800 elicited a moderate inhibition of CYP2D6 activity with IC50 and
+
+53
+Reference ID: 4737091
+
+Ki values of 36 µM and 10 µM, respectively. A similar effect of ACT-128800 was observed in
+both assays probing for CYP3A4 activity with IC50 values of 19 and 22 µM using midazolam or
+testosterone as substrates. A more significant inhibition was observed on both members of the
+CYP2C family, i.e. CYP2C9 and CYP2C19. IC50 and Ki values on CYP2C9-mediated diclofenac 4'­
+hydroxylation were 14 µM and 6.5 µM.
+In preclinical animal models, ACT-128800 is fully active at an oral dose of 3.0 mg/kg. Total and
+free peak plasma concentrations at this dose in the rat are around 750 nM and 5 nM [1],
+respectively, taking into account a plasma protein binding of 99.4%.
+CONCLUSIONS
+At clinically relevant concentrations, the potential of ACT-128800 to significantly inhibit the
+cytochrome P450-mediated clearance of co-administered drugs should be limited.
+
+54
+Reference ID: 4737091
+
+Study B-13.080: Assessment of the inhibition potential of the S1P1 receptor agonist ponesimod
+and its metabolite ACT-338375 on human cytochrome P450 and UGTs enzymes in vitro:
+complementary data
+Objectives: to assess the inhibition potential of ponesimod on the CYP2C8, CYP2D6, UGT1A1,
+UGT2B7, and the inhibition potential of metabolite ACT-338375 on the CYP1A2, CYP2A6,
+CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, CYP3A4, UGT1A1 and UGT2B7 using either human
+liver microsomes and isoform-specific marker reactions or recombinant enzymes.
+METHODS
+Inhibition of CYP2D6 and CYP2C8 for ponesimod, and of CYP1A2, CYP2A6, CYP2C8, CYP2C9,
+CYP2D6 and CYP3A4 for ACT-338375 was tested using human liver microsomes and P450
+isoform-specific marker transformations. Inhibition of CYP2B6 and CYP2C19 activity was
+assessed with recombinant P450 enzyme expressed in baculovirus-infected Sf9 cells. Two
+different probes, i.e. midazolam and testosterone, were used to assess the inhibitory potential
+of ACT-338375 on CYP3A4 activity. For the determination of IC50 values, all marker substrates
+were used at a single concentration around their respective Km values. Different ranges of
+ponesimod or ACT-338375B concentrations were used for the various inhibition assays and are
+described in detail in the Methods section above. Metabolite formation was monitored using
+LC-MS/MS. IC50 values were determined, where appropriate. In addition, the Ki value of
+ponesimod and ACT-338375 on CYP2C8 inhibition was determined using four different
+substrate concentrations.
+RESULTS
+The overview on the marker transformations and the estimated IC50 and Ki values of ACT­
+338375 was presented in the Table below:
+Overview on the inhibition data of ACT-338375 on the different human cytochrome P450 isoforms
+
+55
+Reference ID: 4737091
+
+ACT-338375 had only weak inhibitory effects on CYP1A2, CYP2D6, CYP2A6, CYP2B6, CYPC19 and
+CYP3A4 with IC50 values above 100 μM. More pronounced inhibition was observed on CYP2C8
+and CYP2C9 with IC50 values of 9.7 and 43 μM, respectively. The corresponding Ki value for
+CYP2C8 inhibition was 6.4 μM with mixed-type inhibition.
+Ponesimod had an inhibitory effect on CYP2C8 with an IC50 value of 28 μM. The corresponding
+Ki value for CYP2C8 inhibition was 19 μM with mixed-type inhibition as the mode of inhibition.
+The potential of ponesimod to cause changes in the enzymatic activity of CYP2C8 or CYP2D6,
+and of ACT-338375 on CYP3A4, CYP2C9 and CYP2D6 due to time-dependent inhibition was also
+investigated using human liver microsomes. The estimated IC50 and shift values in these
+inhibition experiments are summarized in Tables below:
+Overview on the time-dependent inhibition data of ponesimod on different human cytochrome P450
+isoforms
+
+Overview on the time-dependent inhibition data of ACT-338375 on different human cytochrome P450
+isoforms
+
+Based on these data, ponesimod is not a time-dependent inhibitor of CYP2C8 and CYP2D6, and
+ACT-338375 is not a time-dependent inhibitor of CYP3A4, CYP2C9 and CYP2D6 enzymes.
+The assessment of the inhibitory potential of ponesimod and ACT-338375 on the human
+UGT1A1 and UGT2B7 in vitro was performed using recombinant UGT enzymes expressed in
+
+56
+Reference ID: 4737091
+
+baculovirus-infected cells. The results of these inhibition experiments are summarized in Tables
+below:
+Overview on the inhibition data of ponesimod on UGT1A1 and UGT2B7
+
+Overview on the inhibition data of ACT-338375 on UGT1A1 and UGT2B7
+
+Reviewer’s comments:
+At clinically relevant dosing regimen (20 mg/day), estimated maximum unbound plasma
+concentrations were 0.0046 μM for ponesimod and 0.0011 μM for M13, respectively. These
+clinically relevant concentrations were significantly lower than the estimated IC50 values for
+the evaluated enzyme isoforms.
+CONCLUSIONS
+Ponesimod is not expected to demonstrate potential to inhibit the CYP2C8, CYP2D6, UGT1A1,
+UGT2B7 at clinically relevant concentrations.
+ACT-338375 is not expected to demonstrate potential to inhibit CYP1A2, CYP2A6, CYP2B6,
+CYP2C8, CYP2C9, CYP2C19, CYP2D6, CYP3A4, UGT1A1 and UGT2B7 at clinically relevant
+concentrations.
+
+57
+Reference ID: 4737091
+
+Study FK13536: An In Vitro Investigation of the Potential of JNJ-67896153 (Ponesimod) and JNJ­
+70051540 (M13 Metabolite) as Time Dependent Inhibitors of CYP1A2, 2B6, 2C8 and 2C19
+Objectives: To evaluate the potential of JNJ-67896153 and JNJ-70051540 to act as timedependent inhibitors (TDI) of cytochrome P450 (CYP450) 1A2, 2B6, 2C8 and 2C19 isoforms in
+pooled, mixed gender human liver microsomes.
+METHODS
+The potential of JNJ-67896153 (Ponesimod) and JNJ-70051540 (M13 metabolite) as timedependent inhibitors was assessed against 4 of the major human CYP450 isoforms (CYP1A2,
+2B6, 2C8 and 2C19) in pooled liver microsomes. Residual CYP-specific activity following 60­
+minute incubation of five concentrations of the test compounds (0.05 to 50 μM) with and
+without NADPH was normalized to the residual activity from the blank vehicle control. Any
+significant, NADPH-dependent reduction in activity over time could indicate possible
+irreversible (via reactive intermediate formation) or quasi-irreversible (via metabolic
+intermediate complex formation) inactivation of the CYP isoform. Positive control timedependent inhibitors and reversible inhibitors for each isoform were treated in the same way.
+RESULTS
+In samples pre-incubated with JNJ-67896153 or with JNJ-70051540, none of the isoforms were
+inhibited in an NADPH- and concentration-dependent fashion up to 50 μM (see the Table
+below).
+Apparent Partition Ratios (APR), Residual Activity Ratios and Percent Loss of Activity Following PreIncubation of JNJ-67896153, JNJ-70051540 and Control Compounds in Human Liver Microsomes with
+and without NADPH
+
+CONCLUSIONS
+JNJ-67896153 (Ponesimod) and JNJ-70051540 (M13 metabolite), incubated at concentrations
+up to 50 μM, were not found to be time-dependent inhibitors of CYP1A2, 2B6, 2C8 or 2C19.
+
+58
+Reference ID: 4737091
+
+Study FK13543: An In Vitro Investigation of the Potential of JNJ-67896153 (Ponesimod) and JNJ­
+70051540 (M13 Metabolite) to Inhibit CYP2J2
+Objectives: To evaluate the reversible inhibitory potentials of JNJ-67896153 and JNJ-70051540
+against the cytochrome P450 2J2 (CYP2J2) isoform in the human liver.
+METHODS
+JNJ-67896153 and JNJ-70051540 were incubated at 8 serially diluted concentrations of (0, 0.05,
+0.15, 0.5, 1.5, 5, 15 and 50 uM) in the presence of 1 μM astemizole in 0.1 mg/mL HLM, 10
+pmol/mL rhCYP3A4 or rhCYP2J2. The formation of O-desmethylastemizole (catalyzed by
+CYP2J2) and 6-hydroxyastemizole (catalyzed by CYP3A4) were monitored and IC50 values
+determined in each enzyme system. Danazol (CYP2J2 selective inhibitor) and ketoconazole were
+also incubated as controls.
+RESULTS
+As shown in the Table below, JNJ-67896153 was found to be a moderately strong inhibitor with
+IC50 values of 22 and 7.8 μM in HLM and rhCYP2J2, respectively. JNJ-70051540 was a weak
+CYP2J2 inhibitor with IC50 values greater than the highest incubation concentration tested, 50
+μM.
+IC50 values for the Inhibition of CYP2J2 and 3A4-Catalyzed Astemizole Metabolism by JNJ-67896153
+and JNJ-70051540 and Control Compounds in Human Liver Microsomes and Recombinant Human
+CYP2J2 and CYP3A4
+
+CONCLUSIONS
+JNJ-67896153 (Ponesimod) and JNJ-70051540 (M13 Metabolite) are not expected to
+demonstrate potential to inhibit CYP2J2.
+
+59
+Reference ID: 4737091
+
+Study B-08.466, B-17.003, FK13519: Assessment of the human cytochrome P450 induction
+potential of the S1P1 receptor agonist ponesimod and its metabolite ACT-338375B (M13) in
+vitro
+Objectives: To investigate the potential of the S1P1 receptor agonist ACT-128800 (ponesimod)
+to induce human CYP3A4, CYP2C9 and CYP1A2 transcriptional activation assay (B-08.466). To
+investigate the potential of the major metabolite of ponesimod, i.e. ACT-338375, to activate
+human PXR in a transcriptional activation assay in CV-1 cells. In addition, the capacity of
+ponesimod and ACT-338375 to induce human CYP1A2 and CYP2B6 mRNA was tested in primary
+human hepatocytes (B-17.003). To evaluate the effects of JNJ-67896153 (ponesimod) and JNJ­
+70051540 (M13) (0.01 to 30 μM) on the expression of CYP3A4 in cultured human hepatocytes.
+METHODS
+ACT-128800 and metabolite ACT-338375 were tested on its capacity to activate the human PXR
+(hPXR) receptor in a transcriptional activation assay. Changes in CYP1A2, CYP2B6, CYP3A4 and
+CYP2C9 mRNA production and enzyme activity were determined using primary human
+hepatocyte cultures. Changes in CYP1A2 activity were determined directly with primary human
+heptatocytes.
+RESULTS
+B-08.466
+Ponesimod (0.03-30 μM in two separate assays) activated hPXR from 1 to 10 μM by
+approximately 2 to 5-fold over vehicle control, with increases of 60-70% verses rifampicin
+(positive control) at 3 μM and similar to rifampicin at 10 μM.
+Ponesimod did not induce CYP2C9 (activity or mRNA) or CYP1A2 (activity only, mRNA not
+determined) in any of the three human hepatocyte cultures. CYP3A4 mRNA levels and enzyme
+activity were induced; maximum increases relative to vehicle were observed at the highest
+concentration of 10 μM and ranged from 2.3 to 6.2-fold (mRNA) and 1.86 to 3.22-fold (activity).
+This mRNA induction by 10 μM ponesimod was 23-51% relative to the maximum rifampicin
+mRNA induction. The effect was less pronounced at lower concentrations with 12-31% of
+maximum rifampicin response at 3 μM ponesimod, 9-21% at 1 μM, and 5-14% at 0.1 μM.
+B-17.003
+M13 (0.03-30 μM) activated hPXR in the CV-1 transactivation assay from 3 to 30 μM by 1.2 to
+1.8-fold over control, with increases 21-35% of rifampicin.
+CYP1A2 and 2B6 mRNA was not induced by ponesimod. CYP1A2 and 2B6 mRNA was induced by
+M13 greater than 2-fold in one of the three donors tested. For CYP1A2 mRNA, maximum fold
+induction was 2.67-fold at 10 μM, which translated into 3.6% of the positive control (100 μM
+omeprazole). For CYP2B6 mRNA, maximum fold induction was 2.36-fold at 1 μM, which
+translated into 12.6% of the positive control (3000 μM phenobarbital).
+FK13519
+Ponesimod resulted in concentration dependent increases in CYP3A4 mRNA expression.
+Increases were ≥2-fold starting at 1 μM, with maximum increases observed at concentrations of
+60
+Reference ID: 4737091
+
+10 or 20 uM (i.e., 13.2, 14.1, and 12.2-fold relative to the vehicle control [0.1% dimethyl
+sulfoxide] or 7.8%, 16.7%, and 10.6% relative to the positive control rifampicin). The calculated
+EC50 values for ponesimod were 3.11, 4.61, and 3.71 μM. The normalized Emax/EC50 ratios for
+ponesimod to those obtained with the same donor hepatocytes for rifampicin (i.e.,
+(Emax/EC50) ponesimod/(Emax/EC50) rifampicin) indicate a relative inductive effect for
+ponesimod of <3% compared to rifampicin for all three donor hepatocytes.
+M13 did not cause concentration-dependent increases in CYP3A4 mRNA expression in two of
+three donors, rather mRNA levels were generally <1 relative to vehicle control. In the third
+donor, ≥2-fold increases were observed at 20 and 30 μM (4.1 and 3.1-fold relative to the
+vehicle control or 2.0% and 1.3% relative to the positive control rifampicin, respectively).
+CONCLUSIONS
+Ponesimod and M13 metabolite are not expected to demonstrate potential to induce evaluated
+CYP enzyme activity at clinically relevant concentrations.
+
+61
+Reference ID: 4737091
+
+Study B-14.025, B-05.105, FK13541: An In Vitro Investigation of the Potential of JNJ-67896153
+(Ponesimod) and JNJ-70051540 (M13 Metabolite) to Inhibit human transport proteins
+Objectives: To evaluate the potential of ponesimod and its metabolite M13 to inhibit the
+human uptake transporters, organic anion transporting polypeptides (OATP) OATP1B1 and
+OATP1B3, organic anion transporters (OAT) OAT1 and OAT3, organic cation transporters (OCT)
+OCT1 and OCT2 and the human efflux transporters, multidrug and toxin extrusion (MATE)
+MATE1 and MATE2K, p-glycoprotein (P-gp), and breast cancer resistance protein (BCRP).
+METHODS
+OATP1B1, OATP1B3, OAT1 and OCT2 inhibition was tested in CHO cells expressing the
+respective transporter, whereas P-gp inhibition was tested in MDCKII-MDR1 cells. BCRP
+inhibition was assessed in Sf9 membrane vesicles expressing BCRP. Inhibition of OAT3, OCT1,
+MATE1, MATE2K were tested in HEK293 cells expressing the respective transporter. P-gp
+inhibition was also tested in Caco-2 cells (B-05.105). Time-dependent inhibition of OATP1B1
+and OATP1B3 were also evaluated in HEK293 cells (FK13541).
+For cellular assays non-specific binding of ponesimod and ACT-338375 was assessed in tissue
+culture plates containing CHO, HEK293 or MDCKII wild-type cells. Rapid equilibrium dialysis
+(RED) was used to determine the free fractions in membrane vesicles. In all cellular assays, 41­
+90 % of ponesimod and 84-98 % of ACT-338375 was recovered from incubation solutions.
+RESULTS
+The in vitro inhibition of human transport proteins by ponesimod and metabolite M13 is
+summarized in the Table below:
+Inhibition of Human Uptake and Efflux Transporters
+
+62
+Reference ID: 4737091
+
+The most potent in vitro inhibition of transporters by ponesimod or M13 were observed for MATE2K,
+OATP1B1, OATP1B3, and BCRP. Consideration of the inhibitory potencies in low local (systemic or
+hepatic inlet) unbound ponesimod or M13 concentrations indicates a lack of potential clinically
+significant interaction.
+
+CONCLUSIONS
+JNJ-67896153 (Ponesimod) and JNJ-70051540 (M13 Metabolite) are not expected to
+demonstrate potential to inhibit evaluated transporters at clinically relevant concentrations.
+
+63
+Reference ID: 4737091
+
+Study FK13518: An in vitro study to assess the transepithelial transport of JNJ-67896153
+(ponesimod) across Caco-2 cells.
+Objectives: To investigate the in vitro permeability of JNJ-67896153; to determine if JNJ­
+67896153 is a substrate of MDR1in Caco-2 cells.
+METHODS
+Test System
+Caco-2 cells were seeded 21-days before the experiment on 24-well cell culture inserts
+(Millicell®-PCF, 0.4 μm, 13 mm diameter, 0.7 cm2) at a density of 63000 cells/cm2. Cell culture
+media consisted of DMEM supplemented with 10% fetal calf serum, 1% non-essential amino
+acids, 1% L-glutamine and 100 U/mL penicillin/streptomycin. The media was replaced one day
+after seeding and subsequently every 2 to 3 days. At the day of the transport experiments (day
+22), the integrity of the cell monolayer in each insert was investigated by measuring TEER
+before the transport experiment and by determining the leakage of 14C-mannitol during the
+transport experiment.
+Non-specific binding of JNJ-53718678 was observed, the nominal starting incubation
+concentrations were corrected to effective concentrations by taking the measured values in the
+starting solution into account (0.553 μM, 1.78 μM, 6.33 μM and 22.2 μM concentrations were
+utilised instead of 1 μM, 3 μM, 10 μM and 30 μM, respectively).
+3H-atenolol and lower to those of 3HL- propranolol were used as reference compounds. The
+
+MDR1 inhibitor GF120918 was used to assess the efflux transport of JNJ-67896153.
+
+Data analysis was performed Using Microsoft’s Excel. Transport of the compound(s) across the
+monolayers was expressed as apparent permeability (Papp, cm/s) according to the following
+equation:
+
+Where:
+Papp BA: apparent permeability (cm/s) from the basolateral to apical side
+Papp AB: apparent permeability (cm/s) from the apical to basolateral side
+RESULTS
+For all concentrations tested, the bidirectional Papp values of JNJ-67896153 determined
+through Caco-2 cell monolayers were found to be higher to those of 3H-atenolol and lower to
+those of 3HL- propranolol, indicating that JNJ-67896153 is an intermediate permeable
+compound in Caco-2 cells (see the Table below).
+
+64
+Reference ID: 4737091
+
+Transepithelial transport of JNJ-67896153 and reference compounds in Caco2 cells (n=3) after 120
+min.
+
+At tested effective concentrations of 0.533-22.2 μM, Papp values of JNJ-67896153 in A-B and B­
+A directions ranged from 7.55-12.7 and 4.66-5.48 x 10-6 cm/s, respectively, and efflux ratios
+ranged from 0.42-0.62. The presence of GF120918 did not significantly influence the
+permeability of JNJ-67896153 (Efflux ratios of 0.42 to 0.54 (0.553 μM); 0.45 to 0.47 (1.78 μM);
+0.62 to 0.52 (6.33 μM) and 0.57 to 0.48 (22.2 μM)), indicating that JNJ-67896153 is not an
+MDR1 substrate in Caco-2 cells under the conditions tested.
+CONCLUSIONS
+JNJ-67896153 is an intermediate permeable compound in Caco-2 cells. JNJ-67896153 is not an
+MDR1 substrate in Caco-2 cells under the conditions tested.
+
+65
+Reference ID: 4737091
+
+4.4-2. IN VITRO STUDIES PERTINENT TO PK USING HUMAN BIOMATERIALS
+4.4-2.2 Protein Binding
+Study B-05.075: In vitro binding to plasma protein and plasma/blood cell partitioning in rat, dog
+and man
+Objective: To determine the extent of in vitro binding of ACT-128800 to plasma proteins in rat,
+dog and man.
+METHODS
+Non-specific binding and equilibration time were determined by equilibrium dialysis at nominal
+concentrations of 100 and 500 ng/mL over 0, 0.5, 1, 2, 4 and 6 hours. The equilibration time for
+ACT-128800 was selected to be 4 hours, and subsequent plasma protein binding experiments
+were conducted for this length of time.
+Plasma protein binding was determined by equilibrium dialysis at nominal concentrations of
+100, 500, 3,000, 20,000, 100,000 and 200,000 ng/mL. Plasma/blood cell partitioning was
+determined at nominal concentrations of 500 and 20,000 ng/mL.
+RESULTS
+The results of ACT-128800 plasma protein binding, over a range of concentrations, to rat, dog
+and human plasma proteins are presented in Table below:
+Mean recovery of radioactivity and in vitro binding of ACT-128800 to rat, dog and human plasma
+proteins following incubation at ca 37°C for 4 hours
+
+66
+Reference ID: 4737091
+
+The mean binding of ACT-128800 to rat plasma proteins was 99.4 ± 0.1%. The mean binding of
+ACT-128800 to dog plasma proteins was 99.5± 0.2%. In human, the mean binding of ACT­
+128800 to plasma proteins was 99.6% ± 0.1%.
+The extent of partitioning of ACT-128800, over a range of concentrations, to rat, dog and
+human blood cells and the derived blood/plasma ratios are presented in the following Table:
+Mean in vitro blood/plasma partitioning of ACT-128800 in rat, dog and human blood following
+incubation at ca 37°C for 120 minutes at 500 and 20,000 ng/mL
+
+The mean percent association of radioactivity with red blood cells across the concentration
+range was 26.5%, 18.2% and 21.5% in rat, dog and human, respectively. The corresponding
+CONCLUSIONS
+ACT-128800 was very highly bound (>99%) to rat, dog and human plasma proteins. The mean
+blood/plasma ratios were 0.73, 0.54 and 0.68, in rat, dog and human, respectively.
+
+67
+Reference ID: 4737091
+
+Study FK13292: Assessment of the Binding of JNJ-67896153 (Ponesimod) to Human Albumin
+and alpha 1-Acid Glycoprotein (AAG)
+METHODS
+Human serum albumin and alpha-1-acid glycoprotein (AAG) were prepared at final
+concentrations of 4% and 0.14%, respectively in Sorenson's buffer (0.067M), which were then
+spiked with JNJ-67896153 (20, 100, and 500 ng/mL) or controls (1μM). Binding studies were
+performed in triplicates using classical equilibrium dialyzer (DIANORM) at 37oC for 4 hours (JNJ­
+67896153 and warfarin) or 8 hours (UCN-01). Samples were analyzed by LC-MS/MS against
+calibration standards in each treated matrix. Binding results are expressed as mean percent
+free and percent bound (± standard deviation).
+RESULTS
+Mean percent free and bound values (± standard deviation) of JNJ-67896153 and the control
+compounds are summarized in the Table below
+Binding of JNJ-67896153 and Controls to Human Albumin (4%) and AAG (0.14%) using Classical
+Equilibrium Dialysis (Dianorm)
+
+Mean percent binding values of JNJ-67896153 (20, 100, and 500 ng/mL) in 4% human albumin
+were 98.73%, 98.77%, and 98.80%, respectively. Mean percent binding values of JNJ-67896153
+(20, 100, and 500 ng/mL) in 0.14% human AAG were 97.35, 94.84%, and 95.53%, respectively.
+CONCLUSIONS
+JNJ-67896153 (Ponesimod) was highly bound (>95%) to human albumin and AAG.
+
+68
+Reference ID: 4737091
+
+4.4-3. HUMAN PK STUDIES
+4.4-3.1 Healthy Subject PK
+Study AC-058-106: Single-center, open-label study with 14C-labeled ACT-128800 (ponesimod) to
+investigate the mass balance, pharmacokinetics, and metabolism following single oral
+administration to healthy male subjects
+Objectives:
+To investigate the rate and routes of elimination of ACT-128800, and the mass balance in
+urine and feces
+• To investigate the pharmacokinetics (PK) of total radioactivity in whole blood and plasma
+• To investigate the PK of ACT-128800 in plasma
+• To investigate the PK of total radioactivity in CO2 from expired air
+• To identify and quantify ACT-128800 metabolites in plasma, urine, and feces
+• To evaluate the safety and tolerability of a single oral dose of 40 mg 14C-labeled ACT-128800
+in healthy male subjects
+Study design: A single-center, open-label, single-dose Phase 1 study. The maximum duration of
+the study for each subject was between 32–42 days (inclusive of screening).
+•
+
+Number of patients: The planned and actual sample size was six subjects.
+Main criteria for inclusion/exclusion:
+Healthy male subjects aged 45 to 65 years (inclusive) with a heart rate (HR) of 55 to 90 bpm at
+screening were enrolled.
+Subjects with lymphopenia (< 1,100 lymphocytes/μL) or history of clinically relevant
+constipation in the 4-week period prior to screening were excluded from the study.).
+Dose and mode of administration: Subjects received a single oral dose of 40 mg 14C-labeled
+ACT-128800 (one capsule).
+All administered capsules were from the same batch:
+Batch Number: 302622; Retest date: April 2009.
+Sample collection:
+Blood: Pre-dose (0), 30, 60, 90, 150mins, 4, 6, 10, 16, 24, 36, 48, 72, 96, 120, 144, 168, 192,
+216, 240 h post-dose.
+• Urine: 0–8 hours post-dose, 8–16 hours post-dose, and 16–24 hours post-dose (Day 1).
+From Day 2 to morning of Day 11, urine was collected in a 24-hour interval.
+• Feces: Between Day −3 and Day −1 for baseline feces sample, and all complete feces
+portions from Day 1 (post-dose) to Day 10 (inclusive).
+• Expired Air Sampling: Pre-dose (0), 30, 60, 90, 150mins, 4, 6, 10, 16, 24, 36, 48, 72, 96, 120,
+144, 168, 192, 216, 240 h post-dose.
+Analytes, sample matrices, and methods:
+•
+
+69
+Reference ID: 4737091
+
+The radioactivity was determined using a PerkinElmer scintillation counter (TriCarb 2800TR). The
+measurements were performed for a counting time of 10 minutes.
+The LOQ was 10 DPM for plasma, urine, feces, and expired CO2 and 20 DPM for whole blood.
+Due to an insufficient volume of one plasma sample, a total of 139 human plasma samples were
+analyzed for ACT-128800 using LC-MS/MS. The LOQ was 1.00 ng/mL.
+Pooled plasma, feces, and urine samples were prepared and evaluated for ACT-128800 and radiolabeled
+metabolites. The LOQ was 15 cpm/peak area for plasma and 25 cpm/peak area for urine and feces.
+
+PK evaluations:
+PK of total radioactivity in urine and feces
+PK of 14CO2 in expired air
+Cmax, tmax, t½, AUC0-t, and AUC0-inf of ACT-128800 in plasma derived by noncompartmental analysis of the plasma concentration-time data
+• Profiling, identification, and quantification of metabolites in plasma, urine, and feces
+PD evaluations:
+
+•
+•
+•
+
+Total lymphocyte count and percent change from baseline.
+RESULTS
+Excretion of radioactivity:
+The cumulative recovery of total radioactivity expressed as a percent of the administered dose
+(mass balance) in the urine and feces samples is summarized in the following table:
+
+The majority of the radioactivity was excreted in the feces, ranging from 57.3%–79.6% of the
+administered radioactive dose. In urine, the recovered radioactivity accounted for 10.3–18.4%
+of the total administered radioactive dose.
+The mean concentration of 14C radioactivity in CO2 from expired air was relatively low. The
+total amount (semi-quantitative estimation) of radioactivity recovered in expired CO2 ranged
+from 0.6–1.9% of the administered dose.
+Metabolism:
+Metabolite profiles in plasma
+
+70
+Reference ID: 4737091
+
+The concentration-time profiles for the two ACT-128800 metabolites found in plasma, M12
+(ACT-204426) and M13 (ACT-338375), and their relative radioactivity are shown in the Figure
+below:
+
+Unchanged parent drug (ACT-128800) was the major component detected in all pooled plasma
+samples. Metabolites M12 (ACT-204426) and M13 (ACT-338375) were also detected and
+quantified (see the Table below).
+PK parameters for ACT-128800, M12, and M13 in the plasma pools, Per-protocol set
+
+Based on AUC0-t values, exposure to M12, and M13, respectively, correspond to 5.3% and
+24.2% of the exposure to ACT-128800. Using the more conservative AUC0-inf values, the
+percentages obtained for M12 and M13 are 12.3% and 38.9%, respectively. As a proportion of
+the total drug-related radioactive exposure (AUC0-inf), ACT-128800 corresponds to 66.1%, M12
+to 8.1%, and M13 to 25.7%.
+Reviewer’s comments:
+Clinical multiple ascending dose (MAD) study (AC-058-109) suggested that M12 represent only
+6.1% and M13 represent 19.7% of total drug-related exposure.
+
+71
+Reference ID: 4737091
+
+Metabolites in urine
+In human urine, 23 metabolites of ACT-128800 were detected and 12 of them were identified.
+(b) (4)
+The major component was an unidentified peak ‘f’ (RT:
+minutes), representing 7% of the
+radioactivity recovered in urine. In addition, seven identified metabolites (including M12) and
+six unidentified peaks were detected with an abundance between 1–5% of the total
+radioactivity recovered in urine. All other detected metabolites (including M13) accounted for
+less than 1% of the urinary radioactivity. Unchanged ACT-128800 was not found in urine
+samples.
+Metabolites in feces
+In human feces, 21 metabolites and the parent drug were quantified, and all but one were
+identified. Unchanged ACT-128800 and metabolite M12 were the major components detected,
+representing approximately 26% and 22% of the radioactivity recovered in feces, respectively.
+In addition, 12 identified metabolites were detected with an abundance between 1–5% of the
+radioactivity recovered in feces. All other metabolites (seven) accounted for less than 1% of the
+fecal radioactivity.
+ACT-128800 and its metabolites (accounting for at least 1% of the radioactivity) identified in all
+evaluated biological matrices (plasma, feces, and urine) are summarized in the Table below.
+
+72
+Reference ID: 4737091
+
+Pharmacodynamic:
+Following administration of 14C-ACT-128800, mean absolute lymphocyte counts declined
+rapidly, from a baseline value of 1.60 ± 0.16 × 109/L to a nadir of 0.51 ± 0.20 × 109/L at 6 h after
+dosing (range: 0.34 to 0.86 × 109/L).
+Safety:
+No deaths or SAEs were reported. All six subjects enrolled completed the study. Headache was
+the most frequently reported AE (83.3%), followed by dizziness (50%) and nasopharyngitis
+(33.3%). All AEs reported in this study were generally consistent with the known AE profile of
+ACT-128800.
+Mean and median HR as measured by ECG decreased after administration of ACT-128800, with
+a maximal mean reduction of 25.7 bpm recorded at 2.5 h after drug administration (baseline:
+67.2 bpm). No clinically relevant changes in mean or median PR and QRS values and no QTcB or
+QTcF prolongations greater than 450 ms were observed. Sinus bradycardia was the most
+frequently observed ECG abnormality.
+CONCLUSIONS
+•
+
+•
+
+ACT-128800 and its metabolites are mainly excreted in the feces (recovery: 57.3–79.6% of
+the radioactive dose) and to a lesser extent in the urine (recovery 10.3–18.4% of the
+radioactive dose). M13 was the main metabolite in plasma.
+The observed safety profile was similar to the known profile of ACT-128800 with no new or
+unexpected safety findings in this study.
+
+73
+Reference ID: 4737091
+
+Study AC-058-101: Double-blind, placebo-controlled, randomized, single ascending dose study
+to investigate the tolerability, safety, pharmacokinetics (including food interaction), and
+pharmacodynamics of ACT-128800 (ponesimod) in healthy male subjects
+A brief overview of some essential components of the study design is given below:
+Study Design
+
+Single center, double-blind, placebo-controlled, randomized, ascending
+dose, Phase I study.
+
+Study
+Population
+
+48 subjects were included (6 dose groups, 6 subjects on active drug
+and 2 subjects on placebo for each dose group) and analyzed.
+Age: 21–47 years
+Weight: 64–98 kg
+Race: Caucasian
+
+Dosage and
+
+1, 3, 8, 20, 50, and 75 mg of ACT-128800, oral administration, one
+Administration single administration. For the 20-mg dose group, the drug was
+administered twice; once in the fasted and once in the fed condition.
+The subjects will remain fasted from 10 hours prior to 4 h after drug
+intake (except 20 mg dose group, fed). The drug should be
+administered with 240 ml of water.
+Batch No.
+ACT-128800: 1 mg (PD05153,
+25 mg (PD05155,
+Placebo: PD05152,
+PK Sampling:
+
+(b) (4)
+
+5 mg (PD05154,
+
+(b) (4)
+
+(b) (4)
+
+(b) (4)
+
+Blood:
+Pre-dose, 0.5, 1.0, 1.5, 2.5, 4, 6, 10, 16, 24, 36 and 48 h post dose
+Urine:
+Prior to dosage, and 0-48h post-dose
+
+PD Sampling:
+
+Lymphocyte counts: Pre-dose, 0.5, 1.0, 2.5, 4, 6, 10, 16, 24, 36 and 48 h
+post dose.
+
+74
+Reference ID: 4737091
+
+Analysis
+
+Method: LC/MS/MS
+
+(Plasma)
+
+ACT-128800 (Ponesimod)
+LLOQ: 1 ng/mL
+Linear range: 1-2000 ng/mL
+Inter-batch Precision (%CV): 0.2-5.2%
+Inter-batch accuracy: -12.0 to -3.5%
+
+PK
+Assessment
+
+The following PK parameters for ACT-128800 were determined from
+plasma samples using noncompartmental methods: AUC0-t, AUC0-∞,
+Cmax, tmax, tlag, and t½. Concentrations of ACT-128800 in urine were
+determined (50-mg dose group).
+
+PD
+Assessment
+
+Absolute count-time profiles of lymphocytes, AUEC, time to nadir
+lymphocyte count, and nadir lymphocyte count.
+
+Safety
+Assessment
+
+AE, SAE, laboratory abnormalities, ECG, neurological assessments (75­
+mg dose group only), pulmonary tests (75 mg)
+
+RESULTS
+Pharmacokinetics
+Mean plasma concentration versus time profiles of ACT-128800 after single ascending doses (1­
+75 mg) are shown in the following figure:
+Arithmetic mean plasma concentration-time profiles of ACT-128800 in healthy subjects (n = 6 per
+group) after administration of a single dose of 1, 3, 8, 20, 50 or 75 mg of ACT-128800 in the fasted
+condition
+
+75
+Reference ID: 4737091
+
+Mean plasma concentration versus time profiles of ACT-128800 in the fed versus the fasted
+condition (20 mg) are shown in the figure below:
+Arithmetic mean plasma concentration-time profiles of ACT-128800 in healthy subjects (n = 6) after
+administration of a single dose of 20 mg of ACT-128800 in the fed and fasted conditions (linear scale)
+
+The pharmacokinetic parameters of ACT-128800 are given in the Table below:
+Plasma pharmacokinetic parameters of ACT-128800 in healthy subjects after administration of a single
+dose of 1, 3, 8, 20, 50, and 75 mg of ACT-128800 in the fasted condition
+
+ACT-128800 could be detected in plasma in all dose groups. Under fasting conditions, ACT­
+128800 was absorbed rapidly, with median tmax varying from 2 to 4 hr. Half-lives (geometric
+means) varied from 21.7 to 33.4 hr in the different dose groups. After single-dose
+
+76
+Reference ID: 4737091
+
+administration, the pharmacokinetics of ACT-128800 showed a dose-proportional increase for
+Cmax and AUC0–∞. Cmax and AUC0-∞ were slightly higher and tmax longer in the fed
+condition, but not considered as different to a clinically relevant extent.
+Urine samples from the 50-mg dose group were analyzed for ACT-128800. The amount of
+unchanged ACT-128800 in urine collected over 48 hr was negligible (0.05%) and was therefore
+not determined in the other dose groups.
+Pharmacodynamics
+The graphical presentations of the absolute lymphocyte counts mean values over 48 hr for each
+dose group compared to placebo are displayed in the following figure:
+Time course of absolute lymphocyte counts (mean) following administration of placebo or ACT­
+128800
+
+A dose-dependent reduction in lymphocytes was observed after the administration of ACT­
+128800 at doses of 8 mg and higher. The reduction of circulating lymphocytes was most
+pronounced during the first 6 hours after administration. With the highest dose, 96 hr after
+study drug treatment, the effects on lymphocytes were comparable with the placebo-treated
+subjects.
+Safety
+In subjects receiving ACT-128800, no SAEs or severe AEs were reported. Most AEs were of mild
+intensity, with AEs of moderate intensity reported only at doses of 20 mg of ACT-128800 or
+higher. The number of AEs was apparently dose-related.
+
+77
+Reference ID: 4737091
+
+Starting with the dose of 8 mg, transient HR reduction was observed with the maximal effect at
+2 hr 30 min post-dose, (mean reduction between 15 and 24 bpm [8–75 mg]) and with mean HR
+returning to over 50 bpm 6 to 10 hr post-dose. The maximal reduction in HR (33 bpm) and the
+lowest HR (31 bpm) were measured in two subjects in the 50-mg dose group (maximal HR
+reduction in placebo: 31 bpm and lowest HR: 43 bpm).
+There were no apparent drug-related effects on clinical chemistry or coagulation parameters,
+with the exception of a transient CRP increase in the 50- and 75-mg dose groups.
+Overall, ACT-128800 was well-tolerated after single oral doses of 1–75 mg in healthy male
+volunteers.
+CONCLUSIONS
+•
+
+•
+•
+
+•
+
+ACT-128800 was rapidly absorbed (median tmax varied between 2 and 4 hr) and the mean
+terminal half-life varied between 21.7 and 33.4 hr. Drug exposure (AUC0-inf and Cmax) was
+shown to be dose-proportional.
+The first effects of the reduction of the peripheral lymphocytes were observed with a dose
+of 8 mg, and clear effects were observed with doses of 20 mg and above.
+Starting with the dose of 8 mg, a transient HR reduction was observed in all subjects treated
+with ACT-128800, with the maximal effect at 2 hr 30 min (mean reduction between 15 and
+24 bpm).
+Single ascending doses of 1–75 mg ACT-128800 were well tolerated in healthy male
+volunteers.
+
+78
+Reference ID: 4737091
+
+Study AC-058-102: Single-center, double-blind, placebo-controlled, randomized, ascending
+multiple dose study to investigate the tolerability, safety, pharmacokinetics, and
+pharmacodynamics of ACT-128800 in healthy male and female subjects.
+A brief overview of some essential components of the study design is given below:
+Study Design
+
+single-center, double-blind, placebo controlled, randomized, ascending
+multiple-dose.
+• In Part A, ACT-128800 was administered orally once daily for 7 days
+at doses of 5, 10, or 20 mg.
+• In Part B, ACT-128800 was administered orally once daily within an
+up-titration dosing scheme: 4 days at 10 mg, 4 days at 20 mg, and
+then 7 days at 40 mg.
+
+Study
+Population
+
+47 subjects were included (30 subjects in part A, 17 subjects in part B)
+and analyzed.
+
+Dosage and
+
+Part A:
+
+Administration ACT-128800
+capsules 5 mg (1 capsule of 5 mg), 10 mg (2
+capsules of 5 mg), or 20 mg (4 capsules of 5 mg) once per day/oral
+dosing/7 days.
+(b) (4)
+
+Part B:
+ACT-128800
+capsules/up-titration: 4 days at 10 mg (2
+capsules of 5 mg) once per day, 4 days at 20 mg (4 capsules of 5 mg)
+once per day, 7 days at 40 mg once per day (3 capsules of 5 mg and 1
+capsule of 25 mg)/oral dosing/15 days.
+(b) (4)
+
+The batch numbers
+Placebo: Batch No. PD05152 / Retest date:
+
+(b) (4)
+
+Part A:
+ACT-128800 5 mg capsules
+Batch No. PD05154 / Retest date:
+
+(b) (4)
+
+Part B:
+ACT-128800 5 mg capsules
+Batch No. PD05154 / Retest date:
+ACT-128800 25 mg capsules
+
+79
+Reference ID: 4737091
+
+(b) (4)
+
+Batch No. PD05155 / Retest date:
+Analysis
+
+Method: LC/MS/MS
+
+(Plasma)
+
+ACT-128800 (Ponesimod)
+
+(b) (4)
+
+LLOQ: 1 ng/mL
+Linear range: 1-2000 ng/mL
+Inter-batch Precision (%CV): 5.1-7.2 %
+Inter-batch accuracy: -2.5 to 1.0 %
+PK
+Assessment
+
+Part A: Plasma concentration-time profiles of ACT-128800 following
+drug administration on Days 1 and 7 and the following
+pharmacokinetic parameters derived by non-compartmental analysis:
+Cmax, tmax, t½, AUC0–24; accumulation factor (R).
+Part B: Plasma concentration-time profiles of ACT-128800 following
+drug administration on Days 1, 5, 9, and 15 and the following
+pharmacokinetic parameters derived by non-compartmental analysis:
+Cmax, tmax, t½ (Day 15 only), and AUC0–24. Trough levels were
+determined to assess attainment of steady-state conditions.
+Dose-proportionality was investigated at steady-state on Day 7 for 5,
+10, and 20 mg (Part A) and Day 15 (40 mg, Part B).
+
+PD
+Assessment
+
+Absolute count-time profiles of lymphocytes, AUEC0-24, time to nadir
+lymphocyte count, and nadir lymphocyte count.
+
+Safety
+Assessment
+
+AE, SAE, laboratory abnormalities, ECG, pulmonary function, physical
+and neurological examination abnormalities
+
+RESULTS
+Pharmacokinetics
+Part A
+A graphical presentation of the mean plasma concentration-time course of ACT-128800 for all
+dose groups is given in the following figure:
+
+80
+Reference ID: 4737091
+
+Graphical presentation of the arithmetic mean plasma concentration (+ SD) of ACT-128800 for the
+dose groups 5, 10, and 20 mg over time (semilogarithmic, n = 8 per group)
+
+A summary of all PK parameters is provided in Tables below (Days 1 and 7):
+
+The maximum concentration was reached between 2.5 and 4.0 h (median) and the half-life
+varied between 30.9 and 32.7 h (geometric mean). The accumulation factors ranged from 2.0 to
+2.6. The PK of ponesimod were similar for female and male subjects in all dose groups.
+Part B
+A graphical presentation of the plasma concentration-time course of ACT-128800 in the 40 mg
+dose group is given in the following figure:
+
+81
+Reference ID: 4737091
+
+Graphical presentation of the arithmetic mean plasma concentration (+ SD) of ACT-128800 for the 40
+mg dose group over time (semilogarithmic, n = 11)
+
+The plasma concentrations of ponesimod reached close to steady-state levels before each uptitration (Day 5 and Day 9 pre-dose, with 10 and 20 mg of ponesimod, respectively). Steadystate concentration levels were reached starting on Day 13 with the dose of 40 mg.
+The PK parameters of ponesimod in Part B are summarized in the Table below:
+Summary of pharmacokinetic parameters on Days 1, 5, 9, and 15
+
+The mean t1/2 was 33.5 hours and the mean Cmax was reached at 2.5 hours on Day 15. PK
+were comparable between female and male subjects.
+Dose proportionality and sex effect were tested using linear models with and without
+interactions. Regression lines from the linear models plotted together with the log-transformed
+values for Cmax and AUC0-24h showed a good fit of the linear models.
+The results of the models without interaction are detailed below:
+
+82
+Reference ID: 4737091
+
+Dose proportionality of ACT-128800 for Cmax and AUC0-24
+
+The lower confidence interval limits were above 1.00 suggesting that the pharmacokinetic
+parameters Cmax and AUC0-24 and increased more than proportionally with dose (5-40 mg).
+Pharmacodynamics
+Part A
+The absolute total lymphocyte counts over time from Day 1 to Day 13 at trough are displayed in
+the following figure:
+Mean total absolute lymphocyte counts at trough from Day 1 to Day 13 (Part A)
+
+Ponesimod induced a dose-dependent reduction of the peripheral blood lymphocyte count
+from a dose of 5 mg onwards, with the greatest reduction observed 6 hours post dose. Doserelated effects on the total lymphocyte count were observed at both peak and trough.
+In Part B, on Day 15 at the dose of 40 mg, the maximal mean lymphocyte reduction from
+baseline was attained at 6 hours post-dose (81%, to 19% of baseline value). On that day, the
+mean total ymphocyte reduction from baseline at trough was 70% (30% of baseline value).
+Total lymphocyte counts increased after the end of the treatment, returning to within normal
+range.
+
+83
+Reference ID: 4737091
+
+Safety
+ACT-128800 was well tolerated except for mild to moderate AEs belonging to the three groups
+of respiratory, cardiovascular, and nervous systems. Two subjects were discontinued from
+study drug treatment due to AEs during the 20 mg up-titration period (edema mouth and
+granulocyte shift to the left) in Part B.
+Dose-dependent mean and median HR reductions from baseline was observed in Part A dose
+groups, predominantly on Day 1. The peak effect was reached at 2.5 h after dosing on Day 1 in
+all dose groups. The ECG HR reductions were largest in the 20 mg dose group (mean decrease from
+baseline of 22 ± 6 bpm). The effect was still present at 4h post-dose and resolved 6–10 hours
+after dosing in all dose groups.
+With the up-titration regimen used in Part B, the maximum ACT-128800 HR reducing effect
+showed a clear attenuation, with the mean change from baseline being 14 bpm for the 10 mg
+dose level, 9 bpm for the 20 mg dose level, and 4 bpm for the 40 mg dosing period. In addition,
+a gradual recovery of mean HR to baseline values could be identified during the treatment
+period at each dose level.
+Dose-dependent disturbances of cardiac rhythm with sinus bradycardia and slowing of the AV
+conduction as reflected in AV-block were noticed at all dose levels and were most frequent at
+the 20 mg dose level of Part A. All cases of bradycardia and AV-block were transient did not
+require treatment.
+CONCLUSIONS
+Ponesimod was rapidly absorbed and t1/2 was approximately 32 hours. The accumulation
+factor of the drug (approximately 2-fold) was as expected. The increase was slightly more than
+dose-proportional for Cmax and AUC0-24 at doses of 5 to 40 mg. The PK profile was evaluated
+in female and male subjects and the parameters were similar in both sexes.
+HR reductions were dose-dependent and were observed mainly after the first dose in Part A. At
+10 and 20 mg, the effects on HR decreased with repeated administration of ACT-128800,
+indicating de-sensitization. The up-titration regimen implemented in Part B successfully
+reduced the expected effects on HR of the 20- and 40-mg doses of ACT-128800.
+Dose-related PD effects on total lymphocyte counts were observed.
+Treatment with ACT-128800 (dosing regimens evaluated in part A and B) was well tolerated and
+no severe or serious AEs were reported.
+
+84
+Reference ID: 4737091
+
+Study AC-058-115: Single-center, double-blind, placebo-controlled, randomized, two-way
+crossover, multiple-dose study to investigate the effects on heart rate and rhythm of two uptitration regimens of ponesimod in healthy male and female subjects.
+Objectives: To investigate the effects of two different up-titration regimens of ponesimod on
+heart rate (HR) and rhythm. To evaluate the PK, PD, tolerability and safety of multiple-dose
+ponesimod during the up-titration regimens.
+A brief overview of some essential components of the study design is given below:
+Study Design
+
+Double-blind, placebo-controlled, randomized, two-way crossover,
+multiple-dose up-titration
+
+Study
+Population
+
+N= 32 recruited and analyzed
+Age: 18-60 years (mean 34 years)
+Gender: 15 males (46.9%), 17 females (53.1%)
+Weight: 54.9- 92.2kg (mean 73.4kg)
+Race: 29 White (90.6%), 2 African American (6.3%) and 1 Asian (3.1%)
+
+Dosage and
+Up-titration regimen A – the treatment started with placebo on Day 1,
+Administration followed by ponesimod or matching placebo once daily (o.d.): Day 1:
+placebo; Day 2–3: 2 mg ponesimod or placebo; Day 4–5: 3 mg
+ponesimod or placebo; Day 6–7: 4 mg ponesimod or placebo; Day 8: 5
+mg ponesimod or placebo; Day 9: 6 mg ponesimod or placebo; Day 10:
+7 mg ponesimod or placebo; Day 11: 8 mg ponesimod or placebo; Day
+12: 9 mg ponesimod or placebo; Day 13–14: 10 mg ponesimod or
+placebo; Day 15: 20 mg ponesimod or placebo.
+Up-titration regimen B – the treatment started with placebo on Day 1,
+followed by ponesimod or matching placebo (o.d.]): Day 1: placebo;
+Day 2–8: 10 mg ponesimod or placebo; Day 9: 20 mg ponesimod or
+placebo; Day 10–15: placebo.
+Ponesimod: 1 mg (PD12116,
+); 5 mg (PD11199,
+(b) (4)
+(b) (4)
+10 mg (PD11058,
+20 mg (PD11059,
+(b) (4)
+Matching placebo: (batch number: PD11057, retest date:
+(b) (4)
+
+(b) (4)
+
+The study drug was given with 240 mL of water in the morning to
+subjects in the sitting position.
+There was a washout period of 12 to 14 days between the last study
+drug administration.
+
+85
+Reference ID: 4737091
+
+Analysis
+
+Method: LC/MS/MS
+
+(Plasma)
+
+ACT-128800 (Ponesimod)
+LLOQ: 1 ng/mL
+Linear range: 1-1000 ng/mL
+Inter-batch Precision (%CV): 5.8-6.8%
+Inter-batch accuracy: -2.5 – 3.8 %
+
+PK
+Assessment
+
+Mean trough (pre-dose) and 3 h post-dose concentrations of
+ponesimod on each study day.
+
+PD
+Assessment
+
+Cardiodynamics variables derived from both 12-lead ECG and Holter,
+including HR, PR intervals, Mean hourly HR, HRnadir, time to HRnadir,
+and Emax.
+
+Safety
+Assessment
+
+Adverse event (AE), serious AE (SAE), vital signs, 12-lead ECG variables,
+clinical laboratory tests.
+
+RESULTS
+Pharmacokinetic Results
+The concentration-time profiles of ponesimod are shown in showed in the figure below:
+Arithmetic mean (± SD) plasma concentration-time profiles of ponesimod (n = 24)
+
+86
+Reference ID: 4737091
+
+In up-titration regimen A, trough and 3 h plasma concentrations steadily increased and on Day
+14 following administration of the second dose of 10 mg were similar to those achieved during
+up-titration regimen B at steady-state with the same dose (regimen A: Day 14, 3h: 93.1 ng/mL,
+regimen B: Day 6, 3h: 99.7 ng/mL).
+Pharmacodynamic Results
+Effects on heart rate
+The first dose of ponesimod (Day 2) resulted in a transient decrease in mean hourly HR from
+baseline as assessed by Holter. The decrease was greater with treatment regimen B (maximum
+mean decreases: 12 bpm) than with treatment regimen A (6 bpm) and placebo (0 bpm). These
+maximum mean decreases occurred 2–3 h after study drug administration and mean hourly HR
+had returned to pre-dose values by 4–5 h after administration. On Day 3, the decrease in mean
+hourly HR from pre-dose on Day 3 induced by ponesimod was similar or smaller when
+compared to Day 2, and there was no longer a difference between regimen A and regimen B
+(see Figure below).
+
+87
+Reference ID: 4737091
+
+Mean (SD) hourly Holter HR data over Days 2 to 3
+
+For both treatment regimens, the pre-dose mean hourly HR values on Day 3 and later were 5 to
+10 bpm lower when compared to baseline and remained lower during the complete ponesimod
+treatment period. HR < 45 bpm and decrease from baseline of > 20 bpm following the first
+ponesimod dose on Day 2 occurred more frequently during treatment regimen B than
+treatment regimen A. During treatment regimen A and placebo, HR values of interest occurred
+on all study days with similar frequency. In contrast, in treatment regimen B these values, most
+notably values of HR < 45 bpm, occurred more often on the first 4 days of ponesimod
+treatment.
+
+88
+Reference ID: 4737091
+
+In 3/24 (12.5%, 20 events), 4/24 (16.7%, 58 events), and 0/16 subjects in treatment regimen A,
+B, and in the placebo treatment group (both periods pooled together), respectively, a value for
+HR < 45 bpm was measured on 12-lead ECGs recorded throughout the study (mostly in male
+subjects). On recorded ECGs, 2/24 (8.3%, 15 events), 2/24 (8.3%, 15 events), and 1/16 (6.3%,
+127 events) subjects in treatment regimen A, B, and the placebo treatment group, respectively,
+experienced a decrease from baseline in HR of > 20 bpm.
+Effects on PR interval
+In 7/24 (29.2%, 221 events), 7/24 (29.2%, 258 events), and 4/16 (25.0%, 112 events) subjects
+during treatment regimen A, B, and in the placebo treatment group, respectively, a value for PR
+≥ 200 ms was measured on the 12-lead ECG recordings. These PR values of interest appeared to
+occur slightly more frequently in ponesimod-treated subjects when compared to placebo,
+without any obvious difference between treatment regimens.
+Occurrences of AV-blocks
+The proportion of subjects who experienced at least one AV-block was 25% for all treatment
+groups. However, the total number of occurrences of any AV-blocks was largest during
+treatment regimen B (143) followed by treatment regimen A (79) and the placebo treatment
+group (33).
+Safety
+The percentage of subjects, who experienced at least one AE was 83.3%, 91.7%, and 81.3% in
+regimen A, B, and placebo, respectively. The total number of AEs and the intensity of these AEs
+were similar across the different treatment groups. The percentage of AEs related to study drug
+was 66.7%, 83.3%, and 68.8% in regimen A, B, and placebo, respectively.
+CONCLUSIONS
+Overall, the safety and cardiodynamic profile of regimen A was qualitatively similar to that of
+regimen B but fewer and less pronounced ponesimod-related cardiodynamic effects were
+observed in treatment regimen A compared to treatment regimen B.
+This study did not reveal any new safety findings related to multiple-dose administration of
+ponesimod.
+
+89
+Reference ID: 4737091
+
+4.4-3. HUMAN PK STUDIES
+4.4-3.2 Intrinsic Factors
+Study AC-058-112: A Single-center, open-label, single-dose Phase 1 study to investigate the
+pharmacokinetics (PK), tolerability, and safety of ponesimod in subjects with mild, moderate, or
+severe hepatic impairment due to liver cirrhosis, and in healthy subjects.
+Objectives: To investigate the effects of varying degrees of hepatic impairment on the
+pharmacokinetics (PK) of ponesimod and its metabolites ACT-204426 (M12) and ACT-338375
+(M13) after a single oral dose of ponesimod.
+A brief overview of some essential components of the study design is given below:
+Study Design
+
+Single-center, open-label, single-dose Phase 1 study
+
+Study
+Population
+
+32 subjects (14 females and 18 males) in 4 groups were recruited and data
+analyzed.
+•
+•
+•
+•
+
+Group A: 8 subjects (4 males and 4 females) with mild hepatic
+impairment (Child-Pugh score 5–6).
+Group B: 8 subjects (6 males and 2 females) with moderate hepatic
+impairment (Child-Pugh score 7–9).
+Group C: 8 subjects (4 males and 4 females) with severe hepatic
+impairment (Child-Pugh score 10–15).
+Group D: 8 healthy subjects (4 males and 4 females), matched to each
+subject with severe hepatic impairment.
+
+Dosage and
+Administratio
+n
+
+Ponesimod (ACT-128800) - 10 mg tablet. Single oral dose on Day 1 in fasted
+conditions
+
+PK Sampling:
+
+Blood: pre-dose, 0.5, 1, 1.5, 2, 3, 4, 6, 8, 12, 24, 36, 72, 120, 168, (for Gourp
+D, healthy subject) 216 and 264 hours post dose.
+
+Batch No.: PD11058; Retest date:
+
+(b) (4)
+
+Blood (for protein binding): 3, and 12 hours post dose.
+Analysis
+
+Method:
+
+(Plasma)
+
+LC/MS/MS
+LLOQ: 1 ng/mL
+Linear range: 1.00-1000 ng/mL
+
+90
+Reference ID: 4737091
+
+(b) (4)
+
+assay
+
+LLOQ: 0.1 ng/mL
+Accuracy (inter-run):
+98.0–101.6% (ponesimod); 99.3–101.6% (M12); 96.3–101.2% (M13)
+Precision (inter-run):
+1.2–8.9% (Ponesimod); 1.5–7.5% (M12); 1.6–7.2% (M13)
+PK
+Assessment
+
+The following PK parameters of ponesimod and its metabolites were
+determined using non-compartmental method: Cmax, Tmax, AUC0-t,
+AUC0inf, t1/2, Ratio of free (unbound, Cu) to total (C) plasma concentrations
+(Cu/C) of ponesimod, M12, and M13, at 3 and 12 h post-dose.
+
+PD
+Assessment
+
+Absolute lymphocyte counts, absolute change from baseline, and percentage
+change from baseline at each time point of assessment
+
+Safety
+Assessment
+
+AEs, SAEs, Vital signs (supine blood pressure [BP] and HR), ECG, Clinical
+laboratory tests (hematology, clinical chemistry, and coagulation variables).
+
+RESULTS
+Pharmacokinetics of ponesimod
+Descriptive statistics of ponesimod PK parameters, summarized by group, are displayed in the
+following tables:
+
+91
+Reference ID: 4737091
+
+The geometric mean ratios of AUC, Cmax, and t½, or difference of the medians for tmax,
+between subjects with mild, moderate, or severe hepatic impairment and healthy subjects,
+and their 90% CI are displayed in the table below:
+
+Ponesimod AUC0-∞ (geometric mean) in the mild, moderate, and severe hepatic impairment
+groups was 1.3-fold (1.0, 1.8), 2.0-fold (1.5, 2.7), and 3.1-fold (2.2, 4.3) greater, respectively,
+compared to healthy subjects. The elimination t½ (geometric mean) was 1.5-fold (90% CI: 1.2,
+1.8), 1.8-fold (1.3, 2.5), and 2.6-fold (2.0, 3.3) greater, in the mild, moderate, and severe liver
+impairment groups, respectively, compared to healthy subjects.
+No major differences in Cmax and tmax were observed between Groups A, B, or C and Group D.
+
+92
+Reference ID: 4737091
+
+Pharmacokinetics of metabolites M12 (ACT-204426) and M13 (ACT-338375)
+The summary statistics of PK parameters for M12 and M13 by group (healthy or mild,
+moderate, and severe hepatic impairment) are presented in the Table below.
+
+The differences between the PK parameters of M12 and M13 across the different groups were
+explored and the results of the statistical analysis are summarized in the Table below.
+Hepatic impairment affected the PK of M12 and M13 compared to healthy subjects. For M12,
+the elimination t½ (geometric means) was approximately 1.5-fold (90% CI: 0.9, 2.5), 2.1-fold
+(1.4, 3.4), and 2.5-fold (1.8, 3.4) greater in the mild, moderate, and severe hepatic impairment
+groups respectively, compared to healthy subjects. The longer elimination t½ in subjects with
+hepatic impairment resulted in AUC0-∞ values 1.3-fold (1.0, 1.8), 4.3-fold (2.9, 6.3), and 5.6­
+fold (2.9, 10.6) greater, respectively, compared to healthy subjects.
+For M13, the elimination t½ (geometric means) was approximately 2.1-fold (90% CI: 1.5, 3.1),
+2.4-fold (1.7, 3.2), and 3.1-fold (2.2, 4.3) greater in the mild, moderate, and severe hepatic
+93
+Reference ID: 4737091
+
+impairment groups respectively, compared to healthy subjects. The longer elimination t½ in
+subjects with mild, moderate, and severe hepatic impairment resulted in AUC0-∞ values 1.2­
+fold (0.8, 2.0), 1.7-fold (1.2, 2.5), and 2.1-fold (1.4, 3.4) greater, respectively, compared to
+healthy subjects.
+
+Pharmacodynamics
+Following administration of a single dose of 10 mg ponesimod, the maximum mean reduction
+from baseline in lymphocyte count in healthy subjects was 32%, reached 6 h post-dose. In the
+mild, moderate, and severe hepatic impairment groups, the greatest mean lymphocyte count
+reductions observed were 38% (at 6 h post-dose), 34% (at 6 h post-dose), and 23% (at 10 h
+post-dose), respectively.
+Safety
+In general, a single oral dose of 10 mg ponesimod was well tolerated. No new or unexpected
+safety findings were reported.
+CONCLUSIONS
+•
+•
+•
+
+AUC and t½ of ponesimod and its metabolites were increased in subjects with hepatic
+impairment compared to healthy subjects.
+Based on the PK results of this study, dose adjustment for subjects with moderate and
+severe hepatic impairment should be considered.
+Single-dose treatment with 10 mg of ponesimod was generally well tolerated.
+
+94
+Reference ID: 4737091
+
+Study AC-058-113 Single-center, open-label, single-dose Phase 1 study to investigate the
+pharmacokinetics, safety, and tolerability of ponesimod in subjects with moderate or severe
+renal function impairment.
+Objectives: To compare the pharmacokinetics (PK) of ponesimod and its metabolites ACT­
+204426 (M12) and ACT-338375 (M13) after a single 10 mg oral dose in subjects with moderate
+or severe renal function impairment with those in healthy subjects.
+A brief overview of some essential components of the study design is given below:
+Study Design
+
+Single-center, open-label, single-dose Phase 1 study
+
+Study
+Population
+
+A total of 24 subjects, male and female, 8 in each group:
+•
+•
+•
+
+Group A: 8 subjects with moderate renal function impairment
+Group B: 8 subjects with severe renal function impairment
+Group C: 8 healthy subjects.
+
+Dosage and
+Ponesimod (ACT-128800) - 10 mg tablet. Single oral dose on Day 1 in
+Administration fasted condition.
+Batch No.: 12AIMP014; Retest date:
+PK Sampling:
+
+(b) (4)
+
+Blood: pre-dose, 1, 2, 3, 4, 6, 8, 12, 24, 36, 48, 72, 96, 120, 168, (for
+Gourp C, healthy subject) 216 and 264 hours post dose.
+Blood (for protein binding): 3, and 12 hours post dose.
+
+PK
+Assessment
+
+The following PK parameters of ponesimod and its metabolites were
+determined using non-compartmental method: Cmax, Tmax, AUC0-t,
+AUCinf, t1/2, Ratio of free (unbound, Cu) to total (C) plasma
+concentrations (Cu/C) of ponesimod, M12, and M13, at 3 and 12 h
+post-dose.
+
+PD
+Assessment
+
+Absolute lymphocyte counts, absolute change from baseline, and
+percentage change from baseline at each time point of assessment
+
+Safety
+Assessment
+
+AEs, SAEs, Vital signs (supine blood pressure [BP] and HR), ECG, Clinical
+laboratory tests (hematology, clinical chemistry, and coagulation
+variables), urinalysis, eCLcr, body weight.
+
+RESULTS
+Pharmacokinetics of ponesimod
+
+95
+Reference ID: 4737091
+
+Descriptive statistics of ponesimod PK parameters, summarized by group, are displayed in the
+following tables:
+
+The geometric mean ratios of Cmax, AUC, and t½, or difference of the medians for tmax,
+between subjects with moderate or severe renal function impairment and healthy subjects,
+and their 90% CI are in the table below:
+
+No clinically relevant differences in Cmax, tmax, AUC and t1/2 were observed between Groups
+A, B and C.
+
+96
+Reference ID: 4737091
+
+Pharmacokinetics of metabolites M12 (ACT-204426) and M13 (ACT-338375)
+The summary statistics of PK parameters for M12 and M13 by group (healthy or mild,
+moderate, and severe hepatic impairment) are presented in the Table below.
+
+The differences between the PK parameters of M12 and M13 across the different groups were
+explored.
+For M12, the ratio of geometric means of t½ was 0.75 (90% CI: 0.34, 1.66), and 0.95 (90% CI:
+0.43, 2.08) for the comparison Group A:C and Group B:C, respectively. The ratio of geometric
+mean of AUC0-∞ was 1.04 (90% CI: 0.62, 1.73), and 1.39 (90% CI: 0.90, 2.15) for the comparison
+Group A:C and Group B:C, respectively.
+For M13, the ratio of geometric means of t½ was 0.88 (90% CI: 0.46, 1.66) and 0.68 (90% CI:
+0.35, 1.31) for the comparison Group A:C, and Group B:C, respectively. The ratio of geometric
+mean of AUC0-∞ was 0.89 (90% CI: 0.53, 1.50), and 1.41 (90% CI: 0.86, 2.29) for the comparison
+Group A:C, and Group B:C, respectively. (see table below)
+
+97
+Reference ID: 4737091
+
+Pharmacodynamics
+Mean lymphocyte count decreased from baseline in the 3 groups, without major differences
+among the different groups. The greatest mean percentage decreases from baseline in
+lymphocyte count were:
+- Group A: 36.4% (from mean absolute value of 1.90 × 109/L at baseline to 1.21 × 109/L at 6 h
+post-dose)
+- Group B: 45.1% (from mean absolute value of 1.84 × 109/L at baseline to 1.02 × 109/L at 6 h
+post-dose)
+- Group C: 30.9% (from mean absolute value of 1.71 × 109/L at baseline to 1.17 × 109/L at 6 h
+post-dose).
+The mean absolute lymphocyte count returned to baseline values within 2 days post-dose.
+Overall, the lymphocyte effects observed were consistent with previous studies with single
+doses of 10 mg ponesimod.
+Safety
+A single oral dose of 10 mg ponesimod was well tolerated.
+
+98
+Reference ID: 4737091
+
+CONCLUSIONS
+• PK characteristics (Cmax, AUC0-∞, and t½) of ponesimod and M12 were not significantly
+increased in subjects with renal function impairment compared to healthy subjects. In
+subjects with severe renal impairment, systemic exposure to M13 was increased in a nonclinically significant manner as compared to subjects with normal renal function.
+• Based on the PK results, dose adjustment is not needed in subjects with moderate or severe
+renal function impairment.
+• No new or unexpected safety findings were reported. Single-dose treatment with 10 mg
+ponesimod was generally well tolerated.
+
+99
+Reference ID: 4737091
+
+Study AC-058-107: Single-center, open-label, parallel-group study to evaluate the
+pharmacokinetics, tolerability, and safety of a single dose of 40 mg ACT-128800 in Japanese and
+Caucasian healthy male and female subjects.
+Objectives: To assess the relative pharmacokinetic (PK) properties of ACT-128800 in Japanese
+vs. Caucasian healthy male and female subjects after single-dose treatment.
+A brief overview of some essential components of the study design is given below:
+Study Design
+
+Single-center, open-label, parallel-group study
+
+Study
+Population
+
+10 Japanese and 10 Caucasian healthy male and female subjects (1:1
+sex ratio), and matched for body weight
+
+Dosage and
+
+A single, oral dose of 40 mg ACT-128800
+capsule.
+Administration
+Batch number PD07073 (BA1022716, expiry: August 2009).
+
+(b) (4)
+
+PK Sampling:
+
+pre-dose, 30, 60, 90, 150 mins, 4, 6, 10, 16, 24, 36, 48, 72, 96, 120, 144
+hours post dose.
+
+Analysis
+
+Method: LC/MS/MS
+
+(Plasma)
+
+LLOQ: 1.00 ng/mL
+Linear range: 1.00-2000 ng/mL
+Inter-day Precision (%CV): 1.2-10.9%
+Inter-day accuracy: -10.5-11.0 %
+
+PK
+Assessment
+
+Cmax, tmax, AUC0-t, AUC0-inf, and t½ of ACT-128800 in both ethnic
+groups.
+
+PD
+Assessment
+
+Change from baseline to each measurement time point for lymphocyte
+counts
+
+Safety
+Assessment
+
+AEs, SAEs, Vital signs, Laboratory assessments, Pulmonary function
+tests, ECG, Physical examinations.
+
+RESULTS
+Pharmacokinetic (PK) results
+The mean concentration time-profiles plotted on linear and logarithmic scales are shown in the
+Figure below:
+
+100
+Reference ID: 4737091
+
+PK parameters derived by non-compartmental analysis of the plasma concentration-time data
+for ACT-128800 are summarized by ethnic group in the following Table.
+
+The estimated geometric mean ratio and median difference (Japanese vs. Caucasian) with their
+90% CIs for PK parameters of ACT-128800 are summarized. Exposure to ACT-128800 (AUC0-inf,
+AUC0-t) was slightly higher in Japanese subjects compared to the Caucasian subjects. (See Table
+below)
+
+101
+Reference ID: 4737091
+
+Pharmacodynamics
+The pharmacodynamic effect of ACT-128800 on lymphocytes (transient decrease in total
+lymphocyte counts) was similar in the two ethnic groups.
+Safety
+No SAEs were reported and no subject discontinued the study due to an AE. Frequently
+observed AEs were headache, bradycardia, and dizziness. The AE profile was similar in
+Caucasian and Japanese subjects, and in males and females. The reported AEs were in
+accordance with the known AE profile of ACT-128800 and no unexpected AE was reported in
+either ethnic group.
+CONCLUSIONS
+Overall, the PK profile of ACT-128800 was similar in Japanese and Caucasian subjects. The
+observed safety profile was also similar between the two ethnic groups and no unexpected
+safety findings were reported.
+
+102
+Reference ID: 4737091
+
+4.4-3. HUMAN PK STUDIES
+4.4-3.3 Extrinsic Factors
+Study AC-058-117: A Randomized, Double-blind, Parallel group, 2-period, Placebo-controlled,
+Phase 1 Study to Investigate the Effects on Heart Rate, Blood Pressure, and Pharmacokinetic
+Interactions of the Up-titration Regimen of Ponesimod in Healthy Adult Subjects Receiving
+Propranolol at Steady State
+A brief overview of some essential components of the study design is given below:
+Study Design
+
+Randomized, double-blind, parallel-group, 2-period, placebocontrolled study
+
+Study
+Population
+
+52 subjects were enrolled
+Age: 23 - 54 years (mean 47 years)
+Gender: 24 female (51.1%), 23 male (48.9%)
+Weight: 49.90 - 91.40 kg (mean 72.69 kg)
+Race: 43 White (91.5%), 2 Asian (4.3%), 2 African American (4.3%)
+
+Dosage and
+Treatment Period 1
+Administration Subjects received a single dose of 2 mg ponesimod oral tablet under
+fed conditions.
+Treatment Period 2
+Treatment A: up-titration regimen of ponesimod once daily
+administered as oral tablets from Day 5 to Day 19 + placebo
+propranolol once daily, administered as a placebo oral capsule from
+Day 1 to Day 19.
+Treatment B: up-titration* regimen of ponesimod once daily
+administered as oral tablets from Day 5 to Day 19 + 80 mg propranolol
+once daily, administered as an 80-mg long-acting oral capsule from Day
+1 to Day 19.
+Study drugs were taken orally, together with approximately 240 mL of
+noncarbonated water, under fed conditions.
+PK
+Assessment
+
+Ponesimod (Treatments A and B)
+Day 5: Cmax, tmax, and AUC24h
+Day 19: Ctrough, Cmax, tmax, and AUCτ
+
+103
+Reference ID: 4737091
+
+Propranolol and 4-hydroxypropranolol (Treatment B only)
+Day 4 and Day 5: Ctrough, Cmax, tmax, AUCτ, and CLss/F*
+Day 19: Ctrough, Cmax, tmax, AUCτ, and CLss/F*
+* CLss/F was not determined for 4-hydroxypropranolol
+PK
+Assessment
+
+Heart rate and bradyarrhythmias were evaluated from the Holter ECG,
+lymphocyte count assessment.
+
+Safety
+Assessment
+
+AE, Clinical laboratory tests, 12-lead safety ECG (including telemetry),
+Vital signs, Physical examination, Ophthalmological examination,
+Neurological examination, PFTs, Specific toxicities, Incidence of
+adverse events of special interest.
+
+RESULTS
+Pharmacokinetics of Ponesimod
+The linear mean plasma concentration-time profiles of ponesimod of both treatments
+(Treatment A and Treatment B) are presented in the following figures:
+Mean (SD) Plasma Concentration-Time Profiles of Ponesimod After Administration of an Up-titration
+Regimen of Ponesimod Alone Once Daily From Day 5 to Day 19 (Treatment A) and in Combination
+With Propranolol at 80 mg Once Daily From Day 1 to Day 19 (Treatment B), Day 5 (2 mg Ponesimod)
+
+104
+Reference ID: 4737091
+
+Mean (SD) Plasma Concentration-Time Profiles of Ponesimod After Administration of an Up-titration
+Regimen of Ponesimod Alone Once Daily From Day 5 to Day 19 (Treatment A) and in Combination
+With Propranolol at 80 mg Once Daily From Day 1 to Day 19 (Treatment B), Day 19 (20 mg Ponesimod)
+
+On both Day 5 and Day 19, mean ponesimod concentrations were similar over the complete
+plasma concentration-time profile when ponesimod was administered alone and in
+combination with propranolol.
+A summary list of key PK parameters of ponesimod for both treatments is presented in the
+Table below:
+Pharmacokinetic Results of Ponesimod After Administration of an Up-titration Regimen of Ponesimod
+Once Daily From Day 5 to Day 19 Alone (Treatment A) and in Combination With Propranolol at 80 mg
+Once Daily From Day 1 to Day 19 (Treatment B) (Study AC-058-117: Pharmacokinetics Data Analysis
+Set)
+
+105
+Reference ID: 4737091
+
+Based on the geometric mean ratios (GMRs), on Day 5 ponesimod Cmax and AUC24h were
+similar when ponesimod was administered in the presence of propranolol (Treatment B) as
+compared to administration of ponesimod alone (Treatment A), as 100% was included in the
+90% CI of the GMR. On Day 19, the GMRs of Treatment B versus Treatment A for ponesimod
+Cmax and AUCτ were 111% (90% CI: 102.98 – 120.48) and 110% (90% CI: 101.75 – 119.32),
+respectively.
+Pharmacokinetics of Propranolol
+The linear mean plasma concentration-time profiles of propranolol on Day 4, Day 5, and Day 19
+are presented in the Figure below:
+Mean (SD) Plasma Concentration-Time Profiles of Propranolol After Administration of an Up-titration
+Regimen of Ponesimod Once Daily From Day 5 to Day 19 in Combination With Propranolol at 80 mg
+Once Daily From Day 1 to Day 19 (Treatment B); Days 4 (Propranolol Alone), Day 5 (Propranolol With 2
+mg Ponesimod), and 19 (Propranolol With 20 mg Ponesimod)
+
+Mean propranolol concentrations were similar over the complete plasma concentration-time
+profile in the absence of ponesimod (ie, on Day 4) and in the presence of 2 mg or 20 mg
+ponesimod (ie, on Day 5 and Day 19), respectively.
+Individual PK parameters of propranolol, including descriptive statistics, are presented in the
+table below:
+
+106
+Reference ID: 4737091
+
+Pharmacokinetic Results of Propranolol After Administration of an Up-titration Regimen of
+Ponesimod Once Daily From Day 5 to Day 19 in Combination With Propranolol at 80 mg Once Daily
+From Day 1 to Day 19 (Treatment B)
+
+Based on the GMRs and 90% CI, propranolol Cmax and AUCτ can be concluded to be similar on
+Day 5 (propranolol coadministered with 2 mg ponesimod), and Day 19 (propranolol
+coadministered with 20 mg ponesimod) as compared to Day 4 (propranolol alone), as 100% was
+included in the 90% CI of the GMR.
+Pharmacokinetics of 4-Hydroxypropranolol
+The linear mean plasma concentration-time profiles of 4-hydroxypropranolol on Day 4, Day 5,
+and Day 19 are presented in the Figure below:
+Mean (SD) Plasma Concentration-Time Profiles of 4-Hydroxypropranolol After Administration of an
+Up-titration Regimen of Ponesimod Once Daily From Day 5 to Day 19 in Combination With
+Propranolol at 80 mg Once Daily From Day 1 to Day 19 (Treatment B), Day 4 (Propranolol Alone), Day
+5 (Propranolol With 2 mg Ponesimod), and Day 19 (Propranolol With 20 mg Ponesimod)
+
+107
+Reference ID: 4737091
+
+Mean 4-hydroxypropranolol concentrations were similar over the complete plasma
+concentration-time profile in the absence of ponesimod (ie, on Day 4) and in the presence of 2
+or 20 mg ponesimod (on Day 5 and Day 19, respectively).
+A summary list of key PK parameters of 4-hydroxypropranolol is presented in the Table below:
+Pharmacokinetic Results of 4-Hydroxypropranolol After Administration of an Up-titration Regimen of
+Ponesimod Once Daily From Day 5 to Day 19 in Combination With Propranolol at 80 mg Once Daily
+From Day 1 to Day 19 (Treatment B)
+
+Based on the GMR and 90% CI, 4-hydroxypropranolol Cmax and AUC can be concluded to be
+similar on Day 5 (propranolol coadministered with 2 mg ponesimod), and Day 19 (propranolol
+coadministered with 20 mg ponesimod) as compared to Day 4 (propranolol alone), as 100% was
+included in the 90% CI of the GMR.
+Pharmacodynamics
+Effect on Lymphocytes Counts
+Treatment with ponesimod resulted in a decrease in circulating lymphocytes. This decrease was
+similar during Treatment A and Treatment B (see Figure below).
+Mean (SD) of Lymphocyte Count Percentage Change From Baseline Values by Treatment During Period
+2; PD Analysis Set
+
+108
+Reference ID: 4737091
+
+Effects on Heart Rate (HR)
+Combination of ponesimod with propranolol: Treatment A (Ponesimod only) vs Treatment B
+(Ponesimod + propranolol)
+A graphical representation of the mean of the mean hourly HR over time for baseline
+(Treatment Period 2 Day -1), and ponesimod in combination with propranolol in Treatment B
+(Day 5, Day 6, Day 7, Day 16, and Day 19) is presented in the Figure below:
+Mean of Mean Hourly HR Over Time for Treatment B with Baseline and Repeated Doses of Ponesimod
+in Combination with Propranolol: Period 2 Day -1, Period 2 Day 5, Day 6, Day 7, Day 16, and Day 19
+
+The combination of propranolol with the first dose of 2 mg ponesimod on Day 5 in Treatment B
+gave a larger reduction in mean of the mean hourly HR than ponesimod alone (Treatment A).
+For Treatment B, the initial maximum reduction of the mean of the mean hourly HR of 16.0
+bpm was observed at 5 hours postdose followed by another decrease of 20.1 bpm at 10 hours
+whereas for Treatment A, the single dose of 2 mg ponesimod alone on Day 5 produced an initial
+maximum decrease in mean of the mean hourly HR of 6.1 bpm at 3 hours postdose followed by
+another decrease of 6.6 bpm at 10 hours. The lowest value of the mean of the mean hourly HR
+for both treatments was observed at 4 hours postdose, with a value of 53.0 bpm for Treatment
+B and 65.5 bpm for Treatment A. The minimum value for mean hourly HR at 4 hours was 53
+bpm for Treatment A and 44 bpm for Treatment B. A comparison of the mean hourly HR
+between Treatment A and Treatment B on Day 5 is present in the Figure below:
+
+109
+Reference ID: 4737091
+
+Mean of Mean hourly HR with SD over time for Day 5 of Treatment Period 2
+
+.
+For the mean maximum decrease from time-matched baseline in mean hourly HR, (mean Emax
+HR over 12 hours), a comparison of Treatment B (combination of ponesimod + propranolol)
+versus Treatment A (ponesimod alone), showed that the combination exhibited the largest
+mean difference in Emax HR on Day 5 (after the first dose of ponesimod 2 mg) of -12.4 bpm
+(90% CI -15.61 to -9.14 bpm).
+Combination of ponesimod with propranolol: within Treatment B (propranolol only vs
+propranolol + ponesimod)
+The combination of propranolol with the first dose of ponesimod (2 mg) on Day 5 in Treatment
+B gave a larger reduction in HR than propranolol alone (Day 4), with an initial maximum
+reduction of the mean of the mean hourly HR of 16.0 bpm observed at 5 hours postdose
+followed by another decrease of 20.1 bpm at 10 hours versus 9.5 bpm and 16.5 bpm at 5 hours
+and 10 hours postdose, respectively, for propranolol alone. The lowest value of the mean HR
+was 53.0 bpm at 4 hours postdose for the combination on Day 5 and 59.6 bpm at 10 hours
+postdose for propranolol alone.
+The largest maximum difference in time matched mean of the mean hourly HR was 19.3 bpm
+(at 10 hours postdose) when treatment with the combination of ponesimod 2 mg + propranolol
+was compared with ponesimod alone (Day 5 versus Day 1 of Period 1) and 8.8 bpm (at 3 hours
+postdose) when compared to propranolol alone (Day 5 vs Day 4).
+Effects on Mean Arterial Pressure (MAP)
+The maximum difference in time matched mean hourly MAP between Treatment B versus
+Treatment A was 5.8 mmHg (at 8 hours postdose), 6.6 mmHg (at 10 hours postdose), and 6.0
+mmHg (at 10 hours postdose) on Day 5, Day 16, and Day 19, respectively.
+
+110
+Reference ID: 4737091
+
+Effects on PR interval from 12-lead ECG
+No significant changes in the mean of PR values by day and treatment were observed during
+the study. In Treatment Period 1 Day 1 (ponesimod 2 mg), the mean PR interval values were
+≤200 ms. In Treatment Period 2 Day -1, no difference between Treatment A and Treatment B
+groups was noted. Similarly, in Treatment Period 2 Day 1 and Treatment Period 2 Day 4 no
+differences in PR-values were noticed for both Treatment A (ponesimod with placebo) and
+Treatment B (ponesimod with propranolol). Adding ponesimod up-titration to steady state
+propranolol overall did not have an impact on PR values when the 2 treatments are compared.
+Safety
+A total of 6 subjects prematurely terminated the study: 1 subject in Treatment A, (ponesimod
+alone) and 5 subjects in Treatment B (combination of propranolol steady state and up-titration
+of ponesimod).
+The total number of treatment-emergent 12-lead ECG abnormalities was significantly higher in
+the up-titration regimen of ponesimod at steady state of propranolol (Treatment B) compared
+to same up-titration regimen of ponesimod with placebo propranolol (Treatment A) during
+Treatment Period 2. These ECG abnormalities as seen on 12-lead ECG in period 2 were not
+clinically relevant. No second degree or higher AV block was observed.
+Except for the expected decrease in lymphocytes (leukocytes), no relevant changes in clinical
+chemistry, hematology, or urinalysis variables were observed. No clinically relevant effects of
+any treatment on SBP and DBP were noted.
+CONCLUSIONS
+•
+•
+•
+•
+•
+
+There was no clinically relevant PK drug-drug-interaction between ponesimod and
+propranolol.
+Both Treatment A and Treatment B resulted in a maximum decrease of 57-59% from
+baseline in total lymphocytes.
+Overall concomitant administration of ponesimod with propranolol resulted in an additive
+effect on HR measured by Holter.
+No clinically significant changes in MAP have been reported.
+The combination of propranolol with ponesimod was associated with higher incidence of
+12-lead ECG abnormalities compared to ponesimod alone.
+
+111
+Reference ID: 4737091
+
+Study AC-058-104: Single-center, open-label, two-period, two-treatment, randomized,
+crossover study to investigate the effect of multiple-dose ACT-128800 on the pharmacokinetics
+of a single dose of Ortho-Novum® 1/35 in healthy female subjects.
+A brief overview of some essential components of the study design is given below:
+Study Design
+
+Open-label, two-period, two-treatment, randomized, crossover study
+
+Study
+Population
+
+24 subjects were enrolled
+Age: 29 - 60 years (mean 47.3 years)
+Weight: 50.6 – 76.5 kg (mean 63.7 kg)
+Race: 17 Caucasian (70.8%), 3 African American (12.5%), 2 Asian
+(8.3%), 1 Other (8.3%)
+
+Dosage and
+Treatment period A:
+Administration A single oral dose of Ortho-Novum was administered
+Treatment period B:
+The treatment commenced with a daily oral dose of 10 mg ACT-128800
+for 3 days, followed by 20 mg for 3 days, and 40 mg for a further 8
+days. A single oral dose of Ortho-Novum 1/35 was concomitantly
+administered with ACT-128800 on Day 14.
+There was a washout period of 2 weeks (± 2 days) between the two
+treatment periods.
+Study drugs were taken orally, together with approximately 240 mL of
+noncarbonated water, under fed conditions.
+Analysis
+
+Method: LC/MS/MS
+
+(Plasma)
+
+ponesimod
+LLOQ: 1 ng/mL
+Linear range: 1-2000 ng/mL
+Inter-day Precision (%CV): 7.6-8.2%
+Inter-day accuracy: -1.7- 0.3%
+Ethinyl estradiol
+LLOQ: 2 pg/mL
+
+112
+Reference ID: 4737091
+
+Linear range: 2 - 500 pg/mL
+Inter-day Precision (%CV): 1.98 – 6.87%
+Inter-day accuracy: 1 – 5%
+Norethindrone
+LLOQ: 50 pg/mL
+Linear range: 50 - 25000 pg/mL
+Inter-day Precision (%CV): 1.53 – 6.15%
+Inter-day accuracy: 3-5%
+PK
+Assessment
+
+AUC0-24, Cmax, tmax, AUC0-∞, and t1/2 of ethinyl estradiol and
+norethisterone. Trough (pre-dose) plasma concentrations of ACT­
+128800 during treatment period B.
+
+PK
+Assessment
+
+Trough (pre-dose) total lymphocyte counts and percent change from
+baseline during treatment period B.
+
+Safety
+Assessment
+
+AE, SAEs, Laboratory tests, ECG, Vital signs, Physical examination, PFTs.
+
+RESULTS
+Pharmacokinetic results ethinyl estradiol and norethisterone
+Plasma concentrations of ethinyl estradiol and norethisterone over the 24 h following OrthoNovum administration in both treatment period A and treatment period B are shown in the
+following Figure:
+
+113
+Reference ID: 4737091
+
+Arithmetic mean (+/- SD) plasma concentration-time profiles of ethinyl estradiol and norethisterone
+administered to healthy subjects in the presence and absence of ACT-128800:
+
+The PK parameters derived by non-compartmental analysis of the plasma concentration-time
+data for ethinyl estradiol are summarized in Table below:
+
+114
+Reference ID: 4737091
+
+Summary of PK parameters for ethinyl estradiol
+
+The results show that the PK parameters for ethinyl estradiol were similar with concomitant
+administration of Ortho-Novum with ACT-128800 compared to Ortho-Novum alone. The 90%
+CIs of the estimated geometric mean ratio for Cmax and total exposure to ethinyl estradiol
+(AUC0-24) with and without co-administration of ACT-128800 were contained within the
+equivalence limits. This was also the case for AUC0-inf and t1/2 (see the Table below).
+Geometric mean ratios of PK parameters of ethinyl estradiol
+
+The PK parameters derived by non-compartmental analysis of the plasma concentration-time
+data for norethisterone are summarized in the Table below:
+
+115
+Reference ID: 4737091
+
+Summary of PK parameters for norethisterone
+
+The results show that the Cmax and exposure to norethisterone were slightly reduced with
+concomitant administration of ACT-128800 compared with Ortho-Novum alone. The 90%
+confidence intervals of the estimated geometric mean ratio for the AUC0-24 and Cmax of
+norethisterone with and without co-administration of ACT-128800 were not contained within
+the equivalence limits. For total exposure to norethisterone (AUC0-24), the lower CI of 0.76 was
+slightly below 0.80 and Cmax was 0.80. A similar lower CI of 0.76 was observed for AUC0-inf,
+while the CI of the t1/2 was within the equivalence limits (see the Table below).
+Geometric mean ratios of PK parameters of norethisterone
+
+Pharmacokinetics of ACT-128800
+Trough plasma concentrations of ACT-128800 at steady state were comparable to those
+reported in previous study (study AC-058-102).
+Pharmacodynamic results
+Administration of ACT-128800 resulted in a clear reduction in the lymphocyte count in all
+exposed subjects. The mean total lymphocyte count determined pre-dose on Day 14 was0.58 ±
+
+116
+Reference ID: 4737091
+
+0.23 × 109/L (mean ± SD) compared to a baseline count of 1.84 ± 0.49 × 109/L (see the Figure
+below). The mean change from baseline on Day 14 pre-dose was -66.6% ± 14.5% (mean ± SD).
+Total lymphocyte absolute counts (109/L) at trough from Day 1 to Day 15
+
+Safety
+Concomitant administration of Ortho-Novum and ACT-128800 did not result in the occurrence
+of any AEs which were considered to be new or unexpected in comparison to the known AE
+profiles of the individual treatments. Further, concomitant administration was not associated
+with increased severity of any AE.
+CONCLUSIONS
+•
+•
+
+The results of the study showed that there was no clinically relevant PK interaction between
+ACT-128800 and Ortho-Novum.
+Overall, the safety findings of this study were consistent with previous clinical studies of
+ACT-128800. No new or unexpected AEs were observed in concomitant administration of
+Ortho-Novum and ACT-128800.
+
+117
+Reference ID: 4737091
+
+Signature Page 1 of 1
+
+-------------------------------------------------------------------------------------------This is a representation of an electronic record that was signed
+electronically. Following this are manifestations of any and all
+electronic signatures for this electronic record.
+-------------------------------------------------------------------------------------------/s/
+-----------------------------------------------------------DAWEI LI
+01/27/2021 02:37:20 PM
+MANUELA GRIMSTEIN
+01/27/2021 03:31:21 PM
+VISHNU D SHARMA
+01/27/2021 03:34:46 PM
+YUCHING N YANG
+01/27/2021 03:36:33 PM
+VENKATESH A BHATTARAM
+01/28/2021 11:58:00 AM
+YUXIN MEN
+01/29/2021 04:19:02 PM
+MEHUL U MEHTA
+02/01/2021 12:06:26 PM
+
+Reference ID: 4737091
+
+

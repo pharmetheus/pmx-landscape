@@ -1,0 +1,49 @@
+NDA/BLA Multi-disciplinary Review and Evaluation NDA 221075
+Iberdomide (ZENBEXUS)
+
+The original submission also has inconsistency in the unit of EGFR baseline value. For the
+PopPK analysis, the adppk dataset specifies units of mL/min/1.73 m? for the EGFRBL variable,
+but the PopPK analyses CSR and the study protocol and adsl dataset (BLEGFR variable) for
+Study CC-220-MM-002 specify units of mL/min. Additionally, the Study CC-220-CP-008
+protocol and CSR specifies units of mL/min/1.73 m? whereas the datasets (e.g., adsl, adpp, adpe)
+do not specify units for the EGFR variable. Based on applicant’s IR response, they clarified the
+EGER unit is mL/min/1.73 m?.
+
+19.5.4.2. Reviewer’s Independent Analysis
+
+There is only 4% African American population in PopPK dataset. The reviewer analyzed the
+race effect for African American and compared it with other race groups. The clearance (CL) is
+comparable among different race groups (Figure 27). Thus, there is no clinically significant
+impact for African American race group.
+
+Figure 27: FDA — Clearance comparison among different race groups
+
+Comparison of CL by Race
+
+40 ¢
+e
+30 ¢ RACEN
+bf 5
+3 e
+7 4
+J == ;
+20
+2
+= 1
+10
+1 2 3 4 5
+(n=316) (n=18) (n=130) (n=3) (n=21)
+
+Race Group
+
+1: White, 2: Black/African American, 3: Asian, 4. Others (including American Indian/Alaska Native and Native
+Hawaiian/other Pacific Islander, 5: Unknown.
+Source: FDA reviewer analysis
+
+272
+Version date: February 10, 2025 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5851050

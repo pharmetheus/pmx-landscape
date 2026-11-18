@@ -1,0 +1,47 @@
+NDA Multidisciplinary Review and Evaluation
+NDA 220305
+Komzifti (ziftomenib)
+
+(C201 patients, with strong,
+moderate, or no CYP3A4
+inhibitors administered)
+
++ 200mg QD PO
++ 400mg QO PO
++ 600mg QD PO
+
++ + 800mg QD PO
+
+Minimal PEPK MODEL Minimal PBPK MODEL Clinical Study KO-MEN-005
++ Physchem and binding = Precipitation rate refined to (neatty volunteers) Ney ~ ‘
+data input as observed match observed data under | . part A: 400mg PO. j eres
+fasted conditions | * Fluconazole (CYP344)
+<A recet-beeed on le + Part B: 400 mg PO
+vitro solubility and + fmCYP3A4 refined based | + Erythromycin (CYP3A4)
+dissolution data on manual sensitivity Clinical Study KO-MEN-003
++ Vss predicted using fanalysis.usingC1D1 DD | (healthy volunteers) |” “imetidine(CYP2AS)
+Method 2 and kp scalar to Patient data fomKO-MEN: |". ppyinfasted: 400mgPO —__* Rilampin(cYP3A4)
+match IV Vss. ‘Sida omenco: | *Elewenz po
+= FACHPONS prediocsd | + Dexamethasone (GYP3A4)
+based on rhCYP data (e101 tht haa } a
++ Observed IV CL used for mone Le
+retrograde input to f “Clinical Study KO-MEN.001 200 mg PO single dose i ‘+ Fluvoxamine (CYP1A2)
+estimate CYP CLintinputs |: (C101 data collectad in 400mg PO singledose | ——Perpetrator DDI simulations
++ Inhibition and induction + subjects administered strong 600 mg PO single dose }
+poveustibrida es H errr inhibitors) + 800mgPOsingiedose | —* Midazolam (CYP3A4)
+t Clinteal Study KO-MEN-001 ——. Venetociax (CYPAd)
+
++ Raltegravir (UGTIA1)
+
+ADAM: Advanced Dissolution, Absorption and Metabolism model; CL: clearance; CLint: intrinsic
+clearance; fm: fraction metabolised; IV: intravenous; kp: tissue partitioning coefficient; PO: oral
+route; QD: one a day; rhCYP: recombinant human cytochrome P450; Vss: volume of distribution
+at steady state
+
+306
+Version date: March 1, 2024 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5694243

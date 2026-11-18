@@ -1,0 +1,47 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {BLA 761344}
+{Tarlatamab}
+
+Figure 18. Applicant — Kaplan-Meier Plot for Overall Survival (Safety Analysis Set for Part 1 and Part 2) (Study 20200491 Primary
+Analysis)
+
+7>10 mg (N= 99) 1100 mg (N=67)
+
+1.04
+O89 ee Ts
+
+OE ttt op
+04-4
+02-4
+00-4
+
+Median OS (95% Cl) 14.3 (10.8, NE) NE (10.1, NE)
+
+Survival Probability
+
+0 3 6 9 12 15 18
+Months
+
+Number of Subjects at Risk: —_ 0m === 100m]
+
+1>10mg 99 84 67 44 17 3 oO
+1->100mg 87 62 53 39 17 2 O
+
+-> = step dose to target dose (eg, 1 -> 10 mg = 1 mg step dose to 10 mg target dose); KM = Kaplan-Meier; NE = not estimable; OS = overall survival;
+RECIST = Response Evaluation Criteria in Solid Tumors
+
+The safety analysis set included all subjects who received at least 1 dose of tarlatamab.
+
+Overall survival was defined as the interval from the date of first dose of tarlatamab to the event of death due to any cause. Subjects still alive was censored at the
+date last known to be alive. If the date last known to be alive was after the date that triggered the analysis (ie, the data cutoff date), the subject was censored at
+the analysis trigger date.
+
+Censor indicated by vertical bar |.
+
+The survival curves and median OS were estimated using KM method and their 95% Cl were estimated using log-log transformation of KM survival estimate by
+Brookmeyer and Crowley (1982) method.
+
+Data snapshot date: 01 March 2024. Data cutoff date: 27 June 2023.
+
+Source: Figure 14-4.4.7 of Study 20200491
+
+Reference ID: 5382024

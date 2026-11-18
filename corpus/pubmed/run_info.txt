@@ -1,0 +1,12 @@
+built: 2026-11-10
+items: 9321 (2016 to 2026)
+coverage: none 2; title and abstract 9114; title only 205
+sections: 120322, 34.3 million characters
+core: sources/literature/results/ids.csv.gz (run of 2026-09-28) and ids_2016_2020.csv.gz
+extension: sources/literature/results/extension_ids.csv.gz (corpus_extension.R)
+tool route: sources/literature/results/tool_ids.csv.gz (corpus_toolroute.R)
+admitted by core: 2016 602; 2017 536; 2018 550; 2019 643; 2020 558; 2021 997; 2022 851; 2023 721; 2024 862; 2025 936; 2026 789
+admitted by extension: 2016 46; 2017 57; 2018 56; 2019 67; 2020 66; 2021 72; 2022 79; 2023 63; 2024 74; 2025 81; 2026 108
+admitted by tool: 2016 60; 2017 47; 2018 42; 2019 49; 2020 42; 2021 48; 2022 35; 2023 32; 2024 42; 2025 58; 2026 52
+retrieved = date of the cached efetch file
+author_affiliations: each author's affiliations by position in the author list (no names)

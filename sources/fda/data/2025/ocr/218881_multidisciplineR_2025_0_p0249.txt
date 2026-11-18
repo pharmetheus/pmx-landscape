@@ -1,0 +1,63 @@
+NDA/BLA Multi-disciplinary Review and Evaluation NDA 218881
+
+Tnluriyo (imlunestrant)
+
+Exposure Metrics Explored. Average concentration, Cavg (range: 18.1 — 389.8 ng/mL)
+(range)
+Covariates Evaluated ESRI mutation status, Presence of abemaciclib, Prior
+
+CDK4/6 therapy, Number of prior lines of treatment,
+Presence of visceral metastases
+
+Final Model Parameters Summary Acceptability
+[FDA’s
+comments]
+
+Model Structure PFS: Time-to-event model with Acceptable
+
+concentration effects on baseline
+hazard and Gompertz shape
+parameter
+
+CBR: logistic regression model with
+concentration effects on CBR
+
+Model Parameter Estimates Table 19.3, Table 19.4 See below
+Model Evaluation Figure 19.5 See below
+Significant factors leading to FDA disagrees with
+increase CBR included: the positive
+relationship between
+- Presence of abemaciclib imlunestrant exposure
+
+. and PFS. During the
+
+- Prior CDK4/6 therapy - Presence review process, the
+
+of visceral metastases Applicant identified an
+error in the description
+of the exposure—-PFS
+analysis presented in
+
+2 23 the EMBER-3
+Covariates and Clinical population PK/PD
+Relevance report. Specifically, an
+
+incorrect unit
+conversion in the
+dataset used for the
+exposure-PFS analysis
+was discovered, which
+altered the
+interpretation of the
+results. The previously
+reported positive
+relationship between
+exposure and PFS
+
+248
+Version date: March 1, 2024 (ALL NDA/BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5665313

@@ -1,0 +1,44 @@
+progression for CDR-SB and iADRS. For additional details, please refer to Sections 4.4.1
+and 4.4.5 for the applicant’s modeling analysis.
+
+Within the donanemab group, a higher incidence of ARIA-E, ARIA-H, ARIA-H
+microhemorrhage, and ARIA-H_ superficial siderosis was observed in APOE4
+homozygotes, followed by heterozygotes and non-carriers. Modeling was also conducted
+to characterize the exposure-response relationship of donanemab concentration and
+dosing regimen regarding first incidence of overall ARIA-E. The results indicated that the
+ARIA-E baseline hazard differed by APOE 4 genotype, with 1.8 times higher hazard in
+APOE4 heterozygotes and 3.9 times higher in APOE4 homozygotes compared with
+noncarriers by Week 24 (Figure 13). Although the model identified participants with
+higher Cav,ss (233 g/mL) to have an increased risk of ARIA-E compared to those with
+median Cav,ss (52.1 g/mL), the number of subjects with a high Cav,ss was limited.
+
+Figure 13: Observed and Model Predicted ARIA-E Incidence by APOE4 Carrier
+Status
+
+1.00
+
+0.75
+
+30.50
+
+Proportion of participants with ARIA-E
+
+0.00 , z
+
+0 12 24 36 48 60 72 84
+Time (weeks)
+
+—— Placebo —= APOEA homozygote == APOEA heterozygote APOEA non-carrie
+
+Source: Applicant's population pk-pd report; page-59
+Abbreviations: APOE4 = apolipoprotein E4; ARIA-E = amyloid-related imaging abnormalities-edema/effusions.
+
+Notes: The solid lines are the Kaplan-Meier plot of the observed data, and the shaded areas are the 95% confidence
+intervals for the simulated data.
+
+In summary, the efficacy endpoints and biomarkers showed positive trends across all
+APOE4 genotypes. While the review team acknowledges variations in the magnitude of
+
+27
+
+Reference ID: 5333786

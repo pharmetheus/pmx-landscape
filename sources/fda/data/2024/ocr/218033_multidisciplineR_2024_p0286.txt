@@ -1,0 +1,59 @@
+NDA/BLA Multi-Disciplinary Review and Evaluation
+Tovorafenib (DAY101)
+
+relationships for efficacy and safety together with other evidence (see Section 6.3.2.2), FDA
+recommends 380 mg/m? QW (not to exceed 600 mg).
+
+19.4.2.4. Exposure-Response (safety) Assessment Summary
+
+Applicant’s Position
+
+Exposure-safety analyses were performed using data from Studies C28001 and FIREFLY-1 to
+evaluate the relationship between tovorafenib exposure and safety endpoints that included
+both categorical variables (NCI-CTCAE): fatigue, skin rash, anemia, myalgia, nausea and/or
+vomiting, elevated ALT, elevated AST, elevated bilirubin, and elevated CPK) and longitudinal
+safety biomarkers (hemoglobin, ALT, AST, CPK). Study 505140 was also included for
+longitudinal safety biomarkers. The key findings of these analyses include:
+
+Exposure-Adverse Events
+
+e Logistic regression analysis identified statistically significant positive correlations between
+minimum plasma concentration (Cmin) and reporting of the following AEs: Grade > 2 or
+Grade > 3 skin rash, Grade > 2 elevated ALT, Grade > 2 or Grade > 3 elevated AST, and Grade
+2 2 fatigue. Positive correlations were also noted between TAE and reporting of the
+following AEs: Grade > 2 anemia, Grade > 2 or Grade > 3 elevated CPK, and Grade > 2
+myalgia. Higher Cmin or TAE was associated with higher probability of these AEs being
+reported.
+
+e No exposure-safety relationships were observed between tovorafenib exposure (maximum
+plasma concentration [Cmax], Cmin, AUC and TAE) and the following reported AEs: elevated
+blood bilirubin (Grade > 2 or Grade 2 3), Grade > 2 nausea and/or vomiting, Grade 2 3
+anemia, or Grade 2 3 fatigue.
+
+Pharmacokinetics-Safety Biomarker
+
+e@ Separate PK/PD models demonstrated a positive correlation between tovorafenib
+concentration and AST and CPK. There was a negative correlation between tovorafenib
+concentration and hemoglobin. No relationship was observed between tovorafenib
+concentration and ALT.
+
+Table 72.
+General Information
+
+Goal of ER analysis To provide E-R relationship analysis characterizing exposure/PK-
+safety relationships
+
+Study Included Study FIREFLY-1 and Study C28001 (and® 205140 for longitudinal
+safety biomarkers)
+
+Population Included Adult and pediatric patients with cancer; healthy adult subjects were
+included for longitudinal safety biomarkers
+
+Endpoint Adverse events grouped by CTCAE grades: fatigue; skin rash;
+anemia; myalgia; nausea and/or vomiting; ALT elevation; AST
+elevation; bilirubin elevation; CPK elevation
+Longitudinal safety biomarkers: hemoglobin, ALT, AST, CPK
+
+285
+
+Reference ID: 5368881

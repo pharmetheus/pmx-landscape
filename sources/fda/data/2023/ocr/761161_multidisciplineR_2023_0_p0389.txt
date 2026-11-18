@@ -1,0 +1,83 @@
+BLA Multi-disciplinary Review and Evaluation BLA 761161
+PRX-102 pegunigalsidase alfa
+
+Cumulative accuracy (%bias) from LLOQto ULOQ-4.21 to -2.49% Acceptable
+ULOQ LLOQ-14.84 to 13.27%
+Cumulative precision (%CV) from LLOQto ULOQ | ULOQ.< 4.8% Acceptable
+LLOQ notreported
+QCs performance Number of QCs 2 Acceptable
+during accuracy &
+precision
+Inter-run accuracy (%bias) High 5.24% Acceptable
+Low 1.77%%
+Inter-run precision( %CV) High 8.51% Acceptable
+Low 12.72%
+Selectivity & matrix Up to 30% matrix suppression observed.
+effect
+
+Table 39 Validation Parameters and Performance of the UPLC-MS/MS Assay for
+Determination of Plasma Lyso-Gb3 Concentration in Study PB-102-F30
+
+Bioanalytical method
+reviewsummary
+
+The analytical method for Lyso-Gb3 in human plasma (validation report: SOP-WCECCMS-
+002) met acceptance criteria in general, with respect to sensitivity, precision, and accuracy,
+spanning a theoretical concentration range of 0.2 nM to 400nM. Linearity, dilutionintegrity,
+interference, and selectivity were not evaluated. Stability evaluations in matrix and
+solutions met acceptance criteria in general.
+
+Method description
+
+AUPLC-MS/MS assay that uses for the quantification of globotriaosylsphingosine (lyso-Gb3)
+in plasma. Briefly, plasma samples are mixed with the internal standard (IS), then a solid
+phase extraction (SPE) procedure using Oasis MCX (Mixed-mode Cation eXchange)
+cartridges is performed. Lyso-Gb3 is analyzed usingan ultra-performance liquid
+chromatography (UPLC) system hyphenated with electrospray-tandem mass spectrometry
+detection (ESI-MS/MS). Lyso-Gb3 is quantified accordingto a calibration curve, usingthe
+response factor (area of the molecule/area of the internal standard). Plasma lyso-Gb3
+concentrations are reported in nmol/L. Detailed information and parameters regarding this
+assay were previously published UPLC-MS/MS assay that we use for the quantification of
+globotriaosylsphingosine (lyso-Gb3) in plasma specimens.
+
+Materialsused for
+calibration curve&
+concentration
+
+The calibration curve, ranging from 0.2 to 400nM (0.2, 2, 10, 40, 140, 400), is
+prepared in 4X depleted charcoal plasma.
+
+Validated assay range
+
+Concentration range: 0.2-400nM
+
+Material used for QCs
+& concentration
+
+Pooled plasma samples from Fabry patients having low (30 nM) and high (200 nM)
+concentrations of lyso-Gb3.
+
+For accuracy, using charcoatstripped plasma spiked with a lyso-Gb3 standard to obtain
+concentrations of 5 nM (n= 2) and 200 nM (n= 2).
+
+Minimum required notapplicable
+
+dilutions (MRDs)
+
+Source & lot of Not provided
+
+reagents (LBA)
+
+Regression model & The 1/x weighing is an automated curve-fitting algorithm, provided as part of the
+
+weighting quantification software
+
+Validation parameters Method validation summary Acceptability
+No of standard calibrators fromLLOQto ULOQ | 6 Acceptable
+
+136
+
+Version date: October 12, 2018
+
+Reference ID: 4786588
+

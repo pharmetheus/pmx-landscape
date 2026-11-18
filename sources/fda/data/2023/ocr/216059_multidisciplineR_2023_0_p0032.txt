@@ -1,0 +1,61 @@
+NDA 216059 Multi-disciplinary Review and Evaluation
+Jaypirca (pirtobrutinib)
+
+Table 4: Binding Kinetics of Pirtobrutinib with Wild Type and BTK C481 Mutants
+
+Average Average
+ka ka Ko ha Ko hin
+Pirtobrutinib (M's?) (s?) (nM) (hy (nM) (hy
+BTK (WT) Run#1 | 6.0% 10% | 5.3% 10° 08 3.6
+Run #2 | 7.5x104 | 9.7* 10% 13 2 1.0 2.6
+Run#3_| 1.1%10° | 8.6 10° 0.8 2.2
+BTK C481S Run#1 | 2.7% 10% | 7.2% 105 2.6 2.6
+Run#2 | 1.3% 105 | 2.1104 15 11 17 19
+Run#3_| 9.9 x 104 9.6 x 10% 1.0 2.0
+BIK C481R Run#1 | 5.9x10* | 2.6 «10° 04 15 NA NA
+BIK C481T Run#1 | 31x10 [ 6.810% 0.2 28 NA NA
+
+kq: association rate constant (M“s*)
+
+ka: dissociation rate coustaut (st)
+
+Kp: dissociation equilibrium constant (nM) = ka / ka
+ty: complex half-life (hours) = In 2 / ka
+
+N/A = not applicable
+
+(Table from the Applicant)
+
+The binding reversibility of pirtobrutinib to BTK in studies of purified protein/kinase was
+supported by data for the inhibition of B-cell activation by pirtobrutinib (LOXO-305-PHARM-
+016). Pirtobrutinib reversibility was tested in the peripheral blood mononuclear cells (PBMC) B-
+cell activation assay using a washout method. In the assay, data obtained from the washout and
+non-washout plates were compared. Less than 10% inhibition of B-cell activation was observed
+in the washout plate by pirtobrutinib up to the highest concentration of 10 4M, demonstrating
+the reversibility of pirtobrutinib induced inhibition on CD69+B-cell activation (data not shown).
+
+Binding kinetics of BTK inhibitors on the targets
+The inhibitory effect against BTK C4815, illustrated as binding kinetics in the Proteros Receptor
+
+Displacement Assay, was compared among pirtobrutinib, ibrutinib and acalabrutinib.
+
+The table below summarizes the binding kinetics:
+
+¢ The dissociation kinetic constant (kof) values for pirtobrutinib from BTK and BTK C481S
+were greater for BTK, indicating a slower rate of dissociation from BTK C481S compared
+to BTK.
+
+¢ Pirtobrutinib’s residence time (=1/ko#) on BTK C481S was 3.8 times longer than
+ibrutinib’s residence time and greater than 14 times longer than acalabrutinib’s
+residence time.
+
+e  Pirtobrutinib had similar Kp values for WT and BTK C481S; however, ibrutinib and
+acalabrutinib showed increased Kp values for BTK C4815, indicating decreased affinities
+of ibrutinib and acalabrutinib towards C481S mutant BTK.
+
+31 of 265
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5116352

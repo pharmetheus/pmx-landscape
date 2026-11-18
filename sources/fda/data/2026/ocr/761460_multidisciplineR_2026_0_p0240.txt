@@ -1,0 +1,79 @@
+NDA/BLA Multi-disciplinary Review and Evaluation - BLA 761460
+Pivekimab Sunirine IMGN632)
+
+Afier encountering failures in study sample analysis, AbDVie reoptimized the initial
+assay by changing the assay buffer and blocking buffer from tat
+
+to 5% non-fat dry milk in 1x PBS and increased the assay sensitivity
+to {} ng/mL in diseased matrix (AML. ALL, and BPDCN). Additionally, the updated
+method change appeared to resolve the calibration curve issues that occurred in sample
+analysis (upper concentration readings dropped in sample analysis compared to the
+method validation).
+
+To support the assay change, AbbVie performed a partial validation (© 997-2305)
+demonstrating accuracy (—5.6%—0.8%) and precision (3.7% —4.7%) with three levels
+of QCs within the new range ( ng/mL) instead of 5 QCs as recommended in
+M10. While using both the initial and reoptimized assays in the same study
+CADENZA (801) sample analysis. AbbVie did not perform cross-validation to
+demonstrate method comparability and data poolability to support the reported PK
+profile analysis in the submission.
+
+Overall, the validation data from the initial validation and partial validation are
+inadequate to support sample analysis, which results in uncertainty regarding the
+reported data reliability due to the issues mentioned above, while approximately 52%
+of sample concentrations are not reportable due to being below the quantification limit.
+
+Method description
+
+Serum sandwich ELISA assay, capture via Mu Anti-ID G4723A, detection via
+biotinylated anti-human IgG (light chain) antibody followed by HRP-conjugated
+
+dilutions (MRDs)
+
+streptavidin
+Materials used for IMGN632
+calibration curve & Lot N1124517001
+concentration 2.05 mg/mL
+Validated assay range oa ng/mL
+Material used for QCs & | IMGN632
+concentration Lot N1124517001
+
+2.05 mg/mL.
+Minimum required 1:20
+
+Source & lot of reagents
+
+(LBA)
+
+Murine Anti-ID G4723A
+Source: ImmunoGen, Inc.
+Lots: E003671-21-001
+
+Biotin Anti-Human IgG light chain K
+Source: Lay
+Cat.No. © @
+
+Lots: toy
+
+Horseradish Peroxidase Sire aia cm
+
+Source:
+Cat. No. OQ)
+Lots: CQ
+
+Regression model &
+weighting
+
+5-Parameter Regression with 1/Y2 weighting
+
+Validation parameters Method validation summary Acceptability
+No of standard calibrators from LLOQ to ULOQ 8 ‘Acceptable
+239
+
+Version date: February 10, 2025 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as "Data" and “The Applicant's Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5805215
+

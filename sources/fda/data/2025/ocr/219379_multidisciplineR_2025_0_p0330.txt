@@ -1,0 +1,60 @@
+NDA/IND Multi-disciplinary Review and Evaluation NDA 219379/219389
+Mirdametinib (GOMEKLI)
+
+Model Structure The relationships between Acceptable
+mirdametinib exposure and efficacy
+endpoints were evaluated as PKPDx or
+ERR models. The PKPDx model
+development for tumor size used
+individual parameter estimates from
+the final PopPK model added to the
+PKPDx datasets. For the ERR analyses
+of DOR, BOR, and TTP the final PopPK
+model was used to calculate individual
+estimates of exposure at nominal
+steady state.
+
+For the TGI model, a disease
+progression model was first developed
+based on data from 01-C-0222 and 08-
+C-0079. The model was based on a
+Gompertz growth model and was
+expanded with a natural tumor decay
+rate (KD), an age-effect on tumor
+growth rate (KG) and KD, and an effect
+of baseline tumor volume on
+maximum tumor volume (TSmax).
+
+A drug effect for mirdametinib (KDrug)
+was then estimated for treated
+participants in MEK-NF-201 and NF-
+106 with disease progression model
+parameters fixed. KDrug is mudeled as
+a decaying linear effect as a function
+of Cavg,ss with a categorical age effect
+on the decay rate for KDrug (A).
+Proportional error is included for
+Study 80079, Study 10222, and for
+each reader in MEK-NF-201. IIV is
+included for KG, TSMAX, KD, KDrug,
+and A.
+
+Exposure-response relationship with
+BOR was evaluated by logistic
+regression with participants reaching
+stable disease, progressive disease,
+and with missing evaluations
+categorized as non-responders. AUCO-
+12,ss was the best predictor of
+response and no statistically
+significant covariates were identified.
+
+Model Parameter Estimates TGI model (Table 53) Acceptable
+
+329
+Version date: June 2022 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5528369

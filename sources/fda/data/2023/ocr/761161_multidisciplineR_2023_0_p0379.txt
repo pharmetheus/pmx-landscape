@@ -1,0 +1,53 @@
+BLA Multi-disciplinary Review and Evaluation BLA 761161
+PRX-102 pegunigalsidase alfa
+
+Results: The final PPK analysis for PRX-102 was based on 680 plasma concentrations of PRX-
+102 collected from 16 patients for up to 12 months. A three-compartment mammillary population
+PK model with zero-order absorption and first-order elimination, with IIV terms estimated on
+central and peripheral compartments (CL, V1, Q3, V3) and a covariance term on CL and V1
+provided the best fit to the observed PRX-102 plasma concentrations (Figure 18). Residual enor
+was best described by additive and proportional terms. Inter-occasion variability (IOV) on
+bioavailability term F significantly improved the overall model fit. No covariate was determmed
+to be statistically significant on any PK parameter. The parameters for the final population PK
+model were estimated (Table 40). The final PPK model was used to predict exposure parameters
+(individual Cmin, Cmax and AUC?) as independent variables in PKPD analyses of Lyso-Gb3 and
+Gb3 inclusions.
+
+PKPD Modeling of Lyso-Gb3: PKPD modeling of Lyso-Gb3 was based on the data collected from
+16 patients. There was a statistically significant relationship identified between Lyso-Gb3 and
+PRX-102 exposure in male patients. PRX-102 0.2 mg/kg, 1 mg/kg and 2 mg/kg doses were
+associated with Lyso-Gb3 reductions of 39%, 71%, and 74%, respectively, in male patients
+(Figure 19). Female patients had few or no elevated levels of Lyso-Gb3 at baseline and
+accordingly there was no reduction in Lyso-Gb3 with increase in exposure (Figure 20).
+
+Figure 16: Observed versus model predicted pegunigalsidase concentration for final
+population PK model
+data © Identity ine smooth —— data © identity line smooth ——
+2 : f 1
+40000 = ° + 40000
+= ° 5
+z E
+2 30000 5 > | 2 20000 +
+° °
+B 20000 ~ L | 3 20000 + L
+Fi 5
+2 2
+g a
+© 55000 © sc000
+0 ° 1 1 1 1
+0 10000 20000» 30000» 40000 0 10000-20000 30000 40000
+Population Predicted Conc (ng/mL) Individual Predicted Cone (ng/mL)
+Source: Figure 12-4 of Applicant’s PPK and PKPD report
+
+Table 36: Final population PK model parameter estimates with bootstrap estimates
+Parameter Shrink- RSE Bootstrap Median
+(nit) Estimate age (%) CV(%) | (90% Percentile Interval)
+Fixed Effects
+61: CL (U/hr) 0.0479 19.83 70.43 0.0477 (0.0318, 0.0746)
+2: Vi CL) 5.399 5.23 18.33 5.356 (4.957, 5.886)
+03: Q (L/h) 0.217 12.47 0.214 (0.169, 0.285)
+126
+
+Version date: October 12, 2018
+
+Reference ID: 4786588

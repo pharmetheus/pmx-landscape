@@ -1,0 +1,57 @@
+NDA/BLA Multi-disciplinary Review and Evaluation/New Drug Application (NDA) 219908
+REVTORPYK (gedatolisib)
+
+2. OS for Arm B vs Arm C
+3. OS for Arm A vs Arm B
+
+At the time of primary PFS analysis, interim analyses of OS were conducted. The interim
+analysis of OS for Arm A vs Arm C based on 48% information fraction was not statistically
+significant with a HR of 0.69 (95% CI: 0.43, 1.12) and p-value = 0.133. Thus, the remaining OS
+endpoints in the hierarchy could not be formally tested. The interim analysis of OS for Arm B vs
+Arm C with 46% information fraction showed a HR of 0.74 (95% CI: 0.46, 1.19). Results of OS
+for Arm A vs Arm B are discussed below with respect to the contribution of components.
+
+As with the primary PFS analyses, FDA notes that the stratified analyses for OS for Arm A vs
+Arm C and OS for Arm B vs Arm C were stratified by visceral metastasis status and geographic
+region. The remaining randomization stratification factor of time to disease progression on
+immediate prior therapy was removed from the stratified analysis due to sparsity and was
+included as an independent factor in estimation of the HR as pre-specified in the SAP. FDA
+conducted various sensitivity analyses where the OS HR for both comparisons was estimated by
+stratified Cox regression models with treatment as the only covariate and results were consistent
+with the Applicant’s pre-specified primary analysis.
+
+For the comparisons of Arm A vs Arm C and Arm B vs Arm C, FDA notes that the Applicant
+has presented landmark rates for OS at 12, 18, and 24 months, which are considered exploratory.
+Tn general, the point estimate of event rates at a fixed time point for a time-to-event endpoint can
+be misleading because it does not represent the entire effect size of the treatment, and the chosen
+landmark time can be arbitrary.
+
+FDA acknowledges the sensitivity analyses of OS conducted by the Applicant and considers
+them to be exploratory. Overall, based on the current OS data, there is no evidence of an OS
+detriment for the Arm A vs Arm C and Arm B vs Arm C comparisons.
+
+Tn addition, for the comparisons of Arm A vs Arm C and Arm B vs Arm C, FDA conducted
+exploratory subgroup analyses of OS by age, visceral metastasis, time to radiological disease
+progression, geographic area, prior palbociclib, prior ribociclib, and prior abemaciclib, which are
+presented in the table below (Table 32). Note that results of these exploratory subgroup analyses
+of OS are based on unstratified Cox regression models and the 95% CIs for the HRs are
+estimated using the Wald method.
+
+Table 32: FDA - OS Subgroups (ITT)
+
+Arm A Arm C
+HR 95% CI
+#Hevents/N #Hevents/N
+OS Subgroup Analyses - Arms A vs C
+Age
+<65 19/93 27/108 0.73 (0.40, 1.31)
+265 11/38 10/23 0.61 (0.26, 1.44)
+
+135
+Version date: February 10, 2025 (ALL NDA/BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5832496
+

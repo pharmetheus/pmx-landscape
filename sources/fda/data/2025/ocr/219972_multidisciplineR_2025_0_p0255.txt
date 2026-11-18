@@ -1,0 +1,50 @@
+NDA/BLA Multi-disciplinary Review and Evaluation — NDA 219972
+Sevabertinib (BAY 2927088) — Version 2.0
+
+Supraventricular tachycardia 0.7 0 0.7 0
+Arrhythmia 0.7 0.7 0.4 0.4
+Atrioventricular block complete 0.7 0.7 0.4 0.4
+Sinus tachycardia 0.7 0.7 04 04
+Sinus bradycardia 0.7 0 0.4 0
+Sinus arrhythmia 0.7 0 0.4 0
+Atrial fibrillation 0 0 141 ie)
+Atrial tachycardia 0 0 0.7 0
+
+Source: FDA analysis of adae.xpt
+
+Variables used: USUBJID, COLGROUP, ATOXGRN, AEDECOD, AEBODSYS, and TRTEMFL.
+
+Note: Custom grouped terms are designated by ‘(GT)’.
+
+Arrhythmia (GT) includes: Arrhythmia, Atrial fibrillation, Atrial tachycardia, Atrioventricular block complete,
+Electrocardiogram QT prolonged, Sinus arrhythmia, Sinus bradycardia, Sinus tachycardia, Supraventricular
+Cough (GT) includes: Cough, and Productive cough.
+
+Diarrhoea (GT) includes: Colitis, Diarrhoea, and Enterocolitis.
+
+Eye disorder (GT) includes: Blindness unilateral, Cataract, Conjunctivitis, Conjunctivitis allergic, Corneal epithelial
+microcysts, Dry eye, Eye discharge, Eye pain, Eye swelling, Lacrimation increased, Ocular hyperaemia, Ocular
+hypertension, Ocular toxicity, Punctate keratitis, Vision blurred, Visual acuity reduced, Visual impairment, and
+Xerophthalmia.
+
+Pneumonitis (GT) includes: Interstitial lung disease.
+
+8.2.5. Clinical Outcome Assessment (COA) Analyses Informing Safety/Tolerability
+The Applicant’s Position:
+Not applicable.
+The FDA’s Assessment:
+Not applicable.
+8.2.6. Safety Analyses by Demographic Subgroups
+
+Data:
+
+Subgroup analyses for TEAEs were performed based on age (<65 years, >65 years), sex (male,
+female), race (Asian, White, Other), and geographical region (Asia, non-Asia).
+
+254
+Version date: March 1, 2024 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5697816

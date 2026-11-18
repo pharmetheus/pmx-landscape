@@ -1,0 +1,32 @@
+{
+ "100001": [
+  {
+   "type": "integratedR",
+   "folder_year": "2099",
+   "url": "https://example.org/100001.pdf",
+   "text_file": "txt/100001_integratedR_2099.txt"
+  }
+ ],
+ "100002": [
+  {
+   "type": "clinPharmR",
+   "folder_year": "2099",
+   "url": "https://example.org/100002a.pdf",
+   "text_file": "txt/100002_clinPharmR_2099.txt"
+  },
+  {
+   "type": "multidisciplineR",
+   "folder_year": "2100",
+   "url": "https://example.org/100002b.pdf",
+   "text_file": "txt/100002_multidisciplineR_2100.txt"
+  }
+ ],
+ "100003": [
+  {
+   "type": "integratedR",
+   "folder_year": "2099",
+   "url": "https://example.org/100003.pdf",
+   "text_file": "txt/100003_integratedR_2099.txt"
+  }
+ ]
+}

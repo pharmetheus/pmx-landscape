@@ -1,0 +1,70 @@
+NDA/BLA Multi-disciplinary Review and Evaluation NDA 221075
+
+Iberdomide (ZENBEXUS)
+
+Software and Version The analyses were performed using the Acceptable
+NONMEM computer program (Version 7.5),
+compiled using GNU FORTRAN version 77.
+The installation of NONMEM has been
+validated and all relevant patches and
+upgrades have been installed. Diagnostic
+graphics, exploratory analyses, and post-
+processing of NONMEM output were
+performed using R software (R version 4.3.1).
+
+Model Structure The final model was adequately described by | Acceptable
+a 2-compartment model with first-order
+absorption and an absorption lag for, ITV on
+CL/F, VC/F, and VP/F, and an additive
+residual error model.
+
+Model Parameter Estimates Table 84 Acceptable
+
+Uncertainty and Variability All model parameters were reasonably well Acceptable
+
+(RSE, IIV, Shrinkage, estimated. Most fixed-effects had %RSE
+
+Bootstrap) below 25%. All random-effects had %RSE
+
+below 25%.
+BLQ for Parameter Accuracy | A total of 39 Post-dose concentration values | Acceptable
+BLQ observations (2.0%) were excluded
+from analysis and had no impact on PK
+objectives
+
+GOF, VPC Figure 10, Figure 11, Figure 12 Acceptable
+
+Significant Covariates and Figure 13 - Figure 24 Acceptable
+
+Clinical Relevance
+
+Analysis Based on Not applicable N/A
+
+Simulation (optional)
+
+Labeling Language Description Acceptability
+[FDA’s
+comments]
+
+12.3 PK Included information on mechanism of Acceptable
+
+action, PD, and PK.
+
+Table 84: Applicant - Summary of Baseline Covariates in the Iberdomide PPK Analysis
+
+Covariate CC-220-MM-001 CC-220-MM-002 Overall
+(N=149) (N=339) (N=488)
+Sex
+Female 73 (49.0%) 148 (43.7%) 221 (45.3%)
+Male 76 (51.0%) 191 (56.3%) 267 (54.7%)
+Race
+
+252
+
+Version date: February 10, 2025 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5851050
+

@@ -1,0 +1,106 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 219249}
+{Inavolisib}
+
+Appendix 1 Section 57 (38.3%) Asian
+
+9.1) Phase | Study GO39374 (n=165):
+
+‘Age median (range): 59.0 [31.0, 85.0]
+
+Weight median (range): 65.0 [43.0, 159]
+
+164 (99.4%) female
+
+4 (2.4%) Asian; 3 (1.8%) Black or African American; 1 (0.6%) Multiple; 119 (72.1%) White, 38 (23%)
+Unknown
+
+Organ Phase Ill Study WO41554 (n=149):
+
+impairment | Hepatic impairment (NCI): normal 108 (72.5%); Mild 41 (27.5%)
+
+Renal impairment (CrCL): normal 92 (61.7%); Mild 48 (32.2%); Moderate 9 (6.0%)
+
+Phase | Study GO39374 65):
+
+Hepatic impairment (NCI): normal 102 (61.8%); Mild group1 58 (35.2%); Mild group2 4 (2.4%);
+Renal impairment (CrCL): normal 77 (46.7%); Mild 70 (42.4%); Moderate 17 (10.3%)
+
+Pediatrics | No pediatric patients were included
+
+(if any)
+Geriatrics Phase Ill Study WO41554 (n=149):
+
+(if any) The median (range) age was 53 years (27.0 to 77.0 years), with 13.4% >65 years and 2.68% >75
+years.
+
+144 (96.6%) female
+
+Phase | Study GO39374 (n=165):
+
+The median (range) age was 59 years (31.0 to 85.0 years), with 26.67% > 65 years and 4.85% >75
+years.
+
+164 (99.4%) female
+
+Dose(s) Included Phase Ill Study WO41554: 9 mg
+
+Phase | Study GO39374: 3, 6, 9, 12mg
+
+Exposure Metrics Explored (range) | The exposure metrics were derived based on the posthoc PK parameters and the nominal dose
+ui (n=149):
+
+|: 979 [598, 2180] ng-h/mL
+
+‘Cmax median (range): 65.4 [34.5, 146] ng/mL
+
+nin median (range): 22.1 [10.6, 65.5] ng/mL
+
+Phase | Study GO39374 (n=165):
+
+‘AUC median (range): 977 [157, 2850] ng-h/ml.
+
+Grax median (range): 57.0 [8.97, 128] ng/mL
+
+Grin median (range): 25.2 [3.70, 103] ng/mL
+
+Covariates Evaluated Include all covariates for the efficacy analysis, plus “Risk factors for Hyperglycemia at Study Entry”
+and “Steroid PO 10 mg prednisone QD or the equivalent”
+Final Model Parameters ‘Summary ‘Acceptability
+[FDA’s comments}
+Model Structure The relationships between safety and inavolisib exposure were explored | Acceptable
+
+using Kaplan-Meier curves and Cox proportional hazard models for the
+time to event endpoints (time to onset for the AE endpoints), and logistic
+regressions for the binary endpoints (the AE endpoints). The Firth
+correction was implemented in the logistic regression when required to
+reduce the bias of maximum /likelihood estimates where small samples
+with unbalanced risk factors lead to separation problem
+
+Model Parameter Estimates p ‘Acceptable
+No exposure-response relationships (both probability and time to onset)
+were observed for Grade >3 AE, Neutropenia Grade >2, Hyperglycemia
+Grade 22, Thrombocytopenia 22, inavolisib dose Modification due to AE,
+Diarrhea Grade 22, Stomatitis Grade 22; positive exposure-response
+relationship was observed for probability of Anemia Grade > 2 (see Tables
+31-48 in Report 1129439).
+Phase | Study GO39374:
+Positive exposure-response relationships (both probability and time to
+onset) were observed for Grade 23 AE, hyperglycemia Grade >2, and
+inavolisib dose modification due to AE (see Tables 12-16 in Report
+1129439).
+Model Evaluation ‘Same as exposure-efficacy analysis Acceptable
+Covariates and Clinical Relevance Phase study WO41554: Acceptable
+
+Various baseline cova
+
+1es were identified for the safety endpoints, such
+as Hemoglobin for Grade >2 anemia (probability and time to onset),
+Neutrophil count for Grade 22 Neutropenia (probability and time to
+
+212
+Version date: June 2022 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5460147

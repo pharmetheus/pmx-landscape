@@ -1,0 +1,1923 @@
+CENTER FOR DRUG EVALUATION AND
+RESEARCH
+APPLICATION NUMBER:
+
+761269Orig1s000
+CLINICAL PHARMACOLOGY
+REVIEW(S)
+
+Office of Clinical Pharmacology Review
+
+BLA Number
+Link to EDR
+Submission Date
+Submission Type
+Brand Name
+Generic Name
+Dosage Form and Strength
+Route of Administration
+Proposed Indication
+Proposed Dose/Regimen
+Applicant
+Associated IND
+OCP Review Team
+
+OCP Final Signatory
+
+761269
+\\CDSESUB1\evsprod\BLA761269\0002
+12/14/2021
+351(a), priority review
+LEQEMBI™
+Lecanemab-irmb
+100 mg/mL solution in a single-dose vial
+•
+500 mg/5 mL
+•
+200 mg/2 mL
+Intravenous infusion
+Treatment of Alzheimer’s Disease
+10 mg/kg administered as an intravenous
+infusion over approximately one hour, once
+every two weeks
+Eisai Inc.
+IND 105081
+Yifei Zhang, Ph.D., Vishnu Sharma, Ph.D.,
+Mohsen Rajabiabhari, Ph.D., Xiulian Du,
+Ph.D., Atul Bhattaram, Ph.D., Yow-Ming,
+Wang, Ph.D., Bilal AbuAsal, Ph.D.,
+Sreedharan Sabarinath, Ph.D., Hao Zhu,
+Ph.D., Ramana Uppoor, Ph.D.
+Mehul Mehta, Ph.D.
+
+1
+
+Reference ID: 5103174
+
+Table of Contents
+1. EXECUTIVE SUMMARY .............................................................................................................................. 4
+1.1 Recommendations .............................................................................................................................. 5
+1.2 Post-Marketing Requirements and Commitments ............................................................................. 6
+2. SUMMARY OF CLINICAL PHARMACOLOGY ASSESSMENT ......................................................................... 6
+2.1 Pharmacology and Clinical Pharmacokinetics..................................................................................... 6
+2.2 Dosing and Therapeutic Individualization........................................................................................... 7
+2.2.1 General dosing ............................................................................................................................. 7
+2.2.2 Therapeutic individualization....................................................................................................... 7
+2.3 Outstanding Issues .............................................................................................................................. 7
+2.4 Summary of Labeling Recommendations ........................................................................................... 8
+Labeling Section 12.2 Pharmacodynamics ............................................................................................ 8
+Labeling Section 12.6 Immunogenicity ................................................................................................. 8
+3. COMPREHENSIVE CLINICAL PHARMACOLOGY REVIEW ............................................................................ 9
+3.1 Overview of the Product and Regulatory Background ....................................................................... 9
+3.2 General Pharmacology and Pharmacokinetic Characteristics ............................................................ 9
+3.3 Clinical Pharmacology Review Questions ......................................................................................... 10
+3.3.1 To what extent does the available clinical pharmacology information provide pivotal or
+supportive evidence of effectiveness? ............................................................................................... 10
+3.3.2 Is the proposed dosing regimen appropriate for the general patient population for which the
+indication is being sought? ................................................................................................................. 18
+3.3.3 Is an alternative dosing regimen and/or management strategy required for subpopulations
+based on intrinsic factors? .................................................................................................................. 19
+3.3.4 Are there clinically relevant food-drug or drug-drug interactions and what is the appropriate
+management strategy? ....................................................................................................................... 19
+3.3.5 Is the to-be-marketed formulation the same as the clinical trial formulation, and if not, are
+there bioequivalence data to support approval of the to-be-marketed formulation? ...................... 19
+4. APPENDICES ............................................................................................................................................ 20
+4.1 Summary of Bioanalytical Method Validation and Performance ..................................................... 20
+4.1.1 Bioanalysis for Lecanemab in human serum ............................................................................. 20
+4.1.2 Bioanalysis of amyloid beta in human CSF and plasma ............................................................. 22
+2
+
+Reference ID: 5103174
+
+4.1.3 Bioanalysis of p-tau181 in human CSF and plasma ................................................................... 26
+4.2 Clinical PK Assessments .................................................................................................................... 33
+Study BAN2401-A001-101 .................................................................................................................. 33
+Study BAN2401-J081-104 ................................................................................................................... 34
+4.3 Assessments of Biomarker Results ................................................................................................... 35
+4.3.1 Effect of Lecanemab on Biomarkers in Plasma and CSF ............................................................ 35
+4.3.2 Relationships Between Plasma Biomarkers and Clinical Endpoints .......................................... 38
+4.4 Pharmacometrics Analyses ............................................................................................................... 41
+4.4.1 Applicant’s Analysis.................................................................................................................... 41
+4.4.2 Reviewer’s Analysis .................................................................................................................... 66
+4.5 Immunogenicity ................................................................................................................................ 69
+4.5.1 Classification of Subjects as ADA/NAb Positive vs. Negative ..................................................... 69
+4.5.2 Effect of Immunogenicity on PK and PD .................................................................................... 70
+
+3
+
+Reference ID: 5103174
+
+1. EXECUTIVE SUMMARY
+In this original Biologics License Application (BLA), Eisai Inc. is seeking approval for lecanemab
+(LEQEMBI™) under the accelerated approval pathway for the treatment of Alzheimer’s Disease (AD).
+Treatment with LEQEMBI should be initiated in patients with mild cognitive impairment or mild
+dementia stage of disease, the population in which treatment was initiated in clinical trials. Lecanemab
+is a humanized immunoglobulin G1 (IgG1) monoclonal antibody directed against aggregated soluble and
+insoluble forms of amyloid beta. The recommended starting and maintenance dose is 10 mg/kg
+administered as an intravenous infusion over approximately one hour, once every two weeks.
+The clinical development program for the lecanemab BLA submission consists of 5 ongoing or completed
+clinical studies. Study BAN2401-G000-201 is a Phase 2 registrational study that evaluated the safety and
+efficacy of lecanemab in patients with early AD, which is defined as mild cognitive impairment (MCI) or
+mild dementia stage of AD. Study BAN2401-A001-101 and BAN2401-J081-104 are completed Phase 1
+studies that evaluated single or multiple doses of lecanemab (0.1 to 15 mg/kg) administered to subjects
+with mild to moderate AD (Study 101) and MCI due to AD and mild AD (Study 104). Additionally, data
+from two ongoing Phase 3 studies in early AD (Study BAN2401-G000-301) and preclinical AD (Study
+BAN2401-G000-303) patients also contributed to the evaluation of safety.
+Reduction in brain amyloid has been established as a biomarker reasonably likely to predict clinical
+benefit in subjects with AD. The applicant is seeking accelerated approval of LEQEMBI based on
+reduction in amyloid beta plaques observed in Study 201. Study 201 is a multicenter, double-blind,
+placebo-controlled Phase 2 study which includes a completed Core phase that provides the primary
+dataset for the evaluation of safety and efficacy, an ongoing open-label extension (OLE) phase, and a
+Gap period between the two phases. The lecanemab dose levels tested in the Core phase include 2.5
+mg/kg biweekly, 5 mg/kg monthly, 5 mg/kg biweekly, 10 mg/kg monthly, and 10 mg/kg biweekly. At the
+recommended dosing regimen of 10 mg/kg once every two weeks, the amyloid reduction from baseline
+as measured by PET Standard Uptake Value Ratio (SUVR) was statistically significant (P<0.001 at Week
+53 and Week 79) versus placebo. The effectiveness of lecanemab for the treatment of AD is also
+supported by the dose/time-dependent effect on clinical endpoints including Alzheimer’s Disease
+Composite Score (ADCOMS), Clinical Dementia Rating – Sum of Boxes (CDR-SB), and Alzheimer’s Disease
+Assessment Scale – Cognitive subscale with 14 tasks (ADAS-Cog14). Further, the change in plasma
+biomarkers (i.e., plasma p-tau181 and plasma Aβ42/40 ratio) provided additional mechanistic support
+for the treatment effect of lecanemab.
+The lecanemab clinical pharmacology program was designed to describe the pharmacokinetics (PK) of
+lecanemab, evaluate the effects of intrinsic factors, and assess the relationships between lecanemab PK
+exposure and response outcomes, including pharmacodynamics (PD), efficacy, and safety. The primary
+objectives of this review are: (1) to evaluate the acceptability of general dosing recommendations and
+the need for dose adjustment based on intrinsic factors; (2) to evaluate the changes in biomarker levels
+and their correlations with clinical outcomes during treatment with lecanemab; and (3) to evaluate the
+effect of immunogenicity on PK, PD, and safety.
+4
+
+Reference ID: 5103174
+
+1.1 Recommendations
+The Office of Clinical Pharmacology reviewed this BLA and recommends accelerated approval from a
+clinical pharmacology perspective. The focus of this review and specific recommendations and
+comments are summarized below.
+Review Issue
+
+Recommendations and Comments
+
+Pivotal or supportive evidence of
+effectiveness
+
+Primary evidence of effectiveness is based on reported reduction in
+brain amyloid from the adequate and well-controlled Phase 2 study
+(Study 201) in early AD patients. The effectiveness of lecanemab is
+also supported by the exposure-response relationships from Study
+201 on primary and secondary clinical endpoints and plasma
+biomarkers.
+• The recommended starting and maintenance dose is 10 mg/kg
+administered as an intravenous infusion over approximately
+one hour, once every two weeks.
+• Dilution in 250 mL of 0.9% Sodium Chloride Injection, USP, is
+required prior to administration.
+• Administer as an intravenous infusion via a terminal lowprotein binding 0.2 micron in-line filter.
+No dose adjustment is needed based on intrinsic or extrinsic
+factors.
+There was no significant effect of age, race, liver enzymes,
+creatinine clearance, and APOE4 carrier status on lecanemab
+clearance.
+Sex, body weight, and albumin were found to impact exposure to
+lecanemab. However, none of these covariates were found to be
+clinically significant to warrant dose adjustment.
+The proposed labeling concepts are generally acceptable. However,
+the review team recommends the following edits to Sections 12.2
+and 12.6:
+(b) (4)
+• Revise the labeling claims in Section 12.2
+
+General dosing instructions
+
+Dosing in patient subgroups
+(intrinsic and extrinsic factors)
+
+Labeling
+
+Revise the labeling claims in Section 12.6 to reflect the
+limitations in anti-drug antibody (ADA) and neutralizing
+antibody (NAb) assays and its potential impact on the
+incidence and clinical relevance of antibody formation.
+(b) (4)
+Formulations with different manufacturing processes
+of lecanemab were used in clinical studies and are different
+(b)
+with the to-be-marketed formulation (process (4) ).
+•
+
+Bridge between the to-bemarketed and clinical trial
+formulations
+
+Lecanemab exposure following intravenous administration of the 2
+(b)
+(b)
+formulations (Process (4) and Process (4) ) used in the clinical
+studies summarized in this submission were comparable, with an
+(b) (4)
+estimated relative bioavailability
+of 99.8%.
+
+5
+
+Reference ID: 5103174
+
+In accordance with ICH Q5E guidelines, the applicant conducted
+comparability studies to demonstrate analytical similarity between
+different formulations. Please refer to OBP review about the
+analytical comparability between the processes used in clinical
+(b)
+(b)
+studies (Processes (4) and (4) ) and the to-be-marketed product
+(b)
+(Process (4) ).
+
+1.2 Post-Marketing Requirements and Commitments
+To obtain meaningful immunogenicity results, a PMR is recommended by the clinical pharmacology
+review team. To fulfill the PMR, the applicant needs to use improved and validated assays of ADA and
+NAb to evaluate their impacts on the pharmacokinetics, pharmacodynamics, safety, and efficacy of
+lecanemab in patients enrolled in the confirmatory study. Please refer to OBP review for another PMR
+to develop and validate ADA and NAb assays with improved sensitivity.
+
+2. SUMMARY OF CLINICAL PHARMACOLOGY ASSESSMENT
+2.1 Pharmacology and Clinical Pharmacokinetics
+Mechanism of Action
+Lecanemab is a humanized immunoglobulin gamma 1 (IgG1) monoclonal antibody directed against
+aggregated soluble and insoluble forms of amyloid beta. The accumulation of amyloid beta plaques in
+the brain is a defining pathophysiological feature of Alzheimer’s disease. Lecanemab reduces amyloid
+beta plaques as evaluated in Study 201.
+Distribution
+The mean value for central volume of distribution at steady-state is 3.22 L (95% confidence interval is
+3.15-3.28).
+Elimination
+Lecanemab is expected to be degraded by proteolytic enzymes into small peptides and amino acids via
+catabolic pathways in the same manner as endogenous IgGs. The mean clearance of lecanemab is 0.434
+(0.420-0.451) L/day, and the mean terminal half-life is 5 to 7 days.
+Lecanemab clearance was not affected by age, race, liver enzymes, creatinine clearance, and APOE4
+carrier status. The covariates effects of body weight, albumin, and sex were small and not clinically
+meaningful. Therefore, no dose adjustment is recommended for lecanemab based on these covariates.
+Specific Populations
+6
+
+Reference ID: 5103174
+
+No dedicated clinical studies were performed in subjects with renal or hepatic impairment. Generally,
+the IgG monoclonal antibodies undergo elimination via intracellular catabolism, and the impact of
+renal/hepatic impairment on the pharmacokinetics of lecanemab is unlikely to be clinically relevant.
+Therefore, no dose adjustment is recommended for patients with hepatic/renal impairment.
+Immunogenicity
+During the 18-month treatment period in Study 1, 63/154 (40.9%) of patients treated with LEQEMBI (10
+mg/kg biweekly) developed anti-lecanemab-irmb antibodies. Of these patients neutralizing antilecanemab-irmb antibodies were detected in 16/63 (25.4%) patients. However, the assays used to
+measure anti-lecanemab-irmb antibodies and neutralizing antibodies are subject to interference by
+serum lecanemab concentrations, possibly resulting in an underestimation of the incidence of antibody
+formation. Therefore, there is insufficient information to characterize the effects of anti-lecanemabirmb antibodies on pharmacokinetics, pharmacodynamics, safety, or effectiveness of LEQEMBI.
+
+2.2 Dosing and Therapeutic Individualization
+2.2.1 General dosing
+The recommended starting and maintenance dose of lecanemab is 10 mg/kg and the dosing frequency
+is once every 2 weeks. Lecanemab is administered as an intravenous infusion over approximately one
+hour. The dosing regimen was tested in the pivotal Phase 2 Study in patients with early AD.
+2.2.2 Therapeutic individualization
+No therapeutic individualization is recommended based on intrinsic/extrinsic factors. As a monoclonal
+antibody administered by intravenous route, food-drug interactions are not anticipated for lecanemab,
+and the drug-drug interaction liability is considered low. In addition, renal/hepatic impairment is not
+expected to impact the pharmacokinetics of lecanemab.
+
+2.3 Outstanding Issues
+The ADA and NAb assays have drug tolerance levels that are lower than most of the pre-dose lecanemab
+concentrations in Study 201 Core at the dose of 10 mg Q2W, which affects the data interpretability
+regarding the incidence and clinical impact of antibody formation. Improved assays of ADA and NAb
+need to be developed with drug tolerance levels that allow data interpretation for most of the study
+participants. The applicant needs to use improved and validated assays to determine the incidence of
+ADA and NAb in the confirmatory study, and to evaluate the potential impact of ADA and NAb on the
+pharmacokinetics, pharmacodynamics, safety, and efficacy of lecanemab.
+
+7
+
+Reference ID: 5103174
+
+2.4 Summary of Labeling Recommendations
+The proposed labeling concepts are generally acceptable. However, the review team has the following
+recommendations for Labeling Sections 12.2 and 12.6:
+Labeling Section 12.2 Pharmacodynamics
+• Plasma p-tau181 and plasma Aβ42/40 ratio: The bioanalytical method validation has a few
+scientific gaps, including insufficient coverage of long-term stability and inadequate matrix
+effect evaluation. The reported changes in these biomarkers following treatment with
+lecanemab compared to placebo are unlikely to be a random occurrence and cannot be fully
+attributed to the inadequacy of method validation (please refer to Appendix 4.3 for additional
+details). Therefore, the review team recommends including qualitative statements in labeling
+Section 12.2 to reflect the changes in plasma p-tau181 and Aβ42/40 ratio following 10 mg/kg
+biweekly dosing compared to placebo observed in Study 201 Core. Further, the review team
+recommends including a statement to highlight the uncertainties in bioanalysis if inclusion of
+any quantitative description of plasma biomarkers is considered clinically necessary in other
+sections of the label.
+(b) (4)
+•
+
+•
+
+Exposure-Response Relationships: Higher exposures to lecanemab were associated with greater
+reduction in amyloid beta plaque (SUVR) and clinical decline. Higher exposures to lecanemab
+were also associated with greater increase in plasma Aβ42/40 ratio and greater reduction in
+plasma p-tau181. In addition, reduction in amyloid beta plaque (SUVR) was associated with
+slowing of clinical decline.
+
+Labeling Section 12.6 Immunogenicity
+The review team noted that most of the pre-dose lecanemab concentrations were above the drug
+tolerance level for the ADA and NAb assays. This limitation in ADA assay resulted in ADA negative
+inconclusive status for a majority of study samples, which created challenges to evaluate the clinical
+impact of ADA on PK, PD, efficacy, and safety. Thus, the review team recommends to state in the label
+that:
+•
+•
+
+The ADA and NAb assays are subject to interference by serum lecanemab concentrations,
+possibly resulting in an underestimation of the incidence of antibody formation.
+Therefore, there is insufficient information to characterize the effects of anti-lecanemab-irmb
+antibodies on pharmacokinetics, pharmacodynamics, safety, or effectiveness of LEQEMBI.
+
+8
+
+Reference ID: 5103174
+
+to complete 18 months of study irrespective of results of the 12-months interim analysis. It was
+followed with a Gap period between the end of Core and the start of OLE Phase where subjects were off
+lecanemab (i.e., untreated) for 9 to 59 months (mean 24 months). The OLE phase is currently ongoing, in
+which all the subjects receive lecanemab 10 mg/kg biweekly.
+A dose and time-dependent effect on the reduction of brain amyloid was demonstrated in Study 201
+Core (Figure 1). At the proposed therapeutic dose of lecanemab 10 mg/kg biweekly, the amyloid change
+from baseline (CFB) as measured by PET SUVR was statistically significant (P<0.001 at Week 53 and
+Week 79) versus placebo. A least-square (LS) mean reduction in PET SUVR of 0.306 was observed after
+18 months of lecanemab treatment compared to an LS mean increase of 0.004 for placebo. The mean
+amyloid PET SUVR following lecanemab 10 mg/kg biweekly treatment for 18 months was below the
+SUVR threshold for amyloid positivity of 1.17. Approximately 65% and 81% of subjects were converted
+from amyloid positive to negative by visual read at 12 and 18 months, respectively, compared to 12 %
+and 22 % for the subjects in the placebo group. Overall, these results of conversion to amyloid negativity
+indicate that lecanemab treatment significantly clears amyloid from the brain.
+Figure 1 Least Square Mean (± SE) Change from Baseline in Brain Amyloid Levels as Measured by
+Amyloid PET SUVR Normalized to Whole Cerebellum Mask by Visit – Study 201 Core
+
+Source: Applicant’s Study 201 Core Clinical Study Report Figure 14.2.2.3.4e.
+
+11
+
+Reference ID: 5103174
+
+The effectiveness of lecanemab as a treatment for AD is also supported by the exposure-response
+relationships for amyloid PET and clinical efficacy endpoints in Study 201 Core. At 18 month after the
+initiation of treatment, higher lecanemab average plasma concentration at steady state (Css,avg) was
+associated with greater reduction in amyloid PET SUVR (Figure 2). In addition, an association was
+observed between higher lecanemab PK exposures (Css,avg) and greater reduction in clinical decline. As
+shown in Figure 3A, higher Css,avg of lecanemab was associated with less increase from baseline in Clinical
+Dementia Rating – Sum of Boxes (CDR-SB) at month 18. Similar trends were observed with other clinical
+efficacy endpoints including Alzheimer’s Disease Composite Score (ADCOMS) and Alzheimer’s Disease
+Assessment Scale – Cognitive subscale with 14 tasks (ADAS-Cog14), as shown in Figure 3B and Figure 3C.
+In addition to the correlation using observed data in Figure 3, model-based exposure-response analyses
+demonstrated that higher exposures to lecanemab were associated with greater reduction in decline in
+CDR-SB, ADCOMS, and ADAS-Cog14 over time (refer to Appendix 4.4.1.2, Figure 13).
+Figure 2 Relationship Between Lecanemab Exposure (Css,avg) and the Change from Baseline in Amyloid
+PET SUVR at Month 18
+
+Source: Reviewer’s analysis.
+Circles and error bars represent mean and ± standard errors respectively.
+
+12
+
+Reference ID: 5103174
+
+Figure 3 Relationships Between Lecanemab Exposure (Css,avg) and the Change from Baseline in Clinical
+Endpoints Including CDR-SB (A), ADCOMS (B) and ADAS-Cog14 (C) at Month 18
+A
+
+B
+
+13
+
+Reference ID: 5103174
+
+C
+
+Source: Reviewer’s analysis.
+Circles and error bars represent mean and ± standard errors respectively.
+
+The associations between amyloid PET-SUVR and clinical endpoints (CDR-SB, ADCOMS and ADAS-Cog14)
+from Study 201 Core are shown in Figure 4. The data suggest that reduction in amyloid PET-SUVR were
+associated with reduction in clinical decline on CDR-SB, ADCOMS, and ADAS-Cog14. Additionally, the
+SUVR-Efficacy models predicted SUVR change-dependent slowing of disease progression over time
+(refer to Appendix 4.4.1.3, Figure 16).
+
+14
+
+Reference ID: 5103174
+
+Figure 4 Relationship Between Adjusted Mean (+/-SE) Difference from Placebo Group in Clinical
+Endpoints and Adjusted Mean Difference from Placebo in Amyloid PET-SUVR at Month 18
+A
+
+B
+
+15
+
+Reference ID: 5103174
+
+C
+
+Note: PD analysis set 2 dataset was used for the analysis which included subjects who had sufficient amyloid PET
+data to derive at least 1 amyloid parameter. Clinical endpoints and amyloid PET SUVR data at Month 12 and Month
+18 were included in the MMRM analysis to compute adjusted mean difference.
+CDR-SB: Clinical Dementia Rating – Sum of Boxes; ADCOMS: Alzheimer’s Disease Composite Score; ADAS-Cog:
+Alzheimer’s Disease Assessment Scale-Cognitive subscale; MMRM: mixed-effect models with repeated measures;
+PET: positron emission tomography, SUVR: standard uptake value ratio
+Source: Reviewer’s analysis.
+
+In addition to the data listed above, the applicant submitted plasma and CSF biomarker data to
+supplement the evaluation of the treatment effect and support mechanistic activity of lecanemab and
+drug-related effect on downstream AD pathophysiology. These biomarkers included plasma Aβ42/40
+ratio, CSF Aβ[1–42], and the human tau protein phosphorylated at threonine in position 181 (p-tau181)
+in plasma and CSF. Literature reports suggest that the soluble biomarkers such as p-tau181 and Aβ42/40
+were altered in AD dementia and have potential value for diagnostic/prognostic purposes or as a
+pharmacodynamic biomarker to support benefit for the treatment of early AD 1,2,3,4,5. The review team
+note that the bioanalytical method validations for CSF Aβ[1–42] and CSF p-tau181 have major limitations
+(b) (4)
+For plasma p-tau181 and Aβ42/40 ratio, although
+Simrén, J. et al. The diagnostic and prognostic capabilities of plasma biomarkers in Alzheimer's disease.
+Alzheimers Dement. 17(7):1145-1156 (2021).
+2
+Cummings, J. and Kinney J. Biomarkers for Alzheimer's Disease: Context of Use, Qualification, and Roadmap for
+Clinical Implementation. Medicina (Kaunas). 58(7):952 (2022).
+3
+Therriault, J. et al. Association of plasma P-tau181 with memory decline in non-demented adults. Brain Commun.
+3(3): fcab136 (2021).
+4
+Chatterjee, P. et al. Diagnostic and prognostic plasma biomarkers for preclinical Alzheimer’s disease. Alzheimers
+Dement. 18(6): 1141–1154 (2022).
+5
+Karikari, T. K. et al. Blood phosphorylated tau 181 as a biomarker for Alzheimer’s disease: a diagnostic
+performance and prediction modelling study using data from four prospective cohorts. Lancet Neurol. 19(5), 422–
+433 (2020).
+1
+
+16
+
+Reference ID: 5103174
+
+the bioanalytical method validations were also not fully established, the observed relative change across
+treatment arms cannot be accounted for by the uncertainties in bioanalysis. Hence, the review team
+recommends using qualitative descriptions for the plasma biomarker results, and all the quantitative
+analyses of the plasma biomarker data presented in this review should be interpreted with caution.
+Please refer to Appendix 4.3 for more details.
+In Study 201 Core, a dose dependent reduction in plasma p-tau181 was observed with lecanemab
+treatment (Figure 5A). In addition, an increase in plasma Aβ42/40 ratio was observed following
+treatment with lecanemab at 5 mg/kg biweekly, 10 mg/kg monthly, and 10 mg/kg biweekly dosing
+compared to placebo (Figure 5B). Higher lecanemab exposures were observed to be associated with
+greater increase in plasma Aβ42/40 ratio and greater reduction in plasma p-tau181 (Appendix 4.3.1
+Figure 6 and Figure 8). However, the CSF Aβ[1–42] and CSF p-tau181 bioanalytical method validation
+had major limitations identified in multiple aspects, and no conclusion is warranted based on CSF
+biomarker data.
+Besides Study 201 Core, the applicant also submitted biomarker data including plasma Aβ42/40 ratio
+and plasma p-tau181 during the Gap period and OLE period after resuming the treatment. Please refer
+to Appendix 4.3 for further details in data assessments of the plasma and CSF biomarkers, and refer to
+Appendices 4.1.2 and 4.1.3 for bioanalytical method validation and performance for these biomarkers.
+Figure 5 Least Square Mean (± SE) Change from Baseline in Plasma p-tau181 (A) and Plasma Aβ42/40
+Ratio (B) Over Time in Study 201 Core
+A
+
+17
+
+Reference ID: 5103174
+
+B
+
+Source: Applicant’s Integrated Summary of Efficacy. (A) Page 67, Figure 8. (B) Page 66, Figure 7
+
+The applicant has conducted PK/PD modeling for amyloid PET-SUVR, clinical efficacy endpoints, plasma
+and CSF biomarkers, and ARIA-E incidence. The results for amyloid PET-SUVR and clinical efficacy
+endpoints are consistent with the observed data in Study 201 Core as mentioned above (Figure 2, Figure
+3, and Figure 4). The review team note that these analyses are informative, however, quantitative
+conclusions cannot be made from the PK/PD modeling of Aβ42/40 ratio and p-tau181 in plasma due to
+the limitations in bioanalytical validation. Please refer to Appendix 4.4 Pharmacometrics Analysis for the
+details on the applicant’s population PK/PD analysis, and refer to the clinical and OBP reviews for more
+information on efficacy and safety assessments and SUVR assay.
+3.3.2 Is the proposed dosing regimen appropriate for the general patient population for which
+the indication is being sought?
+Yes. The applicant is seeking approval for the lecanemab dose of 10 mg/kg administered every two
+weeks (Q2W) by intravenous infusion over approximately one hour. The proposed dosing regimen was
+the highest dose evaluated in the pivotal Phase 2 study. Based on the observed effect of lecanemab on
+amyloid PET-SUVR, clinical endpoints, safety, and the exposure-response relationships, this regimen was
+shown to be effective and well-tolerated.
+The recommended dosing regimen 10 mg/kg biweekly has demonstrated the largest effect among the
+tested doses on amyloid PET-SUVR and clinical efficacy endpoints. As shown in Figure 1, the 10 mg/kg
+biweekly dosing regimen resulted in a larger and faster decrease in brain amyloid levels as measured by
+PET SUVR compared to 10 mg/kg monthly dosing. After 18 months of treatment with lecanemab, the
+least square mean CFB in amyloid PET SUVR was 0.306 for 10 mg/kg biweekly dosing, versus 0.225 for
+the 10 mg/kg monthly dosing. In addition, with 10 mg/kg biweekly dosing regimen, the conversion of
+amyloid status from positive to negative was observed in 65% and 81% of subjects at 12 months and 18
+months, respectively, which was higher than the percentage values with 10 mg/kg monthly dosing (42%
+and 77%, respectively). These results suggest that the 10 mg/kg biweekly dosing was more effective to
+clear the amyloid from the brain compared to 10 mg/kg monthly dosing of lecanemab. In addition,
+greatest reduction in cognitive decline as assessed by CDR-SB, ADCOMS and ADAS-Cog14 were also
+achieved with the 10 mg/kg biweekly dosing. Please refer to the clinical review for the details on the
+effect of each dosing regimens on the clinical endpoints.
+18
+
+Reference ID: 5103174
+
+Lecanemab 10 mg/kg biweekly dosing was generally well-tolerated. The most common treatmentemergent adverse events (TEAEs) were infusion reactions and amyloid-related imaging abnormalitiesedema/effusion (ARIA-E). In Study 201 Core, treatment-emergent ARIA-E was reported in approximately
+10% of the subjects for each of the highest lecanemab dose groups (25/253 for 10 mg/kg biweekly
+dosing, and 16/161 for 10 mg/kg monthly dosing). In the subgroup of patients receiving 10 mg/kg
+lecanemab biweekly, the ARIA-E incidence was higher in APOE4 carriers (14.3%) than in APOE4
+noncarriers (8.0%). Given the lower rate of ARIA-E compared to other anti-amyloid mAbs, dose titration
+is not needed for lecanemab. The applicant also explored the relationship between incidence of ARIA-E
+and lecanemab PK exposures using logistic regression. As shown in Figure 20A in Appendix 4.4.1.4,
+model-predicted proportion of subjects with ARIA-E increases with Css,max, and the proportion was higher
+for APOE4 carriers. Please refer to Appendix 4.4.1.4 for more details.
+3.3.3 Is an alternative dosing regimen and/or management strategy required for
+subpopulations based on intrinsic factors?
+No. Dose adjustment is not necessary based on intrinsic factors such as age, race, sex, body weight,
+renal or hepatic impairment. No dedicated renal or hepatic impairment studies were conducted.
+Population pharmacokinetic analysis was conducted on data from 725 subjects to evaluate the impact of
+intrinsic factors. Lecanemab clearance was not affected by age, race, liver enzymes, creatinine
+clearance, and APOE4 carrier status. Covariate effects included in the final PK model were body weight,
+albumin, sex, and ADA positive status as time-variant covariate on clearance, body weight and sex on
+central volume of distribution, and Japanese race on peripheral volume of distribution. The effect of
+covariates on the population PK parameters were small and not considered as clinically meaningful.
+3.3.4 Are there clinically relevant food-drug or drug-drug interactions and what is the
+appropriate management strategy?
+No. Lecanemab is administered by intravenous infusion, and the food-drug interaction is not
+anticipated. Lecanemab exposure is not expected to influence or be influenced by the cytochrome P450mediated metabolic pathways associated with co-administered drugs. Lecanemab does not appear to be
+a cytokine or immunomodulator. Lecanemab elimination is expected to occur through normal
+degradative pathways for immunoglobulins and the systemic clearance should not be affected by smallmolecule concomitant medications.
+3.3.5 Is the to-be-marketed formulation the same as the clinical trial formulation, and if not,
+are there bioequivalence data to support approval of the to-be-marketed formulation?
+(b) (4)
+Various formulations with different manufacturing processes
+of lecanemab were
+(b)
+used in clinical studies and are different with the to-be-marketed formulation (process (4) ).
+Process (4) (producing formulation A) was used in studies 101, 104, 201 Core and OLE Phase. Process (4)
+(b) (4)
+producing formulation B) was introduced to
+and it was used in Study 201 OLE Phase. Pop-PK analysis showed that
+(b)
+lecanemab exposure following intravenous administration of the two formulations (Process (4) and
+(b)
+(b)
+Process (4) ) used in the Studies 101, 104 and 201 Core and OLE were comparable. The process (4)
+(b)
+
+(b)
+
+19
+
+Reference ID: 5103174
+
+(producing formulation
+
+(b) (4)
+
+No bioequivalence study was conducted to compare the formulations.
+In accordance with ICH Q5E guidelines, the applicant conducted comparability studies to demonstrate
+analytical similarity between different formulations. Based on internal discussion with OBP and clinical
+review teams, it was concluded that the bridging is adequate between the clinical and commercial
+formulations. Please refer to the review by OBP team for the details in analytical similarity.
+
+4. APPENDICES
+4.1 Summary of Bioanalytical Method Validation and Performance
+4.1.1 Bioanalysis for Lecanemab in human serum
+4.1.1.1 ELISA for Lecanemab in serum
+An enzyme-linked immunosorbent assay (ELISA) method was initially developed and validated by
+(b) (4)
+(b) (4)
+to measure lecanemab in some human serum samples from Study 101.
+
+The validated assay
+quantitation range for lecanemab in human serum was 6.00 to 75.0 μg/mL.
+The serum samples analyzed by ELISA method were from Study 101 single ascending dose cohorts
+(SAD)1, SAD2, SAD3, SAD4 (except Days 10 and 21), SAD5 (except Day 21 and Day 28), and multiple
+ascending dose (MAD)1 (Days 1, 2, 21, 28, 49 and 56) cohorts. The remaining samples in Study 101 and
+(b) (4)
+all serum samples from Studies 104 and 201 (Core and OLE Phase) were analyzed by
+using a
+more sensitive LC-MS/MS method as described in Section 4.1.1.2.
+4.1.1.2 Hybrid LC-MS/MS for Lecanemab in serum
+The applicant used a hybrid assay consisting of an immunopurification step followed by a tryptic
+digestion step and liquid chromatography and tandem mass spectrometry (LC-MS/MS) to determine the
+(b) (4)
+concentration of lecanemab in human serum
+was monitored as a surrogate for lecanemab.
+(b) (4)
+was used as the internal standard (IS), and
+was monitored as a surrogate. This assay was determined to have a higher
+sensitivity and a wider linear range (0.5 - 150 μg/mL) for lecanemab in human serum, as compared with
+(b) (4)
+the ELISA method.
+, the
+acceptance criteria for the LC-MS/MS method was expanded to 20/25% as is typical in the quantitation
+of large molecules with an ELISA method.
+(b) (4)
+
+20
+
+Reference ID: 5103174
+
+The method BTM-1425-R0 was initially developed and validated for use in studies BAN2401-A001-101,
+BAN2401-J081-104, and BAN2401-G000-201 Core. An updated version of the method (BTM-1425-R3,
+using 96-well plate formats and automation equipment) was subsequently developed and partialvalidated, and used in Study BAN2401-G000-201 OLE.
+It should be noted that approximately 2% of human serum samples were out of established stability
+(371 days in human serum at -70°C). The maximum time of serum samples in storage was 1636 days at 70°C in Study 201 Core and 948 days at -70°C in Study 201 OLE. In response to Information Request
+received on March 11, 2022 (Sequence No. 0024), the applicant noted that additional long-term stability
+assessment is ongoing, and reports will be submitted to the Agency.
+Cross-method validation of the LC-MS/MS assay with the ELISA assay was demonstrated using serumspiked, blinded quality control (QC) samples and 32 incurred samples from Study 101. The crossvalidation results met acceptance criteria.
+Overall, the method was validated in compliance with the standards set forth in the FDA Bioanalytical
+Method Validation guidance, except for the long-term stability. The human serum samples out of
+established stability are a small fraction, and therefore not expected to impact the interpretability of
+population PK and exposure-response analyses. Summary of the validation parameters for both the
+methods are presented in Tables 1.
+Table 1 Bioanalytical Validation for Determination of Lecanemab in Human Serum by LC-MS/MS
+Method No.
+Validation Report
+QC concentrations
+Standard Curve
+Concentrations and linearity R2
+Lower limit of quantitation
+(LLOQ)
+QC Intra-run precision (%CV)
+QC Intra-run accuracy (%Bias)
+QC Inter-run precision (%CV)
+QC Inter-run accuracy (%Bias)
+Average recovery of the
+Analyte (%)
+Average recovery of the IS (%)
+Dilution integrity
+QC sample bench-top stability
+QC sample freeze/thaw
+stability
+
+BTM-1425-R0
+EIS-R1696 (full validation)
+1.5 μg/mL, 12 μg/mL, and
+112.5 μg/mL
+0.5, 1, 3, 6, 20, 40, 120, 150
+μg/mL, R2 ≥ 0.9791
+0.5 μg/mL
+
+BTM-1425-R3
+E1S-R1696A2 (partial validation)
+0.500 μg/mL, 1.50 μg/mL, 12.0
+μg/mL, 60.0 μg/mL, 113 μg/mL
+0.500 - 150 μg/mL, R2 ≥ 0.9867
+
+Run 1: 5.8, 7.0, 4.9
+Run 2: 5.2, 7.2, 4.5
+Run 3: 12.9, 7.6, 3.8
+Run 1: -3.0, 3.2, 1.1
+Run 2: -4.1, 2.6, 5.4
+Run 3: -8.2, -9.6, -12.8
+8.4, 9.1, 9.2
+-5.1, -1.3, -2.1
+25.9
+
+Run 1: 5.8, 2.4, 2.9, 1.4, 19.6
+Run 2: 10.0, 8.3, 3.2, 6.1, 11.5
+Run 3: 8.0, 8.7, 1.8, 6.1, 3.1
+Run 1: 9.2, 3.3, -2.5, -0.8, 0.9
+Run 2: -0.2, -9.3, -14.2, -14.0, -15.0
+Run 3: 7.8, 0.7, -3.3, -2.7, -1.8
+8.5, 8.6, 6.4, 7.8, 14.8
+5.6, -2.0, -6.7, -5.8, -5.3
+42.7
+
+12.3
+450 μg/mL diluted 20-fold
+19 hours at room temperature
+3 freeze (-70 °C)/thaw cycles
+
+N/A
+450 μg/mL diluted 4-fold
+6 hours at room temperature
+5 cycles for -70 °C
+
+21
+
+Reference ID: 5103174
+
+0.5 μg/mL
+
+Processed sample stability
+QC sample long-term storage
+stability
+IS-normalized Matrix factor
+Selectivity
+Carryover
+
+73.5 hours at room
+temperature
+34 days at -70 °C
+
+175.0 hours at 4 °C
+
+1.35 ± 0.13 (%CV= 9.6%) at 1.5
+μg/mL
+No interfering peaks detected
+Not significant
+
+1.34 (%CV = 11.3%) at 1.50 μg/mL
+1.31 (%CV = 4.6%) at 113 μg/mL
+
+371 days at -70 °C
+
+4.1.2 Bioanalysis of amyloid beta in human CSF and plasma
+4.1.2.1 Determination of amyloid beta (Aβ) (1-42) protein in human CSF samples for ELISA studies
+BAN2401-J081-104 and BAN2401-G000-201
+The applicant used a partially validated ELISA assay to determine Aβ (1-42) protein in human CSF
+samples. The ELISA assay used a commercial kit manufactured by Innogenetics and Fujirebio to
+determine the concentration of β-Amyloid (1-42) in CSF matrix. The amyloid peptide in CSF samples is
+captured by a monoclonal antibody, 21F12 (IgG2a) and then incubated with a biotinylated antibody, 3D6
+(IgG2b) and detected by a peroxidase-labeled streptavidin after adding substrate. The color intensity
+correlates with human β-amyloid(l-42) protein concentration in the sample.
+The applicant used method MOS-CMF-103.v1 to analyze samples from study BAN2401-J081-104 and
+method MOS-CMF-103.v2 to analyze samples from study BAN2401-G000-201. Table 2 is a summary of
+performance characteristics of these two methods. Briefly, the two methods have different calibration
+range and used different test kits from the same manufacturer. The applicant stated that the crossvalidation between the two versions of test kits was conducted by the manufacturer. The β-amyloid (142) concentrations between the two kits were significantly correlated (r = 0.971) and fell within the
+normal lot-to-lot variability. The test kit contains ready-to-use calibration standards at 6 different
+concentrations and Quality Control samples (QCs) at 2 different concentrations.
+In the validation for method version 1, intra-run precision was evaluated by measuring 17 replicates of
+one pooled CSF sample. Inter-run precision was evaluated by measuring one pooled CSF samples from
+30 different runs. The validation report did not describe the sources for these pooled CSF samples. The
+assay precision was ≤15% for intra-run and ≤20% for inter-run. The applicant did not perform the
+accuracy, selectivity, and matrix effect for the assay during the validation. In the validation for method
+version 2, intra-run precision was evaluated by measuring 16 replicates of average and low-level CSF
+pool. Inter-run precision was evaluated by measuring two pooled CSF samples (low and high) from 20
+different runs. The assay precision was ≤15%.
+Below is the list of the deficiencies related to validation parameter.
+Inadequate data to support the use of buffer matrix for calibration standards:
+(b) (4)
+
+22
+
+Reference ID: 5103174
+
+(b) (4)
+
+Insufficient precision data:
+(b) (4)
+
+(b) (4)
+
+However, the data was not provided.
+Proper demonstration of inter-run precision at the claimed analytical measurement range should be
+performed according to the recommendations in the FDA’s BMV guidance.
+Table 2 Bioanalytical Validation for Determination of β -Amyloid (1-42) in Human CSF by ELISA
+Method No.
+
+mos-cmf-103.v1
+
+Validation Report
+
+(b) (4)
+
+Internal QC concentrations (pooled CSF
+samples used in sample analysis runs)
+QC concentration (pooled CSF samples used
+in validation study)
+Standard calibrator concentration
+Standard Curve range
+Lower limit of quantitation (LLOQ)
+QC Intra-run precision (%CV)
+QC Intra-run relative accuracy (%Nominal)
+QC Inter-run precision (%CV)
+QC Inter-run relative accuracy (%Nominal)
+Average recovery of the Analyte (%)
+Dilution integrity
+Parallelism
+QC sample bench-top stability
+QC sample freeze/thaw (Applicant report)
+
+23
+
+Reference ID: 5103174
+
+mos-cmf-103.v2
+
+QC sample freeze/thaw (FDA review)
+
+(b) (4)
+
+Processed sample stability
+QC sample long-term storage stability
+Selectivity
+No relative accuracy data:
+(b) (4)
+
+. Therefore, the assay accuracy at the claimed
+analytical measuring range cannot be assessed.
+
+(b) (4)
+
+Discrepancy in Freeze- Thaw (F/T) stability report:
+(b) (4)
+
+Therefore, the reliability of the F/T data
+
+(b) (4)
+
+.
+cannot be assured.
+
+Insufficient short-term stability:
+(b) (4)
+
+The validation did not assess the short-term stability, therefore the
+integrity of the analyte during the sample processing cannot be assured.
+Insufficient Long-term stability:
+(b) (4)
+
+Therefore, the stability of
+the analyte for the duration of the study cannot be assured.
+In summary, the method validation has multiple deficiencies that potentially impact the analytical
+(b) (4)
+results. Of note, the sample storage duration exceeded the established stability period
+therefore, the integrity of analyte during study conduct cannot be assured. As such, the reliability of
+amyloid β (1-42) protein concentrations data in the CSF samples from studies concentration data from
+Studies BAN2401-J081-104 and BAN2401-G000-201 is uncertain.
+
+24
+
+Reference ID: 5103174
+
+(b) (4)
+
+However, limited data provided in
+the literature and manufacturer does not provide adequate stability demonstration.
+4.1.2.2 Determination of amyloid beta (Aβ) peptide isoforms (Aβ42 and Aβ40) in human plasma using
+liquid chromatography tandem mass spectrometry (LC-MS/MS) CLIA assay.
+The applicant used a validated method to measure amyloid beta (Aβ) peptide isoforms (Aβ42 and Aβ40)
+(b) (4)
+in human plasma by LC-MS/MS.
+
+. The method validation parameters are presented in
+Tables 3.
+Table 3 Bioanalytical Validation for Determination of Aβ 40 and Aβ 42 in Human Plasma by LC-MS/MS
+Method validation report
+number
+
+135087.2. C2N Diagnostics Plasma Aβ CLIA Validation
+
+Standard curve range
+
+(b) (4)
+
+Standard curve concentration
+Minimum required dilutions
+Regressing model and
+weighting
+QCs accuracy and precision
+runs
+
+Selectivity & matrix effect
+Interference & specificity
+Hemolysis effect
+25
+
+Reference ID: 5103174
+
+Lipemic effect
+
+(b) (4)
+
+Dilution linearity
+Bench-top/process stability
+Freeze-Thaw stability
+Long-term storage
+Parallelism
+Carry over
+
+In summary, the method validation has multiple deficiencies that potentially impact the analytical
+results. Of note, the matrix effect was not assessed and the storage duration for study samples
+(b) (4)
+exceeded the established stability period
+. The applicant provided a summary report which
+contained information about the stability studies, including freezer stability, refrigerated stability, room
+temperature stability, Freeze/Thaw stability, and Long-term stability to support the Study BAN2401G000-201. However, the report does not contain stability data generated from the experiments to verify
+(b) (4)
+the information in the report.
+Therefore, the stability data does not cover the duration of samples storage and integrity of the analyte
+during the study conduct cannot be assured. As such, the reliability of Aβ peptides concentrations data
+(b) (4)
+in the plasma samples from Study BAN2401-G000-201 is uncertain.
+Following the mid-cycle meeting, the applicant submitted literature and additional long-term stability
+(b) (4)
+assessment protocol included in DMF
+in support of long-term stability of amyloid beta (Aβ)
+peptide isoforms (Aβ42 and Aβ40) in human plasma matrix. However, limited data provided in the
+literature and DMF does not provide adequate stability demonstration. Please refer to Appendix 4.3 for
+the impact of this issue on data interpretation for plasma Aβ42/40 ratio.
+
+4.1.3 Bioanalysis of p-tau181 in human CSF and plasma
+4.1.3.1 Bioanalysis of p-tau181 in CSF (sample analysis report: MSE6QBAR86 and BAR79/E97)
+The applicant used a commercialized diagnostic kit to quantify the p-tau181 in CSF with an ELISA
+method.
+
+26
+
+Reference ID: 5103174
+
+(b) (4)
+
+The original validation was performed in 2010. This original method was used to analyze 46 sample from
+study: BAN2401-J081-104 (report# Bar79/E97) and 501 samples from study BAN2401-G000-201 (report#
+Bar86/E6Q). Even though two kits, each with different ranges, were adopted in studies BAN2401-J081104 and BAN2401-G000-201, no further validation had been performed prior to sample analysis.
+The applicant preformed limited method validation; see a summary of the method validation
+performance shown in Table 4.
+
+(b) (4)
+
+FDA has recommended performing full validation when adopting
+the diagnostic kit to applicant’s application. The applicant did not perform the full validation per FDA
+guidance. This resulted in an incomplete validation with following deficiencies:
+
+
+
+
+
+
+
+
+No established calibration range for the determination of the unknown sample concentration
+was available prior to the sample analysis of study BAN2401-J081-104 and BAN2401-G000-201.
+The calibration range should be established based on accuracy and precision meeting predefined acceptance criteria according to the FDA’s BMV guidance.
+No matrix effect study data are available to support sample analysis that used un-diluted
+sample.
+No accuracy and precision were assessed with the five levels of appropriate QCs to ensure the
+method performance robustness.
+No raw data are available to verify the sample stability at bench top, and during storage in the
+refrigerator (2-8°C) and freezer (-70°C); thus, no sufficient stability data to support the sample
+handling and storage, which includes the storage durations of 12-month for study BAN2401J081-104 and approximately 2-year for study BAN2401-G000-201 as stated in 1113-efficacyinformation-amendment.pdf.
+No cross-validation data to ensure the consistency of sample measurement from two kits while
+the two versions of kits with different ranges were used in two studies (BAN2401-J081-104 and
+BAN2401-G000-201).
+
+27
+
+Reference ID: 5103174
+
+(b) (4)
+
+.
+Reviewer’s comments:
+
+
+Matrix effect for samples with concentrations below LQC
+
+
+
+Insufficient QC samples
+
+(b) (4)
+
+
+
+Insufficient data to support no interference from hemolysis and drug
+
+(b) (4)
+
+
+
+Insufficient long-term stability data
+
+(b) (4)
+
+31
+
+Reference ID: 5103174
+
+(b) (4)
+
+Please refer to Appendix 4.3 for the
+impact of this issue on plasma p-tau181 data interpretation.
+(b) (4)
+
+Summary
+Overall, the method was validated as shown in Table 7.
+
+(b) (4)
+
+However, as stated in reviewer’s comments, the validation lacks data to
+
+
+
+
+
+validate the range bracketed with the appropriate QC samples,
+clarify the matrix effect to support the appropriateness of using the buffer as a surrogate matrix
+(a buffer) different from that of study samples (plasma),
+assess interference from hemolysis, and
+demonstrate long-term stability sufficient to cover the sample storage duration.
+
+Thus, the reliability of the concentration data for study BAN2401-G000-201 remains to be
+demonstrated.
+Table 7 Summary of method validation parameters
+(Source: Validation Report #110-r11817-r1, 110-r11817-a1)
+Bioanalytical Method
+Validation Report
+Standard Calibration Curve
+Range
+Low Limit of Quantitation
+Inter-assay Precision (%CV)
+Inter-assay Accuracy (%RE)
+Intra-assay Precision (%CV)
+Intra-assay Accuracy (%RE)
+Refrigerator
+Bench-top Stability
+
+Report Title: Validation Report for Method BTM-3467: Quantitation of
+(b) (4)
+p-tau181 in Human Plasma (K2EDTA)
+. Report Number: 110-r11817-r1 and 110-r11817-a1
+(b) (4)
+
+Freeze-thaw Stability
+Long-term Stability
+Interference
+
+32
+
+Reference ID: 5103174
+
+4.2 Clinical PK Assessments
+Study BAN2401-A001-101
+In the SAD part, 48 eligible adult subjects with mild to moderate AD were randomized (3:1) to receive
+lecanemab or placebo administered as a single 60- to 75-minute intravenous infusion. Treatment
+consisted of single ascending doses in 6 cohorts (0.1 mg/kg, 0.3 mg/kg, 1.0 mg/kg, 3.0 mg/kg, 10.0
+mg/kg, and 15.0 mg/kg). In the MAD part, 24 subjects received sequential multiple ascending doses.
+Lecanemab was administered monthly for up to 4 doses at the dose levels of 0.3 mg/kg, 1 mg/kg, and 3
+mg/kg (MAD1 to MAD3) and biweekly for up to 7 doses at the dose level of 10 mg/kg (MAD4). Blood PK
+samples were collected at predose, immediately at the end of the infusion, and 0.5, 1, 2, 4, 8 and 24
+hours after the end of the infusion, and a single sample on Day 10, Day 21, Day 28, Day 90, Day 180. The
+PK parameters were calculated with noncompartmental methods from SAD and MAD parts and
+summarized in Table 8 and Table 9 below.
+Table 8 Pharmacokinetic Parameters of Lecanemab after Single IV Dose Administration in Study 101
+
+Source: Applicant’s Summary of Clinical Pharmacology, Page 27, Table 2.7.2-5
+
+Table 9 Lecanemab PK Parameters after the First and Last Infusions in Study 101
+
+Source: Applicant’s Summary of Clinical Pharmacology, Page 29, Table 2.7.2-6
+
+33
+
+Reference ID: 5103174
+
+The mean Cmax and AUC(0-24h) values of lecanemab increased approximately proportionally with
+lecanemab dose increases. This proportionality was observed across the range of 0.3 to 15 mg/kg for
+SAD cohorts (Table 8) and also observed across the range of 0.3 to 10 mg/kg for MAD cohorts after the
+1st and last (4th or 7th) infusions (Table 9). Tmax occurred at an average of 2 hours from the start of
+infusion. The mean half-life of lecanemab was 5 to 7 days when administered at doses of 1 mg/kg or
+higher. With 10 mg/kg biweekly dosing in the MAD study, the steady state concentrations of lecanemab
+were reached after 6 weeks of treatment, with accumulation ratio of approximately 1.4 based on AUC
+(Table 9).
+Study BAN2401-J081-104
+Study 104 was a multiple ascending dose study in a total of 24 Japanese subjects (8 subjects per cohort:
+6 for lecanemab and 2 for placebo) with MCI due to AD and mild AD. Cohorts 1, 2, and 3 received doses
+of 2.5, 5, and 10 mg/kg of lecanemab, respectively. In the treatment period, lecanemab or placebo was
+administered as an intravenous infusion followed by a 6-week washout period after the first dose. Then,
+lecanemab or placebo was administered once every 2 weeks over 60 minutes for a total of 5 infusions (8
+weeks) to evaluate the safety, tolerability, and PK of lecanemab. The PK parameters after single dose
+(Table 10) and multiple doses (Table 11) are listed below.
+Table 10 Summary of Pharmacokinetic Parameters of Lecanemab After Single Intravenous
+Administration in Study 104
+
+Source: Applicant’s CSR of Study 104, Page 94 Table 12
+
+34
+
+Reference ID: 5103174
+
+Table 11 Lecanemab PK Parameters after Multiple Dose Administration Once Every 2 Weeks for a
+Total of 5 Infusions – Study 104
+
+Source: Applicant’s CSR of Study 104, Page 100 Table 14
+
+4.3 Assessments of Biomarker Results
+4.3.1 Effect of Lecanemab on Biomarkers in Plasma and CSF
+The applicant submitted plasma and CSF biomarker data to supplement the evaluation of the treatment
+effect of lecanemab. The review team noted that the bioanalytical method validations for CSF p-tau181
+(b) (4)
+and CSF Aβ[1–42] have major limitations
+For
+plasma p-tau181 and Aβ42/40 ratio, although the bioanalytical method validations were also not fully
+established, the observed relative change across treatment arms cannot be falsified by the uncertainties
+in bioanalysis. Hence, the review team recommends using qualitative descriptions for the plasma
+biomarker results, and all the quantitative analyses of the plasma biomarker data presented in this
+review should be interpreted with caution.
+The observed data on biomarkers from Study 201 Core including plasma p-tau181, plasma Aβ42/40
+ratio, CSF p-tau181, and CSF Aβ[1–42] are described below. Besides Study 201 Core, the applicant also
+submitted biomarker data including plasma Aβ42/40 ratio and plasma p-tau181 during the Gap period
+(b) (4)
+and OLE period after resuming the treatment.
+
+Plasma p-tau181
+A dose-dependent reduction in plasma p-tau181 was observed in Study 201 Core (Section 3.3.1, Figure
+5A). An association was also observed between higher lecanemab exposure and greater reduction in
+plasma p-tau181 (Figure 6).
+The bioanalytical method for plasma p-tau181 was not fully validated, such as insufficient coverage for
+long-term stability (refer to Appendix 4.1.3). To examine the potential impact of stability issue on the
+analysis result, the review team examined the plasma p-tau181 data in relation to the duration of
+35
+
+Reference ID: 5103174
+
+sample storage. Figure 7 shows that no correlation was observed between the plasma p-tau181
+concentration at baseline and sample storage duration. The team noted that the analysis does not
+inform the stability of the samples within the first four years of storage.
+Figure 6 Relationship between Lecanemab Average Concentrations and Plasma p-tau181 Changes
+from Baseline at Month 18
+
+Source: Reviewer’s analysis. Circle and Error bars represents mean ± standard errors respectively.
+
+Figure 7 Plasma p-tau181 Concentration at Baseline in Study 201 Core
+
+Source: Reviewer’s Analysis. The analysis of all the plasma samples for p-tau181 were conducted within two weeks
+(Aug 19, 2021 to Sep 03, 2021, refer to applicant’s sample analysis report 110-R12068). The sample collection date
+was therefore used to reflect the duration of sample storage (approximately 4-8 years).
+
+36
+
+Reference ID: 5103174
+
+Considering the dose- and exposure- dependent reduction in plasma p-tau181 following treatment with
+lecanemab, the review team believes that the effect of lecanemab on plasma p-tau181 observed in
+Study 201 Core is unlikely a random occurrence and cannot be fully attributed to the inadequacy of
+method validation. Hence, the review team recommends to include a qualitative description in the
+labeling Section 12.2 to reflect the reduction in plasma p-tau181 observed with LEQEMBI 10 mg/kg
+biweekly dosing compared to placebo. Further, the review team recommends including a disclaimer
+statement to highlight the uncertainties in bioanalysis if including quantitative data on plasma p-tau181
+is considered clinically necessary in other sections of the label.
+Plasma Aβ42/40 Ratio
+Study 201 Core suggested a trend of increase in plasma Aβ42/40 ratio compared to placebo following
+lecanemab treatment of 5 mg/kg biweekly, 10 mg/kg monthly, and 10 mg/kg biweekly dosing (Figure
+5B). An association was also observed between higher lecanemab exposure and greater increase in
+plasma Aβ42/40 ratio (Figure 8).
+Figure 8 Relationship between Lecanemab Average Concentrations and Plasma Aβ42/40 ratio Changes
+from Baseline at Month 18
+
+Source: Reviewer’s analysis. Circle and Error bars represents mean ± standard errors respectively.
+
+The bioanalytical method for plasma amyloid was not fully validated, such as insufficient coverage for
+the long-term stability (refer to Appendix Section 4.1.2.2). The review team evaluated potential impact
+of the uncertainties in bioanalytical method on the observed results, along with literature reports
+
+37
+
+Reference ID: 5103174
+
+supporting the long-term stability of Aβ1-40 and Aβ1-42 6,7. Based on the data available, the review
+team agreed that the increase in Aβ42/40 ratio observed in Study 201 Core with 10 mg/kg biweekly
+dosing compared to placebo is unlikely a random occurrence. Hence, the review team recommends to
+include a qualitative description in the labeling Section 12.2 to reflect the increase in plasma Aβ42/40
+ratio observed with LEQEMBI 10 mg/kg biweekly dosing compared to placebo. Further, the review team
+recommends including a disclaimer statement to highlight the uncertainties in bioanalysis if including
+quantitative data on plasma Aβ42/40 ratio is considered clinically necessary in other sections of the
+label.
+CSF Aβ[1–42] and CSF p-tau181
+In addition to insufficient evidence on long-term stability and matrix effect, the review team identified
+major limitations in biomarker assay validation for both CSF Aβ[1–42] and CSF p-tau181 (e.g., precision
+(b) (4)
+and accuracy, refer to Sections 4.1.2 and 4.1.3),
+
+4.3.2 Relationships Between Plasma Biomarkers and Clinical Endpoints
+The review team evaluated the relationships between plasma biomarkers (Aβ42/40 and p-tau181) and
+clinical endpoints (ADCOMS, CDR-SB, and ADAS-Cog14) using observed data from Study 201 Core (Figure
+9 and Figure 10). The results suggested a trend that the increases in plasma Aβ42/40 and decreases in
+plasma p-tau181 were associated with reduction in clinical decline on ADCOMS, CDR-SB, and ADASCog14. This trend was also consistent with applicant’s PK/PD modeling (refer to Appendix 4.4.1.3).
+However, considering potential limitation of the data quality (refer to Appendix 4.1.2 and 4.1.3), the
+review team did not make a definite conclusion in the USPI regarding the associations based on these
+data.
+
+Chiu M. et al, Long-Term Storage Effects on Stability of Aβ1-40, Aβ1-42, and Total Tau Proteins in Human Plasma
+Samples Measured with Immunomagnetic Reduction Assays. Dement Geriatr Cogn Dis Extra . 2019 Feb 12;9(1):7786.
+6
+
+Schubert C. et al, Effect of Long-Term Storage on the Reliability of Blood Biomarkers for Alzheimer's Disease and
+Neurodegeneration. J Alzheimers Dis. 2022;85(3):1021-1029
+
+7
+
+38
+
+Reference ID: 5103174
+
+Figure 9 Relationship between Plasma Aβ42/40 at Month 18 and Efficacy Endpoints (ADCOMS, CDRSB, and ADAS-Cog14) Changes from Baseline at Month 18
+A
+
+B
+
+C
+
+Circles and error bars represent mean and ± standard errors respectively.
+Source: Reviewer’s analysis
+
+39
+
+Reference ID: 5103174
+
+Figure 10 Relationship between Plasma p-tau181 at Month 18 and Efficacy Endpoints (ADCOMS, CDRSB, and ADAS-Cog14) Changes from Baseline at Month 18
+A
+
+B
+
+C
+
+Circles and error bars represent mean and ± standard errors respectively.
+Source: Reviewer’s analysis
+
+40
+
+Reference ID: 5103174
+
+4.4 Pharmacometrics Analyses
+This document is a review of the applicant’s population pharmacokinetic (PK) and PK-pharmacodynamic
+(PD) analysis of lecanemab.
+4.4.1 Applicant’s Analysis
+4.4.1.1 Population PK analysis
+Objectives: To describe serum PK of lecanemab in patients with Alzheimer’s Disease (AD) and to assess
+the impact of covariates on the PK of lecanemab.
+Data: Pharmacokinetic data of 9027 samples from 725 subjects enrolled in 3 studies (Studies 101, 104
+
+and 201 Core and OLE) were used to develop Pop PK models for lecanemab. The baseline characteristics
+of subjects is provided in the Table 12.
+Method: Nonlinear mixed effect modeling was used for PK model development using NONMEM v7.4.3.
+
+The previously developed PopPK model (two-compartment model with linear first-order elimination)
+was updated following pooling additional data from Study 201 OLE. The relationship of continuous
+covariates and PK parameter was described with power models; and categorical covariate-PK parameter
+relationship was described using a power structure with the most common level of the covariate being
+the reference. Impact of covariates on lecanemab exposures (AUC and Cmax) was evaluated using a forest
+plot analysis.
+Results: The PK of lecanemab was described by two-compartment model with zero-order input and firstorder elimination. Covariates such as weight, albumin, sex and ADA were added on clearance; weight
+and sex were added on the central volume of distribution; and Japanese race were added on peripheral
+volume of distribution. The parameter estimates of the final population PK model for lecanemab are
+shown in Table 13. The population PK model for lecanemab was assessed with diagnostics plots
+including goodness-of-fit and visual predictive checks (VPC) (Figure 11). The effect of the covariates on
+the steady-state Cmax and AUC of lecanemab is shown in Figure 12, which suggested none of the
+significant covariates have any clinically meaningful effect on PK exposure (Cmax and AUC) of lecanemab
+to warrant any dose adjustment, as the confidence intervals of all covariates overlapped the reference
+80-125% interval.
+
+41
+
+Reference ID: 5103174
+
+4.4.1.2 Population PK-PD model of Efficacy
+Objectives: To describe the relationship between model-predicted serum lecanemab exposure to
+efficacy variables (Alzheimer’s Disease Assessment Scale ‐ Cognitive Subscale (ADAS-Cog14), Alzheimer’s
+Disease Composite Score (ADCOMS), Clinical Dementia Rating Sum of Boxes (CDR-SB))
+Data: The data from Study 201 Core was used to develop Pop PK-PD models of efficacy. The baseline
+
+covariate characteristics of subjects is provided in the Table 14.
+Method: Model development of longitudinal PK/PD models for efficacy endpoints (ADCOMS, CDRSB, and
+
+ADAS-Cog14) consisted of two steps: (i) development of disease progression model using placebotreated subject data; and (ii) Adding drug on disease progression using data in all subjects. In terms of PK
+exposure, the PK model-derived Css,max or Css,avg were explored. Absolute score was used as the allefficacy endpoints.
+Results: The linear disease progression model was adequate to describe the disease progression for all
+
+clinical endpoints (ADCOMS, CDR-SB, and ADAS-Cog14) over time. The exposure effect on disease
+progression was introduced in the model as a linear function. For all endpoints, Css,avg was selected as
+lecanemab exposure parameter because model stability (i.e., initial estimate independency) was better
+with Css,avg than with Css,max.
+The following covariates included in the final PK/PD model of efficacy: (i) concomitant AD treatment and
+diagnosis on intercept for ADCOMS; (ii) concomitant AD treatment on slope; diagnosis on intercept for
+CDR-SB; (iii) age, concomitant AD treatment and diagnosis on slope; concomitant AD treatment and
+diagnosis on intercept for ADAS-Cog14. The final parameter estimates for PK/PD models for efficacy
+endpoints (ADCOMS, CDR-SB and ADAS-Cog14) are shown in Table 15. Of note, 95% CI of the drug effect
+(DESLOPE: effect of lecanemab exposure on disease progression) did not contain zero, and thus was
+statistically significant (p<0.05). The PK/PD model-predicted a dose dependent reduction in decline in
+CDR-SB, ADCOMS, and ADAS-Cog14 over time (Figure 13). The population PK-PD model was assessed
+with diagnostics plots including goodness-of-fit and VPC (Figure 14).
+
+44
+
+Reference ID: 5103174
+
+Table 14 Summary of Baseline Characteristics in the PK-PD Analysis of Efficacy
+
+Source: Applicant pop PK-PD report # CPMS-BAN2401-002R-v1.1, April 15, 2019, Page 61, Table 8
+
+Table 15 Parameter Estimates of the Final Population PK-PD Model for Efficacy of Lecanemab
+A. ADCOMS
+
+45
+
+Reference ID: 5103174
+
+B. CDR-SB
+
+C. ADAS-Cog14
+
+Source: Applicant pop PK-PD report # CPMS-BAN2401-002R-v1.1, April 15, 2019, Page 87, Table 45-47
+
+46
+
+Reference ID: 5103174
+
+Figure 13 Time Course of Predicted Change from Baseline in Clinical Endpoints (ADCOMS, CDR-SB, and
+ADAS-Cog14) at Various Dosing Regimens
+
+Time course of CDR-SB is shown for subject with concomitant AD treatment; Time course of ADAS-Cog14 is shown
+for mild AD subject with concomitant AD treatment
+Source: Applicant pop PK-PD report # CPMS-BAN2401-002R-v1.1, April 15, 2019, Page 89-91, Figure 12-14
+
+47
+
+Reference ID: 5103174
+
+Figure 14 Visual Predictive Checks for the Final PK-PD Model of Efficacy for 10 mg/kg Q2W
+
+Source: Applicant pop PK-PD report # CPMS-BAN2401-002R-v1.1, April 15, 2019, Page 95, Figure 16-18
+
+4.4.1.3 Population PK-PD model of biomarkers and its relationship with efficacy endpoints
+PK/PD analysis for amyloid standard uptake value ratio (SUVR)
+Objectives: To describe the relationship between model-predicted serum lecanemab exposure and
+brain amyloid as measured by PET SUVR calculated from reference region whole cerebellum mask
+Data: The PK-PD data of 1213 samples from 374 subjects enrolled in Study 201 Core and OLE were used
+
+to develop Pop PK-PD models for SUVR. The baseline covariate characteristics of subjects is provided in
+the Table 16.
+Method: Previously developed PK/PD models for SUVR (an indirect response model with serum
+
+lecanemab concentration in the central compartment inducing the reduction of amyloid plaque) was
+updated following pooling additional data from Study 201 OLE. Covariate analysis was performed for the
+effect of age, weight, APOE4 carrier status, sex, AD diagnosis (MCI or mild AD), ADA and NAb status at
+subject level.
+
+48
+
+Reference ID: 5103174
+
+Results: The relationship between serum lecanemab concentration and the amyloid SUVR reduction time
+
+course was best described by an indirect response model with serum lecanemab concentration in the
+central compartment inducing the reduction of amyloid plaque. Covariates such as age were added on
+Emax; and APOE4 carrier were added on baseline. The parameter estimates of the final population PKPD model for lecanemab are shown in Table 17. The population PK-PD model was assessed with
+diagnostics plots including goodness-of-fit and VPC (Figure 15).
+Table 16 Summary of Baseline Characteristics in the PK-PD Analysis for Amyloid SUVR
+
+Source: Applicant pop PK-PD report # CPMS-BAN2401-002R-ADD1-v1, Nov 19, 2021, Page 12
+
+Table 17 Parameter Estimates of the Final Population PK-PD Model for Amyloid SUVR
+
+Source: Applicant pop PK-PD report # CPMS-BAN2401-002R-ADD1-v1, Nov 19, 2021, Page 55, Table 15
+
+49
+
+Reference ID: 5103174
+
+Figure 15 Visual Predictive Checks for the Final PK-PD Model of biomarker for lecanemab 10 mg/kg Q2W
+
+Source: Applicant pop PK-PD report # CPMS-BAN2401-002R-ADD1-v1, Nov 19, 2021, Page 59, Figure 17; Applicant
+pop PK-PD report # CPMS-BAN2401-002R-ADD2-v1, Nov 19, 2021, Page 43; Applicant pop PK-PD report # CPMSBAN2401-002R-ADD3-v1, Nov 22, 2021, Page 36
+
+Relationship between amyloid SUVR and Efficacy endpoints
+Objectives: To describe the relationship between model-predicted serum amyloid PET SUVR change to
+efficacy variables (ADAS-Cog14, ADCOMS, CDR-SB)
+Data: The data from Study 201 Core was used to explore relationship between SUVR and efficacy. The
+
+baseline covariate characteristics of subjects is provided in the Table 18.
+Method: Linear disease progression model was used to describe SUVR-efficacy-time relationship, in
+which model-predicted change in SUVR was used as a predictor for efficacy endpoints. Absolute score
+was used for all efficacy endpoints.
+
+50
+
+Reference ID: 5103174
+
+Results: The biomarker effect on disease progression was introduced in the model as a linear function
+
+and was a significant predictor of efficacy endpoints. The following covariates included in the final SUVRefficacy model: (i) mild dementia on ADCOMS baseline and slope for ADCOMS; (ii) mild dementia on
+CDR-SB baseline for CDR-SB; and (iii) mild dementia and body weight on ADAS-Cog14 baseline; and mild
+dementia and age on slope for ADAS-Cog14. The parameter estimates of the final SUVR-efficacy models
+are shown in Table 19. Overall, 95% CIs for the drug effect by change of SUVR (KSUVR) did not include
+zero, indicating significance correlation in the relationship between SUVR and clinical endpoints. The
+SUVR-Efficacy model predicted SUVR change dependent reduction in disease progression over time
+(Figure 16). The SUVR-efficacy models were assessed with diagnostics plots including goodness-of-fit
+and VPC (Figure 17).
+
+Table 18 Summary of Baseline Characteristics in the SUVR-Efficacy
+
+Source: Applicant pop PK-PD report # CPMS-BAN2401-002R-ADD1-v1, Nov 19, 2021, Page 13
+
+51
+
+Reference ID: 5103174
+
+Table 19 Parameter Estimates of the Final Population SUVR-Efficacy model of Lecanemab
+A. ADCOMS
+
+B. CDR-SB
+
+C. ADAS-Cog14
+
+52
+
+Reference ID: 5103174
+
+Source: Applicant pop PK-PD report # CPMS-BAN2401-002R-ADD1-v1, Nov 19, 2021, Page 76, 82, 88, Table 28, 33,
+38
+
+Figure 16 Time Course of Predicted Change from Baseline in Clinical Endpoints (ADCOMS, CDR-SB, and
+ADAS-Cog14) by SUVR change
+
+Source: Applicant pop PK-PD report # CPMS-BAN2401-002R-ADD1-v1, Nov 19, 2021, Page 77, 83 and 89,
+Figure 26, 28 and 30
+
+53
+
+Reference ID: 5103174
+
+Figure 17 Visual Predictive Checks for the Final SUVR-Efficacy model for lecanemab 10 mg/kg Q2W
+
+Source: Applicant pop PK-PD report # CPMS-BAN2401-002R-ADD1-v1, Nov 19, 2021, Page 78, 84, 90, Figure 27,29,
+31
+
+PK/PD analysis for plasma Aβ42/40 ratio
+Objectives: To describe the relationship between model-predicted serum lecanemab exposure and
+plasma Aβ42/40 ratio.
+Data: The PK-PD data of 1254 samples from 284 subjects enrolled in Study 01 Core and OLE were used to
+
+develop Pop PK-PD models for plasma Aβ42/40 ratio. The baseline covariate characteristics of subjects is
+provided in the Table 20.
+Method: The PK exposure-plasma Aβ42/40 ratio was explored with an indirect response model with the
+
+lecanemab concentration increasing the plasma Aβ42/40 ratio using Study 201 Core and OLE data.
+Covariate analysis was performed for the effect of age, weight, APOE4 carrier status, sex, AD diagnosis,
+ADA and neutralizing ADA.
+Results: The relationship between the lecanemab concentration and the Aβ42/40 ratio change time
+
+course was described by an indirect response model with the lecanemab concentration increasing the
+plasma Aβ42/40 ratio as a linear function. No covariate effects were added in the model. The parameter
+estimates of the final population PK-PD model for plasma Aβ42/40 ratio are shown in Table 21. The
+population PK-PD model was assessed with diagnostics plots including goodness-of-fit and VPC (Figure
+15).
+
+54
+
+Reference ID: 5103174
+
+Table 20 Summary of Baseline Characteristics in the PK-PD Analysis for plasma Aβ42/40 ratio
+
+Source: Applicant pop PK-PD report # CPMS-BAN2401-002R-ADD2-v1, Nov 19, 2021, Page 8
+
+Table 21 Parameter Estimates of the Final Population PK-PD Model for plasma Aβ42/40 ratio
+
+Source: Applicant pop PK-PD report # CPMS-BAN2401-002R-ADD2-v1, Nov 19, 2021, Page 29, Table 4
+
+Relationship between plasma Aβ42/40 ratio and Efficacy endpoints
+Objectives: To describe the relationship between plasma Aβ42/40 ratio and efficacy endpoints (ADASCog14, ADCOMS, CDR-SB).
+
+55
+
+Reference ID: 5103174
+
+Data: The data from Study 201 Core was used to explore relationship between plasma Aβ42/40 ratio and
+
+efficacy. The baseline covariate characteristics of subjects is provided in the Table 20.
+Method: Linear disease progression model was used to describe plasma Aβ42/40 -efficacy-time
+
+relationship, in which model-predicted change in plasma Aβ42/40 ratio was used as a predictor for
+efficacy endpoints. Absolute clinical efficacy endpoint scores were used in the analysis.
+Results: The biomarker effect on disease progression was introduced in the model as a linear function
+
+and was a significant predictor for efficacy endpoints (CDR-SB and ADCOMS). The following covariates
+included in the final plasma Aβ42/40 -efficacy models: (i) mild dementia on ADCOMS baseline for
+ADCOMS; and (ii) mild dementia on CDR-SB baseline for CDR-SB. The parameter estimates of the final
+plasma Aβ42/40 ratio - efficacy models are shown in Table 22. Overall, 95% CIs for the drug effect by
+change of plasma Aβ42/40 (KABETA) did not include zero for ADCOMS and CDR-SB, indicating significant
+correlation in the relationship between plasma Aβ42/40 and these two clinical endpoints. The plasma
+Aβ42/40 - efficacy model showed that an increase in plasma Aβ42/40 was associated with reduction in
+clinical decline on ADCOMS, and CDR-SB. In plasma Aβ42/40 - ADAS-Cog14 analysis, plasma Aβ42/40
+ratio was not a significant predictor of ADAS-Cog14, but the estimated KABETA was 17.2 (95% CI: -23.3 57.7) suggested directionally plasma Aβ42/40 ratio increases from baseline were related to reduction in
+clinical decline on ADAS-Cog14. The plasma Aβ42/40 ratio-efficacy models were assessed with
+diagnostics plots including goodness-of-fit and VPC (Figure 18).
+Table 22 Parameter Estimates of the Final Population Plasma Aβ42/40 Ratio -Efficacy model of
+Lecanemab
+A. ADCOMS
+
+56
+
+Reference ID: 5103174
+
+B. CDR-SB
+
+Source: Applicant pop PK-PD report # CPMS-BAN2401-002R-ADD2-v1, Nov 19, 2021, Page 41, Table 13
+
+Figure 18 Visual Predictive Checks for the Final Plasma Aβ42/40 Ratio-Efficacy model for lecanemab 10
+mg/kg Q2W
+
+Source: Applicant pop PK-PD report # CPMS-BAN2401-002R-ADD2-v1, Nov 19, 2021, Page 43,48, Figure 12,14
+
+57
+
+Reference ID: 5103174
+
+PK/PD analysis for plasma p-tau181
+Objectives: To describe the relationship between model-predicted serum lecanemab exposure and
+plasma p-tau181.
+Data: The PK-PD data of 2021 samples from 562 subjects enrolled in Study 201 Core and OLE were used
+
+to develop Pop PK-PD models for plasma p-tau181. The baseline covariate characteristics of subjects is
+provided in the Table 23.
+Method: The PK exposure-plasma p-tau181 was explored with an indirect response model with the
+
+lecanemab concentration as a linear function decreasing the plasma p-tau181 formation rate. Covariate
+analysis was performed for the effect of APOE4 carrier status, sex, AD diagnosis (MCI or mild AD), ADA,
+neutralizing ADA, age, body weight, and baseline p-tau181.
+Results: Body weight was added on baseline plasma p-tau181. The parameter estimates of the final
+
+population PK-PD model for plasma p-tau181 are shown in Table 24. The population PK-PD model was
+assessed with diagnostics plots including goodness-of-fit and VPC (Figure 15).
+Table 23 Summary of Baseline Characteristics in the PK-PD Analysis for Plasma p-tau181
+
+Source: Applicant pop PK-PD report # CPMS-BAN2401-002R-ADD3-v1, Nov 22, 2021, Page 9
+
+58
+
+Reference ID: 5103174
+
+Table 24 Parameter Estimates of the Final Population PK-PD Model for Plasma p-tau181
+
+Source: Applicant pop PK-PD report # CPMS-BAN2401-002R-ADD3-v1, Nov 22, 2021, Page 35, Table 8
+
+Relationship between plasma p-tau181 and Efficacy endpoints
+Objectives: To describe the relationship between plasma p-tau181 and efficacy endpoints (ADAS-Cog14,
+ADCOMS, CDR-SB).
+Data: The data from Study 201 Core was used to explore relationship between plasma p-tau181 and
+
+efficacy. The baseline covariate characteristics of subjects is provided in the Table 25.
+Method: Linear disease progression model was used to describe plasma p-tau181 -efficacy-time
+
+relationship, in which model-predicted change in plasma p-tau181 was used as a predictor for efficacy
+endpoints. Absolute clinical efficacy endpoint scores were used in the analysis.
+Results: The biomarker effect on disease progression was introduced in the model as a linear function
+
+and was a significant predictor for efficacy endpoints. The following covariates included in the final
+plasma p-tau181 -efficacy models: (i) mild dementia on ADCOMS baseline; and concomitant AChEI on
+both baseline and slope for ADCOMS; (ii) mild dementia on CDR-SB baseline; and concomitant AChEI on
+slope for CDR-SB; and (iii) mild dementia and concomitant AChEI on both ADAS-Cog14 baseline and
+slope; and age on slope for ADAS-Cog14. The parameter estimates of the final plasma p-tau181 - efficacy
+models are shown in Table 26. Overall, 95% CIs for the drug effect by change of plasma p-tau181 did not
+include zero, indicating significant association between plasma p-tau181 and clinical endpoints. The
+plasma p-tau181- efficacy model showed that a decrease in plasma p-tau181 was associated with
+reduction in clinical decline on ADCOMS, CDR-SB, and ADAS-Cog14. The plasma p-tau181- efficacy
+models were assessed with diagnostics plots including goodness-of-fit and visual predictive checks (VPC)
+(Figure 19).
+59
+
+Reference ID: 5103174
+
+Table 25 Summary of Baseline Characteristics in the Plasma p-tau181- Efficacy Analysis
+
+Source: Applicant pop PK-PD report # CPMS-BAN2401-002R-ADD3-v1, Nov 22, 2021, Page 10
+
+60
+
+Reference ID: 5103174
+
+Table 26 Parameter Estimates of the Final Population Plasma p-tau181 -Efficacy model of Lecanemab
+A. ADCOMS
+
+B. CDR-SB
+
+61
+
+Reference ID: 5103174
+
+C. ADAS-Cog14
+
+Source: Applicant pop PK-PD report # CPMS-BAN2401-002R-ADD3-v1, Nov 22, 2021, Page 47,54,59, Table 17,22,
+27
+
+62
+
+Reference ID: 5103174
+
+Figure 19 Visual Predictive Checks for the Final Plasma p-tau181 - Efficacy model for lecanemab 10
+mg/kg Q2W
+
+Source: Applicant pop PK-PD report # CPMS-BAN2401-002R-ADD3-v1, Nov 22, 2021, Page 49,55,61, Figure
+11,13,15
+
+4.4.1.4 Population PK-PD model of Safety
+Objectives: To describe the relationship between model-predicted serum lecanemab exposure to
+amyloid related imaging abnormality edema (ARIA-E).
+Data: The data from Study 201 Core was used to develop Pop PK-PD models of safety. The baseline
+
+covariate characteristics of subjects is provided in the Table 27.
+Method: Logistic regression was explored to examine the relationship between incidence of ARIA-E and
+
+lecanemab exposure. Log-hazard model including lecanemab exposure effect and attenuation factor of
+exposure effects was considered for the analysis of time to the first event of ARIA-E. In terms of PK
+exposure, the PK model-derived Css,max or Css,avg before/at the safety assessment were explored.
+
+63
+
+Reference ID: 5103174
+
+Results: For ARIA-E incidence, final logistic regression model included an intercept, a linear term with
+
+respect to lecanemab Css,max and an effect of APOE4 carrier. APOE4 carrier status (p = 0.040) did not
+meet the covariate selection criteria of P < 0.01, however the effect of APOE4 carrier status was
+included in the model from the perspective of clinical interest. The final parameter estimates for PK/PD
+models for ARIA-E incidences are shown in Table 28A. As shown in Figure 20A, model-predicted
+proportion of subjects with ARIA-E increases with higher Css,max, and the proportion was higher for
+APOE4 carriers.
+For time- first event of ARIA-E, final log-hazard model included an intercept, a linear term with respect
+to lecanemab Css,max with attenuation factor and an effect of APOE4 carrier. APOE4 carrier status (p =
+0.022) did not meet the covariate selection criteria of P < 0.01, however the effect of APOE4 carrier
+status was included in the model from the perspective of clinical interest. The final parameter estimates
+for Log-Hazard Model for Time to First ARIA-E are shown in Table 28B. The predictive performance of
+the final model was assessed using VPC (Figure 20B), which showed good agreement of simulated and
+observed data for lecanemab 10 mg/kg Q2W.
+
+Table 27 Summary of Baseline Characteristics in the PK-PD Analysis of ARIA-E
+
+Source: Applicant pop PK-PD report # CPMS-BAN2401-002R-v1.1, April 15, 2019, Page 8
+
+64
+
+Reference ID: 5103174
+
+Table 28 Parameter Estimates of the Final Population PK-PD Model for safety of Lecanemab
+A. Logistic regression model for ARIA-E incidences
+
+B. Log-Hazard Model Parameter Estimates for Time to First ARIA-E
+
+Source: Applicant pop PK-PD report # CPMS-BAN2401-002R-v1.1, April 15, 2019, Page 141, 143, Table 90,92
+
+Figure 20 Model Evaluation for PK/PD Model for ARIA-E incidences and time-to-first event of ARIA-E
+A. Model Predicted Proportion of Subject with ARIA-E
+
+65
+
+Reference ID: 5103174
+
+B. Visual Predictive Check of ARIA-E Log-Hazard Model
+
+Source: Applicant pop PK-PD report # CPMS-BAN2401-002R-v1.1, April 15, 2019, Page 142,144, Figure 44-45
+
+4.4.2 Reviewer’s Analysis
+4.4.2.1 Applicant’s Pop PK model evaluation
+The reviewer was able to run the applicant’s final PK model and obtained similar results as reported by
+the applicant. Model diagnostics for lecanemab are shown in Figure 21.
+Figure 21 Goodness-Of-Fit Plots of the Final Population PK Model for Lecanemab
+
+Source: Reviewer’s analysis
+
+66
+
+Reference ID: 5103174
+
+The applicant’s pop-PK model was used to inform following statements of the proposed label Section 12.3:
+(b) (4)
+•
+
+•
+•
+•
+
+The mean value (95% CI) for central volume of distribution at steady-state is 3.22 L (3.15-3.28).
+(b) (4)
+The terminal half-life is 5 to 7 days.
+(b) (4)
+Sex, body weight, albumin
+were found to
+(b) (4)
+impact exposure to
+However, none of these covariates were found to be clinically
+significant.
+
+Reviewer agrees with all above-mentioned statements proposed by the applicant
+For ADA effect on lecanemab PK, the applicant’s population PK analysis showed that
+(b)
+(b)
+the subjects with positive ADA status will have (4) lower AUC and (4) lower Cmax, which suggested no
+clinically meaningful effect on the PK of lecanemab (Figure 12). However, the ADA assay used to
+determine ADA incidences have drug tolerance level of 31.3 μg/mL. At dose of 10 mg Q2W, majority of
+PK samples were higher than drug tolerance level (Figure 22), which makes the ADA results for this dose
+group unreliable. Therefore, population PK analysis was not suitable to evaluate the impact of ADA on the
+PK of lecanemab 10 mg/kg Q2W.
+(b) (4)
+
+Figure 22 Observed Pre-dose concentrations Stratified by Dose Group and Colored by ADA status in
+Study 201
+
+Blue circle: ADA positive; Grey Circle: ADA negative; Red line: drug tolerance level of 31.3 ug/mL
+Source: Reviewer’s analysis
+
+4.4.2.2 Applicant’s Pop PK/PD model for biomarkers and efficacy evaluation
+Applicant evaluated the relationship between lecanemab PK exposures, biomarkers, and clinical
+endpoints as summarized in the Appendix 4.4.1. The reviewer was able to run all the applicant’s final PKPD models and obtained similar results as reported by the applicant. Reviewer has also independently
+evaluated the relationship between lecanemab PK exposures, biomarkers, and clinical endpoints using
+67
+
+Reference ID: 5103174
+
+observed data from Study 201 Core. The focus of the analysis was to evaluate the statements of the
+proposed label Section 12.2-Exposure-Response Relationships.
+Reviewer agrees with the following relationships between PK exposures, PET SUVR, and clinical
+endpoints as summarized in applicant’s proposed Labeling Section 12.2 based on the population PK and
+PK-PD analysis of lecanemab.
+(b) (4)
+
+For CSF and plasma biomarkers, please refer to Appendix 4.3.
+References:
+1. Population PK-PD report # CPMS-BAN2401-002R-v1.1: Population Pharmacokinetic &
+Pharmacokinetic/Pharmacodynamic Analyses of BAN2401 in Patients with Early Alzheimer’s
+Disease, 15 April 2019.
+2. Population PK-PD report # CPMS-BAN2401-002R-ADD1-v1: Population Pharmacokinetic &
+Pharmacokinetic/Pharmacodynamic Analyses of Lecanemab in Patients with Early Alzheimer’s
+Disease Addendum 1 (PK, Amyloid PET, Amyloid PET-Efficacy, Safety), 19 November 2021.
+3. Population PK-PD report # CPMS-BAN2401-002R-ADD2-v1: Population Pharmacokinetic/
+Pharmacodynamic Analyses of Lecanemab in Patients with Early Alzheimer’s Disease Addendum
+2 (Plasma Aβ42/40 ratio, Amyloid PET SUVr, Efficacy), 19 November 2021.
+4. Population PK-PD report # CPMS-BAN2401-002R-ADD3-v1: Population Pharmacokinetic/
+Pharmacodynamic Analyses of Lecanemab in Patients with Early Alzheimer’s Disease Addendum
+3 (Plasma p-tau181, Amyloid PET SUVr, Efficacy), 22 November 2021.
+
+68
+
+Reference ID: 5103174
+
+4.5 Immunogenicity
+4.5.1 Classification of Subjects as ADA/NAb Positive vs. Negative
+Applicant’s Analysis
+During the 18-month treatment period in Study 201 Core, treatment emergent anti-lecanemab
+antibodies (ADA) were tested positive in at least one serum sample in 40.9% (63/154) of patients
+treated with lecanemab 10 mg/kg biweekly and were generally characterized by low titers. Of these
+patients, treatment emergent anti-lecanemab neutralizing antibodies (NAb) were tested positive in at
+least one serum sample in 25.4% (16/63) of patients treated with lecanemab 10 mg/kg biweekly and
+were generally characterized by low titers.
+Reviewer’s Comments
+The review team noted that the drug tolerance levels for the ADA and NAb assays were 31.3 μg/mL for
+the 50 ng/mL and 5000 ng/mL of positive control respectively in Study 201 Core. However, most of the
+pre-dose drug concentrations in this study were above 31.3 μg/mL at the dose of 10 mg Q2W (refer to
+Figure 22 in Appendix 4.4.2.1), which makes the ADA results unreliable. The negative result of an ADA
+sample is considered “inconclusive” if the drug concentration exceeded the drug tolerance level,
+because the presence of lecanemab in the sample interfered with the ADA assay. An Information
+Request was sent to the Sponsor to clarify on the adequacy of ADA/NAb assays regarding drug
+tolerance, and the impact of this issue on the data interpretability.
+The IR response dated June 14, 2022 stated that the majority (84%) of the lecanemab 10 mg/kg
+biweekly subjects could be classified as either ADA positive or ADA negative conclusive. However, the
+review team identified a different number of “ADA negative conclusive” subjects as compared to the
+subject number in Sponsor’s analysis in the IR response. A follow-up IR was thus sent to the Sponsor to
+request for a detailed list of lecanemab concentration and ADA status of each sample and subject. The
+IR response submitted on August 8, 2022 suggested the discrepancy was due to Sponsor’s incorrect
+definition of ADA negative conclusive. In short, the review team does not accept the Sponsor’s approach
+of classifying the screening negative samples as "negative conclusive" when the drug concentrations in
+the samples exceed the drug tolerance level.
+The OCP review team concluded that the observed incidence of ADA and NAb positivity may be
+underestimated, since the subjects classified as “negative inconclusive” could be potentially ADA
+positive. Although the immunogenicity assays were not adequate to provide an accurate estimation of
+ADA/NAb incidence, the review team proposed to include applicant’s estimated incidences into the
+labeling as this might be informative on potential clinical significance of immunogenicity effect.
+The review team recommends to include the following language in labeling to describe the limitation of
+ADA assay and the impact on estimation of ADA incidence: “the assays used to measure anti-lecanemabirmb antibodies and neutralizing antibodies are subject to interference by serum lecanemab
+concentrations, possibly resulting in an underestimation of the incidence of antibody formation.” Please
+refer to the review by OBP for bioanalytical method validation and performance of ADA and NAb.
+
+69
+
+Reference ID: 5103174
+
+4.5.2 Effect of Immunogenicity on PK and PD
+Applicant’s Initial Analysis
+No clinically meaningful effect was observed for ADA impact on PK or PD based on sponsor’s pop-PK/PD
+analysis. For the effect of ADA on PK, slight decrease in AUC and Cmax was observed in subjects with
+positive ADA status as shown in observed data (Figure 23) and stated in applicant’s population PK
+analysis (Appendix 4.4.1.1, Figure 12). The difference in PK exposure was not considered clinically
+meaningful based on the comparison of PD effect. According to Sponsor’s analysis (Figure 24), both ADA
+positive subjects and ADA negative conclusive subjects achieved an amyloid negative level (PET SUVR =
+1.17) by Week 53.
+Figure 23 Observed Lecanemab Serum Concentrations Stratified by ADA Status
+
+Source: Applicant’s summary of clinical pharmacology, Section 2.7.2.3.2, page 41, Figure 2.7.2-5
+
+70
+
+Reference ID: 5103174
+
+Figure 24 Mean (+/- SE) Change from Baseline in Brain Amyloid Levels as Measured by Amyloid PET by
+Visit and ADA Status in Study 201 Core, ADA positive (A) and ADA negative conclusive (B)
+A
+
+B
+
+Source: Applicant’s Integrated Summary of Immunogenicity, Figure 14, page 44-45
+
+Reviewer’s Comments on Applicant’s Initial Analysis
+Assessment of impact of immunogenicity on PK and PD requires accurate classification of subjects into
+categories including “ADA positive”, “ADA negative conclusive” and others (as appropriate), which was
+not achieved in the Sponsor’s initial analysis. To explore the potential to characterize the impact of
+immunogenicity despite the inadequacy of ADA assay, the review team requested further analysis from
+the Sponsor. The Sponsor submitted the IR response on September 13, 2022, with updated analysis to
+evaluate the impact of ADA on PK and PD (Figure 25). In this exploratory analysis, the modified
+classification criteria were used for ADA negative conclusive, as listed below:
+•
+
+Subjects with evaluable ADA (at least one baseline and one post-baseline ADA sample).
+
+71
+
+Reference ID: 5103174
+
+•
+•
+
+Final ADA negative status (ADA subject-level status of negative conclusive [NC] or negative
+inconclusive [NI]).
+At least one post-baseline negative ADA sample (screening negative [SN], NC, NI) with Ctrough ≤
+drug tolerance level (31.3 μg/mL for Study 201).
+
+Applicant’s Updated Analysis
+Each boxplot presents the following groups at the sample-level at Week 53 and Week 79: ADA negative
+(SN, NC, or NI); ADA negative with Ctrough ≤ 31.3 μg/mL; and ADA positive with low titer (titer ≤ 5). No
+ADA positive sample had a titer higher than 5. Similar analysis was conducted for NAb (Figure 26), and
+no samples were NAb positive at Week 53 or Week 79.
+Figure 25 Applicant’s analysis regarding impact of ADA on PK and PD using modified criteria. (A) Predose Lecanemab Serum Concentration (μg/mL) and (B) Change from Baseline in Brain Amyloid Levels as
+Measured by Amyloid PET SUVR for 10 mg/kg Biweekly by ADA Titer and Visit in Study 201 Core
+A
+
+B
+
+Source: Sponsor’s IR response submitted on September 13, 2022, page 4-5, Figure 1 and Figure 2. n/m: number of
+samples in each group, and number of samples with pre-dose lecanemab serum concentration measurement in
+each group.
+
+72
+
+Reference ID: 5103174
+
+Figure 26 Applicant’s analysis regarding impact of NAb on PK and PD using modified criteria. (A) Predose Lecanemab Serum Concentration (μg/mL) and (B) Change from Baseline in Brain Amyloid Levels as
+Measured by Amyloid PET SUVR for 10 mg/kg Biweekly by NAb Titer and Visit in Study 201 Core
+A
+
+B
+
+Source: Sponsor’s IR response submitted on September 13, 2022, page 6-7, Figure 3 and Figure 4. n/m: number of
+samples in each group, and number of samples with pre-dose lecanemab serum concentration measurement in
+each group.
+
+Reviewer’s Comment on Applicant’s Updated Analysis
+The review team noted multiple limitations with the analysis. Firstly, the ADA assay is limited by the
+drug tolerance issue and is therefore not reliable for accurate classification of ADA positive vs. negative
+status. Secondly, there were limited number of samples with observed ADA positive status in the
+updated analysis, which does not allow comparison of effect on PK or PD between samples with
+different ADA titers. Thirdly, with a large portion of ADA negative inconclusive samples, it is unclear how
+73
+
+Reference ID: 5103174
+
+many of them were in fact ADA positive, and how they might impact the assessment. Hence, the review
+team recommends to state the following in labeling: there is insufficient information to characterize the
+effects of anti-lecanemab-irmb antibodies on pharmacokinetics, pharmacodynamics, safety, or
+effectiveness of LEQEMBI.
+To ensure obtaining meaningful immunogenicity results, a PMR is recommended by the clinical
+pharmacology review team. To fulfill the PMR, the applicant needs to use improved and validated assays
+to determine the incidence of ADA and NAb in the confirmatory study, and to evaluate the impact of
+ADA and NAb on the pharmacokinetics, pharmacodynamics, safety, and efficacy of lecanemab. Please
+refer to OBP review for another PMR to develop and validate ADA and NAb assays with improved
+sensitivity.
+
+74
+
+Reference ID: 5103174
+
+Signature Page 1 of 1
+
+-------------------------------------------------------------------------------------------This is a representation of an electronic record that was signed
+electronically. Following this are manifestations of any and all
+electronic signatures for this electronic record.
+-------------------------------------------------------------------------------------------/s/
+-----------------------------------------------------------YIFEI N ZHANG
+01/03/2023 10:10:10 AM
+VISHNU D SHARMA
+01/03/2023 10:29:35 AM
+MOHSEN RAJABI ABHARI
+01/03/2023 10:32:37 AM
+XIULIAN DU
+01/03/2023 11:04:54 AM
+VENKATESH A BHATTARAM
+01/03/2023 12:37:47 PM
+YOW-MING C WANG
+01/03/2023 01:16:13 PM
+BILAL S ABUASAL
+01/03/2023 01:53:16 PM
+SREEDHARAN N SABARINATH
+01/03/2023 02:15:08 PM
+HAO ZHU
+01/03/2023 02:20:39 PM
+RAMANA S UPPOOR
+01/03/2023 02:30:50 PM
+MEHUL U MEHTA
+01/04/2023 10:58:26 AM
+
+Reference ID: 5103174
+
+

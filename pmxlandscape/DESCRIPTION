@@ -1,0 +1,36 @@
+Type: Package
+Package: pmxlandscape
+Title: Corpus, Classifications and Summaries for the PMx Landscape
+Version: 0.3.0
+Authors@R:
+    c(
+      person("Niclas", "Jonsson", email = "niclas.jonsson@pharmetheus.com", role = c("aut", "cre")),
+      person("Pharmetheus AB", email = "info@pharmetheus.com", role = "cph")
+    )
+Description: Tools for the PMx Landscape project, which measures how
+    pharmacometric modelling is done in practice, starting with the
+    estimation software used. Searches
+    cached source text with a shared pattern file, verifies the matches
+    against a recorded decision table, and summarises the results per source.
+License: MIT + file LICENSE
+Depends: R (>= 4.1.0)
+Imports:
+    digest,
+    ggplot2,
+    ggrepel,
+    jsonlite,
+    rvest,
+    stats,
+    stringi,
+    utils,
+    xml2
+Suggests:
+    pdftools,
+    png,
+    readxl,
+    testthat (>= 3.0.0),
+    withr
+Config/testthat/edition: 3
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3

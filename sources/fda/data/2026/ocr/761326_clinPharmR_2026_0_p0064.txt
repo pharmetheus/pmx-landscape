@@ -1,0 +1,37 @@
+Figure 3. Prediction-corrected Visual Predictive Check from Final PK Model
+A.
+
+Time Since Randomisation (weeks)
+
+250000
+
+200000
+
+150000
+
+100000
+
+Ico (pmol/L)
+
+50000
+
+T
+6 10 18 26 3
+
+n
+
+Time Since Randomisation (weeks)
+
+Note: Ico: Insulin icodec. A. Prediction-corrected VPC stratified by trial. Data are observed (lines) and
+simulated (shaded areas, n=1000, 95% Cl) medians, 5‘ and 95' concentration percentiles. B. Observed
+and predicted exposure over time. Symbols with error bars are geometric mean observed concentrations
+with 95%Cls from all studies. Line is geometric mean population predictions for the corresponding
+observations, obtained from the reduced model. Data from trial NN1436-4383 (N=123) at week 16 and
+week 20 were plotted at nominal time 18 weeks to align with the PK sampling for the 4 other trials
+(N=1121). Trial NN1436-4625 does not contribute data at nominal time 31 weeks.
+
+Source: Applicant’s Population PK Report, Figures 9-14 and 9-16, pages 45 and 47.
+
+page 65
+
+Reference ID: 5399798

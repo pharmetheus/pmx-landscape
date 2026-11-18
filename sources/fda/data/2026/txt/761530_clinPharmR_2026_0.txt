@@ -1,0 +1,1284 @@
+CENTER FOR DRUG EVALUATION AND
+RESEARCH
+APPLICATION NUMBER:
+
+761530Orig1s000
+CLINICAL PHARMACOLOGY
+REVIEW(S)
+
+Office of Clinical Pharmacology Review
+BLA Number
+
+761530
+
+Link to EDR
+
+\\CDSESUB1\evsprod\BLA761530\0001
+
+Submission Date
+Submission Type
+Brand Name
+Generic Name
+Dosage Form
+Route of Administration
+Proposed Indication
+
+10/31/2025
+BLA; Priority review
+Lumvoa
+Veligrotug
+Injection: 500 mg/10 mL, supplied as a single dose vial
+IV infusion
+Thyroid eye disease regardless of thyroid eye disease
+activity or duration
+Intravenous (IV) infusion of 10 mg/kg every three weeks
+for 5 infusions.
+Viridian Therapeutics, Inc
+Lei He, PhD; Hezhen Wang, PhD; Da Zhang, PhD; Ping Ji,
+PhD
+Chandrahas Sahajwalla, PhD. Director, Division of
+Immune and Inflammation Pharmacology, Office of
+Clinical Pharmacology
+
+Proposed Dosing Regimen
+Applicant
+OCP Review Team
+OCP Final Signatory
+
+1
+
+Reference ID: 5790858
+
+TABLE OF CONTENTS
+
+1
+
+EXECUTIVE SUMMARY ..................................................................................................... 3
+1.1
+
+Recommendations ............................................................................................................ 3
+
+1.2
+
+Post Marketing Requirement ............................................................................................ 4
+
+2
+
+SUMMARY OF CLINICAL PHARMACOLOGY ASSESSMENT ..................................... 4
+2.1
+
+Pharmacology and Clinical Pharmacokinetics ................................................................. 4
+
+2.2
+
+Dosing and Therapeutic Individualization ....................................................................... 5
+
+3
+
+Comprehensive Clinical Pharmacology Review ..................................................................... 5
+3.1
+
+Overview of the Product and Regulatory Background .................................................... 5
+
+3.2
+
+General Pharmacology and Pharmacokinetic Characteristics .......................................... 5
+
+3.3
+
+Clinical Pharmacology Review Questions ....................................................................... 8
+
+4
+
+APPENDICES ....................................................................................................................... 12
+4.1
+
+Summary of Bioanalytical Method Validation and Performance .................................. 12
+
+4.2
+
+Clinical PK Assessment ................................................................................................. 14
+
+4.3
+
+Pharmacometrics Review ............................................................................................... 38
+
+2
+
+Reference ID: 5790858
+
+1
+
+EXECUTIVE SUMMARY
+
+Veligrotug is a humanized monoclonal antibody with the molecular weight of approximately 150
+kDa. It is an antagonist of insulin-like growth factor-1 receptor inhibitor (IGF-1R). On October
+31, 2025, the applicant (Viridian Therapeutics, Inc) submitted this BLA application (761530)
+seeking the marketing approval for veligrotug for the treatment of Thyroid Eye Disease (TED)
+regardless of TED activity or duration. The proposed dosage form is 500 mg/10 mL (50 mg/mL)
+in a single-dose vial for Intravenous (IV) infusion. The proposed dosing regimen is IV infusion
+of 10 mg/kg every three weeks (Q3W) for 5 infusions.
+BLA761530 consists of five phase 1/2 clinical pharmacology studies (101 (phase1/2 portion), 102,
+103, 001, and 002) in healthy subjects or patients with TED, two pivotal phase 3 studies (THRIVE
+and THRIVE-2), one OLE study (302), and one safety study (STRIVE). In addition, one
+population PK and exposure-response modeling and simulation report (VRDN-PMX-VRDN00137495) was also submitted.
+The clinical pharmacology review focuses on the proposed veligrotug dosing regimen for the
+proposed indication, characterization of veligrotug PK based on population PK analyses, exposureresponse analyses for safety and efficacy, and the proposed drug product labeling.
+
+1.1 Recommendations
+The Office of Clinical Pharmacology/Division of Immune and Inflammation Pharmacology
+(OCP/DIIP) has reviewed the clinical pharmacology data submitted in support of BLA 761530
+and finds the application acceptable from a clinical pharmacology perspective. The key review
+issues and recommendations are shown in Table 1.
+Table 1. Review issues, recommendations, and comments of BLA 761530
+Review Issues
+Recommendations and Comments
+Pivotal or supportive evidence of effectiveness Two clinical studies in patients with TED
+provide pivotal evidence of effectiveness
+(refer to the clinical review and statistical
+review for detailed assessment).
+General dosing instructions
+The recommended dosing regimen is IV
+infusion of 10 mg/kg Q3W for 5 infusions.
+Dosing in patient subgroups (intrinsic and No dose adjustment is recommended for
+extrinsic factors)
+patients based on intrinsic and extrinsic
+factors.
+Labeling
+The review team has recommended revisions
+to the Applicant’s proposed labeling language.
+The labeling negotiation is ongoing.
+Bridge between the to-be-marketed and The bridge PK study between the to-beclinical trial formulations
+marketed and clinical trial formulations is not
+3
+
+Reference ID: 5790858
+
+warranted as the to-be-marketed formulation
+was used in the clinical trials with TED
+patients. The to-be-marketed formulation was
+used in the pivotal phase 3 studies.
+
+1.2 Post Marketing Requirement
+None.
+
+2
+
+SUMMARY OF CLINICAL PHARMACOLOGY ASSESSMENT
+
+2.1 Pharmacology and Clinical Pharmacokinetics
+Veligrotug is a humanized monoclonal antibody with the molecular weight of approximately 150
+kDa. Veligrotug is an antagonist of IGF-1R and proposed for the treatment of TED regardless of
+TED activity or duration. The proposed dosing regimen is IV infusion of 10 mg/kg Q3W for 5
+infusions.
+Pharmacokinetics
+
+
+
+
+
+
+
+In patients with TED, following the first 10 mg/kg IV infusion, the mean Cmax of
+veligrotug was 269 µg/mL and the mean Ctough was 50-51 µg/mL. After the 4th 10 mg/kg
+IV infusion with Q3W regimen, veligrotug Cmax ranged from 336 to 350 µg/mL, and
+Ctrough ranged from 87.8 to 92.5 μg/mL (Studies THRIVE and THRIVE-2).
+Systemic exposure was comparable between healthy subjects and patients with TED.
+Population pharmacokinetics of veligrotug were adequately described by a twocompartment model with parallel linear and nonlinear elimination pathways. The
+estimated mean (percent relative standard error) linear clearance was 0.216 (3) L/day,
+with a corresponding half-life of ~18 days.
+Based on the simulation from the final model, age, sex, race/ethnicity, and body weight
+were not identified as clinically meaningful covariates.
+
+Immunogenicity
+
+
+Based on pooled data from Studies THRIVE, THRI VE-2, and STRIVE, the incidence of
+treatment-emergent ADA was 20% (58/290). No clinically significant impact of
+immunogenicity on veligrotug PK, efficacy, and safety was observed.
+
+Exposure-Response Relationship
+
+
+No apparent exposure-response relationship was observed for the safety and efficacy
+endpoints.
+
+4
+
+Reference ID: 5790858
+
+2.2 Dosing and Therapeutic Individualization
+2.2.1 General Dosing
+The proposed dosing regimen of veligrotug for the treatment TED is IV infusion of 10 mg/kg
+Q3W for 5 infusions.
+2.2.2 Therapeutic Individualization
+Therapeutic individualization is not needed for the proposed veligrotug.
+2.2.3 Outstanding Issues
+None.
+2.2.4 Summary of Labeling Recommendations
+The review team has recommended several revisions to the Applicant’s proposed labeling
+language in Section 12.3. The labeling negotiation is ongoing.
+
+3
+
+COMPREHENSIVE CLINICAL PHARMACOLOGY REVIEW
+
+3.1 Overview of the Product and Regulatory Background
+Veligrotug is a humanized monoclonal antibody with the molecular weight of approximately 150
+kDa. It is an antagonist of IGF-1R and proposed for the treatment of TED regardless of TED
+activity or duration.
+In the Type C meeting request dated January 23, 2025, the Agency agreed that the proposed clinical
+and clinical pharmacology data package appeared acceptable while the final determinations
+regarding filability can only be made once a complete BLA is submitted and reviewed.
+On October 31, 2025, the applicant submitted this BLA application (761530) seeking the
+marketing approval for veligrotug for the treatment of TED regardless of TED activity or duration.
+
+3.2 General Pharmacology and Pharmacokinetic Characteristics
+PK samples were collected in a total of eight clinical studies in healthy subjects and patients with
+active or chronic TED, including four studies (Studies 101, 102, 001, and 002) with intensive
+sampling and other studies (103, THRIVE-2, STRIVE, and 302 (OLE)) with sparse sampling
+(Table 2). PK data from Studies 102, THRIVE, THRIVE-2, and 302 were also included in
+population PK and exposure-response analysis. The general pharmacology and pharmacokinetic
+characteristics of veligrotug is summarized in Table 3.
+
+5
+
+Reference ID: 5790858
+
+Table 2. Summary of clinical studies in veligrotug development program for TED
+
+Source: Table 1 of Summary of Clinical Overview
+
+6
+
+Reference ID: 5790858
+
+Pharmacodynamics
+
+Immunogenicity
+
+The change of IGF-1 levels was evaluated as an exploratory PD endpoint in patients
+with TED (Studies THRIVE and THRIVE-2). Following veligrotug 10 mg/kg IV
+infusions Q3W, IGF-1 serum concentrations increased up to 5-6 folds as compared to
+baseline, while IGF-1 serum concentrations remained unchanged in the placebo group.
+However, the clinical relevance of this PD biomarker is unclear.
+Based on the pooled data from Studies THRIVE, THRIVE-2, and STRIVE, the
+incidence of treatment-emergent ADA was 20% (58/290). No clinically significant
+impact of immunogenicity on veligrotug PK, efficacy, and safety was observed.
+
+3.3 Clinical Pharmacology Review Questions
+3.3.1
+
+To what extent does the available clinical pharmacology information provide pivotal or
+supportive evidence of effectiveness?
+
+The safety and efficacy of veligrotug were evaluated in subjects with TED in two randomized,
+placebo-controlled studies: Studies THRIVE and THRIVE-2. These two studies provided pivotal
+evidence of effectiveness of the proposed indication of treatment of active TED.
+3.3.2
+
+Is the proposed dosing regimen appropriate for the general patient population for
+which the indication is being sought?
+
+Yes, the proposed dosing regimen of 5 IV infusions 10 mg/kg Q3W is appropriate for the general
+patient population with TED.
+The selection of 10 mg/kg regimen was based on dose ranging evaluations in subjects with active
+TED (n=6) or chronic TED (n=6) (Study 101). Following 2 IV infusions of 3, 10, or 20 mg/kg
+(active TED only) Q3W, the proptosis responder rate (PRR) in the study eye at Week 6 (primary
+efficacy endpoint, improvement in proptosis by ≥2 mm from baseline in the study eye [without a
+corresponding increase of ≥2 mm in the fellow eye] as measured by exophthalmometer) was higher
+with 10 mg/kg (83.3% in active TED, 50% in chronic TED) than with 3 mg/kg (66.7% in active
+TED, 33% in chronic TED), whereas no additional improvement was observed with 20 mg/kg
+(66.7% in active TED).
+Both the 10 mg/kg and 3 mg/kg regimens were also assessed in a randomized, controlled, safety
+and tolerability study in participants with thyroid eye disease (Study VRDN-001-303). The change
+from baseline in proptosis in the study eye as measured by exophthalmometer at Week 15 was
+numerically higher response for 10 mg/kg regimen as compared to 3 mg/kg regimen (-2.21 mm vs
+-1.95 mm).
+The selection of the 5-infusion dosing regimen was based on rapid onset of action and safety and
+tolerability concern of associated with IGF-1receptor with a higher number of infusions.
+
+8
+
+Reference ID: 5790858
+
+This proposed dosing regimen was further evaluated in phase 3 clinical studies in subjects with
+TED (THRIVE and THRIVE-2) and was found safety and effective. Refer to the clinical and
+statistical reviews for detailed efficacy and safety assessment.
+3.3.3
+
+Is an alternative dosing regimen and/or management strategy required for
+subpopulations based on intrinsic factors?
+
+Population PK analysis did not identify any covariate (body weight at baseline, age, race, sex,
+ADA status, smoking history/status) with clinical significance. Therefore, an alternate dosing
+regimen is not recommended for subpopulations based on intrinsic factors.
+3.3.4
+
+Is the to-be-marketed formulation the same as the clinical trial formulation, and if not,
+are there bridging data to support the to-be-marketed formulation?
+
+The to-be-marketed formulation was used in pivotal clinical trials (THRIVE and THRIVE-2).
+No formulation bridging is needed.
+3.3.5
+
+What is the immunogenicity of the proposed drug product?
+
+Immunogenicity was assessed in patients with TED. Based on the pooled data from Studies
+THRIVE, THRIVE-2, and STRIVE, the pre-treatment incidence of ADA is 4.7% (17/361) and
+290 of 361 (80.3%) patients had evaluable samples for ADA assessment, in which the incidence
+of treatment-emergent ADA was detected in 20% (58/290) patients, while 71 of 361 (19.7%) of
+patients were classified as inconclusive for ADA status due to the drug tolerance issue of the ADA
+assay. In addition, due to the limitation of the assay for NAb detection, the incidence of NAb is
+unknown. Refer to the Product Quality review for detailed assessment of the immunogenicity
+assays.
+Based on the pooled data from Studies THRIVE, THRIVE-2, and STRIVE with evaluable ADA
+samples, the mean Ctrough in ADA positive subjects are similar to ADA negative subjects (Figure
+1). For efficacy, while the proptosis mean change from baseline (assessed by exophthalmometer)
+at Week 15 in ADA positive subgroup (-2.414) is similar to ADA negative subgroup (-2.602), the
+proptosis change from baseline appears generally overlapped over time by ADA status (Figure 2).
+Safety assessment showed that the incidence of muscle spasms in ADA positive subgroup (50%)
+is numerically higher than ADA negative subgroup (34.5%) and the incidence of other adverse
+events, including hearing impairment, hyperglycemia, menstrual disorders, infusion-related
+reactions and injection site reactions are generally comparable by ADA status (Table 4). Overall,
+no clinically significant impact of immunogenicity on veligrotug PK, efficacy, and safety was
+observed.
+
+9
+
+Reference ID: 5790858
+
+Figure 1. Mean (±SD) Ctrough by ADA Status (Studies THRIVE, THRIVE-2, and
+STRIVE)
+
+Source: Adapted from Figure 1 of Integrated Summary of Immunogenicity Addendum
+
+Figure 2. Mean (±SD) proptosis change from baseline over time by ADA status (Studies
+THRIVE and THRIVE-2)
+
+Source: Adapted from Figure 10 of Integrated Summary of Immunogenicity Addendum 2
+
+10
+
+Reference ID: 5790858
+
+Table 4. Summary of adverse events by ADA and NAb status (Studies THRIVE, THRIVE2, and STRIVE)
+AE
+Muscle spasms
+Hearing impairment
+Hyperglycemia
+Menstrual disorders
+IRR/ISR
+
+TEADA positive
+N=58
+
+TEADA negative
+N=232
+
+29 (50.0%)
+9 (15.5%)
+9 (15.5%)
+8 (13.8%)
+6 (10.3%)
+
+80 (34.5%)
+35 (15.1%)
+42 (18.1%)
+32 (13.8%)
+28 (12.1%)
+
+AE=adverse event; IRR=infusion-related reaction; ISI=integrated summary of immunogenicity; ISR=injection site
+reaction; N=number of participants in the dataset; TEADA=treatment-emergent ADA
+Note: AEs are presented as the number of unique participants with at least 1 occurrence of the AE.
+Source: Adapted from Table 34 of Integrated Summary of Immunogenicity Addendum 2
+
+11
+
+Reference ID: 5790858
+
+4
+
+APPENDICES
+
+4.1 Summary of Bioanalytical Method Validation and Performance
+Three electrochemiluminescence immunoassays (ECLIA) have been developed and fully
+validated to determine veligrotug (also known as VRDN-001 and ZB001) concentrations in human
+serum (Table 5). All clinical samples were stored and analyzed within the duration with the longterm stability demonstrated.
+Table 5. Summary of bioanalytical assays for PK assessment
+Validation Report
+V1522113P1
+V1522206E3
+(Table 6)
+SH-Z19-R4381R1
+
+Study Site
+(b) (4)
+
+12
+
+Reference ID: 5790858
+
+Clinical Studies
+101
+102, 103, THRIVE, THRIVE-2,
+302, STRIVE
+001, 002
+
+4.2 Clinical PK Assessment
+Note that veligrotug is also known as VRDN-001 and ZB001. The interpretation of
+immunogenicity data in this section is limited due to the caveat of immunogenicity assays.
+4.2.1
+
+Phase 1/2 Study VRDN-001-101 (101)
+
+Title: A multiple-ascending dose safety, tolerability, and efficacy study of VRDN-001, a
+humanized monoclonal antibody directed against the IGF-1 receptor, in normal healthy
+volunteers and subjects with thyroid eye disease
+Study period: 03 December 2021 - 14 September 2023
+Objectives: safety, tolerability, efficacy, PK, PD
+Study design: This was a phase 1/2 randomized, double-masked, placebo-controlled, multipleascending dose (MAD) study in HVs (n=13, phase 1) and participants with active (n=27) and
+chronic TED (n=19) (phase 2). Two doses of VRDN-001 (veligrotug) were administered 3 weeks
+apart through IV infusion at 3 mg/kg (low dose), 10 mg/kg (middle dose), and 20 mg/kg (high
+dose).
+Figure 3. Study design (Study 101)
+
+Source: Figure 1 of Study 101 CSR
+
+Test Drug Product
+Veligrotug was provided as a solution containing 25 mg/mL of antibody in 4.0 mL extractable
+volume in 10R vials (Lot #: 20210602-2, 20210602-3, 20210602-4, and 20221003)
+PK Sampling
+14
+
+Reference ID: 5790858
+
+
+
+Phase 1 in healthy subjects: pre-infusion, 5 to 10 minutes before the end of the infusion,
+and at 2, 4, 8, 12 hours after the end of infusion on infusion days (Days 1, 22), and also
+on Days 2, 4, 8, 15, 23, 25, 29, 36, 43, 50.
+ Phase 2 in patients: pre-infusion, 5 to 10 minutes before the end of infusion, and at 2, and
+4 hours after the end of infusion on the infusion days (Days 1, 22), and also on Days 43,
+50.
+Immunogenicity Sampling
+ Phase 1/2: pre-infusion on Days 1, 22, 50
+Results
+Figure 4. Arithmetic mean (SD) derum concentration of veligrotug versus time following
+the 1st (Day 1) and 2nd (Day 22) infusion of veligrotug Q3W (Linear and Semi-Log Scales)
+in Healthy Volunteers (Study 101)
+
+Source: Figure 2 of Study 101 CSR
+
+15
+
+Reference ID: 5790858
+
+Table 7. Summary serum pharmacokinetic parameters of veligrotug following the 1st and
+2nd infusion of veligrotug Q3W in healthy volunteers (Study 101)
+
+Source: Table 14 of Study 101 CSR
+
+Table 8. Summary serum PK parameters of veligrotug following the 1st (Day 1) and 2nd
+(Day 22) infusion of veligrotug Q3W in participants with active TED (Study 101)
+
+Source: Table 15 of Study 101 CSR
+
+16
+
+Reference ID: 5790858
+
+Table 9. Summary serum PK parameters of veligrotug following the 1st (Day 1) and 2nd
+(Day 22) infusion of veligrotug Q3W in participants with chronic TED (Study 101)
+
+Source: Table 16 of Study 101 CSR
+
+Figure 5. Arithmetic mean (SD) absolute change from baseline serum concentration of
+IGF-1 versus time following 2 infusions of veligrotug Q3W or placebo in participants with
+active TED (Linear scale)
+
+Source: Figure 11 of Study 101 CSR
+
+17
+
+Reference ID: 5790858
+
+Figure 6. Arithmetic mean (SD) absolute change from baseline serum concentration of
+IGF-1 versus time following 2 infusions of veligrotug Q3W or placebo in participants with
+chronic TED (Linear scale)
+
+Source: Figure 12 of Study 101 CSR
+
+Table 10. Serum veligrotug antidrug antibody occurrence following 2 infusions of
+veligrotug Q3W or placebo (Study 101)
+
+Source: Table 21 of Study 101 CSR
+
+4.2.2
+
+Phase 1 Study VRDN-001-102 (102)
+
+Title: A Bioavailability Study Comparing Single Doses of Intravenous and Subcutaneous
+Formulations of VRDN-001 in Healthy Volunteers
+Study period: 26 June 2023- 13 September 2023
+Objectives: bioavailability, safety, immunogenicity, and tolerability
+
+18
+
+Reference ID: 5790858
+
+Study design: This was a randomized, open-label, comparative study. Sixteen participants were
+randomized 1:1 and received either a single SC injection of 300 mg VRDN-001 or a single IV
+infusion of 3.5 mg/kg VRDN-001.
+Figure 7. Study design (Study 102)
+
+Source: Figure 1 of Study 102 CSR
+
+Test Drug Product
+VRDN-001 for IV infusion was provided as a solution containing 150 mg/mL of antibody in 2.0
+mL extractable volume in 2R vials.
+VRDN-001 for SC injection was provided as a solution containing 150 mg/mL of antibody in 2.0
+mL extractable volume in 2R vials also refrigerated at 2°C to 8°C.
+Lot number of VRDN-001 used: 20230208
+PK Sampling
+ IV: Pre-infusion, and 2, 4, 8, 12 hours post-infusion, and Days 2, 5, 8, 11, 15, 22, 29, 43,
+64
+ SC: Pre-infusion, and 2, 4, 8, 12 hours post-infusion, and Days 2, 3, 4, 8, 11, 15, 22, 29,
+43, 64
+Immunogenicity Sampling
+ IV or SC: baseline, and Days 22, 43, and 64
+Results
+
+19
+
+Reference ID: 5790858
+
+Figure 8. Mean (± SD) VRDN-001 serum concentration-time profiles following single IV or
+SC administration (Linear and Semi-logarithmic Scales, Study 102)
+
+Source: Source: Figure 2 of Study 102 CSR
+
+Table 11. VRDN-001 serum PK parameters following single IV or SC administration
+(Study 102)
+
+a VRDN-001 IV 3.5 mg/kg infused over approximately 40 (±10) minutes.
+Note: For AUC(0-t) - ‘t’ is the latest timepoint (i.e., 42 days) where all participants have a quantifiable concentration.
+
+Source: Table 7 of Study 102 CSR
+
+20
+
+Reference ID: 5790858
+
+Table 12. Summary of immunogenicity results (Study 102)
+
+Source: Table 10 of Study 102 CSR
+
+4.2.3
+
+Phase 1 Study VRDN-001-103 (103)
+
+Title: A multiple dose safety and tolerability study of VRDN-001, a humanized monoclonal
+antibody directed against the IGF-1 receptor, in healthy volunteers
+Study period: 20 December 2023 - 16 September 2024
+Objectives: safety, tolerability
+Study design: This was a randomized, double-masked, placebo-controlled study. A total of 39
+healthy participants were randomized at an allocation ratio of 5:1 (33 veligrotug-treated
+participants: 6 placebo-treated participants), and participants received a total of 5 infusions of
+veligrotug 10 mg/kg or placebo administered at 3-week intervals.
+Figure 9. Study design (Study 103)
+
+Source: Figure 1 of Study 103 CSR
+
+Test drug product
+21
+
+Reference ID: 5790858
+
+Veligrotug was provided as a solution containing 50 mg/mL of antibody in 4.0 mL extractable
+volume in 10R vials.
+Lot number(s) of veligrotug used: 20230207/3230321.1BR
+PK Sampling
+Day 1, Day 43, and Day 85, and at the Week 15 and Week 24.
+Immunogenicity sampling:
+Baseline and Days 43, 85, Weeks 15, 24
+Results
+Table 13. Summary of veligrotug serum concentrations (μg/mL) by scheduled time (Study
+103)
+
+Source: Table 4 of Study 103 CSR
+
+22
+
+Reference ID: 5790858
+
+Table 14. Summary of immunogenicity results (Study 103)
+
+Source: Table 5 of Study 103 CSR
+
+4.2.4
+
+Phase 1 Study ZB001-01-001 (001)
+
+Title: A Single Ascending Dose, Safety and Pharmacokinetic Study of ZB001 (veligrotug) in
+Healthy Chinese Subjects
+Study period: 09 Oct 2022- 04 Apr 2023
+Objectives: safety, PK
+Study design: This phase I, open-label, single ascending dose study was designed to evaluate the
+safety, tolerance, and PK profile of ZB001 (veligrotug) in healthy Chinese subjects.
+
+23
+
+Reference ID: 5790858
+
+Figure 10. Study design (Study 001)
+
+Source: Figure 1 of Study 001 CSR
+
+Test drug product
+Injection for IV infusion (4 mL, 100 mg) (Batch number: 33393.1)
+PK sampling
+Predose, 1, 2, 4, 8, 12, 24, 72, 168, 336, 504, 672 hours postdose
+Immunogenicity Sampling
+Days 1 and 22
+Results
+Table 15. Summary of veligrotug serum PK parameters by dose cohort (Study 001)
+
+24
+
+Reference ID: 5790858
+
+Source: Table 8 of Study 001 CSR
+
+25
+
+Reference ID: 5790858
+
+Table 16. Summary of immunogenicity results (Study 001)
+
+Source: Table 14 of Study 001 CSR
+
+4.2.5
+
+Phase 1 Study ZB001-01-002 (002)
+
+Title: A multiple ascending doses study of ZB001 in Chinese patients with thyroid eye disease
+Study period: 04 April 2023 - 17 April 2024
+Objectives: safety, tolerability, efficacy, PK, PD
+Study design: This Phase 1, open-label, and MAD study aimed to evaluate the safety, tolerability,
+efficacy, PK/PD, and immunogenicity profile of ZB001 in Chinese patients with thyroid eye
+disease. Two dose levels were evaluated: 3 mg/kg (low dose), 10 mg/kg (medium dose). Four
+doses of ZB001 will be given intravenously with an interval of 3 weeks.
+Figure 11. Study design (Study 002)
+
+IDMC: Independent Data Monitoring Committee
+
+Source: Figure 1 of Study 002 CSR
+
+26
+
+Reference ID: 5790858
+
+Test drug product
+Injection 25 mg/mL in 4 mL vial (Batch number: 20210602)
+PK sampling
+ The 1st dose: predose, 2, 4, 72, 168, 336, 504 hours postdose
+ The 3rd dose: predose
+ The 4th dose: predose, 2, 4, 72, 168, 336, 504, 1008, 1512 hours postdose
+Immunogenicity sampling
+Days 1, 22, 43, 64, 85, 127, 169
+Results
+Table 17. Summary of serum PK parameters of ZB001 on Day 1 (Study 002)
+
+Source: Table 8 of Study 002 CSR
+
+27
+
+Reference ID: 5790858
+
+Table 18. Summary of serum PK parameters of ZB001 on Day 64 (Study 002)
+
+Source: Table 9 of Study 002 CSR
+
+28
+
+Reference ID: 5790858
+
+Table 19. Summary of immunogenicity results (Study 002)
+
+Source: Table 13 of Study 002 CSR
+
+4.2.6
+
+Phase 3 Study THRIVE
+
+Title: A Safety, Tolerability, and Efficacy Study of Veligrotug, a Humanized Monoclonal
+Antibody Directed Against the IGF-1 Receptor in Subjects With Thyroid Eye Disease (TED)
+THRIVE (Phase 3 Portion of Study VRDN-001-101)
+Study period: 16 November 2022- 27 March 2025
+Objectives: efficacy, safety, PK
+Study design: This is a phase 3, randomized, double-masked (including the sponsor), and
+controlled study of the efficacy and safety of veligrotug compared with placebo (2:1
+randomization).
+
+29
+
+Reference ID: 5790858
+
+Figure 12. Study design (THRIVE)
+
+Source: Figure 1 of Study THRIVE CSR
+
+Test drug product
+Injection solution containing 25 mg/mL or 50 mg/mL of antibody in 4.0 mL extractable volume
+in 10R vials (Lot Numbers: 20221003, 20210602-2, 20210602-4, 20221204, and
+20230207)
+PK sampling
+ Days 1 (1st IV infusion) and 64 (4th IV infusion): Pre-infusion, 5 to 10 min before EOI
+and at 2 h and 4 h after EOI
+ Days 2, 4, 8, 15, 22 (pre-infusion), 43, (pre-infusion), 65, 67, 71, 85, (pre-infusion), 106,
+127, 148, 168.
+Immunogenicity Sampling
+ Predose on Days 1, 22, 43, 64, 85, 106, 148, 168.
+Results
+
+30
+
+Reference ID: 5790858
+
+Figure 13. Arithmetic mean (±SD) serum concentration of veligrotug vs. time following the
+1st and 4th IV infusion of veligrotug 10 mg/kg Q3W (Study THRIVE)
+
+Source: Adapted from Figure 20 of Study THRIVE CSR
+
+Figure 14. Arithmetic mean (±SD) serum predose (trough) concentration of veligrotug vs.
+time following 5 IV infusions of veligrotug 10 mg/kg Q3W (Study THRIVE)
+
+Source: Adapted from Figure 22 of Study THRIVE CSR
+
+31
+
+Reference ID: 5790858
+
+Table 20. Summary serum PK parameters of veligrotug following the 1st and 4th IV
+infusion of veligrotug 10 mg/kg Q3W (Study THRIVE)
+
+Source: Table 63 of Study THRIVE CSR
+
+Table 21. Serum veligrotug antidrug antibody occurrence following up to 8 IV infusions of
+veligrotug 10 mg/kg Q3W or placebo (Study THRIVE)
+
+Source: Table 65 of Study THRIVE CSR
+
+32
+
+Reference ID: 5790858
+
+Figure 15. Arithmetic mean (±SD) serum concentration of IGF-1 vs. time following 5 IV
+infusions of veligrotug 10 mg/kg Q3W or placebo (linear scale) in Study THRIVE
+
+Source: Figure 25 of Study THRIVE CSR
+
+4.2.7
+
+Phase 3 Study THRIVE-2
+
+Title: A Randomized, Double-Masked, Placebo-Controlled Safety, Tolerability, and Efficacy
+Study of VRDN-001, a Humanized Monoclonal Antibody Directed Against the IGF-1 Receptor
+in Participants with Chronic Thyroid Eye Disease (TED)
+Study period: 01 November 2023- 25 July 2025
+Objectives: efficacy, safety
+Study design: This is a Phase 3, randomized, double-masked (including the sponsor), and
+placebo-controlled study of the efficacy and safety of veligrotug 10 mg/kg compared with placebo
+(2:1 randomization) in participants with chronic TED.
+Figure 16. Study design (THRIVE-2)
+
+Source: Figure 1 of Study THRIVE-2 CSR
+
+33
+
+Reference ID: 5790858
+
+Test drug product
+Injection solution containing 25 mg/mL or 50 mg/mL of antibody in 4.0 mL extractable volume
+in 10R vials (Lot Numbers: 20221204 and 20230207)
+PK sampling
+ Days 1 (1st IV infusion) and 64 (4th IV infusion): Pre-infusion, 5 to 10 min before EOI
+and at 2 h after EOI
+ Days 22 (pre-infusion), 43, (pre-infusion), 85, (pre-infusion), 106, 168.
+Immunogenicity Sampling
+ Predose on Days 1, 22, 43, 64, 85, 106, 168.
+Results
+Figure 17. Arithmetic mean (±SD) serum predose (trough) concentration of veligrotug vs.
+time following 5 IV infusions of veligrotug 10 mg/kg Q3W (Study THRIVE-2)
+
+Source: Adapted from Figure 19 of Study THRIVE-2 CSR
+
+34
+
+Reference ID: 5790858
+
+Table 22. Summary serum PK parameters of veligrotug following the 1st and 4th IV
+infusion of veligrotug 10 mg/kg Q3W (Study THRIVE-2)
+
+Source: Table 63 of Study THRIVE-2 CSR
+
+Table 23. Serum veligrotug antidrug antibody occurrence following 5 IV infusions of
+veligrotug 10 mg/kg Q3W or placebo (Study THRIVE-2)
+
+Source: Table 65 of Study THRIVE-2 CSR
+
+Figure 18. Arithmetic mean (±SD) serum concentration of IGF-1 vs. time following 5 IV
+infusions of veligrotug 10 mg/kg Q3W or placebo (linear scale) in Study THRIVE-2
+
+Source: Figure 22 of Study THRIVE-2 CSR
+
+35
+
+Reference ID: 5790858
+
+4.2.8
+
+Phase 3 Study STRIVE
+
+Title: A Randomized, Controlled, Safety and Tolerability Study of VRDN-001, a Humanized
+Monoclonal Antibody Directed Against the IGF-1 Receptor, in Participants with Thyroid Eye
+Disease
+Study period: 23 May 2024 - 02 May 2025 (data cutoff date) and 02 June 2025 (data extract
+date)( Interim analysis as of the last participant’s Week 15 assessment)
+Objectives: safety, efficacy
+Study design: This was a Phase 3, randomized, controlled, and double-masked study in
+participants with TED. Participants and site personnel were masked to treatment up to the
+completion of the study or early discontinuation.
+Figure 19. Study design (STRIVE)
+
+Source: Figure 2 of Study STRIVE CSR
+
+Test drug product
+50 mg/mL Injection solution in 4.0 mL extractable volume in 10R vials (Lot Numbers: 20221204,
+20230207, 20230510)
+PK and Immunogenicity sampling
+ Predose on Days 1, 22, 43, 64, and 85, and at Week 15 and Week 24
+Results
+
+36
+
+Reference ID: 5790858
+
+Figure 20. Veligrotug serum trough concentrations (μg/mL) versus time (Study STIVE)
+
+VRDN-001=veligrotug
+Note: Lower limit of quantitation (LLOQ) = 0.0625 μg/mL. Mean concentrations below the LLOQ (BLQ) were
+treated as 50% value of LLOQ. If the lower bound of the error bar was less than 0, then the lower bound of the error
+bar was replaced with 0 in the linear scale.
+Source: Figure 3 of Study STRIVE CSR
+
+Table 24. Summary of ADA incidence following up to 5 infusions of veligrotug 10 mg/kg
+Q3W or 3 mg/kg Q3W (Study STRIVE)
+
+Source: Table 19 of Study STRIVE CSR
+
+37
+
+Reference ID: 5790858
+
+4.3 Pharmacometrics Review
+4.3.1 Population PK Analysis
+The Applicant is seeking approval for Veligrotug (VRDN-001), a humanized immunoglobulin
+G1 kappa (IgG1k) monoclonal antibody targeting human insulin-like growth factor-1 receptor
+(IGF-1R), as a treatment of thyroid eye disease (TED). The key pharmacometric findings are
+summarized below:
+
+
+Veligrotug was characterized by a 2-compartment model with parallel linear and nonlinear elimination with first-order absorption
+
+
+
+Body weight, ADA status, sex, and smoking status were identified as statistically
+significant covariates. None of the covariates were considered clinically meaningful.
+
+
+
+The estimated mean (percent relative standard error) linear clearance was 0.216 (3)
+L/day, corresponding to a half-life of ~18 days, consistent to other monoclonal
+antibodies.
+
+PopPK Datasets:
+A population pharmacokinetic (PopPK) model was developed to characterize the PK of Veligrotug
+and identify the impact of covariates across study VRDN-001-102, VRDN-001-101, VRDN-001301 and VRDN-001-302, as shown in Table 25, Table 26, and Table 27. A total of 298 subjects
+contributed 4,123 PK observations. Covariate summary statistics from the PK analysis are
+presented in Table 28.
+Table 25. Number of Observations in the PK Analysis Dataset by Study
+
+Source: report-body report
+
+38
+
+Reference ID: 5790858
+
+Table 26. Summary Statistics of Baseline Covariates
+
+Source: report-body report
+
+39
+
+Reference ID: 5790858
+
+Table 27. Clinical Studies Included in the Analysis
+Study
+Number
+Phase
+
+Participant
+Population
+
+Planned
+Number of
+Participants
+
+Drug Dose and
+Regimen
+
+PK Sampling
+
+ADA
+Sample
+Collection
+
+VRDN001-102
+Phase 1
+
+Healthy
+Volunteers
+
+16
+
+Single 300 mg SC or
+3.5 mg/kg IV
+infusion (1:1
+randomization)
+
+Participants receiving IV
+infusion:
+Pre-infusion, within 10 min after
+EOI, then 2 h (±15 min),
+4 h (±15 min), 8 h
+(±30 min), 12 h (±30
+min), on Day 2 at 24 h (±30 min),
+and on Days 5, 8, 11, 15, 22,
+29, 43, and 64.
+Participants receiving SC dose:
+Pre-infusion, then post -infusion at
+2 h (±15 min), 4 h
+(±15 min), 8 h
+(±30 min), 12 h (±30
+min), on Day 2 at 24 h (±30 min),
+and on Days 3, 4, 6, 8, 11,
+15, 22, 29, 43, and
+64.
+
+Partici
+pants
+receivi
+ng IV
+infusio
+n:
+Pre-infusion,
+and on Days 22,
+43, and 64.
+Participants
+receiving SC dose:
+Pre-infusion,
+and on Days 22,
+43, and 64.
+
+VRDN001-101
+
+Participants s
+with active
+thyroid eye
+disease
+
+10 mg/kg IV infusion
+at 3-week intervals (5
+or 8 infusions)
+
+Participants
+receiving 5 or
+8 infusions:
+Days 1 and Day 64 (±3 d) [1st and
+4th infusions]: Pre-infusion, 5 to
+10 min before EOI
+and at 2 h (±15 min) and 4 h
+(±15 min) after EOI
+
+Participants
+receiving 5 or
+8 infusions:
+Pre-infusion on
+Days 1, 22 (±3 d),
+43 (±3 d), 64
+(±3 d), 85 (±3 d),
+106 (±3 d), 148
+(±3 d), and 168
+(±3 d)
+
+Pivotal
+portion only
+(THRIVE)
+
+90
+
+Randomized 1:1:1
+(5 infusions:8
+infusions:placebo
+) or
+Randomized 2:1
+(5 infusions:placebo)
+
+Phase 3
+
+Days 2, 4 (±1 d), 8 (±1 d), 15 (±3 d),
+22 (±3 d) (pre- infusion), 43 (±3
+d) (pre-infusion), 65 (±3 d), 67 (±3
+d), 71 (±3 d), 78 (±3 d), 85 (±3 d)
+(pre-infusion), 106 (±3 d),d 127
+(±3 d),d 148 (±3 d),d and 168 (±3 d)
+
+Participants
+receiving
+8 infusions):
+Day 127 (±3 d),
+Week 24 (±7 d)
+
+Participants receiving 8 infusions):
+Week 24 (±7 d)
+VRDN-001301
+(THRIVE2)a Phase
+3
+
+Participant
+s with
+chronic
+thyroid eye
+disease
+
+159
+
+Day 1 and Day 64 (±3 d) [1st and
+10 mg/kg IV
+4th infusions]:
+infusion at 3-week
+intervals (5
+Pre-infusion, 5 to 10 min before
+infusions)
+EOI and 2 h (±15 min) after EOI
+Randomized 2:1
+Days 22 (pre-(5 infusions:placebo) infusion), 43 (preinfusion), 85 (preinfusion), 106, and 168
+
+40
+
+Reference ID: 5790858
+
+Days 1 (preinfusion),
+22 (pre-infusion),
+43 (pre-infusion),
+64 (pre-infusion),
+85 (pre-infusion),
+106, and 168
+
+VRDN001-302
+(OLE)
+Phase 3
+
+Participants
+who were
+previously
+nonresponders
+at 3 weeks
+post after the
+fifth IV
+infusion in
+the THRIVE
+and
+THRIVE-2
+pivotal studies
+
+143
+
+10 mg/kg via IV
+infusion at 3-week
+intervals
+(5 infusions)
+
+Day 1 and Day 64 (±3 d) [1st and
+4th infusions]:
+Pre-infusion, 5 to 10 min before
+EOI
+and 1 h (±15 min) after EOI
+Days 22 (pre--infusion), 43 (preinfusion), 85 (pre-infusion), 106,
+and168
+
+Days 1 (pre-infusion),
+22 (pre-infusion),
+43 (pre-infusion),
+64 (pre-infusion),
+85 (pre-infusion),
+106, and 168
+
+Source: report-body report
+
+Table 28. Covariates Evaluated in the Population PK Model
+
+Source: report-body report
+
+Missed data and observation BLQ
+Concentration samples without corresponding dosing data were considered unevaluable and
+excluded from the analysis (although retained in the dataset). Samples with missing time or date
+information were also excluded. In the PK analysis, concentration samples below the lower limit
+of quantitation (BLQ) were retained in the analysis dataset and flagged accordingly. Their event
+identification variable records were set to 2 so that they were excluded from the analysis, while
+predictions could still be obtained for BLQ records. Participants with no observations above the
+LLOQ were excluded from the analysis. The total BLQ is 1.2%, as shown in Table 25. When all
+values of a continuous demographic covariate were missing for a participant, the median value of
+the study population, possibly adjusted for other demographic factors (e.g., age), was imputed.
+Missing categorical covariates were flagged with an appropriate missing value code in the
+population PK dataset (e.g., -99) but grouped with the most common covariate category during
+covariate model building. Covariates with more than 20% of participants having completely
+missing data were excluded from the population analysis.
+Outliers
+The final population PK model was rerun using the entire dataset (i.e., the dataset including
+outliers and data observations where |CWRES| > 5).
+41
+
+Reference ID: 5790858
+
+ADA status
+The ADA status is shown in Table 29.
+Table 29. Summary Statistics of Participant Level ADA Status
+
+Source: report-body-addendum
+
+PopPK Model Evaluation
+A critical error was identified in the population pharmacokinetic modeling. The column
+assignments in the $INPUT statement of the control file (ppkfinal.mod) do not align with the
+columns in the corresponding NONMEM dataset file (pkdata.csv). Specifically, the variable
+BIBW was omitted from the $INPUT statement in the model control file. As a result, all
+subsequent covariate data items were misaligned, with each variable incorrectly mapped preceding
+column. For example, the values in the ADA column correspond to the SMOKE variable, and the
+values in the ADAT column correspond to the ADA variable. This misalignment may have
+impacted covariate model development and interpretation, including the identification and
+characterization of ADA effects. An information request (IR) was issued to the Applicant to
+address this issue. In response, the Applicant re-ran the PopPK model with corrected data
+alignment and submitted an updated PopPK report (report-body-addendum).
+Final PopPK model
+The final PopPK model is a 2-compartment model with parallel linear and non-linear
+elimination and first-order absorption, with an estimated duration for SC dosing, as shown
+in Figure 21. The covariate analysis identified body weight, sex, ADA status and smoking
+status as statistically significant covariates. Parameter estimates for the final model are
+provided in Table 30.
+The Goodness-of-Fit (GOF) of the predicted concentration versus observed concentration
+was shown in Figure 22. Prediction-corrected VPC for the final model of Veligrotug
+administered IV (Time Since the Last Dose) was shown in Figure 23. Prediction-Corrected
+VPC for the final model of Veligrotug administered IV (Time Since the First Dose) was
+shown in Figure 24.
+42
+
+Reference ID: 5790858
+
+Based on the simulation from the final model, age, sex, race/ethnicity, and body weight
+were not identified as clinically meaningful covariates (Figure 25).
+Figure 21. Base Model Schematic for Veligrotug (VRDN-001)
+
+Source: report-body-addendum
+
+43
+
+Reference ID: 5790858
+
+Table 30. Parameter Estimates of the Final Population PK Model for Veligrotug
+
+Source: report-body-addendum
+
+44
+
+Reference ID: 5790858
+
+Figure 22. VELIGROTUG PK model. Observed versus predicted VELIGROTUG whole
+blood concentrations
+
+Source: report-body-addendum
+
+Figure 23. Prediction-Corrected VPC for the Final Model of Veligrotug Administered
+Intravenously – Time Since the Last Dose
+
+Source: report-body-addendum
+
+45
+
+Reference ID: 5790858
+
+Figure 24. Prediction-Corrected VPC for the Final Model of Veligrotug Administered
+Intravenously – Time Since the First Dose
+
+Source: report-body-addendum
+
+Figure 25. Forest Plots of Model-Predicted Steady-State Exposures for Participants
+Receiving Veligrotug 10 mg/kg Intravenously
+
+Source: report-body-addendum
+
+46
+
+Reference ID: 5790858
+
+4.3.2 Exposure‐efficacy
+Of the 298 participants with exposure data, the number of participants with efficacy response
+data varied across each of the five endpoints. No apparent trends of increasing response rates
+were observed over increasing levels of exposure for any exposure metric as shown in Figure
+26.
+Figure 26. Observed Response of Proptosis Responder Rates via Exophthalmometer at
+Week 15 Over Exposure and Covariate Quartiles
+
+Source: study-report-body report
+
+47
+
+Reference ID: 5790858
+
+4.3.3 Exposure-safety
+Of the 298 participants with exposure data, the number of participants with response data varied
+across the 7 safety endpoints. No apparent relationships were found between observed incidence
+rates of infusion-related reactions and the model predicted exposure metrics: first dose AUC, first
+dose Cmax, first dose Ctrough, last dose AUC, last dose Cmax, last dose Ctrough, steady-state
+AUC, steady-state Cmax, steady-state Ctrough, and cumulative AUC through Week 15 (Figure
+27).
+Figure 27. Observed Incidence Rates of Infusion-Related Reactions Over Exposure and
+Covariate Quartiles
+
+Source: study-report-body report
+
+48
+
+Reference ID: 5790858
+
+Signature Page 1 of 1
+
+-------------------------------------------------------------------------------------------This is a representation of an electronic record that was signed
+electronically. Following this are manifestations of any and all
+electronic signatures for this electronic record.
+-------------------------------------------------------------------------------------------/s/
+-----------------------------------------------------------LEI HE
+05/01/2026 10:37:12 AM
+HEZHEN WANG
+05/01/2026 12:18:34 PM
+DA ZHANG
+05/01/2026 01:42:20 PM
+PING JI
+05/01/2026 01:44:48 PM
+CHANDRAHAS G SAHAJWALLA
+05/01/2026 01:52:13 PM
+
+Reference ID: 5790858
+
+

@@ -1,0 +1,55 @@
+NDA 216951
+Jesduvrog (daprodustat)
+
+The safety population was defined as all subjects in the randomized population who received at
+least one dose of study drug and analysis was based on the actual treatment received. The ITT
+population was defined as all randomized subjects based on planned randomized treatment
+assignment. In ASCEND-D and ASCEND-ND, there was no meaningful difference between the
+ITT and safety populations since the number of subjects included in each arm differs by 2 to 5
+patients. Nonetheless, we have attempted to maintain consistency throughout our analyses.
+
+The general safety assessment considered subjects to be at risk for the total duration of follow-up
+regardless of being on or off treatment. FDA generally relied on the on-study (i.e., regardless of
+treatment discontinuation) analyses to ascertain estimates of treatment differences for all
+endpoints (e.g., AEs, vitals, laboratory assessments). Through the course of our review, we
+identified limitations in the prespecified on-treatment definitions® related to disparate dosing
+frequency of assigned treatment (reference 7.6.1.1.2). We have generally found that the study
+design, and particularly the disposition of study patients, supports a robust and interpretable
+estimate of treatment difference from the ASCEND CVOTs.
+
+AEs were reported by verbatim term and coded and categorized using Medical Dictionary for
+Regulatory Activities (MedDRA) version 24.0. To assess the reliability and quality of the data,
+the clinical reviewer compared the coding of verbatim reported adverse event terms, the
+MedDRA lowest coded level term, and preferred term in the safety datasets. No major data
+quality, translation (i-e., verbatim to preferred) or integrity issues were identified that would
+preclude performing a safety review for this NDA. In addition to adverse event analyses grouped
+by MedDRA preferred terms, we used FDA Medical Query (FMQ) groupings. FMQs are a
+standardized approach to group preferred terms of a similar concept; as such, FMQs consolidate
+a medical condition with scattered preferred terms and are more likely to identify any signal of
+safety issues. The review team used FMQ version 2.0. Extensive documentation is available
+publicly on the Federal Register.?
+
+Cumulative incidence proportions estimate of within arm risk were based on incident outcomes.
+Treatment arm comparisons and confidence intervals were based on marginal, unadjusted,
+absolute risk differences. We acknowledge that exposure adjusted analyses would be more easily
+interpretable given the varying duration of follow up for participants in the event driven CVOTs.
+Nonetheless, the exploratory analyses were conducted to identify any potential safety signals
+which would then be subject to more rigorous analyses such as time-to-event analyses (e.g.,
+Kaplan-Meier methods). Accordingly, safety signals identified in Section 7.6 which we felt
+merited potential concern were analyzed appropriately and discussed in detail in Section 7.7.
+
+Key risks identified prior to enrollment were, at least in-part, informed by prior experience with
+ESAs and HIF-PHIs (Section 7.3). Briefly, major adverse cardiovascular events (MI, CVA),
+thromboembolism (deep vein thrombosis, pulmonary embolism, vascular access thrombosis
+[VAT]), and heart failure were key a priori concerns. Other adverse events associated with ESA
+treatment are of special interest, such as malignancy, hypertension, and seizures. Lastly, the
+
+8 For adjudicated events the prespecified on-treatment window was Last Dose Given (LDG) + 28 days. For
+investigator-reported AEs, the prespecified on-treatment window was LDG + 1 day.
+
+9 https://www.regulations. gov/document/FDA-2022-N-1961-0001
+
+119
+Integrated Review Template, version 3.0 (05/25/2022)
+
+Reference ID: 5119138

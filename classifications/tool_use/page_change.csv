@@ -1,0 +1,19 @@
+"family","old","new","change"
+"NONMEM",1390,1383,-7
+"Monolix",363,364,1
+"nlmixr",45,46,1
+"Stan/Torsten",47,46,-1
+"Pumas",26,27,1
+"Phoenix NLME",15,15,0
+"PhysPK",14,14,0
+"nlme",0,14,14
+"saemix",12,12,0
+"BUGS",7,7,0
+"IMPRES-M",0,7,7
+"Pmetrics",6,6,0
+"S-ADAPT",4,4,0
+"OpenPMX",2,2,0
+"MATLAB NLME",1,1,0
+"PoPy",1,1,0
+"SAAM II",1,1,0
+"USC*PACK",1,1,0

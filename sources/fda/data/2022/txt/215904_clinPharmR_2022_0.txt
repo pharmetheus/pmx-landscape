@@ -1,0 +1,1476 @@
+CENTER FOR DRUG EVALUATION AND
+RESEARCH
+APPLICATION NUMBER:
+
+215904Orig1s000
+CLINICAL PHARMACOLOGY
+REVIEW(S)
+
+Office of Clinical Pharmacology
+Integrated Clinical Pharmacology Review
+NDA Number
+
+215904
+
+Link to EDR
+
+\\CDSESUB1\evsprod\NDA215904\0001
+
+Submission Date
+
+20-July, 2021
+
+Submission Type
+
+505(b)(1) New Molecular Entity (Priority Review)
+
+Brand Name
+
+ZTALMY
+
+Generic Name
+
+Ganaxolone
+
+Dosage form (Strength)
+
+Oral Suspension (50 mg/mL)
+
+Proposed Indication
+
+Seizures associated with Cyclin-Dependent KinaseLike 5 (CDKL5) Deficiency Disorder (CDD).
+
+Applicant
+
+Marinus Pharmaceuticals
+
+Associated IND
+
+IND 044020
+
+OCP Review Team
+
+Ramakrishna Samala, Ph.D., Dawei Li, Ph.D.,
+Michael Bewernitz, Ph.D., Atul Bhattaram, Ph.D.,
+Gopichand Gottipati, Ph.D.
+
+OCP Final Signatory
+
+Mehul Mehta, Ph.D.
+
+1
+
+Reference ID: 4950301
+
+Table of Contents
+Table of Contents............................................................................................................2
+1.
+
+Executive Summary ............................................................................................4
+
+1.1
+
+Recommendation ................................................................................................4
+
+1.2
+
+Post-Marketing Requirements.............................................................................7
+
+2.
+
+Summary of Clinical Pharmacology Assessment................................................8
+
+2.1
+
+The Pharmacology and Clinical Pharmacokinetics .............................................8
+
+2.2
+
+Dosing and Therapeutic Individualization ...........................................................9
+
+2.2.1
+
+General Dosing ............................................................................................9
+
+2.2.2
+
+Therapeutic Individualization .......................................................................9
+
+2.3
+
+Outstanding Issues ...........................................................................................11
+
+2.4
+
+Summary of Labeling Recommendations .........................................................11
+
+3.
+
+Comprehensive Clinical Pharmacology Review................................................12
+
+3.1
+
+Overview of the Product and Regulatory Background ......................................12
+
+3.2
+
+General Pharmacology and Pharmacokinetic Characteristics ..........................13
+
+3.3
+
+Clinical Pharmacology Review Questions.........................................................16
+
+3.3.1 Does the clinical pharmacology program provide supportive evidence of
+effectiveness? ..........................................................................................................16
+3.3.2 Is the proposed dosing regimen appropriate for the general patient
+population for which the indication is being sought?................................................16
+3.3.3 Is an alternative dosing regimen and/or management strategy required for
+subpopulations based on intrinsic factors? ..............................................................16
+3.3.4 Are there clinically relevant food-drug or drug-drug interactions and what is
+the appropriate management strategy? ...................................................................17
+3.3.5 Is the to-be-marketed formulation the same as the clinical trial formulation,
+and if not, are there bioequivalence data to support the to-be-marketed formulation?
+22
+4.
+
+Appendices .......................................................................................................23
+
+4.1
+
+Summary of Bioanalytical Method Validation and Performance .......................23
+
+4.2
+
+Population Pharmacokinetic Analyses ..............................................................25
+2
+
+Reference ID: 4950301
+
+4.2.1 Supplemental PPK Report ..............................................................................25
+4.2.2 Main PPK Report ............................................................................................25
+4.2.3
+
+PK simulations ............................................................................................32
+
+4.2.4
+
+Reviewer’s Assessment of Observed PK by Subgroup ..............................33
+
+4.3
+
+Exposure-Response Analyses ..........................................................................36
+
+3
+
+Reference ID: 4950301
+
+1. Executive Summary
+In this original New Drug Application (NDA), the Applicant, Marinus Pharmaceuticals, Inc.,
+is seeking approval for ZTALMY® (Ganaxolone, GNX) via 505(b)(1) pathway for the
+treatment of seizures associated with Cyclin-Dependent Kinase-Like 5 (CDKL5)
+Deficiency Disorder (CDD) in patients 2 years of age and older. GNX is a selective
+positive allosteric modulator of Gamma Amino Butyric Acid type A (GABAA) receptors.
+Currently, there are no approved therapies to treat CDD.
+To evaluate the safety and efficacy of GNX in CDD patients 2 years and older, the
+applicant is relying on a double-blind, randomized, placebo-controlled study (1042-CDD3001). This study demonstrated efficacy based on the primary endpoint, median percent
+change from baseline in 28-day major motor seizure frequency during the 17-week
+double-blind treatment phase.
+The primary focus of this review is to evaluate the need for dose adjustment based on
+extrinsic factors, specifically, concomitant administration of GNX with CYP3A4 inducers
+and inhibitors.
+
+1.1 Recommendation
+The Office of Clinical Pharmacology reviewed the information submitted under this NDA
+and recommends approval of GNX in CDD patients 2 years and older. The key review
+issues with specific recommendations/comments are summarized below:
+
+Review Issues
+
+Recommendations and Comments
+
+Pivotal evidence of
+effectiveness
+
+The evidence of effectiveness of GNX for CDD in
+patients 2 years and older was demonstrated in a
+double-blind, randomized, placebo-controlled study
+(1042-CDD-3001) based on the reduction in the
+median percent change from baseline in 28-day major
+motor seizure frequency.
+
+4
+
+Reference ID: 4950301
+
+Review Issues
+
+Recommendations and Comments
+GNX is recommended to be administered with food.
+Dosage in CDD patients is based on weight cut-off (28 kg) and
+is titration-based (at weekly intervals).
+GNX Recommended Titration Schedule for Patients Weighing
+28 kg or Less
+
+General dosing instructions
+
+Dosage
+
+Total Daily
+Dosage
+
+Days
+
+6 mg/kg
+three times daily
+
+18 mg/kg
+
+1 to 7
+
+11 mg/kg
+three times daily
+
+33 mg/kg
+
+8 to 14
+
+16 mg/kg
+three times daily
+
+48 mg/kg
+
+15 to 21
+
+21 mg/kg
+three times daily
+
+63 mg/kg
+
+22 to
+ongoing
+
+GNX Recommended Titration Schedule for Patients Weighing
+More Than 28 kg
+Dosage
+
+mL per Total daily
+Dose
+dosage
+
+150 mg three 3
+times daily
+
+450 mg
+
+1 to 7
+
+300 mg three 6
+times daily
+
+900 mg
+
+8 to 14
+
+450 mg three 9
+times daily
+
+1350 mg
+
+15 to 21
+
+600 mg three 12
+times daily
+
+1800 mg
+
+22 to
+ongoing
+
+5
+
+Reference ID: 4950301
+
+Days
+
+Review Issues
+
+Recommendations and Comments
+
+
+Dosing in patient subgroups
+(extrinsic and intrinsic factors)
+
+
+Strong
+and
+moderate
+CYP3A4
+inducers:
+Coadministration of GNX with strong or moderate
+CYP3A4 inducers will decrease GNX exposure, which
+may lower the efficacy of GNX. It is recommended to
+avoid coadministration of GNX with strong or moderate
+CYP3A4 inducers. When concomitant use with strong
+or moderate CYP3A4 inducers is unavoidable,
+consider an increase in GNX dosage; however, the
+maximum daily dosage of GNX (63 mg/kg and 1800 mg
+in patients weighing ≤ 28 kg and >28 kg, respectively)
+should not be exceeded. In patients on stable GNX
+dosage who are initiating or increasing the dosages for
+enzyme-inducing
+antiepileptic
+drugs
+(e.g.,
+carbamazepine, phenytoin, phenobarbital, primidone),
+GNX dosage may need to be increased; however, the
+maximum daily dosage of GNX should not be
+exceeded (as noted above).
+CYP3A4 inhibitors: Coadministration of GNX with
+strong CYP3A4 inhibitor, itraconazole, did not result in
+clinically significant impact on the pharmacokinetics of
+GNX. Drug-interaction with moderate and weak
+CYP3A4 inhibitors is not expected to be clinically
+significant. Therefore, no dose adjustment for GNX is
+needed when co-administered with CYP3A4 inhibitors.
+
+
+
+CYP3A4 Substrates: No dosage adjustment for
+CYP3A4 substrates is needed.
+
+
+
+Hepatic Impairment: The impact of hepatic
+impairment on PK of GNX is being evaluated in an
+ongoing study. Since GNX undergoes clearance via
+hepatic route, hepatic impairment can increase GNX
+exposures. Patients with impaired hepatic function
+should be monitored for incidence of adverse reactions
+and GNX dosage may need to be reduced.
+
+6
+
+Reference ID: 4950301
+
+Review Issues
+
+Recommendations and Comments
+
+
+Dosing in patient subgroups
+(extrinsic and intrinsic factors)
+
+Bridge between the “to-bemarketed” and clinical trial
+formulations
+
+Renal Impairment: The impact of renal impairment on
+PK of GNX is being evaluated in an ongoing study.
+Renal excretion is a minor pathway in the elimination
+of GNX. Therefore, renal impairment is unlikely to
+result in clinically significant changes in GNX
+exposures.
+
+The final to-be-marketed formulation was used in the
+phase 3 clinical trial.
+
+1.2 Post-Marketing Requirements
+Four post-marketing studies are required to meet the clinical pharmacology requirements
+of this application. These studies include:
+1) Hepatic impairment study
+In-vitro studies indicate that GNX is metabolized by CYP3A4/5, CYP2B6, CYP2C19, and
+CYP2D6. In a mass balance study in humans, 55% of the total radioactivity was recovered
+in feces (2% as unchanged GNX) and 18% of the total radioactivity dose was recovered
+in urine (undetected as unchanged GNX). This suggests that GNX is cleared via hepatic
+route and hepatic impairment may increase its systemic exposures. Therefore, a hepatic
+impairment study is necessary to understand the impact of hepatic impairment on the PK
+of GNX. In the Type C meeting minutes dated 01/11/2018, the Agency agreed with the
+applicant’s plan to submit the clinical study reports of a hepatic impairment study (1042IHF-1001, full study design) after filing the NDA. This study is ongoing and once
+completed, the clinical study report should be submitted.
+2) Renal impairment study
+In the Type C meeting minutes dated 01/11/2018, the Agency agreed with the applicant’s
+plan to submit the clinical study reports of a renal impairment study (1042-IRF-1001,
+reduced study design) after filing the NDA. This study is ongoing and once completed,
+the clinical study report should be submitted.
+3) Thorough QT (TQT) study
+Given the submitted data are not adequate to characterize the risk of QTc prolongation
+associated with the oral administration of GNX, the QT-IRT recommends that the
+7
+
+Reference ID: 4950301
+
+applicant conduct a thorough QT trial to evaluate the effect of GNX on the QTc interval.
+In an email communication dated 08/11/2020, the Agency agreed with the applicant’s
+plan to submit the clinical study report of the Thorough-QT (TQT) study (1042-TQT-1001
+with amendment 2) after filing the NDA. This study is ongoing and once completed, the
+clinical study report should be submitted.
+4) In-vitro DDI study to evaluate DDI potential of M47
+In-vivo mass balance study (1042-GNX.AME-1001) indicated that the exposure of M47
+(also noted as M15 in some study reports), a sulfate conjugated metabolite of GNX,
+accounted for 24.4% of total plasma radioactivity exposure (based on 0-30 days
+radioactivity data). GNX is a methyl substituted derivative of endogenous nerosteroid
+allopregnanolone. Literature searches suggest that sulfate metabolite of
+allopregnanolone, pregnenolone sulfate, modulates a variety of ion channels,
+(b) (4)
+transporters, and enzymes.
+M47 could modulate transporters and enzymes like that of allopregnanolone
+sulfate. Therefore, an in-vitro DDI study is needed to evaluate the potential of M47 as a
+perpetrator of major enzymes and transporters.
+
+2. Summary of Clinical Pharmacology Assessment
+2.1 The Pharmacology and Clinical Pharmacokinetics
+Mechanism of Action
+GNX is a selective positive allosteric modulator of gamma-aminobutyric acid type A
+(GABAA) receptors located in the CNS.
+Pharmacokinetics
+Absorption
+Following oral administration, GNX is absorbed with a Tmax of 2-3 h. When administered
+with high-fat meal, GNX Cmax and AUC0-inf increased by 3-fold and 2-fold, respectively.
+GNX was administered with food in the pivotal clinical safety/efficacy study. The efficacy
+of GNX when administered in fasted state is unknown.
+Distribution
+GNX is highly plasma protein bound (99%).
+Elimination
+GNX is eliminated with a terminal half-life of 34 h and with a clearance of 430 L/h.
+
+8
+
+Reference ID: 4950301
+
+Metabolism
+In-vitro studies indicate that GNX is metabolized by CYP3A4/5, CYP2B6, CYP2C19, and
+CYP2D6. However, the relative contribution of each of the pathways towards the
+metabolism of GNX is not clear. Multiple metabolites M60b, M18, M73, M62, M43 and
+M47 were identified from mass-balance and lactation studies. The exposures of a sulfated
+metabolite M47, and two non-conjugated metabolites M60b, M18 exceeded the
+exposures of GNX, while the exposures of the rest of the metabolites were lower than
+parent GNX (please see Section 3.2 for additional details).
+M60b did not show drug-interaction liability as a perpetrator with major CYP enzymes or
+transporters. The applicant did not assess the drug interaction liability of M18 and M47
+as a perpetrator, noting low abundance (M18), structural similarities with parent GNX
+(which did not show drug-interaction liabilities) [M18] or being a sulfate conjugate (M47)
+and challenges to synthesize and test them as isolated compounds (Ref. response to
+Information Request dated 08/17/2021, sequence #4, section 1.11.3). Other metabolites
+were reported to be conjugated metabolites and/or minor, and not expected to be active.
+Excretion
+GNX and its metabolites are excreted in feces and urine. Following single oral dose of
+300 mg [14C]-GNX to healthy male subjects, 55% of the total radioactivity was recovered
+in feces (2% as unchanged GNX) and 18% of the total radioactivity dose was recovered
+in urine (undetected as unchanged GNX).
+In addition, GNX and its metabolites were evaluated in a lactation study. Following a
+single oral dose of 14C-GNX to 5 healthy adult lactating women, unchanged GNX
+exposures (AUC(0-24 h)) in breast milk were approximately 4 times that in maternal plasma,
+resulting in an estimated daily dose in the infant of less than 1% of the maternal dose.
+
+2.2 Dosing and Therapeutic Individualization
+2.2.1 General Dosing
+Dosage in CDD patients is based on weight cut-off (28 kg) and is titration-based (at
+weekly intervals). In patients ≤ 28 kg, dosing is weight-based and maximum daily dose is
+63 mg/kg, and in patients > 28 kg, fixed doses are to be administered and the maximum
+daily dose is 1800 mg. Details of dose titration are summarized in section 1.1, and this
+titration schedule is the same as that studied in the phase 3 pivotal safety and efficacy
+study (1042-CDD-3001).
+2.2.2 Therapeutic Individualization
+Therapeutic individualization is necessary for the following extrinsic/intrinsic factors:
+9
+
+Reference ID: 4950301
+
+Drug-Drug Interactions as a victim
+CYP3A4 Inhibitors
+In study 1042-DDI-1001, concomitant administration of itraconazole at steady state (200
+mg once daily) and GNX (200 mg) increased GNX AUC by 17%, while Cmax was
+unchanged. The applicant did not conduct drug-interaction studies to evaluate the impact
+of coadministration of GNX with moderate and weak CYP3A4 inhibitors.
+Overall, given that changes in GNX exposures with concomitant administration with
+strong CYP3A4 inhibitors are as noted above, moderate or weak CYP3A4 inhibitors are
+not expected to result in clinically significant changes in GNX exposures. Therefore, GNX
+dosage adjustment is not needed with strong, moderate or weak inhibitors.
+CYP3A4 Inducers
+Based on the in-vitro characterization of the metabolic pathways, CYP3A4, CYP2B6,
+CYP2D6 and CYP2C19 were identified as the enzymes involved in GNX metabolism,
+however the relative contribution of each pathway is not clear.
+In a phase 1 study (1042-DDI-1001), concomitant administration of GNX with rifampin
+showed a 57% reduction in Cmax and 68% reduction in AUC. Rifampin is a strong inducer
+of CYP2C19 and CYP3A4, and a moderate inducer of CYP2B6. The drug-druginteraction study with rifampin provides a composite effect of induction of multiple CYP
+enzymes on GNX PK.
+Therefore, it is recommended to avoid concomitant administration of GNX with inducers
+of CYP450 enzymes such as strong or moderate CYP3A4 inducers. When coadministering GNX with strong or moderate CYP3A4 inducers is unavoidable, consider
+an increase in GNX dosage; however, do not exceed the maximum daily dosage, i.e., 63
+mg/kg and 1800 mg for patients weighing ≤ 28 kg and >28 kg, respectively.
+In patients on stable GNX dosage who are initiating or increasing dosages for enzymeinducing antiepileptic drugs (e.g., carbamazepine, phenytoin, phenobarbital and
+primidone) GNX dosage may need to be increased; however, do not exceed the
+maximum daily dosage of GNX (as noted above).
+Drug-Interactions as a perpetrator
+CYP3A4 Substrates
+In-vitro CYP3A4 induction and inhibition evaluation showed that, at clinically relevant
+concentrations, GNX is unlikely to be an inhibitor or inducer of CYP3A4 substrate. In study
+1042-0402, concomitant administration of GNX at steady state (a subtherapeutic dose of
+400 mg twice daily) with midazolam (2 mg orally) did not show clinically significant impact
+on midazolam exposures Cmax or AUC.
+10
+
+Reference ID: 4950301
+
+Specific Populations
+Hepatic Impairment
+The impact of hepatic impairment on PK of GNX is being evaluated in an ongoing study.
+Since GNX undergoes clearance via hepatic route, hepatic impairment can increase GNX
+exposures. Patients with impaired hepatic function should be monitored for incidence of
+adverse reactions and GNX dosage may need to be reduced.
+Renal Impairment:
+The impact of renal impairment on PK of GNX is being evaluated in an ongoing study with
+reduced study design (i.e., healthy controls and severe renal impairment). However, renal
+excretion is a minor pathway in the elimination of GNX and therefore, renal impairment is
+unlikely to result in clinically significant increase in GNX exposures.
+Other Specific Populations
+Age, sex, and race are not expected to have a clinically relevant effect on GNX
+pharmacokinetics, after accounting for bodyweight.
+
+2.3 Outstanding Issues
+None.
+
+2.4 Summary of Labeling Recommendations
+
+
+When administered with high-fat meal, GNX Cmax and AUC0-inf increased by 3-fold
+and 2-fold, respectively. GNX was administered with food in clinical safety/efficacy
+study. The efficacy of GNX when administered in fasted state is unknown.
+Therefore, GNX should be administered with food.
+
+
+
+The results from in-vitro characterization studies showed that CYP3A4, CYP2B6,
+CYP2D6 and CYP2C19 were involved in GNX metabolism. However, the relative
+contribution of each pathway towards overall GNX metabolism is not clear.
+Concomitant administration of GNX with strong CYP3A4 inducer rifampin reduced
+GNX Cmax by 57% and AUC by 68%. Rifampin is a strong inducer of CYP2C19
+and CYP3A4, and a moderate inducer of CYP2B6, suggesting that the results from
+rifampin drug-interaction study are a composite effect of induction of multiple
+enzymes on GNX PK. Therefore, it is recommended to avoid concomitant
+administration with inducers of CYP450 enzymes such as strong or moderate
+CYP3A4 inducers. When concomitant use of strong or moderate CYP3A4 inducers
+is unavoidable, consider an increase in GNX dosage; however, do not exceed the
+maximum daily dosage of GNX i.e., 63 mg/kg and 1800 mg for patients weighing
+≤ 28 kg and >28 kg, respectively. In patients on stable GNX dosage who are
+11
+
+Reference ID: 4950301
+
+initiating or increasing dosages for enzyme-inducing antiepileptic drugs (e.g.,
+carbamazepine, phenytoin, phenobarbital and primidone) GNX dosage may need
+to be increased; however, do not exceed the maximum daily dosage of GNX.
+
+
+Concomitant administration of GNX with strong CYP3A4 inhibitor itraconazole
+increased GNX AUC by 17% and Cmax was unchanged. No dose adjustment for
+GNX is needed when co-administered with strong CYP3A4 inhibitors.
+Coadministration of GNX with moderate and weak CYP3A4 inhibitors was not
+evaluated. Drug-interaction with moderate and weak CYP3A4 inhibitors is not
+expected to be clinically significant, and therefore no dose adjustment for GNX is
+needed.
+
+
+
+In-vitro studies showed that, GNX at clinically relevant concentrations is unlikely to
+be an inhibitor or inducer of CYP3A4. Therefore, no dosage adjustment for
+CYP3A4 substrates is needed. Additionally, coadministration of GNX at steady
+state (400 mg twice daily) with midazolam, a sensitive CYP3A4 substrate, did not
+result in clinically relevant changes in exposures of the substrate in healthy
+subjects.
+
+
+
+The impact of hepatic impairment on the PK of GNX is being evaluated in an
+ongoing study. Since GNX undergoes clearance via hepatic route, hepatic
+impairment can increase GNX exposures. Patients with impaired hepatic function
+should be monitored for incidence of adverse reactions and GNX dosage may
+need to be reduced.
+
+
+
+The impact of renal impairment on PK of GNX is being evaluated in an ongoing
+study. However, renal excretion is a minor pathway in the elimination of GNX.
+Therefore, renal impairment is unlikely to result in clinically significant changes in
+GNX exposures
+
+3. Comprehensive Clinical Pharmacology Review
+3.1 Overview of the Product and Regulatory Background
+GNX is a methyl substituted analog of allopregnanolone and it is a positive allosteric
+modulator of GABAA receptors. Over the course of the clinical development, several
+(b) (4)
+formulations, e.g.,
+solution, β-CD suspension, tablet, capsule, and
+(b) (4)
+suspension, were developed and evaluated in clinical studies. The applicant
+(b) (4)
+noted that
+suspension (50 mg/mL) was the final to-be-marketed formulation
+and was used in Phase 1 studies (1042-DDI-001, 1042-0400), a proof-of-concept study
+(1042-0900), and a Phase 3 study (1042-CDD-3001).
+
+12
+
+Reference ID: 4950301
+
+In the Type C meeting minutes DARRTS dated 1/11/2018, the agency agreed with the
+applicant that hepatic impairment study (full study design) and renal impairment study
+(reduced design) may be conducted post NDA submission. On August 11, 2020, in an
+email communication, the Agency informed the applicant that, a Thorough QT (TQT)
+study (1042-TQT-1001) results can be submitted post NDA submission, if the data are
+not available by the time of NDA review. These three studies are ongoing, and the
+applicant agreed to submit the data as they become available.
+The clinical development program includes a Phase 3 study (1042-CDD-3001) in CDD
+patients to evaluate the safety/efficacy for ZTALMY®, and 6 relevant phase 1 studies
+evaluating the drug-interaction potential with itraconazole (strong CYP3A4 inhibitor) and
+rifampin (strong CYP3A4 inducer), grapefruit juice (CYP3A4 inhibitor), midazolam
+(CYP3A4 substrate), food-effect study, a mass-balance study, and a lactation study.
+
+3.2 General Pharmacology and Pharmacokinetic Characteristics
+The clinical pharmacology and pharmacokinetics information of GNX are summarized
+below.
+Pharmacology
+Mechanism of
+Action
+
+GNX is a selective positive allosteric modulator of gammaaminobutyric acid type A (GABAA) receptors located in the CNS.
+
+Active Moieties
+
+GNX is the only identified active moiety.
+
+QT Prolongation
+
+A Thorough-QT TQT study (1042-TQT-1001) is currently ongoing.
+
+General Information
+Bioanalysis
+
+GNX was measured using validated LC/MS/MS method. The
+accuracy, precision, and other relevant assay parameters are
+summarized in Appendix 4.1.
+
+13
+
+Reference ID: 4950301
+
+Dose
+proportionality
+
+In study 1042-DDI-1001 in adult healthy volunteers, a 3-fold
+increase in single dose (from 200 mg to 600 mg) of GNX resulted
+in 2.4-fold increase in mean Cmax, and 3.6-fold increase in mean
+AUC0-inf.
+
+Enzyme
+Inhibitor/Inducer
+[in-vitro]
+
+GNX is not an inhibitor of CYP1A2, CYP2B6, CYP2C8, CYP2C9,
+CYP2C19, CYP2D6 and CYP3A4/5 at the clinically relevant
+concentrations. GNX is not an inducer of CYP1A2, CYP2B6 or
+CYP3A4/5 at the clinically relevant concentrations. GNX is not an
+inhibitor of SULT1E1 at clinically relevant concentrations.
+
+Transporter
+
+GNX is not a substrate of P-gp, BCRP, OCT1, OCT2, OATP1B1
+and OATP1B3 at clinically relevant concentrations. GNX is not an
+inhibitor of OAT1, OAT3, OCT1, OCT2, OATP1B1, OATP1B3,
+MATE1, MATE2-K, BCRP, P-gp and BSEP at clinically relevant
+concentrations.
+
+[in-vitro]
+
+Absorption
+Tmax
+
+Tmax of 2-3 h.
+
+Food effect (highfat)
+
+Coadministration of GNX with high-fat meal increased Cmax and
+AUC by 3-fold and 2-fold, respectively.
+
+Distribution
+Plasma Protein
+Binding
+
+GNX binds extensively to human plasma proteins >84% and
+> 99% at 50 ng/mL and 500 ng/mL, respectively.
+
+Elimination
+Elimination
+Half-life
+
+The half-life for GNX was about 34 hours. GNX is eliminated with
+a clearance of 430 L/hr.
+
+14
+
+Reference ID: 4950301
+
+Metabolism /
+Excretion
+
+The results from in-vitro characterization studies showed that
+CYP3A4, CYP2B6, CYP2D6 and CYP2C19 were involved in GNX
+metabolism. However, the relative contribution of each pathway
+towards overall GNX metabolism is not clear.
+Multiple metabolites M60b, M18, M73, M62, M43 and M47 have
+been identified from mass-balance study:
+Metabolites
+
+% Total Radioactivity
+(0-30 days)
+23
+4.6
+2.3
+3.0
+24
+2.0
+4.1
+
+M60a/M60b
+M18
+M73
+M62
+M47*
+M43*
+Ganaxolone
+*Sulfate conjugates
+
+The exposures of a sulfated metabolite M47, and two nonconjugated metabolites M60b, M18 exceeded the exposures of
+GNX. M60b did not show drug-interaction liability as a perpetrator
+with major CYP enzymes or transporters. The applicant did not
+assess the drug interaction liability of M18 and M47 as a
+perpetrator. In response (dated 08/17/2021, sequence #4, section
+1.11.3) to an information request, the applicant noted that M18
+was generally similar structurally with parent GNX, and M47 is
+sulfate conjugate of parent GNX. Given that parent GNX did not
+show drug-interaction potential and the low abundance of M18, it
+is considered not to pose any significant drug-interaction liability.
+Further, the applicant noted that synthesis of these metabolites
+and evaluation of drug-interaction liability as isolated compounds
+is impractical. Therefore, no additional post-marketing studies are
+being issued to assess the DDI liability of these metabolites.
+Following single oral dose of 300 mg [14C]-GNX to healthy male
+subjects, 55% of the total radioactivity was recovered in feces (2%
+as unchanged GNX) and 18% of the total radioactivity dose was
+recovered in urine (undetectable as unchanged GNX).
+
+15
+
+Reference ID: 4950301
+
+In addition, GNX and its metabolites were evaluated in a lactation
+study. Following a single oral dose of 14C-GNX to 5 healthy adult
+lactating women, unchanged GNX exposures (AUC(0-24 h)) in
+breast milk were approximately 4 times that in maternal plasma,
+resulting in an estimated daily dose in the infant of less than 1%
+of the maternal dose.
+
+3.3 Clinical Pharmacology Review Questions
+3.3.1 Does the clinical pharmacology program provide supportive evidence of
+effectiveness?
+The evidence of effectiveness of GNX is based on a double blind, placebo-controlled
+Phase 3 trial (1042-CDD-3001) in CDD subjects. GNX-treated subjects showed
+statistically significant reduction in median percent change from baseline in 28-day
+seizure frequency for major motor seizure types compared to subjects who received PBO:
+
+Table 1. Median Percent Reduction in Primary Seizure Frequency (per 28 days)
+Treatment
+
+Median Percent reduction
+in Primary Seizure
+Frequency (per 28 days)
+
+GNX
+
+Placebo
+
+Difference
+
+30.7%
+
+6.9%
+
+Δ = 27.1%
+p = 0.0036*
+
+Source: Table-8 on Page 40, Clinical Study Report 1042-CDD-3001
+
+3.3.2 Is the proposed dosing regimen appropriate for the general patient
+population for which the indication is being sought?
+Yes, GNX dosing evaluated in pivotal efficacy/safety study (1042-CDD-3001) in CDD
+patients demonstrated significant reduction in seizure frequency compared to the placebo.
+The applicant’s proposed dosing for GNX in CDD patients is identical to that evaluated in
+efficacy/safety study and is therefore considered acceptable. Please review Clinical
+review by Drs. Steven Dinsmore and Phillip Sheridian and Statistics reviews by Drs. Xiang
+Ling and John Lawrence for additional details on efficacy and safety evaluation of GNX.
+
+16
+
+Reference ID: 4950301
+
+3.3.3 Is an alternative dosing regimen and/or management strategy required for
+subpopulations based on intrinsic factors?
+Clinical studies evaluating the impact of hepatic impairment (full-study design) and renal
+impairment (reduced study design) on the PK of GNX are currently ongoing.
+GNX undergoes clearance via hepatic route. Therefore, hepatic impairment can increase
+GNX exposures. Patients with impaired hepatic function should be monitored for
+incidence of adverse reactions and GNX dosage may need to be reduced.
+Renal excretion is a minor pathway in the elimination of GNX and therefore, renal
+impairment is unlikely to result in clinically significant increase in GNX exposures
+
+3.3.4 Are there clinically relevant food-drug or drug-drug interactions and what is
+the appropriate management strategy?
+Food-Drug Interaction
+The applicant conducted a dedicated PK study (1042-0400) in healthy subjects to
+evaluate the impact of high-fat meal on the PK of GNX. The study results showed that
+coadministration of high-fat meal increased GNX Cmax by 3-fold, and AUC by 2-fold when
+compared to fasting conditions. In addition, in the pivotal efficacy/safety study, GNX was
+administered with food. The efficacy of GNX when administered in fasted state is not
+known. Therefore, GNX should be administered with food in CDD patients.
+
+Drug-Drug Interactions
+In-Vivo Studies – Effect of Other Drugs on GNX
+CYP3A4 Inhibitors
+The applicant conducted two dedicated PK studies to evaluate the impact of grapefruit
+juice (1042-0115) and itraconazole (1042-DDI-1001) on PK of GNX.
+The applicant conducted study 1042-0115 to evaluate the impact of consumption of
+grapefruit juice on a single 400 mg dose of GNX oral tablet (which is not the final to-bemarketed formulation) in 4 healthy female volunteers. The study results showed that
+concomitant administration of grapefruit juice with GNX increased GNX exposures Cmax
+by 2-fold and AUC by 2.6-fold. The review team identified a few challenges in verifying
+the accuracy of these PK data: 1) the applicant did not submit the individual-level PK data,
+noting that the study was conducted in 1998, and did not have access to the raw datasets;
+2) the applicant did not submit the bioanalytical validation reports; 3) the sample size of
+subjects was relatively low (n=4), and %CV in the exposures was 50-95% and therefore,
+reliability of complete inhibition of CYP3A4 is not clear. Owing to these concerns, the
+17
+
+Reference ID: 4950301
+
+review team considered the data from study 1042-DDI-1001 (described below) more
+reliable to inform dosing recommendations for concomitant use of GNX with strong
+CYP3A4 inhibitors.
+The applicant conducted cross-over study 1042-DDI-1001 in healthy subjects to evaluate
+the impact of itraconazole at steady state (200 mg once daily, oral capsules) on GNX
+(200 mg oral suspension, to-be-marketed formulation) in healthy adult subjects (n=16).
+Both, GNX and itraconazole were administered approximately 30 minutes after the
+beginning of a meal. The study results showed that concomitant administration of
+itraconazole with GNX increased GNX AUC by 17%, while Cmax was unchanged.
+The applicant did not conduct drug-interaction studies to evaluate the impact of
+coadministration of GNX with moderate and weak CYP3A4 inhibitors.
+Overall, given the small changes in GNX exposures with concomitant administration of
+strong CYP3A4 inhibitors, moderate or weak CYP3A4 inhibitors are not expected to result
+in clinically significant changes in GNX exposures. Therefore, GNX dosage adjustment is
+not needed with strong, moderate or weak CYP3A4 inhibitors.
+CYP3A4 Inducers
+The applicant conducted cross-over study 1042-DDI-1001 in healthy subjects to evaluate
+the impact of rifampin at steady state (600 mg once daily) on GNX (600 mg oral
+suspension, to-be-marketed formulation) in healthy adult subjects (n=16). The study
+results showed that concomitant administration of rifampin with GNX decreased GNX
+AUC by 68%, and Cmax by 57%. Rifampin is a strong inducer of CYP2C19 and CYP3A4,
+and a moderate inducer of CYP2B6. Therefore, the results from rifampin drug-interaction
+study are a composite effect of induction of multiple enzymes on GNX PK. Further, the
+results from in-vitro characterization studies showed that CYP3A4, CYP2B6, CYP2D6
+and CYP2C19 were involved in GNX metabolism, but the relative contribution of each
+pathway towards overall GNX metabolism is not clear.
+The reduction in GNX exposure when administered with strong/moderate CYP inducers
+is considered clinically significant and may result in reduced efficacy. Therefore, it is
+recommended to avoid concomitant administration with inducers of CYP450 enzymes
+such as strong or moderate CYP3A4 inducers. When concomitant use of strong or
+moderate CYP3A4 inducers cannot be avoided, GNX dosage may need to be increased,
+but should not exceed the maximum daily dosage of GNX, i.e., 63 mg/kg and 1800 mg
+for patients weighing ≤ 28 kg and >28 kg, respectively.
+In the pivotal efficacy/safety study (1042-CDD-3001), CDD patients were allowed to take
+antiepileptic drugs [AEDs] that were moderate or strong inducers or inhibitors, so long as
+patients are stabilized on AEDs for a month prior to initiating GNX. Besides AEDs,
+concomitant use of strong or moderate CYP3A4/5/7 inducers or inhibitors were not
+18
+
+Reference ID: 4950301
+
+permitted. Use of dietary supplements or herbal preparations were not permitted if subject
+had been using them consistently for less than 3 months prior to screening or did not plan
+on remaining on stable doses for the duration of the double-blind phase. Use of St. John’s
+Wort was not permitted.
+The results from study 1042-CDD-3001 showed that 12% of CDD patients in placebo
+group and 10% CDD patients in GNX group were on Enzyme-Inducing AED (EIAEDs).
+Within the GNX arm, out of the 5 subjects who were on concomitant EIAEDs, 3 subjects
+were ≤ 28 kg (all three maintained at maximum daily dosage of 63 mg/kg): 2 were on
+phenobarbital, 1 subject was on carbamazepine; 2 subjects were > 28 kg: both on
+phenobarbital, one maintained at 450 mg and another at 1050 mg total GNX daily dosage.
+The distribution of the final GNX doses at the end of the double-blind period in GNX arm
+stratified by weight cut-off are shown below. Overall, by the end of 17 weeks, in the GNX
+arm, 30-40% of the CDD subjects were not at respective maximum daily dosage likely
+due to tolerability. Therefore, in some CDD subjects who take concomitant strong or
+moderate CYP3A4 inducers, GNX daily dosage can be increased until they reach the
+maximum limit proposed by the applicant.
+
+Subjects weighing ≤ 28 kg
+Number of
+Dose (mg/kg/day)
+Subjects
+8
+2
+11
+1
+16
+1
+18
+2
+33
+2
+42
+1
+48
+2
+63
+29
+Total number of subjects
+40
+Percentage of subjects at
+maximum GNX daily dosage
+72.5
+by the end of week 17
+Percentage of subjects not at
+maximum GNX daily dosage
+27.5
+by the end of week 17
+
+19
+
+Reference ID: 4950301
+
+Subjects weighing > 28 kg
+Dose
+Number of
+(mg/day)
+Subjects
+450
+1
+900
+1
+1050
+1
+1350
+1
+1800
+6
+
+10
+60
+
+40
+
+In summary, when patients are on stable background EIAEDs, the GNX titration scheme,
+as proposed, is similar to that evaluated in the pivotal phase 3 efficacy/safety study and
+is appropriate.
+For CDD patients on stable GNX dosage who are initiating or increasing dosages for
+EIAEDs, GNX dosage may need to be increased but should not exceed the maximum
+daily dosage of GNX.
+Effect of GNX on Other Drugs
+CYP3A4 Substrates - Midazolam
+The applicant conducted study 1042-0402 in healthy subjects to evaluate the impact of
+GNX at steady state (400 mg twice daily [total daily dosage of 800 mg], oral capsules) on
+midazolam (2 mg orally) in healthy adult subjects (n=17). The study results showed no
+clinically significant impact on midazolam exposures Cmax or AUC. However, it should be
+noted that this study evaluated interaction potential of GNX (as a perpetrator) at a lower
+dose level (maximum GNX total daily dose is 1800 mg) and used GNX capsule
+formulation (the final product is a suspension). Therefore, at the pre-NDA meeting
+(minutes DARRTS dated 03/11/2021) agency noted the interaction potential of GNX as
+perpetrator for CYP3A4 based on study 1042-0402 is likely an underestimation
+(additionally: oral capsules showed ~18-36% lower exposures than to-be-marketed
+formulation at fasted state). The applicant provided supporting in-vitro CYP3A4 induction
+and inhibition study (XT155147) and concluded that GNX was not a CYP3A4 inducer or
+inhibitor. The review team considered both in vitro and in vivo study results and based on
+a totality of evidence of approach, concluded that it is unlikely that GNX, at clinically
+relevant concentrations, is an inhibitor or inducer of CYP3A4 substrates. Therefore, no
+dosage adjustment is needed for CYP3A4 substrates when concomitantly administered
+with GNX.
+Oral Contraceptives
+Oral contraceptives usually contain 2 synthetic steroid hormones, an estrogen, typically
+ethinyl estradiol (EE) and a progestin (e.g., norethindrone, levonorgestrel, drospirenone,
+and gestodene). CYP3A4 is considered the major enzyme for the oxidative metabolism
+of oral contraceptives and CYP2C9 and CYP2C19 are involved to a minor extent.
+At the Pre-NDA meeting, the applicant submitted a waiver request for clinical drug
+interaction studies with oral contraceptives, citing in-vitro (XT155147, XT15312, OPT2016-020) and in-vivo (1042-0402) studies that demonstrated no DDI potential of GNX
+either as a victim or perpetrator of major CYP enzymes. As noted above, the Agency
+requested for additional justification in the correspondence dated 03-11-2021. The
+Agency also recommended that the applicant investigate inhibitory potential on
+20
+
+Reference ID: 4950301
+
+sulfotransferase 1E1 (SULT1E1), enzyme that affects disposition of ethinyl estradiol (EE),
+the most commonly used estrogen in oral contraceptives. The applicant conducted invitro study (B21A34-R), evaluating the inhibition potential of GNX for SULT1E1. The study
+results indicated that IC50 of SULT1E1 inhibition by GNX was 2.2 µM, while the in-vivo
+steady state unbound Cmax was 0.0088 µM (125-fold lower than the IC50). The applicant
+also summarized (Table 2) a literature survey of the effects of reference compounds on
+AUC of CYP3A4-sensitive probe substrates and oral contraceptives and compared the
+impact with GNX. Based on these results, the applicant considered these data, along with
+the completed midazolam clinical drug interaction study, are adequate to characterize the
+risk of GNX acting as a perpetrator of a drug interaction and no additional studies are
+required. The review team, based on totality of information, agrees that clinically
+significant interaction between GNX and oral contraceptives is unlikely at clinically
+relevant concentrations.
+Table 2 Effect of reference compounds and GNX on AUC of CYP3A4-sensitive
+probe substrates and oral contraceptives
+
+Source: Table 29, pre-NDA meeting briefing document
+
+21
+
+Reference ID: 4950301
+
+In-Vitro Studies
+The results from in-vitro characterization studies showed that CYP3A4, CYP2B6,
+CYP2D6 and CYP2C19 were involved in GNX metabolism. However, the relative
+contribution of each pathway towards overall GNX metabolism is not clear.
+The applicant conducted in-vitro drug-interaction studies, and showed that at clinically
+relevant exposures:
+
+
+GNX is not a substrate of efflux transporters: P-gp and BCRP and hepatic uptake
+transporters: OCT1, OCT2, OATP1B1 and OATP1B3.
+
+
+
+GNX is not an inhibitor of BCRP, P-gp, MATE1, MATE2-K, OAT1, OAT3, OCT1,
+OCT2, OATP1B1, OATP1B3 or BSEP.
+
+
+
+GNX is not an inhibitor of CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19,
+CYP2D6, or CYP3A4/5.
+
+
+
+GNX is not an inducer of CYP1A2, CYP2B6 and CYP3A4/5.
+
+3.3.5 Is the to-be-marketed formulation the same as the clinical trial formulation,
+and if not, are there bioequivalence data to support the to-be-marketed
+formulation?
+Yes. GNX oral suspension, the to-be-marketed formulation, was used in the pivotal
+efficacy/safety study (1042-CDD-3001). Therefore, no additional formulation bridging
+studies are necessary.
+
+22
+
+Reference ID: 4950301
+
+4. Appendices
+4.1 Summary of Bioanalytical Method Validation and Performance
+Bioanalytical methods used for the essential clinical pharmacology studies of GNX are
+summarized in the Tables below,
+Summary of Bioanalytical Method Measuring GNX in Plasma
+Method ID
+Study
+Supported
+
+QSP 199-1503
+Number
+
+QSP 199-0506
+
+Study 1042-DDI-1001, Study Study 1042-0400
+1042-C14GNX-lac-1001,
+Study 1042-0402
+Study 1042-GNX.AME-1001
+
+LLOQ (ng/mL)
+
+2
+
+1
+
+Linear Range (ng/mL)
+
+2 - 1000
+
+1 - 1000
+
+QC
+Concentrations
+2, 6, 50, 500, and 750
+(ng/mL)
+
+1, 3, 25, 270, and 900
+
+Intra-day Accuracy for
+-0.4 to 12.0
+QC (%RE)
+
+-5.9 to 6.4
+
+Intra-day Precision for
+0.9 to 4.1
+QC (%CV)
+
+2.2 to 19.6*
+
+Inter-day Accuracy for
+2.2 to 8.0
+QC (%RE)
+
+-8.8 to 3.5
+
+Inter-day Precision for
+2.8 to 4.4
+QC (%CV)
+
+4.2 to 18.8*
+
+Processed
+Stability
+
+Sample
+
+149 Hours at 4 °C
+
+Freeze/Thaw
+in Plasma
+
+Stability 11 Cycles at -20°C, 10 Cycles
+5 Cycles at -20°C
+at -70°Ce
+
+166 Hours at 4°C
+
+Long-term
+Storage 999 Days at -20°C, 369 Days
+To Be Determined at-20°C
+Stability in Plasma
+at -70°Ce
+* With precision of LLOQ
+23
+
+Reference ID: 4950301
+
+Summary of Bioanalytical Method Measuring GNX in Breast Milk
+Method ID
+
+199-1705
+
+Study Number Supported
+
+1042-C14GNX-lac-1001
+
+LLOQ (ng/mL)
+
+1 ng/mL
+
+Linear Range (ng/mL)
+
+1 ng/mL to 1000 ng/mL
+
+Analytical
+QC
+Inter-run
+2.0 to 5.9
+Precision Range (%CV)
+Analytical
+QC
+Inter-run
+-1.8 to 6.7
+Accuracy Range (%RE)
+
+Reviewer’s comments:
+The validated assay performance was reviewed individually for the key clinical
+pharmacology studies. Accuracy and precision of QC samples were ≤15% (and ≤20% at
+LLQ), and calibration curves for the LC-MS/MS bioanalytical assay were within
+acceptable limits.
+
+24
+
+Reference ID: 4950301
+
+4.2 Population Pharmacokinetic Analyses
+The Applicant submitted two population pharmacokinetic (PK) analysis reports. The first
+report is the main pharmacokinetic PK (PPK) report 1042-cdd-poppk-001-studyreport.pdf, titled “Modeling Report: Population PK Modeling of Ganaxolone in Pediatric
+Patients with Seizure Disorders”, submitted to sequence 0001 module 5335. The second
+report is the supplemental PPK report 09-0600-pop-pk-01-study-report.pdf, titled
+“Population Pharmacokinetic (PK) Analysis of Ganaxolone (GNX) Following Oral Liquid
+Suspension Administration in Adult Refractory Epilepsy Patients (PK data from Phase 2,
+Clinical Study No.1042-0600)”, submitted to sequence 0001 module 5335.
+4.2.1 Supplemental PPK Report
+The supplemental PPK report (09-0600-pop-pk-01-study-report.pdf) describes PPK
+analyses of GNX oral liquid suspension to adult patients with refractory epilepsy from a
+Phase 2 Clinical Study number 1042-0600. This study was not reviewed for the following
+reasons:
+
+
+The applicant does not have access (and cannot gain access) to one of the key
+data files involved in the analyses (gnx-nca-of-simulated-poppk.kbd).
+
+
+
+The applicant does not have access to the software used to conduct the PK
+simulations described in the report. The aforementioned .kbd file is a Kinetica
+database file. The software, Kinetica Version 5.0, was previously discontinued by
+the developer, Thermofisher Scientific. The Applicant indicates that they do not
+have a copy of the Kinetica software required to access the file.
+
+
+
+The PK parameter estimate for ka in the Supplemental PPK report (4620 h^-1) is
+over 10,000 times higher than the ka estimate in the Main PPK report (0.34 h^-1).
+The estimate of 4620 h^-1 from the Supplemental PPK report is physiologically
+implausible.
+
+For these reasons, the analyses in the supplemental Pk report will not be reviewed and
+will not be further discussed in this review.
+4.2.2 Main PPK Report
+The main PPK report (1042-cdd-poppk-001-study-report.pdf), submitted to sequence
+0001 module 5335, is titled “Modeling Report: Population PK Modeling of Ganaxolone in
+Pediatric Patients with Seizure Disorders”. The objective of these analyses is to estimate
+GNX exposures in pediatric patients using a population PK model (potentially supported
+with data from healthy adult subjects). There were 694 samples 146 subjects included in
+the analyses. The studies from which the data were collected are summarized in the table
+below:
+
+25
+
+Reference ID: 4950301
+
+Table 3: Clinical Studies From Which Data Were Collected for Inclusion in the
+Analyses in the Main PPK Report (1042-cdd-poppk-study-report.pdf)
+
+Source: Sequence 0001, module 5335, 1042-cdd-poppk-001-study-report.pdf, page 13
+of 87
+The final model included two compartments and first-order absorption with time lag. The
+model is parameterized in terms of clearance (CL), volume of distribution of the central
+compartment (V2), volume of distribution of the peripheral compartment (V3),
+intercompartmental clearance (Q), first-order absorption rate constant (ka), relative
+bioavailability (F), and maximum absorbed dose.
+Allometric Scaling: Model models with fixed exponents of 0.75 for clearance terms (Cl
+and Q) and 1 for volume terms (V2, V3) was body weight normalized to 70 kg.
+Inter-Individual Variability: Exponential
+Residual Variability: Additive and Proportional
+Covariates: Weight is a covariate on the maximum absorbed dose.
+26
+
+Reference ID: 4950301
+
+Parameter estimates for the final model (Run finalpk) are shown in the table below.
+
+Table 4: Parameter Estimates for the Final PPK Model (Run finalpk-mod.txt)
+
+Source: Sequence 0001, module 5335, 1042-cdd-poppk-001-study-report.pdf, page 35,
+Table 10
+
+Model diagnostics are presented in Figure 1 and Figure 2.
+
+27
+
+Reference ID: 4950301
+
+Figure 1: Goodness-of-fit plots for the final Population PK Model
+
+Source: Sequence 0001, module 5335, 1042-cdd-poppk-001-study-report.pdf, page 30,
+Figure 4
+
+28
+
+Reference ID: 4950301
+
+Figure 2: Prediction-Corrected VPC Stratified by Adult and Pediatric Subjects
+Over The First 24 Hours After Dose Administration
+
+Source: Sequence 0001, module 5335, 1042-cdd-poppk-001-study-report.pdf, page 34,
+Figure 6
+
+29
+
+Reference ID: 4950301
+
+[Reviewer comment: Based on the VPC (Figure 2) the model performance for pediatric
+patients may not be reliable. The Applicant addressed the performance in pediatric
+patients in the PPK report (Sequence 0001, module 5335, 1042-cdd-poppk-001-studyreport.pdf, page 33):
+“The median concentration was not fully captured throughout the profile for the
+pediatric subjects with overpredictions between 0 and 3 hours post-dose, and
+underpredictions between 4 and 5 hours post-dose. The prediction bands for the
+p5 and p95 were more aligned with the observed values. The model
+misspecification for pediatric patients is likely due to the sparse data in pediatric
+subjects that prevented accurate estimation of the absorption profile in those
+subjects, and large interindividual variability in exposure for all subjects. Despite
+this model misspecification, the base pop PK model was considered the best
+model for the data.”
+The reviewer agrees that sparse PK data sampling in the context of PK variability may
+have contributed to the model performance in pediatric patients.
+The final model in the Main PPK Report does not include concomitant medications as a
+covariate on GNX PK. However, the final model in the Supplemental PPK Report includes
+concomitant carbamazepine and/or phenytoin (versus taking non-CYP-inducing AEDs)
+as a categorical covariate on GNX clearance. The information request was sent to the
+Sponsor on November 1st, 2021 seeking clarification on this matter:
+“The final model in the main PPK analysis report (1042-cdd-poppk-001-studyreport.pdf in sequence 0001) does not include concomitant medication as a
+covariate on GNX PK. However, this result is inconsistent with the supplemental
+PPK model includes concomitant enzyme-inducing medications as a covariate on
+GNX PK. The main PPK analysis report does not provide details as to why
+concomitant medication use was not included in the final PPK model. You should
+clarify how you assessed the effect of concomitant medication on GNX PK and
+why concomitant medications were excluded from the final model in the main PPK
+report.”
+The Applicant responded on November 4th, 2021 (sequence 0024) as follows:
+“The main PPK analysis (1042-CDD-POPPK-001) did not include use of enzyme
+induction antiepileptic drugs (EIAEDs) as a covariate on the PK of GNX, in part
+because only a small subset of subjects were taking EIAEDs (12 out of 82). The
+majority of the concomitant AEDs in 1042-CDD-3001 were non-enzyme inducing,
+were not expected to affect the PK of GNX, and dispersed over a large number of
+medicines, making it unfeasible to evaluate their effect the small number of
+subjects.
+30
+
+Reference ID: 4950301
+
+In the supplemental PPK there were PK data from 50 subjects not on EIAEDs and
+44 subjects on EIAEDs, so the effect of the EIAEDs (carbamazepine, phenytoin,
+and phenobarbital in that study) was evaluated robustly.
+Furthermore, since the supplemental PPK was completed, Marinus has since done
+a dedicated study of the effect of an index strong inducer (rifampin) on the PK of
+GNX (1042-DDI-1001) and the effect of induction on the PK of GNX was
+established clearly.
+The data from the supplemental PPK and the dedicated DDI study provide
+substantial information to characterize the effect of CYP450 induction. The minimal
+information that could come from inducers as covariate in the 1042-CDD-POPPK001 analysis was considered unlikely to provide useful information for the use of
+GNX.”
+The applicant’s response regarding drug interactions is reasonable. The reviewer agrees
+that robust estimation of drug interaction effect is not feasible.
+Overall, the Applicant’s PPK model performance in pediatric patients may not be
+reliable.]
+
+31
+
+Reference ID: 4950301
+
+4.2.3 PK simulations
+The Applicant conducted PK simulations to predict the PK in pediatric patients. The
+simulations were conducted in 4 age groups; 2 to < 6 years, 6 to < 12 years, 12 to < 18
+years, and ≥ 18 years. The median weight within the age limits was obtained from the
+population PK dataset. Doses of 63 mg/kg/day as t.i.d. (maximum 1800 mg per day as
+maximum 600 mg three times daily) were administered in the simulations up to steadystate.
+The key simulation results are described below. The detailed results can be found in the
+Main PPK report (Sequence 0001, module 5335, 1042-cdd-poppk-001-study-report.pdf)
+on pages 35 to 36.
+
+Table 5: Simulated GNX Steady-State Exposure in Pediatric and Adult Subjects
+
+The value presented for AUC24, Cmin, and Cmax represents the mean value within each
+age bin.
+Source: Sequence 0001, module 5335, 1042-cdd-poppk-001-study-report.pdf, page 36,
+Table 11
+The Applicant proposes to include the simulated AUC24 values for pediatric patients into
+section 12.3, specific populations, pediatric patients.
+[Reviewer comment: Section 4.2.2 Main PPK Report of this review describes concerns
+about the PPK model performance for pediatric patients. Considering these concerns,
+OCP recommends removing the statements based on the PK simulations from the label.]
+
+32
+
+Reference ID: 4950301
+
+4.2.4 Reviewer’s Assessment of Observed PK by Subgroup
+The reviewer conducted a graphical assessment of the observed PK data by sub-group.
+Assessments were conducted for race, sex, and age.
+The individual PK profiles stratified by race and by arm for study 1001 are presented in
+Figure 3.
+Figure 3: Observed PK Profile for Study 1042-DDI-1001 by Arm and by Race
+
+200 mg
+
+200 mg
+
+600
+mg
+
+600
+mg
+
+600
+mg
+
+Race is categorized as White, Black or African American, Asian, Native American or Alaska Native, Native
+Hawaiian or Other Pacific Islander, Multiple, or Other.
+
+The observed PK profiles in studies 1042-0900 and 1042-CDD-3001 are presented by
+race in Figure 4.
+Figure 4: Observed PK for Study 1042-0900 and Study 1042-CDD-3001 by Race
+Study 3001
+
+Study 900
+
+33
+
+Reference ID: 4950301
+
+The individual PK profiles stratified by sex and by arm for study 1001 are presented in
+Figure 5.
+Figure 5: Observed PK Profile for Study 1042-DDI-1001 by Arm and by Sex
+
+200 mg
+
+200 mg
+
+600 mg
+
+600 mg
+
+A PK comparison by sex is not feasible for Study 1042-0900 as this study enrolled only
+female subjects. The observed PK profiles in studies 1042-CDD-3001 is presented by
+sex in Figure 6.
+Figure 6: Observed PK for Study 1042-CDD-3001 by Sex
+
+34
+
+Reference ID: 4950301
+
+The PK by age group was assessed for ages 2 to < 6 years, 6 to < 12 years, 12 to < 18
+years, and ≥ 18 years. Study 1001 enrolled subjects ≥ 18 years (age range 25 to 53
+years) and is not included in this comparison. The observed PK profiles in studies 10420900 and 1042-CDD-3001 are presented by age group in Figure 7.
+Figure 7: Observed PK for Study 1042-0900 and Study 1042-CDD-3001 by Age
+Group
+Study 3001
+
+Study 900
+
+Overall, the graphical comparisons of exposure by race, sex, and age group suggest that
+these intrinsic factors do not affect GNX PK.
+
+35
+
+Reference ID: 4950301
+
+4.3 Exposure-Response Analyses
+Report 1042-cdd-er-001-er-report.pdf submitted to sequence 0004, module 5335, is titled
+“Efficacy and Safety Exposure-Response Analysis of GNX in Pediatric Patients with
+Seizure Disorders”. This report describes exposure-response analyses for both safety
+and efficacy. Data for these analyses came from study 3001. The Applicant’s exposureresponse analyses were not reviewed as they do not provide additional insight to inform
+regulatory decision-making.
+
+36
+
+Reference ID: 4950301
+
+Signature Page 1 of 1
+
+-------------------------------------------------------------------------------------------This is a representation of an electronic record that was signed
+electronically. Following this are manifestations of any and all
+electronic signatures for this electronic record.
+-------------------------------------------------------------------------------------------/s/
+-----------------------------------------------------------RAMAKRISHNA SAMALA
+03/09/2022 05:06:42 PM
+DAWEI LI
+03/10/2022 09:26:01 AM
+MICHAEL A BEWERNITZ
+03/10/2022 09:42:33 AM
+VENKATESH A BHATTARAM
+03/10/2022 10:09:28 AM
+GOPICHAND GOTTIPATI
+03/10/2022 10:20:56 AM
+MEHUL U MEHTA
+03/10/2022 10:56:47 AM
+
+Reference ID: 4950301
+
+

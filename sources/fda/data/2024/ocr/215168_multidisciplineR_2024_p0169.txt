@@ -1,0 +1,40 @@
+NDA 215168 Multi-Disciplinary Review and Evaluation
+Flurpiridaz F 18 (Flyrcado)
+
+Table 97. Post-Hoc Sensitivity Analyses for the Comparison of Sensitivity and Specificity Between Flurpiridaz F 18 PET MPI and SPECT
+MPI Using 250% Stenosis Threshold (ITT Population, N=604) in GE-265-303
+
+Imputation #1 Missing SOT imputed as positive
+Sensitivity Specificity
+(95% CI) (95% CI)
+PET MPI SPECT MPI DF: PET MPI SPECT MPI DF:
+Reader N=275 75 Difference P-value N=329 N=329 Difference
+Reader 1 S (73.5%) 163/275 (59.3%) 14.2% 01 221 29 (65.7%) 208/329 (63.2%) 2.48
+78.7%) (53.5%, 65.18%) (6.4%, 22.08%) (60.5%, 70.8%) (58.0%, 68.48) (-4.9%, 9.78)
+
+Reader 2 5 (70.5%) 161/275 (58.5%) 12.0% 0.0003 229/329 (€9.6%) 213/329 (64.7%) 4.93
+
+(65.2%, 75.9%) (52.7%, 64.4%) (4.18, 19.9%) (64.68, 74.6%) (59.6%, 69.9%) (-2.1%, 11.8%)
+Reader 3 233/275 (84.7%) ul (72.7%) 12.0% 173/329 (52.6%) 169/329 (51.4%) = 0.0011
+
+(80.5%, 89.0%) (67.5%, 78.0%) (5.2%, 18.8%) (47 , 58.0%) (46.0%, 56.8%) (-6.0%, 8.4%)
+
+imputation #2 Missing SOT imputed as negative
+Sensitivity Specificity
+(95% CI) (95% CI)
+PET MPI CT MPI DF: PET MPI SPECT MPI DF:
+
+Reader N=249 =249 Difference P-value N=355 N=355 Difference
+Reader 1 192/249 (77.1%) 156/249 (62.7%) 14.58 <0.0001 228/355 (64.2%) 223/355 (62.8%) 1.4%
+
+(71.9%, 82.3%) (56.68, 68.7%) (6.5%, 22.4%) (59.2%, 69.2%) (57.8%, 67.8%) (-5.6%, 8.4%)
+Reader 2 183/249 (73.5%) 151/249 (60.6%) 0.0002 240/355 (67.6%) 225/355 (63.4%) 4.2% <0.0001
+
+(68.0%, 79.0%) (54.6%, 66.7%) (4. +08) (62.7%, 72.5%) (58.4%, 68.48) (-2.5%, 10.9%)
+Reader 3 249 (88.8%) 188/249 (75.5%) 13.38 < 183/355 (51.5%) 179/355 (50.4%) 1.18
+
+(84.8%, 92.7%) (70.2%, 80.8%) (6.6%, 19.9%) (46.4%, 56.7%) (45.2%, 55.68) (-5.7%, 8.08)
+
+168
+
+Reference ID: 5454002

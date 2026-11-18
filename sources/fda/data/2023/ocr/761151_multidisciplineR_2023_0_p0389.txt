@@ -1,0 +1,57 @@
+BLA 761151 Multi-disciplinary Review and Evaluation
+BIMZELX (bimekizumab-bkzx) injection, for subcutaneous use
+
+e The estimated parameters (and the respective inter-individual variability in parenthesis, if
+any) were as follows: elimination clearance 0.179 L/day (21.4%), inter-compartment
+clearance was 0.296 L/day, volume of central compartment was 3.03 L (23.9%), volume of
+peripheral compartment was 2.13 L, and the sc absorption rate was 0.172 /day (25.5%).
+
+e The absolute bioavailability of sc administration was estimated to be 70.1% (45.9%). The
+residual error model took proportional plus additive form and the estimated values were
+0.13 and 0.173 pg/ml, respectively.
+
+e Body weight was identified as a covariate on both elimination clearance and volume of
+central compartment, and the estimated exponent values were 0.54 and 0.60 respectively.
+
+e Different drug formulations ] formulations) and
+
+manufacturing processes (processes @did not result in different bioavailability or
+absorption rate of sc administration.
+
+Reviewer’s comments: The Applicant’s analysis seems reasonable. The absolute bioavailability
+
+of sc administration was estimated to be 70.1% (45.9%). Body weight was identified as a
+
+covariate on both elimination clearance and volume of central compartment, and the
+
+estimated exponent values were 0.54 and 0.60 respectively. Different drug formulations
+
+( a) formulations) and manufacturing processes (processes tA
+) did not result in different bioavailability or absorption rate of SC administration.
+
+19.4.2. Overall PKPD Models of Bimekizumab for IGA and PASI
+
+Data:
+
+The data for the PK and pharmacokinetic-pharmacodynamic (PKPD) model development
+originated fromthree Phase 2 studies (PS0010, PS0011, and PS0016), and interim data from two
+Phase 3 studies (PSO008 and PSO009). Interim data from PSO013 were used for external
+validation of the PK and PKPD models. Bimekizumab and placebo (PBO) doses were
+administered via SC injections in these studies.
+
+PK analysis data set included 9183 PK observations from 999 study participants, PASI analysis
+data set included 15865 PASI observations from 1013 study participants, and IGA analysis data
+set included 15864 IGA observations from 1013 study participants.
+
+Method:
+
+Bimekizumab doses were administered subcutaneously, on a monthly basis for most study
+participants (64 to 480mg every 4 weeks [Q4W]). Other dosing regimens were 320mg every 8
+weeks (Q8W) from Week 16, 320mg loading dose followed by 160mg Q4W, 320mg at baseline,
+Week 4 and Week 16). Duration of bimekizumab treatment differed between studies and
+ranged from 2 to 13 months.
+
+239
+Version date: October 12, 2018
+
+Reference ID: 4982337

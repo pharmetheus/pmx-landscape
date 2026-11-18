@@ -1,0 +1,54 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {Biologics License Application (BLA) 761310}
+{Mirvetuximab soravtansine}
+
+Model Structure For dichotomous safety endpoints: Acceptable
+logistic regression models
+Model Parameter Estimates Table 48 Acceptable
+Model Evaluation Figure 18 and Figure 19 Acceptable
+Covariates and Clinical Ocular AEs: mirvetuximab soravtansine | Few patients in
+Relevance AUCO-d21 and baseline tumor size as the lowest
+predictor variables AUCO-d21
+decile
+Peripheral neuropathy of Grade 2 or developed a
+higher: mirvetuximab soravtansine Grade 2+ ocular
+Ctrough and AUCO-d21 as statistically AE, but there
+significant covariates. was a trend
+that the
+Pneumonitis (including interstitial lung incidence rate
+disease): None. increased with
+increasing
+
+mirvetuximab
+soravtansine
+AUCO-d21 .
+
+ER relationship
+was relatively
+flat,
+suggesting
+limited impact
+of
+mirvetuximab
+soravtansine
+exposure on
+peripheral
+neuropathy.
+
+Simulation for Specific The ORR model based on mirvetuximab | Acceptable.
+Population soravtansine AUCO-d2i, which was
+comparable to the final ORR model
+based on Ctrough, and the ocular
+toxicity model based on mirvetuximab
+soravtansine AUCO-d21 were used to
+predict the ORR response rate and
+ocular AE incidence rate over a wide
+range of exposures (See Table 18 and
+Figure 20 in the ER report).
+
+Visualization of E-R Figure 18 and Figure 19 Acceptable
+relationships
+
+189
+Version date: October 12, 2018
+
+Reference ID: 5076613

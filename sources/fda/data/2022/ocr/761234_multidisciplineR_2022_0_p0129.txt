@@ -1,0 +1,58 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {BLA 761234}
+Opdualag™ (nivolumab and relatlimab-rmbw)
+
+PD-L1
+4)
+Nivolumab-relatlimab FDC Nivolumab
+(N=215) (N=210)
+wo)
+Ste 21% Stl 21%
+quantifiable N(%) quantifiable N(%)
+N (%) N (%)
+AJCC M Stage
+IRT
+Nivolumab-relatlimab FDC Nivolumab
+RAVE CRF (N=355) (N=359)
+MO/M1any[0] Miany[1] MO/M1any[0] Miany[1]
+MO/M1any[0] 183 (52) 49 (14) 187 (52) 50 (14)
+Miany[1] 12 (3.4) 111 (31) 11 (3.1) 111 (31)
+
+Source: FDA generated analysis based on sponsor submitted data [ADSL.xpt] (DCO: March 9, 2021).
+
+FDA generally prefers that stratified analyses be performed using the stratification factor values
+at randomization (per IRT). However, in this case, FDA acknowledges the Applicant’s rationale
+and does not object to the Applicant’s pre-specified plan to conduct the primary and secondary
+analyses using stratification factor values not collected at randomization for PD-L1 expression
+and AJCC M stage. In particular, FDA notes the following:
+
+1. FDA examined the between arm balance in baseline characteristics within the PD-L1
+subgroups as defined by @ and the ACC M Stage subgroups as defined by
+RAVE CRF and did not observe any notable imbalances.
+
+2. For the primary and secondary efficacy analyses, PD-L1 was removed from the
+model as a stratification factor due to fewer than 10 subjects in at least one of the
+16 strata (as pre-specified in the SAP). Thus, the only remaining stratification factor
+included in the model that was not based on IRT was AJCC M stage. Sensitivity
+analyses of PFS per BICR and OS were conducted using the AJCC M stage values per
+IRT and showed consistent results. See Sections 8.1.2.8 and 8.1.2.10 for more
+details.
+
+8.1.1.4. Protocol Amendments
+
+The Applicant’s Description:
+The CA224047 protocol underwent 3 global amendments after the original protocol was issued
+
+on 18-Dec-2017 (Table 35).
+
+Table 35: Applicant - CA224047 Protocol Amendments - Key Changes
+
+Revision No. | Description
+Date
+
+128
+Version date: January 2020 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “The Applicant’s Position” are completed by the Applicant
+and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 4955210

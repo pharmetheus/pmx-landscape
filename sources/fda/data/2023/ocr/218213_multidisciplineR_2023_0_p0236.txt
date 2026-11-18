@@ -1,0 +1,65 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 218213}
+Repotrectinib (BMS-986472)
+
+Covariates Evaluated Age, baseline body weight, race, sex, baseline ECOG performance
+status score, and TKI pretreatment status
+Final Model Parameters Summary Acceptability
+[FDA’s comments]
+Model Structure Logistic regression Logistic regression for
+P. E-R efficacy analysis
+LogitP, = log (5 = ) between ORR or CBR
+5 oe
+= Bo + Bexp exp + Bix | Srreree
+tot BpXip acceptable. Kaplan-
+where Logit is the logit transformation Meier plots and Cox
+using the natural logarithm function /og, regression analysis
+P,is the probability of occurrence of a were conducted for
+specific event for the it" subject, and By is} PFS and OS in E-R
+the intercept representing the logit analysis.
+
+probability of occurrence of the event in
+the absence of repotrectinib and added
+covariate(s). Bexp is the slope of the
+relationship between repotrectinib’s
+exposure Xjexp and the logit probability of
+occurrence of the event. 6; ... 6p is the
+vector of parameters for covariate effects,
+and Xz ... Xip is the vector of covariate
+variables for subject i. p-Values, where
+provided, were descriptive only (not
+adjusted for multiplicity).
+
+Model Parameter Estimates Table 75 (for primary and major secondary | Acceptable.
+endpoints)
+Model Evaluation ‘A VPC was performed for the logistic ‘Acceptable.
+
+regression model using 1000 sets of model
+parameters randomly drawn based on the
+uncertainty of model estimation and
+applied to the subjects in the analysis
+dataset. The VPC graphs demonstrated
+good agreement between the observed and
+simulated proportions of subjects with
+objective response.
+
+Covariates and Clinical Relevance TKI-pretreatment status TKI-naive patients
+tend to have better
+ORR and lower risk of
+OS in E-R efficacy
+analysis. The results
+are acceptable.
+Simulation for Specific Population Food effect on ORR was evaluated based on | Acceptable.
+simulated PK exposures under fasted,
+modified fasted and fed conditions.
+
+Visualization of E-R relationships Figure 12, Table 74 Acceptable.
+Visualization of E-R
+relationships for CBR,
+
+235
+
+Version date: June 2022 (ALL NDA/ BLA reviews)
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5277412

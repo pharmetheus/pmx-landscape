@@ -1,0 +1,55 @@
+NDA 218171
+ENSACOVE (ensartinib)
+
+based (Derek Nexus 6.3.0) and statistical-based (Leadscope Model Applier 2023.0.0-15 Bacterial
+Mut v2 model and Case Ultra 1.9.0.8 GT1_BMUT model 1.9.0.2) models. FDA determined that
+both impurities yielded negative mutagenicity predictions.
+
+Tn conclusion, there are no safety concerns with ensartinib impurities from a pharmacology/
+toxicology perspective.
+
+13.2. Individual Reviews of Studies Submitted
+With the New Drug Application
+
+Metabolites
+The CMC review team informed the nonclinical review team that X-598 (M465; M14)
+
+was incubated with human liver microsomes
+and metabolic products were analyzed via liquid chromatography-tandem mass spectrometry
+(LC-MS/MS).
+
+To further characterize human ensartinib metabolism, the Applicant used liquid
+chromatography—mass spectrometry (LC/MS) to conduct a mass balance study in healthy male
+volunteers (Section 14) and discovered that X-598 was the only major metabolite detected. To
+determine whether X-598 has pharmacologic activity, the Applicant conducted an in vitro
+KINOMEscan™ comprised of 403 non-mutant kinases and 65 disease-relevant (mutant) variants
+(Study # US034-0011108-Q). Results showed that at 11M, X-598 inhibited 54 of 468 total
+kinases, with an inhibitory profile comparable to ensartinib. Kinases with >70% relative
+inhibition included ALK and ALK variants C1156Y and L1196M, AXL, erythropoietin-
+producing human hepatocellular receptor Al (EPHA1), LTK, MET variants M1250T and
+Y1235D, ROS1, SLK, and neurotrophic tropomyosin receptor kinases 1,2,3/tropomyosin
+receptor kinases A,B,C. The Applicant employed a mobility shift assay and showed that X-598
+inhibited ALK, ROS1, and ALK 1196M with ICsos of 17.6, 6.71, and 30.0nM, respectively
+(Study # CPB-P 16-5874). In the same study, ensartinib inhibited ALK, ROS1, and ALK 1196M
+with ICs9 values of 0.69, 11.09, and 2.07nM, respectively. Thus, under the conditions of this
+assay, X-598 exhibited similar inhibition of ROS1 and ~25-fold lower inhibition of ALK
+compared to ensartinib.
+
+The Applicant next determined X-598 in vitro activity in a CellTiter-Glo cell proliferation assay
+(Study # CPB-P18-21302). While ensartinib inhibited proliferation of NCI-H2228 lung
+adenocarcinoma cells bearing the EML4-ALK E13:A20 fusion mutation with an ICs9 of 1.211M,
+X-598 inhibited proliferation with an ICs» of 6.7.M, suggesting ~6-fold lower activity of the
+metabolite. Together, these data support that X-598 has a similar inhibitory profile as ensartinib,
+albeit with ~6- to 25-fold lower activity against ALK.
+
+The Applicant conducted a GLP 28-day repeat-dose toxicology study in Sprague-Dawley rats to
+characterize toxicity of the metabolite (Study # C10-0006-TX). Rats received X-598 at 0,
+
+12.5 mg/kg, or 75 mg/kg QD for 28 days via oral gavage (10/sex/group), followed by a 2-week
+recovery period (5/sex/group). A satellite toxicokinetic group was included in the study
+(5/sex/group). There were no deaths or unscheduled euthanasia. There were also no X-598-
+
+123
+Integrated Review Template, version 4.0 (11/1/23)
+
+Reference ID: 5498774

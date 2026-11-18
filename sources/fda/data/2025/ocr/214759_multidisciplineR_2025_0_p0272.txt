@@ -1,0 +1,62 @@
+NDA Multidisciplinary Review and Evaluation
+NDA 214759
+Grafapex (treosulfan)
+
+Victim drug models
+
+Midazolam
+
+The midazolam PBPK model was used to predict the DDI potential of treosulfan as a CYP3A4
+inhibitor. The Applicant’s midazolam PBPK model was based on Hanke et al.*. The performance
+of midazolam PBPK model as a CYP3A substrate was validated with 32 clinical studies.
+Representative model validation and DDI evaluation results were shown in Figure 23.
+
+A? Rifampicin - Midazolam (15.0 mg po)
+100 D (a) Ritampicin -Digoxin (1.0 mg po)
+e © scars Boca 188 Maarten Scknan 808 =
+Svan npc 600 2 etic me Ze 2 Sener ‘ ance ot
+: 2 “eee ‘
+10' so} re
+5 4
+10° 5 Fo 1|
+L dl i
+2 4 6 8 0 2 2 4 8 8 °
+ae
+B ttraconazole - Midazolam (16.0 mg po) E ——_® traconarate- Digoxin 0.8 m9 Fo)
+300 = 10 ‘
+© = Midazolam Backman 1998, © Midazolam Backman 1998, £ © Digonin Jotave 1997 © Digerin deteve 1997
+ayers temtem Fob teem. | ote,
+wt 200) E 10”
+<= off z oA 1
+j ~~ a”
+al a Pa a
+os a rd a1
+(C__) Clarithromycin - Midazolam (18.0 mg po) gg CRS = Digonin (0:88 mG Fe)
+gz © Diyorin Guriey 20080
+£ © wiazolam Yaa 1936 © ticzoam Yates 156 E Mitre 0m
+> 2 Yim cabrones 250mg © vam crtoromyeh 2 me g
+z 200 2
+g 8
+2 +100 Fi
+g 2
+3 { a a a) eo rr rr
+5 10 15 «20 (25 8 10 156 «2028 ‘Time [hours) Time (hours)
+Time fhours} Time [hours]
+G
+Oa
+
+Figure 23. Midazolam, digoxin and omeprazole PBPK model validation.
+Representative observed and model simulated midazolam PK profiles with and without
+rifampicin (A), itraconazole (B), or clarithromycin (C) coadministration*, digoxin PK profiles with
+
+3Nina Hanke , Sebastian Frechen , Daniel Moj , Hannah Britz, Thomas Eissing , Thomas Wend1, Thorsten Lehr. PBPK Models
+for CYP3A4 and P-gp DDI Prediction: A Modeling Network of Rifampicin, Itraconazole, Clarithromycin, Midazolam,
+Alfentanil, and Digoxin. CPT Pharmacometrics Syst Pharmacol. 2018 Oct;7(10):647-659.
+
+4Nina Hanke , Sebastian Frechen Daniel Moj , Hannah Britz, Thomas Eissing. Thomas Wendl . Thorsten Lehr. PBPK Models for
+CYP3A4 and P-gp DDI Prediction: A Modeling Network of Rifampicin, Itraconazole, Clarithromycin, Midazolam, Alfentanil, and
+Digoxin. CPT Pharmacometrics Syst Pharmacol. 2018 Oct:7(10):647-659.
+
+151
+
+Reference ID: 4834011

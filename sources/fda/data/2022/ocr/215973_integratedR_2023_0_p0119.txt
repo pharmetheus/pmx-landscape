@@ -1,0 +1,64 @@
+NDA 215973 Sunlenca (lenacapavir) injection, for subcutaneous use
+NDA 215974 Sunlenca (lenacapavir) tablets, for oral use
+
+Failing
+BGRD Capsid PI RT INSTI Phenotypic
+PID Arm Regimen OBR Timept_ HIVVL_ RAS RAS RAS RAS Resistance
+6) LEN+  DRVDTG DAY1 191,000 T107T/S V32i_ D67N NONE DRV27
+OBR DOR FTC L33L/F 69D DTG 0.81
+TAF IBL M361 K70K/R DOR 104
+47V—sV106V/M FTC 3.2
+A71V— E138E/G TDF 0.76
+V77Vil_ V179D// IBL-R
+ve2vil N LEN 1.1
+Y181F//
+N
+T215T/I
+K219Q
+DTG WK4 75,500 Q67H AF AF AF DRV 2.7
+DRV K70R DTG 0.81
+BIC 7107S DOR 104
+FTC FTC 3.2
+TAF TDF 0.76
+IBL-R
+7 LEN 15
+(6) LEN+ — DRV/C DAY1 63800 M36L—sL74A T66I
+OBR DTG FTC G48T K103K/N G118R
+TAF RPV T74T/A V106M £157Q
+Ie4v M184V
+G190G/A
+DRV/C WK52 4480  Q67Q/H M36L None Téél LEN 6.6
+DTG G118R
+FTC E157
+TAF
+RPV
+
+Source: FDA.
+
+Bolded PIDs indicate subjects with emergent resistance to LEN and/or OBR; bolded text indicates RAS or phenotypic resistance.
+None, no emergent RAS.
+
+Abbreviations: ABC, abacavir, AF, assay failure; ATV, atazanavir, AZT, azidothymidine; BGRD, background; BIC, bictegravir, BL,
+baseline; DOR, doravirine; DRV, darunavir; DRV/C, darunavir, DTG, dolutegravir, ENF, enfurvitide; ETR, etravirine; EVG,
+elvitegravir, FR, failing regimen; FTC, emtricitabine; FTR, fostemsavir; HIV, human immunodeficiency virus; IBL, ibalizumab; INSTI,
+integrase strand transfer inhibitor; LAM, lamivudine; MVC, maraviroc; OBR, optimized background regimen; PI, protease inhibitor,
+PID, patient identifier; -R, resistant; RAL, raltegravir, RAS, resistance-associated substitution; RPV, rilpivirine; RT, reverse
+transcriptase; -S, sensitive; TAF, tenofovir alafenamide; TDF, tenofovir alafenamide fumarate; timept, timepoint; VL, viral load; WK,
+week
+
+20. Data Integrity-Related Consults (Office of
+Scientific Investigations, Other
+Inspections)
+
+Refer to Section 20 of the Integrated Review dated February 28, 2022 from the first cycle.
+
+21. Labeling Summary of Considerations and
+Key Additional Information
+
+Initial comments on the Applicant’s proposed labeling were conveyed on October 18, 2022 and
+the Applicant responded on October 24, 2022.
+
+108
+Integrated Review Template, version 3.0 (10/21/2021)
+
+Reference ID: 5097739

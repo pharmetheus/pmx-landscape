@@ -1,0 +1,58 @@
+NDA/BLA Multi-disciplinary Review and Evaluation - BLA 761460
+Pivekimab Sunirine IMGN632)
+
+Regarding PK-PD receptor occupancy: the Applicant’s estimate of 84% CD123 receptor
+occupancy is based on PK-PD modeling using predicted ADC PK parameters based on the
+
+population PK analysis and a nonlinear mixed effects Emax model. The % CD123 receptor
+occupancy observed at the 0.045 mg/kg Q3W dosage (n = 7) was 68.1%. The results of the PK-
+PD model are considered exploratory, given the limitations to the PK data and population PK
+model as outlined in Section 6.2.1, Section 6.3.1 and Section 19.4.3.
+
+6.3.2.3 Is an alternative dosing regimen or management strategy required for
+subpopulations based on intrinsic patient factors (e.g. race, ethnicity, age,
+performance status, genetic subpopulations, etc.)?
+
+Data:
+
+Effects of body weight, sex, age, race, ethnicity and disease type (AML vs BPDCN) were
+evaluated by population PK analyses using data from CADENZA and Study 802 (provided in
+Section 19.4.1). ADC and FGN849 exposures were generally comparable in subjects with AML
+and BPDCN, indicating a relatively consistent PK profile across these disease types (provided in
+Section 6.2.1.2). Following the inclusion of a priori covariates (dose and body weight), results
+indicated that none of the other covariates have clinically relevant impact on PVEK (ADC), or
+FGN849 exposures. Therefore, no dose adjustment is recommended based on sex, age, race, or
+ethnicity.
+
+Additionally, renal impairment was also evaluated using population PK analyses. The population
+PK dataset included subjects with normal renal function (N = 171), mild renal impairment (N =
+162), and moderate renal impairment (N = 48). Random effects versus renal impairment plots did
+not suggest any differences in pharmacokinetics between the renal impairment categories.
+Subjects with mild (CLer 60 to < 90 mL/min; N = 162) and moderate (CLer30 to < 60 mL/min;
+N = 48) renal impairment did not have clinically meaningful changes in FGN849 exposure.
+There were no subjects with severe renal impairment in CADENZA and Study 802.
+
+Population PK analyses were also used to evaluate the impact of hepatic impairment on PVEK
+(ADC) and FGN849 PK. The population PK dataset included subjects with normal hepatic
+function (N = 323), mild hepatic impairment (N = 53) and moderate hepatic impairment (N = 5).
+Visual inspection of random effects versus hepatic impairment plots did not indicate any
+significant PK differences among the hepatic impairment categories. Subjects with mild (total
+bilirubin < 1.5 x ULN and AST>ULN; N = 53) y
+
+hepatic impairment did not have clinically meaningful changes in
+FGN849 exposure. There were no subjects with severe hepatic impairment in CADENZA and
+Study 802.
+
+The Applicant's Position:
+oa)
+
+The effect of severe renal impairment and end-stage renal disease on the PK of
+PVEK is unknown. ]
+
+84
+Version date: February 10, 2025 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as "Data" and “The Applicant's Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5805215

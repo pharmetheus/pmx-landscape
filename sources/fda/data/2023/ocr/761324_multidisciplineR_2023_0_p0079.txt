@@ -1,0 +1,62 @@
+BLA Multi-disciplinary Review and Evaluation {Biologics License Application (BLA) 761324
+{epcoritamab}
+
+e@ Simulation where re-priming occurs 8 weeks after full dose on Cycle 9 Day 1 per
+Applicant’s repriming strategy, followed by scheduled doses.
+
+Figure 6: Simulated PK Profiles — Reference (Nominal Dosing Schedule) Compared to
+Dosing Delay During Q2W Dosing Window With or Without Re-Priming (Scenario 4)
+
+WY A p A
+V VWAAAKAARRALA
+i WANNA ail
+NY AN
+z
+E
+3 |
+3.
+e
+S
+&
+€
+5
+&
+é Cohort
+Nominal dosing schedule
+Delayed dosing, re-priming not required
+0,001 f Delayed dosing, re-priming required
+6 4 8 I 16 20 24 28 32 36 40 44 48 52 55 GO 64 68
+
+‘Time (Week)
+
+Solid line represents median of simulated individual PK profile. Dash line represents geometric mean of
+simulated individual PK profile. Shaded represents 5** to 95" percentile.
+
+Q2W = every 2 weeks.
+
+Source: Figure 7 in response to FDA 09 January 2023 information request, SDN 15
+
+Table 20: Simulated Ctrough —Nominal Dosing Schedule Compared to Dosing Delay During
+Q2W Dosing Window (Scenario 4)
+
+Crrough Following Last Q2W Full Dose
+Geo mean Geo mean 95% Cl
+Simulated Cohort Description (ug/ml) (ug/ml)
+Nominal Dosing Schedule 14 days between Cycle 9 Day 1 full 4.14 3.89, 4.42
+dose and the subsequent full dose
+Maximum Dose Delay 42 days between Cycle 9 Day 1 full 1.47 1.33, 1.63
+without Required Re-priming | dose and the subsequent full dose
+
+Last Q2W full dose administered on C9D1 for this scenario.
+
+Cl = confidence interval; Ctrough = concentration immediately prior to next dose; geo mean = geometric mean;
+Q2W = every 2 weeks.
+
+78
+Version date: June 2022 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5176690
+

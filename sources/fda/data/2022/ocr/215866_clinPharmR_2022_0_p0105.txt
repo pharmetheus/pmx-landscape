@@ -1,0 +1,54 @@
+warfarin, both immediate release (IR) formulation and a solution were included in the ADAM model. The
+Applicant stated that there is no difference between the Cmax OF Tmax simulated using two formulations.
+Therefore, a solution was used in the model, and it was assumed precipitation would not occur in the
+stomach or the small intestine.
+
+Reviewer’s comments:
+
+In order to describe the effect of a delay in the gastric residence time, a mechanistic absorption model is
+required. However, the absorption parameters such as permeability, solubility, diffusion coefficient and
+particle sizes were often derived from in-vitro data or in-silico predictions. The accuracy of these
+parameters may not always be informed by clinical PK data such as plasma concentration. Thus, FDA
+required sensitivity analysis between the key absorption parameters on the PK for the tested drugs. See
+Result section for more discussion.
+
+Reviewer also noted that a less conventional approach was used for the development of atorvastatin
+PBPK model. Instead of one PBPK model, the PK profiles of atorvastatin and the active metabolite, OH-
+ATV, were simulated separately using two models. The PBPK model for atorvastatin acid tracked the
+biotransformation of atorvastatin acid and OH-ATV, and the model for atorvastatin lactone tracked the
+conversion of atorvastatin lactone to atorvastatin acid, and subsequently atorvastatin acid to OH-ATV.
+Finally, the PK profiles of atorvastatin and the active metabolite, OH-ATV, were computed by adding the
+outputs of atorvastatin and OH-ATV from two models. Reviewer noted that there were no changes in
+model inputs across different exposure scenarios, except for the fraction absorbed. Therefore, this
+model was considered acceptable to describe the dose-PK relationships. The ability of this model to
+simulate the PK profiles other than dosing differences, such as changes in metabolism activity, has not
+been verified.
+
+Table 18. Dose-depended faction absorbed as atorvastatin acid or lactone in atorvastatin PBPK model
+
+atorvastatin dose O.dmg | 10mg | 20mg |40mg | 80mg
+% dose absorbed as atorvastatin acid 8 12 20 25 41
+% dose absorbed as lactone 92 88 80 75 59
+
+Source PBPK report 8.6
+3. Incorporate GE effects in the PBPK model
+
+To assess the effect of tirzepatide on the absorption of concomitant drugs, the fold change in GE time
+estimated based on acetaminophen data was applied to the PBPK models of the tested drugs.
+
+The fold changes in GE (i.e., ratios listed in Table 3) were applied to the gastric Mean Residence Time
+(MRT), a model parameter in the GI physiology section of Simcyp’ s virtual health population. The
+baseline MRTs in the fasted and fed states are set as 0.27 and 1.18 hours, respectively. The Applicant
+assumed that the tirzepatide-mediated fold change in MRT is the same in the fasted and fed states.
+
+Reviewer’s comments:
+
+Asimilar modeling analysis was used to describe the dulaglutide-GE delayed effects on atorvastatin,
+digoxin, lisinopril, metformin, metoprolol, sitagliptin in fasted condition and acetaminophen and S-
+warfarin in fed conditions. The PBPK analysis was used to describe the observed PK changes with and
+without dulaglutide. The PBPK analysis submitted for dulaglutide is considered exploratory. However, it
+provides some confidence on using fold-change in MRT to simulate both clinically significant and non-
+
+104
+
+Reference ID: 4954959

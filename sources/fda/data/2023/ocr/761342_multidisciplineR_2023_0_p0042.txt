@@ -1,0 +1,52 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {BLA 761342}
+Talquetamab-tgvs
+
+5 Nonclinical Pharmacology/Toxicology
+
+5.1. Executive Summary
+
+Talquetamab (also referred to as JNJ-64407564) is an lgG4-based bispecific antibody (bsAb)
+construct directed against CD3 and G protein-coupled receptor class C group 5 member D
+(GPRC5D). The CD3 receptor complex is expressed on the surface of T-cells and GPRCSD is
+expressed on the surface of multiple myeloma (MM) cells. GPRCS5D is also expressed on non-
+malignant plasma cells and specific epithelial cell types in keratinized tissues such as the skin
+and tongue. The Applicant developed talquetamab to promote the T-cell dependent
+elimination of GPRC5D-expressing MM cells. The proposed indication is for the treatment of
+adult patients with relapsed or refractory MM, and the intended route of administration is
+subcutaneous (SC) injection.
+
+In in vitro studies, talguetamab bound T-cells isolated from humans (ECso=15.1 nM) and
+cynomolgus monkeys (ECso=2.8 nM). Talquetamab bound a cell line expressing human GPRC5D
+(ECso=189 nM) but did not bind cells transfected with cynomolgus monkey GPRC5D.
+Talquetamab is not expected to bind CD3 from other common nonclinical species based on
+protein sequence alignments. Due to the lack of a pharmacologically relevant species for the
+nonclinical safety assessment of talquetamab, a tool molecule (JNJ-64024701) was developed.
+JNJ-64024701 contains the same CD3 binding arm as talquetamab, but the GPRCS5D binding arm
+is directed against cynomolgus monkey GPRC5D. JNJ-64024701 bound cynomolgus monkey T-
+cells (ECso=5.88 nM) and cells transfected with cynomolgus monkey GPRC5D (ECs0=280.6 nM).
+The affinity of JNJ-64024701 to cynomolgus monkey T-cells and GPRCSD is similar to the affinity
+of talquetamab to human T-cells and GPRC5D, supporting the use of JNJ-64024701 for hazard
+identification studies in cynomolgus monkeys.
+
+The functional activity of talquetamab was evaluated in a series of T-cell redirected lysis assays
+in which talquetamab demonstrated the ability to induce T-cell activation (as measured by the
+upregulation of the T-cell activation marker CD25), cytotoxicity, and cytokine release. These
+assays were conducted with purified T-cells and MM cell lines as well as with primary MM bone
+marrow samples; the relative in vitro and ex vivo cytotoxicity could not be established due to
+the different cytotoxicity endpoints evaluated. In the autologous assay with primary bone
+marrow samples, the functional activity of talguetamab was comparable with MM cells from
+patients with newly diagnosed MM, relapsed or refractory MM, and daratumumab-refractory
+MM. In one ex vivo study, MM cell lysis in patient samples was associated with T-cell
+degranulation and granzyme B release. In separate in vitro studies with human whole blood,
+talquetamab caused the release of cytokines. Talquetamab is IgG4-based and has proline,
+alanine, alanine (PAA) Los
+
+The PAA mutations in the talquetamab Fc region did not affect neonatal Fc
+receptor (FcRn) binding relative to an unmodified IgG4 monoclonal antibody (mAb).
+
+Version date: June 2022 (ALL NDA/ BLA reviews) 41
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5222858

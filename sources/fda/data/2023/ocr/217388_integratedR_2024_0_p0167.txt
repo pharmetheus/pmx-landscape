@@ -1,0 +1,62 @@
+NDA 217388
+Wainua (eplontersen)
+
+Population Pharmacokinetic-Pharmacodynami aly:
+
+A sequential approach was used where PK parameters were fixed to the final PK empirical
+Bayes estimates from the final PK model and the PD data were used to estimate the PD
+parameters. The PKPD model used the eplontersen concentration in the central compartment to
+drive the effect on TTR concentration, where the effect of eplontersen was modeled as a sigmoid
+maximum inhibitory effect (Imax) model inhibiting the production of TTR (Figure 23).
+
+Figure 23. Schematic of the Final Population PKPD Model
+
+FR1xDose ———
+Peripheral
+) Vpi/F
+Depot 1
+k,
+‘al Q,/F
+—~, Vinay KM
+Central ‘ed
+kp
+(1 -FR1)xDose Drug Effect inhibits
+production (K,,)
+
+Source: Figure 38 on Page 111 of ppk01-final-report pdf.
+
+FR1 = fraction of the dose absorbed via the first pathway, kai = first-order absorption rate constant for the slow pathway, k,2 = first-order
+absorption rate constant for the fast pathway, CL/F = apparent clearance, Vmax = maximum metabolic rate, Kq = Michaelis-Menten
+constant, Q/F = apparent inter-compartmental clearance, V./F = apparent volume of distribution for the central compartment, V p/F
+apparent volume of distribution for the peripheral compartment, Kin = zero-order production rate, Koy: = first-order elimination rate,
+TTR = transthyretin protein
+
+Plots of observed versus population predicted TTR concentrations and observed versus
+individual predicted TTR concentrations are shown in Figure 24.
+
+Figure 24. Observed vs. Predicted TTR Concentrations From the Final Population PKPD Model
+
+fen = 15.8%
+
+8
+
+Observed TTR Concentration (mg/dL) 5"
+
+oo 00 of 03 4 5S 10 30 oo oo o1 03 7 5 1 3
+Population Predicted TTR Concentration (mg/dL) Individual Predicted TTR Concentration (mg/dL)
+
+Source: Figure 39 on Page 113 of ppk01-final-report pdf.
+Note:
+
+Observed TTR Concentration (mg/dL)
+“
+
+The solid blue lines represent the line of unity.
+« The solid red lines represent the trend in the data (Loess smooth).
+* €4,Shows shrinkage for the residual variability.
+Abbreviations: PKPD, pharmacokinetic-pharmacodynamic; TTR, transthyretin
+166
+
+Integrated Review Template, version 3.0 (05/25/2022)
+
+Reference ID: 5299039

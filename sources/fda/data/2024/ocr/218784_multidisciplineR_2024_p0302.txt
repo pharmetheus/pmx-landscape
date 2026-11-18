@@ -1,0 +1,61 @@
+Multi-disciplinary Review and Evaluation
+NDA 218784
+VORANIGO (vorasidenib)
+
+* For OR and CR+PR, a logistic regression model was
+developed:
+oat (Pi arene) = toa (ABE) = py +
+1 ~ Piresponse
+Boand B are scalar and vector parameters that represent
+the baseline logit and the effect of predictors, X; (eg,
+exposure or baseline covariates) on the logit, respectively.
+Model Parameter Estimates Table 65 (PFS), Table 66 (TTNI), Table 67 (OR), Table 68 Yes
+(CR+PR)
+Model Evaluation Figure 22, Figure 23, Figure 24, and Figure 25 Yes
+Covariates and Clinical ¢ Asno significant effect of exposure was observed for | Yes
+Relevance any of the 4 efficacy endpoints, covariates were not
+evaluated.
+Simulation for Specific Not applicable
+Population
+Visualization of ER relationships | Figure 22, Figure 23, Figure 24, and Figure 25 Yes
+Overall Clinical Relevance for ER | The results of the analysis showed that there were no Yes.
+statistically significant relationships between exposure ER
+(AUCeot ranged from 343 to 12,800 hr-ng/mL) and the 4 relationship
+evaluated efficacy endpoints, indicating that the ER remains
+relationships were flat (defined as no exposure-efficacy inconclusive
+relationship observed) at 40 mg QD. given the
+narrow range
+and a large
+variability of
+exposures at
+40 mg QD.
+Labeling Language Description Acceptability
+[FDA’s
+comments]
+12.2 Pharmacodynamics No labeling language in Section 12.2 Pharmacodynamics is | Per 21 CFR
+informed by the ER (efficacy) analysis. 201.57(c)(13){i)
+The ER (efficacy) analysis informed the clinical relevance _ | (B), the
+of intrinsic and extrinsic factors, supporting the labeling following
+language in Section 12.3 Pharmacokinetics for Specific statement was
+Populations and Drug Interaction Studies. added to the
+labelling.
+“Vorasidenib
+decreases 2-HG
+tumor
+concentrations
+in patients with
+IDH1 or IDH2
+mutated
+glioma.
+Relative to
+tumors from
+patients in the
+untreated
+
+301
+Version date: December 2023(ALL NDA/BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5425021

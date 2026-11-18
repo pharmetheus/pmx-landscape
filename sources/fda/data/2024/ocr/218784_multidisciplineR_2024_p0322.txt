@@ -1,0 +1,57 @@
+Multi-disciplinary Review and Evaluation
+
+NDA 218784
+VORANIGO (vorasidenib)
+| PARAMETER Value Reference
+Step size Log-distributed step
+Dissolution DLM scalar ©) Gy Optimised in SIVA v4 using FT
+(Global), F1 dissolution
+Dissolution DLM scalar Optimised in SIVA v4 using F2
+(Global), F2 dissolution
+CTAB surfactant Kew for | Kew neutral=5.176 | Calculated using SIVA4
+DLM calculation Kew ion = 3.54
+‘Solubility (mg/mL), 0.0007
+Intrinsic solubility
+Bile micelle-mediated Kmw neutral = 5.4267 | Fixed bile micelle-mediated solubility
+solubility used to define in | and Kmw ion =4.5439 | enhancement, calculated using SIVA
+vivo solubility of Vora in
+Simcyp
+CSR 10 Default
+Precipitation rate 4 Default
+constant (PRC)
+Distribution model — Full PBPK Model
+Vss (Ukg) 192 Predicted using method ©) 47
+Ky scalar 1
+User-defined additional Permeability limited | Based on adipose tissue
+organ
+Cleo (Uh) 01 ‘Assumed
+Cloned organ Adipose ‘Assumed
+% of body weight 02 Optimised
+Elimination Parameters
+‘Scenario 1
+‘Model Enzyme Kinetics
+CUF (Uh) 15.97 CUF after administration of a single
+oral dose of 50 mq in fasted state
+{formulation 1)—AG881-C-007_|
+Tmcvera2 OTA Estimation based on the proposed
+biotransformation cae ata the
+mass balance study (Clinical Study
+CYPTA2 Clin 1.7505 Estimated with reverse translational
+(uL/min/pmol) tool (retrograde method)
+‘Additional HLM CLie 2.1504 Estimated with reverse translational
+{atime ; tool (retrograde method)
+CLa (Uh) 0.00 ‘Assumed based on mass balance
+study results Clinical Study AG881-C-
+005 Report Body
+Interaction Parameters
+BCRP K (uM) 061 No information on prazosin Ku value in
+MDCK-BCRP — Ki= ICso/2; NP41967
+fuine (BCRP) 1 ‘Assumed
+321
+
+Version date: December 2023(ALL NDA/BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5425021

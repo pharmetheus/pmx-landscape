@@ -1,0 +1,54 @@
+SAGE-217 (zuranolone)
+
+Page 26 of 30
+
+Table 6A: Tumor Rates and P-Values for Dose Response Relationship and the pairwise Comparisons
+
+Male Mice Using Poly-3 test
+
+10 mg Vehicle! Omg Water} 10mg 30mg 100 mg 75mg
+Cont (N=25)| Cont (N=25)|Low(N=25)] Med(N=25) | High (N=25) | Positive (N=15)
+Organ Name Tumor Name P-Trend |P- VC vs. WIP - VC vs. Ll] P- VC vs.L] P- VC vs.M| P-VCvs.H
+HarderianGlands | Adenocarcinoma, Malignant] 0/25 (25) 1/25 (24) | 0/25(25) | 0/25(25) 1/25 (25) 0/15 (10)
+0.2500 NC NC NC 0.5000 NC
+
+Adenoma, Benign 1/25(25) | 2/25(24) | 0/25(25) | 0/25(25) | 0/25(25) 0/15 (10)
+1.0000 NC 1.0000 1.0000 1.0000 1.0000
+
+Lung Adenoma, Bronchiolar 0/25 (25) 1/25 (24) | 3/25(25) | 3/25 (25) 1/25 (25) 1/15 (10)
+Alveolar, Benign 0.5915 NC 0.1173 0.1173 0.5000 0.2857
+
+Carcinoma, Bronchiolar 1/25(25) | 0/25(24) | 1/25(25) | 0/25(25) | 0/25(25) 0/15 (10)
+Alveolar, Malignant 0.9394 NC 0.7551 1.0000 1.0000 1.0000
+
+Multicentric Hemangiosarcoma, 2/25 (25) 3/25 (25) | 2/25(25) | 1/25(25) 1/25 (25) 1/15 (10)
+Neoplasm Malignant 0.7534 NC 0.6954 0.8827 0.8827 0.6486
+
+Lymphoma, Malignant 0/25(25) | 0/25(24) | 0/25(25) | 0/25(25) | 0/25(25) 9/15 (14)
+
+NC NC NC NC NC <0.0001*
+
+Nose Carcinoma, 1/25(25) | 0/25(24) | 0/25(25) | 0/25(25) | 0/25(25) 0/15 (10)
+Adenosquamous, Malignant 1.0000 NC 1.0000 1.0000 1.0000 1.0000
+
+Skin Papilloma, Benign 0/25(25) | 0/25(24) | 0/25(25) | 0/25(25) | 0/25(25) 4/15 (12)
+NC NC NC NC NC 0.0075*
+
+Stomach Carcinoma, Squamous Cell, | 0/25 (25) 0/25(24) | 0/25(25) } 0/25(25) 0/25 (25) 1/15(11)
+Malignant NC NC NC NC NC 0.3056
+
+Papilloma, Benign 1/25(25) | 0/25(24) | 1/25(25) | 0/25(25) | 0/25(25) 13/15 (15)
+
+0.9394 NC 0.7551 1.0000 1.0000 <0.0001*
+
+Tongue Papilloma, Benign 0/25 (25) | 0/25(24) | 0/25(25) | 0/25(25) | 0/25(25) 1/15 (10)
+NC NC NC NC NC 0.2857
+
+& X/ZZ (YY): X=number of tumor bearing animals, YY=mortality weighted total number of animals; ZZ=unweighted total number of animals
+
+observed:
+
+NC = Not calculable
+*: Statistically significant at levels of 0.01 and 0.05 for common and rare tumors, respectively in pairwise comparisons.
+
+Reference ID: 5174472

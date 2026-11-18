@@ -1,0 +1,56 @@
+BLA 761232 - Multi-disciplinary Review and Evaluation
+TEVIMBRA - tislelizumab-jsgr
+
+The FDA’s Assessment:
+
+Prior to conducting the safety review, FDA’s Office of Computational Science (OCS) generated
+a CoreDF report of data quality which did not identify any significant or unusual data issues.
+During the safety review, FDA did not identify any significant data issues that would impact the
+safety review or overall conclusions.
+
+Categorization of Adverse Event
+
+Data:
+
+All adverse event summaries were based on the Safety Analysis Set. A treatment-emergent
+adverse event was defined as an adverse event that had an onset date or a worsening in severity
+from baseline (pretreatment) on or after the first dose of study treatment up to 30 days after study
+treatment discontinuation or initiation of a new anticancer therapy, whichever occurred first.
+Treatment-emergent adverse events also included all immune-mediated adverse events (for the
+Tislelizumab Arm) up to 90 days after the last dose of study treatment regardless of whether a
+patient started a new anticancer therapy. Only treatment-emergent adverse events were included
+in the summary tables.
+
+The adverse event verbatim descriptions (investigator’s description from the eCRF) were
+classified into standardized medical terminology using MedDRA. Adverse events were coded to
+MedDRA (Version 23.0) lower-level term closest to the verbatim term. The linked MedDRA
+System Organ Class (SOC) and PT were also classified.
+
+The incidence of adverse events was summarized as the number (percentage) of patients with
+adverse events by SOC, PT, severity, and relationship to study drug. Patients with multiple
+occurrences of the same adverse event within a specific SOC and PT were counted only once
+within the SOC and PT, and the maximum grade per NCI-CTCAE (Version 4.03) was used.
+Serious adverse events, adverse events of > Grade 3, adverse events leading to treatment
+
+discontinuation or dose modification, and adverse events leading to death were also summarized
+by SOC, PT, and relationship to study drug.
+
+All deaths and causes of death were summarized, including those that occurred during the study
+treatment period and those reported during the survival follow-up period after treatment
+completion/discontinuation.
+
+Immune-mediated adverse events were identified according a 2-step process which included
+generation of a potential immune-mediated adverse event list and medical evaluation of potential
+immune-mediated adverse events. The incidence of immune-mediated adverse event (for all
+grades and > Grade 3) was summarized by category and worst grade per NCI-CTCAE (Version
+4.03). The immune-mediated adverse events were also summarized by outcome and category.
+The immune-mediated adverse events leading to treatment discontinuation, dose modification,
+and death were summarized by category.
+
+133
+Version date: January 2020 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5345383

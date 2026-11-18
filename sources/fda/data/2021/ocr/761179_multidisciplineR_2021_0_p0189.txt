@@ -1,0 +1,57 @@
+BLA Multidisciplinary Review and Evaluation
+BLA 761179
+Rylaze (JZP-458)
+
+Then, independent PopPK analysis was conducted based on 895 sparse SAA data from 85 patients
+(32 from Cohort 1a and 53 from Cohort 1b) in Study 201. Due to the sparse sampling scheme
+(pre-dose, 2.5, 48 and 72 hours after dosing) in Study 201, R1 and Ka were fixed to the values
+from final model in healthy subjects (Table 67). The SAA time profiles in patients were best
+described by an one-compartment model with sequential mixed order absorption and linear
+elimination, with BSA included as an allometric covariate on both CL/F and V/F, with IIV expressed
+as an exponential term on CL/F, V/F, R1 and Ka, and a mixed proportional and additive residual
+error model. In addition, Black (n=10) and Asian (n=5) patients tended to have 28.8% lower CL/F
+compared to White (n=61) subjects. The SAA PK parameter estimates of the final PK model in 85
+patients from Cohorts 1a and 1b in Study 201 are presented in Table 68.
+
+Table 68 Parameter Estimates of the FDA’s Final PopPK Model in Patients from Cohorts 1a and
+1b in Study 201
+
+Parameter l Description | Estimate | RSE%
+Fixed effect
+
+CL/F Apparent clearance (L/hr) 0.375 4.4%
+V/E Apparent volume of distribution (L) 1.67 7.7%
+R1 Zero-order absorption rate (IU/hr) 2160 (Fix) -
+Ka First-order absorption rate constant (hr*) 0.0364 (Fix) -
+CL/F_BSA Effect of BSA on CL/F 1.51 5.5%
+V/F_BSA Effect of BSA on V/F 1.84 9.3%
+CL_RACE % difference in CL/F for Black and Asian subjects vs. other races -28.8% 20.2%
+Inter-individual variability (IIV)
+
+Nowe IIV for CL/F (CV%) 26.3% 10.5%
+nw IIV for V/F (CV%) 46.5% 20.8%
+Nika IIV for Ka (CV%) 18.6% 19.1%
+Nex IIV for R1 (CV%) 49.1% 13.4%
+Corr_neyr_Nvr | Correlation between nayr and nw 62.7% -
+Corr_ncyr_Nxa | Correlation between neyr and na 68.6% -
+Corr_nvr_Nxa | Correlation between nvr and Na 17.5% -
+Random effect
+
+Eprop Standard deviation of proportional random effect 0.438 2.4%
+add Standard deviation of additive random effect 0.011 18.1%
+
+RSE: relative standard error; CV: coefficient of variation.
+
+CL/F = 0.375 x (BSA/1.16)*** x 0.712 if Black and Asian patients; CL/F = 0.375 x (BSA/1.16)***if White
+and other race subjects.
+
+V/F = 1.67 x (BSA/1.16)*8*
+
+Source: FDA’s analysis.
+
+197
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA. The FDA's position is highlighted in gray.
+
+Reference ID: 4819545

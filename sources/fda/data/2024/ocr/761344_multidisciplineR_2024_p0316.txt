@@ -1,0 +1,100 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {BLA 761344}
+
+{Tarlatamab}
+
+[FDA’s comments]
+
+Model Structure
+
+Logistic regression:
+Grade 3+ TEAE, Grade
+3+ TRAE, Grade 3+ TEAE
+of neutropenia,
+neurological event,
+ICANS, CRS, and
+neutropenia
+
+Acceptable
+
+Model Parameter Estimates
+
+Table 7 of
+Pharmacometrics
+Report: 157687
+
+Amgen
+
+Acceptable
+
+Model Evaluation
+
+ER relationships were
+assessed by Wald test.
+Associations were
+considered significant if
+the p-value was less
+than 0.05. When an ER
+relationship for a safety
+endpoint was identified
+to be significant, a
+stepwise method was
+implemented to identify
+potential covariates
+based on BIC.
+
+Acceptable
+
+Covariates and Clinical
+
+No significant covariate
+
+Acceptable
+
+Relevance was identified
+Simulation for Specific Not Applicable
+Population
+
+Visualization of E-R
+relationships
+
+Figures 12 and 13 of
+Amgen
+Pharmacometrics
+Report: 157687
+
+The additional exposure safety
+analysis for neurologic toxicity
+including ICANS was
+conducted using tarlatamab
+exposure metrics, Cavg, ss and
+Cmax, ss.
+
+Overall Clinical Relevance for
+ER
+
+Tarlatamab exposure
+was associated with
+Grade 3+ neutropenia.
+No covariate was found
+to be significant for
+Grade 3+ neutropenia.
+
+316
+
+The ER relationship for CRS cannot
+be adequately evaluated solely
+based on the data in safety dataset.
+
+This is because the step-up dosing
+regimen was utilized to mitigate the
+CRS risk at the dose of 3 mg and
+
+above, as a result, the ER analysis
+
+Version date: June 2022 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5382024
+

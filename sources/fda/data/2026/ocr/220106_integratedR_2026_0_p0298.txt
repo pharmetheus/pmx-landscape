@@ -1,0 +1,66 @@
+the model development excluding 741 below the limit of
+quantification (BLQ) observations. The subset of patients with
+DM from Phase 3 study PVT-2201-301 consisted of 30 males
+and 127 females.
+
+All brepocitinib concentrations that were below the limit of
+quantification (BLQ) and predose BLQ concentrations were
+excluded from the popPK analysis. Overall, across the available
+studies 5.76% of the post-dose observations were reported as
+BLQ.
+
+Covariates Evaluated
+
+Summary of Covariates Tested on PK Parameters
+
+‘Covariate CL/P Ve/F F Ke
+Body Weight (fix Pwd Bwd Pwd} Bwd
+
+Race (Asian vs. 1 Fwd+Bwd — Fwd+Bwd
+
+Sex Fwd+Bwd Fwd} Bwd Bwd+Bwd
+Age Fwd+Bwd — Fwd+Bwd Fwd Bwd
+Formulation (Tablet vs. Suspension) — — - Fwd+Bwd
+Dose (>100 mg) Ewd+Bwd = - Fwd+Bwd
+Prandial State (high-fat meal) Fwd+Bwd  - Fwd+Bwd — Fwd+Bwd
+Baseline AST Fwd+Bwd - = =
+Indication (Dermatomyositis vs Pwd+Bwd — Fwd+Bwd Pwd} Bw.
+other)
+
+Indieation (IBD vs. othé Fwd Bwd
+
+CL/P: A
+
+ke
+
+Reference: Population PK Report: PVT-2201-301-PPK-1; Table
+8; Page no. 33
+
+Final Model
+
+Summary
+
+Software and Version
+
+Population PK modeling employed nonlinear mixed effects
+modeling using the computer program NONMEM version 7.5.1
+or higher. Post-processing of NONMEM analysis results was
+carried out in R version 4.3.3. Model development was carried
+out using first order conditional estimation with interaction
+(FOCE-l) as estimation method. NONMEM model execution,
+including visual predictive checks (VPCs) and stepwise
+covariate modeling (SCM), were carried out using Perlspeaks-
+Nonmem (PsN), version 5.3.1
+
+Model Structure
+
+PK of brepocitinib was described with oral input with a lag-
+time for tablets into a dosing depot, followed by first-order
+absorption into a two-compartment disposition model with
+linear elimination from the central compartment.
+
+Graphical representation of the final PK model
+
+Reference ID: 5859282
+
+32

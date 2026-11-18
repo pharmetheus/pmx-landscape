@@ -1,0 +1,96 @@
+BLA 761306 Multi-disciplinary Review and Evaluation
+Ebglyss (lebrikizumab) injection
+
+individual variability (IIV) terms were included on Ka, CL,
+V2, and bioavailability (F1) parameters with omega blocks
+on CL-Ka and Ka-V2 terms and a logit transformation on
+F1 to restrict the estimate of bioavailability to between 0
+and 1.
+
+Body weight was included as a fixed exponent of 0.8 on
+clearance parameters (CL and Q) and a fixed exponent of
+1 on volume parameters (V2 and V3).
+
+Base Model Parameters
+
+Body weight was included as a covariate on CL, V2, V3,
+and Qin base model consistent with the previous
+modeling. See Table 95 for final parameter estimates as
+the base and final model are the same. The precision in
+parameter estimates is good. The 95% Cl of parameter
+estimates obtained from bootstrap analysis also supports
+the precision of final parameter estimates.
+
+Acceptable
+
+Final Model Parameters
+
+See Table 95 for parameter estimates.
+
+An assessment of covariate effects was conducted using
+the Stepwise Covariate Modeling (SCM) procedure in PsN
+per the criteria outlined in the analysis plan. The
+covariates evaluated in the analysis are age, body weight,
+sex, race, disease state, injection location, markers of
+hepatic and renal function.
+
+As noted, body weight was already included as a covariate
+on CL, V2, V3, and Q. Hence, BW was formally tested on
+absorption rate constant (Ka) only as a part of the SCM
+procedure.
+
+Acceptable
+
+GOF, VPC plots
+
+The goodness-of-fit plots and prediction-corrected VPC
+plots of the final population PK model are shown in Figure
+13, and 14, respectively.
+
+Acceptable
+
+Effect of Covariates
+
+No covariates except body weight was found significant in
+PopPK model. Though BW was identified as a significant
+covariate, its effect on the PK is not clinically significant
+given the lack of dose-response relationship. Hence, no
+dose adjustment on the basis of body weight is needed
+for the adolescent (weight at least 40 kg) and adult
+patients with AD.
+
+Acceptable
+
+Table 9396. Clinical Studies included in the PopPK dataset
+
+Study ID Objectives
+
+Study design Study treatment
+
+Remarks
+
+J2T-DM- | Safety,
+KGBA tolerability,
+PK
+
+Phase 1, R, PG, OL Lebrikizumab 1 mg/kg IV (N=11)
+single-dose study in or SC (N=11) administration
+healthy subject (N = 22).
+PK sampling: Day 1 (pre-
+dose and 30 min post-
+dose, and Days 2, 4, 8,
+11, 15, 22, 36, 57, 78,
+and 92 and at ET (early
+termination)
+
+Bioavailability:
+85%; mean t1/2:
+24.7 days
+
+Version date: October 12,
+
+Reference ID: 5252985
+
+220
+2018
+

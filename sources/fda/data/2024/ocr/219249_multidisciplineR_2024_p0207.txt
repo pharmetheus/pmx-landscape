@@ -1,0 +1,96 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 219249}
+{Inavolisib}
+
+General Information
+
+Goal of ER analysis In patients with PIK3CA-mutant, HR+, HER2— LA/mBC:
+
+Assess exposure-response relationship for ORR, BOR, PFS and DOR in Study GO39374, and for PFS, OS,
+DOR, TFST, CBR, ORR, and BOR for Study WO41554
+
+‘Study Included Phase | Study GO39374; Phase III Study WO41554 (INAVO120)
+
+The ER analysis was conducted for the two studies separately. To enable pooling across arms for the ER
+analysis of GO39374, the combination status, i.e., Single, Doublet, and Triplet, were tested as covariate
+in the analyses.
+
+Population Included Patients with PIK3CA-mutant, HR+, HER2— LA/mBC.
+Endpoint Phase Ill A:
+Primary: PFS
+
+Secondary: OS, TFST, ORR, BOR, DOR, CBR
+
+Phase | Study GO39374:
+ORR, BOR, PFS and DOR
+
+No. of Patients (total, and 183 patients for Study GO39374 and 149 for Study WO41554 (with post-hoc PK parameters)
+with individual PK)
+
+Population General Phase Ill Study WO41554 (n=149):
+
+Characteristics Age median (range): 53.0 [27.0, 77.0]; 13.4% >65 years and 2.68% >75 years
+
+(Table 2, 3, Weight median (range): 62.0 [39.0, 124]
+
+17, 18) 144 (96.6%) female
+
+57 (38.3%) Asian
+
+‘Age median (range): 59.0 [31.0, 85.0]; 28.4% > 65 years and 4.92% 275 years
+Weight median (range): 67.0 [43.0, 159]
+
+182 (99.5%) female
+
+5 (2.7%) Asian; 3 (1.6%) Black or African American; 1 (0.5%) Multiple; 134 (73.2%) White, 40 (21.9%)
+Unknown
+
+Organ =149):
+impairment | Hepat pairment (NCI): normal 108 (72.5%); Mild 41 (27.5%)
+
+Renal impairment (CrCL): normal 92 (61.7%); Mild 48 (32.2%); Moderate 9 (6.0%)
+
+Phase I Study G039374 (n=183)
+
+Hepatic impairment (NCI): normal 113 (61.7%); Mild group1 65 (35.5%); Mild group2 4 (2.2%)
+Renal impairment (CrCl): normal 92 (50.3%); Mild 73 (39.9%); Moderate 17 (9.3%)
+
+Pediatrics | No pediatric patients were included
+
+(if any)
+Dose(s) Included Phase Ill Study WO41554: 9 mg
+
+Phase | Study GO39374: 3, 6, 9, 12mg
+
+Exposure Metrics Explored __ | The exposure metrics were derived based on the posthoc PK parameters and the nominal dose.
+
+(range) Phase Ill Study WO41554 (n=149):
+
+‘AUC median (range): 979 [598, 2180] ng-h/mL
+
+Cmax median (range): 65.4 [34.5, 146] ng/mL
+
+Cnin median (range): 22.1 [10.6, 65.5] ng/mL
+
+Phase | Study GO39374 (n=183):
+
+AUC median (range): 984 [157, 2850] ng-h/mL
+
+Cmax median (range): 57.7 [8.97, 128] ng/mL
+
+Grin median (range): 25.6 [3.70, 103] ng/mL.
+
+Covariates Evaluated ‘Age, height, body weight, body mass index, body surface area, ethnicity, race, sex, geographic region,
+albumin, bilirubin, alkaline phosphatase, alanine transaminase, total protein, lymphocytes, neutrophils,
+platelets, lactate dehydrogenase, neutrophil lymphocyte ratio, hemoglobin (only for WO41554), serum
+creatinine, creatinine clearance, estimated glomerular filtration rate, hepatic impairment category,
+renal impairment category, ECOG, liver metastasis, tumor type, post-menopausal status, Actual
+treatment for concomitant medication; Combination status (Single, Doublet, Triplet; only for Study
+039374), tumor burden, line of therapy, locally advanced metastatic (all Yes for WO41554), visceral
+
+206
+Version date: June 2022 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5460147

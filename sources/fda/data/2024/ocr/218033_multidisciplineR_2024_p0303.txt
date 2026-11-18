@@ -1,0 +1,64 @@
+NDA/BLA Multi-Disciplinary Review and Evaluation
+
+Tovorafenib (DAY101)
+Table 80. Final Input Parameters in the PBPK Model of Tovorafenib as a Perpetrator*
+PARAMETER [ Value | Reference
+Elimination parameters
+CLF (L/h) I 18 I Clinical Study C28001
+
+Interaction parameters:
+
+CYP3A4 Ki (uM) Calculated from the ICso values using
+Cheng-Prusoff equation (See Section
+
+CYP2CS KG (uM) 3.5 and Table 8 for details).
+
+CYP2C9 Ki (uM) Report PO24-11-01
+
+CYP2C19 Ki (uM)
+
+Report DOT 1-DMPK-003
+CYP1A2 Indmax Report DOT 1-DMPK-008
+CYP1A2 IndCso (uM) Report DOT 1-DMPK-008
+Predicted, Report DOT 1-DMPK-008
+Report DOT 1-DMPK-008
+
+Calibrated against positive control
+(rifampicin).
+Rifampicin Indmax was 315 at 20 uM -
+Report DOT 1-DMPK-008
+
+CYP3A4 IndCso (uM) Report DOT 1-DMPK-008
+Predicted, Report DOT 1-DMPK-008
+Report DOT 1-DMPK-008
+
+Calibrated CYP3A4 Indmax
+
+CYP2B6 IndCso (uM) Report DOT 1-DMPK-008
+Predicted, Report DOT 1-DMPK-008
+BCRP Ki (uM) Calculated from the ICso values and
+respective transporter probe substrate
+OATP1B1 Ki (uM) Ku values and tested concentrations
+OATP1B3 Ki (uM) using Cheng-Prusoff equation (See
+Section 3.5 and Table 9 for details).
+MATE1 K (uM) Report DOT 1-DMPK-001 and Report
+RPT-02116
+Assumed
+
+Source: Table 10 in the PBPK report DOTT/1/A-B
+
+*Only parameters that are different from the victim models are shown. In addition, blood to plasma concentration
+ratio of OO and updated solubility data were used in the perpetrator model.
+
+Abbreviations: AUC = area under the curve; GMR = geometric mean ratio: Indmax, the maximum fold induction;
+IndCso, the concentration that gives half maximal fold induction; inhibitory constant; PBPK = physiologically
+based pharmacokinetic.
+
+Verification of the Tovorafenib PBPK Model to Simulate PK Profiles of Tovorafenib
+
+Simulated and observed tovorafenib PK profiles and parameters are summarized by FDA
+reviewer in Figure 33, Figure 34, Table 80 and Table 81.
+
+302
+
+Reference ID: 5368881

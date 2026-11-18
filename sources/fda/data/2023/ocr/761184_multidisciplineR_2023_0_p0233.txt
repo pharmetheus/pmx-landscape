@@ -1,0 +1,63 @@
+BLA 761184
+Ngenla (somatrogon)
+
+Therefore, somatrogon clearance increases proportionally while volume of distribution increases
+more than proportionally with body weight. The alternative model also included ADA-titer as
+statistically significant covariate of somatrogon clearance. Higher ADA-titers were associated
+with lower somatrogon clearance.
+
+The average estimates of somatrogon PK parameters for the reviewer’s alternative model were:
+CL/F=0.59 (Vh/17 kg), V2/F=3.9 (L/17 kg), Q=0.02 (L/h/17 kg), V3=8.7 (L/17 kg) and
+Ka=0.047 (h~). For the factors associated with PK variability; the weight allometric exponent
+for scaling V2 was 1.62, the percent decrease in CL for subjects with ADA-titer of x 50 dilution
+factor was 23%, the percent decrease in CL for subjects with ADA-titer of x 250 dilution factor
+was 35%, the percent decrease in CL for subjects with ADA-titer of x 1250 dilution factor was
+58%, and the percent decrease in CL for subjects with ADA-titer of x 6250 dilution factor was
+66%. Unexplainable between subject variability in PK parameters were estimable for CL and V2
+with estimates of 22% and 67% respectively; the corresponding ETA shrinkages were 26% and
+35% respectively.
+
+The developed alternative model can be used to support labelling of Somatrogonas outlined in
+Table 72.
+
+Table 72. Reviewer’s Comments on the Population PK Model
+Utility of the Final Model Reviewer's Comments
+In addition to body weight, ADA titer was
+Somatrogon dosingis also a significant covariate on
+based on body weight. clearance. Prediction based on
+
+Suppor ean s This dosing strategy reviewer's PK/PD model indicated that
+Propo’ apeiing) Intrinsic factor ensures comparable ADA positive patients had higher
+statements rabout . somatrogon exposure probability of IGF-1 SDS > 2 than ADA
+nines jandexinneic across all pediatric bodynegative patients. However, there was
+weights no association between the probability
+of IGF-1 SDS > 2 and ADA titer levels.
+Extrinsic factor
+The use of predicted individual PK
+Derive exposure metrics, . _. Ah? parameters in E-R analyses is
+Predicted individual PK parameters _
+forex, re-response * acceptable since the model
+analyoeale P Weaused I@eposure-etiicegp analyses ortarmanoe was reasonable as
+indicated by the GOF plots
+Predict exposijies at The model was not used to assess
+Sinan dosigg predicted exposures at other doses
+
+Source: Reviewer's independent analysis.
+Abbreviations: ADA, antidrug antibodies; E-R exposure-response; GOF, goodness of fit; |GF-1, insulin-like growth factor-1; PK,
+pharmacokinetics; SDS, standarddeviation score
+
+14.3.1.2. Introduction
+
+The Applicant developed two population PK models to describe the same PK data collected from
+children 6 to 12 years old who participated in the phase 3 study. The models were developed at
+different periods and for different purposes. The first PopPK model (dated May 26, 2020) was
+developed through re-estimation of structural model parameters and re-evaluation of covariate
+model after a previously developed PopPK model based on phase 2 adult and children PK data
+(hereafter named PHASE-2 PopPK-MODEL) failed external validation using the phase 3
+children only data. In this model clearance and volume parameters were normalized by body
+weight (hereafter named Weight-Nommalized PopPK model). In the second PopPK model (dated
+August 5, 2020) structural model parameters from the previous PHASE-2 PopPK-MODEL were
+
+131
+
+Reference ID: 4924352

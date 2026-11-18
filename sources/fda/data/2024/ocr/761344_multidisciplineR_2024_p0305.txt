@@ -1,0 +1,81 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {BLA 761344}
+
+{Tarlatamab}
+
+Emax model: ORR, DCR
+Imax model: BTSR
+
+based on objective function
+value (OFV), Akaike
+information criterion (AIC),
+and/or Bayesian information
+criterion (BIC). Once the
+base model was determined
+and the ER relationship was
+identified as significant, a
+forward inclusion and
+backward elimination
+method was implemented to
+explore potential covariates
+that could significantly affect
+the ER relationship ina
+multivariate fashion.
+
+Model Parameter Estimates Tables 2 to 5 of Amgen Acceptable
+Pharmacometrics Report
+157687
+
+Model Evaluation Base model selection was Acceptable
+
+Covariates and Clinical
+Relevance
+
+Sum of target lesion
+diameters (baseline;
+independent of exposures)
+was found to be significantly
+associated with higher
+hazard for OS.
+
+Subgroups of the significant
+covariates identified in
+tarlatamab population PK
+analysis (Report 157688)
+were evaluated on efficacy.
+None of the covariates
+evaluated in this analysis
+resulted in clinically
+meaningful change in
+efficacy and therefore do
+not warrant a dose
+adjustment.
+
+The alternative tarlatamab
+exposure metrics, Cavg,event
+(average concentration up to
+the time of first response,
+progression or end of
+treatment) and Cavg,ss
+(average concentration at
+steady state) were used to
+conduct additional ER analysis
+for efficacy endpoints (ORR,
+DCR,PFS,OS and BTSR). The
+consistent results were
+obtained using the Cavg,event
+or Cavg,ss exposure metrics for
+evaluating the exposure
+efficacy relationships, when
+compared with the exposure
+efficacy relationships obtained
+using Cavg,first cycle.
+
+305
+
+Version date: June 2022 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5382024
+

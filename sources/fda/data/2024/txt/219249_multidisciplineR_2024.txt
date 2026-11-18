@@ -1,0 +1,5017 @@
+CENTER FOR DRUG EVALUATION AND
+RESEARCH
+APPLICATION NUMBER:
+
+219249Orig1s000
+MULTI-DISCIPLINE REVIEW
+
+NDA Multi-disciplinary Review and Evaluation {NDA 219249}
+ITOVEBI {inavolisib}
+
+NDA Multi-disciplinary Review and Evaluation
+Disclaimer: In this document, the sections labeled as “Data” and “The
+Applicant’s Position” are completed by the Applicant, which do not necessarily
+reflect the positions of the FDA.
+Disclaimer: FDA review was conducted in conjunction with other regulatory authorities under
+Project ORBIS. FDA collaborated with Australia’s Therapeutic Goods Administration (TGA),
+Health Canada (HC), and Switzerland’s Swissmedic (SMC). While the conclusions and
+recommendations expressed herein reflect FDA’s completed review of the application, the
+applications may still be under review at the other regulatory agencies.
+Application Type
+Application Number(s)
+Priority or Standard
+Submit Date(s)
+Received Date(s)
+PDUFA Goal Date
+Division/Office
+Review Completion Date
+Established Name
+(Proposed) Trade Name
+Pharmacologic Class
+Other name(s)
+Applicant
+Formulation(s)
+Dosing Regimen
+Applicant Proposed
+Indication(s)/Population(s)
+
+NDA
+219249
+Priority
+March 27, 2024
+March 27, 2024
+November 27, 2024
+DO1/OOD
+Electronic Stamp Date
+Inavolisib
+Itovebi
+Kinase inhibitor
+RO7113755, GDC-0077
+Genentech Inc.
+3mg and 9mg tablets
+9mg once daily orally
+
+Recommendation on
+Regulatory Action
+Recommended
+Indication(s)/Population(s)
+(if applicable)
+
+Regular Approval
+
+(b) (4)
+
+Inavolisib, in combination with palbociclib and fulvestrant, is
+indicated for the treatment of adults with endocrine-resistant,
+PIK3CA-mutated, hormone receptor (HR)-positive, human
+
+1
+Version date: June 2022 (ALL NDA/ BLA reviews)
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+Reference ID: 5460147
+
+NDA Multi-disciplinary Review and Evaluation {NDA 219249}
+ITOVEBI {inavolisib}
+epidermal growth factor receptor 2 (HER2)-negative, locally
+advanced or metastatic breast cancer, as detected by an FDAapproved test, following recurrence on or after completing
+adjuvant endocrine therapy.
+
+2
+Version date: June 2022 (ALL NDA/ BLA reviews)
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+Reference ID: 5460147
+
+NDA Multi-disciplinary Review and Evaluation {NDA 219249}
+ITOVEBI {inavolisib}
+Table of Contents
+Reviewers of Multi-Disciplinary Review and Evaluation.............................................................. 11
+Additional Reviewers of Application ........................................................................................... 11
+Glossary ...................................................................................................................................... 14
+1
+
+Executive Summary.............................................................................................................. 18
+Product Introduction................................................................................................. 18
+Conclusions on the Substantial Evidence of Effectiveness ........................................ 19
+Benefit-Risk Assessment (BRA) ................................................................................. 22
+Patient Experience Data ............................................................................................ 29
+
+2
+
+Therapeutic Context ............................................................................................................ 31
+Analysis of Condition................................................................................................. 31
+Analysis of Current Treatment Options ..................................................................... 32
+
+3
+
+Regulatory Background ........................................................................................................ 34
+U.S. Regulatory Actions and Marketing History ........................................................ 34
+Summary of Presubmission/Submission Regulatory Activity .................................... 34
+
+4
+
+Significant Issues from Other Review Disciplines Pertinent to Clinical Conclusions on
+Efficacy and Safety ............................................................................................................... 36
+Office of Scientific Investigations (OSI) ..................................................................... 36
+Product Quality ......................................................................................................... 36
+Clinical Microbiology ................................................................................................. 36
+Devices and Companion Diagnostic Issues ................................................................ 37
+
+5
+
+Nonclinical Pharmacology/Toxicology ................................................................................. 38
+Executive Summary ................................................................................................... 38
+Referenced NDAs, BLAs, DMFs .................................................................................. 42
+Pharmacology ........................................................................................................... 42
+ADME/PK .................................................................................................................. 47
+Toxicology ................................................................................................................. 51
+5.5.1. General Toxicology ................................................................................................ 51
+5.5.2. Genetic Toxicology ................................................................................................ 57
+3
+Version date: June 2022 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+Reference ID: 5460147
+
+NDA Multi-disciplinary Review and Evaluation {NDA 219249}
+ITOVEBI {inavolisib}
+5.5.3. Carcinogenicity ...................................................................................................... 58
+5.5.4. Reproductive and Developmental Toxicology ....................................................... 58
+5.5.5. Other Toxicology Studies ....................................................................................... 61
+6
+
+Clinical Pharmacology .......................................................................................................... 64
+Executive Summary ................................................................................................... 65
+Summary of Clinical Pharmacology Assessment ....................................................... 68
+6.2.1. Pharmacology and Clinical Pharmacokinetics........................................................ 68
+6.2.2. General Dosing and Therapeutic Individualization ................................................ 69
+6.2.2.1.
+
+General Dosing ............................................................................................... 69
+
+6.2.2.2.
+
+Therapeutic Individualization ......................................................................... 74
+
+6.2.2.3.
+
+Outstanding Issues ......................................................................................... 80
+
+Comprehensive Clinical Pharmacology Review ......................................................... 81
+6.3.1. General Pharmacology and Pharmacokinetic Characteristics................................ 81
+6.3.2. Clinical Pharmacology Questions........................................................................... 84
+6.3.2.1. Does the clinical pharmacology program provide supportive evidence of
+effectiveness? ................................................................................................................. 84
+6.3.2.2. Is the proposed dosing regimen appropriate for the general patient
+population for which the indication is being sought? ..................................................... 84
+6.3.2.3. Is an alternative dosing regimen or management strategy required for
+subpopulations based on intrinsic patient factors (e.g., race, ethnicity, age, performance
+status, genetic subpopulations, etc.)? ............................................................................. 85
+6.3.2.4. Are there clinically relevant food-drug or drug-drug interactions, and what is
+the appropriate management strategy? ......................................................................... 87
+7
+
+Sources of Clinical Data ........................................................................................................ 91
+Table of Clinical Studies ............................................................................................ 91
+
+8
+
+Statistical and Clinical Evaluation ......................................................................................... 93
+Review of Relevant Individual Trials Used to Support Efficacy .................................. 93
+Pivotal Study WO41554 (INAVO120) and Supportive Study GO39374 ............................ 93
+8.1.1.1.
+
+Pivotal Study: WO41554 (INAVO120), Phase III.............................................. 93
+
+8.1.1.2.
+
+Supportive Study: GO39374, Phase I ............................................................ 100
+
+8.1.2. Study Results ....................................................................................................... 101
+4
+Version date: June 2022 (ALL NDA/ BLA reviews)
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+Reference ID: 5460147
+
+NDA Multi-disciplinary Review and Evaluation {NDA 219249}
+ITOVEBI {inavolisib}
+8.1.2.1.
+
+Pivotal Study: WO41554 (INAVO120), Phase III............................................ 102
+
+8.1.2.2.
+
+Supportive Study: GO39374, Phase I ............................................................ 114
+
+8.1.3. Integrated Review of Effectiveness ..................................................................... 118
+8.1.4. Assessment of Efficacy Across Trials .................................................................... 120
+8.1.5. Integrated Assessment of Effectiveness .............................................................. 120
+Review of Safety...................................................................................................... 122
+8.2.1. Safety Review Approach ...................................................................................... 123
+8.2.2. Review of the Safety Database ............................................................................ 123
+8.2.3. Adequacy of Applicant’s Clinical Safety Assessments .......................................... 127
+8.2.4. Safety Results ...................................................................................................... 129
+8.2.5. Analysis of Submission-Specific Safety Issues ...................................................... 145
+8.2.6. Clinical Outcome Assessment (COA) Analyses Informing Safety/Tolerability ...... 152
+8.2.7. Safety Analyses by Demographic Subgroups ....................................................... 153
+8.2.8. Specific Safety Studies/Clinical Trials ................................................................... 154
+8.2.9. Additional Safety Explorations............................................................................. 154
+8.2.10.
+
+Safety in the Post-market Setting ................................................................. 155
+
+8.2.11.
+
+Integrated Assessment of Safety .................................................................. 155
+
+SUMMARY AND CONCLUSIONS ................................................................................................ 160
+Statistical Issues ...................................................................................................... 160
+8.3.1. Conclusions and Recommendations .................................................................... 160
+9
+
+Advisory Committee Meeting and Other External Consultations ...................................... 162
+
+10 Pediatrics ........................................................................................................................... 163
+11 Labeling Recommendations ............................................................................................... 164
+12 Risk Evaluation and Mitigation Strategies (REMS) ............................................................. 170
+13 Postmarketing Requirements and Commitment ............................................................... 171
+14 Division Director (DHOT) (NME ONLY) ............................................................................... 177
+15 Division Director (OCP) ...................................................................................................... 178
+16 Division Director (OB) ........................................................................................................ 179
+5
+Version date: June 2022 (ALL NDA/ BLA reviews)
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+Reference ID: 5460147
+
+NDA Multi-disciplinary Review and Evaluation {NDA 219249}
+ITOVEBI {inavolisib}
+17 Division Director (Clinical) .................................................................................................. 180
+18 Office Director (or designated signatory authority) ........................................................... 181
+19 Appendices ........................................................................................................................ 182
+References .............................................................................................................. 182
+Financial Disclosure ................................................................................................. 186
+Nonclinical Pharmacology/Toxicology..................................................................... 188
+OCP Appendices (Technical documents supporting OCP recommendations) ......... 188
+19.4.1.
+
+Bioanalytical Methods .................................................................................. 188
+
+19.4.2.
+
+Population PK Analysis ................................................................................. 192
+
+19.4.2.1. Executive Summary ..................................................................................... 192
+19.4.2.2. PPK Assessment Summary ........................................................................... 193
+19.4.3.
+
+Exposure-Response Analysis ........................................................................ 204
+
+19.4.3.1. Executive Summary ..................................................................................... 204
+19.4.3.2. E-R (efficacy) Assessment Summary ............................................................ 205
+19.4.3.3. E-R (safety) Assessment Summary ............................................................... 211
+19.4.3.4. Overall benefit-risk evaluation based on E-R analyses ................................. 216
+19.4.4.
+
+Physiologically Based Pharmacokinetic Modeling Review ............................ 217
+
+19.4.4.1. Executive Summary ..................................................................................... 217
+19.4.4.2. Methods ...................................................................................................... 217
+19.4.4.3. Results ......................................................................................................... 222
+19.4.4.4. Conclusion ................................................................................................... 228
+Additional Safety Analyses Conducted by FDA ........................................................ 228
+
+6
+Version date: June 2022 (ALL NDA/ BLA reviews)
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+Reference ID: 5460147
+
+NDA Multi-disciplinary Review and Evaluation {NDA 219249}
+ITOVEBI {inavolisib}
+Table of Tables
+Table 1: Applicant – Regulatory History of Key FDA interactions ................................................ 34
+Table 2: Biochemical Potency of Inavolisib Against PI3K Isoforms (Study 16-1792) .................... 44
+Table 3: Applicant - Integrated Summary Table of AUC Parameters from GLP Toxicology Studies
+.................................................................................................................................................... 49
+Table 4: Applicant - Integrated Summary Table of Cmax Parameters from GLP Toxicology Studies
+.................................................................................................................................................... 50
+Table 5: Applicant - Exposure Multiples in Pivotal Toxicology Studies ........................................ 51
+Table 6: Key Clinical Pharmacology Review Issues, Recommendations and Comments ............. 66
+Table 7: Outstanding Clinical Pharmacology Issues..................................................................... 67
+Table 8: Safety Comparison between Treatment Arm and Control Arm in Study WO41554 ..... 71
+Table 9: Inavolisib Dose Interruption in Treatment Arm of Study WO41554 .............................. 71
+Table 10: Patient Enrollment by Inavolisib Dosage and Combination Partner(s) in Studies
+GO39374 and WO41554 ............................................................................................................. 73
+Table 11: Dedicated Clinical Renal Impairment Study Interim Analysis Results .......................... 76
+Table 12: Estimated Steady State Exposure (AUC0-τ) of Inavolisib in Patients with Normal Renal
+Function or with Moderate Renal Impairment ........................................................................... 76
+Table 13: Inavolisib Excreta Data in Human in Mass Balance Study GP42652 ............................ 77
+Table 14: Summary of Baseline Categorical Covariates for popPK analysis................................. 78
+Table 15: Listing and Frequency of Identified PIK3CA Mutation ................................................. 86
+Table 16. PFS by BICR Assessment in study WO41554 by PIK3CA Mutated Exon Status............. 87
+Table 17: Food-effect Evaluation in Study GO39374 ................................................................... 89
+Table 18: Applicant - Listing of Clinical Trials Relevant to this NDA............................................. 92
+Table 19: Applicant - Study WO41554 Demographic Characteristics, Full Analysis Set ............. 104
+Table 20: Applicant - Overview of Study WO41554 Primary Efficacy Endpoint, Full Analysis Set
+.................................................................................................................................................. 107
+Table 21: FDA - PFS by INV Subgroups (ITT) .............................................................................. 108
+Table 22: FDA - Concordance of INV and BICR Assessment of PFS in All Patients ..................... 110
+Table 23: Applicant - Overview of Study WO41554 Secondary Efficacy Endpoints of OS, ORR,
+BOR Rate, and DOR, Full Analysis Set ........................................................................................ 111
+Table 24: Applicant - Study GO39374 Demographic Characteristics, Full Analysis Set .............. 115
+Table 25: Applicant - Overview of Study GO39374 Efficacy: Arm B, Arm E and Arm F .............. 118
+Table 26: Applicant - Safety Population, Size, and Denominators ............................................. 124
+Table 27: Applicant - Study WO41554 Exposure to Inavolisib, Placebo, Palbociclib, and
+Fulvestrant (Safety Analysis Set) ............................................................................................... 124
+Table 28: Applicant - Study GO39374 Study Treatment Exposure (Safety Analysis Set, Arms B, E,
+F, and All Patients) .................................................................................................................... 125
+Table 29: Applicant – Selected Adverse Events for Inavolisib ................................................... 127
+Table 30: Applicant - Study WO41554 Summary of Deaths (Safety Analysis Set) ..................... 129
+Table 31: Applicant - Study WO41554 Grade 5 Adverse Events (Safety Analysis Set) ............... 129
+7
+Version date: June 2022 (ALL NDA/ BLA reviews)
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+Reference ID: 5460147
+
+NDA Multi-disciplinary Review and Evaluation {NDA 219249}
+ITOVEBI {inavolisib}
+Table 32: Applicant - Study WO41554 Discontinuation from Individual Study Treatment Reasons
+by Trial Treatment, Full Analysis Set ......................................................................................... 134
+Table 33: Applicant - Study WO41554 Adverse Events Leading to Withdrawal of Any Study Drug,
+Safety Analysis Set .................................................................................................................... 134
+Table 34: Applicant - Study WO41554 Summary of Adverse Events leading to Dose
+Modifications (Interruption/ Reduction) of Inavolisib............................................................... 135
+Table 35: Applicant - Study GO39374 Summary of Adverse Events leading to Dose Modifications
+(Interruption/ Reduction) of Inavolisib ..................................................................................... 137
+Table 36: Applicant - Study WO41554: Overview of Adverse Events, Safety Analysis Set......... 139
+Table 37: Applicant - Study GO39374: Overview of Adverse Events, Safety Analysis Set.......... 139
+Table 38: Applicant - Adverse Drug Reactions (≥ 10% with ≥ 5% [All Grades] or ≥ 2% [Grade 3-4]
+Higher Incidence in the Inavolisib Arm) in INAVO120 ............................................................... 139
+Table 39: FDA – Adverse Reactions (≥ 10% with ≥ 5% [All Grades] or ≥ 2% [Grade 3-4] Higher
+Incidence in the Inavolisib Arm) in INAVO120........................................................................... 141
+Table 40: Applicant - Laboratory Abnormalities (≥ 10% with a Difference between Arms of ≥ 2%
+[All Grades or Grade 3-4]) in INAVO120 .................................................................................... 142
+Table 41: Applicant - Study WO41554: Summary of Selected Adverse Events (Safety Analysis
+Set) ............................................................................................................................................ 149
+Table 42: Applicant - Study WO41554: Summary of Selected Adverse Events (Safety Analysis
+Set) (cont.) ................................................................................................................................ 149
+Table 43: Applicant - Study GO39374: Overview of Safety for Selected Adverse Events (Arms B,
+E, F, and A-F, Safety Analysis Set) .............................................................................................. 151
+Table 44: Bioanalytical Method Validation Summary for Inavolisib .......................................... 189
+Table 45: Cross Validation Summary for Inavolisib ................................................................... 191
+Table 46: Summary of Selected Baseline Categorical Covariates .............................................. 196
+Table 47: Summary of Selected Baseline Continuous Covariates .............................................. 198
+Table 48: Final PK model Parameter Estimates for Inavolisib ................................................... 199
+Table 49: Summary of PK Exposure Parameters for Inavolisib after Single and Multiple Doses of
+9 mg PO QD by Formulation (Phase 1, Phase 1 resupply, and Phase 3) .................................... 202
+Table 50: Final input parameters in the inavolisib model ......................................................... 220
+Table 51: Predicted and observed palbociclib exposure in the presence and absence of
+itraconazole and rifampin ......................................................................................................... 222
+Table 52: Simulated and observed pharmacokinetic parameters of inavolisib after single- or
+multiple-dose administration in cancer patients in the FTIH study (D3610C00001) ................. 224
+Table 53: Predicted and observed effects of erythromycin on single dose pharmacokinetics of
+CYP3A substrates ...................................................................................................................... 225
+Table 54: Induction parameters of inavolisib and rifampin and predicted effects of inavolisib on
+midazolam exposure ................................................................................................................. 226
+Table 55: Comparison of observed steady state palbocicilib pharmacokinetic parameters in the
+presence of inavolisib (9 mg QD) with those predicted using various induction parameters of
+inavolisib ................................................................................................................................... 226
+8
+Version date: June 2022 (ALL NDA/ BLA reviews)
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+Reference ID: 5460147
+
+NDA Multi-disciplinary Review and Evaluation {NDA 219249}
+ITOVEBI {inavolisib}
+Table 56: Sensitivity analyses of inavolisib CYP3A induction parameters* on midazolam
+interaction................................................................................................................................. 227
+Table 57: Major Adverse Cardiac Events (MACE) in INAVO120 ................................................. 229
+Table of Figures
+Figure 1: Applicant - Response of MCF7 PIK3CA-Mutated Breast Cancer Xenografts to
+Combination Therapy with Inavolisib, Palbociclib, and Fulvestrant (Study 16-2204 /
+4.2.1.1 Primary Pharmacodynamics)........................................................................................... 44
+Figure 2: Inavolisib-Induced Depletion of p110α Protein in a PIK3CA-Mutated, but Not in a
+PIK3CA-Wild Type, Cell Line (Study 16-1793) .............................................................................. 44
+Figure 3: Effect of Proteasome Inhibition on p110α Protein Depletion by Inavolisib in a PIK3CAMutated Cell Line (Study 16-1793).............................................................................................. 46
+Figure 4: E-R Relationship Between the Probability of Grade ≥3 AEs and Quartile of inavolisib
+AUC ............................................................................................................................................. 72
+Figure 5: E-R Relationship Between the Probability of Grade ≥2 Anemia and Quartiles of
+Inavolisib Cmax ........................................................................................................................... 72
+Figure 6: Impact of PPI on Steady State Cmax or AUC0-24 of Inavolisib – FDA Analyzed ................ 79
+Figure 7: Applicant - Kaplan-Meier Plot for Progression-Free Survival by Investigator, Full
+Analysis Set ............................................................................................................................... 108
+Figure 8: GOF Plots for the Final Model (Semi-Log Scale) ......................................................... 200
+Figure 9: Prediction-Corrected VPC by Study for Inavolisib (Semi-Log Scale) ............................ 200
+Figure 10: Forest Plots- PK Exposure Parameters for Inavolisib after Multiple Doses of 9 mg PO
+QD Stratified by Renal Impairment ........................................................................................... 203
+Figure 11: Forest Plots-PK Exposure Parameters for Inavolisib after Multiple Doses of 9 mg PO
+QD Stratified by Formulation Status ......................................................................................... 203
+Figure 12: GO39374-Probability of AE Grade ≥ 3 by Quartiles of AUC ...................................... 214
+Figure 13: GO39374-Probability of Hyperglycemia Grade ≥ 2 by Quartiles of Cmax ................. 214
+Figure 14: GO39374-Probability of a Inavolisib Dose Modification due to AE by Quartiles of AUC
+.................................................................................................................................................. 215
+Figure 15: WO41554-Probability of Anemia Grade ≥ 2 by Quartiles of Cmax ........................... 216
+Figure 16: Modeling and simulation strategy ............................................................................ 219
+Figure 17: Simulated and observed plasma concentration-time profiles of palbociclib after a
+single 125-mg oral dose with or without coadministration of itraconazole .............................. 221
+Figure 18: Simulated and observed plasma concentration-time profiles of palbociclib following
+oral or intravenous administration of a single dose of palbociclib ............................................ 221
+Figure 19: Predicted and observed plasma concentrations of inavolisib after single and multiple
+doses of inavolisib in breast cancer patients from the monotherapy Arm A (GO39374 CSR) ... 223
+Figure 20: Predicted and observed plasma concentrations of inavolisib after multiple oral doses
+of inavolisib in breast cancer patients from the combination therapy Arm B
+(inavolisib/palbociclib/letrozole) (GO39374 CSR) ..................................................................... 223
+
+9
+Version date: June 2022 (ALL NDA/ BLA reviews)
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+Reference ID: 5460147
+
+NDA Multi-disciplinary Review and Evaluation {NDA 219249}
+ITOVEBI {inavolisib}
+Figure 21: Predicted and observed plasma concentrations of palbociclib after multiple oral
+doses of inavolisib in breast cancer patients from the combination therapy Arm B
+(inavolisib/palbociclib/letrozole) (GO39374 CSR) ..................................................................... 228
+
+10
+Version date: June 2022 (ALL NDA/ BLA reviews)
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+Reference ID: 5460147
+
+NDA Multi-disciplinary Review and Evaluation {NDA 219249}
+ITOVEBI {inavolisib}
+
+Reviewers of Multi-Disciplinary Review and Evaluation
+Additional Reviewers of Application
+Regulatory Project Manager
+Pharmacology/Toxicology Reviewer
+Pharmacology/Toxicology Team Leader (Acting)
+Office of Clinical Pharmacology Reviewer(s)
+
+Office of Clinical Pharmacology Team Leader(s)
+
+Zohal Hamidi, PharmD, MS
+Haw-Jyh Chiu, PhD
+Nikolett Biel, PhD
+DCPII: Hairat Sabit, PhD
+DPM: Fang Li, PhD
+DPM: Ying-Hong Wang, PhD
+DTPM: Jielin Sun, PhD
+DCPII: Lauren Price, PharmD
+DPM: Jingyu Yu, PhD
+DPM: Manuela Grimstein, PhD
+DTPM: Jeffrey Kraft, PhD
+Suparna Wedam, MD
+Preeti Narayan, MD
+Min Wang, MD
+Haley Gittleman, PhD
+Joyce Cheng, PhD
+Vishal Bhatnagar, MD
+William Pierce, PharmD
+Preeti Narayan, MD
+Tiffany Ricks, PhD
+Nam Atiqur Rahman, PhD
+Shenghui Tang, PhD
+Laleh Amiri-Kordestani, MD
+Paul Kluetz, MD
+
+Clinical Reviewer
+Clinical Team Leader
+Safety Analyst
+Statistical Reviewer
+Statistical Team Leader
+Associate Director for Patient Outcomes
+Associate Director for Labeling (ADL)
+Cross-Disciplinary Team Leader
+Acting Deputy Division Director (DHOT)
+Clinical Pharmacology Division Director (OCP)
+Division Director (OB)
+Division Director (OOD)
+Office Director (or designated signatory authority)
+OPQ
+RBPM: Utkarsh Desai
+ORA: Caryn McNab/ Michael Tollon
+Biopharmaceutics: Payal Agarwal/ Anitha Govada
+Labeling Reviewer: Olen Stephens/ David Claffey
+Process/Facility Reviewer: Diana Goll/ Zhaoyang Meng
+DS Reviewer: Kabir Shahjahan/ Haripada Sarker
+DP Reviewer: Olen Stephens/ Xing Wang
+ATL: Xing Wang
+Branch Chief: Sherita Mclamore
+Genomics
+Jielin Sun/ Jeffrey Kraft
+CDRH
+Timothy Schaefer, Francisca Reyes Turca, Yu Han, Shyam Kalavar,
+Soma Ghosh
+PBPK
+Ying-Hong Wang/ Manuela Grimstein
+11
+Version date: June 2022 (ALL NDA/ BLA reviews)
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+Reference ID: 5460147
+
+NDA Multi-disciplinary Review and Evaluation {NDA 219249}
+ITOVEBI {inavolisib}
+Risk Management Assessor Peer
+
+(b) (6)
+
+Regulatory Project Manager
+SMC Project Orbis coordinators
+Head Clinical Review Unit Oncology
+
+OPQ=Office of Pharmaceutical Quality
+OPDP=Office of Prescription Drug Promotion
+OSI=Office of Scientific Investigations
+OSE= Office of Surveillance and Epidemiology
+DEPI= Division of Epidemiology
+DMEPA=Division of Medication Error Prevention and Analysis
+
+13
+Version date: June 2022 (ALL NDA/ BLA reviews)
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+Reference ID: 5460147
+
+NDA Multi-disciplinary Review and Evaluation {NDA 219249}
+ITOVEBI {inavolisib}
+
+Glossary
+AAG
+AC
+ADA
+ADME
+AE
+AEGT
+AESI
+AI
+AKT
+ASCO
+AUC
+AUC0-24
+AUC0-t
+BCRP
+BDC
+BICR
+BLA
+BMI
+BOR
+BPCA
+BPI-SF
+BRF
+BSV
+CAP
+CBER
+CBR
+CDER
+CDK4/6
+CDRH
+CDTL
+CFR
+CL
+Cmax
+CMC
+Cmin
+CNS
+
+α-1-acid glycoprotein
+advisory committee
+American Diabetes Association
+absorption, distribution, metabolism, excretion
+adverse event
+adverse event group term
+adverse events of special interest
+aromatase inhibitor
+protein kinase B
+American Society of Clinical Oncology
+area under the concentration-time curve
+area under the concentration-time curve from 0 to 24 hours
+area under the concentration-time curve from Time 0 to Time t
+breast cancer resistance protein
+bile-duct cannulated
+blinded independent central review
+biologics license application
+body mass index
+best overall objective response
+Best Pharmaceuticals for Children Act
+Brief Pain Inventory-Short Form
+Benefit Risk Framework
+between-subject variability
+College of American Pathologists
+Center for Biologics Evaluation and Research
+clinical benefit rate
+Center for Drug Evaluation and Research
+cyclin-dependent kinase 4/6
+Center for Devices and Radiological Health
+Cross-Discipline Team Leader
+Code of Federal Regulations
+clearance
+maximum concentration observed
+chemistry, manufacturing, and controls
+minimum plasma concentration observed
+central nervous system
+14
+Version date: June 2022 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+Reference ID: 5460147
+
+NDA Multi-disciplinary Review and Evaluation {NDA 219249}
+ITOVEBI {inavolisib}
+COA
+clinical outcome assessment
+COSTART
+Coding Symbols for Thesaurus of Adverse Reaction Terms
+CR
+complete response
+CRC
+colorectal cancer
+CRF
+case report form
+CRO
+contract research organization
+CRT
+clinical review template
+CSR
+clinical study report
+CSS
+Controlled Substance Staff
+CT
+computed tomography
+ctDNA
+circulating tumor DNA
+CYP
+cytochrome P450
+DDI
+drug-drug interactions
+DMC
+data monitoring committee
+DOR
+duration of response
+EC50
+half-maximal effective concentration
+ECG
+electrocardiogram
+ECOG
+Eastern Cooperative Oncology Group
+eCTD
+electronic common technical document
+eGFR
+estimated glomerular filtration rate
+EORTC QLQ-C30
+European Organisation for Research and Treatment of Cancer Quality of
+Life Questionnaire-Core 30
+ER
+estrogen receptor
+ET
+endocrine therapy
+ETASU
+elements to assure safe use
+FAS
+full analysis set
+FBG
+fasting blood glucose
+FDA
+Food and Drug Administration
+FDAAA
+Food and Drug Administration Amendments Act of 2007
+FDASIA
+Food and Drug Administration Safety and Innovation Act
+GCP
+Good Clinical Practice
+GHS/HRQoL Global Health Status/Health-Related Quality of Life
+GLP
+good laboratory practice
+GMR
+geometric mean ratio
+GRMP
+good review management practice
+HER2─
+human epidermal growth factor receptor 2-negative
+hERG
+human ether-à-go-go-related gene
+HR+
+hormone receptor positive
+HSA
+human serum albumin
+IC50
+half-maximal inhibitory concentration
+ICE
+intercurrent event
+ICF
+informed consent form
+15
+Version date: June 2022 (ALL NDA/ BLA reviews)
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+Reference ID: 5460147
+
+NDA Multi-disciplinary Review and Evaluation {NDA 219249}
+ITOVEBI {inavolisib}
+ICH
+iDCC
+iDMC
+ILD
+IND
+iPSP
+ISE
+ISS
+ITT
+IV
+LA/mBC
+LHRH
+LPI
+LTL
+MAA
+MedDRA
+mITT
+MN
+MRI
+MTD
+NCI-CTCAE
+NDA
+NGS
+NME
+NOAEL
+NPT
+OCS
+OPQ
+ORR
+OSE
+OSI
+PBPK
+PBRER
+PCR
+PD
+PF
+PFS
+PI
+PK
+PMC
+PMR
+PIK3CA
+
+International Conference on Harmonization
+independent data coordinating center
+independent Data Monitoring Committee
+interstitial lung disease
+Investigational New Drug
+Initial Pediatric Study Plan
+integrated summary of effectiveness
+integrated summary of safety
+intent to treat
+intravenous
+locally advanced/ metastatic breast cancer
+luteinizing hormone–releasing hormone
+Last Patient In
+less-than-lifetime
+market authorization application
+Medical Dictionary for Regulatory Activities
+modified intent to treat
+mobile nursing
+magnetic resonance imaging
+maximum tolerated dose
+National Cancer Institute-Common Terminology Criteria for Adverse Event
+new drug application
+next-generation sequencing
+new molecular entity
+no-observed-adverse-effect level
+non-protocol anti-cancer therapy
+Office of Computational Science
+Office of Pharmaceutical Quality
+objective response rate
+Office of Surveillance and Epidemiology
+Office of Scientific Investigation
+physiologically-based pharmacokinetic
+Periodic Benefit-Risk Evaluation Report
+polymerase chain reaction
+pharmacodynamics
+physical functioning
+progression-free survival
+prescribing information
+pharmacokinetics
+postmarketing commitment
+postmarketing requirement
+phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha isoform
+16
+Version date: June 2022 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+Reference ID: 5460147
+
+NDA Multi-disciplinary Review and Evaluation {NDA 219249}
+ITOVEBI {inavolisib}
+PO
+popPK
+PP
+PPI
+PR+
+PR
+PREA
+PRO
+PRO-CTCAE
+PSUR
+PT
+QD
+QTc
+QW
+QWBA
+RED
+REMS
+RF
+SAE
+SAP
+SAS
+SC
+SCID
+SCP
+SD
+SERD
+SGE
+SMQ
+SOC
+SRE
+t1/2
+TEAE
+TFST
+TGI
+TK
+Tmax
+TTCD
+Vc
+VHP
+WT
+
+(gene name/acronym)
+oral
+population pharmacokinetics
+per protocol
+patient package insert
+progesterone receptor positive
+partial response
+Pediatric Research Equity Act
+patient reported outcome
+Patient-Reported Outcomes Common Terminology Criteria for Adverse Events
+Periodic Safety Update report
+preferred term
+once a day
+corrected QT
+once weekly
+Quantitative Whole Body Autoradiography
+rapid equilibrium dialysis
+risk evaluation and mitigation strategy
+role functioning
+serious adverse event
+statistical analysis plan
+safety set analysis
+subcutaneous
+severe combined immunodeficient
+summary of clinical pharmacology
+stable disease
+selective estrogen-receptor degrader
+special government employee
+standardised MedDRA query
+system organ class
+skeletal related event
+half-life
+treatment emergent adverse event
+time to first subsequent therapy
+tumor growth inhibition
+toxicokinetic
+time to maximum observed concentration
+time to confirmed deterioration
+central volume of distribution
+voluntary harmonization procedure
+wild type
+17
+Version date: June 2022 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+Reference ID: 5460147
+
+NDA Multi-disciplinary Review and Evaluation {NDA 219249}
+ITOVEBI {inavolisib}
+
+Conclusions on the Substantial Evidence of Effectiveness
+The review team recommends granting regular approval for inavolisib, in combination with
+palbociclib and fulvestrant, for the treatment of adults with endocrine-resistant, PIK3CAmutated, HR-positive, HER2-negative, locally advanced or metastatic breast cancer, as detected
+by an FDA-approved test, following recurrence on or after completing adjuvant endocrine
+therapy in accordance with 21 Code of Federal Regulations (CFR) 314.126(a)(b).
+The basis for recommendation for regular approval of inavolisib is the efficacy and safety results
+obtained from INAVO120, an ongoing, randomized, placebo-controlled, double-blind,
+multicenter trial in 325 patients with endocrine resistant, PIK3CA-mutated, HR-positive, HER2negative (defined as IHC 0 or 1+, or IHC 2+/ISH-), advanced or metastatic breast cancer,
+following recurrence on or within 12 months of adjuvant endocrine therapy and who have not
+received prior systemic therapy for locally advanced or metastatic disease. Patients were
+randomized 1:1 to receive either inavolisib 9 mg or placebo orally once daily, in combination
+with palbociclib 125 mg orally once daily for 21 consecutive days followed by 7 days off
+treatment, and fulvestrant 500 mg administered intramuscularly on Cycle 1, Days 1 and 15, and
+then on Day 1 of every 28-day cycle. The primary efficacy endpoint was PFS as assessed by
+investigator. Key secondary endpoints included OS and ORR. DOR was a secondary endpoint.
+Presence of a PIK3CA mutation was determined through testing of blood plasma-derived ctDNA
+with a next-generation sequencing (NGS) assay performed at a designated central laboratory, or
+through local testing of ctDNA or tumor tissue with an appropriately validated NGS or PCR
+assay. Randomization was stratified by presence of visceral disease (yes or no), endocrine
+resistance (primary or secondary), and geographic region (North America/Western Europe,
+Asia, other). Primary endocrine resistance in the trial was defined as relapse while on the first 2
+years of adjuvant endocrine therapy (ET) and secondary endocrine resistance was defined as
+relapse while on adjuvant ET after at least 2 years or relapse within 12 months of completing
+adjuvant ET.
+INAVO120 demonstrated a statistically significant and clinically meaningful improvement in the
+primary endpoint of PFS based on investigator assessment. The median PFS was 15 months
+(95% CI 11.3, 20.5) vs. 7.3 months (95% CI: 5.6, 9.3) favoring inavolisib + palbociclib +
+fulvestrant (HR 0.43, 95% CI: 0.32, 0.59; p-value <0.0001). PFS by blinded independent central
+review (BICR) was prospectively planned and was supportive of the primary endpoint. At the
+planned interim analysis for OS, a total of 97 events had occurred (63% of planned OS events)
+and did not reach statistical significance based on the interim analysis stopping boundary.
+Interim OS results showed a HR of 0.64 (95% CI: 0.43, 0.97) with median OS not estimable (95%
+CI: 27.3, NE) on the inavolisib + palbociclib + fulvestrant arm and 31.1 months (95% CI: 22.3, NE)
+on the placebo + palbociclib + fulvestrant arm. Thus, there appears to be no detriment in OS at
+this time. The final analysis of OS is expected in the second quarter of 2025 and a postmarketing
+commitment (PMC) has been issued for the final OS.
+19
+Version date: June 2022 (ALL NDA/ BLA reviews)
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+Reference ID: 5460147
+
+NDA Multi-disciplinary Review and Evaluation {NDA 219249}
+ITOVEBI {inavolisib}
+
+□
+
+□
+
+Qualitative studies (e.g., individual patient/caregiver interviews, focus group interviews, expert
+interviews, Delphi Panel, etc.)
+
+□
+
+Patient-focused drug development or other stakeholder meeting summary reports
+
+□
+
+Observational survey studies designed to capture patient experience data
+
+□
+
+Natural history studies
+
+□
+
+Patient preference studies (e.g., submitted studies or scientific publications)
+
+□
+
+Other: (Please specify)
+
+Patient experience data that was not submitted in the application, but was considered in this review.
+
+X
+Cross-Disciplinary Team Leader
+Preeti Narayan, MD
+
+30
+Version date: June 2022 (ALL NDA/ BLA reviews)
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the Applicant and do not necessarily reflect the
+positions of the FDA.
+Reference ID: 5460147
+
+NDA Multi-disciplinary Review and Evaluation {NDA 219249}
+ITOVEBI {inavolisib}
+Endocrine therapy is the mainstay for HR-positive breast cancer. However, resistance may
+occur to endocrine therapy and a major challenge to treating HR-positive breast cancer is
+overcoming endocrine resistance. Activation of the PI3K/AKT pathway may lead to endocrine
+resistance. Endocrine resistant breast cancer is not uniformly defined but generally refers to
+cancer that grows in the presence of endocrine therapy (ET) or soon after completing ET.
+Endocrine resistant breast cancer is considered to be a negative prognostic factor as these
+patients tend to have worse survival outcomes compared to patients with endocrine sensitive
+breast cancer.
+
+Analysis of Current Treatment Options
+
+The Applicant’s Position:
+Treatment Options in HR-positive, HER2-negative LA/mBC
+Endocrine therapy (ET) remains the cornerstone of treatment for patients with HR+ breast
+cancer. The current treatment paradigm for advanced HR+, HER2─ breast cancer is sequential
+endocrine-based therapies to control the disease and delay chemotherapy in the majority of
+cases. For patients considered endocrine-resistant/refractory or with visceral crisis (imminent
+organ failure), chemotherapy is recommended (NCCN 2024).
+The combination of a cyclin dependent kinase 4/6 (CDK4/6) inhibitor with either fulvestrant or
+an aromatase inhibitor (AI) is considered the standard of care first- and/or second-line
+treatment for LA/mBC; endocrine monotherapy may be considered appropriate for frail
+patients with comorbidities (ESMO 2023; NCCN 2024). Endocrine-based therapy is
+recommended for both post- and pre-/peri-menopausal patients, though pre-/peri-menopausal
+women are recommended to have ovarian function suppression or ablation. In men, the
+treatment approach is similar to that of women (ESMO 2023; NCCN 2024; Vasconcelos de
+Matos et al. 2023).
+In patients who relapse after ET plus a CDK4/6 inhibitor, several treatment options are
+available, which are tailored depending on several factors including clinical (e.g. disease
+burden), molecular (e.g. presence of somatic PIK3CA, AKT1, PTEN, or ESR1 mutations), response
+to prior agents (treatment resistance), patient preference, and treatment availability. As such,
+the treatment options range from endocrine monotherapy (e.g. elacestrant for ESR1 mutated
+tumors) to combinations with targeted agents, like alpelisib plus fulvestrant (for PIK3CAmutated tumors), everolimus plus ET, and capivasertib plus fulvestrant (for PIK3CA/AKT/PTEN
+altered tumors), and in some cases, second-line CDK4/6 inhibitor plus an endocrine agent
+(ESMO 2023; NCCN 2024).
+32
+Version date: June 2022 (ALL NDA/ BLA reviews)
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5460147
+
+NDA Multi-disciplinary Review and Evaluation {NDA 219249}
+ITOVEBI {inavolisib}
+In addition to these therapies, particularly in cases of endocrine resistance and/or rapid disease
+progression and significant visceral disease, chemotherapy-based may be used at physician’s
+clinical discretion (Guiliano et al. 2019). Current guidelines recommend the use of sequential
+single-agent chemotherapy. However, in patients with visceral crisis, combination
+chemotherapy regimens are recommended on the basis of improved response rates and longer
+time to progression compared to single agents, but at the expense of increased toxicity and
+suboptimal quality of life (ESMO 2023; NCCN 2024). There are several chemotherapy agents
+considered appropriate as monotherapy or in combination, including taxanes (most commonly
+weekly paclitaxel), capecitabine and eribulin. (Seidman et al. 2008; Jäger et al. 2010; Kaufmann
+et al. 2010; Cortes et al. 2011; Stockler et al. 2011; O’Shaughnessy et al. 2012; Rugo et al. 2015;
+Harbeck et al. 2017). There is no clear recommendation for one over the other, and the
+treatment decision is individualized after taking into consideration factors such as previous
+therapies, co-morbidities, and patient preference (ESMO 2023; NCCN 2024). Recently, the
+antibody-drug-conjugate (ADC), fam-trastuzumab deruxtecan has been approved for patients
+with HER2-low (IHC 1+ or IHC 2+/ISH-) LA/mBC, who have received prior chemotherapy in the
+metastatic setting or developed disease recurrence during or within 6 months of completing
+adjuvant therapy.
+Treatment Options in PIK3CA-mutated, HR-positive, HER2-negative LA/mBC
+Currently, patients with HR+, HER2─ LA/mBC whose tumors harbor a PIK3CA mutation can be
+treated with any standard-of-care therapy for HR+, HER2─ LA/mBC since these therapies have
+been approved without a specific biomarker requirement. However, as none of these
+treatment options target the PI3K pathway directly, patients with PIK3CA-mutated tumors may
+derive less benefit compared to patients whose tumors do not harbor a PIK3CA mutation
+(Fillbrunn et al. 2022). This has been observed with both endocrine-based (Fillbrunn et al. 2022)
+and chemotherapy-based options (Mosele et al. 2020).
+Because PIK3CA mutations are a known predictive biomarker of response to PI3Kα AKT
+inhibitors (André et al. 2019; Turner et al. 2023), there are additional treatment options for
+patients with PIK3CA-mutated tumors (André et al. 2019; Turner et al. 2023). Alpelisib (PI3Kα
+inhibitor) plus fulvestrant is a preferred second/later line option for patients with PIK3CAmutated, HR+, HER2─ LA/mBC (André et al. 2019; Rugo et al. 2020). The challenging safety and
+tolerability of alpelisib has affected its adoption in clinical practice and is a key reason it is not
+recommended as a first-line treatment option (ESMO 2023; NCCN 2024). In addition,
+everolimus (an mTOR inhibitor) in combination with exemestane is recommended as
+second/later line option, regardless of PI3KCA mutation status.
+Recently, capivasertib (AKT inhibitor) plus fulvestrant was approved for patients with HR+,
+HER2─ LA/mBC that harbors a PIK3CA/AKT1/PTEN alteration following recurrence or
+progression on an endocrine-based regimen and is a preferred second/later -line option (NCCN
+2024).
+33
+Version date: June 2022 (ALL NDA/ BLA reviews)
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5460147
+
+NDA Multi-disciplinary Review and Evaluation {NDA 219249}
+ITOVEBI {inavolisib}
+
+4 Significant Issues from Other Review Disciplines Pertinent to Clinical
+Conclusions on Efficacy and Safety
+Office of Scientific Investigations (OSI)
+The Office of Scientific Investigations (OSI) was consulted to perform site inspections as part of
+the review for this NDA. Reference is made to the Clinical Inspection Summary by Dr. Elena
+Boley dated 8/29/2024. The following three clinical sites were chosen as they were high
+enrolling sites for the INAVO 120 Trial (WO41554), and the clinical investigators had not been
+inspected previously:
+1. Dr. Seock Ah Im (Site #323897; Seoul National University Hospital, Seoul, South Korea)
+• 35 patients screened; 16 patients consented; 8 patients enrolled and
+randomized.
+2. Dr. Antonino Musolino (Site #323146; Universitaria Di Parma, Parma, Italy)
+• 22 patients screened; 7 patients consented; 6 patients enrolled and randomized.
+3. Dr. Florence Dalenc (Site #323629; Institut Universitaire Du Cancer De ToulouseOncopole, Toulouse, France)
+• 32 patients screened; 9 patients consented; 5 patients enrolled and randomized.
+The OSI inspections did not find any evidence of under-reporting of adverse events and no
+discrepancies were noted at the three clinical sites. OSI concluded that based on these
+inspections, Study WO41554 appears to have been conducted adequately, and the data
+generated by these sites appear acceptable in support of the proposed indication.
+
+Product Quality
+The FDA Office of Product Quality (OPQ) review team recommended approval for inavolisib.
+The review team assessed the drug substance, the drug product, quality labeling,
+manufacturing, biopharmaceutics, and microbiology for inavolisib and concluded that the
+Applicant provided sufficient information to assure the identity, strength, purity, and quality of
+the proposed product. The review team also concluded that all associated manufacturing,
+testing, and packaging facilities were deemed acceptable based on prior history, file review and
+district recommendation.
+For details, please refer to the Product Quality review by Drs. Payal Agarwal, Anitha Govada,
+and Xing Wang dated 8/28/24.
+
+Clinical Microbiology
+No Microbiology issues were reported in the OPQ review referenced above for this NDA
+application.
+36
+Version date: June 2022 (ALL NDA/ BLA reviews)
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5460147
+
+NDA Multi-disciplinary Review and Evaluation {NDA 219249}
+ITOVEBI {inavolisib}
+
+5 Nonclinical Pharmacology/Toxicology
+Executive Summary
+Inavolisib (ITOVEBI), also known as GDC-0077, RO7113755, and G02967907, is an inhibitor of
+phosphatidylinositol 3-kinase (PI3K) with inhibitory activity predominantly against PI3Kα,
+encoded by the PIK3CA gene, and belongs to the pharmacological class of kinase inhibitors.
+PI3K is a signal transducer downstream of cell surface receptors and regulator of cell
+metabolism and survival. The PI3K signaling pathway has been reported to be dysregulated in
+hormone receptor (HR)-positive breast cancer, often due to activating PIK3CA mutations. In this
+NDA submission, the Applicant submitted nonclinical pharmacology (primary, secondary,
+safety), ADME/PK, and toxicology (general, developmental, genetic) data to support the
+approval of inavolisib in combination with palbociclib and fulvestrant for the treatment of
+adults with endocrine-resistant, PIK3CA-mutated, HR-positive, human epidermal growth-factor
+receptor 2 (HER2)-negative, locally advanced or metastatic breast cancer, as detected by an
+FDA-approved test, following recurrence on or after completing adjuvant endocrine therapy.
+The proposed recommended dosage and administration of inavolisib is 9 mg taken orally once
+daily.
+In an in vitro biochemical assay, inavolisib inhibited PI3Kα with higher potency compared to the
+other PI3K isoforms including PI3Kβ, PI3Kδ, and PI3Kγ with inhibitory constant (Ki) values of
+0.038 nM, 101.7 nM, 12.8 nM, and 21.8 nM, respectively. The steady-state Cmax for inavolisib is
+69 ng/mL (169 nM or ~107 nM unbound) at the recommended dose of 9 mg/day. In a kinase
+panel of 224 kinases, inavolisib only inhibited 3 kinases (defined as > 80% inhibition at 1 µM) –
+PI3Kα, PI3Kγ, and PI3KC2β, (96.4%, 96.2%, and 81.7% inhibition at 1 µM, respectively).
+Inavolisib treatment of a human breast cancer cell line (HCC1954) reported to contain the
+hotspot H1047R PIK3CA alteration, led to proteasome-dependent depletion of the PI3K
+catalytic subunit alpha isoform (p110α) protein but not in a human breast cancer cell line
+(HDQ-P1) reported to be PIK3CA wild type. Similarly, inavolisib treatment resulted in greater
+increases in apoptosis, as measured by cleaved PARP protein, and decreases in downstream
+signaling, as measured by pAKTS473, in the PIK3CA-mutated breast cancer cell line (HCC1954)
+than in the PIK3CA-WT breast cancer cell line (HDQ-P1). Inavolisib treatment of the MCF-7
+breast cancer cell line (estrogen receptor [ER]-positive, HER2-negative, and PIK3CAE545Kmutated) resulted in reduced in vitro cell viability alone and a synergistic effect in combination
+with fulvestrant or palbociclib. Inavolisib showed anti-tumor effects in xenograft mouse models
+of human breast cancer using KPL-4, HCC1954X1, and MCF7 cell lines. KPL-4 and HCC1954X1
+are reported to be ER-negative/HER2-positive and to harbor a hotspot alteration in the p110α
+catalytic domain (H1047R), resulting in elevated levels of pAKT and constitutive PI3K pathway
+activation. The antitumor effect of inavolisib (% tumor growth inhibition [TGI] = 61) was
+increased when administered in combination with palbociclib (%TGI = 102), fulvestrant (%TGI =
+38
+Version date: June 2022 (ALL NDA/ BLA reviews)
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5460147
+
+NDA Multi-disciplinary Review and Evaluation {NDA 219249}
+ITOVEBI {inavolisib}
+79), or palbociclib plus fulvestrant (%TGI = 119) in mice bearing MCF-7 tumors.
+Inavolisib did not show significant inhibition of cardiac human ether-à-go-go-related gene
+(hERG) channel, NaV1.5 voltage gated sodium channel, or CaV1.2 L type calcium channel, in
+vitro. In a GLP-compliant single dose safety pharmacology study in telemetry instrumented
+Beagle dogs, inavolisib-related cardiovascular effects included generally dose-dependent,
+reversible decreases in heart rate, increases in arterial pressure and contractility, lengthening of
+PR and QT intervals (likely driven by the decreased heart rates), and minimally lengthened
+corrected QT (QTc) interval (+11 msec/+5%) at doses ≥ 0.3 mg/kg. Overall, the findings up to 3
+mg/kg (10 times the human exposure at the recommended dose of 9 mg/day based on Cmax)
+were not considered adverse based on the changes being minimal in magnitude and transient.
+No cardiovascular, respiratory, or neurobehavioral abnormalities were detected in the rat or
+dog repeat-dose toxicity studies.
+Nonclinical ADME/PK studies showed that exposure to inavolisib in rats and dogs increased
+dose proportionally and showed no significant accumulation following multiple administrations.
+In rats, exposure was higher (approximately 2-fold) in females than in males; however, overall,
+there were no significant differences in toxicities in female compared to male rats. No sexrelated differences in exposure parameters were noted in dogs. Tissue distribution studies in
+pigmented and non-pigmented rats showed that inavolisib-related radioactivity was extensively
+distributed in rat tissues and organs, including the endocrine tissues (adrenal gland), excretory
+tissues (kidney, liver, urinary bladder wall), the gastrointestinal tract, uveal tract, and the skin.
+By 672 hours post-dose, levels of radioactivity in all tissues were below quantifiable levels
+except for the adrenal gland, medulla and cortex, and uveal tract, where concentrations
+remained quantifiable at 1344 hours post-dose. Following a single oral administration,
+inavolisib was the most abundant drug-related component in rat plasma, urine, feces, and bile.
+No human-specific metabolites (> 10% of total circulating radioactivity exposure) were
+observed. The primary route of elimination of inavolisib and drug-related radioactivity in rats
+was the feces (57% - 64% of the dose), followed by elimination in urine (23% - 35% of the dose)
+and bile (9% - 15% of the dose).
+Inavolisib was evaluated in GLP-compliant, repeat-dose toxicology studies in Sprague-Dawley
+rats and Beagle dogs following once daily oral administration, consistent with the clinical route
+of administration and intended dosing schedule, for up to 3 months in duration. Rats were
+dosed up to 10 mg/kg and 5 mg/kg in the 4- and 13-week studies, respectively, corresponding
+to 6.3 times and 1.8 times the human exposure at the recommended dose of 9 mg/day based
+on AUC, respectively. Dogs were dosed up to 5/3 mg/kg and 1.5/1 mg/kg in the 4- and 13-week
+studies, respectively, corresponding to up to 6.1 times and 1.5 times the human exposure at
+the recommended dose of 9 mg/day based on AUC. There were no early mortalities in rats;
+however, dogs were dose reduced in both 4- and 13-week studies due to moribund condition
+associated with hypoactivity, body weight loss, hyperglycemia, reddish conjunctiva, and/or
+39
+Version date: June 2022 (ALL NDA/ BLA reviews)
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5460147
+
+NDA Multi-disciplinary Review and Evaluation {NDA 219249}
+ITOVEBI {inavolisib}
+clinical observations indicative of persistent ocular inflammation correlated with slight mixed
+cell endophthalmitis. Overall, the major target organs of toxicity in rats or dogs were the
+lymphoid tissues (thymus, gut-associated lymphoid tissue/Peyer’s patch, mesenteric and
+mandibular lymph nodes, spleen, bone marrow), eye, pancreas, and male and female
+reproductive organs. Findings in the lymphoid organs consisted of decreases in erythroid or
+lymphoid cellularity which correlated with decreases in red or white blood cell parameters at ≥
+1.5 mg/kg/day in rats (≥ 0.3 times the human exposure at the recommended dose of 9 mg/day
+based on AUC). Hyperglycemia was observed in both rats and dogs at ≥ 1 mg/kg/day (≥ 0.1
+times the human exposure at the recommended dose of 9 mg/day based on AUC) and ≥ 0.5
+mg/kg/day (≥ 0.8 times the human exposure at the recommended dose of 9 mg/day based on
+AUC), respectively. Hyperglycemia was reversible and was correlated with histopathology
+findings in the pancreas which included islet hypertrophy with vascular ectasia (angiectasia) in
+rats and diffuse hypertrophy/vacuolation of islet cells in dogs. Ocular findings were noted in
+rats and dogs. In rats, minimal to mild lens degeneration of the eye was observed at 10
+mg/kg/day (6.3 times the human exposure at the recommended dose of 9 mg/day based on
+AUC) at terminal and recovery necropsy in the 1-month study only. In dogs, bilateral, reversible,
+very slight swelling of the fibers at the equatorial region of the lens and lens cortex vacuolation
+were observed at ≥ 0.3 mg/kg/day (≥ 0.5 times the human exposure at the recommended dose
+of 9 mg/day based on combined male and female AUC value of 485 ng∙h/mL) and ≥ 1
+mg/kg/day (≥ 1.2 times the human exposure at the recommended dose based on combined
+male and female AUC value of 1250 ng∙h/mL), respectively, in the 3-month study.
+Hyperglycemia of any grade occurred in 60% of patients treated with ITOVEBI and is included in
+the Warnings and Precautions of the label. Ocular toxicities were limited to grades 1-2 adverse
+reactions in patients, with dry eye, blurred vision, and increased lacrimation as the most
+frequently reported adverse reactions. Findings of ocular toxicity were included in section 13.2
+of the Prescribing Information (PI) based on distribution of inavolisib in the eye and doserelated findings in rats and dogs, suggesting that the ocular toxicities may be a direct effect of
+inavolisib administration.
+In GLP-compliant genetic toxicology studies, inavolisib was not mutagenic in the bacterial
+reverse mutation assay. Inavolisib was clastogenic in an in vitro human lymphocyte
+micronucleus assay. In an in vivo rat bone marrow micronucleus assay, female rats were
+administered vehicle control or 5, 15, or 40 mg/kg inavolisib orally, once daily for three days.
+Inavolisib treatment did not cause a significant increase in micronucleus frequency in
+polychromatic erythrocytes of the bone marrow and did not induce DNA strand breaks in the
+liver above the historical control range when evaluated by the alkaline Comet assay.
+Carcinogenicity studies were not conducted, nor warranted, with inavolisib to support the
+proposed indication in patients with advanced cancer in accordance with ICH S9 guidance.
+In a GLP-compliant preliminary embryo-fetal development study, pregnant rats received oral
+doses of inavolisib up to 6 mg/kg/day during the period of organogenesis from gestational day
+40
+Version date: June 2022 (ALL NDA/ BLA reviews)
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5460147
+
+NDA Multi-disciplinary Review and Evaluation {NDA 219249}
+ITOVEBI {inavolisib}
+(GD)7 to GD17. Administration of inavolisib resulted in dose dependent effects on embryo-fetal
+development at ≥2 mg/kg ( ≥ 0.9 times the human exposure at the recommended dose of 9
+mg/day based on AUC) that included decreases in fetal body weight and placental weight, postimplantation loss, lower fetal viability, fetal malformations (including kyphosis of vertebral
+column, fused thoracic arch, microphthalmia) and variations (including dilated renal pelvis,
+short supernumerary rib, and wavy rib).
+Fertility and early embryonic development studies were not conducted nor are warranted to
+support the proposed indication in patients with advanced cancer in accordance with ICH S9
+guidance. In the 4-week and 13-week repeat-dose toxicology studies with inavolisib in rats and
+dogs, histopathology changes observed in reproductive organs suggest that inavolisib has the
+potential to impair male and female fertility. Adverse findings in animals included dosedependent and reversible atrophy of the prostate and seminal vesicle and decreased organ
+weights, without microscopic correlates, in the epididymis and testis at oral inavolisib doses ≥
+1.5 mg/kg/day in male rats (≥ 0.4 times the human exposure at the recommended dose of 9
+mg/day based on AUC), and focal inspissation of seminiferous tubule contents and reversible
+multinucleated spermatids in the testis and epithelial degeneration/necrosis in the epididymis
+at oral inavolisib doses ≥ 1.5 mg/kg/day in male dogs (≥ 2 times the human exposure at the
+recommended dose of 9 mg/day based on AUC). Findings in dogs were not observed following
+a recovery period. Atrophy in the uterus and vagina, decreased ovarian follicles and findings
+suggestive of an interruption/alteration of the estrus cycle were observed in female rats
+following up to 3 months of dosing at oral inavolisib doses ≥ 3 mg/kg/day (≥ 1.2 times the
+human exposure at the recommended dose of 9 mg/day based on AUC). Findings in the uterus,
+vagina, and estrous cycle observed in the 4-week toxicity study were not observed following a
+4-week recovery period. Recovery was not assessed in the 3-month study in rats.
+Based on animal data and its mechanism of action, ITOVEBI can cause fetal harm when
+administered to a pregnant woman. Inavolisib was genotoxic in vitro (clastogenic) but was not
+genotoxic in an in vivo rat bone marrow micronucleus test and did not induce DNA break in a
+liver comet assay. Therefore, overall, inavolisib is not considered genotoxic. Inavolisib has an
+estimated elimination half-life of 15 hours following a single 9 mg dose. Consistent with the
+recommendations outlined in the FDA guidance “Oncology Pharmaceuticals: Reproductive
+Toxicity Testing and Labeling Recommendations Guidance for Industry”, females of
+reproductive potential should use effective non-hormonal contraception during treatment with
+ITOVEBI and for 1 week after the last dose. Male patients with female partners of reproductive
+potential should use effective contraception during treatment with ITOVEBI and for 1 week
+after the last dose. FDA recommended the use of non-hormonal contraception for females due
+to the potential for drug-drug interaction between inavolisib and combined oral contraceptives,
+which are known substrates of CYP3A. These contraceptives could reduce the effectiveness of
+the combined oral contraceptives and lead to unintended pregnancies. Until the drug-drug
+interaction potential between inavolisib and CYP3A substrates is evaluated, the concomitant
+41
+Version date: June 2022 (ALL NDA/ BLA reviews)
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5460147
+
+NDA Multi-disciplinary Review and Evaluation {NDA 219249}
+ITOVEBI {inavolisib}
+medication should be limited to non-hormonal contraceptives. There are no data on the
+presence of inavolisib or its metabolites in human milk, its effects on milk production, or the
+breastfed child. Because of the potential for serious adverse reactions in a breastfed child,
+lactating women should not breastfeed during treatment with ITOVEBI and for 1 week after the
+last dose. Because ITOVEBI is indicated in combination with palbociclib and fulvestrant, the
+prescribing information also includes a reference to the Full Prescribing Information of
+palbociclib and fulvestrant for pregnancy, contraception, infertility, and lactation information.
+Recommendation:
+The nonclinical data submitted to this NDA are adequate to support the approval of ITOVEBI for
+the granted indication.
+
+Referenced NDAs, BLAs, DMFs
+The Applicant’s Position: Not applicable.
+
+Pharmacology
+Primary pharmacology
+The Applicant’s Position: Inavolisib is a highly selective oral small molecule inhibitor of the
+catalytic subunit alpha isoform protein of PI3K (p110α; encoded by the PIK3CA gene), with subnanomolar potency. In addition, inavolisib promotes the degradation of mutated p110α. With
+its dual mechanism of action, inavolisib inhibits the activity of downstream PI3K pathway
+targets, including AKT, resulting in reduced cellular proliferation and induction of apoptosis in
+PIK3CA‑mutated breast cancer cell lines.
+In PIK3CA-mutated breast cancer cell line-derived xenograft models, inavolisib reduced tumor
+growth. This anti-tumor activity was more pronounced when inavolisib was used in
+combination with standard-of-care therapies for breast cancer, including fulvestrant or
+palbociclib (CDK4/6 inhibitor). Together, these nonclinical data for inavolisib support
+combination therapy use as a treatment for patients with PIK3CA-mutated, HR+, HER2─
+LA/mBC.
+Key In Vitro Primary Pharmacology Findings:
+• Inavolisib has an in vitro biochemical potency (Ki) of 0.038 nM for PI3Kα, which is 300-fold
+more selective over the other Class I PI3K isoforms (Hanan et al. 2022,
+Study 16-1792/4.2.1.1).
+• Inavolisib inhibited 3 of 224 kinases in the Invitrogen kinase panel at > 80% at a
+concentration of 1 µM. Two of the kinases, PI3Kα and PI3Kγ, are targets of inavolisib.
+Additionally, inavolisib inhibited PI3KC2β, a PI3K family member, at 82%. In a subsequent
+42
+Version date: June 2022 (ALL NDA/ BLA reviews)
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5460147
+
+NDA Multi-disciplinary Review and Evaluation {NDA 219249}
+ITOVEBI {inavolisib}
+
+•
+
+•
+
+study, inavolisib was 2000-fold more selective for PI3Kα relative to all other kinases tested
+(Study 16-1794/4.2.1.1).
+Inavolisib promotes the degradation of mutated p110α. Treatment of cells with inavolisib
+leads to depletion of p110α protein in the HCC1954 breast cancer cell line that contains
+mutated PIK3CA but not in the HDQ-P1 cell line that is wild type (WT) for PIK3CA. Inavolisib
+shows greater reduction in levels of pathway markers such as pAKT and a greater increase
+in apoptosis when assayed by cleaved poly (ADP-ribose) polymerase (cleaved PARP) in
+PIK3CA-mutant cell lines than in PIK3CA WT cancer cells (Study 16-1793/4.2.1.1,
+Song et al. 2022).
+Inavolisib inhibits cellular proliferation of PIK3CA-mutated breast cancer cells in vitro, with
+mean half-maximal effective anti-proliferative concentrations (EC50) in the nanomolar range
+(Hanan et al. 2022, Song et al. 2022).
+
+Key In Vivo Primary Pharmacology Findings:
+• PI3K pathway markers pAKT, pPRAS40, and pS6 were reduced for up to 8 hours in response
+to a single dose of 5 or 50 mg/kg inavolisib, and reduction of pathway markers was both
+dose- and time-dependent in the HCC1954X1 breast cancer xenograft model
+(Study 15-0797-B/4.2.1.1).
+• Inavolisib inhibited tumor growth of KPL-4 PIK3CA-mutated human breast cancer xenograft
+tumors grown orthotopically in severe combined immunodeficient (SCID) beige mice.
+Treatment at the highest dose of inavolisib at the maximum tolerated dose (MTD) of
+50 mg/kg resulted in a maximal response of 153% tumor growth inhibition (TGI) and
+100% objective response rate (ORR) (9 partial responses [PR] and 1 complete response [CR]
+out of 10 animals) (Study 13-3399-L/4.2.1.1).
+• Inavolisib inhibited tumor growth in a nude mouse HCC1954X1 PIK3CA-mutated human
+breast cancer xenograft model. Treatment at the highest dose of inavolisib (50 mg/kg)
+resulted in 149% TGI and 60% ORR (6 PRs out of 10 animals) (Study 13-3399-O/4.2.1.1).
+• The combination of inavolisib with palbociclib and fulvestrant resulted in greater TGI than
+inavolisib, palbociclib, or fulvestrant administered as single agents or doublet combinations
+in a nude mouse MCF7 PIK3CA-mutated breast cancer xenograft model. The triple
+combination of inavolisib, palbociclib, and fulvestrant resulted in greater TGI on Day 20
+(119%) when compared with each single agent as well as the doublet combinations
+(Study 16-2204/4.2.1.1, Figure 1).
+
+43
+Version date: June 2022 (ALL NDA/ BLA reviews)
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5460147
+
+NDA Multi-disciplinary Review and Evaluation {NDA 219249}
+ITOVEBI {inavolisib}
+
+(Excerpted from the Applicant’s submission)
+
+45
+Version date: June 2022 (ALL NDA/ BLA reviews)
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5460147
+
+NDA Multi-disciplinary Review and Evaluation {NDA 219249}
+ITOVEBI {inavolisib}
+Following PO administration of 3 mg/kg (200 µCi/kg) 14C-inavolisib to Sprague-Dawley (albino) rats, the absorption and distribution were
+rapid, with the majority of peak tissue radioactivity concentrations observed 1 hour post dosing. The endocrine tissues (adrenal gland),
+excretory tissues (kidney, liver, urinary bladder wall) and GI tract contained the highest distribution of [14C]inavolisib-derived radioactivity. In
+pigmented rats, distribution of inavolisib-derived radioactivity was comparable to that in albino rats, with the exception of melanin
+containing tissues, such as uveal tract and skin that presented higher levels of radioactivity. Radioactivity levels were below the quantitation
+limit at 1344 h post-dose in all tissues, except in the adrenal gland, eye and kidney.
+No or minimal radioactivity could be detected in the brain and spinal cord throughout the study.
+Plasma protein binding in rank order of highest overall average binding: mouse (25.2% unbound) > rabbit (53.1% unbound), rat (59.8%
+unbound), and human (63.3% unbound) > dog (69.2% unbound) and monkey (73.4% unbound). The binding to HSA was 74.0% unbound and
+binding to AAG was 98.2% unbound.
+Metabolism
+Metabolite Identification for Inavolisib.1 5 in Rat, Dog, and Human Liver Microsomes. Study 16-0871/4.2.2.4 Metabolism.
+Metabolite Profiling and Identification of Inavolisib in Plasma, Bile, Urine, and Feces from Intact and Bile Duct Cannulated Male and
+Female Sprague Dawley Rats Following a Single Oral Dose of [14C]Inavolisib. Study 18-0814/4.2.2.4 Metabolism
+After 1 hour incubation, more than 98.8% of inavolisib was recovered in all LMs tested. Three minor metabolites were detected: M1, M2,
+and M3 (1% of total UV response). Based on structurally informative fragments ions, the following 3 minor metabolites were tentatively
+identified in human, rat, and dog: oxidative metabolite (M1, + 16 amu), oxidative ring opened metabolite (M2, + 32 amu), and dealkylated
+and oxidative metabolite (M3, −55 amu). No human unique metabolites were detected.
+In vivo, following PO administration of 3 mg/kg (200 µCi/kg) 14C-inavolisib to rats, GDC-0077 was the most abundant drug-related material in
+plasma and accounted for an average of 80.6% of extractable radioactivity from plasma. Circulating metabolites were M5 (imidazole ring
+cleavage) and M27 (- 29 Da) which accounted for an average of 7.3% and 3.6% of extractable radioactivity from plasma, respectively.
+Excretion
+Determination of Mass Balance and Pharmacokinetics Following a Single Oral Administration of [14C]Inavolisib in Male and Female
+Sprague Dawley Rats. Study 17-2251/4.2.2.5 Excretion.
+A PO dose of 3 mg/kg (200 µCi/kg) 14C-inavolisib was administered to rats. In intact rats, the primary route of elimination of radioactivity was
+in the feces (61.9% and 60.5% of the administered dose in male and female rats, respectively). A mean of 25.5% and 32.0% of the
+administered dose was recovered in the urine of male and female rats, respectively. In bile-duct cannulated (BDC) rats, the primary route of
+elimination of radioactivity was fecal (43.6% of the administered dose in males and an average of 37.7% in females). An average of 13.1%
+and 10.8% of the administered dose was recovered in the bile of BDC male and female rats, respectively. An average of 32.2% and 39.9% of
+the administered dose was recovered in the urine of BDC male and female rats, respectively. The sum of radioactivity recovered in urine and
+bile from BDC rats indicated that at least 45.3% and 50.7% of the oral dose had been absorbed in male and female rats, respectively.
+Pharmacokinetic Drug-Drug Interactions
+In Vitro Evaluation of GDC-0077.1-5 as an Inhibitor of Cytochrome P450 (CYP) Enzymes in Human Liver Microsomes. Study
+15-2967/4.2.1.4 PK Drug Interactions.
+In Vitro Evaluation of GDC 0077.1-5 as an Inhibitor of Cytochrome P450 (CYP) Enzymes in Human Liver Microsomes and Human
+Hepatocytes. Study 16-0806/4.2.1.4 PK Drug Interactions
+In Vitro Interaction Studies of GDC-0077 with human BCRP and MDR1 Efflux (ABC) Transporters and with human MATE1, MATE2-K, OAT1,
+OAT3, OATP1B1, OATP1B3, OCT1 and OCT2 Uptake Transporters Interaction Studies of inavolisib with human BCRP and MDR1 Efflux
+(ABC) Transporters and with human MATE1, MATE2-K, OAT1, OAT3, OATP1B1, OATP1B3, OCT1 and OCT2 Uptake Transporters. Study
+18-2263/4.2.1.4 PK Drug Interactions.
+Evaluation of inavolisib as a Substrate of human ABC Transporters MDR1 and BCRP and Human Solute Carriers (SLC) OAT1, OAT3,
+OATP1B1, OATP1B3, OCT1, OCT2, MATE1 and MATE2K / 19-1182 / 4.2.2.6 Pharmacokinetic Drug Interactions OATP1B3, OCT1, OCT2,
+MATE1 and MATE2K. Study 19-1182/4.2.1.4 PK Drug Interactions.
+Inavolisib was not a reversible inhibitor of any of the CYPs tested. It displayed mild metabolism-dependent inhibition of CYP3A4 and weak
+induction of CYP3A4. These results suggested a low likelihood of CYP-related DDI at clinically relevant concentrations.
+Inavolisib did not inhibit any of the transporters tested at clinically relevant concentrations. It was substrate of P-gp and BCRP but not a
+substrate of any of the other transporters tested.
+TK data from general toxicology studies
+4-week and 13-week repeat dose toxicology and toxicokinetic studies in rats (Studies 15-3303, 18-2456); and in dogs (Studies 15-3288,
+18-2455)/4.2.3.2 Repeat-Dose Toxicity.
+In general, exposures of inavolisib in dog and rat increased dose proportionally and were similar on Day 1 and after multiple
+administrations. In rats, exposure was approximately 2-fold higher in females than in males, whereas there were no sex-related differences
+in exposure in dogs.
+
+48
+Version date: June 2022 (ALL NDA/ BLA reviews)
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5460147
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 219249}
+{Inavolisib}
+Table 3: Applicant - Integrated Summary Table of AUC Parameters from GLP Toxicology
+Studies
+
+Rat
+(mg/kg
+dose)
+AUC0-24
+
+Dog
+
+(mg/kg
+dose)
+AUC0-24
+
+M
+(1)
+98.9/152
+
+F
+(1)
+333/338
+
+M
+(1.5)
+288/375/325
+
+F
+(1.5)
+537/568/545
+
+(ng · h/mL)
+pEFD
+(Study
+19-0593)
+GD7/GD17
+F
+(0.6)
+246/256
+
+(3)
+376/815
+
+(3)
+1250/1220
+
+(5)
+902/1300/1260
+
+(5)
+1700/2150/1790
+
+(2)
+1010/892
+
+(ng · h/mL) RD
+(Study 15-3303)
+D1/D28
+
+(10)
+(10)
+1290/3850
+5480/6320
+(ng · h/mL) RD
+(Study15-3288)
+D1/D28
+
+(ng · h/mL) RD
+(Study 18-2456)
+D1/D43/D86
+
+(ng · h/mL) RD
+(Study 18-2455)
+D1/D46/D91
+
+(ng · h/mL)
+Genotox
+(Study
+16-0989)
+D1
+F
+(5)
+2210
+
+(h · ng/mL)
+Pig-a IMP
+(Study
+21-1488)
+D29
+F
+(5)
+2220
+
+(15)
+7620
+
+(10)
+3480
+
+(6)
+(40)
+2020/2500
+17100
+(ng · h/mL) CV SPH
+(Study15-3293)
+Day 29
+
+(20)
+8680
+
+M
+(0.5)
+828/837
+
+F
+(0.5)
+900/956
+
+M
+(0.3)
+439/403/456
+
+F
+(0.3)
+514/567/670
+
+M
+(1)
+1670
+
+F
+(1)
+1230
+
+(1.5)
+2380/2130
+
+(1.5)
+2770/1970
+
+(1.5/1.0a)
+2470/1720/1100
+
+(1.5/1.0a)
+2460/2870/1560
+
+(3)
+3420
+
+(3)
+6630
+
+(5/3b)
+(5/3b)
+10,300/4750
+11,900/6130
+AUC0-24 = area under the concentration-time curve from Time 0 to 24 hours; CV = cardiovascular; D = day; F = female; GD = gestation day;
+Genotox = in vivo genotoxicity (4.2.3.3.2); IMP = impurities (4.2.3.7.6); pEFD = preliminary embryo-fetal development (4.2.3.5.2); M = male;
+PK = pharmacokinetic; RD = repeat dose (4.2.3.2); SPH = safety pharmacology (4.2.1.3); TK = toxicokinetic.
+a
+The dose for this group was lowered from 1.5 mg/kg to 1.0 mg/kg on Study Day 58 for males and Study Day 60 for females.
+b
+The dose for this group was lowered from 5 mg/kg to 3 mg/kg on Study Day 10, and TK samples were collected from this group on Study
+Days 1 and 21.
+
+49
+Version date: June 2022 (ALL NDA/ BLA reviews)
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5460147
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 219249}
+{Inavolisib}
+Table 4: Applicant - Integrated Summary Table of Cmax Parameters from GLP Toxicology
+Studies
+
+Rat
+(mg/kg
+dose)
+Cmax
+
+Dog
+
+(mg/kg
+dose)
+Cmax
+
+(ng · h/mL) RD
+(Study 15-3303)
+D1/D28
+M
+F
+(1)
+(1)
+33.1/41.3
+92.9/94.9
+
+M
+(1.5)
+62.6/68.8/63.3
+
+F
+(1.5)
+94.5/106/150
+
+(ng · h/mL)
+pEFD
+(Study
+19-0593)
+GD7/GD17
+F
+(0.6)
+43.4/46.3
+
+(3)
+91.4/163
+
+(5)
+212/244/275
+
+(5)
+257/454/281
+
+(2)
+173/128
+
+(3)
+440/295
+
+(10)
+(10)
+213/793
+1140/1500
+(ng · h/mL) RD
+(Study15-3288)
+D1/D28
+
+(ng · h/mL) RD
+(Study 18-2456)
+D1/D43/D86
+
+(ng · h/mL) RD
+(Study 18-2455)
+D1/D46/D91
+
+(ng · h/mL)
+Genotox
+(Study
+16-0989)
+D1
+F
+(5)
+481
+
+(h · ng/mL)
+Pig-a IMP
+(Study
+21-1488)
+D29
+F
+(5)
+419
+
+(15)
+1480
+
+(10)
+632
+
+(6)
+(40)
+389/432
+1740
+(ng · h/mL) CV SPH
+(Study15-3293)
+Day 29
+
+(20)
+1270
+
+M
+(0.5)
+148/170
+
+F
+(0.5)
+177/184
+
+M
+(0.3)
+82.5/72.4/74.6
+
+F
+(0.3)
+84.3/99.7/93.9
+
+M
+(1)
+335
+
+F
+(1)
+263
+
+(1.5)
+549/416
+
+(1.5)
+581/336
+
+(1.5/1.0a)
+413/332/147
+
+(1.5/1.0a)
+401/535/269
+
+(3)
+573
+
+(3)
+785
+
+(5/3b)
+(5/3b)
+1860/1140
+1940/1440
+Cmax = maximum concentration observed; CV = cardiovascular; D = day; F = female; GD = gestation day; Genotox = in vivo genotoxicity
+(4.2.3.3.2); IMP = impurities (4.2.3.7.6); pEFD = preliminary embryo-fetal development (4.2.3.5.2); M = male; PK = pharmacokinetic;
+RD = repeat dose (4.2.3.2); SPH = safety pharmacology (4.2.1.3); TK = toxicokinetic.
+a
+The dose for this group was lowered from 1.5 mg/kg to 1.0 mg/kg on Study Day 58 for males and Study Day 60 for females.
+b
+The dose for this group was lowered from 5 mg/kg to 3 mg/kg on Study Day 10, and TK samples were collected from this group on Study
+Days 1 and 21.
+
+50
+Version date: June 2022 (ALL NDA/ BLA reviews)
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5460147
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 219249}
+{Inavolisib}
+•
+
+•
+
+Histopathology findings in the bone marrow and splenic red pulp correlated with
+changes in hematology parameters in clinical pathology. Findings in the pituitary and
+prostate correlated with decreases in organ weights. Other histopathology findings were
+of unknown significance based on minimal change, low incidence, or possible
+relationship to dosing procedure (e.g., findings in esophagus).
+All the female rats at 5 mg/kg/day were either in diestrus or proestrus, suggesting an
+interruption or alteration in the estrus cycle.
+
+13-Week dog study (Study 18-2455)
+Study initiation date:
+Duration:
+GLP compliance:
+Drug, lot#, and % purity:
+Methods
+Doses:
+Frequency of dosing:
+Number/Sex/Group:
+Dose volume:
+Formulation/Vehicle:
+Route of administration:
+Species/Strain:
+Age:
+Comment on Study Design and Conduct:
+
+Dosing Solution Analysis:
+
+January 25, 2019
+13 Weeks
+Yes
+GDC-0077, lot # 68878-287, 98.9% purity
+0, 0.3, 1.5/1.0 mg/kg/day
+Once daily
+3 (terminal); 3 (recovery at 0 and 1.5/1.0
+mg/kg/day only)
+5 mL/kg
+0.5% w/v Methylcellulose (MC) in water for
+injection
+Oral gavage
+Dog/Beagle
+11 to 14 Months old (at initiation of acclimation)
+Based on findings of body weight loss, marked
+hyperglycemia, and reddish conjunctiva in one
+female animal, the dose for Group 3 was reduced
+from 1.5 mg/kg/day to 1.0 mg/kg/day beginning on
+Study Day 58 for males and Study Day 60 for
+females.
+Recovery was limited to males only to evaluate
+testicular findings that were observed in the
+previously conducted 28-day toxicity study in dogs.
+Acceptable for concentration and homogeneity
+(except for the 0.3 mg/kg/day formulation on Day
+91 [76.6% - 80.6% of nominal which was outside
+the acceptance criteria of 100.0% ± 15.0%]).
+
+55
+Version date: June 2022 (ALL NDA/ BLA reviews)
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5460147
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 219249}
+{Inavolisib}
+above resulted in an increase in revertant numbers that was 2.1-fold the concurrent control in
+Experiment 1 and up to 1.9-fold the concurrent control in Experiment 2. The increase in
+revertant numbers in Experiment 2 did not reach 2.0-fold but was concentration-related and
+reproducible and is, therefore, considered evidence of weak mutagenic activity in this strain. As
+a follow-up, the Applicant conducted another Ames assay (study 16-1286) with inavolisib in
+strain TA98 in the presence of S-9 using lots G02967907.1-20 (same lot as in study 15-3356,
+purity 98.1%) and 60470-32 (purified lot, purity 100%) in both plate incorporation and preincubation methodologies. No increase in revertant numbers ≥ 2x the concurrent vehicle
+control was observed using either the plate incorporation or pre-incubation method for either
+lot of inavolisib.
+FDA agrees that inavolisib was clastogenic in an in vitro human lymphocyte micronucleus assay
+and that inavolisib was not genotoxic in an in vivo rat bone marrow micronucleus assay and did
+not induce DNA break in a liver comet assay.
+5.5.3.
+
+Carcinogenicity
+
+The Applicant’s Position: Inavolisib is intended for the treatment of patients with advanced
+cancer. In accordance with ICH S9 guidance on the Nonclinical Evaluation for Anticancer
+Pharmaceuticals (ICH 2009), no carcinogenicity studies were conducted.
+The FDA’s Assessment:
+FDA agrees that carcinogenicity studies are not warranted to support the proposed indication in
+patients with advanced cancer in accordance with ICH S9 guidance.
+5.5.4.
+
+Reproductive and Developmental Toxicology
+
+The Applicant’s Position: The embryo-fetal development study in rats identified inavolisibrelated dose dependent effects on embryo-fetal development (≥ 0.8 x) that included decreases
+in fetal body weight and placental weight, post-implantation loss, lower fetal viability, and
+teratogenicity (fetal external, visceral, and skeletal malformations) (Study 19-0593).
+The ICH S9 guidance (ICH 2009) states that studies on (1) fertility and early embryonic
+development and (2) pre- and postnatal toxicology are not warranted to support marketing
+authorization applications for pharmaceuticals intended for the treatment of patients with
+advanced cancer, such as inavolisib. Accordingly, such studies were not performed.
+Assessment of male and female reproductive organ was conducted as a part of the 4- and
+13-week toxicity studies in rats and dogs (Studies 15-3303, 15-3288, 18-2456, and 182455/4.2.3.2 Repeat Dose Toxicity). In male rats, dose-dependent atrophy of the prostate and
+seminal vesicle and decreased organ weights without microscopic correlate in the epididymis
+and testis were observed (≥0.4 x, Study 15-3303). In the 1-month toxicity study in dogs, focal
+58
+Version date: June 2022 (ALL NDA/ BLA reviews)
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5460147
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 219249}
+{Inavolisib}
+
+6 Clinical Pharmacology
+
+64
+Version date: June 2022 (ALL NDA/ BLA reviews)
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5460147
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 219249}
+{Inavolisib}
+high absolute bioavailability. With continuous QD dosing, there was approximately 2-fold
+accumulation, estimated based on individual exposures on Day 15 relative to Day 1 (AUC0-24hr).
+This accumulation is consistent with the observed half-life (t1/2) and the dosing frequency,
+indicating that inavolisib does not demonstrate time dependent pharmacokinetics.
+Distribution: The percentage of inavolisib bound to human plasma proteins in vitro was low
+(37%) and did not appear to be concentration-dependent over the concentration range tested
+(0.1-10 mM). Following a single intravenous (IV) dose of 100 µg [13C6]-inavolisib, the geometric
+mean volume of distribution was 204 L (29% CV), indicating extensive distribution into tissues.
+Metabolism: Minimal metabolism of inavolisib was detected in vitro in rat, dog, and human
+liver microsome incubations. The formation of a minor oxidative metabolite was principally
+mediated by CYP3A4/3A5. Circulating metabolites were minimal with the majority (99.5%) of
+drug-related material in plasma being inavolisib in the human mass balance study. Total
+metabolites in the excreta accounted for 42% (35% in feces and 7% in urine) of the dose. The
+major metabolic pathway was hydrolysis of the primary amide to carboxylic acid; CYP-mediated
+metabolites were only ~2%.
+Excretion: Inavolisib was eliminated to a similar extent via urinary and fecal pathways.
+Following oral administration of 9 mg [14C]-inavolisib, a mean (SD) of 48.5% (8.18) of the dose
+was recovered in urine and 48.0% (7.22) of the dose was recovered in feces through the last
+collection interval. The overall mean recovery of total radioactivity in urine and feces samples
+was 96.5%, with recovery in individual volunteers that ranged from 92.6 to 99.2%. Urinary
+excretion represented 48.5% of the dose; unchanged inavolisib was the most prominent drugrelated compound in the urine, accounting for 40.4% of the dose. Fecal excretion represented
+48.0% of the administered dose. Inavolisib accounted for 10.8% of the dose in feces;
+metabolites M8, M14, and M15 accounted for 6.4%, 7.9%, and 6.8% of the dose, respectively.
+Total metabolites in the excreta accounted for 42% (35% in feces and 7% in urine) of the dose.
+Mean half-life (t1/2) following a single 9 mg dose was approximately 16.4 hours (range: 14.121.4 hours) in patients with advanced breast cancer.
+Dose Proportionality: Single agent data suggest dose proportionality within the dose range
+tested (6-12 mg) for Cmax and AUC0-24 following single dose and at AUC0-24 steady state;
+however, for steady state Cmax, the data suggests higher than dose proportional exposure.
+Renal Impairment: Population pharmacokinetics (popPK) analysis suggested that mild renal
+impairment has no clinically significant impact on the exposure of inavolisib. The geometric
+mean ratio (GMR) (90% CI) of inavolisib PK in patients with mild renal impairment (n = 124) vs.
+normal renal function (n = 185) for AUC was 1.10 (1.05 -1.16), Cmax is 1.11 (1.06 -1.17), and
+minimum plasma concentration observed (Cmin) is 1.11 (1.03 -1.18). A dedicated renal
+impairment study (GP44944) in subjects with moderate or severe renal impairment is ongoing.
+Hepatic Impairment: PopPK analysis suggested no impact of mild hepatic impairment on the
+exposure of inavolisib. The GMR (90% CI) of inavolisib PK in patients with mild hepatic
+impairment (n = 111) vs. normal hepatic function (n = 224) for area under the concentrationtime curve from Time 0 to Time t (AUC0-t) was 0.986 (0.934 – 1.040), Cmax is 1.010 (0.955 1.060), and Cmin is 0.970 (0.902 -1.040). A dedicated study is not warranted in patients with
+82
+Version date: June 2022 (ALL NDA/ BLA reviews)
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5460147
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 219249}
+{Inavolisib}
+Table 18: Applicant - Listing of Clinical Trials Relevant to this NDA
+Trial Identity
+and NCT no.
+
+Trial
+Design
+
+Regimen/ schedule/ route
+
+Controlled Studies to Support Efficacy and Safety
+WO41554
+Multicent
+Inavolisib 9 mg/placebo
+NCT0419149 er,
+QD PO + palbociclib
+9
+randomize 125 mg QD PO
+d, double
+(21/7) + fulvestrant 500
+blinded,
+mg Q4W IM (Days 1 and
+placebo15 of first 28-day cycle,
+controlled
+and then Day 1 of each
+following 28-day cycle)
+
+Study
+Endpoints
+
+Treatment Duration/
+Follow Up
+
+No. of patients
+enrolled
+
+Study
+Populati
+on
+
+No. of
+Centers
+and
+Countries
+
+Primary
+Endpoint:
+INV-PFS
+Secondary
+Efficacy
+Endpoints:
+OS, ORR, BOR
+rate, DOR, CBR,
+PRO
+Exploratory
+Efficacy
+Endpoints:
+Proxy for PFS2,
+SRE, PRO
+Safety, PK
+
+Screening period:
+28 days
+Blinded treatment
+period
+Safety follow-up: 30
+days
+Post-treatment
+hyperglycemia followup (when applicable):
+up to 3 months post
+last treatment
+Survival follow-up
+period: until death,
+patient
+withdrawal of consent,
+loss to follow-up, or
+study termination
+
+N = 325
+(Inavo + Palbo
++ Fulv: 161
+patients;
+Pbo + Palbo
++ Fulv: 164
+patients)
+
+Patients
+≥ 18
+years of
+age with
+PIK3CAmutated,
+HR+,
+HER2─
+LA/mBC
+
+123 sites
+28
+countries
+
+Studies to Support Safety and Efficacy
+GO39374 a
+Multicent
+Dose escalation (A, B, C):
+Primary
+Screening period:
+Dose
+Patients
+13 sitesc
+NCT0300617 er, first-in- Escalating PO doses of
+Endpoint:
+28 days
+escalation (A,
+≥ 18
+2
+human,
+inavolisib as a single agent
+Safety
+Treatment period
+B, C):
+5 countrie
+years of
+openor in combination with
+PK
+Safety follow-up
+N=50 enrolled
+s (US,
+age with
+(Arms A
+label,
+letrozole 2.5 mg QD
+Activity
+period:
+Spain,
+locally
+through F)
+dosePO ± palbociclib 125 mg
+(Efficacy)
+30 days, or until
+Expansion (B,
+Canada,
+advance
+escalation
+QD PO (3 weeks on/1
+Endpoints d:
+initiation of another
+C, E, D, F)b:
+UK,
+d or
+and
+week off).
+ORR, BOR rate;
+anti-cancer therapy,
+N=141 enrolled metastat France)
+expansion
+Expansion (B, C, D, E, F):
+DOR, CBR, PFS
+whichever occurred
+ic
+PO inavolisib (at a dose
+Exploratory:
+first
+PIK3CAdetermined from the
+Biomarker
+mutated
+dose-escalation phase) in
+solid
+combination with letrozole
+tumors,
+2.5 mg QD PO ± palbociclib
+including
+125 mg QD PO (3 weeks
+breast
+on/1 week off) or in
+cancer
+combination with
+fulvestrant 500 mg
+IM ± palbociclib 125 mg
+QD PO (3 weeks on/1
+week off) ± metformin up
+to 2000 mg PO
+BOR = best overall response; CBR = clinical benefit rate; CCOD = clinical cutoff date; DOR = duration of response; Fulv = fulvestrant; HER2─ = human
+epidermal growth factor receptor 2 negative; HR+ = hormone receptor positive; Inavo = inavolisib; IM = intramuscular; IV = intravenous;
+INV = investigator; LA/mBC = locally advanced/ metastatic breast cancer; ORR = objective response rate; OS = overall survival; PFS = progressionfree survival; PFS2 = proxy for time to second objective disease progression; Palbo = palbociclib; PO = oral; PRO = patient-reported outcome;
+Q4W = every 4 weeks; QD = once daily; SRE = Time to first skeletal-related event.
+a
+Phase I Study GO39374 Stage II Arm G (inavolisib in combination with trastuzumab and pertuzumab) will not be included in the dossier as this arm
+is still enrolling, and the treatment combination studied and the population enrolled differ from the proposed indication in the NDA.
+b
+One patient enrolled in Arm F withdrew consent and discontinued from the study prior to receiving any study treatment.
+c
+There were 11 Principal Investigators across 13 sites.
+
+92
+Version date: June 2022 (ALL NDA/ BLA reviews)
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5460147
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 219249}
+{Inavolisib}
+
+8 Statistical and Clinical Evaluation
+Review of Relevant Individual Trials Used to Support Efficacy
+Pivotal Study WO41554 (INAVO120) and Supportive Study GO39374
+Trial Design
+8.1.1.1. Pivotal Study: WO41554 (INAVO120), Phase III
+The Applicant’s Description: Study WO41554 is a Phase III, randomized, double-blind, placebocontrolled, multi-center, global study designed to compare the efficacy, as measured by
+investigator-assessed PFS, and the safety of the triplet combination of inavolisib with
+palbociclib and fulvestrant (Inavo+Palbo+Fulv) vs. placebo with palbociclib and fulvestrant
+(Pbo+Palbo+Fulv) in patients with PIK3CA-mutated, HR+, HER2─ LA/mBC whose disease
+progressed during treatment or within 12 months of completing adjuvant ET and who had not
+received prior systemic therapy for locally advanced or metastatic disease.
+Patient biomarker eligibility (i.e., positive for a study-eligible PIK3CA mutation) was determined
+through testing of blood plasma-derived circulating tumor DNA (ctDNA) with a next-generation
+sequencing (NGS) assay performed at the Sponsor-designated central laboratory, or through
+local testing of ctDNA or tumor tissue with an appropriately-validated NGS or polymerase chain
+reaction (PCR) assay.
+Eligible patients were randomly assigned in a 1:1 ratio to one of two treatment arms:
+Inavo+Palbo+Fulv or Pbo+Palbo+Fulv. Inavolisib/placebo was administered at 9 mg PO QD on
+Days 1-28 of each 28-day cycle; palbociclib was administered at 125 mg PO QD on Days 1-21 of
+each 28-day cycle; fulvestrant was administered at 500 mg by intramuscular injection on Days 1
+and 15 of Cycle 1 and then on Day 1 of each subsequent 28-day cycle, or approximately every
+4 weeks. Patients were stratified by: visceral disease (yes or no), endocrine resistance (primary
+or secondary according to European Society for Medical Oncology Advanced Breast Cancer 4
+(ESMO ABC4) guidelines and geographic region (North America/Western Europe, Asia, Other).
+Patients received study treatment until unequivocal disease progression as determined by the
+Investigator, unacceptable toxicity, patient withdrawal of consent, loss to follow-up, death, or
+study termination.
+After randomization, tumor assessments were performed to assess for response every 8 weeks
+(±7 days) during the first 2 years of study treatment and every 12 weeks (±7 days) thereafter.
+Primary efficacy analyses were based on the tumor assessments performed by the local
+radiologists or Investigators. Response was assessed on the basis of physical examinations,
+93
+Version date: June 2022 (ALL NDA/ BLA reviews)
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+Reference ID: 5460147
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 219249}
+{Inavolisib}
+computed tomography (CT) scans, and other imaging modalities as clinically indicated, which
+could include brain imaging (CT or magnetic resonance imaging [MRI]), MRI scans, and/or bone
+scan, using Response Evaluation Criteria in Solid Tumors (RECIST) v1.1 criteria. A retrospective
+blinded independent central review (BICR) of tumor assessment data was performed to support
+the primary endpoint of investigator-assessed PFS.
+To evaluate the PK properties of inavolisib, palbociclib, and fulvestrant administered in this
+triplet combination, blood samples were taken at various timepoints before and after dosing.
+Patient-reported outcome (PRO) instruments, including the Brief Pain Inventory-Short Form
+(BPI-SF) worst pain severity item, the European Organisation for Research and Treatment of
+Cancer Quality of Life Questionnaire-Core 30 (EORTC QLQ-C30) and its accompanying diseasespecific module, the QLQ-BR23, were completed to evaluate the impact of treatment from the
+patient’s perspective. Additionally, pre-selected symptom items from the Patient-Reported
+Outcomes Common Terminology Criteria for Adverse Events (PRO-CTCAE) and an overall bother
+item were used to assess the experience of treatment-related symptoms and their associated
+bother.
+Patients were monitored for adverse events (AEs) throughout the study treatment, following
+informed consent until 30 days after the final dose of study treatment or until initiation of
+another anti-cancer therapy, whichever occurred first. AEs were graded according to National
+Cancer Institute Common Terminology Criteria for Adverse Events (NCI CTCAE) v5.0. Patients
+who, at the 30-day safety follow-up visit, were still on anti-hyperglycemic agents for the
+treatment of hyperglycemia during the study treatment, and those patients with events of
+hyperglycemia ongoing at the 30-day safety follow-up visit, proceeded to the post-treatment
+hyperglycemia follow-up.
+Dose Modification
+The inavolisib/placebo dose reduction instructions for managing AEs are provided in the
+protocol. They are intended to serve as recommended guidelines to inform rather than
+supersede clinical judgment and the benefit-risk balance as assessed by the Investigator in
+managing individual cases. Dose modification for AEs was to be taken first with inavolisib rather
+than palbociclib unless clearly attributable to palbociclib alone based on known toxicity profile
+and the investigator’s assessment. Interruption, but not reduction, was permitted for
+fulvestrant.
+Blinding
+Study WO41554 was a double-blind study: the Sponsor and its agents, study site personnel, and
+patients were blinded to treatment assignment during the study.
+Independent Data Monitoring Committee
+An independent Data Monitoring Committee (iDMC) was established to monitor safety, study
+conduct, and futility analysis. The iDMC reviewed unblinded safety summaries and summaries
+of key efficacy endpoints prepared by an independent data coordinating center (iDCC).
+94
+Version date: June 2022 (ALL NDA/ BLA reviews)
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+Reference ID: 5460147
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 219249}
+{Inavolisib}
+The null and alternative hypotheses were tested at a two-sided 0.05 significance level. The
+primary study objective was to demonstrate superiority of the experimental over the control
+treatment.
+Statistical Analysis of Efficacy Endpoints
+Sensitivity analyses to the primary estimand of the primary PFS were performed by BICRassessed PFS, investigator-assessed PFS based on unstratified analysis, investigator-assessed
+PFS in patients with PIK3CA mutation-positive status by the central test, and based on handling
+of missing scheduled tumor assessments.
+Two supplementary analyses based on differing strategies of handling intercurrent event (ICE)
+were performed for investigator-assessed PFS based on hypothetical strategy and composite
+strategy for use of any non-protocol anti-cancer therapy (NPT) prior to disease progression.
+The Type I error-controlled secondary endpoints of this study were to be tested hierarchically
+according to the following pre-specified and fixed order of endpoints, only if the primary
+endpoint, PFS, was statistically significant at the primary PFS analysis:
+1) OS; 2) ORR; 3) BOR; 4) CBR; 5) TTCD in pain; 6) TTCD in PF; 7) TTCD in RF; 8) TTCD in
+GHS/HRQoL.
+The primary efficacy analysis was conducted when approximately 194 PFS events had occurred.
+The first interim OS analysis was planned at the time of the primary analysis of PFS. A final OS
+analysis was estimated to occur approximately 19 months later. With the assumptions specified
+in SAP Version 2, the cumulative power planned at the interim and final OS analysis was 25%
+and 59%, respectively.
+Efficacy Subgroup Analysis
+The generalizability of PFS after randomization results was investigated as a part of an
+exploratory analysis by estimating the treatment effect in subgroups based on baseline
+prognostic factors (including stratification factors) with unstratified analysis as defined in the
+SAP Version 2.
+Safety Analysis
+Safety was assessed through summaries of exposure to study treatment, AEs, changes in
+laboratory test results, and changes in vital signs and electrocardiograms (ECGs). All verbatim
+AE terms were mapped to Medical Dictionary for Regulatory Activities (MedDRA 26.1)
+thesaurus terms, and AE severity was graded according to NCI CTCAE v5.0. All AEs, serious
+adverse events (SAEs), AEs leading to death, selected AEs (including adverse events of special
+interest [AESIs]), and AEs leading to study treatment discontinuation or dose modification that
+occurred on or after the first dose of study treatment (i.e., treatment-emergent AEs) were
+summarized accordingly. Deaths and cause of death were summarized.
+PK Analysis
+Plasma concentrations of inavolisib, palbociclib, and fulvestrant vs. time data were tabulated
+and plotted. Inavolisib plasma concentration vs. time data, together with information on dosing
+98
+Version date: June 2022 (ALL NDA/ BLA reviews)
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+Reference ID: 5460147
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 219249}
+{Inavolisib}
+The most common protocol deviations categorized under inclusion criteria were hemoglobin
+A1C greater than 6% (1.2% vs 3%) in the inavolisib vs placebo treatment arm, respectively.
+The most common protocol deviations categorized under exclusion criteria were patient has
+received any prior systemic therapy for metastatic breast cancer (1.2% vs 0%) in the inavolisib
+vs placebo treatment arm, respectively.
+Table of Demographic Characteristics
+Data:
+Table 19: Applicant - Study WO41554 Demographic Characteristics, Full Analysis Set
+Demographic Parameters
+
+Inavo+Palbo+Fulv
+(N=161)
+n (%)
+
+Pbo+Palbo+Fulv
+(N=164)
+n (%)
+
+Sex
+Male
+5 (3.1%)
+1 (0.6%)
+Female
+156 (96.9%)
+163 (99.4%)
+Age
+Mean years (SD)
+53.8 (10.9)
+54.1 (11.2)
+Median (years)
+53.0
+54.4
+Min, max (years)
+27,77
+29,79
+Age Group
+< 18 years
+0
+0
+< 65 years
+136 (84.5%)
+130 (79.3%)
+≥ 65 years
+19 (11.8%)
+28 (17.1%)
+≥ 75 years
+6 (3.7%)
+6 (3.6%)
+Race
+White
+94 (58.4%)
+97 (59.1%)
+Black or African American
+1 (0.6%)
+1 (0.6%)
+Asian
+61 (37.9%)
+63 (38.4%)
+American Indian or Alaska Native
+0
+0
+Native Hawaiian or Other Pacific
+0
+0
+Islander
+Other
+5
+3
+Ethnicity
+Hispanic or Latino
+10 (6.2%)
+10 (6.1%)
+Not Hispanic or Latino
+145 (90.1%)
+149 (90.9%)
+Not Reported/Unknown
+6 (3.7%)
+5 (3.0%)
+Region
+United States
+7 (4.3%)
+9 (5.5%)
+Rest of the World*
+1 (0.6%)
+0
+Canada
+10 (6.2%)
+4 (2.4%)
+South America
+4 (2.5%)
+1 (0.6%)
+Europe
+77 (47.8%)
+85 (51.8%)
+Asia
+58 (36.0%)
+62(37.8%)
+Australia
+4 (2.5%)
+3 (1.8%)
+*New Zealand
+Source: t_dm_FAS_29SEP2023_41554; t_dm_enrol_FAS_29SEP2023 41554; Dataset: AdaM: ADSL
+
+All Patients
+(N=325)
+n (%)
+6 (1.8%)
+319 (98.2%)
+54.0 (11.1)
+54.0
+27,79
+0
+266 (81.8%)
+47 (14.5%)
+12 (3.7%)
+191 (58.8%)
+2 (0.6%)
+124 (38.2%)
+0
+0
+8
+20 (6.2%)
+294 (90.5%)
+11 (3.3%)
+16 (4.9%)
+1 (0.3%)
+14 (4.3%)
+5 (1.5%)
+162 (49.8%)
+120 (36.9%)
+7 (2.2%)
+
+The Applicant’s Position: In the FAS population, the two treatment arms were comparable with
+respect to demographic characteristics (Table 19).
+Of the patients enrolled in the U.S., the majority had their ethnicity reported as “not Hispanic or
+Latino” (87.5%), the remainder of patients had their ethnicity reported as “Hispanic” (12.5%).
+With respect to race, the majority of patients were White (81.2%), with the remainder of
+104
+Version date: June 2022 (ALL NDA/ BLA reviews)
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+Reference ID: 5460147
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 219249}
+{Inavolisib}
+Data: Efficacy data for secondary endpoints of OS, ORR, BOR rate, and DOR and provided in
+Table 23. Secondary and exploratory COA (PRO) endpoints are provided in the following
+sections.
+Table 23: Applicant - Overview of Study WO41554 Secondary Efficacy Endpoints of OS, ORR,
+BOR Rate, and DOR, Full Analysis Set
+Inavo + Palbo + Fulv
+N = 161
+
+Pbo + Palbo + Fulv
+N = 164
+
+Secondary Efficacy Endpoints
+Overall Survival
+Patients with event (%)
+42 (26.1%)
+55 (33.5%)
+Median (months) (95% CI)
+NE (27.3, NE)
+31.1 (22.3, NE)
+Stratified HR (95% CI)
+0.64 (0.43, 0.97)
+p-value (log-rank) a
+0.0338
+Objective Response Rate (Investigator)
+Responders (n) (%)
+94 (58.4%)
+41 (25.0%)
+95% CI (Clopper-Pearson)
+50.4, 66.1
+18.6, 32.3
+Difference in Response rate (%) (95% CI)
+33.4 (23.3, 43.5)
+Best Overall Response (Investigator)
+Responders (n) (%)
+103 (64.0%)
+49 (29.9%)
+95% CI (Clopper-Pearson)
+56.0, 71.4
+23.0, 37.5
+Difference in Response rate (%) (95% CI)
+34.1 (23.9, 44.3)
+Clinical Benefit Rate (Investigator)
+Responders (n) (%)
+121 (75.2%)
+77 (47.0%)
+95% CI (Clopper-Pearson)
+67.7, 81.6
+39.1, 54.9
+Difference in Response rate (%) (95% CI)
+28.2 (18.1, 38.3)
+Duration of Response (Investigator)
+Number of evaluable patients
+94
+41
+Patients with event (%)
+46 (48.9%)
+27 (65.9%)
+Median (months) (95% CI)
+18.4 (10.4, 22.2)
+9.6 (7.4, 16.6)
+CI = confidence interval; HR = hazard ratio; NE = not estimable.
+a
+The pre-specified interim analysis of two-sided alpha boundary for OS was 0.0098.
+Source: WO41554 CSR, Report 1126696, Table 16; t_ef_tte_OS_FAS_29SEP2023_41554; t_ef_rsp_ORR_INV_FAS_29SEP2023_41554;
+t_ef_rsp_BOR_INV_FAS_29SEP2023_41554; t_ef_rsp_CBR_INV_FAS_29SEP2023_41554; t_ef_tte_DOR_FAS_29SEP2023_41554; Dataset:
+ADaM: ADRS, ADTTE
+
+Overall Survival: OS is the key secondary endpoint evaluated under Type I error control per the
+hierarchical testing procedure pre-specified in the SAP. At the planned interim analysis for OS, a
+total of 97 events had occurred (63% of planned OS events). The stratified HR was 0.64 (95% CI:
+0.43, 0.97; p = 0.0338), with 42 deaths in the Inavo + Palbo + Fulv arm and 55 deaths in the
+Pbo + Palbo + Fulv arm (Table 23). Under the interim analysis stopping boundary (p ≤ 0.0098),
+statistical significance was not reached. However, the interim OS analysis is highly supportive of
+the primary endpoint, with the Kaplan-Meier OS curve further indicating treatment benefit. The
+Kaplan-Meier curve started to separate at the beginning of the study in favor of the
+Inavo + Palbo + Fulv arm, and remained separated throughout the follow-up period.
+Objective Response Rate (Investigator-Assessed): The confirmed ORR based on investigator
+assessment per RECIST v1.1 was more than doubled in the Inavo + Palbo + Fulv arm (58.4%) as
+compared with the Pbo + Palbo + Fulv arm (25.0%). An increase of ∆33.4% (95% CI: 23.3, 43.5)
+in the confirmed ORR favoring the Inavo + Palbo + Fulv arm was considered clinically
+meaningful.
+Best Overall Response Rate (Investigator-Assessed): The proportion of patients with a best
+111
+Version date: June 2022 (ALL NDA/ BLA reviews)
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+Reference ID: 5460147
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 219249}
+{Inavolisib}
+plus fulvestrant, or letrozole, across a broad patient population. Furthermore, the median
+relative dose intensities of combination therapy components were also high and comparable
+within Study GO39374 and between studies, showing the addition of inavolisib did not
+compromise the dose intensity of palbociclib, fulvestrant and letrozole.
+Table 26: Applicant - Safety Population, Size, and Denominators
+
+Safety Database for the Study Drug1
+Individuals exposed to the study drug in this development program for the indication under review
+N= 3513,*
+Clinical Trial Groups
+Inavolisib
+Placebo
+(N = 351)
+(N = 162)
+Controlled trials conducted for this
+162
+162
+indication2: WO41554
+All other than controlled trials conducted
+189
+N/A
+for this indication3: GO39374
+Controlled trials conducted for other
+N/A
+N/A
+indications4
+1
+study drug means the drug being considered for approval.
+2
+to be used in product’s labeling
+3
+if placebo arm patients switch to study drug in open label extension, the n should include their number; do not count twice patients who go
+into extension from randomized study drug arm
+4
+include n in this column only if patients exposed to the study drug for indication(s) other than that in the marketing application have been
+included in the safety database under review. Consider n=0 in this column if no patients treated for other indication(s) were included in this
+safety database.
+*Sum of patients that received at least one dose of study drug (inavolisib).
+
+Table 27: Applicant - Study WO41554 Exposure to Inavolisib, Placebo, Palbociclib, and
+Fulvestrant (Safety Analysis Set)
+Inavo+Palbo+Fulv
+
+Pbo+Palbo+Fulv
+
+(N=162)
+
+(N=162)
+
+Inavolisib
+
+Palbociclib
+
+Fulvestrant
+
+Placebo
+
+Palbociclib
+
+Fulvestrant
+
+n=162
+
+n=162
+
+n=162
+
+n=162
+
+n=162
+
+n=162
+
+Min−Max
+
+12.1 (9.6)
+9.2
+0.0-38.8
+
+12.0 (9.5)
+9.1
+0.0-38.8
+
+11.9 (9.5)
+8.6
+0.0-38.3
+
+8.4 (8.0)
+5.6
+0.1-40.3
+
+8.2 (8.0)
+5.6
+0.1-40.2
+
+7.9 (8.2)
+5.6
+0.0-39.6
+
+Treatment Duration
+
+n=162
+
+n=162
+
+n=162
+
+n=162
+
+n=162
+
+n=162
+
+0 to ≤3 months
+
+31 (19.1%)
+
+27 (16.7%)
+
+32 (19.8%)
+
+53 (32.7%)
+
+53 (32.7%)
+
+61 (37.7%)
+
+>3 to ≤6 months
+
+21 (13.0%)
+
+27 (16.7%)
+
+22 (13.6%)
+
+33 (20.4%)
+
+32 (19.8%)
+
+24 (14.8%)
+
+>6 to ≤12 months
+
+45 (27.8%)
+
+43 (26.5%)
+
+43 (26.5%)
+
+38 (23.5%)
+
+41 (25.3%)
+
+42 (25.9%)
+
+>12 to ≤18 months
+
+25 (15.4%)
+
+27 (16.7%)
+
+25 (15.4%)
+
+19 (11.7%)
+
+18 (11.1%)
+
+18 (11.1%)
+
+>18 months
+
+40 (24.7%)
+
+38 (23.5%)
+
+40 (24.7%)
+
+19 (11.7%)
+
+18 (11.1%)
+
+17 (10.5%)
+
+Relative Dose
+Intensity (%)
+Mean (SD)
+
+n=162
+
+n=162
+
+n=162
+
+n=162
+
+n=162
+
+n=162
+
+87.3 (17.2)
+
+84.0 (15.0)
+
+99.0 (4.5)
+
+0.0 (0.0)
+
+84.4 (15.5)
+
+98.8 (5.1)
+
+95.8
+26.4-100.0
+
+87.3
+16.7-104.5
+
+100.0
+75.0-125.0
+
+0.0
+0.0-0.0
+
+88.4
+33.3-112.3
+
+100.0
+60.0-122.2
+
+n=162
+347.9 (283.6)
+256.5
+1.0-1180.0
+
+n=162
+259.3 (206.3)
+192.5
+1.0-877.0
+
+n=162
+14.4 (10.1)
+11.0
+1.0-43.0
+
+n=162
+246.8 (238.5)
+170.0
+2.0-1227.0
+
+n=162
+176.8 (168.8)
+126.0
+2.0-884.0
+
+n=162
+10.2 (8.6)
+8.0
+1.0-45.0
+
+Treatment Duration
+(months)*
+Mean (SD)
+Median
+
+Median
+Min−Max
+Number of Doses
+Mean (SD)
+Median
+Min−Max
+
+124
+Version date: June 2022 (ALL NDA/ BLA reviews)
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+Reference ID: 5460147
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 219249}
+{Inavolisib}
+Table 27: Applicant - Study WO41554 Exposure to Inavolisib, Placebo, Palbociclib, and
+Fulvestrant (Safety Analysis Set)
+Inavo+Palbo+Fulv
+
+Pbo+Palbo+Fulv
+
+(N=162)
+
+(N=162)
+
+Inavolisib
+
+Palbociclib
+
+Fulvestrant
+
+Placebo
+
+Palbociclib
+
+Fulvestrant
+
+Total Cumulative
+Dose (mg)
+
+n=162
+
+n=162
+
+n=162
+
+n=162
+
+n=162
+
+n=162
+
+Mean (SD)
+
+2903.5 (2478.0)
+
+29386.6 (23933.3)
+
+7199.1 (5032.6)
+
+0.0 (0.0)
+
+19465.4 (17131.4)
+
+5120.4 (4304.6)
+
+Median
+
+2127.0
+
+23312.5
+
+5500.0
+
+0.0
+
+13712.5
+
+4000.0
+
+Min−Max
+
+9.0-10620.0
+
+125.0-109625.0
+
+500.0-21500.0
+
+0.0-0.0
+
+250.0-76250.0
+
+500.0-22500.0
+
+NE=not estimable.
+* The calculation of treatment duration for fulvestrant does not include the 4-week period post last injection.
+Sources: Primary CSR, Study WO41554, Report 1126696, Table 14; t_ex_IVL_SAS_29SEP2023_41554, t_ex_PAL_SAS_29SEP2023_41554,
+t_ex_FUL_SAS_29SEP2023_41554 ; Dataset: ADaM: ADEX
+
+Table 28: Applicant - Study GO39374 Study Treatment Exposure (Safety Analysis Set, Arms B,
+E, F, and All Patients)
+Inavo + Palbo + Letro
+(N=33)
+
+Inavo 9 mg + Palbo + Inavo 9 mg + Palbo + Fulv
+Fulv
++ Metf
+(N=20)
+(N=20)
+
+All Patients
+(N=190)
+
+Inavolisib (n=190)
+Median Number of Inavolisib Doses (Range)
+
+433.0 (10-1772)
+
+609.5 (35-1423)
+
+203.0 (24-1051)
+
+195.0 (5-1772)
+
+Median Inavolisib Duration (months) (Range)
+
+15.7 (1.3-66.5)
+
+20.8 (1.8-47.6)
+
+7.2 (1.1-35.4)
+
+7.2 (0.2-66.5)
+
+Median Inavolisib Dose Intensity
+
+95.5%
+
+93.8%
+
+92.0%
+
+96.6%
+
+Median Cumulative Inavolisib Dose Intensity
+
+95.3%
+
+90.5%
+
+89.1%
+
+96.0%
+
+Median Number of Palbociclib Doses (Range)
+
+321.0 (30-1348)
+
+466.0 (29-1073)
+
+149.0 (38-834)
+
+274.0 (29-1348)
+
+Median Palbociclib Duration (months) (Range)
+
+15.7 (1.4-66.3)
+
+20.7 (1.8-47.6)
+
+6.2 (1.5-35.9)
+
+13.0 (1.4-66.3)
+
+Median Palbociclib Dose Intensity
+
+90.8%
+
+90.9%
+
+94.2%
+
+91.4%
+
+Median Cumulative Palbociclib Dose Intensity
+
+81.3%
+
+80.6%
+
+92.8%
+
+85.1%
+
+Median Number of Letrozole Doses (Range)
+
+502.0 (44-1826)
+
+
+
+
+
+191 (5-1826)
+
+Median Letrozole Duration (months) (Range)
+
+Palbociclib (n=73)
+
+Letrozole (n=70)
+17.0 (1.4-66.5)
+
+
+
+
+
+6.4 (0.3-66.5)
+
+Median Letrozole Dose Intensity
+
+98.0%
+
+
+
+
+
+99.4%
+
+Median Cumulative Letrozole Dose Intensity
+
+98.0%
+
+
+
+
+
+99.4%
+
+Median Number of Fulvestrant Doses (Range)
+
+
+
+20.5 (3-53)
+
+7.5 (1-38)
+
+10 (1-53)
+
+Median Fulvestrant Duration (months) (Range)
+
+
+
+20.0 (0.9-47.4)
+
+5.24 (0.0-35.3)
+
+7.85 (0.0-47.4)
+
+Median Fulvestrant Dose Intensity
+
+
+
+95.4%
+
+95.7%
+
+97.4%
+
+Median Cumulative Fulvestrant Dose Intensity
+
+
+
+95.4%
+
+95.7%
+
+97.3%
+
+Median Number of Metformin Doses, (Range)
+
+
+
+
+
+108 (25-1057)
+
+108 (25-1057)
+
+Median Metformin Duration (months) (Range)
+
+
+
+
+
+3.7 (0.8-35.9)
+
+3.7 (0.8-35.9)
+
+Median Metformin Dose Intensity
+
+
+
+
+
+96.1%
+
+96.1%
+
+Fulvestrant (n=100)
+
+Metformin (n=20)
+
+125
+Version date: June 2022 (ALL NDA/ BLA reviews)
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+Reference ID: 5460147
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 219249}
+{Inavolisib}
+infections were assessed by the investigator as not related to any study drug. Patients on the
+inavolisib arm were on treatment for a longer duration (compared to the placebo arm) with
+potential concomitant neutropenia, which may have led a higher rate of infections. However, it
+is not known if inavolisib may have exacerbated the risk of infection.
+FDA agrees with the Applicant’s assessment of SAEs for GO39374.
+Dropouts and/or Discontinuations Due to Adverse Effects
+Data:
+Table 32: Applicant - Study WO41554 Discontinuation from Individual Study Treatment
+Reasons by Trial Treatment, Full Analysis Set
+Inavo+Palbo+Fulv
+N=161
+n (%)
+
+Pbo+Palbo+Fulv
+N=164
+n (%)
+
+Inavo
+
+Palbo
+
+Fulv
+
+Pbo
+
+Palbo
+
+Fulv
+
+11 (6.8%)
+
+8 (5.0%)
+
+5 (3.1%)
+
+1 (0.6%)
+
+0
+
+0
+
+Death
+
+6 (3.7%)
+
+6 (3.7%)
+
+6 (3.7%)
+
+3 (1.8%)
+
+3 (1.8%)
+
+3 (1.8%)
+
+Non-compliance with study drug
+
+1 (0.6%)
+
+1 (0.6%)
+
+1 (0.6%)
+
+0
+
+0
+
+0
+
+Physician decision
+
+1 (0.6%)
+
+2 (1.2%)
+
+2 (1.2%)
+
+Progressive disease
+
+68 (42.2%) 69 (42.9%) 71 (44.1%)
+
+Symptomatic deterioration
+Withdrawal by subject
+
+1 (0.6%)
+
+1 (0.6%)
+
+6 (3.7%)
+
+6 (3.7%)
+
+0
+Lost to follow-up
+Source: t_ds_tx_FAS_29SEP2023_41554 ; Dataset: ADaM: ADSL
+
+1 (0.6%)
+
+Treatment Discontinuation due to AE
+Treatment Discontinuation due to “Other”:
+
+0
+
+0
+
+0
+
+102 (62.2%)
+
+102 (62.2%)
+
+102 (62.2%)
+
+1 (0.6%)
+
+6 (3.7%)
+
+6 (3.7%)
+
+6 (3.7%)
+
+6 (3.7%)
+
+3 (1.8%)
+
+4 (2.4%)
+
+4 (2.4%)
+
+1 (0.6%)
+
+0
+
+0
+
+0
+
+Table 33: Applicant - Study WO41554 Adverse Events Leading to Withdrawal of Any Study
+Drug, Safety Analysis Set
+Protocol: WO41554, CCOD: 29SEP2023, Data Snapshot: 23NOV2023
+_______________________________________________________________________________________________________
+MedDRA System Organ Class
+Inavo+Palbo+Fulv
+Pbo+Palbo+Fulv
+MedDRA Preferred Term
+(N=162)
+(N=162)
+_______________________________________________________________________________________________________
+Total number of patients with at least one adverse event
+11 (6.8%)
+1 (0.6%)
+Overall total number of events
+14
+1
+Alanine aminotransferase increased
+1 (0.6%)
+0
+Blood creatinine increased
+0
+1 (0.6%)
+Neutrophil count decreased
+1 (0.6%)
+0
+Weight decreased
+1 (0.6%)
+0
+Gastric ulcer
+1 (0.6%)
+0
+Intestinal perforation
+1 (0.6%)
+0
+Stomatitis
+1 (0.6%)
+0
+Hyperglycaemia
+2 (1.2%)
+0
+Type 2 diabetes mellitus
+1 (0.6%)
+0
+Anal abscess
+1 (0.6%)
+0
+Bone pain
+1 (0.6%)
+0
+Musculoskeletal pain
+1 (0.6%)
+0
+Transitional cell carcinoma
+1 (0.6%)
+0
+Acute kidney injury
+1 (0.6%)
+0
+_______________________________________________________________________________________________________
+Investigator text for AEs encoded using MedDRA version 26.1.
+
+134
+Version date: June 2022 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+Reference ID: 5460147
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 219249}
+{Inavolisib}
+Dose Interruption due to AE (≥5% of patients in either arm), PT:
+
+112 (69.1%)
+
+Hyperglycemia
+40 (24.7%)
+COVID-19
+26 (16.0%)
+Neutropenia
+20 (12.3%)
+Neutrophil count decreased
+17 (10.5%)
+Diarrhea
+11 (6.8%)
+Mucosal inflammation
+8 (4.9%)
+Anemia
+7 (4.3%)
+Upper respiratory tract infection
+7 (4.3%)
+Stomatitis
+6 (3.7%)
+White blood cell count decreased
+6 (3.7%)
+Pyrexia
+5 (3.1%)
+Dose Reduction due to AE (in ≥ 3 patients in either arm), PT:
+23 (14.2%)
+Hyperglycemia
+4 (2.5%)
+Stomatitis
+3 (1.9%)
+Source: t_ae_DSIIVL_SAS_29SEP2023_41554; t_ae_DSRIVL_SAS_29SEP2023_41554; Dataset: ADaM: ADAE
+
+56 (34.6%)
+1 (0.6%)
+8 (4.9%)
+16 (9.9%)
+8 (4.9%)
+1 (0.6%)
+0
+1 (0.6%)
+1 (0.6%)
+3 (1.9%)
+2 (1.2%)
+2 (1.2%)
+5 (3.1%)
+0
+1 (0.6%)
+
+136
+Version date: June 2022 (ALL NDA/ BLA reviews)
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+Reference ID: 5460147
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 219249}
+{Inavolisib}
+System Organ Class
+Adverse Reaction
+
+Inavolisib + Palbociclib + Fulvestrant
+N=162
+All Grades (%)
+Grade 3-4 (%)
+
+Placebo + Palbociclib + Fulvestrant
+N=162
+All Grades (%)
+Grade 3-4 (%)
+
+Infections and Infestations
+Urinary Tract Infection
+13
+1.2*
+7
+0
+Blood and Lymphatic System Disorders
+Thrombocytopeniaa
+48
+14
+45
+4.3
+Anemiab
+37
+6*
+36
+1.9*
+Metabolism and Nutrition Disorders
+Hyperglycemiac
+60
+6*
+10
+0
+Decreased appetite
+24
+0
+9
+0
+Hypokalemia
+16
+2.5
+6
+0
+Nervous System Disorders
+Headache
+21
+0
+14
+0
+Gastrointestinal Disorders
+Stomatitisd
+51
+6*
+27
+0
+Diarrhea
+48
+3.7*
+16
+0
+Nausea
+28
+0.6*
+17
+0
+Vomiting
+15
+0.6*
+4.9
+1.2*
+Skin and Subcutaneous Tissue Disorders
+Rashe
+25
+0
+17
+0
+Alopecia
+19
+0
+6
+0
+Dry skinf
+13
+0
+4.3
+0
+General Disorders and Administration Site Conditions
+Fatigue
+38
+1.9*
+25
+1.2*
+Investigations
+Alanine aminotransferase
+17
+3.7*
+13
+1.2*
+increased
+Weight decreased
+17
+3.7*
+0.6
+0
+Adverse reactions grading according to CTCAE version 5.0.
+* No Grade 4 adverse reactions were observed.
+a
+Includes platelet count decreased and thrombocytopenia.
+b
+Includes anemia and hemoglobin decreased.
+c
+Includes hyperglycemia, blood glucose increased, hyperglycemic crisis, glycated serum protein increased, glucose tolerance impaired, diabetes
+mellitus, Type 2 diabetes mellitus, and glycosylated hemoglobin increased.
+d
+Includes aphthous ulcer, glossitis, glossodynia, lip ulceration, mouth ulceration, mucosal inflammation, and stomatitis.
+e
+Includes dermatitis, dermatitis acneiform, dermatitis bullous, erythema, folliculitis, rash, rash erythematous, rash maculo-papular, rash
+popular, rash pruritic, and rash pustular.
+f
+Includes dry skin, skin fissures, xerosis, and xeroderma.
+Source: Inavolisib USPI; Dataset: ADaM: ADAE
+
+The Applicant’s Position:
+Pivotal Study WO41554: Inavolisib in combination with palbociclib and fulvestrant in patients
+with PIK3CA-mutated, HR+, HER2─ LA/mBC demonstrated manageable safety and tolerability
+profile as shown by the high median relative dose intensity of inavolisib, the comparable
+median relative dose intensities of palbociclib and fulvestrant in both arms, and low treatment
+discontinuation rate of the Inavo+Palbo+Fulv combination due to AEs. The safety profile of the
+Inavo+Palbo+Fulv combination regimen was consistent with the known safety profile of each
+individual study drug component and the underlying disease. No new safety findings were
+identified. The addition of inavolisib did not contribute to increased treatment burden in
+patients, as indicated by the majority of patients in both arms reporting levels of selected
+symptoms from the PRO-CTCAE and overall bother from treatment side effects at moderate
+levels or less. A summary of key AE-related safety results are presented in Table 36.
+140
+Version date: June 2022 (ALL NDA/ BLA reviews)
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+Reference ID: 5460147
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 219249}
+{Inavolisib}
+neutropenia in which Grade 3-4 neutropenia was reported in 80.2% of patients in the
+Inavo+Palbo+Fulv arm and 78.4% of patients in the Pbo+Palbo+Fulv arm. There were no Grade
+5 selected AEs in either arm.
+The majority of patients who experienced a selected AE of hyperglycemia (known on-target,
+reversible toxicity associated with PI3K pathway inhibition) in the Inavo+Palbo+Fulv arm had
+Grade 1 (16.0%) or Grade 2 (37.0%) events; Grade 3 events were reported in 5.6% of patients in
+the Inavo+Palbo+Fulv arm and no Grade 4-5 events were reported; all events were non-serious,
+and manageable with oral anti-hyperglycemic agents and dose reductions (2.5%) or
+interruptions (27.8%) in all patients including pre-diabetic patients enrolled in the
+Inavo+Palbo+Fulv arm. The majority of events of hyperglycemia in the Inavo+Palbo+Fulv arm
+were reversible with only 2 patients (1.2%) discontinuing from the study due to AEs of
+hyperglycemia and Type 2 diabetes mellitus. Among the inavolisib-treated patients who had a
+key selected event of hyperglycemia, the median time to first onset was 7 days (range: 2.0 to
+955.0 days). Frequency of new onset of key selected AE of hyperglycemia was highest during
+the first 2 months of treatment.
+The majority of patients who experienced a selected AE of diarrhea had Grade 1 (27.8%) or
+Grade 2 (16.7%) events in the Inavo+Palbo+Fulv arm, and more patients experienced all-grade
+diarrhea events in the Inavo+Palbo+Fulv arm (48.1%) compared with the Pbo+Palbo+Fulv arm
+(16.0%). Grade 3 events were reported in 3.7% of patients. Two patients (1.2%) in the
+Inavo+Palbo+Fulv arm experienced diarrhea SAEs, both of which were Grade 3 in severity and
+recovered/resolved at the CCOD. No patient experienced a Grade 4 or 5 diarrhea event in
+either arm and no event led to withdrawal of any study drug in either arm. In the
+Inavo+Palbo+Fulv arm, diarrhea events led to dose reduction of any study drug in 2 patients
+(1.2%) and dose interruption of any study drug in 12 patients (7.4%). Among the inavolisibtreated patients who had a key selected event of diarrhea, the median time to first onset was
+15 days (range: 2.0 to 602.0 days). Frequency of new onset of key selected AE of diarrhea was
+highest during the first month.
+All patients who experienced a selected AE of rash had Grade 1 (Inavo+Palbo+Fulv: 21.0%) or
+Grade 2 events (4.3%). There were no Grade 3 or 4 events, no rash events that led to
+withdrawal of any study drug and no patient experienced an SAE of a rash event during the
+study in either arm. In the Inavo+Palbo+Fulv arm, rash events led to dose reduction of any
+study drug in 1 patient (0.6%) and dose interruption of any study drug in 3 patients (1.9%).
+Among the inavolisib-treated patients who had key selected event of rash, the median time to
+first onset was 29 days (range: 1.0 to 952.0 days). There was no clear trend in terms of the
+frequency of new onset of key selected AE of rash.
+The majority of patients who experienced a selected AE of stomatitis and mucosal inflammation
+had Grade 1 (32.1%) or Grade 2 (13.6%) events in the Inavo+Palbo+Fulv arm. Grade 3
+stomatitis/mucosal inflammation events were only reported in patients in the Inavo+Palbo+Fulv
+146
+Version date: June 2022 (ALL NDA/ BLA reviews)
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+Reference ID: 5460147
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 219249}
+{Inavolisib}
+Table 41: Applicant - Study WO41554: Summary of Selected Adverse Events (Safety Analysis
+Set)
+Medical Concept
+Category
+
+Arm
+
+All
+Grades
+
+Grade
+3-4
+
+Fatal
+
+Serious (All
+Grades)
+
+Leading to
+Any
+Treatment
+Withdrawal
+
+Leading to
+Any
+Treatment
+Reduction
+
+Leading to
+Any
+Treatment
+Interruption
+
+Total number of
+patients with at
+least one AE
+
+Inavo+
+palbo+Fulv
+Pbo+
+Palbo+Ful
+Inavo+
+palbo+Fulv
+Pbo+
+Palbo+Ful
+Inavo+
+palbo+Fulv
+Pbo+
+Palbo+Ful
+Inavo+
+palbo+Fulv
+Pbo+
+Palbo+Ful
+Inavo+
+palbo+Fulv
+Pbo+
+Palbo+Ful
+Inavo+
+palbo+Fulv
+Pbo+
+Palbo+Ful
+Inavo+
+palbo+Fulv
+Pbo+
+Palbo+Ful
+Inavo+
+palbo+Fulv
+Pbo+
+Palbo+Ful
+Inavo+
+palbo+Fulv
+Pbo+
+Palbo+Ful
+
+157
+(96.9%)
+156
+(96.3%)
+95
+(58.6%)
+14
+(8.6%)
+78
+(48.1%)
+26
+(16.0%)
+41
+(25.3%)
+28
+(17.3%)
+83
+(51.2%)
+43
+(26.5%)
+45
+(27.8%)
+27
+(16.7%)
+24
+(14.8%)
+
+137
+(84.6%)
+130
+(80.2%)
+9
+(5.6%)
+0 (0%)
+
+0
+(0%)
+0
+(0%)
+0
+(0%)
+0
+(0%)
+0
+(0%)
+0
+(0%)
+0
+(0%)
+0
+(0%)
+0
+(0%)
+0
+(0%)
+0
+(0%)
+0
+(0%)
+0
+(0%)
+0
+(0%)
+0
+(0%)
+0
+(0%)
+0
+(0%)
+0
+(0%)
+
+8 (4.9%)
+
+5 (3.1%)
+
+63 (38.9%)
+
+118 (72.8%)
+
+4 (2.5%)
+
+0 (0%)
+
+50 (30.9%)
+
+92 (56.8%)
+
+Requiring
+Treatment
+for
+Selected
+AEs (All
+Grades)
+131
+(80.9%)
+85 (52.5%)
+
+0 (0%)
+
+2 (1.2%)
+
+4 (2.5%)
+
+45 (27.8%)
+
+66 (40.7%)
+
+0 (0%)
+
+0 (0%)
+
+0 (0%)
+
+1 (0.6%)
+
+1 (0.6%)
+
+2 (1.2%)
+
+0 (0%)
+
+2 (1.2%)
+
+12 (7.4%)
+
+46 (28.4%)
+
+0 (0%)
+
+0 (0%)
+
+0 (0%)
+
+1 (0.6%)
+
+6 (3.7%)
+
+0 (0%)
+
+0 (0%)
+
+1 (0.6%)
+
+3 (1.9%)
+
+24 (14.8%)
+
+0 (0%)
+
+0 (0%)
+
+2 (1.2%)
+
+2 (1.2%)
+
+19 (11.7%)
+
+0 (0%)
+
+1 (0.6%)
+
+6 (3.7%)
+
+19 (11.7%)
+
+69 (42.6%)
+
+0 (0%)
+
+0 (0%)
+
+1 (0.6%)
+
+3 (1.9%)
+
+27 (16.7%)
+
+1 (0.6%)
+
+0 (0%)
+
+1 (0.6%)
+
+4 (2.5%)
+
+0 (0%)
+
+0 (0%)
+
+0 (0%)
+
+1 (0.6%)
+
+1 (0.6%)
+
+0 (0%)
+
+2 (1.2%)
+
+3 (1.9%)
+
+2 (1.2%)
+
+0 (0%)
+
+0 (0%)
+
+1 (0.6%)
+
+0 (0%)
+
+0 (0%)
+
+0 (0%)
+
+0 (0%)
+
+0 (0%)
+
+0 (0%)
+
+0 (0%)
+
+0 (0%)
+
+0 (0%)
+
+0 (0%)
+
+16 (9.9%)
+
+0 (0%)
+
+0 (0%)
+
+0 (0%)
+
+0 (0%)
+
+8 (4.9%)
+
+Hyperglycemia
+
+Diarrhea
+
+Rash
+
+Stomatitis and
+mucosal
+inflammation
+Nausea
+
+Vomiting
+
+Colitis
+
+Ocular Toxicities
+
+8 (4.9%)
+
+6
+(3.7%)
+0 (0%)
+0 (0%)
+0 (0%)
+9
+(5.6%)
+0 (0%)
+1
+(0.6%)
+0 (0%)
+1
+(0.6%)
+2
+(1.2%)
+
+0 (0%)
+
+0 (0%)
+
+0 (0%)
+
+0 (0%)
+
+36
+(22.2%)
+21
+(13.0%)
+
+0 (0%)
+0 (0%)
+
+0 (0%)
+0 (0%)
+
+20 (12.3%)
+12 (7.4%)
+8 (4.9%)
+2 (1.2%)
+0 (0%)
+0 (0%)
+
+Table 42: Applicant - Study WO41554: Summary of Selected Adverse Events (Safety Analysis
+Set) (cont.)
+Medical Concept
+Category
+
+Pneumonitis
+
+Arm
+
+Inavo+
+palbo+Fulv
+Pbo+
+Palbo+Ful
+
+All
+Grades
+
+Grade
+3-4
+
+3 (1.9%)
+
+0 (0%)
+
+1 (0.6%)
+
+0 (0%)
+
+Fatal
+
+0
+(0%)
+0
+(0%)
+
+Serious
+(All
+Grades)
+
+Leading to
+Any
+Treatment
+Withdrawal
+
+Leading to
+Any
+Treatment
+Reduction
+
+0 (0%)
+
+0 (0%)
+
+0 (0%)
+
+0 (0%)
+
+0 (0%)
+
+0 (0%)
+
+Leading to
+Any
+Treatment
+Interruption
+1 (0.6%)
+1 (0.6%)
+
+Requiring
+Treatment
+for
+Selected
+AEs (All
+Grades)
+1 (0.6%)
+1 (0.6%)
+
+149
+Version date: June 2022 (ALL NDA/ BLA reviews)
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+Reference ID: 5460147
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 219249}
+{Inavolisib}
+Inavo+
+144
+130
+0
+92 (56.8%)
+0 (0%)
+1 (0.6%)
+50 (30.9%)
+28 (17.3%)
+palbo+Fulv
+(88.9%)
+(80.2%)
+(0%)
+Pbo+
+147
+127
+0
+85 (52.5%)
+1 (0.6%)
+0 (0%)
+47 (29.0%)
+37 (22.8%)
+Palbo+Ful
+(90.7%)
+(78.4%)
+(0%)
+Inavo+
+78
+23
+0
+12 (7.4%)
+1 (0.6%)
+0 (0%)
+8 (4.9%)
+18 (11.1%)
+palbo+Fulv
+(48.1%)
+(14.2%)
+(0%)
+Thrombocytopenia
+Pbo+
+73
+7
+0
+9 (5.6%)
+1 (0.6%)
+0 (0%)
+1 (0.6%)
+7 (4.3%)
+Palbo+Ful
+(45.1%)
+(4.3%)
+(0%)
+Inavo+
+31
+6
+0
+5 (3.1%)
+1 (0.6%)
+1 (0.6%)
+0 (0%)
+12 (7.4%)
+palbo+Fulv
+(19.1%)
+(3.7%)
+(0%)
+ALT/AST elevation
+Pbo+
+30
+3
+0
+1 (0.6%)
+0 (0%)
+0 (0%)
+0 (0%)
+8 (4.9%)
+Palbo+Ful
+(18.5%)
+(1.9%)
+(0%)
+Inavo+
+60
+10
+0
+10 (6.2%)
+16 (9.9%)
+3 (1.9%)
+0 (0%)
+1 (0.6%)
+palbo+Fulv
+(37.0%)
+(6.2%)
+(0%)
+Anemia
+Pbo+
+59(36.4%)
+3
+0
+3 (1.9%)
+13 (8.0%)
+0 (0%)
+0 (0%)
+2 (1.2%)
+Palbo+Ful
+(1.9%)
+(0%)
+Inavo+
+1
+0
+6 (3.7%)
+0 (0%)
+0 (0%)
+1 (0.6%)
+2 (1.2%)
+1 (0.6%)
+palbo+Fulv
+(0.6%)
+(0%)
+Lymphopenia
+Pbo+
+3
+0
+15 (9.3%)
+0 (0%)
+0 (0%)
+0 (0%)
+1 (0.6%)
+0 (0%)
+Palbo+Ful
+(1.9%)
+(0%)
+AE=adverse event; ALT=alanine aminotransferase; AST=aspartate aminotrasferase; Inavo=Inavolisib; Palbo=Palbociclib; Fulv=Fulvestrant
+Source: Primary CSR, Study WO41554, Report 1126696, Table 38; t_ae_sel_AESEL_SAS_29SEP2023_41554, t_ae_ctc_sel_AESEL_SAS_29SEP2023_41554,
+t_ae_ctc_sel_AESEL_SER_SAS_29SEP2023_41554, t_ae_sel_AESEL_DSC_SAS_29SEP2023_41554, t_ae_sel_AESEL_DSR_SAS_29SEP2023_41554,
+t_ae_sel_AESEL_DSI_SAS_29SEP2023_41554, t_ae_sel_AESEL_AECON_SAS_29SEP2023_41554; Dataset: ADaM: ADAE
+Neutropenia
+
+150
+Version date: June 2022 (ALL NDA/ BLA reviews)
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+Reference ID: 5460147
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 219249}
+{Inavolisib}
+Table 43: Applicant - Study GO39374: Overview of Safety for Selected Adverse Events (Arms
+B, E, F, and A-F, Safety Analysis Set)
+Inavo 9 mg + Palbo + Fulv
+Inavo + Palbo + Letro (Arm
+
+(Arm E)
+
+Inavo 9 mg + Palbo + Fulv +
+
+All Patients
+
+B)
+
+(N=20)
+
+Metf (Arm F)
+
+(Arms A-F)
+
+(N=20)
+
+(N=190)
+
+(N=33)
+Medical concepts*: patients
+with
+Hyperglycemia
+
+21 (63.6%)
+
+14 (70.0%)
+
+14 (70.0%)
+
+127 (66.8%)
+
+Diarrhea
+
+25 (75.8%)
+
+17 (85.0%)
+
+12 (60.0%)
+
+123 (64.7%)
+
+Nausea
+
+17 (51.5%)
+
+14 (70.0%)
+
+12 (60.0%)
+
+108 (56.8%)
+
+Stomatitis and mucosal
+
+22 (66.7%)
+
+18 (90.0%)
+
+11 (55.0%)
+
+92 (48.4%)
+
+Vomiting
+
+16 (48.5%)
+
+11 (55.0%)
+
+7 (35.0%)
+
+77 (40.5%)
+
+Neutropenia
+
+27 (81.8%)
+
+17 (85.0%)
+
+11 (55.0%)
+
+64 (33.7%)
+
+Ocular toxicities
+
+15 (45.5%)
+
+11 (55.0%)
+
+6 (30.0%)
+
+60 (31.6%)
+
+Rash
+
+14 (42.4%)
+
+6 (30.0%)
+
+5 (25.0%)
+
+47 (24.7%)
+
+ALT/AST elevation
+
+10 (30.3%)
+
+3 (15.0%)
+
+3 (15.0%)
+
+42 (22.1%)
+
+Thrombocytopenia
+
+17 (51.5%)
+
+10 (50.0%)
+
+4 (20.0%)
+
+38 (20.0%)
+
+Pneumonitis
+
+1 (3.0%)
+
+0
+
+1 (5.0%)
+
+2 (1.1%)
+
+0
+
+0
+
+0
+
+1 (0.5%)
+
+inflammation
+
+Colitis
+
+AE=adverse event; ALT=alanine aminotransferase; AST=aspartate aminotransferase; DLT=dose limiting toxicity; Inavo=Inavolisib;
+Palbo=Palbociclib; Letro=Letrozole; Fulv=Fulvestrant; Metf=Metformin.
+Investigator text for AEs encoded using MedDRA version 26.0.
+Only treatment emergent AEs are displayed. Percentages are based on N in the column headings. Numbers presented reflect AEs of all
+grades.
+Multiple occurrences of the same AE in one individual are counted only once except for “Total number of AEs” row in which multiple
+occurrences of the same AE are counted separately.
+*The methodology of data analyses has evolved between Studies GO39374 and WO41554 for selected AE categories of “Lymphopenia” and
+“Anemia”. For Study GO39374, the analyses of these two categories are presented by individual MedDRA Preferred Terms contained
+within each category, and therefore not presented in the current table as grouped term analyses.
+Source: Adapted from Interim CSR, Study GO39374, Report 1125233, Table 18; t_ae_grp_oview_CSR_SE_27MAR2023_39374;
+t_ae_pt_CSR_SE_27MAR2023_39374; Dataset: ADaM: ADAE
+
+151
+Version date: June 2022 (ALL NDA/ BLA reviews)
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+Reference ID: 5460147
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 219249}
+{Inavolisib}
+The overall safety profile of inavolisib in combination with palbociclib and fulvestrant in Study
+WO41554 was comparable with the overall safety population (Arms A-F) and Arms B, E and F of
+Study GO39374, strengthening the characterization of the inavolisib safety profile across
+inavolisib-containing treatment regimens including triplet regimens with palbociclib and
+fulvestrant or with palbociclib and letrozole and supporting the tolerability and AE management
+of inavolisib. Data from both studies were consistent with the anticipated safety profile of
+inavolisib and the respective safety profiles of palbociclib, fulvestrant, and letrozole. No new or
+unexpected safety findings were identified in either of the studies.
+In both Studies WO41554 and GO39374, the proportion of patients who experienced AEs
+leading to withdrawal of any study drug was overall low indicating manageability of AEs and
+good tolerability of inavolisib in combination with palbociclib and an ET.
+Hyperglycemia is a reversible on-target toxicity with early onset associated with drugs that
+target the PI3K-AKT-mTOR pathway. In Study WO41554, the majority of patients who
+experienced a selected AE of hyperglycemia in the Inavo+Palbo+Fulv arm had Grade 1 or Grade
+2 events; all events were non-serious, and manageable with oral anti-hyperglycemic agents and
+dose reductions (2.5%) or interruptions (27.8%) in all patients including pre-diabetic patients
+enrolled in the Inavo+Palbo+Fulv arm. Grade 3 hyperglycemia events were reported in a low
+proportion of patients in the Inavo+Palbo+Fulv arm and no Grade 4 or Grade 5 hyperglycemia
+events were reported in either arm. Median time to first onset of hyperglycemia was 7 days.
+The majority of events of hyperglycemia in the Inavo+Palbo+Fulv arm were reversible with only
+2 patients (1.2%) discontinuing from the study due to AEs of hyperglycemia and Type 2 diabetes
+mellitus. The overall incidences of hyperglycemia AEs in the Inavo+Palbo+Fulv arm of
+Study WO41554 (58.6%) was lower than that seen in the overall safety population (66.8%) or in
+Arm E or Arm F individually (70.0% each) of Study GO39374 and could be due to differences in
+NCI-CTCAE grading criteria, more restrictive hyperglycemia inclusion criteria and an improved
+manageability of hyperglycemia in Study WO41554. No cases of diabetic ketoacidosis or
+hyperosmotic hyperglycemic nonketotic states were reported across both studies thereby
+indicating that hyperglycemia was well-managed per the protocol-defined guidance irrespective
+of underlying risk factors.
+The majority of diarrhea AEs across both studies were Grade 1-2 with no Grade 5 events and a
+total of 3 SAEs (2 in Study WO41554 and 1 in Study GO39374). Dose reduction, interruption and
+withdrawal of any study drug due to diarrhea were not frequent and supported the
+manageability of diarrhea AEs.
+Across both studies, most rash events were Grade 1-2 with one Grade 3 event, no Grade 4 or 5
+events and a total of 2 SAEs (both in Study GO39374). No patient discontinued any study drug
+due to rash across both studies. A low proportion of patients required dose interruptions or
+dose reductions due to rash AEs.
+156
+Version date: June 2022 (ALL NDA/ BLA reviews)
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+Reference ID: 5460147
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 219249}
+{Inavolisib}
+
+X
+
+X
+
+Primary Statistical Reviewer
+Haley Gittleman, PhD
+
+X
+
+Statistical Team Leader
+Joyce Cheng, PhD
+
+X
+
+Primary Clinical Reviewer
+Suparna Wedam, MD
+
+Clinical Team Leader
+Preeti Narayan, MD
+
+161
+Version date: June 2022 (ALL NDA/ BLA reviews)
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+Reference ID: 5460147
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 219249}
+{Inavolisib}
+Design and conduct the trial in accordance with the FDA Guidance for Industry titled
+“Pharmacokinetics in Patients with Impaired Renal Function: Study Design, Data Analysis, and
+Impact on Dosing and Labeling.”
+Final Protocol Submission:
+08/2023 (completed)
+Trial Completion:
+12/2024
+Final Report Submission:
+06/2025
+Submit the datasets with the final report submission.
+FDA Rationale: The final report and datasets from the ongoing renal impairment study are
+needed to evaluate the pharmacokinetics and safety of inavolisib in participants with severe
+renal impairment and to support dosage recommendations in this population based on the
+known serious risk of increased inavolisib exposure in patients with renal impairment. Inavolisib
+is cleared in part via renal excretion. The Applicant provided data to support dosage
+recommendations for patients with mild and moderate renal impairment but did not provide
+sufficient data to support dosage recommendations for patients with severe renal impairment.
+Patients with moderate renal impairment had ~60% higher inavolisib exposure compared to
+patients with normal renal function. Given the increased exposure and multiple positive
+exposure-response relationships for safety, a reduced starting dosage is needed in patients with
+moderate renal impairment to mitigate the risk of increased serious toxicities including increase
+blood glucose, stomatitis/mucosal inflammation, diarrhea, and Grade >3 adverse events.
+Increased exposure of inavolisib and the need for a reduced starting dosage are expected in
+patients with severe renal impairment given the known renal excretion and findings in patients
+with moderate renal impairment. A dedicated renal impairment study including subjects with
+severe renal impairment is currently ongoing, but results are not expected until 2025 per
+discussion with the Applicant.
+3. PMR 4718-3: Conduct a hepatic impairment clinical trial to evaluate the serious potential risk of
+increased drug exposure and determine a safe and appropriate dose of inavolisib in patients
+with moderate and severe hepatic impairment. Design and conduct the trial in accordance with
+the FDA Guidance for Industry entitled “Pharmacokinetics in Patients with Impaired Hepatic
+Function: Study Design, Data Analysis, and Impact on Dosing and Labeling.”
+Draft Protocol Submission:
+03/2025
+Final Protocol Submission:
+07/2025
+Trial Completion:
+07/2028
+Final Report Submission:
+01/2029
+Submit the datasets with the final report submission.
+FDA Rationale: A clinical hepatic impairment study is needed to evaluate the pharmacokinetics
+and safety of inavolisib in participants with moderate and severe hepatic impairment and to
+support dosage recommendations in this population. This study is intended to assess the serious
+potential risk of increased inavolisib exposure as described below. Per the Mass Balance and
+Absolute Bioavailability Study GP42652, the absolute oral bioavailability of inavolisib is 76%.
+
+172
+Version date: June 2022 (ALL NDA/ BLA reviews)
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+Reference ID: 5460147
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 219249}
+{Inavolisib}
+Circulating metabolites were minimal with the majority (99.5% of drug-related material in
+plasma) being parent inavolisib in the human mass balance study. A mean of 48% of the dose
+(40% as the parent drug and 8% as metabolites) was recovered in urine, and 48% (10% as the
+parent drug and 38% as metabolites) was recovered in feces. The amount of drug recovered as
+metabolites in feces and urine accounts for approximately 46% of the administered dose.
+Therefore, a >20% contribution of hepatic elimination cannot be ruled out and patients with
+hepatic impairment may have increased exposure to inavolisib. The Applicant provided data to
+support dosage recommendations for patients with mild hepatic impairment but did not provide
+sufficient data to support dosage recommendations for patients with moderate or severe renal
+impairment. If patients with moderate or severe hepatic impairment have increased inavolisib
+exposure, a reduced starting dosage may be needed to mitigate the serious risk of increased
+severe toxicity including hyperglycemia, stomatitis/mucosal inflammation, diarrhea, and other
+severe adverse reactions.
+PMCs
+1. PMC 4718-4: Conduct a clinical pharmacokinetic trial to evaluate the effect of repeat doses of
+inavolisib on the single dose pharmacokinetics of a sensitive CYP3A substrate to inform
+appropriate management strategies for clinically relevant drug interactions. Design and conduct
+the trial in accordance with the FDA Guidance for Industry entitled “Clinical Drug Interaction
+Studies — Cytochrome P450 Enzyme- and Transporter-Mediated Drug Interactions.”
+Draft Protocol Submission:
+04/2025
+Final Protocol Submission:
+08/2025
+Trial Completion:
+02/2027
+Final Report Submission:
+08/2027
+FDA Rationale: In an in vitro study (16-0131), inavolisib increased CYP3A mRNA up to 40-fold.
+Based on FDA assessment, available data cannot rule out potential induction effect of inavolisib
+on sensitive CYP3A substrates. Induction of CYP3A by inavolisib may result in reduced exposure of
+sensitive CYP3A substrates which could reduce effectiveness of concomitantly administered
+CYP3A substrates.
+The Applicant did not evaluate the induction potential of inavolisib on CYP2C isoforms. If the
+induction potential of inavolisib on CYP3A is confirmed, an additional study to evaluate the
+induction potential of inavolisib on CYP2Cs in an in vitro setting and/or in a clinical trial may be
+needed.
+In addition, if inavolisib is at least a weak inducer of CYP3A in vivo, there is the potential for
+drug-drug interaction between inavolisib and combined oral contraceptives (COC), which are
+known substrates of CYP3A, which could reduce the effectiveness of the COC and increase the
+risk of unintended pregnancy. If the induction potential of inavolisib on CYP3A is confirmed, an
+additional study to evaluate the DDI potential between inavolisib and COC in a clinical trial may
+be needed.
+
+173
+Version date: June 2022 (ALL NDA/ BLA reviews)
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+Reference ID: 5460147
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 219249}
+{Inavolisib}
+2. PMC 4718-5: Conduct a clinical pharmacokinetic trial to evaluate the effect of repeat doses of
+inavolisib on the single dose pharmacokinetics of a CYP2B6 substrate to inform appropriate
+management strategies for clinically relevant drug interactions. Design and conduct the trial in
+accordance with the FDA Guidance for Industry entitled “Clinical Drug Interaction Studies —
+Cytochrome P450 Enzyme- and Transporter-Mediated Drug Interactions.”
+Draft Protocol Submission:
+04/2025
+Final Protocol Submission:
+08/2025
+Trial Completion:
+02/2027
+Final Report Submission:
+08/2027
+FDA Rationale: In an in vitro study (16-0131), inavolisib increased CYP2B6 mRNA up to 4-fold.
+Based on FDA assessment, available data cannot rule out potential induction effect of inavolisib
+on sensitive CYP2B6 substrates.
+3. PMC 4718-6: Complete the ongoing clinical trial, INAVO120 (Study WO41554), titled “A Phase III,
+Randomized, Double-Blind, Placebo-Controlled Study Evaluating the Efficacy and Safety of
+Inavolisib plus Palbociclib and Fulvestrant versus Placebo plus Palbociclib and Fulvestrant in
+Patients with PIK3CA-Mutant, Hormone Receptor-Positive, HER2- Negative Locally Advanced or
+Metastatic Breast Cancer”, to provide the final overall survival (OS) analysis.”
+Trial Completion:
+07/2025
+Final Report Submission:
+01/2026
+Submit the datasets with the final report submission.
+FDA Rationale: Inavolisib in combination with fulvestrant and palbociclib will be granted regular
+approval based on results primarily from the INAVO120 clinical trial (Study WO41554). It is
+important to review the final OS results for this study to confirm there is continued clinical
+benefit with use of inavolisib for the treatment of patients with PIK3CA-mutant, hormone
+receptor-positive, HER2- negative locally advanced or metastatic breast cancer.
+4. PMC 4718-7: Conduct an integrated analysis containing data from clinical trials and postmarketing reports, observational studies (e.g., real-world evidence), and other sources to
+further characterize the pharmacokinetics (PK), pharmacodynamics (PD), safety and efficacy of
+inavolisib in racial and ethnic minority patients and older patients age >65 years with PIK3CAmutant, hormone receptor (HR)-positive, HER2-negative locally advanced or metastatic breast
+cancer. The analyses should support comparative safety and efficacy outcome analyses and
+characterization of potential differences in PK and PD between racial and ethnic minority
+patients and White patients, and older and younger patients.
+Draft Protocol Submission (Analysis Plan):
+06/2025
+Final Protocol Submission (Analysis Plan):
+12/2025
+Study Completion:
+12/2029
+Final Report Submission:
+06/2030
+FDA Rationale: INAVO120 was conducted globally and only 4.9% of the efficacy population in
+
+174
+Version date: June 2022 (ALL NDA/ BLA reviews)
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+Reference ID: 5460147
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 219249}
+{Inavolisib}
+this application was enrolled in the U.S. In addition, racial and ethnic minorities reflective of the
+U.S. population of patients with breast cancer, particularly Black/African American and
+Hispanic/Latino patients, were significantly underrepresented in the efficacy and safety
+population that supported this application, with only 2 Black/African American patients and 20
+Latino/Hispanic patient enrolled. Therefore, it is important to evaluate data further
+characterizing the efficacy and safety of inavolisib for the treatment of breast cancer in study
+populations whose demographics are more representative of the population of U.S. patients for
+the proposed indication.
+
+5. PMC 4718-8: Conduct an appropriate analytical and clinical validation study using the INAVO120
+clinical trial or other data adequate to support the development of an in vitro diagnostic device
+for tumor tissue that is essential to the safe and effective use of inavolisib for treatment of
+patients with PIK3CA-mutant, hormone receptor (HR)-positive, HER2-negative locally advanced
+or metastatic breast cancer.
+Final Report Submission:
+12/2024
+FDA Rationale: The clinical validity of F1LCDx was demonstrated by assessing clinical efficacy in
+the F1LCDx PIK3CA mutation-positive population from the INAVO120 clinical trial based on PFS
+as the primary efficacy endpoint. However, F1LCDx is a plasma-based test and it is known that
+identifying the PIK3CA mutation status with a plasma based test may potentially result in a high
+rate of false-negative results given the low shedding of ctDNA into circulation. A false-negative
+result could result in delayed treatment or deprive a patient from a potentially beneficial
+treatment with inavolisib. A companion diagnostic device that can detect PIK3CA mutation in
+tumor tissue from the intent-to-treat population is needed for the safe and effective use of
+inavolisib for treatment of patients with PIK3CA-mutant, hormone receptor-positive, HER2negative locally advanced or metastatic breast cancer.
+
+FDA PMC/PMR Checklist for Trial Diversity and U.S. Population Representativeness
+The following were evaluated and considered as part of FDA’s review:
+
+Is a PMC/PMR needed?
+
+X
+
+X Yes
+__ No
+
+X
+
+X
+
+The patients enrolled in the clinical trial are representative of
+the racial, ethnic, and age diversity of the U.S. population for
+the proposed indication.
+Does the FDA review indicate uncertainties in the safety
+and/or efficacy findings by demographic factors (e.g. race,
+ethnicity, sex, age, etc.) to warrant further investigation as
+part of a PMR/PMC?
+Other considerations (e.g.: PK/PD), if applicable:
+
+X Yes
+__ No
+X Yes
+__ No
+
+175
+Version date: June 2022 (ALL NDA/ BLA reviews)
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+Reference ID: 5460147
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 219249}
+{Inavolisib}
+APPEARS THIS WAY ON ORIGINAL
+
+176
+Version date: June 2022 (ALL NDA/ BLA reviews)
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+Reference ID: 5460147
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 219249}
+{Inavolisib}
+
+14 Division Director (DHOT) (NME ONLY)
+
+X
+Tiffany Ricks, PhD
+
+177
+Version date: June 2022 (ALL NDA/ BLA reviews)
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+Reference ID: 5460147
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 219249}
+{Inavolisib}
+
+15 Division Director (OCP)
+
+X
+Nam Atiqur Rahman, PhD
+
+178
+Version date: June 2022 (ALL NDA/ BLA reviews)
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+Reference ID: 5460147
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 219249}
+{Inavolisib}
+
+16 Division Director (OB)
+
+X
+Shenghui Tang, PhD
+
+179
+Version date: June 2022 (ALL NDA/ BLA reviews)
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+Reference ID: 5460147
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 219249}
+{Inavolisib}
+
+17 Division Director (Clinical)
+
+X
+Laleh Amiri-Kordestani, MD
+
+180
+Version date: June 2022 (ALL NDA/ BLA reviews)
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+Reference ID: 5460147
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 219249}
+{Inavolisib}
+
+18 Office Director (or designated signatory authority)
+This application was reviewed by the Oncology Center of Excellence (OCE) per the OCE
+Intercenter Agreement. My signature below represents an approval recommendation for the
+clinical portion of this application under the OCE.
+
+X
+Paul Kluetz, MD
+
+181
+Version date: June 2022 (ALL NDA/ BLA reviews)
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+Reference ID: 5460147
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 219249}
+{Inavolisib}
+
+19 Appendices
+References
+The Applicant’s References:
+American Cancer Society, Breast Cancer Facts and Figures 2022-2024. Available from
+https://www.cancer.org/content/dam/cancer-org/research/cancer-facts-andstatistics/breast-cancer-facts-and-figures/2022-2024-breast-cancer-fact-figures-acs.pdf.
+André F, Ciruelos E, Rubovszky G, et al. Alpelisib for PIK3CA-mutated, hormone receptor–
+positive advanced breast cancer. N Engl J Med. 2019;380(20):1929-40.
+Baselga J, Im SA, Iwata H, et al. Buparlisib plus fulvestrant versus placebo plus fulvestrant in
+postmenopausal, hormone receptor-positive, HER2-negative, advanced breast cancer
+(BELLE-2): a randomised, double-blind, placebo-controlled, phase 3 trial. Lancet Oncol.
+2017;18(7):904-916.
+Blesinger H, Kaulfuß S, Aung T, et al. (2018). PIK3CA mutations are specifically localized to
+lymphatic endothelial cells of lymphatic malformations. PLOS ONE. 2018 13(7): e0200343.
+Chen, J. W., Murugesan, K., Newberg, J. Y., Sokol, E. S., Savage, H. M., Stout, T. J., & Hutchinson,
+K. E. (2022). Comparison of PIK3CA Mutation Prevalence in Breast Cancer Across
+Predicted Ancestry Populations. JCO Precis Oncol. 2022 Nov;6:1-10.
+Cortés J, O'Shaughnessy J, Loesch D, et al. Eribulin monotherapy versus treatment of physician's
+choice in patients with metastatic breast cancer (EMBRACE): a phase 3 open-label
+randomised study. Lancet. 2011 ;377(9769):914-23.
+[DHHS] U.S. Department of Health and Human Services, Food and Drug Administration.
+Guidance for industry: S9 Nonclinical Evaluation For Anticancer Pharmaceuticals [resource
+on the Internet]. 2010 [cited 17 June 2017]. Available from:
+https://www.fda.gov/media/73161/download.
+Fillbrunn M, Signorovitch J, André F et al. PIK3CA mutation status, progression and survival in
+advanced HR + /HER2- breast cancer: a meta-analysis of published clinical trials. BMC
+Cancer. 2022;22(1):1002-13.
+European Society for Medical Oncology (ESMO) Metastatic Breast Cancer Living Guidelines v1.1
+May 2023. Available from: https://www.esmo.org/living-guidelines/esmo-metastaticbreast-cancer-living-guideline.
+Giuliano M, Schettini F, Rognoni C, et al. Endocrine treatment versus chemotherapy in
+postmenopausal women with hormone receptor-positive, HER2-negative, metastatic
+breast cancer: a systematic review and network meta-analysis. Lancet Oncol.
+2019;20(10):1360-1369.
+182
+Version date: June 2022 (ALL NDA/ BLA reviews)
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+Reference ID: 5460147
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 219249}
+{Inavolisib}
+Hanan EJ, Braun MG, Heald RA, et al. Discovery of GDC-0077 (Inavolisib), a highly selective
+inhibitor and degrader of mutant PI3Ka. J Med Chem 2022;65(24):16589−621.
+Harbeck, N., Saupe, S., Jäger, E. et al. A randomized phase III study evaluating pegylated
+liposomal doxorubicin versus capecitabine as first-line therapy for metastatic breast
+cancer: results of the PELICAN study. Breast Cancer Res Treat. 2017;161:63–72.
+IBRANCE (palbociclib) U.S. Package Insert. Pfizer. Available from:
+https://www.accessdata.fda.gov/drugsatfda_docs/label/2019/207103s008lbl.pdf
+ICH S9. Nonclinical Evaluation for Anticancer Pharmaceuticals. International Council for
+Harmonisation. October 2009.
+Jäger E, Al-Batran S, Saupe S, et al. A randomized phase III study evaluating pegylated liposomal
+doxorubicin (PLD) versus capecitabine (CAP) as first-line therapy for metastatic breast
+cancer (MBC): Results of the PELICAN study. J Clin Oncol. 2010;28(15 suppl):1022.
+Kaufmann M, Maass N, Costa SD, et al. Firstline therapy with moderate dose capecitabine in
+metastatic breast cancer is safe and active: Results of the MONICA trial. Eur J Cancer.
+2010;46:3184 –3191.
+Li H, Prever L, Hirsch et al. Targeting PI3K/AKT/mTOR Signaling Pathway in Breast Cancer.
+Cancers (Basel). 2021 Jul 14;13(14):3517.
+Mosele F, Stefanovska B, Lusque A, et al. Outcome and molecular landscape of patients with
+PIK3CA-mutated metastatic breast cancer. Ann Oncol. 2020;31(3):377-386.
+National Cancer Institute. Surveillance, Epidemiology and End Result Program (SEER) Explorer
+Application. Available from https://seer.cancer.gov/explorer/application.php. Accessed
+on 21 August 2023.
+National Comprehensive Cancer Network (NCCN) Clinical Practice Guidelines in Oncology (NCCN
+Guidelines®). Breast Cancer Version 1.2024 — January 25, 2024.
+O’Shaughnessy J, Kaufmann M, Siedentopf F, et al. Capecitabine monotherapy: review of
+studies in first-line HER-2-negative metastatic breast cancer. The Oncol. 2012;17:476-484.
+Pitt JJ, Riester M, Zheng Y, et al. Characterization of Nigerian breast cancer reveals prevalent
+homologous recombination deficiency and aggressive molecular features. Nature
+Communications 9, 4181 (2018).
+Rugo H, Barry W, Moreno-Aspitia A. Randomized phase III trial of paclitaxel once per week
+compared with nanoparticle albumin-bound nab-paclitaxel once per week or ixabepilone
+with bevacizumab as first-line chemotherapy for locally recurrent or metastatic breast
+cancer: CALGB 40502/NCCTG N063H (Alliance). J Clin Oncol. 2015;33:2361-2369.
+Rugo HS, Lerebours F, Juric D, et al. Alpelisib + letrozole in patients with PIK3CA‐mutated,
+hormone‐receptor positive (HR+), human epidermal growth factor receptor‐2‐negative
+(HER2–) advanced breast cancer (ABC) previously treated with a cyclin‐dependent kinase
+183
+Version date: June 2022 (ALL NDA/ BLA reviews)
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+Reference ID: 5460147
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 219249}
+{Inavolisib}
+Hortobagyi GN, Stemmer SM, Burris HA, et al. Overall Survival with Ribociclib plus Letrozole in
+Advanced Breast Cancer. N Engl J Med. 2022 Mar 10;386(10):942–95
+Lambertini M, Blondeaux E, Bisagni G, et al. Prognostic and clinical impact of the endocrine
+resistance/sensitivity classification according to international consensus guidelines for
+advanced breast cancer: an individual patient-level analysis from the Mammella InterGruppo
+(MIG) and Gruppo Italiano Mammella (GIM) studies. eClinicalMedicine: 2023; 59.
+Miller, TW. Endocrine Resistance: What Do We Know? ASCO Educational Book, Vol 33 (1), e37e42.
+www.cancer.org/cancer/types/breast-cancer/about/how-common-is-breast-cancer.html
+
+185
+Version date: June 2022 (ALL NDA/ BLA reviews)
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+Reference ID: 5460147
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 219249}
+{Inavolisib}
+palbociclib and fulvestrant in patients with PIK3CA-mutated, HR-positive, HER2- negative locally
+advanced or metastatic breast cancer, as indicated in the applicant’s goodness-of-fit plots and
+visual predictive check (VPC) plots. The results of the population PK analyses were used to
+support the proposed labeling statements regarding PK parameters of inavolisib and the effects
+of intrinsic and extrinsic factors.
+However, there is insufficient information to assess the effect of moderate to severe hepatic
+impairment on inavolisib PK as no patients with moderate or severe hepatic impairment were
+included in the population PK analyses. Similarly, the information to assess the effect of severe
+renal impairment (n=0) on inavolisib PK is absent. The covariate analyses suggested a significant
+increase (43%) in AUC is observed in 27 patients with moderate renal impairment. Refer to
+Section 6.1.2.2 for results of the moderate renal impairment group in the ongoing renal
+impairment study. Given the positive ER for safety, intolerable toxicity of 12 mg PO QD as
+monotherapy, and high rates of AEs observed in clinical studies at the proposed dosage,
+dedicated studies to accurately assess the impact of severe renal impairment and moderate to
+severe hepatic impairment on inavolisib PK are warranted.
+19.4.3.
+
+Exposure-Response Analysis
+19.4.3.1.
+
+Executive Summary
+
+The FDA’s Assessment: The Applicant submitted one exposure-response (E-R) analysis report
+entitled “Exposure-Response Analyses of Inavolisib in Patients with PIK3CA-Mutant
+Solid Tumors and in Patients with PIK3CA-Mutant, HR positive, HER2-Negative Locally Advanced
+or Metastatic Breast Cancer”.
+The E-R analyses were conducted separately for the Phase 1 study GO39374 and the Phase 3
+study WO41554. The E-R analyses were conducted to characterize the relationships between
+exposures of inavolisib and key efficacy and safety endpoints to support the proposed dosage
+used in the pivotal studies and in the label.
+According to the E-R efficacy analysis for study GO39374, no exposure-response relationship
+was observed for ORR and BOR based on logistic regression models, and for PFS and DOR based
+on Cox models; lower and higher exposures of inavolisib achieved in Study GO39374 (dose
+range 3 to 12 mg with a large majority of patients receiving 9 mg) were associated with similar
+probabilities of response. In addition, multiple regimens (inavolisib monotherapy, doublet
+combinations, and triplet combinations) were included in this analysis.
+According to the E-R efficacy analysis for study WO41554, no exposure-response relationship
+was observed for ORR, BOR, and CBR based on logistic regression models, and for PFS, DOR,
+and TFST based on Cox models; lower and higher exposures of inavolisib achieved at the clinical
+204
+Version date: June 2022 (ALL NDA/ BLA reviews)
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+Reference ID: 5460147
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 219249}
+{Inavolisib}
+A published palbociclib PBPK model (PMID: 27402157) was used to verify the inavolisib
+interaction parameters. At the reviewer’s request (FDA Information Request dated 15 July
+2024), the Applicant evaluated the performance of this model using Simcyp version 22, and the
+results are shown in itraconazole and Table 51 Predicted and observed palbociclib exposure in
+the presence and absence of itraconazole and rifampin. In general, the model could capture the
+effects of itraconazole and rifampin on palbociclib exposure, but it tended to underpredict the
+Cmax and AUCinf of palbociclib, especially in the itraconazole study. Thus, the reviewer modified
+the Applicant’s model by increasing the fraction absorbed (fa) from 0.85 to 0.975 and reducing
+the additional human liver microsome clearance from 37.65 to 20 mL/min/mg protein. As a
+result, the fraction metabolized by CYP3A4 was changed from 53% to 62%. The performance of
+this modified model was evaluated and results are summarized in Figure 17, Figure 18 and
+Table 51.
+
+218
+Version date: June 2022 (ALL NDA/ BLA reviews)
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+Reference ID: 5460147
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 219249}
+{Inavolisib}
+The simulation results of inavolisib at dose of 9 mg QD are overlaid with observed data shown in open circles. The median
+simulation profile is shown in the solid black line with 90% prediction intervals shown in dashed grey lines.
+Source: Figure 5 in the PBPK report 129287
+
+Table 52: Simulated and observed pharmacokinetic parameters of inavolisib after single- or
+multiple-dose administration in cancer patients in the FTIH study (D3610C00001)
+Single dose
+
+Steady state
+
+Pharmacokinetic parameters
+AUC0-inf /Dose (ng*hr/mL/mg)
+Cmax /Dose (ng/mL/mg)
+Tmax (hr)
+AUC0-24h /Dose (ng*hr/mL/mg)
+Cmax /Dose (ng/mL/mg)
+Tmax (hr)
+
+Observed
+
+Predicted
+
+Pred/Obs
+
+80.7
+3.1
+4.3
+89.9
+6.1
+1.8
+
+76.8
+3.6
+3.1
+80.2
+5.1
+2.9
+
+0.95
+1.17
+0.73
+0.89
+0.84
+1.58
+
+†Geometric mean values are calculated by the reviewer based on the data submitted in clinical-information-amendment.pdf
+(seq0027). Individual inavolisib exposure was normalized to the dose shown in Figure 4 before geometric means were
+calculated
+Source: clinical-information-amendment.pdf (seq0027)
+
+2. Can PBPK analyses be used to estimate the effects of inavolisib on the CYP3A
+substrate midazolam?
+The potential induction effect of inavolisib on the sensitive CYP3A substrate midazolam
+following oral administration of inavolisib 9-mg QD cannot be ruled out for the reasons
+discussed below.
+In vitro, inavolisib is a time-dependent inhibitor and inducer of CYP3A. Following oral
+administration of single and multiple doses of inavolisib, inavolisib AUC increased
+approximately proportional to the dose. The clinical DDI study of inavolisib with midazolam in
+patients with cancer has not been conducted. The available clinical PK data are insufficient to
+differentiate the CYP3A inhibition or induction of inavolisib, thus the CYP3A inhibition and
+induction parameters of inavolisib cannot be independently verified. In addition, the ability of
+PBPK modeling to accurately predict complex DDI has not been demonstrated. A study
+conducted by the Innovation and Quality (IQ) Induction Working Group showed that, for
+compounds that were both in vitro time-dependent inhibitors and inducers of CYP3A,
+prediction of the DDI trended toward an overprediction of the inactivation or a net effect of no
+interaction (PMID: 23995268). The inhibition or induction effects of this type of compound
+should be evaluated separately.
+Inhibitory Effect of inavolisib on CYP3A
+The time-dependent inhibition studies were conducted in human liver microsomes (HLM) using
+testosterone and midazolam as probe CYP3A substrates and in primary human hepatocytes
+using midazolam as a substrate (Study 16-0806). The Applicant used the kinact and KI values
+estimated from the HLM data in the inavolisib model for predicting its inhibitory effect on
+midazolam. In the HLM study, the kinact and KI values could only be estimated from the data
+generated using midazolam, while values could not be determined using testosterone because
+224
+Version date: June 2022 (ALL NDA/ BLA reviews)
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+Reference ID: 5460147
+
+Signature Page 1 of 1
+
+-------------------------------------------------------------------------------------------This is a representation of an electronic record that was signed
+electronically. Following this are manifestations of any and all
+electronic signatures for this electronic record.
+-------------------------------------------------------------------------------------------/s/
+-----------------------------------------------------------PREETI NARAYAN
+10/09/2024 02:05:08 PM
+LALEH AMIRI KORDESTANI
+10/09/2024 02:06:23 PM
+PAUL G KLUETZ
+10/09/2024 03:41:04 PM
+
+Reference ID: 5460147
+
+

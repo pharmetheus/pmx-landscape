@@ -1,0 +1,65 @@
+NDA 216974
+XACDURO (sulbactam-durlobactam) (SUL-DUR)
+
+For the disk diffusion method:
+
+The optimal disk mass of sulbactam-durlobactam for disk diffusion testing was
+determined to be 10 1g sulbactam and 10 1g durlobactam which corresponded acceptably
+with in vitro broth microdilution susceptibility method of sulbactam-durlobactam (at a
+fixed concentration of 4 j1g/mL). Based on the error-rate bounding analysis, the 10/10 pg
+demonstrated acceptable error rates, with no very major or major errors with minor
+categorical errors of 32.5% (below the recommended minor error rate of 40%). In
+addition, using the 10/10 1g resulted, on average, in susceptible zone diameters >18 mm
+which is consistent with CLSI M23 (CLSI 2018) recommendations of an optimal
+susceptible zone diameter breakpoint starting at 15 to 25 mm to correlate with susceptible
+MIC values (PC2514-2017-0003; PC2514-2017-0004).
+
+No information was provided on disk stability studies or the various parameters that
+affect in vitro susceptibility testing by the disk diffusion method.
+
+A multi-center, tier 2 QC study of the 10/10 jg disk was conducted in accordance with
+CLSI M23 guidelines, performed at eight independent laboratories using 3 different agar
+
+media lots from  (Lot# 191341), © (Lot# 7173648;
+(Lot# 17212). The sulbactam-durlobactam 10/10 1g disk were
+obtained from ©® (ot# 392472) and ©® (Lot#3011).
+
+Each laboratory tested 3 different media lots of 10 replicates (2 x 3 x 10 = 60 zone
+diameter determinations) at 8 independent testing sites (480 total zone diameter values
+per reference strain). The average colony counts for Z. coli ATCC 25922 was 9.6 x 108
+CFU/mL and 7.3 x 108 CFU/mL for A. baumannii NCTC 13304 strain. (Study Report#
+PC2514-2018-0008). The results showed that:
+
+— Routine QC testing for sulbactam-durlobactam by the disk diffusion method is
+recommended using the QC strain Acinetobacter baumannii NCTC 13304.
+Escherichia coli ATCC 25922 can be used as an alternative QC strain.
+
+— These criteria have been published by CLSI in M100-Ed32 (CLSI 2022) tables
+(Table 164).
+
+Table 164. Disk Diffusion QC Ranges for Sulbactam-Durlobactam
+
+Sulbactam-Durlobactam
+Zone Diameters Percent in
+
+QC Strain (mm) Range
+A. baumannii NCTC 13304 24 — 30 (7mm range) 100%
+E. coli ATCC 25922 26 — 32 (7 mm range) 99.8%
+
+Source: Study Report# PC2514-2018-0008
+Abbreviations: QC, quality control
+
+No information provided on the agar dilution method.
+
+Animal Models of Infection
+
+Durlobactam restored activity of sulbactam in animal models of infection including neutropenic
+mouse thigh and pneumonia infections. Many of the isolates tested that produced clinically
+relevant B-lactamases had sulbactam-durlobactam MIC values ranging from 0.5 to 16 mg/L, and
+2 to 64 mg/L for sulbactam.
+
+218
+
+Integrated Review Template, version 3.0 (05/25/2022)
+
+Reference ID: 5178054

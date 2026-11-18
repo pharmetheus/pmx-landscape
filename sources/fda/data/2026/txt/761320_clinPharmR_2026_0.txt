@@ -1,0 +1,552 @@
+CENTER FOR DRUG EVALUATION AND
+RESEARCH
+APPLICATION NUMBER:
+
+761320Orig1s000
+CLINICAL PHARMACOLOGY
+REVIEW(S)
+
+Office of Clinical Pharmacology Review
+NDA or BLA Number
+Link to EDR
+Submission Date
+PDUFA Goal Date
+Submission Type
+Brand Name
+Generic Name
+Dosage Form and Strength
+
+Route of Administration
+Proposed Indication
+Applicant
+Associated IND
+OCP Review Team
+OCP Division
+
+BLA 761320
+\\CDSESUB1\evsprod\BLA761320\0006
+8/29/2022
+8/29/2023
+Standard Review, 351(a) pathway
+Lytenava
+Bevacizumab‐vikg
+Injection solution in a single‐dose container
+delivering 1.25 mg dose (0.05 mL of 25
+mg/mL)
+Intravitreal injection
+Neovascular (Wet) Age‐Related Macular
+Degeneration (AMD)
+Outlook Therapeutics, Inc.
+IND 138373
+Sojeong Yi, PhD
+Ping Ji, PhD
+DIIP
+
+Table of Contents
+1. EXECUTIVE SUMMARY .............................................................................................................................. 3
+1.1 Recommendations .............................................................................................................................. 3
+1.2 Post‐Marketing Requirements and Commitments ............................................................................. 4
+2. SUMMARY OF CLINICAL PHARMACOLOGY ASSESSMENT ......................................................................... 4
+2.1 Pharmacology and Clinical Pharmacokinetics..................................................................................... 4
+2.2 Dosing and Therapeutic Individualization........................................................................................... 4
+2.2.1 General dosing ............................................................................................................................. 4
+2.2.2 Therapeutic individualization....................................................................................................... 4
+2.3 Outstanding Issues .............................................................................................................................. 4
+2.4 Summary of Labeling Recommendations ........................................................................................... 5
+3. COMPREHENSIVE CLINICAL PHARMACOLOGY REVIEW ............................................................................ 6
+3.1 Overview of the Product and Regulatory Background ....................................................................... 6
+3.2 General Pharmacology and Pharmacokinetic Characteristics ............................................................ 6
+1
+
+Reference ID: 5163809
+
+3.3 Clinical Pharmacology Questions ........................................................................................................ 7
+3.3.1 Does the clinical pharmacology information provide supportive evidence of effectiveness? .... 7
+3.3.2 Is the proposed general dosing regimen appropriate for the general patient population for
+which the indication is being sought? .................................................................................................. 7
+3.3.3 Is an alternative dosing regimen and/or management strategy required for subpopulations
+based on intrinsic/extrinsic factors? ..................................................................................................... 8
+3.3.4 What is the immunogenicity of the proposed drug product? ..................................................... 8
+4. APPENDICES ............................................................................................................................................ 10
+4.1 Clinical Pharmacokinetics and Immunogenicity ............................................................................... 10
+4.2 Bioanalytical Method Report ............................................................................................................ 14
+
+2
+
+Reference ID: 5163809
+
+1. EXECUTIVE SUMMARY
+Outlook Therapeutics, Inc. is developing ONS‐5010 (bevacizumab‐vikg; the proposed brand name,
+LYTENAVA), a recombinant humanized immunoglobulin gamma 1 (IgG1) monoclonal antibody (mAb)
+that selectively binds to all isoforms of human VEGF, for the treatment of patients with neovascular
+(wet) age‐related macular degeneration (nAMD). The proposed dosage is 1.25 mg per eye to be
+administered intravitreal (IVT) injection once a month.
+The pivotal evidence of effectiveness of ONS‐5010 is based on a single, randomized, double‐blind,
+active‐controlled trial (Study ONS‐5010‐002, or NORSE TWO), in which patients with nAMD received
+ONS‐5010 1.25 mg or ranibizumab (Lucentis®) 0.5 mg IVT injection monthly for 1 year. The Applicant
+also submitted supportive data including a proof‐of‐concept trial (Study ONS‐5010‐001, or NORSE ONE)
+and a systematic review of the use of Avastin (bevacizumab) (Report ONS‐5010‐GMK) as general medical
+knowledge where the Applicant concluded Avastin has been used off‐label for AMD with IVT injection
+for a long time.
+In Studies ONS‐5010‐001 and ONS‐5010‐002, in a subset of subjects with nAMD (N=14),
+pharmacokinetics of ONS‐5010 following 1.25 mg IVT injection was evaluated indicating minimal
+systemic exposure following IVT injection. In the subset of subjects, ADA samples were collected and
+none of them showed positive ADA status.
+
+1.1 Recommendations
+The Office of Clinical Pharmacology has reviewed clinical pharmacology data submitted for BLA 761320
+and recommends approval of BLA 761320 from a clinical pharmacology perspective.
+Table 1. Clinical Pharmacology Review Summary of BAL 761320
+Review Issues
+Recommendations and Comments
+Evidence of effectiveness
+
+The pivotal evidence of effectiveness of ONS‐5010 is based on a single,
+randomized, double‐blind, active‐controlled trial (Study ONS‐5010‐002,
+or NORSE TWO), in which patients with nAMD received ONS‐5010 1.25
+mg or ranibizumab (Lucentis®) 0.5 mg IVT injection monthly for 1 year
+with the primary efficacy endpoint of proportion of patients who
+gained at least 15 letters (3 lines) in best corrected visual acuity (BCVA).
+Refer to the clinical/statistical review for the benefit/risk assessment of
+ONS‐5010 in patients with nAMD.
+
+General dosing instructions
+
+1.25 mg intravitreal injection per eye once a month. This dosing
+regimen was evaluated in the clinical trials in patients with nAMD
+(Studies ONS‐5010‐001 and ONS‐5010‐002).
+
+Dosing in patient
+subgroups (intrinsic and
+extrinsic factors)
+
+No dose adjustments based on any intrinsic or extrinsic factors are
+recommended.
+
+3
+
+Reference ID: 5163809
+
+Labeling
+
+Refer to Section 2.4.
+
+Bridge between the “to‐be‐
+marketed” and clinical trial
+formulations
+
+A bridging pharmacokinetic study between the to‐be‐marketed and
+clinical trial formulation is not warranted since the to‐be‐marketed
+formulation was used in the pivotal studies.
+
+1.2 Post‐Marketing Requirements and Commitments
+None
+
+2. SUMMARY OF CLINICAL PHARMACOLOGY ASSESSMENT
+2.1 Pharmacology and Clinical Pharmacokinetics
+Mechanism of Action
+ONS‐5010 is a VEGF inhibitor that binds VEGF and prevents the interaction of VEGF to its receptors (Flt‐1
+and KDR) on the surface of endothelial cells. A human VEGF inhibitor that binds to all isoforms of VEGF‐A
+suppresses endothelial cell proliferation, neovascularization, and vascular permeability.
+Pharmacokinetics
+Following intravitreal administration of ONS‐5010, the systemic exposure to ONS‐5010 is minimal. In 14
+subjects who received a single 1.25 mg dose of ONS‐5010, the serum ONS‐5010 concentration was
+assessed up to Day 4. The serum ONS‐5010 concentrations gradually increased over time, so the highest
+concentrations observed were approximately at Day 4 (the last collection time) ranging from 33 to 270
+ng/mL, which was <1% of the Cmax after intravenous infusion of 2 mg/kg bevacizumab‐vikg. However,
+due to the limited sample collection, Cmax or AUC could not be adequately characterized.
+Immunogenicity
+The immunogenicity of ONS‐5010 was low. None of the subjects who received ONS‐5010 and were
+subsequently evaluated for immunogenicity had detectable antidrug antibodies (ADA) at any timepoint.
+
+2.2 Dosing and Therapeutic Individualization
+2.2.1 General dosing
+The proposed dosing regimen for ONS‐5010 is 1.25 mg (0.05 mL of 25 mg/mL solution) IVT injection per
+eye once a month. Dosing regimen used in the clinical trials in patients with nAMD (Studies ONS‐5010‐
+001 and ONS‐5010‐002) is identical with the proposed dosing regimen.
+2.2.2 Therapeutic individualization
+The Applicant did not propose any therapeutic individualization. The available clinical pharmacology
+information (i.e., limited systemic exposure following IVT injection) does not warrant a need for
+therapeutic individualization.
+
+2.3 Outstanding Issues
+There are no outstanding issues from a clinical pharmacology perspective.
+4
+
+Reference ID: 5163809
+
+2.4 Summary of Labeling Recommendations
+Based on the review of the submitted clinical pharmacology data, the labeling recommendations are
+shown in Table 2.
+Table 2. Labeling Recommendations in Clinical Pharmacology Related Sections
+Section
+6.2
+Immunogenicity
+
+The Applicant Proposal
+
+The FDA recommendation
+(b) (4)
+
+A total of 14 subjects who received
+LYTENAVA and were subsequently
+evaluated for immunogenicity did not show
+detectable antidrug antibodies (ADA) at
+any timepoint, but the ADA assay
+sensitivity data in the presence of free drug
+was insufficient. However, due to the
+minimal systemic exposure to LYTENAVA
+following IVT injection, the risk of
+immunogenicity is not expected to be
+clinically significant.
+
+(b) (4)
+
+12.2
+Pharmacodynamics
+
+(b) (4)
+
+12.3
+Pharmacokinetics
+
+5
+
+Reference ID: 5163809
+
+Following intravitreal administration of
+LYTENAVA, the systemic exposure to
+bevacizumab is minimal. In 14 subjects who
+received a single 1.25 mg dose of
+LYTENAVA, the serum bevacizumab
+concentration was assessed up to Day 4.
+The serum bevacizumab concentrations
+gradually increased over time, so the
+highest concentrations observed were
+approximately at Day 4 (the last collection
+time) ranging from 33 to 270 ng/mL, which
+was <1% of the Cmax after intravenous
+infusion of 2 mg/kg bevacizumab‐vikg.
+However, due to the limited sample
+collection, Cmax or AUC could not be
+adequately characterized.
+
+(b) (4)
+
+3. COMPREHENSIVE CLINICAL PHARMACOLOGY REVIEW
+3.1 Overview of the Product and Regulatory Background
+Avastin® (bevacizumab for IV injection), a recombinant humanized IgG1 mAb specific for human VEGF, is
+currently approved for the first‐ or second‐line treatment of various cancer including metastatic
+colorectal cancer and non‐squamous non‐small cell lung cancer, but it has not been approved for use in
+ophthalmic indications. Per the Applicant’s literature review (Report ONS‐5010‐GMK), Avastin has been
+used off‐label when injected intravitreally for neovascularizing ophthalmic diseases including nAMD.
+The proposed product, ONS‐5010, is an ophthalmic preparation of bevacizumab‐vikg developed for the
+treatment of nAMD to meet the need of intravitreal bevacizumab. ONS‐5010 is a preservative free,
+sterile, ocular solution in a single‐use glass vial to deliver 0.05 mL of 25 mg/mL (1.25 mg). The proposed
+dosage is 1.25 mg per eye every month.
+Although the active moiety of ONS‐5010 is bevacizumab‐vikg, this BLA was submitted under Section
+351(a) of the PHS Act, i.e., a “stand‐alone” application because the route of administration and the
+indication are different from those of Avastin. Therefore, this BLA cannot rely on published literature
+describing studies of Avastin to fulfill a requirement for licensure.
+
+3.2 General Pharmacology and Pharmacokinetic Characteristics
+Table 3. Summary of Clinical Pharmacology and Pharmacokinetics of ONS‐5010
+Information
+
+Summary
+
+Bioanalysis
+
+Quantitation of serum bevacizumab concentrations was performed using a
+validated electrochemiluminescent (ECL) method, for which the lower limit of
+quantification (LLOQ) was 2 ng/mL.
+IVT
+IV
+ In a total 14 subjects with nAMD
+ PK comparison between ONS‐5010,
+following a single 1.25 mg IVT
+US and EU licensed Avastin following
+injection (Studies ONS‐5010‐001 and
+a single IV infusion of 2 mg/kg in
+ONS‐5010‐002)
+healthy subjects (Study ONS‐1045‐
+001)
+ Serum concentration of ONS‐5010
+was increasing until the last sample
+ The AUCinf and Cmax of bevacizumab‐
+collection timepoints on Day 4.
+vikg were 12315 mcg∙h/mL and
+
+Pharmacokinetics
+Intrinsic factors
+
+6
+
+Reference ID: 5163809
+
+
+
+
+Immunogenicity
+
+
+
+
+
+Full PK profiles could not be
+characterized due to the sparse PK
+sampling scheme.
+The median of the highest
+concentrations was 109 ng/mL
+(range: 33 to 270 ng/mL), which was
+approximately 0.3% of the mean
+Cmax (40250 ng/mL) after a single 2
+mg/kg IV administration observed in
+Study ONS‐1045‐001.
+A total 128 samples from 14
+subjects with nAMD were analyzed
+for ADA (Studies ONS‐5010‐001 and
+ONS‐5010‐002) and none of them
+were positive for ADA.
+Clinically significant effect of ADA is
+not expected given the minimal
+systemic exposure and negative ADA
+status following IVT injection.
+
+
+
+
+
+40.25 mcg/mL, which were similar
+to those of Avastin.
+Tmax was 2 hours, and the terminal
+half‐life was 306.5 hours
+
+In Study ONS‐1045‐001, 1 subject in
+the Avastin EU group had confirmed
+positive ADA, with a titer of 1:10.
+The antibodies were first detected
+on study Day 99 and were not
+neutralizing. No ADA were detected
+in any other subjects.
+
+3.3 Clinical Pharmacology Questions
+3.3.1 Does the clinical pharmacology information provide supportive evidence of effectiveness?
+The clinical pharmacology information provides neither pivotal nor supportive evidence of effectiveness.
+ONS‐5010 is administered via IVT route and the side of action is eye. Systemic exposure of bevacizumab
+is minimal following IVT injection. Clinical efficacy in terms of the best corrected visual acuity (BCVA)
+evaluated in Study ONS‐5010‐002 (NORSE TWO) provides pivotal evidence of effectiveness.
+
+3.3.2 Is the proposed general dosing regimen appropriate for the general patient population
+for which the indication is being sought?
+The proposed dosing regimen of ONS‐5010 is 1.25 mg (0.05 mL of 25 mg/mL solution) IVT injection per
+eye once a month. The regimen used in the clinical trials in patients with nAMD (Studies ONS‐5010‐001
+and ONS‐5010‐002) is consistent with the proposed regimen, which is deemed appropriate.
+There were no other dosing regimens evaluated in the clinical trials and no dose‐finding studies were
+separately conducted. The Applicant determined the dose to be used in the clinical trials based on the
+
+7
+
+Reference ID: 5163809
+
+published clinical studies as off‐label use. In one of published clinical studies, Avastin (bevacizumab) 1.25
+mg was administered IVT monthly to patients with AMD showing improved vision1.
+Of note, in terms of a total dose administered, the proposed dose, 1.25 mg IVT injection once a month,
+is substantially lower than the approved bevacizumab IV regimen for oncology indications, 5 to 10
+mg/kg every 2 weeks or 15 mg/kg every 3 weeks.
+
+3.3.3 Is an alternative dosing regimen and/or management strategy required for
+subpopulations based on intrinsic/extrinsic factors?
+The Applicant did not propose any therapeutic individualization based on intrinsic/extrinsic factors.
+Given the IVT route of administration and limited systemic exposure following IVT administration, any
+alternative dosing regimens are not warranted.
+
+3.3.4 What is the immunogenicity of the proposed drug product?
+The immunogenicity of ONS‐5010 was low. None of the subjects who received ONS‐5010 and were
+subsequently evaluated for immunogenicity had detectable antidrug antibodies (ADA) at any timepoint.
+Clinically significant effect of ADA is not expected given the minimal systemic exposure and negative
+ADA status following IVT injection.
+In a total 14 subjects with nAMD (11 subjects from Study ONS‐5010‐001 and 3 subjects from Study ONS‐
+5010‐002) whose PK was evaluated, ADA samples were collected prior to drug administration on Day 0,
+again on Days 1, 2, 3, 4, prior to study drug administration on Day 30, again on Days 31, 32, 33, 34, and
+prior to study drug administration on Day 240.
+A total 128 samples were analyzed, of which none of them were confirmed positive for ADA.
+• Study ONS‐5010‐001 – 95 samples from 11 subjects were analyzed yielding 2 screened positive
+samples. Neither of these samples confirmed positive in the assay, therefore all individuals were
+reported as negative for presence of ADA
+• Study ONS‐5010‐002 – 33 samples from 3 subjects were analyzed yielding no screened positive
+samples, therefore all individuals tested were reported as negative for the presence of ADA
+Given all negative ADA status, further analysis for ADA effect on PK, efficacy, or safety was not
+performed.
+
+1
+
+Group et al. 2011. Ranibizumab and bevacizumab for neovascular age‐related macular degeneration. N Engl J
+Med, 364, 1897‐908.
+
+8
+
+Reference ID: 5163809
+
+Per Dr. Eric Hales in the Office of Biotechnology Products (OBP), sensitivity of the ADA assay at >100 to <
+2000 ng/mL of ADA in the presence of free drug (i.e., drug tolerance) is unclear. The Applicant assessed
+the assay sensitivity in the presence of 25 and 800 ng/mL of free drug, resulting in respective
+sensitivities to detect 100 ng/mL and 2000 ng/mL of ADA whereas there is no drug tolerance data
+provided at intermediate ADA concentrations, e.g., 100‐500 ng/mL of ADA. Despite the insufficient ADA
+assay sensitivity, clinically significant effect of ADA is not expected given the minimal systemic exposure
+and negative ADA status following IVT injection. Refer to Office of Pharmaceutical Quality’s (OPQ)
+review for further details of the ADA assay.
+
+9
+
+Reference ID: 5163809
+
+4. APPENDICES
+4.1 Clinical Pharmacokinetics and Immunogenicity
+IVT administration in Subjects with nAMD (Studies ONS‐5010‐001 and ONS‐5010‐002)
+Both Studies ONS‐5010‐001 and ONS‐5010‐002 were multicenter, randomized, double‐masked,
+controlled studies designed primarily to evaluate the efficacy and safety of intravitreally administered
+ONS‐5010. Subjects randomized to receive ONS‐5010 were administered a monthly intravitreal injection
+of 1.25 mg of ONS‐5010 in the study eye for up to 12 months until study completion.
+As a PK subset population, a total 14 subjects (N=11 from Study ONS‐5010‐001, N=3 from Study ONS‐
+5010‐002) who received ONS‐5010 in the study eye only underwent serum sampling for PK analyses and
+immunogenicity testing.
+Samples for PK analysis were collected prior to study drug administration on Day 0, and again on Days 1,
+2, 3, and 4. Samples for ADA analysis were collected prior to study drug administration on Day 0, again
+on Days 1, 2, 3, 4, prior to study drug administration on Day 30, again on Days 31, 32, 33, 34, and prior
+to study drug administration on Day 240.
+The mean (SD) serum concentrations of ONS‐5010 versus time profiles are presented in Figure 1.
+Overall, following intravitreal administration of a single 1.25 mg dose of ONS‐5010, mean serum
+concentrations of ONS‐5010 gradually increased with time until the last sample collection on Day 4. The
+individual serum concentration‐time profiles are presented in Figure 2.
+Figure 1. Mean Serum Concentration of ONS‐5010 Over Time
+
+Source: PK Report ONS‐5010‐001/ONS‐5010‐002, Figure 1
+
+10
+
+Reference ID: 5163809
+
+Figure 2. Spaghetti Plot of Individual Serum Concentration‐Time Profiles of ONS‐5010 Following 1.25
+mg Intravitreal Injection in Subjects with nAMD (N=14)
+
+Note: Values below LLOQ (< 2 ng/mL) at pre‐dose (Day 0) samples were treated as zero.
+Source: Reviewer’s plot based on the dataset named ‘ONS‐5010‐001 Data Tabulation Dataset pc’ and ‘ONS‐5010‐
+002 Data Tabulation Dataset pc’
+
+While Cmax, Tmax, and AUC0‐t were calculated as presented in Table 4, given the limited sampling points up
+to Day 4, the full PK profile could not be adequately characterized, and the calculated PK parameters
+were not adequate to represent the PK properties of ONS‐5010 following IVT administration. The
+median of the highest concentrations observed (i.e., calculated as Cmax) was 109 ng/mL (range: 33‐270
+ng/mL), corresponding to approximately 0.3% of the mean Cmax observed following 2 mg/kg ONS‐5010
+IV administration in Study ONS‐1045‐001 (i.e., 40250 ng/mL). It indicates minimal systemic exposure to
+ONS‐5010 following 1.25 mg IVT injection monthly compared to those of IV administration at doses 5‐10
+mg/kg biweekly that is used for oncology indications.
+Table 4. Summary of Serum PK Parameters for ONS‐5010
+
+Source: PK Report ONS‐5010‐001/ONS‐5010‐002, Table 14.2.2
+
+For immunogenicity assessment, a total 128 samples (95 samples from 11 subjects in Study ONS‐5010‐
+001, 33 samples from 3 subjects in Study ONS‐5010‐002) were analyzed for ADA using an
+11
+
+Reference ID: 5163809
+
+electrochemiluminescent (ECL) immunoassay. None of samples were confirmed positive so all were
+reported as negative. Therefore, further analysis for ADA effects on PK, efficacy, or safety was not
+performed.
+However, Per Dr. Eric Hales in the Office of Biotechnology Products (OBP), the sensitivity of the ADA
+assay at the range of >100 to <2000 ng/mL of ADA in the presence of free drug (i.e., drug tolerance) is
+unclear. The Applicant assessed the assay sensitivity in the presence of 25 and 800 ng/mL of free drug,
+resulting in respective sensitivities to detect 100 ng/mL and 2000 ng/mL of ADA whereas there is no
+drug tolerance data provided at intermediate ADA concentrations, e.g., 100‐500 ng/mL of ADA. Of note,
+in the clinical trials, serum drug concentrations were observed up to 270 ng/mL following IVT injection.
+Despite the insufficient ADA assay sensitivity data, clinically significant effect of ADA is not expected
+given the minimal systemic exposure and negative ADA status following IVT injection. Refer to Office of
+Pharmaceutical Quality’s (OPQ) review for further details of the ADA assay.
+
+IV administration in Healthy Subjects (Study ONS‐1045‐001)
+Study ONS‐1045‐001 was a randomized, single‐dose, double‐blind, parallel study to define the PK of
+ONS‐1045 (i.e., IV dosage form of ONS‐5010 delivered at a concentration of 100 mg/4 mL) in comparison
+with the US and EU reference forms of Avastin and to demonstrate PK bioequivalence of bevacizumab‐
+vikg to the US and EU forms of Avastin (bevacizumab). In this study, subjects were randomized to 1 of 3
+study drug groups. After a single 2.0 mg/kg IV infusion of study drug, safety, immunogenicity, and PK
+data were collected and reviewed for a total of 98 days after study drug administration.
+
+
+
+
+PK blood samples: pre‐dose (0 hour) and 20 min (mid‐infusion), 40 min (end of infusion), 50 min,
+1, 2, 3, 4, 5, 8, 16, 24, 48, 96, 144, 192, 240, and 336 hours post‐dose, followed by 9 weekly
+blood samplings (Days 22, 29, 36, 43, 50, 57, 64, 71, and 99) for a total duration of 14 weeks.
+Immunogenicity blood samples: pre‐dose (0 hour) and Days 15, 36, 57, 71 and 99.
+
+Overall, 135 participants were enrolled in the study. Of those subjects, 45 subjects each received a single
+dose of 2.0 mg/kg of ONS‐1045 (Treatment A), Avastin US (Treatment B), or Avastin EU (Treatment C).
+The serum concentration profiles for Avastin US, Avastin EU, and ONS‐1045 were similar in shape and
+were overlapping (Figure 3). Additionally, the PK parameter estimates were comparable across
+treatments (Table 5). The bioequivalence of ONS‐1045 to both the US and EU licensed Avastin products
+was demonstrated for Cmax and AUCinf meeting the bioequivalence criteria, 90% Cis of 80%‐125% for the
+ratio of the geometric means (Table 6).
+
+12
+
+Reference ID: 5163809
+
+Figure 3. Serum Concentration‐Time Profiles
+
+Source: Study ONS‐1045‐001 CSR, Figure 5.3.1‐1
+
+Table 5. Summary of Key PK Parameters Following 2 mg/kg Intravenous Administration of ONS‐5010
+in Healthy Subjects
+
+Source: Study ONS‐1045‐001 CSR
+
+13
+
+Reference ID: 5163809
+
+Table 6. Bioequivalence Analysis for Study ONS‐1045‐001
+
+Note: Treatment A: ONS‐1045; Treatment B: Avastin US; Treatment C: Avastin EU
+Source: Study ONS‐1045‐001 CSR, Table 5.3.2‐3
+
+In the immunogenicity analysis, 1 subject in the Avastin EU group had confirmed positive ADA, with a
+titer of 1:10. The antibodies were first detected on study Day 99 and were not neutralizing. No ADA
+were detected in any other subjects.
+
+4.2 Bioanalytical Method Report
+The quantitation of ONS‐5010 in human serum was performed using a validated
+electrochemiluminescent (ECL) method, for which the lower limit of quantification (LLOQ) was 2 ng/mL.
+The bioanalytical method validation was acceptable (Table 7).
+Serum samples were stored for a maximum of 345 days between sample collection and analysis
+(including incurred samples), within the 359 days demonstrated long‐term storage stability in human
+serum at ‐80 °C. Incurred sample reanalysis (ISR) was performed for approximately 20% of the samples,
+in which all samples showed a relative percent difference of ± 30%).
+
+14
+
+Reference ID: 5163809
+
+Table 7. Bioanalytical Method Validation Summary
+
+Source: ONS‐5010‐RKF04‐Method Validation Report
+
+15
+
+Reference ID: 5163809
+
+Signature Page 1 of 1
+
+-------------------------------------------------------------------------------------------This is a representation of an electronic record that was signed
+electronically. Following this are manifestations of any and all
+electronic signatures for this electronic record.
+-------------------------------------------------------------------------------------------/s/
+-----------------------------------------------------------SOJEONG YI
+04/25/2023 03:27:47 PM
+PING JI
+04/25/2023 03:30:35 PM
+
+Reference ID: 5163809
+
+

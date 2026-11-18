@@ -1,0 +1,43 @@
+SAGE-217 (zuranolone)
+
+Page 27 of 30
+
+Table 6B: Tumor Rates and P-Values for Dose Response Relationship and The pairwise comparisons
+Female Mice Using Poly-3 test
+
+(0 mg Vehicla Omg Water] 10mg 30mg 100 mg 75mg
+Cont (N=25) Cont (N=25)| Low(N=25)| Med(N=25) | High (N=25) | Posi (N=15)
+Organ Name Tumor Name P-Trend |P-VC vs. W|P - VC vs. L} P- VC vs. L] P- VC vs.M| P- VC vs.H
+Harderian Adenocarcinoma, 1/25(25) | 1/25(25) | 0/25(24) | 0/25(24) | 1/25(24) 1/15 (12)
+Glands Malignant 0.4356 NC 1.0000 1.0000 0.7449 0.5495
+Adenoma, Benign 2/25(25) | 0/25(25) | 0/25(24) | 4/25 (24) 0/25 (23) 2/15 (12)
+0.8278 NC 1.0000 0.3136 1.0000 0.3906
+Lung Adenoma, Bronchiolar 2/25(25) | 1/25(25) | 0/25(24) | 0/25(24) | 2/25(23) 1/15 (12)
+Alveolar, Benign 0.2417 NC 1.0000 1.0000 0.6631 0.7040
+Carcinoma, Bronchiolar 0/25 (25) 0/25 (25) 1/25 (24) | 0/25 (24) 0/25 (23) 0/15 (11)
+Alveolar, Malignant 0.7396 NC 0.4898 NC NC NC
+Multicentric | Hemangioma, Benign 0/25 (25) | 1/25(25) | 1/25(25) | 0/25(24) | 0/25(23) | 0/15(11)
+Neoplasm 0.7423 NC 0.5000 NC NC NC
+Hemangiosarcoma, 1/25(25) | 2/25(25) | 2/25(24) | 1/25(24) 3/25 (25) 0/15(11)
+Malignant 0.1767 NC 0.4844 0.7449 0.3046 1.0000
+Lymphoma, Malignant 0/25(25) | 1/25(25) | 0/25(24) | 0/25(24) | 0/25(23) 7/15 (15)
+NC NC NC NC NC 0.0003*
+Skin Carcinoma, Squamous 0/25(25) | 0/25(25) | 0/25(24) | 0/25(24) | 0/25(23) 1/15 (11)
+Cell, Malignant NC NC NC NC NC 0.3056
+Papilloma, Benign 0/25(25) | 0/25(25) | 0/25(24) | 0/25 (24) 0/25 (23) 2/15 (12)
+NC NC NC NC NC 0.0991
+Skin, Subcutis | Adenocarcinoma, 0/25(25) | 0/25(25) | 0/25(24) | 0/25(24) 0/25 (23) 1/15 (12)
+Malignant NC NC NC NC NC 0.3243
+Carcinoma, Squamous 0/25 (25) 0/25 (25) 1/25 (25) | 0/25 (24) 0/25 (23) 0/15(11)
+Cell, Malignant 0.7423 NC 0.5000 NC NC NC
+Papilloma, Benign 0/25(25) | 0/25(25) | 0/25(24) | 0/25(24) | 0/25(23) 1/15 (12)
+NC NC NC NC NC 0.3243
+Sarcoma, Undifferentiated.}| 0/25(25) | 0/25(25) | 0/25(24) | 0/25(24) 1/25 (23) 0/15(11)
+Malignant 0.2396 NC NC NC 0.4792 NC
+Stomach Carcinoma, Squamous 0/25(25) | 0/25(25) | 0/25(24) | 0/25(24) | 0/25 (23) 1/15 (12)
+Cell, Malignant NC NC NC NC NC 0.3243
+Papilloma, Benign 0/25 (25) | 1/25(25) | 0/25(24) | 0/25(24) | 0/25(23) | 12/15(13)
+NC NC NC NC NC <0.0001*
+
+Reference ID: 5174472
+

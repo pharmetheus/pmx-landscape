@@ -1,0 +1,51 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {BLA 761234}
+Opdualag™ (nivolumab and relatlimab-rmbw)
+
+the FDA considers these as exploratory analyses only. The point estimate of event rates at a
+fixed time point for a time-to-event endpoint can be misleading because it does not represent
+the entire effect size of treatment and the chosen landmark time is arbitrary.
+
+On December 17, 2021, the Applicant submitted an updated subject-level analysis dataset,
+ADSL.xpt, at the October 28, 2021 database lock as part of the submission of the final OS data.
+On January 11, 2022, FDA sent an Information Request letter to the Applicant after noticing
+that, for subject © the analysis value for baseline AJCC M Stage (variable ‘STRAT4’) was
+different from the value in the originally submitted ADSL.xpt data at the March 9, 2021
+database lock. On January 14, 2022, the Applicant provided justification for the discrepancy and
+stated that the subject was erroneously categorized at the March 9, 2021 database lock due to
+a rounding issue in SAS that impacted the derivation. To assess the impact of this value change,
+FDA performed a sensitivity analysis using the updated ADSL.xpt dataset for the stratified PFS
+analysis. The estimated HR was 0.75 (95% Cl: 0.62, 0.92) and the nominal p-value was 0.0055
+based on stratified log-rank test, which were the same as the primary analysis using the original
+ADSL.xpt dataset.
+
+FDA also agrees with the subgroup analyses presented by the Applicant (Figure 17). Overall, the
+subgroup analyses performed showed that there were no outlier subgroups and the treatment
+effect was generally consistent with that of the all randomized patients. Among the subgroup of
+patients enrolled in the United States (n=63), the HR was 0.40 (95% Cl: 0.19, 0.84).
+
+FDA conducted additional examination of PD-L1 subgroups due to concern that there may be
+detrimental effects as PD-L1 expression levels increased for patients treated with nivolumab-
+relaltlimab FDC compared to patients treated with nivolumab. In addition, FDA was concerned
+that the differences observed in PFS for the patients with higher levels of PD-L1 expression may
+also be observed in OS in patients with higher levels of PD-L1 expression (see section 8.1.2.10
+for FDA analysis). FDA also examined baseline disease characteristics that have potential
+prognostic implications to evaluate if any of the characteristics or any toxicity-related events
+(see Section 8.2.8 for FDA analysis) may be contributing to the differences seen in PFS
+outcomes in the subgroups of patients with higher PD-L1 expression.
+
+Results of subgroup analyses in patients with high PD-L1 status (i.e., PD-L1+ tumor expression
+level with cutoffs of 21%, 25% and 210%) showed higher observed HRs compared to the
+observed HRs in the corresponding subgroups of patients with PD-L1 negative tumors. Among
+patients with tumors with PD-L1 expression levels of 21%, >5% and 210%, the observed HRs
+were 0.95, 0.86, and 1.13, respectively, whereas among patients with PD-L1 negative tumors at
+expression levels of <1%, <5% and <10%, the observed HRs were 0.66, 0.73, and 0.69,
+respectively. FDA notes that the PD-L1 negative subgroups also include a total of 34 patients
+with non-quantifiable PD-L1 expression.
+
+145
+Version date: January 2020 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “The Applicant’s Position” are completed by the Applicant
+and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 4955210

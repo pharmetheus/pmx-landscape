@@ -1,0 +1,58 @@
+NDA 216951
+Jesduvrog (daprodustat)
+
+Missing Data
+
+For the analysis of the co-primary efficacy endpoint, a multiple imputation approach was used to
+handle missing Hb values. Both intermittent missing and monotone missing scheduled Hb data
+were imputed based on the MAR assumption. However, it is important to examine the sensitivity
+of inferences to departures from the MAR assumption for the monotone missing data. A tipping
+point analysis was performed as a sensitivity analysis for the assumptions of missing data, that is,
+to mimic MNAR in which the missing observations depend on unobserved values.
+
+Primary Efficacy Analysis
+
+The primary Hb efficacy analysis assessed the estimand defined as the comparative treatment
+effect in mean Hb change between Baseline and EP (i.e., Weeks 28 to 52 inclusive) in all
+randomized participants 1.e., the ITT population. An ANCOVA model adjusted for
+randomization stratification factors (dialysis type and dialysis start manner), Baseline Hb, and
+treatment was used. All Hb data (on- and off-treatment) recorded during the EP was included in
+the primary efficacy analysis, regardless of adherence to randomized treatment including
+interruptions and discontinuations, the use of non-randomized ESA medication for any reason
+including rescue therapy, or the use of blood transfusions. Multiple imputation was applied in the
+case of missing Hb data.
+
+Participants were analyzed according to the treatment to which they were randomized using an
+ANCOVA model. The analysis tested whether daprodustat was non-inferior to darbepoetin alfa.
+The non-inferiority margin was pre-defined as -0.75 g/dL, determined based upon a combination
+of clinical judgment, statistical reasoning, and regulatory guidance for designing non-inferiority
+trials. Non-inferiority would be established if the lower limit of the 2-sided 95% CI for the
+treatment difference in mean Hb change between Baseline and EP (daprodustat - darbepoetin
+alfa) was greater than 0.75 g/dL.
+
+Sensitivity Analyses
+
+e Analternative “while on-treatment” estimand using only evaluable Hb data. Missing Hb
+data were not imputed.
+PP population analysis based on the on-treatment evaluable Hb analysis.
+A tipping point analysis using all available Hb values (on- and off-treatment) as a
+sensitivity analysis for the primary estimand. Missing post-baseline Hb values were
+imputed.
+
+e A tipping point analysis similar to the one described above was performed as a sensitivity
+analysis for this estimand using evaluable Hb values only.
+
+e An alternative EP analysis from Weeks 28 to 36 using all available Hb values (on and off
+treatment). Missing post-baseline Hb values were imputed.
+
+e An alternative EP analysis from Weeks 28 to 36 using only evaluable Hb values. Missing
+Hb data were not imputed.
+
+e A post-hoc analysis, which included all available observed post-randomization
+hemoglobin values (on and off-treatment), evaluated the mean change in hemoglobin
+between Baseline to the evaluation period (Week 28 to 52).
+
+81
+Integrated Review Template, version 3.0 (05/25/2022)
+
+Reference ID: 5119138

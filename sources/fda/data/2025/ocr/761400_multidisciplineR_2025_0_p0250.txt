@@ -1,0 +1,58 @@
+NDA/BLA Multi-disciplinary Review and Evaluation Biologics License Application 761400
+linvoseltamab
+
+Regression model &
+weighting
+
+Weighted 4-parameter logistic, with variable weight: y = (A-D) /
+
+(1+(x/C)B) + D
+Weight = 1/RLU2
+
+Validation parameters Method validation summary Acceptability
+Standard Number of Standard |7 Yes
+calibration curve calibrators from
+performance LLOQ to ULOQ
+during accuracy & Cumulative accuracy |-2 to 2% Yes
+precision (%bias*) from LLOQ |(%AR = 98 to 102%)
+to ULOQ
+Cumulative A% Yes
+precision (%CV)
+from LLOQ to
+ULOQ
+QCs performance Cumulative -8 to 3% Yes
+during accuracy accuracy (%bias) (%AR = 92 to 103%)
+& precision in5 QCs
+Inter-batch %CV <8% Yes
+Total Error (TE) 513% Yes
+Selectivity & matrix Ten multiple myeloma individual lots Yes
+
+effect
+
+(samples) tested.
+
+No matrix effects observed as all drug
+naive (unspiked) samples were below the
+
+limit of quantitation.
+
+Selectivity at the LLOQ level:
+Range of observed bias = 0 to
+14% (%AR = 100 to 114%)
+
+Selectivity at the HQC
+
+level:
+
+Range of observed bias = 1 to 13%
+
+(%AR = 101 to 113%)
+
+215
+
+Version date: August 2023 (ALL NDA/BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are
+completed by the Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5432800

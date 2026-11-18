@@ -1,0 +1,49 @@
+NDA/BLA Multi-Disciplinary Review and Evaluation
+Tovorafenib (DAY101)
+
+Induction Effects of Tovorafenib on CYP1A2
+
+The PBPK analysis cannot rule out a potential induction effect of tovorafenib on CYP1A2
+
+substrates for reasons discussed below.
+
+The Applicant evaluated the induction effect of tovorafenib on CYP1A2 using caffeine as a
+probe substrate. There are limited data on the prediction of CYP1A2 induction using PBPK
+analysis and induction parameters generated from in vitro hepatocyte induction studies. The
+Applicant was requested to provide a qualification document to show the predictive
+performance of drug interactions of various CYP1A2 inducers with drugs that are predominantly
+metabolized by CYP1A2. The Applicant compared the predicted and observed Cmax and AUC
+ratios in the CYP1A2-mediated DDI studies of caffeine, theophylline and tizanidine with
+rifampin and caffeine with omeprazole (v20-cyp1a2-induction-qualification-nov2023). The
+extent of induction of 5 out of 7 studies was predicted within the range of 0.8 -1.25-fold of the
+observed values. ]
+
+. Therefore,
+interaction between tovorafenib and substrates of CYP1A2 cannot be ruled out.
+
+Table 85. Comparison of Model Inputted and Experimentally Measured Induction
+Parameters of Competitive CYP1A2 Inducers
+
+In Vitro
+Parameters
+Model Based on In Vitro/Model
+Parameters mRNA Parameters In Vitro Number of In
+CYP1A2 © Data Vitro
+Inducers Source Observations
+Rifampin PMID: 1
+17639026
+and
+21930825
+Omeprazole PMID: 4
+29802934;
+FDA
+Database
+Source: response to FDA IR Clinical Pharmacology submitted 19 December 2023(seq0021) and references within
+the table
+* ©) (PMID: 21930825);
+
+jmean slope of the line with intercept (PMID: 21930825)
+
+310
+
+Reference ID: 5368881

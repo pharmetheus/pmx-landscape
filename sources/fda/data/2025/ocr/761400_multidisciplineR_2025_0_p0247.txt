@@ -1,0 +1,62 @@
+NDA/BLA Multi-disciplinary Review and Evaluation Biologics License Application 761400
+linvoseltamab
+
+As described in Section 19.4.1.2, lower body weight and female sex were associated with
+higher total linvoseltamab exposure. There was a statistically significant association
+between higher body weight and lower risk of Grade 23 anemia as well as Grade 23
+leukopenia, as summarized in the final multivariate models in Table 76 and Table 77,
+respectively. Because full dose amount was not included in the final Grade >3 anemia or
+Grade 23 leukopenia models, the association between risk and body weight is likely related
+to factors other than the difference in exposure due to body weight. After accounting for
+other significant covariates, sex did not appear to be associated with increased risk of
+Grade 23 anemia or Grade 23 leukopenia.
+
+Table 76: FDA - Cox Proportional Hazards Model of Grade 23 Anemia from
+Multivariate Dose-Response Analysis
+
+Hazard Ratio 95% Cl p-value
+Baseline Body Weight (kg) 0.987 0.976, 0.998 0.026
+Baseline Albumin (g/L) 0.943 0.910, 0.977 0.001
+Baseline LDH (IU/dL) 1.007 1.002, 1.012 0.011
+Baseline C Reactive Protein (mg/L) 1.006 1.002, 1.011 0.004
+Baseline Serum M Protein (g/dL) 1.184 1.036, 1.353 0.013
+Baseline Urine M Protein (g/day) 1.248 1.106, 1.409 <0.001
+
+Grade 23 anemia confirmed to be derived from laboratory analysis dataset (adlb.xpt) according to Applicant's
+response to 1Mar2024 IR.
+
+Cl = confidence interval.
+
+Source: Reviewer's analysis of Applicant's E-R safety dataset
+
+Table 77: FDA - Cox Proportional Hazards Model of Grade 23 Leukopenia from
+Multivariate Dose-Response Analysis
+
+Hazard Ratio 95% Cl p-value
+Baseline Age (years) 0.974 0.952, 0.997 0.027
+Baseline Body Weight (kg) 0.980 0.967, 0.994 0.005
+Plasmacytoma at Baseline (versus No Plasmacytoma) 0.484 0.255, 0.920 0.027
+Baseline Lymphocytes (1049/L) 0.650 0.439, 0.962 0.031
+Baseline Neutrophils (10*9/L) 0.729 0.598, 0.888 0.002
+
+Grade 23 leukopenia confirmed to be derived from laboratory analysis dataset (adlb.xpt) according to
+Applicant’s response to 1Mar2024 IR.
+
+Cl = confidence interval.
+
+Source: Reviewer's analysis of Applicant's E-R safety dataset
+
+The dose-response safety analysis contains less uncertainty than the E-R safety analysis,
+but both the dose-response and E-R safety analyses may be impacted by confounding
+between the rate of safety events by dose and longer follow-up at lower doses (e.g., 50 mg
+QW) compared to relatively higher doses (e.g., 200 mg QW). However, no safety concerns
+were identified for the proposed 200 mg QW full dosage from a clinical pharmacology
+perspective.
+
+212
+
+Version date: August 2023 (ALL NDA/BLA reviews)
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are
+completed by the Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5432800

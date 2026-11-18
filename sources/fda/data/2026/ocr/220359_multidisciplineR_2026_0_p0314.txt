@@ -1,0 +1,105 @@
+Figure 18.
+
+Modeling and simulation strategy
+
+1 Development
+
+Develop initial PBPK model with physchem and in witro
+DMPK properties (First order absorption, | distribution
+
+and peroral clearance)
+Optimise Ka, Q and Vac 4
+
+TV and oral clinical PK data from relative bioavailability study
+(D8530C00004) [IV cohort (100ug IV+Regimen D) and Oral cohort
+(75mg single dose, solution formulation) in healthy post-menopausal
+women]
+
+Optimise mechanistic elimination by using ‘middle out os
+approach’
+
+Invitro CYP phenotyping data, HLM kinetics, clinical data from
+rs
+
+|
+
+ADME study (D8532C00005), clinical PK data from relative
+bioavailability study (D8530C00004), [cohort : 75mg single oral
+dose, solution formulation in healthy post-menopausal women]
+
+Model Validation
+
+Predict PK in various clinical scenarios and compare with
+‘observed data:
+
+Single ascending dose (SAD) and Multiple ascending dose
+(MAD) PK im cancer population (25mg to 450mg)
+
+Fasted and fed PK with late-stage tablet
+
+Clinical data from studies:
+
+SAD and MAD PK: D8530C00001
+
+ation
+00mg), healthy post-menopausal women
+
+Late stage 75mg tablet formulation PK (fed) in post-
+menopausal women
+
+75mg PK in healthy in post-menopausal women (control arm
+of itraconazole DDI)
+
+DDI with itraconazole in healthy post-menopausal women as
+CYP3A4/5 substrate
+
+DDI with midazolam in healthy post-menopausal women
+PK after single dose during hepatic impairment study
+
+i!
+
+Relative bioavailability study: D8530C00004
+DDI with itraconazole: D8532C00003
+DDI with midazolam: D8532C00006
+
+PK im single dose hepatic impairment study:
+D8532C00002)
+
+Model Application
+
+Predict DDIs with
+
+inducers
+
++ CY¥P3A4/5 inhibitors: moderate (erythromycin, verapamil, fluconazole) and weak inhibitors (cimetidine)
+
++ UGTI1A4 substrate: valproic acid
++  CYP3A4/5 substrates (alfentanil, al
+
+CYP3A4/5 and UGTIA4 inducers: Strong (rifampicin, carbamazepine), moderate (efavirenz, phenobarbital) and weak (modafinil)
+
+lprazolam, rivaroxaban), CYP2C19 substrates (omeprazole,
+voriconazole), CYP2D6 (desipramine), CYP2B6 (bupropion), CYP2C9 (celecoxib. S-warfarin, flurbiprofen, zlybunde, siponimod),
+BCRP (roruvastatin), OATPIB (pravastatin), Pep (digoxin, dabigatran etexilate)
+
+Predict PK in hepatic impairment (weak, moderate and severe) after repeat dosing and in presence of ribociclib 400mg QD or 600mg QD
+
+someprazole, lansoprazole,
+
+Source: Figure 5 in the PBPK report D8534C00001
+
+313
+
+Version date: March 1, 2024 (All NDA/BLA reviews)
+
+In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the Applicant,
+which do not necessarily reflect the positions of the FDA.
+
+The FDA review was conducted in conjunction with other regulatory authorities under Project ORBIS. The FDA
+collaborated with Australia’s Therapeutic Goods Administration (TGA), Brazilian Health Regulatory Agency
+(ANVISA), Health Canada (HC), Singapore’s Health Sciences Authority (HSA), and Switzerland’s Swissmedic
+(SMC). While the conclusions and recommendations expressed herein reflect the FDA’s completed review of the
+application, the applications may still be under review at the other regulatory agencies.
+
+Reference ID: 5864804
+

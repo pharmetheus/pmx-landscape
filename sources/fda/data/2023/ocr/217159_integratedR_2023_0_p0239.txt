@@ -1,0 +1,74 @@
+NDA 217159
+APHEXDA (motixafortide)
+
+Figure 59. Individual Line Plots of CKCR4 Receptor Occupancy Overlaid on Motixafortide
+Concentrations Plotted Versus Time Since Previous Dose, Study BL-8040.TQT.103
+
+Dose: 1.25 mg/kg Dose: 125 mg/kg
+Z 5000] Gee }100 9 F 5000 J 10>
+£ 4500 9 E 4500 gS— % [oo As
+2 4000 9 3 B 4000 jo &
+S 3500) 70 =“ 3500 0 8
+= 3000 6 FP 8 3000 60 2
+8 2500 50 8 2500 0 8
+S cen) 20 -& & 200 1g
+= 1500 x & & 600 ls0 8
+3 0 8 St in §
+iol 8 5 8
+3 0 o—e———x |g © g 0 a + °
+z saneeaeanbantarsaraannansenar’t
+= os69Rbeaaae7 &§ S 09569 26 Ba2ea7 ©
+Time Since Previous Dose (h) Time Since Previous Dose (h)
+NONMEM ID what NONMEM ID (taf
+Dose: 1.25 mgkg Dose: 2 mg/kg
+FZ 5000f yg— x F100 T5000 a 10
+£ a0) * vo  £ 4500 foo &
+2 4000) 60 SB 4000 jso &
+= 3500} 4 70 & = 3500 to =
+2 3000) co 2 2 2000 oo 2
+8 2500) 50 8 8 2500 03
+2000) 40S % 2000 }4o 3
+B 1800 20 S B 600 f30
+2 88 3 BM lo §
+ro 3 5 |
+5 Lt te — 4 — a 025 8 OL ee
+= 036926 8 22%27 © S 036926 BAa27 ©
+Time Since Previous Dose (h) Time Since Previous Dose (h)
+NONMEM ID Oe NONMEM ID 6)
+Dose: 2 ma/kg Dose: 2 mg/kg
+J 5000) 100 g F 5000 }100 4
+E 4500 00 K E 4500) jo x
+2 4000) 80 5 2 4000: 80
+= 3500 70 & = 3500 }7o &
+2 3000) co PF 2 R00 z
+8 2500) 50 8 8 2500 8
+‘@ 2000) 40S 4 2000 3
+3 1500 0 § 8 600 g
+5 1000 20 5 5 1000 °
+g 500) i S % 50 8
+BJ i) = #0 . & 0 5
+2 aon al a0 5 8 3
+= os6gRe bh erea27 © = =
+Time Since Previous Dose (h) Time Since Previous Dose (h)
+
+NONMEM ID we NONMEM ID on
+
+Abbreviations: Conc, concentration; CKCR4, G-protein transmembrane CXC receptor 4: ID, identification;
+Oce, occupancy.
+
+Source: dipkpd\graphs\pnghi\eda\rpt-s-dv_cxerdro-tspd-jid-grfdose png.
+
+Source: Population Pharmacokinetic Evaluation of Motixafortide for Stem Cell Mobilization report, Figure 45.
+
+Reviewer comment: The Applicant’s PK/PD model for WBC cell response appears to be able to
+describe WBC cell-time profiles following SC administration of motixafortide. Most subjects
+from pivotal study BL-8040.SCM.301 only had one post-motixafortide WBC sample collection,
+which precluded the ability of the model to estimate how much of the overall response during
+motixafortide treatment was influenced by second dose in this study population. Of note,
+exploratory data analysis results showed the second WBC peak was generally lower than the
+first peak, and that the model-based SCso estimates from the WBC model were relatively low
+
+221
+Integrated Review Template, version 3.0 (05/25/2022)
+
+Reference ID: 5240812

@@ -1,0 +1,51 @@
+NDA 215973 lenacapavir injection, for subcutaneous use
+NDA 215974 lenacapavir tablets, for oral use
+
+Base PK Model
+
+The PK of LEN was best described by a two-compartment distribution model with linear
+elimination from the central compartment. The oral LEN absorption was best characterized by a
+first-order absorption process, and the SC absorption was best characterized by a parallel direct
+first-order absorption and a delayed absorption process with four transit compartments. The PK
+model was parameterized in terms of clearance (CL), central and peripheral volumes of
+distribution (V- and Vp, respectively), intercompartmental clearance (Q/F), oral (PO) absorption
+rate constant (Ka), PO bioavailability relative to TV (Fpo), SC direct/rapid first-order absorption
+tate constant (Kair), SC transit first-order absorption rate constant (Kir), fraction of the SC dose
+absorbed through the rapid/direct process, and the SC bioavailability relative to IV (Fsc).
+Between-subject variability or inter-individual variability (ITV) was estimated on CL, Vp,
+dissociation rate constant (Ka), Kx, and Fsc. The residual error model consisted of a combined
+additive and proportional error model. The final structural model for lenacapavir is presented in
+
+Figure 34.
+
+Figure 34. Schematic of the Structural PK Model for LEN
+F.. * DIRECT F,. * (1-DIRECT)
+
+sc
+Depot direct
+
+sc
+Depot transit
+
+Ke,
+Kar
+Transit ]
+\V & a,
+th Ke
+infusion
+iS Central Q Peripheral
+CL
+
+DIRECT = fraction of SC dose absorbed through direct first-order absorption: GI = gastrointestinal; IV = intravenous:
+PK = pharmacokinetic; SC = subcutaneous
+
+Source: Applicant's Population PK Report, Figure 2, page 32.
+
+Abbreviations: Fpo, PO bioavailability relative to IV; F.., SC bioavailability relative to IV; Ka, direct/rapid first-order absorption rate
+constant; K,, dissociation constant; Kdir, direct/rapid first-order absorption rate constant; K,,, transit first-order absorption rate
+constant: Q, intercompartmental clearance; V., central volume of distr bution; V,, peripheral volume of distribution
+
+192
+Integrated Review Template, version 2.0 (04/23/2020)
+
+Reference ID: 4944206

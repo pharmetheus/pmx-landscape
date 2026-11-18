@@ -1,0 +1,58 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {BLA 761289 and sBLA 761069}
+{IMJUDO, tremelimumab; IMFINZI, durvalumab}
+
+disorder SMQ AEs that led to treatment discontinuation, and less than 2% had fatal hepatic disorder
+SMQ AEs.
+
+As expected based on the patient populations, the overall incidence of hepatic disorder SMQ AEs in the
+HCC T300+D pool (patients with uHCC; 39.2%) was greater than those in the Pan-tumor T75+D pool
+(predominantly patients with NSCLC and HNSCC; 22.6%).
+
+In the HIMALAYA S arm, the most frequently reported AEs in the hepatic disorder SMQ (reported by
+2 5% patients) were blood bilirubin increased (7.8%), AST increased (6.4%), ALT increased (5.3%), ascites
+(5.3%), and gamma-glutamyltransferase increased (5.1%).
+
+T300+D did not significantly increase treatment-related hepatotoxicity, as evidenced by the incidence of
+hepatic disorder SMQ Grade 3 to 4 AEs: 7.6% for the HCC T300+D pool and 4.5% for the HIMALAYA S
+arm.
+
+The FDA’s Assessment:
+
+FDA agrees with the Applicant’s presentation of the data and analysis. Hepatic adverse events occurred
+at a similar frequency across the T300+D, durvalumab and sorafenib treatment arms. The most
+frequently occurring hepatic adverse events were from the Liver Related Investigations SMQ and
+included AST increased (12% T300+D, 14% durvalumab, and 6% sorafenib), ALT increased (9% T300+D,
+11% durvalumab, and 5% sorafenib), ascites (6% T300+D, 7% durvalumab, and 5% sorafenib), and GGT
+increased (5% T300+D, 3% durvalumab, and 5% sorafenib). While there was a numerical increase in the
+frequency of these events on the T300+D arm compared to the sorafenib arm, there did not appear to
+be a disproportionate increase of any particular hepatic adverse event that occurred on the T300+D arm
+compared to the sorafenib arm.
+
+FDA notes that animal studies showed some hepatic toxicity related to tremelimumab with 2 animals
+displaying tremors at doses of 15 mg/kg and 50 mg/kg and another female animal treated at the 5
+mg/kg dose with moderate focal liver mineralization characterized by an encapsulated mass composed
+of mineralized, necrotic debris.
+
+Table 32: Hepatic SMQ Summary of Adverse events
+
+7300 +D D Mono Sorafenib
+Preferred Term (N=388) (N=388) (N=374)
+n(%) n(%) n(%)
+Any Grade 144 (37) 129 (33) 121 (32)
+Grade 1 23 (5.9) 19 (4.9) 29 (8)
+Grade 2 61 (16) 52 (13) 45 (12)
+Grade 3 49 (13) 50 (13) 39 (10)
+Grade 4 5 (1.3) 4 (1) 0
+Grade 5 6 (1.5) 4 (1) 8 (2.1)
+
+Source: OCS Analysis Studio, Safety Explorer.
+Filters: TRTO1A = "TREME 300 + DURVA" and SAFFL = "Y" (T300 + D ); TRTO1A = "DURVA MONO" and SAFFL = "Y" (D Mono); TRTO1A =
+"SORA" and SAFFL = "Y" (Sorafenib ); TRTEMFL = "Y" and AEHLGT = "Hepatobiliary investigations" (Adverse Events).
+
+151
+Version date: July 2021 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5064925

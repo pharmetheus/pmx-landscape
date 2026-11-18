@@ -1,0 +1,44 @@
+BLA Multi-disciplinary Review and Evaluation {Biologics License Application (BLA) 761208}
+{tisotumab vedotin}
+
+Source: In-Text Table 1 in the Population PK report.
+
+Table 49. Estimates of Covariate Fixed-Effect Parameters, Final ADC-MMAE Model.
+
+Parameter Description Value | RSE% 95% Cl
+Clwr = Qwr Q17_| Weight effect on CL,Q 0.495 9.86 0.399 ; 0.591
+Viwt 812 __| Weight effect on V; 0.380 12.1 0.29 ; 0.47
+Vow 10 _| Weight effect on V> 0.622 | 79 0.526 ; 0.718
+Clas 829 _| Albumin effect on CL -0.396 18.9 -0.543 ; -0.25
+Visas 82, __| Albumin effect on V; -0.197 32.1 -0.32 ; -0.0729
+Cleesas @22_| Male effect on CL 1.09 [| 3.55 1.02, 1.17
+Visexm 82, __| Male effect on V, 1.13 2.11 1.09 ; 1.18
+CLmac.wr 824 _| Weight effect on CLiamac 0.457 24.6 0.237 ; 0.677
+Viwmac.wr 825 __| Weight effect on Viamac 0.895 13.2 0.663 ; 1.13
+CLamac aus G26 _| Albumin effect on CLanac 0.935 | 265 0.449 ; 1.42
+CLimmae Non-Cenvical 8,7 _| Non-cervical effect on Clymace 1.22 5.99 1.07 ; 1.36
+CLiamac suMo1AM 823 | Tumor size effect on CLiwmac -0.147 20 -0.205 ; -0.0895
+CLumac.cer 820 _| eGFR effect on CLiymac 0.271 38.6 0.0659 ; 0.475
+CLumas ecos O29 _| ECOG > 0 effect on Cline 0.803 | 659 0.699 , 0.907
+CLamae Her Gs: oa impairmenteffecton | 9 963 | 7.98 | 0.719: 0.986
+Vamae.ecos 832 _| ECOG > 0 effect on Vinmac 0.827 | 6.13 0.727 ; 0.926
+VMMAEALB- 833 _| Albumin effect on Vawac 0.575 41.6 0.106 ; 1.04
+Keace 834 _| Age effect on ky -0.252 15.3 -0.327 ; -0.176
+Kew G3 _| Weight effect on k, 0.175 | 243 | -0.258,-0.0916
+Om @s6 Study 702 effect on ADC 142 579 1.26 - 1.58
+residual error
+
+SE: Standard Error; PE: Parameter Estimate; RSE%: Relative Standard Error = 100-abs(SE/PE); 95% Cl:
+95% confidence interval.
+
+Source: In-Text Table 2 in the Population PK Report.
+
+Table 50. Estimates of Variance Parameters, Final ADC-MMAE Model.
+
+207
+
+Version date: March 2021 (ALL NDA/ BLA reviews)
+Disclaimer: In this document, the sections labeled as “The Applicant’s Position” are completed by the Applicant
+and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 4858975

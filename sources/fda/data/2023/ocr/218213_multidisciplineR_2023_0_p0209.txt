@@ -1,0 +1,69 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 218213}
+Repotrectinib (BMS-986472)
+
+curve and
+concentration
+
+Validated assay range
+
+1.00 ng/mL to 1000 ng/mL
+
+Material used for
+quality controls (QCs)
+and concentration
+
+Repotrectinib in human K2EDTA plasma at
+
+1.00 ng/mL, 3.00 ng/mL, 50.0 ng/mL or 300 ng/mL (validated and reported in
+
+MC20B-0106 on 05/18/2020), 800 ng/mL
+
+reagents
+
+Minimum required NA
+dilutions (MRDs)
+Source and lot of NA
+
+Regression model
+
+Linear with 1/x? weighting
+
+Dilution linearity &
+
+2500 ng/mL 10X dilution, bias -14.4%
+
+208
+Version date: June 2022 (ALL NDA/ BLA reviews)
+
+and weighting
+Validation Method validation summary FDA Acceptability]
+parameters
+Standard calibration Number of standard calibrators from LLOQ to 10 Yes
+curve performance ULOQ
+during accuracy and ~ eh Yes
+precision runs Cumulative accuracy (%bias) from LLOQ to ULOQ
+«1 | -1.60% to
+Repotrectinib
+2.00%
+Cumulative precision (%CV) from LLOQ to ULOQ Yes
+- 1 | < 2.30%
+Repotrectinib
+Performance of QCs Cumulative accuracy (%bias) in 4 QCs Yes
+during accuracy and QCs for Repotrectinib | -7:00% to-
+precision runs 3.80%
+Inter-batch precision (%CV) in 4 QCs Yes
+9,
+QCs for Repotrectinib _ | < 76%
+Total Error (TE) NA NA
+Selectivity & matrix 6 lots, all passed Yes
+effect
+Interference & All 6 lots have < 20.0% lowest LLOQ analyte response and Yes
+specificity <5.00% lowest IS response
+Hemolysis effect 1 lot, bias -4.33% (3.0 ng/mL) and -6.63% (800 ng/mL) Yes
+Lipemic effect 1 lot, bias -4.33% (3.0 ng/mL) and -4.38% (800 ng/mL) Yes
+Yes
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5277412

@@ -1,0 +1,51 @@
+NDA 215973 Sunlenca (Lenacapavit)
+
+Page 10 of 14
+
+Table3A: Tumor Rates and P-Values for Dose Response Relationship and the pairwise comparisons
+
+Male Mice Using Poly-3 test
+
+Omg Vehicle} 30mg 100 mg 300mg 75mg MNU
+Cont (N=25) | Low(N=25)] Med(N=25) | High (N=25) | Posi (N=10)
+Organ Name Tumor Name P-Trend |P-VCvs.L|P-VCvs.M| P-VCvs.H] P- VC vs. PC
+HarderianGland |B-Adenoma 0/25(25) | 1/25(25) | 1/25(22) | 0/25(25) 0/10 (5)
+0.6188 0.5000 0.4681 NC NC
+Hematolymphoid | M-Lymphoma 0/25 (25) 0/25 (25) 0/25 (22) 0/25 (25) 7/10 (9)
+System NC NC NC NC <0.0001*
+M-Neoplasm, 1/25(25) | 0/25(25) } 0/25(22) | 0/25(25) 0/10 (5)
+Erythroblastic 1.0000 1.0000 1.0000 1.0000 1.0000
+Kidney B-Hemangioma 0/25 (25) 1/25 (25) 0/25 (22) 0/25 (25) 0/10 (5)
+0.7423 0.5000 NC NC NC
+Liver B-Adenoma, 1/25(25) | 0/25(25) | 0/25 (22) 0/25 (25) 0/10 (5)
+Hepatocellular 1.0000 1.0000 1.0000 1.0000 1.0000
+Lung B-Adenoma, 2/25(25) | 2/25(25) | 1/25(22) | 2/25(25) 0/10 (5)
+Bronchiolo-Alveo* 0.5027 0.6954 0.8582 0.6954 1.0000
+Muscle,Biceps |M-Hemangiosarcoma} 1/25 (25) 0/24 (24) 0/25 (22) 0/24 (24) 0/10 (5)
+Femoris 1.0000 1.0000 1.0000 1.0000 1.0000
+Muscle, Skeletal, |M-Hemangiosarwoma} 0/25(25) | 0/25(25) | 1/25(22) | 0/25(25) 0/10 (5)
+Other 0.4845 NC 0.4681 NC NC
+PreputialGland | M-Adenocarcinoma 0/25 (25) 0/25 (25) 1/25 (23) 0/25 (25) 0/10 (5)
+0.4898 NC 0.4792 NC NC
+Rectum M-Hemangiosarcoma| 0/25 (25) 0/25 (25) 0/25 (22) 1/25 (25) 0/10 (5)
+0.2577 NC NC 0.5000 NC
+Skin/Subcutis | B-Papilloma, 0/25(25) | 0/25(25) | 0/25(22) | 0/25(25) 4/10(7)
+Squamous Cell NC NC NC NC 0.0010*
+Spleen B-Hemangioma 1/25(25) } 2/25(25) } 1/25(22) | 0/25(25) 0/10 (5)
+0.8713 0.5000 0.7225 1.0000 1.0000
+Stomach, B-Adenoma 0/25(25) | 0/25(25) | 0/25(22) 1/25 (25) 0/10 (5)
+Glandular 0.2577 NC NC 0.5000 NC
+Stomach, B-Papilloma, 0/25(25) | 0/25(25) | 1/25(22) 0/25 (25) 4/10 (7)
+Nonglandular Squamous Cell 0.4845 NC 0.4681 NC 0.0010*
+M-Carcinoma, 0/25(25) | 1/25(25) | 0/25(22) | 0/25(25) 2/10(7)
+Squamous Cell 0.7423 0.5000 NC NC 0.0423*
+
+& X/ZZ (YY): X=number of tumor bearing animals, YY=mortality weighted total number of animals; ZZ=unweighted total number of animals
+
+observed:
+NC = not calculable
+
+*: Statistically significant at 0.05 for common and rare tumors, respectively in pairwise comparisons.
+
+Reference ID: 5052595
+

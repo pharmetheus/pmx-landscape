@@ -1,0 +1,48 @@
+BLA Multi-disciplinary Review and Evaluation {Biologics License Application (BLA) 761208}
+
+{tisotumab vedotin}
+
+Parameter Description Value RSE% 95% Cl
+ADC parameters
+CL (L/day) 8, non-specific clearance 142 5.19 1.28 ; 1.57
+Q (Liday) 8, | inter-compartment clearance 4.01 2.93 3.78 ; 4.24
+V, (L) 8; | central volume 3.10 1.23 3.03 ; 3.18
+V2 (L) 84 peripheral volume 447 2.3 4.27 ; 4.68
+Vinax ; a ;
+(ligimL/day) 65 maximum MM elimination 3.35 11.7 2.58 ; 4.12
+Ky (Ug/mL) 85 MM constant 3.44 12.3 2.61 54.27
+SD of ADC residual error: 7
+Oprop 8; proportional part 0.129 2.07 0.124 ; 0.134
+SD of ADC residual error: 0.0147;
+Gaaa (tugimL) 8 | additive part 0.0173 | 7.66 0.0199
+ty20 (day) ADC distribution half-life 0.28 Derived from CL, V1, V2,
+tia term (day) ADC terminal half-life 41g | anda
+MMAE parameters
+ky, (1/day) Qo Rate constant of delay 0.271 1.35 0.264 ; 0.278
+CLumae (L/day) B10 MMAE Clearance 428 74 36.6 ; 49.0
+Vemac (L) On MMAE central volume 2.09 9.82 1.69 ; 2.50
+Boar (t/day) 6,2 | Rate constant of DAR decay | 0.0189 | 265 pean
+SD of MMAE residual error: .
+Oprap O13 proportional part 0.282 2.13 0.27 ; 0.294
+SD of MMAE residual error: 0.0103 ;
+Oaaa (ugimL) 8: | additive part 0.0113 | 4.42 0.0123
+Fraction of MMAE non- 0.0173:
+FR; 65 specific elimination to central 0.0205 7.94 0 0237
+compartment :
+Fraction of MMAE target- 0.0232 -
+FR2 B16 mediated elimination to 0.0508 277 0 07384.
+delay compartment .
+tyoKtr (day) MMAE delay half-life 2.56 tyaxtr = log(2)/Kr
+; ; trauma = HOg(2Kynas
+tyommac (day) MMAE terminal half-life 0.0339 . =CLayune/Vauntne
+SE: Standard Error; PE: Parameter Estimate; RSE%: Relative Standard Error = 100-abs(SE/PE); 95% Cl:
+95% confidence interval
+
+Reference ID: 4858975
+
+206
+
+Version date: March 2021 (ALL NDA/ BLA reviews)
+Disclaimer: In this document, the sections labeled as “The Applicant’s Position” are completed by the Applicant
+and do not necessarily reflect the positions of the FDA.
+

@@ -1,0 +1,57 @@
+BLA 761367
+Andembry / garadacimab
+
+Table 101. Applicant Summary of Baseline Characteristics and Laboratory Values in the Dataset,
+Stratified by Study of the PopPK-PD Dataset
+A: Continuous covariates by study of the PopPK-PD dataset
+
+Variable n Mean Median SD Min / Max
+Study: CSL312-1001
+
+Age (years) 48 274 25.4 6.43 19.2 / 44.0
+FXlla-mediated kallikrein activity (A405nm/min) 48 0.101 0.108 0.0333 0.0368 / 0.156
+Aspartate aminotransferase (U/L) 48 20.3 20.0 5.04 12.0 / 39.0
+Alanine aminotransferase (U/L) 48 20.6 19.0 8.40 8.00 / 47.0
+Bilirubin (umol/L) 48 10.7 10.0 3.62 6.00 / 22.0
+Creatinine clearance (mL/min) 48 128 126 23.1 85.8 / 196
+Serum creatinine (mg/dL) 48 0.958 0.944 0.101 0.768 / 1.19
+Albumin (g/L) 48 417 42.0 2.14 36.0 / 46.0
+eGFR (mL/min/1.73m?*) 48° LIL 112 12.1 82.2 / 130
+Weight (kg) 48 78.0 74.8 12.1 56.5 / 117
+Study: CSL312-1003
+
+Age (years) 37 38.3 41.0 10.6 18.0 / 55.0
+FXIla-mediated kallikrein activity (A405nm/min) 37 0.106 0.102 0.0461 0.0430 / 0.274
+Aspartate aminotransferase (U/L) 3718.0 17.0 3.73 10.0 / 30.0
+Alanine aminotransferase (U/L) 37 16.5 14.0 6.77 6.00 / 34.0
+Bilirubin (mol/L) 37) 7.39 6.80 3.46 3.40 / 18.8
+Creatinine clearance (mL/min) 37) ONG 116 22.2 83.2 / 166
+Serum creatinine (mg/dL) 37 0.740 0.699 0.154 0.499 / 1.10
+Albumin (g/L) 37 45.8 46.0 2.54 40.0/ 51.0
+eGFR (mL/min/1.73m*) 37113 113 12.1 80.9 / 134
+Weight (kg) 3764.9 62.4 10.3 51.3/90.5
+Study: CSL312-2001 TP1
+
+Age (years) 44 40.0 39.0 12.8 20.0 / 65.0
+FXIla-mediated kallikrein activity (A405nm/min) 44 0.153 0.160 0.0588 0.0420/ 0.265
+Aspartate aminotransferase (U/L) 44 20.4 18.5 8.06 9.00 / 40.0
+Alanine aminotransferase (U/L) 44 23.6 17.0 17.4 6.00 / 85.0
+Bilirubin (umol/L) 44 6.55 6.00 2.98 3.00 / 18.0
+Creatinine clearance (mL/min) 44 136 128 52.3 40.5 / 335
+Serum creatinine (mg/dL) 44 0.821 0.836 0.173 0.508 / 1.22
+Albumin (g/L) 44 46.5 47.0 3.09 41.0 / 54.0
+eGFR (mL/min/1.73m*) 44 102 104 17.8 57.1 / 136
+Weight (kg) 44 84.9 83.2 22.7 45.5 / 135
+Variable n Mean Median SD Min / Max
+Study: CSL312-2001 TP2
+
+Age (years) 40 39.8 39.0 13.1 20.0 / 65.0
+FXIla-mediated kallikrein activity (A405nm/min) 40 0.159 0.166 0.0573 0.0440 / 0.265
+Aspartate aminotransferase (U/L) 40 20.7 18.5 8.34 9.00 / 40.0
+Alanine aminotransferase (U/L) 40 24.8 18.0 17.8 7.00 / 85.0
+
+196
+
+Integrated Review Template, version 3.0 (05/25/2022)
+
+Reference ID: 5458438

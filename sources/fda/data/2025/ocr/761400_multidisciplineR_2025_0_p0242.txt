@@ -1,0 +1,123 @@
+NDA/BLA Multi-disciplinary Review and Evaluation Biologics License Application 761400
+
+linvoseltamab
+
+Pediatrics (if
+any)
+
+-Not Applicable
+
+Geriatrics (if
+any)
+
+-Age median (range, 56.4% subj >=65 yr, 21.6% subj >=75 yr)
+-n (29.4%) male
+
+Dose(s) Included
+
+1mg/3mg, 2mg/6mg, 4mg/12mg, 8mg/24mg, 16mg/48mg,
+32mg/96mg, 5mg/25mg/96mg, 5mg/25mg/50mg,
+5mg/25mg/200mg, 5mg/25mg/400mg, 5mg/25mg/800mg
+
+Exposure Metrics Explored
+(range)
+
+Individual model predicted exposure (Cmax, Cavg):
+
+exposure at the week of event or final dose week (for censored
+data); weekly exposures averaged up to and including the week of
+event, or averaged over the entire treatment (for censored data);
+exposures at weeks 1, 2, 3, and 14; average of weekly exposures
+up to final dose week
+
+Covariates Evaluated
+
+Sex, ethnicity, race, hepatitis B Virus antibody, hepatitis C virus
+antibody, hepatic function category, renal function category, age,
+body weight, ALT, urine M protein, total bilirubin, albumin, C-
+reactive protein, calcium, LDH, free kappa light chain, free lambda
+
+light chain, free kappa/lambda light chain ratio, erythrocytes,
+platelets, basophils, lymphocytes, monocytes, neutrophils, IL8,
+interferon gamma, soluble BCMA, CD69 expression (CD4 and
+CD8), eosinophils, IgG, ECOG, plasmacytoma. belantamab
+category (Y/N), refractory to the last line of therapy, light chain
+
+involvement, prior lines of therapy
+
+Final Model Parameters
+
+Summary
+
+Acceptability
+[FDA’s comments]
+
+Model Structure
+
+Constant and Logistic regression model
+
+Model Parameter Estimates
+
+Table 75: Summary of most significant
+exposure metrics and hazard ratios
+
+Model Evaluation
+
+Table 75: Summary of most significant
+exposure metrics and hazard ratios
+
+Covariates and Clinical
+Relevance
+
+Increases in disease related predictors
+of baseline sBCMA, baseline LDH, and
+baseline IgG were found to reduce the
+time to infection grade 23.
+
+Increased baseline albumin was also
+associated with decreased risk of
+infections of grade =3
+
+Previous belantamab treatment and
+race being Non-White were associated
+with an increased opportunistic infection
+risk.
+
+Increased baseline platelets and
+baseline weight were also associate
+
+The Applicant's
+analysis is limited and
+considered exploratory
+for E-R efficacy.
+
+FDA evaluated dose-
+response associations
+with safety endpoints to
+assess the proposed
+dosage’s acceptability.
+The dose-response
+analysis did not identify
+any concerns with the
+proposed 200 mg QW
+full dose in patients
+with RRMM. Refer to
+Section 19.4.2.6 for
+details regarding the
+dose-response
+
+with decreased risk of neutropenia analysis.
+grade 23
+Simulation for Specific N/A
+Population
+Visualization of E-R Figure 16:KM plot on probability of not CRS incidence is
+relationships getting an infection of grade 23 impacted by multiple
+
+207
+
+Version date: August 2023 (ALL NDA/BLA reviews)
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are
+completed by the Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5432800
+

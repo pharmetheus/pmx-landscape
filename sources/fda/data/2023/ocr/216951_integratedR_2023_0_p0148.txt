@@ -1,0 +1,57 @@
+NDA 216951
+Jesduvrog (daprodustat)
+
+censored subjects who completed the study without experiencing the event. These event rates,
+including a censored-at-random scenario, were quantified using the log-hazard rate ratio
+comparing prematurely censored subjects to observed subjects. The multiply imputed time to
+first occurrence of MACE data were then compared between treatment groups using the primary
+analysis model of Cox proportional hazards (see Section 17.1).
+
+Subgroup Analysis of MACE
+
+Prespecified subgroup analyses of MACE (without multiplicity control) included the following
+characteristics at randomization:
+
+e Age category (<65, 65 to <75, >75 years)
+Sex (female, male)
+Race (American Indian or Alaskan Native, Asian, Black or African American, Native
+Hawaiian or Other Pacific Islander, White, Mixed Race)!*
+
+e Regions combined (USA, non-USA)
+Current ESA use at randomization (ASCEND-ND only: ESA non-user, ESA user)
+Dialysis type (ASCEND-D only: hemodialysis, peritoneal dialysis)
+
+Exploratory Analyses
+Exploratory analyses conducted by FDA included:
+
+e Time-to-event analysis of each adjudicated secondary CV endpoints by region (USA,
+non-USA)
+
+e Time-to-event analysis of each adjudicated secondary CV endpoints by ESA use at
+randomization (ASCEND-ND only: ESA non-user, ESA user)
+
+e Time-to-event analysis of HHF by history of heart failure (Yes, No), defined as a having
+any of the following medical history conditions: heart failure, left ventricular systolic
+dysfunction, left ventricular diastolic dysfunction, or pulmonary hypertension
+OT + 28 analysis of CV endpoints
+Competing risk analyses of time to first fatal/nonfatal (a) stroke, (b) MI, and (c) TEE
+with mortality from other causes as the competing event using Fine and Gray’s
+subdistribution hazards regression adjusting for the same factors as the primary analysis
+for MACE
+
+e Adjudicated CV endpoints in relation to average dose summaries!>
+
+e Adjudicated CV endpoints in relation to Hb summaries!®
+
+14 Because of model convergence issues for the small race subgroup of Native Hawaiian or Other Pacific Islander,
+we combined Native Hawaiian or Other Pacific Islander with Mixed Race into a category called “Other” for
+analysis.
+
+15 Analysis description and results are discussed in Appendix Section 17.3.
+
+16 Analysis description and results are discussed in Appendix Section 17.4.
+
+122
+Integrated Review Template, version 3.0 (05/25/2022)
+
+Reference ID: 5119138

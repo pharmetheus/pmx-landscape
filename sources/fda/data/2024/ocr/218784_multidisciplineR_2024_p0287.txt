@@ -1,0 +1,64 @@
+Multi-disciplinary Review and Evaluation
+
+NDA 218784
+
+VORANIGO (vorasidenib)
+
+AG881-C-008 (N=32 healthy subjects)
+Median baseline ALT (IU/L): 23.5 (range 15.0, 51.0)
+Median baseline AST (IU/L): 25.0 (range 18.0, 34.0)
+Median baseline bilirubin (mg/dL): 0.700 (range 0.400, 1.20)
+Median baseline albumin (g/L): 46.0 (range 39.0, 50.0)
+Median baseline creatinine clearance (mL/min): 127 (range 97.0, 186)
+Median baseline eGFR (mL/min/1.73m?): 102 (range 63.6, 132)
+Pediatrics Not applicable
+No. of Subjects, PK Samples, and | n (%) of post-first dose BLQs by study and total:
+Below the Limit of Quantification Study Total Number (%) of Number (%) of
+(BLQ) Number of Observations Post-first Dose
+Subjects Available for PK BLQs
+Analysis
+AG120-881-C-001 22 201 (89.73) 0 (0)
+AG881-C-002 49 2,047 (92.17) 13 (0.59)
+AG881-C-004 184 3,341 (92.14) 44 (1.21)
+AG881-C-006 22 396 (94.74) 0 (0)
+AG881-C-007 24 538 (93.4) 14 (2.43)
+AG881-C-008 32 793 (83.3) 126 (13.24)
+Total 333 7,316 (91.26) 197 (2.46)
+Sampling Rich AG881-C-006: Period 2: pre-dose and at 0.5, 1, 2, 4, 6, 10, 24 hours post-
+Schedule Sampling dose on Day 1 and Day 13; Day 12 pre-dose.
+AG881-C-007: Treatment 1, 2, or 3: Day 1 pre-dose and at 0.5, 1, 2, 3, 4, 6,
+8, 10, 24, 48, 72, 120, 168, 240, 336, 504 hours post-dose; Treatment 4: Day
+4 pre-dose and at 0.5, 1, 2, 3, 4, 6, 8, 10, 24, 48, 72, 120, 168, 240, 336, 504
+hours post-dose.
+AG881-C-008: Pre-dose and at 0.5, 1, 2, 3, 4, 6, 8, 10, 24, 48, 72, 120, 168,
+240, 336, 504 hours post-dose.
+In ITT AG120-881-C-001: Pre-dose at Day 1, 8, 15, 22, 29; Day 22 at 2, 3, 4, 6, and
+Population | 8 hours post dose; one sample at time of surgery.
+AG881-C-002: Day -3: pre-dose and at 0.5, 1, 2, 3, 4, 6, 8, 10, 24, 48, 72
+hours post-dose; C1D15 and C2D1: pre-dose and at 0.5, 1, 2, 3, 4, 6, 8, 10
+hours post-dose; pre-dose at C1D8, C1D22, C2D15, C3D1, C3D15, on Day 1
+of Cycle 4 through Cycle 12, and on Day 1 of every odd cycle beginning with
+Cycle 13; one sample at EOT.
+AG881-C-004: C1D1: pre-dose and at 0.5, 2, 4 hours post-dose; C1D15: at 2
+hours post-dose; C2D1: pre-dose and at 0.5, 2, 4 hours post-dose; C3D1
+(and subsequent cycles): pre-dose.
+Covariates Static ‘Age, bodyweight, sex, race/ethnicity, bilirubin, ALT, AST, eGFR, albumin,
+Evaluated baseline ECOG.
+Time- Formulation, dose of Formulation 1, tablet strength of Formulation 2 (1x40
+varying mg vs 4x10 mg), weak CYP1A2 inducers.
+Final Model Summary Acceptability
+[FDA’s comments]
+Software and Version NONMEM software (version 7.3), SAS® (version Yes
+9.4), R (version 4.0.3 [17] or later)
+Model Structure 3-compartment model with lag time, first-order Yes
+absorption, and first-order elimination
+Model Parameter Estimates Table 62 Yes
+286
+
+Version date: December 2023(ALL NDA/BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5425021
+

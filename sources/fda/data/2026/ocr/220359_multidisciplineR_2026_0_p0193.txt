@@ -1,0 +1,56 @@
+Table 19. Subgroup Analysis for the Primary Endpoint of PFS by Investigator Assessment
+per RECIST 1.1
+
+Subgroup camizestrant + aromatase inhibitor + HR (95% CI)
+CDK4/6i, n/N (%) CDK4/6i, n/N (%)
+
+Disease site
+
+Visceral disease 32/65 (49) 37/64 (57.8) 0.57 (0.35, 0.92)
+Non-visceral 39/92 (42) 63/92 (68) 0.38 (0.25, 0.56)
+disease
+ESRIm detectable
+First ctDNA test 36/82 (44) 56/79 (71) 0.32 (0.20, 0.49)
+Subsequent 35/75 (47) 44/79 (56) 0.64 (0.41, 0.99)
+ctDNA test
+Time from initiation of aromatase inhibitor + CDK4/6 inhibitor to randomization
+< 18 months 28/50 (56) 29/46 (63) 0.60 (0.35, 1.01)
+> 18 months 43/105 (41) 69/110 (63) 0.39 (0.26, 0.58)
+CDK4/6 inhibitor
+Palbociclib 57/117 (48) 78/118 (66) 0.45 (0.32, 0.64)
+Ribociclib 4/23 (17) 13/23 (57) 0.27 (0.08, 0.77)
+Abemaciclib 10/15 (67) 9/15 (60) 0.63 (0.25, 1.59)
+ESRIm variants
+D538G 29/70 (41) 52/82 (63) 0.34 (0.21, 0.53)
+Y537S 24/61 (39) 46/60 (77) 0.29 (0.17, 0.47)
+Y537N 13/29 (45) 18/25 (72) 0.44 (0.21, 0.90)
+
+Source: Clinical Study Report, p. 105
+The HR and 95% profile likelihood CIs were calculated from a Cox proportional hazards model with treatment,
+factor, and treatment-by-factor as the only covariates.
+
+The FDA notes that the Applicant has presented landmark PFS rates at 6, 12, and 24 months by
+arm, which are considered exploratory. FDA generally interprets landmark analyses with caution
+because they may misrepresent clinical benefit by focusing on specific timepoints rather than the
+full time-to-event distribution. The estimates of PFS rates at any given time point would also be
+impacted by censoring and duration of follow-up and may not be robust at later time points.
+
+Despite SERENA-6 meeting its primary PFS endpoint, and consistent supplementary and
+sensitivity analyses, the FDA had uncertainties regarding interpretation of these results due to the
+following issues:
+
+1. The trial design does not assess the early switch strategy
+
+192
+Version date: March 1, 2024 (All NDA/BLA reviews)
+
+In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the Applicant,
+which do not necessarily reflect the positions of the FDA.
+
+The FDA review was conducted in conjunction with other regulatory authorities under Project ORBIS. The FDA
+collaborated with Australia’s Therapeutic Goods Administration (TGA), Brazilian Health Regulatory Agency
+(ANVISA), Health Canada (HC), Singapore’s Health Sciences Authority (HSA), and Switzerland’s Swissmedic
+(SMC). While the conclusions and recommendations expressed herein reflect the FDA’s completed review of the
+application, the applications may still be under review at the other regulatory agencies.
+
+Reference ID: 5864804

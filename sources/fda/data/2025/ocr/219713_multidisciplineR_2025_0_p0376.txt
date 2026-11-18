@@ -1,0 +1,54 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 219713}
+{IBTROZI™, Taletrectinib}
+
+up to 2-, and 5-fold, respectively, when taletrectinib 600 mg once daily was co-administered with
+desipramine or dextromethorphan in general cancer patients (Table 96).
+
+Table 96. Predicted Effects of Taletrectinib on the Exposure of CYP2D6 Substrates
+Following Administration of Multiple Doses of Taletrectinib in Western Healthy Subjects
+
+— CYP2D6 Desipramine Dextromethorphan
+regimen CmaxR AUCR CmaxR AUCR
+1.05 1.08 1.21 1.20
+600 mg QD Kin/10 1.26 LSI) 2.44 2.48
+Kin /20 1.33 1.86 2.90 3.38
+Kin /40 1.42 2.22 3.90 4.99
+Kiu=ICsou 1.03 1.06 1.15 1.14
+400 mg QD Kin/10 1.21 1.42 2.05 2.06
+Kin /40 1.37 2.04
+Kiu=ICsou 1.02 1.03 1.08 1.07
+200 mg QD Kin/10 1.13 1.24 1.60 1.58
+Kin /40 1.28 1.64
+
+Source: Tables 25 and 26 in the PBPK report ANHE/1/B and reviewer’s analysis
+
+Effects of taletrectinib on OATP1B substrate pravastatin
+
+The PBPK analysis cannot rule out a potential inhibition effect of taletrectinib on OATP1B
+substrates for reasons discussed below:
+
+Drug interactions of pravastatin with OATP1B1/3 inhibitors were frequently not
+predicted using the pravastatin model in the Simcyp library, even when the lowest in vitro
+transporter inhibition parameters of the inhibitors in the Certara DDI Database were applied in
+the simulations. The observed interactions with pravastatin could only be reproduced, within 0.8
+-1.25 of clinical observations, when the lowest experimentally generated unbound Ki or ICso
+values of OATP1B1/3 inhibitors were reduced approximately 10- to 100-fold (2024 ISSX
+webinar on Challenges in Predicting PK for Transporter Substrates ). These lowest Ki or ICso
+parameters were mostly generated using estradiol-17B-glucuronide as an OATP1B1 probe
+substrate in HEK293-OATP1B1 cells with a 15- to 60-minute preincubation (data not shown).
+
+Taletrectinib 600 QD was predicted to increase pravastatin AUC and Cmax up to 1.7-fold
+when K; values for both OATP1B1 and OATP1B3 were reduced up to 200-fold (Table 97).
+Notably, taletrectinib OATP1B1 inhibition study for taletrectinib utilized estrone-3-sulfate as a
+probe substrate, which is known to be 6- to 15-fold less sensitive to OATP1B inhibition
+compared to using estradiol-17B-glucuronide (PMID: 23920221). Additionally, the use of a
+predicted rather than measured nonspecific binding value in the PBPK model introduces another
+layer of uncertainty to the predicted results.
+
+375
+Version date: March 1, 2024 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5606238

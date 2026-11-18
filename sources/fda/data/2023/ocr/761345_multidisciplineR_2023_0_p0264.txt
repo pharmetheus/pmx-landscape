@@ -1,0 +1,69 @@
+NDA/BLA Multi-di:
+elranatamab
+
+inary Review and Evaluation {BLA 761345}
+
+Figure 53: Applicant — Simplified QSP Model Schematic
+
+(a) (b) Model Components and Assumptions
+legend ‘Subcutaneous Transit Peripheral Compartment
+
+Multiple Myeloma Cells
+
+‘* MM cells can proliferate in the BM and be killed by
+Central Compariment bs Ab trimers
+
+= ‘+ MM cells have patient-specific BCMA densities
+
+x '* sBCMA is shed with a rate proportional to tumor
+
+08.000 Omar ; 7 burden (or MM cells)
++ Production rate of paraproteins (FLC and M-
+
+protein) is proportional to tumor burden
+
+( Bispecific (bsAb) binding
+
+D xt \ * Dimers from between BCMA, CD3+ T cell receptors,
+if or sBCMA
+
+T ii ve tof * CD3-bsAb-BCMA trimers drive tumor killing and T
+
+i+}
+
+cell activation with cytokine production
+
+. * High cytokine levels enhance retention of unbound
+| T cells at the BM
+
+/ {Data for model calibration & validation
+
+\. See aia wal ‘* Serum M-protein and involved FLC (calibration)
+\ J ) cmunerane 2 Free/total sBCMA (validation)
+Se \ + © / VPop initialization }
+
+(a0-c0080UA Dew = + Pooled participants’ sBCMA, M-protein and
+¥ involved FLC at baseline
+
+© CD3+ T cells and plasma cell % from literature
+
+Comey Bone Marrow Compartment
+
+The model describes the dynamic changes in MM cells over time in the bone marrow (BM) which provides a
+generalized site of action compartment. A bispecific antibody (bsAb) engages CD3 receptors of T cells and BCMA
+receptors on MM cells to form bsAb-CD3-BCMA trimers, which in turn jate MM cell death. MM cells produce
+paraproteins such as M-protein and free light chain (FLC) that serve as key biomarkers that can be measured in
+circulation and used for virtual patient assessment. Trimers also can activate bound T cells and lead to generic pro-
+inflammatory cytokine production that helps attenuate T cell migration out of the BM and enhances a pro-
+inflammatory state, mimicking T cell activation due to trimer formation. MM cells can shed BCMA receptors to
+
+generate soluble BCMA (sBCMA) both in the BM and in circulation. A bsAb can bind to sBCMA, as well as T cells in
+circulation in the central compartment.
+
+265
+Version date: January 2020 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5226136

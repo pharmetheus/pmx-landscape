@@ -1,0 +1,54 @@
+NDA/BLA Multi-disciplinary Review and Evaluation/New Drug Application (NDA) 219908
+REVTORPYK (gedatolisib)
+19.4.4. Exposure-Response Analysis
+
+19.4.4.1. ER (efficacy) Executive Summary
+
+The FDA’s Assessment:
+
+The exposure-efficacy analysis for gedatolisib was conducted using model-predicted individual
+exposures (Cmax, Cmin, and AUC from Cycle 1) and efficacy endpoints including tumor size (sum
+of diameters, SOD), progression-free survival (PFS), and best overall response (BOR). The
+analysis included 254 patients: 27 from Study B2151009 Arm D and 227 from Study CELC-G-
+301 Arms A and B (121 from Arm A and 106 from Arm B). All patients received gedatolisib
+180 mg IV on Days 1, 8 and 15 of each 28-day cycle.
+
+In the range of gedatolisib exposures observed after administration of the current proposed
+dosing regimen, no significant effects of exposure on the efficacy endpoints tumor size, PFS, and
+BOR were detected. Specifically:
+
+Tumor size: Loess regression lines for tumor size versus time, stratified by Cycle 1 Cmin, AUC,
+and Cmax quartiles, showed no apparent dependence on exposure. A slight trend toward greater
+tumor shrinkage at higher exposures was observed for maximum percent change in SOD versus
+Cycle 1 AUC, but this was based on limited data at higher exposures and is not considered
+clinically meaningful.
+
+PFS: Kaplan-Meier plots of PFS stratified by Cycle 1 Cmin, AUC, and Cmax quartiles did not
+exhibit a clear and consistent relationship between exposure and PFS. Overlapping confidence
+intervals across exposure quartiles further support the absence of a meaningful E-R relationship
+for PFS.
+
+BOR: Box plots of Cycle 1 Cmin, AUC, and Cmax by BOR level (progressive disease, stable
+disease, partial response, complete response) showed no apparent relationship between exposure
+and BOR.
+
+The flat E-R relationship for efficacy suggests that similar efficacy is achieved across the range
+of exposures observed at the 180 mg dose. However, this analysis is limited by the narrow
+
+exposure range, as all patients received the same dose of 180 mg.
+
+19.4.4.2. ER (efficacy) Assessment Summary
+
+The Applicant’s Position:
+
+Refer to Section 19.4.1.2 PPK Assessment Summary
+
+General Information
+
+239
+Version date: February 10, 2025 (ALL NDA/BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5832496

@@ -1,0 +1,43 @@
+BLA 761184
+Ngenla (somatrogon)
+
+Figure 39. ETA Versus ETA Plot
+
+ETA1 ETA2
+
+WL
+
+tvia
+
+Source: Reviewer's independent analysis.
+14.3.1.4.4. Final Model
+
+The final model included time varying weight and ADA titer values as the only covariates.
+Parameter estimates of the final model are given in Table 81. Eta shrinkage of ETA for CL, Vo,
+and PROP were 26.1%, 35.1%, and 15.8%, respectively. Goodness-of-fit plots for the final
+model are given in Figure 40. The final model conditional number was 24.8 and no model
+parameter estimates had large correlation (i.e., coefficient of correlation >0.9).
+
+Table 81. Parameter Estimates of the Reviewer’s Final PopPK Model
+
+Parameter Description Estimate (RSE)
+OFV Objective function value 11697.889
+CL Clearance (L/h/17 kg) 0.5888 (5%)
+V2 Volume of central compartment (L/17 kg) 3.923 (17%)
+Q Intercompartment clearance (L/h/17 kg) 0.0205 (9%)
+V3 Volume of peripheral compartment (L/17 kg) 8.735 (31%)
+Ka Absorption rate constant (/h) 0.0475 (4%)
+PROP Proportional residual error 0.725 (6%)
+WTcL en exponent for scaling CL by time varying 4.02 (FIXED)
+wiv Aone exponent for scaling V2 by time varying 1.621 (9%)
+T50CL Percent decrease in CL for subjects with titer of x50_4 5346 (15%)
+dilution factor
+Percent decrease in CL for subjects with titerof =
+Tesock x250 dilution factor 0.3462 (9%)
+T1250CL Percent decrease in CL for subjects with titerof = _4 ca47 (6%)
+
+x1250 dilution factor
+
+145
+
+Reference ID: 4924352

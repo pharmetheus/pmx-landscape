@@ -1,0 +1,74 @@
+NDA/BLA Multi-disciplinary Review and Evaluation — NDA 219972
+Sevabertinib (BAY 2927088) — Version 2.0
+
+46, Race: Table
+14-41)
+
+Pediatrics (if
+any)
+
+Not applicable
+
+Dose(s) Included
+
+10 and 20 mg tablet BID (D/D1 subset)
+
+Exposure Metrics Explored
+(range)
+
+(Tables 14-50 — 14-55,
+Module 5.3.3.5, Report B003834)
+
+‘AUC2anss (1750 — 95580 Lg-h/L), Crroughss (18.3 - 3263 j1g/L),
+Cmaxss (171.6 — 4798 pig/L), AUC2tndeyt (1560 — 39300 yg-h/L)
+,Ctrough day1 (14.6 — 1554 pg/L), Cmaxdayt (165.7 — 2617 pg/L)
+
+Covariates Evaluated
+
+Body weight, Age, Sex, Race, Geographical region (Asia/North
+America/South America/Western Europe and Israel; China vs
+rest of the world; Japan vs rest of the world, Mutational status,
+Albumin, Smoking status, Time since diagnosis, ECOG
+performance, AJCC grading at initial diagnosis, Tumor stage,
+Baseline tumor size, Brain metastases, Liver metastases,
+Number of metastatic sites, Alkaline Phosphatase (ALP),
+Lactate dehydrogenase (LDH), Neutrophil to lymphocyte ratio
+(NL ratio), Previous lines of anti-cancer therapy, Prior platinum
+therapy, Prior immunotherapy, Prior HER2 Ex20ins-targeted
+Therapy, Prior EGFR Ex20ins-targeted Therapy
+
+Final Model Parameters Summary Acceptability
+[FDA’s comments]
+Model Structure ORR (D/D1 subset): logistic regression | Acceptable for ORR
+model with a non-linear/saturable/Emax
+type exposure-response relationship Not acceptable in
+BTR (D/D1 subset): Emax-type
+relationship with a BTR of zero for an
+exposure level of zero
+Model Parameter Estimates ORR (D/D1 subset): Table 17-4 Acceptable for ORR
+(Module 5.3.3.5, Report B003834)
+Not acceptable for
+BTR (D/D1 subset): Table 17-8 BTR
+(Module 5.3.3.5, Report B003834)
+Model Evaluation ORR (D/D1 subset): Figure 10-10 Acceptable for ORR
+(Module 5.3.3.5, Report B003834)
+Not acceptable for
+BTR (D/D1 subset): Figure 10-20 BTR
+(Module 5.3.3.5, Report B003834)
+Covariates and Clinical Relevance | None of the baseline covariates has a Acceptable for ORR
+Statistically significant effect on either Not table f
+ORR or BTR in the D/D1 subset eet
+Simulation for Specific Population | Not applicable
+Visualization of E-R relationships | Figure 3-7 (Module 5.3.3.5, Acceptable for ORR
+Report B003834) for both ORR and N
+lot acceptable for
+BIR BTR
+
+310
+
+Version date: March 1, 2024 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5697816

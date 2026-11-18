@@ -1,0 +1,60 @@
+NDA/BLA Multi-disciplinary Review and Evaluation - BLA 761460
+Pivekimab Sunirine (IMGN632)
+
+CYP3A inhibitors include language to develop and validate a more sensitive ADC bioanalytical
+method and implement adequate PK sampling procedures to allow for PK assessment of these
+factors.
+
+High percentage of BLQ PK samples
+
+The majority of all PK samples from CADENZA and Study 802 were BLQ. In CADENZA,
+57% of ADC samples, 66% of TAb samples, and 78% of FGN849 samples were BLQ. In Study
+802, 58% of ADC samples, 68% of total antibody samples, and 90% of FGN849 samples were
+BLQ (Table 12). The Applicant attributed the high percentage of BLQ samples to the low
+dosages of PVEK received by patients in both studies and the short half-life of PVEK.
+
+Table 12. FDA — Summary of PK Samples that were BLQ in CADENZA and Study 802.
+
+CADENZA Study 802
+
+Analyte Number of Number of Percent Number of Number of Percent
+
+Total Samples _| BLQ Samples | Samples BLQ | Total Samples | BLQ Samples | Samples BLQ
+PVEK 2912 1660 57.0 3108 1817 58.5
+ADC
+FGN849 2848 2212 717 3065 2771 90.4
+Total 2815 1850 65.7 2995 2043 68.2
+Antibody
+Total 8575 5722 66.7 9168 6631 72.3
+
+Source: Reviewer Analysis
+
+The FDA conducted further review of the assays for the ADC, TAb, and FGN849 to determine if
+issues with the bioanalytical method may have contributed to the high percentage of BLQ
+samples. The FDA determined that the relatively low sensitivity of the ADC bioanalytical
+method (LLOQ = ) ng/mL) used in the CADENZA study and Study 802 may have
+contributed to the high rate of BLQ samples in both studies and that higher sensitivity for the
+ADC assay may be achievable with a different assay method (e.g., chemiluminescence
+immunoassay). The FDA also determined that the TAb bioanalytical method validation was not
+adequate, as serum total antibody concentrations were determined with a modified method that
+was not cross-validated with the original method. Furthermore, the assay sensitivity was updated
+to ng/mL for the LLOQ (original assay sensitivity: {ng/mL for LLOQ) for the modified
+method, which was not adequately sensitive to detect the TAb concentration in the majority of
+the TAb PK samples. Refer to Section 19.4.1 for additional information.
+
+The FDA also conducted an inspection of the analytical site for the ADC and TAb PK samples.
+Inspection findings included 1 case of inadvertent reanalysis for 1 sample and improper
+documentation of 3 of the 5 freeze-thaw cycles. Neither of these findings are expected to
+significantly impact the observed PK data, as the issue with 1 PK sample is unlikely to affect the
+overall PK results and because the 5 freeze-thaw cycle data is acceptable.
+
+Anomalous PK Datapoints
+There were several PK datapoints that were determined to be anomalous for the following
+
+75
+Version date: February 10, 2025 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as "Data" and "The Applicant's Position" are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5805215

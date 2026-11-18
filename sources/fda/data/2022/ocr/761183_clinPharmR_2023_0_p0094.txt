@@ -1,0 +1,58 @@
+Reviewer's Assessment on the exposure versus total lymphocyte decline relationship
+
+The exposure-response relationship is very shallow and the EC50 parameter of 306.5 ng*day/mL was
+not precisely estimated in the Emax model (asymptotic 95%CI included zero). This is likely due to the
+few exposure-PD observations and large variability in the PD outcome around the EC50 value as
+shown from Figure 30 and from the quantile plot in Figure 31.
+
+e Figure 31 shows that almost all the observations from the 3 treatment arms are in the plateau of the
+Emax relationship.
+
+Figure 31. Teplizumab AUCinf versus Total Lymphocytes Decline Relationship During the First 28 Days
+of Treatment and Expected Distribution of Teplizumab Exposure Under AGC biologics product (Lower
+
+Panel): Protégé Study Population
+Arms: © Full 14-dayHerolé 4 1/3 14-dayHerold = Full 6-day Herold
+
+20
+g
+25 4 “woe
+33 —
+- —
+So = °
+3° ° «
+22 40; °
+2° .
+5s “0
+38 .
+a= -80} «
+€
+>
+a -100:
+o 2000 4000 6000 8000 10000 12000
+Teplizumab AUC(0-inf) (ng*day/mL), all patients
+Full 6-day i
+113 14-day, —}——
+AGC, Full 14-day
+Full 14-day —§#§|__x—
+
+0 2000 4000 6000 2000 10000 12000
+
+Teplizumab AUC(0-inf) (ng*day/mL), per dosing regimen protocol
+
+e In Figure 30, the sponsor overlaid the expected teplizumab exposure in the healthy subject from PRV-
+031-004 study receiving the full 14-day regimen, which may not be fully representative of the Protégé
+study population used to build the Emax model. The boxplots in Figure 31 provides the distribution of
+teplizumab AUCinf in patients from the Protégé study who received all their treatment doses. The
+grey boxplot represents the predicted exposure under the full 14-day regimen in the Protégé study
+patients if they were to receive the AGC Biologics product (AGC doses were estimated to be 55% of
+the Eli Lilly or MacroGenics doses, as previously predicted from the PRV-031-004 study PK model).
+Table 20 provides the estimated distribution of teplizumab AUC under the different dosing regimen,
+and Table 21 provides the expected percentage of maximum PD effect under various teplizumab
+exposure values. As shown from Figure 31, Table 20 and Table 21, the maximum or near maximum
+effect on total lymphocyte decline is reached under the exposures observed from the 3 different
+dosing regimens, with almost 70% of Emax reached with the minimum teplizumab exposure under
+
+69
+
+Reference ID: 8088806

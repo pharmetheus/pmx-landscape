@@ -1,0 +1,75 @@
+BLA 761367
+Andembry / garadacimab
+
+Bench-top/process Stable in human plasma at room temperature for 169.5 h, and Yes
+
+stability for up to 166.75 h under refrigeration.
+Freeze-thaw stability Established for up to 5 freeze-thaw cycles Yes
+Long-term storage Established stability in human plasma at -80°C for 46 days. Yes
+
+Note that in method TP80240, stability in human plasma
+
+at -80°C was established for up to 241 days.
+Source: Bioanalytical report V1382005P3.
+* Standard curves were initially developed using nine calibrators between 1.01 and 111 ng/mL. An LLOQ of 1.01 ng/mL was
+determined for procedure TP80240. In TP80003, initial evaluations of selectivity at 1.01 ng/mL did not meet acceptance criteria
+Thus, the LLOQ was increased to 10.6 ng/mL. Prior to the investigation, there were 5 standard calibrators between the LLOQ and
+ULOQ (10.6, 19.1, 34.3, 61.7, and 111 ng/mL). After the investigation, there were 7 standard calibrators between the LLOQ and
+ULOQ (10.6, 17.3, 25.1, 36.4, 52.8, 76.6, and 111 ng/mL). Reported accuracy and precision results represent data across all runs
+between the LLOQ and ULOQ
+» Accuracy and precision were determined for 5 QCs assuming an LLOQ of 1.01 ng/mL. QC concentrations were 1.01, 3.00, 40.0,
+80.0, and 111 ng/mL. As the assay LLOQ is 10.6 ng/mL, values are reported for 3 QCs of 40.0, 80.0, and 111 ng/mL. Note that
+acceptance criteria were met at concentrations of 1.01 and 3.00 ng/mL (%bias <4.7%, %CV <9.1%, %TE <21.1%).
+Abbreviations: CV, coefficient of variation; LLOQ, lower limit of quantification; QC, quality control;, ULOQ, upper limit of
+quantification
+
+Table 85. PK Method Validation for RnD-SOP-000053053
+
+Report Number and Title: Module 5.3.1.4, REP-007315 [formerly REP-19829] (manual method), CSL312 Pharmacokinetic Assay
+Validation Report
+Assay Procedure: RnD-SOP-000053053 (manual method)
+Acceptance criteria Summary of result Source location in
+validation report
+System suitability | RE and CV < 20% for 7 out of 9 non-zero standards | RE: -1.6% to 1.1% Tables 2
+(excluding anchor points) CV: 1.34% to 3.24%
+Selectivity RE and CV < 20% for 80% of samples RE: -14.2% to 22.9% Table 4
+CV: 4.7% to 19.0%
+Dilutional linearity] RE < 30% RE: -6.9% to 25.4% Table §
+Range Determined by the acceptable range for accuracy and_ | 1.25 to 100 ng/mL Section 7.4
+precision
+Accuracy RE < 20% (< 25% for LLOQULOQ) Repeatability: -23.3% to 1.7% Tables 6.
+Inter-assay precision: 12.7% to 0.7%
+Inter-operative precision: -12.5% to -0.1%
+Intermediate CV < 20% (< 25% for ULC/UHO) Repeatability: 2.9% to 10.0% Tables 6, 7. 8
+precision. Inter-assay precision: 4.4% to 22.1%
+repeatability Inter-operative precision: 7% to 20%
+Quantitation limit | Quantitatively determined with acceptable precision | LLOQ: 125 ng/mL Section 7.7
+and accuracy Minimum required dilution: 100
+Robustness CV and RE < 20% Freeze / thaw cycles: $ freeze / thaw Tables 9, 10
+cycles
+Plate coating time: Up to 72 hours at 4°C
+
+Source: Table 3, Summary of Biopharmaceutic Studies.
+
+Note: The minimum required dilution (MRD) of the assay is 1:100. Standard curves used a five-parameter curve fit without
+weighting.
+
+Precision and accuracy were demonstrated by interpolating the concentration of five controls and examining the relative error (RE)
+and coefficient of variation (CV). Based on the concentrations of the controls (i.e., 1.25, 5, 40, 80, and 100 ng/mL), the range of the
+assay was shown to be 1.25 to 100 ng/mL.
+
+Acceptance criteria of relative error <30% for dilutional linearity is not considered with FDA’s Guidance for Industry, M10
+Bioanalytical Method Validation and Study Sample Analysis (November 2022). The calculated mean concentration should be within
+20% of the nominal concentration. The observed relative error of 25.4% was derived from 1/6 individual plasma lots. Among the
+remaining five lots, relative error ranged from -6.9 to 11.4%.
+
+Repeatability refers to three sets of controls assayed on one plate; interassay precision refers to three sets of controls assayed on a
+different plate and performed on different days by one operator, interoperator precision refers to three sets of controls assayed on
+three separate days by two different operators.
+
+Abbreviations: LLOQ, lower limit of quantification; PK, pharmacokinetics
+
+170
+Integrated Review Template, version 3.0 (05/25/2022)
+
+Reference ID: 5458438

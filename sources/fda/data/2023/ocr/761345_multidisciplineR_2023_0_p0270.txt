@@ -1,0 +1,68 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {BLA 761345}
+elranatamab
+
+expressing CD3 receptors can bind BsAb either at the site of action or central compartment.
+BsAB-CD3 -BCMA trimers are the driving force of MM cell killing and production of a generic
+pro-inflammatory cytokine species.
+
+Figure 58: FDA — Simplified schematic of the QSP model
+
+Legend Subcutaneous Transit Peripheral Compartment
+
+Bane ese
+¢ i
+Central Compartment
+¢ + — —
+SABC \ = A
+\ 042.003 Diner
+Freoligh —Soum Onekines
+Gren ePioen <> SoMa 4
+| <=<{| —|
+’
+
+5 eek
+
+a
+=a
+ase _ \
+ie oo s Tost \ 4
+y | |
+Vi \
+
+A t
+Tumor Dean |
+| A
+\ } i
+\ |
+ARAB-BCMA Dimer BAB-COS Liner
++ \ /
+J / A Gytokine Transit
+/ /
+ee /
+Z
++
+8AS-COSECMA Irmer a
+Cytokines Bone Marrow Compartment
+
+Source: Figure 1 of the Applicant’s QSP report
+
+The main model interactions in the central and BM compartments are outlined below. Briefly,
+in the central compartment, the key interactions described by the model involve binding of
+BsAb to sBCMA receptors in circulation and to circulatory T cell CD3 receptors. The synthesis of
+sBCMA in the central compartment is assumed to be proportional to total tumor burden.
+Besides binding drug, T cells can transit between the central and the BM compartments. To
+retain T cell steady state dynamics in circulation, a zero-order proliferation term, proportional
+to baseline T cell density and clearance rate, was incorporated in the T cell model equations.
+Serum FLC and M-protein dynamics are described by a balance of synthesis rates (following the
+same form as those for sBCMA, i.e., proportional to total tumor burden) and degradation rates.
+In the BM compartment (tumor site of action) where MM cells are produced and proliferate, a
+
+BsAb can bind: i) myeloma cell BCMA receptors, ii) T cell CD3 receptors, and iii) shed sBCMA.
+
+271
+Version date: January 2020 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5226136

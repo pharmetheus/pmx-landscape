@@ -1,0 +1,60 @@
+NDA/BLA Multi-disciplinary Review and Evaluation/New Drug Application (NDA) 219908
+REVTORPYK (gedatolisib)
+e BICR vs Investigator Progressive Disease/Non-Progressive Disease Concordance
+
+The overall concordance rate of progressive disease (PD)/Non-PD between BICR and
+Investigators was 75.3% with K Statistics of 0.50 (95% CI: 0.42, 0.58) (Table 30).
+
+Discrepancy rates were also calculated as a post hoc analysis, with the Early Discrepancy Rate =
+0.319, representing the proportion of subjects (31.9%) with Investigator-assessed progression
+that was not confirmed by BICR at the time of progression, and the Late Discrepancy Rate =
+0.616, representing the proportion of subjects (61.6%) censored (i.e., assessed as not progressed)
+by the Investigator but subsequently found to have progressed by BICR. As specified in the
+protocol, the primary analyses were based on BICR data, which demonstrated a robust treatment
+
+effect.
+
+Table 30: Concordance of Disease Progression — BICR vs Investigator Assessment (ITT;
+
+Study 1)
+Investigator’s Assessment, BICR Assessment, n (%)
+n (%) Disease Progression __No Disease Progression Total
+Disease Progression 182 (46.4) 81 (20.7) 263 (67.1)
+No Disease Progression 16 (4.1) 113 (28.8) 129 (32.9)
+Total 198 (50.5) 194 (49.5) 392 (100)
+Concordance Rate (%) * 75.3%
+
+K Statistics (95% CI): 0.50 (0.42, 0.58)
+Abbreviations: BICR = blinded independent central review: CI = confidence interval; CSR = clinical study report; ITT = Intent-
+to-Treat Analysis Set: n = number of subjects: vs = versus.
+Subjects who did not have an available post-tumor assessment were considered as “No Disease Progression”.
+
+a. Concordance Rate: Sum of agreement / Total
+Source: Module 5.3.5.1, CELC-G-301 CSR (Table 14.1.1.6.1.1).
+
+The FDA’s Assessment:
+
+The FDA agrees that there was a statistically significant improvement in the primary endpoint of
+PFS as assessed by BICR for both gedatolisib + palbociclib + fulvestrant (Arm A) vs. fulvestrant
+(Amn C) and gedatolisib + fulvestrant (Arm B) vs. fulvestrant (Arm C), in favor of the respective
+gedatolisib containing arms.
+
+FDA notes that the stratified analyses (including the stratified Cox proportional hazards
+regression model for hazard ratio estimation and the stratified log-rank test) for PFS for Arm A.
+vs Arm C and PFS for Arm B vs Arm C were stratified by visceral metastasis status and
+geographic region. The remaining randomization stratification factor of time to disease
+progression on immediate prior therapy was removed from the stratified analysis due to sparsity
+and was included as an independent factor in the estimation of the HR as pre-specified in the
+SAP.
+
+The FDA generally recommends that the HR should be estimated from a Cox proportional
+hazards regression model with treatment as the only covariate to avoid concems regarding non-
+linearity, proportional hazards, and collapsibility.
+
+131
+Version date: February 10, 2025 (ALL NDA/BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5832496

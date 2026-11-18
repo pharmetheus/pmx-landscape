@@ -1,0 +1,102 @@
+BLA Multi-disciplinary Review and Evaluation {Biologics License Application (BLA) 761324
+
+{epcoritamab}
+
+19.4.5.3. ER (safety) Executive Summary
+
+The FDA’s Assessment:
+
+The E-R safety analysis did not identify any safety issues with the proposed epcoritamab dosage
+regimen. Patients with higher exposure were more likely to experience injection site reactions,
+but no other E-R safety associations with higher Cycle 1 AUC were identified.
+
+19.4.5.4. ER (safety) Assessment Summary
+
+The Applicant’s Position:
+
+General Information
+
+Goal of ER analysis
+
+The objectives of the exposure-safety analysis were to assess the relationships
+between epcoritamab exposures and key safety endpoints
+
+Study Included
+
+GCT3013-01 and GCT3013-04
+
+Population Included
+
+Relapsed, Progressive or Refractory B-Cell Lymphoma, including aNHL, iNHL, and
+MCL
+
+Endpoint
+
+CRS, (any grade, grade >2, CRS requiring tocilizumab);
+ICANS (any grade);
+
+CTLS (any grade);
+
+grade >3 treatment-emergent adverse events (TEAE);
+serious TEAE;
+
+TEAE leading to dose delay;
+
+TEAE leading to treatment discontinuation;
+
+grade >3 Neutropenia (TEAE);
+
+grade >3 Infections (TEAE);
+
+injection site reactions.
+
+No. of Patients (total,
+and with individual PK)
+
+359 patients
+
+Dose(s) Included
+
+Priming doses of epcoritamab tested include 0.004, 0.0128, 0.04, 0.08, 0.12, and
+0.16 mg. Intermediate doses of epcoritamab tested include 0.25, 0.5, 0.8, and 1.6
+mg. Full doses of epcoritamab tested include 0.0128, 0.04, 0.12, 0.38, 0.76, 1.5, 3,
+
+6, 12, 24, 48, and 60 mg
+
+Exposure Metrics
+Explored (range)
+
+Predicted AUC over the first cycle (Cycle 1 AUQ);
+Predicted Cmax following each of the 4 doses of Cycle 1.
+
+Covariates Evaluated N/A
+Final Model Summary Acceptability
+Parameters [FDA’s comments]
+
+Model Structure
+
+Linear logistic regression model
+
+Specific Population
+
+Model Parameter N/A TEAE rates across Cycle 1 AUC tertiles
+Estimates was conducted.
+
+Model Evaluation N/A
+
+Covariates and N/A The E-R safety analysis was limited by
+Clinical Relevance use of Cycle 1 AUC following actual
+Simulation for N/A dosing records as the exposure
+
+Logistic regression and comparison of
+
+metric because associations were
+
+301
+
+Version date: June 2022 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5176690

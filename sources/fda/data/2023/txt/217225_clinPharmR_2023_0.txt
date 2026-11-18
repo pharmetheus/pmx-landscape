@@ -1,0 +1,630 @@
+CENTER FOR DRUG EVALUATION AND
+RESEARCH
+APPLICATION NUMBER:
+
+217225Orig1s000
+CLINICAL PHARMACOLOGY
+REVIEW(S)
+
+Office of Clinical Pharmacology Review
+NDA or BLA Number
+Link to EDR
+Applicant
+Proposed Brand Name, Drug,
+Dosage Form and Strength
+Submission Type
+Submission Date
+PUDFA Goal Date
+Proposed Indication
+
+217225
+\\CDSESUB1\evsprod\NDA217225\0001
+Iveric Bio
+Izervay
+
+Proposed Dosing Regimen &
+Instructions
+
+2 mg (0.1 mL of 20 mg/mL solution) administered by
+intravitreal injection once monthly (approximately 28
+± 7 days)
+77902
+DIIP
+Amit A. Somani, B. Pharm., Ph. D.
+Senior Clinical Pharmacology Reviewer
+and Pharmacometrics Reviewer
+
+Associated IND
+OCP Division
+OCP Review Team
+
+Priority
+12/19/2022
+8/19/2023
+For treatment of Geographic Atrophy (GA) secondary
+to age-related macular degeneration (AMD)
+
+Youwei Bi, Ph.D.
+Pharmacometrics Team Leader, DPM
+
+OCP Final Signatory
+
+Ping Ji, Ph. D.
+Clinical Pharmacology Team Leader, DIIP
+Ping Ji., Ph. D.
+
+1
+
+Reference ID: 5176732
+
+Table of Contents
+1. EXECUTIVE SUMMARY ................................................................................................................ 4
+1.1 Recommendations ................................................................................................................ 4
+1.2 Post-Marketing Requirements and Commitments ............................................................... 5
+2. SUMMARY OF CLINICAL PHARMACOLOGY ASSESSMENT .......................................................... 5
+2.1 Pharmacology and Clinical Pharmacokinetics....................................................................... 5
+2.2 Dosing and Therapeutic Individualization ............................................................................. 6
+2.2.1 General dosing ................................................................................................................ 6
+2.2.2 Therapeutic individualization ......................................................................................... 6
+2.3 Outstanding Issues ................................................................................................................ 6
+2.4 Summary of Labeling Recommendations ............................................................................. 6
+3. COMPREHENSIVE CLINICAL PHARMACOLOGY REVIEW.............................................................. 6
+3.1 Overview of the Product and Regulatory Background ......................................................... 6
+3.2 General Pharmacology and Pharmacokinetic Characteristics .............................................. 7
+3.3 Clinical Pharmacology Review Questions ............................................................................. 8
+3.3.1 To what extent does the available clinical pharmacology information provide pivotal
+or supportive evidence of effectiveness? ............................................................................... 8
+3.3.2 Is the proposed dosing regimen appropriate for the general patient population for
+which the indication is being sought? ..................................................................................... 9
+3.3.3 Is an alternative dosing regimen and/or management strategy required for
+subpopulations based on intrinsic factors?............................................................................. 9
+3.3.4 Are there clinically relevant food-drug or drug-drug interactions and what is the
+appropriate management strategy? ....................................................................................... 9
+4. APPENDICES .............................................................................................................................. 10
+4.1 Summary of Bioanalytical Method Validation and Performance ....................................... 10
+4.2 Population PK Analyses ....................................................................................................... 12
+4.3 Study OPH2000 Individual Study Review ............................................................................ 19
+
+2
+
+Reference ID: 5176732
+
+List of Tables
+Table 1. Clinical Pharmacology Recommendations and Comments .............................................. 4
+Table 2. General Pharmacology and Pharmacokinetic Characteristics .......................................... 7
+Table 3. Bioanalytical Method Validation of Avacincaptad pegol ................................................ 11
+Table 4. Bioanlaytical Method Performance of Avacincaptad pegol ........................................... 12
+Table 5. Baseline Population Characteristics in the PopPK Model Evaluation Dataset –
+Categorical Data ............................................................................................................................ 13
+Table 6. Population PK Analysis of Avacincaptad Pegol: Parameter Estimates ........................... 17
+Table 7. Summary of PK Parameters from Study OPH2000 ......................................................... 21
+List of Figures
+Figure 1. Goodness of Fit Plots of the Final PopPK Model: Population and Individual Predicted
+vs. Observed Concentrations of Avacincaptad Pegol ................................................................... 15
+Figure 2. Visual Predictive Checks of Final Population PK Model................................................. 16
+Figure 3. Mean Concentration-Time Profiles of Avacincaptad Pegol at Month 1, 2 and 12 for
+Each Dose Level............................................................................................................................. 18
+Figure 4. Study OPH2000 Design Schematic ................................................................................. 19
+
+3
+
+Reference ID: 5176732
+
+1. EXECUTIVE SUMMARY
+This submission is a 505(b)(1) NDA for IZERVAY [avacincaptad pegol (also known as
+ARC1905 or Zimura)], which is a 2 mg (0.1 mL of 20 mg/mL solution) for ophthalmic
+intravitreal (IVT) injection for the treatment of geographic atrophy (GA) secondary to agerelated macular degeneration (AMD).
+Pharmacokinetic (PK) data for proposed to-be-marketed (TBM) avacincaptad pegol was
+collected in phase 1 study OPH2000. The clinical pharmacology review was focused on
+reviewing PK and Population (Pop) PK information for avacincaptad pegol from Study
+OPH2000.
+
+1.1 Recommendations
+The Office of Clinical Pharmacology (OCP) has reviewed the relevant Clinical Pharmacology
+information provided by the Applicant in NDA 217225 for avacincaptad pegol solution for
+IVT injection and recommends approval of this NDA. The key review issues with specific
+clinical pharmacology recommendations and comments are summarized in Table 1.
+Table 1. Clinical Pharmacology Recommendations and Comments
+Review Issue
+Pivotal or
+supportive evidence
+of effectiveness
+
+Recommendations and Comments
+Pivotal evidence of effectiveness is derived from two Phase 3 studies:
+Studies OPH2003 and ISEE2008. See clinical review for additional details.
+
+General dosing
+instructions
+
+2 mg (0.1 mL of 20 mg/mL solution) administered by IVT injection once
+monthly (approximately 28 ± 7 days).
+
+Dosing in patient
+subgroups (intrinsic and
+extrinsic factors)
+Labeling
+Bridge between the
+to-be-marketed (TBM)
+and clinical trial
+formulations
+
+The proposed dosing regimen was evaluated in two pivotal phase 3 studies
+(OPH2003 and ISEE2008).
+No dose adjustments based on any intrinsic or extrinsic factors are
+recommended.
+Labeling recommendations are not finalized at the time of this
+review and discussions on labeling language are ongoing.
+A bridging pharmacokinetic (PK) study between the TBM and clinical trial
+formulation is not warranted since no change in formulation was made
+throughout the development program as per the Applicant
+
+4
+
+Reference ID: 5176732
+
+1.2 Post-Marketing Requirements and Commitments
+None.
+
+2. SUMMARY OF CLINICAL PHARMACOLOGY ASSESSMENT
+2.1 Pharmacology and Clinical Pharmacokinetics
+Mechanism of Action
+Avacincaptad pegol is an RNA aptamer, a PEGylated oligonucleotide that binds to and inhibits
+complement protein C5. By inhibiting C5, avacincaptad pegol prevents its cleavage to C5a (the
+proinflammatory anaphylatoxin) and C5b [the initiating subunit of the membrane attack
+complex (MAC or C5b-9)] thus preventing MAC formation.
+Pharmacokinetics
+The Study OPH2000 evaluated the safety, tolerability, and PK profile of avacincaptad pegol IVT
+injection when administered in combination with multiple doses of Lucentis 0.5 mg in patients
+with nAMD. See Appendix 4.3 of this review for details.
+Absorption/Distribution: Maximum avacincaptad pegol plasma concentrations (Cmax) are
+estimated to occur approximately 7 days post-dose. Mean free avacincaptad pegol plasma Cmax
+is estimated to be 68.4 ng/mL (57.8%) in neovascular AMD (nAMD) patients. Although not
+directly measured in the vitreous, no or minimal accumulation of avacincaptad pegol is
+expected in the vitreous or plasma following monthly repeat administration. In humans, plasma
+avacincaptad pegol concentrations are predicted to be approximately 7,000-fold lower than
+vitreal concentrations. The maximum concentration of avacincaptad pegol in the vitreous
+humor is expected to be 500 µg/mL (500,000 ng/mL) immediately after the first injection
+assuming an homogeneous distribution in a vitreous volume of 4 mL (i.e., 2000 µg / 4 mL).
+Given a Cmax of 69.9 ng/mL after the first injection based on PopPK analysis, the systemic
+exposure to avacincaptad pegol after the first dose is 7,000 times lower than that expected in
+the vitreous humor.
+Based on a PopPK analysis of patients with nAMD, maximum plasma concentrations are
+predicted to be reached at approximately 90 days after monthly IVT administration of
+avacincaptad pegol 2 mg. See Section 4.2 for details of the PopPK analysis.
+Metabolism/Elimination: Avacincaptad pegol is a RNA aptamer. Avacincaptad pegol is
+expected to be catabolized by endonucleases and exonucleases to oligonucleotides of shorter
+lengths which may be excreted renally, in similar manner to the elimination of endogenous
+RNA. The metabolism of avacincaptad pegol has not been fully characterized. The estimated
+5
+
+Reference ID: 5176732
+
+half-life of avacincaptad pegol is approximately 12 days.
+
+2.2 Dosing and Therapeutic Individualization
+2.2.1 General dosing
+The proposed dosing regimen is 2 mg (0.1 mL of 20 mg/mL solution) administered by IVT
+injection once monthly (approximately 28 ± 7 days).
+2.2.2 Therapeutic individualization
+The therapeutic individualization is not needed.
+
+2.3 Outstanding Issues
+None.
+
+2.4 Summary of Labeling Recommendations
+Labeling recommendations are not finalized at the time of this review and discussions on
+labeling language are ongoing.
+
+3. COMPREHENSIVE CLINICAL PHARMACOLOGY REVIEW
+3.1 Overview of the Product and Regulatory Background
+Avacincaptad pegol is a PEG-conjugated RNA aptamer. RNA-based aptamers, like
+avacincaptad pegol, are chemically synthesized small molecules not derived from biological
+systems. Avacincaptad pegol is an inhibitor of complement activation that acts by binding to
+human C5 with high affinity (KD = 0.69 ± 0.148 nM at 37°C) and specificity.
+Some of the key regulatory interactions during the development of avacincaptad pegol are
+stated below:
+•
+
+Type B, Pre-IND Meeting - May 5, 2005
+
+•
+
+Fast Track Designation - Apr 1, 2020 (Fast Track Designation Grant Letter)
+
+•
+
+Type C, Clinical Pharmacology Meeting - Dec 6, 2021
+•
+
+Dissussed the PK assessment plan in a PK sub-study within ISEE2008,
+bioanalytical methodology, and PopPK model aspects
+
+•
+
+Reviewer comment: Even though the Applicant had initially planned to
+6
+
+Reference ID: 5176732
+
+have the PK data to be available from Study ISEE2008 during the review of
+the NDA, these were not submitted in the NDA. The plan for submission of
+this was clarified via an Information Request and it was confirmed that
+these PK data from Study ISEE2008 will not be available during the review
+cycle for this NDA. The lack of availability of PK data from this study was
+not deemed to be an approvability issue from a clinical pharmacology
+perspective.
+•
+
+Type B, Pre-NDA Meeting - May 27, 2022
+o Disssussed the the plan for Module 2.7.2, Summary of Clinical
+Pharmacology Studies
+
+3.2 General Pharmacology and Pharmacokinetic Characteristics
+The general pharmacology and pharmacokinetic characteristics of Avacincaptad pegol are
+summarized in Table 2.
+Table 2. General Pharmacology and Pharmacokinetic Characteristics
+Pharmacology
+
+Dosing
+Absorption
+
+Distribution
+
+Avacincaptad pegol
+Avacincaptad pegol is an RNA aptamer, a PEGylated
+oligonucleotide that binds to and inhibits complement protein
+C5. By inhibiting C5, avacincaptad pegol prevents its cleavage to
+C5a (the proinflammatory anaphylatoxin) and C5b [the initiating
+subunit of the membrane attack complex (MAC or C5b-9)] thus
+preventing MAC formation.
+2 mg (0.1 mL of 20 mg/mL solution) administered by IVT injection
+once monthly (approximately 28 ± 7 days).
+Mean free avacincaptad pegol plasma Cmax is estimated to be
+68.4 ng/mL (57.8%) in nAMD patients. The observed Tmax was 7
+days following single dose and predicted Tmax was 90 days
+following three monthly doses of 2 mg IVT injection. The
+predicted mean Cmax of avacincaptad pegol at Month 1, 2, 3 and
+12 for the 2 mg dose were 69.9, 82.0, 83.9 and 84.6 ng/mL,
+respectively. A minimal accumulation of avacincaptad pegol is
+expected in the vitreous or plasma following monthly repeat
+administration. The mean accumulation ratio at Month 12 based
+on predicted Cmin, Cmax and Cave were 1.30, 1.36, and 1.42
+respectively.
+With a Cmax of 69.9 ng/mL after the first IVT injection based on
+PopPK analysis, the systemic exposure to avacincaptad pegol
+7
+
+Reference ID: 5176732
+
+after the first dose is 7,000 times lower than that expected in the
+vitreous humor.
+Metabolism/Elimination Avacincaptad pegol is expected to be catabolized by
+endonucleases and exonucleases to oligonucleotides of shorter
+lengths which may be excreted renally, in similar manner to the
+elimination of endogenous RNA. The metabolism of avacincaptad
+pegol has not been fully characterized.
+The mean terminal half-life was estimated to be approximately
+12 days.
+Specific Populations
+Following repeat monthly IVT dose administration of 2 mg
+avacincaptad pegol, no differences in the systemic PK of
+avacincaptad pegol were observed based on age, sex, and body
+weight based on population PK analysis.
+The effect of severe renal impairment or any degree of hepatic
+impairment on the PK of avacincaptad pegol is unknown.
+Significant increases in plasma avacincaptad
+pegol exposures are not expected with IVT route of
+administration.
+Drug-drug Interaction
+No studies evaluating the drug interaction potential of
+avacincaptad pegol have been conducted. RNA-based aptamers
+are not predicted to directly affect the hepatic, renal, or biliary
+elimination of other small molecules.
+
+3.3 Clinical Pharmacology Review Questions
+3.3.1 To what extent does the available clinical pharmacology information provide
+pivotal or supportive evidence of effectiveness?
+The clinical pharmacology information does not provide pivotal or supportive evidence of
+effectiveness of avacincaptad pegol. Since avacincaptad pegol is administered as IVT injection
+and the site of action is eye, the systematic exposure is not expected to affect treatment
+effect.
+The efficacy of the proposed avacincaptad pegol dosing regimen in patients with GA
+secondary to AMD was evaluated in two independent, randomized, double-masked, shamcontrolled pivotal studies in patients with GA (OPH2003 and ISEE2008). See clinical/statistical
+review for details regarding evidence of effectiveness for avacincaptad pegol.
+
+8
+
+Reference ID: 5176732
+
+3.3.2 Is the proposed dosing regimen appropriate for the general patient population
+for which the indication is being sought?
+The proposed clinical dose of 2 mg administered by IVT injection once monthly is based on
+clinical efficacy and safety data obtained in two pivotal phase 3 multiple dose studies in
+patients with GA secondary to AMD (OPH2003, and ISEE2008).
+In Study OPH2003, the 2 mg and 4 mg doses showed the greatest reduction in the GA area
+growth compared with sham. The reduction in mean GA area growth compared with sham in
+the 1 mg once monthly dose group was less than that observed for the 2 mg or 4 mg once
+monthly dose groups across study visits. In Study ISEE2008, the safety and efficacy of the 2 mg
+given once monthly were assessed comparing to sham. The results of the primary efficacy
+analyses in the two pivotal studies demonstrated the efficacy of Zimura for the treatment of
+GA secondary to AMD. Since avacincaptad pegol is intended for IVT injection and the site of
+action is eye, the systematic exposure is not expected to affect treatment effect. Therefore,
+exposure-efficacy or exposure-safety relationship was not evaluated. Refer to clinical and
+statistical review for additional safety and efficacy information for the proposed dosing
+regimen in the patient population.
+3.3.3 Is an alternative dosing regimen and/or management strategy required for
+subpopulations based on intrinsic factors?
+An alternate dosing regimen is not needed for any of the subpopulations. For the proposed
+drug product, the intended site of drug delivery and action is the eye; therefore, the extent of
+systemic exposure based on differences among subpopulations is not likely to influence the
+proposed drug product’s efficacy. In addition, the information provided by the Applicant and
+assessment of the pharmacometrics (PM) aspects (see PopPK review in Appendix 4.2 for
+details) conclude that no clinically significant differences in the PK of avacincaptad pegol were
+observed based on age, sex, weight, and mild to moderate renal impairment.
+3.3.4 Are there clinically relevant food-drug or drug-drug interactions and what is the
+appropriate management strategy?
+The drug product is given via IVT injection; therefore, the issue of a food-drug
+interaction is not relevant.
+The potential for avacincaptad pegol to inhibit CYP450 enzymes was evaluated in vitro and
+based on the IC50 values (IC50 value were greater than 4 µM or 52 µg/mL) from this study
+and observed Cmax of 68.4 ng/mL, it can be concluded that the DDI potential is low. In the
+invitro study, avacincaptad pegol was determined to be a weak inhibitor of CYP1A2 and
+CYP2D6. However, a clinical DDI is unlikely for the reasons described earlier regarding the
+many fold greater IC50 value in micromolar levels compared to low systemic levels of
+9
+
+Reference ID: 5176732
+
+avacincaptad pegol in humans with the TBM product. The Cmax/Ki ratio for CYP1A2 and
+CYP2D6 was 0.0012, indicating that a CYP-mediated DDI is unlikely. No clinical drug
+interaction studies were conducted for avacincaptad pegol, which is acceptable.
+
+4. APPENDICES
+4.1 Summary of Bioanalytical Method Validation and Performance
+Avacincaptad pegol concentrations in human plasma were measured using a colorimetric
+hybridization assay with a lower limit of quantitation (LLOQ) of 3.4 ng/mL and an upper
+limit of quantitation (ULOQ) of 120 ng/mL. The analytical method validation and
+performance are deemed acceptable.
+The sample preparation, stability, analysis accuracy, and precision, and other relevant
+bioanalytical method aspects for relevant clinical pharmacology study were reviewed by
+the Clinical Pharmacology reviewer and are deemed to be acceptable. The method
+validation and performance results can be seen in Table 3 and Table 4, respectively.
+
+10
+
+Reference ID: 5176732
+
+Table 3. Bioanalytical Method Validation of Avacincaptad pegol
+
+Source: Module 2.7.1 of NDA 217225, Page 11, Table 2.7.1.1-5
+%CV = percentage of coefficient of variation; %RE = percentage of relative error; EDTA =
+ethylenediaminetetraacetic acid; K2EDTA = dipotassium EDTA; LLOQ = lower limit of quantification; QC = quality
+control; ULOQ = upper limit of quantification.
+
+11
+
+Reference ID: 5176732
+
+Table 4. Bioanlaytical Method Performance of Avacincaptad pegol
+
+Source: Module 2.7.1 of NDA 217225, Page 17, Adapted from Table 2.7.1.4-2
+%CV = percentage of coefficient of variation; %RE = percentage of relative error; HQC = higher quality control;
+LLOQ = lower limit of quantification; LQC = lower quality control; MQC = middle-quality control; QC = quality
+control; ULOQ = upper limit of quantification.
+
+4.2 Population PK Analyses
+The goal of the population PK (Pop PK) analysis was to develop a Pop PK model to perform Pop
+PK analysis of avacincaptad pegol in plasma following IVT injection in AMD patients and assess
+sources of intrinsic and extrinsic variability. Also, simulations were performed to determine
+steady state exposure and the extent of accumulation of avacincaptad pegol following repeated
+once monthly dosing.
+The Pop PK model included 1 clinical trial, OPH2000. The baseline population characteristics in
+the PopPK model evaluation dataset is provided in Table 5. The Pop PK analysis was conducted
+by the Applicant and the final Pop PK model was a one-compartment PK model with first-order
+rate constant of absorption (Ka). A variance component characterizing between-subjects
+variability (BSV) in model parameters was included, and residual unexplained variability was
+12
+
+Reference ID: 5176732
+
+modeled using additive, proportional or additive and proportional models.
+Dataset preparation, exploration and graphs was performed using R® Version 4.0 or higher.
+Population PK modeling was performed using NONMEM® Version 7.3 or higher.
+Because of the low systemic exposure of avacincaptad pegol, 39.9% of the PK samples had
+undetectable concentrations of avacincaptad pegol. Based on the expected low systemic
+exposure, different approaches for handling BLQ data were considered in order to reduce
+estimation bias and optimally characterize the terminal elimination half-life of avacincaptad
+pegol. The method M3 suggested by Beal is based on simultaneous modeling of continuous and
+categorical data where the BLQ observations are treated as categorical data. Thus, the base
+model was customized by including the likelihood method (M3) to account for the probability
+of undetectable concentrations of avacincaptad pegol over time.
+The goodness of fit plot and visual predictive checks (VPC) can be seen in Figure 1 and Figure 2,
+respectively.
+Table 5. Baseline Population Characteristics in the PopPK Model Evaluation Dataset –
+Categorical Data
+
+13
+
+Reference ID: 5176732
+
+Source: Applicant’s popPK report, Pages 17-18, Table 1-2
+
+14
+
+Reference ID: 5176732
+
+Figure 1. Goodness of Fit Plots of the Final PopPK Model: Population and Individual Predicted
+vs. Observed Concentrations of Avacincaptad Pegol
+
+Source: Applicant’s popPK report, Page 23, Figure 2
+
+15
+
+Reference ID: 5176732
+
+Figure 2. Visual Predictive Checks of Final Population PK Model
+
+Source: Applicant’s popPK report, Page 24, Figure 3
+
+The influence of continuous and categorical covariates was tested for their statistically
+significant impact on the PK parameters in the model. Covariates were selected based on
+known or hypothetical factors that could affect the PK. These covariates include dose, age,
+body weight, sex, creatinine clearance and degree of renal impairment. Selected covariates
+were formally tested using a forward addition process followed by a backward deletion
+process. Parameter estimates of final popoulation PK model are provided in Table 6.
+16
+
+Reference ID: 5176732
+
+Table 6. Population PK Analysis of Avacincaptad Pegol: Parameter Estimates
+
+Source: Applicant’s popPK report, Table 5, Page 22
+CL/F = apparent clearance, V/F = apparent volume of distribution; Ka = rate constant of absorption; Frel =
+relative bioavailability; BSV = between- subject variability; RSE = relative standard error.
+
+Based on a covariate analysis, the effect of dose on the absorption of avacincaptad pegol was
+statistically significant while other covariates such as age, body weight, sex, creatinine
+clearance and renal impairment (mild, moderate and severe) were not statistically significant.
+The effect of dose on Frel for dose levels ≥2 mg was -0.47, suggesting that the transfer of
+avacincaptad pegol from the vitreous humor to the bloodstream was reduced by 47%. For
+example, typical subjects receiving 2 and 3 mg doses would be expected to present systemic
+exposure equivalent to 1.06 and 1.59 mg doses, respectively. The effect of dose is likely
+attributed to the higher injection volume for the 2 and 3 mg dose levels (0.10 mL) as opposed
+the 0.03, 0.3 and 1 mg dose levels (0.05 mL).
+Reviewer comment: Overall, the final model reasonably well described the systematic
+observation of avacincaptad pegol. The statistically significant effect of dose on Frel suggests
+transfer of avacincaptad pegol from the vitreous humor to the bloodstream is likely to be
+reducted. This effect is not considered clinically relevant as the proposed dose is fixed 2 mg for
+all patients.
+Based on the final population PK model, individual Bayesian estimates of PK parameters were
+used to predict rich concentration-time profiles of avacincaptad pegol following once monthly
+dosing for 12 months. Mean concentration-time profiles at Month 1, 2, 3, and 12 for each dose
+levels are presented on linear scale and can be seen in Figure 3.
+
+17
+
+Reference ID: 5176732
+
+Figure 3. Mean Concentration-Time Profiles of Avacincaptad Pegol at Month 1, 2 and 12 for
+Each Dose Level
+
+Source: Applicant’s popPK report, Figure 4, Page 25
+
+The mean Cmax of avacincaptad pegol at Month 1, 2, 3 and 12 for the 2 mg dose were 69.9, 82.0,
+83.9 and 84.6 ng/mL, respectively. The Cmax at Month 3 was approximately 99% that observed
+at Month 12. Overall, maximum plasma concentrations are predicted to be reached within 90
+days (Month 3) after monthly IVT administration of avacincaptad pegol 2 mg consistent with a
+mean terminal half-life of approximately 12 days. The mean accumulation ratio at Month 12
+based on Cmin, Cmax and Cave were 1.30, 1.36 and 1.42 , respectively.
+Reviewer comment:
+Given a Cmax of 69.9 ng/mL after the first injection, applicant claims the systemic exposure to
+avacincaptad pegol after the first dose is 7,000 times lower than that expected in the vitreous
+humor. This was based on the assumption that homogeneous distribution in a vitreous volume
+of 4 mL (i.e., 2000 μg / 4 mL) will result in the Cmax of avacincaptad pegol in the vitreous humor
+at about 500 μg/mL immediately after the first injection. The Pop PK analysis performed by the
+Applicant appears reasonable to support the labeling claims made by Applicant regarding no
+differences in systemic PK of avacincaptad pegol based on age, sex, and body weight. Thus,
+there is no need for dose adjustment for any of the populations that have been studied with
+regards to age, sex, and body weight. The effect of severe renal impairment or any degree of
+18
+
+Reference ID: 5176732
+
+hepatic impairment on the PK of avacincaptad pegol is unknown. As significant increases in
+plasma avacincaptad pegol exposures are not expected with IVT route of administration, no
+dosage adjustment is needed based on renal or hepatic impairment status.
+
+4.3 Study OPH2000 Individual Study Review
+This was a first-in-human, two-part Phase 1 ascending multiple-dose open- label study where
+60 patients were enrolled. The study design can be seen in Figure 4.
+Figure 4. Study OPH2000 Design Schematic
+Following Protocol Amendment D, a fourth dose level (2 mg/eye) was added to replace the 3
+mg/eye dose level.
+
+Source: Study OPH2000 CSR, Figure 1, Page 23
+
+In Part 1, of the MAD study, patients were assigned to one of four avacincaptad pegol dose
+groups: 0.03, 0.3, 1, or 3 mg. The injection volumes were 0.05 mL for the avacincaptad pegol
+0.03 mg, 0.3 mg, and 1 mg doses and 0.1 mL for the avacincaptad pegol 3 mg dose. Patients
+received Lucentis (0.5 mg) followed by avacincaptad pegol on the same day for three dose
+administrations at four-week intervals, with follow-up visits at Week 12 and Week 24. Patients
+who were consented to Protocol Amendment C on or before the Week 12 visit received three
+additional doses of Lucentis (0.5 mg) followed by avacincaptad pegol at Weeks 12, 16, and 20,
+19
+
+Reference ID: 5176732
+
+with a follow-up visit at Week 24. Each dose group was enrolled in an escalating fashion once
+the third patient at each dose level completed a safety period of one week after their first
+dose of avacincaptad pegol, including visits at Day 1, Day 3, and Week 1. Venous blood
+samples for PK analysis were collected at 0 (pre-dose), 4, 24, 48, and 168 hours after
+administration of the first dose and pre-dose prior to the Week 4 and Week 8 IVT injections.
+In Part 2, the parallel group portion of the study, new patients were originally assigned to
+receive one of three doses of avacincaptad pegol: 0.3, 1, or 3 mg. Patients from Part 1 treated
+at the corresponding dose levels in Part 1 also contributed towards the total enrollment in
+each combination therapy cohort in Part 2. As also done in part 1 of the study, due to a drug
+stability issue with the 3 mg dose (possible dimerization of the aptamer), active patients in
+Part 2 originally assigned to the avacincaptad pegol 3 mg dose transitioned to the 1 mg dose
+group under Protocol Amendment D. No additional patients were enrolled in the 3 mg dose
+group. Also, at this time, an additional avacincaptad pegol dose group, 2 mg, was introduced.
+Patients received Lucentis (0.5 mg) followed by avacincaptad pegol on the same day for three
+dose administrations at four-week intervals, with follow-up visits at Week 12 and Week 24. As
+was done in Part 1, patients who were consented to Protocol Amendment C on or before the
+Week 12 visit received three additional doses of Lucentis (0.5 mg) followed by avacincaptad
+pegol at Weeks 12, 16, and 20, with a follow-up visit at Week 24. Venous blood samples for PK
+analysis in Part 2 were collected according to the same PK sampling scheme used in Part 1.
+The PK samples were analyzed for avacincaptad pegol concentrations using a colorimetric
+hybridization assay with a lower limit of quantitation (LLOQ) of 3.4 ng/mL and an upper limit
+of quantitation (ULOQ) of 120 ng/mL. The bioanalytical method is deemed to be acceptable as
+can be seen in Section 4.1 of this review.
+The PK parameters can be seen in Table 7. Avacincaptad pegol plasma concentrations were
+not detectable in any patients receiving avacincaptad pegol 0.03 mg. Plasma area under the
+curve AUC0-∞ and Cmax increased with increasing avacincaptad pegol dose from 0.3 mg to 3.0
+mg with the only exception being the similar Cmax of the 1 mg and 2 mg doses. Median time to
+maximum concentration (Tmax) values ranged from 5.4 days to 6.9 days. There was no
+meaningful accumulation of avacincaptad pegol in plasma following two avacincaptad pegol
+dose administrations given once a month (based on the mean pre-dose concentrations of 16.7
+and 20.3 ng/mL prior to the 2nd and 3rd doses at Weeks 4 and 8 respectively).
+The Cmax and AUC0-∞ of the avacincaptad pegol 1 mg dose were dose-proportional to the 0.3
+mg dose, whereas the Cmax and AUC0-∞ of the 2 mg and 3 mg doses were less than doseproportional to the 0.3 mg dose.
+
+20
+
+Reference ID: 5176732
+
+Table 7. Summary of PK Parameters from Study OPH2000
+
+Source: Module 2.7.2, Table 2.7.2.2-1, Page 15
+AUC = area under curve; Cmax = maximum concentration; CV = coefficient of variation; GA = geographic atrophy;
+IVT = intravitreal; nAMD = neovascular age-related macular degeneration; NC = not calculated; tmax = time to
+maximum concentration
+a
+tmax is reported as median (minimum – maximum).
+b
+Under Protocol Amendment D, the active patients in Part 2 originally assigned to 3 mg transitioned to the 1 mg
+dose group due to a drug stability issue with the 3 mg dose. Note: Avacincaptad pegol plasma concentrations were
+below the limit of detection in all patients receiving 0.03 mg dose. Thus, PK parameter were not analyzed.
+
+21
+
+Reference ID: 5176732
+
+Signature Page 1 of 1
+
+-------------------------------------------------------------------------------------------This is a representation of an electronic record that was signed
+electronically. Following this are manifestations of any and all
+electronic signatures for this electronic record.
+-------------------------------------------------------------------------------------------/s/
+-----------------------------------------------------------AMIT A SOMANI
+05/19/2023 02:28:38 PM
+YOUWEI N BI
+05/19/2023 03:01:15 PM
+PING JI
+05/19/2023 03:04:21 PM
+
+(
+
+Reference ID: 5176732
+
+

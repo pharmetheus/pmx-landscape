@@ -1,0 +1,57 @@
+BLA 761184
+Ngenla (somatrogon)
+
+14,3.3.1.2. Covariate Model
+
+The Applicant’s covariate model building was guided by exploratory graphs of ETA versus
+covariates and plots of weighted residuals versus time. ETA versus covariate plots identified
+baseline age and BMI as a covariate to ECso whereas residual plots identified age dependent
+increase in BASEIGF1. The identified covariate-parameter relations were added to the model
+one ata time in univariate analyses. After each addition graphical exploration were repeated to
+identify new relations. Stepwise addition of covariates was followed by stepwise deletion of
+covariates to achieve a final model.
+
+14.3.3.1.3. Final Model
+
+The Applicant selected 2 models with nearly identical objective function values as final PKPD
+models. Both models incorporated the effect of age on BASEIGF1. In the first model, BMI was a
+covariate on BASEIGF1, while in the second model BMI was a covariate on Emax. Table 86
+shows parameter estimates from the model with BMI as a covariate on BASEIGF1. Summary
+statistics of individual predicted BASEIGF1 and ECsp based on this model are given in Table 87.
+
+Table 85. Parameter Estimates for the Pharmacodynamic Optimal Model With Two Covariates:
+Baseline IGF-1 Increased With Age and BMI
+
+Description Estimate Inter-individual Variability*
+Decay rate (hour) 0.0493103 —t
+
+FACT2 1+ 0.13479 « (AGEt - 6) t+
+
+FACTS 1+0.06765 « (BMI§ - 15.2) —t
+
+Baseline IGF-1 (ng/mL) 10.15 * FACT2 * FACTS —t
+
+Emax 27.547 —t
+
+ECso (ng/mL) 56.6426 1.593
+
+Power term 0.538326 al
+
+Standard errors were not obtained.
+
+*Calculated as sqrt(omega’) where omega’ is the variance of the corresponding eta term; 68% of the population
+lies within this range of the typical value.
+
+T Inter-individual variability was not permitted for this term.
+
+E is time-varying age in years; 6 is the median value.
+
+§ BMI is time-varying BMI (mg/m?); 15.2 is the median value.
+
+Source: Population PK and PKPD report (Report number PMAR-EQDD-C031b-DP4-1121), page 7/1938.
+Abbreviations: BMI, body mass index; EC), 50% effective concentration, E,,«., maximum effect; IGF-1, insulin ke growth factor-1;
+PKPD, pharmacokinetics/pharmacodynamics
+
+155
+
+Reference ID: 4924352

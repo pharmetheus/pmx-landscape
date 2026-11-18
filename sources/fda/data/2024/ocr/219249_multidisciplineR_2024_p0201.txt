@@ -1,0 +1,28 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 219249}
+{Inavolisib}
+
+Model Evaluation: The goodness-of-fit (GOF) plots for the final population PK model are
+presented in Figure 8. The prediction-corrected VPC plots by study that demonstrate the
+observed and model-predicted concentrations of inavolisib are shown in Figure 9. Overall,
+individual observed concentrations of inavolisib were adequately fitted.
+
+Figure 8: GOF Plots for the Final Model (Semi-Log Scale)
+
+Notes: Dots are individual data points, solid red lines are smoothed LOESS lines and solid black lines are line: of identity.
+
+The slight bias seen for conditional weighted residuals vs time after dove (upper night panel) at a longer duration (>0.5 week) is
+ddue to the very limited and sparve samples at this time that are wrongly shifting the LOESS.
+
+Abbreviations: GOF=goodne::-of fit; LOESS=locally weighted scatterplot smoothing
+
+Source: Figure 8 on page 42 of Applicant’s population PK report
+
+Figure 9: Prediction-Corrected VPC by Study for Inavolisib (Semi-Log Scale)
+
+200
+Version date: June 2022 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5460147

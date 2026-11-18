@@ -1,0 +1,66 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 218213}
+Repotrectinib (BMS-986472)
+
+Exposure Metrics Explored (range) Cmaxr Cavey Cmaxss, Caves
+
+Covariates Evaluated ‘Age, baseline body weight, race, sex, baseline ECOG performance
+status score, genetic mutation, and TKI pretreatment status
+Final Model Parameters Summary Acceptability
+[FDA’s comments]
+Model Structure Logistic regression Logistic regression
+Pp analysis is acceptable
+LogitP; = log (>) for E-R safety
+= t analysis.
++ BexpXiexp + BiXin +
++ BpXip
+
+where Logit is the logit transformation
+using the natural logarithm function log,
+P,is the probability of occurrence of a
+specific event for the i*” subject, and Bp is
+the intercept representing the logit
+probability of occurrence of the event in
+the absence of repotrectinib and added
+covariate(s). Bexp is the slope of the
+relationship between repotrectinib’s
+exposure Xiexp and the logit probability of
+occurrence of the event. 6; ... Bp is the
+vector of parameters for covariate effects,
+and Xi1 ... Xip is the vector of covariate
+variables for subject i. p-Values, where
+provided, were descriptive only (not
+adjusted for multiplicity).
+
+Model Parameter Estimates Table 78 Acceptable
+
+Model Evaluation AVPC was performed for the final logistic Acceptable
+regression model using 1000 sets of model
+parameters randomly drawn based on the
+uncertainty of model estimation and
+applied to subjects in the analysis dataset.
+The VPC graphs demonstrated good
+agreement between the observed and
+simulated proportions of subjects with
+grade > 2 dizziness.
+
+Covariates and Clinical Relevance Acceptable.
+
+A statistically significant age effect on
+grade > 2 dizziness. As age increased, the
+probability of having grade > 2 dizziness
+increased.
+
+Simulation for Specific Population Food effect on grade > 2 dizziness was Acceptable.
+evaluated based on simulated PK
+exposures under fasted, modified fasted
+and fed conditions.
+
+Visualization of E-R relationships Figure 13 Acceptable.
+
+241
+
+Version date: June 2022 (ALL NDA/ BLA reviews)
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5277412

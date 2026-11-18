@@ -1,0 +1,36 @@
+BLA Multi-disciplinary Review and Evaluation BLA 761339 Pozelimab
+
+Figure 14. Comparison of Pre- and Post-Treatment Albumin Levels
+
+Week
+Source: Reviewer team’s figure, created using data from ad b dataset
+Note: Grey vertical dashed lines mark Weeks 12 and 24; red horizontal dashed line indicates 3.5 g/dL
+
+The review team considered analysis of change from baseline inappropriate since the pre-
+treatment values varied over time. Therefore, to quantify the pre- and post-treatment
+difference and the statistical uncertainty, the review team conducted a mixed model analysis,
+assuming a compound symmetric covariance structure, to evaluate the albumin level change
+for multiple time windows (pre/post-treatment of 12 weeks, 24 weeks, and 48 weeks).
+Specifically, the review team used a piecewise linear spline model with a knot at baseline such
+that the pre- and post-treatment rates of change for albumin level could be estimated via the
+generalized least squares method. The model was adjusted for concomitant medication usage.
+Four subjects did not have measurements between Week -48 and Week -24, but multiple
+measurements for these subjects were available prior to Week -48. The results are presented in
+Table 25. The estimates (95% Cls) of the pre- and post-treatment slopes of 12 weeks window
+indicated 0.018 g/dL per week (-0.017, 0.053) and 0.217 g/dL per week (0.187, 0.247),
+respectively. The difference between the two periods was nominally significant (0.199 g/dL per
+week (0.145, 0.253)), indicating a significant increase in albumin levels after pozelimab
+treatment. From the three different time windows, the review team observed the greatest
+increase in albumin levels within the first 12 weeks of starting treatment, which is explained by
+the fact that albumin levels reached normal levels and were maintained by Week 12 in all
+subjects. Longer pre- and post-treatment windows of 24 and 48 weeks also demonstrated
+nominally significant differences. Importantly, although some subjects did not have pre-
+treatment measurements in the Weeks -48 to -24, Weeks -24 to -12, or Weeks -12 to 0 times
+windows, the estimated pre-treatment slopes were similar regardless of time windows,
+indicating the mean slope of albumin levels remained stable over time without treatment.
+Although the model assumes a linear change in albumin over time, which likely does not
+accurately describe the change in albumin over time, we expect that the statistical inference
+
+97
+
+Reference ID: 5229031

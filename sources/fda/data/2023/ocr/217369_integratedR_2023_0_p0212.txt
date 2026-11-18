@@ -1,0 +1,54 @@
+NDA 217369
+
+ZURZUVAE (zuranolone)
+
+Table 136. Population Parameter Estimates of the Final Population PK Model for Zuranolone
+Parameter Descriptor Estimated Estimate C195
+Frac Fraction Dose Absorbed by TCAM1 fixed 0.733 «NA
+Frac- (JOM) Fraction Dose Absorbed by TCAM1 fixed 0.543 NA
+MTT; Mean ‘Transit Time - TCAMI (h) fixed 2.67 NA
+MTT;-CLP-114/1805A3711 Mean ‘Transit Time - TCAM1 CLP-114/1805A3711 (h) fixed 4.48 NA
+NTRy-Fed No. Transit Compartments - TCAM1 Fed fixed 3 NA
+NT R,-Fasted No. ‘Transit Compartments - TCAM1 Fasted (ratio) fixed 0.287 NA
+MTT;-Fed Mean Transit Time - TCAM2 Fed (h) fixed 4.31 NA
+MTT»-Fed-CLP-109 Mean ‘Transit Time - TCAM2 Fed CLP-109 (h) fixed 6.75 NA
+MTT;-Fasted Mean ‘Transit ‘Time - TCAM2 Fasted (ratio) fixed 371 NA
+NT Rg No. Transit Compartments - TCAM2 fixed 28 NA
+NT Ro-CLP-103 No. ‘Transit Compartments - TCAM2 CLP-103 fixed 0.856 NA
+NT Rp-1805A3711 No. Transit Compartments - TCAM2 1805A3711 fixed 308 NA
+Fra-Dose Bioavailability Dose Slope (1/mg) fixed 0.00272 NA
+Fret-Fasted Relative Bioavailability Fasted (ratio) fixed 0.598 NA
+Fal Oe Relative Bioavailability {/(1@)(ratio) fixed il NA
+CL/F Apparent Clearance (L/h) estimated 32.7 (31.9 - 33.6)
+Vi/F Apparent Central Volume of Distribution (L) estimated 588 (555 - 622)
+Q/F Apparent Intercompartmental Clearance (L/h) estimated 39.5 (36.8 - 42.4)
+Va/F Apparent Peripheral Volume of Distribution (L) estimated 636 (609 - 663)
+kp Partition Coefficient - Breast Milk/Plasma Concentrations estimated 0.507 (0.446 - 0.576)
+Frat-Dose Bioavailability Dose Slope (1/mg) fixed 0.00272 NA
+CL/Face Age on CL Power Coefficient estimated 0.153 _(-0.198 - -0.108)
+CL/Fwr WT on CL Power Coefficient estimated 0.27 (0.262 - 0.279)
+V/ Paez Male Effect on V (fraction) estimated 0.283 _(-0.291 - -0.276)
+V/Fwr WT on V Power Coefficient fixed 1 NA
+CL/Frace RACE on CL (fraction) estimated 0.137 (0.0930 - 0.181)
+oh IV Bioavailability fixed 0.0433 «NA
+herr WVyrrt fixed 0.145 = NA
+wen yr UV ctearance estimated 0.0876 —_ (0.0761 - 0.0990)
+up TV CentralV slumeof Distribution estimated 0.228 (0.181 - 0.274)
+chap IIV PeripheralV alueo{ Distribution estimated 0.00885 —_(-0,00442 - 0.0221)
+ohrrt IVyrri fixed 0.29 NA
+whric UVF rac fixed 2.04 NA
+sD Standard Deviation Exponential Error estimated 0.357 (0.351 - 0.362)
+
+‘Source: Adapted from PK-PD report dated Oct 24, 2022, Table
+
+14.
+
+Abbreviations: Clos, 95% confidence interval; NA, not applicable; PK, pharmacokinetic; TCAM1, first transit compartment chain;
+
+TCAM2, second transit compartment chain; wx, variance of inter-individual variability of parameter X
+
+Integrated Review Template, version 3.0 (05/25/2022)
+
+Reference ID: 5221664
+
+258

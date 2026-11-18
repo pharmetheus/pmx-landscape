@@ -1,0 +1,58 @@
+The two frequency models and the
+severity model each included separate
+components for baseline, placebo effects
+(i.e., non-drug effects), and fezolinetant
+drug effects. A temporal delay was
+estimated between fezolinetant exposure
+and maximum effects on hot flash
+
+frequency and
+
+severity. This delay was quantitated using
+a simple exponential model whereby the
+effective
+
+AUC (EAUC) increases over time until the
+steady-state AUC(0-t) is achieved.
+
+$0
+
+|avess(0 ~1);+(1-exp(~exp(Gea)ti)) if ty >0
+
+(0 if t
+BAUCY =
+
+tyrepresents time in days relative to the
+first day of active treatment for the ith
+subject on the jth day, AUCss(0-t); is the
+individual predicted steady-state AUC in
+the ith subject, and EAUC; is the effective
+AUC in the ith subject on the jth day.
+
+Severity endpoints: Multinomial model
+
+The total number of hot flashes into the
+number of mild, moderate, and severe hot
+flashes in each 24-hour interval for
+prediction of the hot flash severity
+endpoint.
+
+Model Parameter Estimates
+
+Applicant - Table 8, and 12
+
+Acceptable
+
+Model Evaluation
+
+Applicant - Figure 12,13,14, 21, 22,23, 24
+and 25
+
+Covariates and Clinical Relevance
+
+No intrinsic or extrinsic covariates which
+included age, BMI, race, smoking status,
+
+Reference ID: 5083095
+
+113

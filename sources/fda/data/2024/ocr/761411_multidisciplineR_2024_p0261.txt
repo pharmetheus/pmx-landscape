@@ -1,0 +1,106 @@
+BLA Multidisciplinary Review and Evaluation
+
+BLA 761411
+Niktimvo (axatilimab-csfr)
+
+patients weighing 40 kg and above.
+
+Higher Cycle 1 and steady state exposures were associated with higher rates of several TEAEs
+and laboratory-based changes, including TEAE leading to dose modifications, periorbital edema,
+and increased CPK, AST, ALT, lipase, and amylase.
+
+ER (safety) Assessment Summary
+
+The Applicant's Position:
+
+General Information
+
+Goal of ER analysis
+
+© To develop logistic regression models and linear regression models for
+different types of selected safety and biomarker endpoints with
+axatilimab exposure as a predictor
+
+© To perform a covariate search to identify clinically relevant intrinsic
+and extrinsic factors that impact safety
+
+¢ To evaluate various axatilimab dosing scenarios through simulations
+using the developed models to support the choice of an optimal
+treatment strategy
+
+Studies Included
+
+SNDX-6352-0503 and SNDX-6352-0504 (AGAVE-201)
+
+Population Included
+
+cGVHD patients
+
+Endpoint
+
+Major common AE/SAE, AE of interest
+
+No. of Patients (total, and
+with individual PK)
+
+278
+
+Population General
+Characteristics
+
+(Table 118)
+
+The overall population was 62.6% male (174 subjects), had a median age of
+55 years (range: 7-81 years), a median body weight of 72.4 kg (range: 18.1-
+151 kg) and was primarily White (83.1%, 231 subjects). Other reported
+races included Asian (5.8%, 16 subjects) and Black/African American (3.6%,
+10 subjects).
+
+Organ
+impairment
+
+Hepatic (NCI): Normal-219 (78.8%); Mild-59 (21.2%)
+
+Renal (CG): Normal-142 (51.1); Mild-101 (36.3%); Moderate-34 (12.2%);
+Unknown-1 (0.4%)
+
+Renal (MDRD): Normal-101 (36.3%); Mild-125 (45%); Moderate-48 (17.3%);
+Severe-3 (1.1%); Unknown-1 (0.4%)
+
+Pediatrics
+(if any)
+
+The pediatric population had a median age of 13 years (range: 7-16 years,
+0% subjects <=2 years, 0% subjects <=6 years, 50% subj <=12 years), a
+median body weight of 41 kg (range: 18.1-55 kg).
+
+Geriatrics
+(if any)
+
+The geriatric population was 67.2% male (41 subjects) and had a median
+age of 68 years (range: 65-81 years; 100% > 65 years, 8.2% > 75 years).
+
+Dose(s) Included
+
+0.15 mg/kg Q2W, 0.3 mg/kg Q2W, 0.5 mg/kg Q2W, 1 mg/kg Q2W, 3 mg/kg
+Q2W, 3 mg/kg Q4W
+
+Exposure Metrics Explored
+(range)
+
+Table 119 and Table 120
+
+Covariates Evaluated
+
+Table 113
+
+Final Model Parameters
+
+Summary | Acceptability
+
+261
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA. The FDA's position is highlighted in gray.
+
+Reference ID: 5429649

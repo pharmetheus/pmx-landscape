@@ -1,0 +1,48 @@
+NDA Multidisciplinary Review and Evaluation
+NDA 220305
+Komzifti (ziftomenib)
+
+Overall Clinical Relevance for ER | In NPM1-m R/R AML patients none of | Adequate
+the exposure parameters of ziftomenib
+were statistically (i.e. p-value > 0.05)
+related to any of the safety endpoints.
+Labeling Language Description Acceptability
+[FDA’s comments]
+12.2 Pharmacodynamics There is no safety ER description in N/A
+USPI section 12.2.
+Applicant Table 28: Applicant - Parameter Estimates from Final ER Model of Safety
+(Logistic Regression for Probability of Adverse Events)
+|Adverse Events Exposure AIC p-value
+Reference (No 65.77567
+Exposure)
+lany grade 3+ TEAE Cux Ziftomenib 67.77384 0.96586
+Crough Ziftomenib 67.77401 0.96750
+AUC;; Ziftomenib 67.77562 0.99447
+Reference (No 160.7893
+Exposure)
+\Any grade 4+ TEAE Cmax Ziftomenib 162.4325 0.55109
+Crrougn Ziftomenib 162.5638 0.63516
+AUC;; Ziftomenib 162.5132 0.59976
+Reference (No 159.8301
+Exposure)
+lAny grade 3+ TRAE Cmax Ziftomenib 161.8301 0.99454
+Crough Ziftomenib 161.8105 0.88870
+AUC;; Ziftomenib 161.8239 0.93707
+Reference (No 84.09362
+Exposure)
+lAny grade 4+ TRAE Cmax Ziftomenib 85.59730 0.48412
+Crrougn Ziftomenib 85.35263 0.39182
+AUC, Ziftomenib 85.44131 0.42218
+Reference (No 129.4471
+Exposure)
+[Anaemia (TEAE - grade 3+) Cmax Ziftomenib 130.4321 0.31595
+Crrougn Ziftomenib 130.4597 0.32384
+AUC;; Ziftomenib 130.4173 0.31326
+300
+
+Version date: March 1, 2024 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5694243

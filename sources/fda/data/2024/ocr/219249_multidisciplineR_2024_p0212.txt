@@ -1,0 +1,66 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 219249}
+
+See Figure 17-23 and Appendix 2, Section 10.6, 10.10, 10.14, 10.15, 10.17, 10.19, 10.21 in Report 1129439 for exposure-efficacy
+Curves of Inavolisib vs AUCss, Cmaxss OF Cminss for Study WO41554.
+
+19.4.3.3. E-R (safety) Assessment Summary
+
+The Applicant's Position: Exposure-safety analyses were performed based on a total of
+
+165 patients with model-predicted exposure parameters from Study GO39374 (Arm F was not
+part of the safety analysis because anti-hyperglycemic medication was given to all patients in
+Arm F from Day 1).
+
+Based on exposure-safety analysis of adverse events of interest using logistic regression
+models, the probability of AE Grade 23, hyperglycemia Grade 22, and inavolisib dose
+modification due to AE increased as a function of exposure parameter AUC or Cmax. In addition,
+time to first instance of AE Grade 23, hyperglycemia Grade 22, and inavolisib dose modification
+due to AE was shorter in patients with higher inavolisib AUC.
+
+Exposure-safety analyses were performed based on a total of 149 patients with
+model-predicted exposure parameters in the inavolisib arm from Study WO41554.
+
+No exposure-response relationship was observed for most adverse events of interest (grade 23
+AE, neutropenia Grade 22, hyperglycemia Grade 22, thrombocytopenia Grade 22, inavolisib
+dose modification due to AE, diarrhea Grade 22, stomatitis Grade 22) based on logistic
+regression models; lower and higher exposures of inavolisib achieved at the clinical dose (9 mg
+PO QD) were associated with similar safety outcomes. The probability of anemia Grade >2 was
+higher with increasing inavolisib Cmax values while there was no relationship between time to
+onset of anemia and inavolisib exposure.
+
+General Information
+
+Goal of ER analysis In patients with PIK3CA-mutant, HR+, HER2— LA/mBC:
+. Assess exposure-response for hyperglycemia, any AE of Grade 3 and above, inavolisib
+dose modification due to AE for GO39374 and WO41554 studies, and stomatitis, diarrhea,
+neutropenia, thrombocytopenia, and anemia for Study WO41554.
+. Assess potential impact of exposure metrics on inavolisib dose intensity on for Study
+woaissa
+Study Included Phase | Study GO39374; Phase Ill Study WO41554 (INAVO120)
+The exposure-response analysis was conducted for the two studies separately. To enable pooling
+across arms for the ER analysis of GO39374, the combination status, i.e., Single, Doublet, and
+Triplet, were tested as covariate in the analyses.
+
+Population Included Patients with PIK3CA-mutant, HR+, HER2— LA/mBC
+Endpoint Phase Ill Study WO41554:
+
+Grade > 2 hyperglycemia, any AE of Grade 3 and above, inavolisib dose modification due to AE,
+Grade > 2 stomatitis, diarrhea, neutropenia, thrombocytopenia, and anemia
+
+Grade > 2 hyperglycemia, any AE of Grade 3 and above, inavolisib dose modification due to AE
+
+No. of Patients (total, and with 165 patients for Study GO39374 and 149 for Study WO41554 (with post-hoc PK parameters). Arm
+individual PK) F in Study G039374 was excluded from the safety analysis because anti-hyperglycemic
+medication was given to all patients in Arm F from Day 1.
+Population General Phase Ill Study WO41554 (n=149):
+Characteristics ‘Age median (range): 53.0 [27.0, 77.0]
+(Table 17, 18; Weight median (range): 62.0 [39.0, 124]
+144 (96.6%) female
+
+211
+Version date: June 2022 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5460147

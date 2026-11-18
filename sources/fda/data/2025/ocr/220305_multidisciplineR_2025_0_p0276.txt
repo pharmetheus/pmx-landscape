@@ -1,0 +1,61 @@
+NDA Multidisciplinary Review and Evaluation
+NDA 220305
+Komzifti (ziftomenib)
+
+Sampling Rich Sampling | Parts 1a and 1b of KO-MEN-001: Pre-dose, and 0.5, 1, 2, 3. 4.
+Schedule 6, 8, 24 hours post dose (on cycle 1 day 1 and cycle 2 day 1)
+
+KO-MEN-003: Pre-dose, and 0.5, 1, 1.5, 2, 3, 4, 6, 8, 12, 24, 36,
+48, 72. 96, 120 hours post dose
+
+In ITT 1-2, 3-4, 5-8, 20-26 hours post dose (Cycle 1 day 1)
+Population Predose, and 1-2, 3-4, 5-8 hours post dose (Cycle 2 day 1)
+Predose Cycle 3+ day 1
+
+Covariates Static Applicant Table 24
+Evaluated
+
+Time-varying Applicant Table 24
+Final Model Summary Acceptability
+[FDA’s comments]
+
+Software and Version NONMEM Version VII (level 7.5) for Adequate
+PPK.
+
+Dataset preparation, ER analyses, data
+exploration, figures and tables were
+generated using R® V4.4.2 with
+comprehensive R archive network
+(CRAN) and WIG
+
+Model Structure A 2-compartment model first-order Adequate
+elimination, and first-order absorption
+with a lag time best described ziftomenib
+PK data. A proportional residual
+variability model was used.
+
+Model Parameter Estimates Applicant Table 25 Adequate
+
+Uncertainty and Variability (RSE, | Applicant Table 25 Adequate
+IIV, Shrinkage, Bootstrap)
+
+BLQ for Parameter Accuracy The total number of PK samples Adequate
+collected after a first ziftomenib dose
+BLQ represented 1.8% for ziftomenib,
+3.8% for KO-739 and 6.7% for KO-516
+(i.e., 47/2614 for ziftomenib, 98/2613 for
+KO-739 and 176/2613 for KO-516).
+Since less than 10% of postdose
+concentrations were BLQ following oral
+dosing. a likelihood method accounting
+for the probability of BLQ was not
+implemented due to the low number of
+post dose BLQ values.
+
+275
+Version date: March 1, 2024 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5694243

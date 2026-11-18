@@ -1,0 +1,15 @@
+built: 2026-11-10
+items: 7150 (2016 to 2026)
+coverage: full text 6119; title and abstract (record) 1031
+sections: 121682, 352.8 million characters
+core: sources/literature/results/ids.csv.gz (run of 2026-09-28) and ids_2016_2020.csv.gz
+extension: sources/literature/results/extension_ids.csv.gz (corpus_extension.R)
+tool route: sources/literature/results/tool_ids.csv.gz (corpus_toolroute.R)
+admitted by core: 2016 256; 2017 263; 2018 271; 2019 353; 2020 356; 2021 511; 2022 578; 2023 425; 2024 458; 2025 612; 2026 550
+admitted by core (frozen set): 2016 0; 2017 0; 2018 0; 2019 0; 2020 0; 2021 0; 2022 0; 2023 0; 2024 0; 2025 0; 2026 6
+admitted by extension: 2016 21; 2017 27; 2018 36; 2019 49; 2020 41; 2021 48; 2022 56; 2023 38; 2024 40; 2025 51; 2026 70
+admitted by tool: 2016 85; 2017 121; 2018 88; 2019 137; 2020 168; 2021 239; 2022 242; 2023 236; 2024 237; 2025 263; 2026 218
+retrieved = date of the cached full text; title and abstract from the Europe PMC record otherwise (HTML tags removed)
+full text status: cached 3374; fetched 2739; no PMCID 2; no record 6; not open access 1021; open access, not served: HTTP 500 12 (sources/literature/results/*fulltext_status*.csv)
+author_affiliations: each author's affiliations by position, from the Europe PMC records (no names)
+unreadable files: 0

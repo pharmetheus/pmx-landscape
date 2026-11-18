@@ -1,0 +1,114 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {BLA 761289 and sBLA 761069}
+{IMJUDO, tremelimumab; IMFINZI, durvalumab}
+
+Final Model
+
+Summary
+
+Acceptability
+[FDA’s comments]
+
+Software and Version
+
+NONMEM v7.3.0
+
+Yes
+
+Model Structure
+
+Two-compartmental distribution model
+with both linear and time-varing
+clearance (for monotherapy, elimination
+was linear only)
+
+Yes
+
+Model Parameter Estimates
+
+See Table 16, Population PK and
+Exposure-Response Report, Module
+5.3.3.5
+
+Yes
+See Table 47
+
+Uncertainty and Variability (RSE, IIV,
+Shrinkage, Bootstrap)
+
+All fixed and random effects were
+estimated with good precision (< 20%
+RSE). The IIV was
+
+10.8%, 6.19%, 21.2% and 142% for CL,
+V1, V2, and Tmax, respectively.
+Shrinkage was <25% for CL and V1, and
+high for V2 (28%) and Tmax -maximum
+change of CL over time (65%).
+
+Yes
+See Table 5
+
+BLQ for Parameter Accuracy
+
+280 (3.8%) tremelimumab
+concentrations BLQ during active
+treatment were excluded,
+corresponding to the M1 method, and
+the minimum impact of BLQ on PK is
+anticipated due to the low BLQ
+percentage (<5%).
+
+Yes
+
+GOF, VPC
+
+See Figure 8, Population PK and
+Exposure-Response Report, Module
+5.3.3.5 (GOF); See Figure 9 and
+Appendix 6, Population PK and
+Exposure-Response Report, Module
+5.3.3.5 (VPC)
+
+Yes
+See
+
+Figure 17 and Figure
+18
+
+Significant Covariates and Clinical
+Relevance
+
+See Figure 10-11, Population PK and
+Exposure-Response Report, Module
+5.3.3.5. (tornado plots of covariates on
+exposure)
+
+Yes
+
+See Figure 3 and
+Figure 4. Covariate
+analysis results
+showed WT, ALB,
+sex, combination
+therapy and primary
+indication had a
+statistically
+significant impact on
+clearance; WT and
+sex had a statistically
+significant impact on
+central volume of
+distribution. Again,
+none of the
+covariates were
+considered as
+
+193
+
+Version date: July 2021 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5064925
+

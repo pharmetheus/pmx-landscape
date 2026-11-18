@@ -1,0 +1,73 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {BLA 761345}
+elranatamab
+
+19.4.3 Population PK Analysis
+19.4,3.1 Executive Summary
+
+The FDA’s Assessment:
+
+Target (sBCMA) mediated drug (elranatamab) disposition (TMDD) model was utilized to capture
+the time course of both elranatamab and sBCMA simultaneously. The model can be used to
+conduct simulation of both kinetics of elranatamab and sBCMA for a variety circumstance such
+as dose reduction, interruption, and discontinuation. The elranatamab exposure generated
+from this TMDD model was used to conduct exposure-response analysis for both efficacy and
+safety. The TMDD model is acceptable in general; however, it does not capture the drug
+concentration as well as ADVAN4 TRANS4 at high levels which usually represent the steady-
+state conditions, and this may have caused bias in the exposure-response analysis, particularly,
+the exposure-safety analysis.
+
+19.4.3.2 PPK Assessment Summary
+The Applicant's Position:
+
+General Information
+Objectives of PPK Analysis e Tocharacterize the population PK of free and total
+
+elranatamab
+
+¢ To identify potential covariates that may be
+important predictors of variability in free and total
+elranatamab PK
+
+e Predict individual exposure for E-R analysis
+
+Study Included C1071001, C1071002, C1071003, C1071009
+
+Dose(s) Included IV: 0.1, 0.3, 1, 3, 10, 30, and 50 mg/kg QW
+
+SC: 80, 130, 215, 360, 600, and 1000 mg/kg QW
+
+SC: 600 mg/kg for the first week, then 1000 mg/kg QW
+
+or Q2W
+
+SC: 44 mg for the first week, then 76 mg QW
+
+SC: 12/32/76 mg C1D1/C1D4/C1D8 then 76 mg QW
+
+SC: 4/20/76 mg C1D1/C1D4/C1D8 then 76 mg QW
+
+starting on C1D15
+
+Population Included Participants with RRMM.
+Population General Age median (range) 66.00 (36.00-89.00) years
+Characteristics Weight median (range) 74.46 (36.58-107.47) kg
+(Table 69, 167 (52%) male
+Table 70) 29 (9%) Black, 49 (15%) Asian, 193 (60%) White, 50 (16%)
+missing
+Organ Hepatic (NCI ODWGC): 278 (60 %) Normal, 33(10%) Mild
+
+Impairment Group 1, 12 (4%) Mild Group 2, 1 (<1%) severe category
+Renal (NKF KDOQI): 128 (40%) Normal, 123 (38%) Mild,
+70 (22%) Moderate, 3 (1%) severe category
+
+Pediatrics (if Not applicable
+
+any)
+
+Version date: January 2020 (ALL NDA/ BLA reviews)
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Og
+
+Reference ID: 5226136

@@ -1,0 +1,50 @@
+ann ow
+Based on PBPK modeling, camizestrant is considered a strong inhibitor of CYP2C9 and a
+strong inhibitor of CYP2C19 (13- and 8-fold increases in substrate exposure,
+respectively). See Section 19.4.3.4.3 for detailed PBPK assessment. The significant
+change in estimated exposure of substrates of CYP2C9 and CYP2C19 may be clinically
+televant for less sensitive substrates; therefore, FDA recommends avoiding concomitant
+use of camizestrant with all substrates of CYP2C9 and CYP2C19.
+
+FDA agrees that camizestrant is an inhibitor of CYP3A and that dosage adjustment of
+CYP3A substrates where minimal increases in concentration may lead to serious adverse
+reactions may be necessary. Part A of clinical DDI study D8532c00006 adequately
+evaluated the effect of camizestrant on the PK of a sensitive CYP3A substrate
+(midazolam). The study contained 3 treatment parts. During Treatment Period 1,
+participants received a single oral 1 mg dose of midazolam (Day 1), during Period 2
+participants received camizestrant 75 mg QD from Days 2 to 6, and during Period 3
+participants received a single oral 1 mg dose of midazolam and a single 75 mg dose of
+camizestrant on Day 7 with PK sampling on Day 7 to Day 8.
+
+The FDA reviewer’s independent analysis was consistent with the Applicant’s findings
+demonstrating a 1.5-fold and 2-fold increase in midazolam AUC and Cmax GMR,
+respectively, when administered concomitantly with camizestrant. These results support a
+conclusion that camizestrant is a weak to moderate inhibitor of CYP3A. More AEs were
+reported in participants when administered midazolam (22%) or camizestrant (27%)
+alone compared with when midazolam and camizestrant were administered
+concomitantly (4.5%). These data do not raise any new safety concerns.
+
+FDA agrees with the Applicant’s assessment that camizestrant is an inhibitor of CYP2B6
+at clinically relevant concentrations in vitro. A PMR will be issued to conduct clinical
+drug interaction trials to assess the effect of camizestrant on the PK of substrates of
+CYP2B6 to inform an appropriate drug interaction management strategy for
+coadministration with camizestrant.
+
+FDA agrees with the Applicant’s position that camizestrant is not a substrate of CYP1A2
+at clinically relevant concentrations in vitro.
+
+P-gp and BCRP
+
+150
+Version date: March 1, 2024 (All NDA/BLA reviews)
+
+In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the Applicant,
+which do not necessarily reflect the positions of the FDA.
+
+The FDA review was conducted in conjunction with other regulatory authorities under Project ORBIS. The FDA
+collaborated with Australia’s Therapeutic Goods Administration (TGA), Brazilian Health Regulatory Agency
+(ANVISA), Health Canada (HC), Singapore’s Health Sciences Authority (HSA), and Switzerland’s Swissmedic
+(SMC). While the conclusions and recommendations expressed herein reflect the FDA’s completed review of the
+application, the applications may still be under review at the other regulatory agencies.
+
+Reference ID: 5864804

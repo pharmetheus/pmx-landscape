@@ -1,0 +1,8 @@
+checked: 2026-10-18
+pdftotext: pdftotext version 26.01.0 (the Python run used 24.02.0)
+tesseract: tesseract 5.5.0 (the Python run used 5.3.4)
+documents: 241 in the record, 241 with a downloaded PDF
+text layer identical: 206 of 241; same page count: 241
+image-only pages: 6026 now, 6026 in the record, 6026 in both
+OCR text identical: 5670 of 6026 pages in both
+software mentions (page and pattern, published FDA patterns): 4243 in the record, 4243 now; lost 0, gained 0

@@ -1,0 +1,1565 @@
+CENTER FOR DRUG EVALUATION AND
+RESEARCH
+APPLICATION NUMBER:
+
+215092Orig1s000
+CLINICAL PHARMACOLOGY
+REVIEW(S)
+
+Office of Clinical Pharmacology Review
+NDA Number
+Link to EDR
+Submission Date
+Submission Type
+Brand Name
+Generic Name
+Dosage Form and Regimen
+
+Route of Administration
+Proposed Indication
+Applicant
+Associated IND
+OCP Review Team
+
+215092
+\View submission in docuBridge
+11/19/2020
+NDA 505(b)(1); Standard
+To be determined
+Omidenepag isopropyl
+Ophthalmic solution containing 0.02 mg/mL (0.002%) of
+omidenepag isopropyl; one drop in the affected eye(s)
+once daily in the evening
+Ophthalmic
+For the reduction of elevated intraocular pressure (IOP) in
+patients with open-angle glaucoma or ocular hypertension
+Santen, Inc.
+IND 111518
+Suneet Shukla, Ph.D.; Bhawana Saluja, Ph.D.; Ping Ji,
+Ph.D.
+
+1
+
+Reference ID: 4843869
+
+TABLE OF CONTENTS
+
+1
+
+EXECUTIVE SUMMARY......................................................................................................4
+1.1
+
+Recommendations.............................................................................................................4
+
+1.2
+
+Post Marketing Requirement ............................................................................................5
+
+2
+
+SUMMARY OF CLINICAL PHARMACOLOGY ASSESSMENT ......................................6
+2.1
+
+3
+
+Pharmacology and Clinical Pharmacokinetics..................................................................6
+
+Comprehensive Clinical Pharmacology Review ......................................................................8
+3.1
+
+Overview of the Product and Regulatory Background .....................................................8
+
+3.2
+
+General Pharmacology and Pharmacokinetic Characteristics ..........................................8
+
+3.3
+
+Clinical Pharmacology Review Questions......................................................................10
+
+4
+
+APPENDICES........................................................................................................................14
+4.1
+
+Clinical PK Assessment ..................................................................................................14
+
+4.2
+
+In Vitro Metabolism........................................................................................................20
+
+2
+
+Reference ID: 4843869
+
+List of Tables
+Table 1: Summary of Key Clinical Pharmacology-related and Communication/Meetings with the
+Applicant..........................................................................................................................................8
+Table 2: Summary of clinical pharmacology and pharmacokinetics...............................................8
+Table 3: Comparison of Designs of Dose-Finding Studies ...........................................................12
+Table 4: Bioanalytical method assessment ....................................................................................14
+Table 5: Plasma Pharmacokinetic Parameters of Omidenepag .....................................................16
+Table 6: Protein binding of UR-7276 in human plasma after dialysis ..........................................21
+Table 7: The blood-to-plasma partitioning of 14C-UR-7276 in human blood ...............................22
+Table 8. Summary of inhibition on human hepatic CYP isoenzymes by omidenepag .................25
+Table 9. Summary of OMDI or UR-7276 as a substrate or inhibitor of human drug transporters27
+List of Figures
+Figure 1: Mean Plasma Omidenepag Concentration over Time after Repeated Ocular Instillation
+(Day 1) ...........................................................................................................................................15
+Figure 2: Mean Plasma Omidenepag Concentration over Time after Repeated Ocular Instillation
+(Day 7) ...........................................................................................................................................16
+Figure 3. Intraocular Pressure: Raw Mean (+-SD) of Percent Change from Baseline over Time
+(Right Eye).....................................................................................................................................19
+Figure 4. Intraocular Pressure: Raw Mean (+-SD) of Percent Change from Baseline over Time
+(Left Eye).......................................................................................................................................19
+Figure 5. OMDI metabolite profiling ............................................................................................23
+Figure 6. Time-dependent concentrations of omidenepag in reaction mixtures incubated with
+recombinant human CES1 or CES2 enzyme .................................................................................24
+Figure 7. Metabolism of omidenepag by recombinant human CYP enzymes ..............................24
+
+3
+
+Reference ID: 4843869
+
+1
+
+EXECUTIVE SUMMARY
+
+Santen Inc (the Applicant) submitted an original NDA on November 19th, 2020, seeking marketing
+approval for omidenepag isopropyl (OMDI) ophthalmic solution for the proposed indication of
+reduction of elevated intraocular pressure (IOP) in patients with open-angle glaucoma or ocular
+hypertension. The proposed drug product is supplied as a sterile, isotonic, buffered aqueous
+solution of omidenepag isopropyl; each mL of the drug product contains 0.02 mg of omidenepag
+isopropyl (0.002%). The proposed dosing regimen is one drop in the affected eye(s) once daily in
+the evening.
+The drug product contains omidenepag isopropyl (OMDI), a prodrug of the pharmacologically
+active metabolite, omidenepag. Omidenepag is a prostaglandin E2 (EP2) receptor agonist and has
+a non-prostaglandin structure.
+The clinical pharmacology program for the proposed product included a Phase 1 plasma PK and
+safety study (01171502). In addition, the submission contained seven in vitro studies
+characterizing metabolism, protein binding, partitioning in blood cells and in vitro
+metabolic/transporter-based drug interactions. Further, three dose-finding studies (33-001, 33-002,
+33-003, and 01171503 Stage 1) and one dose regimen-finding study (011712IN) were conducted
+to optimize the dosing. However, PK parameters were not assessed in these studies.
+The clinical pharmacology review is focused on the appropriateness of the proposed dosing
+regimen of one drop of omidenepag isopropyl ophthalmic solution, 0.002% in the affected eye(s)
+once daily in the evening.
+
+1.1 Recommendations
+The Office of Clinical Pharmacology/Division of Immune and Inflammation Pharmacology
+(OCP/DIIP) has reviewed the clinical pharmacology data submitted in support of NDA 215092,
+and finds the application acceptable to support approval from a clinical pharmacology perspective.
+The key review issues with specific clinical pharmacology recommendations and comments are
+summarized below.
+Review Issue
+Recommendations and Comments
+Pivotal or supportive evidence of Primary evidence of effectiveness is based on three
+effectiveness
+randomized controlled trials (01171505, 011710IN,
+011709IN) in patients with open-angle glaucoma
+(OAG) or ocular hypertension (OHT).
+Supportive evidence of effectiveness is based on five
+dose or regimen-finding studies (33-001, 33-002, 33003, 01171503 Stage 1 and 011712IN). No PK was
+collected in these studies.
+General dosing instructions
+One drop of omidenepag isopropyl ophthalmic solution,
+0.002% in the affected eye(s) once daily in the evening.
+Dosing in patients (intrinsic and No dose adjustment is recommended for patients based
+extrinsic factors)
+on intrinsic and extrinsic factors.
+
+4
+
+Reference ID: 4843869
+
+Labeling
+
+The proposed labeling concepts are generally
+acceptable.
+Bridge between the to-be-marketed Not applicable. There is no difference between the
+and clinical trial formulations
+clinical trial formulation and the to be marketed
+formulation.
+
+1.2 Post Marketing Requirement
+None
+
+5
+
+Reference ID: 4843869
+
+2 SUMMARY OF CLINICAL PHARMACOLOGY ASSESSMENT
+2.1 Pharmacology and Clinical Pharmacokinetics
+PK of OMDI ophthalmic solution 0.0025% was evaluated in healthy subjects (Study 01171502).
+The study was a single-arm open-label study where OMDI ophthalmic solution 0.0025% was
+administered into both eyes of 7 Japanese and 7 Caucasian subjects for 7 consecutive days. Plasma
+concentrations of omidenepag were measured before instillation and at 5, 15, 30, 60, 120, 240, and
+480 minutes after instillation on Days 1, 3, and 7. It should be noted that the dosing strength of
+OMDI 0.0025% used to assess PK is different from OMDI 0.002% which was evaluated in Phase
+3 pivotal studies and being proposed as final regimen.
+Absorption
+Following instillation of one drop of OMDI ophthalmic solution 0.0025% in both eyes once daily
+in healthy subjects for 7 days, plasma omidenepag concentration on Days 1, 3, and 7 reached
+maximum concentration (Cmax) of 34.36 to 35.51 pg/mL at times within the range of 0.17 to 0.25
+h after instillation. The area under the concentration curve at time 0 to 8 hours (AUC0-8h) and area
+under the concentration curve at infinity (AUCinf) were 20.72 to 22.41 pg·h/mL and 21.43 to 22.42
+pg·h/mL, respectively.
+Distribution
+No distribution data is available for OMDI. The plasma protein binding ratios at plasma
+omidenepag concentrations of 2.5 and 20 ng/mL were both 97.8%, indicating no concentrationdependent changes in the plasma protein binding ratios.
+Metabolism
+After topical ocular administration, OMDI is rapidly metabolized in the eye to omidenepag (active
+moiety) by carboxylesterase-1. Omidenepag, the pharmacologically active form, is further
+metabolized by liver through oxidation, N-dealkylation, glucuronidation, sulfate conjugation or
+taurine conjugation. CYP3A4 is involved in the metabolism of omidenepag.
+Excretion
+The terminal plasma elimination half-life of omidenepag following once-daily dosing in both eyes
+for seven days was in the range of 0.449 to 0.507 h. Following ocular instillation or subcutaneous
+injection of 14C-OMDI to rats, most of the administered radioactive dose was excreted through
+bile into feces.
+2.1.1 Dosing and Therapeutic Individualization
+2.1.2 General Dosing
+The recommended dosing regimen is one drop of OMDI ophthalmic solution, 0.002% in the
+affected eye(s) once daily in the evening. This dosing regimen was evaluated in three randomized
+controlled clinical trials (01171505, 011710IN, and 011709IN) with patients with primary OAG
+and OHT. These studies were designed to assess safety and efficacy, and specifically to
+demonstrate the non-inferiority of the IOP-lowering effect of DE-117 0.002% QD relative to the
+active control over the 3-month comparative treatment period.
+6
+
+Reference ID: 4843869
+
+2.1.3 Therapeutic Individualization
+Therapeutic individualization is not applicable for OMDI ophthalmic solution because it is locally
+administered with minimum systemic exposure.
+2.1.4 Outstanding Issues
+None.
+2.1.5 Summary of Labeling Recommendations
+A summary of labeling recommendations that will be provided to the Applicant is below.
+Omidenepag is absorbed through the cornea where prodrug omidenepag isopropyl is hydrolyzed
+to become biologically active metabolite, omidenepag. After once daily ocular administration of
+one drop of omidenepag isopropyl 0.0025% eye drops to both eyes in humans for 7 days, plasma
+concentrations of omidenepag reached Cmax at 10-15 minutes.
+The pharmacologically active form, omidenepag is further metabolized by liver through oxidation,
+(b) (4)
+N-dealkylation, glucuronidation, sulfate conjugation or taurine conjugation.
+
+7
+
+Reference ID: 4843869
+
+of action that is distinct from that of latanoprost and most other agents that lower
+IOP via stimulation of aqueous humor outflow.
+Active Moieties
+
+QT Prolongation
+
+Omidenepag is a selective EP2 receptor agonist which is an active metabolite of
+the prodrug, OMDI. OMDI after ocular instillation, is rapidly metabolized to
+omidenepag by esterases that are present in the cornea.
+Omidenepag at 10 μmol/L had no effect on hERG currents in hERG transfected
+CHO cells. The concentration is well above the plasma concentrations detected
+in the clinical PK study (see summary below). Thus, the risk of QT prolongation
+with topical ocular administration of OMDI appears low.
+
+General Information
+Bioanalysis
+
+Validated LC/MS/MS methods to determine concentrations of omidenepag in the
+plasma.
+
+Healthy vs. Patients
+
+Systemic exposure of omidenepag was assessed in healthy subjects only.
+
+Drug exposure at steady state
+following the therapeutic
+dosing regimen
+
+Following instillation of one drop of OMDI ophthalmic solution 0.0025% in both
+eyes once daily in the evening (20:00) for 7 days, plasma omidenepag (UR-7276
+concentration on Days 1, 3, and 7 reached maximum concentration (Cmax) of
+34.3571 to 35.5071 pg/mL at times within the range of 0.1667 to 0.2500 h after
+instillation. AUC0-8h and AUCinf were 20.7243 to 22.4143 pg·h/mL and 21.4286
+to 22.4231 pg·h/mL, respectively.
+
+Range of effective dose or
+exposure
+
+Based on mean IOP reduction from baseline, a positive dose-response
+relationship was observed across four concentrations of OMDI (0.0012%,
+0.0016%, 0.002%, and 0.0025%). Further, the IOP-lowering effect was slightly
+numerically greater (0.3 mmHg) in the 0.002% group as compared to the
+0.0025% group. Both the 0.002% and 0.0025% concentrations were well
+tolerated. Since the higher of these 2 concentrations (0.0025%) did not
+demonstrate a greater magnitude of IOP-lowering effect, 0.002% was selected
+for pivotal Phase 3 trials.
+
+Maximally tolerated dose or
+exposure
+
+Maximum human dose (strength) evaluated was OMDI 0.03% QD.
+
+Dose Proportionality
+
+Not determined.
+
+Accumulation
+
+No systemic accumulation detected.
+
+Variability (%)*
+
+Cmax: 49.441 (Day 1), 45.332 (Day 3), 37.915 (Day 7)
+
+*Reviewer calculated from PK
+data in Study 01171502
+
+AUC0-8h: 36.239 (Day 1), 34.172 (Day 3), 27.567 (Day 7)
+
+Absorption
+Bioavailability
+
+Not determined
+
+Median Tmax (h)
+
+0.1667 (Day 1), 0.2500 (Day 3), 0.2500 (Day 3)
+
+Distribution
+Volume of Distribution
+
+NA
+
+Plasma Protein Binding
+
+97.8%, binding is independent of concentration between 2.5 and 20 ng/mL.
+
+Substrate
+transporter
+systems [in vitro]
+
+OMDI is not a substrate for MATE1, MATE2-K, OAT1, OAT3, OCT1, OCT2,
+OATP1B1, OATP1B3, P-gp, BCRP, and BSEP.
+Omidenepag is a substrate for OAT3, OATP1B1, OATP1B3, and P-gp.
+
+9
+
+Reference ID: 4843869
+
+Elimination
+Terminal Elimination halflife (SD)
+
+0.4488 (0.1339) (Day 1), 0.4813 (0.1029) (Day 3), 0.5072 (0.0803) (Day 7).
+
+Effective Elimination half-life
+
+NA
+
+Excretion
+Primary excretion pathways
+(% dose) ±SD
+
+Not determined in humans.
+
+In vitro interaction liability (Drug as perpetrator)
+
+Inhibition/Induction
+metabolism
+
+of
+
+Omidenepag at 10 μmol/L (4790,000 pg/mL) inhibited CYP3A4/5 activity by 27%
+and CYP3A4/5 activity by 64%, each with an IC50 of 5.04 μmol/L.
+Omidenepag at 10 μmol/L also inhibited CYP2C19 activity by 17%; however,
+omidenepag had no measurable impact on the metabolic activities of CYP1A2,
+CYP2B6, CYP2C8, CYP2C9, or CYP2D6.
+When omidenepag at 10 μmol/L was pre-incubated with human liver microsomes in
+the presence of nicotinamide adenine dinucleotide phosphate (NADPH), an enhanced
+metabolism by CYP1A2 was observed, demonstrating metabolism dependent
+inhibition of CYP1A2 metabolic activity by omidenepag. Metabolism-dependent
+inhibition of CYP2B6, CYP2C8, CYP2C9, CYP2D6, or CYP3A4/5 metabolic
+activities were not observed.
+The potential of systemic DDIs appears minimal because of low plasma
+concentrations of omidenepag following topical ocular administration.
+
+Inhibition/Induction
+transporter systems
+
+of
+
+OMDI is not a substrate for any of the studied transporters MATE1, MATE2-K,
+OAT1, OCT1, OCT2, BCRP, and BSEP. However, the data suggested that
+omidenepag could be a substrate for OAT3, OATP1B1, OATP1B3, and P-gp.
+OMDI inhibited the transport activities of MATE1 (IC50 >5 μmol/L), MATE2-K
+(IC50 = 5 μmol/L), OAT3 (IC50 = 8.96 μmol/L), OCT1 (IC50 = 2.26 μmol/L),
+OATP1B1 (IC50 = 1.89 μmol/L), OATP1B3 (IC50 >5 μmol/L), and BSEP (IC50 >5
+μmol/L).
+Omidenepag inhibited the transport activities of MATE2-K (IC50 >5 μmol/L), OAT3
+(IC50 = 7.13 μmol/L), OATP1B1 (IC50 = 1.80 μmol/L), OATP1B3 (IC50 >5 μmol/L),
+and P-gp (IC50 >5 μmol/L).
+The Cmax of omidenepag in plasma is 35 pg/mL (0.073 nmol/L) after repeated
+bilateral ocular instillation of 0.0025% OMDI ophthalmic solution in humans QD
+for 7 days which is order of magnitude lower than the concentration at which
+omidenepag inhibits metabolic enzymes or drug transporters (mostly at the μmol/L
+level). Therefore, inhibition or induction of these enzymes will not be possible at
+observed plasma drug concentration of omidenepag.
+
+3.3 Clinical Pharmacology Review Questions
+3.3.1 To what extent does the available clinical pharmacology information provide
+pivotal or supportive evidence of effectiveness?
+There were no PK samples collected in three randomized and controlled clinical trials (01171505,
+011710IN, 011709IN), which provided the primary evidence of effectiveness. Consequently, there
+was no analysis conducted to evaluate the relationship between omidenepag exposure and efficacy
+10
+
+Reference ID: 4843869
+
+endpoints. The three randomized and controlled clinical trials demonstrated a consistent IOPlowering effect of 5.4 to 7.4 mmHg, similar to latanoprost 0.005% dosed once daily and timolol
+0.5% dosed twice daily, respectively in subjects with open-angle glaucoma or ocular hypertension
+with average baseline IOP of 24-26 mmHg.
+The effectiveness was also supported by the five dose or regimen-finding studies (33-001, 33-002,
+33-003, 01171503 Stage 1 and 011712IN). No PK data were collected in these trials. Please refer
+to the clinical and statistical reviews for more information on efficacy and safety assessments.
+3.3.2 Is the proposed dosing regimen appropriate for the general patient population
+for which the indication is being sought?
+(b) (4)
+Yes. The proposed dosing regimen of one drop of
+(omidenepag isopropyl ophthalmic
+solution, 0.002%) in the affected eye(s) once daily in the evening were evaluated in three
+randomized and controlled clinical trials, in which the efficacy data supported this application
+based on consistent IOP-lowering effect relative to active control.
+The selection of omidenepag isopropyl ophthalmic solution at 0.002% given once daily in the
+randomized and controlled clinical trials was based on five dose/regimen-finding studies, in which
+9 concentrations of OMDI ophthalmic solution were evaluated: 0.0003%, 0.001%, 0.0012%,
+0.0016%, 0.002%, 0.0025%, 0.003%, 0.01%, and 0.03% (Table 3). Three dose ranging studies
+(33-001, 33-002, 33-003) were conducted in patients with primary OAG or OHT exploring daily
+doses from 0.0003% to 0.03% administered QD in the evening. Taken together from above three
+dose ranging studies, a positive dose-response relationship for efficacy (i.e., increased IOPlowering with increased dose) was observed across the 3 lower concentrations (0.0003%, 0.001%,
+and 0.002%). Further, the highest concentration of OMDI assessed 0.03% demonstrated safety
+issues and the IOP reduction at 0.002% strength was numerically the greatest when compared to
+the lower strengths (0.0003%, 0.001%) and higher strength (0.003%). A dose regimen finding
+study (011712IN) was also conducted comparing OMDI 0.002% BID with OMDI 0.002% QD in
+POAG or OHT patients. OMDI 0.002% ophthalmic solution administered QD in the evening
+demonstrated clinically meaningful IOP-lowering effect in POAG or OHT patients. Therefore, it
+was selected for confirmation in the Phase 3 program.
+
+11
+
+Reference ID: 4843869
+
+Table 3: Comparison of Designs of Dose-Finding Studies
+
+Abbreviations: M1 = Month 1, M2 = Month 2, etc.; W1 = Week 1, W2 = Week 2, etc.
+a Double-masked and observer-masked both referred to the same masking technique: In brief, masking was achieved
+by ensuring that only authorized (unmasked) study staff could dispense/collect study drugs.
+b DE-117 (OMDI) 0.03% QD arm discontinued for safety after 3 subjects had dosed for ≤ 2 weeks (IOP-lowering
+activity in this arm was observed); the number of subjects per arm in the table is based on the 0.003% and 0.01% study
+arms.
+c Criteria for adults
+Source: Module 2.7.3 Summary of Clinical Efficacy, Table 32, \\CDSESUB1\evsprod\nda215092\0001\m2\27-clinsum\summary-clin-efficacy-glaucoma.pdf
+
+12
+
+Reference ID: 4843869
+
+3.3.3 Is an alternative dosing regimen and/or management strategy required for
+subpopulations based on intrinsic factors?
+An alternative dosing regimen is not needed. As the site of drug delivery and action for OMDI
+ophthalmic solution is the eye, the extent of systemic exposure does not correlate with its efficacy.
+From a perspective of safety, given minimal systemic exposure following topical administration,
+dose adjustment is not warranted in subpopulations based on the commonly known intrinsic
+factors.
+3.3.4 Are there clinically relevant food-drug or drug-drug interactions, and what is
+the appropriate management strategy?
+The drug product is an ophthalmic solution; therefore, the issue of a food-drug interaction is not
+relevant. However, topically administered drugs in the eye may get to systemic circulation by
+entering the nasolacrimal duct before being absorbed from the nasal mucosa or GI tract.
+Considering this as a possible scenario, theoretical absorption of omidenepag was assessed.
+Assuming that, after ocular instillation of 0.002% OMDI ophthalmic solution at the proposed dose
+(1.2 μg/person given as single bilateral administration of one drop = approximately 30 μL/eye), all
+administered OMDI is transited to the GI tract and then metabolized to omidenepag, the estimated
+omidenepag concentration in the GI lumen will be approximately 72 nmol/L if the gastric fluid
+volume is assumed to be 35 mL. This estimated concentration, even if maintained in the blood
+supply to the liver, is lower by more than one order of magnitude than what was demonstrated for
+half-maximal inhibitory activity of omidenepag for CYP3A4/5 (IC50 = 5.04 μmol/L). In addition,
+the Cmax of the omidenepag concentration in plasma was approximately 35 pg/mL (≈ 0.073
+nmol/L) after repeated bilateral ocular instillation of 0.0025% OMDI ophthalmic solution in
+humans QD for 7 days, indicating that drug-drug interactions resulting from inhibition of CYPmediated metabolism by omidenepag are unlikely to be significant (SEE DDI below, Sections
+4.26.and 4.2.7).
+
+13
+
+Reference ID: 4843869
+
+4 APPENDICES
+4.1 Clinical PK Assessment
+4.1.1 Study # 01171502: A Pharmacokinetic Study of OMDI (DE-117) Ophthalmic
+Solution in Healthy Adult Male Subjects.
+The study was conducted to assess the safety and plasma pharmacokinetics of OMDI ophthalmic
+solution 0.0025% (one drop once daily for 7 days) in healthy male adults. It was a single-arm openlabel based where OMDI ophthalmic solution 0.0025% (Batch No.: C020502) was administered
+at 9:00 am by ocular instillation into both eyes of 7 Japanese and 7 Caucasian subjects for 7
+consecutive days. The plasma drug concentration was measured only for omidenepag in
+pharmacokinetic studies. Plasma concentrations of omidenepag were measured before instillation
+and at 5, 15, 30, 60, 120, 240, and 480 minutes after instillation on Days 1, 3, and 7. The following
+plasma pharmacokinetic parameters of omidenepag were evaluated: AUC, Cmax, Tmax, T1/2.
+4.1.1.1 Summary of Bioanalytical Method Validation and Performance
+The bioanalytical method used for quantification of UR-7276 was validated (TRC Study No. P1542601) The concentration of UR-7276 was determined using liquid chromatography-tandem mass
+spectrometry (LC/MS/MS) method. The method validation is summarized as below.
+Table 4: Bioanalytical method assessment
+Information Requested
+Bioanalytical method validation report
+location
+Analyte
+Internal Standard (IS)
+Limit of quantitation (pg/mL)
+Average recovery of drug at each QC (%
+CV)
+Average recovery of IS (%)
+Standard curve concentrations (μg/mL)
+QC concentrations (μg/mL)
+QC intraday precision range (%)
+QC intraday accuracy range (%)
+QC interday precision range (%)
+QC interday accuracy range (%)
+Bench-top stability (hrs)
+Stock stability (days)
+Processed stability (hrs)
+Freeze-thaw stability (cycles)
+Long-term storage stability (days)
+Dilution Integrity
+Selectivity
+
+Data
+\\CDSESUB1\evsprod\nda215092\0001\m5\53-clin-stud-rep\531rep-biopharm-stud\5314-bioanalyt-analyt-met\p1542601\p1542601-analytical-report.pdf
+UR-7276
+UR-8087 (UR-7276-d6)
+1.00 to 1000 pg/mL
+HQC: 101
+MQC: 97
+LQC: 88
+83
+1.00, 2.00, 5.00, 10.0, 50.0, 200, 500, 1000 pg/ml
+LLQC: 1.00 pg/mL
+LQC: 2.00 pg/mL
+MQC: 100 pg/mL
+HQC: 800 pg/mL
+1 % to 17 %
+115% to 88 %
+4 % to 16 %
+96 % to 103 %
+24 hours (room temperature))
+32 days (1°C-10°C), and 6 hrs (room temperature)
+73 hours (at 10°C)
+5 cycles (at -65°C)
+91 days at -65°C and -15°C
+Not done
+No interference at the retention times of analyte and internal
+standard
+
+14
+
+Reference ID: 4843869
+
+Reviewer’s comments:
+ Plasma concentrations of UR-7276 was determined using a validated LC-MS/MS method.
+ The % recovery of analyte is consistent across QC concentrations, also is comparable to
+the corresponding internal standards (IS).
+ Heparin sodium was used as anticoagulant both the bioanalysis of samples from Study
+01171502 and in pre-study bioanalytical method validation.
+ Per bioanalytical method validation guidance, precision and accuracy run (within-run and
+between-run) were not performed at four (4) QC levels (LLOQ, LQC, MQC, and HQC)
+and at least five (5) replicates per QC level. The long-term storage stability of 91 days at
+-65°C and -15°C is sufficient to cover the sample storage at -65°C for a duration of 98
+days (January 22, 2016-March 31, 2016). Pre-Study Method Validation is adequate.
+ It is to be noted that that the Applicant did not have sufficient QC samples to assess the
+integrity of study sample analysis. The calibration curve concentration range was 1.0 1000 pg/mL with three QC samples (i.e., 2.00, 100, and 800 pg/mL for the LQC, MQC and
+HQC, respectively) while the concentrations of all but three study samples were below 50
+pg/mL. However, considering that linearity is demonstrated in the range tested and
+incurred sample reanalysis of 34 incurred samples was within ±20.0%. between original
+and repeat analyses, the bioanalytical method validation and analysis will be considered
+acceptable.
+4.1.1.2 PK/PD results
+Mean plasma concentration of omidenepag, over time on Days 1 and 7 after repeated ocular
+instillation are shown in Figure 1 and Figure 2, respectively.
+Figure 1: Mean Plasma Omidenepag Concentration over Time after Repeated Ocular
+Instillation (Day 1)
+
+Source: CSR 01171502, Figure 14.3.1
+Values are shown as mean + SD in 7 subjects.
+Plasma omidenepag concentrations before administration and at 240 and 480 minutes after administration were
+below the lower limit of quantitation (< 1.00 pg/mL).
+\\CDSESUB1\evsprod\nda215092\0001\m5\53-clin-stud-rep\533-rep-human-pk-stud\5331-healthy-subj-pk-init-tolstud-rep\01171502\01171502-csr-body.pdf
+
+15
+
+Reference ID: 4843869
+
+Figure 2: Mean Plasma Omidenepag Concentration over Time after Repeated Ocular
+Instillation (Day 7)
+
+Source: CSR 01171502, Figure 14.3.1
+Values are shown as mean + SD in 7 subjects.
+Plasma omidenepag concentrations before administration and at 240 and 480 minutes after administration were
+below the lower limit of quantitation (< 1.00 pg/mL).
+\\CDSESUB1\evsprod\nda215092\0001\m5\53-clin-stud-rep\533-rep-human-pk-stud\5331-healthy-subj-pk-init-tolstud-rep\01171502\01171502-csr-body.pdf
+
+The pharmacokinetic (PK) parameters on all analyzed days are shown in Table 5 below
+Table 5: Plasma Pharmacokinetic Parameters of Omidenepag
+Parameter
+
+Analysis Visit
+
+Cmax (pg/mL)
+
+Day 1
+
+Day 3
+
+Day 7
+
+Parameter
+
+Analysis Visit
+
+Japanese
+
+Caucasian
+
+Overall
+
+7
+
+7
+
+14
+
+Mean (SD) 41.5000 (20.0656)
+
+27.2143 (10.1729)
+
+34.3571 (16.9864)
+
+Median
+
+33.1000
+
+29.7000
+
+31.9000
+
+Min, Max
+
+24.6000, 82.1000
+
+12.1000, 38.2000
+
+12.1000, 82.1000
+
+n
+
+7
+
+7
+
+14
+
+Mean (SD)
+
+38.8000 (15.1304)
+
+32.2143 (17.5251)
+
+35.5071 (16.0962)
+
+Median
+
+33.6000
+
+32.3000
+
+32.9500
+
+Min, Max
+
+20.1000, 64.7000
+
+9.1000, 59.9000
+
+9.1000, 64.7000
+
+n
+
+7
+
+7
+
+14
+
+Mean (SD) 37.5286 (15.5231)
+
+33.3143 (11.8101)
+
+35.4214 (13.4302)
+
+Median
+
+34.0000
+
+33.7000
+
+33.8500
+
+Min, Max
+
+13.5000, 60.4000
+
+13.9000, 53.9000
+
+13.5000, 60.4000
+
+Japanese
+
+Caucasian
+
+Overall
+
+n
+
+16
+
+Reference ID: 4843869
+
+AUC0-8h (pg·h/mL) Day 1
+
+Day 3
+
+Day 7
+
+Parameter
+
+Analysis Visit
+
+AUCinf (pg·h/mL)
+
+Day 1
+
+Day 3
+
+Day 7
+
+Parameter
+
+Analysis Visit
+
+Tmax (h)
+
+Day 1
+
+n
+
+7
+
+14
+
+Mean (SD) 26.1286 (5.6818)
+
+15.3200 (4.6668)
+
+20.7243 (7.5103)
+
+Median
+
+26.5000
+
+16.3000
+
+20.2000
+
+Min, Max
+
+19.7000, 34.2000
+
+8.8000, 21.0000
+
+8.8000, 34.2000
+
+n
+
+7
+
+7
+
+14
+
+Mean (SD) 24.3000 (6.2156)
+
+19.4571 (8.2941)
+
+21.8786 (7.4763)
+
+Median
+
+23.9000
+
+17.8000
+
+21.6500
+
+Min, Max
+
+14.2000, 31.5000
+
+11.0000, 35.6000
+
+11.0000, 35.6000
+
+n
+
+7
+
+7
+
+14
+
+Mean (SD) 25.0143 (6.6031)
+
+19.8143 (4.8316)
+
+22.4143 (6.1789)
+
+Median
+
+27.0000
+
+18.4000
+
+22.7500
+
+Min, Max
+
+12.0000, 30.8000
+
+13.7000, 27.6000
+
+12.0000, 30.8000
+
+Japanese
+
+Caucasian
+
+Overall
+
+7
+
+5
+
+12
+
+Mean (SD) 25.6429 (5.6193)
+
+15.8020 (4.7496)
+
+21.5425 (7.1487)
+
+Median
+
+26.4000
+
+16.7000
+
+20.1500
+
+Min, Max
+
+19.2000, 33.6000
+
+8.6100, 20.4000
+
+8.6100, 33.6000
+
+n
+
+7
+
+7
+
+14
+
+Mean (SD) 23.8000 (6.1030)
+
+19.0571 (8.0961)
+
+21.4286 (7.3143)
+
+Median
+
+23.3000
+
+17.3000
+
+21.1000
+
+Min, Max
+
+13.9000, 30.9000
+
+10.8000, 34.9000
+
+10.8000, 34.9000
+
+n
+
+7
+
+6
+
+13
+
+Mean (SD) 24.4857 (6.4323)
+
+20.0167 (4.8118)
+
+22.4231 (5.9759)
+
+Median
+
+26.4000
+
+19.5000
+
+23.6000
+
+Min, Max
+
+11.8000, 30.2000
+
+13.7000, 27.0000
+
+11.8000, 30.2000
+
+Japanese
+
+Caucasian
+
+Overall
+
+7
+
+7
+
+14
+
+Mean (SD) 0.1547 (0.0891)
+
+0.1786 (0.0891)
+
+0.1667 (0.0865)
+
+Median
+
+0.0833
+
+0.2500
+
+0.1667
+
+Min, Max
+
+0.0833, 0.2500
+
+0.0833, 0.2500
+
+0.0833, 0.2500
+
+n
+
+n
+
+7
+
+17
+
+Reference ID: 4843869
+
+Day 3
+
+Day 7
+
+Parameter
+
+Analysis Visit
+
+T1/2 (h)
+
+Day 1
+
+Day 3
+
+Day 7
+
+n
+
+7
+
+14
+
+Mean (SD) 0.2262 (0.0630)
+
+0.1547 (0.0891)
+
+0.1905 (0.0829)
+
+Median
+
+0.2500
+
+0.0833
+
+0.2500
+
+Min, Max
+
+0.0833, 0.2500
+
+0.0833, 0.2500
+
+0.0833, 0.2500
+
+n
+
+7
+
+7
+
+14
+
+Mean (SD) 0.2024 (0.0813)
+
+0.1786 (0.0891)
+
+0.1905 (0.0829)
+
+Median
+
+0.2500
+
+0.2500
+
+0.2500
+
+Min, Max
+
+0.0833, 0.2500
+
+0.0833, 0.2500
+
+0.0833, 0.2500
+
+Japanese
+
+Caucasian
+
+Overall
+
+7
+
+5
+
+12
+
+Mean (SD) 0.4935 (0.0994)
+
+0.3864 (0.1616)
+
+0.4488 (0.1339)
+
+Median
+
+0.4537
+
+0.3880
+
+0.4407
+
+Min, Max
+
+0.3907, 0.6661
+
+0.2160, 0.6251
+
+0.2160, 0.6661
+
+n
+
+7
+
+7
+
+14
+
+Mean (SD) 0.4860 (0.0443)
+
+0.4765 (0.1447)
+
+0.4813 (0.1029)
+
+Median
+
+0.5001
+
+0.4555
+
+0.4896
+
+n
+
+7
+
+6
+
+13
+
+Mean (SD) 0.4911 (0.0691)
+
+0.5261 (0.0946)
+
+0.5072 (0.0803)
+
+Median
+
+0.4727
+
+0.5189
+
+0.5018
+
+Min, Max
+
+0.3799, 0.5809
+
+0.4010, 0.6773
+
+0.3799, 0.6773
+
+n
+
+7
+
+Source: CSR 01171502, Table 14.3.2
+Abbreviations: AUC0-8h = area under the concentration curve at time = 0 to 8 hours; AUCinf = area under the
+concentration curve at time = infinity; Cmax =maximum concentration; Min = minimum, Max = maximum, pg=
+picogram(s); SD = standard deviation; Tmax = time to maximum concentration. Data from subjects whose
+pharmacokinetic parameters were not calculated were excluded from mean and SD calculation.
+\\CDSESUB1\evsprod\nda215092\0001\m5\53-clin-stud-rep\533-rep-human-pk-stud\5331-healthy-subj-pk-init-tolstud-rep\01171502\01171502-csr-body.pdf
+
+Mean diurnal IOP (SD) at baseline was 14.8 (1.49) mmHg for Japanese subjects and 15.1 (1.84)
+mmHg for Caucasian subjects. Reduction from baseline in mean IOP was observed starting from
+approximately 2 hours after the start of dosing on Day 1 (Figure 3 and Figure 4). The maximum
+IOP-lowering effect occurred by Day 3, and this was then sustained through the end of dosing.
+Following 7 days of dosing, mean (SD) diurnal IOP reduction from baseline was 4.92 (1.37)
+mmHg (33.2%) for the Japanese subjects and 5.41 (1.67) mmHg (35.8%) for the Caucasian
+subjects.
+
+18
+
+Reference ID: 4843869
+
+Figure 3. Intraocular Pressure: Raw Mean (+-SD) of Percent Change from Baseline over
+Time (Right Eye)
+
+Source: CSR 01171502, Table 14.2.2.3.1
+\\CDSESUB1\evsprod\nda215092\0001\m5\53-clin-stud-rep\533-rep-human-pk-stud\5331-healthy-subj-pk-init-tolstud-rep\01171502\01171502-csr-body.pdf
+
+Figure 4. Intraocular Pressure: Raw Mean (+-SD) of Percent Change from Baseline over
+Time (Left Eye)
+
+Source: CSR 01171502, Table 14.2.2.3.2
+\\CDSESUB1\evsprod\nda215092\0001\m5\53-clin-stud-rep\533-rep-human-pk-stud\5331-healthy-subj-pk-init-tolstud-rep\01171502\01171502-csr-body.pdf
+
+A total of 7 adverse events (in 14 subjects) were reported in this study. All adverse events were
+judged to be related to study drug administration; were of mild severity, non-serious, did not
+require dose adjustment/discontinuation and resolved without treatment.
+19
+
+Reference ID: 4843869
+
+Reviewer’s comments: Plasma omidenepag concentration after ocular instillation of 0.0025%
+OMDI ophthalmic solution reached maximum concentration (Cmax) at 0.1667 to 0.2500 h after
+instillation, decreased with terminal half-lives (T1/2) of 0.449 to 0.5072 h, and was below the lower
+limit of quantitation (LLOQ<1.00 pg/mL) after 4 hours post-instillation. in the overall population
+on Days 1, 3, and 7. The reviewer confirmed the PK parameters reported by the Applicant by
+performing NCA analysis using plasma concentration data from this study and observed similar
+values. Pharmacokinetic parameters of omidenepag were similar between Japanese and
+Caucasian subjects. There was no systemic accumulation of omidenepag after 7 days of dosing of
+OMDI 0.0025% QD. OMDI also demonstrated reduction in IOP over seven days’ time period
+tested in this study.
+It should be noted that this was only clinical study of OMDI in which the reduction in IOP was
+assessed immediately after the start of dosing (the earliest post dosing IOP assessments in other
+studies were at 1-week post dosing). Therefore, this study also provides information regarding the
+time to the onset of IOP-lowering and the time to the maximum IOP-lowering effect of OMDI. The
+dose used in this study, 0.0025% QD, is slightly higher than the dose in the regimen being proposed
+in this NDA, 0.002% QD. The Applicant justified the use of this dose by stating that dose-finding
+study 01171503 Stage 1 compared QD dosing of 0.0025% and 0.002% and found no clinically
+significant difference in IOP lowering. They further claim that approximate time to onset and
+maximum IOP lowering for OMDI 0.0025% QD are considered relevant to OMDI 0.002% QD.
+The Applicant has not conducted dose-response and exposure-response analysis. However, based
+on above justification about similar IOP lowering effect between 0.0025% and 0.002% QD dosing,
+the justification appears reasonable.
+
+4.2 In Vitro Metabolism
+4.2.1 Study 543Lg02A- In vitro plasma protein binding of omidenepag (UR-7276)
+The protein binding of omidenepag in the plasma of human was determined by equilibrium dialysis
+for 6 hours at initial concentrations of 0.25, 2.5 and 20 ng/mL in plasma chamber. Plasma protein
+binding was also studied for male rat, male rabbit, monkey plasma but results from only human
+plasma protein are discussed below The concentrations of omidenepag in buffer chamber for 0.25
+ng/mL concentration was BLQ. For 2.5 and 20 ng/mL concentrations, omidenepag was highly
+bound to plasma protein from human (Table 6), with mean percent bound 97.8% demonstrating
+that omidenepag was highly bound to plasma proteins. The binding was independent of
+concentration between 2.5 and 20 ng/mL.
+
+20
+
+Reference ID: 4843869
+
+Table 6: Protein binding of UR-7276 in human plasma after dialysis
+
+Source: Table 7, Study 543Lg02A Nonclinical Study Report. \\CDSESUB1\evsprod\nda215092\0001\m4\42-studrep\422-pk\4223-distrib\543lg02a\543lg02a-pre-clinical-study-report.pdf
+
+4.2.2 Study 8309291- In vitro blood-to-plasma partitioning of omidenepag (14C-UR7276)
+Following whole blood incubations in vitro, omidenepag (14C-UR-7276) was observed to be stable
+and primarily partitions into the extracellular component of blood with minimal association with
+the cellular component. The mean blood to plasma concentration ratios were ranging from 0.505
+to 0.634 (Table 7). No concentration dependence was observed over the target concentration range
+of 1 to 100 ng/mL of 14C-UR-7276.
+
+21
+
+Reference ID: 4843869
+
+Table 7: The blood-to-plasma partitioning of 14C-UR-7276 in human blood
+
+Source: Table 2, Study 8309291 Nonclinical Study Report. \\CDSESUB1\evsprod\nda215092\0001\m4\42-studrep\422-pk\4223-distrib\8309291\8309291-pre-clinical-study-report.pdf
+
+4.2.3 Study 8309287- In vitro metabolites of 14C-OMDI in Hepatocytes
+The metabolism of 14C-OMDI was studied in in vitro assays using mouse, rat, rabbit, monkey, and
+human hepatocytes. 14C-OMDI was incubated with hepatocytes at 1 or 10 μM for 0, 30, 60, or 120
+minutes. The metabolism of 14C-OMDI in all species was nearly complete (< 7.5% remaining) at
+the first time point at 30 minutes at both concentrations. The major metabolite at 30 minutes was
+the hydrolysis product, UR-7276, for all species. Further, thirteen metabolites were identified; the
+hydrolysis product UR-7276, M3 (N-dealkylation), M8 (oxidation of UR-7276), and M10
+(oxidation of UR-7276) were the major metabolites present in all species. The metabolism of 14COMDI involved hydrolysis, oxidation, N-dealkylation, glucuronidation, sulfonation, and taurine
+conjugation. Metabolism of UR-7276 was lowest in human hepatocytes. The proposed
+biotransformation pathways of OMDI in hepatocytes from mouse, rat, rabbit, monkey and human
+based on identified metabolites are presented below.
+
+22
+
+Reference ID: 4843869
+
+Figure 5. OMDI metabolite profiling
+
+Source: Study 8309287 Final report, page 8. \\CDSESUB1\evsprod\nda215092\0001\m4\42-stud-rep\422-pk\4224metab\8309287\8309287-pre-clinical-study-report.pdf
+
+4.2.4 Study 387Ll01A- In Vitro Metabolism of 14C-OMDI by Human Carboxylesterases
+CES1 and CES2
+In vitro metabolism of 14C-OMDI (10 μmol/L) by human carboxylesterase (CES1 and CES2)-was
+assessed in bactosomes expressing CES1 and CES2 by incubating them with CES1 or CES2 for
+0, 10, 30 and 60 minutes. A decrease in the concentration of OMDI in the reaction mixture and
+generation of omidenepag were observed only in the presence of CES1 (
+Figure 6)
+
+23
+
+Reference ID: 4843869
+
+Figure 6. Time-dependent concentrations of omidenepag in reaction mixtures incubated
+with recombinant human CES1 or CES2 enzyme
+
+Source: 387Ll01A-analytical report, Figure 1. \\CDSESUB1\evsprod\nda215092\0001\m5\53-clin-stud-rep\532rep-stud-pk-human-biomat\5322-rep-hep-metab-interact-stud\387ll01a\387ll01a-analytical-report.pdf
+
+4.2.5 Study 516Lj03A- Identification of CYP Isozymes Involved in the Metabolism of
+Omidenepag
+The metabolism of omidenepag (UR-7276, 5 nmol/L) with CYP enzymes was assessed using
+recombinant human CYP enzymes. As shown in Figure 7, UR-7276 was mainly metabolized by
+human CYP3A4 while other CYP enzymes, CYP1A2, 2A6, 2B6, 2C8, 2C9, 2C19, 2D6 and 2E1,
+had little metabolic activity.
+Figure 7. Metabolism of omidenepag by recombinant human CYP enzymes
+
+Source: Study 516Lj03A Final report, Figure 4. \\CDSESUB1\evsprod\nda215092\0001\m5\53-clin-stud-rep\532rep-stud-pk-human-biomat\5322-rep-hep-metab-interact-stud\516lj03a\516lj03a-analytical-report.pdf
+
+24
+
+Reference ID: 4843869
+
+4.2.6 Study 8309289- Inhibition of Drug Metabolizing Enzymes
+Direct and metabolism-dependent inhibition potential of omidenepag using the P450 isozymesselective marker activities was assessed for cytochromes P450 CYP1A2, CYP2B6, CYP2C8,
+CYP2C9, CYP2C19, CYP2D6, CYP3A4/5, and CYP3A4/5 subgroups, respectively as
+recommended by the FDA guidance. The data showed that omidenepag was observed to inhibit
+CYP3A4/5 activity with a calculated IC50 value of 5.04 μM (Table 8). Additionally, omidenepag
+was a mild direct inhibitor of CYP2C19 andCYP3A4/5 activity (Table 8) while it did not inhibit
+CYP1A2, CYP2B6, CYP2C8, CYP2C9, and CYP2D6 isoform selective activities. Further,
+omidenepag did not demonstrate metabolism-dependent inhibition of any of the cytochrome P450
+activities tested under the conditions of this study (Table 8).
+Table 8. Summary of inhibition on human hepatic CYP isoenzymes by omidenepag
+Direct Inhibition
+Metabolism-Dependent
+(Maximum inhibition %)
+Inhibition
+<10
+NA
+<10
+NA
+<10
+NA
+<10
+NA
+17.0
+NA
+<10
+NA
+27.0
+NA
+64.0
+NA
+(IC50=5.04 µM)
+IC50 The concentration of the test article that inhibits 50% of the activity of an isoenzyme specific assay. NA
+Not applicable.
+Source: Table 1, Study 8309289 analytical report. \\CDSESUB1\evsprod\nda215092\0001\m5\53-clin-stud-rep\532rep-stud-pk-human-biomat\5322-rep-hep-metab-interact-stud\8309289\8309289-analytical-report.pdf
+P450 Isoenzyme
+CYP1A2
+CYP2B6
+CYP2C8
+CYP2C9
+CYP2C19
+CYP2D6
+CYP3A4/5
+CYP3A4/5
+
+Activity Assay
+Phenacetin O-deethylase
+Bupropion hydroxylase
+Amodiaquine N-deethylase
+Diclofenac 4-hydroxylase
+S-Mephenytoin 4-hydroxylase
+Bufuralol 1-hydroxylase
+Testosterone 6-hydroxylase
+Midazolam 1-hydroxylase
+
+Reviewer’s comments:
+ Omidenepag at 10 μmol/L inhibited the metabolic activities of CYP2C19 by 17% and
+inhibited the metabolic activities of CYP3A4/5 (IC50 = 5.04 μmol/L). In the assessment of
+metabolism-dependent inhibition, omidenepag inhibited the metabolic activities of
+CYP1A2 by 68.9% only at 10 μmol/L. Based on literature search, the Applicant stated that
+the mRNA for these CYP isozymes was not detected locally in the eye.
+
+
+Assuming that, after ocular instillation of 0.002% OMDI ophthalmic solution at the
+proposed dose (1.2 μg/person given as single bilateral administration of one drop =
+approximately 30 μL/eye), all administered OMDI is transited to the GI tract since, the
+estimated omidenepag concentration in the GI lumen is approximately 72 nmol/L if the
+gastric fluid volume is assumed to be 35 mL. In addition, the Cmax of the omidenepag
+concentration in plasma was approximately 35 pg/mL (≈ 0.073 nmol/L) after repeated
+bilateral ocular instillation of 0.0025% OMDI ophthalmic solution in humans QD for 7
+days. These systemic (approximately 0.073 nmol/L) and estimated gastric concentrations
+(approximately 72 nmol/L) of omidenepag are order of magnitude lower than the
+concentration at which interactions are likely to occur (mostly at the μmol/L level).
+
+25
+
+Reference ID: 4843869
+
+Therefore, from a safety perspective clinically significant differences in the systemic PK of
+omidenepag were studied due to DDI appears minimal.
+
+
+The intended site of drug delivery and action is the eye, and both clinically relevant drug
+transporter and metabolizing enzymes are not present in the eye. Therefore, the extent of
+systemic exposure does not relate with the proposed drug product’s efficacy.
+
+4.2.7 Study 8313224: Inhibitory Effects of OMDI and Omidenepag on Transporter
+Activities
+OMDI and UR-7276 were assessed for potential interactions with human transporters including
+MATE1, MATE2-K, OAT1, OAT3, OCT1, OCT2, OATP1B1, OATP1B3, P-gp, BCRP, and
+BSEP. As shown in Table 9, 14C-OMDI is not a substrate of the transporters tested. OMDI
+showed inhibition of MATE1, MATE2-K, OAT3, OATP1B1, OATP1B3, OCT1, and BSEP, but
+not other transporters tested. IC50 values were estimated to be approximately 5 μM for MATE2-K
+and >5 μM for MATE1, OATP1B3, and BSEP. IC50 values were determined to be 8.96, 2.26, and
+1.89 μM, respectively, for OAT3, OCT1, and OATP1B1. 14C-UR-7276 is a substrate of OAT3,
+OATP1B1, OATP1B3, and P-gp, but not other transporters tested (Table 9). UR-7276 showed
+inhibition of MATE2-K, OAT3, OATP1B1, OATP1B3, and P-gp, but not other transporters tested
+(Table 9). IC50 values were estimated to be >5 μM for MATE2-K, OATP1B3, and P-gp. IC50
+values were determined to be 7.13 and 1.80 μM, respectively, for OAT3 and OATP1B1 (Table 9).
+
+26
+
+Reference ID: 4843869
+
+Table 9. Summary of OMDI or UR-7276 as a substrate or inhibitor of human drug
+transporters
+Transporter
+
+Substrate
+
+MATE1
+MATE2-K
+OAT1
+OAT3
+OCT1
+OCT2
+OATP1B1
+OATP1B3
+P-gp
+BCRP
+BSEP
+
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+
+MATE1
+MATE2-K
+OAT1
+OAT3
+OCT1
+OCT2
+OATP1B1
+OATP1B3
+P-gp
+BCRP
+BSEP
+
+No
+No
+No
+Yes
+No
+No
+Yes
+Yes
+Yes
+No
+No
+
+Not applicable, ~
+
+Approximately.
+
+Inhibitor
+
+IC50 (µM)
+
+Yes
+Yes
+No
+Yes
+Yes
+No
+Yes
+Yes
+No
+No
+Weak
+
+>5
+~5
+NA
+8.96
+2.26
+NA
+1.89
+>5
+NA
+NA
+>5
+
+No
+Yes
+No
+Yes
+No
+No
+Yes
+Yes
+Weak
+No
+No
+
+NA
+>5
+NA
+7.13
+NA
+NA
+1.80
+>5
+>5
+NA
+NA
+
+OMDI
+
+UR-7276
+
+NA
+
+Source: Table 1, Study 8313224 analytical report. \\CDSESUB1\evsprod\nda215092\0001\m5\53-clin-stud-rep\532rep-stud-pk-human-biomat\5322-rep-hep-metab-interact-stud\8313224\8313224-analytical-report.pdf
+
+Reviewer’s comments:
+
+
+In vitro assays demonstrated that while OMDI was not a substrate for the tested
+transporters, omidenepag is a substrate for OAT3, OATP1B1, OATP1B3, and P-gp. In
+addition, OMDI inhibited MATE1, MATE2-K, OAT3, OCT1, OATP1B1, OATP1B3, and
+BSEP, and omidenepag inhibited MATE2-K, OAT3, OATP1B1, OATP1B3, and P-gp.
+
+
+
+The Applicant assessed the drug interactions mediated by drug transporters using a
+literature search (using the ADME Database from Fujitsu Kyushu Systems) to determine
+if the transporters were affected by potential concomitant use of drugs for glaucoma and
+OHT with OMDI ophthalmic solution. FP receptor agonists (Latanoprost, Travoprost,
+and Bimatoprost), β-Blockers (Timolol), and CAIs (Acetazolamide) have been reported to
+be substrates of P-gp; CAIs (Acetazolamide and Methazolamide) have been reported to
+be inhibitors of P-gp and OAT3. It was reported that neither P-gp protein nor its mRNA
+and no OAT3 mRNA are found in the human cornea, which is known to be an intraocular
+pathway for drugs instilled via the ocular route.
+27
+
+Reference ID: 4843869
+
+
+
+Further, as discussed above, the systemic (approximately 0.073 nmol/L) and estimated
+gastric concentrations (approximately 72 nmol/L) of omidenepag are much lower than the
+inhibitory concentrations of omidenepag for P-gp (IC50 > 5 μmol/L) and OAT3 (IC50 =
+7.13 μmol/L), or that of OMDI for OAT3 (IC50 = 8.96 μmol/L). Furthermore, the incidence
+of systemic adverse drug reactions is very low after bilateral ocular instillation of OMDI
+ophthalmic solution to humans. Therefore, the possibility of transporter-mediated drugdrug interaction of omidenepag either in the eyes or in the rest of the body appears low.
+
+28
+
+Reference ID: 4843869
+
+Signature Page 1 of 1
+
+-------------------------------------------------------------------------------------------This is a representation of an electronic record that was signed
+electronically. Following this are manifestations of any and all
+electronic signatures for this electronic record.
+-------------------------------------------------------------------------------------------/s/
+-----------------------------------------------------------SUNEET SHUKLA
+08/18/2021 10:45:40 PM
+PING JI
+08/18/2021 10:47:26 PM
+
+Reference ID: 4843869
+
+

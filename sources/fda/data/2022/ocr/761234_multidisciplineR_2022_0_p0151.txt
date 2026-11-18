@@ -1,0 +1,72 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {BLA 761234}
+Opdualag™ (nivolumab and relatlimab-rmbw)
+
+Nivolumab-relatlimab FDC Nivolumab
+N=355 N=359
+Median OS (95% Cl), mo. NR (34.2, NR) 34.1 (25.2, NR)
+HR (95% Cl)? 0.80 (0.64, 1.01)
+Stratified log-rank p-value 0.0593
+
+Based on Kaplan-Meier estimates.
+
+> Stratified Cox proportional hazards model. HR is nivotrela 480/160 mg Q4W over nivolumab 480 mg Q4W.
+NR: not reached, median or limit of Cl not estimable.
+Source: FDA generated analysis based on sponsor submitted data [ADEFTTES.xpt] (DCO: October 28, 2021).
+
+Figure 19: Kaplan-Meier Plot of Final Overall Survival, All Randomized Subjects
+
+1.00
+
+2 075
+
+a
+
+8
+
+Hy
+
+8
+
+o
+
+$ 0.50
+
+e
+
+5
+
+o
+
+o
+
+é 0.25
+0.00
+
+0 3 6 9 12 15 18 21 24 27 30 33 36 39
+Overall Survival (Months)
+
+Number at risk
+
+Nivolumab+Relatlimab 355 334 305 287 261 227 203 167 145 139 133 109 50 9
+Nivolumab 359 329 301 277 240 202 182 155 126 119 113 96 42 8
+Source: FDA generated analysis based on sponsor submitted data [ADEFTTES.xpt] (DCO: October 28, 2021).
+
+To investigate the impact of value change for the stratification factor of AJCC M Stage (variable
+‘STRAT4’) as explained in Section 8.1.2.8, FDA performed a sensitivity analysis using the original
+March 9, 2021 ADSL.xpt dataset for the stratified OS analysis. The estimated HR was 0.80 (95%
+Cl: 0.64, 1.01) and the nominal p-value was 0.0570 based on stratified log-rank test, which were
+very similar to the primary analysis. In addition, FDA performed another sensitivity analysis in
+which the actual values collected per IRT were used for the AJCC M stage when performing the
+stratified OS analysis instead of values collected per RAVE. The estimated HR was 0.80 (95% Cl:
+0.64, 1.01) was the same as the primary analysis.
+
+FDA also conducted exploratory subgroup analyses of OS to assess the consistency of treatment
+
+150
+Version date: January 2020 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “The Applicant’s Position” are completed by the Applicant
+and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 4955210
+

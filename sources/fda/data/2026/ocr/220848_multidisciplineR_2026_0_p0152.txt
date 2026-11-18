@@ -1,0 +1,59 @@
+NDA 220848
+LIPFENDRA (enlicitide)
+
+FDA Figure 6. Kaplan-Meier Plot: Time to Onset of Serious Adverse Events, Placebo-Controlled
+Pool, Trial P013 and P017
+
+15
+
+‘Cumulative Percentage (%)
+‘AES.
+
+0 60 120 180 240 300 360 420 480 540 600 660
+
+‘Time from first dose (days)
+
+Number of Subjects at Risk
+
+EnlicitidePooled 7 2 035 EI a5 6 7
+Placebo Pooled |_1070 1044 1017 993 970 944 792 15 4 0 oO oO
+
+Cumulative Number of Subjects with Event
+
+EnlicitidePooled 39 E 7 i 6 33 2 200
+Placebo Pooled 0 20 37 59 80 104 18 120 120 120 120 120
+
+-— Enlicitide Pooled —— Placebo Pooled
+
+Source: adae xpt; Software: R
+
+Duration =52 weeks.
+
+This figure depicts Kaplan-Meier estimates of the cumulative percentage of subjects that experience an event by a given time point.
+If a subject experienced more than one event, the earliest event start day was used as event time.
+
+The vertical bars shown on the plotted lines indicate the 95% confidence interval of probability of incidence at the corresponding
+time points.
+
+Abbreviations: AE, adverse event; SAE, serious adverse event
+
+Dropouts and/or Discontinuations Due to Adverse Effects
+Data:
+
+The percentages of participants with AEs leading to discontinuation of study intervention were
+comparable between the enlicitide (3.0%) and placebo (4.0%) groups; about half of these AEs
+were determined by the investigator to be drug-related in both groups. No individual AE leading
+to discontinuation of study intervention was reported in >0.3% of participants in either group.
+The most frequent events leading to treatment discontinuation (>0.2% in either group) were
+(enlicitide vs placebo): myalgia (0.2% vs 0.0%), headache (0.1% vs 0.3%), abdominal pain
+(0.1% vs 0.2%), pruritus (0.1% vs 0.2%), muscle spasm (0.0% vs 0.2%), and weight decreased
+(0.0% vs 0.2%).
+
+139
+
+Version date: February 10, 2025 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5833849

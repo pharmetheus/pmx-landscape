@@ -1,0 +1,95 @@
+BLA Multi-disciplinary Review and Evaluation {Biologics License Application (BLA) 761324
+
+{epcoritamab}
+
+relationships
+
+Figure 28, Figure 29, Figure 30, Figure 31,
+Figure 32, Figure 33, Figure 34, Figure 35
+DOR, PFS, and OS:
+
+popPK report Figure 14 to Figure 18 and
+Figure 105 to Figure 111.
+
+Simulation for Specific N/A (i.e., greater than 4.8 months) at
+Population baseline.
+Visualization of E-R ORR and CR: Based on univariate E-R efficacy
+
+analysis, higher Cycle 1 AUC was
+associated with better ORR and
+better CR. The lowest Cycle 1 AUC
+quartile appeared to have worse
+OS (Figure 36) and worse PFS
+(Figure 37) compared to higher
+exposure quartiles. No clear E-R
+associations were identified with
+duration of response.
+
+Overall Clinical
+Relevance for ER
+
+Across the full dose range studied (0.004 to
+60 mg), statistically significant (p<0.05)
+relationships between key efficacy
+endpoints (ORR, CR rate, PFS, and OS) and
+epcoritamab exposure were observed, ie,
+higher epcoritamab exposures provided
+higher ORR/CR rate and longer PFS/OS. A
+similar, numerical trend was also observed
+for DOR.
+
+At the proposed 48 mg full dose (ie,
+analysis using data only from 48 mg full
+dose level), exposure-efficacy relationships
+remained positive for all the key efficacy
+endpoints and were statistically significant
+(p<0.05) for CR rate. These results indicate
+that full doses <48 mg are likely to result in
+compromised efficacy.
+
+The median Cycle 1 AUC following
+the proposed dosage (i.e.,
+0.16/0.8/48 mg) is associated with
+clinical efficacy in terms of ORR and
+CR rate.
+
+Full doses lower than the proposed
+full dose of 48 mg will likely have
+lower ORR and CR rates, but the
+median Cycle 1 AUC following the
+proposed dosage appears lower
+than the Cycle 1 AUC value where
+the E-R efficacy association
+plateaus.
+
+The proposed dosage is acceptable
+based on the E-R efficacy analysis.
+
+Labeling Language Description Acceptability
+[FDA’s comments]
+12.2 Pharmacodynamics | N/A No E-R efficacy statements are
+
+included in the labeling.
+
+Table 102: Applicant — Final Logistic Regression Model for Overall Response: GCT3013-01
+
+Parameter Coefficient SE RSE (%) 95% Cl P value
+Intercept -1.32 0.3494 26.47 -2.005;-0.6349 <0.0005
+Exposure 0.04221 0.008688 20.58 0.02518;0.05924 <0.0005
+Prior CAR-T therapy -1.167 0.4022 34.48 -1.955;-0.3782 0.004
+
+DURCDmed 1.458 0.3665 25.14 0.7392;2.176 <0.0005
+
+Abbreviations: CAR-T = chimeric antigen receptor T cell; Cl = confidence interval, DURCDmed = elapsed time from
+prior CD20 therapy at baseline above median; RSE = relative standard error; SE = standard error.
+Source: FinalModelGLM_01_AUC_OR.csv (GLMEffAnalysis_Final.R)
+
+289
+
+Version date: June 2022 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5176690
+

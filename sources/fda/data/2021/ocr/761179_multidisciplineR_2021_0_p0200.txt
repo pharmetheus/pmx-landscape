@@ -1,0 +1,65 @@
+BLA Multidisciplinary Review and Evaluation
+BLA 761179
+Rylaze (JZP-458)
+
+14.4.3.2._ FDA’s updated population PK model using data with cut-off date of
+1/11/2021
+
+Using updated data (cut-off date of 11 Jan 2021) from Study 201, sensitivity analysis was
+conducted by re-running the FDA’s final PopPK model. The updated PopPK dataset included 1342
+SAA data both above and below LLOQ from 102 patients (33 from Cohort 1a, 53 from Cohort 1b
+and 16 from Cohort 1c) in Study 201. The parameter estimates of the updated PopPK model are
+presented in Table 73, which are generally comparable to the FDA’s original final PopPK model.
+
+Table 73 Comparison of Parameter Estimates from the Final PopPK Models based on Original
+and Updated datasets in Patients from Study 201
+
+FDA’s original model | FDA’s updated model
+
+Parameter Description
+
+Estimate RSE% Estimate RSE%
+Fixed effect
+CL/F Apparent clearance (L/hr) 0.375 4.4% 0.392 4.1%
+V/F Apparent volume of distribution (L) 1.67 7.7% 2.01 6.8%
+R1 Zero-order absorption rate (IU/hr) 2160 (Fix) - 2160 (Fix) -
+Ka First-order absorption rate constant (hr?) 0.0364 (Fix) - 0.0364 (Fix) -
+CL/F_BSA Effect of BSA on CL/F 1.51 5.5% 0.996 4.3%
+V/F _BSA Effect of BSA on V/F 1.84 9.3% 1.33 8.4%
+CL/F __RACE % difference in CL/F for Black and Asian -28.8% 20.2% -32.9% 14.3%
+
+subjects vs. other races
+
+Inter-individual variability (IIV)
+
+Nayr IV for CL/F (CV%) 26.3% 10.5% 40.2% 6.5%
+nwe IIV for V/F (CV%) 46.5% 20.8% 69.7% 17.1%
+Nka IV for Ka (CV%) 18.6% 19.1% 24% 17.0%
+Nr IV for R1 (CV%) 49.1% 13.4% 47.2% 9.0%
+Corr_ncyr_nv | Correlation between neve and nvr 62.7% - 88.7% -
+Corr_nayr_nka | Correlation between ncyr and na 68.6% - 69.6% -
+Corr_nwer_Nxa | Correlation between nvr and nxa 17.5% - 39.1% -
+Random effect
+
+prop Standard deviation of proportional random 0.438 2.4% 0.524 2.0%
+
+effect
+add Standard deviation of additive random effect 0.011 18.1% 0.0128 13.4%
+
+RSE: relative standard error; CV: coefficient of variation.
+
+Original model: CL/F = 0.375 x (BSA/1.16)*51 x 0.712 if Black and Asian patients; CL/F = 0.375 x
+(BSA/1.16)*** if White and other race subjects. V/F = 1.67 x (BSA/1.16)***
+
+Updated model: CL/F = 0.392 x (BSA/1.21)°°** x 0.671 if Black and Asian patients; CL/F = 0.392 x
+(BSA/1.21)°°* if White and other race subjects. V/F = 2.01 x (BSA/1.21)**3
+
+Source: FDA’s analysis.
+
+208
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA. The FDA's position is highlighted in gray.
+
+Reference ID: 4819545
+

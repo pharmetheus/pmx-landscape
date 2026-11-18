@@ -1,0 +1,5 @@
+value,definition
+stated,"The review states that the Applicant used the tool for the drug's population analyses (popPK or PK/PD) submitted for this application."
+indirect,"The review links the tool to the Applicant's analysis without saying in words which software the Applicant used: tool-specific wording about the Applicant's model, files or outputs, an abbreviation list, or the FDA reviewer running the Applicant's model or dataset in the tool."
+template,"The only link to the Applicant is the FDA review template sentence ""The final NONMEM data file for analysis contained ..."" (or the same sentence with another tool's name)."
+none,"No use by the Applicant: the FDA reviewer's own model, a citation or reference list, a nonclinical (animal) analysis, another drug or study, general or background text, a list of possible software, or a name that is not the tool (OCR noise, a place name)."

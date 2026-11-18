@@ -1,0 +1,2 @@
+id,label,context,sentence_exclude,item_exclude,max_candidates,value,note
+1,Toolx,fitted (?:in|with) {{tool}},,,,used,the item says the model was fitted with the tool

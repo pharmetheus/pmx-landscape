@@ -1,0 +1,45 @@
+NDA/BLA Multi-disciplinary Review and Evaluation - NDA 216059
+Jaypirca (pirtobrutinib)
+
+Table 104: Observed and Predicted DDI Effects of Pirtobrutinib on CYP3A Pathway Using the
+Applicant’s and an Alternative PBPK Model
+
+Ratio of substrate’s PK with and without a CYP3A modulator
+
+CYP3A CYP3A Cmax ratio (90%CI) AUCinf ratio (90%CI)
+modulators Substrate Obs [PredA | PredB Obs [ Pred A | Pred B
+Pirtobrutinib As CYP3A substrate
+Itraconazole Pirtobrutinib, | 1.04 1.09 1.09 1.49 (1.40 | 1.43 (1.41 | 1.48*
+capsule, 200 200 mg SD (0.95to | (1.08to | (1.08to | to1.58) to 1.46) (1.45 to
+mg 1.1) 1.09) 1.09) 1.34*(1.32 | 1.50)
+to 1.36)
+Rifampin, 600 0.58 0.62 0.61 0.29 (0.27 | 0.27 (0.25 | 0.24
+mg (0.54to | (0.6, (0.59to | to0.32) to 0.29) (0.22 to
+0.62) 0.65) 0.63) 0.26)
+Pirtobrutinib As CYP3A inhibitor
+200 mg midazolam, 1.58 1.46 1.47 1.70 (1.55 | 1.74(1.68 | 1.73
+pirtobrutinib | 500 pg po, (1.40to | (1.44to | (1.44to | to 1.86) to 1.80) (1.68 to
+QD sD 1.78) 1.49) 1.49) 1.78)
+midazolam, NA 1.06 1.06 1.12 (1.04 | 1.30(1.27 | 1.31
+250 pg IV, SD (1.06to | (1.06to | to1.21) |to1.33) | (1.28to
+1.07) 1.07) 1.34)
+
+Pred A: Simulated with Applicant’s submitted model. Pred B: Simulated with FDA’s alternative
+model. *Simulated with itraconazole dosing profiles are presented in Figure 35.
+
+Upon validation of the alternative PBPK model for pirtobrutinib with clinical data, the reviewer
+used the alternative model to predict the DDI effects with fluconazole (moderate CYP3A
+inhibitor) and efavirenz (moderate CYP3A inducer). As shown the Table 105, the differences in
+the predicted DDI using two models were about 10%. The magnitude of difference is not
+expected to impact the dosing recommendation derived using different models. However, this
+modest difference was the result of a moderate contribution of the CYP3A pathway
+(fmCYP3A~0.4) on pirtobrutinib clearance. Nevertheless, the effect of food on itraconazole PK
+during the clinical DDI trials and the impact of interpretation biases in DDI assessment were
+evaluated by the reviewer.
+
+257 of 265
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5116352

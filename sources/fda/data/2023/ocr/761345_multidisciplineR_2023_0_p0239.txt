@@ -1,0 +1,44 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {BLA 761345}
+
+elranatamab
+
+Overall Clinical Relevance for Higher, early elranatamab exposure | Acceptable
+ER (Cmax,24) indicated a greater
+probability of experiencing Grade
+21 CRS and Grade 22 CRS using both
+free and total elranatamab PK
+Labeling Language Description Acceptability
+[FDA’s comments]
+12.2 Pharmacodynamics Not applicable. N/A
+
+Table 76: Applicant — Final Models for Any Grade and Grade 22 CRS vs Elranatamab Exposure
+
+Elranatamab PK | CRS Endpoint Effects Estimate Odds Ratio Pr(>|Z|)
+(Free or Total) (95% Cls) (95% Cls)
+Intercept 3.11 <0.001
+(4.95, -1.42)
+Any Grade Log (Total Cmax, 24h) 0.728 2.07 < 0.001
+crs (ng/ml) (0.465, 1.02) (1.59, 2.78)
+Total PK Log (Total Baseline -0.245 0.783 0.0051
+sBCMA) (ng/mL) (-0.423, -0.0822) (0.655, 0.921)
+Intercept -1.97 - < 0.001
+(2.4, -1.56)
+Grade =2 CRS FTF otal Coun an) 0.000581 7.00 <0.001
+(ng/mL) (0.000294, 0.000883) | _ (1.00, 1.00)
+Intercept “4.05 - <0.001
+Any Grade (5.59, -2.64)
+cRS Log (Free Cmax 24h) 0.905 247 <0.001
+(ng/ml) (0.631, 1.21) (1.88, 3.35)
+Free PK Intercept “4.63 . <0.001
+(6.26, -3.12)
+Grade 22. CRS Fo Fee Gams zen) 0.596 181 <0.001
+(ng/ml) (0.328, 0.879) (1.39, 2.41)
+N = 324 participants.
+240
+
+Version date: January 2020 (ALL NDA/ BLA reviews)
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5226136
+

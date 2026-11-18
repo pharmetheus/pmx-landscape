@@ -1,0 +1,63 @@
+NDA 218171
+
+ENSACOVE (ensartinib)
+Table 13. Key Statistical Changes in Protocol Amendments
+Protocol Version Approval Date Key Statistical Changes
+
+Original Protocol September 28, 2015 N/A
+
+(Version 1.0)
+
+Version 1.1 March 24, 2017 - Clarify follow-up of patients after End of Treatment
+(Section 9.4)
+- Add NE under CNS lesions in Best Overall
+Response table (Section 11.3.2)
+- Add stopping rules for futility at the interim
+analysis (Section 13.11)
+- Changed study entry requirement for ALK testing
+to central testing only (Synopsis, Section 5.1 and
+Section 9.9.1)
+
+Version 2.0 January 22, 2018 - Adjusted numbers of patients for the ITT and
+mITT populations and resulting power and hazard
+ratio assumptions (Synopsis and Section 13.11)
+- Eliminated ©® evaluations for CNS
+lesions; now to be evaluated just by CNS RECIST
+v.1.1 (Sections 11, 13.5 and 13.7.2)
+- Clarified reasons patients may be discontinued
+from trial.
+
+Version 3.0 June 19, 2019 - Replace Cay
+
+OM,
+
+ITT population using O’Brien-Fleming Lan-DeMets
+alpha spending function to control overall alpha at
+2-sided 0.05
+- Add © time to CNS progression as
+key secondary endpoints and implement
+hierarchical gatekeeping testing procedure to
+control the multiplicities
+- Use the same event size assessment based on
+ITT instead of mITT
+
+Version 4.0 October 2, 2019 - Changed order of secondary endpoints and
+specified that overall survival will be formally tested
+before the other secondary endpoints
+- Addition of efficacy biomarkers to exploratory
+endpoints
+- Adjusted the interim analysis trigger to be 75% of
+the planned PFS events by IRR
+- Removed Cy
+
+Source: SAP Version 3.0
+
+Abbreviations: ALK, anaplastic lymphoma kinase; CNS, central nervous system; IA, interim analysis; BICR, blinded independent
+central review, ITT, intent-to-treat; mITT, modified intent: to-treat, NE, not estimable; ORR, overall response rate; OS, overall
+survival; PFS, PFS, progression-free survival: (4) RECIST:
+Response Evaluation Criteria in Solid Tumors
+
+33
+Integrated Review Template, version 4.0 (11/1/23)
+
+Reference ID: 5498774

@@ -1,0 +1,60 @@
+NDA 216974
+XACDURO (sulbactam-durlobactam) (SUL-DUR)
+
+strains testing as resistant, suggesting that there was insufficient B-lactamase inhibition
+by durlobactam at these concentrations to fully restore sulbactam to wild-type activity
+levels (PC2514-2017-0008).
+Stability studies showed no variation in MIC beyond one dilution from the modal MIC
+over a six-month period, suggesting panels may be stored frozen (-80°C) up to 6 months
+with no loss of activity (PC2514-2017-0002).
+Varying the starting inoculum, incubation temperature, atmospheric conditions,
+concentration of divalent cations, presence of surfactant or presence of human serum or
+human albumin did not significantly affect sulbactam-durlobactam MIC determination.
+The exception was that changes in pH altered sulbactam-durlobactam MICs, especially in
+the presence of urine. Four- to eight-fold increases in sulbactam-durlobactam MIC values
+in the presence of 50% urine at pH 5.0 was observed for most of the isolates tested,
+similar to what has been reported for ceftazidime avibactam. (PC2514-2017-0006). The
+activity of sulbactam-durlobactam showed little (2-fold increase in MICo9) to no change
+when tested in iron depleted media; however, the MICo9 values were 8-fold lower in
+RPMI +10% fetal calf serum. The reason for increased activity of sulbactam-durlobactam
+in RPMI +10% FCS is unknown (PC2514-2021-0012).
+A multi-center, tier 2 quality control (QC) study was conducted in accordance with CLSI
+M23 guidelines (CLSI 2018), performed at eight independent laboratories using three
+different lots of either cation-adjusted Mueller Hinton broth of | (Lot#5257869,
+
+©) (f ot#1743805, oO
+(Lot#4045151 ©® Fach laboratory tested 10 replicates of Escherichia coli
+ATCC 25922, Klebsiella pneumoniae ATCC 700603, A. baumannii NCTC 13304 or
+Escherichia coli NCTC13353 (PC2514-2017-0001). The results showed that:
+
+— Routine QC testing for sulbactam-durlobactam by broth microdilution method is
+recommended using the QC strain Acinetobacter baumannii NCTC 13304.
+
+— Routine QC testing for sulbactam alone by broth microdilution is recommended
+using the QC strain, Klebsiella pneumoniae ATCC 700603, the QC strains
+Escherichia coli ATC 25922 and Acinetobacter baumannii NCTC 13304 will be
+used as alternatives. Sulbactam alone should be tested to ensure that the QC
+strains are resistant.
+
+— These criteria have been published by CLSI in M100-Ed32 (2022) tables (Table
+
+163).
+Table 163. Broth Microdilution QC Ranges for Sulbactam-Durlobactam
+Sulbactam SUL-DUR
+
+MIC Range % in| MIC Range % in
+Organism (ug/mL) Range (ug/mL) Range
+Escherichia coli ATCC 25922 16 - 64 100% NR -
+Klebsiella pneumoniae ATCC 32-128 99.6% NR -
+700603
+Acinetobacter baumannii 16-64 98.8%] 0.5/4-2/4 99.6%
+NCTC 13304
+
+Source: Study Report# PC2514-2017-0001
+Abbreviations: DUR, durlobactam; MIC, minimum inh bitory concentration; NR, not reported; SUL, su bactam; QC, quality control
+
+217
+
+Integrated Review Template, version 3.0 (05/25/2022)
+
+Reference ID: 5178054

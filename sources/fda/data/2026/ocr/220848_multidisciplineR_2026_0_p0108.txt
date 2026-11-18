@@ -1,0 +1,113 @@
+NDA 220848
+LIPFENDRA (enlicitide)
+
+FDA Figure 3. Sample and Shrinkage Subgroup Analysis for Percentage Change From Baseline in
+LDL-C at Week 24, Trial P017
+
+subgroup Enlicitide vs Placebo LS Mean Difference (95% Cl)
+
+‘Age Group 1:< 65 Sample 57.9 (-64.7, 51.1)
+Shrinkage -58.5 (64.8, -52.2)
+Sample -63.4 (-77.6, 49.1)
+Shrinkage — -59.8 (-69.6. -50.9)
+Sample -49.9 (-64.6, -35.3)
+‘Shrinkage — -56.5 (66.4, -44.7)
+Sample 62.1 (-69.0, 55.2)
+Shrinkage  -€60.4 (67.1, -54.0)
+Sample 75.1 (-90.4, 59.7)
+Shrinkage -64.4 (-76.7,-54.2)
+Sample -54.0 (-75.1, 32.9)
+Shrinkage -60.1 (71.2, -48.0)
+
+_
+_
+Age Group 1:>= 65 —_—_
+—_
+—
+—
+~~
+~~
+—
+—
+—
+—_
+Race:White > Sample -58.3 (-65.4, 51.1)
+7
+=
+—
+=
+~~
+—
+—
+——
+—
+_
+~~
+=
+—-
+
+Ethnicity:Hispanic Or Latino
+Ethnicity:Not Hispanic Or Latino
+Race:Asian
+
+Race:Multiple
+
+Shrinkage -59.7 (-66.2, -53.0)
+Sample -74.4 (-86.0, 627)
+Shrinkage 66.4 (77.2, 56.9)
+Sample -61.5 (-70.0, -53.0)
+Shrinkage 61.4 (68.6, 54.3)
+Sample 46.1 (61.2, 31.1)
+Shrinkage -56.6 (67.7, -44.2)
+Sample -57.6 (-74.9, -40.2)
+Shrinkage -60.2 70.8. -48.8)
+Sample -52.8 (-61.1, 4.5)
+Shrinkage -55.6 (-63.2, 47.9)
+Sample 64.1 (-73.3, 55.0)
+Shrinkage  -60.3 (687,-52.3)
+
+Region:Asia Pacific
+Region:EMEA
+
+Region:Latin and South America
+Region:North America
+
+Sex:F
+
+sex:M
+
+<— Favors Enlicitide Favors Placebo —>
+T T T T T T 1
+
+-100 -75 -50 -25 0 25 50 75 100
+
+= Sample Shrinkage
+
+‘Source: FDA analysis based on adam-adsI_xpt and adam-adeff xpt
+
+Sample: Missing data were multiply imputed 100 times based on placebo data due to an insufficient number of retrieved dropouts.
+‘The estimate of difference in LS means between treatment groups (Enlicitide — Placebo) was based on the ANCOVA model with
+treatment and baseline LDL-C as covariates. Treatment effects from the 100 analyses were combined using Rubin's rule.
+
+Shrinkage analysis was conducted with Bayesian hierarchical model using summary sample estimates. A flat prior with overall mean
+following a normal distribution was used for mean treatment effect in each subgroup: 1; ~ N (, 1), 1 ~ N (mean=0, std=60), T~ N
+(mean=0, std=5, lower=0). A standard deviation of 60 was chosen so that the standard deviation was approximately 2 times the
+‘subject-level standard deviation.
+
+Abbreviations: ANCOVA, analysis of covariance; Cl, confidence interval; EMEA, Europe, middle east and Africa; LDL-C, low-density
+lipoprotein cholesterol; LS, least square
+
+Data Quality and Integrity
+
+The Applicant’s Position:
+
+Investigative study sites were monitored and study data were reviewed as described for PO13 in
+[Sec. 8.1.1.1]. No serious breaches of GCP or other GCP compliance issues were assessed as
+
+95
+Version date: February 10, 2025 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant's Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5833849

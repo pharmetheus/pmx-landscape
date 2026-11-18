@@ -1,0 +1,53 @@
+Material used for QCs and
+
+Human plasma (K2-EDTA)
+
+Stock solution: midazolam-d4 at 10 ug/mL in methanol 365 days at -30°C
+
+concentration Reference material:
+midazolam QC levels:
+Midazolam: 0.0500, 0.150, 2.00, 25.0, 40.0, 800 ng/mL.
+Minimum required dilutions | NA
+Source and lot of reagents NA
+Regression model and Linear 1/x?
+weighting
+Validation Parameters Method Validation Summary Acceptability
+Standard calibration curve Number of standard calibrators from LLOQ to 8 Yes
+performance during accuracy | ULOQ
+and precision Cumulative accuracy (“bias) from LLOQ to -3.1 to LS Yes
+ULOQ midazolam
+Cumulative precision (%CV) from LLOQ to 2.0 10.4.7 Yes
+ULOQ midazolam
+QCs performance during Cumulative accuracy (%bias) in 6 QCs -3.0 to 0.3 Yes
+accuracy and precision QCs for midazolam
+Inter-batch %CV 2.3 to 5.2
+QCs for midazolam Yes
+Selectivity and matrix effect | 6 different lots tested Yes
+Matrix effect at 0.005 ng/mL, %Bias 6.6, %RSD 9.3 (n= 1 per lot)
+Midazolam MF: low QC 0.947 to 1.03: IS 0.984 to 1.01, IS normalized
+0.938 to 1.04
+Midazolam MF: high QC 0.982 to 0.996, IS 0.978 to 1.01, IS normalized
+0.987 to 1.01
+Interference and specificity 6 different lots tested Yes
+No interference greater than acceptable limits detected at the retention times off
+interest.
+Hemolysis effect Passes acceptance criteria Yes
+Lipemic effect Passes acceptance criteria Yes
+Dilution linearity and hook NA NA
+effect
+Bench-top/process stability Stock solution: midazolam at 100 ug/mL in methanol 196 days at 2°C to 8°C Yes
+
+355
+Version date: March 1, 2024 (All NDA/BLA reviews)
+
+In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the Applicant,
+which do not necessarily reflect the positions of the FDA.
+
+The FDA review was conducted in conjunction with other regulatory authorities under Project ORBIS. The FDA
+collaborated with Australia’s Therapeutic Goods Administration (TGA), Brazilian Health Regulatory Agency
+(ANVISA), Health Canada (HC), Singapore’s Health Sciences Authority (HSA), and Switzerland’s Swissmedic
+(SMC). While the conclusions and recommendations expressed herein reflect the FDA’s completed review of the
+application, the applications may still be under review at the other regulatory agencies.
+
+Reference ID: 5864804
+

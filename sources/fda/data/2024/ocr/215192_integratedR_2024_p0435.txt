@@ -1,0 +1,44 @@
+NDA 215192
+Table 216. Summary of Baseline Continuous Covariates by Target Population
+
+Covariate Mean (CV%)
+in, Max}
+Healthy Subjects NDD-CKD DD-CKD All
+
+(N=96) (N=2003) (N=2089) (N=4188)
+Age 34.3 (25.9) 66.8 (20) 58.5 (23.3) 61.9 (23.6)
+(years) 33 [18, 52] 68 [19, 104] 59 [20,93] 63 [18, 104]
+Weight 78.6 (17.9) 78.5 (27.8) 78.4 (28) 78.5 (27.7)
+(kz) 77.6 (50.1, 111] 75 [30.1, 179] 75.3 (32, 204] 75.3 [30.1, 204]
+BMI 25.3(13.1) 29 (24.4) 28 (25.4) 28.4 (24.8)
+(ke/m’) 25.8 [18.6, 30.6] 27.9 [14.8, 69.3] 26.7 [13.4, 84.9] 27.2 13-4, 84.9]
+acl 121 (20) 28.7 (70) 10.9 (58.1) 22. (105)
+(mL/min) 116 [81.1, 192] 25.2 [4.44, 609] 9.28 [2.56, 66.1] 15.2 [2.56, 609]
+eGER 93.1 (19.2) 22.7 (53.4) 7.06 (64.6) 16.5 (102)
+(ml /min/1.73 m?) 91.3 (62.5, 148] 20.1 [2.82, 98.2] 5.85 [2.18, 75.4] 10.5 [2.18, 148}
+sCr 84.9 (15.1) 279 (54.8) 774 (35.8) 522 (64.7)
+(jumol/L) 88.4 [53, 115] 241 [19.4, 1760] 766 [83.1, 1940] 440 [19.4, 1940]
+Albumin 4.54 (6.36) 3.98 (11.9) 3.98 (10.5) 3.99 (113)
+(g/dL) 45 (3.8, 5.1] 4[1.6, 5.4] 4 [2,56] 4 [1.6.5.6]
+ALT 20.6 (46.5) 16.1 (69.2) 15.6 (154) 16 (117)
+(UL) 18 [6, 68] 14[4, 192] 12 B, 966] 13 [3, 966]
+AST 20 (34.2) 18.4 (51.3) 15.4(03.1) 16.9 (72)
+(UL) 19[11, 56] 174,172] 14 [2, 518] 15 [2, S18]
+Total bilinubin 0.77 (38) 0.316 (64.5) 0.323 (49.7) 0.33 (60)
+(mol/L) 0.7 (0.3, 1.8] 0.3 [0.1.3] 030.1, 19] 03 (0.1, 3]
+wo-ESA 00) 44.8 (231) 107 (99.7) 74.7 (146)
+(Uiweek/kg) 0 [0.0] 0 (0, 1310] 77 (0, 965] 430, 1310]
+
+ALT: alanine transaminase: AST: aspartate transaminase; BMI: body mass index; CKD: chronic kidney disease; CrCl: creatinine
+clearance; CV: coefficient of variation: DD: dialysis-dependent: eGFR: estimated glomerular filtration rate: Max: maximum:
+Min: minimum; N: sample size, NDD: non-dialysis-dependent: sCr: serum creatinine: wn-ESA: weight-normalized weekly
+erythropoiesis-stimulating agent.
+Note: AKB-6548-C1-0015-Jqgg@@) has a baseline eGFR of 337 mL/min/1.73 m?, which was imputed with time average mean
+of all eGFR values at baseline and during treatment (89.0 mL/min/1.73 m*). Associated CrCL and sCr values were not imputed
+because these were not considered in the analysis. Summary statistics are based on the imputed value.
+Source: Applicant's PopPK Analysis Report, Tables 5-6, page 52
+
+290
+Integrated Review Template, version 2.0 (04/23/2020)
+
+Reference ID: 4960499

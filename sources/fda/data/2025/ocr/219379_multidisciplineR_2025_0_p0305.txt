@@ -1,0 +1,100 @@
+NDA/IND Multi-disciplinary Review and Evaluation NDA 219379/219389
+Mirdametinib (GOMEKLI)
+
+Table 71. Bioanalytical method to determine mirdametinib and PD-0315209 concentrations in
+
+human plasma (Study A4581001 Phase 2).
+
+[Bioanalytical method Validation of an LC/MS/MS Assay Method for the Determination of PD-0325901 and Its Metabolite PD-0315209 in K2EDTA|
+
+validation report name Human Plasma (Report 05479VDAC_PLC)
+
+Method description This method is applicable for the determination of PD-0325901, PD-0315209 and internal standards ([2H3]PD-0325901 and
+[2H3]PD-0315209) m potassium EDTA human plasma. Samples are extracted by liquid-liquid (95:5 MTBE/ethanol) and
+Thee’ by LOMOMS a
+
+|Standard calibration curve 1.00, 2.00, 5.00. 10.0, 50.0, 100, 500, 900. 1000 ng/mL
+
+concentrations
+
+| Validated assay range 1 to 1000 ng/mL
+
+Quality control 1, 3, 400, and 800 ng/mL
+
+|concentrations
+
+[Regression model and Calibration curves were fitted by linear least squares regression analysis (weighted as 1/x2)
+
+weighting
+
+‘Standard calibration cue [Number of standardcalibrators [9
+
+peiomance ing scomacy from LLOQ to ULOQ
+
+ —— [Cumulative accuracy (%bias) -2.9 to 28 (amirdametinib), -2.0 to 1.2 (PD-0315209)
+
+| Cumulative precision (%CV) 0.7 to 2.5 (mirdametinib), 1.0 to 7.1 (PD-0315209)
+
+Performance of Cs during [Accuracy (% bias) Precision Ce CV)
+
+accuracy and precision
+
+runs (Mi ib) Intra Assay }-15.7 to 3.0 3.3
+[Inter Assay -10.0 to -03 5.4
+
+Performance of Cs during [Accuracy (% bias) Precision ®% CV)
+
+accuracy :
+
+runs (PD-0315209) Intra Assay -14.3 to 3.5 26.3
+Inter Assay -5.8 to-05 8.5
+
+[No chromatographic interferences were observed at the retention times of the analytes or IS in any of the human control
+samples analyzed
+
+[Hemolysis effect Not applicable
+
+TLipemic effect Not applicable
+
+Dilution Linearity [Above the calibration range, 4000 ng/ml diluted 10-fold
+
+ee oe ‘Stable for at least 29 hours in ambient conditions. Processed extracts for 104 hours in ambient conditions.
+
+ay.
+
+|Freeze-thaw matrix stability | Stable for 3 cycles at -20°C and -70°C
+
+[Long-term matrix storage _| Stable at -20°C and -70°C for at least 421 days
+
+(Cary-over For PD-0315209, ~20% of the LLOQ (only observed in one analytical run and due to high baseline signal), Not detected for
+|murdametuib nor internal standards.
+
+Recovery ‘53.5% (mirdametinib) and 32.9% (PD-0315209) at QC levels 3, 400, and 800 ng/mL; 47 2% ({2H3]PD-0325901) and 14.6%
+| (2H3]PD-0315209) at 125 ng‘mL
+
+|Reinjection Reproducibility | 97 hours at ambient conditions
+
+|Method Performance in Study 44581001 Phase 2
+
+[Assay passing rate 7 out of $ rms (87.5%) were acceptable.
+Number of calibration 9
+standards (LLOQ to ULOQ)
+[Standard curve performance fmirdametinib [PD-0315209
+[Cumulative accuracy (%bias)  |-6.4t040 -1.6t035
+[Cumulative precision (%CV) _|3.010 56 1.6 to 5.0
+[QC performance fmirdametinib PD-0315209
+[Cumulative accuracy (%ebias) _|-3.3 069 271010
+[Cumulative precision CV) _|0.80 8.0 0.71038
+[Study sample analysis/stability | Stable at -20°C for at least 421 days. The longest period between collection and analysis was 590 days and occurred for Subject
+
+Source: Applicant's 2.7.
+
+1 Summary of Biopharmaceutic Studies / Associated Analytical Methods (Appendix 3).
+
+304
+Version date: June 2022 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5528369

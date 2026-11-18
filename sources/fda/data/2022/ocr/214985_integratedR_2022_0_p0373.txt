@@ -1,0 +1,55 @@
+greater than 0 (p<0.0001).
+
+The results on Take Drug Again Emax show that
+
+1. The median difference between each positive control and placebo was significantly greater than zero
+(p<0.0001).
+
+2. The median differences between each positive control and each dose of ACT-541468 were not
+significantly greater than 0 (p20.1562) except the comparison between 150 mg suvorexant and 50
+mg ACT-541468 (p=0.0298).
+
+3. Because the median difference between 30 mg zolpidem and 50 mg ACT-541468 was not
+significantly greater than zero, the comparison between 50 mg ACT-541468 and placebo was not
+performed.
+
+In conclusion, overall drug liking produced by ACT-541468 was not smaller than that produced by either
+30 mg zolpidem or 40 mg suvorexant. Compared to both 30 mg zolpidem and 40 mg suvorexant, subjects
+did not have less interest to take ACT-541468 again. The results supported findings from the primary
+analysis.
+
+2.4.3. Sensitivity Analyses
+
+Currently we recommend all statistical analyses in a HAP study being conducted on a Modified
+Completer Population (MCP). The recommended MCP is defined as completers who do not satisfy any of
+the following two criteria for the primary endpoint Drug Liking Emax:
+
+1. The difference between maximum and minimum of Emax scores for all treatments is smaller than
+
+or equal to 5 (that is, similar Emax scores across all treatments including placebo).
+
+2. Emax (P) > 60 and Emax(P) — Emax(Z30) => 5 (or Emax(P) — Emax(S150) = 5).
+Because the analyses in this study were prespecified to use the Completer Population. The reviewer's
+sensitivity analyses were based on the MCP.
+
+By examining the data, five subjects (# 6)) did not belong to MCP.
+Therefore, the sensitivity analyses on Drug Liking Emax, Overall Drug Liking Emax and Take Drug
+Again Emax were based on 58 subjects. Table 7 shows the means and standard errors for three endpoints
+in the sensitivity analyses.
+
+Table 7: Means and Standard Errors for Drug Liking Emax, Overall Drug Liking Emax, and Take
+Drug Again (N=58)
+
+az Drug Liking Overall Drug Liking Take Drug Again
+
+Mean StdErr Mean StdErr Mean StdErr
+230 80.1 1.9 78.6 23 79.8 23
+$150 80.3 2.0 81.3 2.2 81.6 23
+50 72.0 2.2 73.1 2.6 74.3 2.9
+7100 79.1 2.2 79.2 25 79.5 25
+7150 80.6 1.9 80.6 2.3 81.7 24
+P 52.8 1.2 53.8 1.4 53.4 18
+
+21
+
+Reference ID: 4859554

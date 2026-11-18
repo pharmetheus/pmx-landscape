@@ -1,0 +1,44 @@
+Clinical/Statistical Review
+NDA 213378
+Lybalvi (Olanzapine/Samidorphan, ALKS 3831)
+
+Table 13: Sensitivity Analysis of PANSS Total Score Change from Baseline— Delta Adjusted
+Pattern Mixture Model (Study A305)
+
+Category Statistic? Shift Parameter ALKS 3831
+Primary Analysis 10) -
+LS Mean Difference vs. Olanzapine® (95% Cl) - -6.4 (-10.0, -2.8)
+p-value - < 0.001
+50% of Treatment Difference between 32 _
+ALKS 3831 and Placebo
+LS Mean Difference vs. Placebo (95% Cl) - -6.6 (10.3, -2.9)
+p-value - <0.001
+
+Abbreviations: Cl=confidence interval; LS=least squares; SE=standard error
+
+Notes: ALKS 3831 and olanzapine subjects who discontinued would have their unobserved PANSS worsened by
+some amount delta compared with the observed PANSS of subjects on the same treatment arm who continued to
+the next time point. Subjects who discontinued from the placebo arm would have the same PANSS trajectory as
+the placebo subjects who stay on the study.
+
+The analysis of covariance (ANCOVA) model with region (U.S. vs non-U.S.) and treatment as factors, and baseline
+PANSS total score as covariate is used to analyze change from baseline at Week 4. Rubin's rule is used to combine
+the treatment effect estimates and standard errors across imputations.
+
+Source: extracted from Applicant’s CSR, Table 10 and Table 11
+
+Exploratory Subgroup Analyses on Primary Efficacy Endpoint
+
+The Applicant reports subgroup analyses results by demographic factors, region, and baseline
+severity as displayed in the following figure. Although the subgroup analysis suggested a trend
+in favor of placebo compared to both ALKS 3831 and olanzapine in subjects age >55 years, the
+age cutoff was aribitrary, and there were very few subjects in this subgroup. In Black subjects,
+data also suggested a trend slightly in favor of placebo. It is noted that all black subjects were
+from the United States. In U.S. subjects the observed treatment effects for both ALKS 3831 and
+olanzapine were essentially neutral. The Applicant believes these findings are consistent with
+historical findings of decreased antipsychotic treatment response in subjects in the United
+States.
+
+55
+
+Reference ID: 4701252

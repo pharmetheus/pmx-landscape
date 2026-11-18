@@ -1,0 +1,17 @@
+{
+  "name": "affiliation",
+  "version": "2",
+  "question": "Which kinds of organisation are the authors from: the first author's type, whether any author is from industry or a CRO, and which named companies, CROs, vendors and regulators they are from?",
+  "scope": {
+    "PAGE": ["authors", "affiliations"],
+    "PubMed": ["authors", "author_affiliations"],
+    "Europe PMC": ["authors", "author_affiliations"]
+  },
+  "rules": "../../taxonomy/affiliation_rules.csv",
+  "reader": "none (rules only)",
+  "check": {
+    "reader": "Claude Code subagent (sonnet), development check",
+    "per_class": 30,
+    "seed": 20261020
+  }
+}

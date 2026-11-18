@@ -1,0 +1,23 @@
+{
+ "_note": "Pattern matches that are not software use by the Applicant or FDA reviewer, or that contradict the recorded tool for a documented reason. 07_verify.py treats these as explained.",
+ "exceptions": [
+  {
+   "year": "2025",
+   "application": "219713",
+   "software": "Stan",
+   "reason": "OCR noise: the letters 'stan' in garbled table text on p321, not software"
+  },
+  {
+   "year": "2025",
+   "application": "219407",
+   "software": "NONMEM",
+   "reason": "FDA template phrase 'final NONMEM data file' on p237; the Applicant used Phoenix NLME 8.4 (p240)"
+  },
+  {
+   "year": "2025",
+   "application": "218436",
+   "software": "NONMEM",
+   "reason": "FDA template phrase 'final NONMEM data file' on p233; the Applicant used Monolix 2021R2 (p238)"
+  }
+ ]
+}

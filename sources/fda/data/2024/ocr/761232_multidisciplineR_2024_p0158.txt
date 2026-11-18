@@ -1,0 +1,70 @@
+BLA 761232 - Multi-disciplinary Review and Evaluation
+TEVIMBRA - tislelizumab-jsgr
+
+TISLELIZUMAB ICC
+N=255 N=240
+All grades Grades 3-4 All grades Grades 3-4
+
+n(%) n(%) n(%) n(%)
+Blood and Lymphatic System Disorders
+Anemia 78 (31) 15 (6) 107 (45) 26 (11)
+Skin and Subcutaneous Tissue Disorders
+Rash (GT) [| 22an [| o0@0 | i@ |  0@o
+
+Group Fatigue (GT) includes PT terms FATIGUE, ASTHENIA,
+
+Group Diarrhea (GT) includes PT terms DIARRHOEA, COLITIS,
+
+Group Abdominal Pain (GT) includes PT terms ABDOMINAL PAIN, ABDOMINAL PAIN UPPER
+ABDOMINAL DISCOMFORT, ABDOMINAL PAIN LOWER, GASTROINTESTINAL PAIN,
+
+Group Hemorrhage (GT) includes PT terms TUMOR HEMORRHAGE, UPPER GASTROINTESTINAL
+HEMORRHAGE, GASTROINTESTINAL HEMORRHAGE, ESOPHAGEAL HEMORRHAGE, HEMOPTYSIS,
+HEMATURIA, GASTRIC HEMORRHAGE. EPISTAXIS. TRACHEAL HEMORRHAGE. GINGIVAL
+BLEEDING, RECTAL HEMORRHAGE, PULMONARY HEMORRHAGE, STOMA SITE HEMORRHAGE,
+PROCEDURAL HEMORRHAGE,
+
+Group Pneumonia (GT) includes PT terms PNEUMONIA, PNEUMONIA ASPIRATION, PNEUMONIA
+BACTERIAL, LOWER RESPIRATORY TRACT INFECTION,
+
+Group Vomiting (GT) includes PT terms VOMITING,
+
+Group Musculoskeletal Pain (GT) includes PT terms MUSCULOSKELETAL PAIN, ARTHRALGIA, BACK
+PAIN, SPINAL PAIN, PAIN IN EXTREMITY, MYALGIA, NECK PAIN, BONE PAIN, NON-CARDIAC
+CHEST PAIN, MUSCULOSKELETAL CHEST PAIN, ARTHRITIS,
+
+Group Cough (GT) includes PT terms PRODUCTIVE COUGH, COUGH.
+
+Group Pyrexia (GT) includes PT terms PYREXIA, BODY TEMPERATURE INCREASED,
+
+Group Neuropathy Peripheral (GT) includes PT terms PERIPHERAL SENSORY NEUROPATHY,
+PARAESTHESIA, NEURALGIA, HYPOAESTHESIA, PERIPHERAL SENSORIMOTOR NEUROPATHY,
+Group Hypothyroidism (GT) includes PT terms HYPOTHYROIDISM, BLOOD THYROID STIMULATING
+HORMONE INCREASED,
+
+Group Rash (GT) includes PT terms RASH, ERYTHEMA MULTIFORME, RASH MACULO-PAPULAR,
+ECZEMA, RASH PRURITIC, RASH FOLLICULAR, SKIN EXFOLIATION, PALMAR-PLANTAR
+ERYTHRODYSESTHESIA SYNDROME, DERMATITIS, VASCULITIC RASH, DERMATITIS ACNEIFORM,
+DRUG ERUPTION,
+
+Source: ADSL (Subject-Level Analysis Dataset) - 2021-07-12, ADAE (Adverse Event Analysis Dataset) - 2021-07-
+12. Variables used: USUBJID, TRT01A, SAFFL, TRTEMFL, AEDECOD, AETOXGRN, AEACN, AACN,
+AEBODSYS, AESER
+
+To further explore other AEs of interest due to either the disease under study or the mechanism
+of action of the drug, FDA examined the frequency of fistula formation and ocular toxicities,
+below.
+
+e Esophageal/upper GI Fistulas
+Given the nature of esophageal cancers and the risk of fistulas seen in this patient population,
+including in the setting of therapy with anti-PD1(L1) antibodies, FDA examined the frequencies
+of esophageal/upper GI fistula formation in Study 302. In the tislelizumab arm, 12 events of
+esophageal fistula formation occurred in 11 (4.3%) patients (7 patients or 2.7% had SAEs),
+including a fatal event of esophagobronchial fistula. In the ICC arm, 16 events of
+157
+Version date: January 2020 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5345383

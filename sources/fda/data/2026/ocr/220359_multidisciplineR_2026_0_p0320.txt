@@ -1,0 +1,56 @@
+Source: Table 12 in the PBPK report D8534C00001 (seq0001) and Table 14 in the camizestrant-response-document-pbpk (seq 0019)
+
+19.4.4.4.2. Can PBPK analyses predict the effects of CYP3A perpetrators
+on the PK of camizestrant?
+
+Yes. The camizestrant PBPK model could be used to predict the effects of CYP3A inhibitors
+
+or inducers, and the results are presented in Table 43. Moderate CYP3A inhibitors were
+predicted to increase camizestrant exposure by approximately 1.6-fold, and the weak CYP3A
+inhibitor cimetidine was predicted to have a minimal effect on camizestrant exposure. The strong
+CYP3A inducers rifampin and carbamazepine were predicted to decrease camizestrant exposure
+by approximately 70-80%. The moderate CYP3A inducers efavirenz and phenobarbital were
+predicted to decrease camizestrant exposure by approximately 55%. Additional simulations were
+performed to show that camizestrant exposure in the presence of both phenobarbital 100 mg QD
+and ribociclib 400 mg QD or 600 mg QD was similar to that in the absence of these CYP3A
+inhibitors and inducers (Table 44), thereby supporting no dose adjustment for these drug
+combinations. The conclusions are similar regardless of which cancer population model was
+used for the simulations. However, these results should be interpreted with caution when applied
+to cancer patients. See the detailed discussion below.
+
+Table 43 Predicted Cmax and AUC ratio of drug-drug interactions with camizestrant as an
+object in patients with cancer
+
+Precipitants — ‘Observed Data Predigred” Prediged®
+|Classification Cau Ratio ‘AUCRatio | C...Ratio | AUC Ratio | C.,., Ratio | AUC Ratio
+IRraconazole capsule
+Rees 200 mg BID on Day 1then200 |1.37(1.05,1.79)*|190(154,235)*| 132 174 143 209
+mg QDfor 5days
+rea Fluconazole 200mg QD. 12 162 133 194
+meee Erythromycin 500mg every 6h 117 136 125 154
+[Verapamil 741mg every 8h 125 156 135 184
+lWeak CYP3A inhibitor [Cimetidine 400mg BID i i 135 115
+UGTIAdinhibitor —_[Valproicacid 1000mg BID 121 141 17 131
+|Strong CYP3A/UGT1A4 |Rifampicin 600mg QD 0.38 0.23 037 0.22
+inducer Carbamazepine Regimens 1-4 aa3-05 [0.23-0.35| 04-048 [0.27-0.34
+Moderate CYP3A Efavirene 600 me QD O56 oat 053 038
+JGTIAS inducer___| Phenobarbital 200 mg QD 058 0.43 O55 0.41
+lweak CYP3A inducer |Modafinil 200mg QD a3 0.83 086 07
+
+Geometric mean values are reported. All simulated studies were performed in female cancer population aged 25 -92 years under the fed state,
+and a single 75 mg dose of camizestrant was given on Day 9 during the 1-day inhibition studies and on Day 15 during the 17-day induction
+studies, except that the itraconazole study was conducted in healthy females aged 52-65 years under the fed state for 6 days.
+
+319
+Version date: March 1, 2024 (All NDA/BLA reviews)
+
+In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the Applicant,
+which do not necessarily reflect the positions of the FDA.
+
+The FDA review was conducted in conjunction with other regulatory authorities under Project ORBIS. The FDA
+collaborated with Australia’s Therapeutic Goods Administration (TGA), Brazilian Health Regulatory Agency
+(ANVISA), Health Canada (HC), Singapore’s Health Sciences Authority (HSA), and Switzerland’s Swissmedic
+(SMC). While the conclusions and recommendations expressed herein reflect the FDA’s completed review of the
+application, the applications may still be under review at the other regulatory agencies.
+
+Reference ID: 5864804

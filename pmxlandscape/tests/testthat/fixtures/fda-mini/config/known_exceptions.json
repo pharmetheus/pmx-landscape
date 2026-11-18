@@ -1,0 +1,11 @@
+{
+ "_note": "Test fixture.",
+ "exceptions": [
+  {
+   "year": "2099",
+   "application": "100002",
+   "software": "Stan",
+   "reason": "author first name Torsten in a reference"
+  }
+ ]
+}

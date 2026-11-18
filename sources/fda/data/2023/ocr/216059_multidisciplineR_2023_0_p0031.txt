@@ -1,0 +1,49 @@
+NDA 216059 Multi-disciplinary Review and Evaluation
+Jaypirca (pirtobrutinib)
+
+acid-tyrosine (poly-EY) peptide substrate. The BTK enzymes and inhibitors were incubated with
+ATP at either 10 1M or the ATP Km concentration for each respective enzyme. The mutant BTK
+enzymes included BTK C481S and BTK P190K, a clinically observed lung cancer mutation (Davies
+et al. Cancer Res 65: 7591-7595, 2005). Pirtobrutinib exhibited comparable inhibitory effects
+against wild-type BTK and the mutants tested.
+
+Table 3: Inhibition of WT and Mutant BTKs
+
+Kinase ATP Concentration LOX0-305 ICs hn
+(uM) (Mean + SD, nM)
+
+BIK Km = 50 3.15 + 1.32 12
+BTK C4818 Kim = 15/50* 1.42 £0.60 12
+BTK F41K Ki = 15 7.85 +0.08 2
+BTK P190K Ka= 15 2.14 + 0.09 2
+
+*ATP Km concentration was 15 1M for 10 measurements and 50 «tM for 2 measurements due to lot differences
+in BTK C4818 protein
+
+BTK E41K is a preclinical constitutively active BTK mutant (Fukuda et al. J Biol Chem 271: 30303-06, 1996)
+(Table from the Applicant)
+
+The major human metabolite M1 (also known as LOX-00023900-001 and LSN3828720) did not
+inhibit BTK activity under the conditions tested, as indicated by an ICso greater than 5 uM (data
+not shown).
+
+Reversible binding of pirtobrutinib toward BTK targets
+
+Binding kinetics of pirtobrutinib toward WT BTK and C481 substitution mutant (resistance
+mutation) BTKs:
+
+The in vitro equilibrium binding affinities of pirtobrutinib for WT BTK and the resistance
+mutations, the BTK C481 substitution mutants (i.e., C481S, C481R and C481T), were determined
+further using a surface plasmon resonance (SPR)-based assay. The data indicate that
+pirtobrutinib binds WT and C481S mutant BTK with Kp values in the low nM range. Pirtobrutinib
+demonstrated reversible binding to WT BTK and BTK C4815 with off-rates corresponding to a
+pirtobrutinib dissociation half-life of 1.9 -2.6 hours. While the binding affinities were
+comparable across the BTK mutants tested, the complex half-lives were higher for the C481R
+(7.5 h) and C481T (28 h) mutations compared to C4815 (1.9 h).
+
+30 of 265
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5116352

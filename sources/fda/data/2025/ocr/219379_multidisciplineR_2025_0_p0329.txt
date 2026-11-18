@@ -1,0 +1,77 @@
+NDA/IND Multi-disciplinary Review and Evaluation NDA 219379/219389
+Mirdametinib (GOMEKLI)
+
+Study Included 01-C-022 and 08-C-0079 included adult and pediatric
+participants with NF1 PN receiving no treatment and were
+used to develop a natural history tumor growth model. MEK-
+NF-201 and NF-106 included adult and pediatric participants
+with NF1 PN receiving a target dose of 2 mg/m? BID
+mirdametinib for 3 weeks on and 1 week off with a maximum
+dose of 4 mg BID.
+
+Endpoint Tumor Volume (MRI); DOR (MEK-NF-201 and NF-106 only);
+
+BOR (MEK-NF-201 and NF-106 only); TTP (MEK-NF-201 only)
+No. of Patients (total, and with individual 99 total participants in natural history model (29 from 01-C-
+PK) 022, 70 from 08-C-0079).
+
+133 total participants from mirdametinib clinical studies (19
+from NF-106, 114 from MEK-NF-201). 277 participants
+included in individual PK.
+
+Population General Age median (range): 21.0 yrs (2.00 — 69.0), 75 (56.4)%
+Characteristics participants > 17 yr, 26 (19.5)% participants 12-17 yr, < 12 yr,
+32 (24.1%)
+
+Weight median (range): 54.7 kg (11.4-169)
+Male: 54 (40.6%)
+
+Female: 79 (59.4%)
+
+Asian: 6 (4.5%)
+
+Black/African American: 21 (15.8%)
+Other: 11 (8.3%)
+
+White/Caucasian: 94 (70.7%)
+
+Organ impairment | Hepatic impairment — NCI Hepatic Organ Dysfunction
+definition. Normal 125 (93.98%), Mild B2 4 (3.01%), Moderate
+4 (3.01%)
+
+Renal impairment- Renal Function Normal 118 (88.72%), Mild
+14 (10.53%), Moderate 1 (0.752 %)
+
+Pediatrics (if any) _ | Described in General Population Characteristics
+Geriatrics (ifany) | Described in General Population Characteristics
+Dose(s) Included NF-106 and MEK-NF-201: multiple oral doses of 2 mg/m? BID
+
+(max dose, 4 mg) 3 weeks on/ 1 week off in 28-day cycles
+treatment phase of 24 cycles.
+
+Actual doses administered are visualized in Figure 4.
+Exposure Metrics Explored (range) TGI Model: Mirdametinib Cavg
+
+BOR, DOR, TTP: Mirdametinib Cmax,ss; Mirdametinib AUCO-
+12,ss, Mirdametinib Cmin,ss
+
+Covariates Evaluated TGI Model: Categorical Age (2-9 years, 9-17 years, >17 years),
+Baseline Age, Weight, Height, BSA, Dose, Study, Race, Sex,
+Tumor Status (progressive or non-progressive),
+Lansky/Karnofsky performance status
+
+BOR, DOR, TTP: Continuous age, Categorical age (2-12 years,
+12-17 years, >17 years), Lansky/Karnofsky performance
+status, Sex, Tumor status (progressive or non-progressive),
+baseline tumor volume.
+
+Final Model Parameters Summary Acceptability
+[FDA’s comments]
+
+328
+Version date: June 2022 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5528369

@@ -1,0 +1,53 @@
+NDA 217388
+Wainua (eplontersen)
+
+Figure 17. Schematic of the Final Population PK Model
+FR1xDose
+
+Peripheral
+
+V,/F
+Depot 1
+Qa/F
+
+™ V,
+
+Central
+Benot2 i on 3 V/E CL/F
+
+(1 - FR1)xDose
+Source: Figure 25 on Page 95 of ppk01-final-report pdf.
+FR1 = fraction of the dose absorbed via the first pathway, kai = first-order absorption rate constant for the slow pathway, kao = first-order
+absorption rate constant for the fast pathway, CL/F = apparent clearance, Vax = maximum metabolic rate, Ky = Michaelis-Menten
+constant, Q/F = apparent inter-compartmental clearance, V,/F = apparent volume of distribution for the central compartment, V,/F =
+apparent volume of distribution for the peripheral compartment.
+
+Plots of the observed versus the population predicted concentration demonstrated minimum bias,
+with the majority of data evenly scattered around the line of unity (Figure 18). The estimates
+from the final population PK model are provided in Table 90.
+
+Figure 18. Observed vs. Predicted Concentrations From the Final Population PK Model
+fen = 7.8%
+
+1000:
+
+Observed Concentration (ng/mL)
+
+Observed Concentration (ng/mL)
+
+ob10bs o1 03 7 3 10 30 100 300 1000 ob1003 07 03 7 3 10 30 100 300 1000
+Population Predicted (ng/mL) Individual Predicted (ng/mL)
+
+Source: Figure 26 on Page 97 of ppk01-final-report pdf.
+
+Note:
+« The solid blue lines represent the line of unity.
+« The solid red lines represent the trend in the data (Loess smooth).
+© &,Shows shrinkage for the residual variability.
+
+Abbreviations: PK, pharmacokinetic
+
+161
+Integrated Review Template, version 3.0 (05/25/2022)
+
+Reference ID: 5299039

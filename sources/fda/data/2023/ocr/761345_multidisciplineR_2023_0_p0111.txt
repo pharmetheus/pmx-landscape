@@ -1,0 +1,68 @@
+NDA/BLA Multi-disciplinary Review and Evaluation BLA 761345
+Elranatamab
+
+Table 20: Applicant — Study C1071003 Primary and Secondary Endpoints
+
+Endpoint Description Analyses
+subsequently confirmed, until confirmed
+PD per IMWG criteria, or death due to any
+cause, whichever occurred first, or
+censoring.
+
+TTR? | Time from date of first dose to first Summarized using descriptive statistics.
+documentation of objective response by
+BICR that is subsequently confirmed.
+
+MRD Proportion of participants with negative MRD Defined by a threshold of 10° by next
+
+negativity (assessed by central lab) per IMWG sequencing generation sequencing. Calculated along
+
+rate? criteria by BMA from date of first dose until with 2-sided 95% Cl using Clopper-Pearson
+confirmed PD, death or start of new anticancer method.
+
+therapy, whichever occurred first.
+a_ participants with an objective response per IMWG criteria
+b_ participants with a sCR/CR per IMWG criteria
+
+The FDA’s Assessment:
+FDA agrees with the Applicant’s description of the primary and selected secondary endpoints and
+analyses methods.
+
+Statistical Analysis Plan and Amendments
+
+The Applicant’s Descripti
+The Study C1071003 original SAP had 8 amendments. The modifications to the original SAP are not
+
+considered to have had an impact on the integrity of the trial or the interpretation of the results.
+
+The Statistical Analysis Plan (SAP) for Study C1071003 was finalized on 14 April 2022 prior to the
+14 April 2022 database snapshot (23 March 2022 data cutoff) for BICR for the interim analysis for
+Cohort A. The SAP was amended on 08 July 2022 prior to the 20 July 2022 database snapshot (17
+June 2022 data cutoff [PCD]) for BICR for the final analysis for the primary endpoint for both
+cohorts for additional COVID-19 related analyses and subgroup analyses for Cohort B (ADC vs CAR-
+T). The SAP was last amended on 26 October 2022 prior to the 27 October 2022 database
+snapshot (14 October 2022 data cutoff) for the 9-month follow-up analysis per FDA request to
+clarify the primary analysis population for the efficacy analyses. The study SAP reflected changes in
+the protocol (via protocol amendments) such as additional or updated analyses as deemed
+clinically relevant and/or statistically appropriate based on emerging data.
+
+The sample size for Cohort A (approximately 120) and Cohort B (approximately 60) was calculated
+to provide adequate power for testing the statistical hypotheses regarding the primary endpoint
+of ORR independently in the 2 cohorts using a 2-stage design based on the exact binomial
+distribution.
+
+The primary analysis for all efficacy endpoints was performed separately by cohort and based on
+the BICR assessment of disease status using the safety analysis set (same as the final analysis
+evaluable set, N=123 for Cohort A and N=64 for Cohort B), which is all enrolled participants who
+received 21 dose of study drug. All enrolled participants received at least one dose of study drug.
+
+The primary endpoint was ORR, defined as the proportion of subjects who achieved a PR or better
+according to the IMWG response criteria (Kumar et al, 2016), as assessed by BICR. The ORR and its
+2-sided 95% Clopper-Pearson exact confidence interval (Cl) were presented, with the
+
+Version date: January 2020 (ALL NDA/ BLA reviews) 108
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5226136

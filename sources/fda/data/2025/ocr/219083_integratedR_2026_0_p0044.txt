@@ -1,0 +1,50 @@
+NDA 219083
+MYQORZO (aficamten)
+
+Table 10. Tabulated Proposed Aficamten Echocardiography-Based Dose Titration Criteria With
+Instructions for Dose Titration, Timing of Next Potential Dose Titration, and Management of
+Potential Events of LVEF <50%
+
+Row Current Dose Next
+LVEF LVOT-G | Dose Titration Phase Visit
+(%) (GamHg) (ing)
+1 > 58 >30 StolS Increase by 5 mg Titration 2 to 8 weeks
+Uh No change Maintenance } Approximately
+. 6 months
+>55 Any
+4 > $0 to < 55 Any Any No change Maintenance | Approximately
+3 months
+(>) 4) ra
+5 | 240t0<50 Any Decrease by 5 mg Titration 2 to 8 weeks
+6 | 240t0<s0 Any Interrupt for > 7 days:
+> a0 a)
+8 < 40 Any Interrupt for > 7 days:
+©) 4)
+
+LVEF = left ventricular ejection fraction: LVOT-G = left ventricular outflow tract gradient,
+* Dependent on intercurrent illness and patient clinical status
+Source: Table 56, Module 2.7.2
+
+The Applicant’s proposed echocardiographic assessments during titration and maintenance
+appeared reasonable based on the population PK/PD modeling and simulation:
+
+1. Assessment during titration phase: The Applicant’s proposed flexible echocardiographic
+assessment every 2 to 8 weeks (instead of at Weeks 2, 4, and 6 that was done in the Phase 3
+trial) after initiation of treatment appeared reasonable. The pharmacometrics reviewer
+evaluated the frequency of echocardiographic assessment during the titration phase by
+performing model-based simulations at different titration frequencies of echocardiographic
+assessments ranging from every 2 weeks to every 8 weeks. Figure 2 and Table 11 summarize
+the percent of subjects with Valsalva LVOT-G <30 mm Hg and LVEF <50% based on
+various echocardiographic assessment frequencies during the titration phase. Briefly, from a
+safety perspective, every 2-week echocardiographic assessment (orange color) and every 8-
+week echocardiographic assessment (yellow color) provided similar percentages of subjects
+with LVEF <50% at 24-weeks. For efficacy, compared to every 2-week echocardiographic
+assessment, every 8-week echocardiographic assessment resulted in 7% fewer subjects with
+LVOT-G <30 mm Hg at 24 weeks. Beyond 24 weeks, a similar number of subjects achieved
+the titration goals for LVEF >50% or Valsalva LVOT-G <30 mm Hg irrespective of titration
+frequences.
+
+27
+Integrated Review Template, version 4.0 (11/1/23)
+
+Reference ID: 5715605

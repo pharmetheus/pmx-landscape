@@ -1,0 +1,123 @@
+NDA 218614
+Tryngolza (olezarsen sodium)
+
+Parameter
+
+Results
+
+Validated assay range
+
+0.015 nM (0.13 ng/mL) to 20.0 nM (173.7 ng/mL)
+
+Assay method
+
+Hybridization ECL assay
+
+Material used for QCs and
+concentration
+
+Olezarsen (Bioanalytical Solution Standard); Lot BSS-678354-01:
+0.015, 0.03, 0.045, 1.5, 15, 18, and 20 nM
+
+Source and lot of reagents
+
+Dipotassium EDTA human plasma: oa
+
+Water: Milli-Q
+
+10x Dulbecco's PBS: (ora)
+
+Sodium Phosphate, dibasic: (by)
+
+Sodium Chloride: () (4)
+
+Trizma base: ©) (4)
+
+Tween-20: oa
+
+Blocker A: (©) (4)
+
+Diluent 100: way
+
+4x Read Buffer T: ©) a)
+
+Hydrochloric Acid (HCI): (oa)
+©® buffer G2: oe)
+
+Proteinase K: (oy(ay
+
+Regression model and weighting
+
+Four-parameter logistic, 1/response*
+
+Standard calibration curve
+performance during accuracy
+and precision runs
+
+Number of standard calibrators from LLOQ to ULOQ: 11
+Cumulative accuracy (% bias) from LLOQ to ULOQ:
+-2.44% to 2.78%
+
+Cumulative precision (% CV) from LLOQ to ULOQ:
+1.63% to 4.28%
+
+Performance of QCs during
+accuracy and precision runs
+
+Cumulative accuracy (%bias) in 7 QCs: 2.46% to 7.78%
+Inter-batch %CV: < 9.03%
+Total error (TE): = 16.40%
+
+Selectivity and matrix effect
+
+Acceptable with 10 out of 10 blank sample lots meeting the
+acceptance criteria.
+
+Acceptable with 10 out of 10 sample lots fortified at the LLOQ
+level, and 10 out of 10 sample lots fortified at the high QC level,
+meeting the acceptance criteria.
+
+Interference and specificity
+
+The percentage cross-reactivity of ISIS 489608 (19-mer), ISIS
+489609 (10-mer), and ISIS 489611 (5-mer) with olezarsen is
+130.7%, < 0.100%, and < 0.100%, respectively.
+
+No interference from metabolites ISIS 489609 (10-mer) and ISIS
+489611 (5-mer) up to 3.000 nM (20% of olezarsen concentration),
+and metabolite ISIS 489608 (19-mer) at 5% of olezarsen, on the
+quantification of olezarsen in human plasma. However, there is an
+interference from metabolite ISIS 489608 (19-mer) at 0.009 nM
+(20% of olezarsen concentration) when in the presence of 0.045
+nM olezarsen and at 3 nM (20% of olezarsen concentration) when
+in the presence of 15 nM olezarsen. Therefore, any interpretation
+of plasma concentrations of olezarsen will need to consider the
+type and level of metabolites present when accounting for
+potential interference.
+
+There was no interference on the quantification of olezarsen in
+K2EDTA human plasma when fortified with ADA at 10 pg/mL.
+
+Hemolysis effect
+
+No effect from hemolysis on the quantification of olezarsen
+
+Lipemic effect
+
+No effect from lipemia on the quantification of olezarsen
+
+Dilution linearity and hook effect
+
+200-, 2000-, and 20,000-fold dilution of 2000 nM Hook effect: No
+apparent prozone or “hook” effect was observed at concentrations
+up to 54,117 nM
+
+Bench-top/Process stability
+
+25 hours at room temperature
+
+236
+
+Integrated Review Template, version 4.0 (11/1/23)
+
+Reference ID: 5499859

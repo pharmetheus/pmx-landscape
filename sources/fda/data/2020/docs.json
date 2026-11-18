@@ -1,0 +1,219 @@
+{
+  "212295": [
+    {
+      "type": "clinPharmR",
+      "folder_year": "2020",
+      "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2020/212295Orig1s000ClinPharmR.pdf",
+      "text_file": "txt/212295_clinPharmR_2020_0.txt"
+    }
+  ],
+  "212950": [
+    {
+      "type": "integratedR",
+      "folder_year": "2020",
+      "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2020/212950Orig1s000IntegratedR.pdf",
+      "text_file": "txt/212950_integratedR_2020_0.txt"
+    }
+  ],
+  "212576": [
+    {
+      "type": "multidisciplineR",
+      "folder_year": "2020",
+      "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2020/212576Orig1s000MultidisciplineR.pdf",
+      "text_file": "txt/212576_multidisciplineR_2020_0.txt"
+    }
+  ],
+  "206966": [
+    {
+      "type": "clinPharmR",
+      "folder_year": "2020",
+      "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2020/206966Orig1s000ClinPharmR.pdf",
+      "text_file": "txt/206966_clinPharmR_2020_0.txt"
+    }
+  ],
+  "761163": [
+    {
+      "type": "multidisciplineR",
+      "folder_year": "2020",
+      "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2020/761163Orig1s000MultidisciplineR.pdf",
+      "text_file": "txt/761163_multidisciplineR_2020_0.txt"
+    }
+  ],
+  "761158": [
+    {
+      "type": "multidisciplineR",
+      "folder_year": "2020",
+      "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2020/761158Orig1s000MultidisciplineR.pdf",
+      "text_file": "txt/761158_multidisciplineR_2020_0.txt"
+    }
+  ],
+  "213464": [
+    {
+      "type": "multidisciplineR",
+      "folder_year": "2020",
+      "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2020/213464Orig1s000MultidisciplineR.pdf",
+      "text_file": "txt/213464_multidisciplineR_2020_0.txt"
+    }
+  ],
+  "213535": [
+    {
+      "type": "clinPharmR",
+      "folder_year": "2020",
+      "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2020/213535Orig1s000ClinPharmR.pdf",
+      "text_file": "txt/213535_clinPharmR_2020_0.txt"
+    }
+  ],
+  "210730": [
+    {
+      "type": "multidisciplineR",
+      "folder_year": "2020",
+      "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2020/210730Orig1s000MultidisciplineR.pdf",
+      "text_file": "txt/210730_multidisciplineR_2020_0.txt"
+    }
+  ],
+  "212154": [
+    {
+      "type": "clinPharmR",
+      "folder_year": "2020",
+      "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2020/212154Orig1s000ClinPharmR.pdf",
+      "text_file": "txt/212154_clinPharmR_2020_0.txt"
+    }
+  ],
+  "761149": [
+    {
+      "type": "clinPharmR",
+      "folder_year": "2020",
+      "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2020/761149Orig1s000ClinPharmR.pdf",
+      "text_file": "txt/761149_clinPharmR_2020_0.txt"
+    }
+  ],
+  "213433": [
+    {
+      "type": "multidisciplineR",
+      "folder_year": "2020",
+      "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2020/213433Orig1s000MultidisciplineR.pdf",
+      "text_file": "txt/213433_multidisciplineR_2020_0.txt"
+    }
+  ],
+  "761156": [
+    {
+      "type": "clinPharmR",
+      "folder_year": "2020",
+      "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2020/761156Orig1s000ClinPharmR.pdf",
+      "text_file": "txt/761156_clinPharmR_2020_0.txt"
+    }
+  ],
+  "213227": [
+    {
+      "type": "multidisciplineR",
+      "folder_year": "2020",
+      "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2020/213227Orig1s000MultidisciplineR.pdf",
+      "text_file": "txt/213227_multidisciplineR_2020_0.txt"
+    }
+  ],
+  "213721": [
+    {
+      "type": "multidisciplineR",
+      "folder_year": "2020",
+      "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2020/213721Orig1s000MultidisciplineR.pdf",
+      "text_file": "txt/213721_multidisciplineR_2020_0.txt"
+    }
+  ],
+  "761169": [
+    {
+      "type": "multidisciplineR",
+      "folder_year": "2020",
+      "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2020/761169Orig1s000MultidisciplineR.pdf",
+      "text_file": "txt/761169_multidisciplineR_2020_0.txt"
+    }
+  ],
+  "214787": [
+    {
+      "type": "clinPharmR",
+      "folder_year": "2020",
+      "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2020/214787Orig1s000ClinPharmR.pdf",
+      "text_file": "txt/214787_clinPharmR_2020_0.txt"
+    }
+  ],
+  "213969": [
+    {
+      "type": "integratedR",
+      "folder_year": "2020",
+      "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2020/213969Orig1s000IntegratedR.pdf",
+      "text_file": "txt/213969_integratedR_2020_0.txt"
+    }
+  ],
+  "214103": [
+    {
+      "type": "integratedR",
+      "folder_year": "2020",
+      "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2020/214103Orig1s000IntegratedR.pdf",
+      "text_file": "txt/214103_integratedR_2020_0.txt"
+    }
+  ],
+  "213793": [
+    {
+      "type": "clinPharmR",
+      "folder_year": "2020",
+      "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2020/213793Orig1s000ClinPharmR.pdf",
+      "text_file": "txt/213793_clinPharmR_2020_0.txt"
+    }
+  ],
+  "761171": [
+    {
+      "type": "multidisciplineR",
+      "folder_year": "2020",
+      "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2020/761171Orig1s000MultidisciplineR.pdf",
+      "text_file": "txt/761171_multidisciplineR_2020_0.txt"
+    }
+  ],
+  "212642": [],
+  "214094": [
+    {
+      "type": "multidisciplineR",
+      "folder_year": "2020",
+      "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2020/214094Orig1s000MultidisciplineR.pdf",
+      "text_file": "txt/214094_multidisciplineR_2020_0.txt"
+    }
+  ],
+  "213189": [
+    {
+      "type": "multidisciplineR",
+      "folder_year": "2020",
+      "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2020/213189Orig1s000MultidisciplineR.pdf",
+      "text_file": "txt/213189_multidisciplineR_2020_0.txt"
+    }
+  ],
+  "761150": [
+    {
+      "type": "multidisciplineR",
+      "folder_year": "2020",
+      "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2020/761150Orig1s000MultidisciplineR.pdf",
+      "text_file": "txt/761150_multidisciplineR_2020_0.txt"
+    }
+  ],
+  "214621": [
+    {
+      "type": "multidisciplineR",
+      "folder_year": "2020",
+      "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2020/214621Orig1s000MultidisciplineR.pdf",
+      "text_file": "txt/214621_multidisciplineR_2020_0.txt"
+    }
+  ],
+  "761172": [
+    {
+      "type": "integratedR",
+      "folder_year": "2020",
+      "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2020/761172Orig1s000IntegratedR.pdf",
+      "text_file": "txt/761172_integratedR_2020_0.txt"
+    }
+  ],
+  "213006": [
+    {
+      "type": "clinPharmR",
+      "folder_year": "2020",
+      "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2020/213006Orig1s000ClinPharmR.pdf",
+      "text_file": "txt/213006_clinPharmR_2020_0.txt"
+    }
+  ]
+}

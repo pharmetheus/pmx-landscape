@@ -1,0 +1,57 @@
+NDA Multidisciplinary Review and Evaluation
+NDA 220305
+
+Komzifti (ziftomenib)
+
+In a multiple ion channel assay, ICso values calculated for ziftomenib at channels containing the
+HERG, hCav1.2, or hNav1.5 were 1.583, 2.797, and > 50 p\M (estimated at 142.489 sM),
+tespectively (Study KO-TOX-0021). Logistic regression modeling identified a low torsadogenic
+tisk for ziftomenib due to comparable hERG and hCav1.2 potencies.
+
+In the GLP-compliant hERG assay, ziftomenib inhibited hERG current by (mean + standard
+error of the mean) 70.8 + 2.5% at 0.066 11M (0.048 j1g/mL) and 95.0 + 0.7% at 1.62 tM
+
+(1.17 pg/mL) versus 11.1 + 2.6% in the vehicle control group. hERG inhibition at 0.066 1M and
+1.62 uM was statistically significant (p <0.05) when compared to the vehicle control value. The
+ICso for the inhibitory effect of ziftomenib on hERG potassium current was considered to be less
+than 0.066 1M (0.048 j1g/mL), the lowest concentration evaluated (Study KO-TOX-0023).
+
+In the GLP-compliant cardiovascular study in telemetered dogs (n=4/group) single PO doses of 0
+(vehicle: © ® in reverse osmosis deionized water with 3.0 molar equivalent
+
+| pH ©® 40, 120, or 200 mg/kg were administered (Study
+KO-TOX-0022). While test article-related effects on hemodynamic parameters (decreased
+systolic and mean arterial pressures) and PR interval duration (prolongation) were noted between
+6 and 24 hours postdose, no evidence of arrhythmogenic potential (ie, no ziftomenib-related
+effects on the QRS complex, RR, QT, or heart rate corrected QT (QTc) interval durations and no
+ziftomenib-related changes in electrocardiogram (ECG) waveform morphology).
+
+The FDA’s Assessment:
+
+The FDA generally agrees with the Applicant’s statements. Ziftomenib activity on the hCavl.2,
+hERG, and hNav1.5 ion channels was evaluated at concentrations of 0.5, 3, 10, and 50 1M by the
+patch clamp method when the genes were expressed in HEK293 or CHO cells (study KO-TOX-
+0021). The resulting ICso values were 1.6 uM for hERG and 2.8 uM for hCav1.2, but the ICso
+could not be determined for hNav1.5 because it was higher than the highest dose used. Ina GLP
+study with the hERG channel (study KO-TOC-0023), ziftomenib at 66 nM and 1.62 1M
+inhibited at 71% and 95%, respectively. The ICso value could not be calculated but was
+determined to be less than 66 nM.
+
+Telemetered dogs were used to determine the effects of single oral ziftomenib doses (40, 120,
+and 200 mg/kg; study KO-TOX-0022) on heart rate, arterial blood pressure, pulse pressure, body
+temperature, and electrocardiogram activity (PR, QRS, QT, and QTc; study KO-TOX-0022).
+Observations were recorded over 24 hours. Notable observations occurred between 6 and 24
+hours after dosing and included dose-dependent lower blood pressure and longer PR intervals.
+The observations were no more than 10% different from control levels. Cardiovascular
+assessments were made during the 28-day and 13-week GLP repeat-dose toxicology studies in
+dogs. While there were no notable observations attributed to ziftomenib in the 13-week study,
+heart rate decreases resulting from increases in the RR interval were observed in the high-dose
+animals (200 mg/kg/day) during the 28-day study.
+
+45
+Version date: March 1, 2024 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5694243

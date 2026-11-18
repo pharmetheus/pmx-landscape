@@ -1,0 +1,2 @@
+"source","item_id","label","value","method","reader","prompt","prompt_hash","run","date","input_hash","note"
+"Europe PMC","MED:28566592","","own_fit","adjudication","Claude Opus 5.5, development","reading.md@9c80f96b with lit_relevance v1","14720eaf4dd4360f91f68cd1738330d988d20b3c6f7b16b06ec823c383703e18","corpus-adjudication-v1","2026-10-19","a95dfd184d8c8eebc6a3a9badef09c909c247cf97e67d56f3cc6f431a6f81871","The study fitted a population PK model to its own patients concentrations; the fitting was done by a contracted firm, which is still the study own fit."

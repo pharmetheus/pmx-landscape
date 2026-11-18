@@ -1,0 +1,48 @@
+NDA Multi-disciplinary Review and Evaluation - NDA 215814
+REZLIDHIA, olutasidenib
+
+Table 86: Final Population PK Model Parameter Estimates
+
+Parameters Estimates %RSE Bootstrap Median
+[95% Cl]
+CLIF (L/h) 3.25 47 3.22 [2.82, 3.47]
+VYF (L) 201 5.5 200 [180, 225]
+KA (1/h) 0.282 7.2 0.277 [0.245, 0.317]
+QE (Uh) 0.528 21.4 0.541 [0.327, 0.859]
+V¥E (L) 4613 20.5 4667 [2301. 13133]
+Proportional error (%) 0.265 9.8 0.253 [0.227, 0.278]
+Additive error 40.7 60.7 51.6 [34.3, 74.2]
+(ng/mL)
+Sex on CL/F -0.164 26.4 -0.157 [-0.248, -
+0.0797]
+Study on CL/F -0.479 149 -0.507 [-0.686, -
+0.297]
+Body weight on V2/F 1.23 11.8 1.25 [0.94, 1.49]
+Sex on V2/F 0.293 32.7 0.296 [0.112. 0.469]
+Study on V2/F 0.657 16.1 0.668 [0.421, 1.02]
+Study on KA. 0.693 37.3 0.734 [0.101, 1.67]
+Random effects Estimates (SD) %RSE Bootstrap Median | Shrinkage (%)
+[95% Cl]
+CL/F (L/h) 0.15 13 0.143 [0.0791, 21.4
+0.188]
+VF (L) 0.264 14.9 0.259 [0.182, 0.346] 15.7
+KA (1/h) 0.66 10.7 0.652 [0.517, 0.796] 21.6
+QF (L/h) 1.54 25.2 1.54 [0.907, 2.52] 38.3
+VF (L) 1.09 36.8 1.01 [0.204, 2.32] 72.9
+
+Abbreviations: Cl=confidence interval; CL/F=apparent clearance; CV=coefficient of variation; KA=first-order
+absorption rate constant: Q/F=apparent intercompartmental clearance; RSE=relative standard error;
+V2/F=apparent volume of distribution of the central compartment: V3/F=apparent volume of distribution of
+the peripheral compartment: CI = confidence interval
+
+Source: Report FORM-PMX-FT2102-2633, Table 26
+
+252
+
+Version date: January 2020 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “The Applicant’s Position” are completed by the Applicant
+and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5086659
+

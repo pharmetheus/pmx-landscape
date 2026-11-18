@@ -1,0 +1,52 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {BLA 761342}
+Talquetamab-tgvs
+
+The geometric mean (CV%) bioavailability of talguetamab was 59% (22%) in MonumenTAL-1
+patients who received talquetamab SC. The PPK model includes a time-dependent clearance
+(CL) component and a linear time-independent CL component. The time-dependent CL may be
+related to decreasing tumor burden and disease severity improvement over time. Talquetamab
+total CL decreases over time until steady state is achieved, as shown in FDA Figure 14. Ninety
+percent of steady state exposure was achieved 16 weeks after the first treatment dose for the
+
+two proposed regimens.
+
+The geometric mean (CV%) total CL is 1.72 L/day (64.2%) at the time of step-up dose 1
+administration (i.e., baseline). The mean (CV%) maximal reduction in total CL from first
+treatment dose to 16 weeks after the first treatment dose is 40% (56%). The geometric mean
+(CV%) clearance is 0.90 L/day (63%) at 16 weeks after the first treatment dose. The mean (CV%)
+terminal half-life (i.e., beta half-life) was 8.4 days (41%) after the first treatment dose and
+
+12.2 days (49%) at 16 weeks after the first treatment dose.
+
+FDA Figure 14: Talquetamab Total Clearance over Time
+
+a4
+
+@
+
+Total Clearance (L/day)
+a Ny
+
+0 28 56 84 112 140
+Time Since First Step-Up Dose (days)
+Red solid line = median. Blue solid line = geometric mean. Gray shaded region = 10th to 90th percentile.
+Total clearance over time was simulated in 392 MonumenTAL-1 subjects who received subcutaneous talquetamab.
+
+Source: Reviewer's analysis of Applicant’s “pksim-rp2d-r.rmd” code file
+
+Covariate Effects on PK
+
+No dosage adjustment is needed according to age, body weight, sex, race, mild to moderate
+renal impairment, or mild to moderate hepatic impairment. No data are available in patients
+with severe renal impairment or severe hepatic impairment. Model-predicted average
+concentration over the first four weeks of treatment doses (Cavg wks) , trough concentration
+following first treatment dose (Cirough,rp1), and maximum concentration over the first four weeks
+of treatment doses (Cmax,awks) are compared between patient subgroups in Applicant Figure 14,
+Applicant Figure 15, and Applicant Figure 16, respectively.
+
+Version date: June 2022 (ALL NDA/ BLA reviews) 268
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5222858

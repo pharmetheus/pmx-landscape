@@ -1,0 +1,3973 @@
+CENTER FOR DRUG EVALUATION AND
+RESEARCH
+APPLICATION NUMBER:
+
+761183Orig1s000
+CLINICAL PHARMACOLOGY
+REVIEW(S)
+
+Office of Clinical Pharmacology Review
+
+NDA or BLA Number
+
+BLA 761183
+
+Link to EDR
+
+\\CDSESUB1\evsprod\BLA761183\0059
+
+Submission Date
+
+17 Feb 2022
+
+Submission Type
+
+Resubmission 351(a), Priority review
+
+Brand Name
+
+Tzield
+
+Generic Name
+
+Teplizumab
+
+Dosage Form and Strength
+
+Solution and 1 mg/mL
+
+Route of Administration
+
+Intravenous infusion
+
+Proposed Indication
+
+Delay of clinical type 1 diabetes in at-risk individuals
+
+Applicant
+
+Provention Bio, Inc.
+
+Associated IND
+
+102629 and 100262
+Harisudhan Thanukrishnan Ph.D., Elyes Dahmane
+Ph.D., Justin Earp Ph.D., Jayabharathi Vaidyanathan
+Ph.D., Hao Zhu Ph.D.
+Shirley Seo Ph.D.,
+Director, Division of Cardiometabolic and Endocrine
+Pharmacology
+
+OCP Review Team
+
+OCP Final Signatory
+
+1
+
+Reference ID: 5063936
+
+Table of Contents
+1. EXECUTIVE SUMMARY ............................................................................................................ 3
+1.1 Recommendations ............................................................................................................ 4
+1.2 Post-Marketing Requirements and Commitments .................................................................. 4
+1.3 Outstanding Issues ............................................................................................................ 4
+1.4 Summary of Labeling Recommendations .............................................................................. 5
+2. Background and Regulatory History .......................................................................................... 5
+2.1 Summary of prior clinical pharmacology assessment for the original BLA................................... 6
+2.2 Regulatory interactions prior to Resubmission....................................................................... 6
+2.3 Summary of clinical pharmacology assessment for the BLA Resubmission ................................. 7
+3. Clinical Pharmacology Questions .............................................................................................. 9
+3.1 Do the results from the PROTECT sub study support PK comparability between the teplizumab
+products?.............................................................................................................................. 9
+3.2 Is an alternative dosing regimen necessary and appropriate for the AGC Biologics product?.13
+
+4. APPENDICES .........................................................................................................................20
+4.1 Summary of Bioanalytical Method Validation and Performance ..............................................20
+4.2 Summary of PROTECT PK/PD Study .....................................................................................21
+4.3 Pharmacometric Review ...................................................................................................27
+4.2.1 Applicant’s Population PK Analysis................................................................................28
+4.2.2 Alternative Dosing Regimens proposed by Applicant for the AGC Biologics Product to Match
+the Lilly Product exposure ...................................................................................................48
+
+2
+
+Reference ID: 5063936
+
+1. EXECUTIVE SUMMARY
+
+Teplizumab-mzwv (Tzield, called teplizumab in this review) is a first-in-class humanized anti-CD3
+monoclonal antibody proposed to delay the onset of Stage 3 type 1 diabetes (T1D) in adults and
+pediatric patients aged 8 years and older with Stage 2 T1D.
+The initial Biologics Licensing Application (BLA) was received on November 2, 2020, and the
+original clinical pharmacology review for this BLA is available in DARRTS, dated April 30, 2021.
+At the end of the first review cycle, recommendations were issued in a Complete Response (CR)
+action letter dated July 2, 2021. The main deficiency identified by OCP in the CR letter pertained
+to the lack of demonstration of comparability between the to-be-marketed drug product (AGC
+Biologics product) and the drug product used in clinical trials including the TN-10 study (Eli Lilly
+product). The AGC Biologics product had about 50% lower AUCinf as compared to the Eli Lilly
+product in the single dose comparability study.
+In response to the CR (this submission), Provention Bio submitted results from the
+pharmacokinetic (PK) sub study of the ongoing PROTECT study in which new-onset T1D patients
+(8-17 years of age) received either placebo or one of the teplizumab products (Eli Lilly (N=138)
+or AGC Biologics (N=33)) during the 12-day regimen of Course 1. Sparse PK samples were
+obtained from subjects, and a population PK model was used to predict the primary PK
+parameters for teplizumab corresponding to the 12-day dosing, which was used for further
+assessment of PK comparability between the products. The clinical pharmacology review of this
+resubmission is focused on (a) evaluating if the results from the PROTECT PK sub study are
+adequate to address the main deficiency identified in the CR and are supportive of the PK
+comparability between the two teplizumab products and (b) evaluating if the proposed dosing
+recommendation for the to-be-marketed AGC product is appropriate.
+The to-be-marketed product (AGC Biologics) is estimated to result in a 27% lower total
+exposure (AUCinf) than the clinical trial product (Eli Lilly) after the 12-day dosing regimen in the
+PROTECT study based on the population PK analysis. PK comparability was not considered
+established between the products, as the point estimates for AUClast and AUCinf were 0.74 and
+0.78, respectively and the 90% confidence intervals fell outside of the standard 0.8-1.25 margin,
+despite the similar Cmax (point estimate was 0.85).
+From an analytical perspective, except for minor structural differences such as in the
+(b) (4)
+(b) (4)
+(b)
+profile
+% for Eli Lilly and (4) % for AGC Biologics), the OBP review did not
+identify any major known analytical differences that could have accounted for the PK
+differences. Their review concludes that the products were analytically comparable. Results of
+the CD3 receptor occupancy which were obtained in a subset of patients in the PROTECT PK/PD
+sub study were suggestive of comparable target engagement response between the products
+3
+
+Reference ID: 5063936
+
+and were aligned with the observed analytical comparability between the products. However,
+the relationship between CD3 occupancy and efficacy is unclear and the relationship between
+the observed PK difference and its potential effect on efficacy is unknown. Therefore, exposure
+matching between teplizumab products was proposed to address the residual uncertainties
+about differences in clinical effect. The OCP team recommended that the Applicant propose an
+alternative 14-day regimen with a higher cumulative dose for the to-be-marketed product with
+the aim of matching the exposure between the clinical trial product (Eli Lilly) and to-bemarketed product (AGC). The proposed adjusted dosing regimen for the AGC product sought to
+match the total exposure (AUCinf), peak concentration (Cmax after the last dose) as well as trough
+concentrations after the last dose (Ctrough after the last dose) in comparison to the clinical trial product
+during the 14-day regimen.
+Overall, the OCP team has reviewed the information from the PROTECT PK sub study including
+the acceptability of the updated population PK modelling in describing and predicting the PK
+from teplizumab products, conclusions regarding the analytical comparability, the available
+supporting information on CD3 receptor occupancy, and applied the totality of evidence
+approach in providing the final recommendations for the approval of the to-be-marketed
+product with a modified dosing regimen.
+
+1.1 Recommendations
+The Office of Clinical Pharmacology (OCP) has reviewed the information submitted in the BLA
+761183 and recommend approval of a single 14-day course of teplizumab for delaying the onset
+of Stage 3 type 1 diabetes (T1D) in adults and pediatric patients aged 8 years and older with
+Stage 2 T1D. The recommended dosing regimen is daily intravenous infusions as follows:
+Day 1
+Day 2
+Day 3
+Day 4
+Days 5-14
+
+65 µg/m2
+125 µg/m2
+250 µg/m2
+500 µg/m2
+1030 µg/m2
+
+1.2 Post-Marketing Requirements and Commitments
+
+No post-marketing requirements or commitments are needed from clinical pharmacology
+perspective.
+
+1.3 Outstanding Issues
+Two different teplizumab products were given at the same dose and resulted in similar Cmax but
+demonstrated differences in clearance in both the single dose healthy volunteer study and the
+PROTECT sub-study. Both the Eli Lilly and AGC Biologics drug substance batches were
+manufactured from identical cell lines (working cell banks derived from the same master cell
+4
+
+Reference ID: 5063936
+
+bank) using substantially similar manufacturing processes and were reported to be analytically
+comparable. The root-cause analysis by Applicant was unable to provide a rationale for the
+difference in clearance between the drug products.
+
+1.4 Summary of Labeling Recommendations
+General labeling recommendations were provided to improve the clarity and relevance of
+clinical pharmacology information conveyed to the healthcare provider. In addition, the
+following labeling edits were recommended for inclusion in the final package insert.
+•
+
+•
+•
+
+Section 2.2- The Applicant proposed dosing regimen was recommended to be updated
+with the revised dosing regimen (outlined in Section 1.1) based on exposure matching.
+(b) (4)
+was removed to avoid
+confusion
+(b) (4)
+Section 12.1- Mechanism of action clarified by replacing
+with "delays
+T1D"
+Section 12.2- Included a statement "exposure-response relationship and time course of
+pharmacodynamic response for the safety and effectiveness of teplizumab-mzwv have
+not been fully characterized"
+
+2. Background and Regulatory History
+
+Teplizumab (PRV-031) is a 150 kiloDalton (kDa) humanized immunoglobin G1 (IgG1) monoclonal
+antibody (mAb) that specifically recognizes the CD3ε chain of the T-cell receptor complex on
+human T cells. The initial drug substance (DS) was manufactured by MacroGenics from 20052008, which continued in partnership with Eli Lilly for another year and later, the DS was solely
+manufactured by Eli Lilly until 2011. After 2018, the Applicant updated manufacturing process
+to a new facility operated by AGC Biologics. In addition to analytical comparability assessments,
+the Applicant conducted a double-blind, single, low-dose pharmacokinetics (PK) bridging study
+in healthy subjects (Study PRV-031-004) with teplizumab clinical material (Eli Lilly) and the
+planned commercial drug product (AGC Biologics).
+The results of study PRV-031-004 failed to show PK comparability between the PRV-031
+product used in TN-10 and the planned commercial product. Study PRV-031-004 revealed
+differences in the total area under the time-concentration curve extrapolated to infinity (AUC0inf) between the two products, with the planned commercial product providing a 51.5% lower
+AUC0-inf (geometric mean ratio [90%CI] = 48.5% [43.6 - 54.1]), despite a comparable Cmax after a
+single intravenous infusion dose of 207 µg/m2. The submission received a complete response
+(CR) due to lack of a comparability demonstration between the to-be-marketed product and
+the clinical product. As PK serves as the primary endpoint for demonstration of comparability
+between the two products (as there was demonstrated analytical comparability), the Applicant
+5
+
+Reference ID: 5063936
+
+was asked to establish PK comparability appropriately between the intended commercial
+product and the clinical trial product or provide other data that adequately justify why PK
+comparability is not necessary. The applicant provided additional PK and PD data from the
+ongoing PROTECT study along with a newly proposed dosing regimen that included higher
+doses of the AGC product in order to match the exposures resulting from the Eli Lilly product.
+
+2.1 Summary of prior clinical pharmacology assessment for the original BLA
+The general pharmacology and pharmacokinetic characteristics of teplizumab were summarized
+in Section 3.2 in the Clinical pharmacology review for the original BLA (Refer to the clinical
+pharmacology review documented in DARRTS dated 4/30/2021).
+Highlights of previous assessments are provided below:
+•
+
+•
+
+•
+•
+
+•
+
+Applicant proposed a body surface area (BSA) based single 14-day course of teplizumab
+administered as a daily IV infusion over 30 minutes. Less than 10% of the total dose is
+given on the first 4 days of ramp-up as a precaution to avoid adverse reactions, e.g.,
+cytokine release syndrome. Exposure to teplizumab after BSA-based regimen was found
+to be independent of age and body weight.
+The average accumulation ratio for AUC between Day 5 and Day 14 (the first and the last
+day with the full dose administration) is predicted to be 3.4. Steady state is not expected
+to be achieved at the end of dosing on Day 14.
+No therapeutic individualization is warranted for teplizumab based on intrinsic or
+extrinsic factors. Teplizumab is expected to be catabolized into smaller peptides.
+The single 14-day course administering a total of 9 mg/m2 teplizumab dose was the only
+dosing regimen that was evaluated in the pivotal study (TN-10), which also was the single
+pivotal study that evaluated teplizumab for the proposed indication- delay in subjects atrisk for type 1 diabetes. The proposed dosing regimen is supported by delayed time to
+Stage 3 (clinical T1D) in the TN-10 study, as the median times to T1D was significantly
+delayed in teplizumab treated subjects (48.4 vs 24.4 months in the placebo) which
+resulted in lower annualized rates of clinical T1D development (14.9% vs 35.9% per year
+for the teplizumab and placebo groups, respectively).
+A single dose PK study (PRV-031-004) did not support the comparability of the
+commercial to-be-marketed drug product (AGC Biologics) with the clinical trial product
+(Eli Lilly).
+
+2.2 Regulatory interactions prior to Resubmission
+The key regulatory interactions with Applicant are summarized below:
+
+6
+
+Reference ID: 5063936
+
+•
+
+•
+
+•
+•
+
+•
+•
+
+•
+
+•
+
+July 27, 2021- Applicant submitted an amendment for the ongoing PROTECT (PRV-031001) study including the proposed protocol for the PK/PD sub study and the statistical
+analysis plan to provide the complete response and resubmission for the BLA.
+August 06, 2021- Advice letter was issued with recommendation for the prespecification of the population pharmacokinetic model and analysis plan prior to the
+unblinding of the results for PK/PD sub study
+September 03, 2021- Feedback was provided on the pharmacometric modeling plan to
+estimate the PK parameters and statistical analysis plan
+Nov 18, 2021- Feedback was provided on the Stage 1 of the POPPK modeling and
+considerations for the Stage 2 of the model to estimate the PK parameters using sparse
+data from PROTECT study
+January 25, 2022- Feedback was provided on the clinical pharmacology data package for
+the BLA 761183 resubmission.
+February 17, 2022- BLA resubmission with PK, PD and immunogenicity data from the
+PROTECT sub study to compare both the teplizumab products following a 12-day dosing
+regimen in T1D patients
+June 10, 2022- Midcycle communication was sent to Applicant stating the need for an
+alternative dosing regimen to meet the pharmacokinetic equivalence criterion between
+the products.
+June 29, 2022- Applicant was notified of a major amendment due to revised analyses
+with updated ADA data and an extension in PDUFA goal date by 3 months to Nov 17,
+2022.
+
+2.3 Summary of clinical pharmacology assessment for the BLA Resubmission
+The PROTECT PK/PD sub study was the focus of this resubmission. Based on the review of the
+PK comparability data from the PROTECT PK/PD sub study, the to-be-marketed product (AGC
+Biologics) was estimated to result in around 27% lower total exposure (AUCinf) than the clinical
+trial product (Eli Lilly) after the 12-day dosing regimen. Though the PK comparison using AUClast
+and AUCinf fell outside of the standard 0.8-1.25 margin, it was observed that the point estimates
+for the comparisons (0.74 and 0.78, respectively) were closer to the lower cut off value of 0.8,
+following the clinically relevant multiple dose regimen that was employed in the PROTECT
+study, as compared with a single dose.
+To further understand if the PK difference was due to any underlying quality related
+changes/issues, the Office of Biotechnology products (OBP) was consulted about the results
+from the analytical assessments for both the products (structural and functional comparability).
+As per OBP review of this original submission and resubmission, the available data was not
+indicative of any quality differences that could lead to the PK differences and OBP concluded
+that the products were analytically comparable. OBP acknowledged minor structural
+7
+
+Reference ID: 5063936
+
+differences in the
+profile (
+% for Eli Lilly and (4) % for AGC Biologics), which
+however was not considered as a potential driver of the PK difference based on available
+literature and OBP experience.
+(b) (4)
+
+(b) (4)
+
+(b)
+
+The review team is of the opinion that immunogenicity of teplizumab was unlikely to play any
+role in its clearance (or in the difference in clearance between the products), given that the
+appearance of anti-drug antibodies (ADA) is delayed beyond the time during which difference in
+serum concentrations of teplizumab was observed, both in the single dose and the PK/PD sub
+study. The cross-disciplinary review teams including OBP (Quality review in DAARTS dated 14
+May 2021 and 19 Oct 2022) and OCP acknowledge that no identifiable reasons are available for
+explaining the PK difference between the teplizumab products observed in both studies.
+Prior to resubmission, the Applicant was also encouraged to obtain possible in vivo (or PD)
+markers that may be useful for evaluation as orthogonal markers to the PK and could facilitate
+the comprehensive assessment of the comparability between the products. The OCP review
+team also considered exploratory markers that were obtained in the PK/PD study such as the
+CD3 receptor occupancy of teplizumab and the post-dosing decline in lymphocyte counts, as
+supportive information for the in vivo comparability assessment. The CD3 receptor occupancy
+(binding) for teplizumab is a measure of its target engagement on T cells. The binding results in
+the sub study was characterized by an increase in the CD3 occupancy by teplizumab, in parallel
+to the higher serum concentrations of teplizumab achieved after the repeated dosing. This data
+was reassuring for the utility of CD3 binding as a supporting PD marker for assessment of
+comparability, as CD3 binding is upstream in the proposed mechanism of action for teplizumab
+and is apparently sensitive to changes in the serum levels of the biologic. Both the products
+showed similar receptor occupancy when examined on different days of the regimen. In the
+consolidated scatter plot analysis (Figure 6), the relationship of CD3 occupancy vs
+concentrations, spanning a broad range of teplizumab concentrations, was similar between the
+two teplizumab products. Though not a primary PD marker of interest, the overall profile in the
+decline and recovery in lymphocyte counts was also superimposable for both the products.
+It is acknowledged that there is uncertainty with respect to the relationship of the PD markers
+to long-term drug effect or clinical outcome. However, based on what is known about the
+mechanism of action of teplizumab, the markers, especially CD3 binding may be able to provide
+supportive evidence as orthogonal tests for the functional bio comparability and given that, the
+data was suggestive of a similarity in target engagement response between the products.
+The OCP team recommended that the Applicant should propose an alternative 14-day regimen
+for the to-be-marketed product and thereby match the PK between the clinical and to-bemarketed products. This recommendation to match the PK between the products by using dose
+adjustment was based on careful considerations to the following aspects:
+8
+
+Reference ID: 5063936
+
+a. Analytical comparability was confirmed between the two products. The residual
+uncertainty in the PK difference could be addressed with a dose adjustment.
+b. Feasibility for predicting a dose for adjustment. The population PK model was
+considered reliable to describe the PK and simulate the doses for exposure-matching of
+teplizumab and the clearance of teplizumab is likely not saturated.
+c. Evidence for a comparable in-vitro as well as in-vivo target engagement between the
+products was available via CD3 receptor occupancy data from the PROTECT sub-study, in
+support of the analytical comparability results.
+Furthermore, based on the population PK analysis characterizing the PK of teplizumab products
+from the different studies, the AGC product has a saturable binding to target CD3 receptors but
+no target-mediated elimination through intracellular internalization, suggesting that the AGC
+product has linear non-specific elimination. Therefore, the increase in AGC product dosage is
+not expected to saturate the elimination of teplizumab.
+
+3. Clinical Pharmacology Questions
+3.1 Do the results from the PROTECT sub study support PK comparability
+between the teplizumab products?
+PK comparability was not observed between the teplizumab products in the PROTECT sub-study
+as per the standard bioequivalence (BE) criterion (0.8-1.25).
+The reviewer’s evaluation of the PK comparability between the AGC product and the Lilly product
+in the PROTECT sub-study found that the AGC product had 27% and 22% lower AUCinf and
+Ctrough (after last dose) than the Lilly product, respectively.
+Table 1 summarizes the point estimates for the GLSMs, ratio of GLSMs and 90% CI for the PK
+parameters that were predicted using population pharmacokinetic model (popPK) in the patients
+that received AGC biologics or Eli Lilly products. The PK parameters were not predictable for one
+participant in each group due to lack of adequate post-dose sampling time points for the popPK
+analysis.
+
+9
+
+Reference ID: 5063936
+
+Table 1. Comparison of the Observed and Model-Predicted PK Exposure Metrics from PROTECT
+Sub-Study, under the Planned PROTECT Study Regimen and Duration of Infusion
+Predicted (Otherwise mentioned)
+PK exposure metrics
+
+Reviewer’s evaluation
+AGC [n=32]
+GM a (%CV)
+
+Lilly [n=137]
+GM (%CV)
+
+GMR (90% CI) a
+
+Cmax after last dose (ng/mL)
+
+745 (12%)
+
+872 (13%)
+
+0.854 (0.821 - 0.89)
+
+AUC(0-Tlast) b (ng*day/mL)
+
+2797 (19%)
+
+3598 (19%)
+
+0.777 (0.732 - 0.826)
+
+AUCinf c (ng*day/mL)
+
+4528 (22%)
+
+6176 (25%)
+
+0.733 (0.678 - 0.792)
+
+287 (45%) [n=26]
+
+368 (38%)
+[n=120]
+
+0.78 (0.682 - 0.893)
+
+Cmin before last dose (Day 12)
+
+251 (30%)
+
+373 (29%)
+
+0.674 (0.614 - 0.740)
+
+Cmin after last dose (Day 13)
+
+265 (30%)
+
+400 (30%)
+
+0.664 (0.604 - 0.730)
+
+Observed Cmin before last dose (Day 12)
+[number of observations] d
+
+GM: geometric mean, GMR (90%CI): geometric mean ratio (90% confidence interval), derived from Student’s t-test
+(with Levene Test for equality of variances) on natural log-transformed PK exposure metrics.
+b AUC(0-Tlast): Tlast represents 24 hours after the last planned dose (Dose 12), calculated using the trapezoidal
+linear-up and log-down method.
+c AUCinf: calculated using the trapezoidal linear-up and log-down method.
+d Observed Cmin before last dose (Day 12) in patients who received all their 11 doses.
+a
+
+Source: FDA reviewer
+
+The AUC0-Day13 for teplizumab was also lower for the AGC product, albeit the difference was closer
+to the lower bioequivalence limit of 80%, when compared to the observed difference in the
+previous single dose study. As observed earlier in the single dose healthy volunteer study, there
+was no difference in predicted Cmax after the last intravenous dose on Day 12.
+A comparison of the observed trough concentrations between the two products, corresponding
+to the sparse sampling times is shown in Figure 1. The average teplizumab serum concentrations
+were lower for the AGC arm at all the observed time points.
+
+10
+
+Reference ID: 5063936
+
+Figure 1. Comparison of observed serum concentrations of teplizumab by product in PROTECT
+sub study
+
+#Observations include samples in patients with missing doses and not completing the 12-day regimen; Values that
+were below the lower limit of quantification were replaced by zero
+
+Source: FDA reviewer
+
+The results for comparison of the CD3 receptor occupancy (coating) by teplizumab products is
+shown in Figure 2. The results were obtained from a subset of the population that provided PK
+samples in the PK/PD sub study and corresponds to the North American sites only. The CD3
+coating at pre-dose on Day 4 (following the ramp-up doses and one full dose of 850 µg/m2) was
+almost one half of the coating at pre-dose on Day 9 (following the ramp-up doses and six full
+doses of 850 µg/m2). Subsequent value for CD3 obtained at pre-dose on Day 12 was almost
+comparable to values on Day 9, indicating a baseline threshold that was achieved for the CD3
+coating within a dosing interval.
+
+11
+
+Reference ID: 5063936
+
+3.2 Is an alternative dosing regimen necessary and appropriate for the AGC
+Biologics product?
+Through population PK simulations, the Applicant evaluated 3 alternative dosing regimens for
+the AGC product (Table 2), with regimen A being the Applicant’s preferred regimen in order to
+match the exposure from the Lilly product (under the reference 14-day regimen). In comparison
+to the dosing regimens (A, B and C) proposed by the Applicant, an alternate regimen proposed
+by the review team (regimen D: 65 – 125 – 250 – 500 – (1030 x 10 days) µg/m2) was considered
+most appropriate for the AGC product
+Table 2 summarizes the alternative dosing regimens proposed by the Applicant to match
+exposures between the AGC product and Lilly product.
+Table 2. Applicant’s Proposed Alternative Regimens A, B and C for the AGC product
+Daily dose (µg/m 2)
+Reference TN-10 trial
+regimen
+Herold 14-day (Lilly)
+
+Day 1
+
+Day 2
+
+Day 3
+
+Day 4
+
+51
+
+103
+
+207
+
+413
+
+Cumulative dose (µg/m2)
+Days 5-14 [Relative increase from reference]
+826
+
+9,034 [reference]
+(b) (4)
+
+AGC Regimen A
+
+(b) (4)
+
+[21%]
+
+AGC Regimen B
+
+[24%]
+
+AGC Regimen C
+
+[35%]
+
+Source: Adapted from Applicant’s BLA Resubmission Topics (m1), Table 3 , page 6.
+Reviewer’s assessment of the proposed alternative dosing regimens for the AGC product and for the
+need a dosing adjustment for the AGC product
+
+Figure 3 shows the model-predicted PK profiles for the AGC product (red) and the Lilly product
+(blue), under the PROTECT study 12-day dosing regimen. Teplizumab geometric mean
+concentrations from the AGC product (red) are located at the lower bound of the 90%PI (90%
+prediction interval) of all concentrations (i.e., distribution representing the between-subject
+variability) from the Lilly product (blue shaded area).
+
+13
+
+Reference ID: 5063936
+
+Figure 3. Model-Predicted PK Profiles of the AGC Product and the Lilly Product (Reference) in the
+PROTECT Sub-Study
+
+The solid red and blue lines are the geometric means of teplizumab concentrations from the AGC product
+and Lilly product, respectively. The colored shaded areas are the distributions (90% prediction intervals
+[90%PIs]) of teplizumab concentrations for the AGC product (red) and the Lilly product (blue). The dotted
+lines delimiting the shaded areas are the upper and lower bounds of the 90%PIs. The PK profiles are
+generated from the individual (conditional) PK simulations (i.e., using the PK model estimated individual
+PK parameters of each patient enrolled in the PROTECT sub-study and rich PK sampling for simulation of
+individual teplizumab concentrations over time).
+Source: FDA reviewer
+
+Table 3 shows the FDA reviewer’s evaluation of the proposed alternative regimens A, B or C for
+the AGC products using the FDA reviewer’s PK model for simulations. The PK comparability
+results for exposure matching using conditional (individual) PK simulations are in concordance
+with the population (average) simulations findings. The proposed alternative regimens B and C
+meet the PK comparability criteria for AUCinf, Cmax (after last dose), Ctrough before last dose
+(Ctrough13), and Ctrough after last dose (Ctrough14). Even though the GMR point estimate or
+14
+
+Reference ID: 5063936
+
+the lower bound of the 90%CI of the GMR is close to 80%, the applicant’s preferred regimen A
+does not meet the strict PK comparability criteria for Ctrough14, when considering either the
+conditional or the average PK simulations.
+Table 3. Comparison of the Predicted PK Exposure Metrics between the Alternative Regimens
+(for AGC product) and the Reference 14-Day Regimen (for Lilly product)
+GMR (90% CI) a
+AUCinf b
+
+Cmax
+(After last dose)
+
+Ctrough13
+(Before last dose)
+
+Ctrough14
+(After last dose)
+Not reported by
+Applicant
+
+Passes PK
+comparability
+
+Conditional simulations (using PROTECT sub-study patients’ PK parameters)
+Regimen A 0.910 (0.842 – 0.984) 1.065 (1.022 - 1.109) 0.872 (0.795 - 0.958) 0.856 (0.779 - 0.942)
+
+Not
+Ctrough14
+
+Regimen B 0.94 (0.869 - 1.016) 1.101 (1.057 - 1.147) 0.906 (0.826 - 0.995) 0.889 (0.808 - 0.978)
+
+Yes
+
+Regimen C
+
+Yes
+
+1.03 (0.952 - 1.113) 1.089 (1.045 - 1.134) 0.926 (0.843 - 1.016) 0.898 (0.816 - 0.988)
+
+Population (average) simulations c (using typical PK parameters under same ADA conditions)
+Regimen A 0.904 (0.899 - 0.91) 1.034 (1.031 - 1.037) 0.815 (0.809 - 0.821) 0.799 (0.793 - 0.805)
+
+Not
+Ctrough14
+
+Regimen B 0.928 (0.922 - 0.934) 1.066 (1.063 - 1.069) 0.841 (0.835 - 0.847) 0.824 (0.818 - 0.83)
+
+Yes
+
+Regimen C 1.021 (1.015 - 1.027) 1.055 (1.052 - 1.058) 0.861 (0.855 - 0.867) 0.834 (0.828 - 0.841)
+
+Yes
+
+GMR (90%CI): geometric mean ratio (90% confidence interval), derived from Student’s t-test (with Levene Test for
+equality of variances) on natural log-transformed of PK exposure metrics.
+b AUCinf: calculated using the trapezoidal linear-up and log-down method.
+c Average or population simulations: Monte-Carlo simulations (500 replicates of the PROTECT sub-study dataset,
+with subjects’ BSA and weight and no ADA titers) were performed to calculate the uncertainty (90%CI) of the GMR,
+using Student’s t-test (with Levene Test for equality of variances) on natural log-transformed median PK exposure
+metrics calculated from each replicate (500 replicates).
+a
+
+Figure 4 shows the model-predicted median PK profiles from the AGC product under the
+proposed 3 alternative 14- day regimen and from the Lilly product (reference) under the
+reference (Herold, i.e., TN-10 study) 14-day regimen. Regimen C does not provide additional
+advantages compared to Regimen B in term of matching the Lilly product reference exposure. In
+fact, the GMR and their 90%CI for AUCinf, Cmax (after last dose) and Ctrough14 are numerically
+very close (Table 3, Figure 4). However, regimen C is associated with unnecessarily higher
+exposure and Cmax values between Day 2 to 4 compared regimen B (Figure 4), as regimen C
+doses are 3.4 to 1.7-fold the doses in regimen B between Day 2 to 4 (Table 2).
+15
+
+Reference ID: 5063936
+
+Regimen B was considered the most appropriate regimen for the AGC product in order to match
+the overall exposure to the Lilly product under the reference (Herold) regimen. However, on Day
+(b)
+1 of regimen B, the dose of (4) µg/m2 was found not optimal to meet the PK comparability criteria
+for Cmax (after first dose) and AUC[0-24h], with a GMR (90%CI) of 0.796 (0.777 - 0.815) and 0.818
+(b)
+(b)
+(0.795 - 0.843), respectively. On Day 1 of regimen B, a dose of (4) µg/m2 instead of (4) µg/m2
+allows to meet the PK comparability criteria for Cmax and AUC[0-24h] based on conditional PK
+simulations, with a GMR (90%CI) of 0.879 (0.855 - 0.905) and 0.893 (0.868 - 0.92), respectively
+(Table 4).
+Figure 4. Model-Predicted PK Profiles of the AGC Product (Alternative Regimens) and the Lilly
+Product (Reference Regimen)
+
+Reference 14-day regimen (daily dose): 51 – 103 – 207 – 413 – (825 x 10 days) µg/m2.
+(b) (4)
+Regimen A (daily dose):
+Regimen B (daily dose):
+Regimen C (daily dose):
+Source: FDA reviewer
+
+The modified regimen B (regimen D), with the daily dosing of 65 – 125 – 250 – 500 – (1030 x 10
+days) µg/m2 is considered the optimal regimen for exposure matching with the Lilly product
+(under the reference 14-day regimen). Figure 5 (A and B) shows the model-predicted PK profiles
+for the AGC product (red) and the Lilly product (blue), under the regimen D and the reference
+
+16
+
+Reference ID: 5063936
+
+(Herold or TN-10 study) 14-day regimen, respectively. The average and the variability in
+teplizumab product are overlapping during the 14-day treatment.
+Figure 5. Model-Predicted PK Profiles of the AGC Product (Regimen D) and the Lilly Product
+(Reference Regimen), on Arithmetic scale (A) and semi-logarithmic scale (B).
+(A)
+
+The solid red and blue lines are the geometric means of teplizumab concentrations from the AGC product
+(regimen B) and Lilly product (reference regimen), respectively. The colored shaded areas are the
+distributions (90% prediction interval [90%PI]) of teplizumab concentrations for the AGC product (red) and
+the Lilly product (blue). The dotted lines delimiting the shaded areas are the upper and lower bounds of
+the 90%PIs. AGC product dosing is regimen D (14-day daily dosing): 65 – 125 – 250 – 500 – (1030 x 10 days)
+µg/m2. Lilly product dosing is the reference 14-day dosing used in the pivotal TN-10 study, with a daily
+dosing of 51 – 103 – 207 – 413 – (825 x 10 days) µg/m2. The PK profiles are generated from the individual
+(conditional) PK simulations.
+Source: FDA reviewer
+Continued next page
+17
+
+Reference ID: 5063936
+
+Figure 5 continued
+(B)
+
+The solid red and blue lines are the geometric means of teplizumab concentrations from the AGC product
+(regimen B) and Lilly product (reference regimen), respectively. The colored shaded areas are the
+distributions (90% prediction interval [90%PI]) of teplizumab concentrations for the AGC product (red) and
+the Lilly product (blue). The dotted lines delimiting the shaded areas are the upper and lower bounds of
+the 90%PIs. AGC product dosing is regimen D (14-day daily dosing): 65 – 125 – 250 – 500 – (1030 x 10 days)
+µg/m2. Lilly product dosing is the reference 14-day dosing used in the pivotal TN-10 study, with a daily
+dosing of 51 – 103 – 207 – 413 – (825 x 10 days) µg/m2. The PK profiles are generated from the individual
+(conditional) PK simulations.
+Source: FDA reviewer
+
+Table 4 summarizes the daily PK comparability results between the AGC product under the
+adjusted dosing regimen (regimen D) and the Lilly product under the reference 14-day regimen
+(used in the pivotal TN-10 study). Regimen D corrects the difference in exposure between
+products. The Cmax after dose 4 to dose 6 are numerically slightly above the strict PK
+comparability criteria. However, the Cmax values resulting from dose 4 to dose 6 are well below
+those observed later on during the 14-day treatment from both products. Therefore, these higher
+Cmax values do not represent a concern regarding the potential acute toxicity or adverse
+reactions of the proposed regimen D.
+
+18
+
+Reference ID: 5063936
+
+Table 4. Comparison of the Daily PK exposure Metrics between the AGC product (Regimen D) and
+the Lilly product (Reference Regimen)
+Time
+(end of Day)
+
+GMR (90% CI)
+AUC[0-Tlast]
+
+Ctrough
+
+Cmax after each dose
+
+24 h (Day 1)
+
+0.893 (0.868 - 0.92)
+
+0.927 (0.892 - 0.963)
+
+0.879 (0.855 - 0.905)
+
+48 h (Day 2)
+
+0.918 (0.889 - 0.948)
+
+0.915 (0.876 - 0.956)
+
+0.998 (0.975 - 1.021)
+
+72 h (Day 3)
+
+0.963 (0.929 - 0.998)
+
+0.888 (0.844 - 0.934)
+
+1.222 (1.199 - 1.245)
+
+96 h (Day 4)
+
+1.007 (0.968 - 1.048)
+
+0.888 (0.836 - 0.944)
+
+1.259 (1.24 - 1.279)*
+
+120 h (Day 5)
+
+1.072 (1.028 - 1.118)
+
+1.013 (0.94 - 1.092)
+
+1.264 (1.248 - 1.281)*
+
+144 h (Day 6)
+
+1.09 (1.043 - 1.14)
+
+1.032 (0.954 - 1.115)
+
+1.24 (1.218 - 1.262)*
+
+168 h (Day 7)
+
+1.091 (1.041 - 1.144)
+
+1.017 (0.939 - 1.101)
+
+1.219 (1.193 - 1.246)
+
+192 h (Day 8)
+
+1.085 (1.033 - 1.14)
+
+0.999 (0.921 - 1.084)
+
+1.199 (1.169 - 1.229)
+
+216 h (Day 9)
+
+1.076 (1.022 - 1.134)
+
+0.981 (0.902 - 1.067)
+
+1.181 (1.148 - 1.214)
+
+240 h (Day 10)
+
+1.067 (1.011 - 1.126)
+
+0.962 (0.883 - 1.049)
+
+1.164 (1.129 - 1.201)
+
+264 h (Day 11)
+
+1.057 (0.999 - 1.117)
+
+0.944 (0.864 - 1.031)
+
+1.148 (1.11 - 1.187)
+
+288 h (Day 12)
+
+1.046 (0.987 - 1.108)
+
+0.925 (0.844 - 1.013)
+
+1.132 (1.092 - 1.174)
+
+312 h (Day 13)
+
+1.035 (0.975 - 1.099)
+
+0.907 (0.826 - 0.995)
+
+1.116 (1.074 - 1.16)
+
+336 h (Day 14)
+
+1.025 (0.964 - 1.089)
+
+0.889 (0.809 - 0.978)
+
+1.101 (1.057 - 1.147)
+
+672 h (Day 28)
+
+0.953 (0.883 - 1.028)
+
+0.74 (0.669 - 0.818)*
+
+NA
+
+AUCinf
+0.94 (0.87 - 1.016)
+NA
+NA
+* The 90%CI of the Geometric mean ratio (GMR) outside the PK comparability criteria of 80% to 125%,
+calculated from on a single simulation using rich PK sampling and the PROTECT sub-study population
+individual PK parameters. NA: not applicable.
+Source: FDA reviewer
+
+Table 4 shows that even with the adjusted dosing regimen (regimen D) for the AGC product, the
+Ctrough at the end of day 28 (or Day 29) after the 14-day treatment will still be below the typical
+PK comparability bounds with a GMR of 74%. The PK difference might be due to the higher
+proportion of NAb on Day 28 for the AGC product. However, the AUC[0-Day 29] is well within the
+PK comparability criteria with a GMR of 95.3%. Figure 5 (B) shows that Ctrough on Day 29 from
+the AGC product (under the adjusted regimen D) and the Lilly product (under the refence 14-day
+regimen) are largely overlapping, suggesting that the PK difference in Ctrough on Day 29 is likely
+not clinically meaningful. Furthermore, Figure 2 shows that even at a higher PK difference on Day
+29 (GMR of 58% before dose adjustment) the CD3 target engagement by teplizumab on CD3+ T
+cells (expressed as % CD3 occupancy) was comparable between the AGC and Lilly product in
+PROTECT sub-study.
+19
+
+Reference ID: 5063936
+
+4. APPENDICES
+4.1 Summary of Bioanalytical Method Validation and Performance
+Serum concentrations of teplizumab were determined using the validated Meso Scale
+Discovery’s electrochemiluminescence (MSD-ECL) method and the antibody titers were
+determined using a validated MSD-ECL bridging assay.
+Pharmacokinetics:
+• The samples of PROTECT study were analyzed using the method ICD 788 Version 1.02,
+titled “An MSD-ECL Method for the Quantitation of PRV-031 in Human Serum”. The
+method validation was evaluated in the Clinical Pharmacology review of the original BLA
+submission and was considered adequate.
+• In brief, the MSD-ECL method had a calibration range of 2.5- 125 ng/mL using a 40 μl
+human serum aliquot and the precision and accuracy of every batch of analysis were
+evaluated using quality control (QCs) samples at 3 concentrations (7.5, 15 and 90 ng/mL)
+spanning the calibration range.
+• The mean accuracy (% difference from nominal) and mean precision (%CV) of the backcalculated calibration standards for the entire study sample analysis ranged between
+-5.0% to 4.9% and 2.5% to 4.4%, respectively and is within the standard limits of less than
+15% (20% at the LLOQ).
+• The mean accuracy (% difference from nominal) and mean precision (%CV) of the QCs for
+the entire study sample analysis ranged between -2.4% to -0.4% and 5.7% to 7.9%,
+respectively and is within the standard limits of less than 15%.
+• Around 10% of the PROTECT study samples were re-assayed and 95% (within acceptable
+limits of > 66.7%) of the results for the incurred sample reanalysis were within ± 30%
+deviation.
+Overall, the performance of the method was robust to reliably measure the serum
+concentrations of teplizumab.
+CD3 occupancy on T cells:
+The CD3 occupancy was measured using a flow cytometric assay. It measures the occupancy of
+the CD3 receptor by teplizumab on the surface of T lymphocytes in the peripheral blood, by
+identifying competition of CD3 occupancy/staining with fluorochrome-conjugated OKT3 ex vivo.
+Teplizumab and OKT3 have the same binding site on the CD3ε chain. Available binding sites of
+CD3ε on T cells can be detected by staining ex vivo with OKT3-fluorescein isothiocyanate (FITC)
+peripheral blood mononuclear cells (PBMCs) from subjects treated with teplizumab in vivo. The
+20
+
+Reference ID: 5063936
+
+OKT3-FITC signal measured by flow cytometry is proportional to available CD3 molecules in the
+blood of the subject, so that an observed reduction in OKT3-FITC signal is directly proportional
+to the binding (occupancy) of teplizumab to CD3 in the blood of the subject. The method was
+not a validated method and was conducted as per the Standard Operating Procedure
+(b) (4)
+developed at the
+Reviewer comments: The bioanalytical method for quantification of teplizumab in serum, met
+the criteria for ‘method validation’ and ‘application to routine analysis’ set by the ‘Guidance for
+Industry: Bioanalytical Method Development’. The assay for CD3 receptor occupancy was also
+found adequate to support the use as an exploratory PD marker.
+
+4.2 Summary of PROTECT PK/PD Study
+Title: PRV-031-001 (PROTECT): “A Phase 3, Randomized, Double-Blind, Multinational, PlaceboControlled Study to Evaluate Efficacy and Safety of Teplizumab (PRV-031), a Humanized, FcR
+Non-Binding, anti-CD3 Monoclonal Antibody, in Children and Adolescents with Newly
+Diagnosed Type 1 Diabetes (T1D).”
+PK/PD Sub study objective: The objective of this sub study was to characterize the PK profile
+and obtain possible PD markers (CD3 receptor occupancy, T cell activation, and circulating
+lymphocyte counts) following 12-day dosing of the two teplizumab products (AGC Biologics and
+Eli Lilly).
+Study population:
+The PROTECT trial is an ongoing trial in patients aged 8 to 17 years and were newly diagnosed
+with type 1 diabetes (T1D) at the time of enrollment.
+Study design:
+The ongoing parent study (PROTECT) is a Phase 3, randomized, double-blind, placebocontrolled, multinational, multicenter study. Approximately 300 participants will be enrolled
+and randomly assigned at a ratio 2:1 to either the teplizumab group (N=200) or the placebo
+group (N=100). The analyses for the PK/PD sub study included all patients who received
+teplizumab (Lilly or AGC) at the time of data cut for the analyses (Aug 2021) and did not include
+the patients who received placebo.
+Treatments and dosing:
+The PK/PD sub study of PROTECT only included analyses of participants after they completed
+the first 12-day course of treatment with teplizumab. The second course of treatment was
+21
+
+Reference ID: 5063936
+
+administered after an interval of approximately 6 or 12 months following the course 1 and was
+not a focus in this sub study or review.
+Unlike the 14-day regimen in the Protégé and TN-10 studies, the 12-day course in the PROTECT
+study had 2-day ramp-up phase (instead of a 4-day ramp up) with the 10-day fixed-, maximal
+dosing period like the 14-day course, as shown in Table 5. The total amount of teplizumab given
+in the 12- and 14-day regimens were 9.034 and 9.031 mg/m2, respectively. In this study, the
+average duration of teplizumab infusion was around 0.5 h for both products on each dosing
+day.
+Table 5. Dosing regimen used in PROTECT (12-day) versus previous studies (14-day)
+Day
+
+14-day course
+1 course in At-risk (TN-10);
+2 courses in Protégé (0 and 6 months)
+
+1
+
+51 μg/m2
+2
+103 μg/m2
+3
+207 μg/m2
+4
+413 μg/m2
+5
+826 μg/m2
+6
+826 μg/m2
+7
+826 μg/m2
+8
+826 μg/m2
+9
+826 μg/m2
+10
+826 μg/m2
+11
+826 μg/m2
+12
+826 μg/m2
+13
+826 μg/m2
+14
+826 μg/m2
+Cumulative ~9.0 mg/m2
+
+Source: Adapted from PROTECT (prv-031-001) study protocol
+
+22
+
+Reference ID: 5063936
+
+12-day course
+2 courses in PROTECT (0 and 6
+months)
+First course data used for PK/PD
+sub study
+106 μg/m2
+425 μg/m2
+850 μg/m2
+850 μg/m2
+850 μg/m2
+850 μg/m2
+850 μg/m2
+850 μg/m2
+850 μg/m2
+850 μg/m2
+850 μg/m2
+850 μg/m2
+–
+–
+~9.0 mg/m2
+
+Blood Sampling:
+Sparse blood sampling was obtained as below, following the course 1 of treatment in the
+PROTECT PK/PD sub study, as shown in Table 6.
+Table 6. Schedule of blood sampling in PROTECT PK/PD sub study
+Pharmacokinetics
+(PK)
+
+Teplizumab serum concentration
+
+Possible PD
+markers (PD)
+
+CD3 receptor occupancy by
+teplizumab and activation status of T
+cells
+(North American sites only)
+
+Anti-drug
+antibodies (ADA)
+
+• Pre-infusion:
+Days 1, 4, 9, 12
+• 45 ± 15 min after the
+end of infusion: Day 9
+• Day 28
+
+1. Receptor occupancy on CD3+,
+CD4+CD8 and CD4-CD8+ cells
+2. Activation status of T cells
+(anti-CD69 positivity on CD3+T
+cells, CD4+ T cells and CD8+ T
+cells
+Total lymphocyte counts obtained
+from routine hematology tests
+
+• Pre-infusion:
+Days 1, 4, 9, 12
+• 45 ± 15 min after the
+end of infusion: Day 9
+• Day 28
+
+Lymphocyte profiles including
+1. time to Nadir,
+2. Nadir and
+3. lymphocyte AUC over 28 days.
+
+• Baseline and on Days 2,
+4, 6, 9, 12 and 28.
+
+1. Incidence
+2. Titer values
+
+Source: Adapted from PROTECT (prv-031-001) study protocol
+
+• Pre-infusion:
+Days 1, 12
+• Days 28, 56
+
+Study endpoints:
+The primary PK endpoints: PK parameters including the maximum concentration (Cmax), total
+Area under the concentration-time curve till Day 13 after the last dose on Day 12 (AUC0-day13)
+and the total Area under the concentration-time curve extrapolated to time infinity (AUCinf)
+were estimated from the sparse PK concentrations using a population pharmacokinetic model
+(Refer POPPK section of this review for additional information).
+
+23
+
+Reference ID: 5063936
+
+Comparisons between products: For each PK parameter, the least square mean (LSM) and
+respective 90% confidence interval (CI) for each product, LSM difference between products
+(AGC Biologics – Eli Lilly) and corresponding 90% CI were calculated. The back transformed
+values were used to obtain the geometric least square mean (GLSM), ratio of GLSMs, and
+corresponding 90% CI between the two teplizumab products.
+Results:
+The PK and PD results are summarized in Section 3.1 of the review. In the consolidated scatter
+plot analysis shown in Figure 6, the relationship of CD3 occupancy vs concentrations was similar
+between the teplizumab products. As in the previous studies of teplizumab, the depletion in
+lymphocytes was a transient phenomenon following teplizumab dosing with the nadir in
+lymphocyte counts seen around the 5th day of the 14-day dosing regimen. The overall profile in
+the decline and recovery in lymphocyte counts was also superimposable for both the products,
+as shown in Figure 7.
+Figure 6. Scatter plot of the serum teplizumab concentration versus CD3 receptor occupancy by
+product in PROTECT sub study
+
+Source: Applicant’s Concentration-CD3 Occupancy Report, Figure 2, page 44.
+24
+
+Reference ID: 5063936
+
+Figure 7. Mean (SD) of lymphocyte counts from baseline to Day 28 by product in PROTECT sub
+study
+
+Source: Applicant’s PK/PD Substudy Report, Figure 11, page 34.
+
+The results for immunogenicity assessments are discussed here. The incidence (%) and titers of
+anti-drug antibodies (ADA) to teplizumab were evaluated in subjects on Days 1 (baseline) and
+Days 12 during the 12-day dosing regimen and during the follow-up on Days 28 and 56. The
+incidence of ADA between the products are compared under the population pharmacokinetic
+model section of this review. The median titers of the anti-drug antibodies (ADA) and the
+proportion of samples contributing to the titers for both the products, are presented in Figure
+8.
+Most samples had no detectable titers during the baseline evaluation on Day 1 indicated by Null
+values. The median ADA titers were found to increase with time for both the products. Of the
+evaluated samples, the median titers were found to be higher in the AGC arm however around
+30% of samples in Lilly arm are not analyzed (missing) at the time of resubmission by Applicant,
+thus precluding any definitive conclusions. Overall, the impact of ADA on the serum clearance
+of teplizumab was found to be comparable between the two products, based on the population
+model and values for Ln (ADA) until 6-7 were predicted to have a negligible impact on the
+clearance (Refer POPPK section of this review for additional information on the impact of ADA
+on clearance). In general, the Ln (ADA) values did not reach values close to 7 during the 12-day
+dosing period, when circulating serum concentrations of teplizumab are present. Thus, the ADA
+impact on PK was found to be negligible regardless of the product.
+
+25
+
+Reference ID: 5063936
+
+4.3 Pharmacometric Review
+The joint population PK modeling was considered appropriate for describing the observed
+teplizumab concentrations in healthy subjects and patients under different dosing regimens, and
+therefore, for estimating teplizumab exposure and performing PK simulations and predictions.
+More specifically, the developed joint population PK (popPK) model was utilized to support the
+current submission as outlined below (Table 7):
+Table 7. Utility of the Population PK Modeling
+Utility of the final model
+Derive
+exposure
+metrics and
+PK
+parameters
+
+Reviewer’s Comments
+
+• The PK model was used to • Body weight was a significant and
+characterize the PK of teplizumab
+relevant covariate on teplizumab
+from 3 different products used
+exposure and justified the body surface
+during the clinical development
+area based dosing.
+program: study PRV-031-004 (single • ADA appeared mainly on day 8 to day 12
+dose study healthy patients), TN-10
+after treatment initiation with a peak on
+study (patients at risk of T1D1) and
+day 56 to day 91. ADA were a statistically
+Protégé study and PROTECT subsignificant covariate on the PK of
+study (in patients with T1D).
+teplizumab. At the highest levels of
+• The PK model was used to identify
+Ln(ADA titers) of 6 to 7, teplizumab CL
+and quantify the effect of various
+was estimated to increase by 11% to
+covariates on teplizumab exposure,
+33%. However, these ADA titers occurs
+namely the difference in PK from
+late after the end of the single course 14the 3 studied teplizumab products,
+day
+regimen,
+when
+teplizumab
+the effect of dosing regimens, anticoncentrations are relatively low.
+drug antibodies (ADA) as well as
+Teplizumab median (range) half-life for
+population or study on teplizumab
+the to-be-marketed AGC product was
+PK .
+estimated to be 4.5 days (4.2 – 5 days).
+• The PK model was used to derive • The PK model can adequately be used to
+predict the PK exposure metrics (Cmax,
+teplizumab exposure
+metrics
+(Cmax, Ctrough and AUC) from the
+Ctrough and AUC) from the PROTECT
+PROTECT sub-study for
+PK
+sub-study for PK comparability purposes
+comparability purposes between
+between teplizumab products.
+teplizumab products (Lilly product • The PK model derived PK metrics showed
+vs. AGC product) due to the sparse
+that the AGC product had 27% and 22%
+nature of PK sampling.
+lower AUCinf and Ctrough (after last
+• Finally, the PK model was used to
+dose) than the Lilly product, respectively.
+Therefore, the AGC product failed the PK
+perform PK simulations for to
+comparability to the Lilly product.
+propose an adjusted dosing
+regimen for the to-be-marketed • The optimal adjusted dosing regimen for
+AGC product and match its
+the AGC product was identified to be : 65
+exposure to the Lilly product used
+– 125 – 250 – 500 – (1030 x 10 days)
+in the pivotal TN-10 study.
+µg/m2 (regimen D)
+
+27
+
+Reference ID: 5063936
+
+The current pharmacometrics review evaluates the following:
+a. The adequacy of the PK model to describe teplizumab PK from the different studies and
+predict different PK exposure metrics particularly from the PK comparability PROTECT
+sub-study between the Lilly product (used in the pivotal TN-10 study) and the to-bemarketed (commercial) AGC product.
+b. The PK comparability results from the PROTECT sub-study based on the developed PK
+model and the adequacy of the proposed adjusted dosing regimen for the commercial
+AGC product to match its exposure to the Lilly product.
+4.2.1 Applicant’s Population PK Analysis
+
+In the previous BLA submission, 2 separate population PK models of teplizumab were developed
+describing the PK from 3 regimens (with 2 courses of treatment each, separated by 6 months) of
+the Protégé study in newly diagnosed T1D patients (Protégé model or model 177 in previous
+review) and separately describing the PK from the single low dose (207 µg/m2) of the PRV-031004 study in healthy subjects (model 020 in the previous review).
+The pivotal TN-10 study PK data, in subjects at risk of developing type 1 diabetes (sought
+indication for the current BLA), were not included in the previously developed PK models
+(Protégé or PRV-031-004 study), as TN-10 study collected few PK samples (n=98) in 25 of the 44
+subjects randomized to teplizumab, with about half (48 of 98) of the samples were trough
+samples and the rest were collected randomly post dose. However, additional PK analyses,
+performed in the previous BLA, showed that the Protégé model appropriately described the
+observed TN-10 study concentrations.
+The Protégé study used a product manufactured by MacroGenics, the PK bridging study PRV-031004 used products manufactured by Eli Lilly (49 subjects) and AGC Biologics (51 subjects) and TN10 study used products manufactured by MacroGenics (16 patients with PK) and Eli Lilly (9
+patients with PK). The PK exposures between the MacroGenics product and the Lilly product were
+shown to be comparable, with comparable efficacy between products in TN-10 study.
+In the PK bridging PRV-031-004 study, the to-be-marketed AGC Biologics product (AGC product)
+failed to show PK comparability to the Eli Lilly product (Lilly product) used in the pivotal TN-10
+study. The Applicant conducted a pharmacokinetic/ pharmacodynamic (PK/PD) sub-study of an
+ongoing PROTECT study to compare the PK and PD characteristics of the two products (AGC and
+Lilly products) when dosed in the therapeutic setting. The ongoing PROTECT study is a phase 3
+trial assessing efficacy and safety of teplizumab in children and adolescents with newly diagnosed
+T1D. The PROTECT study was initiated with the Lilly product and transitioned to the AGC product,
+and the dosing regimen studied is a 12-day dosing regimen, with different daily dosing from the
+14-day Herold regimen used in the pivotal TN-10 study (Table 8).
+28
+
+Reference ID: 5063936
+
+Because sparse PK sampling is being collected in the PROTECT sub-study, a population PK (popPK)
+model is required to obtain individual estimates of PK parameters and exposure metrics (AUC,
+Cmax, Ctrough) for PK comparability assessment. However, the previously developed 2 PK
+models had different structures and parameters that led to different predictions of PK exposure,
+when simulating the PK under the same dosing regimen. The Protégé model could not
+simultaneously describe high and low dosing regimens (i.e., the full 14-day regimen or Herold
+(b) (4)
+regimen,
+In addition, the data for the AGC product
+were only available following a single low dose in PRV-031-004, thus rendering predictions for an
+ascending dosing regimen (as the Herold regimen), using either PK models, unreliable.
+Due to these discrepancies, the FDA recommended developing a joint population PK model of
+teplizumab based on data from Protégé (Course 1 only), TN-10, PRV-031-004, and PROTECT substudy (Course 1 only; all data collected by 06-Aug-2021) studies, which describes all populations
+(newly diagnosed T1D patients, at-risk T1D patients, and healthy subjects), all dosing regimens,
+and all teplizumab products employed in these studies.
+The developed joint PK model was ultimately used to obtain estimates of teplizumab individual
+PK parameters from the PROTECT sub-study and derive PK exposure metrics for the PK
+comparability analysis between the Lilly product and AGC product. Table 9 shows the planned PK
+and anti-drug antibodies (ADA) sampling from the different studies.
+The PROTECT PK sub-study enrolled 169 patients (137 under Lilly product and 32 under AGC
+product) and contributed to the PK model with 625 quantifiable concentrations (500 from Lilly
+product arm and 125 from AGC product arm). A total of 21 BQL (below quantification limit, 16 in
+Lilly product arm and 5 in AGC product arm) concentrations were excluded from the analysis. The
+lower limit of quantification (LLOQ) was 2.5 ng/mL as for the other studies (for Protégé, the LLOQ
+was 2.442 ng/mL). In the AGC product cohort, BQL values occurred after day 25 in 25% of PK
+samples (5/20 samples). In the Lilly product cohort, most BQL values occurred after day 24 in 12%
+of PK samples (14/112 samples), 2 BQL values occurred less than 4 hours after the first dose
+infusion. The application of the M3 method to handle BQL values from all studies did not improve
+the fit or changed the PK parameter estimates.
+The summary statistics for the demographic characteristics and either maximum ADA
+concentrations or titers are presented by study in Table 10. Table 11 and Table 12 summarize the
+daily ADA titers in the PROTECT sub-study and PRV-031-004 (single dose) study, respectively. ADA
+titers in the single dose study (PRV-031-004) appeared after Day 5 to Day 8, when teplizumab
+concentrations (from AGC and Lilly product) were already very low or BQL values. Table 13
+summarizes the daily ADA concentrations in the Protégé study. ADA titers in the TN-10 study
+were collected on only one occasion (3 to 4 months) after treatment initiation (Table 9and Table
+10).
+29
+
+Reference ID: 5063936
+
+Table 8. Listing of Studies included in the Population PK Analysis
+Study Identifier
+
+Objective(s) of
+the Study
+
+Study Design and
+Type of Control
+
+Test Product(s);
+Route of Administration;
+Dosage Regimen
+
+Protégé
+CP-MGA031-01
+
+Efficacy (Cpeptide) and
+safety;
+Population PK
+analysis;
+ADA and NAb
+analyses
+
+Segment 1:
+Open label
+
+Teplizumab intravenous infusion*
+Segment 1:
+38 teplizumab
+(MacroGenics product)
+Segment 1: Open label:
+Full 14-day regimen (Herold Regimen):
+Day 0: 51 μg/m2
+Day 1: 103 μg/m2
+Day 2: 207 μg/m2
+Day 3: 413 μg/m2
+Days 4-13: 826 μg/m2
+Total dose ~9034 μg/m2
+
+Segment 2:
+Randomized, doubleblind, placebocontrolled,
+multicenter,
+multinational, 4-arm,
+dose-ranging study
+
+Segment 2: Randomized:
+Arm 1: Full 14-day regimen (Herold
+Regimen)
+Arm 2: 1/3 or reduced 14-day regimen
+(1/3 or reduced Herold Regimen):
+Day 0: 17 μg/m2
+Day 1: 34 μg/m2
+Day 2: 68 μg/m2
+Day 3: 136 μg/m2
+Days 4-13: 273 μg/m2
+Total dose ~2985 μg/m2
+Arm 3: Full 6-day regimen (Curtailed
+Herold Regimen)
+Day 0: 51 μg/m2
+Day 1: 103 μg/m2
+
+30
+
+Reference ID: 5063936
+
+Number
+of
+Subjects
+
+Segment 2:
+513 total:
+98 placebo and
+415 teplizumab
+
+Healthy Subjects
+or Diagnosis of
+Patients
+
+Duration of
+Treatment
+
+Patients with
+newly diagnosed
+T1D (treatment
+within 12 weeks of
+diagnosis)
+
+Segment 1:
+Two 14-day
+courses, 26 weeks
+apart.
+Only course 1 was
+included in the
+current joint PK
+modelling.
+
+Segment 2: Two
+identical courses,
+26 weeks apart.
+Only course 1 was
+included in the
+current joint PK
+modelling.
+
+Day 2: 207 μg/m2
+Day 3: 413 μg/m2
+Days 4-5: 826 μg/m2
+Total dose ~2426 μg/m2
+Arm 4: Placebo 14-day course
+TN-10
+(At-Risk Study)
+ISCT-MGA031005
+
+Efficacy and
+Safety; PK
+analysis; ADA and
+NAb Analysis
+
+Randomized, doubleblind, placebocontrolled, 2-arm,
+multicenter study
+
+Teplizumab intravenous infusion*
+(MacroGenics and Lilly products)
+Day 0: 51 μg/m2
+Day 1: 103 μg/m2
+Day 2: 207 μg/m2
+Day 3: 413 μg/m2
+Days 4-13: 826 μg/m2
+Total dose ~9034 μg/m2
+
+76 total:
+32 placebo and
+44 teplizumab
+(28 Lilly product
+and 16
+MacroGenics
+product)
+
+PRV-031-004
+
+Biocomparability Randomized, doubleof teplizumab
+blind, parallel group
+manufactured at
+AGC Biologics
+(test) vs Eli Lilly
+(reference)
+
+Teplizumab 207 μg/m2,
+30 minutes intravenous infusion
+
+100 total:
+Healthy subjects
+51 AGC Biologics
+and
+49 Eli Lilly
+
+Single dose
+
+PROTECT study
+PRV-031-001
+
+Efficacy
+(C-peptide) and
+safety;
+Population PK
+analysis; ADA
+analyses
+
+Teplizumab or placebo intravenous
+infusion
+Day 1: 106 μg/m2
+Day 2: 425 μg/m2
+Day 3-12: 850 μg/m2
+
+300 total:
+100 placebo and
+200 teplizumab
+
+PROTECT substudy
+
+Population PK,
+ADA and safety
+analyses
+
+Two courses
+starting at Week 1
+and Week 26 or
+Week 52;
+Only the single
+course PROTECT
+sub-study was
+included in the
+current joint PK
+modelling.
+
+Randomized, doubleblind, placebocontrolled, study
+
+Same dosing as the on-going PROTECT 171 teplizumab:
+study
+33 AGC Biologics
+and 138 Eli Lilly
+
+Individuals with at
+least 2 T1Dassociated
+autoantibodies
+and dysglycemia.
+
+Children and
+adolescents newly
+diagnosed with
+T1D
+
+Single 14-day
+course
+
+Abbreviations: ADA=anti-drug antibodies; CSR=clinical study report; NAb=neutralizing antibodies; PD=pharmacodynamics; PK=pharmacokinetics;
+T1D=type 1 diabetes. *Per protocol duration of intravenous infusion: at least 30 minutes.
+Source: Adapted from the applicant’s Summary of Clinical Pharmacology Studies, Table 1, page 15.
+31
+
+Reference ID: 5063936
+
+Table 9. Protocol Specified Collection Days for PK and Anti-drug antibodies measurements
+Protégé study
+Segment 1
+
+Protégé study
+Segment 2
+
+TN-10 study b
+
+PRV-031-004 study
+
+PROTECT PK sub-study
+
+Protocol Specified
+Collection Days
+
+Course 1
+
+Course 2 a
+(Not used in
+the current
+updated joint
+PK model)
+
+Course 1
+
+Course 2 a
+(Not used in
+the current
+updated joint
+PK model)
+
+One Course study
+
+Single dose
+
+One Course sub-study
+
+PK: teplizumab
+serum
+concentration
+
+Days 0, 113 (predose and
+end of
+infusion)
+
+Days 182, 183190 (pre-dose
+and end of
+infusion)
+
+Days 0,
+5 (predose)
+
+Days 182,187,
+196, 210, 224,
+273
+
+Days 0,10,11,13:
+pre-dose and at
+random sampling
+
+On Day 1, PK samples were
+drawn pre-dose and 0.5 hour
+(end of infusion), 1 hour, 2
+hours, 4 hours, 6 hours,
+8 hours, 12 hours, and 18
+hours after the start of
+infusion. On Day 2, PK
+samples were drawn at 24
+hours and
+36 hours after the start of
+the infusion. Day 3, 5, 8, 15
+
+Day1: predose,
+Day 4: predose,
+Day 9: predose and 45 ±
+15 min after the infusion
+is completed,
+Day 12: predose,
+Day 28: at random
+
+Days 182, 210,
+224, 273, 364,
+546, 728
+
+Day 0 and Month 3
+
+Day 1, 2, 3, 4, 5, 8, 15
+
+Day 1, Day 12, Day 28,
+Day 56, and Day 182
+
+Random
+Samples:
+14, 28, 56
+
+Anti-drug
+antibodies (ADA)
+
+Days 0, 28,
+56, 91
+
+Random
+Samples: 196,
+210, 224, 273
+
+Random
+Samples:
+14, 28,
+56
+
+Days 182, 210,
+224, 273, 364,
+546, 728
+
+Days 0,
+28, 56,
+91
+
+a Course 2 of treatment was administered 26 weeks apart from Course 1 of treatment (i.e., after 6 months wash-out period).
+
+b TN-10 study, in subjects at risk of developing type 1 diabetes, was not included in the population PK analysis. TN-10 study was a randomized, double-
+
+blind, placebo-controlled, 2-arm (teplizumab and placebo), multicenter study. Only 1 course of the Herold Regimen was administered.
+Source: Adapted from the applicant’s Summary of Clinical Pharmacology Studies, Table 2, page 23.
+
+32
+
+Reference ID: 5063936
+
+Table 10. Summary of Demographic Characteristics and Maximum Anti-Drug Antibody levels by Study
+
+Note: max. Ln(ADA conc.)=maximum natural-logarithm (Ln) of ADA concentrations. In Protégé study, ADA concentrations (LLOQ of 48.85 ng/mL) and not
+titers were measured. In the other studies, ADA titers were measured using a three-tiered approach, with a titer threshold of 30.
+Source: FDA reviewer (based on the population PK dataset)
+
+33
+
+Reference ID: 5063936
+
+Table 11. Summary of Daily ADA titers in PROTECT sub-study
+
+* Day 1 (predose) represent baseline (control) ADA collected before initiation of the study treatment. The ADA titer threshold value is 30 in the ADA
+assay. All titers below the threshold are considered as zero.
+Note: On Day 28, the neutralizing antibodies (NAb) represented 45% (10/22) and 28.4% (25/88) for the AGC product and the Lilly product, respectively.
+On Day 56, the NAb represented 57.1% (4/7 samples) and 53% (44/83 samples) for the AGC product and the Lilly product, respectively.
+Source: FDA reviewer (based on the population PK dataset)
+
+34
+
+Reference ID: 5063936
+
+Table 12. Summary of Daily ADA titers in PRV-031-004 study
+
+* Day 1 (predose) represent baseline (control) ADA collected before the single dose administration. ADA positivity is for the confirmatory step of a threetiered approach.
+Source: FDA reviewer (based on the Immunogenicity Safety Analysis Dataset: adis.xpt)
+
+35
+
+Reference ID: 5063936
+
+Table 13. Summary of Daily ADA titers in Protégé study
+
+*The ADA concentration threshold value is 48.85 ng/mL representing the LLOQ of the ADA assay.
+Note: the neutralizing antibodies (NAb) assessed on Day 56 represented 88.9% (16/18 samples evaluated) of the MacroGenics product.
+Source: FDA reviewer (based on the population PK dataset)
+
+36
+
+Reference ID: 5063936
+
+Structural and Base PK model
+The PK of teplizumab following an IV administration (of at least 30 minutes) was described by a
+3-compartment model, with linear non-specific elimination from the central compartment,
+binding and target-mediated drug disposition (TMDD) in all 3 compartments (central, peripheral,
+and fast or rapidly-equilibrating peripheral compartment), as well as an additional binding and
+TMDD through a non-renewable pool of target from the peripheral compartment. The quasisteady-state (QSS) approximation of the TMDD was used in the PK model (as previously used for
+the Protégé model). Compared to the previously developed Protégé model, the current joint PK
+model (from all studies) included an additional fast peripheral compartment (3rd compartment)
+to describe the rapid decline of drug concentrations in the initial hours after dosing, captured by
+the intensive sampling in study PRV-031-004, and included an additional elimination pathway
+through binding and TMDD through a non-renewable pool of target from the 2nd peripheral
+compartment to describe the higher CL of teplizumab under the lower dosing regimens (reduced
+14-day regimen and full 6-day regimen) studied in the Protégé study. Finally compared to the
+previously developed 2 PK models, the current joint PK model estimated an internalization rate
+constant for the MacroGenics and Lilly products.
+The 3-compartment QSS TMDD model was parameterized in terms of CL, central and 2 peripheral
+volumes of distribution (Vc, Vp, Vp2), inter-compartmental clearances (Q and Qp2),
+concentration of target at baseline (BASE), the quasi-steady-state constant (KSS), an
+internalization rate constant (Kint) for all products except for the AGC product, target
+degradation rate constant (Kdeg), concentration of no-renewable target at baseline (RMAX) and
+an elimination/association rate constant to non-renewable target (Kb).
+The inter-individual variability (IIV) was estimated for teplizumab CL, Vc, Vp, Q, Qp2, Kb, and on
+the residual error. The IIV on V1 and Q2 was included only for subjects with dense sampling (i.e.,
+study PRV-031-004 and segment 1 of the Protégé study). The residual variability was best
+described by a proportional error model, with a lower residual variability for study PRV-031-004.
+Covariate analysis
+The following covariates were included in the final joint PK model:
+•
+•
+
+Body weight on CL, Vc, Vp and Vp2, using a power function standardized to a body weight
+of 60 kg.
+ADA concentrations (HAHA2) from the Protégé study on CL, and the ADA titer (LTITR) from
+TN-10 study and PROTECT sub-study as corrected-covariate on CL, using a proportional
+linear model where HAHA2 or LTITR were corrected by a threshold value (e.g., HAHA2thershold). HAHA2 (natural-logarithm [Ln] of maximum ADA measurements up to day 120
+after first dose) was corrected by a fixed threshold of 4 (i.e., Ln of ADA LLOQ of 48.85
+37
+
+Reference ID: 5063936
+
+•
+•
+•
+
+ng/mL). LTITR (Ln of maximum ADA measurements up to day 56) was corrected by a fixed
+threshold of 3.4 (i.e., Ln of ADA titer cut point of 30). Below these thresholds the ADA
+effect on teplizumab CL is assumed to be absent.
+The Lilly product as covariate on KSS, using a multiplicative effect.
+The AGC product treatment arm in study PRV-031-004 on CL, using a multiplicative effect
+The AGC product treatment arm in the PROTECT sub-study on CL, using a multiplicative
+effect.
+
+Final model
+The parameter estimates from the final joint population PK model describing teplizumab
+pharmacokinetics from all data and products (Course 1 of Protégé study, TN-10 study, PRV-031004 study and PROTECT sub-study) are listed in Table 14.
+According to the Applicant’s PK model, the Lilly product (used in TN-10 study, PRV-031-004 study
+and PROTECT sub-study) has 1.68 fold higher KSS compared to the MacroGenics product and the
+AGC product.
+In study PRV-031-004 (single dose of 207 µg/m2 in healthy subjects), the AGC product was
+estimated to have 3.28 fold higher CL compared the Lilly product or MacroGenics product.
+However, in the PROTECT sub-study the AGC product was estimated to have 1.73 fold higher CL
+compared to the Lilly product.
+Kint was estimated to very low and statistically not different from zero for the AGC product
+(either in study PRV-031-004 or the PROTECT sub-study) and could not be reliably (precisely)
+estimated by the PK model. Therefore, Kint for the AGC product was fixed to 0. No other
+differences in the PK parameters were observed between the MacroGenics, the Lilly and the AGC
+products.
+In the Protégé study, the ADA effect on the CL of the MacroGenics product (CLHAHA2) was
+estimated to be 0.136 (slope of fractional increase), i.e., at the highest measured median Ln(ADA
+concentration) of 6, CL was estimated to increase by 27%.
+In study TN-10 and PROTECT sub-study that measured ADA titers instead of ADA concentrations,
+the Applicant PK model found comparable ADA effect on CL of the Lilly product (TN-10 and
+PROTECT studies) and MacroGenics (TN-10 study only). The separate estimation of ADA effect on
+the CL of the MacroGenics product compared to the Lilly product was not found to be statistically
+significant. The estimated slope of fractional increase of CL with ADA in the TN-10 study and
+PROTECT sub-study was 0.0775. Therefore, at the highest measured median Ln(ADA titer) of 7,
+teplizumab CL was estimated to increase by 28%.
+
+38
+
+Reference ID: 5063936
+
+Regarding the AGC product cohort of the PROTECT sub-study, the estimate of the ADA effect on
+the CL of the AGC Biologics product was nearly zero with a very high relative standard error (RSE).
+Therefore, the ADA effect on teplizumab CL was fixed to zero for the AGC product.
+In the healthy subjects’ study (PRV-031-004), the ADA titers appeared late after the single dose
+administration. The immunogenicity was detected in a very few subjects before Day 8 post-dose
+(n=4 over 100 subject in both the AGC and Lilly products arms). By Day 8, when ADA titers were
+detected in 21 subjects (14 in AGC and 7 in Eli Lilly treatment arms), teplizumab concentrations
+were very low (below 5 ng/mL for almost all subjects) or BQL (in all but 3 subjects for AGC
+product, and in 12 subjects for the Lilly product). In addition, 5 of the 14 ADA positive samples in
+AGC arm and 1 over the 7 positive ADA samples in Lilly arm were neutralizing antibodies (NAb).
+Therefore, the ADA effect on teplizumab CL could not be informed after a single dose study PRV031-004 and can be considered not relevant. The PK difference between the AGC product and
+the Lilly product in the PRV-031-004 study was already observed before the appearance of ADA
+and NAb, particularly on Day 8. Therefore, it was concluded the PK difference between product
+is likely not the driver of the PK differences between products.
+The interindividual random effect (ETA) shrinkage, on the PK parameters that are affected by the
+clinically relevant covariates, was 19.1 and 42.5 for CL and KSS, respectively. The estimated
+residual error in PRV-031-004 study (single dose study with rich PK sampling) was lower
+compared to the other studies and represented 27% of the overall residual variability (29.4%)
+estimated from the other studies.
+The estimates of precision for the model parameters (RSE and asymptotic 95% confidence
+intervals) were provided for each of the parameters. Non-parametric bootstrap was unfeasible
+due to long run times. All fixed-effect parameters were precisely estimated (RSE ≤ 20%), except
+for the effect of LTITR on CL (RSE = 31.4%). The majority of inter-individual variability (IIV)
+parameters were also precisely estimated (RSE of 8.5 - 16%) except for IIV for Qp2 and Kb (RSE =
+27.6% and 42.8%, respectively). The use of the M3 method to account for BQL observations found
+that the exclusion of BQL observations in the current PK modeling did not affect the estimated
+PK model parameters.
+
+39
+
+Reference ID: 5063936
+
+Table 14. Parameter Estimates from the Final Joint Population PK Model
+
+Continued next page
+40
+
+Reference ID: 5063936
+
+Table 14 continued
+
+Source: Applicant’s Population PK Report Update (model 372), Tables 2 and 3, pages 12 and 13.
+
+The goodness-of-fit (GOF) plots, stratified by study, regimen and teplizumab product, showed
+that the joint-PK model is able to appropriately describe all of the observed data for the different
+studies and teplizumab products. Figure 9 shows the GOF plots for the Lilly and AGC products
+cohorts of the PROTECT sub-study (i.e., the study used to evaluate the PK comparability between
+teplizumab products, with the Lilly product being the reference and the AGC product
+representing the to-be-marketed/commercial product). In Figure 9, the plots of the observed
+concentrations versus the population predicted as well as the individual predicted concentrations
+show random normal scatter around the identity lines, indicating absence of systematic bias. The
+conditional weighted residuals versus time, time after dose or population predicted
+concentrations also show random normal scatter around zero with no specific patterns.
+The prediction-corrected Visual Predictive Check (pcVPC) plots of concentration versus time,
+stratified by study, regimen and teplizumab product, indicated good agreement of the simulated
+and observed data from the different studies, regimens, and products. However, the pcVPC plots
+from the PROTECT sub-study (Figure 10) shows from that the population PK model has the
+tendency to underestimate the median observed teplizumab concentration in the Lilly product
+cohort after Day 20.
+41
+
+Reference ID: 5063936
+
+Figure 9. Goodness of Fit Plot from the Final PK Model (model 372) for the PROTECT sub-study
+
+The upper (model 372 72) and lower (model 372 83) panels are the GOF plots for the Lilly product and AGC
+product of the PROTECT sub-study, respectively. DV: Observed concentrations; PRED: population
+predictions; IPRED: individual predictions; CWRES: conditional weighted residuals. The gray solid lines (y=x
+or y=0) are identity and reference lines. The bold red lines are the loess (local regression smoother) lines.
+All plots are using arithmetic scales except for the middle column plots that are on log scales.
+Source: Applicant’s Population PK Report Update (model 372), Figures 8 and 9, pages 24 and 25.
+42
+
+Reference ID: 5063936
+
+Figure 10. Visual Predictive Check plots from the Final PK Model for the PROTECT sub-study
+
+The upper and lower panels represent the pcVPC for the Lilly product and AGC product of the PROTECT
+sub-study, respectively. The left figures are on arithmetic scales and the right figures are on semi-log scales.
+The solid lines are median (red), and 5th and 95th percentiles (blue) of observed concentrations. The
+shaded regions show the 90% confidence intervals on these quantities obtained by simulations from the
+model 372. The simulated values were computed from 500 simulated trials with dosing, sampling, and
+covariate values in the dataset. Nominal Time for data on Day 9 was slightly modified to separate troughs
+and peaks on the plots.
+Source: Applicant’s Population PK Report Update (model 372), Figures 32 - 33, pages 49 - 50.
+
+43
+
+Reference ID: 5063936
+
+Reviewer’s Assessment of the joint population PK analysis and the ADA effect on teplizumab
+clearance from the PROTECT sub-study
+•
+•
+
+•
+
+•
+
+The Applicant’s joint PK model adequately describes the observed concentrations from all
+studies, dosing regimens and products.
+The PK parameter from the final model were estimated with a good precision (RSE ≤ 15.9%),
+except for the estimated common effect of ADA titers on teplizumab CL from the Lilly product
+(in TN-10 study and PROTECT sub-study) and MacroGenics product (in TN-10 study only) with
+an RSE of 31.4%
+The applicant PK model evaluated the ADA titers effect on CL as a constant covariate, using
+the maximum observed Ln(ADA titer) for each individual in the TN-10 study and PROTECT
+sub-study for the Lilly product. However, the ADA titer effect was estimated to be absent for
+the AGC product in the PROTECT sub-study, and this even though the AGC product cohort
+showed a higher proportion of patients with measurable ADA titers (Table 11) and
+neutralizing antibody (NAb) positivity (on Day 28 after treatment initiation, Table 11).
+The reviewer’s separate assessment of the effect of ADA titers in the PROTECT sub-study, as
+a time-varying covariate on the CL of the Lilly product and the AGC products, found a positive
+ADA effect on the ACG product’s clearance (Table 15). The reviewer’s PK model with a
+common ADA effect to both products on CL decreased the objective function values (OFV) by
+20 points (p value < 0.001, for 1 degree of freedom [df]) compared to the Applicant’s model.
+The ADA effect for the Lilly product and AGC product in the PROTECT sub-study was not found
+to be statistically different, with a difference in OFV of 0.08 points (p > 0.05, 1 df) between a
+PK model with separate ADA effects for each product and a reduced PK model with a common
+ADA effect on CL. The reviewer’s PK model estimated that at the highest measured median
+Ln(ADA titer) of 6 to 7, the teplizumab CL increased by 11% to 33% for either the Lilly product
+or the AGC product.
+The ADA effect on CL in study TN-10 was estimated separately from the PROTECT sub-study,
+in the reviewer’s PK model. In TN-10 study, the ADA assessment was performed only at
+month 3 or 4 after start of the 14-day single course treatment. Therefore, ADA titer could not
+be used as a time-varying covariate. In addition, teplizumab was already cleared from the
+systemic circulation by the time of ADA samples collection, rendering the estimation of ADA
+effect on CL less reliable. In fact, according to the reviewers’ PK model (Table 15), the
+estimated ADA effect on CL of either the Lilly or MacroGenics product (in TN-10 study) was
+negligeable and statistically not different from zero, with an estimated slope of fractional
+increase in CL of 0.0357 and a high RSE of 139% (likely to lack of informative PK and ADA
+data). Table 15 summarizes the reviewer’s PK model. Most of the PK parameters were
+comparable to the Applicant’s PK model, except for the estimated covariate ADA effect on CL
+in the TN-10 study and PROTECT sub-study. The inclusion of ADA titers as a time-varying
+covariate on CL using a power model in the PROTECT sub-study decreased the OFV by 20
+points (p < 0.001, 1 df). In contrast, a linear model to describe the ADA titers effect in PROTECT
+sub-study increased the OFV by 11 points.
+44
+
+Reference ID: 5063936
+
+Table 15. Parameter Estimates from the Reviewer’s Updated Joint Population PK Model
+Parameters
+
+Estimate
+
+[%RSE]
+
+CL (L/day)
+
+1.68
+
+4.1%
+
+Vc (L)
+Q (L/day)
+Vp (L)
+
+2.27
+8.75
+5.79
+
+3.3%
+6%
+3.5%
+
+BASE (ng/mL)
+KSS (ng/mL)
+
+161
+20.1
+
+5.6%
+6.1%
+
+Vc WT and Vp WT: Power exponent on (WT/60)
+CL WT: Power exponent on (WT/60)
+
+0.727
+0.469
+
+5.6%
+14.5%
+
+CLHAHA2 : slope of ADA concentration effect on MacroGenics CL (Protégé study)
+Kint (1/day)
+Kdeg (1/day)
+Qp2 (L/day)
+
+0.122
+0.0281
+0.123
+54.5
+
+14.8%
+8.3%
+13.3%
+6.7%
+
+Vp2 (L)
+Kb × 1000 (1/day/( ng/mL))
+RMAX
+CLLTITR TN-10 : slope of ADA titer effect on CL in TN-10 study (Lilly and MacroGenics)
+ThreshLTITR: ADA titer threshold (cut point)
+Kss Lilly
+CLAGC Healthy: multiplicative effect of AGC product on CL in study PRV-031-004
+
+0.964
+0.257
+1420
+0.0357
+3.4 (fixed)
+1.68
+3.21
+
+4.2%
+13.3%
+14.9%
+139%
+NA
+7.8%
+8.2%
+
+Kint AGC
+CLAGC PROTECT: Multiplicative effect of AGC product on CL in PROTECT sub-study
+CLLTITR PROTECT: power exponent for ADA titer effect on CL of AGC and Lilly in PROTECT*
+Variance on CL
+
+0 (fixed)
+1.63
+3.34
+0.134
+
+NA
+9.9%
+21.5%
+9%
+
+Variance on Kss
+Variance on Q
+
+0.168
+0.345
+
+12.7%
+10.3%
+
+Variance on Vp
+Variance on the proportional residual error
+
+0.0691
+0.0379
+
+16.6%
+10.5%
+
+Variance on Qp2
+Variance on Vc
+Variance on Kb
+
+0.187
+0.0287
+0.134
+
+29.7%
+15.6%
+9%
+
+Proportional residual error (%CV)
+
+29.3%
+
+2.4%
+
+Fraction of the proportional residual error for study PRV-031-004 (healthy)
+27%
+4.1%
+*ADA titer covariate in PROTECT sub-study was included as: CL=typical CL x [1+ (LTITR-Thresh LTITR)/5)^ CLLTITR PROTECT],
+where 5 is a reference Ln(ADA titer) or LTITR. NA: not applicable.
+Source: FDA reviewer
+
+45
+
+Reference ID: 5063936
+
+•
+
+Figure 11 represents the quantitative predictive check (QPC) plots from the Reviewer’s PK
+model at each sampling time point from the PROTECT sub-study (i.e., the PK comparability
+sub-study). There is a good agreement between the 50th percentiles (medians) of the
+observed teplizumab concentrations and the simulated concentrations for each product at
+the various sampling times, with the 50th percentiles of the observed concentrations (red
+dot-dashed vertical line) at each sampling time point falling within the 95% CIs (black dotted
+lines) of the 50th percentiles of the simulated concentrations (500 replicates). At Day 29 the
+population PK simulations tend to slightly underestimate the median observed teplizumab
+concentration for the Lilly product only, with the median observed concentration (red dotdashed vertical line) falling at the upper bound of the 95%CI (precision, black dotted line) of
+the simulated 50th percentile (bold black dotted line).
+
+Figure 11. Quantitative Visual Predictive Check (QPC) at Different Sampling Time Points for
+Teplizumab Products in PROTECT Sub-Study
+
+Note: The vertical dot-dashed red line, in each panel, represents the 50th percentile of the observed
+teplizumab concentration at each sampling time point. The vertical dashed black lines, in each panel,
+represent the median (in bold) of the simulated concentrations at each sampling time point, and the 95%
+confidence intervals of the 50th percentiles of the simulated concentrations (from 500 dataset replicates
+per teplizumab product).
+Source: FDA reviewer
+
+46
+
+Reference ID: 5063936
+
+4.2.2 Alternative Dosing Regimens proposed by Applicant for the AGC Biologics Product to
+Match the Lilly Product exposure
+
+The AGC product failed for the second time the PK comparability to the Lilly product (i.e., in study
+PRV-031-004 study and PROTECT sub-study). In the PROTECT sub-study, the AGC product was
+found to have lower exposure than the Lilly product under the PROTECT study regimen (Table
+17), with the model predicted AUCinf, AUC[0-24h after last dose] and the observed Ctrough
+before last dose failed to pass the PK comparability criteria (i.e., 90% confidence interval [CI] of
+the geometric mean ratios between AGC and Lilly products exposure metrics within 80% to
+125%). The Applicant’s analysis used samples from all patients regardless of missing doses or
+early treatment discontinuation, including for the assessment of the observed Ctrough.
+Table 17. Applicant’s Comparison of the Observed and Model-Predicted PK Exposure Metrics
+from PROTECT Sub-Study
+Applicant evaluation
+
+PK exposure metrics
+
+GMR (90% CI) a
+
+Predicted Cmax after last dose (ng/mL)
+
+0.88 (0.840 - 0.923)
+
+Predicted AUC(0-tlast) b (ng*day/mL)
+
+0.86 (0.769 - 0.955)
+
+Predicted AUCinf (ng*day/mL)
+
+0.83 (0.744 - 0.924)
+
+Observed Cmin before last dose [Day 12] (ng/mL)
+
+0.86 (0.7 - 1.066)
+
+GMR (90%CI): geometric mean ratio (90% confidence interval) derived from the analysis of variance (ANOVA) model
+using natural log-transformed PK parameters as the dependent variable and product as a factor under the
+assumption of unequal variance.
+b AUC(0-Tlast): tlast represents 24 hours after the last planned dose (Dose 12).
+a
+
+Adapted from Applicant’s PK/PD Substudy Tables and Figures, Tables 4.1 to 4.2, page5 to 8.
+
+The Applicant’s PK simulations from the joint PK model were performed to find an alternative
+regimen to the reference 14-day (Herold) regimen for the AGC product, in order to match the PK
+exposure between the AGC product (under the alternative regimen) and the Lilly product (under
+the reference regimen). The PK simulations to determine the appropriate alternative 14-day
+regimen for the AGC product was based on:
+a. individual (conditional) PK simulations using the individual PK parameters from the AGC
+and Lilly products cohorts of the PROTECT sub-study
+b. population (average) PK simulations using the typical model PK parameters and
+performed under median BSA and median weight of subjects in the PROTECT sub-study
+and no ADA effect.
+Table 18 summarizes the alternative dosing regimens proposed by the Applicant to match the PK
+exposure between the AGC product and Lilly product. Regimen A was the Applicant’s preferred
+(b) (4)
+regimen likely because it has the
+in cumulative dose compared to the reference
+regimen.
+48
+
+Reference ID: 5063936
+
+Table 18. Applicant’s Proposed Alternative Regimens A, B and C for the AGC product
+Daily dose (µg/m 2)
+Reference TN-10 trial
+regimen
+Herold 14-day (Lilly)
+
+Day 1
+
+Day 2
+
+Day 3
+
+Day 4
+
+51
+
+103
+
+207
+
+413
+
+Cumulative dose (µg/m2)
+Days 5-14 [Relative increase from reference]
+826
+
+9,034 [reference]
+(b) (4)
+
+AGC Regimen A
+
+(b) (4)
+
+[21%]
+
+AGC Regimen B
+
+[24%]
+
+AGC Regimen C
+
+[35%]
+
+Source: Adapted from Applicant’s BLA Resubmission Topics (m1), Table 3 , page 6.
+
+Table 19 summarizes the PK comparability results (geometric mean ratio and 90%CI) for the
+model predicted AUCinf, Cmax after last dose, and Ctrough before last dose (Ctrough13: Ctrough
+after dose 13), derived from both the conditional PK simulations as well as the population
+(b) (4)
+(typical) PK simulations. According to the Applicant,
+
+Table 19. Comparison of the Predicted PK Exposure Metrics between the Alternative Regimens
+and the Reference (Herold) Regimen
+
+AUCinf: calculated as AUC[0-day 128] using an accumulation compartment in the PK model.
+Source: Applicant’s BLA Resubmission Topics (m1), Table 4 , page 7.
+
+Table 19 shows discrepancies in the geometric mean ratios for AUCinf and particularly Ctrough13
+estimated from the conditional (individual) PK simulations compared to the typical (average) PK
+simulations. The FDA reviewer’s assessment identified that these discrepancies are due to the
+fact that the Applicant’s PK model did not appropriately account for the ADA effect on teplizumab
+
+49
+
+Reference ID: 5063936
+
+CL from the AGC product cohort (as discussed in the assessment of the population PK model,
+section 4.2.1.
+Figure 12 shows the distribution of the model-predicted teplizumab exposure metrics (AUCinf,
+Cmax and Ctrough13) in the historical clinical studies under their reference regimen and for the
+AGC product cohort of the PROTECT sub-study under the alternative regimens (A, B or C).
+(b) (4)
+According to the Applicant,
+
+The predicted daily Cmax and Ctrough for the alternative regimens are shown in Figure 13
+(Regimens A and B) and Figure 14 (Regimen C) alongside the predicted values from the Protégé
+study, TN-10 study and the Lilly product cohort of PROTECT sub-study.
+(b) (4)
+
+. In addition, the Applicant noted that the
+safety data from the PROTECT study reviewed every 4 months by the Data Monitoring Committee
+have shown no safety concerns.
+
+50
+
+Reference ID: 5063936
+
+Reviewer’s assessment of the PK comparability between the AGC product and Lilly product and
+the proposed alternative dosing regimens for the AGC product
+The reviewer’s evaluation of the PK comparability between the AGC product and the Lilly product
+in the PROTECT sub-study was not consistent with the Applicant’s evaluation, either for the
+observed Ctrough before last dose or for the model-predicted exposure metrics using either the
+Applicant’s PK model or the FDA reviewer’s PK model. A higher than the reported difference in
+PK exposure was found between both products (Table 20). According to reviewer’s evaluation,
+the AGC product had 27% and 22% lower AUCinf and Ctrough (after last dose) than the Lilly
+product, respectively.
+Table 20. Comparison of the Observed and Model-Predicted PK Exposure Metrics from PROTECT
+Sub-Study, under the Planned PROTECT Study Regimen and Duration of Infusion
+Predicted (Otherwise mentioned)
+PK exposure metrics
+
+Reviewer’s evaluation
+
+Applicant’s
+evaluation
+
+AGC
+Lilly
+a
+GM (%CV) GM (%CV)
+
+GMR (90% CI) a
+
+GMR (90% CI)
+
+Cmax after last dose (ng/mL)
+
+745 (12%)
+
+0.854 (0.821 - 0.89)
+
+0.88 (0.840 - 0.923)
+
+AUC(0-Tlast) b (ng*day/mL)
+
+2797 (19%) 3598 (19%) 0.777 (0.732 - 0.826)
+
+0.86 (0.769 - 0.955)
+
+AUCinf c (ng*day/mL)
+
+4528 (22%) 6176 (25%) 0.733 (0.678 - 0.792)
+
+0.83 (0.744 - 0.924)
+
+872 (13%)
+
+Observed Cmin before last dose (Day 12) 287 (45%)
+[n=26]
+[number of observations] d
+
+368 (38%)
+[n=120]
+
+0.78 (0.682 - 0.893)
+
+0.86 (0.7 - 1.066)
+
+Cmin before last dose (Day 12)
+
+251 (30%)
+
+373 (29%)
+
+0.674 (0.614 - 0.740)
+
+Not reported
+
+Cmin after last dose (Day 13)
+
+265 (30%)
+
+400 (30%)
+
+0.664 (0.604 - 0.730)
+
+Not reported
+
+GM: geometric mean, GMR (90%CI): geometric mean ratio (90% confidence interval), derived from Student’s t-test
+(with Levene Test for equality of variances) on natural log-transformed PK exposure metrics.
+b AUC(0-Tlast): Tlast represents 24 hours after the last planned dose (Dose 12), calculated using the trapezoidal
+linear-up and log-down method.
+c AUCinf: calculated using the trapezoidal linear-up and log-down method.
+d Observed Cmin before last dose (Day 12) in patients who received all their 11 doses.
+a
+
+Source: FDA reviewer
+
+The discrepancy with the Applicant’s assessment for Ctrough before the last dose is likely due to
+the fact the Applicant’s analysis disregarded missing doses or early treatment discontinuations.
+The discrepancies regarding the predicted Cmax, AUC(0-Tlast) and AUCinf was not properly
+addressed by the Applicant after our information request. However, the accuracy of our
+estimations was corroborated by our ability to replicate the Applicant’s PK comparability results
+from the alternative regimens (A, B and C), when simulating with the Applicant’s PK model.
+
+54
+
+Reference ID: 5063936
+
+Figure 15 shows the model-predicted PK profiles for the AGC product (red) and the Lilly product
+(blue), under the PROTECT study 12-day dosing regimen. Teplizumab geometric mean
+concentrations from the AGC product (red) are located at the lower bound of the 90%PI (90%
+prediction interval) of all concentrations (i.e., distribution representing the between-subject
+variability) from the Lilly product (blue shaded area). Therefore, Figure 15 suggests that 50% of
+patients under the AGC product will have concentrations below or as low as the concentrations
+observed in only 5% of patients under the Lilly product.
+Figure 15. Model-Predicted PK Profiles of the AGC Product and the Lilly Product (Reference) in
+the PROTECT Sub-Study
+
+The solid red and blue lines are the geometric means of teplizumab concentrations from the AGC product
+and Lilly product, respectively. The colored shaded areas are the distributions (90% prediction intervals
+[90%PIs]) of teplizumab concentrations for the AGC product (red) and the Lilly product (blue). The dotted
+lines delimiting the shaded areas are the upper and lower bounds of the 90%PIs. The PK profiles are
+generated from the individual (conditional) PK simulations.
+Source: FDA reviewer
+
+55
+
+Reference ID: 5063936
+
+Table 21 shows the FDA reviewer’s evaluation of the proposed alternative regimens A, B or C for
+the AGC products using the FDA reviewer’s PK model for simulations. The PK comparability
+results for exposure matching using conditional (individual) PK simulations are in concordance
+with the population (average) simulations findings. The proposed alternative regimens B and C
+meet the PK comparability criteria for AUCinf, Cmax (after last dose), Ctrough before last dose
+(Ctrough13), and Ctrough after last dose (Ctrough14). Even though the GMR point estimate or
+the lower bound of the 90%CI of the GMR is close to 80%, the applicant’s preferred regimen A
+does not meet the strict PK comparability criteria for Ctrough14, when considering either the
+conditional or the average PK simulations.
+Table 21. Comparison of the Predicted PK Exposure Metrics between the Alternative Regimens
+(for AGC product) and the Reference 14-Day Regimen (for Lilly product)
+GMR (90% CI) a
+AUCinf b
+
+Cmax
+(After last dose)
+
+Ctrough13
+(Before last dose)
+
+Ctrough14
+(After last dose)
+Not reported by
+Applicant
+
+Passes PK
+comparability
+
+Conditional simulations (using PROTECT sub-study patients’ PK parameters)
+Regimen A 0.910 (0.842 – 0.984) 1.065 (1.022 - 1.109) 0.872 (0.795 - 0.958) 0.856 (0.779 - 0.942)
+
+Not
+Ctrough14
+
+Regimen B 0.94 (0.869 - 1.016) 1.101 (1.057 - 1.147) 0.906 (0.826 - 0.995) 0.889 (0.808 - 0.978)
+
+Yes
+
+Regimen C
+
+Yes
+
+1.03 (0.952 - 1.113) 1.089 (1.045 - 1.134) 0.926 (0.843 - 1.016) 0.898 (0.816 - 0.988)
+
+Population (average) simulations c (using typical PK parameters under same ADA conditions)
+Regimen A 0.904 (0.899 - 0.91) 1.034 (1.031 - 1.037) 0.815 (0.809 - 0.821) 0.799 (0.793 - 0.805)
+
+Not
+Ctrough14
+
+Regimen B 0.928 (0.922 - 0.934) 1.066 (1.063 - 1.069) 0.841 (0.835 - 0.847) 0.824 (0.818 - 0.83)
+
+Yes
+
+Regimen C 1.021 (1.015 - 1.027) 1.055 (1.052 - 1.058) 0.861 (0.855 - 0.867) 0.834 (0.828 - 0.841)
+
+Yes
+
+GMR (90%CI): geometric mean ratio (90% confidence interval), derived from Student’s t-test (with Levene Test for
+equality of variances) on natural log-transformed of PK exposure metrics.
+b AUCinf: calculated using the trapezoidal linear-up and log-down method.
+c Average or population simulations: Monte-Carlo simulations (500 replicates of the PROTECT sub-study dataset,
+with subjects’ BSA and weight and no ADA titers) were performed to calculate the uncertainty (90%CI) of the GMR,
+using Student’s t-test (with Levene Test for equality of variances) on natural log-transformed median PK exposure
+metrics calculated from each replicate (500 replicates).
+a
+
+Figure 16 shows the model-predicted median PK profiles from the AGC product under the
+proposed 3 alternative 14- day regimen and from the Lilly product (reference) under the
+56
+
+Reference ID: 5063936
+
+reference (Herold, i.e., TN-10 study) 14-day regimen. Regimen C does not provide additional
+advantages compared to Regimen B in term of matching the Lilly product reference exposure. In
+fact, the GMR and their 90%CI for AUCinf, Cmax (after last dose) and Ctrough14 are numerically
+very close (Table 21, Figure 16). However, regimen C is associated with unnecessarily higher
+exposure and Cmax values between Day 2 to 4 compared regimen B (Figure 16), as regimen C
+doses are 3.4 to 1.7-fold the doses in regimen B between Day 2 to 4 (Table 18).
+Regimen B was considered the most appropriate regimen for the AGC product in order to much
+the overall exposure to the Lilly product under the reference (Herold) regimen. However, on Day
+(b)
+1 of regimen B, the dose of (4) µg/m2 was found not optimal to meet the PK comparability criteria
+for Cmax (after first dose) and AUC[0-24h], with a GMR (90%CI) of 0.796 (0.777 - 0.815) and 0.818
+(b)
+(b)
+(0.795 - 0.843), respectively. On Day 1 of regimen B, a dose of (4) µg/m2 instead of (4) µg/m2
+allows to meet the PK comparability criteria for Cmax and AUC[0-24h] based on conditional PK
+simulations, with a GMR (90%CI) of 0.879 (0.855 - 0.905) and 0.893 (0.868 - 0.92), respectively
+(Table 22).
+Figure 16. Model-Predicted PK Profiles of the AGC Product (Alternative Regimens) and the Lilly
+Product (Reference Regimen)
+
+Reference 14-day regimen (daily dose): 51 – 103 – 207 – 413 – (825 x 10 days) µg/m2.
+(b) (4)
+Regimen A (daily dose):
+Regimen B (daily dose):
+Regimen C (daily dose):
+Source: FDA reviewer
+57
+
+Reference ID: 5063936
+
+The modified regimen B (regimen D), with the daily dosing of 65 – 125 – 250 – 500 – (1030 x 10
+days) µg/m2 is considered the optimal regimen for exposure matching with the Lilly product
+(under the reference 14-day regimen). Figure 17 (A and B) shows the model-predicted PK profiles
+for the AGC product (red) and the Lilly product (blue), under the regimen D and the reference
+(Herold or TN-10 study) 14-day regimen, respectively. The average and the variability in
+teplizumab product are overlapping during the 14-day treatment.
+Figure 17. Model-Predicted PK Profiles of the AGC Product (Regimen D) and the Lilly Product
+(Reference Regimen), on Arithmetic scale (A) and semi-logarithmic scale (B).
+(A)
+
+The solid red and blue lines are the geometric means of teplizumab concentrations from the AGC product
+(regimen B) and Lilly product (reference regimen), respectively. The colored shaded areas are the
+distributions (90% prediction intervals [90%PIs]) of teplizumab concentrations for the AGC product (red)
+and the Lilly product (blue). The dotted lines delimiting the shaded areas are the upper and lower bounds
+of the 90%PIs. AGC product dosing is regimen D (14-day daily dosing): 65 – 125 – 250 – 500 – (1030 x 10
+days) µg/m2. Lilly product dosing is the reference 14-day dosing used in the pivotal TN-10 study, with a
+daily dosing of 51 – 103 – 207 – 413 – (825 x 10 days) µg/m2. The PK profiles are generated from the
+individual (conditional) PK simulations.
+Source: FDA reviewer
+Continued next page
+58
+
+Reference ID: 5063936
+
+Figure 17 continued
+(B)
+
+The solid red and blue lines are the geometric means of teplizumab concentrations from the AGC product
+(regimen B) and Lilly product (reference regimen), respectively. The colored shaded areas are the
+distributions (90% prediction intervals [90%PIs]) of teplizumab concentrations for the AGC product (red)
+and the Lilly product (blue). The dotted lines delimiting the shaded areas are the upper and lower bounds
+of the 90%PIs. AGC product dosing is regimen D (14-day daily dosing): 65 – 125 – 250 – 500 – (1030 x 10
+days) µg/m2. Lilly product dosing is the reference 14-day dosing used in the pivotal TN-10 study, with a
+daily dosing of 51 – 103 – 207 – 413 – (825 x 10 days) µg/m2. The PK profiles are generated from the
+individual (conditional) PK simulations.
+Source: FDA reviewer
+
+Table 22 summarizes the daily PK comparability results between the AGC product under the
+adjusted dosing regimen (regimen D) and the Lilly product under the reference 14-day regimen
+(used in the pivotal TN-10 study). Regimen D corrects the difference in exposure between
+products. The Cmax after dose 4 to dose 6 are numerically slightly above the strict PK
+comparability criteria. However, the Cmax values resulting from dose 4 to dose 6 are well below
+those observed later on during the 14-day treatment from both products. Therefore, these higher
+Cmax values do not represent a concern regarding the potential acute toxicity or adverse
+reactions of the proposed regimen D.
+
+59
+
+Reference ID: 5063936
+
+Table 22. Comparison of the Daily PK exposure Metrics between the AGC product (Regimen D)
+and the Lilly product (Reference Regimen)
+Time
+(end of Day)
+
+GMR (90% CI)
+AUC[0-Tlast]
+
+Ctrough
+
+Cmax after each dose
+
+24 h (Day 1)
+
+0.893 (0.868 - 0.92)
+
+0.927 (0.892 - 0.963)
+
+0.879 (0.855 - 0.905)
+
+48 h (Day 2)
+
+0.918 (0.889 - 0.948)
+
+0.915 (0.876 - 0.956)
+
+0.998 (0.975 - 1.021)
+
+72 h (Day 3)
+
+0.963 (0.929 - 0.998)
+
+0.888 (0.844 - 0.934)
+
+1.222 (1.199 - 1.245)
+
+96 h (Day 4)
+
+1.007 (0.968 - 1.048)
+
+0.888 (0.836 - 0.944)
+
+1.259 (1.24 - 1.279)*
+
+120 h (Day 5)
+
+1.072 (1.028 - 1.118)
+
+1.013 (0.94 - 1.092)
+
+1.264 (1.248 - 1.281)*
+
+144 h (Day 6)
+
+1.09 (1.043 - 1.14)
+
+1.032 (0.954 - 1.115)
+
+1.24 (1.218 - 1.262)*
+
+168 h (Day 7)
+
+1.091 (1.041 - 1.144)
+
+1.017 (0.939 - 1.101)
+
+1.219 (1.193 - 1.246)
+
+192 h (Day 8)
+
+1.085 (1.033 - 1.14)
+
+0.999 (0.921 - 1.084)
+
+1.199 (1.169 - 1.229)
+
+216 h (Day 9)
+
+1.076 (1.022 - 1.134)
+
+0.981 (0.902 - 1.067)
+
+1.181 (1.148 - 1.214)
+
+240 h (Day 10)
+
+1.067 (1.011 - 1.126)
+
+0.962 (0.883 - 1.049)
+
+1.164 (1.129 - 1.201)
+
+264 h (Day 11)
+
+1.057 (0.999 - 1.117)
+
+0.944 (0.864 - 1.031)
+
+1.148 (1.11 - 1.187)
+
+288 h (Day 12)
+
+1.046 (0.987 - 1.108)
+
+0.925 (0.844 - 1.013)
+
+1.132 (1.092 - 1.174)
+
+312 h (Day 13)
+
+1.035 (0.975 - 1.099)
+
+0.907 (0.826 - 0.995)
+
+1.116 (1.074 - 1.16)
+
+336 h (Day 14)
+
+1.025 (0.964 - 1.089)
+
+0.889 (0.809 - 0.978)
+
+1.101 (1.057 - 1.147)
+
+672 h (Day 28)
+
+0.953 (0.883 - 1.028)
+
+0.74 (0.669 - 0.818)*
+
+NA
+
+AUCinf
+0.94 (0.87 - 1.016)
+NA
+NA
+* The 90%CI of the Geometric mean ratio (GMR) outside the PK comparability criteria of 80% to 125%.
+NA: not applicable.
+Source: FDA reviewer
+
+Table 22 shows that even with the adjusted dosing regimen (regimen D) for the AGC product, the
+Ctrough at the end of day 28 (or Day 29) after the 14-day treatment will still be below the strict
+PK comparability criteria with a GMR of 74%. The PK difference might be due to the higher
+proportion of NAb on Day 28 for the AGC product. However, the AUC[0-Day 29] is well within the
+PK comparability criteria with a GMR of 95.3%. Figure 17 (B) shows that Ctrough on Day 29 from
+the AGC product (under the adjusted regimen D) and the Lilly product (under the refence 14-day
+regimen) are largely overlapping, suggesting that the PK difference in Ctrough on Day 29 is likely
+not clinically meaningful. In fact, Figure 18 shows that even at a higher PK difference on Day 29
+(GMR of 58% before dose adjustment) the CD3 target engagement by teplizumab on CD3+ T cells
+(expressed as % CD3 occupancy) was comparable between the AGC and Lilly product in PROTECT
+sub-study.
+60
+
+Reference ID: 5063936
+
+Figure 18. Teplizumab Occupancy (%) on CD3+ T Cells by Product in the PROTECT Sub-Study
+
+Note: the last planned sampling day for CD3+ occupancy assessment was variable and was restricted to
+sampling times ranging for Day 29 to Day 30 for adequate comparison.
+Source: FDA reviewer (based on the lasted combined PD dataset pkpdnonmemprotect17feb22.xpt)
+
+61
+
+Reference ID: 5063936
+
+Signature Page 1 of 1
+
+-------------------------------------------------------------------------------------------This is a representation of an electronic record that was signed
+electronically. Following this are manifestations of any and all
+electronic signatures for this electronic record.
+-------------------------------------------------------------------------------------------/s/
+-----------------------------------------------------------HARISUDHAN THANUKRISHNAN
+10/20/2022 12:07:18 PM
+ELYES DAHMANE
+10/20/2022 12:08:28 PM
+JUSTIN C EARP
+10/20/2022 12:37:40 PM
+JAYABHARATHI VAIDYANATHAN
+10/20/2022 12:39:09 PM
+HAO ZHU
+10/20/2022 12:45:08 PM
+SHIRLEY K SEO
+10/20/2022 01:03:40 PM
+
+Reference ID: 5063936
+
+Office of Clinical Pharmacology Review
+
+NDA or BLA Number
+Link to EDR
+Submission Date
+Submission Type
+Brand Name
+Generic Name
+Dosage Form and Strength
+Route of Administration
+Proposed Indication
+Applicant
+Associated IND
+OCP Review Team
+OCP Final Signatory
+
+BLA 761183
+\\CDSESUB1\evsprod\BLA761183\0003
+02 Nov 2020
+351(a), Priority review (Rolling submission)
+Tzield
+Teplizumab
+Solution 1 mg/mL
+Intravenous infusion
+Delay of clinical type 1 diabetes in at-risk individuals
+Provention Bio, Inc.
+102629 and 100262
+Harisudhan Thanukrishnan Ph.D., Elyes Dahmane
+Ph.D., Manoj Khurana Ph.D., Justin Earp Ph.D.
+Shirley Seo Ph.D.,
+Director, Division of Cardiometabolic and Endocrine
+Pharmacology
+
+1
+
+Reference ID: 5080506
+4788416
+
+Table of Contents
+1. EXECUTIVE SUMMARY .............................................................................................................................. 3
+1.1 Recommendations .............................................................................................................................. 3
+1.2 Post-Marketing Requirements and Commitments ............................................................................. 4
+2. SUMMARY OF CLINICAL PHARMACOLOGY ASSESSMENT ......................................................................... 4
+2.1 Pharmacology and Clinical Pharmacokinetics..................................................................................... 4
+2.2 Dosing and Therapeutic Individualization........................................................................................... 5
+2.2.1 General dosing ............................................................................................................................. 5
+2.2.2 Therapeutic individualization....................................................................................................... 5
+2.3 Outstanding Issues .............................................................................................................................. 6
+2.4 Summary of Labeling Recommendations ........................................................................................... 6
+3. COMPREHENSIVE CLINICAL PHARMACOLOGY REVIEW ............................................................................ 6
+3.1 Overview of the Product and Regulatory Background ....................................................................... 6
+3.2 General Pharmacology and Pharmacokinetic Characteristics ............................................................ 7
+3.3 Clinical Pharmacology Review Questions ........................................................................................... 9
+3.3.1 To what extent does the available clinical pharmacology information provide supportive
+evidence of effectiveness? .................................................................................................................... 9
+3.3.2 Is the proposed dosing regimen appropriate for the general patient population for which the
+indication is being sought? ................................................................................................................. 11
+3.3.3 Is an alternative dosing regimen and/or management strategy required for subpopulations
+based on intrinsic factors? .................................................................................................................. 14
+3.3.4 Are there clinically relevant food-drug or drug-drug interactions and what is the appropriate
+management strategy? ....................................................................................................................... 14
+4. APPENDICES ............................................................................................................................................ 17
+4.1 Summary of Bioanalytical Method Validation and Performance ..................................................... 17
+4.2 Clinical PK and/or PD Assessments ................................................................................................... 20
+4.3 Summary of Immunogenicity Assessment ........................................................................................ 25
+4.4 Population PK and/or PD Analyses ................................................................................................... 27
+4.4.1 Applicant’s Population PK Analysis ............................................................................................ 27
+4.4.2 Population PK analysis from the PK bridging study (PRV-031-004) ........................................... 54
+4.4.3 Exposure-PD response analysis from Protégé study ................................................................. 66
+2
+
+Reference ID: 5080506
+4788416
+
+1. EXECUTIVE SUMMARY
+Provention Bio submitted this original BLA 761183 seeking approval of teplizumab dosed as an
+intravenous infusion for the delay of T1 diabetes (T1D) in subjects at-risk (also presumed as Stage 2
+T1D). T1D is a lifelong disorder leading to uncontrolled blood glucose elevation (hyperglycemia). T1D is a
+progressive disease, thought to result from an autoimmune destruction of the insulin-producing β-cells
+of the pancreas.
+Currently there are no approved treatments for the delay of T1D.
+Teplizumab (also known as PRV-031, hOKT3γ1 [Ala-Ala], and MGA031) is a humanized 150 KD
+monoclonal antibody (mAb) that binds to the CD3-ε epitope of the T cell receptor. In addition to the
+(b) (4)
+proposed treatment for delay in T1D,
+The pivotal study for this BLA is the At-Risk TN-10 study, in which 76 individuals (8-45 y old) with
+confirmed Stage 2 T1D were randomized to receive one course of 14-day treatment with either
+teplizumab (n=44) or placebo (n=32) . Majority (~72%) of the participants were children (<18 y) and
+more than half were siblings of subjects with clinical (Stage 3) T1D. Teplizumab treatment delayed the
+time to diagnosis of clinical T1D compared with placebo (43% of teplizumab treated subjects eventually
+developed T1D vs 72% of placebo). The annualized rates of diagnosis of clinical T1D were 14.9% per year
+in the teplizumab group and 35.9% per year in the placebo group.
+In addition to the single pivotal study, the submission draws supportive evidence for efficacy using levels
+of c-peptide as a biomarker which was extrapolated from the larger Phase 2/3 studies previously
+conducted in Stage 3 T1D patients in Protégé and Encore. The primary source of clinical pharmacology
+information is also from Protégé and Encore studies. In addition, applicant had initiated manufacturing
+of commercial product from a new batch of drug substance at a new facility (AGC Biologics) and
+submitted results from a bio-comparability study to establish equivalence between the clinical (Eli Lilly
+and MacroGenics) and the to-be-marketed product (manufactured by AGC Biologics). The results of the
+pivotal bio-comparability study failed to establish an appropriate bridge between the clinical trial and
+(b) (4)
+the to-be-marketed teplizumab products. The applicant also acknowledged
+if approved.
+
+1.1 Recommendations
+The Office of Clinical Pharmacology, Divisions of Cardiorenal and Endocrine Pharmacology and
+Pharmacometrics reviewed the information contained in BLA 761183. The OCP review team
+recommends a complete response (CR) until the sponsor can adequately address the issue related to
+lack of comparability between the clinical trial and to-be-marketed drug products. The key review issues
+with specific recommendations and comments are summarized below:
+3
+
+Reference ID: 5080506
+4788416
+
+Review Issue
+
+Recommendations and Comments
+
+Pivotal or supportive evidence of
+effectiveness
+
+The primary evidence for effectiveness was from a single pivotal
+randomized, placebo-controlled Phase 2 study (TN-10) in at-risk
+population for Type 1 diabetes (pre-symptomatic diabetics/ stage
+2) who received a single 14-day course of teplizumab
+Teplizumab dosing is based on body surface area (BSA) and is
+administered as a 30-minute intravenous infusion once daily, as per
+the following schedule for a total of 14 days with a cumulative dose
+of 9034 µg/m2 (~9 mg/ m2; 18 mg in a typical subject weighing 70
+kg and a BSA of 1.92m2.
+Day 1:
+51 μg/m2
+Day 2:
+103 μg/m2
+Day 3:
+207 μg/m2
+Day 4:
+413 μg/m2
+Days 5-14: 826 μg/m2
+No dose modifications are recommended in patient subgroups.
+Intrinsic/extrinsic factors are not expected to impact the exposure
+to this monoclonal antibody.
+The labelling language proposed by the applicant is generally
+adequate.
+
+General dosing instructions
+
+Dosing in patient subgroups
+(intrinsic and extrinsic factors)
+Labeling
+Bridge between the to-bemarketed and clinical trial
+formulations
+
+A PK bridging study in healthy volunteers was conducted to
+compare the to-be-marketed formulation with the clinical trial
+formulation. The results failed to show PK comparability between
+the two products as their total and partial exposures differed
+significantly, despite a comparable Cmax after the 30-minute
+intravenous infusion.
+
+Other (specify)
+
+None
+
+1.2 Post-Marketing Requirements and Commitments
+None
+
+2. SUMMARY OF CLINICAL PHARMACOLOGY ASSESSMENT
+2.1 Pharmacology and Clinical Pharmacokinetics
+Teplizumab is a humanized monoclonal antibody that targets the cluster of differentiation 3 (CD3)
+antigen, which is co-expressed with the T-cell receptor (TCR) on the surface of T lymphocytes. Though
+the mechanisms of action of teplizumab for the proposed indication has not been confirmed, it appears
+to involve a weak agonistic activity on signaling via the TCR-CD3 complex which is thought to expand
+regulatory T-cells and reestablishment of immune tolerance.
+4
+
+Reference ID: 5080506
+4788416
+
+The clinical pharmacokinetics of teplizumab is summarized below:
+The 14-day intravenous dosing regimen involves a 4-day ramp up followed by repeated doses of 826
+µg/m2 on days 5-14. The repeated intravenous infusions result in increasing serum drug levels and
+steady state will not be achieved at the end of dosing on Day 14. The average accumulation ratio for
+AUC between Day 5 and Day 14 (the first and the last day with the full dose administration) is 3.4. The
+predicted mean (±SD) total AUC for the 14-day dosing regimen is 6421 ± 1940 ng•day/mL with Cmax
+and Cmin of 826 ± 391 and 418 ± 225 ng/mL, respectively on Day 14.
+Distribution:
+The estimated mean central and peripheral volume of distribution from population PK analysis is 3.4 and
+6.9 L, respectively.
+Elimination:
+Teplizumab clearance is likely driven by the binding to the CD3 receptors on the surface of T cells and
+this target mediated drug disposition (TMDD) leads to saturable elimination and non-linear relationship
+between the dose and exposure. Teplizumab is expected to be degraded into smaller peptide fragments
+by catabolic pathways. The mean clearance of teplizumab was estimated from population PK analysis to
+be 2.3 L/day and terminal half-life is ~4 days.
+
+2.2 Dosing and Therapeutic Individualization
+2.2.1 General dosing
+The applicant has proposed a body surface area (BSA) based single 14-day course of teplizumab
+administered as a daily IV infusion over 30 minutes. Patients will receive doses of 51 µg/m2, 103 µg/m2,
+207 µg/m2, and 413 µg/m2 on Days 1–4, respectively, and one dose of 826 µg/m2 on each of Days 5–14,
+for a total cumulative dose of 9034 µg/m2 (~9 mg/m2). Less than 10% of the total dose is given on the
+first 4 days of ramp-up as a precaution to avoid adverse reactions, e.g., cytokine release syndrome.
+This single 14-day course administering a total of 9 mg/m2 teplizumab dose was the only dosing regimen
+that was evaluated in the pivotal study, which also was the single pivotal study evaluating teplizumab
+for the proposed indication- delay in subjects at-risk for type 1 diabetes. The proposed regimen appears
+safe and effective based on this pivotal study result (also see Statistical and Clinical reviews).
+2.2.2 Therapeutic individualization
+No therapeutic individualization is warranted for teplizumab based on intrinsic or extrinsic factors.
+Teplizumab is expected to be catabolized into smaller peptides and is not expected to inhibit or induce
+major CYPs or transporters. Exposure to teplizumab after BSA-based regimen was found to be
+independent of age and body weight.
+
+5
+
+Reference ID: 5080506
+4788416
+
+2.3 Outstanding Issues
+At this time, establishing comparability of the commercial to-be-marketed drug product with clinical trial
+product is an outstanding issue that may likely not get resolved within the current review cycle. A
+potential action plan to address this issue is currently not known and is pending further discussions with
+the applicant.
+
+2.4 Summary of Labeling Recommendations
+General labeling recommendations were provided to improve the clarity and relevance of clinical
+pharmacology information conveyed to the healthcare provider. Additional details that summarized
+pharmacokinetic or estimated parameters from supporting studies were deemed non-essential and
+were recommended for removal from the label. A statement mentioning the lack of dose- or exposureresponse relationship for the proposed indication was also included.
+
+3. COMPREHENSIVE CLINICAL PHARMACOLOGY REVIEW
+3.1 Overview of the Product and Regulatory Background
+Teplizumab [also referred to as to as PRV-031, MGA031, or
+311] is a recombinant humanized
+monoclonal antibody (mAb). The antibody is expressed from a genetically engineered, stable Chinese
+hamster ovary (CHO) cell line in a chemically defined medium. The teplizumab drug substance for
+(b) (4)
+studies conducted by MacroGenics was manufactured by MacroGenics (2005-2006) and Eli Lilly,
+. Since 2019, AGC biologics had taken up the manufacturing of the drug substance
+for the clinical and commercial formulations.
+(b) (4)
+
+Early non-clinical and Phase 2 trials in Stage 3 T1D were conducted between 1999-2005 by academic
+investigators and academic consortia, including the Immune Tolerance Network and Type 1 Diabetes
+TrialNet. In 2005, teplizumab was acquired by MacroGenics and in collaboration with Eli Lilly, continued
+the clinical development program which included 2 Phase 3 trials (Protégé and Encore) to investigate
+the preservation of beta cell function in newly diagnosed T1D.
+1. Protégé study (CP-MGA031-01) was conducted between 2007 and 2011
+2. Protégé Extension study (CP-MGA031-02) was conducted between 2009 and 2011
+3. Encore study (CP-MGA031-03) was conducted between 2009 and 2012
+The applicant (Provention Bio) has taken up the clinical development of teplizumab since May 2018. The
+applicant is also developing teplizumab for the treatment of newly diagnosed type 1 diabetes (Stage 3)
+T1D. Of the 10 completed T1D clinical trials, 9 were conducted in Stage 3 T1D and 1 was conducted in
+Stage 2 T1D. The Stage 2 study (TN-10, ISCT-MGA031-005) in the at-risk population forms the basis for
+the BLA (pivotal study) with supportive efficacy and safety data from the Stage 3 studies.
+Key regulatory milestones related to the BLA submission are listed below:
+
+6
+
+Reference ID: 5080506
+4788416
+
+Source: Figure 48, Protégé Clinical Study Report
+
+Figure 1. Mean CD3 occupancy (coating) levels on CD4+ and CD8+ T cells during follow up period in the
+Protégé study
+The downstream effects after teplizumab dosing included a transient and reversible lymphopenia and
+changes in the T-cell subsets resulting from the CD3 binding of teplizumab. The mechanism of
+teplizumab induced lymphopenia is not known but is hypothesized to result from a cytokine-mediated
+margination of lymphocytes to the blood vessel wall rather than depletion. The lymphocyte nadir is
+observed during the 5th day of the 14-day course and starts to recover on the 6thday while treatment is
+continued with values typically returning to approximately 70% of baseline values on Day 14 and
+10
+
+Reference ID: 5080506
+4788416
+
+generally resolved on Day 28. The total CD4+ and CD8+ lymphocyte nadirs were also on Day 5, just like
+the total lymphocytes with a recovery in counts occurring with continued dosing.
+Further, the Full 14-day regimen also seems to draw its support from the exploratory analyses in the
+Protégé study, which indicated that the 14-day regimen appeared to preserve c-peptide secretion better
+when compared to the placebo or other dosing regimens, as shown in the Figure 5. The treatment effect
+on c-peptide was larger in younger children (8-11 y) and under earlier treatment initiation (≤6 weeks
+after diagnosis of T1D). The c-peptide effect in newly diagnosed T1D subjects at 2 years of follow-up was
+not observed in the 1/3rd or 6-day regimens. Hence, the Full 14-day dosing regimen was further
+evaluated in pivotal and other ongoing trials.
+Overall, while there were temporal changes in the PD markers following teplizumab treatment in the
+clinical trials, there is no clear relationship that is established for teplizumab exposure or any of the
+above PD markers to efficacy outcomes such as measures of c-peptide AUCs or the time to delay in
+onset of T1D in newly diagnosed T1D or in subjects at-risk for T1D, respectively.
+
+Source: Figure 4.1.5, Integrated Summary of Immunogenicity figures
+
+Figure 2. Comparison of C-peptide change from baseline over time for the evaluated dosing Regimen
+in Protégé study
+
+3.3.2 Is the proposed dosing regimen appropriate for the general patient population for which
+the indication is being sought?
+Yes, the proposed body-surface area (BSA) based single 14-day dosing regimen seems appropriate.
+Subjects at-risk for T1D (Stage 2) will receive doses of 51 µg/m2, 103 µg/m2, 207 µg/m2, and 413 µg/m2
+on Days 1–4, respectively, and one dose of 826 µg/m2 on each of Days 5–14, administered as an
+intravenous infusion over 30 minutes. The cumulative 14-day dose is 9034 µg/m2 (~9 mg/m2), but less
+than 10% of the total dose will be given on the first 4 days (ramp-up period) as a precaution to avoid
+adverse reactions, e.g., cytokine release.
+11
+
+Reference ID: 5080506
+4788416
+
+The proposed dosing regimen was evaluated in a single pivotal efficacy trial for delay of the T1D in
+subjects at-risk for T1D (TN-10), a population considered to have an unmet medical need. The additional
+information to support the selected regimen were derived from the Protégé and encore studies, that
+evaluated different dosing regimens of teplizumab in newly diagnosed (Stage 3) T1D patients. In the
+Protégé and Encore studies, three regimens of teplizumab along with placebo were tested in a
+randomized blinded fashion. The 3 dosing regimens were: Full 14-day regimen (cumulative dose of ~9.0
+mg/m2), One-third 14-day regimen (cumulative dose of ~3 mg/m2) and Full 6-day regimen (cumulative
+dose of ~2.4 mg/m2). The same 6-or 14-day course of treatment were repeated at Month 6 (course 2).
+Though the primary endpoint was not met in the protégé study and that leading to the early termination
+of the encore study, various exploratory analyses indicated the Full 14-day regimen preserved c-peptide
+secretion better and showed larger treatment effects in younger children (8-11 y) and under earlier
+treatment initiation (≤6 weeks after diagnosis of T1D) when compared to the placebo or other dosing
+regimens. The c-peptide benefit in newly diagnosed T1D subjects at 2 years of follow-up was not
+observed in the 1/3rd or 6-day regimens. In addition, only the Full 14-day regimen resulted in the
+maximal CD3 occupancy and modulation (Refer section 3.3.1). Hence, only a single course of Full 14-day
+dosing regimen was further advanced for the pivotal TN-10 study. The overall safety profile of this
+dosing regimen was acceptable with the most common adverse events in T1D patients being transient
+lymphopenia and rash which resolved spontaneously.
+Subjects at-risk for T1D were chosen for the pivotal TN-10 study because of analyses from supporting
+studies that indicated an increased probability of response to teplizumab in patients with a higher
+baseline c-peptide and lower baseline insulin and HbA1c (indices of preserved beta-cell function).
+Hence, the intervention with teplizumab at Stage 2 or “prediabetic” stage was predicted to be more
+effective than intervention in Stage 3 patients with frank hyperglycemia (indicative of further
+deterioration in beta cell function). The BSA-based 14-day regimen was found to normalize the exposure
+across the body weights and total exposure of teplizumab was also found to be independent of age.
+Appropriateness of the BSA based dosing as per the TN-10 study findings:
+The proposed dosing regimen is supported by delayed time to Stage3 (clinical T1D) in the TN-10 study,
+as the median times to T1D was significantly delayed in teplizumab treated subjects (48.4 vs 24.4
+months in the placebo) which resulted in lower annualized rates of clinical T1D development (14.9% vs
+35.9% per year for the teplizumab and placebo groups, respectively). The effect of teplizumab on
+preservation of c-peptide was further evaluated by meta-analysis of data from the pivotal and
+supporting studies as a confirmatory evidence for BLA approval (Refer to statistical and clinical reviews
+for BLA 761183).
+
+12
+
+Reference ID: 5080506
+4788416
+
+Kaplan-Meier estimates of the proportion of participants who were without clinical diabetes. The overall hazard
+ratio was 0.412 (95% CI: 0.216, 0.783) (p=0.006, two-sided, Cox model). The median time to T1D was 48.4 mos for
+teplizumab group and 24.4 mos for the placebo group. The insert shows the total number of subjects with and
+without clinical T1D at the conclusion of the study.
+Source: Figure 1, Herold K et al; N Engl J Med 2019; 381:603-613; DOI: 10.1056/NEJMoa1902226
+
+Figure 3. Effect of teplizumab treatment on development of T1D following 14-Day Regimen (TN-10
+study)
+Appropriateness of the dose in the context of Immunogenicity and its impact:
+Across all studies, a majority (~60-70%) of study subjects developed anti-drug antibodies (ADA) to
+teplizumab in response to the single 14-day course. The drug clearance was predicted to increase in
+subjects that develop higher ADA levels after the end of 14-day course (HAHA2 = natural logarithm of
+ADA concentrations after 14-day course 1 treatment up to day 120 post-first dose). As per the POPPK
+prediction, for each one unit increase in HAHA2 from the LLOQ of 4, the clearance was predicted to
+increase by 12.2% and by up to 73% (6 times for a 6 unit increase) in a patient with the maximum
+observed HAHA2 of 10 (Refer POPPK review). Overall, the impact of ADA on exposure is predicted to be
+less as the time for onset and increase in ADA levels (> Days 28 post-first dose) seemed to lag behind the
+maximal teplizumab serum concentrations (< Days 28 post-first dose), thereby minimizing the overlap of
+PK and ADA following the proposed single 14-day dosing regimen (course 1).
+However, unlike the pivotal study, most of the supporting and investigator-initiated studies investigated
+a second course of therapy in T1D subjects, where the 14-day regimen was repeated after 6 months.
+13
+
+Reference ID: 5080506
+4788416
+
+Predictions using the data from supporting studies revealed that there was a greater impact of ADA on
+teplizumab exposure (clearance increased by up to 438% in few patients) after the administration of the
+second 14-day course (refer to appendix for detail). However, the ADA status appears not to impact the
+drug’s effect on decline in c-peptide during long-term follow up in T1D patients (see section 3.3.1).
+Owing to small number of subjects evaluated in the pivotal study, it was not possible to make a
+definitive conclusion on any impact of ADA status on time to clinical T1D diagnosis.
+3.3.3 Is an alternative dosing regimen and/or management strategy required for
+subpopulations based on intrinsic factors?
+No therapeutic individualization is required for teplizumab based on intrinsic or extrinsic factors.
+Exposure to teplizumab after BSA-based regimen was found to be independent of age and body weight.
+3.3.4 Are there clinically relevant food-drug or drug-drug interactions and what is the
+appropriate management strategy?
+No. As teplizumab is administered via intravenous route, a food-drug interaction is not expected.
+Teplizumab is expected to be catabolized into smaller peptides and is not expected to inhibit or induce
+major CYPs or transporters. A general caution is advised in considering treatment with concomitant
+medications having adverse event profiles that may overlap with those of teplizumab, such as drugs
+associated with liver function abnormalities, cytopenias, hypotension, or other immunosuppressive
+drugs
+
+3.3.5 Is the to-be-marketed formulation the same as the clinical trial formulation, and if not,
+are there bioequivalence data to support the to-be-marketed formulation?
+The to-be-marketed drug product is manufactured in a different facility from the clinical trial product
+and was not used in the clinical studies. The table provides an overview of drug product and
+bioanalytical methods that was used across the clinical studies.
+Study or use
+
+Drug substance lot
+manufacturer
+
+Teplizumab Assay/
+ADA Assay
+
+Protege
+
+MacroGenics
+
+Old/Old
+
+TN-10
+
+MacroGenics and Eli Lilly
+
+New/New
+
+PK BRIDGING STUDY
+(PRV-031-004)
+
+Eli Lilly and AGC Biologics
+
+New/New
+
+Proposed to-be-marketed
+product
+
+AGC Biologics
+
+New/New
+
+(b) (4)
+Teplizumab was previously manufactured by MacroGenics
+2005-2006) and
+(b) (4)
+Eli Lilly
+2009-2010);
+Source: Table 6, Companion document to PRV-031-004 Study Report
+
+Table 1. An overview of the teplizumab drug substance manufacturer and Assays used in clinical
+studies
+14
+
+Reference ID: 5080506
+4788416
+
+Teplizumab drug substance batches manufactured by Eli Lilly were used to manufacture drug product
+lots used in part of the pivotal and supporting clinical studies. The drug substance manufactured by AGC
+(b) (4)
+Biologics
+are to be used in the to-be-marketed (commercial) product. The same drug
+product manufacturer and manufacturing site was used for the clinical and commercial products.
+A pharmacokinetic (PK) bridging study PRV-031-004 in healthy volunteers (Title: A Phase 1, randomized,
+double-blind, parallel group, single-dose study in healthy subjects to evaluate the biocomparability of
+Teplizumab manufactured at two sites) was performed to evaluate the biocomparability of the
+commercial drug product with the clinical trial drug product. The primary endpoints of the study were
+observed maximum concentration (Cmax) and trapezoidal area under the time-concentration curve (AUC)
+extrapolated to infinity (AUC0-inf) with the criterion that PK bio comparability would be established if the
+90% CIs for the ratio of geometric least square means (GLSMs) of Cmax and AUC0-inf were wholly between
+80% and 125%. The study failed to show PK comparability between the two products as their total and
+partial exposures differed considerably, despite a comparable Cmax after a single IV dose (Figure 9 and
+Table 3). Hence, the current commercial drug product is concluded not to be comparable to the clinical
+trial product.
+
+Data are expressed as mean + standard deviation
+Source: Figure 1, Companion document to PRV-031-004 Study Report
+
+Figure 4. Teplizumab Concentration-Time Profiles Following Single Dose Administration of Teplizumab
+Commercial Product (Test Product) and Clinical Trial Product (Reference Product)
+
+15
+
+Reference ID: 5080506
+4788416
+
+•
+
+The stability of teplizumab in serum was established for 24 months at -70°C or below. The
+study samples were analyzed before 24 months of storage and concentrations of calibration
+standards and at least two-thirds of the overall QC samples were equal to or better than
+15% (20% at the LLOQ) from the supporting bioanalytical report for the Encore study.
+
+METHOD 2: Mesoscale discovery-electrochemiluminescence (TN-10 and PRV-031-004 studies)
+•
+
+•
+
+•
+
+Serum concentrations of teplizumab were determined using the validated Meso Scale
+Discovery’s electrochemiluminescence (MSD-ECL) method with a calibration range of 2.5125 ng/mL from a 40 µl human serum aliquot.
+The assay was validated for precision, accuracy, sensitivity, dilutional linearity, cold storage
+stability (18 months at around -20 °C and -80 °C), freeze thaw stability (5 cycles) and
+interference from hemolysis and lipemia. All standards assayed during validation were
+within their respective target ranges and demonstrated ≤ 15% of deviation from the
+nominal concentrations (≤ 20% for the LLOQ).
+The concentrations of calibration standards and at least two-thirds of the overall QC
+samples were equal to or better than 15% (20% at the LLOQ) from the supporting
+bioanalytical reports. Around 13% and 10% of TN-10 and PRV-031-004 study samples were
+re-assayed, respectively and all the results for the incurred sample reanalysis (ISR) were
+within 30% deviation.
+
+Overall, the methods demonstrate adequate performance to reliably measure the serum concentrations
+of teplizumab. However, following issues related to the conduct and reporting of the bioanalysis during
+study sample analysis were identified and documented:
+a) As per the applicant, the final PK bioanalytical report (study sample analysis report) for the
+(b) (4)
+protégé study couldn’t be found (done at
+but later acquired by Applicant). Hence,
+only a summary document with a tabular listing of concentrations were provided.
+Regarding the lack of report for the protégé study, the Agency had agreed to accept the
+application for filing despite the missing original report, as it was circumstantial and as the
+protégé study data was generated using the same validated assay and laboratory as that of
+the encore study. As no protocol deviations were reported for the study sample analysis,
+the assumption was that the validated method was used without any modifications.
+b) The TN-10 study was conducted from 2011-2019, but all the study samples were analyzed
+only in June 2019. The mean time elapsed between sample collection and date of analysis
+was 6.1 years while the long-term stability was established only for 18 months at around 80 °C. Applicant response to the information request included a listing of the individual
+concentrations against the time after dosing which were in the range of expected values. In
+addition, the distribution of the teplizumab concentrations were found comparable with
+values at similar time points from a more recent study (PROTECT) in which the samples
+were analyzed within the 18-month stability time frame. The sparse concentrations from
+TN-10 study was not a part of the POPPK model and were obtained for verification of serum
+levels on the last 4 days of dosing in a few patients.
+
+18
+
+Reference ID: 5080506
+4788416
+
+•
+
+•
+
+The immunogenicity of teplizumab was evaluated using a validated ELISA method to
+determine the presence of anti-teplizumab antibodies in human serum from the Protégé
+and encore studies. A validated mesoscale discovery-electrochemiluminescence (MSD-ECL)
+bridging assay was used for the ADA determination in the TN-10 and PRV-031-004 studies.
+Assay for neutralizing antibodies was done using a cell-based NAb assay developed and
+(b) (4)
+validated by
+for the Protégé study and later transferred to and validated by
+(b) (4)
+for the TN-10 or PRV-031-004 studies, respectively. In general, the majority
+of ADA were reported to be NAb positive and the overall impact of NAb on PK, PD or safety
+were therefore considered to be the same as that for ADA. For a more in-depth review of
+these assays please refer to the Drug Product review by the Office of Biotechnology
+Products.
+
+Assays for C-peptide:
+The studies included in meta-analyses for c-peptide covered a wide time span ~ 20 years and the
+corresponding testing laboratory, regulatory agencies and assay techniques were different. Some of the
+studies were academic investigator initiated and data from publications were relied upon. The
+methodology and laboratory performing c-peptide analysis was available from the publication and the
+corresponding manuals and validation reports from the laboratory were provided by the applicant.
+The analyses for all studies in the meta-analyses were conducted at central laboratories which were
+certified in accordance with the local requirements for accreditation and used a manufacturer protocol
+that was further validated and approved in-laboratory. The assay performance is expected to be at least
+on par with the performance characteristics provided by the manufacturer.
+The assay methods, instruments and the calibration range are listed in the table.
+Study
+
+Matrix
+
+Assay
+
+Instrument Used
+
+Calibration Curve
+
+TN-10
+
+Serum
+
+2-site immune
+enzymatic colorimetric
+assay
+
+AIA 1800 Immunology
+analyzer
+In January 2015, the
+instrument was changed to
+the AIA 2000 auto-analyzer
+
+0.2 to 30 ng/mL
+
+Wallac Wizard gamma
+counter
+AIA 600 II Immunology
+Analyzer
+In 2007, the instrument
+was changed to the AIA
+1800 Immunology Analyzer
+
+0.05 to 1.0 nM
+(0.15 -3.02 ng/mL)
+
+AIA 600 II Immunology
+Analyzer
+
+0.2 to 30 ng/mL
+
+Study 1
+
+Plasma
+
+Radioimmunoassay
+
+AbATE
+
+Serum
+
+2-site immune
+enzymatic colorimetric
+assay
+
+Delay
+
+Serum
+
+2-site immune
+enzymatic colorimetric
+assay
+19
+
+Reference ID: 5080506
+4788416
+
+0.02 to 30 ng/mL
+
+0.2 to 32 ng/mL
+
+Protégé
+
+Serum
+
+Chemiluminescence
+enzyme immunoassay
+
+Immulite 2000 Immunoassay
+System
+
+0.1 to 20 ng/mL
+
+Encore
+
+Serum
+
+Chemiluminescence
+enzyme immunoassay
+
+Immulite 2000 Immunoassay
+System
+
+0.1 to 20 ng/mL
+
+Source: Applicant response to information request sequence No.24, BLA 761183
+
+Table 4. Summary of assay methods used in clinical studies included for C-peptide meta-analysis
+As listed in the table, the distribution of c-peptide values was found to be comparable across the studies
+with consideration that baseline enrollment criterion was different across studies.
+C-Peptide (nmol/L)
+Mean
+
+Std Dev
+
+Min
+
+Max
+
+Median
+
+Interquartile
+Range
+
+AbATE
+
+0.49
+
+0.42
+
+0.008
+
+4.56
+
+0.40
+
+0.46
+
+Delay
+
+0.49
+
+0.36
+
+0.0
+
+2.60
+
+0.42
+
+0.41
+
+Encore
+
+0.53
+
+0.48
+
+0.015
+
+3.87
+
+0.40
+
+0.50
+
+Protege
+
+0.52
+
+0.56
+
+0.017
+
+6.52
+
+0.36
+
+0.53
+
+Study1
+
+0.36
+
+0.28
+
+0.001
+
+1.90
+
+0.29
+
+0.37
+
+*TN-10 study enrolled stage 2 T1D subjects and did a 2 h oral glucose tolerance test vs 4 h
+mixed meal tolerance test for other studies; TN-10 (Mean: 1.7 nmol/L, min-max: 0.2-8.1
+nmol/L)
+Source: Reviewer generated
+
+Table 5. Distribution of C-peptide values in clinical studies included for C peptide meta-analysis
+Reviewer comment: The bioanalytical methods for teplizumab partially met the criteria for ‘method
+validation’ and ‘application to routine analysis’ set by the ‘Guidance for Industry: Bioanalytical Method
+Development’. The rationale provided for not meeting the specific criterion on sample storage and
+method performance during study sample analysis were accepted and their implications are
+documented in this review. The assays for c-peptide were also found adequate to support the use as an
+efficacy biomarker.
+
+4.2 Clinical PK and/or PD Assessments
+TN-10 (pivotal) study:
+
+20
+
+Reference ID: 5080506
+4788416
+
+In TN-10 study, sparse samples were obtained in a few patients on baseline (Day 0), Days 10, 11, 12 and
+13 of the 14-day regimen. As shown in the figure, a large variability was observed in the reported
+concentrations on each day. However, it was notable that the time points for sampling were not
+consistent, but obtained at random on each day, ranging from a few minutes after start of dosing to the
+end of dosing interval of ~23-24 h, thereby contributing to the variability in the observed plot.
+
+Source: Figure 13, TN-10 (Addendum) Clinical Study Report
+
+Figure 5. Mean (±SD) serum teplizumab concentration by visit in patients on active treatment (N=25)
+in TN-10 study
+
+Source: Figure 16, TN-10 (Addendum) Clinical Study Report
+
+Figure 6. Mean (±95% CI) of lymphocyte counts in response to the 14-day dosing of teplizumab in TN10 study
+PRV-031-004 (Bio comparability study):
+A Phase 1, Randomized, Double-Blind, Parallel Group, Single-Dose Study in Healthy Subjects to Evaluate
+the Bio comparability of Teplizumab (PRV-031) Manufactured at Two Sites
+
+21
+
+Reference ID: 5080506
+4788416
+
+The primary objective of the study was to establish bio comparability, based on pharmacokinetic
+(PK) and pharmacodynamic (PD) parameters, between the test (manufactured by AGC Biologics)
+and reference (manufactured by Eli Lilly) products of teplizumab.
+• The primary endpoints were observed Cmax and AUC0-∞ for the assessment of the bio comparability
+of reference and test products of teplizumab. Fifty (50) subjects per treatment arm (total N = 100)
+were estimated to provide 90% power to assure that the two-sided 90% confidence interval (CI) of
+the ratio of geometric means for Cmax and AUC0-ꝏ will fall wholly within the range of 80-125%.
+These calculations assumed the data are log-normally distributed with an estimated withintreatment standard deviation (SD) of the log-transformed data (coefficient of variation [CV]) of 0.35
+as estimated in the population PK analysis from Protégé study data. The calculations further
+assumed no expected treatment differences existed and a common SD across the 2 treatment
+groups.
+Study conduct:
+•
+
+•
+
+•
+
+•
+
+•
+
+In the study, 100 healthy subjects (18-50 y) were enrolled and analyzed: 51 in the test product
+group, 49 in the reference product group. On Day 1, each subject was randomly assigned, in a 1:1
+ratio and received a single dose of 207 μg/m2 body surface area (BSA) of either the test or
+reference product of teplizumab via intravenous infusion for 30 minutes.
+On Day 1, PK samples were drawn pre-dose and at 0.5 h (end of infusion), and 1, 2, 4, 6, 8, 12, and
+18 h after the start of infusion. On Day 2, samples were drawn at 24 h and 36 h after the start of
+infusion. Additional samples were obtained on Days 3, 5, 8, and 15 (final visit).
+The PD parameter chosen by applicant was the change from baseline in absolute lymphocyte count
+that was obtained at pre-dose, and 8 h after dosing and on Days 2, 3, 5, 8, and 15. The PD
+parameters, AUC0-last, PD and nadir change from baseline, were further assessed.
+The immunogenicity endpoints were comparison of the incidence and titer of ADA and incidence of
+NAb from baseline over time, after dosing of test or reference products of teplizumab. The results
+of ADA and NAb were expressed as frequencies and percentages of positive samples relative to the
+total number of evaluable samples.
+
+Overall, the geometric mean partial AUC0-48 were lower in subjects receiving the test product than those
+in subjects receiving the reference product. Majority of subjects receiving test product did not have
+measurable teplizumab concentrations beyond Day 3.
+
+22
+
+Reference ID: 5080506
+4788416
+
+Source: Figure 14.2.1-3, Figures for PRV-031-004 Study Report
+
+Figure 7. Comparison of individual and geometric means for test and reference products of teplizumab
+in Study PRV-031-004
+The comparison of reduction in circulating lymphocyte counts revealed no differences between the test
+and reference products, as shown in the figure. However, it is also notable that the validity of
+lymphocyte count as a surrogate marker for the proposed indication is not yet established. Hence, PK
+parameters were considered as the sole criterion for the bio comparability assessment from a regulatory
+perspective (for comparison of product’s quality attributes).
+
+23
+
+Reference ID: 5080506
+4788416
+
+The number of ADA positive subjects increased over time. ADA was not observed until Day 5 and Day 8
+for the test and reference products, respectively. By Day 15, most (~62%) of the subjects developed ADA
+on both test and reference products. The titers of ADA to teplizumab from Day 1 through Day 8 ranged
+from 30 to 960 among subjects with positive ADAs. On Day 15, the median ADA titer was higher in the
+subjects receiving the test product (1920) than that in the reference product group (480).
+
+Test=AGC Biologics, Reference=Eli Lilly
+Source: Figure 2, PRV-031-004 Study Report
+
+Figure 8. Mean (SD) of change from baseline in lymphocyte counts in response to a single dose of 207
+µg/m2
+
+24
+
+Reference ID: 5080506
+4788416
+
+4.3 Summary of Immunogenicity Assessment
+The dosing paradigm for teplizumab for the indication in this BLA (delay of clinical T1D in at-risk
+individuals) includes a single 14-day course. Supporting studies in the newly diagnosed T1D indication,
+had dosing schemes with repeat courses (eg, course 1 and course 2) that were administered 6 months
+apart. Majority of ADA analyses were from the protégé study.
+As shown in the figures, there was a small increase in the incidence of ADA in the Cycle 2, however
+higher levels of immunogenicity were seen in the second cycle for the three regimens evaluated in the
+protégé study.
+
+Source: Figure 1.6.1.1, Figures for Integrated Summary of Immunogenicity
+
+Figure 9. Proportion of subjects of positive ADA samples by treatment and timepoint in Protégé
+(Segment 2)
+
+Source: Figure 1.2.2.1, Figures for Integrated Summary of Immunogenicity
+
+Figure 10. Mean ADA titer (Log values) by treatment and timepoint in Protégé (Segment 2)
+25
+
+Reference ID: 5080506
+4788416
+
+As illustrated in the figure, the mean log titers after course 1 of therapy were below 2.5 (corresponds to
+< 6 on a ln scale). As per the POPPK predictions, the impact of ADA values in this range is predicted to be
+< 24% on the clearance following the course 1. Further, the values of ADA during initial 14 days of
+therapy are anticipated to be further lower when the systemic exposure to teplizumab is at its
+maximum.
+Teplizumab PK concentrations after course 1 were similar when compared between the ADA status, in
+contrast to after course 2 of the therapy.
+
+Source: Figure 2.1.1, Figures for Integrated Summary of Immunogenicity
+
+Figure 11. Mean (±SD) line plots for PK concentrations over time by ADA status in Protégé (Segment 2)
+The Encore study was interrupted as the primary endpoint was not achieved in the protégé study.
+However, the ADA data from encore study which also had a repeat dosing course, are in similar lines to
+the protégé study, as shown in the figure. However, due to lower sample size and change of sampling
+plans a meaningful comparison of PK concentrations was not possible.
+
+26
+
+Reference ID: 5080506
+4788416
+
+Source: Figure 1.2.2.1, Figures for Integrated Summary of Immunogenicity
+
+Figure 12. Mean ADA titer (Log values) by treatment and timepoint in Encore
+
+4.4 Population PK and/or PD Analyses
+4.4.1 Applicant’s Population PK Analysis
+
+(b) (4)
+
+27
+
+Reference ID: 5080506
+4788416
+
+38 Pages have been Withheld in Full as b4
+(CCI/TS) immediately following this page
+
+An Emax model (fixed Hill coefficient=1) was used to describe the relationship between total lymphocyte
+change and teplizumab exposure in subjects who received teplizumab (1/3 regimen, 6-day curtailed
+regimen, or full 14-day regimen).
+The parameter estimates are presented in Table 18, and the predicted total lymphocyte change during
+the first 28 days versus teplizumab AUCinf is presented in Figure 30. The Emax model demonstrated that
+as the teplizumab AUCinf increased, the total lymphocyte decline increased, until reaching a plateau.
+According to the model, teplizumab AUCinf responsible for half of the maximum effect (EC50) was
+estimated to be 306.5 ng*day/mL. The estimated EC80, EC90, and EC95 corresponded to teplizumab
+AUCinf of 1226, 2759 and 5824 ng*day/mL, respectively. The teplizumab AUCinf of 1,500 ng*day/mL,
+depicted in Figure 30, corresponds to the EC83 (i.e., 83% of Emax).
+
+Table 18. Parameter Estimates from the Emax Model: Protégé Study (Cycle 1)
+
+Source: Applicant’s Statistical Report of PK/PD/Efficacy Analyses, Table 2, page 4.
+
+The studied exposure-response relationship did not include the data from Encore study population, which
+showed 49% higher teplizumab CL (with expected 49% lower exposure) in all arms compared to the
+Protégé study population (despite similar dosing regimen). An information request was issued to the
+applicant in order to include Encore study data, as a sensitivity analysis. The applicant replicated the
+analysis using the data from both Protégé and Encore studies. The results were similar to the Emax model
+analysis for Protégé study alone. The Emax for Protégé alone versus Protégé and Encore combined were
+21.0 and 20.4 (103 cells*day/μL), respectively. Likewise, the EC50 was 306.5 and 361.9 ng*day/mL for
+Protégé versus Protégé and Encore combined, respectively (Table 19).
+
+Table 19. Parameter Estimates from the Emax Model: Protégé and Encore Studies (Cycle 1)
+
+Source: Applicant’s Response to Request for Information-Part 2, Table 5, page 22.
+
+67
+
+Reference ID: 5080506
+4788416
+
+Figure 30. Teplizumab AUCinf versus Total Lymphocytes Decline Relationship During the First 28 Days
+of Treatment: Protégé Study
+
+Source: Applicant’s Companion Document to PRV-031-004 CSR, Figure 5, page 16.
+
+68
+
+Reference ID: 5080506
+4788416
+
+the reduced dose 14-day regimen (1/3 14-day regimen). The efficacy of the reduced dose in the delay
+of clinical T1D was not studied and the shallow exposure-lymphocyte decline relationship (i.e. absence
+of clear separation in effect between the full 14-day regimen and the other studied doses) does not
+allow to derive a margin of acceptance for PK difference and thus does not provide a compelling
+evidence to claim the bio comparability between products based on this PD marker.
+
+Table 20. Summary of Teplizumab AUCinf from the Protégé Study, in Patients who Received All
+Treatment Doses
+Median (range)
+25th percentile of
+75th percentile of
+Dosing Regimens
+teplizumab AUCinf
+teplizumab AUCinf
+teplizumab AUCinf
+Full 14-day
+
+6076 (2562 - 12696)
+
+4723
+
+7066.2
+
+AGC, Full 14-day
+
+3336 (1407 - 6970)
+
+2593
+
+3879
+
+1/3 14-day
+
+1016 (604 - 1964)
+
+859
+
+1541.4
+
+Full 6-day
+
+1016 (684 - 4814)
+
+859
+
+1142
+
+Table 21. Summary of Expected Percentage of Maximum PD Effect under Teplizumab Exposure from
+the Protégé Study, in Patients who Received All Treatment Doses
+Median (range)
+75th percentile of
+25th percentile of
+Dosing Regimen
+teplizumab AUCinf
+teplizumab AUCinf
+teplizumab AUCinf
+% of maximum effect on lymphocyte count decline
+Full 14-day
+
+95 (89 - 98)
+
+94
+
+96
+
+AGC, Full 14-day
+
+92 (82 - 96)
+
+89
+
+93
+
+1/3 14-day
+
+81 (69 - 94)
+
+78
+
+83
+
+Full 6-day
+
+77 (66 - 87)
+
+74
+
+79
+
+70
+
+Reference ID: 5080506
+4788416
+
+4.4.3.2 Exposure versus C-peptide change form baseline (at 2 years) relationship
+
+Analysis on the relationship between the change from baseline in C-peptide at 2 years and teplizumab
+exposure was conducted from the Protégé study data.
+For the analysis of C-peptide change from baseline at 2 years, data from a 4-hour mixed meal tolerance
+test (MMTT) was used. The natural-log transformed average C-peptide concentrations (computed as
+AUC0-4hours divided by the 4-hour time interval) was used as a measurement for the C-peptide level. The Cpeptide levels used were collected at baseline and Day 728.
+Teplizumab exposure (AUCinf) following the 2nd treatment course (cycle 2) of Protégé study was estimated
+from the final population PK model developed in T1D patients.
+An Emax model (fixed Hill coefficient=1) was used to describe the relationship between C-peptide change
+from baseline and teplizumab exposure in subjects who received teplizumab (1/3 regimen, 6-day curtailed
+regimen, or full 14-day regimen).
+The parameter estimates are presented in Table 22 and the predicted C-peptide change at 2 years versus
+teplizumab AUCinf is presented in Figure 32. The Emax model showed that as the teplizumab AUCinf
+increased, the C-peptide decline decreased (C-peptide levels are better maintained with higher
+teplizumab exposure), until reaching a plateau. According to the model, teplizumab AUCinf responsible
+for half of the maximum effect (EC50) was estimated to be 677 ng*day/mL. The estimated EC80, EC90
+and EC95 corresponded to teplizumab AUCinf of 2710, 6097 and 12871 ng*day/mL, respectively. The
+teplizumab AUCinf of 1,500 ng*day/mL, depicted in Figure 32, corresponded to EC69.
+
+Table 22. Parameter Estimates from the Emax Model: Protégé Study (Cycle 2)
+
+Source: Applicant’s Statistical Report of PK/PD/Efficacy Analyses, Table 4, page 5.
+
+71
+
+Reference ID: 5080506
+4788416
+
+Figure 32. Teplizumab AUCinf versus C-peptide Change From Baseline (At 2 Years) Relationship:
+Protégé Study
+
+Source: Applicant’s Companion Document to PRV-031-004 CSR, Figure 9, page 22.
+Reviewer’s comment: the correct unit for AUCinf is ng*day/mL. The actual treatment period is period 2
+(i.e. Cycle 2), not period 1.
+
+Reviewer’s Assessment on the exposure versus C-peptide change from baseline relationship
+•
+
+•
+
+The exposure-response relationship is very shallow. The Emax parameter (0.186 nmol/L) and the EC50
+parameter (677.4 ng*day/mL) were not appropriately with a lack of precision for all parameters
+(asymptotic 95%CI included zero). This shallow relationship is in line with the applicant analysis from
+the protégé study comparing the change from baseline in C-peptide at week 104 (Day 728) between
+placebo and the different treatment arms (mga031-01-csr-body.pdf report, Table 30).
+The boxplots in Figure 33 shows that the distribution of teplizumab AUCinf, from cycle 2 dosing,
+overlapped between AGC product and Eli Lilly product under the full 14-day regimen. The lower range
+of exposure from the AGC product under the full 14-day regimen also overlapped with the upper
+range exposure from the curtailed (6-day) regimen and the reduced-dose (1/3) 14-day regimen.
+Table 23 provides the estimated distribution of teplizumab AUC under the different dosing regimen,
+and Table 24 provides the expected percentage of maximum PD effect under various teplizumab
+exposure values. The median and 75th percentiles of teplizumab exposure from the curtailed and
+reduced dose regimens provide at least 70% and 76% of the maximum effect of maintaining higher Cpeptide levels. The 25th percentile and median teplizumab exposure from the AGC product under the
+72
+
+Reference ID: 5080506
+4788416
+
+Table 23. Summary of Teplizumab AUCinf from the Protégé Study, in Patients who Received All
+Treatment Doses
+Median (range)
+75th percentile of
+25th percentile of
+Dosing Regimens
+teplizumab AUCinf
+teplizumab AUCinf
+teplizumab AUCinf
+Full 14-day
+
+3358 (745 - 9690)
+
+1579
+
+5517
+
+AGC, Full 14-day
+
+1844 (409 - 5320)
+
+867
+
+3029
+
+1/3 14-day
+
+707 (259 - 2446)
+
+494
+
+967
+
+Full 6-day
+
+841(255 - 1626)
+
+646
+
+1107
+
+Table 24. Summary of Expected Percentage of Maximum PD Effect under Teplizumab Exposure from
+The Protégé Study, in Patients who Received All Treatment Doses
+Median (range)
+75th percentile of
+25th percentile of
+Dosing Regimen
+teplizumab AUCinf
+teplizumab AUCinf
+teplizumab AUCinf
+% of maximum effect on C-peptide change form baseline
+Full 14-day
+
+92 (71- 97)
+
+84
+
+95
+
+AGC, Full 14-day
+
+86 (57- 95)
+
+74
+
+91
+
+1/3 14-day
+
+70 (46- 89)
+
+62
+
+76
+
+Full 6-day
+
+73 (45- 84)
+
+68
+
+78
+
+74
+
+Reference ID: 5080506
+4788416
+
+Signature Page 1 of 1
+
+-------------------------------------------------------------------------------------------This is a representation of an electronic record that was signed
+electronically. Following this are manifestations of any and all
+electronic signatures for this electronic record.
+-------------------------------------------------------------------------------------------/s/
+-----------------------------------------------------------HARISUDHAN THANUKRISHNAN
+04/30/2021 10:21:01 AM
+ELYES DAHMANE
+04/30/2021 10:27:13 AM
+JUSTIN C EARP
+04/30/2021 11:05:23 AM
+MANOJ KHURANA
+04/30/2021 11:25:34 AM
+SHIRLEY K SEO
+04/30/2021 12:14:45 PM
+
+Reference ID: 5080506
+4788416
+
+

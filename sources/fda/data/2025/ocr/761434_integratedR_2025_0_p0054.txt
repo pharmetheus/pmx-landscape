@@ -1,0 +1,51 @@
+BLA 761434
+VOYXACT (sibeprenlimab-szsi)
+
+analysis of the (4)
+ma)
+
+e Two-sided alpha 0.015 (initially allocated)
+
+If uPCR-24h meets statistical criteria at the interim analysis, the alpha of 0.035 will be passed to
+the final analysis of eGFR and in this case, the eGFR will be compared at a 2-sided alpha of
+0.05. The power will be 91%.
+
+oa)
+
+©; based on historical data on the inter- and
+
+intrasubject SD of eGFR, the relationship between changes in urine protein and treatment effects
+on eGFR slope in IgAN patients and the assumed treatment effect on urine protein. Based on
+
+historical data, om)
+oa)
+
+The meta-analysis describing the association of treatment effects on early change in urine protein
+and treatment effects on eGFR slope in IgAN patients by Inker et al. (2021) is referenced in the
+sample size calculation.
+
+Primary Analysis
+
+Analysis Method
+
+The primary efficacy endpoint, ratio of uPCR-24h at 9 months compared with the baseline, will
+be analyzed using an analysis of covariance (ANCOVA) model and the IA FAS #1 dataset. The
+analysis will be performed on log transformed data because uPCR-24h is a right-skewed
+variable. The response variable will be the natural log-transformed ratio of uPCR-24h at 9
+months compared with baseline, denoted as log(uPCR-24h9months/uPCR-24hpasetine). The model
+included treatment group, randomization stratification factors of eGFR and SGLT2i, and log-
+transformed baseline uPCR-24h. Considering the collinearity between the stratification factor of
+uPCR-24h at randomization and the covariate of log-transformed uPCR-24hpasetine, the
+stratification factor of uPCR-24h at randomization is not included in the ANCOVA model,
+consistent with FDA guidance. For the population level summary, the GM of the ratio of
+uPCR-24h at 9 months compared with baseline within each treatment will be presented, which is
+calculated by exponentiating the least-squares (LS) mean and its 95% CI of log-transformed
+data.
+
+The treatment difference will be expressed as a GM reduction, which will be calculated as shown
+in Equation 1.
+
+40
+Integrated Review Template, version 4.0 (11/1/23)
+
+Reference ID: 5701562

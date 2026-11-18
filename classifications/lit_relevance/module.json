@@ -1,0 +1,41 @@
+{
+  "name": "lit_relevance",
+  "version": "2",
+  "question": "Do the authors of this paper fit a population (mixed-effects) model of their own to data, in pharmacology?",
+  "scope": {
+    "PubMed": [
+      "title",
+      "abstract"
+    ],
+    "Europe PMC": {
+      "sections": [
+        "title",
+        "abstract",
+        "methods"
+      ],
+      "fallback": [
+        "title",
+        "abstract",
+        "body"
+      ],
+      "required": [
+        "methods"
+      ],
+      "min_chars": 200
+    }
+  },
+  "text": {
+    "mode": "item"
+  },
+  "values": "values.csv",
+  "rubric": "rubric.md",
+  "reader": {
+    "model": "claude-sonnet-5-5",
+    "max_tokens": 512
+  },
+  "check": {
+    "model": "claude-opus-5-5",
+    "fraction": 0.15,
+    "seed": 20261019
+  }
+}

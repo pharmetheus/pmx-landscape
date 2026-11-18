@@ -1,0 +1,57 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {BLA 761289 and sBLA 761069}
+{IMJUDO, tremelimumab; IMFINZI, durvalumab}
+
+favor of the T300+D arm, which was consistent with the primary OS analysis.
+e In CSR Addendum 1, the Applicant stated that a discrepancy in the survival information for subject
+© was noted on February 8, 2022. To assess the impact of this discrepancy, FDA conducted a
+sensitivity analysis repeating the primary analysis by updating the date of death for this subject. The
+median OS, hazard ratios with Cis, and p-value were unchanged up to rounding error.
+
+e The Kaplan-Meier curves indicate non-proportional hazards and can limit the interpretation of
+treatment effects based on the OS HR estimate alone. FDA considers the landmark OS estimates by
+treatment arms presented by the Applicant to be exploratory analyses only. The point estimate of
+event rates at a fixed time point for a time-to-event endpoint can be misleading because it does not
+represent the entire effect size of treatment and the chosen landmark time is arbitrary. FDA also
+considers the Applicant’s additional sensitivity analyses to examine the proportional hazard
+assumption be exploratory only. The chosen cutoff times for calculating piecewise constant
+treatment effects are arbitrary and hinders the interpretability of the results. FDA performed an
+additional exploratory test to evaluate whether the proportional hazard assumption was violated,
+although there was low power to detect violation of non-proportionality with the available sample
+size. This test failed to detect evidence of non-proportionality.
+
+e FDA agrees with the subgroup analyses results presented by the Applicant. Overall, the subgroup
+analyses comparing T300+D vs sorafenib showed that there were no outlier subgroups and the
+treatment effect was generally consistent with that of the all-randomized patients, with the
+exception of females and HCV-positive patients. Per the Applicant, the subgroup analysis of Etiology
+of liver disease was based on value collected at screening. Based on value collected at
+randomization, the estimated HR for HCV-positive patients was 1.03 (95%: 0.73, 1.45). Among the
+subgroup of patients enrolled in the United States (n=71), the HR was 0.82 (95% Cl: 0.47, 1.43). FDA
+considers the results of subgroup analyses to be exploratory and should be interpreted with caution.
+
+Although the comparison of T300+D vs. sorafenib will serve as the basis for approval, FDA notes that the
+SAP pre-specified a testing hierarchy such that when the OS superiority test for T300+D vs. sorafenib
+was statistically significant, an OS non-inferiority test for D vs. S would be conducted, followed by an OS
+superiority test for durvalumab vs. sorafenib. At the time of final OS analysis (T300+D vs. sorafenib), 573
+events were observed in the durvalumab and sorafenib arms combined. Durvalumab achieved statistical
+non-inferiority to sorafenib based on the Applicant’s pre-specified non-inferiority margin of 1.08. Given
+that the Applicant is not seeking an indication for durvalumab monotherapy, FDA did not conduct a
+detailed assessment of the appropriateness of a non-inferiority claim. Notably, durvalumab did not
+achieve superiority over sorafenib with a 2-sided p-value of 0.0674, which was greater than the pre-
+specified alpha level of 0.0433. FDA sent an IR on August 9, 2022 requesting clarification on how the
+0.0433 alpha boundary was calculated. In response, the Applicant stated that they took a more
+conservative approach towards alpha allocation for the durvalumab vs. sorafenib OS comparisons; they
+treated the type-1 error that would have been allocated to the interim and final analyses of the non-
+inferiority and superiority hypotheses as spent even though OS for durvalumab vs. sorafenib was only to
+be tested at the final analysis per the multiple testing procedure. FDA notes that even with an alpha
+boundary of 0.049 (without accounting for the interim analyses) the superiority test for OS for
+durvalumab vs. sorafenib would have failed. This provided supportive evidence that both components of
+the T300+D combination regimen were needed to achieve a statistically significant OS effect over
+sorafenib.
+
+99
+Version date: July 2021 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant's Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5064925

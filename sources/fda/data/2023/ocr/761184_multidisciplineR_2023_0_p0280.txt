@@ -1,0 +1,43 @@
+BLA 761184
+Ngenla (somatrogon)
+
+e oi2 are the observed variance for sample estimates
+e pi~ N(u, 12)
+© t~N(O, 10), 1/42 ~ Gamma(0.001, 0.001)
+
+The variance should be selected relative to the residual standard deviation from the primary
+analysis model. In general, it should be four to ten times of the residual standard deviation. A flat
+prior with mean 0 and standard deviation of 10 was chosen. This standard deviation is 4 times
+the residual standard deviation and so this assumption would not be influential. Figure 3
+compares the conventional subgroup analysis results of the sample estimate (in blue) and
+Bayesian shrinkage estimate (in red) for the endpoint of annual HV at Month 12. The overall
+treatment effect is 0.34 (95% CI: -0.23, 0.91). Subgroup analysis using Bayesian shrinkage
+estimate exhibits narrower confidence interval, and the shrinkage subgroup estimate is closer to
+the overall mean.
+
+16.3. Trial CP-4-006
+
+16.3.1. Improvement in AHV and HT SDS in OLE
+(Second-Year Treatment)
+
+Table 92. AHV and HT SDS in Subjects Who Completed 1 Year, Trial CP-4-006 (OLE (Total 2 Years
+
+of Treatment))
+Originally Randomized Originally Randomized
+to Somatrogon to Genotropin
+Variable (N=102) (N=102)
+Measure N 91 83
+Mean (SD) 9.10 (1.64) 8.98 (1.82)
+AHV (cm/year) Median 8.85 8.88
+Minimum, maximum 5.55, 14.32 5.51, 13.98
+Mean (SD) ~1.49 (0.90) ~1.35 (0.89)
+HT SDS (cm) Median -1.27 1.28
+Minimum, maximum -3.94, 0.76 -5.16, 0.37
+
+Source: Excerpted from Table 3.1 and Table 3.2 provided in responseto Information Request dated 1020 2021
+Abbreviations: AHV, annualized height velocity; HT SDS, height standard deviation score; OLE, open-label extension; SD, standard
+deviation
+
+178
+
+Reference ID: 4924352

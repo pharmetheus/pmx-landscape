@@ -1,0 +1,68 @@
+BLA 761232 - Multi-disciplinary Review and Evaluation
+TEVIMBRA - tislelizumab-jsgr
+
+Race:
+
+528 (20.3%) White,
+
+1991 (76.7%) Asian,
+
+10 (0.4%) Black or African American
+44 (1.7%) Others
+
+23 (0.9%) Missing
+
+Organ Hepatic (NCI):
+
+Impairment 2182 (84.2%) Normal,
+
+396 (15.3%) Mild Impairment,
+12 (0.5%) Moderate Impairment,
+2 (0.08%) Severe Impairment,
+
+4 (0.15%) Missing
+
+Renal (eGFR):
+
+1223 (47.1%) Normal,
+
+1046 (40.3%) Mild Impairment,
+320 (12.3%) Moderate Impairment,
+5 (0.2%) Severe Impairment,
+
+2 (0.08%) Missing
+Pediatrics (if NA
+any)
+No. of Patients, PK Samples, 14848 measurable serum samples from 2601 subjects
+and BLQ 54 (0.36%) BLO samples
+Covariates Static Age, sex, race, eGFR, Albumin, bilirubin, AST, ALT,
+Evaluated LDH, ECOG, ADA, ADA onset, ADA duration, tumor
+
+size, tumor type.
+
+Time-varying | ADA
+
+Final Model Summary Acceptability
+[FDA’s
+comments]
+
+Software and Version Population PK model parameter Acceptable
+
+estimation and evaluation were
+implemented with NONMEM 7,
+Version 7.4.3 a
+
+Perl-Speaks-NONMEM
+(PsN) Version 4.2 |
+and R 3.5.3 or
+above.
+Model Structure 3-compartment model with first Acceptable
+order elimination from the central
+
+210
+Version date: January 2020 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5345383

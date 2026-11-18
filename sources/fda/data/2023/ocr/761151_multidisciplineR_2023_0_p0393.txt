@@ -1,0 +1,75 @@
+BLA 761151 Multi-disciplinary Review and Evaluation
+BIMZELX (bimekizumab-bkzx) injection, for subcutaneous use
+
+line indicates a ratio of 1. The vertical grey shaded area shows the range from x=0.8 to x=1.25. Six bootstrap samples failed due
+to rounding errors (NONMEM error code = 134) but were retained in the calculations. CL/F: apparent clearance; Cl: confidence
+interval; WT: body weight; ADAb: anti-drug-antibody.
+
+Figure 23: Forest Plot of The Final Bimekizumab Population PK Model Illustrating the Ratio of
+Exposure Metrics
+
+wr=200}
+
+WT= 180.
+WT= 160
+WT= 140
+WT= 120
+WT= 110
+WT= 100.
+wr=90
+
+WT= 80:
+wr= 60
+Female
+AsianiJapanese race.
+
+ADAb positive |
+
+WT = 200
+WT= 180
+WT= 160.
+
+Wr = 140
+WT = 120
+WT= 110
+0
+
+w=
+wre
+w
+
+.
+wr=60
+Femate
+
+AsianiJapanese race
+‘ADAD positive |
+
+Exposure ratio
+
+Source: Figure 22 of PKPD Report. Forest plot of the final bimekizumab population PK model illustrating the ratio of exposure
+metrics (Cav, Cmax and Ctrough ) for the statistically significant covariates with respect to the reference group, based on 200
+bootstrap samples, stratified by 320mg Q4W and 320mg Q8W regimens. The points and the horizontal error bars represent the
+median and 95% Cl of the exposure metric ratio for different covariate groups. The vertical dashed line indicates a ratio of 1.
+The vertical grey shaded area shows the range from x=0.8 to x=1.25. Six bootstrap samples failed due to rounding errors
+(NONMEM error code = 134) but were retained in the calculations. Cav: average concentration; Cmax: maximum concentration;
+Ctrough: trough concentration; Cl: confidence interval; Q4W: every 4 weeks; Q8W: every 8 weeks.
+
+Covariate Effect on PASI Score
+Body Weight Effect on PAS!
+Simulated subpopulations for PASI response included all combinations of the following
+covariate values (resulting in 432 unique subpopulations):
+
+© Weight: 60, 80, 90, 100, 120, 140, 160, 180 or 200 kg.
+
+* Dosage regimen: 320mg Q4W from 0 to 56 weeks or 320mg Q4W from 0 to 12 weeks
+with a switch to320mg Q8W at week 16.
+
+* ADAb status: ADAb negative or ADAb positive
+All study participants were assumed to have the same baseline PASI (18.5) and the region was
+assumed to be Eastern/Central Europe.
+
+243
+Version date: October 12, 2018
+
+Reference ID: 4982337

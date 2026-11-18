@@ -1,0 +1,58 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {BLA 761234}
+Opdualag™ (nivolumab and relatlimab-rmbw)
+
+Figure 49: Applicant - Model Predicted Hazard Ratio of Gr2+ IMAEs in Nivolumab + Relatlimab
+Combination Dose Regimens Relative to Median Cavgd28 of Nivolumab 480 mg Q4W
+
+Regimen
+Covariate
+Categorical = Comparator:Reference (N)
+Continuous = Reference (P05 - P95)
+Rela Cavgd28 (480mg) + N480 [ugimL] Q4W vs. N480 Q4W | 3 1,89 (1.09- 1.77)
+0 (29.4 - 70.1) oe 1.42 (1.09 - 1.86)
+Rela Cavgd28 (80mg) + N240 [ugimL] Q2W vs, N480 Q4w | et 4.92 (1.07 - 1.62)
+0(599- 153) —— 1.96 (1.08 - 1.71)
+Rela Cavgd28 (160mg) + N480 [ugimL] Q4W vs. N4B0 Q4W | oo 1.94 (1.08 - 1.67)
+0(9.37- 22.2) — 41.97 (1.08-1.74)
+03 05 19 20 40
+Hazard Ratio
+Estiraie (Con, Var < Median) ). Estimate (25%Ci): Cominuous (POS
+Estimate (Cont. Var > =Median) 1B Estimate (95%C1): Continuous (P95)
+
+Note: N480: nivolumab 480 mg Q4W
+
+Figure 50: Applicant - Model Predicted Hazard Ratio of Gr3+ DRAEs in Nivolumab + Relatlimab
+Combination Dose Regimens Relative to Median Cavgd28 of Nivolumab 480 mg Q4W
+
+Regimen
+Covariate
+Categorical = Comparator:Reference (N)
+Continuous = Reference (P05 - P95)
+Rela Cavgd28 (480mg) + N480 [ug/ml] Q4W vs. N480 O4W. SS 1.97 (1.34 - 2.9)
+0 (29.4- 70.1) — *——__.2.08 (1.38 - 3.17)
+Rela Cavgd28 (80mg) + N240 [ug/mL] Q2W vs. N480 O4W Ee 1.77 (1.28 - 2.48)
+0 (5.99 - 15.3) a 1.89 (1.92- 2.71)
+Rela Cavgd2e (160mg) + N480 [ug/ml] Q4W vs, N40 Q4W oo 1.89 (1.9- 2.59)
+0 (9.97 - 22.2) —_—- 1.98 (1.33 - 2.82)
+3 oS 10 20 40
+Hazard Ratio.
+Estate (Contac Median) {) Estimate (9590) Continuous (os)
+Estinte (Cont ar >= Median). Ealimate (95%); Continuous (P25)
+
+The FDA’s Assessment:
+The Applicant’s analysis was verified by the reviewer. In the Applicant’s ER safety analysis,
+positive relationships were observed for Gr2+ IMAEs with relatlimab and nivolumab exposure
+and Gr3+ DRAEs with relatlimab exposure. For both Gr2+ IMAEs and Gr3+ DRAEs, the risk was
+similar across the range of relatlimab exposures (Cavg) produced by the studied combination
+dosing regimen in Studies CA224020 and CA224047, supporting a flat E-R relationship over this
+exposure range. Patients with prior immunotherapy had slightly lower risk of Gr2+ IMAEs and
+Gr3+ DRAEs. For patients that received relatlimab 80 mg Q2W, 160 mg Q4W or 480 mg Q4W,
+no clear differences were observed among the different dose groups. For nivolumab, the result
+of ER safety analysis might be limited as patients only received the nivolumab 240 mg Q2W or
+312
+Version date: January 2020 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “The Applicant’s Position” are completed by the Applicant
+and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 4955210

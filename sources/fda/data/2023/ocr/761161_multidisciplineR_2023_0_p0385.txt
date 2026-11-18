@@ -1,0 +1,72 @@
+BLA Multi-disciplinary Review and Evaluation BLA 761161
+PRX-102 pegunigalsidase alfa
+
+15.3.3.
+
+Bioanalytical Methods
+
+PK assay: bioanalytical method for determination of pegunigalsidase alfa concentrations in
+
+human plasma
+
+The Applicant developed and validated an ELISA assay to determine the concentrations of
+pegunigalsidase alfa (PRX-102) in human plasma PK samples collected in studies PB-102-F01
+and PB-102-F02. The validation parameters and performance of the ELISA assay are
+
+summarized in Table 41.
+
+Table 37 Validation Parameters and Performance of the ELISA Assay Used to Determine the
+Concentrations of Pegunigalsidase Alfa in Human Plasma.
+
+Bioanalyticalmethod | The analytical method (Method 30-50-006)(PCL-14-006/R) for pegunigalsidase alfa (PRX-
+
+reviewsummary 102) in human plasma met acceptance criteria in general, with respect to sensitivity,
+precision, accuracy, linearity, and dilutionintegrity, spanning a theoretical concentration
+range of 0.20 ng/mL to 12.5ng/mL. Thestability evaluationsin matrix exceeded the
+recommended acceptance criteria, with the accuracy (%bias) up to 31.2% for overnight at 2-
+8°C, up to 44.7% on ice 4 hours, ranging from -21.2% to 16.8% at -20°C for 2 months, and
+2.4% to 48% at -70°C for 26 months.
+
+Method description Sandwich ELISA format using anti-PRX-102 murine monoclonal antibodies as capture
+antibodies and anti-PRX-102 rabbit antibody as the sandwich antibody; with alkaline
+phosphatase (AP)-conjugated donkey anti-rabbit-IgG antibody.
+
+Materialsused for PRX-102 drug product spikedin normal human plasma pool at the followingconcentrations
+
+calibration curve & (ng/mL): 0.20, 0.39, 0.78, 1.56, 3.13, 6.25, 12.5.
+
+concentration
+
+Validated assay range
+
+0.2 to 12.5 ng/mL (due to minimum required dilution [MRD] of 1:100, 19.95-1250 ng/mL in
+the plasma)
+
+Material used for QCs
+& concentration
+
+PRX-102 drug product spikedin normal human plasma pool.
+QCs: 750, 250, 62.5ng/ml (diluted 1:100 to 7.5, 2.5 and0.625)
+Dilution control (DC): 50,000ng/ml diluted 1:20,000
+
+Minimum required 1:100
+dilutions (MRDs)
+Source & lotof Reference drug pegunigalsidase alfa
+reagents (LBA) SDP00003, Lot 030213, exp. date Jul/2014, Jan/2015, Jul/2015
+SDP00005, Lot PRX 102-040615, exp. date Jul/2015, Nov/2017
+Regression model & Five-parameter logistic model
+weighting
+Validation parameters Method validation summary Acceptability
+Calibration curve No of standard calibrators from LLOQto ULOQ | 7 Acceptable
+performance during
+accuracy & precision
+Cumulative accuracy (%bias) from LLOQto -8.7 to -30.0% Acceptable
+ULOQ
+Cumulative precision (%CV) from LLOQto ULOQ | < 34.8% Acceptable
+
+132
+
+Version date: October 12, 2018
+
+Reference ID: 4786588
+

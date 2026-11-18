@@ -1,0 +1,370 @@
+[
+  {
+    "no": 1,
+    "name": "Trulance",
+    "ingr": "plecanatide",
+    "date": "1/19/2017",
+    "label": "CDER NME and new biologic compilation",
+    "appl": "208745"
+  },
+  {
+    "no": 2,
+    "name": "Parsabiv",
+    "ingr": "etelcalcetide",
+    "date": "2/7/2017",
+    "label": "CDER NME and new biologic compilation",
+    "appl": "208325"
+  },
+  {
+    "no": 3,
+    "name": "Emflaza",
+    "ingr": "deflazacort",
+    "date": "2/9/2017",
+    "label": "CDER NME and new biologic compilation",
+    "appl": "208684"
+  },
+  {
+    "no": 4,
+    "name": "Siliq",
+    "ingr": "brodalumab",
+    "date": "2/15/2017",
+    "label": "CDER NME and new biologic compilation",
+    "appl": "761032"
+  },
+  {
+    "no": 5,
+    "name": "Xermelo",
+    "ingr": "telotristat ethyl",
+    "date": "2/28/2017",
+    "label": "CDER NME and new biologic compilation",
+    "appl": "208794"
+  },
+  {
+    "no": 6,
+    "name": "Kisqali",
+    "ingr": "ribociclib",
+    "date": "3/13/2017",
+    "label": "CDER NME and new biologic compilation",
+    "appl": "209092"
+  },
+  {
+    "no": 7,
+    "name": "Xadago",
+    "ingr": "safinamide",
+    "date": "3/21/2017",
+    "label": "CDER NME and new biologic compilation",
+    "appl": "207145"
+  },
+  {
+    "no": 8,
+    "name": "Bavencio",
+    "ingr": "avelumab",
+    "date": "3/23/2017",
+    "label": "CDER NME and new biologic compilation",
+    "appl": "761049"
+  },
+  {
+    "no": 9,
+    "name": "Symproic",
+    "ingr": "naldemedine",
+    "date": "3/23/2017",
+    "label": "CDER NME and new biologic compilation",
+    "appl": "208854"
+  },
+  {
+    "no": 10,
+    "name": "Zejula",
+    "ingr": "niraparib",
+    "date": "3/27/2017",
+    "label": "CDER NME and new biologic compilation",
+    "appl": "208447"
+  },
+  {
+    "no": 11,
+    "name": "Ocrevus",
+    "ingr": "ocrelizumab",
+    "date": "3/28/2017",
+    "label": "CDER NME and new biologic compilation",
+    "appl": "761053"
+  },
+  {
+    "no": 12,
+    "name": "Dupixent",
+    "ingr": "dupilumab",
+    "date": "3/28/2017",
+    "label": "CDER NME and new biologic compilation",
+    "appl": "761055"
+  },
+  {
+    "no": 13,
+    "name": "Austedo",
+    "ingr": "deutetrabenazine",
+    "date": "4/3/2017",
+    "label": "CDER NME and new biologic compilation",
+    "appl": "208082"
+  },
+  {
+    "no": 14,
+    "name": "Ingrezza",
+    "ingr": "valbenazine",
+    "date": "4/11/2017",
+    "label": "CDER NME and new biologic compilation",
+    "appl": "209241"
+  },
+  {
+    "no": 15,
+    "name": "Brineura",
+    "ingr": "cerliponase alfa",
+    "date": "4/27/2017",
+    "label": "CDER NME and new biologic compilation",
+    "appl": "761052"
+  },
+  {
+    "no": 16,
+    "name": "Rydapt",
+    "ingr": "midostaurin",
+    "date": "4/28/2017",
+    "label": "CDER NME and new biologic compilation",
+    "appl": "207997"
+  },
+  {
+    "no": 17,
+    "name": "Tymlos",
+    "ingr": "abaloparatide",
+    "date": "4/28/2017",
+    "label": "CDER NME and new biologic compilation",
+    "appl": "208743"
+  },
+  {
+    "no": 18,
+    "name": "Alunbrig",
+    "ingr": "brigatinib",
+    "date": "4/28/2017",
+    "label": "CDER NME and new biologic compilation",
+    "appl": "208772"
+  },
+  {
+    "no": 19,
+    "name": "Imfinzi",
+    "ingr": "durvalumab",
+    "date": "5/1/2017",
+    "label": "CDER NME and new biologic compilation",
+    "appl": "761069"
+  },
+  {
+    "no": 20,
+    "name": "Radicava",
+    "ingr": "edaravone",
+    "date": "5/5/2017",
+    "label": "CDER NME and new biologic compilation",
+    "appl": "209176"
+  },
+  {
+    "no": 21,
+    "name": "Kevzara",
+    "ingr": "sarilumab",
+    "date": "5/22/2017",
+    "label": "CDER NME and new biologic compilation",
+    "appl": "761037"
+  },
+  {
+    "no": 22,
+    "name": "Baxdela",
+    "ingr": "delafloxacin",
+    "date": "6/19/2017",
+    "label": "CDER NME and new biologic compilation",
+    "appl": "208610"
+  },
+  {
+    "no": 23,
+    "name": "Bevyxxa",
+    "ingr": "betrixaban",
+    "date": "6/23/2017",
+    "label": "CDER NME and new biologic compilation",
+    "appl": "208383"
+  },
+  {
+    "no": 24,
+    "name": "Tremfya",
+    "ingr": "guselkumab",
+    "date": "7/13/2017",
+    "label": "CDER NME and new biologic compilation",
+    "appl": "761061"
+  },
+  {
+    "no": 25,
+    "name": "Nerlynx",
+    "ingr": "neratinib",
+    "date": "7/17/2017",
+    "label": "CDER NME and new biologic compilation",
+    "appl": "208051"
+  },
+  {
+    "no": 26,
+    "name": "Vosevi",
+    "ingr": "sofosbuvir, velpatasvir, voxilaprevir",
+    "date": "7/18/2017",
+    "label": "CDER NME and new biologic compilation",
+    "appl": "209195"
+  },
+  {
+    "no": 27,
+    "name": "Idhifa",
+    "ingr": "enasidenib",
+    "date": "8/1/2017",
+    "label": "CDER NME and new biologic compilation",
+    "appl": "209606"
+  },
+  {
+    "no": 28,
+    "name": "Mavyret",
+    "ingr": "glecaprevir, pibrentasvir",
+    "date": "8/3/2017",
+    "label": "CDER NME and new biologic compilation",
+    "appl": "209394"
+  },
+  {
+    "no": 29,
+    "name": "Besponsa",
+    "ingr": "inotuzumab ozogamicin",
+    "date": "8/17/2017",
+    "label": "CDER NME and new biologic compilation",
+    "appl": "761040"
+  },
+  {
+    "no": 30,
+    "name": "Vabomere",
+    "ingr": "meropenem and vaborbactam",
+    "date": "8/29/2017",
+    "label": "CDER NME and new biologic compilation",
+    "appl": "209776"
+  },
+  {
+    "no": 31,
+    "name": "[drug marketed without a proprietary name]",
+    "ingr": "benznidazole",
+    "date": "8/29/2017",
+    "label": "CDER NME and new biologic compilation",
+    "appl": "209570"
+  },
+  {
+    "no": 32,
+    "name": "Aliqopa",
+    "ingr": "copanlisib",
+    "date": "9/14/2017",
+    "label": "CDER NME and new biologic compilation",
+    "appl": "209936"
+  },
+  {
+    "no": 33,
+    "name": "Solosec",
+    "ingr": "secnidazole",
+    "date": "9/15/2017",
+    "label": "CDER NME and new biologic compilation",
+    "appl": "209363"
+  },
+  {
+    "no": 34,
+    "name": "Verzenio",
+    "ingr": "abemaciclib",
+    "date": "9/28/2017",
+    "label": "CDER NME and new biologic compilation",
+    "appl": "208716"
+  },
+  {
+    "no": 35,
+    "name": "Calquence",
+    "ingr": "acalabrutinib",
+    "date": "10/31/2017",
+    "label": "CDER NME and new biologic compilation",
+    "appl": "210259"
+  },
+  {
+    "no": 36,
+    "name": "Vyzulta",
+    "ingr": "latanoprostene bunod",
+    "date": "11/2/2017",
+    "label": "CDER NME and new biologic compilation",
+    "appl": "207795"
+  },
+  {
+    "no": 37,
+    "name": "Prevymis",
+    "ingr": "letermovir",
+    "date": "11/8/2017",
+    "label": "CDER NME and new biologic compilation",
+    "appl": "209939"
+  },
+  {
+    "no": 38,
+    "name": "Fasenra",
+    "ingr": "benralizumab",
+    "date": "11/14/2017",
+    "label": "CDER NME and new biologic compilation",
+    "appl": "761070"
+  },
+  {
+    "no": 39,
+    "name": "Mepsevii",
+    "ingr": "vestronidase alfa-vjbk",
+    "date": "11/15/2017",
+    "label": "CDER NME and new biologic compilation",
+    "appl": "761047"
+  },
+  {
+    "no": 40,
+    "name": "Hemlibra",
+    "ingr": "emicizumab-kxwh",
+    "date": "11/16/2017",
+    "label": "CDER NME and new biologic compilation",
+    "appl": "761083"
+  },
+  {
+    "no": 41,
+    "name": "Ozempic",
+    "ingr": "semaglutide",
+    "date": "12/5/2017",
+    "label": "CDER NME and new biologic compilation",
+    "appl": "209637"
+  },
+  {
+    "no": 42,
+    "name": "Xepi",
+    "ingr": "ozenoxacin",
+    "date": "12/11/2017",
+    "label": "CDER NME and new biologic compilation",
+    "appl": "208945"
+  },
+  {
+    "no": 43,
+    "name": "Rhopressa",
+    "ingr": "netarsudil",
+    "date": "12/18/2017",
+    "label": "CDER NME and new biologic compilation",
+    "appl": "208254"
+  },
+  {
+    "no": 44,
+    "name": "Steglatro",
+    "ingr": "ertugliflozin",
+    "date": "12/19/2017",
+    "label": "CDER NME and new biologic compilation",
+    "appl": "209803"
+  },
+  {
+    "no": 45,
+    "name": "Macrilen",
+    "ingr": "macimorelin",
+    "date": "12/20/2017",
+    "label": "CDER NME and new biologic compilation",
+    "appl": "205598"
+  },
+  {
+    "no": 46,
+    "name": "Giapreza",
+    "ingr": "angiotensin II",
+    "date": "12/21/2017",
+    "label": "CDER NME and new biologic compilation",
+    "appl": "209360"
+  }
+]

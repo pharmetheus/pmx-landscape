@@ -1,0 +1,6 @@
+sources,check,classifier,rows,agree,disagree,unsure
+PAGE and literature,first reading check (up to 12 per type and source),keyword rules v1,268,154,106,8
+PAGE and literature,second reading check (fresh sample),keyword rules v2,231,215,11,5
+FDA,first reading check,keyword rules,33,13,5,15
+FDA,second reading check,keyword rules,34,15,11,8
+FDA,check of the reading decisions (random 15%),reading,22,21,1,0

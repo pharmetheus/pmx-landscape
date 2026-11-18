@@ -1,0 +1,52 @@
+Validated Assay
+
+Performance during
+accuracy and
+precision
+
+Range 1.00 - 1000 ng/mL
+Recovery Ranged from 110.7% to 117.1% for trilaciclib, 97.5% for G1T28-1-d3
+Regression Model & . . 2
+Weighting Linear Regression, 1/x’
+Validation Parameter Method Validation Summary (Validation Report)
+Standard Curve Precision (CV%)
+
+2.0% to 4.4%
+
+Accuracy (Bias) -6.3% to 3.5%
+
+Linearity R?> 0.99
+
+QC concentrations
+
+0.500, 1.50, 50.0 and 800 ng/mL
+
+Intra-run accuracy (% bias) -4.4% to 7.2%
+
+QCs performance Intra-run precision (%CV) 1.0% to 7.9%
+during accuracy &
+precision Inter-run accuracy (% bias) -2.4% to 5.3%
+Tnter-run Precision (%CV) 3.0% to 7.4%
+Dilution 10-fold dilution and quantification up to 10000 ng/mL is valid
+Plasma Stability 25 hours in plasma at room temperature: 591 days at -20°C and at -70°C
+Freeze/thaw Stability 5 cycles at -20°C and at -70°C
+Stock Stability 25 hours at room temperature: 155 days at -20°C
+Stability in whole 2 hours at 0°C and at ambient temperature
+blood
+Carry-over No carry-over was observed.
+ISR ISR rates > 80%, passed
+Method | ©@-NL-SML-1608 (Urine)
+An LC-MS/MS based bioanalytical method for the determination of the
+Method Description | concentrations of trilaciclib in human urine. This method was used in Studies
+01 and 08.
+Material for
+calibration curve & Trilaciclib (G1-T28-1, lot number: 1404309193; retest date: 31 May 2016)
+concentration
+Internal Standard
+
+Trilaciclib-d3
+
+Reference ID: 4739398
+
+30
+

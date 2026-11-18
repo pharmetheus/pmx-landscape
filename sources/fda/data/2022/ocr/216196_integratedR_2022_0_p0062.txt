@@ -1,0 +1,64 @@
+NDA 216196
+PYRUKYND (mitapivat)
+
+PKDIA
+
+Table 22. Analysis of Change From Baseline in PKDIA T-Score at Week 24 by MMRM, Full Analysis
+Set, Study 006
+
+Mitapivat Placebo
+Visit N=40 N=40
+Baseline
+n 39 39
+Mean (SD) 49.2 (9.0) 48.5 (9.2)
+Week 24
+Change from baseline
+LS mean (SE) -4.7 (1.1) -1.4 (1.2)
+95% Cl (6.9, -2.4) (-3.7, 0.9)
+Difference in LS mean (SE) (mitapivat-placebo) -3.3 (1.6)
+95% Cl (6.4, -0.1)
+Two-sided p-value 0.042
+
+‘Source: Study 006 Clinical Study Report, Table 13 (p. 60), Statistical Reviewer's analysis
+
+Note: Same as Table 21 of this report.
+
+Abbreviations: Cl, confidence interval; LS, least square; MMRM, mixed-effect model repeated measure; N, total number of subjects;
+n, number of subjects in each category, SD, standard deviation; SE, standard error
+
+MMRM assuming MAR was used when analyzing these six major secondary endpoints under
+the testing hierarchy, including the two PRO endpoints, PKDD and PKDIA. Because of concerns
+regarding the scoring algorithm and to evaluate the robustness of the results, sensitivity analyses
+using ANCOVA were also performed for these endpoints. The results of sensitivity analyses by
+ANCOVA based on observed data (i.e., subjects with missing data were excluded from the
+analysis) are summarized in Section III.16.3. The analyses show that the two-sided p-values were
+no longer significant for PKDD and PKDIA endpoints if the ANCOVA method was only applied
+to the observed data.
+
+However, the ANCOVA analyses with only observed values can be biased due to the relatively
+small sample size of the study and missing data. To further evaluate the robustness of the results
+based on the primary MMRM analysis, sensitivity analyses using ANCOVA with multiple
+imputation (ANCOVA-MI) using control-based pattern-mixture model were performed by the
+Applicant and the statistical reviewer for PKDD and PKDIA, which assumes missing not at
+random for the missing data. The results are summarized in Table 133 in Section I.16.3. In
+brief, the values using ANCOVA-MI imputation were also nominally statistically significant and
+the MMRM and ANCOVA-MI results are consistent. However, due to concerns with the scoring
+method used for the PKDD instrument, further analyses using the raw scores were performed.
+See Section 6.3.1 for further details.
+
+The review team had concems about the clinical relevance of the items comprising PKDIA
+because the mean difference between the two ams is too small to be clinically meaningful and
+the items in the PKDIA are more distal from the core signs and symptoms of the disease. a
+
+Refer to Section 6.3.1 for further discussion regarding the PRO endpoint issues.
+
+6.2.2.3. Subgroup Analysis of Primary Endpoints, Study 006
+
+Subgroup analyses were conducted to assess the potential for differences in the treatment effect
+for various demographic and clinical characteristics groups and are presented in Section III.16.4.
+Overall, the treatment effect of mitapivat compared to placebo appeared consistent across
+baseline demographics and disease characteristics subgroups of average of screening Hb, PKLR
+
+45
+
+Reference ID: 4939822

@@ -1,0 +1,67 @@
+Clinical/Statistical Review
+NDA 213378
+Lybalvi (Olanzapine/Samidorphan, ALKS 3831)
+
+Table 29: Weight and Change from Baseline in Weight by Analysis Visit—Observed Cases
+
+(Study A303)
+
+Difference
+
+in Percent
+
+Change
+
+(%)
+
+8|265| 77.66 | 0.67(1.48) | 0.92 (2.00) | 269] 78.29 | 0.90(1.62) | 1.20 (2.21) -0.28
+(13.72) (13.65)
+
+15 | 248] 78.28 | 1.37(2.05) | 1.84 (2.64) | 265] 78.83 | 1.39(2.16) | 1.86 (2.88) -0.02
+(13.84) (13.63)
+
+29 | 236] 78.82 | 2.04 (2.62) | 2.77 (3.54) | 249] 80.10 | 2.44(3.04) | 3.23 (4.02) -0.46
+(13.77) (14.09)
+
+43 | 229] 79.46 | 2.56 (3.01) | 3.47 (4.17) | 244] 80.92 | 3.29(3.48) | 4.33 (4.62) -0.86
+(13.76) (14.31)
+
+57 | 218] 78.95 | 2.58 (3.45) | 3.54 (4.80) | 233] 81.59 | 3.45 (3.66) | 4.46 (4.71) -0.92
+(13.59) (14.33)
+
+85 | 214] 78.92 | 2.71(3.98) | 3.72 (5.60) | 220] 82.05 | 3.82 (4.22) | 4.93 (5.26) -1.21
+(13.90) (14.13)
+
+113 | 199] 78.98 | 3.08 (4.65) | 4.26 (6.50) | 202] 82.24 | 4.19(4.95) | 5.44 (6.25) 1.18
+(13.98) (14.30)
+
+141] 185] 78.92 | 3.01(5.33) | 4.21(7.41) | 187] 81.58 | 4.06 (5.32) | 5.37 (6.78) -1.20
+(13.90) (14.09)
+
+169] 177] 78.93 | 2.80(5.61) | 3.91(7.72) | 175] 81.97 | 4.37 (5.96) | 5.72 (7.56) -1.81
+(14.15) (14.67)
+
+Abbreviations: N: the number of subjects observed at each Analysis Visit Day; SD: Standard Deviation.
+
+Note: Three subjects discontinued the study (recorded as Discontinued in End of Study Status) but were recorded
+as Completed in End of Treatment Status and had Week 24 weight measurement. The weight measurements were
+taken not more than 3 days from their last treatment day. Therefore, this reviewer included these three subjects
+as completers in the efficacy analysis.
+
+Source: FDA statistical reviewer
+
+First Co-Primary Endpoint: Percent Change from Bas: in Weight at Week 24
+The Applicant’s primary analysis results (Table 30) for the first co-primary endpoint were
+
+obtained with ANCOVA with baseline weight as a covariate and the factors of Treatment group,
+Age group, and Race. Post-baseline missing values were handled by the multiple imputation
+(MI) method.
+
+The Applicant presented the hypothesis testing results based on both the CHW test statistic
+
+(primary) and the unadjusted test statistic (supportive). Both tests led to almost identical p-
+values (0.003 with the CHW test vs. 0.002 with the unadjusted test).
+
+95
+
+Reference ID: 4701252

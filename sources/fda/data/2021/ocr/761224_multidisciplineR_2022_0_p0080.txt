@@ -1,0 +1,75 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {BLA 761224}
+{Tezspire/Tezepelumab}
+
+What bioanalytical methods were used to assess tezepelumab plasma concentrations?
+
+Bioanalytical methods for the determination of tezepelumab concentrations in human serum
+were summarized in Table 21. The method was originally developed and validated at Amgen
+
+(Analytical method validation report 110196 for PK method MET-001847). Subsequently, the
+method was transferred to and validated (Analytical method validation report 112687
+for PK method ICD 378).
+
+Both methods utilized an ELISA assay format to measure the concentration of tezepelumab in
+human serum. Calibration standards, quality controls (QCs), matrix blank nonspecific binding,
+and test samples were diluted 50-fold with SuperBlock® T20 and loaded onto a 96-well
+microplate pre-coated with anti-tezepelumab antibody, clone 1.36.1. After binding incubation,
+unbound material was washed away and captured tezepelumab was detected with horseradish
+peroxidase-conjugated anti-tezepelumab antibody, clone 55, followed by wash steps and
+addition of 3, 3°, 5, 5‘- tetramethylbenzidine substrate solution. Colour development was
+stopped with phosphoric acid and the colour intensity (optical density) was measured at 450
+nm and at 650 nm for correction. The optical density signal was proportional to the amount of
+tezepelumab bound by the capture reagent. Concentrations of tezepelumab in QC and serum
+samples were determined by interpolation of optical density values from the calibration curve
+using a 4-parameter logistic non-linear regression model with a weighting factor of 1/Y.
+
+The assay quantification range in both validated methods was 10 to 800 ng/mL in 100% matrix.
+Dilution linearity was evaluated up to 1:100000 and 1:10000 dilutions at Amgen and oe
+respectively. The hook effect was evaluated up to 1000000 ng/mL and 2500000 ng/mL of
+tezepelumab concentrations at Amgen and | respectively. Both assays demonstrated
+acceptable dilution linearity with no hook effect observed within the tested ranges. Incurred
+sample reanalysis was evaluated in Study 0620, Study 1183, NAVIGATOR, SOURCE, PATH-
+HOME, PATH-BRIDGE, and CASCADE. The results demonstrated acceptable reproducibility of
+the tezepelumab assay. There were no cross-validation studies conducted between the two
+bioanalytical methods.
+
+Table 21. Methods for the Determination of Tezepelumab Serum Concentrations
+
+Inter-
+
+assay | Inter- Intra-
+% bias /| assay assay
+
+Report] Method |LLOQ| Range | %RE | % CV %CV
+
+number} (test site) |mg/mL| ng/mL | range” | range range Clinical studies
+
+110196] MET-001847| 10 |10t0800| -4t03 | Sto il |- 2t0 10°| Study 0620, Study 0390
+
+(Amgen)
+
+112687] ICD 378 10 [1010800] 3107 | 3t07*| 2t07* | 2t7* | Study 1183, Study 0002. Japan
+
+oO Study 0003, PATHWAY.
+
+PATH-BRIDGE,
+PATH-HOME, NAVIGATOR,
+SOURCE, CASCADE
+
+% bias was measured for MET-001847 (Amgen); %RE was measured for ICD 378| O@
+Intra-assay accuracy and precision data for Validation Study 110196 were provided by Amgen memo
+BAMEMO1.110196 (see Analytical method validation report |1 10196 for PK method MET-001847
+[Amgen] in Module 5.3.1.4)
+
+cy and precision results were obtained after a single outlier was removed.
+
+% CV, pen
+RE, percent relative error.
+Source: Table 4 in the Summary of Biopharmaceutic Studies and Associated Analytical Methods (Module 2.7.1)
+
+nt coefficient of variation; LLOQ, lower limit of quantification; PK, Pharmacokinetics:
+
+79
+Version date: October 12, 2018
+
+Reference ID: 4906971

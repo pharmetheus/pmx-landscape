@@ -1,0 +1,2197 @@
+CENTER FOR DRUG EVALUATION AND
+RESEARCH
+APPLICATION NUMBER:
+
+761166Orig1s000
+CLINICAL PHARMACOLOGY
+REVIEW(S)
+
+Office of Clinical Pharmacology
+Integrated Review
+BLA Number
+
+761166
+
+Link to EDR
+
+\\CDSESUB1\evsprod\BLA761166\0001
+
+Submission Date
+
+3/13/2020
+
+Submission Type
+
+Section 351(a), Standard Review
+
+Brand Name
+
+BESREMiTM
+
+Generic Name
+
+Ropeginterferon alfa-2b
+
+Dosage Form and Strength
+
+500 µg/1.0 mL solution for injection in a
+(b) (4)
+prefilled syringe
+
+Proposed Indication
+
+For the treatment of polycythemia vera in
+adults without symptomatic splenomegaly
+
+Applicant
+
+PharmaEssentia Corporation
+
+Associated IND
+
+119047
+
+OCP Review Team
+
+Li Wang, Ph.D., Eliford Kitabi, Ph.D., Justin
+Earp, Ph.D., Sudharshan Hariharan, Ph.D.
+
+OCP Final Signatory
+
+Doanh Tran, Ph. D.
+Deputy Division Director
+Division of Cardiometabolic and Endocrine
+Pharmacology (DCEP)
+
+1
+Reference ID: 4755629
+
+Table of Contents
+
+1. EXECUTIVE SUMMARY ......................................................................................................................3
+1.1 Recommendations ...............................................................................................................................3
+1.2 Post-Marketing Requirements and Commitments...............................................................................6
+2. SUMMARY OF CLINICAL PHARMACOLOGY ASSESSMENT .......................................................6
+2.1 Pharmacology and Clinical Pharmacokinetics ....................................................................................6
+2.2 Dosing and Therapeutic Individualization ..........................................................................................8
+2.2.1 General dosing ..............................................................................................................................8
+2.2.2 Therapeutic individualization .......................................................................................................8
+2.3 Outstanding Issues...............................................................................................................................8
+2.4 Summary of Labeling Recommendations ...........................................................................................8
+3. COMPREHENSIVE CLINICAL PHARMACOLOGY REVIEW...........................................................9
+3.1 Overview of the Product and Regulatory Background........................................................................9
+3.2 General Pharmacology and Pharmacokinetic Characteristics .............................................................9
+3.3 Clinical Pharmacology Questions .....................................................................................................11
+3.3.1. To what extent does the available clinical pharmacology program provide supportive
+evidence of effectiveness? ..................................................................................................................11
+3.3.2 Is the proposed dosing regimen appropriate for the general patient population for which the
+indication is being sought? ..................................................................................................................14
+3.3.3 Is an alternative dosing regimen and/or management strategy required for subpopulations
+based on intrinsic factors? ...................................................................................................................15
+3.3.4 Are there clinically relevant drug-drug interactions and what is the appropriate management
+strategy?...............................................................................................................................................17
+3.1.5 Is the to-be-marketed formulation the same as the clinical trial formulation, and if not, are
+there bioequivalence data to support the to-be marketed formulation? ..............................................18
+4. APPENDICES .........................................................................................................................................19
+4.1 Summary of Bioanalytical Method Validation..................................................................................19
+4.2 PHARMACOMETRIC ASSESSMENT ..........................................................................................20
+4.2.1. Population PK Analysis.............................................................................................................20
+4.2.2. Exposure-vs-efficacy Analysis ..................................................................................................28
+4.2.3. Exposure-vs-Safety Analysis.....................................................................................................50
+
+2
+Reference ID: 4755629
+
+1. EXECUTIVE SUMMARY
+This clinical pharmacology review is for an original Biologics License Application (BLA),
+submitted by PharmaEssentia Corporation to the Division of Non-malignant Hematology
+(DNH). The Applicant is seeking approval for BESREMi® (BESREMi) for the treatment of
+polycythemia vera (PV) in adults without symptomatic splenomegaly. BESREMi is a covalent
+conjugate of the protein proline-interferon alfa-2b, produced in Escherichia coli cells by
+recombinant DNA technology, with methoxypolyethylene glycol moiety. It is a long-acting
+monopegylated interferon analog. Compared to other pegylated interferon alfa drug products,
+which have a relatively short half-life, BESREMi is a more stable third-generation pegylated
+interferon. BESREMi is marketed in the European Union as BESREMi® (marketing
+authorization granted on February 15, 2019). The interferon alfa-2b moiety of the drug product
+exhibits its cellular effects by binding to the transmembrane interferon alfa receptor, resulting in
+its antiproliferative, proapoptotic, antiangiogenic, and immunomodulatory effects. These actions
+may be involved in the therapeutic effects of interferon alfa in PV. Furthermore, interferon alfa
+is able to decrease the mutated JAK2 V617F allele burden, with the fact that this mutation is
+found in 65-97% of patients with PV. There have been several pegylated interferon drugs
+including PEGASYS® (PEG-IFN-α2a), PEGINTRO® (PEG-IFN-α2b), and PLEGRIDY®
+(PEG-IFN-β1) approved in the U.S. for different indications (PEGASYS® and PEGINTRON®:
+Treatment of chronic hepatitis C; PLEGRIDY®: Treatment of relapsing forms of multiple
+sclerosis).
+The clinical program for BESREMi consisted of a Phase 1 single- and multiple-ascending dose
+study A09-102-P1101 in healthy adult male subjects, a Phase 1/2 study PEGINVERA in patients
+with PV, one Phase 3 study, PROUD-PV, and its extension study, CONTINUATION-PV, for
+long-term evaluation in patients with PV. During the review, it was determined that results from
+PEGINVERA would form the primary basis for effectiveness and studies PROUD-PV and
+CONTINUATION-PV will provide supportive evidence (Refer to Clinical Review). There is
+also a Phase 3 study, PEN-PV, to assess self-administration of BESREMi using a pre-filled pen.
+In addition to these studies, the Applicant also provided population pharmacokinetic (popPK),
+PK/PD, PK-safety, and PK-efficacy modeling reports for review.
+Key issues discussed in this review are exposure-response (E-R) analyses from PEGINVERA
+and PROUD-PV/CONTINUATION studies, dosing recommendations in patients with renal and
+hepatic impairment and adequacy of bridge between drug product used in clinical trials to the tobe-marketed product.
+1.1 Recommendations
+The Office of Clinical Pharmacology (OCP) review team has determined that there is sufficient
+clinical pharmacology and biopharmaceutics information provided in BLA 761166 to support an
+approval of BESREMi.
+
+3
+Reference ID: 4755629
+
+Key review issues with specific recommendations and comments are summarized below:
+Review Issues
+
+Acceptable to OCP
+
+Recommendations and Comments
+
+Pivotal or
+supportive evidence
+of effectiveness
+
+☑Yes ☐No ☐N/A
+
+Supportive evidence of effectiveness is
+demonstrated by the exposure-response
+(E-R) analyses between
+ropeginterferon concentration/AUC
+and CHR/CHRP from PEGINVERA
+(primary) and PROUDPV/CONTINUATION (secondary)
+studies. See Section 3.3.1 for details.
+For effect on primary efficacy endpoint
+(CHR/CHRP), refer to Clinical and
+Statistical reviews.
+
+General dosing
+instructions
+
+☑Yes ☐No ☐N/A
+
+The dose is titrated individually with a
+recommended starting dose of 100 µg
+(b) (4)
+
+) as
+subcutaneous injection. The dose
+should be gradually increased by 50
+(b) (4)
+µg every two weeks
+
+until stabilization of the hematological
+parameters is achieved (hematocrit
+<45%, platelets <400 × 109/L and
+leukocytes <10 × 109/L). The
+maximum recommended single dose is
+500 µg injected every two weeks. The
+dose at which stabilization of the
+hematological parameters is achieved
+should be maintained in a two-week
+(b)
+administration interval for at least (4)
+After that, the dose may be
+adapted and/or the administration
+interval prolonged up to every four
+weeks, as appropriate for the patient.
+Dosing in patient
+subgroups (intrinsic
+
+☑Yes ☐No ☐N/A
+
+
+
+4
+Reference ID: 4755629
+
+In general, no dose adjustment is
+necessary in patients based on
+
+and extrinsic
+factors)
+
+
+
+
+
+
+5
+Reference ID: 4755629
+
+gender, body weight, race and
+ethnicity.
+No dose adjustment is necessary in
+patients with estimated glomerular
+filtration rate (eGFR) of ≥30
+mL/min/1.73 m2. Due to observed
+renal toxicity, use of BESREMi in
+(b) (4)
+patients with eGFR
+<30
+2
+mL/min/1.73m is not
+(b) (4)
+recommended.
+
+BESREMi is contraindicated in
+patients with hepatic impairment
+(Child-Pugh B or C). Increases in
+ALT (≥3 times the upper limit of
+normal), AST (≥3 times the upper
+limit of normal), GGT (≥3 times
+the upper limit of normal) and
+bilirubin (>2 times the upper limit
+of normal) levels have been
+observed in patients treated with
+BESREMi. When the increase in
+liver enzyme levels is progressive
+and persistent, the dose of
+BESREMi should be reduced. If
+the increase in liver enzymes is
+progressive and clinically
+significant despite dose reduction,
+or if there is evidence of hepatic
+decompensation, therapy should be
+discontinued.
+In vitro studies demonstrate that
+drug interaction potential for
+BESREMi is low. No clinical drug
+interaction studies were done.
+However, certain proinflammatory
+cytokines, including interferons,
+can suppress CYP450 enzymes
+
+resulting in increased exposures of
+some CYP substrates. Therefore,
+patients on BESREMi who are
+receiving concomitant drugs which
+are CYP450 substrates with a
+narrow therapeutic index should be
+monitored to inform the need for
+dosage modification for these
+concomitant drugs.
+Labeling
+
+☑Yes ☐No ☐N/A
+
+Pending satisfactory agreement with
+the Applicant
+
+Bridge between the
+to-be-marketed and
+clinical trial
+formulations
+
+☑Yes ☐No ☐N/A
+
+The drug substance from
+that were used during clinical
+development were comparable and
+there was no negative impact on the
+process performance and product
+quality as a result of any modifications.
+
+(b) (4)
+
+Vial for injection and pre-filled-pen
+(PFP) were used during clinical
+development. The to-be-marketed
+product is a 0.5 mg/mL in 1 mL prefilled syringe (PFS). The inactive
+ingredients are in the same proportion
+among the 0.5 mg/mL vial, cartridge
+(PFP), and PFS. Clinical
+pharmacokinetic bridging is not
+needed.
+Early part of study PEGINVERA used
+a lower strength product, namely 0.18
+mg/mL, but the inactive ingredients are
+the same. Since the majority of the
+clinical development program used the
+0.5 mg/mL strength, bridging study to
+the lower strength is not warranted.
+
+1.2 Post-Marketing Requirements and Commitments
+None.
+
+6
+Reference ID: 4755629
+
+2. SUMMARY OF CLINICAL PHARMACOLOGY ASSESSMENT
+2.1 Pharmacology and Clinical Pharmacokinetics
+Mechanism of Action
+Interferon alfa belongs to the class of type I interferons which exhibit their cellular effects by
+binding to a transmembrane receptor termed interferon alfa receptor (IFNAR). Binding to
+IFNAR initiates a downstream signaling cascade through the activation of kinases, in particular
+Janus kinase 1 (JAK1) and tyrosine kinase 2 (TYK2) and signal transducer and activator of
+transcription (STAT) proteins. Nuclear translocation of STAT proteins controls distinct geneexpression programs and exhibit various cellular effects. Interferon alfa was shown to have an
+inhibitory effect on the proliferation of hematopoietic and bone marrow fibroblast progenitor
+cells and antagonized the action of growth factors and other cytokines that have a role in the
+development of myelofibrosis. These actions may be involved in the therapeutic effects of
+interferon alfa in polycythemia vera (PV). Further, it was demonstrated that interferon alfa is
+able to decrease the mutated JAK2V617F allele burden in patients with PV (a V617F point
+mutation in the JAK2 kinase is a hallmark of PV and is present in approximately 65-97% of
+patients).
+Absorption
+The estimated geometric mean (CV%) absorption rate constant of BESREMi is 0.12 day-1 (27%)
+in patients with PV. The time to reach maximum plasma concentration is approximately 3-6
+days.
+Distribution
+The estimated geometric mean (CV%) apparent volume of distribution of BESREMi is 4.8 L
+(21%) in patients with PV.
+Elimination
+BESREMi undergoes receptor independent degradation/excretion and receptor binding and
+subsequent degradation of the drug-receptor complex. The half-life and clearance of BESREMi
+is approximately 7 days and 1.7-2.5 L/h, respectively, in patients with PV over dose range of 100
+µg to 500 µg.
+Intrinsic factors
+No clinically significant differences in the pharmacokinetics of BESREMi were observed based
+on age, sex, body surface area, and JAK2_V617F mutation.
+The impact of renal impairment on BESREMi clearance was evaluated using a popPK approach.
+The analysis demonstrated that there was no significant impact on BESREMi with eGFR ≥ 30
+mL/min/1.73m2. The effect of eGFR <30 mL/min, or hepatic impairment (Child-Pugh A, B, and
+C) on BESREMi pharmacokinetics has not been studied. Evaluation of ALT/AST as PK
+covariates indicated no impact of these time varying biomarkers on ropeginterferon alfa-2b PK.
+Drug Interaction Studies
+Clinical Studies
+No studies were performed.
+
+7
+Reference ID: 4755629
+
+2.4 Summary of Labeling Recommendations
+The clinical pharmacology section of the proposed label was updated to reflect the current
+Guidance on Clinical Pharmacology Section of Labeling for Human Prescription Drug and
+Biological Products.
+The following edits are suggested in Sections 7, 8, and 12:
+
+
+
+
+Drug Interaction Studies: Include a paragraph to note the potential interaction of certain
+proinflammatory cytokines, including interferons with CYP450 enzymes which may
+result in increased exposures of some CYP substrates.
+Pharmacokinetics: Provide pharmacokinetic parameters in patients with PV derived from
+post-hoc empirical Bayes estimates.
+Pharmacodynamics: Included time course of pharmacodynamic response (including
+short-term clinical response) that was predicted from longitudinal exposure-response
+modelling.
+
+3. COMPREHENSIVE CLINICAL PHARMACOLOGY REVIEW
+3.1 Overview of the Product and Regulatory Background
+BESREMi is a covalent conjugate of the protein proline-interferon alfa-2b, produced in
+Escherichia coli cells by recombinant DNA technology, with methoxypolyethylene glycol
+moiety. It is a long-acting monopegylated interferon analog. Compared to other pegylated
+interferon alfa drug products, which have a relatively short half-life, BESREMi is a more stable
+third-generation pegylated interferon. BESREMi is marketed in the European Union as
+BESREMi® (marketing authorization granted on February 15, 2019).
+The initial IND was received on June 17, 2014. This indication was granted Orphan Drug
+Designation by the Agency on April 2, 2012. The NDA was submitted in March 2020 and was
+granted standard review status.
+3.2 General Pharmacology and Pharmacokinetic Characteristics
+
+Pharmacology
+Mechanism of Action
+
+Interferon alfa exhibits its cellular effects by binding to the
+transmembrane interferon alfa receptor, resulting in its
+antiproliferative, proapoptotic, antiangiogenic, and
+immunomodulatory effects. These actions may be involved
+in the therapeutic effects of interferon alfa in PV.
+Furthermore, it was demonstrated that interferon alfa is
+able to decrease the mutated JAK2V617F allele burden in
+patients with PV (a V617F point mutation in the JAK2
+kinase is a hallmark of PV and is present in approximately
+65-97% of patients).
+
+9
+Reference ID: 4755629
+
+Cardiac Electrophysiology
+
+Not applicable, as the risk for QT prolongation for large
+therapeutic proteins is low.
+
+General Information
+Bioanalysis
+
+Dose proportionality
+
+Accumulation
+Drug exposure (variability) at
+steady state following the
+therapeutic dosing regimen
+
+BESREMi concentrations in serum samples were
+determined using a validated bioanalytical assay (Refer
+Appendix 4.1). The samples were analyzed using an
+enzyme linked immunosorbent assay (ELISA) with a
+lower limit of quantification of 0.347 ng/mL.
+Following administration of single subcutaneous doses to
+healthy subjects, BESREMi apparent clearance decreases
+from 70.7 to 46.4 mL/h and the area under the serum
+concentration-time curve (AUC) increased in a greater than
+dose proportional manner over the dose range of 24 to 270
+μg. In patients with PV, Cmax, Cmin, and AUC increased in a
+dose related manner over the dose range of 50-80 to 540 μ
+g.
+Not measured.
+The mean ± SD steady state Cmax, Cmin, and AUC are
+11.0±1.0/48.6±22.7 ng/mL, 6.48±2.14/25.4±12.7 ng/mL,
+and 118±11/553±264 ng×day/mL at the dose of 150/450
+µg every two weeks, respectively.
+
+Absorption
+Tmax
+
+The median Tmax of BESREMi is 3-6 days over dose range
+of 100 to 540 µg with two-week dosing interval. The
+median (range) Tmax of BESREMi is 4 (3-6) days at the
+dose of 150 µg with two-week dosing interval.
+
+Bioavailability
+
+Absolute bioavailability is not known
+
+Food effect
+
+NA
+
+Distribution
+Volume of
+distribution
+Protein binding
+Substrate of transporter systems
+
+The geometric mean (CV%) of apparent volume of
+distribution of BESREMi is 4.8 L (21%) in patients with
+PV.
+Not available because BESREMi is a biotechnology
+pharmaceutical
+NA
+
+10
+Reference ID: 4755629
+
+Elimination
+Half-life and clearance
+
+The mean half-life of BESREMi is 6-10 days over dose
+range of 100 to 540 µg with two-week dosing interval. The
+half-life (Mean±SD) of BESREMi is 10.0±6.72 days at the
+dose of 150 µg with two-week dosing interval. The steady
+state clearance (Mean±SD) based on population PK analysis
+are 3.04±3.26/1.95±1.47 L/h at the dose of 150/450 µg every
+two weeks, respectively.
+
+Metabolism
+Primary metabolizing enzymes
+
+NA.
+
+Inhibitor/Inducer
+
+CYP450 enzymes: BESREMi is not an inhibitor of
+CYP1A2, 2A6, 2B6, 2C8, 2C9, 2C19, 2D6, 2E1, or 3A4
+and is not an inducer of CYP1A2, 2B6 or 3A4. BESREMi
+is a time-dependent inhibitor of CYP2A6. There was a
+37.3% inhibition on CYP2A6 actively when human liver
+microsome was incubated with BESREMi at 50 ng/mL
+(mean Cmax at the dose of 450 µg is 44 ng/mL) for 30 min.
+
+Excretion
+Primary excretion
+pathways
+
+No human studies were done to evaluate metabolism or
+metabolic pathways of BESREMi. There is evidence that
+pegylated proteins can be susceptible to hydrolysis with the
+release of interferon and PEG moieties. Although, the PEG
+moiety may undergo uptake by macrophages and Kupffer
+cells by pinocytosis, biliary excretion only plays a minor
+role in the clearance of PEG; whereas, urinary clearance
+predominates.
+
+3.3 Clinical Pharmacology Questions
+3.3.1. To what extent does the available clinical pharmacology program provide supportive
+evidence of effectiveness?
+During the review cycle, it was determined that the primary evidence of effectiveness for
+BESREMi will be based on the results from the Phase 1/2 study, PEGINVERA, which was an
+open-label dose finding study conducted in two stages. The primary objective of stage I was to
+identify the maximum tolerated dose and Stage II evaluated efficacy, safety and tolerability.
+Supportive evidence of effectiveness is based on results from PROUD-PV and
+CONTINUATION-PV studies. PROUD-PV investigated the safety and efficacy of BESREMi
+during 12 months of treatment compared to patients receiving treatment with hydroxyurea (HU).
+CONTINUATION-PV is an open-label extension study of PROUD-PV which assessed the longterm (at least 36 months and up to 48 months) efficacy of BESREMi versus standard first line
+
+11
+Reference ID: 4755629
+
+treatment (HU or other best available treatment). The primary efficacy endpoint in
+PEGINVERA, PROUD-PV and CONTINUATION-PV studies is complete hematological
+response which is a composite of hematocrit (HCT), platelet (PLT) and white blood cell (WBC)
+count responses and normal spleen size. Please refer to Clinical and Statistical reviews for
+interpretation of primary efficacy endpoint results.
+From a clinical pharmacology perspective, supportive evidence of effectiveness is demonstrated
+by 3 exposure-response (E-R) analyses. The first E-R analysis evaluated the influence of
+increasing ropeginterferon concentration on levels of pharmacodynamic biomarkers (HCT, PLT,
+and WBC) overtime. Data for this analysis was pooled from PEGINVERA and PROUDPV/CONTINUATION-PV clinical studies. In this analysis, ropeginterferon effect is
+characterized by an Imax model, whereby increasing concentrations are associated with decline of
+biomarker levels in a diminishing manner until a plateau is reached. The results of this analysis
+indicated that the IC50 for Imax models of HCT, PLT and WBC (0.719, 1.46, and 0.482 ng/mL,
+respectively) were below or comparable to the 5th percentile of observed ropeginterferon
+concentration (approx. 1 ng/mL, see Figure 3. Prediction Corrected VPC for the Applicant’s
+Final Model. Blue shared area represents the 95% prediction interval, blue solid line = median of
+the simulated data, black dashed line = median of the observed data, black circles = observed
+data, lower and upper black dashed lines represent 5th and 95th percentiles of the observed data
+in the appendix). Simulation from the models indicate increasing proportions of subjects with
+complete hematological response regardless of phlebotomy (CHR) overtime. Subjects were
+deemed to have attained CHR if they had platelet count < 400 ×109/L, WBC count < 10 ×109/L,
+and hematocrit < 0.45. These results imply that ropeginterferon treatment is associated with
+concentration dependent decline in hematological parameters overtime and that the selected
+dosage provides exposures at the plateau of the exposure-response curve.
+The second E-R analysis evaluated the relationship between steady state AUC and probability of
+CHR and complete hematological response without phlebotomy for at least 3 months (CHRP) at
+36 months after treatment. Subjects were deemed to have attained CHRP if, in addition to
+meeting CHR criteria, they did not undergo phlebotomy for at least 3 months previously. Data
+for this analysis was also pooled from the PEGINVERA and PROUD-PV/CONTINUATIONPV. For subjects who dropped out or with no follow-up data at month 36, last observed response
+was used for analysis (last observation carried forward (LOCF)). The results indicated an Emax
+relationship between ropeginterferon exposure and probability of CHR or CHRP at month 36
+after treatment. At the range of POPPK model predicted steady state AUC0-672h (50 h*ng/mL –
+550 h*ng/mL), the model predicted probability of CHR or CHRP range between 30% – 55%.
+In a third E-R analysis, relationship between ropeginterferon concentration and probability of
+biweekly CHRP (without LOCF) was explored in both PEGINVERA and PROUD-PV studies
+separately. In these analyses, ropeginterferon effect was characterized by an Emax model and the
+delay of drug effect was modelled through an effect compartment. Model predicted probabilities
+of CHRP, overtime, were consistent with observed biweekly proportion of subjects with CHRP.
+In the PROUD-PV (CONTI) study, the predicted probabilities (95% CI) were: 11% (6 -17%),
+21% (14 - 28%), 28% (21 - 36%), 62% (53 - 70%) and 83% (75 - 91%) at weeks 0, 12, 20, 52
+and 104, respectively. In the PEGINVERA study, the predicted probabilities (95% CI) were:
+22% (11 - 34%), 40% (28 - 53%), 50% (38 - 62%), 64% (47 - 78%), 70% (55 - 88%) at weeks 0,
+12, 20, 52 and 104, respectively. The increasing proportion of CHRP overtime reflects both the
+
+12
+Reference ID: 4755629
+
+protracted dose titration and the delayed drug effect in PV. Results from these E-R analyses
+further support the evidence of effectiveness of BESREMi for treatment of PV.
+Lastly, the effect of ropeginterferon on classical interferon-inducible biological markers,
+neopterin and 2' 5'-oligoadenylate synthase (OAS), which are widely used as indicators of
+interferon pharmacodynamic action is described below. In Study A09-102-P1101, the effect of
+single doses of BESREMi (24 μg to 270 μg) or 180 μg of PEGASYS® (peginterferon alfa-2a) on
+serum concentrations of OAS and neopterin were investigated in healthy adult male subjects.
+Furthermore, the PD effects between BESREMi and PEGASYS were compared at the 180-μg
+dose. A summary of PD parameters is presented in Table 1.
+Table 1. Summary Statistics for PD Parameters Following SC Administration of BESREMi or
+PEGASYS® in Study A09-102-P1101.
+PD Parameter
+
+Ropeginterferon Alfa-2 b Dose
+
+PEGASYS®
+
+24 µg
+(N=6)
+
+48 µg
+(N=6)
+
+90 µg
+(N=6)
+
+180 µg
+(N=6)
+
+225 µg
+(N=6)
+
+270 µg
+(N=6)
+
+180 µg
+(N=12)
+
+Emax (pmol/dL)
+Mean (SD)
+
+268.96
+(125.53)
+
+265.71
+(96.83)
+
+487.53
+(194.42)
+
+430.81
+(210.51)
+
+360.69
+(135.25)
+
+567.94
+(378.40)
+
+541.02
+(580.47)
+
+Tmax (day)
+Mean (SD)
+
+7.36 (4.63)
+
+7.17 (3.67)
+
+6.68 (3.72)
+
+8.84 (6.68)
+
+9.27 (5.32)
+
+6.83 (3.97)
+
+5.09 (2.80)
+
+AUC0-t (pmol•h/dL)
+Mean (SD)
+
+51970
+(24942)
+
+89552
+(45279)
+
+117122
+(73455)
+
+122506
+(49366)
+
+106759
+(55986)
+
+175233
+(107138)
+
+119272
+(43689)
+
+Emax (pmol/L)
+Mean (SD)
+
+14.65
+(4.25)
+
+17.87
+(7.11)
+
+14.03
+(1.53)
+
+18.14
+(5.33)
+
+20.47
+(3.51)
+
+18.69
+(6.46)
+
+21.21
+(4.85)
+
+Tmax (day)
+Mean (SD)
+
+4.34 (4.80)
+
+2.50 (0.84)
+
+3.00 (2.01)
+
+2.01
+(0.004)
+
+2.50 (0.84)
+
+2.17 (0.41)
+
+2.11 (0.29)
+
+1624
+(420)
+
+2424
+(1437)
+
+1213
+(970)
+
+2224
+(1087)
+
+2783
+(407)
+
+3328
+(1392)
+
+2453
+(1482)
+
+Statistic
+OAS
+
+Neopterin
+
+AUC0-t (pmol•h/L)
+Mean (SD)
+
+Source: Summary of Clinical Pharmacology studies (Table 2.7.2-7; Pages 37)
+NOTE: Mean (SD) AUC0-t values were rounded up or down.
+Mean (SD) Tmax (day) was calculated by dividing Mean (SD) Tmax (h) by 24 hours.
+PEGASYS® = peginterferon alfa-2a.
+Abbreviations: μg – microgram; AUC0-t – area under the curve from time 0 to the time of last quantifiable
+concentration; dL – deciliter; Emax – maximum observed concentration; CSR – clinical study report; h – hour; L –
+liter; N – number of subjects; pmol – picomole;
+OAS – 2', 5'–oligoadenylate synthetase; PD – pharmacodynamic; SC – subcutaneous; SD – standard deviation;
+Tmax – time to Emax
+
+BESREMi induced elevation of OAS levels. Mean OAS Emax increased in a dose related manner
+with BESREMi dose and occurred at mean Tmax of approximately 7 to 9 days. Likewise, mean
+OAS AUC0-t showed a trend for increase with BESREMi dose. Similar trends were observed for
+neopterin Emax and AUC0-t. However, Tmax occurred earlier for neopterin (approximately 2 to 4
+days) compared to Tmax for OAS. Due to the high inter-subject PD variability, the power model
+analysis of dose proportionality of PD parameters for BESREMi was not explored. However,
+both PD parameters (Emax and AUC0-t) appeared to be linearly related to dose. BESREMi had
+similar bioactivity as PEGASYS based on PD parameters as OAS and neopterin at the 180 μg
+
+13
+Reference ID: 4755629
+
+dose. However, a statistical analysis is compromised by the large variability and small sample
+size.
+3.3.2 Is the proposed dosing regimen appropriate for the general patient population for which
+the indication is being sought?
+The proposed titration dosing regimen includes a starting dose of 100 µg (single-agent therapy)
+(b) (4)
+by subcutaneous injection every two weeks and the dose will
+(b) (4)
+gradually increase by 50 µg every two weeks
+until the hematological parameters are
+stabilized (hematocrit less than 45%, platelets less than 400 × 109/L, and leukocytes less than 10
+× 109/L) with the maximum dose as 500 µg. The proposed dosing regimen was evaluated in
+PROUD-PV study. PEGINVERA (Stage 2) employed a similar dosing strategy but with a
+starting dose of 150 µg and titrated to a maximum allowed dose of 450 µg using the following 6
+dose levels: 100 µg, 150 µg, 225 µg, 300 µg, 400 µg, and 450 µg. Because the proposed and
+similar dosing regimens have been evaluated in clinical studies that are deemed effective, the
+review team agrees that the dosing regimen is acceptable for the treatment of adults with PV
+without symptomatic splenomegaly.
+The maximum tolerated dose (MTD) for BESREMi in patients with PV was explored in study
+PEGINVERA, which consisted of two stages (Stage 1: To identify the MTD of BESREMi; Stage
+2: Long term efficacy and safety evaluation). At Stage 1, determination of the MTD was based
+on a 3 + 3 dose escalation design with three patients per cohort, with seven dose levels including
+50 µg, 100 µg, 150 µg, 200 µg, 250 µg, 300 µg, 360 µg, 450 µg, and 540 µg. The MTD was
+determined to be 540 μg as the highest dose administered since no dose-limiting toxicity or other
+safety signals were observed for any of the dosing groups. The mean duration of treatment in
+Stage 2 was approximately 33 months. The individual complete hematological response (defined
+as hematocrit < 45% without phlebotomy (at least 3 months since last phlebotomy), platelets
+count ≤ 400 × 109/L, and leukocyte count ≤ 10×109 cells/L) was observed in 62.8% of patients,
+and a partial response, which is defined as hematocrit < 45% without phlebotomy but with
+persistent splenomegaly or elevated (>400 ×109/L) platelets count, or reduction of phlebotomy
+requirements by at least 50%, was observed in 34.9% of patients over 162-week treatment. In
+addition, the efficacy was maintained after the switch to the 4-week regimen from the maintained
+2-week regimen in terms of maintenance of best hematological response, maintenance of best
+molecular response, hematological parameters (hematocrit), spleen size, and need of
+phlebotomy. Most treatment-emergent adverse events were mild or moderate in intensity and
+resolved without sequelae. Based on the results from Study PEGINVERA, the maximum dose
+was set as 500 μg in the Phase 3 study, PROUD-PV.
+
+14
+Reference ID: 4755629
+
+Dose Confirmation through Modelling and Simulations
+Although body surface area (BSA) and JAK_V617F allele were identified as PK covariates they
+have no impact on clinical response since ropeginterferon dosage will be titrated to individually
+effective and tolerable levels. The exposure-response (E-R) analysis identified statistically
+significant relationships between ropeginterferon concentration and hematological endpoints
+(HCT, PLT and WBC). Simulation from the model indicated that proportion of subjects with
+CHR or CHRP increased overtime approaching a maximal response at week 104 in subjects
+naïve to hydroxyurea treatment. Similarly, simulations from a statistically significant
+ropeginterferon versus CHRP model indicated that proportion of patients with CHRP increased
+overtime approaching a maximal response by about week 56 in the PEGINVERA study and
+week 104 in the PROUD-PV/CONTINUATION study. Taken together, the results from E-R
+analyses indicate that despite all patients reaching maximum dose by week 20 and steady-state
+exposure at around 24 weeks, response to ropeginterferon treatment is delayed in some patients.
+Further simulations assessing alternative dose regimens (with higher starting and increment
+doses) determined that the proposed ropeginterferon dosage, as studied in the phase 3 trial, was
+optimal for efficacy and conservative for safety (see Section 4.2.2. Exposure-vs-efficacy
+Analysis).
+
+3.3.3 Is an alternative dosing regimen and/or management strategy required for
+subpopulations based on intrinsic factors?
+No. Dose adjustment is not necessary based on intrinsic factors such as age, body weight, gender,
+or race/ethnicity.
+Body weight: Population PK analysis identified body surface area (mean = 1.92 m2, range: 1.47
+– 2.52 m2) to be a statistically significant contributor to between subject variation in non-specific
+clearance of ropeginterferon. Due to strong correlation between BSA and body weight (mean =
+76.7 kg, range: 48.6 – 125 kg), subsequent post-hoc analyses indicated statistically significant
+differences in ropeginterferon exposures (Cmin and AUC) among quartiles of body weight with
+subjects in the lowest weight quartile (Q1) having higher exposure than subjects in higher
+quartiles (See Figure 1). Despite these differences, a body weight-based dosing is not needed
+due to individualized dose titration scheme and the final dose for each subject will be tailored
+based on effectiveness and tolerability.
+
+15
+Reference ID: 4755629
+
+Figure 1. Boxplots of the steady state post-hoc PK exposures versus quartiles of body weight in PV
+patients receiving 500 µg of ropeginterferon.
+Source: Applicant’s PKPD safety report (#0165, page 101)
+Race: The impact of race on PK and response to ropeginterferon treatment could not be assessed
+as the study population in both PROUD-PV and PEGINVERA comprised of mostly Caucasians
+(99.4%) patients and only 1 Asian patient.
+Age: Population PK analysis identified age (mean = 54.3 years, range: 20 – 85 years) to have
+statistically significant contribution to variation in ropeginterferon absorption rate constant (Ka)
+with subjects ≥ 65 years old having lower Ka than < 65 years old. However, the impact did not
+warrant dose adjustment based on age as there was no significant difference in AUC and Cmax
+between the two patient groups.
+In the analysis to determine predictors of CHRP at 36 months (±4months), ropeginterferon AUC
+and age were determined to be statistically significant predictors of CHRP with the likelihood
+for CHRP decreasing by 0.96 folds for each one-year increase in age. However, this also does
+not warrant alternative dosing since ropeginterferon dose is individually titrated to effective and
+tolerable doses.
+Gender: In the population PK analysis, sex (41% female) was not a contributor to between
+subject differences in PK parameters. However, sex was identified as a significant predictor of
+CHRP being a covariate on both Emax and intercept parameters in the longitudinal logistic
+regression model of ropeginterferon vs CHRP. Based on the model, female subjects have 16% 24% higher Emax than male subjects and 25% to 40% lower intercept than male patients.
+Renal Impairment: Creatinine clearance normalized to BSA, CLCR (mean = 75.5
+ml/min/1.73m2, range: 23.9 – 152 ml/min/1.73m2) was assessed for contribution to between
+subject variation in non-specific clearance of ropeginterferon (CL/F). Most of the studied
+subjects had CLCR > 30 ml/min/1.73m2. Only one subject had CLCR < 29 ml/min/1.73m2.
+Population PK analysis did not find CLCR to be a covariate to CL/F or any other PK covariate.
+
+16
+Reference ID: 4755629
+
+Subsequent post-hoc analysis also indicated no difference in ropeginterferon exposure among
+different CLCR quartiles. Therefore, no dose-adjustment of BESREMi is needed in patients with
+eGFR > 30 ml/min/1.73m2. However, renal toxicity as evidenced by increased serum creatinine
+occurred in BESREMi-treated patients. The Applicant proposed discontinuation of BESREMi
+use if severe renal impairment develops during treatment. Therefore, the review team agrees to
+(b) (4)
+(b) (4)
+not recommend use of BESREMi in patients with eGFR
+< 30 mL/min/1.73m2
+
+Hepatic Impairment
+Population PK analysis did not identify the time varying ALT and AST to be covariates on PK
+of ropeginterferon alfa-2b. No dose adjustment is needed in patients with hepatic impairment
+(Child-Pugh A).
+BESREMi is contraindicated in patients with hepatic impairment (Child-Pugh B or C). Increases
+in ALT (≥3 times the upper limit of normal), AST (≥3 times the upper limit of normal), GGT
+(≥3 times the upper limit of normal) and bilirubin (>2 times the upper limit of normal) levels
+have been observed in patients treated with BESREMi. The Applicant recommends reducing the
+dose of BESREMi when the increase in liver enzyme levels is progressive and persistent. If the
+increase in liver enzymes is progressive and clinically significant despite dose reduction, or if
+there is evidence of hepatic decompensation, therapy should be discontinued.
+
+3.3.4 Are there clinically relevant drug-drug interactions and what is the appropriate
+management strategy?
+Drug-drug interaction potential for BESREMi has been conducted by in vitro assessment.
+BESREMi does not inhibit the activity of CYP1A2, 2A6, 2B6, 2C8, 2C9, 2C19, 2D6, 2E1, or
+3A4 and is not an inducer of CYP1A2, 2B6 or 3A4. However, BESREMi is a time-dependent
+inhibitor of CYP2A6. There was a 37.3% inhibition on CYP2A6 activity when human liver
+microsome was incubated with BESREMi at 50 ng/mL (which is close to mean Cmax at the dose
+of 450 µg) for 30 min. Given that there are virtually no reported drugs metabolized primarily by
+CYP2A6, no further clinical assessment is required.
+Certain proinflammatory cytokines, including interferons, can suppress CYP450 enzymes
+resulting in increased exposures of some CYP substrates. This influence needs more time to take
+effect and administration of multiple dose of test drug is commonly required for drug-drug
+interaction assessment. As the Applicant has not conducted clinical DDI studies, as a precaution,
+patients on BESREMi who are receiving concomitant drugs which are CYP450 substrates with a
+narrow therapeutic index should be monitored to inform the need for dosage modification for
+these concomitant drugs.
+
+17
+Reference ID: 4755629
+
+3.1.5 Is the to-be-marketed formulation the same as the clinical trial formulation, and if not,
+are there bioequivalence data to support the to-be marketed formulation?
+Ropeginterferon alfa-2b is a covalent conjugate of the protein proline-interferon alfa-2b,
+(b) (4)
+produced in Escherichia coli cells by recombinant DNA technology, with mPEG moiety.
+were used in the development of the BESREMi drug substance. Based
+on the data obtained from the batches produced by all processes, it was concluded that the drug
+(b) (4)
+substance from the
+were comparable and there was no negative impact on the
+process performance and product quality as a result of any modifications. Therefore, drug
+substance from these processes were used in the clinical development program, including the
+Phase 3 trials.
+Five different drug product (DP) presentations were used throughout the development program:
+(b) (4)
+(b) (4)
+(i & ii)
+ready-to-use vials, (iii)
+ready-to-use
+(b) (4)
+vial, and (iv & v)
+pre-filled pens (PFP). PEGINVERA study
+(b) (4)
+used 0.18 mg/mL solution for injection in
+vials initially, but later transitioned to
+(b) (4)
+vial to reduce the number of injection sites during subcutaneous
+(b) (4)
+administration. As the clinical development transitioned from Phase 1/2 to Phase 3, the
+0.5
+mg/mL vial was further investigated in the PROUD-PV and CONTINUATION-PV studies. The
+(b) (4)
+(b) (4)
+0.5 mg/mL
+glass cartridges (PFP) were also introduced in the
+CONTINUATION-PV and PEN-PV studies.
+The PEN-PV study was conducted to assess the self-administration of BESREMi using a PFP.
+The enrolled patients either entered the study after completion of PROUD-PV or from the ongoing CONTINUATION-PV study. During the 12-week treatment period, these patients
+switched from vial drug product administered by healthcare providers to self-administered PFP.
+Since the drug product formulation was the same between vial and PFP and there was no change
+in individualized dose of BESREMi, PK assessment was not conducted in PEN-PV study.
+(b) (4)
+
+. Additionally, the rate of responders (hematological
+response with and without spleen size) was maintained during study participation, showing no
+significant difference between the vial and PFP. Finally, there were no safety concerns arising
+from the administration of BESREMi using the pre-filled pen.
+The to-be-marketed DP presentation is 0.5 mg/mL in 1 mL pre-filled syringe (PFS) and has the
+same inactive ingredients, in the same proportion as the 0.5 mg/mL vial and cartridge (PFP).
+Analytical comparability studies are considered sufficient to support the transition from the
+clinical DPs, 0.5 mg/mL in ready-to-use vials and PFP to the proposed to-be-marketed 0.5
+mg/mL, 1 mL, glass PFS. There are some differences in the container closure systems between
+PFP and PFS, but the basic operation and method of use are similar. Although the needle for
+(b) (4)
+PFS (30G x 12.7mm) is thinner and longer than the needle of PFP
+the injection
+
+18
+Reference ID: 4755629
+
+force of PFS is not an issue because the BESREMi DP is not a viscous liquid (close to the
+viscosity of water). Early part of study PEGINVERA used a lower strength product, namely
+0.18 mg/mL, but the inactive ingredients are the same as the 0.5 mg/mL strength. Since the
+majority of the clinical development program used the 0.5 mg/mL strength, bridging study to the
+lower strength is not warranted.
+Based on the information summarized above, the review team concludes that an adequate bridge
+has been established across all different DP presentations used in the clinical development
+program. This supports the use and approval of 0.5 mg/mL in 1 mL PFS.
+
+19
+Reference ID: 4755629
+
+4. APPENDICES
+4.1 Summary of Bioanalytical Method Validation
+The Applicant used an enzyme linked immunosorbent assay (ELISA) procedure (doubleantibody sandwich electrochemiluminescence method) to determine plasma BESREMi
+concentrations. MSD Human IFN-α Ultra-Sensitive Kit was used. Anti-human IFNa-2a
+antibodies are precoated on the plate. 50 μL of HSC assay diluent (Diluent 2) / Triton 0.6 % is
+added to each well and incubated for 30 min at RT. Then 10 μL of samples, standards or quality
+controls are added to the well and incubated for 2 hours at room temperature. The plate is
+washed and 25 μL of an antibody conjugated with Ruthenium(ll)-tris(bipyridyl)2+ are added to
+the well. After 2 hours of incubation at room temperature, the plate is washed again and 150 μL
+2X Read Buffer containing 12-O-tetradecanoylphorbol-13-acetate (TPA) are added per well.
+After connecting to voltage, the TPA releases electrons becoming a positively charged TPA
+radical. [Ru(bpy3)]2+ is oxidized to [Ru(bpy3)]3+. This molecule binds the free electron and is
+thereby reduced to [Ru(bpy3]2+ switching to an energic high level. Emitting photons at 620 nm,
+the molecule reaches a lower energetic level. The intensity of the emitted chemiluminescence
+signal is directly proportional to the concentration of the analyte in the sample. The
+chemiluminescence signal is measured using a QuickPlex (Meso Scale Discovery). The
+(b) (4)
+bioanalytical methods were developed and validated by
+The ELISA methods were validated in compliance with the standards set forth in the
+FDA Bioanalytical Method Validation guidance. Summary of the validation parameters are
+presented in Table 2.
+Table 2. Summary Review of BESREMi plasma assays
+BESREMi
+Bioanalytical method validation reports
+
+6780.012511
+
+Validation assay range (ng/mL)
+
+0.347-44.4
+
+QCs (ng/mL)
+
+0.347, 1.11, 3.33, and 44.4
+
+Inter-day precision (% CV)
+
+≤ 11.5
+
+Inter-day accuracy (% Bias)
+
+-1.3 to 10.2
+
+Intra-day precision (% CV)
+
+≤ 4.5
+
+Intra-day accuracy (% Bias)
+
+-1.3 to 10.2
+
+Reference standard
+
+08DPL-B002
+
+Specificity
+
+No significant interference observed in the blank matrix
+
+Freeze/thaw stability
+
+4 freeze (-20/-80°C)-thaw (room temperature) cycles
+15 months at 4°C in formulation solution
+
+Stock stability
+
+20
+Reference ID: 4755629
+
+Bench-top stability
+
+24 hours at room temperature in human serum
+
+Processed stability
+
+18 hours at room temperature in formulation solution
+23 days at -80°C in human serum
+
+Long-term storage stability
+
+4.2 PHARMACOMETRIC ASSESSMENT
+4.2.1. Population PK Analysis
+4.2.1.1. Review Summary
+The applicant’s population PK analysis is acceptable for characterizing sources of PK variability and for
+exposure-response analyses to support the proposed dosage of ropeginterferon in patients with
+polycythemia vera. The goodness-of-fit (GOF) plots and the prediction-corrected visual predictive check
+(PcVPC) indicate that the final population PK model is adequate in characterizing the PK profile of
+ropeginterferon in health subjects and subjects with polycythemia vera.
+The final population PK model has 3 submodels: a one-absorption compartment model parameterized in
+first order absorption rate constant (Ka) and absorption lag time (Tlag); a non-specific one-compartment
+disposition model parameterized in clearance (CL/F) and volume of the central compartment (Vc/F); and
+a specific target-mediated disposition (TMDD) model parameterized in receptor decay constant (Kdec),
+drug-receptor complex decay constant (Kint), drug and drug-receptor complex equilibrium rate constant
+(KD), baseline receptor amount (Rtot0), and steady state receptor amount (Rtotss). An assumption was
+made that, due to treatment, Rtot0 decreased from baseline value at day 7 and continued to decrease to a
+steady state value (Rtotss).
+Identified sources of variability for CL/F were body surface area (BSA) and JAK2_V617 allele burden.
+CL/F increased exponentially with increasing BSA and linearly with increasing JAK2_V617 allele burden.
+The only source of Vc/F variability was polycythemia vera disease; subjects with polycythemia vera had
+89% higher Vc/F compared to healthy subjects. Ka decreased exponentially with increasing age.
+Inter-individual variabilities were estimated for CL/F, Vc/F, Ka, Rtot0, and Kint. The estimated IIV were
+small for CL/F (25%) but large for the rest of the parameters (> 40%). Eta Shrinkages for CL/F (22%),
+Vc/F (44%), and Ka (34%) support evaluation of covariates. The estimated PK parameters appear
+reasonable. The applicant’s analyses were verified by the reviewer and no significant discordance was
+identified.
+The developed model was used to support labeling of ropeginterferon in the current submission as
+outlined in Table 3.
+
+21
+Reference ID: 4755629
+
+Table 3. Reviewer’s Comments on the Population PK model.
+Utility of the final model
+
+ropeginterferon dosing is
+individualized
+based
+on
+response and tolerability.
+Therefore, dosing based on
+identified PK covariates in not
+necessary
+
+A statistically and clinically
+meaningful exposure-efficacy
+relationship for complete
+hematological
+response
+without phlebotomy (CHRP)
+was identified supporting
+rogeginterferone
+dose
+titration based on response
+and tolerability
+
+No extrinsic covariates were
+identified.
+
+Furthermore,
+shallow
+exposures
+versus
+safety
+relationships
+(thrombocytopenia and GGT
+elevation) were identified,
+supporting the practice of
+safety monitoring during dose
+up-titrations
+
+Post-hoc PK parameters were used in
+exposure-efficacy/safety analyses
+
+The use of post-hoc PK
+parameters in E-R analyses is
+acceptable since the model
+performance was reasonable
+as indicated by GOF and
+PcVPC
+
+Intrinsic
+factor
+Support applicant's
+proposed labeling
+statements
+about
+intrinsic
+and
+extrinsic factors
+Extrinsic
+factor
+
+Derive
+exposure
+metrics
+for
+Exposure-response
+analyses
+
+Reviewer's Comments
+
+Predict exposures at
+alternative dosing
+regimen
+
+The model was not used to
+assess predicted exposures at
+other doses
+
+4.2.1.2. Introduction
+The primary objectives of this analysis were to:
+•
+•
+•
+
+Develop the population pharmacokinetic model of ropeginterferon.
+Identify sources of PK variability that may impact exposure to ropeginterferon.
+Generate post-hoc PK parameters for subsequent exposure-response analyses.
+
+4.2.1.3. Model development
+Data
+The analyses were based on PK data from 3 studies. The study design, study population, and timing of
+blood samples varied among the 3 clinical studies. Brief descriptions of the studies included are presented
+in Table 4.
+The final NONMEM data file for analysis contained 1538 PK observations from 200 subjects. Table 5
+provides summary statistics of the baseline demographic covariates in the analysis dataset.
+
+22
+Reference ID: 4755629
+
+Table 4. Summary of Studies with PK Sampling Included in Population PK Analysis.
+Study No.
+
+A09-102
+
+PEGINVERA
+
+PROUD-PV
+
+Population
+
+Dosage
+
+PK sampling
+
+Phase I,
+randomized, doubleblind, active control,
+single dose
+escalation, PK and
+safety study
+
+Six dosing groups
+received the
+following dose
+levels; 24ug,
+48ug, 90ug,
+180ug, 225ug,
+and 270ug
+
+PK samples
+collected at 1
+hour prior and at
+1, 3, 6, 9, 12, 16,
+24, 36, 48, 72,
+96, 120, 144,
+168, 192, 240,
+288, 336, 504,
+and 672 hours
+after
+admininstration
+
+Male and
+female
+subjects with
+PV
+
+Open label,
+prospective, phase
+I/II, 3+3 dose
+escalation to
+maximum tolerated
+dose (MTD) and
+maintenance of
+MTD for as long as
+it was effective, PK,
+safety and efficacy
+were assessed
+
+Tested dose levels
+in 3+3 dose
+escalation part
+were; 50, 100,
+150, 250, 300,
+360, 450, and
+540: In
+intrapatient dose
+escaltion part
+dose was titrated
+in levels (100,
+150, 225, 300,
+400, and 450)
+until response or
+untolerated,
+maximum dose
+was 540
+
+PK sample
+collected at
+trough, and at
+72, 120, 144,
+192, 240, and
+288 after biweekly dose
+administrations.
+After reaching
+individual MTD,
+trough samples
+were collected
+for 5 successive
+same dose levels
+
+Male and
+female
+Subjects with
+PV
+
+Phase III,
+randomized, open
+label, controlled,
+parallel arm,
+efficacy and safety
+study
+
+Dose titration
+from 50ug or
+100ug up to
+individually
+tolerated doses or
+response,
+maximum being
+500
+
+Sparse PK
+samples
+collected at
+trough, and
+every 3 months
+
+Healthy adult
+male subjects
+
+Study design
+
+Source: Reviewer’s summary of data from Applicant’s POP PK report (#0158-1) and
+Clinical study report (p11012010)
+
+23
+Reference ID: 4755629
+
+Table 5. Summary of Baseline Demographic Covariates.
+
+Source: Applicant’s population PK report (#0158-1) at page 32
+
+Base Model
+The final base model was comprised of 3 submodels as follows: a non-specific one-compartment
+disposition model parameterized in clearance (CL/F) and volume of the central compartment (Vc/F); a
+specific target-mediated disposition (TMDD) model parameterized in receptor decay constant (Kdec), drug
+and drug-receptor equilibrium constant (KD), drug-receptor decay constant (Kint), baseline receptor
+amount (Rtot0), and steady state receptor amount (Rtotss); and an absorption compartment model
+parameterized in first order absorption rate constant (Ka) and absorption lag time (Tlag). An assumption
+was made that, due to treatment, Rtot0 decreased overtime from the baseline value at day 7 to a steady-state
+value (Rtotss). Inter-individual variabilities were estimated for 5 structural model parameters, namely CL/F,
+Vc/F, Ka, Rtot0, and Kint. The parameters were assumed to be log-normally distributed and therefore IIV
+values were estimated using exponential error models. Residual variability of the observed data was
+modeled using combined additive and proportional residual error models. Data below the limit of
+quantification (BLQ) were excluded from analysis. Outlying data points (defined as data points with
+absolute conditional weighted residuals CWRES > 4) were also excluded from further model development
+steps. Model evaluation and selection of the base model were based on standard statistical criteria of
+
+24
+Reference ID: 4755629
+
+goodness-of-fit (GOF) such as a decrease in the minimum objective function value (OFV), accuracy of
+parameter estimation (i.e., 95% confidence interval excluding 0), successful model convergence, and
+diagnostic GOF plots.
+
+Covariate Analysis
+Graphical exploration of ETA-vs-covariate plots were used for selection of covariates to include in
+univariate analysis of parameter-covariate relationships. The following covariates were assessed: patient
+demographics (baseline age, weight, height, body mass index, body surface area (BSA), sex, or race),
+clinical laboratory measures for hepatic injury (time-varying AST and ALT), calculated baseline CLcr as a
+measure of renal function, or other disease-related indices (baseline JAK2_V617F allele burden, ECOG
+performance status, WBC count, platelet count, and HCT).
+Covariates identified through graphical explorations were included in the model in a stepwise, univariate,
+forward inclusion step. Parameter-covariate relationships were retained in the model if all of the following
+retention criteria were met: (1) significant decrease in OFV (𝛥 𝑂𝐹𝑉 ≥ 6.635) (2) the model converged and
+minimized successfully (3) decrease in variance of the parameter on which the covariate was added (4) no
+compensatory
+increase
+in
+variance
+of
+other
+parameters
+or
+residuals.
+After each covariate inclusion, graphical exploration was used to identify remaining parameter-covariate
+relationships. Collinearity between covariates were also investigated. The identified non-collinear
+covariates were added to the covariate model. After conclusion of the stepwise forward step, covariance
+between variance parameters were investigated. In a final step, covariates were removed from the model in
+a stepwise backward covariate elimination step. During this step, covariates were to be permanently
+excluded from the model if removing them resulted in increase in OFV < 10.83.
+Continuous covariates were evaluated using a power function and categorical covariates were
+parameterized as a fractional change.
+
+Final Model
+The stepwise covariate model building included the following relationships in the forward inclusion step:
+BSA and JAK2_V617F allele burden as covariate on CL/F; Healthy status as covariate on Vc/F; and age
+as covariate on Ka. The parameter estimates for the final covariate model are listed in Table 6. The
+goodness-of-fit plots for the final covariate model for all data are shown in Figure 2. The Visual Predictive
+Check (VPC) plot for the final covariate model with all data is shown in Figure 3.
+
+25
+Reference ID: 4755629
+
+Table 6. Parameter estimates from the Applicant’s final population PK model.
+
+Source: Applicant’s population PK report (#0158-1, page 63)
+
+26
+Reference ID: 4755629
+
+Figure 2. Goodness-of-fit plots for final covariate model.
+Source: Reviewer’s post-processing of NONMEM outputs of the Applicant’s pop PK model
+
+27
+Reference ID: 4755629
+
+Figure 3. Prediction Corrected VPC for the Applicant’s Final Model. Blue shared area
+represents the 95% prediction interval, blue solid line = median of the simulated data, black
+dashed line = median of the observed data, black circles = observed data, lower and upper black
+dashed lines represent 5th and 95th percentiles of the observed data
+Source: Reviewer’s post-processing of NONMEM outputs of the Applicant’s pop PK model
+
+4.2.1.4. Reviewer’s comments
+The reviewer finds the applicant’s model development steps and identification of covariate effects to be
+acceptable. Based on simulations using the applicant’s final model, ropeginterferon AUC and Cmin were
+dependent on body weight with subjects in the first quartile of body weight having 20% and 27% higher
+AUC and Cmin respectively than subjects with median weight. Similarly, the simulations indicated that
+subjects in first quartile of JAK2 allele burden have 23% and 25% higher AUC and Cmin respectively than
+subjects with median burden. However, these covariate effect will not have impact on ropeginterferon
+exposure since the dose will be individually titrated to an effective and tolerable amount. The reviewer
+repeated the applicant’s analyses and found similar results as those reported by the applicant.
+
+4.2.2. Exposure-vs-efficacy Analysis
+4.2.2.1. Review Summary
+The applicant’s exposure-response (ER) analyses for the hematological endpoints (hematocrit (HCT),
+platelets (PLT), and white-blood cells (WBC)) are acceptable for characterizing the hematological profiles
+during treatment with ropeginterferon. The hematological profiles were described by indirect response
+models parameterized in baseline hematological values (HCT0, PLT0, and WBC0), first-order rate constant
+
+28
+Reference ID: 4755629
+
+𝐼𝑚𝑎𝑥 × 𝐶𝑜𝑛𝑐𝛾
+
+of cell elimination (𝐾𝑜𝑢𝑡), and drug effect (𝐷𝐸 = 𝐼𝐶50 + 𝐶𝑜𝑛𝑐𝛾 ). Baseline zero-order rate constant of cell
+production (𝐾𝑖𝑛) was derived as product of 𝐾𝑜𝑢𝑡 and baseline hematological values. There was good
+agreement between model predicted and observed data. However, in these models, baseline hematological
+values (HCT0, PLT0, and WBC0) reflect the intensity of periodic phlebotomy that the patients received
+before starting ropeginterferon treatment. As a result, the derived 𝐾𝑖𝑛 values may be lower than true intrinsic
+𝐾𝑖𝑛′ values due to the PV disease without phlebotomy. With 𝐾𝑖𝑛 being lower than its true value, the
+estimated drug effect (DE) parameters (Imax, IC50, and 𝛾) appear to be apparent than true values.
+Furthermore, the estimated DE parameters appears to be apparent values than true values because, despite
+that some patients continued to receive phlebotomy during ropeginterferon treatment, the influence of
+phlebotomy
+on
+hematological
+profiles
+was
+not
+accounted
+for
+in
+the
+model.
+In order to account for phlebotomies, both before and during treatment, the reviewers developed an
+alternative model describing the longitudinal relationship between drug exposure and probability of
+complete hematological response without phlebotomy within previous 3 months (CHRP). The model was
+used to predict the probability of CHRP overtime at different ropeginterferon dosages, and through
+simulations, the applicant’s recommended dosage was supported. The sections below summarize the
+applicant’s E-R analyses followed by the reviewer’s independent E-R analyses.
+
+4.2.2.2. Applicant’s exposure-response analyses
+The applicant developed ER models for three hematology PD endpoints (HCT, PLT, and WBC) using
+pooled data from PEGINVERA, PROUD-PV, PEN-PV, and CONTINUATION-PV studies (n=178). A
+brief description of PEGINVERA and PROUD-PV studies is given in Table 4. The PEN-PV study assessed
+the ease of use and safety of a self-administration device prefilled with ropeginterferon in 36 patients from
+the PROUD-PV study who had completed 12 months of continuous treatment with ropeginterferon. The
+CONTINUATION-PV assessed long-term safety and efficacy of ropeginterferon compared to best
+available therapy (BAT) among patients completing the first 12 months of the PROUD-PV study. Summary
+statistics of baseline subject characteristics for the overall ER analysis population are given in Table 7.
+Mean age, weight and JAK2_V617 allele burden were 58.5 years, 76.2 Kg, and 42.5% respectively.
+
+29
+Reference ID: 4755629
+
+Table 7. Baseline characteristics of subjects included in the PKPD studies.
+
+Source: Applicant’s population PKPD report (#0165)
+
+The applicant tested a maturation PK-PD model and indirect response PK-PD model for the effect of
+ropeginterferon on hematology PD endpoints. The applicant found that the basic indirect response PK-PD
+model, as shown in Figure 4, was the most parsimonious model to characterize the joint effects of serum
+ropeginteferon and time-varying hydroxyurea (HU) dose on reducing HCT, PLT and WBC in PV patients.
+
+30
+Reference ID: 4755629
+
+Figure 4. Schematic diagram of the exposure response model
+Source: Applicant’s population PKPD report (#0165)
+The indirect ER models were parameterized by rate constant of cell expiration (𝐾𝑜𝑢𝑡) and estimated baseline
+fraction/amount (HCT0, PLT0, and WBC0). The baseline zero-order rate constant of cell production or
+generation of the PD endpoints (𝐾𝑖𝑛) was calculated as the product of baseline fraction/amount and 𝐾𝑜𝑢𝑡.
+The 𝐾𝑖𝑛 decreased over time due to drug effect (DE). The ropeginterferon DE model was an Emax model
+parameterized by Imax (maximum reduction in 𝐾𝑖𝑛), EC50 (ropeginterferon concentration at which 50%
+of Imax achieved), and the Hill coefficient (𝛾). Ropeginterferon concentration (Cs) was derived from the
+final population PK model and the emperical bayes parameter estimates. The hydroxyurea effect model
+was also an Emax model with time varying hydroxyurea dose as the driver of effect. Stepwise covariate
+model building (guided by graphical exploration) was used to assess covariates of the ER model parameters.
+Results from each of the hematology PD endpoint models are briefly described in the sub-sections below.
+
+Ropeginterferon concentration vs hematocrit.
+The parameter estimates of the final hematocrit ER model are given in Table 8. Sex was a covariate on
+HCT0, with female subjects estimated to have 6.49% lower baseline hematocrit than males. On the other
+hand, baseline observed HCT was a significant covariate on Imax, with Imax parameterized as increasing
+with baseline HCT using a power function.
+
+31
+Reference ID: 4755629
+
+Table 8. Parameter estimates of the final indirect ER model for effect of ropeginterferon on
+HCT in PV patients.
+
+Source: Applicant’s population PKPD report (#0165, pages 55)
+
+The PC-VPC of the final ER model for HCT is shown in Figure 5. The median of the simulated HCT
+profiles is higher than the median of the observed data for the first 3 months of treatment indicating that the
+model overpredicts HCT profiles for the first 3 months.
+
+32
+Reference ID: 4755629
+
+Figure 5. PC-VPC of the final indirect-response ER model for HCT in PV patients. Red solid
+lines represent model predictions of the median while blue solid line represent median of the
+observed data. Red shaded area represents 95% prediction interval while blue shaded area
+represents 95%CI of the observed data.
+Source: Applicant’s population PKPD report (#0165, pages 58)
+
+Ropeginterferon concentration vs platelets.
+The parameter estimates for the final indirect-response ER model for PLT are given in Table 9. Covariate
+analysis identified baseline PLT count to be a statistically significant covariate on Imax, with Imax
+parameterized as increasing with the observed baseline PLT count using a power function.
+
+33
+Reference ID: 4755629
+
+Table 9. Parameter estimates of the final indirect ER model for effect of ropeginterferon on PLT in PV
+patients.
+
+Source: Applicant’s population PKPD report (#0165, pages 60)
+Unlike the HCT model, the PLT model has no overprediction of the median PLT profiles overtime (See
+Figure 6)
+
+34
+Reference ID: 4755629
+
+Figure 6. PC-VPC of the final indirect-response ER model for PLT in PV patients. Red solid
+lines represent model predictions of the median while blue solid line represent median of the
+observed data. Red shaded area represents 95% prediction interval while blue shaded area
+represents 95%CI of the observed data.
+Source: Applicant’s population PKPD report (#0165, pages 63)
+
+Ropeginterferon concentration vs white-blood cells.
+The parameter estimates of the final indirect-response model for WBC in PV patients are given in Table
+10. Covariate analysis identified JAK2_V617F allele burden to be a covariate for both WBC0 and Imax.
+Baseline WBC was identified as a covariate for Imax, with Imax parameterized as increasing with baseline
+WBC using a power function.
+
+35
+Reference ID: 4755629
+
+Table 10. Parameter estimates of the final indirect ER model for effect of ropeginterferon on WBC in PV
+patients.
+
+source: Applicant’s population PKPD report (#0165, pages 65)
+
+Unlike the HCT model, the WBC model has no overprediction of WBC profiles overtime (See Figure 7)
+
+36
+Reference ID: 4755629
+
+Figure 7. PC-VPC of the final indirect-response ER model for PLT in PV patients. Red solid
+lines represent model predictions of the median while blue solid line represent median of the
+observed data. Red shaded area represents 95% prediction interval while blue shaded area
+represents 95%CI of the observed data.
+Source: Applicant’s population PKPD report (#0165, pages 68)
+
+Steady state ropeginterferon exposure vs probability of complete hematological response at 3
+years
+The applicant also assessed the relationship between steady-state ropeginterferon exposures (Cmin_ss,
+Cmax_ss, and AUC0-tau_ss) versus the probability of complete hematological responses. Several complete
+hematological response endpoints were assessed, but only two of them will be reviewed here: (1) Complete
+hematological response regardless of phelobotomy (CHR). For this endpoint, the following hematological
+
+37
+Reference ID: 4755629
+
+criteria were to be met at 36 months ( ± 4) after start of treatment; platelet count < 400 × 109/𝐿, WBC
+counts < 10 × 109/𝐿, and hematocrit < 0.45. (2) Complete hematological response without phlebotomy
+(CHRP). For this endpoint, subjects had CHRP if in addition to meeting criteria for CHR, they did dot
+undergo phlebotomy within the previous 3 months. For every patient, steady-state exposure measures were
+generated based on the structural PK model, the actual dosing histories, and individual post-hoc PK
+parameters. All patients recruited in PEGINVERA (n=51) and PROUD-PV (n=127) study were included
+in these analyses. For patients who did not receive dose at or past 35 months, the last available
+hematological data was used to calculate CHR or CHRP (Last observation carried forward). Exploratory
+graphical analysis of proportions with CHR/CHRP versus 10 quantiles of Cmin_ss, Cmax_ss, and AUC0tau_ss were used to determine plausible relationships to take further into logistic regression analysis.
+Logistic regression analyses identified 𝐴𝑈𝐶0 ― 𝑡𝑎𝑢 to be the best predictor of CHR and CHRP. Additional
+predictors were age, and baseline platelet count. Table 11 shows the structure of the final logistic regression
+model and the estimated parameters. Figure 8 and Figure 9 are validation plots showing good agreement
+between observed and predicted probabilities of CHR and CHRP at 36 months ( ± 4) after treatment.
+
+Table 11. Parameter estimates of the final logistic regression models of ropeginterferon AUC0tau versus CHR and CHRP.
+
+Source: Applicant’s population PKPD report (#0165, pages 82)
+
+38
+Reference ID: 4755629
+
+Figure 8. Observed and Predicted probability of CHR versus quantiles of steady state AUC0-tau.
+Source: Applicant’s population PKPD report (#0165, pages 83)
+
+39
+Reference ID: 4755629
+
+Figure 9. Observed and Predicted probability of CHRP versus quantiles of steady state AUC0tau.
+source: Applicant’s population PKPD report (#0165, pages 84)
+
+Simulation of hematological endpoints and derivation of CHR overtime
+The applicant used parameters from the final PKPD models of hematocrit, platelet, and WBC count to
+simulate time profiles for these hematological endpoints in a virtual population of patients having the same
+demographic and disease related characteristics as the patients in PEGINVERA and PROUD-PV studies.
+Individual PKPD models of hematocrit, platelet, and WBC count were merged into one full model which
+was subsequently used to simulate the profiles of hematocrit, platelet, and WBC count simultaneously. The
+full model ensured covariance between variance parameters of the individual models. The aim of the
+simulations were to support the recommended ropeginterferon dosage and therefore the following dosages
+were used during the simulations: For patients naive to hydroxyurea, ropeginterferon was initiated at 100𝜇𝑔
+, and titrated by 50𝜇𝑔 every 2 weeks until a maximum dose of 500 𝜇𝑔; For patients switching from
+hydroxyurea, the starting dose was 50𝜇𝑔, tritrated by 50𝜇𝑔 every 2 weeks until a maximum dose of 500
+𝜇𝑔, in these patients, hydroxyurea dose was reduced from 1000 mg to 600 mg after 6 weeks of treatment
+and finally stopped at week 12. The simulated hematocrit, platelets, and WBC counts were used to derive
+CHR at 12, 26, 38, 52, 64, 78, 90, 104, 116, 130, 142, and 156 weeks after treatment. Figure 10 shows the
+derived CHR overtime. Since the individual models did not account for phlebotomy, it was not possible to
+simulate phlebotomy and derive CHRP overtime.
+
+40
+Reference ID: 4755629
+
+Figure 10. Predicted proportions of CHR overtime (Derived from hematological endpoints
+(HCT, PLT, and WBC) profiles) based on the final HCT, PLT, and WBC exposure-response
+models.
+Source: Reviewer’s analyses of the derived CHR data
+4.2.2.3. Reviewer’s comments
+The applicant’s analyses are acceptable for making conclusions on exposure-response relationships for
+HCT, PLT, WBC and CHR. They should not however be used to establish CHRP profile over the course of
+treatment. This is because the models do not account for effect of phlebotomies before and during treatment
+on the hematological endpoints. On the other hand, CHRP is an endpoint that account for influence of
+phlebotomy on the wellbeing of patients. For this reason, the reviewer developed an exposure-response
+model to describe the relationship between ropeginterferon exposure and CHRP overtime (0 - 24 months).
+The sections below describe the methods and results from the reviewer’s independent analyses.
+
+4.2.2.4. Reviewer’s exposure-response analyses
+Introduction
+The applicant’s E-R analyses do not account for the effect of phlebotomies on the hematological
+endpoints. A clinical endpoint that account for the effect of phlebotomy could be useful at
+establishing the course of clinical response overtime. CHRP is an endpoint that account for
+influence of phlebotomy on the wellbeing of patients. Bi-weekly CHRP data were available
+since the start of treatment and could be used to establish the bi-weekly clinical response
+overtime. The effect of ropeginterferon exposure on the bi-weekly response was investigated by
+the reviewer in a longitudinal exposure-response analysis.
+
+41
+Reference ID: 4755629
+
+Objectives
+The objective of this exposure-response modeling was to describe the relationship between
+ropeginterferon exposure and CHRP overtime (0 - 24 months). Other objectives were to obtain
+post-hoc estimates of clinical responses overtime in both PEGINVERA and PROUDPV/CONTINUATION-PV study, and to test the impact of different dosage algorithms (varying
+starting, increment and maximum doses) on the predicted time course of clinical response.
+Methods
+Longitudinal modeling of ropeginterferon exposure vs CHRP response
+The bi-weekly rate of CHRP for patients in the PEGINVERA and PROUD-PV studies are shown in Figure
+11 and Figure 12, respectively. The figures show that the rate of CHRP increased overtime and was
+different between males and female after treatment, being slightly higher in female subjects.
+
+42
+Reference ID: 4755629
+
+Figure 11. Bi-Weekly rate of CHRP in the PEGINVERA study.
+Source: Reviewer’s independent analyses
+
+Figure 12. Bi-Weekly rate of CHRP in the PROUD-PV and CONTINUATION study
+Source: Reviewer’s independent analyses
+
+43
+Reference ID: 4755629
+
+The bi-weekly proportions of patients receiving different ropeginterferon doses in the PEGINVERA and
+PROUD-PV studies are shown in Figure 13 and Figure 14 respectively. Figure 14 shows increasing
+proportions of subjects on higher dose levels overtime. This is due to the implementation of the dose
+escalation protocol in the PROUD-PV study. The dose titration protocol was also implemented in the
+PEGINVERA study, but this is not clearly reflected in Figure 13 because the figure represents doses taken
+during the part II of the PEGINVERA study. In this part of the study about 25 subjects, who had participated
+in part I of the study, were already on their tolerable and effective doses.
+
+Figure 13. Proportions of Patients at Different Dose Levels Over Time in the PEGINVERA
+Study.
+Source: Reviewer’s independent analyses
+
+44
+Reference ID: 4755629
+
+Figure 14. Proportions of Patients at Different Dose Levels Over Time in the PROUD-PV and
+CONTINUATION-PV Studies.
+Source: Reviewer’s independent analyses
+The response dataset consisted of the subject identifiers, time, CHRP as a dependent variable (DV), and
+baseline covariate characteristics (demographic, laboratory and clinical). The exposure-response dataset
+was created by adding post-hoc PK parameter estimates from the final population PK model. Finally, since
+consecutive CHRP responses are correlated, an additional variable with CHRP lagged by 2 weeks
+(LAGDV) was added to the dataset as an additional predictor of CHRP.
+The final logistic regression model expressed the relationship between the logit of CHRP, and drug effect
+and lagged CHRP as predictors (equation (1)). The drug effect was expressed as an Emax model
+parameterized in Emax, EC50 and HILL coefficient. The driver of drug effect was the ropeginteferon
+concentration in a hypothetical effect compartment that models the delay in drug effects. The concentration
+in the hypothetical effect compartment was determined by the rate constant of transfer to the hypothetical
+compartment from the central PK compartment (KEF).
+𝑙𝑜𝑔𝑖𝑡(𝐶𝐻𝑅𝑃) = 𝐼𝑁𝑇𝐸𝑅𝐶𝐸𝑃𝑇 + 𝐷𝑅𝑈𝐺𝐸𝐹𝐹𝐸𝐶𝑇 + 𝛽 × 𝐿𝐴𝐺𝐷𝑉 + 𝜂
+𝑊ℎ𝑒𝑟𝑒𝑏𝑦:
+𝑝𝑟𝑜𝑝𝑜𝑟𝑡𝑖𝑜𝑛 𝑜𝑓 𝐶𝐻𝑅𝑃
+𝑙𝑜𝑔𝑖𝑡(𝐶𝐻𝑅𝑃) = 𝑙𝑜𝑔
+1 ― 𝑝𝑟𝑜𝑝𝑜𝑟𝑡𝑖𝑜𝑛 𝑜𝑓 𝐶𝐻𝑅𝑃
+𝐸𝑀𝐴𝑋 × 𝐶𝑂𝑁𝐶𝛾
+𝐷𝑅𝑈𝐺𝐸𝐹𝐹𝐸𝐶𝑇 =
+(𝐸𝐶50𝛾 + 𝐶𝑂𝑁𝐶𝛾)
+𝐿𝐴𝐺𝐷𝑉 = 𝐿𝑎𝑔𝑔𝑒𝑑 𝐶𝐻𝑅𝑃 𝑟𝑒𝑐𝑜𝑟𝑑
+𝛽 = 𝑐𝑜𝑟𝑟𝑒𝑙𝑎𝑡𝑖𝑜𝑛 𝑐𝑜𝑒𝑓𝑓𝑖𝑐𝑖𝑒𝑛𝑡 𝑏𝑒𝑡𝑤𝑒𝑒𝑛 𝑐𝑜𝑛𝑠𝑒𝑐𝑢𝑡𝑖𝑣𝑒 𝐶𝐻𝑅𝑃 𝑟𝑒𝑐𝑜𝑟𝑑𝑠
+𝜂 = 𝑏𝑒𝑡𝑤𝑒𝑒𝑛 𝑠𝑢𝑏𝑗𝑒𝑐𝑡 𝑟𝑒𝑠𝑖𝑑𝑢𝑎𝑙𝑠
+𝛾 = 𝐻𝑖𝑙𝑙 𝑐𝑜𝑒𝑓𝑓𝑖𝑐𝑖𝑒𝑛𝑡 (𝑠𝑡𝑒𝑒𝑝𝑛𝑒𝑠𝑠 𝑜𝑓 𝑒𝑥𝑝𝑜𝑠𝑢𝑟𝑒 𝑣𝑠 𝑑𝑟𝑢𝑔 𝑒𝑓𝑓𝑒𝑐𝑡 𝑟𝑒𝑙𝑎𝑡𝑖𝑜𝑛𝑠ℎ𝑖𝑝)
+
+(
+
+)
+
+(1)
+
+The identified covariates for the PKPD model parameters were sex on INTERCEPT and EMAX and
+Hydroxyurea use on INTERCEPT. Parameter estimates and diagnostic VPC plots for the final model fit to
+PEGINVERA and PROUD-PV data are given in the following sub-sections.
+
+45
+Reference ID: 4755629
+
+Results
+Parameter estimates and VPC of the E-R model of the CHRP data from the PEGINVERA study
+The parameter estimates of the longitudinal logistic regression model of CHRP data from the PEGINVERA
+study are given in Table 12. The corresponding visual predictive check of the model is shown in Figure
+15.
+
+Table 12. Parameter estimates of the final model fitted to CHRP data from the PEGINVERA
+trial.
+Parameter
+
+Description
+
+Estimates (RSE)
+
+Intercept_Naive
+
+Intercept for subjects naive to hydroxyurea
+
+-2.832(17%)
+
+Intercept_HU
+
+Intercept for subjects switching from hydroxyurea 1.083(27%)
+
+Emax
+
+Maximum drug effect
+
+4.354(18%)
+
+EC50 (ng/mL)
+
+Concentration required to reach 50% of Emax
+
+0.001564(21%)
+
+Hill
+
+Steepness of exposure-vs-drug effect relationship
+
+1(FIXED)
+
+Beta
+
+Correlation coefficient
+CHRP records
+
+1.272(23%)
+
+KEF
+
+Rate constant of transfer to effect compartment
+
+Sex_Emax
+
+Fold increase in Emax for female compared to
+1.244(26%)
+male subjects
+
+Sex_Int
+
+Fractional decrease in intercept for female
+0.6184(43%)
+compared to male
+
+ETA
+
+Standard deviation of the residual variability
+
+between
+
+Source: Reviewer’s independent analyses
+
+46
+Reference ID: 4755629
+
+consecutive
+
+2.702e-08(52%)
+
+2.121(12%)
+
+Figure 15. Visual Predictive Check of the final E-R model of CHRP using PEGINVERA data.
+Black dashed lines represent median and 95% confidence interval of the observed data while
+the red line and shaded area represent the median and 95% prediction intervals.
+Source: Reviewer’s independent analyses
+
+Parameter estimates and VPC of the E-R model of the CHRP data from the PROUD-PV and
+CONTINUATION study
+The parameter estimates of the longitudinal logistic regression model of CHRP data from the PROUD-PV
+study are given in Table 13. The corresponding visual predictive check of the model is shown in Figure
+16.
+
+47
+Reference ID: 4755629
+
+Table 13. Parameter estimates of the final model fitted to CHRP data from the PROUD-PV and
+CONTINUATION studies.
+Parameter
+
+Description
+
+Estimates (RSE)
+
+Intercept_Naive
+
+Intercept for subjects naive to hydroxyurea
+
+-4.379(11%)
+
+Intercept_HU
+
+Intercept for
+hydroxyurea
+
+0.9206(10%)
+
+Emax
+
+Maximum drug effect
+
+6.456(20%)
+
+EC50 (ng/mL)
+
+Concentration required to reach 50% of Emax
+
+0.002882(25%)
+
+Hill
+
+Steepness
+of
+relationship
+
+1(FIXED)
+
+Beta
+
+Correlation coefficient between consecutive
+3.532(5%)
+CHRP records
+
+KEF
+
+Rate constant of transfer to effect compartment
+
+Sex_Emax
+
+Fold increase in Emax for female compared to
+1.156(19%)
+male subjects
+
+Sex_Int
+
+Fractional decrease in intercept for female
+0.7509(13%)
+compared to male
+
+ETA
+
+Standard deviation of the residual variability
+
+subjects
+
+exposure-vs-drug
+
+source: Reviewer’s independent analyses
+
+48
+Reference ID: 4755629
+
+switching
+
+from
+
+effect
+
+1.305e-08(27%)
+
+1.712(13%)
+
+Figure 16. Visual Predictive Check of the final E-R model of CHRP using PROUD-PV and
+CONTINUATION data. Black dashed lines represent median and 95% confidence interval of
+the observed data while the red line and shaded area represent the median and 95% prediction.
+Source: Reviewer’s independent analyses
+The stochastic simulations used for the VPCs of the final models were also used to derive the overall
+predicted probabilities of CHRP over-time in the PEGINVERA and PROUD-PV/CONTINUATION
+studies. The results of the derivation are shown in in Table 14.
+Table 14. Predicted probability of CHRP over-time based on final models and datasets from the
+PROUD-PV/CONTINUATION and PEGINVERA studies.
+Probability of CHRP (95% CI)
+Weeks
+
+PROUD-PV
+
+PEGINVERA
+
+0
+
+11 (6 - 17)
+
+22 (11 - 34)
+
+12
+
+21 (14 - 28)
+
+40 (28 - 53)
+
+20
+
+28 (21 - 36)
+
+50 (38 - 62)
+
+52
+
+62 (53 - 70)
+
+64 (47 - 78)
+
+104
+
+83 (75 - 91)
+
+70 (55 - 88)
+
+Source: Reviewer’s independent analyses
+Investigation of alternative ropeginterferon dosage regimens
+The observed and model predicted probabilities of CHRP indicates that response to ropeginterferon
+response is delayed. Using the final models and a virtual population of patients, the reviewer tested different
+alternative dosages to determine a dosage that would provide relatively early response to treatment. The
+
+49
+Reference ID: 4755629
+
+results of these investigation using the PEGINVERA and PROUD-PV models are given in Figure 17 and
+Figure 18 respectively. They are also summarized in Table 15.
+
+Figure 17. Predicted probabilities of CHRP over-time at different dosage of ropeginterferon
+using the model parameters obtained using the PROUD-PV dataset.
+Source: Reviewer’s independent analyses
+
+50
+Reference ID: 4755629
+
+Figure 18. Predicted probabilities of CHRP over-time at different dosage of ropeginterferon
+using the model parameters obtained using the PEGINVERA dataset
+Source: Reviewer’s independent analyses
+Table 15 . Predicted probability of CHRP at maximum ropeginterferon doses after 2 years of treatment.
+Probability of CHRP (95% CI)
+Maximum dose (ug)
+
+PROUD-PV
+
+PEGINVERA
+
+200
+
+52 (49 - 54)
+
+80 (77 - 82)
+
+300
+
+64 (61 - 67)
+
+84 (81 - 85)
+
+400
+
+71 (68 - 74)
+
+85 (83 - 88)
+
+500
+
+76 (73 - 79)
+
+86 (84 - 88)
+
+Source: Reviewer’s independent analyses
+Conclusions from the reviewer’s analyses
+The following conclusions can be made from longitudinal logistic regression modeling and simulation of
+the PEGINVERA and PROUD-PV/CONTINUATION studies:
+
+51
+Reference ID: 4755629
+
+1.
+
+The proportion of patients with CHRP at the beginning of part II in the PEGINVERA study is higher
+(about 20%) than in PROUDPV (about 10%).
+
+2.
+
+Observed data shows that females had higher proportions of CHRP over time compared to male
+subjects.
+
+3.
+
+There is no difference in proportions of responders by age groups (<=65 Years vs > 65 years).
+
+4.
+
+Compared to the model developed using PROUD-PV/CONTINUATION data, the model developed
+with PEGINVERA data shows:
+I.
+II.
+III.
+IV.
+
+5.
+
+Higher baseline CHR,
+Higher ropeginterferon potency (Lower EC50),
+Lower maximum effect (Emax), and
+Higher influence of sex on CHRP (female have 24% higher Emax than male in
+PEGINVERA compared to having 16% higher Emax in PROUDPV).
+The observed and predicted effect of sex on CHRP in the PEGINVERA study is consistent with that
+observed in the PROUD-PV study.
+
+6.
+
+The maximum probability of CHRP is reached earlier in patients participating in the PEGINVERA
+compared those in the PROUD-PV study.
+
+7.
+
+The predicted probabilities of CHRP at week 52 are comparable between PEGINVERA and
+PROUDPV models, but at week 104, predicted CHRP is lower in PEGINVERA compared to PROUD
+PV. This may be due to differences in maximum dose levels reached by individuals in the
+PEGINVERA compared to that in PROUD-PV study.
+
+8.
+
+Due to the estimated higher potency (EC50) using PEGINVERA data, the predictions using
+PEGINVERA model shows > 80% probability of CHRP at maximum dose levels of 200ug and higher.
+The PROUDPV model predicts lower probabilities of CHRP at the same maximum dose levels.
+
+LISTING OF ANALYSES CODES AND OUTPUT FILES
+File Name
+
+Description
+
+Location in
+\\cdsnas\pharmacometrics\
+
+Pharmacometrics_Review.Rmd
+
+Draft of pharmacometrics review
+including codes for tables and
+figures
+
+Reviews\Ongoing PM
+Reviews\Ropeginterferon_BLA761166_EK\FDA
+Reviews\Notebook
+
+Run03.mod
+
+Nonmem script for E-R modelling of
+CHRP data from PEGINVERA
+
+Reviews\Ongoing PM
+Reviews\Ropeginterferon_BLA761166_EK\ER
+Analyses\modeling\reviewer
+
+Run31.mod
+
+Nonmem script for E-R modelling of
+CHRP data from PROUD-PV
+
+Reviews\Ongoing PM
+Reviews\Ropeginterferon_BLA761166_EK\ER
+Analyses\modeling\reviewer
+
+4.2.3. Exposure-vs-Safety Analysis
+4.2.3.1 Review Summary
+The applicant’s exposure-vs-safety analyses are acceptable for describing relationships between
+ropeginterferon exposures and adverse thrombocytopenia and GGT elevation events. Using post-hoc
+ropeginterferon trough concentration (Cmin) at the time of occurrence of adverse events, the applicant
+assessed the relationship between ropeginterferon exposure and the following safety end points: treatment
+
+52
+Reference ID: 4755629
+
+related adverse event (AE) of thrombocytopenia of any grade, and treatment related AE of gamma
+glutamyl-transferase (GGT) elevation of any grade. Linear logistic regression analyses determined
+statistically significant associations between Cmin and the AEs of thrombocytopenia and GGT elevation.
+In addition to ropeginterferon exposure, additional predictors of thrombocytopenia were baseline platelet
+count and JAK2_v617F allele burden. Probability of thrombocytopenia increased with increasing Cmin
+and JAK2_V617F_allele burden and decreased with increasing baseline platelet count. Similarly, an
+additional predictor of GGT elevation was sex. Female subjects had less probability of GGT elevation than
+males. The following section summarizes results from these logistic regression analyses. As titration is
+based on both efficacy and tolerability, these relationships for AEs do not suggest the need for lower doses.
+
+4.2.3.2. Applicant’s exposure-safety analyses
+Ropeginterferon CMIN vs Thrombocytopenia and GGT elevation.
+Assessments of ropeginterferon Cmin vs probability of thrombocytopenia and GGT elevation was based
+on pooled data from PEGINVERA, PROUD-PV, PEN-PV, and CONTINUATION-PV studies. For each
+endpoint, post-hoc estimate of ropeginterferon Cmin was determined at the time of occurrence of the
+adverse event for everyone. For subjects without adverse event, post-hoc Cmin at steady state of the
+maximal dose was used. The Cmin vs probability of thrombocytopenia and GGT elevation relationships
+were best described by linear logistic regression model. Stepwise model building was used to determine
+additional predictors of the adverse events. Results are summarized in Table 16 and Figure 19 and Figure
+20.
+Table 16. Final parameter estimates of linear logistic regression models for predictors of
+thrombocytopenia and GGT elevation.
+
+Source: Applicant’s PKPD safety report (#0165, pages 95)
+
+53
+Reference ID: 4755629
+
+Figure 19. Observed (points) and predicted (red line) probabilities of thrombocytopenia versus
+Cmin of ropeginterferon.
+Source: Applicant’s PKPD safety report (#0165, pages 96)
+
+Figure 20. Observed (points) and predicted (red line) probabilities of GGT elevation versus
+Cmin of ropeginterferon.
+Source: Applicant’s PKPD safety report (#0165, pages 97)
+
+54
+Reference ID: 4755629
+
+4.2.3.3. Reviewer’s comments
+The applicant’s analyses are acceptable for making conclusions on exposure-safety relationships at the
+recommended ropeginterferon doses. Although significant relationships are identified by these analyses,
+the side effects were tolerated by most patients, and did not lead to drug discontinuations. The results
+support the recommended dose individualization for ropeginterferon.
+
+55
+Reference ID: 4755629
+
+Signature Page 1 of 1
+
+-------------------------------------------------------------------------------------------This is a representation of an electronic record that was signed
+electronically. Following this are manifestations of any and all
+electronic signatures for this electronic record.
+-------------------------------------------------------------------------------------------/s/
+-----------------------------------------------------------LI WANG
+03/02/2021 02:04:54 PM
+ELIFORD N KITABI
+03/02/2021 02:10:19 PM
+JUSTIN C EARP
+03/03/2021 12:41:23 AM
+SUDHARSHAN HARIHARAN
+03/03/2021 08:09:49 AM
+DOANH C TRAN
+03/03/2021 08:47:44 AM
+
+Reference ID: 4755629
+
+

@@ -1,0 +1,53 @@
+NDA/BLA Multi-disciplinary Review and Evaluation/New Drug Application (NDA) 219908
+
+REVTORPYK (gedatolisib)
+
+Table 36: CELC-G-301 Study 1: Gedatolisib Exposure by Treatment Arm (Safety Analysis Set)
+
+Parameter Arm A Arm B Crossover Crossover Total
+
+(N= 130) (N= 130) Arm A Arm B (N=323)
+(N=52) W=1)
+
+Number of Intravenous Infusions Administered
+n 130 130 52 ll 323
+Mean (Standard deviation) 21 (16.5) 21 (16.9) 19 (14.0) 15 (12.8) 20 (16.2)
+Median 17 18 15 10 17
+(Quartile 1, Quartile 3) (8, 28) (7,27) (9, 26) (4,24) (8,27)
+Minimum, Maximum 1,73 1, 84 3, 69 2,42 1,84
+
+Total Cumulative Dose Administered (mg)
+n 130 130 52 ll 323
+Mean (Standard deviation) 3526 (2701.7) 3642 (2905.7) 3272 (2404.7) 2481 (2172.1) 3496 (2724.2)
+Median 2940 3060 2700 1800 2880
+(Quartile 1, Quartile 3) (1380, 4680) (1260, 4680) (1620, 4590) (720, 3470) (1260, 4680)
+Minimum, Maximum 180, 12600 180, 14580 510, 10830 360, 7560 180, 14580
+
+Relative Dose Intensity (%)
+n 130 130 52 ll 323
+Mean (Standard deviation) 85.4 (18.96) 92.1 (15.00) 92.5 (9.00) 91.8 (10.38) 89.5 (16.16)
+Median 92.1 100.0 96.7 95.5 97.8
+(Quartile 1, Quartile 3) (77.8, 100.0) (87.8, 100.0) (86.3, 100.0) (81.1, 100.0) (83.3, 100.0)
+Minimum, Maximum 11.1, 100.0 28.6, 100.0 70.0, 100.0 74.1, 100.0 11.1, 100.0
+
+Average Dose per Infusion
+n 130 130 52 ll 323
+Mean (Standard deviation) 171.1 (13.51) 174.9 (10.93) 173.4 (10.64) 174.1 (13.10) 173.1 (12.14)
+Median 180.0 180.0 180.0 180.0 180.0
+(Quartile 1, Quartile 3) (164.0, 180.0) (180.0, 180.0) (166.1, 180.0) (180.0, 180.0) (168.8, 180.0)
+Minimum, Maximum 132.6, 180.0 128.8, 180.0 135.0, 180.0 144.6, 180.0 128.8, 180.0
+
+‘Abbreviations: CSR = clinical study report; N = total number of subjects; n= number of subjects meeting specified criteria.
+
+Notes: Relative Dose Intensity = cumulative dose received / planned cumulative dose per protocol up to the last dose received in the data snapshot.
+Average daily dose: cumulative dose received divided by the number of infusion subjects received.
+
+Source: Module 5.3.5.1, CELC-Gw-301 CSR (Table 14.3.1.1.1).
+
+149
+Version date: February 10, 2025 (ALL NDA/BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the Applicant and do not necessarily reflect the
+positions of the FDA.
+
+Reference ID: 5832496

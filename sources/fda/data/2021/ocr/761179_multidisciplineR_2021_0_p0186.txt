@@ -1,0 +1,25 @@
+BLA Multidisciplinary Review and Evaluation
+BLA 761179
+Rylaze (JZP-458)
+
+Nika IIV for Ka (CV%) 17.9% 0.4%
+Nea IIV for R1 (CV%) 101.5% 1.7%
+Corr_na_ner Correlation between ne and naa -85% -
+Random effect
+
+Eprop Standard deviation of proportional random effect 0.152 0.9%
+add Standard deviation of additive random effect 0.0104 0.7%
+
+RSE: relative standard error; CV: coefficient of variation.
+CL = 0.116 x (BSA/1.9)*”° if White subjects; CL = 0.116 x (BSA/1.9)*° x 0.718 if Black subjects.
+Source: FDA’s analysis.
+
+The GOF plots (Figure 15) and VPC plots stratified by dose level (Figure 16) show that the FDA’s
+final PopPK model for healthy subjects generally describe the SAA data from Study 101 well.
+
+194
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA. The FDA's position is highlighted in gray.
+
+Reference ID: 4819545

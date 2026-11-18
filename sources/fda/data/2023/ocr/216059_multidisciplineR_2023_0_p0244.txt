@@ -1,0 +1,57 @@
+NDA/BLA Multi-disciplinary Review and Evaluation - NDA 216059
+Jaypirca (pirtobrutinib)
+
+studies has been conducted to evaluate the DDI potentials of pirtobrutinib as victim or
+perpetrator on metabolism pathways as summarized in Table 94. The Applicant also collected
+the PK of endogenous coproporphyrin | (CP-I) following a single oral dose of pirtobrutinib and
+steady-state pirtobrutinib. Pirtobrutinib did not increase the CP-I PK in healthy participants.
+
+Table 94: DDI Potentials of Pirtobrutinib as Victim or Perpetrator on Enzyme- and
+Transporter-Mediated Pathways
+
+Study Target Pathway Substrate AUC Cmax
+LOXO-BTK-20006 | Effect of strong A single dose of 41.49 41.04
+3A4 inhibitor pirtobrutinib 200
+Effect of strong mg 0.71 0.43
+3A4 inducer
+LOXO-BTK-20008 | Effect on 3A4 250 ug IV 41.12 (MDZ) 4/0 (MDZ
+substrate midazolam (SD) 0.24 (1-OH- 4 0.08 (1-OH-
+MDZ MDZ
+500 ug oral 41.70 (MDZ) 41.58 (MDZ
+midazolam (SD) 1.12 (1-OH- 1.13 (1-OH-
+MDZ MDZ
+LOXO-BTK-20010 | Effect on CYP1A2 | caffeine 0.09 0.04
+substrate
+Effect on CYP2C9, | S-warfarin M111 41.02
+substrate
+Effect on 2C19 omeprazole 41.56 41.49
+substrate
+LOXO-BTK-20016 | Effect on 2C8 repaglinide 2.3 41.98
+substrate
+LOXO-BTK-20021 | Effect on P-gp digoxin 4 1.35 1.55
+substrate
+
+Source: Applicant’s Clin Pharm Summary 17, 19, 22-25; 27, 29, 31, 35, 37
+
+The applicant developed a PBPK model to predict the interactions with moderate and strong
+CYP3A4 inhibitors and moderate CYP3A4 inducers after single and multiple oral doses of 200
+mg pirtobrutinib in healthy volunteers. DDI effects of CYP3A modulators on the PK of
+pirtobrutinib was used to inform the dosing recommendation in the United States Prescribing
+Information (USPI).
+
+Applicant’s PBPK modeling efforts
+
+Pirtobrutinib PBPK model was built using Simcyp V19. The model was developed using clinical
+studies with full PK profiles. The model was initially developed using physiochemical properties,
+in vitro biological data, a human ADME study and clinical PK and DDI studies. The absorption of
+pirtobrutinib, was described using a first-order absorption model, and the drug is highly
+permeable with 85% absolute bioavailability. The systemic clearance (CL), volume of
+distribution at steady state (Vss), and renal clearance (CLR) for pirtobrutinib were obtained
+
+243 of 265
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5116352
+

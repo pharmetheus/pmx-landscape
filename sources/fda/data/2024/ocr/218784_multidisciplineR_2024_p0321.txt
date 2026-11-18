@@ -1,0 +1,71 @@
+Multi-disciplinary Review and Evaluation
+
+NDA 218784
+VORANIGO (vorasidenib)
+
+and F2) were used. In clinical studies AG881-C-008 and PKH-95032-009, only F2 was used. In
+patients, clinical studies AG881-C-002 and AG120-881-C-001 were performed using F1 only, anda
+switch between F1 and F2 occurred in clinical study AG881-C-004.
+
+In clinical study AG881-C-007, the PK of a single dose of vorasidenib following a single dose of 50
+mg F1 or 50 mg F2 was evaluated and significant differences in the rate and extent of absorption
+
+were observed between these two formulations.
+
+To account for the impact of the two formulations (F1 and F2) used in the development program
+on vorasidenib PK, the in vivo dissolution rate was predicted mechanistically using a Diffusion Layer
+Model (DLM) with different dissolution DLM scalars which were optimized in SIVA v4 using in vitro
+
+dissolution profiles (Table 73).
+
+Table 73 Vorasidenib PBPK model input parameter values
+
+Version date: December 2023(ALL NDA/BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+
+[PARAMETER I Value [Reference
+Physicochemical and Binding Parameters
+MW (g/mol) 4147 Investigators Brochure
+TogP 427 Converted from LoqDiLogD from
+AGLS81
+Compound type Monoprotic base _| investigator's Brochure
+pKa 281 AGL881 Gold Standard
+BP 133 AG881-C-005
+fu (0.0266 ‘AG881-N-067
+Wain binding protein HSA ‘Assumed
+‘Absorption Model - ADAM Model
+[Tugs T Assumed
+‘Caco-2 Pagp (x10* emis) 325 AGSST-N-O4G-RT
+Calibrator (Atenolol) Pas 0.322 ‘AG881-N-048-R1
+(x10* cms)
+Penman (pred) (x10 emis) 626 Predicted
+‘Absorption rate scalar z Use to describe absorption in patient
+with glioma — see Appendix Section 13
+Formulation type
+Fi R
+F2 R
+Formulation parameters:
+Formulation type R Investigators Brochure
+Disintegration F1 ©) min DTC_S095032_PF_R CTR 68410
+Disintegration F2 man DTC_S095032_PF_R_CTR_68410
+Transit time ‘Segregated transit time
+model
+LM model Particle population
+balance model
+Particle her model Hintz Johnson
+PSD (way
+si FT and F2) 10). ()(4)D(50)- | DIC _S095032 PAR MPH 65801
+ize input ( J 5,30), OBR tay
+
+Fitting method Nelder-Mead fit, og — | Simeyp PSD fitting
+
+normal distribution
+Number of bins 70
+
+320
+
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5425021
+

@@ -1,0 +1,46 @@
+BLA 761184
+Ngenla (somatrogon)
+
+Table 84. Summary Statistics of Model-Predicted Individual PK Parameters for Subjects in the
+Phase 2 and Phase 3 Studies After Turning ADA-Positive
+
+Parameter ADA Mean (SD) Median Min-Max
+CUF (L/h) + 0.582 (0.309) 0.552 0.115-1.542
+VCIF (L) + 8.31 (7.748) 6.058 1.478-48.29
+Q/F (Uh) + 0.028 (0.01) 0.026 0.012-0.063
+VP (L) + 14.953 (8.505) 12.829 3.697-51.819
+Ka (/h) + 0.048 (0) 0.048 0.048-0.048
+Alpha half-life (h) + 10.554 (8.696) 6.959 1.707-43.809
+Beta half-life (h) + 369.052 (74.785) 359.974 221.595-595.33
+Accumulation factor + 1.038 (0.019) 1.033 1.012-1.1
+Effective half-life (h) + 34.733 (4.873) 33.736 26.36-48.654
+AUC; (h-mg/L) + 31.162 (14.498) 26.808 12.504-73.647
+Cmax (mg/L) + 0.628 (0.184) 0.611 0.171-1.212
+Tmax (h) + 16.256 (6.214) 14.000 6-33
+
+Source: Reviewer's independent analysis.
+
+Abbreviations: ADA, antidrug antibodies; AUC.., area under the curve at steady-state; CL/F, clearance after oral administration;
+Cmax, Maximum concentration; Ks, absorption rate constant, max, maximum, min, minimum, PK, pharmacokinetics; Q/F, apparent
+intercompartmental clearance; SD, standard abbreviation; Tin», time to maximum concentration; VC/F, apparent volume of
+distribution for central compartment; VP, apparent volume of distr bution for peripheral compartment
+
+14.3.1.4.6. Effect of Body Weight on Somatrogon
+Exposure
+
+The effect of body weight on somatrogon exposure was evaluated through Monte Carlo
+simulation using the reviewer’s final PopPK model. The model had time varying body weight
+and ADA-titer as the only covariates. Therefore, a virtual sample of pediatric population with
+uniformly distributed body weight ranging from 8 to 52 kg and with ADA negative status
+
+(i.e., ADA titer 0) was created. Stochastic simulation was used to obtain concentrations over the
+dosing interval at steady state. Noncompartmental analysis was used to obtain predicted AUC.
+The virtual sample consisted of 1000 subjects on which 200 stochastic simulations were
+performed. For each simulation, the ratio of mean AUC at each weight to mean AUC at 15 kg
+was calculated. The median and 95% prediction intervals of these ratios are shown in Figure 41.
+The figure shows that weight-based dosing provides comparable exposures across body weights
+despite weight-dependent increase in clearance.
+
+148
+
+Reference ID: 4924352

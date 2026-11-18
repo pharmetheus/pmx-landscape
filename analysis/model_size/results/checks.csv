@@ -1,0 +1,8 @@
+"field","compared","agree_exact","within_one","mean_difference","sample","note"
+"own_fit",403,396,,,403,"Claude Sonnet 5 extraction against a blind Claude Opus 5.5 extraction; mean_difference is Claude Sonnet 5 minus Claude Opus 5.5"
+"tool",307,302,,,403,"Claude Sonnet 5 extraction against a blind Claude Opus 5.5 extraction; mean_difference is Claude Sonnet 5 minus Claude Opus 5.5"
+"pk_only",305,300,,,403,"Claude Sonnet 5 extraction against a blind Claude Opus 5.5 extraction; mean_difference is Claude Sonnet 5 minus Claude Opus 5.5"
+"fixed effects",203,188,194,0.01,403,"Claude Sonnet 5 extraction against a blind Claude Opus 5.5 extraction; mean_difference is Claude Sonnet 5 minus Claude Opus 5.5"
+"random effects (IIV)",199,186,192,-0.02,403,"Claude Sonnet 5 extraction against a blind Claude Opus 5.5 extraction; mean_difference is Claude Sonnet 5 minus Claude Opus 5.5"
+"n_subjects",261,253,254,-0.62,403,"Claude Sonnet 5 extraction against a blind Claude Opus 5.5 extraction; mean_difference is Claude Sonnet 5 minus Claude Opus 5.5"
+"n_obs",178,174,174,-2.3,403,"Claude Sonnet 5 extraction against a blind Claude Opus 5.5 extraction; mean_difference is Claude Sonnet 5 minus Claude Opus 5.5"

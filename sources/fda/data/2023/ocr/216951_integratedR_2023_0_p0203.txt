@@ -1,0 +1,57 @@
+NDA 216951
+Jesduvrog (daprodustat)
+
+Table 103. Patients With Adjudicated Cardiovascular Safety Events Before and After Dialysis
+Initiation, ITT Population, ASCEND-ND
+
+ASCEND-ND ASCEND-ND
+
+Daprodustat rhEPO ASCEND-ND ASCEND-ND
+N=1937 N=1935 RD (%) RR
+Adjudicated Event Type n(%) n (%) (95% Cl) (95% Cl)
+Myocardial infarction
+All MI 105 (5.4) 99(5.1) 0.3(-1.1, 1.7) 1.1 (0.8, 1.4)
+MI within 30 days before or after ID 29 (1.5) 30 (1.6) -0.1(-0.8,0.7) 1.0 (0.6, 1.6)
+MI within 60 days before or after ID 34 (1.8) 35 (1.8) -0.1(-0.9,0.8) 1.0 (0.6, 1.5)
+MI within 90 days after ID 21 (1.1) 16 (0.8) 0.3(-0.4,0.9) 1.3 (0.7, 2.5)
+MI within 180 days after ID 31 (1.6) 24 (1.2) 0.4(-0.4,1.1) 1.3 (0.8, 2.2)
+Stroke
+All stroke 50 (2.6) 35(1.8) 0.8(-0.2,1.7) 1.4 (0.9, 2.2)
+Stroke within 30 days before or after ID 5 (0.3) 9(0.5) -0.2(-0.6,0.2) 0.6 (0.2, 1.7)
+Stroke within 60 days before or after ID 7 (0.4) 9(0.5) -0.1(-0.5,0.3) 0.8 (0.3, 2.1)
+Stroke within 90 days after ID 7 (0.4) 9(0.5) -0.1(-0.5,0.3) 0.8 (0.3, 2.1)
+Stroke within 180 days after ID 12 (0.6) 11(0.6) 0.1(-0.4,0.5) 1.1 (0.5, 2.5)
+Thromboembolic events
+All TEE 64 (3.3) 53 (2.7) 0.6(-0.5,1.6) 1.2 (0.8, 1.7)
+TEE within 30 days before or after ID 8 (0.4) 6(0.3) 0.1(-0.3,0.5) 1.3(0.5, 3.8)
+TEE within 60 days before or after ID 14 (0.7) 6(0.3) 0.4(-0.0,0.9) 2.3(0.9, 6.1)
+TEE within 90 days after ID 14 (0.7) 9(0.5) 0.3(-0.2,0.7) 1.6 (0.7, 3.6)
+TEE within 180 days after ID 28 (1.4) 15 (0.8) 0.7 (0.0,1.3) 1.9 (1.0, 3.5)
+
+Source: adsl.xpt, adevent xpt, Software. R
+
+Risk difference (with 95% confidence interval) is shown between treatment and comparator.
+
+Abbreviations: Cl, confidence interval; ID, incident dialysis; ITT, intent-to-treat; MI, myocardial infarction; N, number of patients in
+treatment arm; n, number of patients with adverse event; RD, risk difference; rhEPO, recombinant human erythropoietin; RR, risk
+tatio, TEE, thromboembolic event
+
+Conclusion
+
+It is unclear whether the cardiovascular safety of daprodustat in the ID population more closely
+resembles that of the DD population or the NDD population. The available cardiovascular safety
+data from ASCEND ID are too limited to draw definitive conclusions. Exploratory analyses from
+the subset of patients transitioning to dialysis during ASCEND-ND show some signals but also
+have limitations that preclude definitive conclusions. Therefore, |
+
+we cannot reliably differentiate these patients from the ND
+population. With regard to initiating daprodustat after chronic dialysis has been started,
+ASCEND-D enrolled patients who had been on dialysis for more than 90 days prior to the
+screening visit, and were treated with daprodustat after a 4-week run-in period (totaling 118
+days).
+
+177
+Integrated Review Template, version 3.0 (05/25/2022)
+[To complete this review, detailed instructions are available in the Integrated Review Template How-to Guide.]
+
+Reference ID: 5119138

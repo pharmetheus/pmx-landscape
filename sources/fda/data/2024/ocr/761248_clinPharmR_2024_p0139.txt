@@ -1,0 +1,43 @@
+Figure 18: Visual Predictive Check for the Final Population PK Model
+
+1000000
+
+100000
+
+10000
+
+1000
+
+100
+
+10
+
+Donanemab concentration (ng/mL)
+
+Time after dose (weeks)
+Solid red line: median of observed concentrations; dashed red lines: 5 and 95th
+percentiles of observed concentrations; red shaded area: confidence interval for the
+median of simulated data; blue shaded areas: 95% confidence intervals (CIs) for the 5"
+and 95" percentiles of simulated data; blue full circles: individual observed concentration
+data. The gray horizontal line represents the lower limit of quantification (LLOQ) of
+200ng/mL.
+
+Source: 5-3-3-5-Pop PK AACD AACG report-.pdf, page 43
+
+Reviewer's Comments: The visual inspection of goodness-of-fit diagnostic plots do not
+suggest the presence of systemic bias and provided an adequate description of the
+donanemab plasma concentrations. Concentration values associated to CWRES greater
+than [4] were 2 representing a small percentage in the whole data set. The visual
+predictive check indicates that the model can represent the distribution of donanemab
+exposures reasonably well for the dosing regimen used in Study AACG. Overall, the
+model is acceptable.
+
+4.3.1 Reviewer PK Simulations
+
+The reviewer conducted a simulation to assess characterize the effect of body weight on
+the steady-state Cmax for the proposed dosing. The Applicant’s PPK model was used to
+simulate the PK profile for a typical patient weighing 50 kg and 98 kg, respectively. The
+
+45
+
+Reference ID: 5110430

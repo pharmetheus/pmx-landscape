@@ -1,0 +1,77 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {BLA 761345}
+
+elranatamab
+
+19.4.4.2 ER (efficacy) Assessment Summary
+
+The Applicant's Position:
+
+General Information
+
+Goal of ER analysis
+
+Explore the E-R relationships for efficacy endpoints of
+ORR (primary) and DOR in participants who received
+elranatamab monotherapy, using both free and total
+elranatamab PK
+
+Study Included
+
+1071001, C1071002, C1071003, and C1071009
+
+Endpoint Primary: ORR
+Secondary: DOR
+No. of Patients (total, and with | 297
+individual PK)
+Population General Age median (range): 66.00 (36.00-89.00)
+Characteristics Weight median (range): 71.30 (36.50-159.60)
+(Table 69, N (%) male: 151 (51%) male; 146 (49%) female
+Table 70) N (%) race: 178 (60%) White; 55(15%) Asian; 27 (9%)
+black or African American; 48 (16%) Missing/Unknown
+Pediatrics (if Not applicable
+any)
+
+Dose(s) Included
+
+IV: 0.1, 0.3, 1, 3, 10, 30, and 50 ug/kg; SC: 80, 130, 215,
+360, 600, and 1000 g/kg, and 4, 12, 20, 32, 44, and
+76 mg
+
+Exposure Metrics Explored
+(range)
+
+Total and free elranatamab exposure metrics:
+e@ Average concentration on Day 28 (Cave,day28)
+e Average elranatamab concentration up to the
+time of first response or progression/end of
+treatment (Cave,vent)
+
+Covariates Evaluated
+
+Continuous: Age, baseline body weight, baseline
+creatinine clearance, baseline total and free sBCMA,
+baseline platelet count
+
+Categorical: Sex, race (White or others, and Asian or
+others), EMD status, Type of myeloma (IgG, or non-
+IgG/Light chain only), % bone marrow plasma cells (<70%
+or 270%), baseline cytogenetics (high or standard), prior
+stem cell transplant, disease stage (1-2 or 3), whether
+participant was refractory to last therapy, penta-
+refractory status, ECOG performance status (0 or 1-3),
+number of prior lines of therapy (>5 or <5), ADA baseline
+status (positive or negative), treatment induced and
+boosted ADA status, tumor burden (high or others), prior
+BCMA therapy
+
+Final Model Parameters
+
+Summary Acceptability
+
+230
+
+Version date: January 2020 (ALL NDA/ BLA reviews)
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5226136

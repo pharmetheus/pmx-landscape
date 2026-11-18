@@ -1,0 +1,59 @@
+NDA/BLA Multi-disciplinary Review and Evaluation NDA 221075
+Iberdomide (ZENBEXUS)
+
+Model Structure For both MRD-negative CR and Acceptable
+VGPR, the logistic regression model
+after adjusting for the effects of
+covariates was used.
+
+The probability that the event occurs
+as a function of the drug exposure and
+other covariates was described as
+follows:
+
+log (; ud 5) = Intercept + B
+
+-Cavgss + ByXj, ++
+
++ ByXip
+where /og is the natural logarithm
+function, p is the probability of
+occurrence of a specific event for a
+particular subject, Jntercept is the logit
+transformation of the probability of
+occurrence of the event in the absence
+of iberdomide, and f is the slope of
+the relationship between iberdomide’s
+exposure, Cavg,, , and the logit of the
+probability of occurrence of the event.
+Different functional forms of
+“Cavgss” was explored and compared
+to decide the final model. The
+functional forms of exposure that
+provide the best fit to the data were
+selected by using the Bayesian
+information criteria. P-values, where
+provided, were descriptive only (not
+adjusted for multiplicity). £7 ... Bp is
+the vector of parameters for covariate
+effects, and Xi ... Xiy is the vector of
+covariate variables for subject i.
+Model Parameter Estimates _| Table 89, Table 90, Figure 29 Acceptable
+The model performance was evaluated | Acceptable
+by comparing the cumulative
+probability of MRD negative CR at
+any time and >VGPR predicted by the
+full model with that determined by the
+logistic regression analyses. The
+evaluation was performed as an
+internal validation with the model
+
+Model Evaluation
+
+274
+Version date: February 10, 2025 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5851050

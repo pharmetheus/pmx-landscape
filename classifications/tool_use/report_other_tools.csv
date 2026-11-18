@@ -1,0 +1,137 @@
+"name","items"
+"nonmem",33
+"monolix",23
+"nlme",13
+"phoenix",11
+"adapt",10
+"bugs",9
+"lme4",8
+"stan",8
+"mwpharm",7
+"p-pharm",7
+"pmetrics",7
+"winnonmix",7
+"mapbayr",6
+"nlmixed",6
+"nlmixr",6
+"tucuxi",6
+"mcsim",5
+"nimble",5
+"winbugs",5
+"itsim",4
+"mirt",4
+"nlmixr2",4
+"npag",4
+"spk",4
+"brms",3
+"gnu mcsim",3
+"it2b",3
+"jm",3
+"mcpem",3
+"npem",3
+"npml",3
+"saemix",3
+"simbiology",3
+"usc pack",3
+"diffmem",2
+"glmmml",2
+"isba",2
+"it2s",2
+"jmbayes",2
+"jmbayes2",2
+"joinerml",2
+"maspectra",2
+"mwpharm++",2
+"nlmix",2
+"npem2",2
+"pks",2
+"poped",2
+"posologyr",2
+"pumas",2
+"rstan",2
+"s-adapt",2
+"sas",2
+"sas proc mixed",2
+"sas proc nlmixed",2
+"winnonlin",2
+"3p87/3p97",1
+"abbott pks",1
+"abbottbase pk system",1
+"adapt 5",1
+"adapt ii",1
+"advanced dosing solutions (adds)",1
+"apis",1
+"azr/msdr",1
+"babelmixr2",1
+"berkeley madonna",1
+"bestdose",1
+"casadi",1
+"covbm",1
+"dmod",1
+"edsim++",1
+"finch studio",1
+"gamlss",1
+"glmer (lme4)",1
+"glmmadaptive",1
+"glmmtmb",1
+"gnls",1
+"hmclearn",1
+"insightrx nova",1
+"iqm",1
+"iqr",1
+"iterative two-stage bayesian",1
+"itsb",1
+"jags",1
+"kinpop++",1
+"lme",1
+"lmertest",1
+"mas",1
+"matlab simbiology",1
+"mcisem",1
+"mcmcpack",1
+"mgcv",1
+"micropharm",1
+"micropharm population",1
+"mrgsolve",1
+"multi(els)",1
+"mw/pharm++",1
+"mycare drug exposure calculator",1
+"mypkfit",1
+"nimrod",1
+"nlme (s-plus)",1
+"nlmefitsa",1
+"nlmer",1
+"nolimits.jl",1
+"nonlin",1
+"pastrx",1
+"pdx-mcpem",1
+"pdx-pop",1
+"pem",1
+"phoenix nlme",1
+"phoenix winnonlin",1
+"phoenxinlme",1
+"pkbugs",1
+"popkan",1
+"popkinetics",1
+"ppharm",1
+"progmod",1
+"psn",1
+"pydarwin",1
+"pymc3",1
+"rsmlx",1
+"rsnlme",1
+"rstanarm",1
+"rstanemax",1
+"saem",1
+"saem in matlab",1
+"simcyp",1
+"stata",1
+"tciworks",1
+"tensorflow probability",1
+"torchpm",1
+"torsten",1
+"turing",1
+"turing.jl",1
+"two stage method",1
+"wapps",1
+"zibr",1

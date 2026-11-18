@@ -1,0 +1,37 @@
+NDA 215973 lenacapavir injection, for subcutaneous use
+NDA 215974 lenacapavir tablets, for oral use
+
+Failing
+BGRD 1° EFF PI RT INSTI Phenotypic
+PID Arm Regimen OBR ___Timepoint Resistance HIVVL Y/N Capsid Resistance Resistance Resistance Resistance
+“PLACEBO DRV DAY 1 NRTI 175,000 N V321L33M A62V D67E DRV >568
+FTC NNRTI M46L154L T69G/S FTC >68
+PI KS55K/R A98G V1061 LEN 0.89
+G73S T74P Y181F DTG 0.61
+
+I84V I85V = M184V
+L89VL90M Y188L
+
+L210W
+T215Y
+DTG WkK4 260 V32I1L33M A62VD67E EQ96E/G DTG-
+LAM M46LI54L T69G A98G LAM >49
+IBL G73S T74P_ -V1061 Y181F IBL
+MVC 184V I85V M184V MVC
+L89VL90M Y188L LEN ND
+L210W
+T215Y
+
+Source: FDA Review team analysis.
+
+Bolded: Resistance-associated substitutions and resistant phenotype.
+
+Abbreviations: ABC, abacavir, AF, assay failure: BGRD, background; BIC, bictegravir, DOR, doravirine; DRV, darunavir, DTG, dolutegravir, EFF, efficacy; ENF, enfuvirtide; FTC, emtricitabine; HIV,
+human immunodeficiency virus; IBL, ibalizumab; INSTI, integrase inhibitor; LAM, lamivudine; LEN, lenacapavir, MVC, maraviroc; N, no; ND, not determined; NNRTI, non-nucleoside reverse
+transcriptase inhibitor; NRTI, nucleoside reverse transcriptase inhibitor, OBR, optimized background regimen, PI, protease inhibitor, PID patient identity; RPV, rilpivirine; RT, reverse transcriptase;
+TAF, tenofovir alafenamide; TDF, tenofovir disoproxil fumarate; VL, viral load; WK, week, Y, yes
+
+251
+Integrated Review Template, version 2.0 (04/23/2020)
+
+Reference ID: 4944206

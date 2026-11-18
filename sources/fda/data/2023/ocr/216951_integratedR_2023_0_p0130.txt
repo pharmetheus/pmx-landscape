@@ -1,0 +1,67 @@
+NDA 216951
+Jesduvrog (daprodustat)
+
+6.3. Key Efficacy Review Issues
+
+6.3.1. Use of Rescue Therapy in the ASCEND Program
+
+Issue
+
+Impact of Rescue Therapy Use on the Non-Inferiority Efficacy Conclusion of Daprodustat
+
+Background
+
+Hb response and reduction in transfusion need have been accepted endpoints for establishing
+clinical benefit in patients with anemia of CKD. The ASCEND-D and ASCEND-ND trials used
+Hb response at the primary efficacy period of 28-52 weeks as the primary efficacy endpoint. The
+pre-specified non-inferiority Hb comparisons used -0.75 g/dL as the non-inferiority margin,
+which was appropriately justified based on previous applications for drugs intended to treat
+anemia of CKD and statistical reasoning. An evaluation of the time to stopping randomized
+
+treatment due to meeting rescue criteria was evaluated as a secondary efficacy endpoint in the
+ASCEND-D and ASCEND-ND study to further evaluate the robustness of the efficacy results.
+
+Assessment
+
+ASCEND-D
+
+The cumulative incidence for time to stopping randomized treatment due to meeting rescue
+criteria was similar between the treatment groups (Table 61).
+
+Table 61. Analysis of Time to Permanently Stopping Randomized Treatment Due to Meeting
+Rescue Criteria for Study 200807/ASCEND-D
+
+Daprodustat rhEPO?
+N=1487 N=1477
+Number of participants 1487 1477
+Permanently stopping randomized treatment due to meeting 53 (3.6) 53 (3.6)
+rescue criteria
+Censored 1434 (96.4) 1424 (96.4)
+Incidence rate per 100 PY (two-sided 95% Cl) 1.95 (1.46, 2.56) 1.93 (1.45, 2.52)
+Hazard Ratio
+Estimate? 1.04
+Two-sided 95% Cl for hazard ratio (0.71, 1.52)
+One-sided p-value’ 0.58
+Absolute rate difference per 100 PY (two-sided 95% Cl)* 0.02 (-0.72, 0.76)
+
+Source: Sponsor CSR
+
+* Hazard ratio is estimated using a Cox proportional hazard regression model adjusted for treatment group, dialysis type and region.
+A hazard ratio <1 indicates a lower risk with daprodustat compared to rhEPO.
+
+» One-sided p-value based on Wald test of null hypothesis: (daprodustat/rhEPO) =1 vs alternative: ratio <1
+
+© A rate difference <0 indicates a lower risk with daprodustat compared to rhEPO.
+
+¢ Epoetin alfa in HD participants or darbepoetin alfa in PD participants.
+
+Abbreviations: Cl, confidence interval; CSR, clinical study report; HD, hemodialysis; PD, peritoneal dialysis; PY, person-year,
+ThEPO, recombinant human erythropoietin
+
+Participants on daprodustat had a numerically lower risk for time to first occurrence of receiving
+an on-treatment RBC or whole blood transfusion compared to rhEPO. However, the observed
+
+104
+Integrated Review Template, version 3.0 (05/25/2022)
+
+Reference ID: 5119138

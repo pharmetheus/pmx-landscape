@@ -1,0 +1,66 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {BLA 761344}
+
+{Tarlatamab}
+
+Bioanalytical
+method validation
+report name,
+amendments, and
+
+Quantification of AMG 757 in Human Serum by ECL Assay (MET-
+406436) Validation Report.125850 (version 1.0 and 2.0)
+
+hyperlinks
+Method MET-406436 Version 1.0; An Electro-chemiluminescence (ECL)-based
+description assay for the Quantification of tarlatamab in Human Serum
+
+Materials used for
+calibration curve &
+concentration
+
+Prepared in human serum at nominal tarlatamab concentrations of
+400, 133, 44.4, 14.8, 4.94, 1.65, 0.549, 0.183, 0.0610, 0.0203 and
+0.00677 ng/mL
+
+Validated assay
+
+0.0203 to 133 ng/mL tarlatamab
+
+concentration
+
+range
+Material used for Prepared in human serum at nominal tarlatamab concentrations of
+QCs & 133, 100, 2.00, 0.0650 and 0.0203 ng/mL
+
+Minimum required
+dilutions (MRDs)
+
+n/a (analysis in 100% serum)
+
+Source & lot of Capture reagent OM lot: PL-55265 (Amgen
+reagents (LBA) Inc.)
+Detection Reagent © lot: PL-54405
+(Amgen Inc.)
+Regression model 5-parameter fit (weighting 1/y’)
+& weighting
+Validation Method validation summary Acceptability
+parameters
+Standard Number of standard calibrators from LLOQ | 9 Yes
+calibration curve to ULOQ
+performance Cumulative accuracy (%bias) from LLOQto | -5to 7% | Yes
+during accuracy & ULOQ
+Precision Cumulative precision (%CV) from LLOQ to < 6% Yes
+ULOQ
+QCs performance Cumulative accuracy (%bias) in 5 QCs -10 to Yes
+during accuracy & 1%
+precision Inter-batch %CV < 15% Yes
+Total Error (TE) <25% Yes
+332
+
+Version date: June 2022 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5382024
+

@@ -1,0 +1,74 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 219249}
+{Inavolisib}
+
+onset), and Platelet count for Grade >2 Thrombocytopenia (probability and
+time to onset). The identification of those covariates in the model were
+expected because as lab values they are highly relevant to the respective
+AE endpoints. Race was also identi
+Hyperglycemia and Thrombocytopenia (probability and time to onset), and
+for Grade >2 anemia and Grade 23 AE (time to onset), with higher
+probability or early on-set of those AEs in Asian patients, however, the rate
+of inavo dose modification or dose reduction in Asian or Chinese patients
+are comparable to those in the global patients.
+
+Phase | Study GO39374:
+
+Patients with high risk factors for Hyperglycemia at Study Entry (i.e., BMI >
+30 or HbAIC > 5.7%) are at a higher probability of experiencing an AE
+Grade 23 or hyperglycemia Grade >2; this was expected given
+hyperglycemia is an on-target AE for inavolisib. Patients receiving
+
+Wolisib in combination with palbociclib and fulvestrant are also at a
+higher probability of experiencing an AE Grade >3; this was expected given
+neutropenia is the most common AE for palbociclib.
+
+as covariate for Grade >2
+
+Simulation for Specific Population __| Not applicable N/A
+
+Visualization of E-R relationships The relationship between inavolisib exposure metric and the AE endpoints | Acceptable
+(time to onset and probability) were graphically explored using Kaplan-
+Meier plots and logistic plots.
+
+‘Overall Clinical Relevance for ER ‘Although positive relationship between inavolisib exposure and safety ‘Acceptable
+endpoints (Grade >3 AE, hyperglycemia Grade >2, and inavolisib dose
+modification) were revealed in Study GO39374, no positive relationship
+was found for WO41554 (except Anemia Grade >2). This can be explained
+by a wider exposure range in study GO39374 compared to Study
+W041554, broader HbA1c and fasting blood glucose eligibility criteria in
+Study GO39374 compared to Study W041554, and better AE management
+
+in WO41554.
+Labeling Language Description ‘Acceptability
+[FDA’s comments]
+12.2 Pharmacodynamics ©) | Acceptable with
+minor edits by the
+Agency
+
+See Appendix 1, Section 9.1 for Study GO39374 and Table 17 and 18 for Study WO41554 in Report 1129439 for Summary of
+Baseline Characteristics and Laboratory Values in the exposure-safety analysis Datasets.
+
+See Appendix 2, Section 10.1 for Study WO41554 in Report 1129439 for Covariate Distribution over Quartiles of AUCss, Cmaxss
+and Cminss for All Subjects Included in the exposure-safety Analysis of Inavolisib.
+
+See Table 12, 13, 14 and Appendix 1, Section 9.18, 9.22, 9.26 for Study GO39374 and Table 31-48 for Study WO41554 in Report
+1129439 for Parameter Estimates from Final exposure-safety Models of Inavolisib.
+
+See Figure 11-16 and Appendix 1, Section 9.16, 9.17, 9.20, 9.21, 9.24, 9.25 in Report 1129439 for exposure-safety Curves of
+Inavolisib vs AUCss, Cmaxss or Cminss for Study GO39374
+
+See Figure 24, 25 and Appendix 2, Section 10.31-10.37, 10.39-10.45 in Report 1129439 for exposure-safety Curves of Inavolisib
+vs. AUCss, Cmaxss or Cminss for Study WO41554.
+
+The FDA’s Assessment: The Applicant’s E-R (safety) analyses are acceptable. As indicated in
+figures below, positive relationships were identified between exposure parameter (AUC or Cmax)
+and the probability of AE grade 2 3, hyperglycemia grade 2 2, inavolisib dose modification due
+to AE and anemia grade 22 in study GO39374 or WO41554.
+
+213
+Version date: June 2022 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5460147

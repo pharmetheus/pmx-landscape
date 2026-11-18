@@ -1,0 +1,85 @@
+BLA Multi-disciplinary Review and Evaluation {Biologics License Application (BLA) 761324
+
+{epcoritamab}
+
+19.4.5. Exposure-Response Analysis
+
+19.4.5.1. ER (efficacy) Executive Summary
+
+The FDA’s Assessment:
+
+The E-R efficacy analysis generally supports the proposed full dose of 48 mg. Higher Cycle 1 AUC
+was associated with better ORR and CR rates in patients with LBCL as well as in patients with
+DLBCL. The lowest Cycle 1 AUC quartile was associated with worse OS and worse PFS compared
+
+to higher quartiles.
+
+19.4.5.2. ER (efficacy) Assessment Summary
+
+The Applicant’s Position:
+
+General Information
+
+Goal of ER analysis
+
+The objectives of the exposure-efficacy analysis were to assess the relationships
+between epcoritamab exposure and key efficacy endpoints in subjects with LBCL
+and DLBCL.
+
+Study Included
+
+GCT3013-01 and GCT3013-04
+
+Endpoint
+
+Overall (complete or partial) response rate (ORR) (IRC-assessed per Lugano
+criteria);
+
+Complete response rate (CR) (IRC-assessed per Lugano criteria);
+
+Duration of response (DOR) (IRC-assessed per Lugano criteria);
+Progression-free survival (PFS) (IRC-assessed per Lugano criteria); and
+Overall survival (0S).
+
+No. of Patients (total,
+and with individual PK)
+
+234 patients with LBCL
+
+Dose(s) Included
+
+Priming doses of epcoritamab tested include 0.004, 0.0128, 0.04, 0.08, 0.12, and
+0.16 mg. Intermediate doses of epcoritamab tested include 0.25, 0.5, 0.8, and 1.6
+mg. Full doses of epcoritamab tested include 0.0128, 0.04, 0.12, 0.38, 0.76, 1.5, 3,
+6, 12, 24, 48, and 60 mg
+
+Exposure Metrics
+Explored (range)
+
+Predicted AUC over the first cycle (Cycle 1 AUC)
+
+Covariates Evaluated
+
+Age, Gender, Race, ECOG, Weight, Time from last anti-CD20 therapy till first dose
+of GEN3013, Prior CART therapy, Prior ASCT, Prior anti-lymphoma therapy status,
+Most recent prior anti-CD20 therapy status, Ann Arbor Stage, ADA, tumor size
+
+Final Model Parameters | Summary ‘Acceptability
+[FDA’s comments]
+Model Structure Linear logistic regression model In 234 patients with LBCL from
+Model Parameter Studies GCT3013-01 and GCT3013-
+Estimates Table 102 04 who received individual doses
+Model Evaluation N/A ranging from 0.004 to 60 mg, a
+Covariates and Clinical | The exposure-ORR relationship remained higher ORR was associated with
+Relevance positive and statistically significant after higher Cycle 1 AUC, no prior CAR-T
+accounting for time from last anti-CD20 therapy, and greater than median
+therapy until first dose of epcoritamab and_ | duration since prior CD20 therapy
+prior CAR-T therapy.
+
+288
+Version date: June 2022 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5176690

@@ -1,0 +1,29 @@
+4.4.3 Exposure-PD response analysis from Protégé study
+As a supportive evidence to evaluate the biocomparability between the Eli-Lilly and AGC biologics
+
+products, exposure-response analyses for two pharmacodynamic (PD) markers were evaluated using
+available PK-PD data from Protégé study. The exposure from Protégé study was deemed comparable to
+the predicted exposure from Eli Lilly product. The first pharmacodynamic outcome evaluated was the AUC
+of total lymphocyte count change from baseline over the first 28 days of treatment. The second
+pharmacodynamic outcome evaluated was the change from baseline in C-peptide at 2 years. All exposure-
+PD response analyses were performed using nonlinear least squares modeling approach with SAS® 9.4
+and the PROC NLIN procedure (method: Gauss-Newton).
+
+4.4.3.1 Exposure versus total lymphocyte decline relationship
+Analysis on the relationship between AUC of lymphocyte count decline and teplizumab exposure was
+conducted from the Protégé study data.
+
+Lymphocyte counts were collected following the first treatment course (Days 0 - 28). Lymphocyte count
+change from baseline during the first 28 days was used to calculate the total lymphocyte change (AUC 0-
+28days) using a trapezoidal rule for each subject. When calculating total lymphocyte change, the missing
+lymphocyte counts at Day 28 were imputed using the treatment-specific average lymphocyte count
+change at Day 28. For the intermittent missing lymphocyte counts between Day 0 and Day 28, the missing
+values were imputed using the linear interpolation.
+
+Teplizumab exposure (cumulative or total AUC from day 0 to infinity, AUCinf) following the 1* treatment
+course (cycle 1) of Protégé study was estimated from the final population PK model developed in T1D
+patients.
+
+66
+
+Reference ID: 8088806

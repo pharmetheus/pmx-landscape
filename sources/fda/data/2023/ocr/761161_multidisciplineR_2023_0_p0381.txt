@@ -1,0 +1,57 @@
+BLA Multi-disciplinary Review and Evaluation BLA 761161
+PRX-102 pegunigalsidase alfa
+
+smooth ——
+00 #05 #10 #15 20 25 3.0
+
+Females Males
+
+250
+
+200 e [
+
+150
+
+Lyso-Gb3 (ng/mL)
+
+100
+
+50
+
+00 05 10 15 20 25 30
+PRX-102 AUC (g*hr/mL)
+
+Note: The x-axis is the area under plasma drug concentration vs time curve (AUC) fora dose
+interval at steady-state
+Source: Figure 12-7 of Applicant’s PPK and PKPD report
+
+PKPD Modeling of Gb3 Inclusions: PKPD analysis of Gb3 inclusions was based on the data
+collected from 13 patients. Exploratory plots of the percent change from baseline in BLISS score
+for Gb3 inclusions versus PRX-102 AUCt showed a difference between Classic Fabry patients
+and others; however, there was no statistically significant relationship between change in Gb3
+inclusion and PRX-102 exposure (AUCt) (Figure 21).
+
+Figure 19: Percent change from baseline in BLISS score for Gb3 inclusions vs. PRX-
+102 AUCt stratified by whether patients had Classic Fabry disease
+
+data © smooth —— 09 500000 1000000
+
+Classic Fabry otherwise
+
+° ° °
+
+% change from baseline BLISS Score
+&
+6
+f
+T
+
+-100
+
+ie) 500000 1000000
+PRX-102 AUC (ng*hr/mL)
+
+128
+Version date: October 12, 2018
+
+Reference ID: 4786588

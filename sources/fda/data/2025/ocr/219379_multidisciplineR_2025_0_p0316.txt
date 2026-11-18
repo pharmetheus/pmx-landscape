@@ -1,0 +1,73 @@
+NDA/IND Multi-disciplinary Review and Evaluation NDA 219379/219389
+Mirdametinib (GOMEKLI)
+
+Cycles 1, 2, 3, 5, 7/Days 1 and 19 — pre-dose, 2-8h
+
+A4581004:
+
+Day 1—pre-dose, 1, 1.5, 2, 3, 4, 5, 6, 8, 12, 24, 36, 72, 168, 264,
+336h
+
+NF106:
+
+Cycle 1/Day 1— pre-dose, 0.5, 1, 2, 3, 4, 6, 8, and 10-12h
+MEK-NF-101:
+
+Pre-dose, 0.25, 0.5, 1, 1.5, 2, 3, 4, 6, 8, 10, 12, 24, 36, 48, 72, 96,
+120, 144, 168, 192, 216, 240, 264, 288, and 312h
+
+MEK-NF-201:
+
+Cycle 1/Day 1 — pre-dose, 1h and 2h
+
+Cycle 1/Day 15 — pre-dose, 0.5, 1, 2, 3, and 4h
+
+Cycles 2-7, 9, 11, 13, 15, 17, 19, 21, and 23/Day15 — pre-dose
+Cycle 24/Day 21-0
+
+Covariates Static Disease type/patient population, dose, sex, race, formulation, fed
+Evaluated status, bilirubin, AST, ALT, ALP, albumin, creatinine clearance,
+Time-varying Body-weight, dose, BMI, age, BSA, concomitant medications
+(UGT1A6, UGT2B7, CES1 inhibitors/inducers, and P-gp inhibitors)
+Final Model Summary Acceptability
+[FDA’s comments]
+Software and Version NONMEM (Version 7.4) Acceptable
+Model Structure Mirdametinib: Three-compartment model
+with drug absorption characterized by a Acceptable
+TCAM
+PD-0315209: Three-compartment model
+driving by Fm.
+Model Parameter Estimates Mirdametinib, Table 49 Acceptable
+PD-0315209, Table 50
+Uncertainty and Variability (RSE, IV, _| In the final mirdametinib model, n- Acceptable
+Shrinkage, Bootstrap) shrinkage for CL/F, Vc/F, Q2/F, Vp1/F, NTR,
+
+MTT and Frel was 21.8%, 38.8%, 58.1%,
+29.0%, 56.5%, 23.8% and 45.0%,
+respectively. Shrinkage was acceptable,
+except for Vc/F, Q2/F, NTR and Frel, which
+may mask, falsely induce, or distort the
+shape of the covariate-parameter
+relationship. IIV was included on CL/F,
+Vc/F, Q2/F, Vp2/F, NTR, MTT and Frel with
+estimates of 26.7% CV, 41.5% CV, 21.8%
+CV, 80.4% CV, 88.3% CV, 75.8% CV and
+15.3% CV, respectively. Residual variability
+was described by a proportional error
+model, with estimates of 39.7% CV for
+studies A4581001, A4581002 and MEK-NF-
+201, 14.5% for NF106 and 20.8% for
+A4581004. Generally, RUV increased with
+the study size and the proportion of
+samples with unknown food status.
+
+Large inter- and intra-study variability was
+observed in mirdametinib exposures,
+
+315
+Version date: June 2022 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5528369

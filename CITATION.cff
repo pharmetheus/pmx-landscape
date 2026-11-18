@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use these results or this software, please cite it as below."
+title: "PMx Landscape"
+abstract: >-
+  How pharmacometric modelling is done and used in practice, and how this
+  changes over time, measured from FDA reviews of new drugs, the published
+  literature (PubMed and Europe PMC) and PAGE meeting abstracts. The first
+  measure is the estimation software used. The corpus, the classifications
+  and the tag database behind every number are included.
+type: software
+authors:
+  - family-names: Jonsson
+    given-names: Niclas
+    email: niclas.jonsson@pharmetheus.com
+    affiliation: Pharmetheus AB
+version: 0.3.0
+license:
+  - MIT
+  - CC-BY-4.0
+keywords:
+  - pharmacometrics
+  - modelling practice
+  - population pharmacokinetics

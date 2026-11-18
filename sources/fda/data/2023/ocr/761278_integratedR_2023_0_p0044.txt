@@ -1,0 +1,65 @@
+BLA 761278
+Lamzede (velmanase alfa-tycv)
+
+Velmanase Placebo Total Population
+N=15 N=10 (N=25)
+Characteristic n(%) n(%) n(%)
+Alphamannosidase activity (nmol/h/mg)
+Mean (SD) 12.4 (3.5) 12.7 (6.2) 12.5 (4.7)
+Median (min, max) 11.5 (8.5, 22.2) 11.6 (8.3, 29.0) 11.5 (8.3, 29.0)
+Alphamannosidase activity (relative) (%)
+Mean (SD) 4.5 (1.3) 4.6 (2.3) 4.6 (1.7)
+Median (min, max) 4.2 (3.1, 8.1) 4.3 (3.0, 10.6) 4.2 (3.0, 10.6)
+3MSCT (steps/min)
+Mean (SD) 52.9 (11.2) 55.5 (16.0) 54.0 (13.1)
+Median (min, max) 50 (37.7, 83.3) __54.5 (32.0, 78.0) _50.0 (32.0, 83.3)
+6MWT (meters)
+Mean (SD) 459.6 (72.3) 465.7 (140.5) 462.0 (102.2)
+Median (min, max) 434.0 (335.0, 627.0) 482.5 (219.0, 696.0) 476.0 (219.0, 696.0)
+FVC (% predicted)
+Mean (SD) 85.1 (22.8) 85.5 (18.5) 85.3 (20.8)
+Median (min, max) 80.0 (50.0, 120.0) 91.5(41.0, 109.0) 91.0 (41.0, 120.0)
+Genetic variant, n (%)
+c.2248C > T 6 (40) 1 (10) 7 (28)
+Other! 9 (60) 8 (80) 17 (68)
+Missing 0 1 1 (4)
+Genetic variant type, n (%)
+Deletion 0 14 (10) 1 (4)
+Frameshift 2 (13) 2 (20) 4 (16)
+Missense 6 (40) 2 (20) 8 (32)
+Mixed 5 (33) 4 (40) 9 (36)
+Nonsense 2 (13) 0 2 (8)
+Missing 0 1 (10) 1 (4)
+
+‘Source: [Include Applicant source and/or software tools used]
+
+“Other” includes the following variants: c.1026+2T > G, c.1055T > C, ¢.1333C > T, c.1358C > T, ¢.2234C > G, c.231G >A,
+¢.2355G > A, c.2398G > T, ¢.2436+5G > A, c.283G > C, c.338_348dup11, c.383G > A, c.418C > T, c.598C > A, c.685C > T,
+c.809dupA, c.812_813dupTG; each variant was present in one patient, except c.1055T > C, which was present in two patients
+Abbreviations: Cl, confidence interval: N, number of patients in treatment arm; n, number of patients with given characteristic;
+SD, standard deviation; 3MSCT, 3-minute stair climb test; 6MWT, 6-minute walk test; FVC, forced vital capacity
+
+6.2.1.4. Statistical Analysis Plan
+
+Serum oligosaccharide level, 3MSCT, FVC%, and 6MWT were measured at baseline, week 26,
+and week 52 of the trial. Serum oligosaccharide level was measured using an assay at a central
+laboratory at the © The 3MSCT, FVC%, and 6MWT were
+administered to all subjects at the ® site.
+
+The 3MSCT is measured as the number of steps divided by time (minutes). If a subject reaches
+the top of the stairs in less than three minutes, the number of steps will be divided by the time it
+took to reach the top of the stairs. According to the SAP, if a subject stops prematurely due to
+exhaustion or a similar reason, the number of steps taken will be divided by three minutes.
+
+The SAP stated that the primary analysis would be performed on the relative change from
+baseline to week 52 for the primary efficacy endpoints and the key secondary efficacy endpoints.
+The analyses for the endpoints of absolute change from baseline were considered sensitivity
+analyses.
+
+The efficacy endpoints were analyzed using an analysis of covariance (ANCOVA) model
+including treatment as fixed factor and baseline value and age as continuous covariates. The
+
+29
+Integrated Review Template, version 3.0 (05/25/2022)
+
+Reference ID: 5127751

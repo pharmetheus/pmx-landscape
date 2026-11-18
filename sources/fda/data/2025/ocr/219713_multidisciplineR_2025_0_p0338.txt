@@ -1,0 +1,53 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 219713}
+{IBTROZI™, Taletrectinib}
+
+(Table 20 of Male n (%): 133 (43%)
+the ER report) White n (%): 46 (15%), Asian n (%): 241 (77%), Other
+1(%): 25 (8.0%)
+Pediatrics (if | Not included
+any)
+Dose(s) Included 400 mg and 600 mg
+Exposure Metrics Explored Cavgss (Cmaxss is highly corrected with Cavgss due to very
+(range) flat PK profile at steady state: R7= 0.95)
+Covariates Evaluated Age, Sex, Race, Baseline weight, Baseline serum albumin
+Brain metastases, Prior TKI treatment, Baseline ECOG
+Final Model Parameters Summary Acceptability
+[FDA’s
+comments]
+Model Structure Yes
+
+Primary: logistic regression
+
+P
+log (=p) = Bo + Bens
+
+- Cavgss; + ByXi1
++ BoXia +++ Bix
+
+where, Pi is the probability of that
+subject i will achieve an OR, Cavgssi
+is the value of Cavgss in subject i,
+and Bcavgss is the estimated effect of
+Cavgss on the log-odds of achieving
+an OR. Additionally, xij represents
+the value of covariate j in subject i,
+and fj are estimated parameters that
+represent log-odds ratios.
+
+Secondary: linear regression
+(nonlinear if necessary)
+_ SLD; ¢ — SLDig
+0 SLDip
+= Bo + Beavgss
++ Cavgss; + ByXi4
++ Boxia + Bjxij
+where, SLD;9 is the baseline SLD,
+SLD; is value of SLD at time t,
+
+337
+Version date: March 1, 2024 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5606238

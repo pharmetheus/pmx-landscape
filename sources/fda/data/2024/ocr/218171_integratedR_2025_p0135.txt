@@ -1,0 +1,73 @@
+NDA 218171
+ENSACOVE (ensartinib)
+
+Table 84. Ensartinib Drug Substance Impurity Qualification
+Level in Dog Levels in Humans
+
+Based on Tox Based on
+
+Acceptance Batches: Acceptance Criteria
+Criteria (%) Level in Tox Batch: {mg/kg atHuman Daily _ Safety
+Impurity DS _X396-HCL-15101 (°@ mg/m?) Dose, 141 mg/m? Margin®
+ay] ©M% Study # X396-TOX-007 (3 mg/m? (3 mg/m2 x
+
+WA) 0%
+
+Source: Reviewer-generated table based on Study # X396-TOX-007
+
+225 mg (clinical dose)/ 1.6 m? (adult body surface area, BSA) =141 mg/m?
+
+® Safety margin was calculated by comparing level in animals (toxicology batch) divided by level in humans based on acceptance
+criteria level
+
+Abbreviations: DS, drug substance
+
+In Silico Genotoxicity Assessment
+
+As per the ICH Guidance S9 Nonclinical Evaluation for Anticancer Pharmaceuticals - Questions
+and Answers (June 2018), designed to facilitate the implementation of the recommendations in
+the ICH S9 guidance, genotoxicity assessment of impurities should be conducted if the active
+pharmaceutical ingredient is not genotoxic, and the impurity exceeds the qualification threshold
+in ICH Q3A (June 2008) or ICH Guidance for Industry 03B(R2) Impurities in New Drug
+Products (August 2006). At the recommended ensartinib daily dose of 225 mg, the proposed
+criteria exceed the qualification thresholds of ICH Q3A and ICH Q3B(R2) for impurity ]
+
+The Applicant investigated the mutagenic potential of 2 impurities OM in
+
+quantitative structure activity relationship quantitative structure-activity relationship ((Q)SAR)
+studies (Study # X396-TOX-016). The analysis included both statistical-based (Case Ultra
+1.6.0.3, Leadscope Model Applier 2.0.4) and expert rule-based (DEREK Nexus 2.1.1)
+methodologies. In silico assessment did not identify structural alerts for genotoxicity
+
+® showed plausible mutagenic potential in the
+tule-based DEREK Nexus based on the aromatic nitro part of the structure. As a result, the
+Applicant evaluated OF for mutagenicity in an in vitro bacterial mutagenicity (Ames)
+assay. The results were negative and are shown in Table 85.
+
+©) 4)
+
+Table 85. Characterization of Impurities
+
+Study No./ Study Title Key Study Findings
+Study # 8346099 Salmonella typhimurium strains TA98, TA100, TA1535, TA1537 strains
+Uk and Escherichia coli strain WP2uvrA were incubated +/- S9 activation at
+concentrations of 5.0, 16.0, 50.0, 50.0, 160, 500, 1600, and
+5000 ug/plate.
+Bacterial Mutation Assay Results: ®® was negative in the bacterial reverse mutation
+
+assay under the conditions described.
+GLP compliance: Yes
+Study is valid: Yes
+Source: Reviewer-generated table based on Study # 8346099
+Abbreviations: GLP, good laboratory practice
+
+FDA In Silico Impurity Assessment
+
+The Applicant’s (Q)SAR assessment was performed >8 years ago (April 2016) and the models
+are outdated. Thus, FDA Computational Toxicology Consultation Service repeated the (Q)SAR
+analysis of ®® impurities and used the most recent versions of the expert rule-
+
+122
+Integrated Review Template, version 4.0 (11/1/23)
+
+Reference ID: 5498774

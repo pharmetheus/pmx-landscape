@@ -1,0 +1,60 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {BLA 761234}
+Opdualag™ (nivolumab and relatlimab-rmbw)
+
+e Sex, n(%): 898 (58.7) males, 631 (41.3) females
+OR:
+
+e Median (range) age: 62 (17, 92) years
+@ Median (range) baseline body weight: 77.5 (39, 170) kg
+e Sex, n(%): 508 (59.2) males, 350 (40.8) females
+
+Pediatrics
+(if any)
+
+Not specifically evaluated.
+
+Dose(s) Included
+
+Nivotrela 240/80 mg Q2W, 480/160 mg Q4W, and 480/480 mg Q4W.
+
+Exposure Metrics Explored
+(range)
+
+RO: relatlimab serum concentration values predicted using the actual doses administered
+PFS and OR: Relatlimab and nivolumab Cmind28 and Cavgd28
+
+Covariates Evaluated
+
+RO: N/A
+
+PFS and OR: Age, baseline body weight, baseline albumin, baseline LDH [*ULN], baseline tumor
+size, sex, patient population, baseline LAG-3 expression, baseline PD-L1 expression, BRAF status,
+M-Stage Status, ECOG status, baseline nivolumab CL
+
+Final Model Parameters Summary Acceptability
+[FDA’s comments]
+Model Structure RO: E-R of RO was characterized by a sequential PK-PD model Acceptable
+
+building approach. The relationship between relatlimab exposure
+and peripheral RO was characterized by a sigmoid Emax model.
+
+PFS: E-R of PFS was characterized by time-to-event modeling using
+Cox proportional hazard methodology. The model with log-linear
+relatlimab Cavgd28 and log-linear nivolumab Cavgd28 was selected
+as this full model provided the best fit to the data, in the presence
+of other covariates.
+
+OR: E-R of OR was characterized using logistic regression
+methodology. The model with linear relatlimab Cavgd28 and log-
+linear nivolumab Cavgd28 was selected as this full model provided
+the best fit to the data, in the presence of other covariates.
+
+285
+Version date: January 2020 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “The Applicant’s Position” are completed by the Applicant and do not necessarily reflect the positions
+
+of the FDA.
+
+Reference ID: 4955210
+

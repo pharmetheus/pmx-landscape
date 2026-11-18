@@ -1,0 +1,71 @@
+BLA 761184
+
+Ngenla (somatrogon)
+Figure 45. Cumulative AUC Ratios After Stratified by Dose-Interval Changes
+
+oe 2.0 Dose interval change
+: 1.9 tr — 3 days earlier
+
+8 18 > 2days earlier
+
+% 4 7{ I —~ 1 day earlier
+
+o 1 day late
+
+3 1.6| — 2days late
+
+2 15 x — 3days late
+
+© 1.4 t 3
+
+1e)
+
+13 =
+=
+=
+
+° 1.2 z x =
+e141 % = =
+2 1.0 — aed — ed —
+50.9
+
+2 0.8
+
+Week 1 Week 1-2 Week 1-3 Week 1-4 Week 1-5
+Weeks
+
+Source: Reviewer's independent analysis.
+Abbreviations: AUC, area under the curve
+
+14.3.1.4.8. Reviewer's Conclusion
+
+Based on reviewer’s final model, somatrogon pharmacokinetics is described by a 2-compartment
+pharmacokinetic model with first order absorption and no lag-time of absorption from the
+administration compartment. Somatrogon clearance increases linearly with body weight and
+decreases as ADA titer increases. Between subject variabilities of clearance (22%) and volume
+of distribution (67.5%) are medium and large respectively. Goodness of fit plots of the model
+indicate adequate description of the data and therefore the model is acceptable for exposure-
+versus-efficacy analyses.
+
+14.3.2. Exposure-Versus-IGF-1 Response
+14.3.2.1. Reviewer Summary
+
+— Using the weight-normalized PopPK model and IGF-1 data the Applicant developed
+2 population PKPD models which differ in covariate-parameter relationships. The
+PKPD models were indirect Emax models in which somatrogon plasma concentration
+stimulated production of IGF-1. In both models, baseline IGF-1 were not used for
+modeling, but a population average value of baseline IGF-1 was estimated. In the
+Applicant’s first model, age and BMI were covariates for baseline IGF-1. In the
+Applicant’s second model, age was a covariate on baseline IGF-1 and BMI was a
+covariate on Eyay. Both models assumed no unexplainable between-subject
+variability (BSV) for baseline IGF-1.
+
+— Despite adequate fit of the Applicant models to the observed IGF-1 data, the reviewer
+determined that the somatrogon PKPD model could be improved to better
+characterize factors influencing between subject variability in IGF-1 profiles. The
+Applicant's models could be improved in two ways: Firstly, the reviewer's alternative
+PopPK model should be used for PKPD modeling as it best characterizes factors
+
+153
+
+Reference ID: 4924352

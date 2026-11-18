@@ -1,0 +1,58 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 219713}
+{IBTROZI™, Taletrectinib}
+
+Sampling InITT Rich samples: C1D1 at predose, and up to 24 hr, C1D8 at
+Schedule Population predose, C1D15 at predose, and up to 24 hr, C2D1 and
+C3D1 at predose.
+Sparse samples: C1D1 at predose and 2-7 hr postdose,
+C1D8 at predose, C1D15 at predose and 2-7 hr postdose,
+C2D1 at predose, 2-7 hr postdose, and C3D1 at predose
+Covariates Static Baseline age, sex, race, baseline weight, baseline serum
+Evaluated albumin, estimated glomerular filtration rate (eGFR),
+hepatic impairment, participant type, baseline Eastern
+Cooperative Oncology Group (ECOG) score, prior TKI
+treatment, and food status
+Time-varying
+Final Model Summary Acceptability
+[FDA’s
+comments]
+Software and Version NONMEM (version 7.5.1) Yes
+
+R (version 4.2.3)
+
+Model Structure
+
+A linear 3-compartment model with | Yes
+first-order absorption with a lag time
+and first-order elimination and an
+allometrically scaled baseline body
+weight effect on clearances and
+volume of distribution.
+
+Model Parameter Estimates
+
+Table 10 of the popPK report Yes
+
+Bootstrap)
+
+Uncertainty and Variability
+(RSE, ITV, Shrinkage,
+
+All fixed-effects were estimated with | Yes
+%RSE below 25%. Most structural
+model parameters were estimated
+with good precision (<10% RSE),
+with the exception of V3 and KA
+(<20% RSE). Random effects were
+also well estimated with the % RSE
+below 20% with the exception of CL
+(36% RSE).
+
+319
+
+Version date: March 1, 2024 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5606238

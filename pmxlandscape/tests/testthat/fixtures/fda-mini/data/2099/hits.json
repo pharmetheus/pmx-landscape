@@ -1,0 +1,137 @@
+[
+ {
+  "appl": "100001",
+  "doc": "100001_integratedR_2099",
+  "page": 1,
+  "src": "text",
+  "sw": "NONMEM",
+  "group": "estimation",
+  "snip": "Applicant's Position: the population pharmacokinetic analysis used NONMEM 7.4 with PsN. gaps and lines. NONMEM again."
+ },
+ {
+  "appl": "100001",
+  "doc": "100001_integratedR_2099",
+  "page": 1,
+  "src": "text",
+  "sw": "NONMEM",
+  "group": "estimation",
+  "snip": "Applicant's Position: the population pharmacokinetic analysis used NONMEM 7.4 with PsN. gaps and lines. NONMEM again."
+ },
+ {
+  "appl": "100001",
+  "doc": "100001_integratedR_2099",
+  "page": 1,
+  "src": "text",
+  "sw": "PsN",
+  "group": "auxiliary",
+  "snip": "Applicant's Position: the population pharmacokinetic analysis used NONMEM 7.4 with PsN. gaps and lines. NONMEM again."
+ },
+ {
+  "appl": "100001",
+  "doc": "100001_integratedR_2099",
+  "page": 1,
+  "src": "text",
+  "sw": "popPK marker",
+  "group": "marker",
+  "snip": "Applicant's Position: the population pharmacokinetic analysis used NONMEM 7.4 with PsN. gaps and lines. NONMEM again."
+ },
+ {
+  "appl": "100001",
+  "doc": "100001_integratedR_2099",
+  "page": 2,
+  "src": "ocr",
+  "sw": "Monolix",
+  "group": "estimation",
+  "snip": "Table 3. Software: Monolix 2021R1 popPK model"
+ },
+ {
+  "appl": "100001",
+  "doc": "100001_integratedR_2099",
+  "page": 2,
+  "src": "ocr",
+  "sw": "popPK marker",
+  "group": "marker",
+  "snip": "Table 3. Software: Monolix 2021R1 popPK model"
+ },
+ {
+  "appl": "100001",
+  "doc": "100001_integratedR_2099",
+  "page": 3,
+  "src": "text",
+  "sw": "Stan/Torsten",
+  "group": "estimation",
+  "snip": "lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet The Stan standard. Simcyp was used for DDI. Phoenix, AZ and Phoenix WinNonlin 8.3 for NCA.lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lor"
+ },
+ {
+  "appl": "100001",
+  "doc": "100001_integratedR_2099",
+  "page": 3,
+  "src": "text",
+  "sw": "Simcyp",
+  "group": "pbpk",
+  "snip": "or sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet The Stan standard. Simcyp was used for DDI. Phoenix, AZ and Phoenix WinNonlin 8.3 for NCA.lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor si"
+ },
+ {
+  "appl": "100001",
+  "doc": "100001_integratedR_2099",
+  "page": 3,
+  "src": "text",
+  "sw": "Phoenix WinNonlin (NCA)",
+  "group": "nca",
+  "snip": "m dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet The Stan standard. Simcyp was used for DDI. Phoenix, AZ and Phoenix WinNonlin 8.3 for NCA.lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor "
+ },
+ {
+  "appl": "100002",
+  "doc": "100002_clinPharmR_2099",
+  "page": 1,
+  "src": "text",
+  "sw": "NONMEM",
+  "group": "estimation",
+  "snip": "FDA's Assessment: the reviewer used nonmem and NONMEMS (sic)."
+ },
+ {
+  "appl": "100002",
+  "doc": "100002_clinPharmR_2099",
+  "page": 1,
+  "src": "text",
+  "sw": "NONMEM",
+  "group": "estimation",
+  "snip": "FDA's Assessment: the reviewer used nonmem and NONMEMS (sic)."
+ },
+ {
+  "appl": "100002",
+  "doc": "100002_clinPharmR_2099",
+  "page": 2,
+  "src": "text",
+  "sw": "Stan/Torsten",
+  "group": "estimation",
+  "snip": "References: Torsten L. et al. MATLAB"
+ },
+ {
+  "appl": "100002",
+  "doc": "100002_clinPharmR_2099",
+  "page": 2,
+  "src": "text",
+  "sw": "SimBiology/MATLAB",
+  "group": "auxiliary",
+  "snip": "References: Torsten L. et al. MATLAB"
+ },
+ {
+  "appl": "100002",
+  "doc": "100002_multidisciplineR_2100",
+  "page": 1,
+  "src": "text",
+  "sw": "NONMEM",
+  "group": "estimation",
+  "snip": "Phoenix® NLME 8.4 was used by the Applicant. The final NONMEM data file contained 300 subjects."
+ },
+ {
+  "appl": "100002",
+  "doc": "100002_multidisciplineR_2100",
+  "page": 1,
+  "src": "text",
+  "sw": "Phoenix NLME",
+  "group": "estimation",
+  "snip": "Phoenix® NLME 8.4 was used by the Applicant. The final NONMEM data file contained 300 subjects."
+ }
+]

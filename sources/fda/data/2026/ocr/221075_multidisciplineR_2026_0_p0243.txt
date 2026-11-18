@@ -1,0 +1,79 @@
+NDA/BLA Multi-disciplinary Review and Evaluation NDA 221075
+Iberdomide (ZENBEXUS)
+
+Table 80: FDA — Summary of Bioanalytical Methods Validation for the Determination of
+Iberdomide in Human Plasma (CC-220-DMPK-1504)
+
+Method Description
+
+Bioanalytical Method | Report CEL-R2146 (initial validation)
+
+Validation Report Addendum 1 (long-term stability)
+
+and Amendments Addendum 2 (CC-17379 interference)
+
+Addendum 3 (long-term stability, lipemic and hemolysis effect,
+additional QCM [0.8 ng/mL])
+
+Method Description | Acidified human plasma (40 mM citrate acid) were processed using
+solid-phase extraction (SPE) and analyzed via high-performance
+liquid chromatography (HPLC) coupled with Turbo IonSpray®
+tandem mass spectrometry (MS/MS). Multiple reaction monitoring in
+positive ion mode was used to detect iberdomide and its deuterated
+internal standard (IS; iberdomide-dg). Chromatographic separation
+was achieved on a Chiral-CBH column (Chiral Technologies, 100 = 3
+mum, 5 pm) with a total run time of 5.2 minutes. Retention time was
+~2.4 minutes. Quantification was based on analyte-to-IS peak area
+ratios.
+
+Materials Iberdomide in acidified (40 mM citric acid) human K2EDTA plasma
+
+Calibration Quality Controls (QCs)
+
+A 0.1 ng/mL LLOQ 0.1 ng/mL
+B 0.2 ng/mL QCL 0.3 ng/mL
+Cc 0.4 ng/mL QCM 1 0.8 ng/mL
+D 5 ng/mL QCM 2 30 ng/mL
+E 25 ng/mL QCH 75 ng/mL
+FE 50 ng/mL QCVH 750 ng/mL
+G 80 ng/mL
+
+H 100 ng/mL
+
+Validated Range 0.1—100 ng/mL
+
+Minimum Required | N/A
+
+Dilutions
+
+Regression Model 1/x? weighted least squares regression
+
+Method Validation
+
+Accuracy & # of calibrators 8 Acceptable
+
+Precision — Accuracy (% bias) _| -5.1% to 5.7%
+
+Calibration Curve Precision (% CV) <5.0%
+
+Accuracy & Accuracy (% bias) _| -4.9% to 2.2% Acceptable
+
+Precision — QCs Precision (% CV) < 8.5%
+
+Interference & No interference detected for 6 individual plasma lots, Acceptable
+
+Specificity from analyte to IS or from CC-17379 to iberdomide
+
+Selectivity & Matrix | Blank selectivity met criteria for 6 individual plasma Acceptable
+
+Effect lots
+
+244
+
+Version date: February 10, 2025 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5851050
+

@@ -1,0 +1,76 @@
+NDA 216951
+Jesduvrog (daprodustat)
+
+Daprodustat TIW Epoetin
+N=270 N=137
+Post-randomization Hb (observed cases only), ITT population
+Number of participants with baseline and EP Hb, n (%) 252 (93) 128 (93)
+Adjusted mean change from baseline (SE)? -0.01 (0.05) 0.04 (0.07)
+Adjusted mean treatment difference (dapro - Epoetin)? -0.06
+Two-sided 95% Cl for adjusted mean difference (-0.22, 0.10)
+
+Source: Sponsor CSR
+
+= Hb values during the EP include observed values only.
+
+» Based on an ANCOVA model with terms for treatment, baseline Hb, and region.
+
+Abbreviations: ANCOVA, analysis of covariance; Cl, confidence interval; CSR, clinical study report; Dapro, daprodustat; EP,
+evaluation period; Hb, hemoglobin; ITT, intent-to-treat; PP, per protocol; SE, standard error, TIW, three times a week
+
+The proportion of participants with mean Hb within the analysis range during the EP was higher
+in the daprodustat arm as compared to Epoetin arm (Table 36).
+
+Table 36. Participants With Mean EP Hb Below, Within and Above the Analysis Range Using
+Evaluable Hb Values for Study 204837/ASCEND-TD
+
+Daprodustat Epoetin
+
+N=270 N=137
+
+Participants with evaluable Hb during the EP 215 107
+Mean EP Hb above 11.5 g/dL 3(1) 9 (8)
+Mean EP Hb within 10.0-11.5 g/dL 172 (80) 68 (64)
+Mean EP Hb below 10.0 g/dL 40 (19) 30 (28)
+
+Source: Sponsor CSR
+Abbreviations: CSR, clinical study report; EP, evaluation period; Hb, hemoglobin
+
+The proportion of participants stopping randomized treatment due to meeting rescue criteria was
+small and similar between the treatment groups. Daprodustat did not reduce the risk of stopping
+randomized treatment due to meeting rescue criteria (Table 37).
+
+The cumulative incidence for time to stopping randomized treatment due to meeting rescue
+criteria was similar between the treatment groups (Figure 14).
+
+Table 37. Analysis of Time to Permanently Stopping Randomized Treatment Due to Meeting
+Rescue Criteria for Study 204837/ASCEND-TD
+
+Daprodustat Epoetin
+N=270 N=137
+Number of participants 270 137
+Permanently stopping randomized treatment due to meeting 6 (2.2) 3 (2.2)
+rescue criteria
+Censored 264 (97.8) 134 (97.8)
+Incidence rate per 100 PY (two-sided 95% Cl) 2.68 (0.98,5.84) _ 2.66 (0.55,7.77)
+Hazard ratio
+Estimate? 1.06
+Two-sided 95% Cl for hazard ratio (0.26, 4.22)
+One-sided p-value 0.53
+Absolute rate difference per 100 PY (two-sided 95% Cl)* 0.02 (-3.67, 3.72)
+
+Source: Sponsor CSR
+
+* Hazard ratio is estimated using a Cox proportional hazard regression model adjusted for treatment group, and region. A hazard
+ratio <1 indicates a lower risk with daprodustat compared to rhEPO.
+
+» One-sided p-value based on Wald test of null hypothesis: (daprodustat/rhEPO) =1 vs alternative: ratio <1
+
+* A rate difference <0 indicates a lower risk with daprodustat compared to rhEPO.
+
+Abbreviations: Cl, confidence interval; CSR, clinical study report; PY, person-year, rhEPO, recombinant human erythropoietin
+
+75
+Integrated Review Template, version 3.0 (05/25/2022)
+
+Reference ID: 5119138

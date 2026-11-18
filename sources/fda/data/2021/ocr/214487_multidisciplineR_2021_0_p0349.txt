@@ -1,0 +1,57 @@
+NDA Multi-disciplinary Review and Evaluation
+NDA 214487
+Avacopan, ANCA-associated vasculitis (GPA and MPA)
+
+Table 121. Partial Validation Summary for Avacopan (Report TM-004)
+
+Method Parameters Experimental Established Validation
+| Result
+Quantification range NA |.0.2 to 100ng/mL
+Sample dilution NA 10x
+Processed sample viability Between 5 and 15 °C Not established
+CCX168 stock solution stability Room temperature/4°C | 6 hours! /31 days!
+CCX168 intermediate solution 4°C 25 days"
+stability!
+ISTD stock solution stability” In methanol at 4°C 26 days
+Short-term matrix stability— bench | Room temperature 24 hours
+top stability
+Whole blood stability Room temperature and _ Established for up to 2 hours
+in wet ice bath
+Freeze-thaw matrix stability -80 °C for 3 cycles Established for up to 3 cycles
+Long term frozen matrix stability -80°C __ 14 days
+Batch Size Determination N/A 165 samples
+
+' Determined under © eport PC0363_ 168 (8204220)
+
+? Determined under ChemoCentryx Doe LD. CLCCX2_282 Method Validation
+Source: Page 5 of Report TM-004
+Abbreviations: ISTD, intemal standard; N/A, not applicable
+
+17.3.3. Pharmacometrics Review
+Report title (Report CMR_168_POP_PK2)
+
+Population Pharmacokinetic Modeling and Simulations to Support Dosing of Avacopan in
+Healthy Subjects and Subjects with ANCA-Associated Vasculitis
+
+Objectives:
+
+@ To characterize the population PK of avacopan to assess extrinsic and intrinsic factors
+that may explain variability in exposure levels of avacopan and metabolite M1
+
+To estimate systemic exposure to avacopan and metabolite M1 in subjects with ANCA-
+associated vasculitis in Phase 3 study CLO10_168
+
+Software: Dataset exploration, figures and descriptive statistics were performed using R
+(version 3.5 or higher). Population PK modeling and model validation were performed using
+Phoenix NLME Version 8.2 (Certara, Inc.) with a first-order conditional estimation (first-order
+conditional estimation [FOCE] with INTERACTION) algorithm.
+
+Data source: The population PK analyses for avacopan and its metabolite M1 include data from
+368 subjects enrolled in seven clinical studies (Table 122). Overall, 5682 and 5409 non-BLQ
+
+348
+
+Version date: October 12, 2018
+
+Reference ID: 4869354
+

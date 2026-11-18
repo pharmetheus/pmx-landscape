@@ -1,0 +1,77 @@
+NDA/BLA Multi-disciplinary Review and Evaluation - NDA 216059
+Jaypirca (pirtobrutinib)
+
+19.4.2.2 Exposure-Response for Efficacy Assessment Summary
+
+The Applicant's Position:
+
+General Information
+
+Goal of ER analysis Characterize the relationship between pirtobrutinib systemic
+exposure and efficacy endpoints in patients with MCL and identify
+covariates that can influence these relationships.
+
+Study Included Study LOXO-BTK-18001 (BRUIN; J2N OX-JZNA). (data cutoff date of
+31 January 2022)
+Endpoint Primary: Overall Response Rate (ORR), which includes
+
+patients with a best overall response (BOR) of partial response (PR)
+or complete response (CR).
+
+No. of Patients (total, and with 73 patients from the primary analysis set (PAS)
+individual PK)
+
+Population General Age median 71 yr (50-87)
+
+Characteristics Weight median 78.0 kg (46.6 — 149.5)
+
+(Table 80) Male N = 58 (79%) Female N = 15 (21%)
+
+White N = 60 (82%)
+
+Black or African American N = 1 (1%)
+Asian N = 6 (8%)
+
+Others N = 6 (8%)
+
+Pediatrics (if any) | Not applicable
+
+Dose(s) Included Phase 1: Starting doses 25 to 300mg QD
+Phase 2: 200mg QD
+
+Exposure Metrics Explored (range) Average concentration of pirtobrutinib from the start of treatment
+up to the time of event
+
+Covariates Evaluated Age, Body weight, Sex, Simplified Mantle Cell Lymphoma
+International Prognostic Index (sMIPI)
+
+Acceptability
+Final Model Parameters Summary [FDA’s comments]
+
+Model Structure Logistic regression model Acceptable
+
+Model Parameter Estimates Table 83 Acceptable
+
+Model Evaluation The base models for the efficacy exposure- | See below
+response analysis consisted of a logistic
+regression model which estimated the
+incidence of the endpoint for the entire
+study population independent of drug
+exposure. The relationship between
+pirtobrutinib concentration and the
+efficacy endpoint was then tested using
+linear, log-linear, and Emax models.
+Exposure measures were tested for
+statistical significance (change in the MOF
+value, A3.841 points for 1 degree of
+freedom, p<0.05, based on x2 distribution)
+to establish the final model.
+Covariates and Clinical Relevance No statistically significant covariates were | See below
+identified.
+
+225 of 265
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5116352

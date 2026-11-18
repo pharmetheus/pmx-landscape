@@ -1,0 +1,68 @@
+NDA 217388
+Wainua (eplontersen)
+
+The magnitude of covariate effects of the included covariates on reduction in TTR concentration
+was evaluated by deriving the fold change in maximum percentage change of TTR concentration
+from baseline over the steady-state dosing interval and fold change in percentage change from
+baseline at Cyough.SS (1.¢., 672 h post last dose at steady-state) for each covariate relative to a
+reference subject (Figure 27). The reference subject was defined as a white male hATTR-PN
+patient with V30M mutation receiving 45 mg eplontersen Q4W with a body weight of 70 kg and
+baseline TTR of 21.4 mg/dL.
+
+Figure 27. Model Predicted Effect of Covariate on Fold Change in Maximum TTR Percentage
+Change From Baseline
+
+1
+Reference a-1)
+1
+Weight (54 kg; 1 o
+Low Weight (54 kg; 10th percentile) (099-1)
+. 0.99
+High Weight (32 kg; 90th percentile) (0.99 -1)
+0.98
+R(t
+Low TTR (13 mg/dL) (0.98 - 0.99)
+1.01
+High TTR (30 mg/dL}
+igh TTR (30 mg/dL) (1-101)
+1
+Female Subject a-1
+1
+Normal Healthy Volunteer: a-1
+ATTRV-PN Patient with Non-V30M Mutation a 2 »
+Black or African American . a ea 1)
+1.07
+Non-Japanese Asian iad (1.05 - 1.09)
+05 1.0 1s 20 25
+
+Fold Change in Maximum TTR Percentage Change from Baseline and 95% Cl
+
+Source: Figure 46 on Page 120 of ppk01-final-report.pdf.
+
+‘The solid black line represents the median of the simulated reference subject, defined as a White male ATTRv-PN patient with V30M
+mutation receiving 45 mg eplontersen Q4W with a body weight of 70 kg, baseline TTR of 21.4 mg/dL. Dashed red lines represent the
+
+80 — 125% range of the reference subject, and dashed orange lines represent the 50— 200% range of the reference subject. The blue dots
+
+and error bars represent the median and 95% confidence interval (CI) based on 1000 simulated subjects within each group including
+uncertainty on the fixed effect.
+
+Abbreviations: ATTRv-PN, hereditary transthyretin-mediated amyloidosis with polyneuropathy; Cl, confidence interval; Q4W, once
+every four weeks; TTR, transthyretin
+
+Percent change from baseline in serum TTR concentrations was examined in 9 subgroups: sex,
+trace, age, region, CM subgroup, previous treatment, Val30Met TTR mutation, disease stage, and
+familial amyloid cardiomyopathy clinical diagnosis. In subjects receiving eplontersen, serum
+TTR concentrations were reduced consistently across subgroups (Figure 28). The observed
+difference in treatment differences (difference in LSMs) for percent change from baseline in
+TTR between white and non-white subgroups were mainly driven by a difference between white
+and non-white subgroups in the external placebo group (mean change of -8.84% [n =51] and -
+30.6% [n =6], respectively). In the eplontersen group, the TTR change from baseline for the
+white and non-white subgroups were similar (mean change -81.05% [n =105] and -85.31%
+
+[n =30], respectively), indicating no race effect.
+
+169
+Integrated Review Template, version 3.0 (05/25/2022)
+
+Reference ID: 5299039

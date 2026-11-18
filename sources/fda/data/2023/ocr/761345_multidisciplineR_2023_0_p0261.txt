@@ -1,0 +1,107 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {BLA 761345}
+
+elranatamab
+
+19.4.5.2 QSP Assessment Summary
+
+Table 84: Applicant — QSP Model Analysis
+
+General Information
+
+Goal of QSP analysis
+
+QSP modeling was used to explore: i) whether there is a predicted
+increase in efficacy over different dose and regimens for virtual
+patient sub-cohorts with high versus low sBCMA, ii) whether the
+simulated virtual patient response for SC QW differed from a
+simulated regimen with a QW to Q2W regimen change after 6 Cycles
+for participants with response of PR or better for at least 2 Cycles.
+
+Study Included
+
+1071001 and C1071003 Cohort A interim analysis population
+
+Endpoint
+
+Response based on serum M-protein and involved FLC
+
+No. of Patients
+
+N= 101 for C1071001 and N=94 for C1071003
+
+Dose(s) Included
+
+1071001: IV from to, SC from 80- 1000 pg/kg, SC 600 then
+1000 jig/kg (Part 1.1), SC 600 then 1000 ug/kg Q2W (Part 1.1), SC
+
+44 mg then 76 mg QW (Part 2A)
+1071003: SC 12 then 32 then 76 mg QW.
+
+Exposure Metrics Explored
+(range)
+
+Not applicable
+
+Covariates Evaluated
+
+Not applicable
+
+Final Model Parameters
+
+Summary
+
+Acceptability
+[FDA’s comments]
+
+Model Structure
+
+A multi-compartment non-linear ODE
+model was used as described in Error!
+Reference source not found.
+
+Appears to be
+reasonable
+
+Model Parameter Estimates
+
+(parameters varied to generate plausible
+population simulations)
+
+The methodologies
+used to generate
+plausible patients
+
+approach outlined in Error! Reference
+source not found.
+
+-Efficacy calibrations of each VPop (ten
+VPops, each with N = 100 virtual patients)
+were performed by fitting studies 1001
+and 1003 Cohort A IA efficacy biomarker
+dynamics (time-course and best
+responses) of serum myeloma
+protein/monoclonal spike (M-protein) or
+involved free light chain (FLC), shown in
+Error! Reference source not found...
+-Study 1001 and 1003 Cohort A IA sBCMA
+longitudinal participant data were set
+
+and virtual
+population are
+acceptable
+Model Evaluation -Uncertainty in model parameters and
+heterogeneity in participant response are
+captured by a virtual population (VPop) The QSP model
+
+evaluation/validation
+strategy and results
+seem to be
+reasonable.
+
+Version date: January 2020 (ALL NDA/ BLA reviews)
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5226136
+
+262

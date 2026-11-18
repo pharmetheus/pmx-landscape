@@ -1,0 +1,59 @@
+NDA/BLA Multi-disciplinary Review and Evaluation/New Drug Application (NDA) 219908
+REVTORPYK (gedatolisib)
+19.4.2. Assessment of Model Risk
+
+The FDA’s Assessment:
+
+FDA - Assessment of Model Risk
+
+Question of Is the proposed dosing regimen of gedatolisib 180 mg administered IV on Days 1, 8
+interest and 15 of each 28-day cycle appropriate for patients with HR+/HER2— advanced
+breast cancer (ABC) in combination with fulvestrant or palbociclib and fulvestrant?
+
+Context of use | A population PK (PopPK) model was developed using pooled data from studies
+B2151001, B2151009. and CELC-G-301 (N=605 subjects; 4.238 PK observations) to:
+(1) characterize gedatolisib PK as a function of dose, time, and patient covariates: (2)
+estimate individual exposures for exposure-response (E-R) analysis; and (3) confirm
+the adequacy of the proposed dosing regimen via simulation. E-R analyses examined
+efficacy (tumor size, PFS, BOR) and safety (15 AE endpoints) using logistic
+regression and exploratory graphical analyses.
+
+Decision Low
+
+consequence | The PopPK and E-R analyses are used to support the adequacy of the proposed
+regimen and to evaluate the need for dosage modifications based on patient covariates
+(body weight, AST, etc.). A decision error could lead to suboptimal dosing,
+insufficient efficacy, or excessive toxicity. However, clinical data from the Phase 3
+trial (CELC-G-301) provide direct support for the proposed dosage in the intended
+population, limiting the consequence of model-related uncertainty.
+
+Model Low. The benefit/risk of the proposed dose was established in the Phase 3 trial.
+influence
+
+Model risk Low
+
+Given the model risk is low, a standard review approach is adapted.
+
+19.4.3. Population PK Analysis
+19.4.3.1. Executive Summary
+
+The FDA’s Assessment:
+The FDA generally agrees with Applicant’s position.
+
+19.4.3.2. PPK Assessment Summary
+
+Data and the Applicant’s Position:
+
+A PopPK model for gedatolisib was developed based on 4238 PK observations from 605 patients
+enrolled in B2151001, B2151009, and CELC-G-301 studies. The general structure of this model
+was a 4-compartment disposition with linear elimination. The model incorporated interindividual
+variability (ITV) on CL, Vi (central volume of distribution) and Qs (intercompartmental
+
+226
+
+Version date: February 10, 2025 (ALL NDA/BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5832496

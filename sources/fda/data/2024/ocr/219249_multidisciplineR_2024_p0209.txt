@@ -1,0 +1,46 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 219249}
+{Inavolisib}
+
+For the dose range tested (3, 6, 9, and 12 mg, with limited data from 3, 6, and 12
+mg), ORR, BOR, DOR and PFS were not associated with inavolisib exposure, after
+adjustment to baseline covariates. Measurable disease was identified as
+covariate in the final model of ORR and BOR (the presence of measurable
+disease was associated with a higher probability of response); Combit
+status (Triplet), Liver Metastasis and Baseline Tumor Burden were identified as
+covariates in the final model of PFS (liver metastasis and higher baseline tumor
+burden led to shorter PFS, and triplet combination was associated with longer
+PFS).
+
+The analyses outcome indicated better efficacy in Triplet combination (with a
+
+CDK4/6 inhibitor and endocrine agent), and worse efficacy for higher tumor
+
+burden and Liver Metastasis.
+‘Simulation for Specific Not applicable N/A
+Population
+Visualization of E-R The relationship between inavolisib exposure metric and the survival endpoints | Acceptable
+relationships and binary endpoints were graphically explored using Kaplan-Meier plots and
+
+logistic plots.
+‘Overall Clinical Relevance for | Study GO39374 indicated that triplet combination was associated with longer __| Acceptable
+ER PFS, compared to single agent or doublet combination (with an endocrine
+
+agent); Study WO41554 indicated that patients benefited similarly across the
+range of exposures following 9 mg QD.
+
+Labeling Language Description Acceptability
+[FDA’s comments]
+(b) (4) Labeling languages
+were modified
+based on FDA
+guidance
+
+12.2 Pharmacodynamics
+
+208
+Version date: June 2022 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5460147

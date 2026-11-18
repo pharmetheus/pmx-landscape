@@ -1,0 +1,54 @@
+Multi-disciplinary Review and Evaluation
+
+NDA 218784
+
+VORANIGO (vorasidenib)
+(PBPK analysis; refer to Section 19.4.3). Further, based upon FDA internal analysis, smoking
+is considered to have a similar effect as a moderate CYP1A2 inducer. Refer to Section
+6.2.2.2 for FDA recommended labeling recommendations.
+
+e Gastric Acid-Reducing Agents: Co-administration of multiple doses of omeprazole (a proton
+pump inhibitor) with a single dose of 50 mg vorasidenib F2 tablets resulted in a similar
+AUCo. but decreased Cmax by 28% (Table 26) compared to vorasidenib administered alone
+under fasted conditions (Study AG881-C-007). The median Tmax was reached at 2 hours
+postdose following either administration with omeprazole or of vorasidenib alone. Mean
+t1y2 was similar following coadministration with omeprazole (260 hours) compared to
+vorasidenib alone (303 hours). Refer to Section 6.2.2.2 for FDA recommended labeling
+recommendations.
+
+Table 26. Summary of vorasidenib PK (gMean and CV%) administered alone versus co-
+administered with omeprazole in healthy subjects.
+
+Omeprazole + | Vorasidenib gMean Cv%
+Vorasidenib N=34 ratio (%)
+N=35
+AUCo+ (ng*hr/mL) 3366 3440 97.9 30
+Cmax (ng/mL) 54.16 75.72 71.5 33
+
+Source: Protocol No. AG881-C-007; © Clinical Study Report No. CA28347
+
+Effect of Vorasidenib on Other Drugs:
+
+e Substrates of P-gp and BCRP: FDA agrees with the Applicant that based on the PBPK
+analysis (Reference: AG881-C-META-PBPK), no interaction is predicted after
+coadministration of multiple daily doses of vorasidenib 40 mg QD with P-gp or BCRP
+substrates (Refer to Section 19.4.3) and a dosage adjustment is not required for
+coadministration of vorasidenib with these substrates.
+
+e Substrates of CYP3A: The Applicant submitted a PBPK analysis report (Refer to Section
+19.4.3) predicting that the coadministration of vorasidenib with midazolam (a CYP3A
+substrate) may decrease midazolam AUC by approximately 80%. Based on the internal FDA
+analysis, the submitted PBPK analysis cannot adequately predict the DDI potential of
+vorasidenib with the CYP3A substrates as the percent change from baseline of the plasma
+ratio of 4B-hydroxy-cholesterol to cholesterol ranged from a mean increase of 2.5% to 9.4%
+suggesting that vorasidenib is not likely to be a strong inducer of CYP3A4 and the Applicant
+submitted PBPK may have overpredicted the DDI effect. Since there is high prevalence of
+drugs metabolized by CYP3A4, FDA recommends a post marketing study to assess the effect
+
+110
+Version date: December 2023(ALL NDA/BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5425021

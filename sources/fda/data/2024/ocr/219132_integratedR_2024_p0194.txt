@@ -1,0 +1,98 @@
+NDA 219132
+
+Aqneursa (levacetylleucine)
+
+Table 74. Summary of Method Performance of a Bioanalytical Method Determination of N-Acetyl-L-
+Leucine in Human Plasma (Part 6)
+
+Method Summary
+
+Refer to the “method summary” section for the main method validation report, as described above in
+this table. (Information on batch numbers for materials might have differed between the main validation
+
+report and the amendment.)
+
+Validation Parameters
+
+Method Validation Summary
+
+Standard calibration curve
+
+Number of standard calibrators from 8
+
+performance in part 1 LLOQ to ULOQ
+Cumulative accuracy (%bias) from 2.0 to 7.6%
+LLOQ to ULOQ
+Cumulative precision (%CV) from 0.020%
+LLOQ to ULOQ
+Standard calibration curve Number of standard calibrators from 8
+performance in part 2 LLOQ to ULOQ
+Cumulative accuracy (%bias) from -0.5 to 0.6%
+LLOQ to ULOQ
+Cumulative precision (%CV) from <4.7%
+LLOQ to ULOQ
+Performance of QCs during Cumulative accuracy (%bias) in 4 -1.4 to 4.2%
+accuracy and precision runs QCs
+Inter-batch %CV 512.9%
+Total Error (TE) Not applicable
+
+Long-term storage/ stability
+
+Demonstrated for 363 days when
+stored at <-70°C and at 271 days
+when stored in the refrigerator at 5°C
++3°C Assessment for 581 days at <-
+70°C ongoing.
+
+Source: Summary of Biopharmaceutic Studies and Associated Analytical Methods
+Abbreviations: CV = coefficient of variation; HPLC = high-performance liquid chromatography, LLOQ = lower limit of quantitation;
+MF = matrix factor; TE = total error, ULOQ = upper limit of quantitation; QC = quality control
+
+Table 75. Summary of Method Performance of a Bioanalytical Method Determination of N-Acetyl-L-
+Leucine in Human Plasma (Part 7)
+
+Method Information
+
+Bioanalytical method
+validation report name,
+amendments, and hyperlinks
+
+Amendment 1 to the method validation report titled “Validation of a
+HPLC-MS/MS Method for the quantitative determination of N-Acetyl-L-
+Leucine in human plasma” Report [Amendment 2 to Val 18_015]
+
+Analyte
+
+N-acetyl-L-leucine
+
+Validation type
+
+Full validation
+
+Method number
+
+PV 335-01
+
+Study period
+
+Experimental start and completion date: May 13, 2020
+
+Bioanalytical site
+
+(by (4)
+
+Matrix Human plasma
+
+High-performance liquid chromatography (HPLC) method with tandem
+Platform mass spectrometric (MS/MS) detection
+Format Internally standardized HPLC method using reverse-phase
+
+chromatography with a CHIRALPAK QD-AX column and tandem mass
+spectrometric detection with Sciex API 4000 Qtrap mass
+spectrometer.
+
+182
+
+Integrated Review Template, version 4.0 (11/1/23)
+
+Reference ID: 5451862

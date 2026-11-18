@@ -1,0 +1,59 @@
+NDA 216951
+Jesduvrog (daprodustat)
+
+Figure 18. Kaplan-Meier Plot Time to Stopping Randomized Treatment Due to Meeting Rescue
+Criteria for Study 201410/ASCEND-ID
+
+0.10 Dapro
+ee Darbe
+0.08
+go :
+=
+2
+i 0.04 4
+0.02 4
+0.00
+0 4 8 2 6
+Time Since Randomization (Months)
+‘Subjects at Risk
+Dapro 157 ut 125 39 0
+
+Datbe 155 144 131 43 )
+
+Source: Sponsor CSR
+Abbreviations: CSR, clinical study report; Dapro, daprodustat; Darbe, darbepoetin alfa
+
+The proportion of participants with a first occurrence of RBC or whole blood transfusion during
+the on-treatment time period was similar in the daprodustat and darbepoetin alfa groups.
+Participants on daprodustat had a numerically lower risk for time to first occurrence of receiving
+an on-treatment RBC or whole blood transfusion compared to darbepoetin alfa, but the reduction
+in risk was not statistically significant (Table 50).
+
+Table 50. Analysis of Time to First Occurrence of On-Treatment RBC or Whole Blood Transfusion
+for Study 201410/ASCEND-ID
+
+Daprodustat Darbepoetin
+N=157 N=155
+Number of participants 157 155
+First occurrence of on-treatment RBC or whole blood 18 (11.5) 21 (13.5)
+transfusion, n (%)
+Censored, n (%) 139 (88.5) 134 (86.5)
+Incidence rate per 100 PY (two-sided 95% Cl) 13.91 (8.24, 21.98) 15.94 (9.87, 24.37)
+Hazard ratio
+Estimate 0.88
+Two-sided 95% Cl for hazard ratio (0.47, 1.66)
+One-sided p-value’ 0.35
+Absolute rate difference per 100 PY (two-sided 95% Cl)° -2.03 (-11.40, 7.34)
+
+Source: Sponsor CSR
+* Hazard ratio is estimated using a Cox proportional hazard regression model adjusted for treatment group, dialysis start manner
+» One-sided p-value based on Wald test of null hypothesis: (daprodustat/darbepoetin) >1 vs alternative: ratio <1
+
+* A rate difference <0 indicates a lower risk with daprodustat compared to darbepoetin.
+
+Abbreviations: Cl, confidence interval; CSR, clinical study report; PY, person-year, RBC, red blood cell
+
+90
+Integrated Review Template, version 3.0 (05/25/2022)
+
+Reference ID: 5119138

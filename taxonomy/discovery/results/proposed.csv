@@ -1,0 +1,2 @@
+"family","group","action","reason","items_Europe PMC","items_FDA","items_PAGE","items_PubMed","max_items","registries","in_scope"
+"OpenPMX","estimation","keep","Below the item rule (2 PAGE items, 1 PubMed), but in use: kept while it appears (Niclas, review 2026-10-18)",0,0,2,1,2,"",FALSE

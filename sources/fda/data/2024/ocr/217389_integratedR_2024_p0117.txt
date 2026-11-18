@@ -1,0 +1,78 @@
+NDA 217389
+OHTUVAYRE (ensifentrine)
+
+Method for the Analysis of Ensifentrine in Human Plasma via PPT/UPLC-MS/MS |")
+
+A method for the quantitation of ensifentrine in human plasma (lithium heparin) using
+UPLC/MS/MS was developed and validated at (191520VHTVL_VCU). The IS
+was RPL554-d4. The method was validated for the analytical range of 5.00 to 5,000 pg/mL. The
+method was accurate, precise, reproducible, and specific. Ensifentrine remained stable in plasma
+for 222 days when stored at -70°C, at least 25 hours at room temperature, and in up to five
+freeze/thaw cycles. Additionally, ensifentrine remained stable in whole blood for up to 2 hours in
+an ice bath and 2 hours at room temperature. No significant carryover was detected for
+ensifentrine or RPL554-d4. Additional details on this method are provided in Table 69.
+
+Table 69. Summary of Method Performance ie Method Validation (Plasma)
+
+Bioanalytical method validation ‘Method Validation of RPLS54 (Ensifentnne) in Human Plasma by Turbo Ion Spray LC/MS/MS —
+report name, amendments, and 191520VHTVL_VCU
+hypertinks
+
+96-well protein precipitation‘ UHPLC-MS/MS
+RPLSS4 Calibration Standards were prepared in human plasma (lithium heparin) at concentrations of 5.00, 10.0,
+50.0, 200, 500, 2500. 4000 and 5000 pg/mL. The internal standard was RPLSS4-ds.
+
+‘Validated assay range 5.00 to 5000 pg/mL
+‘Material used for quality controls and | Quality Controls were prepared in fresh human plasma (lithium heparin) at concentrations of 5.00, 15.0, 1500 and
+concentration 3750 pg/mL. A Dilution Quality Control of 25000 pp/mL was analysed at a 1 in 10 dilution.
+
+‘Minimum required dilutions Tin 10
+
+‘Source and lot of reagents Tat IO ixtest dates 30-Nov-2019 and 19-Nov-2020, RPLSS4-d, Tot A s602
+test date 05-Dec-2021
+
+Regression model and weighting Linear, weighted 1/x2
+‘Validation parameters ‘Method Validation Summary Source Location
+‘Standard calibration curve ‘Number of standard calibrators from LLOQ to ULOQ | 8 from 5.0010 | 191520VHTVL_VCU,
+performance during accuracy and 5000 pg/mL _| Table 3
+precision runs ‘Cumulative accuracy (%bias) from LLOQ to ULOQ | -0.8 % Bias to | 191520VHTVL_VCU,
+0.6%Bias _| Table 3
+‘Cumulative precision (%CV) from LLOQ to ULOQ | 0.9% CV to | 191520VHTVL_VCU,
+27%CV Table 3
+Performance of QCs during accuracy ‘Cumulative accuracy (*bias) in 6 QCs | 0.6% Bias to_| 191520VHTVL_VCU,
+and precision runs 2.7% Bias Table 6
+Tnter-batch %CV [18% CV to | 191520VHTVL_VCU,
+6.0% CV Table 6
+Total Exor | N/A NA
+‘Selectivity & matrix effect 6 Lots, n=18, 5.00 p/m, -6.0 % bias to 15.4 % bias — met acceptance 191S20VHTVL_VCU,
+Table 11
+Interference & specificity 6 Lots, n=18, no interference was detected in a 15 pg/mL ensifentrine QC plasma | 191520VHTVL_VCU,
+sample spiked with 5000 ng/mL. fluconazole — met acceptance Table 15
+Hemolysis effect 1 Lot n=3, 5.00 pg/mL, -2.8 % bias to 7.8 % bias, met acceptance. 191520VHTVL_VCU,
+Table 11
+Lipemic effect 1 Lot n=3, 5.00 pg/mL, 4.4% bias to 9.8 % bias, met acceptance. 191520VHTVL_VCU,
+Table 11
+Dilution linearity & hook effect Dilution QCs prepared at 25000 pg/mL with 1 in 10 dilutions were assayed in 3 191520VHTVL_VCU,
+accepted validation runs and gave intra-run bias values between 1.2% bias and 3.2% | Table 5
+bias which met acceptance criteria.
+‘The hook effect is not applicable to MS/MS methods of analysis.
+Bench-top/process stability Processed plasma sample stability at 4°C was 74 hours. 191520VHTVL_VCU,
+Benchtop (room temperature) stability in human plasma was 25 hours Tables 17 and 18
+Freeze-Thaw stability ‘Stability demonstrated at -20°C and - 70°C over 5 freeze/thaw cycles. 191520VHTVL_VCU,
+Table 19
+Long-term storage Long term frozen storage stability of ensifentrine in human plasma was 191520VHTVL_VCU,
+demonstrated at -20°C and -70°C for 222 days Tables 20 and 21
+Parallelism ‘Not applicable to MS/MS analytical methods. N/A
+Carry over ‘Carryover met acceptance as no MS/MS response was > 20.0% of the mean 191520VHTVL_VCU,
+response ration of the LLOQ standards in the carryover blank. Section 7.5
+
+Source: Summary of Biopharmaceutical Studies, Table 15
+
+Abbreviations: CV, coefficient of variation; LC, liquid chromatography; LLOQ, lower limit of quantitation; MS/MS, tandem mass
+spectrometry; n, number, QC, quality control; UHPLC, ultra high-performance liquid chromatography; ULOQ, upper limit of
+quantitation
+
+106
+Integrated Review Template, version 3.0 (05/25/2022)
+
+Reference ID: 5403306

@@ -1,0 +1,102 @@
+BLA 761416 Multi-disciplinary Review and Evaluation
+
+Zanidatamab
+
+19.4.3.2. ER (Efficacy) Assessment Summary
+The Applicant’s Position:
+
+General Information
+Goal of ER analysis Characterize the relationship between zanidatamab exposure and efficacy
+endpoints (cOR and PFS) in patients with HER2-expressing BTC.
+Study Included ZWI-ZW25-203
+Endpoint Primary: cOR by Response Evaluation Criteria in Solid Tumors Version 1.1
+
+(RECIST 1.1) assessed by ICR
+Secondary: PFS, by RECIST 1.1 assessed by ICR.
+
+No. of Patients (total, and
+
+A total of 87 participants (Study 203) were included in the efficacy dataset for
+
+with individual PK) these analyses.
+Population General e Age, weight, sex, and race info appears in Table 43
+Characteristics | Pediatrics | Nort applicable
+Gf any)
+Dose(s) Included 20 mg/kg O2W
+Exposure Metrics Explored | Based on the final PopPK model and individual empiric Bayesian PK
+(range) parameter estimates, NONMEM was used to generate predicted zanidatamab
+
+exposures. The ER-OR analyses Cycle ] Cmin range was 2.29 to 263.75 yg/mL.
+
+Covariates Evaluated
+
+‘Age, baseline weight, baseline lactate dehydrogenase, sex, race, number of
+lesions, baseline tumor size, HER2 expression (as determined by IHC or FISH),
+and ECOG performance status.
+
+Final Model Parameters
+
+Summary Acceptability
+
+[FDA’s comments]
+
+Model Structure
+
+The final model for the probability of confirmed OR was
+a logistic regression model on the logit scale including
+an intercept and a power function of Cycle 1 Cmin.
+
+The final model for PFS was a Cox proportional hazard
+model including the effect of daily Cag and the
+covariate effect of HER2 status (3+ versus 2+/1+/0).
+
+Acceptable
+
+Model Parameter Estimates
+
+The final model parameters estimates for the
+probability of confirmed OR appear in Table 45: the
+intercept was -0.365 (54.8 %RSE); the exponent for
+Cycle 1 Cnin was -1.66 (41.2 %RSE).
+
+The final model parameter estimates for PFS appear in
+Table 46: the coefficient for daily Cavg was -0.007794
+(16.5 %RSE), and the coefficient for HER2 expression
+effect was -].172 (23.6 %RSE).
+
+Acceptable
+
+Model Evaluation
+
+Agreement between the observed and predicted
+proportion of OR across the range of exposure
+indicates no apparent bias in the overall model fit. All
+KM curves are within the 90% prediction intervals
+except there was an overprediction bias for the third
+quartile and HER2 status 2+/1+/0.
+
+‘Acceptable
+
+Covariates and Clinical
+Relevance
+
+No tested covariates met the criteria (or model
+convergence) for inclusion in the ER model for OR.
+The final ER-PFS model was a Cox proportional
+hazards model that included the effect of zanidatamab
+daily Cag and the covariate effect of HER2 status (3+
+versus 2+/]+/0). Based on the available limited data,
+there may be an association between PFS and exposure
+(based on daily Cag); however, due to inconsistencies
+
+‘Acceptable
+
+154
+
+Version date: August 2023 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5482010
+

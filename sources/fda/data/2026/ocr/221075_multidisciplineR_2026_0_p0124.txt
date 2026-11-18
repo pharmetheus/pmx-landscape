@@ -1,0 +1,60 @@
+NDA/BLA Multi-disciplinary Review and Evaluation NDA 221075
+Iberdomide (ZENBEXUS)
+
+The results of Study CC-220-CP-003 are shown in Table 39. Coadministration with itraconazole
+increased iberdomide AUC 2.4-fold with a comparable Cmax. All M12 concentrations were BLQ
+when iberdomide was administered with itraconazole. Given the positive E-R relationships for
+grade > 3 neutropenia and > 1 dose modification due to adverse effects (see Section 19.5.5), the
+increased iberdomide exposure may lead to excessive toxicity in patients receiving concomitant
+strong CYP3A inhibitors and a dosage adjustment is warranted.
+
+Table 39: FDA — Geometric mean ratio of iberdomide pharmacokinetics following co-
+administration with itraconazole 200 mg QD or rifampin 600 mg QD as compared to
+iberdomide alone in Study CC-220-CP-003
+
+Itraconazole Rifampin
+(n=18) (n=18)
+Cmax 1.18 (1.03, 1.34) 0.29 (0.27, 0.32)
+AUCtau 2.25 (2.02, 2.51) 0.10 (0.09, 0.11)
+AUCint 2.36 (2.13, 2.61) 0.14 (0.12, 0.17)
+
+Abbreviations: 90% CI. 90% confidence interval: AUCing, area under the concentration-time curve from 0 to
+infinity: AUCiu, area under the concentration time-curve over the dosing interval: Cmax. maximum plasma
+concentration
+
+Source: Adapted from Study CC-220-CP-003 CSR Tables 8 and 12
+
+Presented as GMR (90% CI) with reference to iberdomide alone
+
+The proposed dose reduction (1 mg QOD on D1-21 of 28-day cycles) is supported by PBPK
+simulations evaluating the PK of iberdomide following coadministration of iberdomide with
+itraconazole (see Section 19.5.6). PBPK simulations predicted that cancer patients receiving
+iberdomide 1 mg QOD with strong CYP3A inhibitors have relatively comparable exposures
+(1.3-fold increased Cmax and AUC) to patients receiving iberdomide without an inhibitor at 1 mg
+QD.
+
+The FDA agrees with the Applicant’s Position that dosage adjustment is recommended for
+concomitant use with moderate CYP3A inhibitors. Therefore, the following language will be
+included in Section 2 of the labeling:
+
+“Avoid concomitant use with strong CYP3A inhibitors. If concomitant use with strong CYP3A
+inhibitors is unavoidable, reduce the dose to 1 mg every other day on Days 1-21 of a 28-day
+cycle.”
+
+Moderate CYP3A Inhibitors: A PBPK model was utilized to evaluate the effect of concomitant
+use of moderate CYP3A inhibitors on iberdomide PK (see Section 19.5.6).
+
+Coadministration with moderate CYP3A inhibitors is predicted to increase iberdomide Cmax 1.5-
+fold and AUC 1.7-fold. Given the positive E-R relationships for grade > 3 neutropenia and > 1
+dose modification due to adverse effect (see Section 19.5.5), the increased iberdomide exposure
+may lead to excessive toxicity. Therefore, FDA recommends an initial dose reduction (0.75 mg
+QD on D1-21 of 28-day cycles) in patients receiving concomitant moderate CYP3A inhibitors;
+this is supported by PBPK simulations predicting that cancer patients receiving iberdomide
+
+123
+Version date: February 10, 2025 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5851050

@@ -1,0 +1,64 @@
+BLA 761306 Multi-disciplinary Revi
+Ebglyss (lebrikizumab) injection
+
+ew and Evaluation
+
+to-severe
+
+patients with moderate-
+
+AD (N = 206).
+
+not implied otherwise.
+
+R: randomized; PG: parallel-group; OL: open-label, LEB: Lebrikizumab. Doses were administered subcutaneously if
+
+Table 9497. Summary of Demographics and Baseline Characteristics for Participants Included in
+the Population Pharmacokinetic Analyses
+
+Continuous Characteristics
+
+Mean + SD
+(Minimum-Maximum)
+
+Phase 1 (Healthy Phase 2 and 3 (subjects with AD) Total
+subjects) Adult (218 y) Adolescent (12 to
+<18 y, >40 kg)
+N 281 1022 304 1607
+Age (years) 36.14 11.2 39.44+16.4 14.6+1.74 29.6+17.5
+(18-64) (18-93) (12-17) (12-93)
+Body weight (kg) 73.3412.8 78.5 20.6 65.9 + 20.0 7344211
+(39.9-103.8) (39.6-192.1) (39.8-158.5) (39.6-192.1)
+ALT (IU/L) 19.5+10.9 23.9+15.1 19.14 13.2 22.2414.2
+(6-95) (5-178) (6-98) (5-178)
+AST (IU/L) 20.6+5.7 23.7 +10.1 22.1475 22.9491
+(10-45) (6-105) (8-63) (6-105)
+eGFR by MDRD 9754185 9794228 150.7 + 40.7 108 + 33.6
+(mL/min/1.73 m2) _ | (61.4-180.5) (27.4-198) (87.4-335) (27.4-335)
+Categorical Characteristics
+N (%)
+Sex
+Female 150 (53) 504 (49) 160 (53) 814 (51)
+Male 131 (47) 518 (51) 144 (47) 793 (49)
+Race
+White/Caucasian 175 (62) 648 (63) 198 (65) 1021 (64)
+African 57 (20) 151 (15) 34 (11) 242 (15)
+Asian 32 (11) 176 (17) 44 (14) 252 (16)
+Other/missing 17 (6) 47 (5) 28 (9) 92 (6)
+
+Source: Reviewer's analysis based on data from ‘lebri_meta_pk atopic _derm final psn.xpf
+
+Table 9598. Pharmacokinetic and Covariate Parameters in Base and Final Population PK Model.
+Base and Final Model are the Same Model
+
+Version date: October 12, 2018
+
+Reference ID: 5252985
+
+Model Parameter (Unit) Population Interindividual 95% Confidence
+Estimate (%RSE) | Variability %CV? Interval from
+(%RSE) Bootstrap Analysis
+Ka (1/day) 0.303 (11) 45.1 (17) (0.249-0.376)
+F 0.861 (4) 119 (24) (0.802-0.914)
+223
+

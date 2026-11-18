@@ -1,0 +1,64 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {Insert Application Type and Number}
+{Insert Product Trade and Generic Name}
+
+- SC arm: Days 1 (predose), 2. 3, 4, 5, 6, 8. 10, 15, 22,
+29, 36, and 42
+
+- TVarm (Amns 1 and 2): Day 1(predose and end-of-
+infusion), Days 3, 5, 15, 29, and 42
+
+- TVarm (Amn 3): Day 1(predose and end-of-infusion),
+Days 3 and 42
+
+In ITT Not applicable
+Population
+Covariates Static Age, baseline body weight, sex, tumor type, race, and injection
+Evaluated site
+L Time-varying _| Not applicable
+Final Model Summary Acceptability
+[FDA’s
+comments]
+Software and Version Pumas (version 2.5.1; Pumas-Al, Inc., | Acceptable
+DE, USA)
+Model Structure Combined SC and IV PK model based | Acceptable
+
+on a two-compartment structure with a
+linear and time-dependent clearance,
+zero-order infusion into the central
+compartment after TV administration
+and first-order absorption from the
+extravascular compartment after SC
+
+administration
+Model Parameter Estimates Acceptable
+Table
+Uncertainty and Variability Absorption parameters bioavailability | Acceptable
+(RSE, IIV, Shrinkage, (F) and absorption rate constant (Ka)
+Bootstrap) were estimated with high precision
+
+(relative standard error <4%). Typical
+value for bioavailability was estimated
+to be 60% with an inter-individual
+variability (ITV) of 14%. Individual
+estimates of bioavailability ranged from
+17% to 80%. Typical value for
+absorption rate constant was estimated
+to be 0.32/day with an IIV of 47%.
+Individual estimates of absorption rate
+constant ranged from 0.30/day to
+0.34/day. The model was stable enough
+to obtain the covariance step.
+
+The n-shrinkage was acceptable for
+both bioavailability and absorption rate
+constant (32.9% and 23.3%,
+respectively). The e-shrinkage was also
+acceptable (10.6%).
+
+176
+Version date: March 1, 2024 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5662067

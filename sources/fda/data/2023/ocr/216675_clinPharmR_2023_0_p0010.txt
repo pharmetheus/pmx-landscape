@@ -1,0 +1,46 @@
+Table 2. Perfluorohexyloctane Blood Concentrations (ng/mL) with NOVO3 on Day 57
+
+Day 57 BID (N=30) QID (N=23) Saline (QID + BID)
+(N=26)
+
+n 30 21 26
+
+Mean (SD) 8.536 (8.8735) 8,192 (8.2367) 7.119 (8.9426)
+
+Median (Min, Max) 3.660 (1.27, 28.10) 4.010 (0.00, 25.50) 2.890 (0.00, 27.90)
+
+Nquant 30 19 22
+
+Min= Minimum; Max=Maximum; Nquant=Number of subjects with quantifiable observation (above LLOQ, 1
+ng/mL); SD=Standard deviation
+Source: Module 2.7.2, Table 2.7.2.2-2
+
+Reviewer’s comment: As shown in Table 1 and Table 2, samples from pre-dose timepoint and
+the saline treatment groups had detectable perfluorohexyloctane concentrations, which were
+not expected. Specifically, 2 pre-dose samples and 8 samples in the saline control group
+collected on Day 1 and the majority (22 out of 26; 85%) of samples in the saline control group
+collected on Day 57 had perfluorohexyloctane concentrations. The PK results, in addition to
+other issues observed from bioanalysis described in Section 3.4, indicate that there were issues
+during bioanalysis of these samples and therefore the PK data obtained from this study cannot
+be used for the quantitative PK characterization of NOVO3. It is noted that the bioanalysis issues
+were more pronounced with samples obtained from Day 57 than from Day 1. While the results
+should be interpreted carefully knowing the bioanalysis issues, it appears that systemic exposure
+of perfluorohexyloctane following a single dose of NOVO3 is low, which is also in line with the
+nonclinical findings in rabbits.
+
+The issues with the bioanalysis were previously discussed with the Applicant at the Pre-NDA
+meeting on 12/15/2021. The Agency commented that the PK data from this study cannot be
+used for labeling purpose, and to include PK data in the labeling, the samples should be re-
+analyzed with a new bioanalytical method and with acceptable bioanalysis results. The Agency
+also commented that a clinical pharmacology summary is not a requirement in the label for
+NDA if it is not relevant to the safety concerns. The Applicant did not re-analyze the samples,
+and provided the data from the original bioanalysis in this NDA submission.
+
+In general, drugs administered by topical ocular route are not expected to result in high systemic
+exposure. Given that perfluorohexyloctane physiologically and chemically inert and that the
+systemic exposure following single and repeated doses of radiolabeled perfluorohexyloctane
+was low in rabbits were low, it is reasonable to assume that PK of perfluorohexyloctane is likely
+not relevant to the safety concerns. Thus, the lack of reanalyzed PK samples in this submission
+does not pose an approvability issue of this NDA.
+
+Reference ID: 5136196

@@ -1,0 +1,5 @@
+{"patterns": {
+  "Toolx": {"group": "estimation", "family": "Toolx", "regex": "\\bToolx\\b"},
+  "Tooly": {"group": "estimation", "family": "Tooly", "regex": "\\bTooly\\b"},
+  "Helper": {"group": "auxiliary", "family": "Helper", "regex": "\\bHelper\\b"}
+}}

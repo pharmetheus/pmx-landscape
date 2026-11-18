@@ -1,0 +1,50 @@
+Multi-disciplinary Review and Evaluation
+
+NDA 218784
+VORANIGO (vorasidenib)
+Overall Sample Size (N=36) Treatment Period 1 Treatment Period 2
+Sequence 1 (n=18) Treatment A. Treatment B
+Sequence 2 (n=18) Treatment B Treatment A
+
+Two subjects, one from each sequence, did not complete Period 2. Two subjects had a
+measurable predose concentration of vorasidenib greater than 5% of Cmax from the
+corresponding Period and were therefore excluded from the PK analysis (Table 25). Statistical
+assessment of food on the plasma PK parameters of vorasidenib is summarized in Table 32.
+
+Table 32. Summary of vorasidenib PK (gMean and CV%) under fed (test; low fat, low calorie
+meal) and fasted conditions (reference).
+
+Geometric LS Mean Ratio of Geometric LS Mean
+
+Intra-
+Parameter Lower 90% Upper 90% — subject
+(unit) a Test n Reference Estimate cr cI CV [1]
+Cmax (ng/mL) 33 177 31 76.2 232.48 205.14 263.47 29.7
+AUCo, (ng*h/mL) 33 3800 31 2830 134.13 123.00 146.27 19.9
+AUC0.336 33 3290 31 2440 134.80 124.21 146.29 18.9
+(ng*h/mL)
+AUCo-so4 33 3850 31 2880 134.06 123.14 145.94 19.6
+(ng*h/mL)
+AUCO-ing 22 4070 22 2910 139.70 123.01 158.64 22.0
+(ng*h/mL)
+
+Source: Study report, Study PKH-95032-009
+
+Substudy B (CYP1A2 inhibition): It was a nonrandomized, 2-period with a 21-day washout
+period, 1-sequence crossover study designed to evaluate the effect of multiple-dose
+ciprofloxacin (moderate CYP1A2 inhibitor) on the PK of a single-dose of vorasidenib (2x10 mg)
+in 28 healthy adult subjects.
+e Period 1 (Treatment A): single dose of vorasidenib administered on Day 1.
+e Period 2 (Treatment B): a single dose of vorasidenib administered on Day 1 and twice
+daily oral doses of ciprofloxacin 1 x 500 mg tablet on Days 1 through 14.
+
+One subject had evaluable PK parameters although discontinued on Day 11 (240 hours) of
+Treatment B. One subject had high vorasidenib concentration at 168 hours post-dose without
+identified root cause, and the data point was included in all the PK analyses.
+125
+Version date: December 2023(ALL NDA/BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5425021

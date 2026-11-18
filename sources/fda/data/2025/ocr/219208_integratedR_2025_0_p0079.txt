@@ -1,0 +1,58 @@
+NDA 219208
+Vanrafia (atrasentan)
+
+6)) in the atrasentan arm had ALT and AST >5~ ULN, a typical threshold of concern
+for clinically significant DILI (Aithal et al. 2011), and was considered a possible DILI case per
+FDA review (see the case review in the next section for details). As noted above, the subject did
+not have a reoccurrence of transaminase elevations after restarting atrasentan. Per FDA review,
+there were no probable DILI cases in this trial.
+
+The cholestatic plot did not indicate cholestatic liver injury of significance in ALIGN (plot not
+shown). Two subjects in the atrasentan arm had ALP >2« ULN but neither had levels over 3x
+ULN, and total bilirubin levels were less than ULN. No subjects in the placebo arm had
+
+ALP >2x ULN.
+
+Figure 9. Hepatocellular Drug-Induced Liver Injury Screening Plot, Safety Population, ALIGN Trial
+i
+
+Cholestasis Potential Hy's Law
+
+Maximum Post-baseline Bilirubin (XULN)
+
+ALIGN- Ly
+
+0.54 (possible DIL)
+
+Temple's Corollary
+
+0.04
+
+4 5
+Maximum Post-baseline ALT or AST (xULN)
+°  Atrasentan0.75mg © Placebo
+
+Source: Reviewer's analysis based on adibchem_xpt; Software: R
+
+Each data point represents a subject plotted by their maximum ALT or AST versus their maximum total bilirubin values in the
+postbaseline period
+
+A potential Hy’s Law case (red circle) was defined as having any postbaseline total bilirubin equal to or exceeding 2x ULN within 30
+days after a postbaseline ALT or AST equal to or exceeding 3x ULN, and ALP less than 2x ULN (note ALP values are not circled).
+All subjects with at least one postbaseline ALT or AST and bilirubin are plotted.
+
+Abbreviations: ALP, alkaline phosphatase; ALT, alanine aminotransferase; AST, aspartate aminotransferase; DILI, drug-induced
+liver injury; ULN, upper limit of normal
+
+In SONAR, no subjects on atrasentan developed ALT or AST >3-fold ULN with total bilirubin
+>2-fold ULN during the DB period, therefore, there were no subjects who met potential Hy’s
+Law criteria in the atrasentan arm (Figure 10). There was a similar proportion of subjects in the
+Temple’s Corollary quadrant of the hepatocellular DILI screening plot between the atrasentan
+(1.6%) and the placebo (1.3%) arms. Of the eight subjects in the atrasentan arm with an ALT or
+AST >5-fold ULN, none were considered probable DILI cases per the FDA review team (seven
+were unlikely; one was indeterminate).
+
+66
+Integrated Review Template, version 4.0 (11/1/23)
+
+Reference ID: 5563590

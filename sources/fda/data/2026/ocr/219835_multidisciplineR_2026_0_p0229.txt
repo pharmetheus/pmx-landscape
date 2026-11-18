@@ -1,0 +1,66 @@
+NDA/BLA Multi-disciplinary Review and Evaluation NDA 219835
+vepdegestrant
+
+Race n (%): White 275 (60.3%), Black or African
+American 10 (2.2%), Asian 124 (27.2%), and Other or
+Not Reported 47 (10.3%)
+
+Organ Hepatic (NCI classification) n (%): Normal 299 (65.6%),
+Impairment Mild (B1) 153 (33.6%), Mild (B2) 3 (0.7%), and
+Moderate 1 (0.2%)
+
+Renal (CrCL) n (%): Normal 187 (41%), Mild 190
+(41.7%), Moderate 78 (17.1%), and Severe 1 (0.2%)
+
+Pediatrics Not applicable
+(if any)
+
+No. of Patients, PK Samples, 452 participants, 3625 PK samples, 156 (4.1%) BLO
+and BLQ samples
+
+Sampling Rich Sampling | Study ARV-471-mBC-101:
+Schedule P .
+art A:
+
+Cycle 1: Predose on Days 1, 2, 8, 15, 21/28. Postdose at
+Lh, 2h, 4h, 6h, 8h, and 12h on Days 1 and 15.
+
+Cycle 2 and beyond: Predose on Days 15 and 28
+Part B:
+
+Cycle 1: Predose on Days 1, 2, 15, and 28
+
+Cycle 2 and beyond: Predose on Day 28
+
+In ITT Study C4891001:
+Population
+
+PK samples at predose on Day I of Cycles 1, 2, 3, 5, and
+7
+
+PK samples at 5-7 hours on Day 1 of Cycles 2, 3, 5, and 7
+
+Covariates Static Renal function (serum creatinine, creatinine clearance,
+Evaluated CLer category), hepatic function (alanine
+aminotransferase, alkaline phosphatase, total bilirubin,
+NCI categorization, aspartate aminotransferase), ESR1
+mutation status, ethnicity, race, age, neutrophil count,
+BMI, weight, albumin, ECOG status, Japan geographic
+region, China geographic region, Asia geographic region
+
+Time-varying | None
+
+Final Model Summary Acceptability
+[FDA’s
+comments]
+
+Software and Version NONMEM 7.5.0; PsN version 5.3.0; | Acceptable
+R version 4.3.1
+
+228
+Version date: March 1, 2024 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5789627

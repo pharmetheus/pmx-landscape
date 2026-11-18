@@ -1,0 +1,47 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {BLA 761234}
+Opdualag™ (nivolumab and relatlimab-rmbw)
+
+Final Model Summary Acceptability
+[FDA’s comments]
+Software and Version The PPK analysis was performed using the nonlinear mixed effects Acceptable
+
+modeling (NONMEM 7.4) computer program, compiled using GNU
+Fortran 7.5.0, and all exploratory data analyses and presentations of data
+used R (version 4.0.2 or higher). The VPC, non parametric bootstrap, and
+PPK model for relatlimab were executed through PsN 4.9.0.
+
+Model Structure Relatlimab PPK Analysis: 2-compartment, zero-order IV infusion PK Acceptable
+model with parallel nonlinear and time-varying linear CL that decreased
+with time (maximal reduction of 20%)
+
+Nivolumab PPK Analysis: 2 compartment, zero-order IV infusion PK
+model with time-varying CL.
+
+Model Parameter Estimates | Table 77 (relatlimab) and Table 78 (nivolumab) Acceptable
+Uncertainty and Variability Relatlimab PPK Analysis: Relatlimab parameters were estimated with Acceptable
+(RSE, IIV, Shrinkage, adequate precision (Table 77). Relative high RSE for parameter estimates
+
+Bootstrap) CLace, CLrace-aa, CLrace-asian, CLlmono were observed, mainly due to the
+
+relative small magnitude of effects or small sample size. The shrinkage
+values were around 20-30% except for ETA_EMAX (52.4%) and ETA_VP
+(45.5%). VP was well estimated with RSE% of 2.38%, and RSE% for Emax
+was 40.9% with a point estimate of -0.053 (95% Cl: -0.0955% - -0.0105%),
+indicating a small degree of decrease in clearance with time.
+
+Bootstrap was not conducted during the PPK analysis mainly due to the
+long run time. The 95% Cl were from asymptotic standard error reported
+by NONMEM.
+
+Nivolumab PPK Analysis: Nivolumab parameters were precisely
+estimated (Table 78) except for effects on CLraaa, CLotn, and EMAXcomso,
+which was due to the small magnitude of effects and consequently the
+uncertainties in the estimated effects are small despite the high RSE.
+
+258
+Version date: January 2020 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “The Applicant’s Position” are completed by the Applicant and do not necessarily reflect the positions
+of the FDA.
+
+Reference ID: 4955210

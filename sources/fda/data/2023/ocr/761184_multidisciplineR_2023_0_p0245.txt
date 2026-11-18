@@ -1,0 +1,53 @@
+BLA 761184
+Ngenla (somatrogon)
+
+A two-compartment (2CMT) model was subsequently tested using SAEM + IMP method for
+estimation of model parameters. Based on likelihood ratio test, the 2CMT model provided a
+better model fit (OFV=12853) compared to 1CMT model (OF V=13246). Parameters were
+precisely estimated except for V2. This model was adopted for covariate model building.
+Residual errors were described by a proportional error model.
+
+Residual error modeling was used to determine the best residual error model. Time varying
+residual error model (Time varying RUV) and model with interindividual variability of residuals
+(IIV on RUV) were better candidates for proportional residual error model. The ITV on RUV was
+eventually adopted in the final model.
+
+We also tested a modeling strategy where observed and predicted data are transformed to
+normality using box-cox transformation (data transform both sides). This improved the model fit
+(OF V=12243 versus OFV=12853 for 2CMT).
+
+Body weight was tested as a time varying covariate on structural model parameters (Clearance
+and volume). Three covariate models were tested: (i) Fixed allometry, where clearance and
+volume parameters were scaled by the ratio of individual’s weight to 70 kg raised to fixed
+
+O750r1
+wt) ; (ii) Estimated
+allometry, where clearance and volume parameters were scaled by the ratio of individual’s
+6
+a rz : F zi wr . is 2
+weight to median body weight raised to estimated exponents = ; and (iii) Weight-
+normalized, where clearance and volume parameters were scaled by the ratio of individual’s
+weight to median weight (seaman The model with estimated allometry provide better fit
+(OFV=12174) compared to fixed allometry (OFV=12186) and weight-normalized (OFV=12196)
+
+models. The allometry exponent for clearance was estimated to be 1.02 and was therefore fixed
+to this value in the subsequent models.
+
+exponents of 0.75 for clearance or 1 for volume parameters (
+
+ADA status was also tested as time varying covariate on clearance. ADA status as covariate on
+CL improved model fit (OFV=12094 versus OFV=12174 for Estimated-allometry model)
+
+ADA titer values were also tested as time varying covariate on clearance. This improved model
+fit (OFV=12015 versus OFV=12094 for ADA-status model)
+
+Graphical exploration parameter-covariate relationships were performed to identify any
+additional covariates. Figure 38 shows that among the assessed covariates (Weight-normalized
+baseline Creatinine-Clearance (NORMBCCL), baseline weight (BWT), height (HT), baseline
+Age (AGE), sex, race, and study phase (PHASE)), none indicated relationship with ETA for
+clearance (ETA1) nor ETA for volume (ETA2). No relationship with ITV on RUV (ETA4) was
+found.
+
+143
+
+Reference ID: 4924352

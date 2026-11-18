@@ -1,0 +1,88 @@
+NDA 220848
+LIPFENDRA (enlicitide)
+
+FDA Figure 2. Sample and Shrinkage Subgroup Analysis for Percentage Change From Baseline in
+
+LDL-C at Week 24, Trial P013
+subgroup Enlicitide vs Placebo LS Mean Difference (95% Cl)
+
+Age Group 1:< 65 Sample -52.7 (65.7, -39.7)
+Shrinkage -55.9 (-66.1, -45.8)
+Sample -60.8 (-72.5, -49.0)
+Shrinkage —-58.0 (67.8, -48.6)
+Sample -54.7 (64.7, -44.7)
+Shrinkage  -57.8 (-667, 488)
+Sample -67.1(-80.3, -53.9)
+Shrinkage — -61.6 (72.8, 51.6)
+Sample 53.5 (72.5, 34.6)
+Shrinkage -56.2 (678, -44.3)
+Sample -57.9 (-68.0, -47.9)
+Shrinkage -57.0 (-66.1, -47.8)
+
+‘Age Group 1:>= 65
+‘Age Group 2:< 75
+
+Age Group 2:>= 75
+Ethnicity:Hispanic Or Latino
+
+Ethnicity:Not Hispanic Or Latino
+
+RaceAsian Sample -54.5 (80.4, -28.5)
+Shrinkage -56.3 (-66.1, -44.5)
+Race‘Black Or African American Sample -51.2 (-60.6,-41.9)
+Shrinkage  -54.8 (62.0, -47.0)
+Race:Multiple Sample -51.1(-96.0, -6.1)
+Shrinkage  -56.3 (67.6, “a2)
+Race:White Sample -59.4 (-64.1, 54.7)
+Shrinkage  -58.3 (628, 538)
+Region:Asia Pacific Sample -54.6 (-82.0, -27.3)
+Shrinkage — -57.4 (-668, -47.1)
+Region:EMEA Sample -60.7 (-66.6, 54.9)
+
+Shrinkage -50.1 (645, 54.0)
+Sample -54.5 (-80.1,-28.9)
+Shrinkage -57.4 (669. -47.2)
+
+RegiortLatin and South America
+
+Region:North America Sample -54.8 (61.5, -48.1)
+Shrinkage — -56.5 (-62.0, -50.4)
+SextF Sample -51.3 (68.1, 34.5)
+Shrinkage  -56.4 (675, -44.9)
+Sexi Sample -60.2 70.0, -50.5)
+
+Ls sain
+
+‘Shrinkage 58.4 (67.5, -49.9)
+
+<— Favors Enlicitide Favors Placebo —
+fi T T T T T T 1
+
+-100 -75 -50 -25 te) 25 50 75 100
+
+Sample Shrinkage
+
+Source: FDA analysis based on adam-adsl.xpt and adam-adeff_xpt
+
+The prespecified LDL-C data handling was used.
+
+Sample: Missing data were multiply imputed 100 times based on placebo data due to an insufficient number of retrieved dropouts.
+The estimate of difference in LS means between treatment groups (Enlicitide — Placebo) was based on ANCOVA model with
+treatment, stratification factor of renal function and geographic region and baseline LDL-C as covariates. Treatment effects from the
+100 analyses were combined using Rubin's rule.
+
+Shrinkage analysis was conducted with Bayesian hierarchical model using summary sample estimates. A flat prior with overall mean
+following a normal distribution was used for mean treatment effect in each subgroup: yj ~ N (u, 1), uy ~ N (mean =0, std =200), 1 ~
+(mean=0, std=5, lower=0). A standard deviation of 200 was chosen so that the standard deviation was approximately 2 times wu
+‘subjecttevel standard deviation.
+
+Abbreviations: ANCOVA, analysis of covariance; Cl, confidence interval; EMEA, Europe, middle east and Africa; LDL-C, low-density
+lipoprotein cholesterol; LS, least square
+
+77
+Version date: February 10, 2025 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant's Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5833849

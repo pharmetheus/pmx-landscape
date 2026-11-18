@@ -1,0 +1,58 @@
+NDA/BLA Multi-disciplinary Review and Evaluation NDA 221075
+Iberdomide (ZENBEXUS)
+
+e P-gp induction may have a lesser effect on the predictions for the moderate CYP3A4 inducer
+efavirenz because: (1) Efavirenz does not significantly change P-gp expression or activity in
+peripheral blood mononuclear cells (PMID: 20660679) or the intestinal P-gp (PMID:
+12151999) following oral administration of multiple doses of 400 mg efavirenz in humans,
+though induction of hepatic P-gp cannot be ruled out; (2) Efavirenz has a minor effect on the
+exposure of fexofenadine, a P-gp substrate, reducing its AUC by 23% and its Cmax by 16%
+(PMID: 22398970); and (3) The efavirenz model can reproduce its induction effects on
+daclatasvir and elbasvir. Both drugs are CYP3A4 and P-gp substrates, and P-gp was not
+incorporated into their models (reviewer’s analyses, data not shown). However, the potential
+induction of the uncharacterized pathways may contribute to the uncertainty in the prediction
+for efavirenz. The Applicant was requested to simulate the effects of efavirenz on iberdomide
+by assuming that the uncharacterized metabolic pathways (16%) are inducible by CYP3A4
+inducers and add these fractions to fmcyp3a. The results showed that efavirenz had the
+potential to reduce iberdomide AUC up to 71% (Table 106). Notably, increasing fmcyp3a to
+73% did not significantly further reduce iberdomide exposure by rifampin, either (Table
+107).
+
+Table 105: FDA — Simulated versus observed iberdomide PK parameters without and with
+rifampin (CC-220-CP-003) -comparison of Indmax values
+
+[Rifampin] Goze (g/m) ALC ae (az b/ mL)
+
+Tndaax Observed ‘Simulated |Sim/ Obs Observed Simulated |Sim/ Obs
+(fold) [ Alone | RIF | Ratio | Alone | RIF | Ratio | Ratio | Alone | RIF | Ratio | Alone | RIF | Ratio | Ratio
+16 156 046 0.29 126 062 049 17 26.2 3.61 014 23.1 5.95 026 19
+30 040 0.32 11 338 O15 li
+
+For the clinical rifampin DDI study, a single dose of 0.6 mg iberdomide was given on Day 10 of a 13-day rifampin
+treatment regimen (600 mg once daily) (Study CC-220-CP-003).
+Source: Table 4.1.1 -] in Response to FDA Information Request Received 03-Feb-2026 (seq0007)
+
+Table 106: FDA — Simulated and observed effects of efavirenz on iberdomide exposure
+with varying fraction metabolized by CYP3A4
+
+Cancer Patients Healthy Subjects
+Drug CYPSA4 fin PK endpoint® pion in fet "hice be" ior
+Efavirenz 056 AUC 0.42(0.40-0.44)  032(030-034) 0.46 (044-048) 038(0.36-0.40)
+(Original model) Cmax 0.62 (0.60-0.64) 0.50(0.48-052) _0.65(0.63-0.67) _0.57(0.55-0.58)
+0.62 AUC 0.42 (0.39-0.44) — 032(0.30-034) —0.45(0.43-0.48) 0.38 (0.36-0.40)
+Cmax 0.61(0.59-0.64) 049(0.47-051) _0.65(0.63-0.67) _0.56(0.54-0.58)
+072 AUC 039(0.37-0.41) — 0.29(0.27-030) — 0.43(0.41-0.45) 0.35 (0.33 -0.38)
+Cmax 0.59(0.57-0.61) —0.46(0.44-0.48) 0.63 (0,60-0.65) _0.54(0.52-0.56)
+073 AUC 0.40(0.38-042) 0.29(0.28-0.31) | 0.43(0.41-046) — 036(0.34-0.38)
+Cmax 0.60 (0.58-0.62)  0.46(0.45-0.48) 0.63 (0.61-0.65) _0.54(0.52-0.56)
+® AUC for Day 1 is AUC(0-24); for Day 21 it is AUCtau
+
+Source: Tables 1.1.1-1 and-2 in Response to FDA Information Request Received 17-April-2026 (seq0019)
+
+317
+Version date: February 10, 2025 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant's Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5851050

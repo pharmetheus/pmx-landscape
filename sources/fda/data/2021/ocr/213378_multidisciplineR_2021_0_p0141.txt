@@ -1,0 +1,61 @@
+Clinical/Statistical Review
+NDA 213378
+
+Lybalvi (Olanzapine/Samidorphan, ALKS 3831)
+
+Figure 18: Cumulative Frequency Distribution of Percent Change from Baseline in Body
+Weight at Week 24 (MI) (Study A303)
+
+100 -—
+
+70-4
+
+604
+
+Cumulative Percentage of Subjects (%)
+8
+i
+
+Percent Change from Baseline in Body Weight (%) at Week 24
+
+404
+30-4
+20
+10-| [Treatment Group:
+Olanzapine
+6 ALKS 3831 27% ie10% =
+“15 -10 5 o 5 10 15 20 25
+
+Source: Applicant’s Clinical Study Report for ALK3831-A303, Figure 3, page 63
+
+Number-needed-to-treat
+
+At Week 24, the number-needed-to-treat (NNT) with ALKS 3831 to mitigate various cut-offs of
+weight gain with olanzapine is between six and ten patients (calculated as the inverse of the
+risk difference):
+
+Table 33: Number Needed to Treat to Mitigate Weight Gain (Study A303)
+
+Parameter NNT (95% Cl)
+
+2 10% weight gain 7.29 (95% Cl 4.38, 21.74)
+> 7% weight gain 6.29 (95% Cl 3.95, 15.43)
+> 5% weight gain 7.85 (95% Cl 4.50, 30.84)
+> 0% weight gain 10.35 (95% CI 5.64, 63.03)
+
+Source: A303 CSR Addendum, Tables 14.2.35.1, 14.2.35.2, 14.2.35.3, 14.2.35.4
+
+Premature Discontinuations and Missing Data
+
+The primary multiple imputation analysis relied on the missing at random assumption,
+suggesting that all observed response trajectories can be used to impute the unobserved
+outcomes. Specifically, the missing data were imputed sequentially by each visit using a
+regression method. The imputation regression model included treatment group, race, and
+
+baseline age as factors, and body weight at all previous visits (including baseline weight) as
+covariates.
+
+100
+
+Reference ID: 4701252
+

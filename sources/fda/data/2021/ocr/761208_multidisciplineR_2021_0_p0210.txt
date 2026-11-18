@@ -1,0 +1,55 @@
+BLA Multi-disciplinary Review and Evaluation {Biologics License Application (BLA) 761208}
+{tisotumab vedotin}
+
+; .. a Effect Value
+Parameter | Covariate Reference Value Covariate Value [95%C1](%)
+CL Weight 70 43 -21.4 [-25;-17.7]
+112 26.2 [20.6;32]
+Albumin 40 29 13.6 [8.4;19.1]
+47 6.2 [-8.4;-3.9]
+Sex Female Male 9.4 [1.8317]
+Weight 70 43 -16.9 [-20.5;-13.2]
+eta 112 19.6 [14.6,24 7]
+v1 4:10:
+Albumin 40 29 8.5 [2.4,10.9]
+47 -3.1 [-5;-1.2]
+Sex Female Male 13.3 [8.6;18]
+a Weight 70 43 -21.4 [-25;-17.7]
+112 26.2 [20.6;32]
+v2 Weight 70 43 -26.2 [-29.5;-22.6]
+es 112 34.0 [28,40.2]
+Weight 70 43 -20 [-28.1;-10.9]
+112 24 [11.8;37.5]
+Albumin 40 29 -26 [-36.7;-13.5]
+47 16.3 [7.5;25.7]
+52.2 -14.9 [-24.7;-3.9]
+Clase eGFR 90 129 8.6 [2;15.6]
+Cancer Cervical Other 21.7 [7.5;36]
+ECOG 0 1 -19.7 [-30.1;-9.3]
+Hepatic . .
+Impairment Normal Impaired -14.7 [-28.1;-1.4]
+Tumor 12 12.5 [7.4;17.8]
+60
+Burden 254 -37.9 [-48.5;-25.1]
+Weight 70 43 -35.4 [-42.3;-27.6]
+oo 112 52.3 [36.6,69.9]
+Vemac ECOG 0 1 -17.3 [-27.3;-7.4]
+- 29 -16.9 [-28.5;-3.3]
+Albumin 40 47 97 [1.7.18.3]
+Weight 70 43 8.9 [4.6;13.4]
+ky 112 -7.9 [-11.4;-4.2]
+A 60 32 13.1 [9;17.3]
+ee 76 11.2 £-14.3-7.9]
+*The values of the continuous covariates represent 2.5th and 97.5th percentiles of the values in
+the analysis dataset.
+
+Source: In-Text Table 4 in the Population PK Report.
+
+Figure 16. Goodness-of-Fit of Final ADC-MMAE Model 137.
+209
+
+Version date: March 2021 (ALL NDA/ BLA reviews)
+Disclaimer: In this document, the sections labeled as “The Applicant’s Position” are completed by the Applicant
+and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 4858975

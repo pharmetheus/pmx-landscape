@@ -1,0 +1,59 @@
+Multi-disciplinary Review and Evaluation
+
+NDA 218784
+
+VORANIGO (vorasidenib)
+
+neurospheres and mice were treated with vorasidenib in two stages. In the first stage, mice
+received 6 oral doses 12-hours apart at 0, 0.3, 3, or 10 mg/kg and in the second stage the mice
+received 6 additional oral doses 12-hours apart at 0, 0.03, 0.1, or 0.3 mg/kg. Blood, brain, and
+tumor tissue samples were collected at 1, 3, or 12 hours post last dose. Vorasidenib reduced
+the level of 2-Hg in the tumor tissue and appeared to plateau at 0.3 mg/kg.
+
+Table 8: Vorasidenib and 2-HG AUC in plasma and tumor tissue in orthotopic TS603
+IDH1R132H glioma bearing mice after oral vorasidenib
+
+Vorasidenib ea
+Dose Brain to plasma Tumor to % decrease in 2-HG in brain % decrease in 2-HG in
+(mg/kg) ratio plasma ratio vs. vehicle tumor vs. vehicle
+
+0 - -
+
+0.03 1.14 4.62 5.66 76.2
+1 1.96 2.6 1.67 97.4
+0.3 1.28 2.02 16.9 98.5
+0.3 1.45 2.8 31.1 98.9
+3 0.95 0.9 39.5 99.8
+10 11 0.8 52 99.98
+
+Secondary Pharmacology
+
+Vorasidenib was evaluated for its potential to inhibit binding and enzymatic activity in a panel
+of 89 receptors, ion channels, and enzymes (Study AG881-N-020-R1). The compound was highly
+selective with significant off-target activity (250%) limited to the adenosine A3 receptor (92%
+binding inhibition at 1 4M). Vorasidenib acts as a functional antagonist of the adenosine A3
+receptor with an ICso of 1.50 uM (3.2-fold over the mean steady-state maximum plasma
+concentration [Cmax] in humans at the recommended dose based on total concentration;
+>100-fold over the mean steady-state Cmax based on free concentration). There were no effects
+consistent with adenosine A3 receptor antagonism (histamine and mast cell modulation,
+alterations in ocular pressures) observed in in vivo toxicology studies.
+
+The FDA’s Assessment:
+
+The Applicant uses terminology such “highly selective” to describe study results; such terms
+should be avoided as they are vague, subjective, and promotional.
+
+The FDA generally agrees with the Applicant’s conclusions on the secondary pharmacology of
+vorasidenib, with additional pertinent details below. The Cmax of total and unbound
+tovorafenib was calculated by the FDA clinical and nonclinical team to be 133 ng/mL (0.25 uM)
+and 4 ng/mL (8 nM) at the highest recommended dose of 40 mg orally once daily. Thus the 50%
+inhibition of the adenosine A3 receptor at 1.50 LM is approximately 6-fold and 31-fold over the
+mean steady state Cmax of total and unbound vorasidenib, respectively.
+
+55
+Version date: December 2023(ALL NDA/BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5425021

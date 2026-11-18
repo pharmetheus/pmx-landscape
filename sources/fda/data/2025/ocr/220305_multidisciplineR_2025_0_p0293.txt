@@ -1,0 +1,71 @@
+NDA Multidisciplinary Review and Evaluation
+
+NDA 220305
+Komzifti (ziftomenib)
+
+relationship between ziftomenib and its efficacy endpoints are mainly flat. Overall, the
+applicant’s ER analysis is considered acceptable for the purpose of characterizing the ER
+relationship of ziftomenib and its efficacy endpoints.
+
+14.4.3.2. ER (efficacy) Assessment Summary
+
+The Applicant’s Position:
+
+General Information
+Goal of ER analysis To assess the ER relationships between ziftomenib exposure
+and the efficacy endpoints in patients with R/R AML
+Study Included Study KO-MEN-001
+Endpoint Primary: CR/CRh rate
+
+Secondary: Duration of CR/CRh, TI, CR/CRh MRD
+negativity, CRc, EFS, OS
+
+No. of Patients (total, and with
+
+Total 139 (NPM1-m 100)
+
+individual PK)
+Population General Age: median 66 years (range 21-86 years)
+Characteristics oe oe .
+(Geniicant Weight: median: 71.4 kg (range: 41-135 kg)
+Table 26) Sex: 61 (43.9%) male, 78 (56.1%) female
+Race: White, 107 (77%); Asian, 4 (2.9%); Black or African
+American, 3 (2.2); Missing, 22 (15.8); Other, 3 (2.2%)
+Pediatrics (if None.
+any)
+Dose(s) Included 200 mg and 600 mg QD
+
+Exposure Metrics Explored (range)
+
+Steady state AUC, Cmax and Ctrough
+
+Covariates Evaluated
+
+Age, sex, race, ethnicity, weight, height, BMI, BSA, markers
+of renal and hepatic functions, AML mutations, Eastern
+Cooperative Oncology Group performance status [ECOG].
+presence of P-gp inhibitors, presence of PPI and presence of
+CYP3A inducers or inhibitors
+
+Final Model Parameters
+
+Summary Acceptability
+
+[FDA’s comments]
+
+Model Structure
+
+Various logistic regression models Adequate
+were constructed to assess the statistical
+relationships between exposure,
+
+potential risk factors and the probability
+
+292
+
+Version date: March 1, 2024 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5694243

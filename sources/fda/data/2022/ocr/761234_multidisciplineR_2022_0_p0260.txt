@@ -1,0 +1,67 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {BLA 761234}
+Opdualag™ (nivolumab and relatlimab-rmbw)
+
+Based on 1000 Bootstrap calculations, the effect of African American on
+CL, Adult Others on CL, and relatlimab combination on Emax was 104%
+(95% Cl, 96-113%), 99.5 (95%CI, 95.4-104%), and 99.2% (95% Cl, 94.4-
+104%), respectively, indicating a small effect size.
+
+The shrinkage values: Eta shrinkage (%): ETA_CL: 11.2; ETA_VC: 22.7;
+ETA_EMAX: 43.6; EPS shrinkage (%): 15.2 (see footnote of Table 78). The
+relatively higher ETA-shrinkage for Emax is unlikely to impact individual
+exposures, since ETA shrinkage for CL and VC are relatively low, which
+are the primary parameters important for the EBE-derived exposures. In
+the current PPK analysis, The Emax parameter is well estimated with a
+meaningful magnitude of decrease of -0.198 (RSE 11.8%, 95% Cl -0.251
+to -0.151). The ETA on Emax is also well estimated with a point estimate
+of 0.0797 (RSE 14.2%, 95% Cl 0.0597 to 0.109) (Table 78).
+
+BLQ for Parameter Accuracy
+
+Relatlimab PPK Analysis: PK samples with BLQ were excluded from the
+PPK analysis. Exclusion of BLQ is not expected to impact PPK parameter
+estimates as only approximately 5% of total PK concentrations had BLQ.
+
+Nivolumab PPK Analysis: PK samples with BLQ were excluded from the
+
+PPK analysis. Exclusion of BLQ is not expected to impact PPK parameter
+estimates as only approximately 1% of total PK concentrations had BLQ.
+
+Acceptable
+
+GOF, VPC
+
+Figure 22, Figure 23, Figure 24, Figure 25, Figure 26, Figure 27, Figure 28,
+Figure 29, Figure 30, and Figure 31
+
+Acceptable
+
+Significant Covariates and
+Clinical Relevance
+
+Figure 14 and Figure 21.
+Relatlimab PPK Analysis: See Section 6.2.1 and 6.3.2.3.
+
+Nivolumab PPK Analysis: Effects of covariates on nivolumab CL: The
+effects of eGFR, age, race (Asian), PS, and sex on nivolumab baseline CL
+were statistically significant, however they were not considered clinically
+relevant (< 20%). There were covariate effects of baseline body weight
+(23% higher CL in subjects with 95th percentile of body weight relative to
+
+Acceptable. Based on
+the updated
+population PK model
+of nivolumab that
+included more
+pediatric patients;
+adolescent patients
+
+259
+Version date: January 2020 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “The Applicant’s Position” are completed by the Applicant and do not necessarily reflect the positions
+
+of the FDA.
+
+Reference ID: 4955210
+

@@ -1,0 +1,61 @@
+NDA Multi-Disciplinary Review and Evaluation
+NDA 219876
+Dordaviprone
+
+Figure 19.10 Simulated and observed plasma concentration-time profiles following single
+and multiple oral doses of dordaviprone once weekly in adults with advanced solid tumors
+
+375 mg dordaviprone QW 625 mg dordaviprone QW
+Week 1 oe Week 4 Week 1 v= Week 4
+in i.
+14 i
+A @ | |
+
+‘me Tine
+
+Te
+
+“Te
+
+Toe
+
+Depicted are simulated (lines) and observed data (circles,375 mg: n = 3; 625 mg: n=18, Clinical Study 002). The grey lines represent the mean
+values of simulated individual trials, the dashed grey lines represent the Sth and 95th percentiles and the solid black line the mean data for the
+simulated population (n = 30 or 180). QW. once weekly
+
+Source: Figures 25 -28 in the PBPK report (chmx3a-b)
+
+Table 19.10 Simulated and observed PK parameters following single and multiple oral
+doses of dordaviprone in adults with advance solid tumors
+
+375mg 625 mg
+Week 1 (QW + Q3W) (n=4) Week 4 (QW) (n=3) Week 4 (QW + O3W) (n=43) Week 4 (QW) (n=16)
+AUC one Coma ‘toax” AUC Cmax tena” AUC ony Cina tea” AUC Come tone”
+(h.ngimL) | _ (ng/mL) (h) (h.ng/mL) | (ng/mL) (h) (h.ngimL) | (ng/mL) (h) (h.ng/mt) | (ng/mL) (hy
+mulated 30062 | 3758 | 125 | 20257 | 3501 125 | 4osso | sora | 1.35 | 40620 | 4431 1.38
+V% es | 516 a4 | 558 66.8 549 714 | 498
+1% Cl— Lower 25675 3302 0.900 23258 2979 0.950 38914 4814 0.700 37529 4161 0.700
+1% Cl Upper gs108 | 4278 | 1.95 | 36805 | 4114 | 1.80 | 42001 | 5223 | 295 | 43065 | 4606 | 255
+eerved 18313 | 2109 | 208 | 19707 | 1688 | 197 | 20710 | 3075 | 192 | 31823 | 3045 | 1.86
+V% 109 110 100 103 106 107 107 108
+0 1.64 178_| oer | 148 | 207 | 0635 | 137 163 | 0703 | 128 146 | 0.726
+
+* Median values were reported for Tmax. others are geometric means. S/O: Simulated/Observed
+Source: Tables 23 -24 in the PBPK report (chmx3a-b)
+
+Can PBPK analyses predict the effects of CYP3A4 precipitants on the PK of dordaviprone?
+
+Yes. The dordaviprone PBPK model could be used to predict the effects of CYP3A4 inhibitors
+or inducers. The moderate CYP3A4 inhibitors fluconazole and erythromycin were predicted to
+increase dordaviprone AUC up to 2.7-fold, and the weak CYP3A4 inhibitor cimetidine was
+predicted to increase dordaviprone AUC by approximately 1.7-fold The strong CYP3A4 inducer
+rifampin, the moderate CYP3A4 inducer efavirenz, and the weak CYP3A inducer modafinil
+were predicted to reduce dordaviprone AUC by 83%, 65%, and 22%, respectively (Table 19.11).
+
+227
+Version date: March 1, 2024 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5638121

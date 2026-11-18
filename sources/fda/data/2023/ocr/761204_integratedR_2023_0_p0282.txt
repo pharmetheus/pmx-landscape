@@ -1,0 +1,61 @@
+BLA 761204 and NDA 215211
+Pombiliti (cipaglucosidase alfa-atga) and Opfolda (miglustat)
+
+Table 151. Baseline and Percent Change in FVC to Week 52, ITT Population (All Subjects),
+
+ATB200-03
+Time Point Difference!" P-
+Parameter Cipa-Mig Comparator (95% Cl) Value
+Baseline N=85 N=38
+
+Mean (SD) 70.7 (19.6) 70.0 (21.3)
+
+Median (min, max) 70.0 (30.5, 132.5) 74.2 (31.5, 122.0)
+Week 52 N=74 N=33
+
+Mean (SD) 69.8 (20.2) 63.7 (20.8)
+
+Median (min, max) 69.0 (30.0, 137.0) 56.0 (28.0, 96.0)
+Change from baseline to Week 52
+
+Mean (SD) -1.4 (9.8) -5.5 (8.0)
+
+Median (min, max) =1.6 (-25.0, 24.1) =3.1 (-27.3, 9.0)
+Estimated change from baseline to Week 52
+ANCOVAEI -1.19 (1.02) -5.24 (1.53) __ 4.04 (0.36, 7.73) 0.0319
+Wilcoxon Rank-Sum 0.0201
+
+Source: This table was produced by review team based on the adeff_xpt dataset located at
+\\CDSESUB1\evsprod\BLA761204\0003\m5\datasets\atb200-03\analysis\adam\datasets.
+
+1 Estimated difference (cipa-mig — comparator) and 95% confidence interval
+
+LS mean change from baseline to Week 52 was estimated by analysis of covariance (ANCOVA) including treatment, visit,
+treatment-by-visit interaction, ERT status, gender, baseline 6MWT, age (continuous), weight, and height. Imputation of Week 52
+values was done using last observation carried forward (LOCF).
+
+Abbreviations: ANCOVA, analysis of covariance; Cl, confidence interval; Cipa-Mig, cipaglucosidase alfa coadministered with
+miglustat; ERT, enzyme replacement therapy; LS, least squares; max, maximum, min, minimum; 6MWD, 6-minute walk distance;
+6MWT, 6-minute wa k test; SD, standard deviation
+
+Sensitivity Analysis of FVC Observations with Unacceptable Grade
+
+An information request (IR023) was sent to the Applicant on January 4, 2022 requesting
+clarification on inclusion of 13 FVC observations from forced spirometries that had an
+unacceptable grade assessed by a The Applicant explained that
+these data were included in the derived analysis datasets because they were graded as acceptable
+or borderline acceptable by a second consulting company. The review team performed a
+sensitivity analysis by excluding these 13 FVC observations. This impacted 6 subjects in total: 2
+subjects © were excluded due to both screening measures having an
+unacceptable © grade, 4 subjects OF had
+adjusted baseline values due to one screening measurement having an unacceptable ™ grade,
+and 2 of those subjects had measures omitted at Week 12 (Subject aa), Week 26
+(Subject ®) and Week 52 (Subject ©) due to an unacceptable ] grade.
+
+Table 152 presents the results of this sensitivity analysis. The estimated treatment difference was
+2.38 (95% CI: 0.04, 4.71; p=0.0460), slightly larger than 2.32 (95% CI: 0.02, 4.62; p=0.0484)
+obtained based on the datasets that included these 13 observations.
+
+267
+
+Reference ID: 5061679

@@ -1,0 +1,60 @@
+BLA Multi-disciplinary Review and Evaluation BLA 761339 Pozelimab
+
+Table 17 showed the equivalent weight-based maintenance dosing and corresponding Ctrough at.
+Week 20, 36 and 72 for each subject in Study 1878 who received
+dose adjustment with body weight increase.
+
+(b) 4)
+(b) (4)
+
+.Ahigh
+intra-subject (due to dose adjustment based on body weight change over time) and inter-: subject |
+variability in steady state exposure was noted
+
+. Modeling and simulation analysis suggests that a fixed weight-based dose regimen
+(10 mg/kg or 12 mg/kg) is estimated to result in less inter- and intra-subject variability in exposure.
+See Section 16.3.1 for population PK analysis results.
+
+Adult Subjects
+
+Only one adult subject aged o (subject ) was studied in the phase 3 study. This subject
+received a 30 mg/kg IV loading dose followed by 500 mg SC weekly maintenance dosing starting at
+Week 1 and subsequently increased to 800 mg from Week 8.
+
+(b) 6)
+
+Pozelimab was evaluated in 23 adult PNH subjects with a single 30 mg/kg IV loading dose on Day 1
+followed by 800 mg SC weekly dose starting at Week 1. The mean (SD) Ctrough at Week 1 following IV
+loading dose was 293 (82) mg/L. The steady state was achieved by Week 8 (Day 56) with a mean
+(SD) Ctrough of 365 (145) mg/L. The mean Ctrough following IV loading dose and at steady state in PNH
+adult subjects were similar to that observed with the adult subject with CHAPLE disease. The Crrough
+following IV loading dose and at steady state was 184 mg/L and 463 mg/L, respectively, in the adult
+subject with CHAPLE disease.
+
+Pediatric Subjects < 10 kg
+
+Subjects with CHAPLE disease weighing < 10 kg corresponding to the 1 to < 3-year-old age group
+were not assessed in the clinical study. The proposed dosing regimen for this weight group was
+based on modeling and simulation. Literature reported that C5 concentration is similar to adults at 6
+months of age in general pediatric subjects and the complement activity reached a comparable level
+to adults’ between 1* and 3 month of life for classical pathway and between 13 and 18 months of
+life for alternative pathway (Davis et al. 1979; Ferriani et al. 1990). The C5 protein seems to reach
+maturity by 1 year of age and the disease is similar across all age groups, which suggests that the
+extrapolation down to pediatric subjects < 10 kg based on PK matching may be reasonable given the
+unmet clinical need in young pediatric patients (ages 1 to 3) and the benefit/risk profile observed in
+pediatric patients aged 3 to 19.
+
+Overall, the PopPK model developed by the Applicant captures the pozelimab PK data for subjects
+with CHAPLE disease with bodyweight greater than 10 kg with age of 3 years and older. See detail in
+Section 16.3.1. It appears reasonable to perform simulation with the established PopPK model for
+dose selection in the extrapolation down to pediatric patients ages 1 to 3 based on PK matching. The
+PopPK modeling and simulation predicted comparable exposure following 10 mg/kg weight-based
+dosing in pediatric subjects < 10 kg compared to subjects in other body weight groups. As shown in
+Figure 6, the trough concentrations (with 95% prediction interval) of pozelimab are above
+
+200 mg/ml across the targeted age (body weight) range, which will provide >99% of C5 inhibited.
+However, given uncertainty in modeling with limited data available for model development (the
+
+70
+
+Reference ID: 5229031

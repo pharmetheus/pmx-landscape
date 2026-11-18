@@ -1,0 +1,60 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 215833}
+{Tradename / lutetium (177Lu) vipivotide tetraxetan}
+
+z, z ;
+
+g Hy :
+
+= : i
+
+2 |
+§
+
+z 3
+
+2 é
+
+: g
+
+5 §
+
+Baseline weight megan : Baseline weight
+
+Simulations of 500 individuals were performed with covariates randomly sampled with replacement
+from the observed values. For each box plot, the top horizontal line is the 3° quartile, the middle line is
+the median and the bottom line is the 1* quartile
+
+PK metrics Simulated group Min 1**Quartile Median 3 Quartile Max
+
+Baseline weight
+
+AUCinf WTat < 88.5 kg 1391 2546 2930 3420 5420
+(MBq.H/L) _ WTe. > 88.5 kg 1710 2517 2974 3412 5402
+Cmax WTax < 88.5 kg 211 469 595 820 1928
+(kBq/mL) WT. > 88.5 kg 159 416 517 676 1693
+
+Source: Figures7-14, 7-15 and Table 7-8 in the PopPK report.
+
+Exposure-Response Analyses
+
+Since Study PSMA-617-01 (main study) did not include PK or dosimetry, no exposure -response
+analysis with either efficacy or safety could be carried out. For the 30 patients in the PSMA-
+617-01 sub-study, where PK parameters were derived by either (non-)compartmental or
+populations methods and organ (but not tumor) dosimetry was acquired, both exposure
+metrics were used to explore the relationship between PK or organ radiation absorbed dose
+and acute toxicities related to the organ at risk as well on QT prolongation. Since the sub-study
+is still ongoing by the time of submission, only acute safety after the first dose of 177Lu-PSMA-
+617 was assessed.
+
+The relationship between systemic exposure and absorbed dose in PSMA-expressing key organs
+were investigated. There was no consistent association between exposure metrics (i.e. injected
+activity, AUCinf, Cmax) and dosimetry in the organs at risk, namely kidney, bone marrow,
+salivary glands and lacrimal glands. Exposure-dosimetry analyses suggested that only
+
+204
+Version date: January 2020 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 4957011

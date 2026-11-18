@@ -1,0 +1,58 @@
+NDA/IND Multi-disciplinary Review and Evaluation NDA 219379/219389
+Mirdametinib (GOMEKLI)
+
+Overall Conclusions:
+
+e Mirdametinib was predicted to have a concentration-dependent impact on tumor
+growth, with an exponential decay of this effect over time. This decay was higher in
+adults, possibly due to the differences in disease presentation between the pediatric
+population and adults. Given this difference in decay, the half-life of effect in adults was
+estimated to be 4.03 months, compared to 23.7 months in the pediatric population.
+
+e Ofthe mirdametinib exposure metrics, AUCO-12,ss was found to be the best predictor
+of BOR, with an increasing probability of BOR as AUCO-12,ss increased. No exposure-
+response relationships were identified for DOR or TTP.
+
+e Simulations suggested an increasing magnitude of %CFB and increasing response rate
+with increasing dose in the full population, and in children (2-12), adolescents (12-17),
+and adults. However, this trend should be taken with caution as it has not been verfieid
+in the clinical trial.
+
+19.4.3.2. ER (efficacy) Assessment Summary
+
+The Applicant's Position:
+
+PKPDx and exposure-response analyses established clear relationships between exposure and
+both tumor growth inhibition and overall response in participants with NF1 PN. Mirdametinib
+has a concentration-dependent effect on tumor growth, with increasing steady-state exposure
+being predictive of greater reduction in tumor volume, increased probability of response, and
+shorter time to response. The models are sufficiently robust to predict tumor response at target
+dose levels below 3 mg/m?. Simulations at target dose levels of 1.0, 1.5, 2.0, 2.2, and 3.0 mg/m?
+provide support for efficacy against PN in this range, with expectation of substantially improved
+probability of efficacy with increasing target dose. Further evaluation of a lower target dose in
+clinical studies is unlikely to alter the selection of 2 mg/m? BID as optimal for the treatment of
+NF1 PN.
+
+General Information
+
+Goal of ER analysis PKPDx models were developed to evaluate the PKPDx and ERR
+for mirdametinib in adult and pediatric participants with NF1
+PN, which included the following objectives:
+
+* Characterize the PKPDx relationships between
+mirdametinib dose/exposure and change in tumor
+volume;
+
+* Characterize the relationships between mirdametinib
+exposure and efficacy in NF1 PN participants;
+
+* Conduct population and trial simulations in support of
+dose justification and dose optimization.
+
+327
+Version date: June 2022 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5528369

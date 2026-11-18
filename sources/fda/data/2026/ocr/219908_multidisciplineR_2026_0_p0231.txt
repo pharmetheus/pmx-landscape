@@ -1,0 +1,60 @@
+NDA/BLA Multi-disciplinary Review and Evaluation/New Drug Application (NDA) 219908
+
+REVTORPYK (gedatolisib)
+carried out using PsN, version 5.3.1. The NONMEM
+installation was validated according to
+SOP. Exploratory data analysis and postprocessing of
+NONMEM results was carried out in R version 4.3.3
+(Comprehensive R Network, http://cran.r- project.org/)
+Model Structure Model development was carried out using first order Acceptable
+conditional estimation with Interaction (FOCE-I).
+The final population PK model was a 4-compartment
+disposition model with linear elimination. The model
+incorporated interindividual variability (ITV) on
+clearance (CL), Vi (central volume of distribution) and
+Qs (intercompartmental clearance to the peripheral
+compartment 4) and a proportional error for the residual
+variability. AST and body weight were identified as
+covariates of CL and were included using a power
+model.
+Model Parameter Estimates See Table 13 of the PopPK Report Acceptable
+Uncertainty and Variability See Table 13 of the PopPK Report Acceptable
+(RSE, ITV, Shrinkage,
+Bootstrap)
+BLQ for Parameter Accuracy | Not Applicable Not Applicable
+BLQ values were excluded from graphical exploration
+and model development and final model
+GOF, VPC See Figures 7, 8, and 9 of the PopPK Report (goodness | Acceptable
+of fit [GOF])
+See Figures 10 and 11 of the popPK Report (VPC)
+Significant Covariates and Body weight and AST were identified as covariates of | Acceptable
+Clinical Relevance CL and were included in the final population PK model
+using a power model. The effect of body weight and
+AST on CL was estimated with exponent values of
+0.246 (i-e., [body weight/70]°***) and -0.124 (i.e.,
+[AST/32]°), respectively indicating slightly higher
+exposures in patients with lower body weight and
+slightly higher exposures in patients with higher AST.
+Analysis Based on Simulation | See Figure 39 of the PopPK Report Acceptable
+(optional)
+
+Labeling Language Description ‘Acceptability
+[FDA’s
+comments]
+
+12.3 PK @The FDA accepts
+the proposed
+labeling language
+for Section 12.3
+(Pharmacokinetics)
+with the following
+
+230
+
+Version date: February 10, 2025 (ALL NDA/BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5832496
+

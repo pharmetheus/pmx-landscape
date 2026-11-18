@@ -1,0 +1,60 @@
+NDA/BLA Multi-disciplinary Review and Evaluation NDA 221075
+Iberdomide (ZENBEXUS)
+
+No dose adjustment is recommended for patients with eGFR > 30 mL/min/1.73 m? or patients
+with eGFR < 30 mL/min/1.73 m? receiving intermittent hemodialysis.
+
+Subjects with eGFR < 30 mL/min/1.73 m? who are not receiving dialysis exhibited ~1.8-fold
+higher iberdomide AUC. Given the positive E-R relationships for grade > 3 neutropenia and > 1
+dose modification due to adverse effect (see Section 19.5.5), the increased iberdomide exposure
+may lead to excessive toxicity. Therefore, FDA recommends an initial dose reduction (0.75 mg
+QD on D1-21 of 28-day cycles) in patients with eGFR < 30 mL/min/1.73 m? who are not
+receiving dialysis.
+
+Subsequently, the Applicant proposed a further dose reduction in the case of adverse events (1
+mg QOD on D1-21 of 28-day cycles) for patients with eGFR < 30 mL/min/1.73 m? who are not
+receiving dialysis. Given that the magnitude of the exposure change observed in subjects with
+eGER < 30 mL/min/1.73 m? who are not receiving dialysis was similar to that observed in
+subjects receiving concomitant moderate CYP3A inhibitors, and that a further dosage reduction
+for toxicity in patients receiving concomitant moderate CYP3A inhibitors is supported by PBPK
+simulations (see Sections 6.3.2.4, 19.5.6), the proposal was deemed reasonable.
+
+The following language will be included in Section 2 of the labeling:
+
+“In patients with eGFR < 30 mL/min/1.73 m? who are not receiving dialysis, reduce the dose to
+0.75 mg OD on Days I-21 of a 28-day cycle. If dose modification is needed due to adverse
+events, reduce the dose to 1 mg PO QOD on D1-21 of 28-day cycles. For patients with eGFR =
+30 mL/min/1.73 m? or eGFR < 30 mL/min/1.73 m? receiving dialysis, no dose adjustment is
+needed.”
+
+Of note, the sample size of the eGFR < 30 mL/min group (n=4) was insufficient to adequately
+provide dosing guidance for this population, and there were only limited patients in the PopPK
+analysis with baseline eGFR < 30 mL/min. As such, dosing guidance for RI will be based on
+BSA-indexed eGFR.
+
+6.3.2.4 Are there clinically relevant food-drug or drug-drug interactions, and what is
+the appropriate management strategy?
+
+Data and the Applicant’s Position:
+
+DDIs, food effect, and the appropriate management strategy were summarized in Section 6.2.2.2.
+
+The FDA’s Assessment:
+Food Effect
+The effect of food on iberdomide PK was evaluated using three approaches:
+e Food effect cohort (high-fat meal [HFM]) of Study CC-220-CP-001 (AIC formulation)
+om
+
+e
+
+PBPK model to simulate the effect of administration of a high-fat meal on the F3 formulation
+
+using clinical PK data from the food effect cohort of Study CC-220-CP-001 and clinical PK
+
+120
+Version date: February 10, 2025 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5851050

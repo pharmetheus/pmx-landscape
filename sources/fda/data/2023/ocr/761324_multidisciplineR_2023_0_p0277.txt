@@ -1,0 +1,52 @@
+BLA Multi-disciplinary Review and Evaluation {Biologics License Application (BLA) 761324
+{epcoritamab}
+
+Summary above. The ECLIA-139 assay was to measure all PK samples included in the PPK
+analysis. The Reviewer was able to run the final popPK model without significant discrepancies
+from the results reported in Table 95. The parameters with the highest IIV were Vp (138%), Kss
+(85%), and Q (87%).
+
+Goodness-of-fit plots indicate that the PPK model is able to adequately characterize
+epcoritamab concentrations from approximately 0.1 ug/mL up to 15 ug/mL. The model under-
+estimates epcoritamab concentrations below approximately 0.1 ug/ml (see Figure 19), possibly
+related to exclusion of BLQ data from the model input. The model also under-estimated
+concentrations of 15 ug/mL and above, as evident in the goodness-of-fit plot of IPRED versus
+DV on a linear scale (Figure 22) and the VPC plot (Figure 20 and Figure 21Figure 21). Therefore,
+model-predicted Cmax may be lower than true Cmax. Model-predicted exposure metrics of Crrough,
+Cavg, and AUC are likely more accurate than Cmax. The model-predicted Cmax may be adequate
+for exploratory evaluation of relative exposure differences according to subgroups, but the
+magnitude of difference and individual model-predicted Cmax values may be lower than true
+
+Cmax-
+
+Figure 22: Goodness of Fit Plots, Final Model, Linear Scale
+
+740 740
+£ —
+a> . c=.) 8
+—S = °
+© 30 © 30 °
+S S og
+s s 52-3
+
+2 20
+2 2 . se
+5 S °
+re) Oo 2, °
+Bio 310 ry ee
+> > ned
+® 5 oo 8
+2 2 “
+ral 2 ° °
+Oo Oo p—*
+
+S © P © © £ S
+Population Predictions (ug/mL) Individual Predictions (ug/mL)
+
+276
+Version date: June 2022 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5176690

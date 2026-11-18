@@ -1,0 +1,44 @@
+BLA 761306 Multi-disciplinary Review and Evaluation
+Ebglyss (lebrikizumab) injection
+
+Table 104107. Summary of simulation results of Week 24 for EASI-50, EASI-75, and EASI-90
+Achievement
+
+Regimen Tcs Median %Achieving %Achieving %Achieving
+
+EAS! EASI-50 EASI-75 EASI-90
+Placebo monotherapy (no TCS) 11.2 60 35 14
+Placebo with TCS 9.73 63 36 16 0
+250/125 mg Q4W monotherapy (no TCS) 5.52 83 58 30 16.75
+250/125 mg Q4W with TCS 4.75 85 59 32 16.82
+500/250 mg Q4W monotherapy (no TCS) 4.87 86 62 33 33.6
+500/250 mg Q4W with TCS 4.12 87 64 36 33.1
+500/250 mg Q2W monotherapy (no TCS) 411 89 68 37 83.8
+500/250 mg Q2W_ with TCS 3.57 91 70 40 83.0
+
+The reviewer also conducted simulations using different maintenance regimens to assess the
+model’s ability to predict EASI response to Week 52. The induction regimen (500 mg at Week 0,
+2, then 250 mg Q2W up to Week 16) was the same proposed by the Applicant. During the
+maintenance regimen, the patients who responded at Week 16 were either switched to 250 mg
+Q2W or Q4W or placebo without use of TCS. Simulated percent change in EASI score from
+baseline versus time profiles for different regimens indicate that predicted % change in EASI
+score is in agreement with observed data, suggesting the model’s adequacy and usefulness to
+predict data for different clinical trials. However, for Q4W and placebo withdrawal group, a
+slight model-predicted underestimation was observed (Figure 28).
+
+To note that observed data overlaid on the simulated plots are not based on Markov Chain
+Monte Carlo-Multiple Imputation (MCMC-MI), the approach used by the Applicant. Hence, the
+difference in the observed data with that of the Applicant is possible. But the predicted EASI
+score change still adequately describes the observed data over the entire maintenance period
+which was not included in the PK-PD model. It should also be noted that the 90% Cl for
+simulated data is greatly wider than what was reported by the Applicant, the reason of which is
+not clear. The reviewer considered a cutoff of lower 2.5 percentiles and upper 97.5 percentiles
+data to estimate 95% Cl, a reasonable approach to present 95% Cl limit for simulated data.
+
+Figure 28. Model-simulated and observed EASI percent change from baseline profiles for Week
+16 responders, separated by treatment, from Studies KGAB and KGAC combined
+
+246
+Version date: October 12, 2018
+
+Reference ID: 5252985

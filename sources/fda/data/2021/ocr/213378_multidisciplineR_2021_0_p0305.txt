@@ -1,0 +1,53 @@
+Physiological e The decreased liver volume and CYP abundance with increasing
+
+changes in HI severity of HI is based on literature data (Johnson et al., 2010).
+
+relative to HV e Albumin, hematocrits, and plasma glycoprotein decreased with
+increasing severity of HI -> Decreased protein binding
+
+e 30%, 71%, and 86% reduction of hepatic CYP3A4 expression is
+predicted in subjects with mild, moderate and severe HI
+
+e Gastric emptying time is 0.3, 0.48, 0.55, 0.6 hour for healthy subjects
+and subjects with mild, moderate and severe HI
+
+SAM HV model SAM HI model
+Healthy Subject with hepatic impairment
+Absorption 4 ; 4
+rate (Ka) 0.7 h Moderate HI 1.6 h' (PBPK report #10, page 45)
+fup 0.69 0.69 or 0.71, 0.76, and 0.81 for mild, moderate, severe HI,
+: respectively (PBPK report #10, table 2)
+
+Source: Summarized by reviewer
+
+PBPK model verification
+The performance of SAM PBPK model in predicting the SAM PK profile in various exposure
+scenarios was evaluated via the comparison of simulated and observed clinical PK data. Table
+10 presents the summary of the clinical PK, DDI and hepatic impairment studies used for model
+development and verification. The clinical DDI study with itraconazole a
+was used to verify the contribution of CYP3A4 to the disposition of SAM |
+For the HI population, the clinical study ALK3831-A105 was used to assess the
+impact of moderate hepatic impairment on the exposure of samidorphan after a single oral dose
+of ALKS 3831 5/10 (5 mg olanzapine/10 mg samidorphan).
+
+Table 10 Summary of the clinical PK, DDI and hepatic impairment studies used for model
+development and verification
+
+Study Mechanism | Formulation SAM dosing regimen PBPK Model
+Objective
+ALK33-B107 | Clinical PK | SAM only A single IV dose of 2mg SAM _ | Model
+injection development
+ALK33-B107 | Clinical PK | SAM only tablet | A single SL dose of 2mg SAM | Model
+development
+ALK33-B107 | Clinical PK | SAM only oral | A single oral dose of 2 mg Model
+solution SAM development
+ALK33-301 Clinical SAM only tablet | A single oral dose of 5 mg Additional
+DDI SAM with/without a single oral | verification by
+dose of 10 mg OLZ Reviewer
+ALK3831- Clinical PK | SAM+OLZ SAM 10 and 20 mg qd for 5 Model
+| A104 tablet days verification
+©2® | Clinical | a Model
+DDI verification
+51
+
+Reference ID: 4678460

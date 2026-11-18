@@ -1,0 +1,72 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 219713}
+
+{IBTROZI™, Taletrectinib}
+
+The shrinkages of the random-
+effects on CL and VC are not
+directly interpretable as discussed in
+section 4.1.2.3 section of the report.
+
+The precision of the final model
+parameter estimates was obtained by
+sampling importance resampling
+(SIR) analysis with five iterations.
+95% CIs of the final parameter
+estimates were constructed from
+1000 samples of the final iteration
+and overlapped with those of the
+final model estimates.
+
+to 10 hour-fasted condition by
+approximately 58% and 55%,
+respectively. Additionally, body
+weight and race were found to be
+statistically significant covariates for
+clearance (CL). Body weight and
+type of the participant (participants
+with cancer vs healthy participants)
+were significant covariates for the
+central volume of distribution (Vc).
+However, effect of body weight,
+race, and type of the participant on
+PK are not clinically significant.
+
+BLQ for Parameter Accuracy 162 (2.3%) BLQ data points were Yes
+excluded from the model and it has
+no impact on the objectives of the
+popPK analysis.
+GOF, VPC Figure 4, 5 and A-3 of the popPK Yes
+report
+Significant Covariates and Figure 7 and 8 of the popPK report —_| Data for
+Clinical Relevance Food status had a marked effect on ae tne d
+taletrectinib absorption. e a oF stan
+Bioavailability was higher under fed i s ae bili
+and 2 hour fasted conditions relative | b!avallability
+
+were limited,
+therefore, its
+estimated effect
+was determined by
+the category with
+which it was
+combined, i.e.,
+high fat meals.
+
+Asian patients
+(race effect and
+lower body weight
+distribution) were
+associated with a
+30% increase in
+Cavgss compared
+to White patients.
+
+320
+
+Version date: March 1, 2024 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5606238
+

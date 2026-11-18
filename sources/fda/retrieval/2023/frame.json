@@ -1,0 +1,442 @@
+[
+  {
+    "no": 1,
+    "name": "Leqembi",
+    "ingr": "lecanemab-irmb",
+    "date": "1/6/2023",
+    "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/761269Orig1s000lbl.pdf",
+    "appl": "761269"
+  },
+  {
+    "no": 2,
+    "name": "Brenzavvy",
+    "ingr": "bexagliflozin",
+    "date": "1/20/2023",
+    "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/214373s000lbl.pdf",
+    "appl": "214373"
+  },
+  {
+    "no": 3,
+    "name": "Jaypirca",
+    "ingr": "pirtobrutinib",
+    "date": "1/27/2023",
+    "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/216059Orig1s000Corrected_lbl.pdf",
+    "appl": "216059"
+  },
+  {
+    "no": 4,
+    "name": "Orserdu",
+    "ingr": "elacestrant",
+    "date": "1/27/2023",
+    "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/217639s000lbl.pdf",
+    "appl": "217639"
+  },
+  {
+    "no": 5,
+    "name": "Jesduvroq",
+    "ingr": "daprodustat",
+    "date": "2/1/2023",
+    "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/216951s000lbl.pdf",
+    "appl": "216951"
+  },
+  {
+    "no": 6,
+    "name": "Lamzede",
+    "ingr": "velmanase alfa-tycv",
+    "date": "2/16/2023",
+    "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/761278s000lbl.pdf ",
+    "appl": "761278"
+  },
+  {
+    "no": 7,
+    "name": "Filspari",
+    "ingr": "sparsentan",
+    "date": "2/17/2023",
+    "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/216403s000lbl.pdf",
+    "appl": "216403"
+  },
+  {
+    "no": 8,
+    "name": "Skyclarys",
+    "ingr": "omaveloxolone",
+    "date": "2/28/2023",
+    "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/216718Orig1s000lbl.pdf",
+    "appl": "216718"
+  },
+  {
+    "no": 9,
+    "name": "Zavzpret",
+    "ingr": "zavegepant",
+    "date": "3/9/2023",
+    "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/216386s000lbl.pdf",
+    "appl": "216386"
+  },
+  {
+    "no": 10,
+    "name": "Daybue",
+    "ingr": "trofinetide",
+    "date": "3/10/2023",
+    "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/217026s000lbl.pdf",
+    "appl": "217026"
+  },
+  {
+    "no": 11,
+    "name": "Zynyz",
+    "ingr": "retifanlimab-dlwr",
+    "date": "3/22/2023",
+    "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/761334s000lbl.pdf",
+    "appl": "761334"
+  },
+  {
+    "no": 12,
+    "name": "Rezzayo",
+    "ingr": "rezafungin",
+    "date": "3/22/2023",
+    "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/217417s000lbl.pdf",
+    "appl": "217417"
+  },
+  {
+    "no": 13,
+    "name": "Joenja",
+    "ingr": "leniolisib",
+    "date": "3/24/2023",
+    "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/217759s000lbl.pdf ",
+    "appl": "217759"
+  },
+  {
+    "no": 14,
+    "name": "Qalsody",
+    "ingr": "tofersen",
+    "date": "4/25/2023",
+    "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/215887s000lbl.pdf",
+    "appl": "215887"
+  },
+  {
+    "no": 15,
+    "name": "Elfabrio",
+    "ingr": "pegunigalsidase alfa-iwxj",
+    "date": "5/9/2023",
+    "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/761161s000lbl.pdf",
+    "appl": "761161"
+  },
+  {
+    "no": 16,
+    "name": "Veozah",
+    "ingr": "fezolinetant",
+    "date": "5/12/2023",
+    "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/216578s000lbl.pdf",
+    "appl": "216578"
+  },
+  {
+    "no": 17,
+    "name": "Miebo",
+    "ingr": "perfluorhexyloctane",
+    "date": "5/18/2023",
+    "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/216675s000lbl.pdf",
+    "appl": "216675"
+  },
+  {
+    "no": 18,
+    "name": "Epkinly",
+    "ingr": "epcoritamab-bysp",
+    "date": "5/19/2023",
+    "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/761324s000lbl.pdf",
+    "appl": "761324"
+  },
+  {
+    "no": 19,
+    "name": "Xacduro",
+    "ingr": "sulbactam, durlobactam",
+    "date": "5/23/2023",
+    "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/216974Orig1s000Correctedlbl.pdf",
+    "appl": "216974"
+  },
+  {
+    "no": 20,
+    "name": "Paxlovid",
+    "ingr": "nirmatrelvir, ritonavir",
+    "date": "5/25/2023",
+    "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/217188s000lbl.pdf",
+    "appl": "217188"
+  },
+  {
+    "no": 21,
+    "name": "Posluma",
+    "ingr": "flotufolastat F 18",
+    "date": "5/25/2023",
+    "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/216023s000lbl.pdf",
+    "appl": "216023"
+  },
+  {
+    "no": 22,
+    "name": "Inpefa",
+    "ingr": "sotagliflozin",
+    "date": "5/26/2023",
+    "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/216203s000lbl.pdf",
+    "appl": "216203"
+  },
+  {
+    "no": 23,
+    "name": "Columvi",
+    "ingr": "glofitamab-gxbm",
+    "date": "6/15/2023",
+    "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/761309s000lbl.pdf",
+    "appl": "761309"
+  },
+  {
+    "no": 24,
+    "name": "Litfulo",
+    "ingr": "ritlecitinib",
+    "date": "6/23/2023",
+    "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/215830s000lbl.pdf",
+    "appl": "215830"
+  },
+  {
+    "no": 25,
+    "name": "Rystiggo",
+    "ingr": "rozanolixizumab-noli",
+    "date": "6/26/2023",
+    "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/761286s000lbl.pdf",
+    "appl": "761286"
+  },
+  {
+    "no": 26,
+    "name": "Ngenla",
+    "ingr": "somatrogon-ghla",
+    "date": "6/27/2023",
+    "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/761184Orig1s000Corrected_lbl.pdf",
+    "appl": "761184"
+  },
+  {
+    "no": 27,
+    "name": "Beyfortus",
+    "ingr": "nirsevimab-alip",
+    "date": "7/17/2023",
+    "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/761328s000lbl.pdf",
+    "appl": "761328"
+  },
+  {
+    "no": 28,
+    "name": "Vanflyta",
+    "ingr": "quizartinib",
+    "date": "7/20/2023",
+    "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/216993s000lbl.pdf",
+    "appl": "216993"
+  },
+  {
+    "no": 29,
+    "name": "Xdemvy",
+    "ingr": "lotilaner",
+    "date": "7/25/2023",
+    "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/217603s000lbl.pdf",
+    "appl": "217603"
+  },
+  {
+    "no": 30,
+    "name": "Zurzuvae",
+    "ingr": "zuranolone",
+    "date": "8/4/2023",
+    "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/217369s000lbl.pdf",
+    "appl": "217369"
+  },
+  {
+    "no": 31,
+    "name": "Izervay",
+    "ingr": "avacincaptad pegol",
+    "date": "8/4/2023",
+    "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/217225s000lbl.pdf",
+    "appl": "217225"
+  },
+  {
+    "no": 32,
+    "name": "Talvey",
+    "ingr": "talquetamab-tgvs",
+    "date": "8/9/2023",
+    "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/761342s000lbl.pdf ",
+    "appl": "761342"
+  },
+  {
+    "no": 33,
+    "name": "Elrexfio",
+    "ingr": "elranatamab-bcmm",
+    "date": "8/14/2023",
+    "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/761345Orig1s000lbl.pdf",
+    "appl": "761345"
+  },
+  {
+    "no": 34,
+    "name": "Sohonos",
+    "ingr": "palovarotene",
+    "date": "8/16/2023",
+    "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/215559s000lbl.pdf",
+    "appl": "215559"
+  },
+  {
+    "no": 35,
+    "name": "Veopoz",
+    "ingr": "pozelimab-bbfg",
+    "date": "8/18/2023",
+    "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/761339s000lbl.pdf",
+    "appl": "761339"
+  },
+  {
+    "no": 36,
+    "name": "Aphexda",
+    "ingr": "motixafortide",
+    "date": "9/8/2023",
+    "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/217159s000lbl.pdf ",
+    "appl": "217159"
+  },
+  {
+    "no": 37,
+    "name": "Ojjaara",
+    "ingr": "momelotinib",
+    "date": "9/15/2023",
+    "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/216873s000lbl.pdf ",
+    "appl": "216873"
+  },
+  {
+    "no": 38,
+    "name": "Exxua",
+    "ingr": "gepirone",
+    "date": "9/22/2023",
+    "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/021164s000lbl.pdf",
+    "appl": "021164"
+  },
+  {
+    "no": 39,
+    "name": "Pombiliti",
+    "ingr": "cipaglucosidase alfa-atga",
+    "date": "9/28/2023",
+    "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/761204s000lbl.pdf",
+    "appl": "761204"
+  },
+  {
+    "no": 40,
+    "name": "Rivfloza",
+    "ingr": "nedosiran",
+    "date": "9/29/2023",
+    "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/215842s000lbl.pdf",
+    "appl": "215842"
+  },
+  {
+    "no": 41,
+    "name": "Velsipity",
+    "ingr": "etrasimod",
+    "date": "10/12/2023",
+    "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/216956s000lbl.pdf",
+    "appl": "216956"
+  },
+  {
+    "no": 42,
+    "name": "Zilbrysq",
+    "ingr": "zilucoplan",
+    "date": "10/17/2023",
+    "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/216834s000lbl.pdf",
+    "appl": "216834"
+  },
+  {
+    "no": 43,
+    "name": "Bimzelx",
+    "ingr": "bimekizumab",
+    "date": "10/17/2023",
+    "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/761151s000lbl.pdf",
+    "appl": "761151"
+  },
+  {
+    "no": 44,
+    "name": "Agamree",
+    "ingr": "vamorolone",
+    "date": "10/26/2023",
+    "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/215239s000lbl.pdf",
+    "appl": "215239"
+  },
+  {
+    "no": 45,
+    "name": "Omvoh",
+    "ingr": "mirikizumab-mrkz",
+    "date": "10/26/2023",
+    "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/761279s000lbl.pdf ",
+    "appl": "761279"
+  },
+  {
+    "no": 46,
+    "name": "Loqtorzi",
+    "ingr": "toripalimab-tpzi",
+    "date": "10/27/2023",
+    "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/761240s000lbl.pdf",
+    "appl": "761240"
+  },
+  {
+    "no": 47,
+    "name": "Fruzaqla",
+    "ingr": "fruquintinib",
+    "date": "11/8/2023",
+    "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/217564s000lbl.pdf",
+    "appl": "217564"
+  },
+  {
+    "no": 48,
+    "name": "Defencath",
+    "ingr": "taurolidine, heparin",
+    "date": "11/15/2023",
+    "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/214520s000lbl.pdf",
+    "appl": "214520"
+  },
+  {
+    "no": 49,
+    "name": "Augtyro",
+    "ingr": "repotrectinib",
+    "date": "11/15/2023",
+    "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/218213s000lbl.pdf",
+    "appl": "218213"
+  },
+  {
+    "no": 50,
+    "name": "Ryzneuta",
+    "ingr": "efbemalenograstim alfa-vuxw",
+    "date": "11/16/2023",
+    "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/761134s000lbl.pdf",
+    "appl": "761134"
+  },
+  {
+    "no": 51,
+    "name": "Truqap",
+    "ingr": "capivasertib",
+    "date": "11/16/2023",
+    "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/218197s000lbl.pdf",
+    "appl": "218197"
+  },
+  {
+    "no": 52,
+    "name": "Ogsiveo",
+    "ingr": "nirogacestat",
+    "date": "11/27/2023",
+    "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/217677s000lbl.pdf",
+    "appl": "217677"
+  },
+  {
+    "no": 53,
+    "name": "Fabhalta",
+    "ingr": "iptacopan",
+    "date": "12/5/2023",
+    "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/218276s000lbl.pdf",
+    "appl": "218276"
+  },
+  {
+    "no": 54,
+    "name": "Filsuvez",
+    "ingr": "birch triterpenes",
+    "date": "12/18/2023",
+    "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/215064s000lbl.pdf",
+    "appl": "215064"
+  },
+  {
+    "no": 55,
+    "name": "Wainua",
+    "ingr": "eplontersen",
+    "date": "12/21/2023",
+    "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/217388s000lbl.pdf",
+    "appl": "217388"
+  }
+]

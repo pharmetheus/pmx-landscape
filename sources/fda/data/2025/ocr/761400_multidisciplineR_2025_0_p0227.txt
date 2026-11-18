@@ -1,0 +1,72 @@
+NDA/BLA Multi-disciplinary Review and Evaluation Biologics License Application 761400
+linvoseltamab
+
+Figure 13: Geometric Mean Ratio of Week 13 Total Linvoseltamab AUC Across
+Patient Covariates Following Proposed 5/25/200 mg Dosage Regimen
+
+AUC Week 13 (mg*day/L)
+Albumin Baseline (gL)
+
+(18.234) ' :
+(34,38) : —_ | +
+8. : i
+(aay ! ———
+IgG Basins by ubiype (gh)
+commer [03,1961 : ———$§£
+Other (1.98,2.2] : —_
+Other 2.4.94] H ee
+ter 494,173} 1
+ig6 (0.80.11.8) : {_,_i_
+loG (11.8.22.3 —.—_—_. i
+loo 22.338.) ——_—__}
+lo¢ (20.3645), | ——»—— i
+Toll ee ip chains Bane (@)
+[853,180] : {1
+(180.548) i
+(645.1170 oo
+(1,17e+03,4,01¢+04) =
+= :
+u :
+F i a
+WegRTST
+[4.2.64] :
+eam i
+(7790) —+-—_—_—_
+(90,165) ;
+
+os 10 15
+Geometric Mean Ratio [90% confidence interval]
+
+Note: continuous covariates are displayed as quartiles. Simulated exposure displayed for 282 patients with
+RRMM in Study R5458-ONC-1826 with population PK data.
+
+AUC = area under the concentration-versus-time curve; F=female; M=male; RRMM = relapsed or refractory
+multiple myeloma.
+
+Source: Reviewer's analysis of Applicant's response to 8Feb2024 IR and Applicant's linvo_exposure_sims-
+run5200_rmd.txt (seqn0008)
+
+Table 67: FDA - Simulated Geometric Mean Week 13 Total Linvoseltamab Exposure
+by Body Weight Subgroup in Study R5458-ONC-1826 Following Proposed 5/25/200
+mg Dosage Regimen
+
+% Geometric Mean Difference
+44.2 to <55 kg | 100 kg and above
+Week 13 44.2to<55kg | 55to<100kg | 100kgand above versus versus
+Exposure Metric (n=25) (n=227) (n=30) 55 to <100 kg 55 to <100 kg
+Ctrough (mg/L) 97.4 83.5 66.4 16.6% higher 20.5% lower
+Cmax (mg/L) 150 137 145 9.5% higher 5.8% higher
+AUC (mg*day/L) 828 710 566 16.6% higher 20.3% lower
+AUC = area under the concentration-versus-time curve; Cmax= maximum concentration; Ctrough = trough
+concentration.
+
+Source: Reviewer's analysis of Applicant's response to 8Feb2024 IR and Applicant's linvo_exposure_sims-
+run5200_rmd.txt (seqn0008)
+
+192
+
+Version date: August 2023 (ALL NDA/BLA reviews)
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are
+completed by the Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5432800

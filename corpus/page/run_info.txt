@@ -1,0 +1,10 @@
+built: 2026-11-10
+items: 6900 (1992 to 2026)
+coverage: abstract page 6046; abstract page and poster 854
+sections: 31415, 48.7 million characters
+listing: PAGE sitemaps of 2026-09-26; retrieved = date of the cached page
+items without a sitemap URL: 0
+pages without the abstract layout, skipped: mixed-effects-modeling-to-quantify-the-effect-of-empagliflozin-exposure-on-the-renal-glucose-threshold-in-patients-with-type-2-diabetes-mellitus.html
+duplicate abstract numbers, later file skipped: 
+posters: the cached PDFs (fetched only for abstracts whose page names no estimation tool)
+poster text: pdftools 3.3.3 (poppler 26.01.0), OCR of image-only pages by tesseract 5.5.0

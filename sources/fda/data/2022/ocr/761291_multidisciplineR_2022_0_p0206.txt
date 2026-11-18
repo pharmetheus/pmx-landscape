@@ -1,0 +1,130 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {BLA 761291}
+
+teclistamab
+
+19.4.3.2
+
+The Applicant’s Positio
+
+E-R Efficacy Assessment Summary
+
+General Information
+
+Goal of ER analysis
+
+Explore the E-R relationship for selected efficacy endpoints, focusing
+on the primary endpoint of ORR, and other efficacy endpoints
+including DOR, PFS, and OS
+
+Study Included
+
+64007957MMY1001
+
+Endpoint
+
+Primary: RP2D ORR
+Secondary: Phase 1 ORR and RP2D PFS, DOR, and OS
+
+No. of Patients (total, and with
+individual PK)
+
+-Efficacy Analysis Set for pivotal RP2D: 150 patients (IRC assessment
+based on IMWG 2016 criteria)
+
+-Phase 1 ORR: 72 patients (investigator assessment based on IMWG
+2011 criteria)
+
+Population General
+Characteristics
+
+(Table 24)
+
+“Age median (range): 64.5 (33-84) years
+
+-Weight median (range): 72.5 (41-139) kg
+
+-88 (58.7%) male; 62 (41.3%) female
+
+-134 (89.3%) White; 6 (4.0%) Black or African American
+
+Pediatrics (if any)
+
+Not applicable
+
+Dose(s) Included
+
+-RP2D: 1.5 mg/kg SC administered weekly, with the first treatment
+dose preceded by step-up doses of 0.06 and 0.3 mg/kg
+-Phase 1: SC from 0.08 mg/kg to 3 mg/kg weekly
+
+Exposure Metrics Explored (range)
+
+* — Predicted average concentration of the first treatment dose
+(Cove, 1stdose)
+
+* Predicted trough concentration after the first 4 weekly
+treatment doses (Ctrough,4doses), ie, predose concentration of the
+fifth weekly treatment dose
+
+Covariates Evaluated
+
+Body weight, type of myeloma [IgG versus non IgG], ISS, cytogenetic
+risk, bone marrow percent plasma cells, extramedullary
+plasmacytoma, soluble BCMA, total T cells, CD4+ T cells, CD8+ T cell,
+PD1 expression, and CD25 expression
+
+Final Model Parameters
+
+Summary Acceptability
+
+[FDA’s comments]
+
+Model Structure
+
+Logistic Regression Analysis
+
+Model Parameter Estimates
+
+Table 26 for RP2D ORR
+
+Table 27 for RP2D PFS, DOR and OS
+(for primary and major secondary
+endpoints)
+
+Multivariate analysis
+
+received the RP2D
+(n=150) indicated that
+
+Model Evaluation
+
+baseline sBCMA and
+baseline PD1
+expression may be
+associated with ORR
+(Table 26).
+
+© AnE-R trend was observed for ORR
+assessed by the investigator based on
+IMWG 2011 criteria in SC subjects in
+Phase 1 (Phase 1 ORR) where ORR
+increased with teclistamab exposure
+across SC doses ranging from 0.08 to 3
+mg/kg weekly, approaching plateau at
+the RP2D.
+
+© Near flat E-R trend for ORR assessed by
+IRC based on IMWG 2016 criteria in
+subjects who received the RP2D
+regimen (RP2D ORR). Responders and
+
+of ORR in patients who
+
+Version date: January 2020 (ALL NDA/ BLA reviews)
+
+205
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5065872

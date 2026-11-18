@@ -1,0 +1,19 @@
+"source","family","candidates","used_rules_only_low","used_rules_only_high","used"
+"Europe PMC","NONMEM",2414,1283,2414,2258
+"Europe PMC","Monolix",453,144,453,386
+"Europe PMC","Phoenix NLME",215,96,215,197
+"Europe PMC","Pmetrics",127,44,127,111
+"Europe PMC","nlme",65,10,65,56
+"Europe PMC","Stan/Torsten",49,4,49,33
+"PAGE","NONMEM",2978,1393,2978,2804
+"PAGE","Monolix",547,162,547,483
+"PAGE","Phoenix NLME",35,6,35,27
+"PAGE","Pmetrics",14,3,14,12
+"PAGE","nlme",53,1,53,35
+"PAGE","Stan/Torsten",58,6,58,54
+"PubMed","NONMEM",1082,499,1082,1059
+"PubMed","Monolix",236,122,236,230
+"PubMed","Phoenix NLME",91,52,91,89
+"PubMed","Pmetrics",117,55,117,115
+"PubMed","nlme",19,2,19,16
+"PubMed","Stan/Torsten",9,0,9,8

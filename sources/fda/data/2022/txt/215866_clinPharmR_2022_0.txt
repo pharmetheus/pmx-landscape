@@ -1,0 +1,4068 @@
+CENTER FOR DRUG EVALUATION AND
+RESEARCH
+APPLICATION NUMBER:
+
+215866Orig1s000
+CLINICAL PHARMACOLOGY
+REVIEW(S)
+
+Office of Clinical Pharmacology Review
+
+NDA Number
+Link to EDR
+Submission Date
+Submission Type
+Brand Name
+Generic Name
+Dosage Form and Strength
+
+Route of Administration
+Proposed Indication
+
+Applicant
+Associated IND
+OCP Review Team
+
+OCP Final Signatory
+
+215866
+\\CDSESUB1\evsprod\NDA215866
+09/15/2021
+Priority review
+Mounjaro
+Tirzepatide
+Solution for injection as pre-filled single-dose pen.
+Strengths: 2.5mg/0.5mL, 5mg/0.5mL, 7.5mg/0.5mL,
+10 mg/0.5mL, 12.5 mg/mL, 15mg/0.5mL
+
+Subcutaneous Injection
+As an adjunct to diet and exercise to improve
+glycemic control in adults with type 2 diabetes
+mellitus
+Eli Lilly and Company
+128801
+Division of Cardiometabolic and Endocrine
+Pharmacology (DCEP): Mohamad Kronfol, Ph.D.;
+Jayabharathi Vaidyanathan, Ph.D.
+Pharmacometrics: Elyes Dahmane Ph.D.; Justin Earp
+Ph.D.
+PBPK: Yuching Yang Ph.D.; Manuela Grimstein Ph.D.
+Shirley Seo Ph.D.
+
+1
+
+Reference ID: 4954959
+
+Table of Contents
+1. EXECUTIVE SUMMARY .............................................................................................................................. 5
+1.1 Recommendations .............................................................................................................................. 5
+1.2 Post-Marketing Requirements and Commitments ............................................................................. 6
+2. SUMMARY OF CLINICAL PHARMACOLOGY ASSESSMENT......................................................................... 6
+2.1 Pharmacology and Clinical Pharmacokinetics..................................................................................... 6
+2.2 Dosing and Therapeutic Individualization........................................................................................... 7
+2.2.1 General dosing ............................................................................................................................. 7
+2.2.2 Therapeutic individualization....................................................................................................... 7
+2.3 Outstanding Issues .............................................................................................................................. 7
+2.4 Summary of Labeling Recommendations ........................................................................................... 7
+3. COMPREHENSIVE CLINICAL PHARMACOLOGY REVIEW ............................................................................ 7
+3.1 Overview of the Product and Regulatory Background ....................................................................... 7
+3.2 General Pharmacology and Pharmacokinetic Characteristics ............................................................ 8
+3.3 Clinical Pharmacology Review Questions ........................................................................................... 9
+3.3.1 To what extent does the available clinical pharmacology information provide pivotal or
+supportive evidence of effectiveness? ................................................................................................. 9
+3.3.2 Is the proposed dosing regimen appropriate for the general patient population for which the
+indication is being sought? ................................................................................................................. 11
+3.3.3 Is an alternative dosing regimen and/or management strategy required for subpopulations
+based on intrinsic factors? .................................................................................................................. 12
+3.3.4 Are there clinically relevant food-drug or drug-drug interactions and what is the appropriate
+management strategy? ....................................................................................................................... 13
+3.3.5. Is the Clinical Phase 3 trial formulation of tirzepatide bioequivalent to the to-be-marketed
+formulation? ....................................................................................................................................... 16
+4. APPENDICES ............................................................................................................................................ 16
+4.1. Clinical PK and/or PD Assessments .................................................................................................. 16
+4.2 In Vitro Studies .................................................................................................................................. 33
+4.3 Summary of Bioanalytical Method Validation and Performance ..................................................... 35
+4.4 Pharmacometrics Review ................................................................................................................. 46
+4.5 Physiologically based Pharmacokinetic Modeling and Simulation Review ...................................... 98
+
+2
+
+Reference ID: 4954959
+
+List of Figures
+Figure 1 Change from Baseline in Fasting Glucose and Hb1Ac at Week 52, Across Tirzepatide Doses
+of 5, 10 and 15 mg ................................................................................................................................................................. 10
+Figure 2 Change from Baseline in Total Body Weight, Across Tirzepatide Doses of 5, 10 and 15 mg
+....................................................................................................................................................................................................... 10
+
+Figure 3 Mean tirzepatide plasma concentration-time profiles following SC administration on a
+linear and semi-log scale – Part A Study GPGA ......................................................................................................... 19
+
+Figure 4 Mean tirzepatide plasma concentration-time profiles following SC administration on a
+linear and semi-log scale for Day 22 – Part B Study GPGA ................................................................................... 20
+
+Figure 5 Mean tirzepatide plasma concentration-time profiles following last SC administration on
+Day 22 in patients with T2DM on a linear and semi-log scale - Part C Study GPGA .................................. 20
+
+Figure 6 Mean tirzepatide plasma concentration time profiles following SC administration on Day
+50 on a linear and semi-log scale in Study GPGC...................................................................................................... 23
+
+Figure 7 Mean insulin concentration 0-120 minutes during hyperglycemic clamp at baseline and
+Week 28 in Study GPGT ...................................................................................................................................................... 28
+
+Figure 8 Blood glucose concentrations during standardized mixed-meal tolerance test in Study
+GPGT ........................................................................................................................................................................................... 28
+
+Figure 9 Glucagon concentration during standardized mixed-meal tolerance test in Study GPGT .... 29
+
+3
+
+Reference ID: 4954959
+
+List of Tables
+Table 1 General Clinical Pharmacokinetics of tirzepatide....................................................................................... 6
+Table 2 Geometric Mean Ratios of PK Parameter of Oral Contraceptive with and without tirzepatide
+in Study GPGR ......................................................................................................................................................................... 15
+
+Table 3 Tirzepatide PK Parameters on Day 1 in Study GPGA Part A Single Ascending Dose .........................18
+Table 4 Tirzepatide PK Parameters on Day 22 in Study GPGA Part B Multiple Ascending Dose ......... 18
+Table 5 Tirzepatide PK Parameters of on Day 22 in Study GPGA Part C Multiple Dose .......................... 19
+
+Table 6 Tirzepatide PK Parameters on Day 50 in Study GPGC ........................................................................... 22
+Table 7 Description of Study GPGE Parts A through D .......................................................................................... 24
+
+Table 8 PK Parameters of tirzepatide following single 5 mg SC Administration as lyophilized or
+solution formulation in Study GPGE Part A ................................................................................................................ 25
+
+Table 9 PK Parameters of tirzepatide following SC Administration 5/5/7.5/10 mg in Study GPGE
+Part C .......................................................................................................................................................................................... 25
+
+Table 10 PK Parameters of Tirzepatide and absolute bioavailability Following Intravenous
+Administration in Study GPGE Part D .......................................................................................................................... 25
+
+Table 11 Regulatory background pertaining to Clinical Pharmacology ......................................................... 31
+
+Table 12 Index of Studies and Analyses in the Clinical Pharmacology Program ........................................ 32
+
+Table 13 Summary In vitro evaluation of tirzepatide as an inhibitor of human CYP enzymes ......... 34
+
+Table 14 Bioanalytical method validation summary ............................................................................................. 37
+
+4
+
+Reference ID: 4954959
+
+1. EXECUTIVE SUMMARY
+The Applicant, Eli Lilly and Company, submitted NDA 215866 on September 15, 2021,
+seeking approval of tirzepatide (Mounjaro) as an adjunct to diet and exercise to improve glycemic
+control in adults with Type 2 Diabetes Mellitus (T2DM).
+
+Tirzepatide is an agonist at the glucose-dependent insulinotropic polypeptide (GIP) and
+glucagon-like peptide-1 (GLP-1) receptors developed for the once-weekly treatment of adults with
+T2DM. Tirzepatide is a 39 amino acid synthetic peptide engineered from the GIP sequence and
+includes a C20 fatty diacid moiety. Based on known physiology and pharmacology of GIP and GLP-1,
+dual signaling is proposed to result in improved control of carbohydrate and lipid metabolism and
+body weight in patients with T2DM.
+
+The to-be-marketed tirzepatide (Mounjaro) is a solution for injection as pre-filled singledose pen (SDP). The development program consists of pharmacokinetics (PK), pharmacodynamics
+(PD), tolerability, and pivotal efficacy and safety trials in adult patients.
+
+1.1 Recommendations
+
+The Office of Clinical Pharmacology/Division of Cardiometabolic and Endocrine
+Pharmacology (OCP/ DCEP) reviewed the clinical pharmacology data submitted in NDA 215866
+and found it acceptable. The application is approvable from a clinical pharmacology perspective.
+Review Issue
+
+Recommendations and Comments
+
+Pivotal or supportive
+evidence of effectiveness
+
+Five pivotal trials GPGK, GPGL, GPGH, GPGM, and GPGI provide
+primary evidence of tirzepatide effectiveness and safety for adult
+patients with T2DM either as monotherapy or in combination with
+other anti-diabetic agents. Patients with T2DM treated with
+tirzepatide as monotherapy showed significant -1.7% to -1.8%
+reductions from baseline in HbA1c compared to -0.1% in those taking
+placebo.
+
+General dosing
+instructions
+
+Dosing in patient
+subgroups (intrinsic and
+extrinsic factors)
+Labeling
+
+•
+
+Start at 2.5 mg once weekly. After 4 weeks, increase the dose to 5
+mg once weekly
+• If needed, dose increases can be made in 2.5 mg increments after a
+minimum of 4 weeks on the current dose, up to 15 mg
+• Administer once weekly at any time of day, with or without meals
+• If a dose is missed administer within 4 days of missed dose
+• Inject subcutaneously in the abdomen, thigh, or upper arm
+None of the patient subgroups based on intrinsic factors like age,
+gender, race, ethnicity, body weight, renal impairment, or hepatic
+impairment have specific dosing recommendations. Tirzepatide delays
+gastric emptying and thereby has the potential to impact the
+absorption of concomitantly administered oral medications.
+Refer to Section 2.4.
+5
+
+Reference ID: 4954959
+
+Bridge between the tobe-marketed and clinical
+trial formulations
+
+The relative bioavailability (BA) of the single-dose pen (SDP)
+presentation (to-be-marketed presentation) used in the phase 3 trials
+was assessed in a dedicated study GPGS and showed comparable BA
+with the prefilled syringe (PFS) presentation used in the phase 3 study
+GPGM
+
+1.2 Post-Marketing Requirements and Commitments
+None
+
+2. SUMMARY OF CLINICAL PHARMACOLOGY ASSESSMENT
+2.1 Pharmacology and Clinical Pharmacokinetics
+Tirzepatide is a peptide with agonist activity at the glucose-dependent insulinotropic
+polypeptide (GIP) and glucagon-like peptide-1 (GLP-1) receptors. Tirzepatide has high affinity to
+both the GIP and GLP-1 receptors. The agonism is expected to result in control of HbA1c and body
+weight. Tirzepatide increases insulin secretion, and reduces glucagon levels, both in a glucosedependent manner. Tirzepatide slows gastric emptying and this effect diminishes over time.
+General Clinical Pharmacokinetics is summarized in Table 1
+Table 1 General Clinical Pharmacokinetics of tirzepatide
+Absorption
+
+Distribution
+Metabolism
+Elimination
+
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+
+PK is dose proportional in the dose ranging from 0.25-15 mg based on
+population PK (popPK) analysis
+The time to reach maximum plasma concentration (tmax) ranges from 8 to
+72 hours
+Absolute bioavailability is approximately 80%
+Plasma Protein Binding is 99%
+Apparent Volume of Distribution at steady state (Vdss) is 10.3 L
+Steady State is reached at 4 weeks after once-weekly administration
+Proteolytic cleavage of the peptide backbone, beta-oxidation of the C20
+fatty diacid moiety and amide hydrolysis
+Plasma Clearance (CL) is 0.061 L/h
+Terminal half-life (t1/2) is approximately 5 days
+Renal excretion is the primary route of elimination. Intact parent is not
+detected in urine or feces. Approximately 70% of radiolabeled dose
+recovered as metabolites in urine (50%) and feces (20%)
+
+6
+
+Reference ID: 4954959
+
+Clinical Pharmacology part of the program included Relative Bioavailability (BA), Single- and
+Multiple-Ascending Dose (SAD/MAD), Disposition of radioactivity, hepatic and renal impairment,
+DDI, and Pharmacodynamic (PD) studies, as well as PopPK and E-R reports (See Table 12 in the
+Appendix 4.1). The intended commercial SDP presentation was used in all phase 3 trials except one
+(18F-MC-GPGM used the PFS) and the Applicant conducted a relative BA study 18F-MC-GPGS to
+bridge the PFS to the SDP presentation.
+
+3.2 General Pharmacology and Pharmacokinetic Characteristics
+
+Tirzepatide is a synthetic 39 amino acid single peptide with agonist activity at the GIP and
+GLP-1 receptors. Tirzepatide has high affinity to both the GIP and GLP-1 receptors. The activity of
+tirzepatide on the GIP receptor is similar to native GIP hormone. The activity of tirzepatide on the
+GLP-1 receptor is lower compared to native GLP-1 hormone. At the GLP-1 receptor, tirzepatide is a
+biased agonist with preferential signaling towards the activation of adenylyl cyclase as opposed to
+the recruitment of β-arrestin. Tirzepatide is expected to result in control of HbA1c and body weight.
+Tirzepatide increases first- and second-phase insulin secretion, and reduces glucagon levels, both in
+a glucose-dependent manner. In patients with T2DM, tirzepatide improves insulin sensitivity.
+Tirzepatide slows gastric emptying and this effect diminishes over time. Tirzepatide decreases food
+intake.
+
+The pharmacokinetics of tirzepatide is similar between healthy subjects and patients with
+T2DM based on population PK analysis after taking body weight into account. Steady state plasma
+tirzepatide concentrations are achieved following 4 weeks of once weekly administration.
+
+Absorption
+
+The mean absolute bioavailability of tirzepatide following subcutaneous (SC)
+administration when compared to IV bolus is 80.9% (Study GPGE, Part D).
+
+In Study GPGA, following multiple SC administration for 4 weeks of 0.5 mg (QW), 5 mg
+(QW), 5/5/10/10 mg, and 5/5/10/15 mg to patients with T2DM, tmax ranges from 24 to 72 hours.
+Mean (CV%) Cmax ranges from 54.6 (28) to 1250 (20) ng/mL. Mean (CV%) AUC0-tau ranged from
+7200 (30) to 164000 (14) h*ng/mL. Mean t1/2 in patients with T2DM was approximately 5 days,
+supporting a QW dosing regimen. Multiple QW doses over a 4-week duration resulted in an
+accumulation ratio of 1.6 in patients with T2DM, based on AUC0-tau.
+
+Population PK analysis included PK data from phase 1, 2, and 3 studies and shows that
+tirzepatide exposure increased dose-proportionally over the dose range of 0.25 to 15 mg. Following
+multiple dose administration of tirzepatide 5, 10, and 15 mg, the mean (CV%) steady state peak
+plasma concentration (Cmax,ss) was 664 (22.4), 1340 (22.8), and 1990 (22) ng/mL, while average
+systemic exposure (Cavg,ss) of tirzepatide was 495 (22.7), 998 (23), and 1480 (22.2) ng/mL,
+respectively. Following multiple dose administration of tirzepatide 5, 10, and 15 mg, the mean
+(CV%) AUC was 83300 (22.7), 168000 (23), 250000 (22.2) ng*h/mL Accumulation ratio based on
+Cavg,ss was approximately 1.7.
+8
+
+Reference ID: 4954959
+
+Distribution
+The mean apparent steady-state volume of distribution of tirzepatide following
+subcutaneous administration in patients with T2DM is approximately 10.3 L. Tirzepatide is highly
+bound to plasma albumin (99%).
+Metabolism
+
+Tirzepatide is primarily metabolized by proteolytic cleavage of the peptide backbone, betaoxidation of the C20 fatty diacid moiety and amide hydrolysis. In Study GPHX, tirzepatide was the
+largest component in plasma accounting for approximately 80% of the circulating radioactivity. The
+4 minor metabolites in plasma resulting from proteolytic cleavage of the peptide backbone each
+individually accounted for less than 5.7% of total circulating radioactivity.
+Elimination
+
+The apparent population mean clearance of tirzepatide is 0.061 L/h with an elimination
+half-life of approximately 5 days, enabling once-weekly dosing.
+
+Tirzepatide is eliminated by metabolism. The primary excretion routes of tirzepatide
+metabolites are via urine and feces. Intact tirzepatide is not observed in urine or feces. In Study
+GPHX, the mean total recovery of administered radioactivity was approximately 70%, from which
+approximately 50% of the administered radioactivity was excreted in urine and approximately
+20% was excreted in feces.
+Specific Populations
+
+The intrinsic factors of age, gender, race, ethnicity, body weight, or renal or hepatic
+impairment do not have a clinically relevant effect on the PK of tirzepatide.
+
+3.3 Clinical Pharmacology Review Questions
+
+3.3.1 To what extent does the available clinical pharmacology information provide pivotal or
+supportive evidence of effectiveness?
+The Clinical Pharmacology data provide supportive evidence of effectiveness for tirzepatide
+as an adjunct to diet and exercise to improve glycemic control in adults with T2DM. Refer to Table
+12 in Appendix 4.1, for the list of clinical studies conducted. In the Pharmacodynamic (PD) Study
+GPGT, tirzepatide 15 mg enhanced the first- and second-phase insulin secretion rate, reduced
+fasting and postprandial glucagon secretion, fasting glucose, and food intake (see Appendix 4.1).
+Fasting Glucose (FG) and HbA1c, and body weight data from multiple studies (seven phase 3 and
+two phase 2 studies, up to a duration of 104 weeks – see Appendix 4.4) were used to characterize
+the PK/PD relationship. The population FG-HbA1c model developed for phase 2 Studies GPGB and
+GPGF in patients with T2DM adequately described FG and HbA1c time course for phase 3 studies.
+The population PK/PD model was used to predict the dose-response relationship after 52 weeks of
+treatment. The dose-response relationship shows that the effect of tirzepatide on FG and HbA1c
+(Figure 1) and body weight (Figure 2) increased with increasing tirzepatide doses of 5, 10, and 15
+9
+
+Reference ID: 4954959
+
+mg QW (See details of PK/PD modeling in Appendix 4.4). The implementation of stepwise doseescalation scheme starting at 2.5-mg dose for 4 weeks, followed by increases in doses by 2.5-mg
+increments every 4 weeks to attain maintenance dose levels of 5, 10, and 15 mg in phase 3 studies,
+appears to have mitigated the incidence of GI AEs. This resulted in fewer discontinuations due to GI
+AEs in the phase 3 program, especially at the 10- and 15-mg doses, that were noted in phase 2
+Study GPGB.
+
+Figure 1 Change from Baseline in Fasting Glucose and Hb1Ac at Week 52, Across Tirzepatide Doses
+of 5, 10 and 15 mg
+
+(Source: Applicant’s Population PK/D Report, Figure 10.8, page 129)
+
+Figure 2 Change from Baseline in Total Body Weight, Across Tirzepatide Doses of 5, 10 and 15 mg
+
+(Source: Applicant’s Population PK/D Report, Figure 10.11, page 133)
+
+10
+
+Reference ID: 4954959
+
+3.3.2 Is the proposed dosing regimen appropriate for the general patient population for which
+the indication is being sought?
+Yes, the proposed dosing regimen is appropriate for the proposed indication. The dosing
+regimen is to start at 2.5 mg once weekly. After 4 weeks, increase the dose to 5 mg once weekly. If
+needed, dose increases can be made in 2.5 mg increments after a minimum of 4 weeks on the
+current dose, up to 15 mg. Administer once weekly at any time of day, with or without meals. If a
+dose is missed administer within 4 days of missed dose. Inject subcutaneously in the abdomen,
+thigh, or upper arm.
+
+The results of the phase 2 Study GPGB suggested that while promising efficacy (up to 2.4%
+HbA1c lowering and up to 11.3-kg body weight loss) was noted in the dose range of 5 to 15 mg, the
+escalation steps to attain 10- and 15-mg doses were not optimal and resulted in several
+discontinuations attributed to GI tolerability events. Therefore, an additional 12-week Study GPGF
+was implemented to investigate alternate less intensive dose-escalation schemes, starting at doses
+as low as 2.5 mg and attaining 12 or 15 mg within 12 weeks. The results of the phase 2 Study GPGF
+suggested that although robust efficacy results (up to 2% HbA1c lowering and 5.7-kg body weight
+loss) was attained, starting treatment on lower doses and escalating dose levels in smaller
+increments may reduce discontinuations due to GI events. This study, together with Study GPGB,
+provided data to support the final dose selection and dose-escalation regimen for phase 3
+development.
+The phase 3 studies demonstrated effectiveness of tirzepatide when given as monotherapy
+and in combination with background metformin, oral antidiabetic medication, or insulin. Dosedependent changes in HbA1c and body weight were observed. For final efficacy and safety
+conclusions on the pivotal phase 3 studies refer to Clinical review in DARRTS.
+
+The Exposure-Response analysis for safety characterized the effect of tirzepatide on the
+probability of occurrence of nausea, vomiting or diarrhea adverse events (AEs). The PK/PD model
+was reasonable to describe the occurrence of nausea, vomiting, and diarrhea and the development
+of tolerance over time during chronic treatment. According to the phase 3 studies data, no
+alternative dose titration appeared to be required based on specific demographics. In addition, the
+current dosing regimen appears to have mitigated the incidence of gastrointestinal AEs. The
+majority of nausea, vomiting, and diarrhea AEs were reported during the dose-escalation phase,
+and their incidence decreased with time with a prevalence <10% once steady-state concentrations
+for the maintenance doses were attained (See Appendix 4.4).
+
+No dedicated tQT study was conducted, in part due to challenges with the long half-life of
+tirzepatide and titration schedule to achieve steady-state concentrations associated with the
+highest dose. The submitted non-clinical and clinical data (concentration-QT analysis using ECG
+readings from Phase 1 and 2 Studies GPGA, GPGB, & GPGF, and Phase 3 studies) do not indicate any
+unexpected or important effects of tirzepatide on the QTc interval at clinically relevant exposures
+associated with the proposed dose (i.e., up to 15 mg once weekly). See review by QT-IRT review
+team dated 02/16/2022 in DARRTS.
+11
+
+Reference ID: 4954959
+
+Across seven phase 3 clinical studies, 51.1% of evaluable treated patients developed TE
+ADA during the planned treatment period. Approximately 66% and 27% of ADA+ patients showed
+cross-reactivity with native GIP (nGIP) and native GLP-1 (nGLP-1). The development of antidrug
+antibody was not associated with an altered PK profile or an impact on efficacy or safety of the drug
+(Refer to Immunogenicity review on 2/15/22 in DARRTS). The population PK analysis showed no
+statistically significant relationship between ADA and CL.
+
+The handling of missed dose was assessed in the population PK analysis. Administration of
+tirzepatide dose within 4 days of the missed dose resulted in <20% increase in Cmax associated with
+the subsequent scheduled dose. If more than 4 days have passed, it is recommended that the missed
+dose be skipped and to resume the regular weekly (QW) dosing schedule by administering
+tirzepatide on the next regularly scheduled day. The Applicant’s proposal to administer tirzepatide
+as soon as possible within 4 days (96 hours) of a missed dose, otherwise to skip the dose (if more
+than 4 days has passed) before resuming the regular weekly regimen is acceptable.
+3.3.3 Is an alternative dosing regimen and/or management strategy required for
+subpopulations based on intrinsic factors?
+
+No dose adjustment is necessary for age, gender, body weight, race, renal or hepatic
+impairment, and drug interaction.
+Renal Impairment (RI)
+
+The effect of renal impairment on the PK of tirzepatide was assessed in a dedicated Study
+GPGG. Participants were assigned to the control group, or a RI group based on estimated
+glomerular filtration rate (eGFR) values calculated using the modification of diet in renal disease
+abbreviated equation. No clinically relevant effects on the PK were observed based on AUC, Cmax,
+and t1/2 of a single SC dose of 5 mg tirzepatide for participants with mild, moderate, or severe RI or
+end stage renal disease (ESRD) when compared to participants with normal renal function.
+
+In addition, phase 3 trials included subjects with different degrees of renal impairment
+(mild, moderate, severe, and ESRD) and based on population PK analysis, no effect of renal
+impairment on tirzepatide PK was observed. Coupled with the dedicated RI trial, no dose
+adjustment is warranted in patients with renal impairment.
+Hepatic Impairment (HI)
+
+The effect of hepatic impairment on the PK of tirzepatide was assessed in a dedicated Study
+GPGQ. Participants were assigned to the control group, or a HI group Child-Pugh (CP) classification,
+with mild (CP-A), moderate (CP-B), and severe (CP-C) hepatic impairment. No clinically relevant
+effects on the PK were observed based on AUC, Cmax, and tmax of a single SC dose of 5 mg tirzepatide
+for participants with mild, moderate, or severe HI when compared to participants with normal
+hepatic function.
+
+12
+
+Reference ID: 4954959
+
+Effect of Body Mass Index (BMI) and Injection site on PK
+No dose adjustments are warranted based on differences in BMI and no specific
+recommendations are needed based on different injection sites. The effect of BMI and injection site
+on the PK of tirzepatide was assessed in a dedicated Study GPHI. PK in participants with a high BMI
+(27.1 to 45.0 kg/m2; N = 27) were compared to participants with a low BMI (18.5 to 27.0 kg/m2; N =
+27). Participants in each BMI group were randomized to 1 of 3 injection site sequences and
+received 3 single 5 mg SC injections of tirzepatide into the upper arm (test 1), the thigh (test 2), and
+the abdomen (reference). No clinically relevant effects on the PK were observed based on AUC and
+Cmax.
+The overall systemic exposure to tirzepatide AUC0-∞ was similar across all 3 injection sites.
+The overall systemic exposure to tirzepatide AUC0-∞ across all 3 injection sites was 19% to 25%
+higher in participants with low BMI compared with participants with high BMI. The overall Cmax,
+irrespective of injection site, was comparable between the low and high BMI groups, with a
+geometric LS means ratio of 1.11 and the 90% CI falling within the 0.80 to 1.25 range. BMI had no
+apparent effect on the rates of tirzepatide absorption and elimination, with median tmax and mean
+t1/2 observed at similar times across all administration sites for both BMI groups.
+Effect of other covariates from population PK analysis
+
+According to the population PK analysis, the body weight covariate affected tirzepatide
+exposure. Relative to a 90 kg subject, tirzepatide exposure (Cmax and AUC) are expected to be 23%
+higher and 21% lower in a 70 kg and 120 kg subject, respectively. However, because these
+differences in exposures are not expected to be clinically impactful, no dose adjustment is required
+based on body weight. The effect of age, sex, ethnicity, renal and hepatic impairment, as well as ADA
+were not found to have a statistically significant effect on the PK of tirzepatide.
+
+Japanese patients from the Phase 3 studies have about 17% higher tirzepatide exposure and
+Cmax,ss compared to non-Japanese patients due to lower body weight, (median weight is 90 kg in
+non-Japanese compared to a 76 kg in the Japanese). The review team assessed the effect of
+tirzepatide on the increase in Heart Rate (HR). Under similar exposure, Japanese patients had
+higher mean increase in HR compared to non-Japanese (Refer to Appendix section 4.4). Therefore,
+Japanese patients may need to be closely monitored for HR increase and potential cardiovascular
+events given the higher sensitivity to HR increase compared to non-Japanese. However, given the
+proposed gradual titration of tirzepatide treatment that will allow to control for potential adverse
+events, no dose adjustment is likely required in the Japanese population. Refer to Clinical review
+team in DARRTS for final recommendation.
+3.3.4 Are there clinically relevant food-drug or drug-drug interactions and what is the
+appropriate management strategy?
+In Vitro Assessment of DDI potential
+
+The potential of tirzepatide to directly inhibit or induce cytochromes P450 (CYPs) (CYP3A,
+CYP2D6, CYP2C19, CYP2C9, CYP2C8, CYP2B6, and CYP1A2) was evaluated. In vitro data indicate
+13
+
+Reference ID: 4954959
+
+low clinical risk as a result of potential DDI(s) involving inhibition or induction of CYP enzymes by
+tirzepatide. The potential for tirzepatide to inhibit renal and hepatic transporters (P-gp, BCRP,
+OATP1B1, OATP1B3, OCT1, OCT2, OAT1, OAT2, MATE1, and MATE2-K) was assessed. The in vitro
+data indicate low clinical risk as a result of potential DDI(s) involving human membrane hepatic or
+renal transporters with tirzepatide.
+Gastric Emptying Delay
+
+Tirzepatide delays gastric emptying, and thereby has the potential to impact the absorption
+of concomitantly administered oral medications. This effect is consistent with the known effect of
+GLP-1 RAs including other approved once-weekly GLP-1 RA drugs.
+
+In Study GPGA, tirzepatide delayed gastric emptying (GE) at doses ≥1.5 mg QW. A delay was
+observed in acetaminophen tmax of approximately 1 hour and a maximum decrease in Cmax of
+approximately 50% after the first 5 mg dose with no clinically relevant impact on AUC. This delay in
+gastric emptying (GE) was greatest following the first tirzepatide dose and appeared to show
+tachyphylaxis, and hence the delay in GE was less evident following repeated tirzepatide doses
+within the 4-week duration.
+To further evaluate the potential impact of delayed GE, a semi-mechanistic PK model was
+used to estimate the magnitude of delayed GE on PK of atorvastatin, digoxin, lisinopril, metformin,
+metoprolol, sitagliptin, and S-warfarin. The Applicant’s PBPK analysis provided a mechanistic
+interpretation of the effect of tirzepatide-induced GE delay. This modeling approach has been
+applied to one other GLP-1RA (dulaglutide). The PBPK reviewer considered the analysis adequate
+to provide a qualitative assessment in terms of PK changes for the test drugs taking into
+consideration the clinical experience with other GLP-1RAs, and current understanding of the GE
+delay mechanism and possible impact on drug PK parameters (See Appendix 4.5). Therefore, the
+totality of evidence suggested that no clinically meaningful effect would be expected, and no dose
+modification would be needed for the tested drug(s) when concomitantly administered with
+tirzepatide.
+Effect on PK of Oral Contraceptive (OC)
+
+The Applicant assessed the effect of single dose 5 mg tirzepatide on PK of OC in healthy
+female subjects in Study GPGR. The Applicant concludes that the AUC of norelgestromin and ethinyl
+estradiol was reduced by 16% to 23% when the OC was administered in the presence of single 5 mg
+tirzepatide compared to dosing with OC alone (Table 2). The AUC0-tau of norelgestromin component
+was reduced by about 28.8% (lower 90CI% for geometric mean ratio of AUC0-tau is 0.71). Ethinyl
+estradiol also showed a similar decrease in AUC0-tau of about 27% (lower 90CI% for geometric mean
+ratio of AUC0-tau is 0.73). The Cmax of norelgestromin and ethinyl estradiol was reduced by 55% to
+59% when the OC was administered in the presence of 5 mg tirzepatide compared to dosing with
+OC alone. Delays in tmax of 2.5 to 4.5 hours were observed when the OC was administered in the
+presence of 5 mg tirzepatide.
+The Applicant concludes the reduction in Cmax is of limited clinical relevance while AUC
+drives contraception efficacy. Therefore, with the intended clinical dosing scheme of tirzepatide 2.5
+14
+
+Reference ID: 4954959
+
+3.3.5. Is the Clinical Phase 3 trial formulation of tirzepatide bioequivalent to the to-bemarketed formulation?
+Yes. The Applicant conducted Study GPGS, a relative bioavailability (BA) study that
+demonstrated the comparability of 5 mg tirzepatide injections of the solution formulation
+administered subcutaneously via the prefilled syringe (PFS) and the single-dose pen (SDP). Study
+GPGM was the only phase 3 study to use the PFS. The to-be-marketed formulation (SDP) was used
+in all other phase 3 studies. The relative BA of tirzepatide from the SDP presentation used in the
+phase 3 studies was comparable with the PFS presentation used in the phase 3 study GPGM. The
+geometric means ratios (90% CIs) of AUC0-∞ and Cmax are 0.979 (0.962, 0.997) and 0.955 (0.905,
+1.01) respectively.
+
+4. APPENDICES
+
+4.1. Clinical PK and/or PD Assessments
+Study GPGA: A Single- and Multiple-Ascending Dose Study in Healthy Subjects to Investigate the
+Safety, Tolerability, Pharmacokinetics, and Pharmacodynamics of TIRZEPATIDE and Multiple
+Doses in Patients with Type 2 Diabetes Mellitus
+The Applicant conducted Study GPGA, a phase 1, patient-/subject- and investigator-blind,
+randomized, placebo controlled study to assess the safety, tolerability, PK, and PD of tirzepatide
+after (1) single-ascending dose (SAD) (Part A) in healthy participants, (2) 4-week multipleascending dose (MAD) (Part B) in healthy participants, and (3) 4-week multiple dose evaluation in
+patients with T2DM (Part C).
+
+One-hundred and nine participants were dosed in randomized order with tirzepatide (42 in
+Part A, 25 in Part B, and 42 in Part C). The 6 SAD levels in Part A were 0.25, 0.5, 1, 2.5, 5, and 8 mg.
+The 4 MAD levels in Part B were 0.5 mg QW, 1.5 mg QW, 4.5 mg QW, and 5/5/8/10 mg QW titration
+over 4 weeks. The 4 multiple dose levels in Part C were 0.5 mg QW, 5 mg QW, 5/5/10/10 mg, and
+5/5/10/15 mg QW titration over 4 weeks. In Parts B and C, gastric emptying was assessed by
+measuring acetaminophen PK following administration of 1g at the time of expected Cmax of
+tirzepatide. Blood was collected to assess tirzepatide PK before and up to 672 hours (Part A) and
+840 hours (Part B and C) after the dose. Tirzepatide PK parameters were calculated using
+noncompartmental analysis and included Cmax, AUC0-∞, tmax, and t1/2.
+Following single SC administration of 0.25, 0.5, 1, 2.5, 5, and 8 mg in healthy adults (Part A)
+the median time to maximum plasma concentration (tmax) ranges from 8 to 96 hours (Table 3).
+Mean (CV%) maximum plasma concentration (Cmax) ranges from 26 (29) to 874 (19) ng/mL. Mean
+(CV%) area under the concentration versus time curve from time zero to infinity (AUC0-∞) ranges
+from 5760 (22) to 169000 (8) h*ng/mL (Table 3 and Figure 3).
+
+Following multiple SC administration of 0.5 mg (QW), 1.5 mg (QW), 4.5 mg (QW), and
+5.0/5.0/8.0/10.0 mg to healthy adults (Part B), tmax ranges from 8 to 72 hours. Mean (CV%) Cmax
+ranges from 77.8 (35) to 1510 (10) ng/mL. Mean (CV%) area under the concentration versus time
+16
+
+Reference ID: 4954959
+
+curve during 1 dosing interval (AUC0-tau) ranged from 10600 (34) to 198000 (6) h*ng/mL (Table 4
+and Figure 4).
+
+Following multiple SC administration for 4 weeks of 0.5 mg (QW), 5 mg (QW), 5/5/10/10
+mg, and 5/5/10/15 mg to patients with T2DM (Part C), tmax ranges from 24 to 72 hours. Mean
+(CV%) Cmax ranges from 54.6 (28) to 1250 (20) ng/mL. Mean (CV%) AUC0-tau ranged from 7200 (30)
+to 164000 (14) h*ng/mL. Mean t1/2 in patients with T2DM was approximately 5 days, supporting a
+QW dosing regimen. Multiple QW doses over a 4-week duration resulted in an accumulation ratio of
+1.6 in patients with T2DM, based on AUC0-tau (Table 5, Figure 5).
+
+The Applicant concludes that GI adverse events (AEs; nausea, vomiting, diarrhea, decreased
+appetite, abdominal distension) were the most commonly reported by healthy participants and
+patients with T2DM and the GI AEs were dose related. During titration regimen of 5/5/10/15 mg,
+patients with T2DM reported the highest incidence of GI AEs, and the highest number of increased
+severity (moderate) but there were no reports of severe or SAEs. tmax was within 24 to 48 hours
+after dosing. PK parameters were similar when comparing healthy participants versus patients
+with T2DM (See section 3.2).
+
+Weekly doses of tirzepatide for 4 weeks were associated with reductions in fasting plasma
+glucose and body weight for patients with T2DM. After 4 weeks of tirzepatide treatment with either
+5/5/10/10 mg or 5/5/10/15 mg QW titration in patients with T2DM, there was a significant
+reduction in the fasting plasma glucose compared to placebo. Fasting plasma glucose decreased
+from baseline with tirzepatide versus placebo with the ratio of the least squares (LS) means (95%
+CI) to placebo was up to 0.68 (0.56-0.83). Body weight reductions were observed with LS mean
+(95% CI) decreases from baseline versus placebo at 4 weeks of up to 2.62 kg (1.45 to 3.79).
+
+In Study GPGA, dose proportionality analysis using power model over the single dose range
+of 0.25 to 8 mg resulted in a ratio of dose-normalized geometric means (90%CI) in AUC0-∞ and Cmax
+of about 0.8 (0.7, 0.9) and 0.85 (0.68, 1.0), while analyses based on multiple-dose data in healthy
+participants resulted in a ratio of dose-normalized geometric means (90%CI) in AUC0-tau and Cmax of
+1.1 (0.83, 1.53) and 1.3 (0.95, 1.8). In addition, dose proportionality over the proposed clinical dose
+was inferred from the population PK analysis.
+
+Immunogenicity results for healthy subjects from phase 1 Study GPGA show that following
+multiple administration for 4 weeks, one subject in the of 5/5/8/10 mg QW titration group (Part B)
+had treatment-emergent (TE) Anti-Drug Antibody (ADA). The subject had negative ADA baseline
+assessment, and at Days 15 and 22, anti-LY3298176 titers were 1:20 but increased at Days 29, 36,
+and 57 to 1:40. This subject had 2 study treatment AEs that resolved within 1 to3 days. In the phase
+3 studies, the incidence of ADA+ patients increased in a dose dependent manner from 5mg, 10mg
+and 15mg as well as with the length of the treatment.
+Tirzepatide delayed gastric emptying (GE) at doses ≥1.5 mg QW. This was supported by an
+observed delay in acetaminophen tmax of approximately 1 hour and a maximum decrease in Cmax of
+approximately 50 % after the first 5 mg dose with no clinically relevant impact on AUC. This delay
+in gastric emptying (GE) was greatest following the first tirzepatide dose and appeared to show
+17
+
+Reference ID: 4954959
+
+tachyphylaxis, and hence the delay in GE was less evident following repeated tirzepatide doses
+within the 4-week duration. The maximum effect of tirzepatide on GE was studied under
+conservative clinical conditions, i.e., this approach was conservative or a worst-case scenario,
+because it evaluated maximum possible effect of tirzepatide on GE. These conditions included
+escalation to tirzepatide doses of 10 and 15 mg within 4 weeks via 5/5/10/15mg scheme, thereby
+attaining the highest doses within 3 to 4 weeks, which is significantly faster than the time required
+to attain these doses in the phase 3 and the proposed clinical dosing scheme of stepwise escalation
+starting from a 2.5- mg dose for 4 weeks, with 2.5-mg dose increments every 4 weeks to attain 10or 15-mg dose levels. However, the effect of the proposed clinical dosage regimen of 7.5, 10, 12.5,
+and 15 mg QW on gastric emptying is unknown.
+The reviewer’s conclusion agrees with that of the Applicant. In patients with T2DM,
+tirzepatide QW dosing is consistent with GLP-1 pharmacology. Safety, tolerability, and PK/PD
+profile of tirzepatide in this study supported further development of tirzepatide in patients with
+T2DM suggesting a slower dose up titration may be warranted.
+Table 3 Tirzepatide PK Parameters on Day 1 in Study GPGA Part A Single Ascending Dose
+Dose mg (N)
+N
+AUC0-∞ (h*ng/mL)
+Cmax (ng/mL)
+tmax a (h)
+t1/2 b (h)
+
+Geometric Mean (Geometric CV%)
+0.25
+0.5
+1.0
+6
+12
+5
+5760 (22)
+12000 (24)
+22600 (14)
+26.0 (29)
+57.7 (37)
+108 (14)
+48 (48, 48)
+48 (24, 96)
+24 (8, 48)
+116 (94.6,
+124 (94.4,
+106 (92.9,
+132)
+163)
+117)
+
+a Median (minimum, maximum). b Geometric mean (minimum, maximum).
+
+(Source: page 31, Table GPGA.7.1, Study GPGA Report)
+
+2.5
+6
+53200 (36)
+231 (40)
+24 (24, 96)
+120 (102,
+137)
+
+5.0
+5
+90500 (15)
+397 (23)
+24.05 (24, 72)
+123 (99.9,
+147)
+
+8.0
+7
+169000 (8)
+874 (19)
+48 (24, 72.02)
+111 (99.6,
+121)
+
+Table 4 Tirzepatide PK Parameters on Day 22 in Study GPGA Part B Multiple Ascending Dose
+Dose
+N
+AUC0-tau a (h*ng/mL)
+Cmax (ng/mL)
+tmax b (h)
+t1/2c (h)
+CL/F (L/h)
+Vz/F (L)
+RA
+
+Geometric Mean (Geometric CV%)
+0.5 mg (QW)
+1.5 mg (QW)
+4
+5
+10600 (34)
+24800 (15)
+77.8 (35)
+198 (13)
+23.83 (23.83, 72.08)
+23.83 (23.65, 24.37)
+152 (149, 154)d
+113 (91.9, 124)
+0.0472 (34)
+0.0604 (15)
+8.99 (22)d
+9.83 (11)
+1.84 (8)
+1.52 (11)
+
+4.5 mg (QW)
+6
+103000 (23)
+884 (27)
+24.17 (24.17, 24.17)
+132 (108, 157)
+0.0436 (23)
+8.32 (19)
+1.94 (11)
+
+5.0/5.0/8.0/10.0 mg
+4
+198000 (6)
+1510 (10)
+24.17 (8, 72)
+126 (114, 134)
+0.0505 (6)
+9.18 (7)
+-
+
+Abbreviations: CL/F = apparent total body clearance of drug calculated after extra-vascular administration; CV = coefficient of variation; N = number of
+subjects; QW = once weekly; RA = accumulation ratio based on AUC(0-tau); Vz/F = apparent volume of distribution during the terminal phase after extravascular administration. a tau = 168 h. b Median (minimum, maximum). c Geometric mean (minimum, maximum). d Parameters (t1/2 and Vz/F) at the 0.5-mg
+QW dose level are based on n=3.
+
+(Source: page 37, Table GPGA.7.5, Study GPGA Report)
+
+18
+
+Reference ID: 4954959
+
+Table 5 Tirzepatide PK Parameters of on Day 22 in Study GPGA Part C Multiple Dose
+Dose
+N
+AUC0-taua (h*ng/mL)
+Cmax (ng/mL)
+tmax b (h)
+t1/2c(h)
+CL/F (L/h)
+Vz/F (L)
+RA
+
+Geometric Mean (Geometric CV%)
+0.5 mg (QW)
+5.0 mg (QW)
+9
+6
+7200 (30)
+81900 (18)
+54.6 (28)
+614 (16)
+24.25 (24.25,
+24.25 (24.17, 24.25)
+72.62)
+120 (107, 148)d
+114 (103, 132)
+0.0694 (30)
+0.0611 (18)
+10.4 (31)d
+10.0 (23)
+1.51 (24)
+1.67 (11)
+
+5.0/5.0/10.0/10.0 mg
+12
+131000 (26)
+1030 (32)
+24.25 (24.17, 72)
+115 (95.7, 142)
+0.0762 (26)
+12.6 (28)
+-
+
+5.0/5.0/10.0/15.0 mg
+10
+164000 (14)
+1250 (20)
+24.25 (24.25, 72)
+104 (92.7, 120)
+0.0913 (14)
+13.8 (19)
+-
+
+a tau = 168 h. b Median (minimum, maximum). c Median (minimum, maximum). Parameters (t1/2 and Vz/F) at the 0.5-mg QW dose level are based on n=5.
+
+(Source: Table GPGA.7.9 Study GPGA Report)
+
+Figure 3 Mean tirzepatide plasma concentration-time profiles following SC administration on a
+linear and semi-log scale – Part A Study GPGA
+
+(Source: page 32, Figure GPGA.7.1. of Study GPGA Report)
+
+19
+
+Reference ID: 4954959
+
+Figure 4 Mean tirzepatide plasma concentration-time profiles following SC administration on a
+linear and semi-log scale for Day 22 – Part B Study GPGA
+
+(Source: page 39, Figure GPGA.7.4. of Study GPGA Report)
+
+Figure 5 Mean tirzepatide plasma concentration-time profiles following last SC administration on
+Day 22 in patients with T2DM on a linear and semi-log scale - Part C Study GPGA
+
+(Source: page 45, Figure GPGA.7.6. of Study GPGA Report)
+
+Reference ID: 4954959
+
+20
+
+Study GPHI: Effect of Injection Site on the Relative Bioavailability of a Single Dose of
+Tirzepatide in Subjects with Low and High Body Mass Indices
+GPHI was a phase 1, open-label study conducted in 54 healthy participants to determine the
+bioavailability of tirzepatide injections into the thigh and upper arm relative to the abdomen. The
+bioavailability of tirzepatide in participants with a high body mass index (BMI) (27.1 to 45.0 kg/m2;
+N = 27) relative to participants with a low BMI (18.5 to 27.0 kg/m2; N = 27) was also assessed. Fifty
+four participants, 37 males and 17 females, aged 24 to 70 years inclusive, participated in the study
+with 27 in the low BMI group with (average BMI=24.57 kg/m2), and the remaining 27 were in the
+high BMI group (average BMI=32.93 kg/m2).
+
+Participants in each BMI group were randomized to 1 of 3 injection site sequences and
+received 3 single 5-mg SC injections of tirzepatide via an SDP into the upper arm (test 1), the thigh
+(test 2), and the abdomen (reference). At least 35 days separated each injection to allow sufficient
+time for complete drug washout. Blood was collected to assess tirzepatide PK before and up to 840
+hours after the dose.
+
+The Applicant concludes that the site of administration and BMI had no statistically
+significant effect on the exposure of 5 mg tirzepatide. Following a single SC injection of 5 mg
+tirzepatide, AUC0-∞ and Cmax was not different between injection to the thigh and upper arm as
+compared with the abdomen with 90% CIs for the ratios of the LS geometric means contained
+within 0.8 and 1.25. Median tmax occurred at 24 hours postdose at each injection site . Data from this
+study indicate that tirzepatide can be administered SC in the abdomen, upper arm, and thigh
+without adjusting the dose. Cmax of tirzepatide at the upper arm and thigh injection sites were
+comparable between the low and high BMI groups, while Cmax at the abdomen injection site was
+approximately 23% higher in the low BMI group compared with the high BMI group. See section
+3.3.3 for full PK results.
+The reviewer’s conclusion agrees with that with the Applicant. Tirzepatide may be
+administered at any of the 3 injection sites tested. Together with population PK/PD analyses of
+clinical data, tirzepatide administered to patients with the tested range of body weights may not
+necessitate dose adjustment.
+
+Study GPGC: A Multiple-Ascending Dose Study in Japanese Patients with T2DM to Investigate
+the Safety, Tolerability, PK, and PD of TIRZEPATIDE
+
+GPGC was a phase 1, multicenter, patient-/investigator-blind, placebo-controlled,
+randomized, parallel-dose group, 8-week MAD study conducted in Japanese patients with T2DM to
+investigate the safety, tolerability, PK, and PD of tirzepatide. Forty eight, 47 males and 1 female,
+aged between 31 and 70 years participated in this study. The dose groups and dose-escalation
+regimens were 5 mg (5 mg tirzepatide Weeks 1 to 8), 10 mg (2.5 mg tirzepatide Weeks 1 to 2; 5 mg
+Weeks 3 to 4; 10 mg Weeks 5 to 8), and 15 mg (5 mg tirzepatide Weeks 1 to 2; 10 mg Weeks 3 to 6;
+15 mg Weeks 7 to 8).
+
+The Applicant concludes that the most frequently reported treatment-emergent adverse
+events (TEAEs) were decreased appetite and GI AEs, which were dose dependent and mild severity.
+21
+
+Reference ID: 4954959
+
+At Day 50, following multiple SC administration of 5 mg, 2.5/5/10 mg (2.5 mg tirzepatide
+Weeks 1 to 2; 5 mg Weeks 3 to 4; 10 mg Weeks 5 to 8), and 5/10/15 mg (5 mg tirzepatide Weeks 1
+to 2; 10 mg Weeks 3 to 6; 15 mg Weeks 7 to 8) to Japanese patients with T2DM, tmax ranges from 24
+to 48 hours (Table 6 and Figure 6). Mean (CV%) Cmax ranges from 838 (22) to 2270 (17) ng/mL.
+Mean (CV%) AUC0-tau ranged from 104000 (19) to 285000 (15) h*ng/mL (Table 6). Accumulation
+ratio ranged from 1.94-2.14. Fasting plasma glucose decreased from baseline with tirzepatide. LS
+mean (95% CI) decreases compared with placebo were up to 69.08 mg/dL (52.30 to 85.85). LS
+mean (95% CI) body weight reductions from baseline versus placebo at 8 weeks were up to 6.59 kg
+(5.26 to 7.92).
+
+The reviewer’s conclusion agrees with that of the Applicant. The PK/PD profiles based on
+this Study GPGC were similar to those expected based on phase 1 Study GPGA when accounting for
+differences in day of assessment of PK and respective accumulation ratios.
+Table 6 Tirzepatide PK Parameters on Day 50 in Study GPGC
+Dose
+N
+AUC0-tauc (ng*h/mL)
+Cmax (ng/mL)
+tmax d (h)
+t1/2e (h)
+CL/F (L/h)
+Vz/F (L)
+RA
+Peak to trough
+
+Geometric Mean (Geometric CV%)
+2.5/5/10 mg
+5/10/15 mg
+11a
+12b
+192000 (16)
+285000 (15)
+1520 (15)
+2270 (17)
+24.00 (24.00, 48.00)
+48.00 (24.00, 48.05)
+135 (105, 186)
+121 (94.4, 138)
+0.0311 (25)
+0.0321 (17)
+6.04 (14)
+5.61 (13)
+2.07 (19)
+1.94 (21)f
+
+5 mg (QW)
+11
+104000 (19)
+838 (22)
+48.00 (23.83, 48.00)
+127 (112, 144)
+0.0288 (21)
+5.27 (15)
+2.12 (14)
+2.14 (12)
+
+2.5/5/10 refers to titrated doses over 8 weeks where 2.5 mg was given QW for 2 weeks followed by 5 mg for 2 weeks and 10 mg for 4 weeks. 5/10/15 refers
+to titrated doses over 8 weeks where 5.0 mg was given QW for 2 weeks followed by 10 mg for 4 weeks and 15 mg for 2 weeks. a One patient in the 2.5/5/10
+mg QW titration group discontinued after receiving 1 dose of LY3298176 (2.5 mg) due to patient decision (concern about study procedures/perceived
+risks). b One patient in the 5/10/15 mg QW titration group discontinued after receiving 4 doses of LY3298176 (5, 5, 10, 10 mg) due to an AE (decreased
+appetite). One patient skipped dosing on Day 43 due to an AE (not related to study treatment) and was not up titrated to 15 mg. Two patients were not uptitrated to 15 mg by the investigator’s decision considering the patients overall condition, including AEs. c τ = 168 h. d Median (minimum, maximum).e
+Geometric mean (minimum, maximum).f N = 10.
+
+(Source: page 24 Table GPGC.7.2 of Study GPGC report)
+
+22
+
+Reference ID: 4954959
+
+Figure 6 Mean tirzepatide plasma concentration time profiles following SC administration on Day
+50 on a linear and semi-log scale in Study GPGC
+
+(Source: page 27 Figure GPGC 7.2 of Study GPGC study report)
+
+Study GPGS: A Study to Compare the Pharmacokinetics of Tirzepatide Administered
+Subcutaneously by an Autoinjector versus Prefilled Syringe in Healthy Subjects
+GPGS was a phase 1, open-label, randomized, 2-period, 2-sequence, crossover study in 45
+healthy participants to establish comparability between the SDP (also called Auto-Injector (AI)) and
+a prefilled syringe (PFS). Participants were randomly assigned to 1 of 2 sequences and received 2
+single 5 mg/0.5 mL SC tirzepatide injections, one with the SDP and one with the prefilled syringe,
+with at least 35 days between tirzepatide doses. Blood samples were collected to assess tirzepatide
+PK before and up to 840 hours after dosing .
+The Applicant concludes that the PK of tirzepatide was similar following administration of 5
+mg tirzepatide via an SDP or PFS with the 90% CIs for the ratios of geometric LS means of AUC0-∞
+and Cmax contained within 0.8 to 1.25. Both devices were used in phase 3 studies whereas the SDP is
+planned for commercial use. The reviewer’s conclusion agrees with that of the Applicant.
+
+23
+
+Reference ID: 4954959
+
+Study GPGE : Pharmacokinetics, Safety, and Tolerability of a Solution Formulation of
+Tirzepatide in Healthy Subjects
+GPGE was a phase 1, single-center, 4-part study, conducted in 52 healthy participants to
+establish the bioavailability of tirzepatide as a solution formulation. The 4 parts, Parts A through D,
+of Study GPGE are summarized in Table 7.
+Table 7 Description of Study GPGE Parts A through D
+
+(Source: page 13 Table 2.7.1.4. of Summary of Biopharmaceutics)
+
+The Applicant concludes from Part A that the PK of tirzepatide was similar following
+administration of 5 mg tirzepatide as a lyophilized or solution formulation with the 90% confidence
+intervals (CIs) contained within 0.8 to 1.25 for the ratio of geometric least square (LS) means of
+AUC0-∞, AUC0-tlast, and Cmax (Table 8).
+
+In Part C, PK of tirzepatide following administration of 5/5/7.5/10 mg (5-mg dose at Weeks
+1 and 2, 7.5 mg at Week 3, and 10 mg at Week 4) regimen, 5-, 7.5-, and 10-mg doses was evaluated.
+PK results are summarized in Table 9. One subject in Part C had nausea after receiving tirzepatide
+7.5 mg SC on Day 15, elected not to receive study treatment, and discontinued the study. All TEAEs
+were mild in severity. Injection site reactions (ISR) were the most frequently reported TEAEs
+followed by gastrointestinal-related TEAEs including nausea, abdominal pain, diarrhea, and
+decreased appetite.
+
+The Applicant concludes that in Part B, IV infusion data were intended to calculate the
+absolute bioavailability of tirzepatide. The PK evaluation following IV administration in Part B led
+to inconclusive results. As Part B led to inconclusive results, Part D was added to evaluate PK
+following administration of an IV bolus dose and to estimate the absolute bioavailability of
+tirzepatide using a lyophilized formulation. Absolute bioavailability of 5 mg SC lyophilized
+formulation of tirzepatide used in Part A of the study was computed to be approximately 80%,
+using IV bolus data from Part D (Table 10). The terminal half-life following IV bolus dose was
+approximately 100 hours, which compares well to the approximately 5 day half-life that is observed
+following SC administration. The reviewer’s conclusion agrees with that of the Applicant.
+24
+
+Reference ID: 4954959
+
+Table 8 PK Parameters of tirzepatide following single 5 mg SC Administration as lyophilized or
+solution formulation in Study GPGE Part A
+Parameter
+
+AUC0-∞ (ng*
+h/mL)
+AUC0-tlast (ng*
+h/mL)
+Cmax (ng/mL)
+tmax (h)*
+
+*median
+
+SC 5 mg
+tirzepatide
+Lyophilized
+Solution
+Lyophilized
+Solution
+Lyophilized
+Solution
+Lyophilized
+Solution
+
+n
+
+19
+20
+19
+20
+20
+20
+20
+20
+
+Geometric least
+squares mean
+112737
+108919
+111539
+107473
+524
+575
+24
+23.99
+
+Ratio of geometric least squares mean
+(Solution : Lyophilized) (90% CI)
+0.966 (0.943, 0.99)
+0.964 (0.94, 0.988)
+1.1 (1.03, 1.17)
+
+(Source: page 15 Table 2.7.1.5 and 2.7.1.6 of Summary of Biopharmaceutics)
+
+Table 9 PK Parameters of tirzepatide following SC Administration 5/5/7.5/10 mg in Study GPGE
+Part C
+Parameter
+Geometric mean
+(CV%)
+Cmax (ng/mL)
+tmax (h)b
+AUC0-tau
+(ng h/mL)
+
+5 mg TIRZEPATIDE SCa
+(Day 1) (N=12)
+
+7.5 mg TIRZEPATIDE SCa
+(Day 15) (N=12)
+
+10 mg TIRZEPATIDE SCa (Day
+22) (N=11)
+
+663 (23)
+24 (8-71.83)
+68900 (19%)
+
+1270 (24)
+24 (8-48)
+149000 (26%)
+
+1900 (24)
+24.18 (8-48)
+Not reported c
+
+a Participants received tirzepatide as a 5-mg dose on Days 1 and 8, a 7.5-mg dose on Day 15, and a 10-mg dose on Day 22. b Median (range). c Not reported for
+10-mg dose as serial samples were collected up to 72 h postdose, and no sample was collected at 168 hours postdose after 10-mg dose
+
+(Source: page 16 Table 2.7.1.8 of Summary of Biopharmaceutics)
+
+Table 10 PK Parameters of Tirzepatide and absolute bioavailability Following Intravenous
+Administration in Study GPGE Part D
+Parameter
+
+AUC0-∞ (ng h/mL)
+Cmax (ng/mL)
+tmax (h)*
+
+0.5 mg tirzepatide bolus IV (N=8)
+Geometric Mean (CV%)
+14000 (16%)
+206 (19%)
+0.17 (0.10-2)
+
+Bioavailability (F)
+0.809
+
+*median (min, max), F = absolute bioavailability based upon geometric mean (Part A SC [lyophilized] vs Part D IV);
+
+(Source: page 16 Table 2.7.1.7 of Summary of Biopharmaceutics)
+
+Study GPGG: Pharmacokinetics of TIRZEPATIDE Following Administration to Subjects with
+Impaired Renal Function
+GPGG was a multicenter, parallel, single-dose, open-label study in participants with normal
+renal function and in participants with mild, moderate, or severe renal impairment (RI) or end
+stage renal disease (ESRD) on dialysis. Participants were assigned to the control group, or a RI
+group based on estimated glomerular filtration rate (eGFR) values calculated using the modification
+of diet in renal disease abbreviated equation.
+25
+
+Reference ID: 4954959
+
+Categories of healthy control participants and RI groups are detailed as follows:
+•
+•
+•
+•
+•
+
+Healthy: ≥90 mL/min/1.73 m2
+Mild RI: 60 to 89 mL/min/1.73 m2
+Moderate RI: 30 to 59 mL/min/1.73 m2
+Severe RI: <30 mL/min/1.73m2 but not on dialysis
+ESRD: requires dialysis
+
+A total of 45 participants, 30 males and 15 females, aged 40 to 84 years, inclusive, 8 with mild, 8
+with moderate, 7 with severe RI, 8 with ESRD on dialysis and 14 age-, gender-, and weight matched
+healthy individuals with normal renal function, participated in this study. Of the 45 participants, 6
+had T2DM (n=2 each in the mild and severe RI groups, and n=1 each in the moderate and ESRD
+groups). All participants received a single SC dose of tirzepatide 5 mg. The primary PK parameters
+were AUC0-∞ and Cmax.
+
+The Applicant concludes that the overall exposure to tirzepatide, based on AUC and Cmax, and
+the elimination kinetics as assessed using geometric mean t1/2 was similar across the control and RI
+groups . No clinically relevant effects on the PK of a single SC dose of 5 mg tirzepatide were
+observed for participants with mild, moderate, or severe RI or ESRD when compared to
+participants with normal renal function .
+The reviewer’s conclusion agrees with that of the Applicant. There were no clinically relevant
+effects of RI on PK of tirzepatide. Adjustment to the dose of tirzepatide may not be required in
+patients with RI or in patients undergoing dialysis.
+Study GPGQ: A Single Dose Pharmacokinetic Study of Tirzepatide in Subjects with Varying
+Degrees of Hepatic Impairment
+
+Study GPGQ was a multicenter, parallel, single-dose, open-label, single-period study of
+tirzepatide in participants with normal hepatic function and participants with hepatic impairment
+based on Child-Pugh (CP) classification, with mild (CP-A), moderate (CP-B), and severe (CP-C)
+hepatic impairment. The PK of tirzepatide in participants with hepatic impairment was compared
+to healthy control participants (matched for age, gender, and body weight) to investigate the impact
+of varying degrees of hepatic impairment.
+A total of 32 participants, 24 males and 8 females, aged 27 to 72 years, inclusive, 13 with
+normal hepatic function, 6 with mild, 6 with moderate, and 7 with severe hepatic impairment
+participated in this study. Of the 32 participants, 3 had T2DM (mild hepatic impairment group). A
+total of 31 participants completed the study as 1 participant from the severe hepatic impairment
+group was lost to follow-up. All participants received a single SC dose of tirzepatide 5 mg. The
+primary PK parameters of AUC0-∞ and Cmax were evaluated.
+
+The Applicant concludes that the overall exposure to tirzepatide, based on AUC0-∞ and Cmax
+and tmax , was similar across the control and hepatic impairment groups. Geometric mean ratio
+(90%CI) showed no clinically meaningful difference in Cmax or AUC0-∞ between participants in the
+26
+
+Reference ID: 4954959
+
+control group and the hepatic impairment groups. There was no significant relationship between
+the exposure of tirzepatide and CP score.
+
+The reviewer’s conclusion agrees with that of the Applicant. There were no clinically
+relevant effects of hepatic impairment on PK of tirzepatide. Adjustment to the dose of tirzepatide,
+based on PK, may not be required in patients with hepatic impairment.
+
+Study GPGT: The Effect of Tirzepatide on Insulin and Glucagon Secretion in Patients with Type
+2 Diabetes Mellitus in clamp procedure
+GPGT was a phase 1, multicenter, randomized, sponsor, investigator- and patient-blind,
+parallel-arm study to compare the effect of tirzepatide, semaglutide, and placebo on insulin,
+glucose, and glucagon secretion in 117 patients with T2DM treated with diet and exercise and
+stable dose of metformin. The 15 mg tirzepatide dose was attained via the same stepwise escalation
+used in phase 3 studies.
+
+The Applicant concludes that the estimated difference (95% CI) in change from baseline in the
+total insulin secretion rate from hyperglycemic clamp (ISR0-120min) for comparisons between
+tirzepatide and placebo was 381.23 pmol/min/m2 (339.29, 423.17). Results for assessment of firstand second-phase ISRs were consistent with the results for the total ISR0-120min. At week 28
+tirzepatide enhanced the first- (ISR0-8min) and second-phase (ISR20-120min) insulin secretion rate by
+approximately 225.7 pmol/min/m2 (165.8, 285.7) and 411.69 pmol/min/m2 (366.99, 456.39) from
+baseline vs placebo, respectively. Insulin concentration over time is presented in Figure 7.
+
+At week 28 tirzepatide lowered Fasting Glucose by -2.61 mmol/L (95%CI -3.03, -2.19) from
+baseline vs placebo. In addition, tirzepatide lowered the total post-meal blood glucose AUC0-240 min
+by -992.1 mmol*min/L (95%CI -1123.5, -860.8) from baseline at week 28 (Figure 8). Tirzepatide
+reduced fasting glucagon concentration at week 28 by -4.5 pmol/L (-6.3, -2.6), and total post-meal
+glucagon AUC0- 240min by -1787.5 pmol*min/L (-2249.0, -1325.9) from baseline vs placebo (Figure
+9). At week 28 tirzepatide lowered food intake by -309.8 kcal (95%CI -423.0, -196.6) from baseline
+vs placebo. At week 28 tirzepatide improved M-value by 19.8 μmol/min/kg (95%CI, 13.4, 26.1)
+from baseline vs placebo. The Applicant states that the M-value from hyperinsulinemic euglycemic
+clamp is the measure of insulin sensitivity; M-value is defined as the glucose infusion rate (GIR)
+over the last 30 minutes of the clamp (+150 to +180 minutes) minus a correction factor for nonconstant glucose level divided by body weight (DeFronzo et al. 1979). No other approved GLP1-RA
+has description of M-value in labeling.
+
+The reviewer’s conclusion agrees with that of the Applicant. This study demonstrated
+improvements in measures of glucose concentration and insulin and glucagon secretion with
+tirzepatide compared to placebo and semaglutide.
+
+27
+
+Reference ID: 4954959
+
+Figure 7 Mean insulin concentration 0-120 minutes during hyperglycemic clamp at baseline and
+Week 28 in Study GPGT
+
+(Source: page 63 Figure 2.7.2.12. of Summary of Clinical Pharmacology)
+
+Figure 8 Mean Blood glucose concentrations (± SE) during standardized mixed-meal tolerance test
+in Study GPGT
+
+(Source: page 67 Figure 5.8 of Study GPGT report)
+
+28
+
+Reference ID: 4954959
+
+Figure 9 Mean Glucagon concentration (± SE) during standardized mixed-meal tolerance test in
+Study GPGT
+
+(Source: page 84 Figure 5.11 of Study GPGT report)
+
+Study GPGR: Effect of Tirzepatide on Oral Contraceptive (OC) PK in Healthy Female Subjects
+GPGR was a phase 1, single-center, open-label, 2-period, fixed sequence study with a lead-in
+period, in healthy female participants conducted to evaluate the effects of single SC dose of
+tirzepatide 5 mg on OC PK. Each OC cycle consisted of 21 days of active combination tablet (ethinyl
+estradiol 0.035 mg and norgestimate 0.25 mg) followed by 7 days of placebo. Each enrolled
+participant completed 3 OC cycles; (1) Cycle 1: Lead-in period, (2) Cycle 2: OC alone in Period 1(OC
+PK samples were collected over 48 hours after OC dosing on Day 21), (3) Cycle 3: OC + tirzepatide 5
+mg in Period 2.
+
+Single dose of tirzepatide 5 mg was administered SC on Day 20. OC dosing on Day 21 occurred
+approximately 24 hours after tirzepatide dosing to correspond with the predicted peak exposure
+(tirzepatide tmax approximately 24 hours) of tirzepatide. This permitted the study of the influence of
+tirzepatide at its highest exposure and greatest impact on gastric emptying, on OC PK. OC PK
+samples were collected over 48 hours after OC dosing on Day 21.
+The Applicant concludes that the AUC of norelgestromin and ethinyl estradiol was reduced
+by 16% to 23% when the OC was administered in the presence of 5 mg tirzepatide compared to
+dosing with OC alone (Table 2, Section 3.3.4). The AUC0-tau of norelgestromin component was
+reduced by about 30% (lower 90CI% for geometric mean ratio of AUC0-tau is 0.71). Ethinyl estradiol
+also showed a similar decrease in AUC0-tau of about 27% (lower 90CI% for geometric mean ratio of
+AUC0-tau is 0.73). Cmax of norelgestromin and ethinyl estradiol was reduced by 55% to 59% when
+the OC was administered in the presence of 5 mg tirzepatide compared to dosing with OC alone.
+Norgestimate (parent of norelgestromin) Cmax and AUC was reduced by 66% (ratio of geometric
+mean (90%CI) 0.345 (0.274, 0.436) and 20% (ratio of geometric mean (90%CI) 0.792 (0.614, 1.02).
+Delays in tmax of 2.5 to 4.5 hours were observed when the OC was administered in the presence of 5
+mg tirzepatide.
+29
+
+Reference ID: 4954959
+
+The Applicant concludes the reduction in Cmax is of limited clinical relevance while AUC drives
+contraception efficacy. Therefore, with the intended clinical dosing scheme of tirzepatide 2.5-mg
+starting dose followed by gradual stepwise dose escalation, the impact of tirzepatide on OC PK is
+expected to be minimal, as the tirzepatide starting dose is low and repeated dosing is associated
+with a diminishing gastric emptying effect.
+
+However, the clinical pharmacology team determined that the reduction in AUC0-tau and Cmax
+of the progestin component (norelgestromin) poses a clinically significant risk of loss of efficacy
+and subsequent failure of oral contraceptive that is highly dependent on the progestin component.
+The estrogen component (ethinyl estradiol) showed similar reductions. Although starting doses are
+2.5 mg once weekly, the proposed clinical doses can be up-titrated to 7.5, 10, 12.5, and 15 mg, the
+risk of which is unknown. The clinical pharmacology team considered dose separation of oral
+contraceptive used in the case of exenatide and found dose separation not adequate solution for
+tirzepatide due to the once weekly dosing interval of tirzepatide. The delayed gastric emptying is
+the expected mechanism of interaction of oral contraceptives and tirzepatide and hence, delayed
+gastric emptying is not expected to impact hormonal contraceptives that are not administered
+orally. In addition, patients using oral hormonal contraceptives should use an alternative non-oral
+contraceptive method or add a barrier method of contraception during treatment with tirzepatide.
+The effect on gastric emptying is presented in the labeling under section 7 (b)
+(4) and 12.3.
+Study GPHX: Disposition of [14C]-Tirzepatide Following Subcutaneous Administration in
+Healthy Male Subjects
+
+GPHX was a single-center, single-dose, open-label study of tirzepatide, conducted to
+determine the disposition of radioactivity and PK of tirzepatide in healthy male participants
+following a single SC injection of approximately 4.1 mg tirzepatide containing approximately 100
+μCi [14C]-tirzepatide.
+
+Six healthy male participants aged between 30 and 56 years, participated and completed
+the study. Participants remained resident in the clinical research unit until Day 15. If participants
+had not met release criteria by Day 15, they were required to return to the clinical research unit for
+up to seven 48-hour residential inpatient follow-up visits. Sequential blood samples were obtained
+predose and after dose administration to quantify the PK of the total radioactivity in whole blood
+and plasma, and tirzepatide in plasma. Sequential urine and fecal samples were obtained to
+determine the mass balance of tirzepatide by quantification of radioactivity and to identify
+metabolites. Participants were required to attend all follow-up visits as scheduled until such time
+that the release criterion (<1.0% total radioactivity in excreta) was met or up to Day 64, whichever
+occurred first.
+
+The Applicant concludes that the mean percent (SD) total recovery of administered
+radioactivity was approximately 70% (1.98) of the administered radiolabeled dose, from which
+approximately 50% (2.58) of the administered radioactivity was excreted in urine and
+approximately 20% (2.05) was excreted in feces. Radioactivity was not detected in expired air. The
+Applicant extrapolation of the data between the collection intervals of the sparse sampling resulted
+in an estimated overall recovery of 99% with 66% renally eliminated and 33% recovered in feces.
+30
+
+Reference ID: 4954959
+
+Four minor metabolites (M1, M3, M4, M13) resulting from proteolytic cleavage of the
+peptide backbone were identified in plasma. Metabolites M1 + M3 (coeluting), M4 and M13
+accounted for means of 5.5%, 5.7% and 1.3% of the total circulating radioactivity, respectively.
+Tirzepatide was the largest circulating component in plasma accounting for approximately 80% of
+the circulating radioactivity. Six metabolites were identified in urine. The 2 prominent metabolites,
+M5 and M7, in urine, represented approximately 21% and 9% of the dose. Four minor metabolites
+in urine (M8, M11, M17, and M18) each represented less than 3% of the dose. All metabolites in
+urine were formed by proteolytic cleavage of the peptide backbone and β-oxidation of the C20 fatty
+acid, with 2 metabolites, M11 and M17, showing amide hydrolysis in the linker region. Six
+metabolites were identified in feces. The 6 metabolites (M12, M5, M19, M7, M11, and M8) identified
+accounted for a total of 6.8%, 3.3%, 2.9%, 1.0%, 0.6%, and 0.5% of the dose. All metabolites in feces
+were formed by proteolytic cleavage of the peptide backbone and β-oxidation of the C20 fatty acid,
+with 2 metabolites, M12 and M19, showing additional amide hydrolysis in the linker region.
+Following tmax, concentrations declined in a monophasic manner and geometric mean t1/2
+was similar for total radioactivity in plasma and whole blood at approximately 180 hours. The
+geometric mean ratio of whole blood total radioactivity to plasma total radioactivity was 0.500 for
+AUC0-∞, suggesting that tirzepatide does not preferentially bind to red blood cells. Tirzepatide was
+eliminated by metabolism with no intact tirzepatide observed in urine or feces.
+
+The reviewer’s conclusion agrees with that of the Applicant and notes that based on the
+observed data, approximately 30% of radioactivity might not have been recovered.
+Additional Tables
+
+Table 11 Regulatory background pertaining to Clinical Pharmacology
+
+Date
+Meeting or Communication – key discussion points
+03/29/2016 Under IND 128801, the Applicant submitted protocol for Study GPGA: a SAD/MAD
+study in healthy volunteers with part C MAD in T2DM
+09/06/2018 Type B End-of-Phase 2 meeting –adequacy of Clinical Pharmacology studies,
+utilization of PBPK modeling for DDI, evaluating potential QTc prolongation, use of
+phase 1 to 3 data in the population PK analysis, and adequacy of the 5 mg in the
+OC DDI study
+07/11/2019 Response to request for comment on PBPK and OC DDI
+08/27/2020 Type C Written Response – Population PK/PD, Integrated Summary of Efficacy,
+Program Safety Analysis Plan, Immunogenicity, intercurrent events
+06/24/2021 Type B Pre-NDA meeting – Population PK analysis report, dose in registration
+trial, Exposure-Response relationship, Immunogenicity, validation report of
+Norgestimate and Ethinyl estradiol, PBPK model and validation
+09/15/2021 NDA 215866 submitted
+
+31
+
+Reference ID: 4954959
+
+Table 12 Index of Studies and Analyses in the Clinical Pharmacology Program
+Study Description
+Population
+Disposition and
+Metabolism Study
+GPHX
+Disposition of
+Healthy males
+radioactivity
+and PK
+Healthy Participant PK, PD, and Tolerability
+GPGA
+Single- and
+Healthy participants
+multiple-dose
+safety, PK, and
+PD
+
+SC Dosing Regimen
+
+Single 2.9-mg dose a [14C-TZP 100 µCi]
+
+PK and/or PD in Patients with T2DM, and Tolerability
+GPGA
+Multiple-dose
+T2DM [diet/exercise control
+safety, PK, and
+or using single OAM
+PD
+(metformin or SU)]
+GPGC
+
+Multiple-dose
+safety, PK, PD
+
+Japanese T2DM
+(diet/exercise control or
+using single OAM
+[metformin or DPP-IV
+inhibitor])
+Effect of Injection Delivery Device on PK
+GPGS
+Effect of
+Healthy Participants
+injection device
+
+Effect of Intrinsic Factors
+GPHI
+Effect of BMI
+Healthy participants; low
+and high BMI
+GPGG
+Effect of renal
+Normal or impaired renal
+impairment
+function
+GPGQ
+Effect of hepatic Normal or impaired hepatic
+impairment
+function
+Effect of tirzepatide on PK and/or PD of other drugs
+GPGR
+Effect on
+Healthy women eligible to
+combined OC
+use OC
+Mechanistic Pharmacodynamic Study
+GPGT
+Effect on
+T2DM [diet/ exercise control
+pancreatic α
+and metformin ± 1 other
+and β cell
+OAM (SU or DPP-IV
+function and
+inhibitors or SGLT-2i or ainsulin
+GI)]
+sensitivity
+Studies Providing Population PK/PD Information
+GPGB
+Phase 2
+T2DM (diet/ exercise control
+± metformin)
+
+32
+
+Reference ID: 4954959
+
+[A] SAD: 0.25, 0.5, 1, 2.5, 5.0, and 8 mg TZP or
+placebo
+[B] MAD total dosing duration 4 weeks TZP
+QW [1] 0.5 mg [2] 1.5 mg [3] 4.5 mg TZP QW
+dose escalation: [4] 5/5/8/10 mg each dose
+for 1 week or Dulaglutide: 1.5 mg QW or
+Placebo
+
+Total dosing duration: 4 weeks TZP QW: [1]
+0.5 mg [2] 5 mg TZP QW dose escalation: [3]
+5/5/10/10 mg each dose for 1 week TZP QW
+dose escalation: [4] 5/5/10/15 mg each dose
+for 1 week or Placebo
+Total dosing duration: 8 weeks TZP QW dose
+range: 2.5 to 15 mg [1] 2.5 mg (2 weeks), 5 mg
+(2 weeks), 10 mg (4 weeks) [2] 5 mg (2
+weeks), 10 mg (4 weeks), 15 mg (2 weeks) [3]
+5 mg for 8 weeks or Placebo
+Single 5-mg dose TZP delivered through
+prefilled syringe vs single-dose pen
+(autoinjector) (cross-over study)
+Single 5 mg TZP
+Single 5 mg TZP
+Single 5 mg TZP
+Single 5 mg TZP
+Total dosing duration: 28 weeks Doseescalation scheme: TZP QW: 2.5 mg (4 weeks),
+5 mg (4 weeks), 7.5 mg (4 weeks), 10 mg (4
+weeks), 12.5 mg (4 weeks), 15 mg (8 weeks)
+or Semaglutide 1 mg b or Placebo
+Total dosing duration: 26 weeks TZP QW dose
+range: 1 to 15 mg [1] 1 mg [2] 5 mg [3] 5 mg (2
+weeks) and then 10 mg for remainder of study
+[4] 5 mg (2 weeks), 10 mg (4 weeks) and then
+
+GPGF
+
+Phase 2
+
+T2DM (diet/ exercise control
+± metformin)
+
+GPGH
+
+Phase 3
+
+GPGK
+
+Phase 3
+
+T2DM diet/ exercise control
+and metformin ± SGLT-2i)
+T2DM on metformin and
+insulin glargine
+T2DM (diet/ exercise)
+
+GPGI
+
+GPGL
+
+GPGM
+GPGO
+GPGP
+
+Phase 3
+Phase 3
+Phase 3
+Phase 3
+Phase 3
+
+T2DM diet/ exercise control
+and metformin)
+T2DM with increased CV
+risk; on 1 to 3 OAMs
+Japanese T2DM
+(diet/exercise)
+Japanese T2DM
+(diet/exercise and 1 OAM)
+
+15 mg for remainder of study or Dulaglutide:
+1.5 mg QW or Placebo
+Total dosing duration: 12 weeks TZP QW dose
+range: 2.5 to 15 mg [1] 2.5 mg (2 weeks), 5 mg
+(2 weeks), 10 mg (4 weeks), 15 mg (4 weeks)
+[2] 2.5 mg (4 weeks), 7.5 mg (4 weeks), 15 mg
+(4 weeks) [3] 4 mg (4 weeks), 8 mg (4 weeks),
+12 mg (4 weeks) or Placebo
+TZP QW: 5, 10, and 15 mg QWc for 52 weeks or
+insulin degludec
+TZP QW: 5, 10, and 15 mg QWc for 40 weeks or
+placebo
+TZP QW: 5, 10, and 15 mg QWc for 40 weeks or
+placebo
+TZP QW: 5, 10, and 15 mg QWc for 40 weeks or
+semaglutide 1 mg
+TZP QW: 5, 10, and 15 mg QWc for up to 104
+weeks or insulin glargine
+TZP QW: 5, 10, or 15 mg QWc for 52 weeks or
+dulaglutide 0.75 mg QW for 52 weeks
+TZP QW: 5, 10, or 15 mg QWc for 52 weeks on
+background OAMs d
+
+Abbreviations: a-GI = alpha‐glycosidase inhibitors; CV = cardiovascular; BMI = body mass index; DPP-IV = dipeptidyl peptidase-4; MAD = multiple ascending
+dose; OC = oral contraceptive; OAM = oral antihyperglycemic medication; PD = pharmacodynamics; PK = pharmacokinetics; QW = once weekly; SAD = singleascending dose; SC = subcutaneous; SGLT-2i = sodium-glucose cotransporter type 2 inhibitor; SU = sulfonylurea; T2DM = type 2 diabetes mellitus; TZD =
+thiazolidinedione; TZP = tirzepatide administered SC. a Planned dose 4.1 mg; actual dose 2.9 mg; however, 100 μCi 14C was administered per plan. b
+Semaglutide dose-escalation scheme: Per Ozempic label, i.e., starting dose is 0.25 mg QW for 4 weeks, followed by an increase to 0.5 mg QW for the next 4
+weeks, followed by an increase to 1 mg QW for the duration of the study. c Tirzepatide dose-escalation scheme for all Phase 3 studies: Starting dose is 2.5 mg
+QW for 4 weeks, followed by an increase to 5 mg QW, for the duration of the study in the 5-mg group. For the 10-mg group, the starting dose is 2.5 mg QW for
+4 weeks, followed by dose increases of 2.5 mg every 4 weeks (2.5 to 5 mg to 7.5 to 10 mg) until the 10-mg dose is reached and maintained for the duration of
+the study. For the 15-mg group, the starting dose is 2.5 mg QW for 4 weeks, followed by dose increases of 2.5 mg every 4 weeks (2.5 to 5 mg to 7.5 to 10 mg
+to 12.5 to 15 mg) until the 15-mg dose is reached and maintained for the duration of the study. d OAMs: SUs, biguanides, a-GIs, TZD, glinides, or SGLT-2i’s.
+
+(Source: page 17 Table 2.7.2.1 of Summary of Clinical Pharmacology)
+
+4.2 In Vitro Studies
+Six in vitro studies with human biomaterials were conducted to determine protein binding
+and the potential for tirzepatide to inhibit and/or induce CYP enzymes and transporters was
+investigated as follows.
+
+Study LY3298176-fu assessed the in vitro plasma protein binding of tirzepatide in rat, monkey,
+and human plasma by a florescence polarization (fp) method. In the presence of a fixed 0.05 µM
+concentration of the fluorescent ligand, binding was measured over a range of protein
+concentrations (0.01 to 250 µM) for the following matrices: human serum albumin (HSA), human
+α1-acid glycoprotein, and human plasma. Fluorescent-labeled tirzepatide bound to albumin, but not
+α1-acid glycoprotein. Consequently, the protein binding of fluorescent-labeled tirzepatide in plasma
+was attributed to albumin. The protein binding of fluorescent-labeled tirzepatide in plasma was
+calculated from the dissociation constant (Kd) related to albumin and its measured concentration
+in plasma to determine fraction unbound in 6 replicates of human plasma. Tirzepatide was highly
+bound in human plasma with a mean percent bound of 99.06%.
+33
+
+Reference ID: 4954959
+
+Study XT195111 assessed the in vitro inhibitory potential of tirzepatide on CYP3A, 2D6, 2C19,
+2C9, 2C8, 2B6, and 1A2 in human hepatic microsomes. Following 5-minute incubations of enzyme
+substrate with tirzepatide concentrations up to 100 μM, samples were analyzed for formation of the
+specific marker metabolite. At concentrations up to 100 μM, 309x higher than the 0.324 μM Cmax for
+tirzepatide 15 mg dose, none of the evaluated CYPs were sufficiently inhibited by tirzepatide to
+determine a half-maximal inhibitory concentration (IC50) value. In addition, there was no evidence
+of time-dependent inhibition (NADPH-independent) of any CYP enzymes examined (Table 13).
+These results suggest that tirzepatide would not be expected to cause clinically relevant inhibition
+of the clearance of other drugs metabolized by these CYP enzymes.
+Table 13 Summary In vitro evaluation of tirzepatide as an inhibitor of human CYP enzymes
+Enzyme
+
+CYP3A
+CYP3A
+CYP2D6
+CYP2C19
+CYP2C9
+CYP2C8
+CYP2B6
+CYP1A2
+
+Substrate
+
+Testosterone
+Midazolam
+Dextromethorphan
+S-Mephenytoin
+Diclofenac
+Amodiaquine
+Efavirenz
+Phenacetin
+
+Direct inhibition
+
+0-min preincubation
+IC50
+(µM)a
+
+> 100
+
+Maximum inhibition
+observed (%)b
+14.5
+18.9
+9.4
+9.1
+8.7
+11
+5.3
+2.4
+
+Time-dependent (NADPHindependent) inhibition c
+30-min preincubation without
+NADPH
+IC50
+Maximum inhibition
+(µM)a
+observed (%)b
+11.2
+> 100
+21.4
+3.1
+4.5
+7.2
+8.2
+NA
+NA
+
+Time- plus NADPHdependent inhibition c
+30-min preincubation with
+NADPH
+IC50
+Maximum inhibition
+(µM)a observed (%)b
+18.6
+> 100 23.8
+4.3
+12.3
+8.7
+18.1
+4.4
+2.0
+
+NA Not applicable. No value was obtained as the rates at all concentrations of TIRZEPATIDE evaluated were higher than the control rates. a Average data (i.e.,
+percent of control activity) obtained from duplicate samples for each test article concentration were used to calculate IC50 values. b Maximum inhibition
+observed (%) is calculated with the following formula: Maximum inhibition observed (%) = 100% − the minimum percent solvent control for any test article
+concentration. c When an IC50 value was calculated, time-dependent (i.e., NADPH-independent) inhibition and metabolism-dependent (i.e., time- plus
+NADPH- dependent) inhibition were determined by comparison of IC50 values with and without preincubation and NADPH and by visual inspection of the
+IC50.
+
+(Source: Table 4, page 28 of Study XT195111 report)
+
+Study XT193106 evaluated the potential of tirzepatide to induce CYP1A2, 2B6, 2C8, 2C9, C19, 2D6,
+3A4, and 3A5 in cultured human hepatocytes from 3 separate donors using quantitative reverse
+transcription-polymerase chain reaction. An enzyme activity assessment was also conducted via
+LC-MS/MS analysis of marker substrates for each enzyme. Clinically relevant CYP inducers were
+included as positive controls, specifically, omeprazole (CYP1A2 inducer), CITCO (CYP2B6 inducer),
+phenobarbital (CYP2B6 inducer and CYP3A5 mRNA), rosiglitazone (a weak inducer of CYP3A4/5),
+pioglitazone (a moderate inducer of CYP3A4/5) and rifampin (moderate inducer of CYP2C8,
+CYP2C9, CYP2C19, CYP3A5 and strong inducer of CYP3A4). Tirzepatide was not found an inducer of
+the mRNA expression or activity level of these CYPs at concentration ranging from 0.1 to 100 μM
+because it did not demonstrate concentration-dependent increases in mRNA expression resulting in
+fold change ≥ 2 and response ≥ 20% of the positive control response. These results suggest that the
+potential for tirzepatide to cause clinically relevant drug interactions via induction of these drugmetabolizing CYP enzymes is low.
+
+Study TIRZEPATIDE MATE1 and 2K Inh assessed the in vitro inhibitory potential of tirzepatide
+on MATE1 and MATE2-K at concentrations range 0.01 to 200 μM using [14C] metformin (20 μM) as
+substrate. Neither of the transporters were sufficiently inhibited by tirzepatide to determine a halfmaximal inhibitory concentration (IC50) value. Hence, no inhibition of MATE1 or MATE2-K was
+34
+
+Reference ID: 4954959
+
+observed in the tirzepatide concentration range tested. These in vitro data suggest that the
+potential for tirzepatide to cause clinically relevant drug interactions via MATE1 or MATE2-K is
+low.
+
+Study TIRZEPATIDE-2020TP-SLC-Inh assessed the in vitro inhibitory potential of tirzepatide
+concentrations of up to 200 μM on OCT1, OCT2, OAT1, or OAT3 or up to 250 μM OATP1B1 or
+OATP1B3 transporters. OATP1B1-mediated transport of [3H] rosuvastatin was inhibited by
+TIRZEPATIDE with the average IC50 value of 15.65 μM in 0.1% fatty acid-free human serum albumin
+(HSA-faf), but no inhibition was observed in physiologically relevant concentration of albumin of
+4% HSA-faf. OATP1B3-mediated transport of [3H] atorvastatin with the average IC50 value of 2.81
+μM in 0.1% HSA-faf and 129.65 μM in 4% HSA-faf. The remaining SLC transporters were challenged
+with TIRZEPATIDE in the presence of 0.1% HSA-faf. OCT1 and OCT2-mediated uptake of [14C]
+metformin, OAT1-mediated uptake of [14C] p-aminohippuric acid, and OAT3-mediated uptake of
+[3H] estrone 3-sulfate were not inhibited by tirzepatide in a concentration-dependent manner.
+These suggest that the potential for tirzepatide to cause clinically relevant drug interactions via
+OCT1, OCT2, OAT1, OAT3, OATP1B1, or OATP1B3 is low.
+Study TIRZEPATIDE-2020TP-BCRP-Pgp-In was an in vitro assessment of TIRZEPATIDE for
+Breast Cancer Resistance Protein (BCRP) and P-glycoprotein (P-gp) inhibition potential over the
+concentration range 0.091 to 200µM. [3H]-vinblastine and [3H]-rosuvastatin were the P-gp and
+BCRP substrates used respectively. At the highest tirzepatide concentration tested of 200 μM, the
+observed range of inhibition of P-gp was 47.6-50.1% and BCRP was 15.5-27.8%. These in vitro data
+suggest that the potential for tirzepatide to cause clinically relevant drug interactions via BCRP and
+P-gp is low.
+
+4.3 Summary of Bioanalytical Method Validation and Performance
+
+The Applicant used the same validated liquid chromatography with tandem mass
+(b) (4)
+spectrometry (LC/MS/MS) assay developed and validated by
+method over the course of clinical development to determine tirzepatide concentration in human
+serum. Table 14 lists the method validation summaries used.
+
+Briefly, the LC/MS method involved extraction of tirzepatide from human plasma using
+immunoaffinity capture in a 96-well format and LSN3316897 [Stable isotope-labeled
+TIRZEPATIDE] as the internal standard. The tirzepatide and internal standard were identified and
+quantified using Q Exactive or Q Exactive Plus quadrupole-orbitrap mass spectrometer equipped
+with Heated Electrospray Ionization™ (HESI) and High Mass Resolution, Accurate Mass Monitoring
+(HRAM) detection. Liquid chromatography was performed with an LC/MS system consisting of a
+Supelco Discovery BioWide Pore C5-3 (5.0 x 0.1 cm, 3 μm) chromatography column and Dionex
+UltiMate 3000 with gradient elution using Mobile Phase A: 5:95 Formic Acid/Water and Mobile
+Phase B: 5:95 Formic Acid/Acetonitrile in 50:50 Water/Methanol. The detection was monitored at
+mass (amu) of 1204.140/1204.391 for tirzepatide and a mass (amu) of 1206.395 for the internal
+standard. The concentrations were calculated using peak area ratios, and the linearity of the
+calibration curve was determined using linear regression analysis employing a 1/x2 weighting. The
+standard curve range was 2 ng/mL to 500 ng/mL. The lower limit of quantitation was 2 ng/mL, and
+35
+
+Reference ID: 4954959
+
+the upper limit of quantitation was 500 ng/mL. The inter-assay accuracy (%RE) during validation
+ranged from - 0.5% to 10.9%. The inter-assay precision (%CV) during validation was ≤12.2%.
+Quality control samples across the standard curve range were included in each sample analysis
+batch. Plasma samples with concentrations of tirzepatide above the upper limit of quantitation
+were determined by up to a 100-fold dilution. Incurred sample reanalysis was conducted for all
+clinical studies and the results indicated that the assay method performed according to established
+(b) (4)
+ISR acceptance criteria with a
+% passing rate.
+
+36
+
+Reference ID: 4954959
+
+Table 14 Bioanalytical method validation summary
+
+37
+
+Reference ID: 4954959
+
+38
+
+Reference ID: 4954959
+
+39
+
+Reference ID: 4954959
+
+40
+
+Reference ID: 4954959
+
+41
+
+Reference ID: 4954959
+
+42
+
+Reference ID: 4954959
+
+43
+
+Reference ID: 4954959
+
+44
+
+Reference ID: 4954959
+
+(Source: Table APP.2.7.1.4.1 of Appendix of the Summary of Biopharmaceutic Studies and Associated Analytical Methods)
+
+45
+
+Reference ID: 4954959
+
+4.4
+
+Pharmacometrics Review
+
+In general, the Applicant’s population PK and PK-PD analyses are considered acceptable for
+descriptive labeling purposes and for capturing tirzepatide PK-PD. More specifically, the developed
+population PK (popPK) model was utilized to support the current submission as outlined below:
+Table 1. Utility of the Population PK-PD Modeling
+
+Utility of the final model
+Derive
+exposure
+metrics and PK
+parameters
+
+Reviewer’s Comments
+
+• The popPK was used to assess the • Body weight was the only statistically
+adequacy of the proposed dosing in
+significant and relevant covariate on
+all adult patients, identify and
+tirzepatide clearance and volume of
+quantify the effect of various
+distribution parameters. However, no
+dose adjustment is required based on
+covariates on tirzepatide exposure
+body weight due to the moderate
+and assess the need for dose
+adjustment.
+effect on exposure in the context of
+the gradual titration of tirzepatide
+• The popPK model was used to
+treatment.
+predict tirzepatide concentrations,
+
+Cmax and the area under the • Age, sex, ethnicity, renal and hepatic
+concentration-time curve over the
+impairment as well as ADA status and
+weekly dosing interval (AUCtau) at
+titers were not found to have a
+each dose level, as well as predict
+statistically significant effect on the PK
+of tirzepatide, and no dose adjustment
+tirzepatide half-life and justify
+is necessary based on these covariates.
+handling missed dose.
+
+• The popPK model was used to • The Applicant’s proposal to administer
+tirzepatide as soon as possible within 4
+predict the individual PK parameters
+days (96 hours) of a missed dose,
+used in the sequential PK-PD
+otherwise to skip the dose (if more
+modeling.
+than 4 days has passed) before
+resuming the regular weekly regimen
+is acceptable.
+Derive
+exposure
+metrics for
+Exposureresponse
+analyses
+
+• The final PK model was used to • The developed PK-PD models
+predict the individual PK parameters
+adequately described the effect of
+used in the sequential PK-PD
+tirzepatide regimen on lowering
+modeling for the following models:
+fasting Glucose and HbA1c, lowering
+the fasting Glucose and HbA1c
+body weight, and the development of
+tolerance to nausea-vomiting and
+model, the body weight loss model
+and the nausea-vomiting and
+diarrhea.
+diarrhea Markov models.
+
+46
+
+Reference ID: 4954959
+
+1. Population Pharmacokinetic Analysis
+The population PK (popPK) analysis was based on PK data from 19 studies (Table 2): ten Phase 1 studies
+in healthy subjects and subjects with type 2 diabetes (T2DM), two Phase 2 studies, and seven Phase 3
+studies in patients withT2DM.
+Tirzepatide was administered subcutaneously (SC) as a single or repeated weekly dose of 0.25 to 15 mg
+up to 104 weeks (Table 2). In one Phase 1 study (GPGE, Part D), tirzepatide was administered as single
+dose (0.5 mg) intravenous (IV) bolus. The analysis dataset was comprised of 39644 PK observations from
+5811 subjects, after exclusion of 7670 BLQ (below limit of quantification of 2 ng/mL) concentrations, that
+represented a small fraction (16%) of the PK data. In the Phase 1 studies, PK samples were collected
+between 0 and 864 hours post-dose, with 10 to 15 samples per study participant. In the Phase 2 GPGB
+study, sparse PK sampling was collected at time windows of 1 to 48 hours, 48 to 72 hours, and 96 to 168
+hours. In three Phase 3 studies (GPGK, GPGM, GPGI), PK sample collection was performed either at predose or scheduled at randomly assigned PK window of 1 to 24 hours, 24 to 96 hours, or 120 to 168 hours
+post-dose (at protocol-specified 3 or 4 visits). In the Phase 2 GPGF study and in four Phase 3 studies (GPGL,
+GPGH, GPGO, GPGP), PK samples were collected pre-dose at the same time as immunogenicity samples
+at 5 to 6 visits across the duration of the studies and at the follow-up visit.
+The summary statistics for the baseline continuous and categorical demographic characteristics stratified
+by study phase and health status are presented in Table 3. About 95% of participants were patients with
+T2DM. A majority of the participants were white, non-Hispanic males. The average age and body weight
+at baseline were 57 years and 89 kg, respectively.
+
+47
+
+Reference ID: 4954959
+
+Table 2. Tirzepatide Clinical Studies Used for the Population Pharmacokinetic and Exposure-Response Analyses
+
+Source: Applicant’s Population PK/PD Report, pages 23-29. (continued on next page)
+
+48
+
+Reference ID: 4954959
+
+Source: Applicant’s Population PK/PD Report, Table7.1, pages 23-29. (continued on next page)
+
+49
+
+Reference ID: 4954959
+
+Source: Applicant’s Population PK/PD Report, Table7.1, pages 23-29. (continued on next page)
+
+50
+
+Reference ID: 4954959
+
+Source: Applicant’s Population PK/PD Report, Table7.1, pages 23-29. (continued on next page)
+51
+
+Reference ID: 4954959
+
+Source: Applicant’s Population PK/PD Report, Table7.1, pages 23-29. (continued on next page)
+
+52
+
+Reference ID: 4954959
+
+Source: Applicant’s Population PK/PD Report, Table7.1, pages 23-29.
+53
+
+Reference ID: 4954959
+
+Table 3. Summary of Baseline Demographic Characteristics
+
+Source: Applicant’s Population PK/PD Report, Table7.5, pages 42-43. (continued on next page)
+54
+
+Reference ID: 4954959
+
+Source: Applicant’s Population PK/PD Report, Table7.6, pages 44.
+
+55
+
+Reference ID: 4954959
+
+Base PK model
+The pharmacokinetics of tirzepatide was best described by a 2-compartment distribution model with
+linear elimination from the central compartment. The SC absorption of tirzepatide was characterized as
+first-order process without lag time. The PK model was parameterized in terms of clearance (CL), central
+and peripheral volumes of distribution (Vc and Vp respectively), intercompartmental clearance (Q),
+absorption rate constant (Ka) and absolute bioavailability (F1). Interindividual (or between-subject)
+variability (IIV) was estimated on CL, Vc, Ka and on the proportional residual error. The residual error
+model consisted of a proportional error model.
+Covariates Analysis
+Age, sex, total body weight (WT) and fat free mass (FFM, Janmahasatian S, et al. Clin Pharmacokinet. 2005;
+44(10): 1051-1065), body mass index (BMI), formulation (lyophilized vs. solution), injection device(syringe
+vs. autoinjector), race, ethnicity (Hispanic vs. non-Hispanic, Japanese vs. non-Japanese), anti-drug
+antibodies (ADA), albumin, aspartate and alanine transaminases, eGFR (estimated glomerular filtration
+using the CKD-EPI formula of the National Institute of Health at https://www.niddk.nih.gov/.../ckd-epiadults-conventional-units) were the examined covariates during covariate model selection.
+The following covariates were retained in the final PK model:
+•
+•
+•
+•
+
+WT (time varying covariate) on CL and Q, using a power model centered at 70 kg.
+FFM and an estimated fraction of the fat mass (time varying covariates) on Vc and Vp, using a
+power model centered at 70 kg.
+Formulation (lyophilized) on Ka, using a proportional model.
+Study effect (other than study GPGE) on F1 (F1 fixed to 80% for SC formulations as determined
+from study GPGE for a 5 mg single SC dose relative to a single 0.5 mg IV bolus dose).
+
+Final model
+The parameter estimates from the final popPK model for tirzepatide are listed in Table 4. According to the
+popPK model, for an average 70 kg individual receiving the SC solution formulation (single dose pen), the
+population estimates for tirzepatide CL, Vc, Q, Vp, F1 and Ka are 0.0329 L/h (0.79 L/day), 2.47 L, 0.126 L/h,
+3.98 L and 66% (absolute bioavailability) and 0. 0373 h-1, respectively.
+The estimated interindividual variability (IIV) expressed as coefficient of variation (%CV) were 14.2%, 49%
+and 22.5% for CL, Vc, and Ka, respectively. The interindividual random effect (ETA) shrinkage from the
+final popPK model was 10.5%, 21% and 56.9% for CL, Vc and Ka.
+
+56
+
+Reference ID: 4954959
+
+Table 4. Parameter Estimates from the Final Population PK Model
+
+Source: Applicant’s Population PK/PD Report, Table 9.2, page 68.
+57
+
+Reference ID: 4954959
+
+Body weight was the only statistically and clinically relevant covariate driving the differences in tirzepatide exposure. According
+to the Applicant’s PK model and simulations, relative to a 90 kg subject, tirzepatide exposure (Cmax and AUC) are expected to be
+23% higher and 21% lower in a 70 kg and 120 kg subject, respectively (Figure 1). However, based on the moderate differences
+(about 30%) in exposure, no dose adjustment is required based on body weight. The effect of age, sex, ethnicity, organ
+impairment as well as ADA were not found to have a statistically significant effect on the PK of tirzepatide.
+
+Figure 1. Forest Plot for the Effect of Intrinsic Covariates on Tirzepatide exposure
+
+Source: Applicant’s Population PK/D Report, Figure 10.4, page 124.
+
+58
+
+Reference ID: 4954959
+
+The goodness-of-fit (GOF) plots from the final popPK model, are shown in Figure 2. The plots of the
+observed concentrations versus population predicted as well as the individual predicted concentrations
+show random normal scatter around the identity lines, indicating absence of systematic bias. The
+conditional weighted residuals versus time after dose or versus population predicted concentrations show
+random normal scatter around zero with no specific trend, indicating no major model misspecifications.
+Figure 2. Goodness of Fit Plots from the Final PK Model
+
+Source: Applicant’s Population PK/D Report, Figure ATT.9, page 356.
+
+The prediction-corrected visual predictive check (pcVPC) plots (Figure 3) of concentrations versus time
+showed a reasonable agreement between the observed and simulated data, with the absence of overt
+bias. Due to the large number of observations which are incorporated into the simulation replicates (200
+replicate of the original dataset with 39644 observations from 5811 subjects), the 95% CI of the 5th, 50th,
+and 95th percentiles of the simulation were narrow. Overall, the 95% CI bands for simulation of the 5th,
+50th, and 95th percentiles corresponded with the observation percentiles. Although modest differences
+are visually detected between the simulation and observation percentiles, the numerical differences are
+small.
+59
+
+Reference ID: 4954959
+
+Figure 3. Prediction-Corrected Visual Predictive Check for the Final PK Model
+
+Note: dots represent the observed PK data. Top panels: prediction-corrected concentrations up to 6 weeks (1008 hours) post-dose with (left)
+and without (right) observed data. Bottom panels: prediction-corrected concentrations up to 1 week (168 h) after tirzepatide dose. The black
+lines represent the median (solid line), 5th and 95th percentiles (dashed lines) of the observed data. The red narrow bands represent the 95%CI of
+the median, 5th and 95th percentiles of the simulated concentrations (based of 200 dataset replicates).
+Source: Applicant’s Response to Information Request on PK model evaluation (01 February 2022), Figure 5.6, page 16.
+60
+
+Reference ID: 4954959
+
+Application of the PK Model to Justify Handling Missed Doses
+The tirzepatide PK model was used to perform simulations to illustrate the impact of administering a
+tirzepatide dose at different times (1 to 6 days) after a missed scheduled weekly dose (Figure 4). The
+simulation results showed that if a tirzepatide dose is missed, it should be administered as soon as possible
+within 4 days after the day of missed dose. Administration of tirzepatide dose within 4 days of the missed
+dose resulted in <20% increase in Cmax associated with the subsequent scheduled dose. If more than 4
+days have passed, it is recommended that the missed dose be skipped and to resume the regular weekly
+(QW) dosing schedule by administering tirzepatide on the next regularly scheduled day.
+Figure 4. Median Tirzepatide Exposure Under Various Dosing Delays and Handling dosing Delays
+
+Source: Applicant’s Population PK/D Report, Figure 10.6, page 126.
+61
+
+Reference ID: 4954959
+
+Reviewer’s Assessment of the Population PK Analysis
+•
+
+•
+•
+
+•
+•
+
+•
+
+•
+•
+
+•
+
+•
+
+The Applicant’s PK model appropriately describes the observed tirzepatide concentrations from the
+conducted clinical studies and is appropriate for evaluating the effects of covariates of tirzepatide PK
+and for performing model based predictions of PK.
+The PK parameters from the final model were estimated with good precision, with relative standard
+errors (%RSE) of the typical PK parameters less than 15.8%.
+Among the PK parameters that are affected by the identified covariates, the ETA shrinkage was low
+for CL (10.4%), Vc (20.9%) and relatively high for Ka (56.8%), which makes the graphical assessment
+of covariates on Ka parameter less reliable.
+The residual error (Epsilon) shrinkage was low (3.1%), indicating the informativeness of the GOF to
+diagnose structural and residual error model misspecifications.
+The evaluation of the overall GOF plots as well as the GOF plots by study showed that the Applicant
+final PK model adequately described the entire range of concentrations from all studies with no major
+bias.
+The pcVPC plots show that overall, the variability in the data (quantified by the 5th and 95th
+percentiles) was reasonably well captured and described for tirzepatide. The observed and simulated
+PK profiles for tirzepatide are in good agreement, with the 5th, 50th and 95th percentiles of the
+prediction-corrected observed concentrations (black solid and dashed lines) are encompassed within
+the 95%CI of the 5th, 50th and 95th percentiles of the prediction-corrected simulated concentrations
+(red areas), during the entire weekly dosing interval.
+No statistically significant relationship between ADA and CL was detected when ADA status or ADA
+titer was tested as a covariate.
+The Applicant’s model used total WT as covariate on CL and Q (allometric relationship), but FFM as
+covariate on Vc and Vp with an estimated typical contribution of fat mass of 48% on Vc and Vp. An
+alternative simplified PK model that uses total WT as covariate on both volumes of distributions
+parameters, resulted in a higher objective function value (OFV) compared to the Applicant PK model
+(difference in OFV of 542 points). However, the impact on the individual predicted concentrations was
+minimal, suggesting that a simplified PK model that uses of total WT as a covariate on both clearances
+and volumes of distribution is acceptable for model based simulations.
+Body weight was the only covariate affecting CL and Vc. However, no dose adjustment is required
+based on body weight due to the moderate differences (less than 30%) in exposure in patients with
+body weight ranging from 70 to 120 kg (representing 10th and 90th percentiles of WT in the studied
+Phase 3 population) compared to a 90 kg patient (median of observed WT). For the lowest observed
+WT value of about 45 kg, mean tirzepatide exposure is expected to be 75% higher compared to a 90
+kg patient. However, given the efficacy and safety profiles under the lowest starting dose of 2.5 mg
+as well as the proposed gradual titration of tirzepatide treatment (that will allow to control for
+potential adverse events) no further dose adjustment is likely needed.
+The Applicant’s proposal to administer tirzepatide as soon as possible. within 4 days of a missed dose,
+or to skip the dose before resuming the regular QW regimen If more than 4 days have passed is
+acceptable.
+2. Population Pharmacokinetic-Pharmacodynamic Analyses
+62
+
+Reference ID: 4954959
+
+Fasting Glucose and HbA1c Model
+The Exposure-response analysis characterizing the effect of tirzepatide on fasting glucose (FG) and
+HemoglobinA1c (HbA1c) was based on observations from 9 (Phase 2 and Phase3) studies (Table 2). The
+final analysis dataset included 50256 FG observations and 48481 HbA1c observations from 5562 patients.
+Approximately 95% of FG and HbA1c observations were collected up to 67 weeks after start of tirzepatide
+treatment. A training dataset that consisted of 9030 FG observations and 8804 HbA1c observations from
+2708 patients (approximately 200 to 300 patients randomly selected from each of the 9 studies) was used
+for the PK-PD model development. The PK-PD model evaluation (bootstrap and VPC) used the full dataset.
+Base PK-PD model
+A sequential modeling approach was used to characterize the effect of tirzepatide on FG and HbA1c.
+Individual predicted PK parameters from the tirzepatide popPK model were integrated with the FG and
+HbA1c observations.
+The time course of HbA1c response was driven by FG concentrations through a linked model that fitted
+both FG and HbA1c data jointly (Figure 5). A disease progression model that integrated an offset
+compartment where tirzepatide and placebo effects were introduced was utilized to describe FG response
+over time. The time course of HbA1c was described using an indirect response model dependent on FG.
+A schematic representation of the tirzepatide PK model linked to the glucodynamics of FG and HbA1c is
+depicted in Figure 5 below.
+
+63
+
+Reference ID: 4954959
+
+Figure 5. Schematic of the Structural PK-PD Model Linking Tirzepatide PK to the Fasting Glucose and HbA1c
+responses:
+
+Source: Applicant’s Population PK/PD Report, Figure 8.1, page 50.
+
+64
+
+Reference ID: 4954959
+
+The system of equations that describe the PD (FG-HbA1c) model are provided below:
+
+𝑲𝑲𝑰𝑰𝑰𝑰 =
+
+(𝑲𝑲𝑶𝑶𝑶𝑶𝑶𝑶 ∗ 𝑬𝑬𝑬𝑬𝑯𝑯 )
+(𝑬𝑬𝑬𝑬𝑮𝑮 )𝝋𝝋
+
+Where E0H is the baseline HbA1c, E0G is the baseline fasting plasma glucose (FPG) and ϕ is the FPG
+exponent.
+
+Source: Adapted from the Applicant’s Population PK/PD Report, Figure 8.2, page 51, and the Applicant PKPD model (tzpfga1c-370.mod).
+In the Applicant PD model, the maximum drug effect (Emax) on lowering FG (and thus indirectly HbA1c
+levels) was modeled to be dependent on baseline HbA1c, as patients with a higher baseline HbA1c
+showed a greater reduction in HbA1c at week 40.
+
+65
+
+Reference ID: 4954959
+
+Final PK-PD model
+The parameter estimates from the final PK-PD model linking tirzepatide exposure to the effect on FG and
+HbA1c are listed in Table 5. According to the exposure-response model (FG-HbA1c model), the maximum
+drug effect (Emax) on lowering FG was estimated to be 38%, resulting in a decrease of FG to 5.73 mmol/L
+from an estimated population baseline fasting glucose levels (E0G) of 9.24 mmol/L. At Emax, tirzepatide
+was estimated to lower HbA1c to 5.13% (HLIM parameters), a value considered within normal limits for
+people without prediabetes or T2DM.
+The tirzepatide plasma concentrations responsible for 50% of the maximum drug effect on FG (EC50) was
+estimated to be 174 ng/mL. The tirzepatide average steady-state concentrations (Css) resulting from the
+5 mg, 10mg , and 15 mg once weekly (QW) administration ranged from 491 to 1470 ng/mL, and these
+concentrations were associated with the attainment of 74% to 89% of the maximal effect on FG. Weight
+loss (calculated as: WT at each visit - baseline WT) was the only covariate included in the model and found
+to have a statistically significant effect on EC50, with a decrease in EC50 (i.e., increase in drug potency)
+with a decrease in body weight over time. For instance, a 5% weight loss is predicted to be associated with
+an average 29% decrease in EC50.
+The ETA shrinkage from the final FG-HbA1c model was 9.9%, 4.3%, 47.4%, 55.2%, 68.1%, 72% and 62.4%
+for E0G, E0H, PLAC, Koff, Kout, HLIM and EC50, respectively.
+
+66
+
+Reference ID: 4954959
+
+Table 5. Parameter Estimates from the Final Population FG-HbA1c Model
+
+Source: Applicant’s Population PK/PD Report, Table 9.3, page 72.
+67
+
+Reference ID: 4954959
+
+The goodness-of-fit (GOF) plots from the final FG-HbA1c model, are shown in Figure 6. The GOF plots
+indicate adequate fidelity between model predictions and observed data and the absence of overt bias.
+
+Figure 6. Goodness of Fit Plots from the Final FG-HbA1c Model
+
+Source: Applicant’s Population PK/D Report, Figure ATT.14, page 372.
+
+The VPC plots for the final FG-HbA1c model showed good agreement between the full dataset of observed
+change from baseline and model-predicted FG and HbA1c (Figure 7). The width of the confidence intervals
+in the VPC were inversely correlated with the amount of data in each stratification. Less data was available
+for the placebo, 1 mg and 12 mg dose groups and thus, the confidence interval bands appeared wider in
+these groups compared to the tirzepatide 5 mg, 10 mg, and 15 mg groups.
+
+68
+
+Reference ID: 4954959
+
+Figure 7. Visual Predictive Checks for the Change from Baseline in FG and HbA1c from the Final FG-HbA1c Model
+
+Source: Applicant’s Population PK/PD Report, Figure 9.6, page 75.
+
+69
+
+Reference ID: 4954959
+
+Application of the FG-HbA1c Model Demonstrating the Dose-dependent Response
+The Applicant’s simulations performed with the FG-HbA1c model showed that the effect of tirzepatide on
+FG and HbA1c increased with increasing tirzepatide doses (
+Figure 8) with a significant glycemic improvement associated with tirzepatide 5, 10, or 15 mg QW evident
+after 40 and 52 weeks after the start of tirzepatide treatment.
+
+Figure 8. Model-Predicted Change from Baseline in Fasting Glucose and Hb1Ac at Week 52, Across Tirzepatide Doses of 5, 10
+and 15 mg
+
+The FG-HbA1c model simulations showed a dose-dependent glycemic improvement with tirzepatide
+treatment across a range of baseline HbA1c (Figure 9 upper panel) as well as across categories of body
+weight reduction (Figure 9 lower panel). Tirzepatide treatment was associated with the attainment of key
+clinical thresholds for glycemic improvement (HbA1c < 7% and HbA1c < 5.7%). Across the Phase 3
+(SURPASS) studies, the percentage of patients with HbA1c < 7% ranged between 81 to 97% and with
+HbA1c <5.7% ranged between 23 to 62% at Weeks 52.
+
+70
+
+Reference ID: 4954959
+
+Figure 9. Model-Predicted Change from Baseline in Hb1Ac at Week 52 Across Tirzepatide Doses of 5, 10 and 15 mg, Stratified by
+Baseline HbA1c (Upper Panel) and Weight Reduction (Lower Panel)
+
+71
+
+Reference ID: 4954959
+
+Reviewer’s Assessment of the Population FG-HbA1c Model
+•
+•
+
+•
+
+•
+
+•
+
+The Applicant’s FG-HbA1c model appropriately describes the observed FG, HbA1c and the change
+from baseline in FG and HbA1c over time following placebo and tirzepatide treatment.
+The FG-HbA1c model parameters were estimated with good precision, with relative standard errors
+(%RSE) of the typical PD parameters less than 14.3% for all parameters, except for a relatively higher
+%RSE of 38.5% for the estimated exponent describing the effect of weight loss on the decrease of
+EC50.
+The ETA shrinkage was low for the baseline fasting glucose (9.9%) and baseline Hb1Ac (4.3%).
+However, no covariate effect on these PD parameters was identified from the graphical assessment
+of covariates plots. The ETA shrinkage was relatively high (47.4% to 72%) for all the other PD
+parameters. The residual error (Epsilon) shrinkage was low (17.9%).
+Although, the covariate effect on EC50 was relatively less precisely estimated (%RSE 38.5%) and the
+ETA shrinkage on EC50 was relatively high (62.4%), weight loss was the only identified statistically
+significant covariate on EC50 (a backward deletion of the covariate increased the OFV by 41.8 points),
+suggesting a higher potency of tirzepatide with weight loss.
+The Applicant’s FG-HbA1c model simulations appropriately captured the observed tirzepatide dosedependent effect in reducing FG and HbA1c with increasing tirzepatide dose of 5mg, 10 mg and 15
+mg QW at week 52, as well as the increasing effect of weight loss on HbA1c reduction.
+
+Body Weight Model
+The Exposure-response analysis characterizing the effect of tirzepatide on lowering body weight (weight
+loss) was based on observations from 9 (Phase 2 and Phase3) studies (Table 2). The dataset for exposureresponse analysis included 128638 body weight (FFM and fat mass) observations from 5607 patients. A
+training dataset that consisted of 64422 body weight (WT) observations from 2804 patients (randomly
+selected from each of the 9 studies) was used for the PK-PD model development. The remaining dataset
+was used as an external validation dataset (through VPC).
+Base PK-PD model
+A sequential modeling approach was used to characterize the effect of tirzepatide on lowering WT.
+Individual predicted PK parameters from the tirzepatide popPK model were integrated with the FFM and
+fat mass observations. An indirect response model was used to account for a delay in the effect of
+tirzepatide in reducing WT. The dependent variables used for the PD modeling, and representing total
+WT, were FFM and fat mass (the sum of the predicted FFM and fat mass gives the model-predicted total
+WT). A schematic representation of the tirzepatide PK model linked to the weight loss model is depicted
+in Figure 10 below.
+
+72
+
+Reference ID: 4954959
+
+Figure 10. Schematic of the Structural PK-PD Model Linking Tirzepatide PK to Body Weight
+
+Source: Applicant’s Population PK/PD Report, Figure 8.3, page 53.
+As FFM and fat mass are derived from total WT, a correlation between the proportional residual error
+model for each dependent variable was included in the PD model using the L2 data item in NONMEM. The
+tirzepatide effect on inhibiting the formation rate (Kin) of FFM and fast mass were best described using a
+linear model provided below:
+𝐾𝐾𝐾𝐾𝐾𝐾𝑡𝑡 = 𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵 𝐾𝐾𝐾𝐾𝐾𝐾 − 𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵 𝐾𝐾𝐾𝐾𝐾𝐾 × (𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃 + 𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆 × 𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑡𝑡 )
+
+where 𝐾𝐾𝐾𝐾𝐾𝐾𝑡𝑡 is the formation rate of either FFM or fast mass at time t, 𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵 𝐾𝐾𝐾𝐾𝐾𝐾 is the stead-state
+formation rate in the absence of drug (expressed in kg/week), 𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃 is the additive placebo effect on
+Kin reduction and 𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆 is the proportional effect of tirzepatide concentrations on the reduction of kin.
+Source: Adapted from the Applicant’s Population PK/PD Report, page 53, and the Applicant PK-PD model
+for weigh loss (run4.mod).
+
+73
+
+Reference ID: 4954959
+
+Final PK-PD model
+The parameter estimates from the final PK-PD model linking tirzepatide exposure to the effect on lowering
+WT are listed in Table 6. According to the exposure-response model (weight loss model), tirzepatide
+predominantly lowers fat mass than FFM, with an estimated steeper slope on Kin for fat mass (linear
+effect of tirzepatide concentrations with a slope of 1.19 x 10-4 for fat mass vs. 3.71 x 10-5 for FFM) and a
+ratio between slopes of 3.2, indicating that under a given dose/exposure tirzepatide reduces about 3 times
+more fat mass than FFM. For model parsimony, the same Kout was used for FFM and fat mass, as the
+separate estimates for the Kout for FFM and fat mass were very similar. The estimated elimination rate
+constant for FFM and fat mass (Kout) was 0.0797 week-1, suggesting a typical half-life for weight loss of
+about 9 weeks and that it would take about 45 weeks on a stable dose to get to a new steady state of
+body weight.
+According to the Applicant covariate modeling, gender and Japanese were significant covariates on
+baseline FFM and baseline fat mass and were the only covariate included in the final model. Females were
+estimated to have 29% lower baseline FFM and 26% higher baseline fat mass than males. Japanese
+patients were estimated to have 11% and 29% lower FFM and fat mass at baseline compared to nonJapanese, respectively.
+The estimated IIV expressed as coefficient of variation (%CV) were 12.9% and 34.4% for baseline FFM and
+baseline fat mass, 158% for Kout, 99.9% and 90.2% for the Slope or proportional effect of tirzepatide
+concentrations on reducing FFM and fat mass formation rate (Kin), and 123% and 121% for the fractional
+Placebo effect on reducing Kin for FFM and fat mass. The ETA shrinkage from the final weight loss model
+was 0.1%, 0.2%, 15.3%, 15.9%, 18.8%, 14% and 12.9% for baseline FFM, baseline fat mass, Kout, Slope for
+tirzepatide effect on Kin of FFM, Slope for effect on Kin of fat mass, Placebo effect on Kin of FFM and fat
+mass, respectively.
+
+74
+
+Reference ID: 4954959
+
+Table 6. Parameter Estimates from the Final Weight Loss Model
+
+Source: Applicant’s Population PK/PD Report, Table 9.4, page 77.
+
+75
+
+Reference ID: 4954959
+
+The goodness-of-fit (GOF) plots and the VPC plots from the final weight loss model, are shown in Figure
+11 and Figure 12, respectively. The VPC plots from all observed data showed the model was able to
+accurately predict the observed change form baseline in total body weight (Figure 12). There was less data
+for the 1- and 12-mg dose levels, hence the pattern of the observed data. Similarly, the VPC also showed
+that the model could adequately predict the data in terms observed total body weight, FFM and fat mass.
+
+Figure 11. Goodness of Fit Plots from the Final Weight Loss Model
+
+Source: Applicant’s Population PK/D Report, Figure ATT.17, page 380.
+
+76
+
+Reference ID: 4954959
+
+Figure 12. Visual Predictive Check for the Change from Baseline in body from the Final Weight Loss Model
+
+Source: Applicant’s Population PK/PD Report, Figure 9.9, page 81.
+
+Application of the Weight Loss Model Demonstrating the Dose-dependent Response
+The Applicant’s simulations performed with the developed weight loss model showed a dose-exposureresponse relationship for weight loss across the tirzepatide QW doses of 5, 10, and 15 mg after 40 and 52
+weeks of tirzepatide treatment (Figure 13).
+
+77
+
+Reference ID: 4954959
+
+Figure 13. Model-predicted Change from Baseline in Total Body Weight, Across Tirzepatide Doses of 5, 10 and 15 mg
+
+The upper panel of Figure 14 shows the model-predicted decrease in total WT over time under tirzepatide
+QW doses of 5, 10, and 15 mg, with continuing decrease in total WT up to week 52 and a more pronounced
+decrease in total WT with increasing tirzepatide dose. The lowest panel of Figure 14 as well as Figure 15
+show that patients lose more fat mass than FFM over time with a gradual proportion of FFM contributing
+to total WT (Figure 14 lower panel) and across tirzepatide QW doses of 5, 10, and 15 mg after 40 and 52
+weeks of tirzepatide treatment (Figure 15). According to the weight loss model, tirzepatide reduces about
+3 times more fat mass than FFM.
+
+78
+
+Reference ID: 4954959
+
+Figure 14. Model-Predicted Decrease in Total Body Weight and Change in Body Weight Composition Over Time, Across
+Tirzepatide Doses of 5, 10 and 15 mg
+
+79
+
+Reference ID: 4954959
+
+Figure 15. Model-Predicted Median Change in Weight after 40 or 52 Weeks of Tirzepatide Treatment
+
+Reviewer’s Assessment of the Population Weight Loss Model
+•
+•
+•
+
+•
+
+•
+
+The Applicant’s Weight loss model appropriately describes the observed change from baseline in FFM,
+fat mass and total WT over time, under placebo and tirzepatide treatment.
+The Weight loss model parameters were estimated with good precision, with relative standard errors
+(%RSE) of the typical PD parameters less than 3.9% for all parameters.
+The ETA shrinkage was low (less than 18.8%) for all parameters, suggesting the reliability of the ETA
+versus covariate plots for covariates assessment. The residual error (Epsilon) shrinkage was low
+(11.2%), indicating the informativeness of the GOF to diagnose structural and residual error model
+misspecifications.
+All covariates (sex and Japanese) were identified on the baseline FFM and fat mass and are considered
+physiologically relevant. No covariates were identified on the drug effect in reducing FFM or fat mass,
+and therefore no dose adjustment based on sex or ethnicity is warranted.
+The Applicant’s weight loss model simulations appropriately captured the observed tirzepatide dosedependent effect in reducing total body weight and more specifically fat mass with increasing
+tirzepatide dose of 5mg, 10 mg and 15 mg QW at week 40 and week 52.
+
+80
+
+Reference ID: 4954959
+
+Nausea-Vomiting and Diarrhea Events Models
+The Exposure-response analysis characterizing the effect of tirzepatide on the probability of occurrence
+of nausea, vomiting or diarrhea adverse events (AEs) and the probabilities of transitioning between AE
+states (no AE, mild and moderate to severe) was based on observations from 9 (Phase 2 and Phase3)
+studies (Table 2). The dataset for exposure-response analysis contained a total 212633 observations for
+each PD response (nausea, vomiting or diarrhea) that were collected daily.
+Base PK-PD model
+A sequential modeling approach was used to fit the individual patient’s PK with the occurrence of nausea,
+vomiting and diarrhea AEs and transition probabilities between AE states (3 states categories: no AE, mild
+or moderate/severe). A discrete-time Markov model was used to estimate the probabilities for remaining
+in the current state or transitioning between AE states and assess the impact of drug effects and covariates
+on these probabilities. The Nausea and vomiting events data were analyzed using a single integrated
+model, while the diarrhea data were analyzed separately with the same model structure. A schematic
+representation of the tirzepatide’s Markov chain exposure-response model is depicted in Figure 16 below
+In order to describe the tolerance that develops with sustained drug exposure, tolerance was
+incorporated into the drug effects acting on the probability of transitioning from no AE to mild AE [P(1|0)],
+and no AE to moderate/severe AE [P(2|0)], using an additional model compartment. Accumulation and
+decay of the hypothetical tolerance compartment concentration is driven by the first-order rate constant,
+KTOL. In the Applicant PD model (as illustrated in Figure 16) the drug effect (DE) was not only based on
+the concentrations in the tolerance compartment but incorporated both the plasma concentrations (Cp)
+and the tolerance compartment concentrations (CT).
+Based on prior knowledge of applying Markov models to dulaglutide’s nausea, vomiting and diarrhea
+(N/V/D) data, a “first-event” effect was tested and applied to capture the increased probability of
+transitioning to a mild or moderate/severe state following occurrence of the first event. The first-event
+effect was introduced in the model as a proportional additive effect in the logit of baseline P(1|0) and
+P(2|0). In addition, the presence of nausea was shown to increase the transition probability to vomiting
+and improved the model fit. Similarly, the current nausea effect was introduced in the model as a
+proportional additive effect in the logit of baseline P(1|0) and P(2|0).
+The duration of nausea events was also found to be dependent to tirzepatide’s plasma concentration (Cp),
+and a separate linear drug effect was added to the probability of transition from mild to no nausea P(0|1)
+and from moderate/severe to no nausea P(0|2).
+
+81
+
+Reference ID: 4954959
+
+Figure 16. Schematic of the Structural Tirzepatide-Nausea, Vomiting, and Diarrhea Markov Model
+
+Source: Applicant’s Population PK/PD Report, Figure 8.4, page 56.
+
+Final PK-PD model
+The parameter estimates from the final PK-PD models linking tirzepatide exposure to the probability of
+developing nausea, vomiting or diarrhea AEs and the probabilities of transitioning between AE states are
+listed in Table 7 for the nausea and vomiting Markov model and in Table 8 for diarrhea Markov model.
+
+82
+
+Reference ID: 4954959
+
+Table 7. Parameter Estimates from the Final Tirzepatide-Nausea and Vomiting Markov Model
+
+Source: Applicant’s Population PK/PD Report, Table 9.5, page 83.
+
+83
+
+Reference ID: 4954959
+
+In the nausea and vomiting Markov model (Table 7), the baseline transition probability from mild to
+moderate/severe vomiting [P(2|1) or VP21] and from moderate/severe to mild vomiting [P(1|2) or VP12]
+were not estimable due to the low number of transitions between mild and moderate/severe states and
+were fixed to low probability value (fixed to a logit of probability of -30). For nausea, the logit of the
+population baseline transition probabilities between mild and moderate/severe states (NP21 and NP12)
+was estimated to -8.2 (i.e., 2.75 x 10-4 for NP21 and NP12). The estimated natural-log of KTOL parameter
+driving the delayed accumulation and decay of tirzepatide concentrations in the hypothetical tolerance
+compartment was -11.2 (i.e., 1.37x10-5 h-1 or 0.0023 week-1), with an equilibration half-life of 302 weeks.
+For nausea, increasing tirzepatide plasma concentrations (Cp) was associated to a longer duration of
+nausea and was found to decrease the probability of resolving nausea. This relationship was described in
+the nausea Markov model using a linear relationship between Cp and the probability of transitioning from
+mild to no nausea [NP01 or P(0|1)] and from moderate/severe to no nausea [NP02 or P(0|2)]. The
+estimated natural-log of the slope describing this relationship was -7.24 (i.e., a slope of 7.2 x 10-4 mL/ng).
+According to the Applicant model, the baseline NP01 or NP02 decreases from 5% to 1.8% for a Cp of 1440
+ng/mL (average steady-state concentration [Css] in a 90kg subject under 15 mg dose) and decreases from
+5% to 1.3% for a Cp of 1920 ng/mL (steady-state Cmax [Cmax,ss] in a 90kg subject under 15 mg dose). In
+a 70 kg subject under 15 mg dose, the model-predicted Css and Cmax,ss of 1770 ng/mL and 2370 ng/mL
+are expected to be associated with a decrease in the baseline NP01 or NP02 from 5% to 1.4% (under Css
+exposure) and 0.9% (under Cmax,ss exposure), respectively. Similar drug effect was not described for the
+transitioning probability from mild to no vomiting (VP01) and from moderate/severe to no vomiting
+(VP02).
+The mean duration of nausea as well as vomiting events reported in Study GPGL was noticeably longer
+than the other Phase 3 studies. According to the Applicant, this may be related to a possible operational
+issue where the end date of AEs was not properly recorded for a subset of patients. A fixed-effect
+parameter was applied to the transition probabilities from event to no event (NP01, NP02, VP01 and VP02)
+to account for longer nausea and vomiting durations in Study GPGL. The Study effect was introduced in
+the model as a proportional additive effect in the logit of baseline NP01, NP02, VP01 and VP02. The
+estimated Study GPGL effect was 0.3 for nausea and 0.515 for vomiting. According to the Applicant model,
+Study GPGL have 57.6% lower baseline NP01 and NP02 and 65.8% lower baseline VP01 and VP02.
+The first-event effect describing the increased probability of transitioning from no event to a mild or a
+moderate/severe state following the prior occurrence of a first event, was estimated to be -0.202 for
+nausea (NP10 and NP20) and -0.194 for vomiting (VP10 and VP20). According to the Applicant model,
+prior occurrence of nausea is associated with a 1310% and 1557% increase in baseline NP10 and NP20,
+respectively. Prior occurrence of vomiting is associated with a 926% and 1220% increase in baseline NP10
+and NP20, respectively.
+The effect of current nausea on the increased probability of vomiting events (VP10 or VP20) was estimated
+to be -0.217. According to the Applicant model, current nausea on the increased baseline VP10 and VP20
+by 1252% and 1692%, respectively.
+
+84
+
+Reference ID: 4954959
+
+Demographic characteristics like sex, Hispanic ethnicity, and Japanese were significant covariates in the
+final model on the tolerance rate constant (KTOL). Females have a 21.0% decrease in the KTOL for nausea
+and vomiting relative to males. Therefore, females will develop tolerance slower than men resulting in a
+higher and more persistent probability of nausea and vomiting. Hispanics have a 36.9% increase in KTOL
+relative to non-Hispanics, and Japanese have a 42.6% decrease in KTOL relative to non-Japanese.
+Although having a slower development tolerance, Japanese patients were found to have a 97% decrease
+in baseline probability of moderate/severe nausea (NP20), and a 43% and 98% decrease in baseline
+probability of mild (VP10) and moderate/severe vomiting (VP20) relative to non-Japanese, respectively.
+Caucasian patients have a 92.5% increase in baseline probability of mild nausea (NP10) relative to nonCaucasians.
+Covariate related to patient’s race/ethnicity and gender may be associated with social and cultural bias in
+reporting discomfort and gastrointestinal AEs. Therefore, it is not known if there is an underlying
+physiological explanation for the differences in gastrointestinal AEs. The population PK and PK/PD
+modeling did not identify a specific demographic that would benefit from an alternative dose titration.
+
+85
+
+Reference ID: 4954959
+
+In the diarrhea Markov model (Table 8), the KTOL parameter was comparable to nausea and vomiting
+model and the estimated natural-log of KTOL -11.2 (i.e., 1.5x10-5 h-1 or 0.0025 week-1), with an
+equilibration half-life of 273 weeks. Unlike nausea, there was no gender effect on KTOL parameter.
+Table 8. Parameter Estimates from the Final Tirzepatide-Diarrhea Markov Model
+
+Source: Applicant’s Population PK/PD Report, Table 9.6, page 84.
+Unlike nausea, there was no direct effect tirzepatide plasma concentrations (Cp) on the duration of
+diarrhea and the probability of resolution of diarrhea events.
+The mean duration of diarrhea in Study GPGL was longer than the other Phase 3 studies. According to the
+Applicant model, Study GPGL have 54.2% lower baseline DP01 and DP02.
+Prior occurrence of diarrhea (first-event effect) is associated with a 806% and 1149% increase in baseline
+DP10 and DP20, respectively.
+Japanese subrace was the only significant covariates in the final model. Japanese patients were found to
+have a 90% decrease in baseline probability of moderate/severe diarrhea (DP20) relative to non-Japanese.
+VPC was the primary diagnostic utilized to evaluate the Markov models. Prevalence or proportion of
+patients with events was summarized at each day for the observed and model simulated results. VPCs
+were stratified by study and treatment arm due to the different dose titration regimens. A majority of the
+N/V/D data informing the model were from patients assigned to the 3 different tirzepatide dose titration
+regimens evaluated in the Phase 3 studies. VPCs for the nausea-vomiting Markov model and the diarrhea
+Markov model are shown in Figure 17.
+
+86
+
+Reference ID: 4954959
+
+Figure 17. Visual Predictive Check for the Nausea-Vomiting and Diarrhea Models with overlaid observed daily prevalence (blue
+line) for the 5mg, 10 mg and 15 mg Phase 3 treatment arms
+
+5 mg treatment arm
+
+Source: Applicant’s Population PK/PD Report, Figure 9.10 and 9.13, page 85 and 88. (Continued next page)
+87
+
+Reference ID: 4954959
+
+10 mg treatment arm
+
+Source: Applicant’s Population PK/PD Report, Figure 9.11 and 9.14, page 86 and 89. (Continued next page)
+88
+
+Reference ID: 4954959
+
+15 mg treatment arm
+
+Source: Applicant’s Population PK/PD Report, Figure 9.12 and 9.15, page 87 and 90.
+89
+
+Reference ID: 4954959
+
+Reviewer’s Assessment of the Population Nausea-Vomiting and Diarrhea Markov Models
+•
+
+•
+
+•
+
+•
+
+•
+
+The Applicant’s nausea-vomiting and diarrhea Markov models reasonably describe the observed
+occurrence of nausea, vomiting or diarrhea and the development of tolerance over time under
+tirzepatide treatment.
+The PD parameters were estimated with good precision, with relative standard errors (%RSE) of the
+typical PD parameters less than 27.4% for the nausea-vomiting Markov models parameters, and %RSE
+less 16.3% for the diarrhea Markov model.
+Both nausea-vomiting and diarrhea Markov models were average models with no between-subject
+variability included on the baseline probabilities of developing AEs, probabilities of transitioning
+between AEs status, tolerance parameters or drug effects parameters.
+Females and Japanese were found to develop tolerance slower than men and non-Japanese resulting
+in a higher and more persistent probability of nausea and vomiting. However, Japanese patients were
+found to have a lower baseline probability of developing moderate/severe nausea, and a lower
+baseline probability of developing mild and moderate/severe vomiting relative to non-Japanese.
+Japanese patients also had a lower probability of developing moderate/severe diarrhea.
+According to the Phase 3 studies data, no alternative dose titration appeared to be required based on
+specific demographics and appears acceptable, as the gradual titration of tirzepatide treatment
+starting at 2.5-mg dose for 4 weeks followed by increases in doses by 2.5-mg increments every 4
+weeks to attain maintenance dose levels of 5, 10, or 15 mg in Phase 3 studies, will allow to mitigate
+the AEs and reassess treatment benefit/risk. In addition, the current dosing regimen appears to have
+mitigated the incidence of gastrointestinal AEs that were noted in Phase 2 Study GPGB. The majority
+of nausea, vomiting, and diarrhea AEs were reported during the dose-escalation phase, and their
+incidence decreased with time with a prevalence <10% once steady-state concentrations for the
+maintenance doses were attained (after 24 weeks).
+
+90
+
+Reference ID: 4954959
+
+Exposure-Response Analysis for Heart Rate
+Applicant’s Analysis
+The Applicant’s analysis found a positive linear relationship between tirzepatide plasma concentrations
+and the increase in heart rate (HR), as assessed from all Phase 3 studies at week 12, 24, 40, and 52
+separately using linear regression analyses.
+The analysis suggested that at week 12, HR showed a greater increase across tirzepatide concentrations
+compared to later study time points (Weeks 24, 40, or 52). Week 12 was in the dose-escalation period
+when patients were receiving tirzepatide 10 mg or less. At week 12, the Applicant model estimated a 13
+beats per minute (bpm) change from baseline in HR (ΔHR) for a tirzepatide Cmax of 1920 ng/mL
+(representing the PK model predicted average steady-state Cmax in a 90 kg subject under the highest
+tirzepatide dose of 15 mg). At week 24, 40 and 52, the Applicant analysis estimated a 7.0 to 9.2 bpm ΔHR
+at the predicted steady-state Cmax of 1920 ng/mL. Table 9 summarizes the concentration-ΔHR linear
+model parameters and predicted increase in HR for all Phase 3 studies.
+A separate exposure-ΔHR analysis was conducted by the Applicant using the Japan Phase 3 studies (GPGO
+and GPGP), representing <20% of the total HR data available from the combined 7 Phase 3 studies.
+Consistently with the previous analysis combining all Phase 3 studies, the Applicant linear regression
+analysis found that at Week 12, HR showed a greater increase across tirzepatide concentrations compared
+to Weeks 24, 40, or 52. According to the applicant model from the Japan studies, the expected mean ΔHR
+at week 12 is 15.9 bpm for a tirzepatide Cmax of 1920 ng/mL. At week 24, 40 and 52, expected mean ΔHR
+ranges from 10.7 to 12.4 bpm ΔHR at the predicted steady state Cmax of 1920 ng/mL. Table 10
+summarizes the concentration-ΔHR linear model parameters and predicted increase in HR for the Japan
+Phase 3 studies.
+For a predicted mean steady-state Cmax of 2370 ng/mL in a 70 kg patient (closer to the observed median
+WT of the Japanese population), the expected mean ΔHR in Japanese population at week 12 and week 24
+to 52 are 18.9 bpm and 12.4 to 14.5 bpm, respectively. Conversely, based on the analysis combining all
+Phase 3 studies (regardless of Japanese subrace or ethnicity), the expected mean ΔHR at week 12 and
+week 24 to 52 are 15.8 bpm and 8.4 to 10.8 bpm, respectively.
+The Applicant’s concentration-ΔHR model from the Japan Phase 3 studies showed comparable slope
+parameter estimates for week 12 to 52, with 10% to 30% higher slope compared to the estimated slope
+from the analysis using the combined Phase 3 studies. However, the intercept parameter from the Japan
+Phase 3 studies was 50% to 180 %higher compared to the analysis using the combined Phase 3 studies.
+According to the Applicant separate analyses, the Japanese patients from the Japan Phase 3 studies have
+about 3 to 4 bpm differences in ΔHR.
+
+91
+
+Reference ID: 4954959
+
+Table 9. Linear Regression Parameters from the Heart Rate and ΔHR Matched with Observed Tirzepatide Concentrations from
+Combined Data from Phase 3 Studies
+
+Source: Applicant’s Population PK/PD Report, Table 9.10, page 99.
+Table 10. Linear Regression Parameters for Heart Rate and ΔHR Matched with Observed Tirzepatide Concentrations from Japan
+Phase 3 studies
+
+Source: Applicant’s Population PK/PD Report, Table 10.9, page 148.
+92
+
+Reference ID: 4954959
+
+Reviewer’s Assessment
+The review team assessed the effect of tirzepatide on the increase in pulse rate (including differences in
+ΔHR between studies, populations, or demographic characteristics) based on PK and PD time-matched
+observations from all Phase3 studies (n=7), using linear or non-linear mixed-effects modeling approaches.
+The aim of this additional analysis was to further test the applicant’s findings regarding HR and ascertain
+the extent of the difference in relationship by Japanese subrace. The dataset for exposure-response
+analysis contained 29026 observations for time-matched tirzepatide concentrations and HR, collected on
+one or multiple visits per patient (5066 patients), with a median of 6 paired observations per individual
+(range= 1 to 13) up to week 109. Most of the time-matched tirzepatide concentrations, HR and ΔHR were
+collected on week 4, 12, 24, 40, 44, 52, and 56 representing 15%, 14%, 14%, 10%, 3%, 6% and 4% of the
+29026 paired PK-PD observations, respectively. Asian population and particularly patients identified as
+Japanese “subrace” were the second most prevalent patient population (24%) that contributed to the PK
+and HR observations (Table 11).
+The relationship between tirzepatide concentrations and ΔHR (from all weeks of Phase 3 studies) was best
+described with a combined linear and Emax mixed effects model with the general average equation below:
+∆𝐻𝐻𝐻𝐻 = 𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵 ∆𝐻𝐻𝐻𝐻 +
+
+𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸 × 𝐶𝐶𝐶𝐶
++ (𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆 × 𝐶𝐶𝐶𝐶)
+(𝐸𝐸𝐸𝐸50 + 𝐶𝐶𝐶𝐶)
+
+Where 𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵 ∆𝐻𝐻𝐻𝐻 is the population mean ∆𝐻𝐻𝐻𝐻 in the absence of tirzepatide, 𝐶𝐶𝐶𝐶 is the measured
+tirzepatide concentrations, 𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸 is the population mean maximum tirzepatide effect on ΔHR, 𝐸𝐸𝐸𝐸50 is
+the tirzepatide concentration responsible for 50% of the maximum drug effect on ΔHR, 𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆 is the
+population mean slope describing the linear effect of 𝐶𝐶𝐶𝐶 on ΔHR. The between-subject variability on the
+model parameters was included as an additive error on 𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵 ∆𝐻𝐻𝐻𝐻, 𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸 and 𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆, and as an
+exponential error on 𝐸𝐸𝐸𝐸50. The residual error model consisted of an additive error model.
+
+The combined linear and Emax mixed effects model provided a better fit compared to either a linear mixed
+effects model (difference in OFV of 1059 points) or an Emax mixed effects model (difference in OFV of 43
+points). Japanese subrace was found to be a statistically significant covariate on Emax and on Slope
+parameters but not on Baseline ΔHR. Japanese represented 85% of the Asian population in the Phase 3
+studies, and Asian population (other than Japanese) was not found to a be a significant covariate on the
+model parameters when not accounting for the Japanese subrace. Black and African American were not
+found to be significant covariates.
+The final parameter estimates from the final PK-PD model linking tirzepatide exposure to the effect on HR
+increase are listed in Table 12.
+
+93
+
+Reference ID: 4954959
+
+Table 11. Summary Of Demographic Characteristics of Patients in the Exposure-HR Analysis
+
+Source: FDA Reviewer
+
+94
+
+Reference ID: 4954959
+
+Table 12. Parameter Estimates from the Final Tirzepatide Concentrations-ΔHR Model
+
+Parameters
+
+Estimates (95% CIa)
+
+BSVb (95% CI)
+
+Baseline ΔHR (bpm)
+
+-2.02 (-2.3, -1.7)
+
+5.84
+
+EC50 (ng/mL)
+
+209 (172, 260)
+
+0.003
+
+Emax (bpm)
+
+7.7 (7.2, 8.4)
+
+4.56
+
+0.0005 (0.0001, 0.0008)
+
+0.002
+
+Japanese subrace effect on Emax
+
+0.32 (0.23, 0.44)
+
+-
+
+Japanese subrace effect on Slope
+
+2.82 (1.24, 11.63)
+
+-
+
+Slope (bpm.mL/ng)
+
+Additive residual error (bpm)
+
+6 (5.9, 6.1)
+
+. The 95% CI were derived from the bootstrap analysis (973 successful runs over 1000). b BSV: betweensubject variability reported as standard deviation (SD).
+Source: FDA Reviewer
+a
+
+The estimated mean Baseline ΔHR and EC50 parameters are -2.02 bpm and 209 ng/mL, respectively. The
+estimated mean Emax and Slope for non-Japanese populations are 7.7 bpm and 0.0005, respectively.
+Japanese were found to have significantly higher ΔHR compared to non-Japanese, with Japanese patients
+having 32% higher Emax and 282% higher Slope compared to non-Japanese.
+Figure 18 (upper panel) shows the model-predicted mean ΔHR for non-Japanese (solid red line) and for
+Japanese patients (solid blue line). The black circles and triangles represent the mean of the observed ΔHR
+in non-Japanese and Japanese patients, respectively. The vertical error bars represent the 90%CI around
+the mean of the observed ΔHR in each quantile of tirzepatide plasma concentrations. The model-predicted
+mean ΔHR for non-Japanese and Japanese appropriately captures the trend of the observed mean ΔHR at
+different tirzepatide concentration quantiles, confirming the adequacy of the combined linear and Emax
+mixed effects model in describing the effect of tirzepatide concentrations on the average increase in HR
+in non-Japanese and Japanese.
+The lower panel of Figure 18 show the distribution of the expected tirzepatide steady-state Cmax
+(Cmax,ss) under a tirzepatide dose of 5 mg , 10 mg, and 15 mg in non-Japanese (red box plots) and
+Japanese (blue box plots), predicted using the individual PK parameters of Phase 3 studies patients and
+derived from the applicant PK model.
+
+95
+
+Reference ID: 4954959
+
+Figure 18. Mean Predicted ΔHR versus Tirzepatide Concentrations (upper panel) and Distribution of Tirzepatide Steady-State
+Cmax Under Tirzepatide 5 mg, 10 mg, and 15 mg (lower panel)
+
+Note: In the upper panel, the shared areas around the model-predicted mean ΔHR (solid blue and red
+line) represent the 90%CI around mean ΔHR.
+Source: FDA Reviewer
+
+Japanese patients from the Phase 3 studies have about 17% higher tirzepatide exposure and Cmax,ss
+compared to non-Japanese patients due to lower body weight, with a median WT of 90 kg in non-Japanese
+patients compared to a median WT of 76 kg in the Japanese patients from the Phase 3 studies. At the
+highest maintenance dose of 15 mg, the predicted median, 95th percentile and maximum tirzepatide
+Cmax,ss in Japanese patients are 2268 ng/mL, 2952 ng/mL and 4006 ng/mL (Figure 18, lower panel and
+Table 13), and the associated predicted mean ΔHR are 11.6 bpm, 13.1 bpm and 15.3 bpm, respectively
+(Figure 18, upper panel and Table 13). At the same Cmax,ss of tirzepatide, the expected mean ΔHR in nonJapanese patients are 5.9 bpm, 6.4 bpm and 7 bpm, respectively (Figure 18, Table 13). Under similar
+exposure, Japanese patients had higher mean increase in HR compared to non-Japanese. Therefore, the
+average difference in HR between Japanese and non-Japanese is not driven by the difference in exposure
+due to an average lower body-weight in non-Japanese.
+
+96
+
+Reference ID: 4954959
+
+Table 13. Mean (90%CI) Predicted ΔHR in Japanese and Non-Japanese Under Similar Tirzepatide Exposure (steady-state Cmax)
+
+Dose
+(mg)
+
+15 mg
+
+Cmax,ss level
+
+Cmax,ss
+
+Model-predicted
+
+(ng/mL)
+
+mean ΔHR (bpm)
+
+Lower 90%CI of mean
+ΔHR (bpm)
+
+Upper 90%CI of mean
+ΔHR (bpm)
+
+NonJapanese
+
+Japanese
+
+NonJapanese
+
+Japanese
+
+NonJapanese
+
+Japanese
+
+median
+
+2268
+
+6.1
+
+11.6
+
+5.7
+
+10.8
+
+6.5
+
+12.4
+
+75th percentile
+
+2523
+
+6.3
+
+12.2
+
+5.8
+
+11.3
+
+6.8
+
+13.1
+
+th
+
+95 percentile
+
+2952
+
+6.6
+
+13.1
+
+6.0
+
+12
+
+7.2
+
+14.2
+
+maximum
+
+4006
+
+7.3
+
+15.3
+
+6.4
+
+13.7
+
+8.2
+
+16.9
+
+Note: Cmax,ss = steady-state maximum concentrations predicted using the individual PK parameters of
+Phase 3 studies Japanese patients and derived from the applicant PK model.
+Source: FDA Reviewer
+
+In conclusion, the concentration-HR analysis showed a positive effect of tirzepatide exposure on HR
+increase, with a non-linear relationship between tirzepatide concentrations and ΔHR. Japanese patients
+appear to be more sensitive to HR increase than non-Japanese under similar tirzepatide exposure.
+Japanese patients may need to be closely monitored for HR increase and potential cardiovascular events
+given the higher sensitivity to HR increase compared to non-Japanese. However, no dose adjustment is
+likely required in Japanese population, given the cardiovascular safety profile of tirzepatide in nonJapanese as well as in Japanese population (see the Clinical Review for further details) and the proposed
+gradual titration of tirzepatide treatment that will allow to control for potential adverse events.
+
+97
+
+Reference ID: 4954959
+
+4.5 Physiologically based Pharmacokinetic Modeling and Simulation Review
+
+Physiologically based Pharmacokinetic Modeling and Simulation Review
+Division of Pharmacometrics, Office of Clinical Pharmacology
+Application Number
+Drug Product
+Clinical Division
+Primary PBPK Reviewer
+Secondary PBPK Reviewer
+Applicant
+
+215866
+MOUNJARO (Tirzepatide)
+DCEP
+Yuching Yang, Ph.D.
+Manuela Grimstein, M.Sc., Ph.D.
+Eli Lilly
+
+EXECUTIVE SUMMARY
+The aim of this review is to evaluate the adequacy of physiologically based pharmacokinetic (PBPK)
+modeling to predict the effect of tirzepatide-mediated delayed gastric emptying on the
+pharmacokinetics of acetaminophen, atorvastatin, digoxin, ethinyl estradiol, lisinopril, metformin,
+metoprolol, norgestimate, sitagliptin, and S-warfarin.
+The Division of Pharmacometrics has reviewed the PBPK report (Study: LY3298176 PBPK GED 2),
+supporting modeling files, and the Applicant’s responses to Clinical Pharmacology Information Request
+(IR) to conclude the following:
+•
+
+PBPK analysis was considered adequate to provide a qualitative assessment of the effect of
+tirzepatide-mediated delayed gastric emptying on the PK of acetaminophen, atorvastatin,
+digoxin, lisinopril, metformin, metoprolol, sitagliptin, and S-warfarin. Results of PBPK analysis
+suggested that tirzepatide-mediated delayed gastric emptying is not expected to result in
+clinically meaningful impact on the PK of acetaminophen, atorvastatin, digoxin, lisinopril,
+metformin, metoprolol, sitagliptin, and S-warfarin.
+
+Clinical DDI data (Study GPGR) will be used to address the effect of tirzepatide on the PK of ethinyl
+estradiol and norgestimate/norelgestromin
+A. BACKGROUND
+Tirzepatide is a glucose-dependent insulinotropic polypeptide (GIP) and glucagon-like peptide-1 (GLP-1)
+receptor agonist (RA) to improve glycemic control for patients with type 2 diabetes mellitus (T2DM).
+Tirzepatide is administered subcutaneously. The proposed starting dose is 2.5 mg weekly and can be
+increased in 2.5 mg increments after a minimum of 4 weeks up to 15 mg. The apparent clearance of
+tirzepatide is 0.061 L/h with an elimination half-life of approximately 5 days. Tirzepatide exhibited linear
+pharmacokinetics (PK) and the PK of tirzepatide is similar between healthy subjects and T2DM patients.
+GLP-1 RAs like dulaglutide and tirzepatide have been shown to delay gastric emptying time. Dulaglutide
+delayed the gastric emptying (GE) time by about 2 hours in T2DM patients after the first dulaglutide
+
+98
+
+Reference ID: 4954959
+
+dose in a scintigraphy study 1. The delay is largest after the first dose and diminishes after subsequent
+doses. The impact of dulaglutide on the PK of acetaminophen (a surrogate marker for gastric emptying
+delay) was also evaluated. For tirzepatide, the Applicant did not conduct a scintigraphy study. Study
+GPGA evaluated the impact of tirzepatide on acetaminophen PK in healthy subjects and T2DM patients
+after single or multiple doses of tirzepatide at a fix or at escalation dose levels. Table 1 presented the
+observed effect of GE delay on acetaminophen pharmacokinetic parameters before and after single or
+multiple dulaglutide or tirzepatide treatment.
+Table 14. Observed acetaminophen pharmacokinetic parameters before and after single or multiple dulaglutide
+or tirzepatide treatment
+
+Dose
+
+Sub.
+
+Observed PK
+ratio w/wo
+dulaglutide
+(Geo. Mean)
+Cmax
+AUC
+
+1 mg [Day 3] a
+1 mg [Day24] b
+3 mg [Day 3] a
+3 mg [Day24] b
+
+HV
+HV
+HV
+HV
+
+0.64
+0.95
+0.50
+0.96
+
+0.88
+0.99
+0.88
+1.13
+
+Source: BLA 125469 CSR GBCH Table 7.2
+a
+Collected-on Day 2 after a single dose of
+dulaglutide
+b
+Collected on Day 23 after fourth dose of
+dulaglutide
+
+Observed PK ratio
+w/wo tirzepatide
+(Geo. Mean)
+Dose
+
+Sub.
+
+Cmax
+
+0.5 QW [Day 2] a
+0.5 QW [Day 23] b
+1.5 QW [Day 2] a
+4.5 QW [Day 2] a
+4.5 QW [Day 23] b
+5/5/8/10 [Day 23] c
+0.5 QW [Day 2] a
+0.5 QW [Day 23] b
+5 QW [Day 2] a
+5 QW [Day 23] b
+5/5/10/15 [Day 23] d
+
+HV
+HV
+HV
+HV
+HV
+HV
+T2M
+T2M
+T2M
+T2M
+T2M
+
+0.95
+1.11
+0.95
+0.5
+1.04
+0.99
+1.1
+1.15
+0.5
+0.92
+0.6
+
+Tmax
+diff.
+(hour)
+0.17
+-0.17
+0
+1
+0.5
+1
+0
+-0.17
+1
+0.83
+1
+
+AUC
+0.97
+1.07
+0.92
+0.87
+1.2
+1.21
+1.11
+1.09
+0.75
+1.05
+1.07
+
+Source: PBPK report Section 6
+a
+Collected on Day 2 after a single dose of tirzepatide
+b
+Collected on Day 23 after fourth dose of tirzepatide
+administered QW for 4 weeks
+C
+Collected on Day 23 after dosing 5 mg once a week on
+the first and second weeks, 8 mg on the third week, and 10
+mg on the fourth week
+d
+Collected on Day 23 after dosing 5 mg once a week on the
+first and second weeks, 10 mg on the third week, and 15
+mg on the fourth week
+
+Study GPGR evaluated the effect of tirzepatide on the PK of a combination oral contraceptive (OC),
+ethinyl estradiol 0.035 mg + norgestimate 0.25 mg, in healthy female subjects. Table 2 summarized the
+OC exposures with and without a single 5- mg dose of tirzepatide. Results of this study showed that Cmax
+was reduced by 55% to 66% when the OC was administered in the presence of 5 mg tirzepatide
+compared to dosing with OC alone, while the AUC was reduced by 16% to 23%.
+1
+
+https://www.accessdata.fda.gov/drugsatfda_docs/nda/2014/125469Orig1s000ClinPharmR.pdf
+
+99
+
+Reference ID: 4954959
+
+Table 15. Observed OC PK before and after a single dose of tirzepatide
+
+Dose
+
+Sub.
+
+5 mg
+
+HV, F
+
+Observed PK ratio w/wo 5 mg tirzepatide SD
+Geometric Means (90% CI range)
+Ethinyl Estradiol
+Norelgestromin
+Cmax
+Tmax diff.
+AUC
+Cmax
+Tmax diff.
+(hour)
+(hour)
+0.41
+4.23
+0.78
+0.45
+4.50
+(0.36, 0.47) (1.50, 6.50) (0.73, 0.85) (0.40, 0.50) (1.50, 5.00)
+
+Source: Applicant’s ClinPharSum Table 2.7.2.13.
+
+AUC
+0.78
+(0.71, 0.84)
+
+A model risk evaluation form 2 was requested to identify the necessary level of validation and
+verification. In response to FDA’s information request dated 11/23/2022, the Applicant considered the
+overall model risk as low. It is mainly driven by a large body of clinical evidence with several GLP-1 RAs,
+and the effect of delayed gastric emptying on small molecule pharmacokinetics is primarily a decrease in
+Cmax, with minimal change in overall AUC. Also, as with other GLP-1 RAs, the effect of tirzepatide on
+gastric emptying is decreased with time (Applicant’s Clin Pharm Summary).
+In this submission, the extent of tirzepatide effect on gastric emptying was determined using
+compartment PK model and clinical data with acetaminophen. The PBPK modeling approaches were
+used to characterize the tirzepatide-mediated extent of GE delay and assess impact of the delayed GE on
+the PK exposures of other orally co-administered drugs, namely acetaminophen, atorvastatin, digoxin,
+lisinopril, metformin, metoprolol, sitagliptin, S-warfarin, ethinyl estradiol, and norgestimate/
+norelgestromin. The objective of this review is to evaluate the adequacy of the submitted PBPK analysis
+to estimate the effect of a single dose of 5 mg tirzepatide and of multiple doses rapidly escalated to
+either 10 or 15 mg tirzepatide on the exposure of the tested drugs.
+
+B. METHODS
+1. Estimated delay in GE
+Tirzepatide-mediated delay in GE time has been characterized using acetaminophen, which is a
+prototypical highly soluble and permeable drug for which the rate of absorption reflects GE rate. To
+evaluate the potential impact of delayed GE, a semi-mechanistic PK model was used to estimate the
+magnitude of delayed GE based on acetaminophen PK profiles following tirzepatide treatment (study
+GPGA). Figure 1 presents the schematic of the semi-mechanistic PK model for acetaminophen. Applicant
+reported that the GE delay was investigated in both healthy subjects and T2DM patients using
+acetaminophen PK as a surrogate of GE. Table 3 presents the estimated GE delay as a ratio of time to
+50% GE of acetaminophen with and without dulaglutide or tirzepatide based on the observed
+acetaminophen PK profiles and semi-mechanistic PK model.
+Figure 19. Schematic summary of the semi-mechanistic gastric emptying acetaminophen PK model
+
+2
+
+https://pubmed.ncbi.nlm.nih.gov/31652029/
+
+100
+
+Reference ID: 4954959
+
+The values for baseline GE rate constant (KGE) were generally similar for the healthy subjects and T2DM
+patients in tirzepatide’s Study GPGA-Parts B and C (1.26 h-1 vs. 1.03 h-1, respectively). The values were
+also generally similar between healthy subjects in studies GPGA-Part B and GBCH (1.26 h-1 and 1.31 h-1,
+respectively). However, it was noted that the baseline GE rate constant was higher (3.49 h-1) in T2DM
+patients in dulaglutide’s Study GBCD. The Applicant explored the baseline demographics between
+studies and no overt differences were noted. The reason for such a discrepancy remains unknown.
+2. Description of PBPK models of the test drugs
+A set of 8 drugs was included in this analysis as shown in Table 4. Since clinical data was available to
+address the effect of tirzepatide on the PK of ethinyl estradiol and norgestimate (Study GPGR), PBPK
+analyses of ethinyl estradiol and norgestimate were not included in this review. PBPK models of the
+tested drugs were developed in the population based PBPK software Simcyp® (V16, V17 and V18).
+Reviewer’s analyses were conducted in Simcyp® V18.
+Table 17 Selected biochemical and absorption characteristics of the tested drugs included in the PBPK analysis
+
+Drug
+
+Food effect a
+(per USPI)
+
+Obs. F
+
+Obs.
+Dosage
+Tmax
+form in the
+(hour) model#
+
+Peff
+(x e-4
+cm/s)b
+
+Fac
+
+Proposed
+BCS classd
+
+1
+
+Acetaminophen
+
+~0.9
+
+~1 hr
+
+solution
+
+5.39
+
+1
+
+BCS I
+
+2
+
+Metoprolol
+
+~0.5
+
+~4hr
+
+ER solid
+
+1.3
+
+0.7
+
+BCS I
+
+3
+
+S-warfarin
+
+~0.95
+
+~2hr
+
+solution
+
+12
+
+1
+
+BCS I/II
+
+4
+
+Atorvastatin
+
+0.1-0.2 1-2hr
+
+solution
+
+4.49
+
+1
+
+BCS II
+
+5
+
+Ethinylestradiol
+
+~0.6
+
+~3hr
+
+IR solid
+
+5.76
+
+0.95
+
+BCS I/III
+
+6
+
+Norgestimate
+
+~0.5
+
+~2hr
+
+IR solid
+
+3.37
+
+1
+
+BCS I/III
+
+7
+
+Sitagliptin
+
+~0.87
+
+1-4hr
+
+IR solid
+
+1.16
+
+0.87
+
+BCS I/III
+
+8
+
+Lisinopril
+
+~0.3
+
+~7hr
+
+solution
+
+0.112
+
+0.3
+
+BCS III
+
+9
+
+Metformin
+
+0.5-0.6 ~ 7hr
+
+solution
+
+0.34
+
+0.37
+
+BCS III
+
+10
+
+Digoxin
+
+Not
+available in
+over-counter
+label
+Not
+significant
+Cation with
+Vitamin K
+rich food
+Both AUC
+and
+Cmax↓30%,
+Cmax↓30%,
+no effect on
+AUC
+Not
+available
+Not
+significant
+Not
+significant
+AUC ↓25%,
+Cmax↓40%,
+Not
+available
+
+0.7-0.8 ~1hr
+
+solution
+
+1.44
+
+0.8
+
+BCS IV
+
+102
+
+Reference ID: 4954959
+
+Note: a All tested drugs were recommended to be taken with or without food per USPI; b Human permeability
+(Peff) used as input parameter; cEstimated fraction absorbed (Fa) summarized from PBPK reports and submitted
+model output files; dBased on the literature cited in the reference, it may not reflect FDA’s opinion
+
+The Applicant developed PBPK models for acetaminophen, atorvastatin, lisinopril and sitagliptin. In-vitro
+apparent permeability (Papp) values was measured in MDCK assays for acetaminophen, metformin,
+metoprolol, sitagliptin, and S-warfarin to support the Papp in the corresponded PBPK models.
+The acetaminophen model is based on a model published by Jiang et al. 3 (2013) and modified to include
+a description of acetaminophen absorption using the ADAM model. The Applicant’s atorvastatin PBPK
+models described the interconversion between acid and lactone forms of atorvastatin and tracked the
+production and elimination of the active metabolite, o-hydroxyatorvastatin (OH-ATV). Atorvastatin is
+mainly metabolized by CYP3A4 to two active metabolites, OH-ATV and p-hydroxyatorvastatin. Given phydroxyatorvastatin is present in plasma at <10% of the total AUC, only OH-ATV is included in
+atorvastatin models. Following oral administration of atorvastatin, interconversion of acid and lactone
+forms can occur non-enzymatically, and this process is pH dependent. Lactone-atorvastatin can be
+converted back to atorvastatin or metabolized by CYP3A to active hydroxy metabolites. The Applicant’s
+PBPK analysis for atorvastatin were conducted by running two independent models for atorvastatin and
+lactone-atorvastatin. The initial dose atorvastatin is divided as atorvastatin or lactone-atorvastatin form
+and used as the initial dose in two models. The allocation of initial dose as atorvastatin or lactoneatorvastatin is dose-dependent as presented in Table 5. The development of Applicant’s atorvastatin
+PBPK models was detailed in Morse et al 4 (2019). The PBPK model for lisinopril includes an ADAM oral
+model and a full distribution PBPK model. In-vitro and in-vivo data from literature were used to inform
+its model parameters. The Applicant assumed that lisinopril is renally cleared. Sitagliptin PBPK model
+was built based on physicochemical and biological in vitro and in vivo data. It included an ADAM oral
+model and a full distribution PBPK model. Sitagliptin is cleared by CYP3A pathway and renal clearance.
+For other compounds, the default compound files developed by Simcyp were utilized. Default models
+for metformin, metoprolol, and S-warfarin were modified to include ADAM models. For metformin, the
+Applicant modified the default model to include an ADAM oral model with solution formulation. The
+Applicant’s rationale for selecting a solution formulation is that metformin exhibits high solubility and
+rapid dissolution profiles. For metoprolol, the ADAM oral model with a controlled release formulation
+was implemented. In-house Papp parameter was initially used and later refined to fit the clinical data.
+The dissolution profile for extended-release metoprolol was obtained from ANDA090615. For S3
+4
+
+https://pubmed.ncbi.nlm.nih.gov/24132164/
+https://pubmed.ncbi.nlm.nih.gov/31250974/
+
+103
+
+Reference ID: 4954959
+
+significant 5 GED effects. The reviewer considers that Applicant’s assumption that the fold-change in GE
+time is independent of prandial state has yet to be justified. Additional simulation was recommended to
+evaluate the effect of the GE delay on the substrate’s PK parameters under both fasted and fed state.
+See discussion on model uncertainties and sensitivity analysis in Result section.
+For atorvastatin, in addition to changes in gastric MRT, the fraction of atorvastatin absorbed as acid was
+estimated empirically based on the dose (MRT)-response (% absorbed) relationship derived using data
+observed from liraglutide and dulaglutide. An empirical relationship between fractions absorbed and
+MRT was first established using placebo data (25% absorbed, MRT of 0.27 hour) and dulaglutide (5%
+absorbed, MRT of 0.84 hour with 1.5 mg dulaglutide). The fractions of atorvastatin absorbed as acid
+when co-administered with dulaglutide was obtained by fitting to the observed data. A 38% and 5%
+decreased in Cmax and AUC of atorvastatin was observed when coadministration with an escalation
+dosing of 0.6/1.2/1.8 mg of liraglutide at steady state (23 days). The magnitude of liraglutide-mediated
+GE delay at steady state is not known. A 31% and less than 5% decreased in Cmax and AUC of
+acetaminophen was observed when coadministration with an escalation dosing of 0.6/1.2/1.8 mg of
+liraglutide at steady state (23 days). Thus, the liraglutide-mediated GE delay steady state is expected to
+be low. Reviewer concluded that due to limited clinical datapoint, the dose-response relationship
+between fractions absorbed and MRT for atorvastatin is considered exploratory. There is uncertainty in
+the predicted fractions absorbed of atorvastatin when administrated with 5 mg SD tirzepatide, and
+subsequently, the predicted GED effect. The dose-response relations of MRT and fraction absorbed was
+shown in Figure 2.
+Figure 20. Relationship between observed effect GLP1RAs on gastric mean residence time (MRT) and estimated
+fraction atorvastatin absorbed as acid.
+
+Source: PBPK report figure 4.5, and extracted from PBPK outputs
+
+4. Model validation
+For each tested drug, the model validation of the model to describe the PK profiles was performed by
+comparing model predicted with observed PK profiles following single or multiple administration, as well
+as different dosing levels. The ability of PBPK analysis to capture the impact of GE on a drug’s PK is
+demonstrated by comparing the predicted and observed PKs of acetaminophen after administration of
+tirzepatide by incorporating tirzepatide-mediated MRT value.
+
+Reviewer defined a non-clinically significant changes as less than 25% changes in PK parameters such as AUC and
+Cmax for a drug which is not NTI.
+
+5
+
+105
+
+Reference ID: 4954959
+
+5. Sensitivity analysis
+The Applicant conducted sensitivity analyses to evaluate the changes in the simulated PK of the tested
+drug around a range of gastric MRTs encompassing the range of gastric MRT following a single (5 mg SD)
+and multiple dosing (5/5/10/15 mg) of tirzepatide. On November 23, 2021, FDA issued an information
+request for additional simulations and sensitivity analyses to investigate the uncertainties regarding the
+modeling approaches used to estimate tirzepatide-mediate GE delay, potential food effect and absorption
+model parameters. Refer to Results and Discussion sections for more details.
+C. RESULTS
+1. Can the model describe the PK profiles of the tested compounds?
+Yes. The Applicant’s PBPK models for acetaminophen, atorvastatin, digoxin, lisinopril, metformin,
+metoprolol, sitagliptin, and S-warfarin reasonably described the respective clinical PK data following a
+single or multiple dose administration of each drug across different dosing levels. Table 6 and Figure 3
+presented the selected PK verification of the tested drugs.
+Table 19. Comparison of the observed and simulated PK parameters for acetaminophen under various dosing
+levels
+
+Dose
+Observed
+data
+Pred/Obs
+ratio
+
+500 mg SD (fasted)
+AUC a
+Cmax b
+Tmax
+hour
+24.26
+7.26
+0.28
+
+500 mg SD (fed)
+AUC a
+Cmax b
+24.97
+
+1.03
+
+1.02
+
+0.64
+
+0.43d
+
+4.58
+
+Tmax
+hour
+2.49
+
+1000 mg QD (fasted)
+AUC a
+Cmax b
+Tmax
+hour
+57
+17.4
+0.8
+
+0.77
+
+-0.35
+
+0.89
+
+0.73
+
+0.13 d
+
+Source Applicant’s PBPK report Table 8.1 and 8.5. SD: single dose; QD: once daily dose; aAUCinf:μg∙h/mL; bCmax:
+μg∙h/mL; cAUC (0-t): μg∙h/mL; dDifference of the predicted and the observed tmax values.
+Figure 21. Comparison of the observed and simulated plasma concentration-time profiles for tested drugs
+
+Atorvastatin (40 mg, SD)
+
+Digoxin (0.5 mg QD)
+
+Metoprolol 50 mg QD
+
+OH-ATV (40 mg, SD)
+
+Metformin (500 mg SD)
+
+S-warfarin
+
+106
+
+Reference ID: 4954959
+
+Atorvastatin (80 mg, QD)
+
+Lisinopril
+
+Sitagliptin (100 mg SD)
+
+Source: PBPK report. Atorvastatin (Figure 4.3); OH-ATV (Figure 4.3); Digoxin (Figure 4.6); Metformin (Figure 8.29);
+Lisinopril (Figure 8.28); Metoprolol (Figure 8.37); S-warfarin (Figure 8.68); Sitagliptin (Figure 4.12). Solid points
+represent observed data, solid and dotted red represent medium, 5th and 95th percentiles of the simulated
+profiles.
+
+Sensitivity analysis of the absorption parameters on the PK of the tested drugs
+FDA recommended conducting a sensitivity analysis between the key absorption parameters and the
+simulated PK for the tested drugs. Applicant evaluated the sensitivity of solubility, particle size,
+permeability, and particle density values on the PK of digoxin, lisinopril, metformin, S-warfarin, and
+atorvastatin, and the sensitivity of the dissolution parameters on the PK of metoprolol and sitagliptin. In
+general, there was a lack of sensitivity associated with the selected parameters on the simulated PK of
+the tested compounds, except permeability. Increase permeability would lead to a higher Cmax and lower
+Tmax in digoxin, lisinopril, metformin, S-warfarin, and atorvastatin. In the case of atorvastatin, changes in
+solubility and permeability would impact the predicted Cmax as shown in Figure 4.
+Reviewer’s independent analysis of key absorption parameters, which could describe the clinical PK of
+the respective drug, showed minimal or no impact of parameter uncertainties on the predicted effect of
+tirzepatide-mediated GE delay. Refer to Discussion Section for the example of lisinopril.
+
+107
+
+Reference ID: 4954959
+
+The model is adequate to provide qualitative assessment in term of PK charges in the test drug given the
+clinical experience with dulaglutide, and current understanding of the GE delay mechanism. Table 8
+presented the predicted geometric mean Cmax and AUC ratios for atorvastatin, digoxin, lisinopril,
+metformin, metoprolol, sitagliptin, and S-warfarin following two tirzepatide exposure scenarios in the
+fasted state. The results suggested that for drugs with high permeability, high solubility, and fast
+dissolution (e.g., acetaminophen, digoxin, sitagliptin and S-warfarin), the absorption rates are limited by
+gastric emptying and an impact of tirzepatide on the Cmax and Tmax is expected. For the drugs where
+gastric emptying is not likely the rate limiting step in drug absorption (e.g., lisinopril and metformin)
+tirzepatide is predicted to have little impact on drug Tmax and Cmax. However, the predictability of this
+PBPK analysis to provide a quantitative estimation of the effects of GE delay on the PKs of tested drugs
+has not been fully established. Currently, this modeling approach has only been verified with one other
+GLP-1 RA, namely dulaglutide. Nevertheless, PBPK analysis suggested that tirzepatide-mediated delayed
+gastric emptying is not expected to result in clinically meaningful impact on the PK of acetaminophen,
+atorvastatin, digoxin, lisinopril, metformin, metoprolol, sitagliptin, and S-warfarin.
+Table 21. Simulated impact of GE delay on the PK parameters for tested drugs following a single or multiple
+administration of tirzepatide
+
+a
+
+Predicted AUC and Cmax Ratios for Drugs with and without a single dose of 5 mg Tirzepatide
+
+b
+
+Predicted AUC and Cmax Ratios for Drugs with and without 5, 5, 10, and 15 mg
+of Tirzepatide (Day 23)
+
+Source: Applicant’s PBPK report Table 6.31, 6.32
+
+D. DISCUSSION
+1. What is the uncertainty in the predicted GE delay effects using different MRT values?
+Alternative approach to estimate the tirzepatide-mediated GE delay
+109
+
+Reference ID: 4954959
+
+Figure 23. Sensitivity analysis of MRT values on the PK of the tested drugs
+
+Acetaminophen (fed)
+
+Digoxin (fasted)
+
+S-warfarin (fed)
+
+PBPK report Figure 5.4, 5.5, 5.10. The vertical black line represents the median stomach MRT without tirzepatide.
+The grey solid line represents the median stomach MRT after a single 5 mg dose of tirzepatide and the grey dotted
+lines represent the 5th and 95th percentiles of the stomach MRT. The red solid line represents the median
+stomach MRT after 4 weeks of titration dosing (5 mg, 5 mg, 10 mg, and 15 mg) of tirzepatide and the dotted red
+lines represent the 5th and 95th percentiles of the stomach MRT.
+
+2. What is the uncertainty regarding the food effect on the tirzepatide-mediated GE delay?
+In the current DDI analysis, the clinical GE delay induced by tirzepatide under fasted state is not
+available. The Applicant assumed that the fold-change in GE time is independent of prandial state. In
+response to FDA’s IR, Applicant acknowledges that there is no direct comparison of any single GLP-1
+receptor agonist assessed with the same small molecule comedication in both the fed and fasted states.
+The Applicant noted that clinical studies suggested that gastric emptying delay is not an additive
+phenomenon that increases indefinitely. Currently, there is no data to suggest that the food induced
+delay in GE is lessened following the GLP-1 effect. Although indirect, it suggested GLP-1 effect and food
+effect occur via different mechanisms and would therefore be independent from each other.
+Reviewer considers Applicant’s assumption that the fold-change in GE time is independent of prandial
+state has yet to be justified. In response to FDA’s IR, the Applicant conducted additional simulations
+which assumed that the effect of food and the GLP-1 receptor agonist on gastric mean residence time
+were additive. A deconvolution method was used to estimate the tirzepatide -mediated MRT by
+subtracting the baseline/control gastric mean residence time in fed state from the absolute gastric mean
+residence time in the presence of tirzepatide in the fed state. In the simulation, tirzepatide-mediated
+MRT (further adjusted with MRT ratio as shown in Table 3) was added’ to the baseline of the fasted or
+fed state. Based on the Applicant’s simulations (as shown in Table 11), the model suggested a modest
+change in the PK of tested drugs with and without food when assuming the effect of food and the
+tirzepatide-mediate GED are additive. This simulation only considered the effects of food on baseline
+MRT, without considering other factors such as changes in bile acid. There is no collective agreement on
+111
+
+Reference ID: 4954959
+
+whether there are other GLP-1 RA-induced physiological changes which might impact the drug
+absorption such as bile acid. Smits et al 6 reported that sitagliptin appears to increase hepatic bile acid
+production following 12 weeks of treatment, while liraglutide increased the serum CDCA concentration
+but did impact other bile acid species including CA, TCA, and LCA. Secondary bile acids are known to
+increase intestinal permeability and bile salts could increase the solubility of hydrophilic drugs.
+Table 24. Predicted AUC and Cmax Ratios for drugs in the fasted and fed state when co-administered with
+tirzepatide 5 mg on Day 2 using additive method
+
+Atorvastatin
+(total active
+species)
+Digoxin
+Lisinopril
+Metformin
+Metoprolol
+Sitagliptin
+S-warfarin
+
+Fasted
+AUC ratio
+0.89
+1.00
+1.00
+1.00
+1.02
+1.00
+1.00
+
+Cmax ratio
+0.40
+
+Fed
+AUC ratio
+0.92
+
+0.87
+0.99
+0.96
+1.07
+0.95
+0.98
+
+0.99
+1.00
+1.00
+1.00
+1.00
+1.00
+
+Cmax ratio
+0.40
+
+Fed/Fasted
+AUC ratio
+1.03
+
+Fed/Fasted
+Cmax ratio
+1.00
+
+0.66
+0.93
+0.82
+1.01
+0.83
+0.90
+
+0.99
+1.00
+1.00
+0.98
+1.00
+1.00
+
+0.76
+0.94
+0.85
+0.94
+0.87
+0.92
+
+Source: Applicant’s Response to FDA’s IR Table 4.5 (fed) and Table 4.7 (fasted)
+
+3. Sensitivity of absorption parameters on the effect of GLP-RA on the PK of the tested drugs
+Based on the results of sensitivity analysis, a higher permeability would lead to a higher predicted Cmax in
+digoxin, lisinopril, metformin, S-warfarin, and atorvastatin in the baseline condition (no GE delay).
+Additional sensitivity analyses were conducted by FDA reviewer to check the impact of permeability on
+the magnitude of impact of GE delay on the PK of tested drug (i.e., lisinopril).
+As shown in Figure 6, simulated Cmax and Tmax values of lisinopril are sensitive to the permeability
+parameter used in the model. The Peff value of 0.112 x e-4 cm/s for lisinopril was estimated based on
+the clinical data to match the observed fraction absorbed in human.
+
+6
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5129471/
+
+112
+
+Reference ID: 4954959
+
+Table 26. Summary of gastric emptying DDI studies, mentioned in the FDA Label for GLP-1 RAs
+
+GLP-1 RA
+(Initial approved
+year)
+1 WEGOVY
+(semaglutide)
+(2017)
+2 ADLYXIN
+(lixisenatide)
+(2016)
+
+Clinical data available to
+address GE delay#
+
+FDA Dosing recommendation in section 7
+regarding GED*
+
+Digoxin, Oral Contraceptive, SWarfarin, Lisinopril, Metformin,
+Atorvastatin, Furosemide,
+Levothyroxine
+Acetaminophen, Digoxin, Oral
+Contraceptive, S-Warfarin,
+Ramipril, Atorvastatin
+
+“… did not affect the absorption of orally
+administered medications”;“...monitor the
+effects of oral medications concomitantly
+administered with (GLP-RA)”
+“... oral contraceptives should be ... at least
+1 hour before... or at least 11 hours after
+the dose of (GLP-RA)”; “. .. (for drugs)
+dependent on threshold concentrations for
+efficacy ... should be administered at least 1
+hour before (GLP-RA)”
+“… did not affect the absorption of orally
+administered medications tested in clinical
+pharmacology studies to any clinically
+relevant degree” ; “ Caution should be
+exercised when oral medications are
+concomitantly administered with (GLP-RA).
+“...did not affect the absorption of the
+tested orally administered medications to a
+clinically relevant degree (1.5 mg)”;
+“Monitor drug levels of oral medications
+with a narrow therapeutic index (e.g.,
+warfarin) ...”
+“ .. did not affect the absorption of the
+tested orally administered medications to
+any clinically relevant degree”; “... caution
+should be exercised ...”
+“.. used with caution ...(with) narrow
+therapeutic index or require rapid
+gastrointestinal absorption”; “... (for drug)
+dependent on threshold concentrations for
+efficacy ... should be administered at least 1
+hour before (GLP-RA)”
+
+3 TANZEUM
+(albiglutide)
+(2014)
+
+Digoxin, Oral Contraceptive, SWarfarin, Simvastatin
+
+4 TRULICITY
+(dulaglutide)
+(2014)
+
+Acetaminophen, Digoxin, Oral
+Contraceptive, S-Warfarin
+Lisinopril, Metoprolol,
+Metformin, Atorvastatin,
+Sitagliptin
+
+5 VICTOZA®
+(liraglutide)
+(2010)
+
+Acetaminophen, Digoxin, Oral
+Contraceptive, Atorvastatin
+Lisinopril Griseofulvin
+
+6 BYETTA®
+(exenatide)
+(2005)
+
+Acetaminophen, Digoxin, SWarfarin, Lisinopril, Lovastatin
+
+Source: Applicant’s IR response Table 4.2
+*Summarized from the USPI of the GLP-RA drugs
+1.
+https://www.accessdata.fda.gov/drugsatfda docs/label/2021/215256s000lbl.pdf
+2.
+https://www.accessdata.fda.gov/drugsatfda docs/label/2021/208471s004lbl.pdf
+3.
+https://www.accessdata.fda.gov/drugsatfda docs/label/2017/125431s020lbl.pdf
+4.
+https://www.accessdata.fda.gov/drugsatfda docs/label/2021/125469s044lbl.pdf
+5.
+https://www.accessdata.fda.gov/drugsatfda docs/label/2020/022341s036lbl.pdf
+6.
+https://www.accessdata.fda.gov/drugsatfda docs/label/2021/021773s045lbl.pdf
+#
+
+4. Overall model risk assessment
+114
+
+Reference ID: 4954959
+
+Table 27.Overall model risk assessment
+
+Description
+Model
+influence
+
+Describe the model
+influence, i.e.,
+what is the weight of
+model predictions in
+decision-making
+considering the totality
+of evidence
+
+Applicant’s
+position
+Medium.
+
+Decision
+consequence
+
+Discuss your decision
+consequence based on
+all available evidence
+i.e., potential safety or
+efficacy risk to patients
+if an incorrect decision
+is made.
+
+Low.
+
+Model Risk
+
+Provide an assessment
+of overall risk of a
+wrong model prediction
+based on answers in
+‘Model influence’ and
+‘Decision consequence’.
+
+Low.
+
+FDA Assessment
+Initially: High. As the PBPK prediction will
+be used to waive the clinical studies.
+Final assessment: Medium. During the
+review process, the review team agreed
+that the clinical experience with
+dulaglutide and other GLP-1 receptor
+agonists (GLP-1 RAs) can provide
+quantitative evidence regarding the
+overall GED effect expected with GLP-1
+RAs, including tirzepatide.
+Low. Clinical studies showed the effect of
+delayed gastric emptying on small
+molecule PK is primarily a decrease in
+Cmax. For most drugs where efficacy is
+driven by AUC exposure, there would
+therefore be low consequence. For drugs
+dependent on threshold concentrations
+for efficacy or with narrow therapeutic
+index, the risk could be managed with
+labeling recommendation.
+The overall model risk level is low when
+considering the clinical experience with
+other GLP-RAs, the effect of GE delay is
+mainly on Cmax, and available risk
+mitigation strategy (i.e., labeling
+recommendations)
+
+E. CONCLUSION
+The Applicant’s PBPK analysis provided a mechanistic interpretation of the effect of tirzepatide-induced
+GE delay. However, the predictability of this PBPK analysis to provide a quantitative estimation of the
+effects of GE delay on the PKs of the tested drugs has not been fully established. Currently, this modeling
+approach has only been applied with one other GLP-1 RA, namely dulaglutide. Nonetheless, the Reviewer
+considered the analysis adequate to provide a qualitative assessment in terms of PK changes for the test
+drugs taking into consideration the clinical experience with other GLP-1 RAs, and current understanding
+of the GE delay mechanism and possible impact on drug PK parameters. Therefore, the totality of evidence
+suggested that no clinically meaningful effect would be expected, and no dose modification would be
+needed for the tested drug(s) when concomitantly administered with tirzepatide. Labeling
+recommendations for drugs dependent on threshold concentrations for efficacy or with narrow
+therapeutic index will be implemented as part of a risk mitigation strategy.
+
+115
+
+Reference ID: 4954959
+
+Signature Page 1 of 1
+
+-------------------------------------------------------------------------------------------This is a representation of an electronic record that was signed
+electronically. Following this are manifestations of any and all
+electronic signatures for this electronic record.
+-------------------------------------------------------------------------------------------/s/
+-----------------------------------------------------------MOHAMAD M KRONFOL
+03/18/2022 11:21:22 AM
+ELYES DAHMANE
+03/18/2022 11:25:32 AM
+XINYUAN ZHANG on behalf of YUCHING N YANG
+03/18/2022 12:17:43 PM
+Proxy for Dr. Yuching Yang
+MANUELA GRIMSTEIN
+03/18/2022 12:21:36 PM
+JUSTIN C EARP
+03/18/2022 02:32:40 PM
+JAYABHARATHI VAIDYANATHAN
+03/18/2022 02:37:40 PM
+SHIRLEY K SEO
+03/18/2022 04:10:09 PM
+
+Reference ID: 4954959
+
+

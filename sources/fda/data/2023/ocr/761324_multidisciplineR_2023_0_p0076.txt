@@ -1,0 +1,61 @@
+BLA Multi-disciplinary Review and Evaluation {Biologics License Application (BLA) 761324
+{epcoritamab}
+
+Table 17: Simulated Ctrough — Nominal Dosing Schedule Compared to Dosing Delay After
+Step-Up Dose 1 (Scenario 1)
+
+Crrough Following Step-Up Dose 1
+Geo mean Geo mean 95% CI
+Simulated Cohort Description (ug/ml) (ug/ml)
+Nominal Dosing Schedule 7 days between step-up 0.00120 0.00110, 0.00130
+dose 1 (0.16 mg) and
+step-up dose 2 (0.8 mg)
+Maximum Dose Delay without | 8 days between step-up 0.00116 0.00107, 0.00126
+Required Re-priming dose 1 and step-up dose 2
+
+Step-up dose 1 administered on Cycle 1 Day 1.
+Cl = confidence interval; Ctrough = concentration immediately prior to next dose; geo mean = geometric mean.
+
+Source: Reviewer analysis using dataset and model file provided by Applicant in response to 09 January 2023
+information request
+
+Scenario 2 (delay/re-priming after step-up dose 2 of 0.8 mg epcoritamab):
+
+e Simulation of scheduled dosing (reference).
+
+¢ Simulation of first full dose (48 mg) given 14 days after step-up dose 2 (0.8 mg),
+followed by scheduled doses.
+
+e Simulation where re-priming occurs 21 days after step-up dose 2 per Applicant’s
+repriming strategy, followed by scheduled doses.
+
+Figure 4: Simulated PK Profiles — Reference (Nominal Dosing Schedule) Dosing Delay After
+Step-Up Dose 2 With and Without Re-Priming (Scenario 2)
+
+0.0004
+
+DAANAS we aha
+Lf RINNE
+
+WY
+
+ay")
+f:
+
+Concentration (ug/mL)
+
+| Cohort
+Nominal dosing schedule
+| Delayed dosing, re-priming not required
+| Delayed dosing, re-priming required
+
+o.4 6 a2 16 20 24 io 44
+
+Time (Week)
+75
+Version date: June 2022 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5176690

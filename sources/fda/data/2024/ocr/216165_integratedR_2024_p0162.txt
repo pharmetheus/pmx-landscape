@@ -1,0 +1,84 @@
+NDA 216165
+Cefepime-Enmetazobactam
+
+cefepime-enmetazobactam dosing regimens evaluated. Overall percent probabilities of PK/PD
+target attainment (i.e., weighted over the MIC distribution) were also determined.
+
+Results
+
+PK/PD Target Attainment Analyses for Efficacy
+
+An information request was sent on September 15, 2023, for additional PTA analyses to support
+the dosing regimen in subjects with renal impairment based on renal function as determined by
+de-indexed eGFR (expressed in units of mL/min). Specifically, we request the Applicant to
+update the simulation of cefepime and enmetazobactam at the proposed dosing regimen using the
+de-indexed eGFR in various renal impairment groups with appropriate categories (e.g., (0, 10],
+(10, 20], (20, 30], (30, 45], (45, 60], (60, 90], (90, 120], (120, 130], (130, 150], (150, inf}).
+
+Based on the response to information request received on September 29, 2023, the PTA analyses
+across different renal function categories were recalculated using de-indexed eGFR, supporting
+the final proposed dosing regimen for subjects with renal impairment using de-indexed eGFR.
+The predicted joint cefepime-enmetazobactam PTA on Day 1 for the recommended dosage
+regimens shown in Table 103 with the joint cefepime-enmetazobactam target are shown in
+Figure 24. For analysis of the PTA, Day 1 was chosen since it is the day with the lowest
+exposure.
+
+Figure 24. Joint Cefepime-Enmetazobactam Day 1 PTA for Subjects With Different Degrees of
+Renal Elimination Capacity
+
+60% 68%
+
+abs. eGFR (mL/min)
+— <15 mUmin
+*~ 18-<30 mUmin
++ 30-<60 mL/min
+= 60-<90 ml/min
+= 90-< fqymUmin
+a
+~ >=f/@numn
+@
+
+)
+
+quency (-)
+
+fre
+
+\
+
+\ Pathogen
+Bh A baumannii
+
+\ \
+
+t \ Enterotacterales
+J Poemm AAS Ol TORO ee Ol P.aenugincee
+VES LI SeaSS S 43
+
+MIC (ug/mL)
+
+Joint PTA or rel. fi
+
+PPMP P Vr PSHE
+
+Source: Applicant’s response for information request on September 29, 2023, SDN 20, Figure 1, Page 3.
+
+Note: ()@) PTA as a function of the MIC for the targets of 45%
+fT(enmetazobactam) > C1 ot 2 ug/mL and 60% ft! (cefepime) > MIC (left) or 68% fT (cefepime) > MIC (right).
+
+The horizontal dashed line indicates a PTA of 0.9. 8000 subjects per group.
+
+Abbreviations: eGFR, estimated glomerular filtration rate; MIC, minimum inhibitory concentration; PTA, probability of target
+attainment
+
+The results show that all renal function groups with de-indexed eGFR < mL/min achieved
+joint cefepime-enmetazobactam PTAs of > 3% for the targets of 45% fI(enmetazobactam) > Cy
+of 2 j1g/mL and 60% fT (cefepime) > MIC = 81g/mL on Day 1. For the more stringent cefepime
+
+target of 68% fT (cefepime) > MIC = 8,1g/mL the joint cefepime-enmetazobactam were PTAs
+18% for subjects with de-indexed eGFR < mL/min.
+
+147
+Integrated Review Template, version 3.0 (05/25/2022)
+
+Reference ID: 5333102

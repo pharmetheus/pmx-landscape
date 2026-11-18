@@ -1,0 +1,59 @@
+NDA 216490
+Yorvipath (Palopegteriparatide)
+
+Model Application
+
+The Applicant used the submitted QSP model to provide mechanical insight on how free PTH
+regulates serum and urine calcium by regulating calcium homeostasis. In addition, the Applicant
+also investigated the impact of a temporary discontinuation of palopegteriparatide on PK and PD
+markers when discontinuing palopegteriparatide dosing for 1, 2, 4, or 7 days before resuming.
+The effect of the dosing holidays on active PTH and serum calcium concentrations, the change in
+serum calcium concentration from steady-state, and the urine calcium excretion rate was
+evaluated accordingly.
+
+Reviewer’s Comments
+
+As the patient QSP model was not fully validated (see the previous comment) with clinical data
+across the clinical dosing range (6 to a mcg), uncertainties exist when extending the conclusion
+
+derived from the simulated effect of the dosing holidays at 18 mcg to higher doses |
+
+Software and Code Verification
+
+Data manipulation and visualization were conducted using R version 4.1.1 (ttp://www.1-
+project.org). Model development and simulation were executed using the mrgsolve package
+version 0.11.2 for R. Analyses were conducted on a computer grid with multiple compute nodes
+(Metworx version 21.08.2). Each node ran the Linux operating system that utilized the gfortran®
+Fortran Compiler (version 7.5.0 for Linux).
+
+Reviewer’s Comments
+
+e The Applicant’s technical documentations (such as code documentation and user
+documentation) are not organized, and model parameters were not well-referenced in the
+QSP modeling report.
+
+e Mathematical equations and methodology have been checked against the reference code and
+the reviewer can reproduce the results in the report.
+
+e The Reviewer noted that an early communication of analysis documentation will help with
+timely review.
+
+Results
+
+Can the QSP model describe the PK profiles of TransCon PTH and dynamics of analysis
+variables after palopegteriparatide treatment?
+
+Yes. The model can describe the dynamics of the primary analysis variables, such as serum
+endogenous PTH(1-84), and serum and urine calcium observed in healthy volunteers and
+hypoparathyroidism patients following treatment with palopegteriparatide. The model can
+describe the transient elevations observed in serum and urine calcium and serum active vitamin
+D following the single doses of palopegteriparatide (Figure 50). The same patterns held for the
+MAD cohort (Trial CT-103) regarding serum and urine calcium. As shown in Figure 51, the
+time-course and magnitude of the observed serum and urine calcium changes were consistently
+predicted by the QSP model. However, transient changes in active vitamin D were not captured
+by the QPS model following repeated palopegteriparatide doses. The goodness-of-fit diagnostics
+
+229
+Integrated Review Template, version 3.0 (05/25/2022)
+
+Reference ID: 5165921

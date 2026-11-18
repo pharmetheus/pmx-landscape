@@ -1,0 +1,61 @@
+NDA Multidisciplinary Review and Evaluation
+NDA 220305
+Komzifti (ziftomenib)
+
+some dose levels only had one blood sample (FDA Figure 12); (2) small sample size, as
+some dose levels only had PK data from one patient; (3) the PK parameters for
+ziftomenib were highly variable with CV% values up to 250%, which may be caused by
+high incidence of concomitant medications such as PPIs and weak CYP3A inducers
+besides CYP3A inhibitors.
+
+e In the in vitro dissolution assay, ziftomenib capsules did not dissolve in the fed state
+media. This is inconsistent with the approximately 4-fold positive food effect observed in
+clinic (Study KO-MEN-003), indicating a disconnection between in vitro dissolution and
+in vivo performance in the fed state. In the modeling analysis for fed state simulation,
+ziftomenib was assumed not to precipitate, which was required to recover the positive
+food effect observed in Study KO-MEN-003. In other words, there is uncertainty about
+food effect prediction when clinical PK data are unavailable.
+
+14.4.4.4.2. Effects of CYP3A precipitants on the PK of ziftomenib
+
+The estimated effects of CYP3A inhibitors and inducers on the PK pf ziftomenib following
+coadministration with 600 mg ziftomenib once daily for 29 days are summarized in FDA Table
+66.
+
+FDA Table 66. Geometric mean ratios of estimated PK parameters of ziftomenib in the
+absence and presence of CYP3A4 precipitants in patients with cancer
+
+Ziftomenib fmcyrsa
+cassiicstion of a Precipitant dosing regimens __ 60% 70%
+AUCay ratio | Crm ratio AUCay ratio Crna Fation
+fstronginhibitor | Itraconazole _|200 mg QD 21 15 2.6 17
+\Voriconazole 200 mg BID 25 17
+300 mg tablet BID on D1 then QD 24 16
+Posaconazole |200 mg suspension TID 2.0 14
+1400 mg suspension BID 19 14
+moderateinhibitor | es onazoie  |200-mgQD is | 13 2.0 17
+[400 mg QD 24 15
+isavuconazole_|372 mg Q8h equivalent 14 12
+Erythromycin [SOO mg TID 15 13 17 13
+weak inhibitor Cimetidine [400 mg TID 14 12 14 12
+[strong inducer Rifampin [600 mg QD 0.2 0.4 02 04
+moderate inducer__| Efavirenz [600 mg QD 03 Os 03 04
+[weak inducer Dexamethasone |8 mg BID. 0.6 08 OS 07
+
+QD, once daily, BID, twice daily, TID, three times a day. Q8h, every 8 hours
+Source: the response-to-fda-clin-pharm-ir- dated July 28, 2025 (seq0026)
+
+Reviewer’s comments:
+
+To predict the effects of CYP3A inhibitors and inducers on ziftomenib PK, the fraction
+metabolized by CYP3A (fm.cyp3a) is one of the key parameters that needs to be determined in the
+ziftomenib PBPK model. In the model development of ziftomenib, the fraction metabolized by
+CYP3A (fm.cyp3a) value was optimized using the calculated differences in mean dose-adjusted
+
+312
+Version date: March 1, 2024 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant's Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5694243

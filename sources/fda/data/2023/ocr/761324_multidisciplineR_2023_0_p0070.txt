@@ -1,0 +1,58 @@
+BLA Multi-disciplinary Review and Evaluation {Biologics License Application (BLA) 761324
+{epcoritamab}
+
+CRS=cytokine release syndrome
+Source: Summary of Clinical Safety, Tables 18 and 19
+
+3) Although lower body weight (<65 kg) was associated with 37% higher exposure
+compared to patients weighing 65 to 85 kg, the CRS grade and incidence for each dose
+event did not differ significantly across body weight quartiles in patients with LBCL (refer
+to Appendix 19.4.4.2 for details).
+
+e Full dose
+
+1) Modeling and simulations including E-R and PK/PD modeling analyses suggest higher
+epcoritamab exposure was associated with higher ORR and CR rates, with a potential
+plateau of efficacy following the proposed dosage regimen and above (Figure 2). Refer
+to Appendix 19.4.5.2 for detailed E-R efficacy analysis and for PK/PD analysis.
+
+2) E-R safety analysis did not identify any safety concerns with the proposed dosage
+regimen. No E-R associations were observed for safety endpoints, including Grade 23
+treatment emergent adverse events (TEAE), serious TEAE, Grade >3 infections, injection
+site reactions, TEAE leading to dose delay or dose discontinuations, any grade CRS,
+Grade 22 CRS, CRS requiring tocilizumab, immune effector cell-associated neurotoxicity
+syndrome (ICANS), and clinical tumor lysis syndrome (CTLS). Refer to Appendix 19.4.5.4
+for detailed E-R safety analyses.
+
+Figure 2: Emax model of overall response rate and epcoritamab Cycle 1 Ctrough in
+patients with LBCL in Study GCT3013-01
+
+o7s
+
+g
+3
+§
+og
+3 8
+8
+ae if
+= ove «48mg
+a Ss ‘Dose 48mg
+Moose > 4809
+i
+0 2 ‘ $ 3
+
+Green, yellow, and red boxplot summarizes Cycle 1 Crrough in patients with LBCL who received <48 mg full
+dose, 48 mg full dose, and >48 mg full dose, respectively. The red solid line and green shaded area represent
+the logistic regression model prediction and 95% Cl of predictions. Points show exposure of individual
+patients with events (p=1) and without events (p=0). Black squares and vertical green lines show observed
+fraction of patients with events in each exposure group and 95% CI for these fractions. Dashed vertical lines
+show bounds of exposure tertiles. Data cutoff date: 31 Jan 2022.
+
+69
+Version date: June 2022 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5176690

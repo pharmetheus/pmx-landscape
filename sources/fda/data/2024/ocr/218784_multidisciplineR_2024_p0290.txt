@@ -1,0 +1,49 @@
+Multi-disciplinary Review and Evaluation
+NDA 218784
+VORANIGO (vorasidenib)
+19.4.1.3. PPK Review Issues
+
+The FDA’s Assessment:
+
+In the Applicant’s analysis, an adolescent population PK model adapted from adult model was
+applied to conduct simulation to evaluate dosage in adolescents due to the lack of PK and clinical
+data (n=1) in adolescents. This model includes an add-on weight allometry on clearance and
+volume with fixed exponents (Equation 1) and assessed weight-tiered dosage in adolescents: 40
+mg QD in adolescents weighing at least 40 kg, and 20 mg QD in adolescents weighing less than
+40 kg (see Figure20).
+
+Incorporation of weight allometry was deemed reasonable considering an expected physiological
+difference in drug clearance for hepatic eliminated drugs in adolescents’. This assumption is
+consistent with reported population PK models of other CYP1A2 metabolized drugs developed
+inclusive of adolescent data?. In those models, at least sex effect is estimated rather than
+imposed as fixed values because weight is often associated with sex and incorporating both
+without re-estimation may lead to an underprediction of CL in low body weight females.
+Therefore, a sensitivity analysis excluding sex effect (see 19.4.1.4) was conducted to further
+evaluate the proposed dosage, the results of which supported the same recommendation.
+
+Equation 1. Weight allometry on clearance and volume.
+
+- 0.75
+CL/F or Q/F* (L/h) =17.8x (Pecweight) x (1 — 0.337)[if female]
+
+bodyweight\* .
+V/F# (L/h) = 371 x ee) x (1 — 0.331)[if female]
+Notes: *Q/F refers to Q3/F or Q4/F. *V/F refers to V2/F, V3/F, or V4/F.
+
+Figure20. Boxplots of exposure per weight group and colored by dosage.
+
+1 Momper JD, et al, Burckart GJ. Adolescent dosing and labeling since the Food and Drug Administration
+Amendments Act of 2007. JAMA Pediatr. 2013 Oct;167(10):926-32.
+? Lobo ED, et al. Oral olanzapine disposition in adolescents with schizophrenia or bipolar | disorder: a population
+pharmacokinetic model. Paediatr Drugs. 2010 Jun;12(3):201-11.
+3 Ma YJ, Jiang DQ, Meng JX, Li MX, Zhao HH, Wang Y, Wang LQ. Theophylline: a review of population
+pharmacokinetic analyses. J Clin Pharm Ther. 2016 Dec;41(6):594-601. doi: 10.1111/jcpt.12435.
+
+289
+
+Version date: December 2023(ALL NDA/BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5425021

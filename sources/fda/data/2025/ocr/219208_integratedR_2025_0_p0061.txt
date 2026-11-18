@@ -1,0 +1,73 @@
+NDA 219208
+
+Vanrafia (atrasentan)
+Figure 2. Subgroup Results for the Primary Efficacy Endpoint, Main Stratum IA ITT Set, ALIGN
+Trial
+CHK01-01: Relative Percent Change in UPCR @ Week 36
+f %otPatens Est EstwihM Shrinkage
+H (+270) (95% Cl) (95% Cl) (95% Cl)
+H Be fey tes
+Oat =—— 100 20(45.26)34,43,-23)
+‘Age Group 1 i
+‘<08 years —— ot -B7(45.27) 24 (44-24) -34(43,-23)
+2 0B years SS “10 (50.63) 15 (54,58) -28 (50, 26)
+sex ;
+Male =n 59 -27 (30,12) -25 (38,9) -27 (40-11)
+—*# a 48 (58,35) 40 (57,31) 42(-55,-28)
+Race Group 3 ;
+‘asian —*Hi 57 4101.29) 20¢40,-24)  -20(47.-23)
+‘White == 36 -25(40.5) 25 (41,4) -20(42.-8)
+etecty : \
+HISPANIC ORLATNO SS —— 2 96 (53.13) -25(53,-9)  -34(-49,-15)
+NOTHSPANIC ORLATNO — | n ecaeas) acanaa) —satae22)
+‘Geographic Region? :
+NomAsia 3 31 (43,47) 30 (43, -14) 32 (43, -18)
+Asia a7 4162.28) -20(50,-28) -90(-48.-23)
+BL eGER (mLimint-73m2) Gp 1
+S45 miemin’t.73m2 40 36 (40, -10) (33 (47, -14) 34 (45, -10)
+> 45- < 60 miminvt.73m2 20 36 (53,12) 36 654, -11) 34 (48, -18)
+> 60 mLimin/t.73m2_ at “37 (40,21) 4 (48,17) (34 (45, 21)
+BL 248 UPCR (mofg}Geom Grp 1
+<2 o 7 -98(45.-25) 35 (48.-23)  -34(-44.-23)
+2200 23 35(82.12)  -30(80,-3) —-32(47.-11)
+BL 24h UPCR (mog} Geom Grp2
+<1599 55 -24(40,21) -29(48,-18) -99(4,-20)
+2 150% 4s 28(60,-24)  -25(48,-18)  -24(-40,-20)
+BL 24h Prot (mgiday}GM Gep 1
+<1 plday 9 32 (68,10) 32 (80,12) -34 (48-13)
+1-<2giday_ 49 -37 (48, 23) 34 (47, -19) “34 (44, -22)
+2-<3giday 2B -34(62.-11)  -34(52,-10)  -34 (48, -18)
+2 3glday 20 -20(54.-11) -92(52,-4) -33(46,-17)
+BL 24h Prot (mg/day}GM Gep 2
+S 2gday 7 “37 (48, 24) 35 (46, -21) 4 (45, -22)
+>2glday 43 -35 (48, 10) (33 (47. -15) 34 (46, -10)
+‘Baseine Blood Pressure Group 1
+‘SBP < 140 and DBP <00 mm 2 24¢43.22) -2¢42,20)-33(43.21)
+SBP 2 '40orabp 20 40,-00,-25) 4158.18) -37(-54.-20)
+
+0 0 86-6040 3020 0 1020 40
+Relative Percent Change in UPCR between arms,
+
+Source: Statistical Reviewer
+
+Est: analysis is based on all data excluding datapoints with use of restricted medications.
+
+Est with MI: multiple imputations were conducted using copy reference for atrasentan arm. For placebo arm, the imputation was
+based on MAR assumption. A total of 1000 imputations were conducted, and Rubin's rule was used to combine the results.
+Shrinkage analysis was conducted based on the combined estimates following Rubin's rule.
+
+Bayesian hierarchical model: zi and ci are denoted as the estimated treatment effect on log-transformed proteinuria and the
+corresponding standard deviation for the i* subgroup. Assuming, yi~Normal (ui, oi”), where pi~Normal (u, 7), z~Normal (0, 10) and
+?~ Inverse.Gamma (0.001, 0.001). Of note, a variance of 5 on the overall treatment effect u is a weakly informative prior and
+Inverse.Gamma distribution is the most commonly used prior for a variance component as it is the conjugate distribution of the
+normal distribution where parameters are set to be 0.001 to provide a large variation.
+
+Abbreviations: BL, baseline; Cl, confidence interval; DBP, diastolic blood pressure; eGFR, estimated glomerular filtration rate;
+est, estimate; GM, geometric mean; grp, group; h, hour(s); IA, interim analysis; ITT, intent-to-treat; MAR, missing at random;
+SBP, systolic blood pressure; UPCR, urine protein-to-creatinine
+
+MI, MI rnultple imputation, N, number of subjects; prot, proteinuria;
+
+Integrated Review Template, version 4.0 (11/1/23)
+
+Reference ID: 5563590

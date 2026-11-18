@@ -1,0 +1,68 @@
+NDA/BLA Multi-disciplinary Review and Evaluation NDA 219835
+vepdegestrant
+
+Race n (%):White 56 (42.4%), Asian 61 (46.2%), and
+Other 15 (11.4%)
+
+Pediatrics (if | Not applicable
+any)
+
+Dose(s) Included 200 mg oral daily dose
+
+Exposure Metrics Explored Cag octe1 (ng/mL) median (range): 548 (157 to 1140)
+(range) ng/mL
+
+Cavg eyele 1 = average concentration in cycle I
+
+Both the linear and log-transformed scales of exposure
+metrics were evaluated.
+
+Covariates Evaluated Demographics:
+
+Age, postmenopausal status, body weight, race, and
+region
+
+Baseline disease characteristics:
+PIK3CA/AKTI/PTEN mutation, visceral disease status,
+hormone receptor status, ECOG status, Baseline
+measurable disease, and liver disease
+
+Prior treatment:
+
+Prior lines of regimen, prior anti-cancer surgery, prior
+anti-canter radiotherapy, and duration of prior CDK4/6i
+treatment
+
+Final Model Parameters Summary Acceptability
+
+[FDA’s
+comments]
+
+Model Structure Cox proportional hazard modeling | Acceptable
+
+Model Parameter Estimates The final Cox-PH exposure-PFS Acceptable
+analysis indicated that Cagcycie: did
+not have a statistically significant
+association with PFS; Measurable
+disease at baseline (BICR) showed a
+statistically significant association
+with shorter PFS. (Table 55)
+
+Model Evaluation Schoenfeld test and visual Acceptable
+examination of residuals showed no
+deviation from the assumption of
+constant HR over time.
+
+Covariates and Clinical As exposure was not significant, Acceptable
+Relevance other covariate (measurable disease
+at baseline) in the final model was
+considered exploratory and a lack
+of relationship between exposure
+
+237
+Version date: March 1, 2024 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5789627

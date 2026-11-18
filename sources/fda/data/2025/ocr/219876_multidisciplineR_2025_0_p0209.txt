@@ -1,0 +1,53 @@
+NDA Multi-Disciplinary Review and Evaluation
+
+NDA 219876
+
+Dordaviprone
+Parameters Estimate %RSE 95 % CI
+IIV on CL/F 53.0 5.44 47.2 —58.5 10.7%
+IIV on V2/F 225 12.9 172 — 287 22.8%
+IIV on KA 18.8 18.1 10.2 — 24.6 57.8%
+IIV on V3/F 26.1 9.72 20.6 — 30.7 36.2%
+Residual Error Estimate %RSE
+Additive error 2.60 25.8 1.29-3.91 10.2%
+(ng/mL)
+Proportional Error 30.7 3.19 28.7 — 32.6 10.2%
+(%)
+
+Abbreviations: %CV=percent coefficient of variation, ALAG=absorption lag time; BWT=body weight at baseline:
+Cl=confidence interval; CL/F=apparent clearance; IIV=interindividual variability; KA=absorption rate constant;
+PPK=population pharmacokinetic; Q/F=apparent intercompartmental clearance: RSE=relative standard error:
+V2/F=apparent volume of distribution for the central compartment; V3/F=apparent volume of distribution for the peripheral
+compartment
+
+Notes: Parameter precision (95% CT) were calculated based on NONMEM covariate step. ITV was estimated on the variance
+scale in NONMEM and presented as %CV here using the approximation sqrt(exp[variance]-1).
+
+Source: CHIM-ONC201_diagnostics_run315.Rmd
+
+Figure 19.1: Applicant — Goodness-of-Fit Plots for the Final PPK Model
+(OBS-PRED/IPRED, CWRES-TIME/PRED)
+
+nted Residual
+
+Observed Val
+
+5000 10000
+individual Prediction
+
+5000 10000 o 2000 4000 o 2 4000 adoo 000
+Population Prediction Population Prediction individual Prediction
+
+‘oncooz ‘oNnco08 ‘oncot4
+
+‘oncoos ‘ONCO13 ‘ONC201-101
+
+Abbreviations: GOF=goodness of fit; LOESS=locally weighted scatterplot smoothing: PPK=population pharmacokinetic
+208
+
+Version date: March 1, 2024 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5638121

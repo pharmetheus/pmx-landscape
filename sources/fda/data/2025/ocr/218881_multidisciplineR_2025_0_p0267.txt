@@ -1,0 +1,81 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {Insert Application Type and Number}
+
+{Insert Product Trade and Generic Name}
+
+Table 19.7: Summary of Bioanalytical Validation Used for Quantification of Imlunestrant
+
+in Human K2EDTA Plasma
+Bioanalytical method Bioanalytical Report 400008-213865-PMV_1 and 400008-213865-PMV
+validation report name, Amendment 02
+amendments, and
+hyperlinks
+Method description Validation of an LC-MS/MS method for the determination of LY3484356 in
+
+human K7EDTA plasma
+
+Materials used for standard
+calibration curve and
+
+Imlunestrant Lots RS1313 and RS1339
+LSN3514100 Lot CAZ-ELC1-21-1
+
+concentration
+
+Validated assay range 0.500 ng/mL to 500.000 ng/mL
+
+Material used for QCs and Imlunestrant Lots RS1313 and RS1339
+
+concentration LSN3514100 Lot CAZ-ELC1-21-1
+
+Minimum required Not applicable
+
+dilutions (MRDs)
+
+Source and lot of reagents Not applicable
+
+Regression model and Linear 1/x2 weighted
+
+weighting
+
+Validation parameters Method validation summary Acceptability
+
+Standard calibration curve | Number of standard calibrators from LLOQ] 8 Yes
+
+performance during to ULOQ
+
+accuracy and precisionruns | Cumulative accuracy (%bias) from LLOQ | -1.4% to 1.2% Yes
+to ULOQ
+‘Cumulative precision (%CV) from LLOQ | <4.4% CV Yes
+to ULOQ
+
+Performance of QCs during | Cumulative accuracy (%bias) in 3 QCs 2.3% to 4.8% Yes
+
+accuracy and precision runs | QCs:
+Interbatch %CV QCs: <3.6% CV ‘Yes
+Total Error (TE) QCs: Not Yes
+
+applicable
+
+Selectivity & matrix effect Six lots of blank plasma were tested. Response was <2.6% Yes
+of LLOQ.
+
+Interference & specificity No significant interference was seen. Yes
+
+Hemolysis effect One lot of lysed plasma was tested. Response was 0.0% of Yes
+LLOQ.
+
+Lipemic effect One lot of hyperlipidemic plasma was tested. Response was| Yes
+0.0% of LLOQ.
+
+Dilution linearity & hook 200-fold dilution validated. Hook effect not applicable. Yes
+
+effect
+
+266
+
+Version date: March 1, 2024 (ALL NDA/BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant's Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5665313

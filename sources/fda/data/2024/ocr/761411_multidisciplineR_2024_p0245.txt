@@ -1,0 +1,55 @@
+BLA Multidisciplinary Review and Evaluation
+BLA 761411
+Niktimvo (axatilimab-csfr)
+
+FDA Figure 17. Model-Predicted Steady State Cavg and Cmax Following 0.3 mg/kg Q2W in
+Virtual Pediatric Population versus Virtual Adult Population
+
+Group
+— Aduits:0.3 marks a2W
+— Pediatics: 0.3 mglkg O2W
+
+Cmaxss (ugimL)
+
+0 40 60 60 100 120 140 160 0 20 40 60 8 100 120 140 160
+Baseline Body Weight (kg) Baseline Body Weight (kg)
+
+Exposure simulated a virtual population of 1000 adult patients and in a virtual population of 1000 or 3000 pediatric
+patients ages 6 years and older for each dosage. Solid lines represent loess regression of model-predicted
+exposure in each age group across body weight. Dashed black lines show median (+ 20%) predicted exposure
+following 0.3 mg/kg IV Q2W in the virtual adult population. Individual points show individual predicted exposure
+in each virtual subject.
+
+Cavg$S = steady state average exposure over the dosing interval; CmaxSS = maximum concentration over the
+dosing interval at steady state; IV = intravenously; Q2W = every 2 weeks.
+
+Source: Reviewer's analysis of Applicant’s PPK model and virtual population datasets in Applicant’s response to
+22March2024 information request (seqn0013)
+
+FDA Figure 17 shows that the 0.3 mg/kg Q2W dosage results in lower exposure in adult and
+pediatric patients weighing <40 kg compared to those weighing 40 kg and above. Although no
+clear E-R efficacy associations were identified in AGAVE-201 patients who received doses below
+1 mg/kg Q2W (see detailed E-R efficacy analysis in Section 14.4.2), the E-R data do not
+sufficiently support the Applicant’s assertation that |
+There were limited clinical data available in patients
+weighing <40 kg, and 6/239 patients in AGAVE-201 weighed <40 kg. Only 1 of these 6 patients
+was assigned to the 0.3 mg/kg Q2W cohort and this patient did not have experience a response
+within the first 6 cycles despite dose-escalating from 0.3 mg/kg Q2W to 1 mg/kg Q2W in
+Cycle 4. An acceptable axatilimab dosage has not been determined in pediatric and adult
+patients weighing <40 kg.
+
+Some patients ages 2 to <6 years may weigh 40 kg and above, while a notable proportion of
+patients ages 6 to <17 years are expected to weigh less than 40 kg. Based on age- and
+development-dependent PK differences in pediatrics, patients who are 2 to <6 years of age and
+240 kg are not expected to have significant differences in axatilimab PK compared to patients
+who are 6 to <17 years of age and 240 kg. The PK of axatilimab in patients ages younger than
+
+2 years is unknown. Because of the overlap in weight distribution between patients ages 2 to <6
+years and 6 to <17 years, the clinical pharmacology assessment supports the dose of 0.3 mg/kg
+
+245
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA. The FDA's position is highlighted in gray.
+
+Reference ID: 5429649

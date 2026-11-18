@@ -1,0 +1,6 @@
+run_date: 2026-09-28
+years: 2021 to 2026 (2026 partial)
+queries: 240
+queries whose retrieved IDs differ from the reported count: 0
+PubMed base-set papers matching more than one year, kept only in the earliest: 667
+tool IDs outside the base set of the same source and year: 0

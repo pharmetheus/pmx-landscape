@@ -1,0 +1,51 @@
+NDA 219208
+Vanrafia (atrasentan)
+
+Atrasentan 0.75 mg Placebo
+(N=201) (N=202) Risk Difference
+
+Adverse Event Category n(%) n(%) (%) (95% Cl)
+Serious 0 0 0 (0, 0)
+Resulting in discontinuation 1 (0.5) 0 0.5 (-0.5, 1.5)
+
+Source: Reviewer's analysis based on adae xpt; Software: R
+
+‘ Treatment-emergent adverse events defined as events first occur or worsen on or after the first dose of study drug and within 30
+days after the last dose of study drug.
+
+? Duration is 47 weeks (median).
+
+Abbreviations: AE, adverse event; Cl, confidence interval; FDA, Food and Drug Administration; FMQ, FDA medical query;
+
+N, number of subjects in treatment arm; n, number of subjects with adverse event
+
+Figure 13. Graphic Subject Profile for Subject 6), ALIGN Trial
+study_arm: Arasentan 0.75 mg SEX: F AGE: 68 RACE: NOT REPORTED
+CHKO01-01- Cy
+Adverse Events
+Asthenia ——_ Seventy
+‘edema peripheral ~__.. “o> mia
+19 3 14 30 47 63 80 96 130129
+
+Arrows: dates outside of range or missing: Bold & lalc: drug withdrawn; Asterisk shope: serious
+
+Diastolic Blood Pressure (mmHg)
+
+19 3 14 «30 «647-63 i8s—iHK—“iéia 129
+
+Systolic Blood Pressure (mmHg)
+
+fo 3 1 30 47 63 8 96 113 120
+Time since start (days)
+
+Source: Reviewer's analysis based on adsI_xpt, adae.xpt, adlbchem xpt, advs.xpt. Software: R
+
+The dotted vertical lines indicate the start and end of treatment. The horizontal dash lines indicate the lower and upper limit of
+normal.
+
+Abbreviations: F, female
+
+71
+Integrated Review Template, version 4.0 (11/1/23)
+
+Reference ID: 5563590

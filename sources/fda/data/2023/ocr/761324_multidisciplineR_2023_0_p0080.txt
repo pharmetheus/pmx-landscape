@@ -1,0 +1,67 @@
+BLA Multi-disciplinary Review and Evaluation {Biologics License Application (BLA) 761324
+{epcoritamab}
+
+Source: Reviewer analysis using dataset and model file provided by Applicant in response to 09 January 2023
+information request
+
+Scenario 5 (delay/re-priming after a Q4W full dose of 48 mg epcoritamab):
+
+e@ Simulation of scheduled dosing (reference).
+Simulation of full dose (48 mg) given 6 weeks after full dose on Cycle 12 Day 1, followed
+by scheduled doses.
+
+e@ Simulation where re-priming occurs 10 weeks after full dose on Cycle 9 Day 1 per
+Applicant’s repriming strategy, followed by scheduled doses.
+
+Figure 7: Simulated PK Profiles — Reference (Nominal Dosing Schedule) Compared to
+Dosing Delay During Q4W Dosing Window With or Without Re-Priming (Scenario 5)
+
+WY
+
+a
+
+—
+
+Py
+
+3 0.100
+
+5
+
+B4
+
+§
+
+5
+
+§
+
+g
+
+zg f
+
+5
+
+id | Cohort
+| Nominal dosing schedule
+f Delayed dosing, re-priming not required
+
+Delayed dosing, re-priming required
+
+ey 236 40 44
+
+Time (Week)
+Solid line represents median of simulated individual PK profile. Dash line represents geometric mean of
+simulated individual PK profile. Shaded represents 5*" to 95" percentile.
+
+Q4W = every 4 weeks.
+
+Source: Figure 8 in response to FDA 09 January 2023 information request, SDN 15
+
+79
+Version date: June 2022 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5176690

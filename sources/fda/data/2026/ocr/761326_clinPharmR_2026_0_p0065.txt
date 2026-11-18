@@ -1,0 +1,48 @@
+Reviewer’s Comments and Assessment of the Population PK model:
+
+e@ Overall, the Applicant’s PK model is acceptable and adequately describes the mean PK profiles and
+the individual observed concentrations of insulin icodec and its variability in adults with T2D and T1D.
+
+e The GOF plots show that the PK model fitted the observed data well with no critical trends or bias in
+the predicted versus the observed concentrations of insulin icodec and in the conditional weighted
+residuals (CWRES) versus predictions or time. The pcVPC plots indicate that the Applicant’s PK model
+reasonably describes mean concentrations of insulin icodec and their variability with minimal bias
+from 5 studies in adults with T1D and T2D.
+
+e The Applicant’s assessment of the effect of ADA titers on insulin icodec exposure was based on peak
+
+ADA titers as a time-constant covariate. The PK model estimated that the highest quartile (4** quartile)
+of peak ADA titers is associated with a 21% (95%CI: 16% to 25%) increase in insulin icodec’s exposure
+when compared to ADA negative subjects (Figure 1).
+However, the Applicant’s binning of peak ADA titers into quartiles might not be appropriate to
+differentiate the effects between low and high peak ADA titers, with a large variability and range (2560
+to 320000) in peak ADA at the 4" quartile (Table 5). In addition, the Applicant’s assessment does not
+account for the time-varying effect of ADA titers, with a transient peak between week 10 and 20
+(Figure 4). Therefore, the FDA review team re-evaluated the effect of ADA titers on CL/F by using the
+longitudinal ADA titers data (i.e., not limited to peak ADA titers). The ADA titer was assessed as a
+continuous or a categorical time-varying covariate.
+
+Figure 4. Plot of ADA Titers Over Time, Stratified by Study
+— ADA titer <5000 — ADA titer 2 5000
+
+Study 4383 Study 4478 Study 4479 Study 4480 Study 4625
+
+320000;
+
+200000;
+
+ADA titer
+
+100000-
+80000-
+
+40000: |
+
+0 10 20 30 0 10 20 30 0 10 20 30 0 10 20 30
+
+Week
+Source: FDA reviewer
+
+page 66
+
+Reference ID: 5399798

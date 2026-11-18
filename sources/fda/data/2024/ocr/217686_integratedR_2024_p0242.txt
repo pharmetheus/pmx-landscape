@@ -1,0 +1,52 @@
+NDA 217686
+TRYVIO (aprocitentan)
+
+Table 134. Normalized AUC,, Assessment for HI Groups
+
+AUC,,
+HI Status Number of Subjects (Geometric Mean) _ Geometric CV% Ratio%
+Healthy 972 28 35.7 100
+Moderate HI 8 3.7 22 130
+
+Source: reviewer independent assessment
+Abbreviations: AUC,,, area under the concentration-time curve at steady-state; CV, coefficient of variation; HI, hepatic impairment
+
+Table 135. Normalized AUC,, Assessment for Formulations
+
+AUC,
+Formulation Number of Subjects (Geometric Mean) _ Geometric CV% Ratio%
+Capsule 372 26 35.9 88.3
+Tablet A 575 3 35.4 100
+Tablet B 33 3.1 17.1 104
+Source: reviewer independent assessment
+Tablet A and B are film-coated tablets containing drug substance with different ow
+
+Abbreviations: AUC,,, area under the concentration-time curve at steady-state, CV, coetticient of variation
+
+Agency Assessment
+
+Based on the model simulation, the highest difference among the normalized AUC,; ratios
+assessment among groups (moderate hepatic impairment versus healthy, renal impairment
+versus healthy) is 35%, which is not clinically meaningful. Therefore, no dose adjustment is
+needed for patients with renal impairment (eGFR >15 mL/min/1.73 m?) and patients with
+moderate hepatic impairment.
+
+14.5.3. Exposure-Response Relationship
+
+The primary efficacy endpoint in the Phase 3 study (PRECISION)* was the change from
+baseline at Week 4 of the double-blind treatment period in mean trough SiSBP. The reviewer
+conducted an E-R analysis between AUC,, (estimated for the 12.5 mg and 25 mg dose based on
+the PopPK model) and the change from baseline in SiSBP at Week 4 in the Phase 3 study. As
+shown in Figure 27, the E-R relationship appears to be flat over the 12.5 mg and 25 mg dose
+range and the p-value (0.176) of AUC,, slope is not statistically significant. The relationship
+between race and response (change from baseline in SiSBP at week 4) was also assessed and is
+shown in Figure 28. As indicated by the boxplots, there does not appear to be an obvious
+difference in median response between the 12.5 mg and 25 mg dose in subjects who are Black or
+African American.
+
+14 id-080a301-body report (link)
+
+229
+Integrated Review Template, version 3.0 (05/25/2022)
+
+Reference ID: 5347932

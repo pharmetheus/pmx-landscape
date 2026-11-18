@@ -1,0 +1,52 @@
+BLA Multidisciplinary Review and Evaluation
+BLA 761411
+Niktimvo (axatilimab-csfr)
+
+37.56802721 | -15.29761905 | 113
+37.56802721 | -11.42857143 57
+37.56802721 | -9.005102041 | 281
+37.56802721 | -8.112244898 | 307
+37.56802721 | -7.899659864 | 251
+
+37.56802721 | -7.534013605 | 169
+Note: USUBJID, Unique Subject Identifier; CHG, mLSS change from baseline; BASE, Baseline value of
+mLSS; ADY, Analysis relative day.
+
+Source: FDA Analysis.
+
+| (b) 6)
+
+On 6/21/2024, the Applicant submitted revised dataset ADQSFDA.xpt reflecting the correction
+
+resulting from inspection findings in the Study site SNDX-6352-0504-724-005 (in Madrid, Spain)
+that contained 5 subjects. Only one of 5 patients had at least a 7-point decrease from baseline
+in mLSS through Cycle 7 Day 1 (Table 29).
+
+FDA Table 29. Subjects in the Study site SNDX-6352-0504-724-005 with decrease from
+baseline in mLSS through Cycle 7 Day 1
+
+USUBJID CHG BASE ADY
+a -13.6 18.9 29
+-10.0 22.5 268
+-8.2 225) 191
+711.4 13.8 309
+711.4 13.8 365
+sb hys 13.8 337
+Note: USUBJID, Unique Subject Identifier; CHG, mLSS change from baseline; BASE, Baseline value of
+mLSS; ADY, Analysis relative day.
+Source: FDA Analysis.
+
+Table 30 below shows the baseline values of Modified Lee Symptom Scale score (mLSS) in the
+Study AGAVE-201, and proportion of patients with at least a 7-point decrease from baseline in
+mLSS through Cycle 7 Day 1. At least a 7-point decrease in the Modified Lee Symptom Scale
+summary score through Cycle 7 Day 1 was reported by 56% (95% Cl: 44, 67) of the patients in
+the 0.3 mg/kg Q2W group. A sensitivity analysis (Table 31) was performed excluding Site 724-
+010 with questionable data. The results were consistent with the primary analysis.
+
+101
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA. The FDA's position is highlighted in gray.
+
+Reference ID: 5429649
+

@@ -1,0 +1,57 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {BLA 761291}
+teclistamab
+
+Number of investigators with certification of due diligence (Form FDA 3454, box 3) 0
+
+Is an attachment provided with the Yes | No LJ (Request explanation
+reason: from Applicant)
+
+The table above should be filled by the Applicant, and confirmed/edited by the FDA.
+19.3 Nonclinical Pharmacology/Toxicology
+
+Data and Applicant’s Position:
+
+Not applicable.
+
+The FDA’s Assessment:
+Not applicable.
+
+19.4 OCP Appendices (Technical Documents Supporting OCP
+Recommendations)
+19.4.1 Bioanalytical Methods
+
+The FDA’s Assessment:
+Teclistamab concentration in human serum samples from MajesTEC-1 were quantified using a
+validated bioanalytical method as summarized in FDA Table 6 below.
+
+FDA Table 15: Bioanalytical Method Validation Summary for Teclistamab Quantification
+
+Bioanalytical method Method validation was adequate to support analysis of samples from MajesTEC-1.
+review summary
+Method description Electrochemiluminescent-based immunoassay (ECLIA) to quantitate concentrations
+of teclistamab in human serum samples.
+Materials used for JNJ-64007957 (teclistamab) Lots P73101A and P73111A
+calibration curve
+Validated assay range 0.0005 pg/mL to 0.064 g/mL (anchor points of 0.00025 pg/mL and 0.128 pg/mL)
+Minimum required 1/1 (neat)
+dilutions (MRDs)
+Regression model & 5 PL Auto-estimate regression with 1/Y? weighting in Watson LIMS™
+weighting
+Validation parameters Method validation summary Acceptability
+Calibration curve No of standard calibrators from LLOQ to ULOQ 8 Yes
+performance during Cumulative accuracy (%bias) from LLOQ to ULOQ -4.0 to 4.0% Yes
+accuracy & precision <3.9% Yes
+Cumulative precision (%CV) from LLOQ to ULOQ
+Cumulative accuracy (%bias) in 5 QCs “11.7 to -4.3% | Yes
+QCs performance during | Inter-batch %CV 2.5t06.3% | Yes
+accuracy & precision
+Percent total error (TE) 7.6to 15.5% | Yes
+Selectivity & matrix Healthy: Acceptable recovery in 10 of 10 subjects (bias -12.0 to Yes
+effect 12.0%), all results for all un-spiked subjects below LLOQ.
+Multiple myeloma: Acceptable recovery in 10 of 10 subjects (bias -
+Version date: January 2020 (ALL NDA/ BLA reviews) 174
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5065872

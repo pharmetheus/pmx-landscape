@@ -1,0 +1,67 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {BLA 761345}
+elranatamab
+
+3. Can the submitted QSP model support a QW to Q2W dosing interval change after 6 Cycles
+with weekly dosing for participants with IMWG responses of partial response (PR) for at
+least 2 Cycles
+
+Yes. Based on FDA’s recommendations, to evaluate the effect of regimen transitioning from
+QW to Q2W after Cycle 6, the Applicant conducted the following simulations in responders who
+transitioned from QW to Q2W on or after Cycle 6 and in responders who did not switch dosing
+interval, respectively: a) simulate the residual tumor cell concentration vs. time profile; b)
+simulate Ab_BCMA dimmer concentration vs. time profile; c) simulate Ab_CD3 dimmer
+concentration vs. time profile; d) simulate the trimer concentration vs. time profile; e) simulate
+the T cell concentration vs. time profile; f) simulate sBCMA concentration vs. time profile. In the
+response to FDA’s information request, as shown in Figure 63 (IR responses dated March 27",
+2023), simulated residual tumor cell concentration is reduced further in virtual responders
+transitioning from QW to Q2W (shown in a vertical, blue dashed line), however, the deviation
+may be clinically insignificant with substantial overlap in 90% prediction intervals.
+
+Figure 63: FDA — Residual tumor cell concentration vs. time profile
+
+Residual tumor cell concentration (TA_total)
+
+le+057
+
+T
+1
+\ 1
+\ 1
+'
+'
+le+024 '
+a '
+2 1
+=
+2 <i
+ov 4
+© le-01 =
+'
+' =
+1 pS S=
+le-04 4 '
+'
+'
+T + 1—, T T T
+0 100 200 300 400 500
+
+Day of treatment
+
+No transition QW to Q2W
+
+Virtual responders in the QW to Q2W regimen (shown in blue) show a slightly lower tumor burden after Cycle 6
+compared to virtual responders in the QW regimen (shown in red, no transition).
+Source: Figure 1 of the Applicant’s IR Response dated March 27, 2023
+
+Next, plots of drug-BCMA dimers (relative to tumor cell concentration), drug-CD3 dimers
+(relative to T cells) and drug-BCMA-CD3 trimers (relative to tumor cell concentration) were
+provided by the Applicant in Figure 64, respectively. As exhibited in Figure 64(a), normalized
+
+concentration of BCMA dimers is very similar between the two schedules (appears
+25U
+
+Version date: January 2020 (ALL NDA/ BLA reviews)
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5226136

@@ -1,0 +1,53 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 219249}
+{Inavolisib}
+
+inavolisib. Patients with exposure metrics in Q4 were associated with a lower dose intensity,
+most likely due to dose reduction/dose hold. However, the median value of dose intensity
+across exposure cohorts were all above or equal to 90%, indicating good tolerability across the
+exposure range for patients who were administered the 9 mg QD dose.
+
+The FDA’s Assessment: FDA agrees that inavolisib 9 mg QD is an effective dosage based on
+improved PFS for inavolisib + palbociclib + fulvestrant compared to placebo + palbociclib +
+fulvestrant in patients with HR+, HER2- locally advanced or metastatic breast cancer. However,
+FDA disagrees that 9 mg QD is an optimized dosage for the targeted indication. See details in
+section 6.3.2.2.
+
+19.4.4. Physiologically Based Pharmacokinetic Modeling Review
+19.4.4.1. Executive Summary
+
+The FDA’s Assessment: The objective of this review is to evaluate the adequacy of the
+Applicant’s physiologically based pharmacokinetic (PBPK) analyses to evaluate the drug-drug
+interaction (DDI) potential of inavolisib as a precipitant of the CYP3A substrate midazolam.
+
+The Division of Pharmacometrics has reviewed the PBPK report (1129287) and related model
+summary reports, response to FDA information request dated 15 July 2024 (seq0027), and the
+modeling supporting files, and concluded that PBPK analysis cannot rule out the induction
+potential of inavolisib on the sensitive CYP3A substrate midazolam. The magnitude of inavolisib
+induction on the exposure of substrates of CYP3A cannot be confidently predicted due to the
+uncertainties about the induction parameters and methodology.
+
+19.4.4.2. Methods
+
+The FDA’s Assessment: All simulations were performed using the PK/PD Profiles mode in the
+Simcyp® Simulator (Versions 22, Certara, Sheffield, UK) with the healthy subject population
+(sim-Healthy Volunteers) model. Age, sex, subject number, and dosing regimens were
+consistent with the actual trial design. Ten trials were simulated for each simulation scenario.
+Schemes of the PBPK modeling and simulation strategy are shown in Figure 16, which
+summarizes the studies used for inavolisib model development and verification, and model
+applications in predicting DDI of inavolisib as a precipitant of CYP3A4 induction or inhibition.
+The final model input parameters were summarized in Table 50. The inavolisib PBPK model
+consists of an Advanced Dissolution, Absorption and Metabolism (ADAM) model for describing
+drug absorption in each gut segment, a full PBPK model (method 3) for distribution, and an
+enzyme kinetics model and renal clearance for elimination.
+
+The Simcyp library models of midazolam, triazolam, itraconazole, rifampin and erythromycin
+were used without any modification, except for CYP3A4 TDI parameters for erythromycin (see
+Results, section 2).
+
+217
+Version date: June 2022 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5460147

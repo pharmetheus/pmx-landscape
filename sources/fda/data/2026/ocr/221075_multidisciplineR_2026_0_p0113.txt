@@ -1,0 +1,56 @@
+NDA/BLA Multi-disciplinary Review and Evaluation NDA 221075
+
+Iberdomide (ZENBEXUS)
+Table 35: FDA — Geometric mean ratio of iberdomide pharmacokinetics following
+administration of the AIC vs F1, F1 vs F2, and OO Vs FI
+
+formulations in Studies CC-220-CP-002 Part 3, CC-220-CP-005, and 1M0481038
+
+CC-220-CP-002 Part 3 CC-220-CP-005 ros 058 oa)
+AIC vs F1 F1 vs F2
+(n=12) (n=16)
+Cmax 1.02 (0.88, 1.20) 1.01 (0.94, 1.09) |
+AUC: 1.07 (0.92, 1.21) 1.02 (0.93, 1.11) |
+AUCint 1.04 (0.93, 1.15) 1.02 (0.93, 1.11) |
+
+Presented as GMR (90% CI) with reference to AIC capsule for Study CC-220-CP-002 Part 3, F1 capsule for
+Study CC-220-CP-005, and F1 capsule for Study IM0481038
+
+Abbreviations: 90% CI, 90% confidence interval; AIC, “active in capsule” gelatin capsule; AUCoss. area
+under the concentration time-curve from 0 to 96 hours; AUCing, area under the concentration-time curve from 0 to
+infinity: Cmax, maximum plasma concentration; F1, formulation 1 gelatin capsule; F2. formulation 2
+hydroxypropyl methylcellulose capsule; GMR, geometric mean ratio
+
+Source: FDA, Adapted from Study CC-220-CP-002 CSR Table 23, Study CC-220-CP-005 CSR Table 7, and
+Study IM0481038 CSR Table 9.1.2-2
+
+In the PopPK analysis of Studies CC-220-MM-001 and CC-220-MM-002, the effect of
+formulation (F1 [n=79] vs F3 [n= 418}) was a Statistically significant covariate for clearance, but
+the magnitude of the effect was ~ 0% and therefore not considered clinically meaningful. In
+the PopPK analysis of studies CC-220-CP-001, CC-220-CP-002, CC-220-CP-005, and CC-220-
+MM-001, there was no significant difference in iberdomide PK in subjects receiving the
+AIC/AIB, F1, F2, or F3 formulations (see Section 19.5.3)
+
+Active Metabolites: M12 (an oxidative metabolite) is the major circulating metabolite with a
+metabolite-to-parent ratio (M:P) of 0.24 based on total circulating radioactivity in the mass
+balance study. The M:P ratio ranges between 0.1-0.25 after single dose or multiple doses in other
+clinical pharmacology studies or in patients with R/R MM. Given that M12 exhibits 2- to 14-fold
+less potency in substrate degradation in immune cells as compared to iberdomide, it is not
+expected to significantly contribute to overall activity. The ratios of M12 area under the
+concentration-time curve (AUC) in toxicology species (monkey, rat)-to-humans provided
+adequate safety coverage.
+
+Intrinsic & Extrinsic Factors: See Sections 6.3.2.3 and 6.3.2.4.
+Pharmacodynamics
+
+QTc Prolongation: The FDA agrees that clinically relevant QT prolongation was not observed at
+2.6-times of the mean maximum concentration produced by the recommended dosage.
+
+112
+Version date: February 10, 2025 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5851050
+

@@ -1,0 +1,65 @@
+BLA Multi-disciplinary Review and Evaluation {Biologics License Application (BLA) 761208}
+{tisotumab vedotin}
+
+OR Exposure | Coefficient SE RSE 95%Cl p-value | Model
+R |__|
+ADC Cycle 1 | 0.06612 | 0.02858 | 43.23 0.0101;0.1221 0.021* | Base
+Cmax 0.1464 0.05244 35.81 0.04366;0.2492 0.005* Full
+
+For both the base and full models, the risk of death significantly decreased with increase of ADC Cycle
+
+1 AUC and Cycle 1 Cmax, but was not correlated with CavgLast; while Risk of death significantly
+
+increased with increase of MMAE exposure (Cycle 1 AUC and Cmax, and CavgLast). Similar to the
+
+other relationships of safety and efficacy versus MMAE exposure, this relationship may be due
+
+to some confounding factor(s) that cannot be explained by covariates evaluated in the exposure-
+
+efficacy analyses.
+
+os Exposure B SE RSE HR 95%Cl p-value _| Model
+
+ADC Cycle | -0.03818 | 0.01059 | 27.73 | 0.9625 | 0.9428-0.9827 | <0.0005* | Base
+1 AUC -0.03383 | 0.01314 | 38.83 | 0.9667 | 0.9422-0.992 0.010* Full
+
+ADC Cycle | -0.05299 | 0.01786 | 33.71 | 0.9484 | 0.9158-0.9822 | 0.003" | Base
+1 Crrax 0.04365 0.02164 49.58 | 0.9573 | 0.9175-0.9988 0.044* Full
+ADC -0.3683 0.2311 62.76 | 0.6919 | 0.4399-1.088 0.111 Base
+Cavelast -0.2597 0.2708 | 104.28 | 0.7713 | 0.4537-1.311 0.338 Full
+MMAE 0.02293 | 0.004933 | 21.51 1.023 1.013-1.033 <0.0005" | Base
+
+Cyne! 0.02254 | 0.006808 | 30.61 | 1.023 1.009-1.037 0.001" Full
+MMAE 0.1903 0.03968 | 20.85 1.24 1.119-1.307 <0.0005* | Base
+cee! 0.2017 | 0.05944 | 29.47 | 1.223 1,089-1.375 0.001* Full
+MMAE 1.816 0.7527 | 41.45 | 6.146 1.408-26.87 0.016" | Base
+Cycle1Cy | 1.144 1.04 90.88 | 3.14 0.409-24.1 0.271 Full
+MMAE 0.5115 | 0.09719 19 1.668 1.379-2.018 | <0.0005" | Base
+Cavolast 0.5085 0.149 29.3 | 1.663 1.242-2.227 0.001* Full
+
+Risk of progression significantly increased with increase of MMAE Cycle 1 AUC, Cycle 1 Cmax, and
+CavgLast. After accounting for the covariate effects, only the relationship between PFS and MMAE
+CavgLast was significant.
+
+PFS Exposure B SE RSE HR 95%Cl p-value_| Model
+MMAE 0.393 0.1005 25.57 | 1.481 1.217-1.804 <0.0005* | Base
+Cavghast 0.3094 0.1444 | 46.67 | 1.363 1.027-1.808 0.032* Full
+
+Duration of response was not correlated with either ADC exposure or MMAE exposure.
+Coefficient: exposure slope of the logistic regression model; SE: standard error; RSE: relative
+standard error (%); 95%CI: 95% confidence interval for exposure slope; p-value: significance of
+exposure slope as provided by glm() function. Analyses associated with p <0.05 are denoted in
+red and marked with “*”.
+
+Source: Tables 16-19 in the ER Analyses Report.
+
+We agree with sponsor’s conclusions and rationale on inclusion of each of the covariates in the
+respective full final model as following:
+
+219
+
+Version date: March 2021 (ALL NDA/ BLA reviews)
+Disclaimer: In this document, the sections labeled as “The Applicant’s Position” are completed by the Applicant
+and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 4858975

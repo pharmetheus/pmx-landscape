@@ -1,0 +1,50 @@
+NDA/BLA Multi-disciplinary Review and Evaluation - NDA 216059
+Jaypirca (pirtobrutinib)
+
+Table 106: Predicted Effects of Multiple Doses of CYP3A Modulators on Cmax and AUC of
+Pirtobrutinib at Steady State
+
+Multiple doses of CYP3A Ratio of pirtobrutinib’s PK with and without a CYP3A modulator
+modulators + 200 mg pirtobrutinib | Cmax ratio (90%Cl) AUCinf ratio (90%CI)
+QD for 10 days
+CYP3A inhibitors
+Itraconazole capsule, 200 mg QD 1.25, (1.23 to 1.26) 1.36, (1.34 to 1.38)
+(fed, applicant’s model) *
+Itraconazole tablet, 200 mg QD 1.33 (1.31 to 1.35) 1.48 (1.45 to 1.51)
+(fasted, simcyp default) *
+Diltiazem, 60 mg TID 1.14 (1.13 to 1.14) 1.20 (1.19 to 1.21)
+Fluconazole, 200 mg QD 1.20 (1.19 to 1.21) 1.29 (1.27 to 1.30)
+Verapamil, 80 mg TID 1.21 (1.20 to 1.22) 1.30 (1.29 to 1.32)
+CYP3A inducers
+Rifampin, 600 mg QD* 0.47 (0.45-0.49) 0.29 (0.27-0.32)
+Efavirenz, 600 mg QD! 0.67 (0.65 to 0.69) 0.51 (0.48 to 0.54)
+Bosentan, 125 mg BID 0.80 (0.79 to 0.81) 0.73 (0.72 to 0.75)
+
+Source: PBPK report Table 5.2 and 5.4. *Reviewer’s simulation. ‘Applicant’s response to FDA’s IR
+Conclusions
+
+The PBPK analyses are adequate to evaluate the effects of moderate CYP3A modulators on the
+PK of pirtobrutinib.
+
+¢ Verapamil, fluconazole, and diltiazem (moderate CYP3A inhibitors) are predicted to
+increase the Cmax of pirtobrutinib by 21%, 20% and 14%, respectively following multiple
+doses of 200 mg pirtobrutinib.
+
+e Verapamil, fluconazole, and diltiazem (moderate CYP3A inhibitors) are predicted to
+increase the AUC of pirtobrutinib by 30%, 29% and 20%, respectively following multiple
+doses of 200 mg pirtobrutinib.
+
+e  Efavirenz and bosentan (moderate CYP3A inducers) are predicted to decrease the Cmax
+of pirtobrutinib by 33% and 20%, respectively following multiple doses of 200 mg
+pirtobrutinib.
+
+e  Efavirenz and bosentan (moderate CYP3A inducers) are predicted to decrease the AUC
+of pirtobrutinib by 49% and 27%, respectively following multiple doses of 200 mg
+pirtobrutinib.
+
+259 of 265
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5116352

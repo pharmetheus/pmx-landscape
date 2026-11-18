@@ -1,0 +1,62 @@
+NDA/BLA Multi-disciplinary Review and Evaluation NDA 218881
+
+Inluriyo (imlunestrant)
+
+Y537D 0 20.6) 0 202)
+DS538E 0 1 (0.3) 0 10.1)
+D538N 0 103) 0 10.1)
+E380K 10.3) 0 0 10.1)
+L469V 0 10.3) 0 10.1)
+
+Source: FDA Reviewer exploratory analysis based on ADSL dataset. ESR/ = estrogen receptor 1; ESRJm =
+estrogen receptor 1 mutation; TPC = the physician’s choice of endocrine therapy of fulvestrant or exemestane;
+Imlun = imlunestrant; Abema = abemaciclib; N = Number of patients; n = number of patients in the specific
+
+category
+
+Table 6.5: Subgroup Analysis of Progression-free Survival — ESR/m-detected Biomarker
+
+Subpopulations in EMBER-3
+
+Arm A Arm B
+Imlunestrant TPC
+Events/N (%) Events/N (%)
+ESRIm ‘Median PFS, months (95%|Median PFS, months (95% HR (95% CI)
+subpopulation cD cb p-value
+
+Single ESR] mutation 72/95 (75.8) 64/73 (87.7) 0.57 (0.40. 0.80)
+detected 5.59 (4.67, 9.26) 3.78 (2.76, 5.52) p-value = 0.0012*
+Multiple ESRI 37/43 (86.0) 38/45 (84.4) 0.71 (0.43, 1.16)
+mutations detected 3.71 (1.91, 9.13) 4.83 (3.68, 6.64) p-value = 0.1658
+DS538G detected only 37/48 (77.1) 24/27 (88.9) 0.52 (0.31, 0.90)
+(single gene only) 5.59 (4.34, 10.38) 4.63 (1.97, 5.42) p-value = 0.0181*
+Y537S detected only 15/18 (83.3) 21/25 (0.84) 0.79 (0.40, 1.56)
+(single gene only) 3.91 (1.77, 9.49) 3.71 (1.87, 5.55) p-value = 0.4954
+Y537N detected only 6/7 (85.7) 5/5 (100.0) 0.40 (0.09, 1.73)
+(single gene only) 10.94 (1.87, 25.43) 6.70 (3.25, 9.10) p-value = 0.2213
+E380Q detected only 9/16 (56.3) 8/9 (88.9) 0.62 (0.23. 1.69)
+(single gene only) 6.51 (3.65, NE) 3.71 (1.84, 17.58) p-value = 0.3547
+
+Source: FDA Reviewer exploratory analysis based on ADSL and ADTTE datasets. ESR] = estrogen receptor 1;
+ESR1m = estrogen receptor 1 mutation: TPC = the physician’s choice of endocrine therapy of fulvestrant or
+exemestane; Imlun = imlunestrant; Abema = abemaciclib: N = Number of patients: n = number of patients in the
+specific category; PFS = progression-free survival; HR = hazard ratio: CI = confidence interval
+
+V. Impact of UGT1A1 polymorphisms
+
+In vitro studies demonstrated that uridine 5'-diphospho-glucuronosyltransferase (UGT)1A1 is
+involved in the clearance of imlunestrant, however, the relative contribution of various UGT
+enzymes toward the overall clearance of imlunestrant remains undetermined. The sponsor
+performed a retrospective exploratory analysis to explore the association of UGTJA1
+polymorphisms with imlunestrant exposure using a subset of participants enrolled in EMBER-3
+and healthy women of childbearing potential enrolled in Study J2J-MC-JZLD. Paired genetic
+and PK data were available for a total of 137 subjects. The following genotypes were observed:
+UGT1A1*1/*1, UGT1A1*1/*28, UGT1A1*28/*28, UGT1A1*36/*28, UGT1A1*1/*37, and
+
+97
+Version date: March 1, 2024 (ALL NDA/BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant's Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5665313

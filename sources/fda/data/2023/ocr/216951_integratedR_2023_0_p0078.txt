@@ -1,0 +1,43 @@
+NDA 216951
+Jesduvrog (daprodustat)
+
+A tipping point analysis using all available Hb values (on and off-treatment) as a
+sensitivity for the co-primary estimand and using evaluable Hb values as supportive
+analysis
+
+COVID-19 supportive analysis: a plot by calendar date (in quarters) of adjusted treatment
+difference in mean change in Hb from Baseline using all available Hb values (on and off-
+treatment) at each time point, to assess the impact of the COVID-19 pandemic.
+
+Analyses for Secondary Efficacy Endpoints
+
+For the mixed model repeated measures (MMRM) analysis of change from baseline in
+Hb, the non-inferiority (NI) margin used in the co-primary analysis of Hb (-0.75 g/dL)
+will be used for reference in this comparison, thus generating support for non-inferiority
+if the lower bound of the two-sided 95% CI is above -0.75 g/dL.
+
+For the responder analysis, the number and % of responders by treatment group,
+difference in response rate (daprodustat — darbepoetin alfa) and two-sided 95% CI using
+Wald method were provided along with the one-sided Cochran-Mantel-Haenszel (CMH)
+p-value for the treatment group comparison.
+
+The % time Hb is above, in and below the Hb analysis range (10 to 11.5 g/dL) during the
+MP and the EP were summarized using mean, standard deviation, minimum, P25,
+median, P75, and maximum by treatment group.
+
+Multiple Comparisons
+
+The multiplicity strategy used a combination of a gatekeeper approach on the co-primary
+endpoints, followed by a closed-test multiplicity procedure wrapped around the family of
+superiority hypotheses consisting of MACE and the key secondary endpoints. Figure 8 illustrates
+the structure of the statistical testing plan. First, the co-primary endpoints were evaluated for
+non-inferiority by comparing either the lower bound (Hb) or the upper bound (MACE) of each
+two-sided 95% CI to the corresponding non-inferiority margin. Conditional on both co-primary
+endpoints achieving non-inferiority (i.e., passing the gatekeeper), the family of MACE and the
+key secondary endpoints were formally tested for superiority using the Holm-Bonferroni
+procedure. The procedure was conducted based on a family-wise Type I error rate set at the one-
+sided 2.5% level.
+
+Integrated Review Template, version 3.0 (05/25/2022)
+
+Reference ID: 5119138

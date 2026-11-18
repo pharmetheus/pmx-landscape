@@ -1,0 +1,49 @@
+NDA 217785 @ Resmetirom (MGL-3196) @ Madrigal Pharmaceuticals, Inc.@ Carcinogenicity Study Page 8 of 43
+
+The following parameters and endpoints were evaluated in this study: mortality/survival,
+clinical signs and masses, body weight, body weight gains, food consumption, toxicokinetic
+parameters, and macroscopic and microscopic examinations.
+
+3.1 Sponsor’s Analyses
+
+The sponsor’s analyses were reported by The Principal Investigator, Statistical Analyses of
+Survival and Tumorogenicity (address: |
+
+3.1.1 Survival Analysis
+
+A log-rank dose response trend test of survival rates was performed utilizing ordinal
+coefficients. In addition, a generalized Wilcoxon test for survival was used to make pairwise
+compatisons of each treated group with the control group. The trend test and pairwise
+comparisons were conducted individually for each control group. In addition, a comparison
+was made of the two control groups. All tests were 2-sided at the 0.05 significance level.
+
+Survival times in which the status of the animal's death was classified as an accidental death
+or terminal sacrifice were considered censored values for the purpose of the Kaplan-Meier
+estimates and survival rate analyses.
+
+Sponsor’s concluded results: Males and females dosed with 30 mg/kg MGL-3196 were
+terminated early on week 86 and week 92, respectively, due to decreased survival rate,
+however only survival in the males was statistically significantly lower than control animals.
+
+3.1.2 Tumor Data Analysis
+
+The FDA draft Guidance for Industry: Statistical Aspects of the Design, Analysis, and
+Interpretation of Chronic Rodent Carcinogenicity Studies of Pharmaceuticals (May 2001)
+was used as a guidance for the statistical analysis of tumor incidence data.
+
+Grouping of tissues (e.g., “femur bone marrow” and “sternum bone marrow” combined
+under “bone marrow”) was performed for analysis purposes. All leukemias or other systemic
+tumors were grouped under the organ name “systemic”. All metastases and invasive tumors
+were considered secondary and not included in the analysis unless the primary tumor cannot
+be identified.
+
+The incidence of tumors was analyzed by Peto’s mortality-prevalence method, without
+continuity correction, incorporating the context (incidental, fatal, or mortality independent)
+in which tumors were observed. The following fixed intervals were used for the incidental
+tumor analyses: weeks 0-50, 51-80, and 81-end of study (up to terminal sacrifices), and
+terminal sacrifice. All animals that died or were sacrificed after the first animal of that sex
+was terminally sacrificed were included in the terminal sacrifice interval for the incidental
+
+File Name: NDA217785Carcin.doc
+
+Reference ID: 5276235

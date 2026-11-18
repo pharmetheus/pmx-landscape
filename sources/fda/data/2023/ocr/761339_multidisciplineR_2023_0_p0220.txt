@@ -1,0 +1,96 @@
+BLA Multi-disciplinary Review and Evaluation BLA 761339 Pozelimab
+
+Table 73. Bioanalytical Method Validation for Total Pozelimab Concentration in Serum
+
+Method Parameters
+
+Descriptions
+
+Bioanalytical method
+
+An enzyme-linked immunosorbent assay (ELISA) to determine the
+
+review summary concentration of total REGN3918 (pozelimab) in human serum samples from
+clinical studies (Method: BMP-PCL4730) (Report: R3918-AV-17098-VA-01V/1)
+Method description This procedure employs a microtiter plate coated with 4) a mouse
+
+anti-REGN3918 monoclonal antibody, and utilizes REGN3918 as a standard.
+Standards, controls, and samples are diluted in a mild acidic buffer prior to
+addition to the plate. The mild acidic buffer dissociates soluble target:drug
+complexes present in the serum samples and allows improved detection of
+drug in the presence of soluble target (i.e., C5). REGN3918 captured on the
+plate is detected using a different, non-competing mouse anti-REGN3918
+monoclonal antibody ( ©), followed by NeutrAvidin conjugated
+with horseradish peroxidase (NeutrAvidin-HRP). A luminol-based substrate
+specific for peroxidase is then added to achieve a signal intensity that is
+proportional to the concentration of total REGN3918.
+
+Materials used for
+calibration curve &
+concentration
+
+Standards are prepared in neat human serum at 50X their final assay
+concentrations. Final assay concentrations range from 1.56 ng/mL to
+
+100 ng/mL in a 2% human serum matrix, after standards are diluted to the
+minimum required dilution (1:50).
+
+Validated assay range
+
+Undiluted human serum (LLOQ-ULOQ): 0.078 to 5 1g/mL
+2% human serum (assay MRD=1:50): 1.56 to 100 ng/mL
+
+Material used for QCs
+& concentration
+
+Five Validation QCs, also prepared in neat human serum at 50X their nominal
+concentration, were used during the assay validation: the Upper Limit of
+Quantitation (ULOQ; 5 pg/mL), the High QC (HQC; 3.75 pg/mL), the Mid QC
+(MQC; 1 pg/mL), the Low QC (LQC; 0.225 pg/mL), and the Lower Limit of
+Quantitation (LLOQ; 0.078 jig/mL).
+
+Minimum required
+dilutions (MRDs)
+
+1:50
+
+Source & lot of
+reagents (LBA)
+
+REGN3918 Labeled Drug Product (anti-CS mAb), Regeneron Pharma Inc., Lot:
+9022500001
+® (anti-REGN3918 mAb), Regeneron Pharma Inc, Lot: RSCH17068
+©) (anti-REGN3918 mAb), Regeneron Pharma Inc, Lot:
+RSCH17074
+
+Regression model &
+weighting
+
+Weighed four parameter logistic model (with variable weight for each point of
+the standard curve): 1/RLU? (RLU: The Relative Light/Luminescence Units)
+
+Validation parameters
+
+Method validation summary
+
+In Report R3918-AV-17098-VA-01V1 Location
+Calibration curve No of standard calibrators from LLOQ to ULOQ: 7 Table 4
+performance during Neat human serum: 0.078 to 5 g/mL
+accuracy & precision Assay matrix (after dilution): 1.56 to 100 ng/mL
+
+Cumulative accuracy (%bias) from LLOQ to ULOQ -1 to 1%
+
+Cumulative precision (%CV) from LLOQ to ULOQ 1%
+QCs performance Cumulative accuracy (%bias) in 5 QCs 3 to 7% Table 3
+during accuracy & QCs were prepared with 1:50 dilutions (50X QCs)
+precision LLOQ: 1.56 ng/mL; LOC: 4.5 ng/mL; MQC: 20 ng/mL;
+
+HQC: 75 ng/mL; ULOQ: 100 ng/mL
+
+Inter-batch %CV 5to7 %
+
+Percent total error (TE) 9 to 12%
+
+219
+
+Reference ID: 5229031

@@ -1,0 +1,68 @@
+NDA/BLA Multi-disciplinary Review and Evaluation NDA 221075
+Iberdomide (ZENBEXUS)
+19.5.5. | Exposure-Response Analysis
+
+19.5.5.1. ER (efficacy) Executive Summary
+
+The FDA’s Assessment:
+
+The applicant conducted ER analysis for two clinical efficacy endpoints: 1) Minimal residual
+disease (MRD) negative CR at any time; and 2) > VGPR (Very good partial response) in MRD
+subject from study #CC-220-MM-002 treated with 1 mg iberdomide (N=203). Per FDA’s IR
+request dated Feb 3, 2026, they also conducted a pooled ER efficacy analysis using all RRMM
+patients receiving IberDd (1, 1.3 and 1.6 mg, N=339). The updated analyses suggest no
+significant trend between iberdomide exposure and efficacy endpoints. Overall, the applicant’s
+ER analysis is considered acceptable for the purpose of characterizing the ER relationship of
+iberdomide and its efficacy endpoints.
+
+19.5.5.2. ER (efficacy) Assessment Summary
+
+The Applicant’s Position:
+
+General Information
+
+Goal of ER analysis To characterize the exposure-efficacy relationship for selected
+efficacy endpoints, adjusted for covariate effects.
+
+Study Included CC-220-MM-002
+
+Endpoint MRD-negative CR at any time, VGPR or better responses
+
+No. of Patients (total, and 207 in total, and 203 with iberdomide exposure estimates or
+
+with individual PK) efficacy-related variables
+
+Population General | Age: Median (Range) 68.0 (37.0-85.0)
+
+Characteristics Male: 115 (56.7%)
+
+(Table 88, Race:
+
+Figure 28) -White (121, 59.6%)
+
+-Asian (74, 36.5%)
+-Black or African American or Unknown (8, 3.9%)
+
+Pediatrics | NA
+
+(Gf any)
+Dose(s) Included l mg
+Exposure Metrics Explored | Cavgss, average concentration over the dosing interval at
+(range) steady state (C1D21)
+Covariates Evaluated Age, ECOG, ISS, cytogenic abnormality, number of prior lines,
+
+previous lenalidomide exposure, sex, race, baseline eGFR
+Sensitivity analysis was performed to assess the effect of
+
+region by replacing the race with region in the full model.
+
+Final Model Parameters Summary Acceptability
+[FDA’s comments]
+
+273
+Version date: February 10, 2025 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5851050

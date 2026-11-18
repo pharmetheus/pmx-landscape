@@ -1,0 +1,53 @@
+Reference ID: 5382024
+
+NDA/BLA Multi-disciplinary Review and Evaluation {BLA 761344}
+{Tarlatamab}
+
+Due to limited clinical data on dose delay, the dosage recommendation for restarting
+doses or repeating doses were assessed based on a PK simulation. Tarlatamab
+exposure after each dose delay scenario was simulated with the popPK model and
+compared to the reference, tarlatamab exposure after the recommended schedules
+without delays. From a PK perspective, the Ctrough at the maximum allowed dose delay
+interval should be similar (20%) or higher than the Ctrough for next lower dose level (e.g.,
+the step-up doses) to avoid risk of rebound CRS.
+
+Table 24: Simulated Tarlatamab Median Ctrough for Dose Delay Scenarios
+
+Last Dose Time Since the Last Action for Simulated Ctrough Reference Crrough
+Administered Dose Administered Next Dose (ng/mL) at End of (ng/mL)
+Dose Delay
+Step-up dose 1 (1 2 weeks or less (<14 Continue at | 30 (10-48) 51(24-71)
+mg) on day 1 days) 10 mg
+First Full Dose (10 3 weeks or less (<21 Continue at | 204 (50-375) 51(24-71)
+mg) on day 8 days) 10 mg
+10 mg day 15 and 4 weeks or less (<28 | Continue at | 208 (36.4-461) 51(24-71)
+onward and Q2w _| days) 10 mg
+
+Median and 90% prediction interval are reported; Ctrough = trough concentration; Q2W = every 2 weeks
+Source: Applicant’s response to FDA IR on 1/3/2024
+
+The simulated Ctrough was higher than reference except in the first dose delay scenario
+(Table 24). The predicted Crrough following the first step-up dose C1D1 dose delay for 14
+days was approximately 59% of the reference value. Figure 11 shows when patients
+received 1 mg on Day 1 and followed by dose interruption, under with and without
+repriming scenario. Although the initial Ctrough followed by the dose interruption is lower
+than the reference, the concentration reaches to that of reference once next target
+dose is administered. The initial drop in the concentration is not likely to be clinically
+relevant. The proposed 14 days dose delay cutoff was further supported by safety data
+observed in study 20160323. During the dose escalation phase, cohort 6 in the dose
+escalation evaluated the dosing regimen of 1 mg Q2W in 8 patients without a step dose.
+Overall, CRS was lower than 1/10 mg cohorts, supporting the 14-day cutoff before re-
+priming in scenario 1 (Table 14).
+
+Based on the simulated PK profile and available clinical data, FDA agrees proceeding
+with 10 mg doses when the dose interruption < 14 days following the 1 mg step-up
+dose.
+
+Figure 11. Simulated median PK profiles — Reference (Planned Clinical Dosing
+Regimen) compared to dosing delay after step-up dose 1 with and without re-priming.
+
+110
+Version date: June 2022 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are
+completed by the Applicant and do not necessarily reflect the positions of the FDA.

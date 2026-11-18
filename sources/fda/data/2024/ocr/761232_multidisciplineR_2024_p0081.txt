@@ -1,0 +1,53 @@
+BLA 761232 - Multi-disciplinary Review and Evaluation
+TEVIMBRA - tislelizumab-jsgr
+
+Exploratory Endpoints
+
+¢ Disease control rate (DCR) in both the ITT analysis set and the PD-L1 positive analysis
+set - defined as the proportion of patients who have CR, PR and SD assessed by the
+investigator per RECIST v1.1
+
+e Pharmacokinetic endpoints: summary of serum concentration of tislelizumab to include
+but not limited to Ctrough
+
+e Assessments of immunogenicity of tislelizumab to determine the incidence of ADA
+
+The FDA’s Assessment:
+FDA agrees with the description of the study endpoints above and that an improvement in OS
+represents a direct measure of clinical benefit.
+
+Statistical Analysis Plan and Amendments
+
+The Applicant’s Description:
+
+Analysis Sets
+
+ITT Analysis Set included all randomized patients and was the primary analysis set for all
+efficacy analyses. Patients were analyzed according to their randomized arms. Patients who died
+before the randomization but who were inadvertently randomized into the study were excluded
+from the ITT Analysis Set.
+
+PD-L1-Positive Analysis Set included all randomized patients whose tumor PD-L1 vCPS was
+> 10% as assessed by Ventana PD-L1 (SP263) CDx Assay.
+
+Per-Protocol (PP) Analysis Set included all randomized patients who received > 1 dose of their
+assigned study treatment and had no critical protocol deviations that significantly impacted
+efficacy or safety evaluation.
+
+Safety Analysis Set included all randomized patients who received > 1 dose of study treatment
+and was the primary analysis set for all safety analyses. Patients were analyzed by actual
+treatment received.
+
+PK Analysis Set included all patients who received > 1 dose of tislelizumab per the protocol, for
+whom any postdose PK data were available.
+
+ADA Analysis Set included all patients who received > 1 dose of tislelizumab, had non-missing
+baseline ADA result, and > 1 postbaseline ADA result.
+
+80
+Version date: January 2020 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5345383

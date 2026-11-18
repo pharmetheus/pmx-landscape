@@ -1,0 +1,59 @@
+NDA/BLA Multi-disciplinary Review and Evaluation NDA 221075
+
+Iberdomide (ZENBEXUS)
+Table 50: FDA — Sensitivity and Supplementary Analysis of MRD-negative CR at any time
+img
+TberDa | ?¥4 Rate
+(N=207) (N=213) | Difference
+n(%) n(%) (95% CI)
+Unstratified analysis: Based on IRC assessment of CR/sCR 85 (41) 44 (21) 20 (12, 29)
+Unstratified analysis: Based on investigator assessment of CR/sCR. 81 G9) 49 (23) 16 (7, 25)
+Stratified analysis using stratification factors in Interactive Response 85 (41) 44 (21) 20 (12, 29)
+Technology (IRT)
+Worse case analysis for patients with CR/sCR based on IRC 85 (41) 49 (23) 18 (9, 27)
+assessment and missing/indeterminate MRD *
+
+Clinical Cutoff Date: July 3, 2025.
+
+* Patients in the DVd arm with missing MRD assessments who achieved CR were imputed as responders (i.e.
+achieving MRD-negative CR), while patients in the IberDd arm with missing MRD assessments were imputed as
+non-responders.
+
+Source: FDA Analysis based on Applicant-provided ADaM dataset adsl.xpt, admrd.xpt.
+
+In the IberDd arm, among patients who achieved at least a CR, 89% (85/95) were MRD
+negative; whereas, in the DVd arm, among patients who achieved at least a CR, 83% (44/53)
+were MRD negative.
+
+In general, FDA agrees with the Applicant’s exploratory subgroup analyses of MRD-negative
+CR at any time as assessed by IRC, which were numerically consistent with primary analysis.
+Given the exploratory nature of the subgroup analyses based on limited sample sizes, the
+findings should be interpreted with caution.
+
+FDA notes that, in the Applicant-provided Forest Plot in Figure 7, an exploratory subgroup
+analysis is provided by “Stage 1 Group” vs “Stage 2 Group.” These are different from the SIA
+and S2A groups defined under the FDA’s “Assessment of SAP” section. The “Stage 1 Group” in
+the above-mentioned subgroup analysis included all patients randomized on or before the dose
+selection decision date (October 24, 2023), whereas the S1A group included only those patients
+randomized before the dose selection data cutoff date (May 8, 2023); the dose selection date
+being about five and a half months after the dose selection data cut-off date. Similarly, the “Stage
+2 Group” included all patients randomized after the dose selection decision date (October 24,
+2023); whereas the S2A group included those patients randomized after the dose selection data
+cutoff date (May 8, 2023).
+
+Data pooling and inference for this seamless design were appropriately based on the S1A and
+S2A groups, as these two disjoint groups accurately distinguish patients whose data informed the
+dose selection decision from ones whose data did not. Although there were slight variations in
+demographic and baseline characteristics between the S1A and S2A groups, MRD-negative CR
+results were consistent across both of these groups, which supported pooling of the efficacy data
+across the two groups. The MRD-negative CR rate in S1A was 42% (22/53) in the Img IberDd
+arm vs. 19% (10/52) in the DVd arm, while the MRD-negative CR rate in S2A was 41%
+(63/154) in the Img IberDd arm vs. 20% (34/161) in the DVd arm. The follow-up in the SIA
+
+162
+Version date: February 10, 2025 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5851050

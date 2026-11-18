@@ -1,0 +1,64 @@
+Table 40: Observed and predicted PK parameters of valproic acid capsules over large dose
+range to substantiate valproic acid model predictability in clinical valproic acid and
+lamotrigine DDI study
+
+PK Data Source Valproic Cwmax (1tg/mL) Mean + Std AUC (ng/mL.h)
+Acid dose Dev or (CV)
+Observed Predicted Observed Predicted
+(Chun et al 1980) 250 mg SD 314250 294448 433.5459 406.1+97
+(Glazko et al 1983) 500 mg SD 58 (18) 59.4 (17) 1049 (34) 869 (30)
+(Nitsche and Mascher 1982)* | 1000 mg BID 125 (21) 158 (19) 1090 (21) 1098 (25)
+
+* Observed PK parameters were determined by non-compartmental analysis from extracted plasma
+concentration data reported by (Nitsche and Mascher 1982). Steady state PK parameters determined on
+Day 5 after 1000 mg BID valproic acid dosing. The Cy, and AUC are steady state geometric mean AUC
+and Cmax values and geometric mean CV (%) is reported in brackets.
+
+AUC is AUC from time “0” to last measured concentration.
+
+Nitsche and Mascher 1982 (PMID: 6804223). Chun et al 1980 (PMID: 6766956), Glazko et al 1983 (PMID: 6419419).
+Source: Table 9 in the camizestrant-response-document-pbpk (seq 0019)
+
+Table 41: Observed and predicted drug-drug interaction of lamotrigine by valproic acid
+
+Valproic acid ‘Lamotrigine (25 mg single dose) Lamotrigine (25 mg single dose) (Cuma AUC AUC
+dose PK parameter + valproic acid ratio? | ratio® | ratio®
+(mg/day) Observed Predicted Observed Predicted Predicted | Observed | Predicted
+Geomean AUC Geomean AUC Geomean AUC Geomean AUC
+(ng/mL.h) (95% CT) | (ng/mL-h) (95% CT) | (ng/mL.h) 95% CT (ng/mL.b) 95% CT
+125 14310 11018 21245 18328 (17289, 19429) 1.06 148 1.66
+(10862, 18852) (10444, 11625) (13964, 32324)
+250 16085 11018 34150 22690 (21376, 24086) 1.08 212 2.06
+(12263, 21099) (10444, 11625) (25071, 46518)
+375 15058 11018 39090 (22569, 67704) | 25829 (24322, 27429) 1.08 2.60 234
+(9420, 24070) (10444, 11625)
+500 * 11617 11018 25467 (16892-38394) | 32314 (30434. 34310) 1.08 219 2.93
+(8880, 15197) (10444, 11625)
+
+* No Gams oF Gans fatios reported in clinical study
+
+> Observed AUC ratios were ratio of geomean AUCs of lamotrigine + valproic acid group to that of lamotrigine alone group. Predicted AUC ratios were
+geomean of AUC ratios.
+
+© $00 mg /day given as 250 mg twice a day
+
+AUC is AUC from time ‘0’ to infinity
+
+Observed PK data source: (Gidal et al 2003)
+
+Gidal et al 2003 (PMID: 15013050).
+Source: Table 8 in the camizestrant-response-document-pbpk (seq 0019)
+
+315
+Version date: March 1, 2024 (All NDA/BLA reviews)
+
+In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the Applicant,
+which do not necessarily reflect the positions of the FDA.
+
+The FDA review was conducted in conjunction with other regulatory authorities under Project ORBIS. The FDA
+collaborated with Australia’s Therapeutic Goods Administration (TGA), Brazilian Health Regulatory Agency
+(ANVISA), Health Canada (HC), Singapore’s Health Sciences Authority (HSA), and Switzerland’s Swissmedic
+(SMC). While the conclusions and recommendations expressed herein reflect the FDA’s completed review of the
+application, the applications may still be under review at the other regulatory agencies.
+
+Reference ID: 5864804

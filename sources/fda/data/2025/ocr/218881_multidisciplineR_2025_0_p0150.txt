@@ -1,0 +1,52 @@
+NDA/BLA Multi-disciplinary Review and Evaluation NDA 218881
+
+Inluriyo (imlunestrant)
+
+favoring the experimental arm. Threshold values ranging from 0.075 to 0.1 were recommended
+based on simulation studies in Amit et al. 2011.
+
+Table 8.21: Discordance Analysis for PFS per Investigator Assessment vs PFS per BIRC
+
+Assessment
+Difference
+Imlunestrant TPC (Iimlunestrant - TPC)
+
+ITT
+
+Early discrepancy rate 0.426 0.431 -0.005
+
+Late discrepancy rate 0.340 0.310 0.030
+ESRIm
+
+Early discrepancy rate 0.440 0.363 0.078
+
+Late discrepancy rate 0.351 0.339 0.012
+
+(Source: Adapted from CSR Table JZLC.5.5 and Table JZLC.5.13)
+
+In both the ITT population and the ESR/m-detected population, neither EDR rate nor LDR rate
+crossed the threshold value of 0.075, thus they do not suggest an investigator assessment bias in
+favor of imlunestrant arm in these populations (Table 8.21).
+
+e Impact of early censoring in PFS analysis
+
+For the comparison of imlunestrant vs TPC in the ZSR1m population, more patients in the TPC
+arm were censored early in the PFS analysis compared to those in the imlunestrant arm: 12
+patients (10.2%) in the TPC arm were censored within 4 months after randomization compared
+to 7 patients (5.1%) in the imlunestrant arm. Per FDA’s request, the Applicant conducted a
+tipping point analysis for PFS (Figure 8.7). The results suggest that even if the early censored
+patients in the TPC arm were to have at least 75% lower risk of PFS compared to the other
+chemotherapy arm patients, the 96% CI of the estimated PFS HR still won’t cross 1. Based on
+the tipping point analysis, early censoring in the TPC arm were unlikely to change the statistical
+significance conclusion for PFS in the ESR/m-detected population.
+
+Figure 8.7: Tipping-point Analysis for Early Censoring on Investigator-assessed PFS in the
+ESRIm-detected Population (Imlunestrant versus TPC)
+
+149
+Version date: March 1, 2024 (ALL NDA/BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant's Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5665313

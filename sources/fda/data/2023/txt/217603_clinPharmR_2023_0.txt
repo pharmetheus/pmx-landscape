@@ -1,0 +1,1073 @@
+CENTER FOR DRUG EVALUATION AND
+RESEARCH
+APPLICATION NUMBER:
+
+217603Orig1s000
+CLINICAL PHARMACOLOGY
+REVIEW(S)
+
+Office of Clinical Pharmacology Review
+NDA Number
+Link to EDR
+Submission Date
+Submission Type
+Brand Name
+Generic Name
+Dosage Form and Regimen
+Route of Administration
+Proposed Indication
+Applicant
+Associated IND
+OCP Review Team
+OND Division
+OCP Final Signatory
+
+217603
+View submission in docuBridge
+8/25/2022
+505(b)(1) NME NDA; Standard
+XDEMVYTM
+Lotilaner
+Ophthalmic solution, 0.25%
+One drop in each eye twice daily (approximately 12
+hours apart) for 6 weeks
+Topical ocular
+The treatment of Demodex blepharitis
+Tarsus Pharmaceuticals, Inc.
+IND 143686
+Hyewon Kim, Ph.D.
+Ping Ji, Ph.D.
+Division of Ophthalmology
+Suresh Doddapaneni, Ph.D., Director (Acting),
+Division of Inflammation and Immune Pharmacology,
+Office of Clinical Pharmacology
+
+TABLE OF CONTENTS
+
+1
+
+EXECUTIVE SUMMARY ..................................................................................................... 4
+1.1
+
+Recommendations ............................................................................................................ 4
+
+1.2
+
+Post Marketing Requirement ............................................................................................ 4
+
+2
+
+SUMMARY OF CLINICAL PHARMACOLOGY ASSESSMENT ..................................... 5
+2.1
+
+Pharmacology and Clinical Pharmacokinetics ................................................................. 5
+
+2.2
+
+Dosing and Therapeutic Individualization ....................................................................... 6
+
+3
+
+Comprehensive Clinical Pharmacology Review ..................................................................... 7
+3.1
+
+Overview of the Product and Regulatory Background .................................................... 7
+
+3.2
+
+General Pharmacology and Pharmacokinetic Characteristics .......................................... 8
+
+3.3
+
+Clinical Pharmacology Review Questions ....................................................................... 9
+
+4
+
+APPENDICES: Inidividual Study report .............................................................................. 10
+4.1
+
+Phase 1 Trial: Study TRS-012 ........................................................................................ 10
+1
+
+Reference ID: 5161601
+
+4.2
+
+Phase 3 Trials: Studies TRS-009 and TRS-010 ............................................................. 15
+
+4.3
+
+In vitro Study Results ..................................................................................................... 20
+
+2
+
+Reference ID: 5161601
+
+List of Tables
+Table 3.1-1 Summary of key clinical pharmacology-related communications with the Applicant 7
+Table 3.1-2 Summary of Studies .................................................................................................... 7
+Table 4.1-1 Summary Statistics of Whole Blood Lotilaner Pharmacokinetic Parameters Data
+Following Single and Repeat Topical Ocular Dose Administration of TP-03, 0.25% in Healthy
+Subjects ......................................................................................................................................... 11
+Table 4.1-2 Bioanalytical method assessment .............................................................................. 13
+Table 4.2-1 Study design of Study TRS-009 ................................................................................ 17
+Table 4.2-2 Study design of Study TRS-010 ................................................................................ 18
+Table 4.3-1 Human Liver CYP Isozyme Inhibition...................................................................... 22
+List of Figures
+Figure 4.1-1 Mean (SD) Concentration-Time Profiles of Whole Blood Lotilaner Following
+Single Topical Ocular Dose Administration of TP-03, 0.25% in Healthy Subjects, Day 1 – SemiLogarithmic Scale (PK Analysis Population). .............................................................................. 11
+Figure 4.1-2 Arithmetic Mean (+SD) Concentration-Time Profiles of Whole Blood Lotilaner
+Following Repeat Topical Ocular Dose Administration of TP-03, 0.25% in Healthy Subjects,
+Day 42 – Semi-Logarithmic Scale (PK Concentration Population) ............................................. 12
+Figure 4.1-3 Scatter Plot of Whole Blood Lotilaner Trough Concentrations Following Repeat
+Topical Ocular Dose Administration of TP-03, 0.25% in Healthy Subjects (PK Analysis
+Population) .................................................................................................................................... 13
+Figure 4.2-1 Box Plot of Lotilaner Blood Concentrations 24 hours After the Last Dose in Studies
+TRS-009 and TRS-010 in Comparison to the Concentrations in Study TRS-012 ....................... 16
+
+3
+
+Reference ID: 5161601
+
+1
+
+EXECUTIVE SUMMARY
+
+The Applicant, Tarsus Pharmaceuticals, Inc., has submitted a 505(b)(1) NDA on August 9, 2022,
+to support the approval of a lotilaner ophthalmic solution 0.25% (proposed trade name:
+XDEMVYTM) for the treatment of Demodex blepharitis in adults. Lotilaner is a selective
+inhibitor of insect and acarine γ-aminobutyric acid (GABA) mediated chloride channels.
+Proposed dosing regimen is one drop in each eye twice daily (BID), approximately 12 hours
+apart, for 6 weeks.
+Lotilaner has been previously developed as an oral veterinary drug for the control of flea and tick
+infestations in dogs and cats (CREDELIO™) and has been shown to be effective against
+Demodex mites in dogs. Currently, there are no approved pharmaceutical treatments for
+Demodex blepharitis in humans.
+The clinical pharmacology submission includes one pharmacokinetic (PK) trial (Study TRS012), a phase 1, single-are, open-label, single-center study in healthy subjects assessing the PK
+and safety of lotilaner instilled in both eyes for 42 days. There are two phase 3 pivotal trials with
+PK data (Studies TRS-009 and TRS-010) in which PK samples were collected in a subset of
+participants. In addition, the submission contained seven in vitro studies characterizing
+metabolism, protein binding, partitioning in blood cells, metabolic/transporter-based drug
+interaction, and the effect of lotilaner on hERG current.
+
+1.1 Recommendations
+
+The Office of Clinical Pharmacology/Division of Inflammation and Immune Pharmacology
+(OCP/DIIP) has reviewed the clinical pharmacology data submitted in support of NDA 217603
+for the proposed lotilaner 0.25% ophthalmic solution and found the application acceptable to
+support approval from a clinical pharmacology perspective.
+Review Issue
+Pivotal or supportive
+evidence of effectiveness
+
+Recommendations and Comments
+Primary evidence of effectiveness is based on two randomized,
+controlled, double-masked, parallel, phase 3 trials (Studies TRS009 and TRS-010) in patients with Demodex blepharitis.
+General dosing instructions One drop of lotilaner ophthalmic solution, 0.25% in each eye
+twice daily, approximately 12 hours apart, for 6 weeks
+Dosing in patients (intrinsic No dose adjustment is recommended for patients based on
+and extrinsic factors)
+intrinsic and extrinsic factors.
+Labeling
+The labeling review is ongoing at the time of this review.
+Bridge between the to-beNot applicable. There is no difference between the clinical trial
+marketed and clinical trial
+formulation and the to be marketed formulation.
+formulations
+
+1.2 Post Marketing Requirement
+None
+
+4
+
+Reference ID: 5161601
+
+2 SUMMARY OF CLINICAL PHARMACOLOGY ASSESSMENT
+The clinical pharmacology assessment included a review of the PK data from Study TRS-012,
+multiple-dose PK study in healthy subjects as well as the PK findings from phase 3 pivotal trials,
+Studies TRS-009 and TRS-010.
+
+2.1 Pharmacology and Clinical Pharmacokinetics
+
+Mechanism of Action
+Lotilaner is a GABA-gated chloride channel inhibitor selective for mites. Lotilaner is not an
+inhibitor of human GABA chloride channels.
+Absorption
+Following a single topical ocular administration of TP-03, 0.25% the median lotilaner whole
+blood lag time (Tlag) was 0.5 hour, indicating a delayed absorption after topical administration.
+Maximum systemic exposure after topical application occurs 2 hours after a single
+administration and by 1 hour on the last day of 42 days of treatment.
+In healthy subjects, the peak concentration (Cmax) was 0.596 ng/mL and total exposures of
+lotilaner 0.25%, AUC0-12 and AUC0-24, in whole blood were 5.75 ng·hr/mL and 9.98 ng·hr/mL,
+respectively. These values increased after repeated ocular BID administration over 40 days, with
+Cmax of 17.8 ng/mL and AUC0-24 of 293 ng·hr/mL.
+Distribution
+No distribution data for lotilaner is available in human. Lotilaner plasma protein binding was
+high (> 99.9%) in human plasma. The actual mean value of unbound was 0.0732 % for lotilaner
+(5 µM) after dialysis in human plasma. The partitioning of lotilaner to human blood cells ranged
+0-20% and generally approximately closer to 10%.
+Metabolism
+Negligible metabolism of lotilaner was observed in blood in rats and dogs. In vitro study for the
+evaluation of lotilaner metabolic stability in human liver microsome indicated limited or no
+metabolism of lotilaner following 60-minute incubation. There is no lotilaner metabolism study
+in humans.
+Excretion
+The terminal plasma elimination half-life of lotilaner following BID dosing in both eyes for 40
+days was approximately 1400 hours (58.3 days). However, the effective half-life, which is based
+on the accumulation ratio over the dosing interval of 12 hours, was 264 hours (11 days). The PK
+results from Study TRS-012 indicated that lotilaner systemic exposure (Ctrough) in healthy
+subjects did not reach a steady state after twice daily dosing for 42 days. Per ADME studies in
+rats and dogs, lotilaner is primarily excreted through the biliary route whereas the renal route was
+a minor route of elimination.
+Specific Populations
+From a perspective of safety, given minimal systemic exposure following topical administration
+to eye, dose adjustment is not warranted in subpopulations based on the commonly known
+intrinsic factors.
+5
+
+Reference ID: 5161601
+
+Drug-Drug Interaction
+In vitro studies showed that lotilaner is not metabolized by CYP enzymes.
+In in vitro setting, lotilaner showed direct inhibition of a few CYP enzymes at higher
+concentrations than clinically relevant range. Therefore, the drug-drug interaction potential of
+lotilaner through CYP enzymes is minimal.
+
+2.2 Dosing and Therapeutic Individualization
+2.2.1 General Dosing
+The recommended dosing regimen is one drop of lotilaner ophthalmic solution, 0.25% in each eye
+twice daily in the morning and in the evening, approximately 12 hours apart, for 6 weeks. This
+dosing regimen was evaluated in two randomized controlled clinical trials (Studies TRS-009 and
+TRS-010) with patients with Demodex blepharitis. These studies were designed to assess safety
+and efficacy, and specifically to demonstrate the effect of lotilaner 0.25% twice daily on the
+treatment of Demodex blepharitis.
+2.2.2 Therapeutic Individualization
+Therapeutic individualization is not applicable for lotilaner ophthalmic solution because it is
+locally administered with minimum systemic exposure.
+2.2.3 Outstanding Issues
+None.
+2.2.4 Summary of Labeling Recommendations
+The labeling review is ongoing at the time of this review.
+
+6
+
+Reference ID: 5161601
+
+3 COMPREHENSIVE CLINICAL PHARMACOLOGY REVIEW
+3.1 Overview of the Product and Regulatory Background
+The proposed product is a lotilaner ophthalmic solution 0.25% (proposed trade name
+XDEMVYTM) for the treatment of Demodex blepharitis in adults. Lotilaner is a selective
+inhibitor of insect and acarine GABA mediated chloride channels. Proposed dosing regimen is
+one drop in each eye twice daily, approximately 12 hours apart, for 6 weeks.
+The proposed product was evaluated under IND 143686. A summary of key clinical
+pharmacology-related discussions and correspondence with the Applicant are listed in Table
+3.1-1 below.
+Table 3.1-1 Summary of key clinical pharmacology-related communications with the
+Applicant
+IND 143686,
+Pre-IND (June
+2019)
+
+ The Agency agreed that the 0.25% concentration of the drug substance
+of TP-03 Ophthalmic Solution (lotilaner) is the maximum concentration
+that can be achieved with an aqueous solution and therefore, clinical
+testing of lower concentrations is not necessary.
+
+Pre-NDA (June
+2022)
+
+ The Agency agreed that in vitro ADME studies, and assessment of
+clinical pharmacokinetics in the healthy volunteer study, TRS-012, as
+well as the assessment of systemic exposure after completion of drug
+administration in the pivotal studies (TRS-009 (Saturn-1) and TRS-010
+(Saturn-2)) are adequate to characterize the pharmacokinetics of
+lotilaner after ophthalmic application.
+
+Source: Reviewer’s summary based on meeting minutes located in DARRTS for IND 143686
+
+Table 3.1-2 Summary of Studies
+Study
+Study Objective
+Number
+TRS-012
+Assess pharmacokinetics
+(Hyperion) and safety of lotilaner by
+administration of single
+and multiple doses of
+TP-03
+a
+TRS-009
+Assessment of systemic
+(Saturn-1) exposure at 1 time point
+on Day 42
+TRS-010a
+(Saturn-2)
+
+Assessment of systemic
+exposure at 1 time point
+on Day 42
+
+Study Design
+
+Single center,
+One topical ocular
+open-label, single drop of TP-03
+arm study
+instilled in both eyes,
+once or twice daily
+for 42 days
+Multicenter,
+One topical ocular
+double masked,
+drop of TP-03 or
+randomized,
+vehicle instilled in
+placeboeach eye twice daily
+controlled
+for 43 days
+Multicenter,
+One topical ocular
+double masked,
+drop of TP-03 or
+randomized,
+vehicle instilled in
+placeboeach eye twice daily
+controlled
+for 43 days
+
+7
+
+Reference ID: 5161601
+
+Study Drug
+
+Number of
+Subjects
+24
+
+TP-03: 22
+Vehicle: 19
+
+TP-03: 114
+Vehicle:
+115
+
+3.3 Clinical Pharmacology Review Questions
+3.3.1 To what extent does the available clinical pharmacology information provide
+pivotal or supportive evidence of effectiveness?
+As the site of drug delivery and action for lotilaner ophthalmic solution is the eye, the extent of
+systemic exposure does not correlate with its efficacy. Therefore, the clinical pharmacology
+program does not provide supportive or pivotal evidence of effectiveness.
+3.3.2 Is the proposed dosing regimen appropriate for the general patient population
+for which the indication is being sought?
+Yes. The proposed strength and dosing regimen are a lotilaner 0.25% ophthalmic solution and
+one drop will be instilled into each eye twice daily, approximately 12 hours apart, for 6 weeks. In
+the pre-IND meeting held June 2019, the Agency agreed that the 0.25% lotilaner concentration
+of TP-03 ophthalmic solution is the maximum concentration that can be achieved with an
+aqueous solution and therefore, clinical testing of lower concentrations is not necessary.
+Proposed dose and dosing regimen was efficacious for the treatment of Demodex blepharitis as
+demonstrated in two phase 3 pivotal trials. Refer to the clinical and statistical reviews for more
+information on efficacy and safety assessment.
+3.3.3 Is an alternative dosing regimen and/or management strategy required for
+subpopulations based on intrinsic factors?
+An alternative dosing regimen is not needed. As the site of drug delivery and action for lotilaner
+ophthalmic solution is the eye, the extent of systemic exposure does not correlate with its
+efficacy. From a perspective of safety, given minimal systemic exposure following topical
+administration, dose adjustment is not warranted in subpopulations based on the commonly
+known intrinsic factors.
+3.3.4 Are there clinically relevant food-drug or drug-drug interactions, and what is
+the appropriate management strategy?
+The drug product is an ophthalmic solution; therefore, the issue of a food-drug interaction is not
+relevant. In vitro studies showed that lotilaner is not metabolized by CYP enzymes. Non-clinical
+studies in rats, cats and dogs demonstrated that lotilaner is excreted in bile as mostly
+unmetabolized drug.
+In in vitro setting, lotilaner showed direct inhibition of CYP2C8, CYP2C9, CYP2C19, and
+CYP2D6 with IC50 values (uncorrected for microsomal protein binding) of 0.402, 3.72, 1.56, and
+4.70 µM, respectively. Of note, the observed maximum concentration (Cmax) in all clinical trials
+is 46.1 ng/mL. Based on the clinical results, the estimated unbound Cmax is 0.461 ng/mL
+(0.00078 μM) with conservative assumption of 1% free drug (protein binding is 99.9% bound).
+Therefore, the drug-drug interaction potential of lotilaner through CYP enzymes is minimal.
+
+9
+
+Reference ID: 5161601
+
+4 APPENDICES: INIDIVIDUAL STUDY REPORT
+4.1 Phase 1 Trial: Study TRS-012
+Title: “Pharmacokinetic Study to Evaluate the Whole Blood Pharmacokinetics of TP-03
+Following Six Week Topical Ocular Administration”
+The Applicant conducted a single center, open-label, single-arm study (Study TRS-012) in
+healthy subjects to evaluate the systemic lotilaner pharmacokinetic characteristics. The study
+enrolled 24 healthy subjects and all participants received lotilaner ophthalmic solution, 0.25%
+(TP-03, 0.25%). A single drop of TP-03 0.25% ophthalmic solution was instilled in each eye on
+the morning of Day 1 and then twice daily (in the morning and in the evening, approximately 12
+hours apart) starting on Day 2 for 40 consecutive days (Days 2 to 41). The doses of Days 1, 2
+(morning), 41 (evening), and 42 were self-administered under supervision of the site staff at the
+clinical site. All remaining doses were self-administered at home.
+Study TRS-012 enrolled healthy males and females who are aged at least 18 years and a body
+mass index (BMI) of 18.5 - 30.0 kg/m2, inclusive. Subjects with presence or history of
+significant gastrointestinal, liver, kidney disease, or surgery that could affect drug bioavailability,
+with history of significant cardiovascular, pulmonary, hematologic, neurological, psychiatric,
+endocrine, immunologic, or dermatologic disease were excluded from the enrollment. No
+prescription drugs except hormonal contraceptives or hormone replacement therapy were
+allowed from 28 days prior to the first study drug administration to the completion of the study.
+4.1.1 Sample Collection and Pharmacokinetic Assessments
+Blood samples for PK of each treatment were collected prior to dosing and at 0.5, 1, 2, 3, 4, 8,
+12, 24 (that is, Day 2 or Day 43) hours after dosing on Day 1 and Day 42. Additional PK
+samples were collected prior to the morning dose on Days 2, 7, 14, 21, 28, 35, 39, 45, 49, 56, 70,
+84, 98, 112, 126, 140, and 154 after the first dose. Subjects were confined to the clinical site
+from at least 10 hours before the morning drug administration of Day 1 and Day 42 until at least
+24 hours after administration of study drug (Days -1 through 2 and Days 41 through 43).
+Remaining samples were collected on an outpatient basis. All samples were collected using tubes
+containing dipotassium ethylenediaminetetraacetic acid (K2EDTA).
+PK samples were analyzed using a validated high-performance liquid chromatography-mass
+spectrometry-mass spectrometry (HPLC/MS/MS) method to determine the concentration of
+lotilaner in human plasma with a lower limit of quantitation (LLOQ) of 0.250 ng/mL. Further
+details of the bioanalytical method and its validation are provided in a subsequent section.
+The PK analysis population included all subjects who received at least 1 dose of the
+investigational product and had at least 1 evaluable post-dose concentration value. PK
+parameters of lotilaner in whole blood were calculated by non-compartmental methods and
+summarized descriptively. The primary PK endpoints includes the following whole blood PK
+parameters for lotilaner: Cmax, Tmax, AUC (AUC0-12 and AUC0-24 for Day 1 and AUC0-τ and
+AUC0-24 for Day 42), Ctrough and for Day 24 AUC0-t, Thalf. Additionally, statistical analysis of
+steady state using natural-log (ln)-transformed Ctrough values were performed and an analysis of
+10
+
+Reference ID: 5161601
+
+Source: Study Report of TRS-012, Figure 14-2
+Concentration is taken as lower limit of quantification (LLOQ, 0.25 ng/mL)/2 if the concentration value is below limit
+of quantification (BLQ).
+
+Following a single topical ocular administration of TP-03 0.25%, the Tmax were reached within a
+median of 2.0 hours and 1.0 hour for Days 1 and 42, respectively. The median lotilaner whole
+blood Tlag was 0.500 hour indicating a delayed absorption after topical administration.
+The peak (Cmax) and total (AUC0-12) exposure of lotilaner in whole blood increased after repeated
+ocular administration for 42 days. Cmax, AUC0-12, and AUC0-24 increased from 0.594 to 17.8
+ng/mL, from 5.75 to 149 ng·h/mL, and from 9.98 to 293 ng·h/mL, respectively. The
+accumulation of lotilaner in whole blood was observed over the dosing interval with estimated
+accumulation ratios (Racc) for Cmax, AUC0-12, and AUC0-24 of 33.4, 32.3, and 36.8, respectively
+(Table 3.2-1).
+After 42 days of repeated ophthalmic administration, the estimated terminal phase half-life (Thalf)
+was 1400 hours (58.3 days). However, the effective half-life (Thalf,eff) which is based on the
+accumulation ratio over the dosing interval of 12 hours, was 264 h (11.0 days). This shorter
+effective half-life suggests a faster rate to steady state than the terminal phase half-life, which is
+supported by the mean Ctrough data. The mean (SD) Ctrough data on these days was 12.2 (8.08),
+12.8 (8.58), 13.9, (7.31), and 11.1 (6.23) ng/mL for Days 35, 39, 42 and 42.5, respectively. An
+ANOVA model with fixed day effect using the last three Ctrough time points at Days 39, 42, and
+42.5 ng/mL was performed and resulted in a F-statistic of 14.9 and a p-value of <0.0001,
+suggesting that lotilaner had not reached systemic steady-state.
+Overall, 106 of the 421 subjects (25.2%) experienced a total of 154 TEAEs (serious and
+nonserious combined). Of the 154 reported TEAEs, 115 (74.7%) were ocular and 39(25.3%)
+were non-ocular. The percentage of subjects who experienced TEAEs was comparable between
+TP-03 group (23.6%) and vehicle group (26.8%). For details in lotilaner safety profile, we defer
+to the Clinical Review.
+Figure 4.1-2 Arithmetic Mean (+SD) Concentration-Time Profiles of Whole Blood
+Lotilaner Following Repeat Topical Ocular Dose Administration of TP-03, 0.25% in
+Healthy Subjects, Day 42 – Semi-Logarithmic Scale (PK Concentration Population)
+
+12
+
+Reference ID: 5161601
+
+Assay parameters
+Analyte
+Internal Standard (IS)
+Quantitation range
+QC levels
+Type of assay
+Ionization mode, source type
+Regression model
+Weighting
+Standards
+Between-run precision
+Between-run accuracy
+Precision and accuracy QCs
+Within-run precision (LLOQ)
+Within-run accuracy (LLOQ)
+Within-run precision (low, mid,
+high)
+Within-run accuracy (low, mid,
+high)
+Between-run precision (LLOQ)
+Between-run accuracy (LLOQ)
+Between-run precision (low,
+mid, high)
+Between-run accuracy (low,
+mid, high)
+Run-qualifying QCs
+Between-run precision
+Between-run accuracy
+Analyte recovery (%CV)
+ISTD recovery (%CV)
+Selectivity
+Mean matrix factor
+Precision (low)
+Precision (high)
+LLOQ QC
+Precision
+Accuracy
+Matrix blanks
+Over-range
+Stability – matrix
+Short-term (ambient)
+Postpreparative (2°C to 8°C)
+Freeze/thaw (-20°C)
+Freeze/thaw (-70°C)
+Long-term (-10°C to -30°C)
+
+Lotilaner, Lot 1950J013
+(b) (4)
+, Lot 01
+0.250 (LLOQ) to 500 (ULOQ) ng/mL
+0.250, 0.750. 12.5, 200 and 400 ng/mL lotilaner
+Protein precipitation / HPLC with MS/MS
+Negative, electrospray ionization
+Linear
+1/x2
+≤ 7.4%
+-2.3% to 1.3%
+≤ 9.9%
+-14.8 to 8.4%
+≤ 9.0%
+-5.2% to 8.5%
+12.5%
+-4.0%
+≤ 6.9%
+-2.3% to 2.3%
+≤ 9.0%
+-7.0% to 5.0%
+≤ 8.6%
+≤ 6.6%
+1.34
+3.3%
+2.4%
+11.0%
+-1.2%
+No interference
+4000 ng/mL at 10×, 8000 ng/mL at 20× dilution factors
+24ha
+499hb
+4 cyclesa
+4 cyclesa
+28da
+14
+
+Reference ID: 5161601
+
+Long-term (-60°C to -80°C)
+Stability – stock solutions
+Bench-top stock (ambient)
+Bench-top ISTD (ambient)
+Short-term stock (2°C to 8°C)
+Short-term ISTD (2°C to 8°C)
+
+315da
+100,000 ng/mL in DMF – 9h
+25.0 ng/mL in MeCN – 8h, 500.0 ng/mL in MeCN – 6h
+1.00 mg/mL in DMF – 42d, 5.00 ng/mL in DMF – 6h
+Not determined
+
+d = days; DMF = dimethylformamide; h = hours; HPLC = high performance liquid chromatography; ISTD =
+Internal Standard; LLOQ = lower limit of quantitation; MeCN = acetonitrile; MS/MS = tandem mass spectrometry;
+QC = quality control; ULOQ = upper limit of quantitation
+a Lotilaner concentrations of 0.750 and 400 ng/mL.
+b Lotilaner concentrations of 0.750, 12.5, 200, and 400 ng/mL.
+
+Bioanalytical Report Summary
+The Applicant submitted one bioanalytical report detailing the performance of the PK sample
+analysis method used in Study TRS-012 entitled “Pharmacokinetic Study to Evaluate the Whole
+Blood Pharmacokinetics of TP-03 Following Six Week Topical Ocular Administration”
+(protocol number TRS-012). Based on this report, the PK assay performed with acceptable
+precision and accuracy in Study TRS-012.
+Overall, in PK study TRS-012, 816 samples were analyzed. Samples were received between 10
+May 2021 through 26 August 2021. Samples were analyzed between 09 March 2021 and 09
+December 2021. All samples were kept at -60 to -80 °C. The total duration of sample storage
+was 275 days and therefore falls within the validated time frame for long-term stability at -60 - 80 °C (315 days).
+Eight-point calibration curves (linear regression; 1/X2 weighting) with concentrations ranging
+from 0.250 to 500 ng/mL were run in duplicate with each sample analysis run. Across all
+concentrations in all sample runs, the percent coefficient of variation (%CV) and absolute value
+of the percent bias (|% Bias|) were ≤ 7.2% and ≤ 3.6%, respectively.
+QCs at concentrations of 0.750 ng/mL (LQC), 12.5 ng/mL (LMQC), 200 ng/mL (MQC), and
+400 ng/mL (HQC) were run in duplicate with each sample analysis run. One MQC sample in a
+single run was found to be outside the acceptance criteria with a calculated concentration that
+was close to HQC, 400 ng/mL. This sample was deactivated as an outlier. Across all QC values
+in all sample runs, excluding that value falling outside the acceptance range, the %CV and |%
+Bias| were ≤ 6.0% and ≤ 3.2%, respectively.
+Incurred sample reanalysis (ISR) of 85 samples (approximately 10% of the total samples
+analyzed) yielded a passing rate of 88.2% (75/85) based on a maximum permitted deviation of
+20% of the mean of the reference and repeat values. The Applicant’s ISR evaluation is
+acceptable.
+
+4.2 Phase 3 Trials: Studies TRS-009 and TRS-010
+
+The Applicant conducted two randomized, controlled, multicenter, double-masked, parallel,
+phase 2b/3 and phase 3 trials patients with Demodex blepharitis: Studies TRS-009 and TRS-010.
+The participants were randomized to receive either lotilaner ophthalmic solution, 0.25% (TP-03,
+15
+
+Reference ID: 5161601
+
+0.25%) or matching placebo for 42 consecutive days. A single drop of TP-03, 0.25% ophthalmic
+solution was instilled in each eye twice daily (morning and evening) for 43 days.
+In study TRS-009, blood samples were collected from participants at one study center (n=41) at
+the end of treatment to determine the concentration of lotilaner in whole blood. The mean (SD)
+lotilaner concentration in 22 subjects who received active treatment (TP-03) was 9.41 (5.99)
+ng/mL with range of 0.838 - 28.8 ng/mL. In study TRS-010, 412 patients with blepharitis were
+randomized (1:1) to receive either TP-03 (n=203) or vehicle (n=209). The mean (SD) lotilaner
+concentration was 12.5 (9.17) ng/mL with range of 0.381 – 46.1 ng/mL.
+A box plot of the concentrations from studies TRS-009 and TRS-010 in comparison to those
+from Study TRS-012 is presented in Figure 4.2-1. For studies TRS-009 and TRS-010, the
+concentration was based on samples collected within 24 hours after the last administration of
+study drug. For Study TRS-012, the box plot represents the concentrations observed at 24 hours
+after the last administration of study drug on Day 43. The systemic exposure at the end of
+treatment in subjects with Demodex blepharitis was comparable with that in healthy subjects as
+presented in Figure 4.2-1.
+Figure 4.2-1 Box Plot of Lotilaner Blood Concentrations 24 hours After the Last Dose in
+Studies TRS-009 and TRS-010 in Comparison to the Concentrations in Study TRS-012
+
+Source: Reviewer’s analysis using pc.xpt from Studies TRS-090, TRS-010, and TRS-012
+
+4.2.1 Study TRS-009
+Study Title: “Randomized, controlled, multicenter, double-masked, parallel, phase 2b/3 trial to
+evaluate the safety and efficacy of TP-03 for the treatment of demodex blepharitis (Saturn-1)”
+16
+
+Reference ID: 5161601
+
+To evaluate the safety and efficacy of TP-03 (lotilaner), the Applicant conducted a randomized,
+controlled, multicenter, double-masked, parallel, phase 2b/3 study in patients with Demodex
+blepharitis. The primary objective of this study was to demonstrate the safety and efficacy of TP03 as a cure for Demodex blepharitis.
+Four hundred twenty-one (421) patients with blepharitis were randomized (1:1) to receive either
+TP-03 (n=212) or vehicle (n=209). A single drop of the TP-03 was instilled in each eye twice
+daily (morning and evening) for 43 days. Study center staff supervised each subject’s initial
+instillation of study drug to ensure proper technique.
+Study TRS-009 enrolled adults (≥ 18 years) with each of the following in at least 1 eye: > 10
+lashes with collarettes present on the upper eyelid (collarette score ≥ 2); at least mild erythema of
+the upper eyelid margin; and a Demodex density, upper and lower eyelids combined, of ≥ 1.5
+mites per lash.
+Sample Collection and Pharmacokinetic Assessments
+As part of the Phase 2b/3 study, TRS-009 (Saturn-1), blood samples were collected from 41
+subjects at the end of treatment to determine the concentration of lotilaner in whole blood.
+Subjects were requested to come in on Day 42, without controlling for when the last eye drop
+was administered to understand the general variability of systemic exposure in subjects after
+treatment. A summary of the study design is presented inTable 4.2-1.
+Table 4.2-1 Study design of Study TRS-009
+Subjects
+Method of administration
+Study period
+Name of active ingredient
+Investigational product
+Batch number
+Dosing
+Examination items
+Analytical assay
+
+Subjects with Demodex blepharitis
+Topical, ocular
+43 days
+Lotilaner
+Lotilaner ophthalmic solution, 0.25% (2.5 mg/mL) (TP-03)
+182130 (LTL-001)
+Twice daily
+Human whole blood systemic exposure
+LOTIHBP 8449-527 - Protein precipitation / HPLC with MS/MS
+
+HPLC = high performance liquid chromatography; MS/MS = tandem mass spectrometry
+
+Summary of Bioanalytical Method Validation and Bioanalytical Report
+Bioanalytical Method Validation
+The bioanalytical method that had used in the Study TRS-009 was the identical analytical
+method used for Study TRS-012 (report number 8449-527).
+Bioanalytical Report Summary
+The Applicant submitted a bioanalytical report detailing the performance of the PK sample
+analysis method used in Study TRS-009. Based on this report, the PK assay performed with
+acceptable precision and accuracy in Study TRS-009.
+Overall, in PK study TRS-009, 41 samples were analyzed. Samples were collected between 21
+December 2020 through 29 December 2020. Samples were analyzed between 16 February 2021
+17
+
+Reference ID: 5161601
+
+and 19 February 2021. All samples were kept at -60 to -80 °C. The total duration of sample
+storage was 60 days and therefore falls within the validated time frame for long-term stability at 60 - -80 °C (315 days).
+Eight-point calibration curves (linear regression; 1/X2 weighting) with concentrations ranging
+from 0.250 to 500 ng/mL were run in duplicate with each sample analysis run. Across all
+concentrations in all sample runs, the percent coefficient of variation (%CV) and absolute value
+of the percent bias (|% Bias|) were ≤ 9.2% and ≤ 5.2%, respectively.
+QCs at concentrations of 0.750 ng/mL (LQC), 12.5 ng/mL (LMQC), 200 ng/mL (MQC), and
+400 ng/mL (HQC) were run in duplicate with each sample analysis run. Across all QC values in
+all sample runs the %CV and |% Bias| were ≤ 5.2% and ≤ 8.8%, respectively.
+Incurred sample reanalysis (ISR) of 22 samples (53.7% of the total samples analyzed) yielded a
+passing rate of 100% (22/22) based on a maximum permitted deviation of 20% of the mean of
+the reference and repeat values. The Applicant’s ISR evaluation is acceptable.
+4.2.2 Study TRS-010
+Study Title: “Randomized, Controlled, Multicenter, Double-Masked, Parallel, Phase 3 Trial to
+Evaluate the Safety and Efficacy of TP-03 for the Treatment of Demodex Blepharitis (Saturn-2)”
+To evaluate the safety and efficacy of TP-03 (lotilaner), the Applicant conducted a randomized,
+controlled, multicenter, double-masked, parallel group phase 3 study in patients with Demodex
+blepharitis. The primary objective of this study was to demonstrate the safety and efficacy of TP03 as a cure for Demodex blepharitis.
+Four hundred twelve (412) patients with blepharitis were randomized (1:1) to receive either TP03 (n=203) or vehicle (n=209). A single drop of the TP-03 was instilled in each eye twice daily
+(morning and evening) for 43 days. Study center staff supervised each subject’s initial instillation
+of study drug to ensure proper technique.
+Study TRS-010 enrolled adults (≥ 18 years) with each of the following in at least 1 eye: > 10
+lashes with collarettes present on the upper eyelid (collarette score ≥ 2); at least mild erythema of
+the upper eyelid margin; and a Demodex density, upper and lower eyelids combined, of ≥ 1.5
+mites per lash.
+Sample Collection and Pharmacokinetic Assessments
+As part of the Phase 3 study, TRS-010 (Saturn-2), blood samples were collected from 327
+subjects at the end of treatment to determine the concentration of lotilaner in whole blood.
+Subjects were requested to come in on Day 42, without controlling for when the last eye drop
+was administered to understand the general variability of systemic exposure in subjects after
+treatment. A summary of the study design is presented in Table 4.3-1.
+Table 4.2-2 Study design of Study TRS-010
+Subjects
+
+Subjects with Demodex blepharitis
+18
+
+Reference ID: 5161601
+
+Method of administration
+Study period
+Name of active ingredient
+Investigational product
+Batch number
+Dosing
+Examination items
+Analytical assay
+
+Topical, ocular
+43 days
+Lotilaner
+Lotilaner ophthalmic solution, 0.25% (2.5 mg/mL) (TP-03)
+182130 (LTL-001)
+Twice daily
+Human whole blood systemic exposure
+LOTIHBP 8449-527 - Protein precipitation / HPLC with MS/MS
+
+HPLC = high performance liquid chromatography; MS/MS = tandem mass spectrometry
+
+There were 203 subjects administered TP-03 and 114 had a blood sample collected that could be
+analyzed for lotilaner. The mean (SD) lotilaner concentration was 12.5 (9.17) ng/mL with range
+of 0.381 – 46.1 ng/mL. Two subjects in the placebo group presented with reportable values.
+One of the subjects had multiple dogs in the household that were on the flea and tick medication,
+Credelio, which has the same active ingredient (lotilaner) as the TP-03. The subject may have
+absorbed the drug through the skin while handling it monthly or also through contact with the
+dogs. The other subject was in a household where there were 2 study participants, 1 on vehicle
+and 1 on TP-03. The subject believes the medications could have been mixed up once.
+Summary of Bioanalytical Method Validation and Bioanalytical Report
+Bioanalytical Method Validation
+The bioanalytical method that had used in the Study TRS-010 was the identical analytical
+method used for Study TRS-012 (report number 8449-527).
+Bioanalytical Report Summary
+The Applicant submitted a bioanalytical report detailing the performance of the PK sample
+analysis method used in Study TRS-010. Based on this report, the PK assay performed with
+acceptable precision and accuracy in Study TRS-010.
+Overall, in PK study TRS-010, 311 samples were analyzed. Samples were collected between 8
+June 2021 through 14 March 2022. Samples were analyzed between 15 December 2021 and 06
+April 2022. All samples were kept at -60 to -80 °C. The total duration of sample storage was 302
+days and therefore falls within the validated time frame for long-term stability at -60 - -80 °C
+(315 days).
+Eight-point calibration curves (linear regression; 1/X2 weighting) with concentrations ranging
+from 0.250 to 500 ng/mL were run in duplicate with each sample analysis run. Across all
+concentrations in all sample runs, the percent coefficient of variation (%CV) and absolute value
+of the percent bias (|% Bias|) were ≤ 7.3% and ≤ 5.0%, respectively.
+QCs at concentrations of 0.750 ng/mL (LQC), 12.5 ng/mL (LMQC), 200 ng/mL (MQC), and
+400 ng/mL (HQC) were run in duplicate with each sample analysis run. Across all QC values in
+all sample runs the %CV and |% Bias| were ≤ 8.7% and ≤ 7.5%, respectively.
+
+19
+
+Reference ID: 5161601
+
+Incurred sample reanalysis (ISR) of 26 samples (8.4% of the total samples analyzed) yielded a
+passing rate of 73% (19/26) based on a maximum permitted deviation of 20% of the mean of the
+reference and repeat values. The Applicant’s ISR evaluation is acceptable.
+
+4.3 In vitro Study Results
+4.3.1 Study 8443928
+Study Title: “In Vitro Plasma Protein Binding and Blood-to-Plasma Partitioning of Lotilaner in
+Mouse, Rat, Dog, and Human”
+Study Design
+Test System
+Method of Administration
+Conc. of Test Compound
+Examination items
+Detection Method
+Compound / Batch Number
+GLP Compliance
+
+Mouse, Rat, Dog, and Human hepatic pooled blood and plasma
+In vitro
+Lotilaner at final conc. 5 μM incubated for 5 h at 37°C
+Ultracentrifugation, dialysis
+HPLC
+1821J001
+No
+
+Summary of Results:
+Lotilaner plasma protein binding was high in mouse, rat, dog, and human, with unbound
+Lotilaner ≤ 0.1%. Actual mean values of percent unbound were 0.0129, 0.0221, 0.0730, and
+0.0732 for lotilaner (5 μM) after dialysis in mouse, rat, dog, and human plasma, respectively.
+Lotilaner was stable in mouse, rat, dog, and human whole blood for 60 minutes after incubation
+at 37°C. The results indicated a non-concentration dependent, low, partitioning to blood cells for
+lotilaner across the species tested. Partitioning of lotilaner to rodent (mouse and rat) blood cells
+was <1%, human blood varied from donor to donor and was in the range of 0-20 % and generally
+approximately closer to 10%, while dog blood: blood partitioning was highest at ≤ 22.1%.
+4.3.2 Study 8445531
+Study title: “Metabolism of Lotilaner in Mouse, Rat, Rabbit, Dog, Monkey, and Human Primary
+Hepatocytes”
+Study Design
+Test System
+Mouse, rat, rabbit, dog, monkey, and human primary hepatocytes
+Method of Administration In vitro
+Conc. of Test Compound
+0.5 and 5 μM Lotilaner
+Examination items
+CYP enzymes, glucuronidation, and sulfation
+Detection Method
+LC-MS
+Compound / Batch Number 1821J001
+GLP Compliance
+No
+Summary of Results:
+20
+
+Reference ID: 5161601
+
+Lotilaner (0.5 and 5 μM) was incubated with mouse, rat, rabbit, dog, monkey, and human
+hepatocytes for 0, 30, 60, 90, 120, and 240 minutes. There was no significant difference in
+degradation between 0.5 and 5 μM lotilaner. The amount of 5 μM lotilaner remaining after
+incubation in hepatocytes for 4 h in mouse was 86.6-93.8%, in rat 80.2-95.0%, in rabbit 95.4104%, in dog 88.0-105%, in monkey 93.3-99.9% and in human hepatocytes 96.3-105%. All
+concentration changes observed in hepatocytes from all species tested were not time dependent.
+These results indicated that lotilaner was metabolically stable in hepatocytes from mouse, rat,
+rabbit, dog, monkey, and human under the experimental conditions of the study.
+4.3.3 Study 8445547
+Study Title: “Identification of Human Drug Metabolizing Enzymes Involved in the Metabolism
+of Lotilaner”
+Study Design
+Test System
+Human liver microsomes
+Method of Administration In vitro
+Conc. of Test Compound
+1 μM Lotilaner
+Examination items
+HLM, S9 fraction, and cytosol
+Detection Method
+LC-MS
+Compound / Batch Number 1821J001
+GLP Compliance
+No
+Summary of Results:
+The study was designed to identify the human drug metabolizing enzymes involved in the
+metabolism of lotilaner. The results of this pilot study indicated limited or no metabolism of
+lotilaner. The results also indicated the potential for non-specific binding to plasticware, and that
+lotilaner was chemically stable under the conditions of the study. Lotilaner does not appear to be
+metabolized by typical enzymes associated with xenobiotic metabolism.
+4.3.4 Study 8445532
+Study Title: “Evaluation of Cytochrome P450 Induction Following Exposure of Primary
+Cultures of Human Hepatocytes to Lotilaner”
+Study Design
+Test System
+Human hepatocytes
+Method of Administration In vitro
+Conc. of Test Compound
+Lotilaner
+Examination items
+CYP1A2, CYP2B6, and CYP3A4
+Detection Method
+LC-MS/MS
+Compound / Batch Number 1821J001
+GLP Compliance
+No
+Summary of Results:
+21
+
+Reference ID: 5161601
+
+Lotilaner did not induce enzymatic activity of CYP2B6, CYP3A4/5, nor enzymatic activity and
+mRNA levels for CYP1A2. It did induce mRNA>2-fold at average concentrations of 3 μM for
+CYP2B6 and 3.5 μM for CYP3A4. The mRNA fold increase for these two enzymes was
+moderate and the levels of fold induction were below the positive control. The induction
+potential for lotilaner is low.
+4.3.5 Study 8445533
+Study Title: “Inhibitory Potential of Lotilaner towards Human Liver Microsomal Cytochrome
+P450 Enzymes”
+Study Design
+Test System
+Method of Administration
+Conc. of Test Compound
+Examination items
+
+Human liver microsomes
+In vitro
+Lotilaner at final conc. 5 μM incubated for 5 h at 37°C
+CYP1A2, CYP2B6, CYP2C8, CYP2C19, CYP2D6, and
+CYP3A4/5
+Detection Method
+LC-MS
+Compound/ Batch Number 1821J001
+GLP Compliance
+No
+
+Summary of Results:
+When tested at concentrations up to 5 μM, lotilaner showed direct inhibition of CYP2C8,
+CYP2C9, CYP2C19, and CYP2D6. The IC50 values (uncorrected for microsomal protein
+binding) for direct inhibition were listed in Table 4.4-1. Lotilaner did not inhibit CYP1A2,
+CYP2B6, CYP3A4/5 (testosterone or midazolam substrates) up to the highest concentration
+tested of 5 μM. Additionally, lotilaner did not exhibit metabolism-dependent inhibition of any
+CYP enzymes tested. In additional work, the inhibition constant (Ki) for CYP2C8 was
+determined to be 0.298 μM.
+Lotilaner was tested for microsomal protein binding and was found to be highly bound to HLM,
+with the mean percent unbound ranging from 0.206 to 1.19%. Based on HLM protein binding,
+corrected IC50 and Ki values were determined. The Ki,u (Ki unbound) value for CYP2C8 was
+0.402 μM as shown in Table 4.4-1. It is anticipated that the Ki,u for the other enzymes will be
+approximately > 3μM based on the CYP2C8 data. Of note is the unbound maximum observed
+concentration of any one subject in the clinical study TRS-012 is 0.41 ng/mL (0.00069 μM),
+conservatively assuming 1% free drug (protein binding is 99.9% bound) at the highest observed
+Cmax in any one subject of 41 ng/mL.
+Table 4.3-1 Human Liver CYP Isozyme Inhibition
+Direct Inhibition
+Enzyme
+Inhibitor
+Total IC50 (Ki)
+IC50,u (Ki,u) (μM)
+Conclusion
+(μM)a
+CYP1A2
+No
+NA
+NA
+CYP2B6
+Yes
+>5
+NA
+CYP2C8
+Yes
+0.402
+0.00383
+CYP2C9
+Yes
+3.72
+0.0294
+22
+
+Reference ID: 5161601
+
+Metabolism-Dependent
+Inhibition Conclusion
+No
+No
+No
+No
+
+CYP2C19 Yes
+CYP2D6
+Yes
+b
+CYP3A4/5 No
+CYP3A4/5c No
+
+1.56
+4.70
+NA
+NA
+
+0.0134
+0.0403
+NA
+NA
+
+No
+No
+No
+No
+
+Source: Section 2.6.4 Pharmacokinetics-Written-Summary Table 19; IC50=Concentration for 50% inhibition
+
+4.3.6 Study 5445534
+Study Title: “Evaluation of Lotilaner as a Substrate and/or Inhibitor of a Panel of Human Drug
+Transporters”
+Study Design
+Test System
+
+Human embryonic kidney (HEK) 293 cells, Caco-2 subclone
+C2BBe1, membrane vesicles prepared from baculovirus infected
+cells (Sf9) expressing BSEP protein
+Method of Administration In vitro
+Conc. of Test Compound
+0.5 and 5 μM Lotilaner
+Examination items
+OAT3, OCT1, OCT2, OATP1B1, OATP1B3, P-gp, BCRP, BSEP
+Detection Method
+LC-MS
+Compound/ Batch Number 1821J001
+GLP Compliance
+No
+
+Summary of Results:
+Uptake of lotilaner (0.5 and 5 μM) by human transporters OCT1, OATP1B1 and OATP1B3 was
+≤1.14-fold for all transporters tested at both lotilaner concentrations compared to vehicle control.
+These results indicated lotilaner was not a substrate of any of the transporters tested. Uptake of
+probe substrates by transporters OAT3, OCT2, OATP1B1, and OATP1B3 was conducted in the
+absence and presence of lotilaner (0.5 and 5 μM) or a known inhibitor.
+Lotilaner exhibited <50% inhibition of OATP1B1 at 5 μM, and no inhibition of OAT3, OCT2,
+and OATP1B3 SLC transporters. The observed inhibition of OATP1B1 at the concentrations
+evaluated was not sufficient to determine the IC50 and thus the value was estimated to be >5 μM.
+Lotilaner (0.5 and 5 μM) was evaluated as a substrate for P-gp and BCRP and the efflux ratio
+was ≤1.67 for all the efflux transporters at both lotilaner concentrations, thus the results indicated
+lotilaner was not a substrate of these ABC efflux transporters. Lotilaner (0.5 and 5 μM) was
+evaluated as an inhibitor for P-gp and BCRP in the same experimental systems and was found to
+be an inhibitor of BCRP, but not P-gp. The maximal inhibition against BCRP was <50% at 5
+μM, the highest concentration evaluated, and there was insufficient data to determine the IC50
+value, thus the value was estimated to be >5 μM.
+Finally, the ATP-dependent uptake of lotilaner (0.5 and 5 μM) by BSEP membrane vesicles was
+not appreciably different in ATP- or AMP-containing sample, with a signal-to-noise ratio ≤1.17,
+indicating that lotilaner was not a substrate of BSEP.
+4.3.7 Study TRX-20-01
+Study title: “In Vitro Effect of Lotilaner on hERG Current (IKr) Expressed in Human Embryonic
+Kidney (HEK) Cells”
+23
+
+Reference ID: 5161601
+
+Study Design
+Test System
+
+Human embryonic kidney; transformed with adenovirus and
+transfected with human-ether-ago-go cDNA
+Method of Administration In vitro
+Conc. of Test Compound
+0.1, 1, 10, 30, and 100 μM Lotilaner
+Examination items
+hERG current
+Detection Method
+Whole-cell variant of the patch clamp method
+Compound/ Batch Number 1821J001
+GLP Compliance
+No
+
+Summary of Results:
+The effects of lotilaner (0.1 μM to 100 μM, nominal) on hERG current amplitude at physiologic
+temperatures were characterized. Lotilaner had little effect on hERG current amplitude with
+100μM blocking hERG current by 8.7 ± 1.0%.
+
+24
+
+Reference ID: 5161601
+
+Signature Page 1 of 1
+
+-------------------------------------------------------------------------------------------This is a representation of an electronic record that was signed
+electronically. Following this are manifestations of any and all
+electronic signatures for this electronic record.
+-------------------------------------------------------------------------------------------/s/
+-----------------------------------------------------------HYEWON KIM
+04/20/2023 02:17:08 PM
+PING JI
+04/20/2023 02:21:49 PM
+
+Reference ID: 5161601
+
+

@@ -1,0 +1,60 @@
+NDA 218171
+ENSACOVE (ensartinib)
+
+activation, nuclear translocation, and initiation of a cell signaling cascade (Tabbo et al. 2021).
+Aberrant forms of ALK including mutations and ALK fusion proteins (e.g., echinoderm
+microtubule associated protein-like 4 (EML4)-ALK) can constitutively (ligand-independently)
+activate ALK and have been implicated in the pathogenesis of human cancers. For summaries of
+nonclinical efficacy, safety, and reproductive data, see Sections 5.1, 7.1, and 8.4, respectively.
+There are no outstanding issues from a pharmacology/toxicology perspective that would prevent
+the approval of ENSACOVE |
+
+13.1.1. Pharmacology
+
+In Vitro Studies
+
+The Applicant evaluated ensartinib activity in biochemical and cellular assays. The commercially
+available KINOMEscan™ assessed the ability of ensartinib to competitively inhibit the binding
+of 10 DNA-tagged kinases to their respective immobilized ligands. Results showed that
+ensartinib inhibited ALK at ICs9 = <0.25nM and c-Met at IC59=0.74nM. Ensartinib also inhibited
+AXL receptor tyrosine kinase (Axl), Abl T3151, ROS Proto-Oncogenel (ROS1), and
+erythropoietin-producing human hepatocellular receptor A2 (EPHA2) with ICso values <15nM
+(Study # X396-NCL-016; Table 47).
+
+The Adapta® universal kinase assay is a commercially available fluorescent-based immunoassay
+that measures the adenosine diphosphate (ADP) formed/ATP hydrolysis (catalytic activity) in a
+kinase reaction. Of the 318 kinases evaluated, ensartinib inhibited 48 kinases by >80% at 114M
+concentration, including neurotrophic tropomyosin receptor kinases 1, 2, 3/tropomyosin receptor
+kinases A, B, C (92-98% inhibition). Inhibitory concentrations (IC59s) were quantified for a
+subset of these kinases with Z-LYTE®, a commercial assay that detects fluorescence shifts
+emitted upon protease cleavage at phosphate-specific sites. The results showed that ensartinib
+inhibited many of the same kinases identified by the KINOMEscan™, also in nanomolar range
+(Study # X396-NCL-016; Table 47).
+
+Table 47. In Vitro Ensartinib Kinase Profiling Determined by KINOMEscan™ or Adapta® Kinase
+
+Assay
+
+KINOMEscan™ Adapta®
+Kinase IC59 (nM) C59 (nM)
+ALK <0.25 ND
+c-MET 0.74 6.3
+Axl 1.40 24.0
+ABL T3151 5.0 18.0
+EPHA2 13.0 11.0
+ROS1 10.0 ND
+SLK ND 11.0
+LTK ND 11.0
+
+Source: Reviewer-generated table based on Study # X396-NCL-016
+Abbreviations: ALK, anaplastic lymphoma kinase; IC.o, half-maximal inhibitory concentration; LTK, Leukocyte receptor tyrosine
+kinase; ND, not determined; ROS1, ROS Proto-Oncogene1; SLK, STE20-like serine/threonine-protein kinase
+
+The Applicant further investigated the activity of ensartinib against mesenchymal-epithelial
+transition (MET) and ROS1 in cellular and biochemical assays. A biochemical (i-e., cell free)
+mobility shift assay showed that ensartinib inhibited ROS1 with an ICso of 11nM and ALK
+
+92
+Integrated Review Template, version 4.0 (11/1/23)
+
+Reference ID: 5498774

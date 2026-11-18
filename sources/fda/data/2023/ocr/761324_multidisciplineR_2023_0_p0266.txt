@@ -1,0 +1,92 @@
+BLA Multi-disciplinary Review and Evaluation {Biologics License Application (BLA) 761324
+
+{epcoritamab}
+
+At predose and 1 hour (after dose) during 1st and 3rd dose in
+cycle 4-9
+At predose and 1 hour (after dose) during 1st dose in cycle 10
+and onward
+GCT3013-04 expansion:
+© Predose after 1st dose in cycle 1
+At predose, and 1 hour (after dose) 2nd, 3rd, and 4th dose in
+cycle 1
+At predose after Ist, 2nd, 3rd, and 4th dose in cycle 2-3
+At predose after 1st and 3rd dose in cycle 4-9
+At predose after 1st dose in cycle 10 and onward
+
+Covariates Static
+
+Evaluated
+
+age, weight, body surface area, body mass index, albumin, alkaline
+phosphatase, alanine aminotransferase, aspartate aminotransferase,
+bilirubin, lactate dehydrogenase, serum creatinine, SPD, natural log of
+SUMPPD, creatinine clearance, BSA-normalized creatinine clearance,
+time from the last CD20 therapy, T-cell counts, B-cell counts, sex, race,
+region, renal impairment, hepatic impairment, ECOG, age group, weight
+group, albumin group, Ann Arbor stage, lymphoma subtype, prior lines
+of therapy, prior CAR-T therapy, prior AST therapy, prior CD19 therapy,
+refractory to prior anti-lymphoma therapy, refractory to prior anti-CD20
+therapy, relapsed after prior anti-CD20 therapy, time from last anti-
+CD20 therapy, ADA status and titer
+
+Time-varying
+
+None
+
+Final Model
+
+Summary Acceptability
+
+[FDA’s comments]
+
+Software and Version
+
+The final PPK model
+adequately characterizes
+
+NONMEM software, Version 7.5.0 (ICON
+Development Solutions)
+
+Model Structure
+
+QSS approximation of the two-compartment epcoritamab PK.
+epcoritamab TMDD model with the first order
+
+SC absorption
+
+Model Parameter Estimates
+
+Table 94
+
+Uncertainty and Variability
+(RSE, IIV, Shrinkage,
+Bootstrap)
+
+All structural model parameters were
+estimated precisely; RSE did not exceed 10.9%.
+The covariate effects parameters were also
+estimated precisely; RSE did not exceed 16.6%
+except for the effect of age on ka (RSE of
+33.0%). All variance parameters were also
+estimated precisely (RSEs 9.25-20.3%).
+Shrinkage of the inter-individual random
+effects was low to moderate, below 34.2%
+except for the kint parameter (43.1%).
+Shrinkage of the residual error was low (4.1%).
+The IIV was low for epcoritamab main PK
+parameters CL/F (CV=25.7%) and VC/F
+(CV=31.2%), but was high for all other
+parameters (CV of 55 to 138%). The
+intra-individual (residual) variability was low
+(CV=18.9%). The IIV on the magnitude of the
+
+265
+
+Version date: June 2022 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5176690
+

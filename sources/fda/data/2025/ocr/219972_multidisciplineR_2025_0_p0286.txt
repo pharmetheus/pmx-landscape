@@ -1,0 +1,67 @@
+NDA/BLA Multi-disciplinary Review and Evaluation — NDA 219972
+Sevabertinib (BAY 2927088) — Version 2.0
+19.4. OCP Appendices (Technical documents supporting OCP
+recommendations)
+
+19.4.1. Summary of Bioanalytical Method Validation and Performance
+
+Sevabertinib (BAY 2927088) in human plasma was analyzed by liquid chromatograph with
+tandem mass spectrometry. The primary assay method and validation parameters are indicated in
+Table . Method validation and in-use performance were adequate to support the assessment of
+sevabertinib systemic exposure in studies 21607, 22249, 22250, 22251, 22252, and 22253.
+
+Table 76. Summary of the Bioanalytical Method Validation and In-Study Performance for
+Measurement of Sevabertinib (BAY 2927088) Using Method ™“)BIO-23-167
+
+[Bioanalytical [Development and full validation of an LC-MS/MS method for the
+
+[method validation determination of BAY 2927088 in human K-EDTA plasma: Report ID
+eport name, 1B002973
+
+lamendments, and
+
+lhyperlinks
+
+Method description |Agilent 1290 Infinity Bin Pump G4220A interfaced with a Sciex Triple
+(Quadruple MS-Detector API5500
+
+Materials used for jo BAY 2927088 (biological matrix: human plasma K2- EDTA)
+standard calibration|o [!°C22H3 °N] BAY 2927088 (biological matrix: human plasma K2-
+
+curve and EDTA)
+concentration
+
+\Validated assay 0.5 to 1500 ug/L
+jrange
+
+Material used for jo BAY 2927088 (biological matrix: human plasma K2- EDTA)
+quality controls lo [3C2 2H SN] BAY 2927088 (biological matrix: human plasma K2-
+QCs) and EDTA)
+
+concentration lo QC concentrations: 0.5 ug/L (LLOQ), 1.5 ug/L (LQC), 30.0 ug/L
+(MQC), 750 ug/L (HQC), and 1200 ug/L (HLOQ)
+Source and lot of = |o K2-EDTA human plasma from
+
+jreagents (MV-2023-0158}, rec’d 29-Jun-2023)
+
+lo BAY 2927088 reference standard from Bayer AG, Germany (Lot
+BXRA27T, exp 31-Aug-2024)
+
+lo [C2 ?H3 °N] BAY 2927088 ISTD from Bayer AG, Germany (Lot SXD
+
+(b) (4)
+
+4226-1-01 A)
+[Regression model _|Linear regression model (weighted 1/X?)
+land weighting
+\Validation Method validation summary |Acceptability
+[parameters
+
+285
+Version date: March 1, 2024 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5697816
+

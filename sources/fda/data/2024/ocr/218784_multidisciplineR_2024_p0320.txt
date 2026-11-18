@@ -1,0 +1,56 @@
+Multi-disciplinary Review and Evaluation
+
+NDA 218784
+
+VORANIGO (vorasidenib)
+Simcyp V21 (Simcyp Ltd, UK) was used by the Applicant to develop the PBPK models and
+predict the effects of ciprofloxacin, fluvoxamine, phenytoin, and rifampicin on the PK of
+vorasidenib and the effects of vorasidenib on the PK of bupropion, repaglinide, warfarin,
+mephenytoin, midazolam, rosuvastatin and digoxin in healthy subjects.
+Model development
+The vorasidenib model consisted of an advanced dissolution, absorption and metabolism (ADAM)
+absorption model and a full PBPK model. Petman (permeability in man) of 6.26 X10“ cm/s was
+predicted based on the permeability data in Caco-2 cells. The intrinsic solubility was 0.0007 mg/mL.
+The particle sizes were D10 of 3 mm, D50 of 9 mm and D90 of 32 mM. The critical supersaturation
+ratio of 10 and precipitation rate constant of 4 1/h were used as input to describe the dissolution
+and precipitation of vorasidenib tablets in Gl tract. The fugu (unbound fraction in enterocytes) was
+set to be 1.0 (Table 73).
+
+The whole-body PBPK model was used to simulate vorasidenib distribution. The volume of
+distribution (V;s, 19.2 L/kg) was predicted using Method 3 in Simcyp. The fraction unbound in
+plasma (fu) is about 2.66% (Table 73).
+
+Vorasidenib apparent clearance was estimated to be 15.97 L/h after oral administration of 50 mg
+vorasidenib in healthy subjects (Study AG881-C-007). CYP1A2 is the primary enzyme responsible
+for the metabolism of vorasidenib. The fmCYP1A2 value of 0.97 was estimated based on
+metabolite profiling and identification in mass balance study (Study AG881-C-005). The rest of the
+metabolism (0.0215) was assigned as the additional human liver microsome clearance. The
+absolute bioavailability was 34.1% determined based on the PK data following a single oral dose
+of 50 mg vorasidenib and a single IV dose of 100 mg vorasidenib in healthy subjects (Study AG881-
+C-005).
+
+Following oral administration, 84.7% and 4.52% of the administered dose was recovered in feces
+and urine with the unchanged parent drug accounting for 55.5% and 0% of the dose administered
+in feces and urine, respectively (Study AG881-C-005).
+
+The vorasidenib mediated competition inhibition parameter (Ki) values of BCRP (0.61 mM) and P-
+gp (5 mM) were obtained from in vitro study (Study NP41967). The vorasidenib mediated induction
+parameter (Indmax and IndC50) values of CYP2B6, CYP2C8, CYP2C9 and CYP2C19 were obtained
+from in vitro studies (Study NP41964 and NP41902). For CYP3A4 induction, the Indmax value of
+13.55 was calibrated using rifampicin data, while the IndC50 of 0.164 mM was obtained from in
+vitro study (Study NP41964) (Table 73).
+
+Formulation Modeling Development
+
+In the development program for vorasidenib, two different formulations, referred to as
+Formulation 1 (F1, © early phase formulation) and Formulation 2 (F2, intended commercial
+film-coated formulation), were developed. In healthy volunteer (HV) clinical study AG881-C-006,
+only F1 was used. In the relative bioavailability Clinical Study AG881-C-007, both formulations (F1
+
+319
+Version date: December 2023(ALL NDA/BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5425021

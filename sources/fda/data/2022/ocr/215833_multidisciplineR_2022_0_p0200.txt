@@ -1,0 +1,55 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 215833}
+{Tradename / lutetium (177Lu) vipivotide tetraxetan}
+
+alternative
+dosing
+regimen
+
+Population PK Analyses
+Aims: 1) To characterize the overall radioactivity-blood PK of [177Lu]Lu-PSMA-617 and PK
+
+parameters (e.g. clearance, volume) with their variability in mCRPC patients; 2) To explore
+covariates (i.e. weight, BMI, age, baseline creatinine clearance) that may explain the inter-
+individual variability on PK parameters in this population; and 3) To predict individual PK (Bayes
+Estimates) and derive exposure metrics (i.e. AUCinf and Cmax) for E-R analyses.
+
+Data: Radioactivity-blood PK, organ dosimetry and acute toxicity data during Cycle 1 from the
+PSMA-617-01 sub-study, which was conducted in a non-randomized cohort of 30 patients to
+provide a more complete assessment of the PK, dosimetry and some safety aspects of
+[177Lu]Lu-PSMA-617. The popPK dataset included 265 blood PK observations from 30
+individuals after the first dose administration. Dosimetry assessments for each organ of interest
+(i.e. bone marrow, kidney, lacrimal glands and salivary glands) were available from 29 patients.
+Longitudinal laboratory data during Cycle 1 as well as any adverse events related to the organs
+at risk were collected for the 30 subjects. Summary of demographic variables and baseline
+characteristics is shown in Table .
+
+Table 43. Summary of demographic variables and baseline characteristics.
+
+Continuous variables
+
+Min 1* quartile Median Mean 3 quartile Max
+Age (years) 520 615 67.0 66.7 72.8 80.0
+Weight (kg) 63.8 78.5 88.8 89.9 97.8 143.0
+BMI (kg/m?) 18.3 24.8 28.4 28.6 31.8 38.8
+Min 15 quartile Median Mean 3 quartile Max
+CrCle. (mL/min) 54.0 85.6 98.0 106.6 132.6 201.
+Categorical variables — number of patients (%)
+Race: White 30 (100%)
+Ethnicity
+Not Hispanic or Latino 25 (83.3%)
+Hispanic or Latino 1 (3.3%)
+Not reported 4 (1.3%)
+
+CrCle.: baseline creatinine clearance; BMI: body mass index
+Source:Table 7-2 in the PopPK report.
+
+Model Development: First, a base popPK model was developed including components of the
+structural model, random effect and residual error models that adequately characterized the
+
+199
+Version date: January 2020 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 4957011

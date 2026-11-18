@@ -1,0 +1,55 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {BLA 761344}
+{Tarlatamab}
+
+infusion (SOI) in cycles 1 and 2 (ie. pre-infusion, end of
+infusion, 6, 24, 48 hours post-SOl for days 1, 8 and 15;
+additional sampling at 168 hours post-SOI on day 15).
+
+Sparse PK samples were collected at pre-infusion and at the
+end of infusion (EOI) in cycles 3 & 4, and only at pre-infusion
+in cycles 5-12. Sparse PK samples were collected for Parts E,
+F and G at pre-infusion and at EOI. For Part G, additional
+intensive PK samples were collected for cycle 2 only at 24,
+48, 168 and 336 hours after SOI.
+
+Study 20200491:
+
+Sparse samples were drawn before infusion and at end of
+infusion on days 1, 8 and 15 of cycle 1. Starting cycle 2
+through cycle 4, samples were collected at pre- and post-
+infusion on days 1 and 15. From cycle 5 through cycle 12,
+only pre-infusion samples were collected on day 1 of each
+
+cycle.
+In ITT Not applicable
+Population
+Covariates Static Bodyweight, age, sex, race, ethnicity, albumin, chronic
+Evaluated kidney disease stage (CKD) score based on eGFR evaluated
+by Modification of Diet in Renal Disease (MDRD) formula,
+overall hepatic impairment scores evaluated by National
+Cancer Institute Organ Dysfunction Working Group criteria,
+ECOG score, the number of prior anticancer therapies,
+baseline sum of target lesion diameters
+Time- Presence of Antidrug antibody
+varying
+Final Model Summary Acceptability
+[FDA’s comments]
+Software and Version NONMEM 7.5 Acceptable
+Model Structure Two-compartment Acceptable
+disposition
+pharmacokinetic model
+with first order
+elimination
+Model Parameter Estimates | Table 7 of Amgen Report | Acceptable
+157688
+Uncertainty and Variability RSE and IIV values can Acceptable
+(RSE, IIV, Shrinkage, be found in Table 7. All
+Bootstrap) shrinkage values were
+
+289
+Version date: June 2022 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5382024

@@ -1,0 +1,564 @@
+{
+ "_note": "Shared search patterns for all sources that use regular expressions. ICU/PCRE and Python re syntax (the features used are common to both). Case-sensitive unless (?i:...) is used. Each pattern counts towards one family in software.csv; the marker pattern finds popPK text and is not software. Started from sources/fda/config/patterns.json (September 2026), which stays as the record of the published FDA run.",
+ "patterns": {
+  "NONMEM": {
+   "group": "estimation",
+   "family": "NONMEM",
+   "regex": "\\bNON-?ME[MN]E?S?\\b|(?i:\\bnonmem\\b)"
+  },
+  "NONMEM (name expanded)": {
+   "group": "estimation",
+   "family": "NONMEM",
+   "regex": "[Nn]onlinear mixed[- ]effects? modell?ing\\s*(?:\\(|®)?\\s*(?:[Vv]ersion|[Vv]\\.?|VII)?\\s*\\[?\\s*(?:Level\\s*)?\\d|Perl[- ]?[Ss]peaks[- ][Nn]onlinear"
+  },
+  "Monolix": {
+   "group": "estimation",
+   "family": "Monolix",
+   "regex": "(?i:\\bmonolix(?:suite|tm|r?\\d{4}[a-z]?(?:r\\d)?)?\\b)"
+  },
+  "Phoenix NLME": {
+   "group": "estimation",
+   "family": "Phoenix NLME",
+   "regex": "Phoenix(?:\\W+\\w+){0,6}?\\W*NLME|\\bPhoenix\\b(?!\\W*(?:WinNonlin|WNL|AZ|Arizona))(?=[^.;]{0,80}\\b(?:NONMEM|Monolix|MONOLIX|nlmixr2?|Pumas|Pmetrics)\\b)|(?<=\\b(?:NONMEM|Monolix|MONOLIX|nlmixr2?|Pumas|Pmetrics)\\b[^.;]{0,80})\\bPhoenix\\b(?!\\W*(?:WinNonlin|WNL|AZ|Arizona))"
+  },
+  "nlmixr": {
+   "group": "estimation",
+   "family": "nlmixr",
+   "regex": "\\bnlmixr2?(?:est)?\\b"
+  },
+  "Pumas": {
+   "group": "estimation",
+   "family": "Pumas",
+   "regex": "\\bPumas\\b|PumasAI"
+  },
+  "Stan/Torsten": {
+   "group": "estimation",
+   "family": "Stan/Torsten",
+   "regex": "\\bTorsten\\b|\\bStan\\b|\\b[rc]?[Ss]tan\\b|cmdstan|\\bSTAN\\b"
+  },
+  "saemix": {
+   "group": "estimation",
+   "family": "saemix",
+   "regex": "\\b(?i:saemix)\\b"
+  },
+  "S-ADAPT/ADAPT": {
+   "group": "estimation",
+   "family": "S-ADAPT",
+   "regex": "\\b(?i:S[-‐–]?ADAPT)\\b|\\b(?i:ADAPT)\\s*(?:5|II|V)\\b|\\bADAPT\\b(?![-‐–](?!TRANS?\\b)\\w)(?!\\s*(?:Phase|phase|trial|Trial|study|Study|Pharma)\\b)"
+  },
+  "Pmetrics": {
+   "group": "estimation",
+   "family": "Pmetrics",
+   "regex": "\\bPmetrics\\b"
+  },
+  "USC*PACK": {
+   "group": "estimation",
+   "family": "USC*PACK",
+   "regex": "(?i:\\bUSC\\s*\\*?\\s*PACK\\b|\\bBigWinPops\\b)|\\bNPEM2?\\b"
+  },
+  "NLMIXED": {
+   "group": "estimation",
+   "family": "NLMIXED",
+   "regex": "\\b(?i:nlmixed)\\b"
+  },
+  "BUGS": {
+   "group": "estimation",
+   "family": "BUGS",
+   "regex": "\\b(?i:WinBUGS|OpenBUGS|MultiBUGS|PKBugs)\\b|\\bJAGS\\b|\\bBUGS\\b"
+  },
+  "OpenPMX": {
+   "group": "estimation",
+   "family": "OpenPMX",
+   "regex": "(?i:\\bOpenPMX\\b)"
+  },
+  "PhysPK": {
+   "group": "estimation",
+   "family": "PhysPK",
+   "regex": "(?i:\\bPhysPK\\b)"
+  },
+  "PoPy": {
+   "group": "estimation",
+   "family": "PoPy",
+   "regex": "\\bPoPy\\b"
+  },
+  "SAAM II": {
+   "group": "estimation",
+   "family": "SAAM II",
+   "regex": "\\bSAAM(?:\\s*II|2)?\\b"
+  },
+  "MATLAB NLME": {
+   "group": "estimation",
+   "family": "MATLAB NLME",
+   "regex": "\\bnlmefit(?:sa)?\\b|\\bsbiofitmixed\\b"
+  },
+  "nlme": {
+   "group": "estimation",
+   "family": "nlme",
+   "regex": "\\bnlme\\b|\\bNLME(?=\\s+(?:function|library|package|toolbox)\\b)|(?<=\\blibrary\\s)NLME\\b|\\bNLME(?=\\s+(?:tool\\s+)?in\\s+(?:S-?PLUS|R)\\b)"
+  },
+  "P-PHARM": {
+   "group": "estimation",
+   "family": "P-PHARM",
+   "regex": "(?i:\\bP-PHARM\\b)"
+  },
+  "WinNonMix": {
+   "group": "estimation",
+   "family": "WinNonMix",
+   "regex": "(?i:\\bWinNonMix\\b)"
+  },
+  "Kinetica": {
+   "group": "estimation",
+   "family": "Kinetica",
+   "regex": "\\bKinetica\\b"
+  },
+  "IMPRES-M": {
+   "group": "estimation",
+   "family": "IMPRES-M",
+   "regex": "\\bIMPRES-M\\b"
+  },
+  "PDx-MC-PEM": {
+   "group": "estimation",
+   "family": "PDx-MC-PEM",
+   "regex": "\\bPDx-MC-PEM\\b"
+  },
+  "PsN": {
+   "group": "auxiliary",
+   "family": "PsN",
+   "regex": "\\bPsN\\b|Perl.[Ss]peaks.NONMEM"
+  },
+  "Pirana": {
+   "group": "auxiliary",
+   "family": "Pirana",
+   "regex": "\\bPirana\\b"
+  },
+  "Xpose": {
+   "group": "auxiliary",
+   "family": "Xpose",
+   "regex": "\\bXpose\\b"
+  },
+  "mrgsolve": {
+   "group": "auxiliary",
+   "family": "mrgsolve",
+   "regex": "\\bmrgsolve\\b"
+  },
+  "RxODE": {
+   "group": "auxiliary",
+   "family": "RxODE",
+   "regex": "\\bRxODE\\b|\\brxode2\\b"
+  },
+  "SimBiology/MATLAB": {
+   "group": "auxiliary",
+   "family": "SimBiology/MATLAB",
+   "regex": "\\bSimBiology\\b|\\bMATLAB\\b"
+  },
+  "Berkeley Madonna": {
+   "group": "auxiliary",
+   "family": "Berkeley Madonna",
+   "regex": "Berkeley\\s+Madonna"
+  },
+  "InsightRX": {
+   "group": "auxiliary",
+   "family": "InsightRX",
+   "regex": "(?i:\\bInsightRX\\b)"
+  },
+  "MonolixSuite tools": {
+   "group": "auxiliary",
+   "family": "MonolixSuite tools",
+   "regex": "(?i:\\bSimuli?x\\b|\\bSycomore\\b|\\bMlxplore\\b)|\\bRsSimulx\\b|\\bmlxR\\b|\\bRsmlx\\b|\\blixoftConnectors\\b"
+  },
+  "PopED": {
+   "group": "auxiliary",
+   "family": "PopED",
+   "regex": "(?i:\\bPopED\\b)"
+  },
+  "PFIM": {
+   "group": "auxiliary",
+   "family": "PFIM",
+   "regex": "\\bPFIM\\b"
+  },
+  "KIWI": {
+   "group": "auxiliary",
+   "family": "KIWI",
+   "regex": "\\bKIWI\\b"
+  },
+  "npde": {
+   "group": "auxiliary",
+   "family": "npde",
+   "regex": "\\bnpde(?=(?:\\s+\\(?(?:R\\s+)?(?:package|library|toolbox)|\\s+\\(?(?:v|version\\s*)?\\d+\\.\\d|::))|(?:package|library)\\s+[`'\"‘“{]?npde\\b|\\{npde\\}"
+  },
+  "Pharmpy": {
+   "group": "auxiliary",
+   "family": "Pharmpy",
+   "regex": "(?i:\\bPharmpy\\b)|\\bpharmr\\b"
+  },
+  "PDx-Pop": {
+   "group": "auxiliary",
+   "family": "PDx-Pop",
+   "regex": "(?i:\\bPDx-?Pop\\b)"
+  },
+  "mapbayr": {
+   "group": "auxiliary",
+   "family": "mapbayr",
+   "regex": "\\bmapbayr\\b"
+  },
+  "deSolve": {
+   "group": "auxiliary",
+   "family": "deSolve",
+   "regex": "\\bdeSolve\\b"
+  },
+  "Wings for NONMEM": {
+   "group": "auxiliary",
+   "family": "Wings for NONMEM",
+   "regex": "(?i:\\bWings\\s+for\\s+NONMEM\\b|\\bWFN\\b)"
+  },
+  "ncappc": {
+   "group": "auxiliary",
+   "family": "ncappc",
+   "regex": "\\bncappc\\b"
+  },
+  "Piraid": {
+   "group": "auxiliary",
+   "family": "Piraid",
+   "regex": "(?i:\\bpiraid\\b)"
+  },
+  "assemblerr": {
+   "group": "auxiliary",
+   "family": "assemblerr",
+   "regex": "\\bassemblerr\\b"
+  },
+  "PKPDsim": {
+   "group": "auxiliary",
+   "family": "PKPDsim",
+   "regex": "\\bPKPDsim\\b"
+  },
+  "PopDes": {
+   "group": "auxiliary",
+   "family": "PopDes",
+   "regex": "\\bPopDes\\b"
+  },
+  "Tucuxi": {
+   "group": "auxiliary",
+   "family": "Tucuxi",
+   "regex": "(?i:\\bTucuxi\\b)"
+  },
+  "BestDose": {
+   "group": "auxiliary",
+   "family": "BestDose",
+   "regex": "\\bBestDose\\b"
+  },
+  "InSilicoTrials": {
+   "group": "auxiliary",
+   "family": "InSilicoTrials",
+   "regex": "\\bInSilicoTrials\\b"
+  },
+  "Pharsight Trial Simulator": {
+   "group": "auxiliary",
+   "family": "Pharsight Trial Simulator",
+   "regex": "Pharsight\\s+Trial\\s+Simulator|\\bTrial\\s+Simulator\\s+\\(Pharsight"
+  },
+  "Simulo": {
+   "group": "auxiliary",
+   "family": "Simulo",
+   "regex": "\\bSimulo\\b"
+  },
+  "TDMx": {
+   "group": "auxiliary",
+   "family": "TDMx",
+   "regex": "\\bTDMx\\b"
+  },
+  "vpc": {
+   "group": "auxiliary",
+   "family": "vpc",
+   "regex": "\\bvpc(?=(?:\\s+\\(?(?:R\\s+)?(?:package|library|toolbox)|\\s+\\(?(?:v|version\\s*)?\\d+\\.\\d|::))|(?:package|library)\\s+[`'\"‘“{]?vpc\\b|\\{vpc\\}"
+  },
+  "WinPOPT": {
+   "group": "auxiliary",
+   "family": "WinPOPT",
+   "regex": "\\bWinPOPT\\b"
+  },
+  "Campsis": {
+   "group": "auxiliary",
+   "family": "Campsis",
+   "regex": "\\bCampsis\\b"
+  },
+  "GenSSI": {
+   "group": "auxiliary",
+   "family": "GenSSI",
+   "regex": "\\bGenSSI\\b"
+  },
+  "Metworx": {
+   "group": "auxiliary",
+   "family": "Metworx",
+   "regex": "(?i:\\bMetworx\\b)"
+  },
+  "posologyr": {
+   "group": "auxiliary",
+   "family": "posologyr",
+   "regex": "(?i:\\bposologyr\\b)"
+  },
+  "SimuRg": {
+   "group": "auxiliary",
+   "family": "SimuRg",
+   "regex": "\\bSimuRg\\b"
+  },
+  "tidyvpc": {
+   "group": "auxiliary",
+   "family": "tidyvpc",
+   "regex": "\\btidyvpc\\b"
+  },
+  "WAPPS-Hemo": {
+   "group": "auxiliary",
+   "family": "WAPPS-Hemo",
+   "regex": "(?i:\\bWAPPS-?Hemo\\b)"
+  },
+  "coveffectsplot": {
+   "group": "auxiliary",
+   "family": "coveffectsplot",
+   "regex": "\\bcoveffectsplot\\b"
+  },
+  "Edsim++": {
+   "group": "auxiliary",
+   "family": "Edsim++",
+   "regex": "\\bEdsim\\+\\+"
+  },
+  "FTPK": {
+   "group": "auxiliary",
+   "family": "FTPK",
+   "regex": "\\bFTPK\\b"
+  },
+  "IQRtools": {
+   "group": "auxiliary",
+   "family": "IQRtools",
+   "regex": "\\bIQRtools\\b"
+  },
+  "MBAOD": {
+   "group": "auxiliary",
+   "family": "MBAOD",
+   "regex": "\\bMBAOD(?=(?:\\s+\\(?(?:R\\s+)?(?:package|library|toolbox)|\\s+\\(?(?:v|version\\s*)?\\d+\\.\\d|::))|(?:package|library)\\s+[`'\"‘“{]?MBAOD\\b"
+  },
+  "nonmem2R": {
+   "group": "auxiliary",
+   "family": "nonmem2R",
+   "regex": "\\bnonmem2R\\b"
+  },
+  "PharmML": {
+   "group": "auxiliary",
+   "family": "PharmML",
+   "regex": "\\bPharmML\\b"
+  },
+  "POPT": {
+   "group": "auxiliary",
+   "family": "POPT",
+   "regex": "\\bPOPT\\b"
+  },
+  "SBPOP": {
+   "group": "auxiliary",
+   "family": "SBPOP",
+   "regex": "\\bSBPOP\\b"
+  },
+  "TCIWorks": {
+   "group": "auxiliary",
+   "family": "TCIWorks",
+   "regex": "\\bTCIWorks\\b"
+  },
+  "Finch Studio": {
+   "group": "auxiliary",
+   "family": "Finch Studio",
+   "regex": "Finch\\s+Studio"
+  },
+  "linpk": {
+   "group": "auxiliary",
+   "family": "linpk",
+   "regex": "\\blinpk\\b"
+  },
+  "pyDarwin": {
+   "group": "auxiliary",
+   "family": "pyDarwin",
+   "regex": "(?i:\\bpyDarwin\\b)"
+  },
+  "Improve": {
+   "group": "auxiliary",
+   "family": "Improve",
+   "regex": "\\bImprove\\b(?=\\s+(?:software|platform|modell?ing\\s+environment|environment|\\(|®))"
+  },
+  "IQReport": {
+   "group": "auxiliary",
+   "family": "IQReport",
+   "regex": "\\bIQReport\\b"
+  },
+  "NMdata": {
+   "group": "auxiliary",
+   "family": "NMdata",
+   "regex": "\\bNMdata\\b"
+  },
+  "nonmem2rx": {
+   "group": "auxiliary",
+   "family": "nonmem2rx",
+   "regex": "\\bnonmem2rx\\b"
+  },
+  "PKconverter": {
+   "group": "auxiliary",
+   "family": "PKconverter",
+   "regex": "\\bPKconverter\\b"
+  },
+  "pmxTools": {
+   "group": "auxiliary",
+   "family": "pmxTools",
+   "regex": "\\bpmxTools\\b"
+  },
+  "xgxr": {
+   "group": "auxiliary",
+   "family": "xgxr",
+   "regex": "\\bxgxr\\b"
+  },
+  "MwPharm": {
+   "group": "auxiliary",
+   "family": "MwPharm",
+   "regex": "\\b(?i:mw\\s?[\\\\/]?\\s?pharm)"
+  },
+  "fit4NM": {
+   "group": "auxiliary",
+   "family": "fit4NM",
+   "regex": "\\b(?i:fit4NM)\\b(?!\\.org/d_)"
+  },
+  "DAISY": {
+   "group": "auxiliary",
+   "family": "DAISY",
+   "regex": "\\bDAISY\\b"
+  },
+  "VCM-TDM": {
+   "group": "auxiliary",
+   "family": "VCM-TDM",
+   "regex": "\\bVCM-TDM\\b"
+  },
+  "caffsim": {
+   "group": "auxiliary",
+   "family": "caffsim",
+   "regex": "\\bcaffsim\\b"
+  },
+  "Simcyp": {
+   "group": "pbpk",
+   "family": "Simcyp",
+   "regex": "(?i:\\bSimcyp\\b)"
+  },
+  "GastroPlus": {
+   "group": "pbpk",
+   "family": "GastroPlus",
+   "regex": "\\bGastroPlus\\b"
+  },
+  "PK-Sim": {
+   "group": "pbpk",
+   "family": "PK-Sim",
+   "regex": "\\bPK-?Sim\\b|\\bMoBi\\b|\\bOSP\\s*Suite\\b|(?i:\\bospsuite\\b)|Open\\s+Systems\\s+Pharmacology"
+  },
+  "DBSolve": {
+   "group": "pbpk",
+   "family": "DBSolve",
+   "regex": "(?i:\\bDBSolve\\b)"
+  },
+  "Jinko": {
+   "group": "pbpk",
+   "family": "Jinko",
+   "regex": "\\bJinko\\b"
+  },
+  "ADMET Predictor": {
+   "group": "pbpk",
+   "family": "ADMET Predictor",
+   "regex": "ADMET\\s+Predictor"
+  },
+  "QSP Designer": {
+   "group": "pbpk",
+   "family": "QSP Designer",
+   "regex": "QSP\\s+Designer"
+  },
+  "Cardiac Safety Simulator": {
+   "group": "pbpk",
+   "family": "Cardiac Safety Simulator",
+   "regex": "Cardiac\\s+Safety\\s+Simulator"
+  },
+  "esqlabsR": {
+   "group": "pbpk",
+   "family": "esqlabsR",
+   "regex": "\\besqlabsR\\b"
+  },
+  "Phoenix WinNonlin (NCA)": {
+   "group": "nca",
+   "family": "Phoenix WinNonlin",
+   "regex": "WinNonlin|Phoenix\\W{0,3}WNL"
+  },
+  "PKanalix": {
+   "group": "nca",
+   "family": "PKanalix",
+   "regex": "\\bPKanalix\\b"
+  },
+  "Phoenix (unspecified)": {
+   "group": "nca",
+   "family": "Phoenix (unspecified)",
+   "regex": "\\bPhoenix\\b(?!(?:\\W+\\w+){0,6}?\\W*NLME|\\W{0,3}(?:WinNonlin|WNL|AZ|Arizona))(?![^.;]{0,80}\\b(?:NONMEM|Monolix|MONOLIX|nlmixr2?|Pumas|Pmetrics)\\b)(?<!\\b(?:NONMEM|Monolix|MONOLIX|nlmixr2?|Pumas|Pmetrics)\\b[^.;]{0,80}Phoenix)"
+  },
+  "PKNCA": {
+   "group": "nca",
+   "family": "PKNCA",
+   "regex": "\\bPKNCA\\b"
+  },
+  "NonCompart": {
+   "group": "nca",
+   "family": "NonCompart",
+   "regex": "\\bNonCompart\\b"
+  },
+  "IQnca": {
+   "group": "nca",
+   "family": "IQnca",
+   "regex": "\\bIQnca\\b"
+  },
+  "pkr": {
+   "group": "nca",
+   "family": "pkr",
+   "regex": "\\bpkr\\b"
+  },
+  "ncar": {
+   "group": "nca",
+   "family": "ncar",
+   "regex": "\\bncar\\b"
+  },
+  "openNCA": {
+   "group": "nca",
+   "family": "openNCA",
+   "regex": "\\b(?i:openNCA)\\b"
+  },
+  "SAS": {
+   "group": "other",
+   "family": "SAS",
+   "regex": "\\bSAS\\b"
+  },
+  "R (software)": {
+   "group": "other",
+   "family": "R (software)",
+   "regex": "\\bR\\s+(?:version|software|package|\\(version|v\\d)|\\bR\\s+\\d\\.\\d"
+  },
+  "popPK marker": {
+   "group": "marker",
+   "regex": "[Pp]opulation [Pp]harmacokinetic|\\b[Pp]op ?PK\\b|\\bPPK\\b"
+  },
+  "FME": {
+   "group": "auxiliary",
+   "family": "FME",
+   "regex": "(?<=\\bpackages )FME\\b|(?<=\\bpackage )FME\\b|\\bFME\\b(?=\\s+(?:package|implemented in R|for inverse))|(?<=\\],\\s)FME(?=\\s\\[)"
+  },
+  "MicLab": {
+   "group": "auxiliary",
+   "family": "MicLab",
+   "regex": "\\b(?i:MicLab)\\b"
+  },
+  "ubiquity": {
+   "group": "auxiliary",
+   "family": "ubiquity",
+   "regex": "\\bubiquity(?=\\s+(?:R\\s+)?(?:package|workflow|toolbox|library)\\b)|(?<=\\bpackage )ubiquity\\b|(?<=mrgsolve, )ubiquity\\b|(?<=mrgsolve, and )ubiquity\\b|(?<=PKPDsim, )ubiquity\\b|(?<=PKPDsim, and )ubiquity\\b|(?<=rxode2, )ubiquity\\b|(?<=rxode2, and )ubiquity\\b|(?<=RxODE, )ubiquity\\b|(?<=RxODE, and )ubiquity\\b|(?<=deSolve, )ubiquity\\b|(?<=deSolve, and )ubiquity\\b"
+  },
+  "PKSolver": {
+   "group": "nca",
+   "family": "PKSolver",
+   "regex": "\\b(?i:PK\\s?Solver)\\b"
+  }
+ }
+}

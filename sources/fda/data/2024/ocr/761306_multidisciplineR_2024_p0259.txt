@@ -1,0 +1,35 @@
+BLA 761306 Multi-disciplinary Review and Evaluation
+Ebglyss (lebrikizumab) injection
+
+Reviewer’s Comments
+
+The Applicant’s PopPK and PK-PD models were adequate to describe the PK of lebrikizumab and
+exposure-response relationship, hence suitable for simulating different scenarios. Based on PK-
+PD simulations, the induction treatment with 500 mg lebrikizumab at Week 0 and 2 (loading
+doses) followed by 250 mg Q2W up to Week 16 attained higher efficacy with its rapid onset
+compared to other induction regimens. Subsequent simulations using different maintenance
+dosing regimens showed comparable effectiveness of 250 mg Q2W and Q4W regimens starting
+from Week 16. All endpoints (e.g., EAS! 50, 75, 90, and percent change in EASI score from
+baseline) included in the E-R analysis supports both Q2W and Q4W as potential maintenance
+treatment regimens.
+
+The reviewer noted that the Applicant’s predicted percentage change of EASI score versus time
+plots demonstrated a narrow confidence interval as opposed to the reviewer's Cl estimated
+based on lower 2.5% and upper 97.5% percentiles cutoff of simulated data. The reason for
+discrepancy is unclear but it does not affect the overall trend of ER relationship.
+
+Conclusion
+
+The final PopPK model adequately described concentration-time profiles of lebrikizumab. The
+steady state exposures (median Cmax, Ctrough, Cavg) were 2- fold higher following 250 mg
+Q2W regimen than those of Q4W, implying the linear PK characteristics of lebrikizumab. No
+covariates other than body weight were found to have significant impact on the lebrikizumab
+PK. The median Cavg,ss following 250 mg Q2W dosing was 24% lower for the highest BW
+quartile while 33% higher for the lowest BW quartile compared to the population median. The
+impact of BW on lebrikizumab exposure is not clinically significant given the lack of dose-
+response relationship over a wider exposure range resulting from Q2W and Q4W treatment.
+
+248
+Version date: October 12, 2018
+
+Reference ID: 5252985

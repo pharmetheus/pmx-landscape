@@ -1,0 +1,55 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 219713}
+{IBTROZI™, Taletrectinib}
+
+Geriatrics (if - Age median (range): 56 yr (24, 83), 26% participant >65
+any) yt, 4.4% participant >75
+-Male n (%): 51 (48%) male
+Dose(s) Included 50, 100, 200, 400, 600, 800, and 1200 mg QD or 400 mg
+BID
+Exposure Metrics Explored Cavess (Cmaxss is highly corrected with Cavgss due to very
+(range) flat PK profile at steady state: R7= 0.95)
+Covariates Evaluated Age, Sex, Race, Baseline weight, Baseline serum albumin
+
+Brain metastases, Prior TKI treatment, Baseline ECOG
+
+Final Model Parameters Summary Acceptability
+[FDA’s
+comments]
+
+Model Structure Cox proportional hazards (CPH) Yes
+model:
+
+hj = ho - exp (Beavgss * Cavgss;
+
++ Bixin
+
++ BoXj2 + Bjxij)
+where, Cavgss; is the value of Cavgss
+in subject i, and Beavgss is the
+estimated effect of Cavgss on the log-
+hazard of experiencing an event.
+Additionally, x;; represents the
+value of covariate j in subject i, and
+B; is the estimated log-hazard ratio
+for the covariate.
+
+Model Parameter Estimates Table 15-19 in ER report Yes
+
+Model Evaluation The CPH models were evaluated by | Yes
+visual predictive checks (VPC), of
+the overall dataset as well as by
+Cavgss quartiles. The visual
+predictive checks were constructed
+from simulated datasets (N=1000)
+containing simulated
+event/censoring times corresponding
+to the observed event/censoring
+times.
+
+348
+Version date: March 1, 2024 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5606238

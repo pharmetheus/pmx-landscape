@@ -1,0 +1,140 @@
+"family","group","items_Europe PMC","items_FDA","items_PAGE","items_PubMed","max_items","registries","in_scope"
+"ADMET Predictor","pbpk",8,2,4,0,8,"",TRUE
+"assemblerr","auxiliary",0,0,7,0,7,"",TRUE
+"BElikelihood","auxiliary",0,0,0,0,0,"cran_pk",FALSE
+"Berkeley Madonna","auxiliary",39,2,23,0,39,"",TRUE
+"BestDose","auxiliary",9,0,2,6,9,"",TRUE
+"BUGS","estimation",17,0,51,3,51,"page_estimation",TRUE
+"caffsim","auxiliary",1,0,0,0,1,"cran_pk",TRUE
+"Campsis","auxiliary",1,0,4,0,4,"",TRUE
+"Cardiac Safety Simulator","pbpk",0,0,3,0,3,"",TRUE
+"clinDR","auxiliary",0,0,0,0,0,"cran_pk",FALSE
+"coveffectsplot","auxiliary",3,0,3,0,3,"",TRUE
+"DAISY","auxiliary",3,0,2,0,3,"",TRUE
+"DBSolve","pbpk",1,0,5,0,5,"",TRUE
+"DDMoRe","auxiliary",2,0,2,1,2,"",FALSE
+"deSolve","auxiliary",21,0,9,0,21,"",TRUE
+"DILIsym","pbpk",1,1,1,0,1,"",FALSE
+"Edsim++","auxiliary",6,0,0,1,6,"",TRUE
+"entimICE","auxiliary",2,2,0,0,2,"",FALSE
+"esqlabsR","pbpk",0,0,3,0,3,"",TRUE
+"Finch Studio","auxiliary",2,0,1,1,2,"page_support",TRUE
+"fit4NM","auxiliary",10,0,0,0,10,"",TRUE
+"FME","auxiliary",3,0,0,0,3,"",TRUE
+"FTPK","auxiliary",0,0,4,0,4,"",TRUE
+"GastroPlus","pbpk",20,5,35,5,35,"",TRUE
+"GenSSI","auxiliary",2,0,4,0,4,"",TRUE
+"IdentifiabilityAnalysis","auxiliary",2,0,1,0,2,"",FALSE
+"IMPRES-M","estimation",0,0,3,0,3,"",TRUE
+"Improve","auxiliary",2,0,1,0,2,"page_support",TRUE
+"InsightRX","auxiliary",13,0,3,3,13,"",TRUE
+"InSilicoTrials","auxiliary",0,0,5,0,5,"",TRUE
+"IQM Tools","pbpk",2,0,2,0,2,"",FALSE
+"IQMtools","auxiliary",2,0,1,0,2,"",FALSE
+"IQnca","nca",3,0,1,0,3,"",TRUE
+"IQReport","auxiliary",0,0,1,0,1,"page_support",TRUE
+"IQRtools","auxiliary",12,0,4,0,12,"page_support",TRUE
+"Jinko","pbpk",0,0,5,0,5,"page_support",TRUE
+"JMbayes","estimation",2,0,1,0,2,"",FALSE
+"Kinetica","estimation",7,1,3,1,7,"",TRUE
+"KIWI","auxiliary",21,1,3,0,21,"",TRUE
+"KroneckerBio","pbpk",2,0,2,0,2,"",FALSE
+"linpk","auxiliary",2,0,0,0,2,"cran_pk",TRUE
+"mapbayr","auxiliary",10,0,3,1,10,"",TRUE
+"MaS","estimation",1,0,1,1,1,"",FALSE
+"MATLAB NLME","estimation",4,0,2,0,4,"",TRUE
+"MBAOD","auxiliary",0,0,3,0,3,"",TRUE
+"MCSim","estimation",1,0,2,1,2,"",FALSE
+"Metworx","auxiliary",6,2,0,0,6,"",TRUE
+"MicLab","auxiliary",3,0,0,0,3,"",TRUE
+"MIXFIM","auxiliary",1,0,2,0,2,"",FALSE
+"Monolix","estimation",704,8,385,202,704,"page_estimation",TRUE
+"MonolixSuite tools","auxiliary",195,1,43,16,195,"",TRUE
+"mrgsolve","auxiliary",98,3,18,7,98,"cran_pk",TRUE
+"MwPharm","auxiliary",13,0,0,7,13,"",TRUE
+"ncappc","auxiliary",7,0,8,1,8,"cran_pk",TRUE
+"ncar","nca",3,0,0,0,3,"cran_pk",TRUE
+"NextDose","auxiliary",1,0,1,1,1,"",FALSE
+"NIMBLE","estimation",2,0,2,1,2,"",FALSE
+"nlme","estimation",31,1,7,8,31,"",TRUE
+"nlmeVPC","auxiliary",0,0,0,0,0,"cran_pk",FALSE
+"NLMIXED","estimation",13,0,6,0,13,"",TRUE
+"nlmixr","estimation",40,0,24,9,40,"cran_pk; page_estimation",TRUE
+"nlmixr2rpt","auxiliary",0,0,0,0,0,"cran_pk",FALSE
+"NMdata","auxiliary",0,0,1,0,1,"cran_pk",TRUE
+"NMsim","auxiliary",0,0,0,0,0,"cran_pk",FALSE
+"nmw","estimation",0,0,0,0,0,"cran_pk",FALSE
+"NonCompart","nca",17,0,1,0,17,"cran_pk",TRUE
+"NONMEM","estimation",2814,119,2113,840,2814,"page_estimation; page_support",TRUE
+"nonmem2R","auxiliary",10,0,0,0,10,"cran_pk",TRUE
+"nonmem2rx","auxiliary",1,0,1,0,1,"cran_pk",TRUE
+"nonmemica","auxiliary",0,0,0,0,0,"cran_pk",FALSE
+"npde","auxiliary",21,0,2,0,21,"cran_pk",TRUE
+"openNCA","nca",3,0,0,0,3,"",TRUE
+"OpenPMX","estimation",0,0,2,1,2,"",FALSE
+"P-PHARM","estimation",1,0,5,2,5,"",TRUE
+"PDx-MC-PEM","estimation",0,0,3,0,3,"",TRUE
+"PDx-Pop","auxiliary",25,0,9,1,25,"",TRUE
+"PFIM","auxiliary",10,0,35,3,35,"cran_pk; page_support",TRUE
+"PharmML","auxiliary",1,0,3,0,3,"",TRUE
+"Pharmpy","auxiliary",2,0,14,1,14,"cran_pk",TRUE
+"Pharsight Trial Simulator","auxiliary",2,0,5,0,5,"",TRUE
+"Phoenix (unspecified)","nca",191,1,19,24,191,"",TRUE
+"Phoenix NLME","estimation",186,2,22,53,186,"page_estimation",TRUE
+"Phoenix WinNonlin","nca",356,3,25,15,356,"",TRUE
+"PhysPK","estimation",1,0,13,0,13,"page_estimation",TRUE
+"Piraid","auxiliary",7,0,8,0,8,"",TRUE
+"Pirana","auxiliary",478,4,22,2,478,"page_support",TRUE
+"PK-Sim","pbpk",33,4,214,11,214,"page_support",TRUE
+"PKanalix","nca",40,0,4,1,40,"",TRUE
+"PKconverter","auxiliary",1,0,0,0,1,"cran_pk",TRUE
+"PKNCA","nca",28,0,2,0,28,"cran_pk",TRUE
+"PKPDsim","auxiliary",11,0,2,0,11,"cran_pk",TRUE
+"pkr","nca",3,0,0,0,3,"cran_pk",TRUE
+"PKSolver","nca",4,0,0,0,4,"",TRUE
+"Pmetrics","estimation",119,0,10,98,119,"",TRUE
+"pmxcode","auxiliary",0,0,0,0,0,"cran_pk",FALSE
+"PMXForest","auxiliary",2,0,1,0,2,"",FALSE
+"pmxpartab","auxiliary",0,0,0,0,0,"cran_pk",FALSE
+"pmxTools","auxiliary",1,0,0,0,1,"cran_pk",TRUE
+"PopDes","auxiliary",1,0,6,0,6,"",TRUE
+"PopED","auxiliary",14,0,36,1,36,"cran_pk; page_support",TRUE
+"POPT","auxiliary",0,0,3,0,3,"",TRUE
+"PoPy","estimation",0,0,1,0,1,"page_estimation",TRUE
+"posologyr","auxiliary",4,0,1,1,4,"cran_pk",TRUE
+"Power2Stage","auxiliary",0,0,0,0,0,"cran_pk",FALSE
+"PsN","auxiliary",453,8,140,5,453,"",TRUE
+"Pumas","estimation",50,1,21,14,50,"page_estimation",TRUE
+"pyDarwin","auxiliary",2,0,1,2,2,"page_support",TRUE
+"qpNCA","nca",0,0,0,0,0,"cran_pk",FALSE
+"QSP Designer","pbpk",0,0,4,0,4,"",TRUE
+"replicateBE","auxiliary",0,0,0,0,0,"cran_pk",FALSE
+"ruminate","auxiliary",0,0,0,0,0,"cran_pk",FALSE
+"RxODE","auxiliary",78,1,32,5,78,"cran_pk; page_support",TRUE
+"S-ADAPT","estimation",38,0,15,14,38,"",TRUE
+"SAAM II","estimation",3,0,5,0,5,"page_estimation",TRUE
+"SADAPT-TRAN","auxiliary",2,0,1,0,2,"",FALSE
+"saemix","estimation",21,0,10,3,21,"cran_pk",TRUE
+"SBPOP","auxiliary",0,0,3,0,3,"",TRUE
+"scaRabee","estimation",0,0,0,0,0,"cran_pk",FALSE
+"SimBiology/MATLAB","auxiliary",121,3,138,7,138,"",TRUE
+"Simcyp","pbpk",55,68,164,16,164,"page_support",TRUE
+"Simulo","auxiliary",4,0,6,0,6,"",TRUE
+"SimuRg","auxiliary",0,0,4,0,4,"",TRUE
+"Stan/Torsten","estimation",37,0,33,3,37,"page_estimation",TRUE
+"TCIWorks","auxiliary",0,0,3,0,3,"",TRUE
+"tdmore","auxiliary",1,0,2,0,2,"",FALSE
+"TDMx","auxiliary",4,0,2,6,6,"",TRUE
+"tidyvpc","auxiliary",5,0,2,0,5,"cran_pk",TRUE
+"Tucuxi","auxiliary",7,0,2,5,7,"",TRUE
+"ubiquity","auxiliary",1,0,0,0,1,"cran_pk",TRUE
+"USC*PACK","estimation",3,0,27,1,27,"",TRUE
+"VCM-TDM","auxiliary",3,0,0,1,3,"",TRUE
+"vpc","auxiliary",8,0,1,0,8,"cran_pk",TRUE
+"WAPPS-Hemo","auxiliary",5,0,0,11,11,"",TRUE
+"Wings for NONMEM","auxiliary",18,0,1,0,18,"",TRUE
+"WinNonMix","estimation",1,0,5,0,5,"",TRUE
+"WinPOPT","auxiliary",1,0,5,0,5,"",TRUE
+"wnl","estimation",0,0,0,0,0,"cran_pk",FALSE
+"xgxr","auxiliary",1,0,1,0,1,"cran_pk",TRUE
+"Xpose","auxiliary",296,0,19,0,296,"cran_pk; page_support",TRUE

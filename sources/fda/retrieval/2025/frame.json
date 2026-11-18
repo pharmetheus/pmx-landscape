@@ -1,0 +1,370 @@
+[
+  {
+    "no": 1,
+    "name": "Datroway",
+    "ingr": "datopotamab deruxtecan-dlnk",
+    "date": "1/17/2025",
+    "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/761394s000lbl.pdf",
+    "appl": "761394"
+  },
+  {
+    "no": 2,
+    "name": "Grafapex",
+    "ingr": "treosulfan",
+    "date": "1/21/2025",
+    "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/214759s000lbl.pdf",
+    "appl": "214759"
+  },
+  {
+    "no": 3,
+    "name": "Journavx",
+    "ingr": "suzetrigine",
+    "date": "1/30/2025",
+    "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/219209s000lbl.pdf",
+    "appl": "219209"
+  },
+  {
+    "no": 4,
+    "name": "Gomekli",
+    "ingr": "mirdametinib",
+    "date": "2/11/2025",
+    "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/219379Orig1s000lbl.pdf",
+    "appl": "219379"
+  },
+  {
+    "no": 5,
+    "name": "Romvimza",
+    "ingr": "vimseltinib",
+    "date": "2/14/2025",
+    "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/219304s000lbl.pdf",
+    "appl": "219304"
+  },
+  {
+    "no": 6,
+    "name": "Blujepa",
+    "ingr": "gepotidacin",
+    "date": "3/25/2025",
+    "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/218230s000lbl.pdf",
+    "appl": "218230"
+  },
+  {
+    "no": 7,
+    "name": "Qfitlia",
+    "ingr": "fitusiran",
+    "date": "3/28/2025",
+    "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/219019s000lbl.pdf",
+    "appl": "219019"
+  },
+  {
+    "no": 8,
+    "name": "Vanrafia",
+    "ingr": "atrasentan",
+    "date": "4/02/2025",
+    "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/219208s000lbl.pdf",
+    "appl": "219208"
+  },
+  {
+    "no": 9,
+    "name": "penpulimab-kcqx",
+    "ingr": "penpulimab-kcqx",
+    "date": "4/23/2025",
+    "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/761258Orig1s000correctedlbl.pdf",
+    "appl": "761258"
+  },
+  {
+    "no": 10,
+    "name": "Imaavy",
+    "ingr": "nipocalimab-aahu",
+    "date": "4/29/2025",
+    "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/761430s000lbl.pdf",
+    "appl": "761430"
+  },
+  {
+    "no": 11,
+    "name": "Avmapki Fakzynja Co-Pack",
+    "ingr": "avutometinib and defactinib",
+    "date": "5/8/2025",
+    "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/219616s000lbl.pdf",
+    "appl": "219616"
+  },
+  {
+    "no": 12,
+    "name": "Emrelis",
+    "ingr": "telisotuzumab vedotin-tllv",
+    "date": "5/14/2025",
+    "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/761384s000lbl.pdf",
+    "appl": "761384"
+  },
+  {
+    "no": 13,
+    "name": "Tryptyr",
+    "ingr": "acoltremon",
+    "date": "5/28/2025",
+    "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/217370s000lbl.pdf",
+    "appl": "217370"
+  },
+  {
+    "no": 14,
+    "name": "Enflonsia",
+    "ingr": "clesrovimab-cfor",
+    "date": "6/9/2025",
+    "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/761432s000lbledt.pdf",
+    "appl": "761432"
+  },
+  {
+    "no": 15,
+    "name": "Ibtrozi",
+    "ingr": "taletrectinib",
+    "date": "6/11/2025",
+    "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/219713s000lbl.pdf",
+    "appl": "219713"
+  },
+  {
+    "no": 16,
+    "name": "Andembry",
+    "ingr": "garadacimab-gxii",
+    "date": "6/16/2025",
+    "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/761367s000lbl.pdf",
+    "appl": "761367"
+  },
+  {
+    "no": 17,
+    "name": "Lynozyfic",
+    "ingr": "linvoseltamab-gcpt",
+    "date": "7/2/2025",
+    "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/761400s000lbl.pdf",
+    "appl": "761400"
+  },
+  {
+    "no": 18,
+    "name": "Zegfrovy",
+    "ingr": "sunvozertinib",
+    "date": "7/2/2025",
+    "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/219839s000lbl.pdf",
+    "appl": "219839"
+  },
+  {
+    "no": 19,
+    "name": "Ekterly",
+    "ingr": "sebetralstat",
+    "date": "7/3/2025",
+    "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/219301s000lbl.pdf",
+    "appl": "219301"
+  },
+  {
+    "no": 20,
+    "name": "Anzupgo",
+    "ingr": "delgocitinib",
+    "date": "7/23/2025",
+    "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/219155s000lbl.pdf",
+    "appl": "219155"
+  },
+  {
+    "no": 21,
+    "name": "Sephience",
+    "ingr": "sepiapterin",
+    "date": "7/28/2025",
+    "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/219666s000lbl.pdf",
+    "appl": "219666"
+  },
+  {
+    "no": 22,
+    "name": "Vizz",
+    "ingr": "aceclidine",
+    "date": "7/31/2025",
+    "label": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2025/218585s000lbl.pdf",
+    "appl": "218585"
+  },
+  {
+    "no": 23,
+    "name": "Modeyso",
+    "ingr": "dordaviprone",
+    "date": "8/6/2025",
+    "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/219876s000lbl.pdf",
+    "appl": "219876"
+  },
+  {
+    "no": 24,
+    "name": "Hernexeos",
+    "ingr": "zongertinib",
+    "date": "8/8/2025",
+    "label": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2025/219042s000lbl.pdf",
+    "appl": "219042"
+  },
+  {
+    "no": 25,
+    "name": "Brinsupri",
+    "ingr": "brensocatib",
+    "date": "8/12/2025",
+    "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/217673s000lbl.pdf",
+    "appl": "217673"
+  },
+  {
+    "no": 26,
+    "name": "Dawnzera",
+    "ingr": "donidalorsen",
+    "date": "8/21/2025",
+    "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/219407s000lbl.pdf",
+    "appl": "219407"
+  },
+  {
+    "no": 27,
+    "name": "Wayrilz",
+    "ingr": "rilzabrutinib",
+    "date": "8/29/2025",
+    "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/219685s000lbl.pdf",
+    "appl": "219685"
+  },
+  {
+    "no": 28,
+    "name": "Keytruda Qlex",
+    "ingr": "pembrolizumab and berahyaluronidase alfa-pmph",
+    "date": "9/19/2025",
+    "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/761467s000lblOrig2.pdf",
+    "appl": "761467"
+  },
+  {
+    "no": 29,
+    "name": "Forzinity",
+    "ingr": "elamipretide",
+    "date": "9/19/2025",
+    "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/215244s000lbl.pdf",
+    "appl": "215244"
+  },
+  {
+    "no": 30,
+    "name": "Inluriyo",
+    "ingr": "imlunestrant",
+    "date": "9/25/2025",
+    "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/218881s000lbl.pdf",
+    "appl": "218881"
+  },
+  {
+    "no": 31,
+    "name": "Palsonify",
+    "ingr": "paltusotine",
+    "date": "9/25/2025",
+    "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/219070s000lbl.pdf",
+    "appl": "219070"
+  },
+  {
+    "no": 32,
+    "name": "Rhapsido",
+    "ingr": "remibrutinib",
+    "date": "9/30/2025",
+    "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/218436s000lbl.pdf",
+    "appl": "218436"
+  },
+  {
+    "no": 33,
+    "name": "Jascayd",
+    "ingr": "nerandomilast",
+    "date": "10/7/2025",
+    "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/218764s000lbl.pdf",
+    "appl": "218764"
+  },
+  {
+    "no": 34,
+    "name": "Lynkuet",
+    "ingr": "elinzanetant",
+    "date": "10/24/2025",
+    "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/219469s000lbl.pdf",
+    "appl": "219469"
+  },
+  {
+    "no": 35,
+    "name": "Kygevvi",
+    "ingr": "doxecitine and doxribtimine",
+    "date": "11/3/2025",
+    "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/219792s000lbl.pdf",
+    "appl": "219792"
+  },
+  {
+    "no": 36,
+    "name": "Komzifti",
+    "ingr": "ziftomenib",
+    "date": "11/13/2025",
+    "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/220305s000lbl.pdf",
+    "appl": "220305"
+  },
+  {
+    "no": 37,
+    "name": "Redemplo",
+    "ingr": "plozasiran",
+    "date": "11/18/2025",
+    "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/219947s000lbl.pdf",
+    "appl": "219947"
+  },
+  {
+    "no": 38,
+    "name": "Hyrnuo",
+    "ingr": "sevabertinib",
+    "date": "11/19/2025",
+    "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/219972s000lblCorrected.pdf",
+    "appl": "219972"
+  },
+  {
+    "no": 39,
+    "name": "Voyxact",
+    "ingr": "sibeprenlimab-szsi",
+    "date": "11/25/2025",
+    "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/761434s000lbl.pdf",
+    "appl": "761434"
+  },
+  {
+    "no": 40,
+    "name": "Lerochol",
+    "ingr": "lerodalcibep-liga",
+    "date": "12/12/2025",
+    "label": "openFDA generic-name lookup (lerodalcibep)",
+    "appl": "761427"
+  },
+  {
+    "no": 41,
+    "name": "Nuzolvence",
+    "ingr": "zoliflodacin",
+    "date": "12/12/2025",
+    "label": "openFDA generic-name lookup (zoliflodacin)",
+    "appl": "219491"
+  },
+  {
+    "no": 42,
+    "name": "Cardamyst",
+    "ingr": "etripamil",
+    "date": "12/12/2025",
+    "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/218571s000lbl.pdf",
+    "appl": "218571"
+  },
+  {
+    "no": 43,
+    "name": "Exdensur",
+    "ingr": "depemokimab-ulaa",
+    "date": "12/16/2025",
+    "label": "openFDA generic-name lookup (depemokimab)",
+    "appl": "761458"
+  },
+  {
+    "no": 44,
+    "name": "Myqorzo",
+    "ingr": "aficamten",
+    "date": "12/19/2025",
+    "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/219083s000lbl.pdf",
+    "appl": "219083"
+  },
+  {
+    "no": 45,
+    "name": "Yartemlea",
+    "ingr": "narsoplimab-wuug",
+    "date": "12/23/2025",
+    "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/761152Orig1s000lbl.pdf",
+    "appl": "761152"
+  },
+  {
+    "no": 46,
+    "name": "Nereus",
+    "ingr": "tradipitant",
+    "date": "12/30/2025",
+    "label": "openFDA generic-name lookup (tradipitant)",
+    "appl": "220152"
+  }
+]

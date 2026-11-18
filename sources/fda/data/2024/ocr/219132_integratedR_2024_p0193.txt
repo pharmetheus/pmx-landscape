@@ -1,0 +1,88 @@
+NDA 219132
+Aqneursa (levacetylleucine)
+
+Validation Parameters Method Validation Summary
+
+Bench-top/process stability Demonstrated for 24 hours at room temperature. Observed
+change between -6.3% and 2.5%.
+
+Freeze-thaw stability Demonstrated for at least 3 cycles in plasma at <-70°C.
+Observed change between -6.8 and 7.5%.
+
+Long-term storage / stability Demonstrated for 48 hours, when stored in the automatic
+
+sampler at 10°C.
+
+Demonstrated stable at 5°C +3°C for 32 days in working
+solution or 63 days in stock solution. Demonstrated stable for
+at least 3 freeze-thaw cycles in working solution at <-70°C.
+
+Assessment for 363 days at <-70°C (in plasma) and for 271
+days at 5°C +3°C (in solution) was ongoing at the time the
+main validation report was finalized and results are reported in
+[Amendment 1 to Val 18_015]. Long-term stability for 581 and
+1125 days at <-70°C (in plasma) are reported in [Amendment 2
+to Val 18_015] and [Amendment 3 to Val 18_015] respectively.
+
+Parallelism Not done.
+
+Carryover Carryover was observed in 3 runs when a blank sample was
+analyzed directly after two injections of the highest calibrator
+(100.000 pg/mL). Two blank samples will be injected after
+higher concentration samples and the clinical sample will not
+be randomized injected, so there will be no impact on the
+preclinical study.
+
+Source: Summary of Biopharmaceutic Studies and Associated Analytical Methods
+Abbreviations: CV = coefficient of variation; ULOQ = upper limit of quantitation; Val = validation
+
+Table 73. Summary of Method Performance of a Bioanalytical Method Determination of N-Acetyl-L-
+Leucine in Human Plasma (Part 5)
+
+Method Information
+
+Bioanalytical method Amendment 1 to the method validation report titled “Validation of a
+
+validation report name, HPLC-MS/MS Method for the quantitative determination of N-Acetyl-L-
+
+and amendments Leucine in human plasma” Report [Amendment 1 to Val 18_015]
+
+Analyte Levacetylleucine
+
+Validation type Full validation
+
+Method number PV 335-01
+
+Study period Experimental start date: Nov 9, 2018, completion date: Oct 9, 2019
+
+Bioanalytical site wer
+
+Matrix Human plasma
+
+Platform High-performance liquid chromatography (HPLC) method with tandem
+mass spectrometric (MS/MS) detection
+
+Format Internally standardized HPLC method using reverse-phase
+
+chromatography with a CHIRALPAK QD-AX column and tandem mass
+spectrometric detection with Sciex API 4000 Qtrap mass spectrometer.
+
+Stock reference N-acetyl-L-leucine, Lot LT40, Retest date: Apr-2021
+
+Calibration range LLOQ=0.100 pg/mL, ULOQ=100.000 pg/mL
+
+Matrix study population Normal
+
+Synopsis of amendment Additional long-term stabilities of the analyte: for 363 days at < -70°C (in
+history plasma) and for 271 days at 5°C (in solution) are described in
+
+Amendment 1.
+
+Source: Summary of Biopharmaceutic Studies and Associated Analytical Methods
+Abbreviations: HPLC = high-performance liquid chromatography; LLOQ = lower limit of quantitation; MS/MS = tandem mass
+spectrometric; ULOQ = upper limit of quantitation
+
+181
+Integrated Review Template, version 4.0 (11/1/23)
+
+Reference ID: 5451862

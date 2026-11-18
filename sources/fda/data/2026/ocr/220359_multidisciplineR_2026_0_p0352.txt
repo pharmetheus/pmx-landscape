@@ -1,0 +1,97 @@
+Validation Parameters
+
+Method Validation Summary
+
+Standard calibration curve
+performance during accuracy
+and precision
+
+Number of standard calibrators from LLOQ to 8
+ULOQ
+
+Cumulative accuracy (%bias) from LLOQ to
+ULOQ abemaciclib
+
+-3.5 to 5.0
+
+Cumulative precision (%CV) from LLOQ to
+ULOQ abemaciclib
+
+2.5 to 11.9
+
+QCs performance during
+accuracy and precision
+
+Cumulative accuracy (%bias) in 6 QCs -6.5 to 32
+
+QCs for abemaciclib
+
+Inter-batch %CV
+QCs for abemaciclib
+
+2.8 to 6.4
+
+Selectivity and matrix effect
+
+6 different lots tested
+Matrix effect at 2 ng/mL. %Bias 3.0, %RSD 5.2 (n= 1 per lot)
+
+Abemaciclib matrix effect low QC: %Bias -9.5 to 4.8, %RSD 3.7 to 13.6 (n
+= 3 per lot)
+
+Abemaciclib matrix effect high QC: %Bias -6.8 to -2.0, %RSD 1.2 to 6.3 (n
+= 3 per lot)
+
+Abemaciclib MF low QC: 1.02 to 1.15, IS 1.03 to 1.12, IS normalized
+0.972 to 1.03
+
+Abemaciclib MF high QC: 1.03 to 1.08, IS 1.01 to 1.05, IS normalized
+
+1.00 to 1.03
+
+Interference and specificity
+
+6 different lots tested
+
+No interference greater than acceptable limits detected at the retention times off
+interest.
+
+Hemolysis effect
+
+Passes acceptance criteria
+
+Lipemic effect
+
+Passes acceptance criteria
+
+Bench-top/process stability
+
+Primary standard solutions: Abemaciclib at 1.00 mg/mL prepared in DMSO:
+Methanol (50:50): 129 days at 2°C to 8°C and 27 hours at room temperature
+Intermediate solutions: Abemaciclib at 80000 ng/mL prepared in
+
+Methanol: Water (50:50): 22 days at 2°C to 8°C and 27 hours at room.
+temperature
+
+Matrix: 28 hours (Low and High QC) 37 hours (DiQC) at room
+
+temperature
+
+Whole Blood: 2 hours at room temperature, 2 hours on wet ice
+
+Processed Sample Stability: 120 hours at 2°C to 8°C (LoQC) Processed.
+
+351
+Version date: March 1, 2024 (All NDA/BLA reviews)
+
+In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the Applicant,
+which do not necessarily reflect the positions of the FDA.
+
+The FDA review was conducted in conjunction with other regulatory authorities under Project ORBIS. The FDA
+collaborated with Australia’s Therapeutic Goods Administration (TGA), Brazilian Health Regulatory Agency
+(ANVISA), Health Canada (HC), Singapore’s Health Sciences Authority (HSA), and Switzerland’s Swissmedic
+(SMC). While the conclusions and recommendations expressed herein reflect the FDA’s completed review of the
+application, the applications may still be under review at the other regulatory agencies.
+
+Reference ID: 5864804
+

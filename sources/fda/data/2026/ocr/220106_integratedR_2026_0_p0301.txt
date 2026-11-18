@@ -1,0 +1,84 @@
+Table 33. Summary of Demographics by Study
+
+Trasicor Drasioos Brasioos voeuarGraaioos _Drsaioisrusioon Drovioos _Bresiene om
+a) em) es) Was) em) ay ez) oxo
+420u) 65a) wa(aa) 739 SBE) eas) Ta) at) aT) T(E) 5.1)
+“Gem acer Mowe) Maint) oMSGre) NGM) ALM) MSCRTD BUM) Eh) woe
+70 (040%) 5 ETDR) GLB) — GAR) mo) M) DARA) aa AR) tS eTAR) © DIDI) S40 (4485)
+iae% maim) Bam) ala) : josizy) —@laan) —eeash) rast) ete 38)
+(sm) ooze) wc) mc) aes) am(ensm) Tem) re)
+sme) eae) eam) 2a) Taeam) Tear) layer) feaum) 4 (00%)
+ise) damm) feasm) 8) oom =e) easements GD S78)
+a(iam) 1 son) van Bam 1a (Len)
+- 2llom) - - 2 (bie)
+T@m% (10m) as 7%) Jem) ew) — tA tn)
+“aguas otaqnsy maqam) 72M) eo CRT) ASRS) Nem) 74) mex cn)
+Maken (amg) 620161) 145) sla (ei20d) Told dol) T3(QN IB) OnAGAATAZ) Tealeesra) ma(emh ie) TO (A HE) BALE IM) Tides, 8 (0 20)
+Normaleed Hematocrit (8)
+Saad) ase eR LG) sen EE) kN aT estas) 123 (429 a2 (430)
+Maks (up) Gagenas) aout) ene) Bane matey uC = GS) Bean ea) WaQiges dans
+“Simm Dy Cesta usr) oarr(oxes) cme (ase) 086 (017) Omit (OAT) mE COR CATA) ARGDIE) —_oF=D(OAK) BETO: —_ oat aim)
+eGE (CKD-8PI 2021) (ml,/min/1.73m*)
+Me SO MOS) nan(ts7) mr) eck) aR (as) aa) tars) ra sq72) anaes) 1317)
+Mean nes) 101 (96,13) 104478, 139) OF (EE, 19 iw (82S 137) 129 (Ne, Be) 1 aH 124) SRACRP a9) mH 197] NOP ABA, as) (aR Us) (37, 1)
+Besctne Albania (g/dL)
+Maa Daze) 42) ao) —4a40aN UT OR) —AmoR — drm — 28 03m) 4302 aes
+Rowtine ALE (U/L)
+Bean 8D) 7B(s33) ws) tare) aan) 30/ea) wipe seen) aaa) aso) ae etsy 243 005)
+Maks (ae) ROL) MiNi) Piva) rs(ea) gay © RSD ios) say) Sees) RIT) Ca A)
+Basel AST (TU/L)
+Nee GD) aay) = MR”) SR) TRO EY AAO SM) A) a) rq nace)
+Meas(asp) (ihe) a1) Tse) FB) BBL) BAB) NGM) AEo) 9m e=) ea) OC 4)
+ostice Divan (mg/L)
+Mew D) eTOR(O3H) 030902) QuAGZE) oa (Or) ABO) —eTBGITH Osi (2M) aon (aN omss(o2rs) ease oan)
+Renal Impairment (CKD-KPL 2021)
+Nereal S02) 7(389R) OAR) IR) wee). EGR) SOLA) 88.) sus (78.0%)
+ie Gare) Mean) Bom) ram) : GG) ietess) ae) 2 (0.4)
+am) Silom tearen)—yaamy Bam) ineot)
+s9(eeam) ea angs) 2H) ER). RSH) TRLARAR) UL aug) — DREN) — A CTaAH «Mer (an)
+n(n) Tix) $0) : rows) = aims) GaH) ear). TER is ioe)
+2 ! 2em) : : ‘fem 2am om)
+: earoR) 1045)
+TN: Nano of Sela, Or Grins Charaees AUP Allin Pisphaias: ADT: Aajavase Tamaicn 7 Not ape
+Reference: Population PK Report: PVT-2201-301-PPK-1; Table 3; Page no. 27
+Table 34. Parameter Estimates of the Final PopPK Model
+Parameter _ Description Units Estimate 95% Cl
+On CL/F L/h 20 (18.9 - 21.0)
+02 Ve/F L 112 (107 - 117)
+Os Q/E L/h 0.245 NC
+. Vp/F L 10.2 NC
+Os, Ka jh 2.76 (2.47 - 3.05)
+06, Absorption lag time (tablet) h 0.233 (0.224 - 0.241)
+0; HV Exp. RUV SD (%CV) 0.406 (42.4) (0.351 - 0.462)
+Os Patients Exp. RUV SD (%CV) 1.01 (133) (0.975 - 1.05)
+00 IIV-CL Box-Cox transformation shape parameter - 0.336 (0.243 - 0.429)
+Oxo IIV-Ve Box-Cox transformation shape parameter - 2.94 (2.38 - 3.50)
+Ou Dermatomyositis effect on CL - -0.278 (0.349 - -0.206)
+Or2 Dose (>= 100 mg) effect on Frel - 0.398 (0.261 - 0.536)
+Os High-fat meal effect on Frel - -0.247 (-0.363 - -0.131)
+Ors Dose (>= 100 mg) effect on Ka . -0.352 (0.517 - -0.188)
+Ors High-fat meal effect on Ka - -0.671 (-0.877 - -0.465)
+O16 Allometric scaling exponent of weight on Ve/F - 0.627 (0.505 - 0.748)
+wt, IIV, Clearance var (%CV*) 0.545 (89.5) (0.489 - 0.601)
+wy Correlation CL-Ve var (corr) 0.252 (0.84) (0.213 - 0.291)
+wi IIV, Central Volume var (%CV") 0.165 (110) —_ (0.126 - 0.203)
+
+Parameter values for the final popPK model. Fel: Relative bioavailability. Ka: Absorption rate constant.
+CL/F or CL: Apparent clearance. Ve/F or Ve: Apparent central volume of distribution. RUV: Residual
+unexplained variability. ITV: Interindividual variability. w%: Variance of the IIV of parameter X. %CV:
+was derived from the estimated variance according to \/exp(varx) — 1 x 100. *: Equivalent %CV for Box-
+Cox IIV was derived from 107 Monte Carlo simulations by matching the 2.5th-97.5th percentile range to an
+
+equivalent lognormal distribution (weq =
+
+‘3-92
+
+$n(go.075/90.023) % CV» = 100\/e™
+
+NC: Not calculated
+
+(fixed parameter). CV: Coefficient of variation. SD: Standard deviation. Corr: Correlation.
+
+Reference ID: 5859282
+
+35

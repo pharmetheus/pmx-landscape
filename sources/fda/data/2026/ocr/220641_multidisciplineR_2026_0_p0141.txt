@@ -1,0 +1,40 @@
+NDA/BLA Multi-disciplinary Review and Evaluation - NDA 220641
+
+Relacorilant
+(N=188) (N=193)
+Events, n(%) 129 (69) 159 (82)
+Censoring, n (%) 59 (31) 34 (18)
+Reason of Censoring
+Alive in active follow-up 49 (26) 24 (12)
+Withdrawal of consent 10 (5) 8 (4)
+Lost to follow-up 0 1K)
+Other reasons 0 1(«)
+
+[Source: dataset ADTTE.XPT]
+
+As summarized in Table 25, 10 patients in each arm were not under active survival follow-up
+due to withdrawal of consent, loss to follow-up, or other reasons. Of these, 5 patients in the nab-
+paclitaxel monotherapy arm and | patient in the relacorilant in combination with nab-paclitaxel
+arm were censored early within 3 months post-randomization. To evaluate the impact of these
+early dropouts on OS, the review team conducted a tipping point analysis by imputing survival
+time for the 5 patients censored early in the nab-paclitaxel monotherapy arm, assuming different
+levels of reduced death risk compared to other patients in the nab-paclitaxel arm. A grid search
+algorithm was used to identify the minimal percentage reduction needed such that the 95%
+confidence interval would include 1. The tipping point analysis results showed that no level of
+risk reduction (from 10% to 90%) could increase the hazard ratio upper confidence interval
+above 1, thereby supporting that early censoring does not alter the conclusion of statistical
+significance for OS.
+
+The Applicant provided final OS subgroup results in Figure 7, in which, hazard ratios were
+estimated using a stratified Cox regression model. The FDA recommends using an unstratified
+Cox regression model to estimate hazard ratios in subgroup analyses. The FDA's final OS
+subgroup analyses using the unstratified approach are presented in Figure 10. All subgroup
+analyses are considered exploratory, and no formal statistical inference can be drawn.
+
+140
+Version date: February 10, 2025 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant's Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5769316

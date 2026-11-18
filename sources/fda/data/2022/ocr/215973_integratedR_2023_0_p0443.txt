@@ -1,0 +1,65 @@
+NDA 215973 lenacapavir injection, for subcutaneous use
+NDA 215974 lenacapavir tablets, for oral use
+
+Pro assay from Monogram Biosciences. Assessment of virus encoding the K70N substitution
+resulted in assay failure, and drug susceptibility could not be determined. Relative to WT virus,
+variants containing single or double substitutions conferred reduced susceptibility to LEN (3.8-
+to >2757-fold and 20- to >2757-fold, respectively) (Table 132). In comparison, mutant viruses
+were fully susceptible to the PIs atazanavir (fold-change range: 0.9- to 1.5) and darunavir (fold-
+change range: 0.9- to 1.7), indicating the absence of cross-resistance to PIs in these LEN-
+resistant mutants. The fold-change values determined in the Gag-Pro assay showed good
+correlation (1°=0.97) with prior data established for 11 of the SDMs in a single-cycle viral
+replication assay in the MT-2 cell line above (PC-200-2026).
+
+Cross-Resistance
+
+Against the Four Main ARV Classes
+
+The antiviral activity of LEN was tested in MT-2 cells against a panel of drug-resistant HIV-1
+mutant variants. The panel included HIV-1 mutants resistant to INSTIs, NNRTIs, NRTIs, or PIs.
+(n=18) (Report PC-200-2027). LEN remained fully active against all tested HIV-1 mutant
+
+variants (Table 133).
+
+Table 133. Activity of LEN Against INSTI-, NNRTI-, NRTI-, and Pl-Resistant HIV-1 Mutants
+Antiretroviral | Drug-Resistant HIV-1 LEN Positive Control
+Inhibitor Class Mutant! Fold-resistance” Compound® Fold-resistance?
+
+K6SR 06 12.8
+NRTI MI84V 0s FTC 42
+6TAMs 04 41
+K103N 03 144
+Y181C 17 33
+NNRTI Y188L 0s EFV 223
+L100V/K103N 0s >23
+K103N/Y181C 0s >23
+Y143R 0s RAL
+E138K/Q148K os
+G140S/Q148R 09
+INSTI
+E92Q/NISSH 09 EVG
+NISSH/QU48R 13
+MSOUR263K 09 $1
+150V 06 DRV 318
+184V/L90M 03 32.9
+" Is4v/v82s 04 ATV 32.4
+G48V/V82A/L90M 04 15.2
+APPEARS 1
+
+The antiviral activity of WT HIV-1 and HIV-1 encoding RT mutations (NRTUNNRTI), IN mutations (INSTIs), or PR
+THIS WAY mutations (Pls) was measured. 6TAMs: M41L, D67N, K70R, L210W, T215F, K219Q.
+ON 2 Mean fold-resistance values (mutant ECs,/WT ECsq) obtained from 3 independent experiments (Data from m2.6 3,
+Section 1, PC-200-2027),
+
+INAL > 2-fold > 10-fold, (INI > 50-fold
+
+ORIGI 3 ATV = atazanavir, DRV = darunavir, EFV = efavirenz, EVG = elvitegravir, FTC = emtricitabine, RAL = raltegravir
+Source: 2.6.2 Pharmacology Written Summary, page 19.
+Abbreviations: ECso, 50% effective concentration; HIV, human immunodeficiency virus; INSTI, integrase inh bitor, LEN, lenacapavir,
+NNRTI, non-nucleoside reverse transcriptase inhibitor, NRTI, nucleoside reverse transcriptase inhibitor, PI, protease inhibitor, RT,
+reverse transcriptase; TAM, treatment-associated mutation; WT, wild type
+
+241
+Integrated Review Template, version 2.0 (04/23/2020)
+
+Reference ID: 4944206

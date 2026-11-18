@@ -1,0 +1,86 @@
+BLA 761184
+
+Ngenla (somatrogon)
+
+Table 88. Applicant’s Final PKPD Model With BMI as a Covariate on Ena
+
+Description Estimate Inter-individual Variability*
+Decay rate (hour?) 0.049638 —t
+
+FACT2 1+ 0.13489 ¢ (AGE - 6) —t
+
+Baseline IGF-1 (ng/mL) 10.15 « FACT2 —t+
+
+FACTS 1+0. 07155 « (BMI§ - 15.2) —t
+
+Emax 27.5552 ¢ FACTS —t
+
+ECso (ng/mL) 56.6832 1.60
+
+Power term 0.536872 —t
+
+Standard errors were not obtained.
+
+"Calculated as sqrt(omega’) where omega’ is the variance of the corresponding eta term; 68% of the population
+lies within this range of the typical value
+
++ Inter-individual variability was not permitted for this term.
+
+AGE is time-varying age in years; 6 is the median value.
+
+is time-varying BMI (mg/m2); 15.2 is the median value.
+
+Source: Population PK and PKPD report (Report number PMAR-EQDD-C031b-DP4-1121), page 7/1938.
+Abbreviations: BMI, body mass index; EC, 50% effective concentration; E,,.., maximum effect; IC, 50% inhibitory concentration;
+IGF-1, insulin4ike growth factor-1; PKPD, phammacokinetics/pharmacodynamics
+
+Table 89. Post Hoc Baseline IGF-1 and ICs From the Applicant’s Final PKPD Model With BMI as a
+Covariate on Emax
+
+Description Mean Standard Deviation Median Minimum Maximum
+Baseline IGF-1* (ng/mL) 12.9 3.646 13 6.268 18.6
+Emax 274. 4,378 25:9 20.2 48.1
+1C50 (ng/mL) 265.5 1093 51.5 3.436 10984
+
+* These values do not reflect the increase in baseline IGF-1 over time.
+
+Source: Population PK and PKPD report (Report number PMAR-EQDD-C031b-DP4-1121), page 43/1938.
+Abbreviations: BMI, body mass index; Ema, maximum effect; ICzo, 50% inhibitory concentration; IGF-1, insulin4 ke growth factor-1;
+PKPD, pharmacokinetics/pharmacodynamics
+
+Figure 47. Observed Versus Population Predicted (Left) or Post Hoc Predicted (Right) IGF-1
+Values From the Applicant’s Final PKPD Model BMI as Covariate on Emax
+
+at Lo 5 yA
+— f: : —y
+Bol! Bo
+gl! £st
+=er: =8
+w |! -_ uw
+© f: ge or
+u ge
+Sel BE 5el
+5%); ge 5°
+9 |: 3? g
+3 S3 3
+z |: =
+BSli $s
+Bey! a2
+3 |: fo)
+ov oF
+lea ae a a Sa poy
+0 100 300 500 0 100 300 500
+Population Predicted Serum IGF-1 (ng/mL) Post Hoc Predicted Serum IGF-1 (ng/mL)
+
+Source: population PK and PKPD report (Report number PMAR-EQDD-C031b-DP4-1 121), page 41/1938
+Abbreviations: IGF-1, insulinike growth factor-1; PKPD, pharmacokinetic/pharmacodynamic; BMI, body mass index
+
+— Reviewer's Comments
+
+Although the goodness-of-fit plots shows a good description of the observed data, the
+Applicant’s PKPD model could be improved in two ways. Firstly, the reviewer’s PopPK model
+could be used to generate most optimal somatrogon concentration as driver of IGF-1 response.
+
+157
+
+Reference ID: 4924352

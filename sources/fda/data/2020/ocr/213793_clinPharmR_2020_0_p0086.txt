@@ -1,0 +1,51 @@
+Figure 32 Weight change plot overlaid on dose titration plot (4)
+‘CH ® Induction # Openiabel # Blinded TREATMENT ® Setmelanotide STUDY — RMA49.
+
+(b) (6) 6)
+3.0 2.0
+@ 2.5 )
+15
+e 3.5 2.0 e
+8 15 § 1.0
+be 109 2 058
+B 05 05g & 3
+7 00. 3 0 0.0.2
+= 3 3-1 3
+rs @ 22 2
+c c
+o ® -3
+© -2.5 °o 4
+2 2 .
+a a-5
+$
+) 8 16 0 8
+
+Weeks since start of treatment Weeks since start of treatment
+
+Reviewer's independent analyses
+
+Overall, the exploratory plots do not show a consistent relationship between dose titration and weight
+loss. For some subjects, weight loss occurs immediately after starting treatment with lowest dose, while
+for other subjects, weight loss occurred after dose titration. Thus exposure-response relationships were
+evaluated by modeling of concentration versus weight relationship using population methods.
+
+4.43.14 Modeling historical growth.
+
+Compartment modeling was used to analyze the historical growth data. A one compartment model
+parameterized by KIN (rate constant of weight gain) and KOUT (rate constant of weight loss) was tested
+and found adequate to describe the observed data. Based on Figure 27, weight was considered to increase
+to steady state for every subject in the dataset. Since not every subject had reached steady state weight
+before treatment, a steady state parameter (SSWT) was estimated. The weight compartment was
+initialized at birthweight. Since birth weight was not known for all subjects, the birth weight parameter
+(BASEWT) was fixed to 3.5 Kg and its inter-individual variability was estimated. Empirical estimates of
+birthweight were confined to be between 2.5 Kg to 5 Kg. Being an unidentifiable parameter. KIN was not
+estimated but calculated from estimated SSWT and KOUT (KIN = SSWT/KOUT). NONMEM version
+7.4 was used for estimation of model parameters. Individual subject parameters were estimated using the
+method of POPULATION WITH UNCONSTRAINED ETA as described in NONMEM user’s guide
+(Introduction to NONMEM. 7.3.0, Robert J. Bauer, ICON development solutions, Hanover, Maryland,
+November 20, 2013). The medians of the estimated and calculated model parameters are given in Table
+24.
+
+85
+
+Reference ID: 4669798

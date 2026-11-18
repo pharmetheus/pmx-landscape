@@ -1,0 +1,10 @@
+{
+ "_note": "The population PK marker of the shared patterns (taxonomy/patterns.json), as the candidate that opens the windows read by fda_poppk.",
+ "patterns": {
+  "popPK marker": {
+   "group": "marker",
+   "family": "popPK",
+   "regex": "[Pp]opulation [Pp]harmacokinetic|\\b[Pp]op ?PK\\b|\\bPPK\\b"
+  }
+ }
+}

@@ -1,0 +1,50 @@
+NDA 215973 lenacapavir injection, for subcutaneous use
+NDA 215974 lenacapavir tablets, for oral use
+
+The review team evaluation on BMI either as a continuous or categorical variable (using
+the same PK dataset) found that the BMI effect on F,. was more pronounced than the
+effect on™ when the covariate was included on both F.. and dy The ETA covariate
+plots, across different studies and SC formulation strength, showed higher Fs. and (9 for
+underweight subjects (n=5, receiving SC), lower Fs and ) for obese subjects (n=35),
+and comparable F< and. ( for normal (n=90) and overweight subjects (n=75). The
+review team PK modeling using BMI as a categorical variable on {, and F.. resulted in a
+drop in OFV by! and 16 points (for 2 degrees of freedom), respectively. The
+concomitant inclusion of BMI on both Fs: and! {i}, in the PK model estimated a! {}%
+higher and 3% lower i in underweight and obese subjects, and a 66% higher and 23%
+lower F.. in underweight and obese subjects, respectively, compared to normal and
+overweight subjects. The mean effect of underweight BMI on F< (of 66%) was not
+precisely estimated (with a %RSE of 73.4%), likely due to the small number of
+underweight subjects (n=5) in the PK dataset and studies, as well as the high variability
+in PK profile observed in few of these subjects. The backward elimination of BMI on a
+did not significantly change the OFV (© increase in OFV). In agreement with the
+observed effect of BMI groups on the PK profiles (flatter PK profiles for obese and
+higher PK profiles in underweight subjects) and the absence of obvious faster or delayed
+absorption amongst the BMI groups, the inclusion and retention of the BMI effect on Fsc
+only instead of” was considered more relevant.
+
+In conclusion, the Applicant’s reassessment of the covariate analysis and the review team’s
+separate evaluation of the Applicant’s updated PK model found that according to the PK
+modeling:
+
+(4) . : . .
+OM vere not significant or relevant covariates ©® Both covariates effect tA
+
+was removed from the PK model.
+The inclusion of ©® in addition to Fpo, was not mechanistically
+justified and was not relevant. The effect of ©® as removed from the model.
+Cobicistat-containing ARVs had a 28% increase in Fpo. RTV-containing ARVs had a 95%
+increase in Fyo. HTE patients receiving DRV (with unspecified booster) had a 52% increase
+in Fpo.
+Underweight subjects were estimated to have a 66% higher LEN SC bioavailability and
+obese subjects to have 23% lower Fsc, compared to normal and overweight subjects. The
+BML effect on Fsc, particularly in obese subjects, is not expected to impact the target of
+having the mean Crrough (and 90% CI of the mean) above the inhibitory quotient 4 (IQ4) of
+15.5 ng/mL for a 26-week dosing window (Figure 14 and Figure 16, Section II.6.3.4).
+
+Table 117 summarizes the parameter estimates from the reviewer’s updated PK model.
+
+200
+
+Integrated Review Template, version 2.0 (04/23/2020)
+
+Reference ID: 4944206

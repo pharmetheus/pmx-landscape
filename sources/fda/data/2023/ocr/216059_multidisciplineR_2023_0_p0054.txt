@@ -1,0 +1,55 @@
+NDA 216059 Multi-disciplinary Review and Evaluation
+Jaypirca (pirtobru )
+Study title/study number: In Vitro human lymphocyte micronucleus assay with mechanistic
+
+fluorescent in situ hybridization (FISH) Analysis of Micronuclei/LOXO-305-TOX-014 (GLP
+compliant)
+
+Key findings:
+
+e  Pirtobrutinib induced increases in the number of micronucleated (MN) cells at
+concentrations of 12 and 16 pg/mL without S9 activation following the exposure to
+pirtobrutinib for 24 hours.
+
+e@ The use of FISH with pan-centromeric DNA probes demonstrated that micronuclei were
+generated via a predominantly aneugenic mechanism at 12 and 16 pg/mL.
+
+Test system: Human lymphocyte cells; pre-treatment with phytohemagglutinin (PHA) for
+mitogen stimulation 48 hours prior to pirtobrutinib treatment; exposure to pirtobrutinib of 24
+hours without $9 activation; fluorescence in situ hybridization (FISH) with pan-centromeric DNA
+probes
+
+Study Design and Study Result
+
+Pirtobrutinib Conc Cytotoxicity* MNBN Cell Freq Centromere+”
+(ng/mL) (%) (%) (%)
+0 (control) = 0.40 NC
+1.25 0 0.35 NC
+2.5 3 0.65 NC
+5 5 0.40 NC
+12 29 4.7* 67
+16 54 10* 79
+
+‘Abbreviations: Cone = concentration, DMSO = dimethylsulfoxide, Freq = frequency, HPBL = human peripheral
+blood lymphocytes. MN-BN = bi-nucleated cells with micronuclei, NC=not calculated
+
+*Fisher’s Exact test: p< 0.001
+* — Based on replication index relative to DMSO vehicle control
+> Percentage of cells that were centromere positive
+
+(Table from the Applicant)
+
+Historical vehicle control range for frequency of micronucleated binucleates (MNBN) cells/cells
+scored (%): 0.1%-1.4%
+
+Based on the positive response at 12 and 16 g/mL, which showed a statistically significant
+linear trend, FISH analysis was performed to ascertain the predominant mechanism of action of
+micronucleus induction. In the FISH analysis, mitomycin C (MMC) and noscapine (NOS) were
+employed as clastogenic and aneugenic positive control chemicals, respectively.
+
+53 of 265
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5116352

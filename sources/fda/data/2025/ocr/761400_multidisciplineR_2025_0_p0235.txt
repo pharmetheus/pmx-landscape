@@ -1,0 +1,52 @@
+NDA/BLA Multi-disciplinary Review and Evaluation Biologics License Application 761400
+
+linvoseltamab
+Labeling Language Description Acceptability
+[FDA’s comments]
+
+12.2 Pharmacodynamics N/A Linvoseltamab exposure-
+response relationships have
+not been fully characterized.
+
+Table 70: Applicant - Predicted Response Rates and Odds Ratios From the Final
+Multivariate Logistic Model Fit of ORR (SCR+CR+VGPR+PR) Comparing Nominal
+Doses of 50 mg and 200 mg
+Population N Nominal Exposure metric Mean Predicted Objective Odds
+Pp Dose Pi Exposure |Response Rate (95%Cl)|_ Ratio
+Avg of weekly log Cmin
+Ph1 73 50mg_ |(mg/L) up to final dose 5.77 0.397 (0.117, 0.766)
+eek
+Avg of weekly log Cmin 4.75
+Ph1 73 | 200mg |(mg/L) up to final dose 28.7 0.758 (0.361, 0.945) | (2.42,
+eek 11.7)
+Avg of weekly log Cava
+Ph2 209] 50mg _ |(mg/L) up to final dose 6.28 0.393 (0.161, 0.686)
+eek
+Avg of weekly log Cava 4.49
+Ph2 209| 200mg |mg/L) up to final dose 29.5 0.744 (0.46, 0.908) (2.66,
+eek 8.08)
+Avg of weekly log Cavg
+Ph2 +Ph1 200) 554) 50mg |img/L) up to final dose 6.28 0.396 (0.156, 0.699)
+Img Cohort eek
+Avg of weekly log Cavg 5.06
+Ph2 + Ph1 200) 554) 200mg mg/L) up to final dose 29.5 0.768 (0.48, 0.922) | (2.99,
+Ing Cohort eek 9.16)
+Avg of weekly log Cavg
+Ph1+Ph2 |282] 50mg |(mg/L) up to final dose 6.28 0.408 (0.246, 0.593)
+eek
+Avg of weekly log Cavg 3.67
+Phi + Ph2 282 | 200mg {(mg/L) up to final dose 29.5 0.717 (0.539, 0.846) (2.59,
+eek 5.39)
+
+Log exposures were transformed to natural space; N = number of patients
+
+Source: Module 5.3.3.5 R5458 E-R Report Table 1
+
+Reference ID: 5432800
+
+200
+
+Version date: August 2023 (ALL NDA/BLA reviews)
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are
+completed by the Applicant and do not necessarily reflect the positions of the FDA.
+

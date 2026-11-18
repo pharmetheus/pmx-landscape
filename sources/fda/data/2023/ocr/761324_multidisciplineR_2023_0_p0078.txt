@@ -1,0 +1,53 @@
+BLA Multi-disciplinary Review and Evaluation {Biologics License Application (BLA) 761324
+{epcoritamab}
+
+Figure 5: Simulated PK Profiles — Reference (Nominal Dosing Schedule) Compared to
+Dosing Delay After First Full Dose With or Without Re-Priming (Scenario 3)
+
+f Cohort
+
+Nomina! dosing schedule
+
+Delayed dosing, re-priming not required
+ms Delayed dosing, re-priming required
+
+Concentration (ug/mL)
+
+3 12 16 20 24 28 32 36 40 44 48 52 56 60 64 68 72
+Time (Week)
+
+Solid line represents median of simulated individual PK profile. Dash line represents geometric mean of
+simulated individual PK profile. Shaded represents 5" to 95" percentile.
+Source: Figure 6 in response to FDA 09 January 2023 information request, SDN 15
+
+Table 19: Simulated Ctrough —-Nominal Dosing Schedule Compared to Dosing Delay After
+First Full Dose (Scenario 3)
+
+Crrough Following First Full Dose
+Geo mean | Geo mean 95% Cl
+Simulated Cohort Description (ug/mL) (ug/ml)
+Nominal Dosing Schedule 7 days between first full dose 152 1.39, 1.66
+and second full dose
+Maximum Dose Delay without 42 days between first full dose 0.154 0.140, 0.170
+Required Re-priming and second full dose
+
+First full dose administered on Cycle 1 Day 15.
+Cl = confidence interval; Ctrough = concentration immediately prior to next dose; geo mean = geometric mean.
+
+Source: Reviewer analysis using dataset and model file provided by Applicant in response to 09 January 2023
+information request
+
+Scenario 4 (delay/re-priming after a Q2W full dose of 48 mg epcoritamab):
+e Simulation of scheduled dosing (reference).
+
+e Simulation of full dose (48 mg) given 6 weeks after full dose on Cycle 9 Day 1, followed
+by scheduled doses.
+
+77
+Version date: June 2022 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5176690
+

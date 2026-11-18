@@ -1,0 +1,52 @@
+NDA 216951
+Jesduvrog (daprodustat)
+
+For the safety endpoint of pulmonary embolism, no subject had an event in this population, so no
+model results are available. For the endpoints of hospitalization for heart failure, stroke, and deep
+vein thrombosis there were too few events in all levels of the covariates. Therefore, results
+should be interpreted with caution.
+
+Therefore, E-R for safety analysis showed no differences between the average Cmax up to the
+event (in those with the event) vs. the average C,,,.x for 52 weeks (in those without the event);
+hence daprodustat C,,.x is not a significant factor in any of these safety measures.
+
+Reviewer’s Comments
+
+Applicant’s E-R for safety analysis appears reasonable. In summary, there were no statistically
+significant E-R relationships between daprodustat PK exposures-C,,,x and safety endpoints,
+including all stroke (fatal and nonfatal), all deep vein thrombosis (fatal and nonfatal), and all
+pulmonary embolism (fatal and nonfatal) in study studies 200807/ASCEND-D and
+204837/ASCEND-TD.
+
+oa)
+
+14.6. Physiologically Based Pharmacokinetic
+Modeling Review
+
+Executive Summary
+
+The objective of this review is to evaluate the adequacy of the Applicant’s PBPK report
+regarding evaluation of daprodustat’s (GSK1278863) drug-drug interaction with a moderate
+CYP2C8 inhibitor clopidogrel using physiologically based pharmacokinetic (PBPK) modeling to
+support the intended uses. Specifically, the Applicant applied the PBPK modeling approach to
+assess the effects of clopidogrel on the exposure of daprodustat, following multiple dose
+administration of daprodustat. The Division of Pharmacometrics has reviewed the PBPK report,
+supporting modeling files, and the Applicant’s responses to FDA’s information request (IR)
+submitted on July 15, 2022, and concluded that the effects of clopidogrel on the PK profiles of
+daprodustat following multiple oral dose administration in healthy subjects were potentially
+underpredicted because the clopidogrel PBPK model was not reliably validated.
+
+Background
+
+Daprodustat, a HIF PHI, is proposed for the treatment of anemia due to chronic kidney disease in
+adults on dialysis and not on dialysis. The starting dose of daprodustat is based on the patient’s
+dialysis status and hemoglobin level. For those switching from an erythropoiesis stimulating
+agent (ESA) to JESDUVROQ, the dose is based on their existing ESA dose. For details of the
+proposed dose regimen, please refer to the labeling of daprodustat. The dosage form of
+daprodustat is a tablet with different strengths (1 mg, 2 mg, 4 mg, 6 mg, and 8 mg).
+
+318
+Integrated Review Template, version 3.0 (05/25/2022)
+[To complete this review, detailed instructions are available in the Integrated Review Template How-to Guide.]
+
+Reference ID: 5119138

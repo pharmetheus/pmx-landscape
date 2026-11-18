@@ -1,0 +1,121 @@
+NDA 215192
+
+Report No. 151292VRM_AKCM_R1/R2 187190AULR
+Analyte Vadadustat (vada), Vadadustat-O- Vada, vada-OG
+Glucuronide (vada-OG), and
+Vadadustat-Acyl-Glucuronide (vada-
+AG)
+Matrix Human plasma Human plasma
+Assay method Turbo ion spray LC-MS/MS Turbo ion spray LC-MS/MS
+Sample preparation SPE SPE
+Internal standard d3-vada, Cay] d3-vada, Ce
+LLOQ (ng/mL) Vada: 100 Vada: 100
+Vada-OG: 5 Vada-OG: 100
+Vada-AG: 5 Vada-AG: 10
+
+Calibration curve range
+(ng/mL)
+
+Vada: 100 to 20000
+Vada-OG: 100 to 20000
+Vada-AG: 10 to 2000
+
+Vada: 100 to 20000
+Vada-OG: 100 to 20000
+
+Standard calibration curve
+performance during accuracy
+and precision runs
+
+Number of standard calibrators from
+LLOQ to ULOQ: 9
+
+Cumulative accuracy (% RE) from
+LLOQ to ULOQ:
+
+Vada: -1.5% to 1.0%
+Vada-OG: -0.8% to 1.0%
+Vada-AG: -1.3% to 1.0%
+
+Cumulative precision (% RSD) from
+LLOQ to ULOQ:
+
+Vada: <3.4%
+Vada-OG: <6.4%
+Vada-AG: <6.7%
+
+Number of standard calibrators
+from LLOQ to ULOQ: 8
+
+Cumulative accuracy (% bias) from
+LLOQ to ULOQ:
+
+Vada: -2.20% to 2.48%
+Vada-OG: -1.94% to 2.72%
+
+Cumulative precision (% CV) from
+LLOQ to ULOQ:
+
+Vada: $3.92%
+Vada-OG: <6.51%
+
+Performance of QCs during
+accuracy and precision runs
+
+Cumulative accuracy (%RE) in 5
+QCs:
+
+Vada: 1.0% to 5.3%
+
+Vada-OG: 0.0% to 4.8%
+
+Vada-AG: 0.0% to 9.0%
+Inter-batch %CV:
+
+Vada: <6.1%
+
+Vada-OG: <7.5%
+
+Vada-AG: <7.8%
+
+Cumulative accuracy (%bias) in 4
+QCs:
+
+Vada: 1.28% to 3.50%
+
+Vada-OG: -3.36% to -1.17%
+Inter-batch %CV:
+
+Vada: $5.22%
+
+Vada-OG: <7.31%
+
+Selectivity (6 total lots tested)
+
+Analyte/IS: s5%
+
+-0.23% and -4.44% mean bias for
+vada and vada-OG
+
+Matrix effect
+
+6 lots tested
+Normalized Matrix
+Factor as Mean (%CV)
+Vada: 1.00 (0.7)
+Vada-OG: 0.96 (1.8)
+
+8 lots tested
+Vada:
+
+Mean IS-Normalized matrix
+factor: 0.962 and 0.981, CV:
+2.23% and 2.46%
+
+Vada-OG:
+
+317
+
+Integrated Review Template, version 2.0 (04/23/2020)
+
+Reference ID: 4960499

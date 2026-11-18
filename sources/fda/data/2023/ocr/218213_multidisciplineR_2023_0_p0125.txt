@@ -1,0 +1,54 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 218213}
+Repotrectinib (BMS-986472)
+
+Table 37. FDA Primary Endpoints in Pooled EXP-1 and EXP-4 Cohorts at Primary and Updated
+DCOs (Efficacy Analysis Set)
+
+Pooled EXP-1 Pooled EXP-4
+TKI-Naive TKI-Pretreated
+(N=71) (N=56)
+Primary DCO | Updated DCO PrimaryDCO | Updated DCO
+ORR
+Confirmed ORR, % (95% Cl) 79 (68, 88) 38 (25, 52)
+Complete Response 6 10 5 5
+Partial Response 73 69 32 32
+DOR
+Confirmed Responses, n 56 21
+Events, n (%) 12 (21) 15 (27) 8 (38) 11 (52)
+Median DOR, months (95% Cl)*_| 27.4 (23.1, NE) | 34.1 (25.6, NE) 17.8 (7.6, NE) 14.8 (7.6, NE)
+Range, months 1.4+, 35.14 1.44, 42.44 37,178 3.6, 22.9+
+% DOR 212 months? 52 70 19 48
+
+Abbreviations: Cl = confidence interval, NE: not estimable, +: ongoing response
+* Median DOR (95% Cl) are based on Kaplan-Meier estimates.
+© DOR landmark analysis is based on the observed DOR.
+
+Impact of potential informative censoring on DOR estimation
+
+FDA identified informative censoring as one of the potential factors impacting robustness of
+DOR estimates. Among the 56 responders in Pooled EXP-1, DOR was censored for 41 patients.
+Of the 41 patients, 6 patients received subsequent anti-cancer therapy (ACT) in the absence of
+disease progression per BICR before the updated DCO. Of the 6 patients, 4 had radiographic
+disease progression per investigator only. These 6 patients were censored at the last evaluable
+tumor assessment per BICR prior to the start of new ACT.
+
+Among the 21 responders in Pooled EXP-4, DOR was censored for 10 patients. Of the 10
+patients, 2 patients received subsequent ACT in the absence of disease progression per BICR
+before the updated DCO. Both of these patients had radiographic disease progression per
+investigator only and were censored at the last evaluable tumor assessment per BICR prior to
+the start of new ACT.
+
+In response to an Information Request dated October 19, 2023, to evaluate the potential
+impact of informative censoring on DOR, the Applicant conducted sensitivity analyses by
+treating those patients who were censored prior to new ACT as events. Median DOR in the
+Pooled EXP-1 changed from 34.1 months (95% Cl 25.6, NE) to 27.4 months (95% Cl 23.1, NE),
+and remained similar in the Pooled EXP-4.
+
+In summary, the magnitude and durability of the response rates observed for repotrectinib are
+124
+
+Version date: June 2022 (ALL NDA/ BLA reviews)
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5277412

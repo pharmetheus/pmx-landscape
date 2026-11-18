@@ -1,0 +1,57 @@
+505(b)1 NME NDA 214985
+Daridorexant (Quviviq) for Insomnia
+
+Statistical Reviewer Comment: a
+
+A
+significant p-value can support a conclusion that there is a treatment difference.
+However, a nonsignificant p-value can only support the conclusion that there is not
+enough evidence to reject the assumption of no treatment difference. The symmetry
+analysis is not a proper analysis for the purpose of the study.
+
+Results
+
+Assay Sensitivity
+
+On both Day 2 and Day 5, zopiclone separated from placebo demonstrating assay sensitivity.
+The p-values are both <0.0001, see Table 128.
+
+Table 128. Assay Sensitivity Analysis: Difference in SDLP (cm) Between Zopiclone and Placebo
+(Driving Performance Set)
+
+——— Difference to placebo —-——
+p-value for
+Sched. period day 95% CI 95% CI threshold 0 cm
+Treatment _m LSM of LSM SE | LSM of LSM ~— SE (one-sided)
+Day2 |
+Zopiclone 57 42.13 40.06,44.21 1056 | 475 3.23,6.26 0.770 <.0001*
+Placebo 58 37.39 = 35.32,3946 = 1.053 |
+Day 5 |
+Zopiclone 5638.94  36.97,40.91 1.001 | 2.37 119,356 0.602 0001*
+Placebo 58 36.56 34.60, 38.52 0.997 |
+
+CI = confidence interval, LSM = least square mean, n = number of subjects. SE = standard error. The null hypothesis
+that the mean difference of zopiclone - placebo in SDLP on Day 2 and 5 is < 0 cm was tested at the 1-sided 2.5%
+significance level. Analysis was performed using mixed-effect model for repeated measurements (MMRM). Source:
+Table 15-71 (Table DP_TEST1). Production date: 14Nov2019.
+
+Source: Applicant's CSR, Page 100.
+
+Analysis for Primary Endpoint
+
+On Day 2, the test for the 50-mg dose of daridorexant failed to reject (p=0.2991) the null
+hypothesis that daridorexant had at least a ASDLP 22.6 cm, see Table 129 and Figure 61. The
+50-mg dose had an increase in SDLP of 2.19 cm (97.5% CI: 0.46 to 3.93) compared to placebo.
+The Day 2 testing stopped at this point. The 100-mg dose had an increase in SDLP of 4.43 cm
+(97.5% CI: 2.72 to 6.15) compared to placebo.
+
+On Day 5, the test for the 50-mg dose of daridorexant rejected (p=<0.0001) the null hypothesis
+
+that daridorexant had at least a ASDLP =2.6 cm, see Table 129 and Figure 61. The 50-mg dose
+had an increase in SDLP of 0.26 cm (97.5% CI: -1.08 to 1.59) compared to placebo. Continuing
+down the testing hierarchy, the test for the 100-mg dose of daridorexant rejected (p=0.0027) the
+
+283
+Integrated Review Template, version 2.0 (04/23/2020)
+
+Reference ID: 4916689

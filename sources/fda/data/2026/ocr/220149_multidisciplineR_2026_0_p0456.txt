@@ -1,0 +1,39 @@
+NDA 220149 Icotrokinra (INJ-77242113)
+
+Page 25 of 29
+
+Table 6A: Tumor Rates and P-Values for Dose Response Relationship and Pairwise Comparisons
+Male Mice Using Poly-3 test
+
+0 mg Vehicle 50 mg 150 mg 500 mg 500 mg Positive
+Cont (N=25) | Low (N=25) | Med (N=25) | High (N=25) | Cont (N=10)
+Organ Name Tumor Name P-Trend | P-Cvs.L | P-Cvs.M| P-Cvs.H P-VC vs. P
+Gland, Harderian Adenoma 1/25 (23) 1/25 (24) 0/25 (24) 0/25 (25) 0/0 (.)
+0.9445 0.7660 1.0000 1.0000 NC
+Hemolymphoreticular | Lymphoma, 0/25 (23) 0/25 (24) 1/25 (25) 0/25 (25) 0/0 (.)
+Tissue Malignant 0.5155 NC 0.5208 NC NC
+Lung Bronchioloalveolar 3/25 (23) 1/25 (24) | 3/25 (24) 1/25 (25) 15/15 (15)
+Adenoma 0.7915 0.9504 0.6878 0.9545 <0.0001*
+Bronchioloalveolar 0/25 (23) 0/25(24) | 0/25 (24) 1/25 (25) 1/15 (3)
+Carcinoma 0.2604 NC NC 0.5208 0.1154
+Bronchioloalveolar 3/25 (23) 1/25 (24) | 3/25 (24) 2/25 (25) 15/15 (15)
+Adenoma/Carcinoma 0.5805 0.9504 0.6878 0.8511 <0.0001*
+Spleen Hemangioma 1/25 (23) 0/25(24) | 0/25 (24) 0/25 (25) O/15 (2)
+1.0000 1.0000 1.0000 1.0000 1.0000
+Hemangiosarcoma 2/25 (23) 1/25 (24) 2/25 (24) 0/25 (25) 6/15 (7)
+0.9010 0.8908 0.7121 1.0000 0.0003*
+Thymus Hemangiosarcoma 0/25 (23) 1/24 (24) 0/23 (22) 0/25 (25) 0/0 (.)
+0.7553 0.5106 NC NC NC
+Whole Body Hemangioma / 3/25 (23) 2/25 (25) 2/25 (24) 0/25 (25) 6/15 (7)
+Hemangiosarcoma 0.9685 0.8511 0.8395 1.0000 0.0009*
+
+& X/ZZ (YY): X=number of tumor bearing animals; YY=mortality weighted total number of animals, ZZ=unweighted total number of animals
+
+observed;
+NC = Not calculable
+
+*: Statistically significant at 0.005 and 0.025 for common and rare tumors, respectively in dose response relationship (trend) tests and
+significance levels of 0.01 and 0.05 for common and rare tumors, respectively in pairwise comparisons.
+
+Reference ID: 5669827
+

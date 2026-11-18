@@ -1,0 +1,65 @@
+FDA Table 58: Summary Method Performance of Bioanalytical Method 98AZHPP to
+Measure Camizestrant in Human K2-EDTA Plasma
+
+Bioanalytical method validation
+report name and amendments
+
+Human Plasma by LC/MS/MS
+
+© Study No 8445246: Validation of a Method for the Determination of AZD9833 in
+
+Method description
+
+precipitation followed by LC/MS/MS.
+
+A method (98AZHPP) was validated for measuring camizestrant in human plasma (K2-
+EDTA). Samples were analyzed using a 25 1L aliquot volume and processed by protein
+
+Materials used for calibration curve
+and concentration
+
+[Human plasma (K2-EDTA)
+
+[Reference material: camizestrant
+
+(Calibration standard concentrations: 0.500, 1.00, 4.00, 15.0, 50.0, 200, 425, and 500 ng/mL
+
+Validated assay range [0.500 to 500 ng/mL.
+Material used for QCs and |Human plasma (K2-EDTA)
+concentration [Reference material: camizestrant
+IQC levels: 0.500, 1.50, 20.0, 200, 400, and 4000 ng/mL
+Minimum required dilutions NA
+Source and lot of reagents NA
+Regression model and weighting Linear I/x2
+Validation Parameters Method Validation Summary Acceptability
+Standard calibration curve Number of standard calibrators from 8 Yes
+performance during accuracy and | LLOQ to ULOQ
+precision Cumulative accuracy (%bias) from -2.0% to 4.0% Yes
+LLOQ to ULOQ camizestrant
+Cumulative precision (%CV) from 1.4% to 4.6% Yes
+LLOQ to ULOQ camizestrant
+QCs performance during accuracy Cumulative accuracy (“bias) in 6 QCs | -2.3% to 1.0% Yes
+and precision QCs for camizestrant
+Inter-batch %CV 4.2% to 6.0% Yes
+QCs for camizestrant
+Selectivity and matrix effect 6 different lots tested. Yes
+
+9.2
+
+\Camizestrant Matrix effect (LLOQ): %RSD 7.4, %Bias -5.4 to]
+
+345
+
+Version date: March 1, 2024 (All NDA/BLA reviews)
+
+In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the Applicant,
+which do not necessarily reflect the positions of the FDA.
+
+The FDA review was conducted in conjunction with other regulatory authorities under Project ORBIS. The FDA
+collaborated with Australia’s Therapeutic Goods Administration (TGA), Brazilian Health Regulatory Agency
+(ANVISA), Health Canada (HC), Singapore’s Health Sciences Authority (HSA), and Switzerland’s Swissmedic
+(SMC). While the conclusions and recommendations expressed herein reflect the FDA’s completed review of the
+application, the applications may still be under review at the other regulatory agencies.
+
+Reference ID: 5864804
+

@@ -1,0 +1,58 @@
+BLA Multi-disciplinary Review and Evaluation {Biologics License Application (BLA) 761324
+{epcoritamab}
+
+not including the SMCIA-139 PK data had little or no impact on the final epcoritamab PPK
+model.
+
+A third assay, referred to as the ECLIA-101 assay, was developed and validated during the
+epcoritamab development program, but the data were not used in this submission.
+
+19.4.3.1. Validation
+
+In the ECLIA-139 assay, epcoritamab is captured with a biotinylated antibody, directed against
+the idiotype of IgG1-huCACAO-FEAL of epcoritamab, which is bound to a streptavidin-coated
+microtiter ECL plate. ASULFO-TAG conjugated detection antibody directed against the
+lgG1-7D8-FEAR arm of epcoritamab binds to the captured epcoritamab molecule [Figure 18
+(right)]. After incubation, electrochemical stimulation is initiated. Elicited SULFO-TAG label
+emits light at 620 nm, which is measured with an MSD-ECL plate reader. The amount of emitted
+light is an indirect readout for the concentration of epcoritamab in the sample.
+
+Table 88: Method validation parameters for ECLIA-139 assay
+
+Validation Parameters ECLIA-139 (GNM20420-20420X-B)
+Analyte Epcoritamab
+Detection Electrochemiluminescence sandwich immunoassay [see Figure 18
+(left) and description above]
+Anticoagulant K2EDTA plasma
+Range 10.0 to 1000 ng/mL, with anchor points at 1.00 ng/mL, 7.50 ng/mL
+and 1500 ng/mL
+Minimum Required Dilution 1:20
+Calibrators Concentrations 10, 25, 100, 250, 500, 750, 900, 1000 ng/mL
+Regression model and weighting 4-parameter logistic with 1/Y? weighting factor
+Anchor points 1, 7.5, 1500 ng/mL.
+Quality Controls 10 (LLOQ), 30, 150, 750, and 1000 (ULOQ) ng/mL
+Intra/Inter-assay Precision at LLOQ <10% / <9.6%
+(%CV)
+Intra/Inter-assay Accuracy at LLOQ 4.6 to 5.7% / 5.5%
+Total Error <19.4%
+Inter/Intra-assay Precision (%CV) <11% / <8.1%
+Inter/Intra-assay Accuracy (% accuracy) | -12.5 to 14.1% / -2.4 to 3.5%
+Selectivity (accuracy %) Healthy subjects: 90% of 10 blank lots had no interference.
+90% of 10 lots spiked at the LLOQ were <20% of the
+nominal concentration.
+Disease State: 100% of 30 blank lots had no interference.
+70% of 30 lots spiked at the LLOQ were <25% of
+nominal concentration.
+Hemolysis: <LLOQ in blank lot
+2 of 3 replicates at the LLOQ were <25% of nominal
+concentration
+Lipemic: All replicates at the LLOQ were <25% of nominal
+concentration
+
+260
+Version date: June 2022 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5176690

@@ -1,0 +1,26 @@
+SAGE-217 (zuranolone) Page 17 of 30
+MaleRats _Poly-3 Test
+0 mg Vehicle] 0 mg Water 2mg 6mg 20mg
+Cont (N=70)} Cont(N=70) | Low(N=70) | Med (N=70) | High (N=70)
+Organ Name Tumor Name P-Trend |P-VCvs.W|P-VCvs.L| P-VCvs.M]| P- VC vs.H
+Thymus Thymoma, Malignant 0/70 (33) 0/70(32) | 0/70G0) | 1/701) 0/70 (27)
+0.4793 NC NC 0.4844 NC
+Thyroid Gland Adenoma,C-Cell,Benign | 10/70(38) | 7/70(35) | 6/70(32) | 8/70(33) | 4/70(29)
+0.8666 NC 0.8501 0.6808 0.9421
+Adenoma, Follicular Cell, 1/70 (34) 0/70 (32) 0/70 (30) 0/70 (30) 0/70 (27)
+Benign 1.0000 NC 1.0000 1.0000 1.0000
+Carcinoma, FollicularCell, | 1/7034) | 0/702) | 1/700) | 1/70(30) 1/70 (28)
+Malignant 0.4663 NC 0.7217 0.7217 0.7033
+Urinary Bladder Leiomyoma, Benign 0/70 (33) 0/70 (32) 0/70 (30) 0/70 (30) 1/70 (28)
+0.2314 NC NC NC 0.4590
+Leiomyosarcoma, Malignant] 0/70(33) | 0/70(32) | 0/70(30) | 1/7030) | 0/70(27)
+0.4750 NC NC 0.4762 NC
+Zymbal’S Gland Carcinoma, Zymbals Gland} 0/70 (33) 1/70 (32) 1/70 (31) 0/70 (30) 2/70 (29)
+Malignant 0.0939 NC 0.4844 NC 0.2147
+
+‘& X/ZZ (YY): X=number of tumor bearing animals: YY=mortality weighted total number of animals; ZZ=unweighted total number of animals
+
+observed:
+
+Reference ID: 5174472
+

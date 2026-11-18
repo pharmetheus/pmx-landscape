@@ -1,0 +1,54 @@
+NDA 218171
+ENSACOVE (ensartinib)
+
+Conclusion
+
+The safety profile of ensartinib is acceptable in the context of the intended indication, for the
+treatment of adult patients with ALK-positive locally advanced or metastatic NSCLC who have
+not previously received an ALK-inhibitor.
+
+8. Therapeutic Individualization
+
+8.1. Intrinsic Factors
+
+No clinically significant differences in the PK of ensartinib were observed based on age (20 to 86
+years), sex, race (Asian versus White), body weight (38 to 148 kg), mild to moderate renal
+impairment (estimated glomerular filtration rate (eGFR) 30 to 89 mL/minute) and mild hepatic
+impairment (total bilirubin < upper limit of normal (ULN) and AST > ULN or total bilirubin 1 to
+1.5 x ULN and any AST) based on the updated population PK (popPK) analysis (refer to the
+pharmacometrics review in Section 14.5.1). Therefore, no alternative dosing regimen is required
+for any of these subpopulations.
+
+Hepatic Impairment
+a)
+
+Instead, the assessment of HI using National Cancer Institute Organ Dysfunction Working Group
+criteria was used to evaluate the impact of HI on ensartinib exposure in the popPK analysis. In
+Studies X396-CLI-101 and X396-CLI-301, 161 patients were identified with normal hepatic
+function (total bilirubin < ULN and AST < ULN) and 60 patients were identified with mild
+hepatic impairment (total bilirubin < ULN and AST > ULN or total bilirubin 1 to 1.5 x ULN and
+any AST). No patients were identified with moderate hepatic impairment (total bilirubin >1.5 -
+3.0 x ULN and any AST). Ensartinib exposure was slightly lower in patients with mild HI
+(n=60) compared to those with normal hepatic function (n=161) as shown in Table 41 below.
+
+Table 41. Comparison of Ensartinib Exposure by Hepatic Function Using NCI-ODWG Criteria
+
+Normal Hepatic Function (n=161) Mild HI (n=60)
+Parameter Mean (SD) Mean (SD)
+AUC, (ng-hr/mL) 6382 (3464) 5257 (1851)
+Crraxss (ng/mL) 312 (150) 261 (88)
+Chines (NG/ML) 214 (140) 172 (71)
+
+Source: Table 6 in Sponsors 2nd Response to IR March 19, 2024 submitted on April 29, 2024
+Abbreviations: AUC.., area under the concentration-time curve over a dosage interval at steady state; C,,,.,..., Maximum plasma
+concentration at steady state; Cmin.ss, minimum plasma concentration at steady state; HI, hepatic impairment; NCI-ODWG, National
+Cancer Institute Organ Dysfunction Working Group; SD, standard deviation
+
+Therefore, no dosage adjustment is recommended for patients with mild HI. Given no data are
+available to characterize ensartinib PK in patients with moderate and severe HI, a dedicated
+hepatic impairment study in this patient population is required as a post-marketing study.
+
+81
+Integrated Review Template, version 4.0 (11/1/23)
+
+Reference ID: 5498774

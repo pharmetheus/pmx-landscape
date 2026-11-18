@@ -1,0 +1,55 @@
+NDA/BLA Multi-disciplinary Review and Evaluation — NDA 219972
+Sevabertinib (BAY 2927088) — Version 2.0
+Table 44. Summary of Efficacy Results in Study 21607 - Group E, as of 28 MAR 2025 (FAS)
+
+BICR Investigator
+As of 14 OCT 2024 Updated DOR All Responders All Responders
+(for reference) 4 Confirmed Responders * as of 28 MAR 2025' as of 28 MAR 2025'
+N=55 N=55 N=55 N=55
+Response endpoints n(%) [95% Cl] n(%) [95% Cl] n(%) [95% Cl]
+ORR® 19 (34.5%) [22.2, 48.6] 21 (38.2%) [25.4, 52.3] 21 (38.2%) [25.4, 52.3]
+DcR® 38 (69.1%) [55.2, 80.9] 39 (70.9%) [57.1, 82.4] 36 (65.5%) (51.4, 77.8]
+CR 3 (5.5%) 3 (5.5%) 0
+PR 16 (29.1%) 18 (32.7%) 21 (38.2%)
+sD 25 (45.5%) 23 (41.8%) 22 (40.0%)
+DOR Months 195% Cl] Months 195% Cl] Months 195% Cl] Months 195% Cl]
+Median DOR (range) © 8.5 (1.0"-13.2") (4.1, A] 7.0 (1.0°-17.2") [5.6, A] 7.0 (1.0°-17.2") [5.6, A] 71 (2.8-17.2*)| (5.4, 16.4]
+
+A=Value cannot be estimated due to censored data; BICR=Blinded independent central review, Cl=Confidence interval; CR=Complete response; CT=Computed tomography,
+DCR=Disease control rate; DOR=Duration of response; FAS=Full analysis set, MRI=Magnetic resonance imaging, N=Total number of participants; n=Number of participants
+with an event; ORR=Objective response rate; PR=Partial response; RECIST=Response Evaluation Criteria in Solid Tumors; SD=Stable disease
+
+*: Censored observation
+
+a: Participants with confirmed CR or PR.
+
+b: Participants with confirmed CR or confirmed PR or SD for at least 12 weeks.
+
+c: Including censored values. Calculated for the subset of participants with confirmed CR or PR.
+
+d: Results from the database cut-off date 14 OCT 2024, provided as a reference (ie, results from the previous clinical study report B003047), see Table 48
+
+e: Updated DOR results providing cumulative data up to 28 MAR 2025, for those participants with a confirmed response as of 14 OCT 2024 (ORR, DCR, CR, PR, and SD results
+are the same as of 14 OCT 2024).
+
+f Results for all responders as of the database cut-off date 28 MAR 2025.
+
+Notes:
+
+RECIST version 1.1
+
+CTI/MRI scans for confirmation of PR or CR were performed no sooner than 4 weeks after the initial scan demonstrating PR or CR.
+
+Response endpoints: Number (percentages) and 95% Cl for percentages of participants. 95% Cl by exact binomial calculation.
+
+Time-to-event-endpoints: Median and 95% Cls were calculated using Kaplan-Meier estimates. The 95% Cls for the median were calculated using a log-log transformation.
+
+Source: Module 5.3.5.2, Report B004166, t_14_2_1_adrs_recist.sas, t_14_2_2_tte_dorkm14.sas, t_14_2 2 tte_dorkm28.sas (Datasets ADRS, ADSL, and ADTTE)
+
+180
+Version date: March 1, 2024 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the Applicant and do not necessarily reflect the
+positions of the FDA.
+
+Reference ID: 5697816

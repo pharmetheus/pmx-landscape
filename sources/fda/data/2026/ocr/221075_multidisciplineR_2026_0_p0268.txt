@@ -1,0 +1,26 @@
+NDA/BLA Multi-disciplinary Review and Evaluation NDA 221075
+Iberdomide (ZENBEXUS)
+Table 86: FDA — Summary of subjects receiving different formulations by study
+
+Formulation CC-220-MM-001 CC-220-MM-002
+Fl 79 0
+FI+F2 2 0
+F2 3 0
+F3 75 343
+Missing 6 0
+
+Source: Table 2.1-1 in Response to FDA Information Request Received Feb 3, 2026
+
+The parameter estimates for updated PopPK model is listed in Table 87. The effect of
+formulation (F1 vs F3) on CL was a statistically significant covariate, but the magnitude of effect
+was ~ 0% (calculated as exp(estimate) and was not considered to be clinically meaningful.
+Food effect was not evaluated due to data feasibility, as no protocol was included for food-intake
+restrictions or standardized meal condition at dosing.
+
+269
+Version date: February 10, 2025 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant's Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5851050

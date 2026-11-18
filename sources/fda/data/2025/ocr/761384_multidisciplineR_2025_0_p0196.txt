@@ -1,0 +1,57 @@
+NDA/BLA Multi-disciplinary Review and Evaluation — BLA 761384
+Telisotuzumab Vedotin
+
+Model Structure Telisotuzumab vedotin conjugate: two-compartment
+PK model with linear elimination and ITV on CL
+and Ve
+
+MMaAE: one-compartment PK model with
+first-order deconjugation rate from the
+telisotuzumab vedotin conjugate (Ka), linear
+elimination and ITV on CL, Ve and Ka with the
+inclusion of correlation between CL and Ve
+
+Model Parameter Estimates Table 37 and Table 38 Yes
+Uncertainty and Variability (RSE, | Telisotuzumab vedotin conjugate: All structural PK | Yes
+ITV, Shrinkage, Bootstrap) parameters in the conjugate model were estimated
+
+with a relative standard error < 23.1%. The
+shrinkages for telisotuzumab vedotin conjugate CL
+and Ve were 4.03% and 13.0% respectively. The
+IIV on CL and Ve was 31.5% and 16.5%,
+respectively.
+
+All structural PK parameters in the MMAE model
+were estimated with a relative standard error
+
+< 29.3%. The shrinkages for free MMAE payload
+CL, Ve and Ka were 4.64%, 14.2% and 18.2%,
+
+respectively.
+BLQ for Parameter Accuracy BLQ values were included by imputing BLQ Yes.
+concentrations with LLOQ/2 and excluding There were total of
+
+subsequent BLQs. Hence, there were 28 (0.415%) 6% and 4.7% BLQs
+and 21 (0.314%) values excluded because of BLQ for conjugated and
+for conjugate and MMAE respectively. Due to the MMAE,
+
+small fraction of BLQ values that were excluded, a_| respectively. M6
+sensitivity analyses were not deemed necessary. method (excluding
+succeeding BLQs)
+is not most
+appropriate but
+acceptable given the
+small percentage of
+BLQs and minimal
+exclusion.
+
+GOF, VPC (Figure 7, Figure 8, Figure 9, Figure 10) Yes
+The final models adequately described the PK data.
+
+195
+Version date: March 1, 2024 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as "Data" and "The Applicant's Position" are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5590242

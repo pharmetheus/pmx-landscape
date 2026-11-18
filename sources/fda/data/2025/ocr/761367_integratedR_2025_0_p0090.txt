@@ -1,0 +1,64 @@
+BLA 761367
+Andembry / garadacimab
+
+Table 35. Listing of Subjects With Any Abnormal aPTT Measurement, Safety Population
+(Garadacimab 200 mg Group), Trial 3001
+
+Study Day
+Subject ID Screening Day 91 Day 182 Day 272 Day 362 Day 452
+a 37.5 59.4H 95.5H 88.7H 114H
+28 29 67H 30.6 27.9 29.9
+30.6 33.6 126H 36.4 38.7
+
+Source: Clinical reviewer using ADLB xpt files from trial 3001 and study 3002.
+Abbreviations: aPTT, activated partial thromboplastin time; H, high; ID, identity
+
+Pooled PK Analysis by aPTT
+
+Further analyses were conducted exploring the real-time relationship between garadacimab
+plasma concentrations and aPTT prolongation using data from subjects with HAE in trial 3001,
+which evaluated the proposed maintenance dose of 200 mg SC once monthly. The relationship
+between garadacimab plasma concentration and aPTT was generally flat in trial 3001 when
+subjects received the proposed maintenance dose of 200 mg SC once monthly (see Figure 12).
+Some data points fell above the general trend, and these represent subjects with prolonged aPTT.
+These subjects have been described above.
+
+Figure 12. Real-Time Relationship Between aPTT and Garadacimab Plasma Concentrations,
+
+Trial 3001
+140 © Garadacimab (N=39)
+120 ° © Placebo (N=25)
+Z 100 .
+5
+8
+3 80
+2 .
+E 60 .
+E 40 ee
+i CPO Oct) a, a
+20 °
+°
+
+0 5 10 15 20
+
+Garadacimab Plasma Concentration (ug/ml)
+
+Source: Reviewer's analysis using adpc.xpt and adlb.xpt datasets.
+Note that in trial 3001, only garadacimab trough concentrations were measured.
+Abbreviations: aPTT, activated partial thromboplastin time; HAE, hereditary angioedema
+
+Prothrombin Time
+
+As presented in Table 36, there were a total of six subjects with prolonged prothrombin time
+(PT) >1.3x ULN (normal range 9.8 to 12.1) in the garadacimab group (two of whom are
+mentioned above) and one subject in the placebo group (not shown). Most prolongations were
+singular events that resolved without garadacimab dose modification or treatment
+discontinuation. There was no clear correlation with other concomitant medications or other
+underlying conditions or risk factors. None of the subjects experienced clinical manifestations of
+bleeding diatheses or thromboemboli. Again, of note, subject ©) reported taking
+apixaban (Factor X inhibitor), which may prolong PT.
+
+66
+Integrated Review Template, version 3.0 (05/25/2022)
+
+Reference ID: 5458438

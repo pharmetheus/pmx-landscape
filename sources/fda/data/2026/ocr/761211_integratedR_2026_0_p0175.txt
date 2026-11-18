@@ -1,0 +1,71 @@
+BLA 761211
+
+LOARGYS (pegzilarginase)
+Pegzilarginase Placebo
+N=21 N=11 Risk Difference
+Laboratory Parameter n/Nw (%) n/Nw (%) % (95% Cl)
+Coagulation studies
+PTT, high (sec)
+Level 1 (>1X ULN) 11/20 (55.0) 7/11 (63.6)  -8.6 (-40.8, 27.4)
+Level 2 (>1.21X ULN) 3/20 (15.0) 4/11 (36.4) -21.4 (-53.2, 9.4)
+Level 3 (>1.41X ULN) 2/20 (10.0) 0/11 (0) _ 10.0 (-17.6, 30.5)
+
+Source: adib.xpt; Software: R
+
+Threshold levels 1, 2, and 3 as defined by the Standard Safety Tables and Figures: Integrated Guide (CDER 2021).
+
+Duration is 24 weeks.
+
+Risk difference (with 95% confidence interval) is shown between total treatment and comparator.
+
+In addition to central laboratory data, local laboratory data may be included in the analysis, if applicable.
+
+Abbreviations: Cl, confidence interval; dec., decrease; N, number of subjects in treatment arm, n, number of subjects meeting
+criteria; N,,, number of subjects with data; PTT, partial thromboplastin time; ULN, upper limit of normal; sec, second(s); WBC, white
+blood cells
+
+7.6.1.7. Assessment of Drug-Induced Liver Injury
+Screening Analyses, Trial CAEB1102-300A
+
+Figure 35 shows a screening assessment for potential cases of serious drug-induced liver injury
+(DILD. Two potential cases were identified, which were both in pegzilarginase arm. Subject }@
+
+’s DILI occurred during the DB period, while Subject 16)’s event occurred during the
+LTE. The Division of Hepatology and Nutrition, DILI team was consulted to help assess these
+cases which are reviewed below.
+
+Figure 35. Hepatocellular Drug-Induced Liver Injury Screening Plot, Safety Population, Pooled
+Analyses, Trial CAEB1102-300A
+
+Fy
+
+Cholestasis Potential Hy’s Law
+
+“Subject oe
+
+Maximum Post basatine Birubin (xULN)
+
+Maximum Post-naseline ALT of AST (ULN)
++ Pegalarginase © Placebo
+
+Source: adlb.xpt; Software: R
+
+Each data point represents a subject plotted by their maximum ALT or AST versus their maximum total bilirubin values in the
+postbaseline period.
+
+A potential Hy’s Law case was defined as having any postbaseline total bilirubin equal to or exceeding 2X ULN after a postbaseline
+ALT or AST equal to or exceeding 3X ULN. Those subjects who meet total bilirubin equal to or exceeding 2X ULN criteria within 30
+days of the ALT or AST equal to or exceeding 3X ULN criteria are circled in red.
+
+The within 30 days analysis window rule does not apply to cholestasis and temple's corollary cases.
+
+All subjects with at least one postbaseline ALT or AST, bilirubin and ULN are plotted.
+
+In addition to central laboratory data, local laboratory data may be included in the analysis, if applicable.
+
+Abbreviations: ALT, alanine aminotransferase; AST, aspartate aminotransferase; ULN, upper limit of normal
+
+lll
+Integrated Review Template, version 4.0 (11/1/23)
+
+Reference ID: 5637517

@@ -1,0 +1,63 @@
+NDA Multidisciplinary Review and Evaluation
+NDA 220305
+Komzifti (ziftomenib)
+
+Organ Hepatic (NCI-ODWG): Normal, 137 (78.7%); Mild, 32
+impairment (18.4%): Moderate, 5 (2.9%)
+
+Renal (eGFR): Normal, 73 (42%): Mild, 66 (37.9%):
+Moderate, 21 (12.1%); Missing. 14 (8%)
+
+Pediatrics (if None.
+
+any)
+Geriatrics (if Geriatric patients were included in the ER analysis. The age
+any) range was 18-86 years.
+
+Dose(s) Included 200 mg and 600 mg QD
+
+Exposure Metrics Explored (range) | Steady state AUC, Cmax and Crrough
+
+Covariates Evaluated Age, sex, race, ethnicity, weight, height, BMI. BSA, markers
+of renal and hepatic functions, AML mutations, Eastern
+Cooperative Oncology Group performance status [ECOG],
+presence of P-gp inhibitors, presence of PPI and presence of
+CYP3A inducers or inhibitors.
+
+Final Model Parameters Summary Acceptability
+
+[FDA’s comments]
+
+Model Structure Various logistic regression models were | Adequate
+constructed to assess the statistical
+relationships between exposure,
+potential risk factors and the probability
+of responses based on the above six
+combinations of efficacy endpoints.
+Logistic regression models were
+constructed to assess the effects of
+ziftomenib. The best fitting model
+according to Akaike information
+criterion (AIC) was selected.
+
+Model Parameter Estimates Applicant Table 28 Adequate
+Model Evaluation AIC Adequate
+Covariates and Clinical Relevance | There were no covariates that had a Adequate
+
+clinically meaningful impact on
+
+treatment-emergent or treatment-related
+DS. There were no covariates that had a
+statistically significant relationship with
+
+Grade 4+ TEAEs.
+Simulation for Specific Population | None N/A
+Visualization of E-R relationships | Applicant Figure 8 Adequate
+299
+
+Version date: March 1, 2024 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5694243

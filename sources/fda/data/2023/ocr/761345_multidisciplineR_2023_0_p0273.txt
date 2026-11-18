@@ -1,0 +1,66 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {BLA 761345}
+elranatamab
+
+* selected QSP parameters. k,,,,: Binding of BsAB to BCMA; kori: Unbinding rate;
+Kaegsacma : Degradation of sBCMAskre,,,,5 T cell transport from central to BM;
+
+krcgy,iT cell transport from BM to central; Kaegcyt : Degradation of cytokines;
+
+ktreyt: Cytokine transit rates from BM to central; k»: Half saturation for tumor killing;
+Bproa: Basal cytokine production; CL: Clearance; F: Drug bioavailability;
+
+kq: Drug absorption rate; V-: Volume in central; V): Volume of peripheral;
+
+MM pax: Maximum tumor burden; T,esis: Time to resistance;
+
+Bresisi Rate of change of resistance; a;esis: Maximum addition resistance,
+
+yin: Kill constant nyiy: Cooperativity coef ficient kill constant,
+
+kgo: Exponential tumor growth rate; kg,: Linear tumor growth rate;
+BCMAgensity: Density of BCMA receptors per tumor cell;
+
+tu: Transit time to MM cell death; CD3 density: Density of CD3 receptors per T cell
+Source: IR response dated on Feb 10", 2023, and Table 1 from QSP report
+
+Reviewer's comments:
+
+Although Applicant’s QSP report is well-organized. Information request was issued to request
+technical documentation to facilitate a timely review. Example of technical documentation
+requested by reviewers include:
+
+e Executable scripts implicated in the studies/simulations in the QSP report: the scripts need to
+be well documented, with each line/block of scripts followed by relevant descriptions and
+notes.
+
+¢ Datafiles (input, intermediate and output datasets) implicated in all the studies and
+simulations in the QSP report.
+
+e Model equation files: a complete list of ODEs and any other mathematical equations used in
+the final QSP model, followed by proper definitions/descriptions.
+
+e Parameter definition files: a complete list of parameters each with its description, value,
+units, sources, and parameter specific assumptions.
+
+e Data utility file: a table describing all sources of data informing the QSP model parameters
+at different modeling stages.
+
+e Model assumption files: a complete list of model assumptions and corresponding
+justifications involved in the FINAL QSP model.
+
+e Hardware definition files: a complete list of hardware specifications, operating system, and
+all the software and tools used to reproduce the simulations in the QSP report.
+
+4. Model Output Uncertainty Analysis
+
+The plausible and virtual patient generation strategy was utilized by the Applicant to assess
+model output uncertainty with respect to parameters and initial conditions sampled ranges. To
+assess model uncertainty in the computed BRR, 10 virtual populations (VPops) were
+independently sampled from the total pool of 3,256 plausible patients. The variance of the
+summary statistics across VPops can be interpreted as a metric of uncertainty from multiple
+Version date: January 2020 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5226136

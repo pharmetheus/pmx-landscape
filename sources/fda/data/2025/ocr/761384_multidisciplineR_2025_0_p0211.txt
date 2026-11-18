@@ -1,0 +1,70 @@
+NDA/BLA Multi-disciplinary Review and Evaluation — BLA 761384
+Telisotuzumab Vedotin
+
+FDA Table 10: Parameter Estimates and Variability of Free MMAE Payload
+Pharmacokinetics — Final and Updated Model
+
+Population Estimate (%RSE)
+
+Parameter Original Updated
+
+OFV Cake -104795.66 |% Diff]
+CL (Widay) mar 49.9 (4.73%) oy
+Ve (L) 62.8 (5.6%)
+
+Ka (I/day) 0.154 (2.58%)
+
+Albumin on CL 1.75 (12.2%)
+
+Mild vs. Normal Renal Impairment on CL 0.835 (5.43%)
+Moderate/Severe vs. Normal Renal Impairment on CL 0.725 (7.04%)
+
+Age on Ka -0.449 (25.6%)
+
+Albumin on Ka -0.974 (19.3%)
+
+Black or African American vs. White on Ka 0.856 (15.3%)
+
+Asian vs. White on Ka 0.874 (4.43%)
+
+Body Weight on Vc 0.617 (29.5%)
+
+Baseline tumor on Fraction of 8 * 0.869 (24.3%)
+
+Proportional Error 0.0832 (0.9%)
+
+Additive Error 7.63 x 101° (4.6%)
+
+IIV on CL 0.221 (47%)
+
+IV on Ve 0.471 (68.6%)
+
+IIV on Ka 0.0737 (27.1%)
+
+Note:  %RSE was calculated as the standard error of the estimator divided by the absolute value of the mean of the estimator
+multiplied by 100. %CV was calculated as SQRT(exp(«”)-1)*100). *Baseline tumor size by Investigator normalized to
+median (67.5 mm) was parameterized with hill function on fraction of ADC carrying ©) for complete
+deconjugation.
+
+19.4.2. | Exposure-Response Analysis
+19.4.2.1. ER (efficacy) Executive Summary
+
+The FDA's Assessment:
+
+The E-R analysis for efficacy used Study M14-239 data of c-Met OE NSCLC patients mainly
+treated with 1.9 mg/kg Q2W dosage which showed a positive relationship between ORR and first
+cycle Cavg of conjugated ADC. The highest studied dosage of 1.9 mg/kg Q2W is anticipated to
+produce the largest efficacy.
+
+The dosage of 1.6 mg/kg Q2W (median 1* dose Cavg of conjugated ADC and free MMAE are
+14% and 28% lower than that of 1.9 mg/kg Q2W) was studied as a single arm cohort in 25 patients
+which suggested similar early efficacy (comparable ORR with a shorter DOR compared to that of
+1.9 mg/kg Q2W) and improved safety (lower rate of fatal TEAE and AE leading to dose
+
+210
+Version date: March 1, 2024 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as "Data" and "The Applicant's Position" are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5590242

@@ -1,0 +1,57 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 219249}
+{Inavolisib}
+
+Per the population PK (popPK) analysis, moderate renal impairment (creatinine clearance [CrCL]
+30 to <60 mL/min) increased inavolisib exposure (AUCo~;; by 42%). During review of the NDA,
+on August 7, 2024, the Applicant submitted the interim CSR for the ongoing clinical renal
+impairment study. Participants with moderate renal impairment (eGFR 30 to <60 mL/min; n=7)
+or normal renal function (eGFR >90 mL/min; n=7) received a single dose of inavolisib 6 mg.
+Inavolisib AUCo. was 60% higher in participants with moderate renal impairment than
+participants with normal renal function (Table 11). The predicted median steady state AUCox
+for patients with moderate renal impairment at 6 mg PO QD dosage was similar to that for
+patients with normal renal function at 9 mg PO QD dosage (Table 12). Based on these results,
+the Applicant submitted revised labeling proposing to reduce the proposed starting dosage of
+inavolisib to 6 mg PO QD in patients with moderate renal impairment. FDA agrees with this
+recommendation.
+
+Table 11: Dedicated Clinical Renal Impairment Study Interim Analysis Results
+
+PK Parameter Moderate Renal Impairment/Normal Renal Function
+GMR (90% Cl)
+AUCo. 1.6 (1.4, 1.9)
+AUCo.ne 1.7 (1.5, 2.0)
+Cmax 1.1 (1.0, 1.2)
+
+AUC: Area under the concentration curve; GMR: geometric mean ratio; PK: pharmacokinetics.
+Source: Adapted from Table 11-2 in Interim CSR (Report No. GP44944); dated 8/7/2024
+
+Table 12: Estimated Steady State Exposure (AUCo.) of Inavolisib in Patients with Normal
+Renal Function or with Moderate Renal Impairment
+
+Estimated Median Steady State AUCo..(ng*hr/mL)
+Dose Patients with Normal Renal Patients with Moderate
+Function Renal Impairment
+9 mg QD 1019° 1763*
+6 mg QD 679°" 1175*
+3 mg QD 340°" 586"
+
+*popPK predicted median steady state AUCo. based on observed data
+** estimated based on dose proportionality for AUCox (Study GO39374)
+# estimated based on observed 1.73-fold higher AUCo. in subjects with moderate renal
+
+impairment (Study GP44944)
+
+Source: Applicant’s response dated August 7, 2024; Table 1
+
+Given that inavolisib is renally excreted and no data are available to inform the dosage of
+inavolisib in patients with severe renal impairment (eGFR <30 mL/min), a PMR will be issued for
+
+76
+
+Version date: June 2022 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5460147
+

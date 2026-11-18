@@ -1,0 +1,60 @@
+NDA/BLA Multi-Disciplinary Review and Evaluation
+Tovorafenib (DAY101)
+
+Table 90. Comparison of Model Inputted and Experimentally Measured Inhibition
+Parameter Ki Values of Competitive CYP2C9 Inhibitors
+
+In Vitro Kiu/ In Vitro Kiu/
+
+Optimized In Vitro Kiu Model Used Model
+Model Used (tolbutamide) In Vitro Kiu Kiu Used Kiu
+Inhibitors Kiu (uM) 2 (uM) _(all)® (uM) __ (tolbutamide) (all)
+Fluconazole Ly 198 273-752 oe
+Fluvoxamine 2.79 2.73-8.87
+Sulfaphenazole 0.12-0.67 0.06-0.67
+Ketoconazole 2.8 NA
+Asciminib NA 0.4074
+Ceritinib NA 0.07014
+Venetoclax NA 0.001954
+
+Source: Table 5 in FDA IR Clinical Pharmacology PBPK report Response Document submitted on 19 December
+2023 (response-to-fda-ir-2023-11-17.pdf). ©® DDI Database, and reviewer’s analysis.
+
+In vitro unbound K; values (Kix) calculated based on K; values from the! DDI Database and free fraction of
+nonspecific binding in microsomes (fic) calculated based on the microsomal protein concentrations used in the
+studies and measured fymic. If measured fy mic is not available, Simcyp predicted values were used.
+
+* Ki values were generated using tolbutamide as a CYP2C9 probe substrate.
+
+» K; values were generated using all CYP2C9 substrates in the Certara DDI Database including tolbutamide.
+< (b) (4)
+
+4 The in vitro K;,, values were generated using diclofenac as a probe substrate. K;, inhibition parameter.
+
+Effects of Tovorafenib on OATP1B and BCRP Substrates Rosuvastatin and Pravastatin
+
+The predicted effects of tovorafenib on rosuvastatin and pravastatin were inadequate for
+reasons detailed below. Drug interaction between tovorafenib and substrates of OATP1B
+and/or BCRP cannot be ruled out.
+
+There are uncertainties about the translating the in vitro OATP1B or BCRP inhibition parameter
+(Ki or ICso). An internal analysis conducted by the reviewer showed that drug interactions of
+pravastatin or rosuvastatin with inhibitors of OATP1B1/3 and/or BCRP were either not
+predicted or significantly under-predicted even when the lowest in vitro transporter inhibition
+parameters of these inhibitors in the UW DDI Database (last accessed in June 2020) and the
+pravastatin and rosuvastatin PBPK models of Simcyp V19, which are the same models as that in
+20, were applied in the simulations. The observed interactions with rosuvastatin or
+pravastatin could only be reproduced, within 25% of clinical observations, when the K; values of
+all transporters that are relevant to the disposition of pravastatin or rosuvastatin were
+
+simultaneously reduced 10- to 100-fold. a]
+
+Therefore, the inhibitory effect of tovorafenib on rosuvastatin may potentially be
+underpredicted.
+
+It should be noted that strong and moderate CYP3A inducers (such as rifampin and efavirenz)
+could reduce the exposure of rosuvastatin and pravastatin though the exact mechanisms are
+
+317
+
+Reference ID: 5368881

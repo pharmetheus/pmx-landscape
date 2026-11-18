@@ -1,0 +1,62 @@
+BLA 761184
+Ngenla (somatrogon)
+
+influencing PK variabilities. Secondly, in both Applicant’s models the estimates for
+baseline IGF1-1 do not represent the true distribution of the observed baseline IGF-
+Bs
+
+— The reviewer developed an alternative population PKPD model which, like the
+Applicant’s models, was an indirect Emax model with somatrogon concentration as the
+driver of response through stimulation of IGF-I production. However, in contrast to
+the Applicant’s models, baseline IGF-1 at initiation of treatment was not estimated
+but fixed to observed values. Furthermore, in the alternative model, baseline IGF-1
+could increase linearly as a function of time on treatment. The only identified
+covariates were sex and baseline IGF1 on Enax-
+
+— Assessment of impact of patients’ characteristics on IGF-I profiles overtime revealed
+that ADA positive patients had higher probability of IGF-1 SDS = 2. than ADA
+negative patients. However, there was no association between the probability of IGF-
+1 SDS = 2 and ADA titer levels. In addition, the analysis revealed that female
+compared to male subjects was associated with higher probability of IGF-1 SDS = 2.
+However, the results should be interpreted with caution due to the small number of
+subjects assessed.
+
+14.3.3. Applicant’s Exposure-Response Analyses
+
+14.3.3.1. Data
+
+The Applicant developed the PKPD model for somatrogon using IGF-1 responses observed in
+the phase 3 study. Table 73 provides the description of the phase 3 study, including blood
+sampling schedules for assessment of PK and PD responses. All samples before the first dose of
+somatrogon were excluded from the analysis. Dosing history and individual parameter estimates
+from the Applicant’s weight-normalized PopPK model were included in the PKPD dataset to
+derive plasma somatrogon concentration at the time of IGF-1 observations.
+
+14.3.3.1.1. Base Model
+
+The structural PKPD model was a stimulatory E,,.. model in which somatrogon stimulated IGF-
+1 production. Parameters of the model were: Baseline IGF-1 (BASEIGF1), to represent IGF-1
+values before somatrogon treatment; decay rate of IGF-1 (KOUT); Maximal drug induced
+increase in EGF-1 (Emax); plasma concentration that yield 50% of Emax (EC50); and the
+sigmoidity factor (y). The initial state of rate of IGF-1 production (KI No) was derived as the
+product of KOUT and Baseline IGF-1. Equation (2.1) describes the rate of change in IGF-1
+levels during different states of somatrogon treatment.
+
+6IGE,
+
+oc KIN — IGF, xX KOUT
+
+Whereby:
+
+KIN = BASEIGF1 x KOUT (before somatrogon treatment) (2.1)
+KIN = KINg X DRUGEFFECT (After somatrogon treatment)
+Emax x CPY
+
+ECSOY + CPY
+CP is plasma concentration
+
+DRUGEFFECT =1 +
+
+154
+
+Reference ID: 4924352

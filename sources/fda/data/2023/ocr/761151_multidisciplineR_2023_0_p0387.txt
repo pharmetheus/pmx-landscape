@@ -1,0 +1,48 @@
+BLA 761151 Multi-disciplinary Review and Evaluation
+BIMZELX (bimekizumab-bkzx) injection, for subcutaneous use
+
+Methods:
+
+The bimekizumab plasma-concentration-time data were graphically explored and analysed
+using the nonlinear mixed effects modelling approach within the software NONMEM. The base
+PK model for the analysis was the final PK model from RAO124. All the fixed and random effects
+parameters and respective standard errors were estimated. Body size (body weight, body
+surface area and body mass index), sex and race of study participants and formulation and
+manufacturing process of bimekizumab were tested as potential covariates on clearance,
+volume of distribution of central compartment, sc bioavailability and SC absorption rate.
+
+Number of Study Participants: n=104
+
+Test Product, Dose and Mode of Administration:
+
+Bimekizumab: 8mg IV, 40mg IV, 80mg SC, 160mg IV, 160mg SC, 320mg SC, 480mg IV, and
+640mg IV. Single dose administration
+
+Table 82: Summary of Plasma Concentration Records
+
+Dose | Route | Number of | Total Number of | Number of Number of post-
+(mg) study number of | observations observations | dose observations
+participants | observations | above lower limit | below lower limit | below lower limit
+‘ of quantification | of quantification | of quantification
+| i (percentage)* | (percentage)* | _ (percentage) ®
+8 iv 4 74 61 (82%) 13 (18%) 9 (13%)
+40 | iv 4 16 66 (87%) 10 (13%) 6 (8%)
+80 | se 22 346 278 (80%) 68 (20%) 46 (14%)
+160 | iv 16 289 269 (93%) 20 (7%) 4(1%)
+160 | se 34 508 453 (89%) 55 (11%) 22 (5%)
+320 | se 12 192 172 (00%) 20 (10%) 8 (4%)
+430 | iv 6 116 109 (9.4%) 7 (6%) 1(1%)
+640 iv 6 120 112 (93%) 8 (7%) 2 (2%)
+Total 1721 1520 (88%) © 201 (12%) 98 (6%)
+
+Source: table 5-1 of PK analysis report.
+
+Mean concentrations versus time are shown in Figure 20.
+
+Figure 20: Semi-Log Plot of Mean Plasma Concentration Versus Time- lv And SC Bimekizumab
+Administration
+
+237
+Version date: October 12, 2018
+
+Reference ID: 4982337

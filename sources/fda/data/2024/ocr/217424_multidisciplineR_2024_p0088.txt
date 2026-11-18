@@ -1,0 +1,56 @@
+NDA/BLA Multi-disciplinary Review and Evaluation (NDA 217424)
+ZELSUVMI (berdazimer sodium gel)
+
+Table 27 presents the results of the statistical reviewer’s sensitivity analyses as discussed in
+Section 8.1.1 (Statistical Analysis Plan). In summary, the first reviewer’s sensitivity analysis
+counted subjects with missing MC lesion count at Week 12 but who demonstrated complete
+clearance at Week 8 as responders, and other subjects with missing lesion count at Week 12 as
+non-responders, while the Applicant’s sensitivity analysis 2 counted subjects who had missing
+lesion count at Week 12 but had achieved complete clearance at any time prior to Week 12 as
+responders. The second reviewer’s sensitivity analysis was an observed case analysis. For Study
+NI-MC304, a sensitivity analysis was conducted where the worst-case imputation was
+performed for subjects who had a remote assessment at Week 12. Finally, for Studies NI-
+MC301 and NI-MC302, a sensitivity analysis was conducted adjusted for baseline BOTE score. In
+Study NI-MC302, the p-value turned significant in all of the reviewer’s sensitivity analyses,
+similar to what was observed in the Applicant’s sensitivity analyses, where the p-value turned
+significant in most of the Applicant’s sensitivity analyses. In Studies NI-MC304 and NI-MC301,
+the conclusions of all the reviewer’s sensitivity analyses were consistent with that of the
+primary analysis.
+
+Statistical Reviewer’s Comment:
+
+e Inall of the statistical reviewer’s sensitivity analyses and most of the Applicant’s
+sensitivity analyses, the p-value of the primary endpoint changed from non-significant in
+the primary analysis to statistically significant in Study NI-MC302. The sensitivity analysis
+that was not significant was the Applicant’s sensitivity analysis 5 (using MI based on the
+ITT population). Considering that MI adds more variation than single imputation, it is not
+surprising that the p-value of MI (p = 0.1383) was not significant. Hence, how the
+missing data was handled did make a difference in the study conclusion in Study NI-
+MC302.
+
+e In Study NI-MC301, the p-value from the reviewer’s sensitivity analysis 2 (using the
+observed data only) reduced from 0.3637 in the primary analysis to 0.1058. This
+indicates that imbalanced missing data between treatment groups and non-responder
+imputation in the primary analysis did make the treatment effect in favor of the vehicle
+arm in Study NI-MC301.
+
+Table 27. Statistical Reviewer’s Sensitivity Analysis Results of Primary Endpoint - Complete
+Clearance Rate at Week 12 (Studies NI-MC301, NI-MC302, and NI-MC304)
+
+ITT Population,
+
+Adapted Non-Responder Imputation with Responder Imputation for Complete Clearance at Week 8*
+62/236 25/116 72/237 24/118 | 144/444 88/447
+
+(26.3%) (21.6%) |__ (30.4%) (20.3%) |__ (32.4%) (19.7%)
+
+Complete Clearance Rate
+
+Treatment Difference (95%
+Cl) 5.3% (-4.0%, 14.7%) | 9.5% (0.3%, 18.7%) | 12.8% (7.1%, 18.6%)
+p-value 0.2631 0.0432 < 0.0001
+
+87
+Version date: October 12, 2018
+
+Reference ID: 5304936

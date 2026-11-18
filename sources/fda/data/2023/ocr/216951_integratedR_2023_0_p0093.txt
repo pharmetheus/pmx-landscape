@@ -1,0 +1,58 @@
+NDA 216951
+Jesduvrog (daprodustat)
+
+Primary Efficacy Analysis
+
+The primary analysis of post-randomization mean change in Hb between baseline and over the
+EP (Weeks 28 to 52) for the ITT population was analyzed using an ANCOVA model adjusted
+for treatment, baseline Hb and region.
+
+Sensitivity Analyses
+
+e An alternative “while on-treatment” estimand using only evaluable Hb data. Missing Hb
+data were not imputed.
+PP population analysis based on the evaluable Hb analysis.
+A tipping point analysis using all available Hb values (on and off treatment) as a
+sensitivity analysis for the primary estimand. Missing post-baseline Hb values were
+imputed.
+
+e A tipping point analysis using only evaluable Hb values. Missing Hb data were not
+imputed.
+
+e An alternative EP analysis from Week 28 to 36 using all available Hb values (on and off
+treatment). Missing post-baseline Hb values were imputed.
+
+e Analternative EP analysis from Week 28 to 36 using only evaluable Hb values. Missing
+Hb data were not imputed.
+
+Secondary Efficacy Analyses
+
+An ANCOVA model was used to compare the difference in average monthly IV iron dose per
+participant between arms, adjusting for treatment, baseline monthly IV iron dose and region.
+
+A least square mean estimates and two-sided 95% CI for the treatment difference are provided,
+together with the one-sided superiority test p-value.
+
+The secondary analysis of Hb change from baseline to Week 52 Hb was tested for noninferiority
+using the -0.75 g/dL margin used in the primary analysis. A MMRM approach was used with an
+unstructured covariance matrix to compare the difference in means between arms. The model
+was fitted to Hb data collected post-baseline up to Week 52, excluding values collected during
+the SP (Day 1 to Week 28). The model included factors for treatment, time, region, baseline Hb
+and the baseline Hb by time and treatment by time interaction terms.
+
+For the Hb responder analysis, responders were participants with a mean Hb during the EP that
+fell within the Hb analysis range of 10 to 11.5 g/dL. A CMH chi-squared test, adjusting for
+treatment and region, was used to compare the number and % of responders between the
+treatment groups.
+
+For the analysis of time to stopping study treatment due to meeting rescue criteria, a Cox
+proportional hazards model, adjusting for treatment and region, was used to generate the hazard
+ratio and associated 95% CI for the treatment group comparison. A one-sided superiority p-value
+was generated using a Wald test. The incidence rate per 100 person-years (PY) and associated
+95% CI for each treatment group, as well as the absolute rate difference per 100 PY and
+associated 95% CI were also provided.
+
+67
+Integrated Review Template, version 3.0 (05/25/2022)
+
+Reference ID: 5119138

@@ -1,0 +1,48 @@
+NDA/BLA Multi-disciplinary Review and Evaluation NDA 221075
+Iberdomide (ZENBEXUS)
+19.5.6.3. Methods
+
+All simulations were performed using the PK/PD Profiles mode in the Simcyp® Simulator
+(Version 22, Certara, Sheffield, UK) unless otherwise noted. Simulations were performed using
+the default healthy subject or cancer population model. Age, sex, number of subjects, and dosing
+regimens were consistent with the actual trial design. Ten trials were simulated for each scenario.
+A schematic diagram of the PBPK modeling and simulation strategy is shown in Figure 44,
+which summarizes the studies used for iberdomide model development and verification and
+model applications in predicting the DDI potential of iberdomide as an object of weak and
+moderate CYP3A4 induction or inhibition. The final model input parameters are summarized in
+Table 101. The iberdomide PBPK model consists of an Advanced Dissolution, Absorption and
+Metabolism (ADAM) model for describing drug absorption in each gut segment, a full PBPK
+model for drug distribution, and an enzyme kinetics model for elimination. The Simcyp library
+files for itraconazole, fluconazole, cimetidine, efavirenz, modafinil were used without
+modification unless otherwise noted.
+
+Figure 44: FDA — Modeling and simulation strategy
+
+(CC-220-0MPK-2635) in vivo data —
+Model Development ~ + Reverse translation tools to
+“tea CP3a4/3 Care
+amen FGAOME ‘Updated model with + SIVA analysis of FaSSiF/FeSsiF
+Sagection ADAM and full PBPK dissolution data for 5 formulations.
+‘Band Foo oat TWaD and RBA Teaco ard Rapin
+(ce20-001) (cc22007 002) (ce00cr 003)
+Model Validation ROA Controls in Hepatic Impairment Study,
+Fi and 2 formulations Tlermaaton
+(ce220.cr 008) (ce200.e9-207)
+(b) 4)
+Weakand moderate CYP3A
+M A a formulations physiological parameters: a
+
+Day a3
+
+21 days berdomide with 7-day Iberdomide
+iyatate Innibitording washout with
+
+Source: Figure 3.2-1 in the PBPK report PBPK-food and Figure 5.1.1-1 in pbpk-ddi
+
+310
+Version date: February 10, 2025 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5851050

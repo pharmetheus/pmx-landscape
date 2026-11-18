@@ -1,0 +1,64 @@
+NDA 215192
+
+Table 215. PK Samples for Pooled Dataset
+
+Reason Total HV Ph2 Ph2 J-01 J-03 cl cl. cL cl
+NDD DD 0014 0015 0016 0017
+
+Available in 18311 | 1488 610 758 423 436 3403 3449 716 7028
+
+source
+
+dataset
+
+Flag = 20, 75 0 1 0 0 0 20 13 2 39
+
+Flag =4
+
+Flag =5 533 96 22 12 0 0 117 159 2 125
+
+Flag = 6 2 0 0 0 0 0 0 0 1 1
+
+Flag =7 679 0 0 0 0 0 49 107 50 473
+
+Flag =9 16 0 0 16 0 0 0 0 0 0
+
+Flag = 11 9 0 0 0 1 0 0 0 0 8
+
+BLQ samples 2976 5 12 31 11 12 652 504 162 1587
+
+(after first
+
+dose)
+
+Available for 14021 1387 575 699 411 424 2565 2666 499 4795
+
+analysis
+
+BLQ: below the limit of quantification: CWRES: conditional weighted residual: DD; dialysis-dependent: HV: healthy subjects:
+
+NDD: non-dialysis-dependent; Ph2: Phase 2 studies; PK: pharmacokinetic.
+HY: healthy subjects from Studies C1-0001, C1-0002, and C1-0020; Ph2 subjects with NDD: NDD-CKD from Studies C1-0003,
+
+CI-0007, and CI-0021; Ph2 DD: subjects with DD-CKD from Studies CI-0009, CI-0011, and CI-0022
+Flag definitions: 20, 4=Time after first dose missing: 5: PK samples with Time after first dose <0 and concentration above BLQ:
+and CI-0017 (AKB-
+
+6=due to missing EXSTDT unknown if dosed on these days for C1-0016 (AKB-6548-C1-0016:
+
+6548-C1-001 7), Inconsistent dosing information in SUPPPC and/or EX: 9= Subject AKB6548_CI_0009-
+
+AKBO09_01-112 period 2 samples excluded because of extremely low concentration values (Appendix 10.1, Figure 10-2, panel
+
+CT-0009). Flag = 11 (J-01, CT-0017, unreasonable high concentration (CWRE!
+
+Source: Applicant's PopPK Analysis Report, Table 5-2, page 47
+
+Integrated Review Template, version 2.0 (04/23/2020)
+
+Reference ID: 4960499
+
+289
+
+5) at large time after dose (Appendix 10.1)
+

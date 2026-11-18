@@ -1,0 +1,3481 @@
+CENTER FOR DRUG EVALUATION AND
+RESEARCH
+APPLICATION NUMBER:
+
+761178Orig1s000
+OTHER REVIEW(S)
+
+BLA 761178 Immunogenicity Review 1
+
+BLA 761178 IMMUNOGENICITY REVIEW
+Application Type
+Application Number
+Submit Date
+Received Date
+BsUFA Goal Date
+Division/Office
+Review Completion Date
+Product Code Name
+Proposed Proper Name 1
+Proposed Proprietary Name1
+Pharmacologic Class
+Applicant
+Applicant Proposed
+Indication(s)
+Recommended Regulatory
+Action
+
+BLA
+761178
+July 7, 2020 for Part 3 containing immunogenicity
+July 7, 2020
+June 7, 2021
+Office of Neuroscience, Division of Neurology I
+November 2, 2020
+revised November 9,2020
+revised June 4, 2021
+aducanumab
+Aduhelm
+Monoclonal antibody
+Biogen
+Delay clinical decline in early Alzheimer’s disease
+
+(b) (4)
+
+(b) (4)
+
+There are no immunogenicity issues to prevent approval
+
+Immunogenicity Reviewers
+Primary Reviewer(s) Fred Mills
+Secondary Reviewer(s) Haoheng Yan
+
+1
+
+The proposed proper and proprietary names are conditionally accepted until such time that the application is approved.
+
+Reference ID: 4806876
+
+BLA 761178 Immunogenicity Review 2
+
+Table of Contents
+Immunogenicity Reviewers .................................................................................................................................. 1
+Table of contents
+1. Summary Basis of Recommendation/Executive Summary...................... Error! Bookmark not defined.
+2.
+
+1.1
+
+Immunogenicity Executive Summary and Recommendation ............................................................. 3
+
+2.1
+
+Immunogenicity Risk Assessment ......................................................................................................... 4
+
+1.3
+
+Deficiencies and Other Recommended Comments to Applicant......................................................... 4
+
+Review ............................................................................................................................................................ 4
+
+2.2
+
+Validation of Anti-Drug Antibody Assay ............................................................................................... 4
+
+2.2.1
+
+Method Principle ............................................................................................................................... 4
+
+2.2.2
+
+Validation Exercises .......................................................................................................................... 5
+
+2.3
+2.5
+
+Neutralizing Antibody Assay ................................................................................................................ 13
+Clinical Immunogenicity Results ......................................................................................................... 14
+
+2.5.3
+
+2.6
+
+Study Results ................................................................................................................................... 14
+
+Information Requests Sent During Review......................................................................................... 16
+
+Reference ID: 4806876
+
+BLA 761178 Immunogenicity Review 3
+
+1.1
+
+Immunogenicity Executive Summary and Recommendation
+
+Biogen has developed aducanumab, a monoclonal antibody with high affinity for aggregated forms of Abamlyloid protein whose aggregation is thought to be an important aspect of the pathological processes in the
+brain that underlie development of Alzheimer’s disease. This review consists of the OBP assessment of the
+immunogenicity data for the aducanumab clinical trials that have been submitted in BLA 761178 to support
+licensing. Overall the immunogenicity assessment is adequate.
+The assay for Anti-Drug Antibodies (ADA) is a bridging ELISA, in which samples react in solution with
+biotin-aducanumab and DIG aducanumab to form a bridging complex between the two reagents and ADA. The
+complexes are then captured via the biotin moiety in streptavidin-coated of an ELISA plate, and bound
+complexes are detected with anti-DIG HRP. The ADA assay has a validated sensitivity of 15.625 ng /ml mouse
+monoclonal control antibody, well within the limit recommended in the 2019 FDA guidance for
+immunogenicity assays of 100 ng / ml. In addition to sensitivity, the ADA assay has been adequately validated
+for Low and High Positive controls, precision of screening, confirmatory, and titer assays, specificity,
+selectivity and matrix interference, robustness, and control reagent stability. The sponsor did not assess the
+effects of hemolysis and lipidemia, and subject to a pending IR response, these assessments are being
+considered as PMCs.
+In the course of their clinical trials, the sponsor prepared and used 5 different lots of biotin-aducanumab and
+DIG-aducanumab detection reagents. This necessitated partial revalidation after incorporation of each set of
+reagents into the ADA assay. These partial re-validations were for NC, LPC/NC and HPC/NC system
+suitability limits and were adequate. In addition, it was necessary to re-validate the assay for Drug Tolerance
+(DT). For four of the detection reagent lots the DT determined at a level of 15.625 ng /ml positive control
+antibody was 31.25 µg/ml aducanumab or higher, which is higher than the expected range of trough drug
+concentrations, as per communication with Clinical Pharmacology. For one lot of detection reagents, the drug
+tolerance at 15.625 ng /ml positive control antibody was 15. 625 µg/ml aducanumab. However, in response to
+the 9/23/2020 IR regarding this issue, the sponsor clarified that only one clinical sample had a serum
+aducanumab above the DT at the 15.625 ng/ ml anti-aducanumab level, and no samples were above the DT for
+the 100 ng /ml level of anti-aducanumab control antibody, indicating that for practical purposes the DT of
+assay is adequate.
+No NAb assay was developed or used in the aducanumab clinical trials. Biogen received agreement with FDA
+by email on February 12, 2018 their proposal to identify subjects with neutralizing anti-aducanumab
+antibodies by correlating anti-aducanumab antibody positivity to changes in aducanumab exposure and/or
+efficacy in treated subjects. However, in the BLA submission this approach was not feasible due to the low
+ADA incidence (discussed below). Therefore Biogen performed ad-hoc analysis across 5 studies for ADA
+effect on clearance, and concluded that the systemic exposures of aducanumab including AUC and Cavg for
+ADA positive individuals were not affected by the ADA. The need for a NAb assay was discussed with ClinPharm during the internal team meeting Oct 27, 2020. The Clin Pharm reviewer stated that he did not find a
+PMR for a NAb assay to necessary due to the low ADA incidence. OBP agreed with this recommendation.
+Clinical immunogencity results were obtained from the seven aducanumab clinical trials; i.e. Phase 1
+(221AD101, 221AD103, 221AD104, 221HV102), Phase 2 ((221AD205), and Phase 3 studies (221AD301 and
+
+Reference ID: 4806876
+
+BLA 761178 Immunogenicity Review 4
+221AD302). Overall low ADA incidence was observed in these studies: importantly in the parallel Phase 3
+studies 221AD301 and 221AD 302 for subjects pooled across the placebo-controlled segments of the two trials
+the placebo group 9 of 1069 subjects (0.8%) were ADA positive with 0.2% treatment emergence, while for
+1082 subjects receiving aducanumab there was a 1.9% positivity rate with 0.7% treatment emergent ADA.
+For data pooled across both the placebo controlled and LongTerm Extension (LTE) segments of these studies
+for subjects exposed to aducanumab there was low ADA incidence (1.4%) and low treatment emergent ADA
+(0.6%).
+Across the other studies aducanumab there was low immunogenicity. In the earliest Phase 1 study 221AD101
+there with 2 out of 39 (5%) aducanumab-treated positive for ADA and 2/14 (14%) placebo subjects being
+positive in treatment but also positive at baseline, while there were no positive immunogenicity samples
+observed in Phase 1 Studies 221AD104 and 221HV102, and in Phase 2 Study 221HV102
+ADA incidence was somewhat higher for the Phase 1b study 221AD103, as 8 of 147 aducanumab-treated
+subjects (5%) had treatment-emergent anti-aducanumab antibodies with 2 of 47 (4%) in the placebo group.
+This higher incidence likely not due to inclusion of early time point samples as inspection of data shows that
+ADA positive sample were spread throughout the course of the trial. Nonetheless levels were still low in this
+194 subject trial
+Taken together, the ADA incidence for aducanumab trials was low. Therefore, aducanumab immunogenicity is
+not an important clinical concern.
+
+1.2
+
+Deficiencies and Other Recommended Comments to Applicant
+
+PMC Language (12/07/2021 Final Report submission date accepted by Sponsor 5/25/21)
+As discussed in the FDA 2019 guidance for immunogenicity assays, matrix effects arising from hemolysis and
+lipidemia have the potential to interfere with anti-drug antibody (ADA) assays. In this regard, there is an
+approximate 19% incidence of both hyperlipidemia and hypercholestrolemia in their Phase 3 studies (Summary
+Clinical Safety m.2.7.4), and these conditions make it more likely that there will be interfering lipids in ADA
+samples. Therefore the Sponsor should evaluate the potential for matrix interference from hemolysis and
+lipidemia in their assay for aducanumab ADA.
+
+2. Review
+
+Document Reviewed
+
+Submission Date
+
+BLA 761178 SN 03
+BLA 761178 SN 27responses to 9/23/2020 IR
+BLA 761178 SN 48 responses to10/26/2020 IR
+BLA 761178 SN78 responses 5/21//2021 IR
+
+July 7, 2020
+September 30, 2020
+November 2, 2020
+May 25, 2021
+
+1.1
+
+Immunogenicity Risk Assessment
+
+There are no immunogenicity issues preventing approval.
+
+Reference ID: 4806876
+
+BLA 761178 Immunogenicity Review 5
+
+1.2
+
+Validation of Anti-Drug Antibody Assay
+
+1.2.1 Method Principle
+The ADA assay utilizes a bridging ELISA design. Samples or controls incubated in solution with a 1:1 mixture
+of biotin-aducanumab and DIG aducanumab, and reactive antibodies form a bridging complex between these
+two reagents. Solutions containing the bridging complexes are incubated ON in plates with streptavidin coated
+wells, so that the biotin moiety of the complexes binds to the streptavidin. After washing, the bound bridging
+complexes are detected using anti-DIG HRP.
+1.2.2 Validation Exercises
+
+Validation
+Parameter
+
+Validation Report
+(b) (4)
+
+Contract
+Research Org
+
+Reviewer Comment
+Widely used contract testing firm for
+immunogenicity assays.
+
+Assay principle
+
+Bridging ELISA design. Samples or controls incubated
+in solution with a 1:1 mixture of biotin-aducanumab and
+DIG aducanumab, and reactive antibodies form a
+bridging complex between these two reagents. Solutions
+containing the bridging complexes are incubated ON in
+plates with streptavidin coated wells, so that the biotin
+moiety of the complexes binds to the streptavidin. After
+washing, the bound bridging complexes are detected
+using anti-DIG HRP.
+
+Bridging approach is standard for an
+ADA assay. In-solution formation of
+biotin-drug-ADA-DIG-drug complexes
+prior to binding to plate in theory may
+result in reduced background. Format is
+acceptable.
+
+Sample
+Pretreatment
+
+no
+
+Not necessary because the trough
+concentrations of Acunumab were in
+almost all cases less than the drug
+tolerance.
+
+Positive control
+(PC)
+
+Description below provided in response to
+9/23/2020 IR
+The aducanumab ADA positive control antibody is a
+purified monoclonal antibody (mouse IgG1
+kappa) generated from a murine hybridoma cell line
+(b) (4)
+It is an anti-idiotypic
+antibody directed against the complementaritydetermining region (CDR) of BIIB037
+(aducanumab). Furthermore, it is characterized as a
+neutralizing anti-drug antibody that blocks
+the binding of BIIB037 to its target amyloid beta.
+
+Control not described in original
+submission. Description provided in
+response to IR sent 9/23/2020.
+Description is adequate
+
+PC Dose Curve
+and Hook
+Effect
+
+no
+
+Not required as only low signals were
+observed in clinical studies
+
+(Acid
+dissociation)
+
+Reference ID: 4806876
+
+BLA 761178 Immunogenicity Review 6
+10 ng / ml
+LPC
+HPC
+
+150 ng / ml
+Samples in serum or NC (serum samples without control
+antibody or ADA ) were diluted 1:25 in Blocker PBS-
+
+Matrix and NC
+
+MRD
+NC system
+suitability range
+LPC /NC system
+suitability range
+HPC/NC system
+suitability range
+
+Screening cut- point
+(SCP)
+factor
+
+Confirmatory cutpoint (CCP)
+Floating
+
+Titer (precision)
+
+Reference ID: 4806876
+
+Casein, followed by addition of equal volume of a
+solution containing an equimolar mixture of Biotinaducanumab and DIG- aducanumab. The final
+dilution of controls and samples was 1:50, which
+was the minimal required dilution (MRD) of the
+assay.
+1 / 50
+The control ranges were dependent on the biotinaducanumab / DIG-aducanumab lots used, and thus part
+of the partial validations for these detection reagents, as
+discussed below under
+
+NC, LPC/NC and HPC/NC system suitability
+limits.
+Limits were assigned as mean - /+ 3SD, or
+equivalent non-parametric limits if the distributions
+were not normal.
+The screening cutpoint (factor) ranged from 1.24 to
+1.9834. When these SCPs were applied to untreated
+serum data sets, the empirical false positive values
+ranged from 7.5% to 10.4%
+
+The Confirmatory Cutpoint targeted a 1% FPR for
+all detection reagents, and ranged from 16.7% to
+26.6% inhibition. Applying these CPPs to untreated
+serum data sets, the empirical false positive values
+ranged from 0.0% to 1.69%
+Groups of 6 titer series were analyzed four times (4 runs)
+by 2 analysts. Dilutions of the HPC gave titers that in all
+cases were within -/+ 2 dilutions of target titer of 3200
+(1600-6400). The original labeled drug lots 2015-0373B/3T were used for this study.
+
+Appropriately low LPC, slightly lower
+than determined 15.625 ng / ml
+sensitivity
+Acceptable HPC given the observed
+levels for clinical positive ADA samples.
+Patient sera, sera with controls, sera for
+cutpoint validation, or NC sera are
+diluted 1:25 in buffer relevant to the
+assay. This procedure is acceptable as
+the buffer composition is dictated by the
+need to control assay background.
+
+Within guidance
+Suitability limits derived from the partial
+validations spanned ranges of
+approximately 2 to 3 fold, with large
+separations between NC, LPC/ NC, and
+HPC /NC ranges, supporting the
+appropriateness of these controls.
+Moreover, the precision aspects of the
+partial validations showed modest
+variability, indicating that assays are
+well controlled.
+The SCPs all generate similar empirical
+False Positive Rates (7.5% to 10.4%),
+indicating the screening assay
+appropriately generates an appreciable
+FPR, and thus is unlikely to miss true
+positive samples. The SCPs are
+appropriate.
+The ranges for CCPs were 16.7% to
+26.6%, and thus required and
+approximate 25% or less inhibition to
+confirm a positive. The empirical FPR
+are the expected range (0-1.69%) for a
+CCP targeting a 1% FPR. The CCP is
+appropriate.
+Titer precision meets specification and
+means titers for clinical samples with a
+similar ADA content are likely to vary by
+only 2 fold. I have examined the
+associate tabulated data and find agree
+with the sponsor’s statements. The titer
+precision is acceptable.
+
+BLA 761178 Immunogenicity Review 7
+The Drug Tolerance is dependent on the lots of
+detection reagents, and thus part of assay partial revalidation. This is discussed more fully in the
+section following this table on parameters that were
+part of the partial re-validation.
+
+Assay Drug
+tolerance
+
+Importantly, at the sensitivity limit for the assay
+(15.625 ng / ml ) the drug tolerance was > 31.25 µg/
+ml, except for the 2015-037-50D/52D detection
+reagents, for which the drug tolerance was 15. 625
+µg/ ml
+
+For labeled drug lot 2015-03750D/52D the drug tolerance is
+15.625 µg / ml. This reagent was
+used in the 103, 301, and 302 studies,
+and the validated 15.625 µg/ ml drug
+tolerance may be below the mean
+aducanumab trough values observed
+in these studies, which are in the
+range 21-27 mg / L, or 21-27 µg/ ml
+IR sent.
+From Biogen’s response to the
+9/23/2020 IR, only one sample had a
+drug concentration above the 15.625
+µg / ml DT for the 15. 625 ng / ml
+sensitivity of the assay.
+Morevover,all the samples had drug
+concentrations below the DT for a
+100 ng / ml assay sensitivity.
+Therefore I agree that the Drug
+Tolerance is acceptable.
+
+Target tolerance
+
+NA
+15.625 ng / ml
+
+Relatively high sensitivity-well within
+guidance recommendation of < 100 ng
+/ml
+
+Sensitivity
+Normalized PC / NC
+Screening Assay
+Repeatability/Intraassay variability
+Screening Assay
+Intermediate
+Precision
+(IP)/inter-assay
+variability
+Confirmatory
+Assay
+Repeatability/Intraassay variability
+Confirmatory
+Assay
+Intermediate
+Precision
+(IP)/inter-assay
+variability
+
+Titration assay
+precision
+
+Reference ID: 4806876
+
+NC %CV 1.6 to 14.1
+LPC %CV 1.1 to 8.4
+HPC %CV 2.1 to 5.9
+
+0.9 to 8.5
+2.1 to 5.9
+Normalized PC / NC
+
+NC %CV 8.1
+LPC %CV 9.6
+HPC %CV 8.6
+
+Modest % CV values well with 20%
+specification. I have examined the
+associate tabulated data and find the
+sponsor’s statements are accurate.
+Variability is acceptable.
+As above
+
+7.3
+6.1
+As above
+
+LPC % CV 0.6 to 8.8
+HPC % CV 0.1 to 0.5
+As above
+LPC % CV of % inhibition 4.4
+HPC % CV of % inhibition 0.4
+
+Over the four acceptable validation runs, the target
+titer for HPC was 3200.
+All the titers were within one 2-fold dilution
+
+Titer precision meets specification, and
+means titers for clinical samples with a
+similar ADA content are likely to vary by
+
+BLA 761178 Immunogenicity Review 8
+of the target titer (100%), and met the target
+acceptance criteria
+
+Selectivity and
+Matrix
+Interfererence
+
+Screening: 10 non-Japanese AD and 10 normal Japanese
+samples spiked at LPC and HPC levels. All gave signals
+consistent with those observed elsewhere in validation.
+Unspiked were below the SCP.
+Confirmatory: The two samples sets above gave
+inhibition > the 21.7 % CCP with the HCP, while
+unspiked samples were negative
+Titer: Samples sets as above all gave a mean titer value
+of 3200
+(b) (4)
+states that selectivity and no matrix effects
+were demonstrated.
+
+Streptavidin plate blocking time
+Assessed variation in going 1, 2, 3 hours. 1.5, 1.6,
+2.5 % CV (HPC) and 2.4, 1.1, 1.7 for the 3 times
+assessed in three runs
+Overnight incubation time of samples
+% CV (HPC) and % (LPC) for 16, 20, 24 minutes across
+three runs.
+
+Robustness
+
+Reference ID: 4806876
+
+Sample incubation on streptavidin coated plate
+14.6, 13.6, 14.1 %CV (HPC) and 8.6, 8.3, 8.5 %CV
+(LPC) for 45, 60, 75 minutes across three runs.
+Modest increase (~ 25%) with incubation time
+Incubation of detection reagent
+8.4, 8.7, 7.7 % CV (HPC) and 8.4, 8.7, 7.7 % CV for
+45, 60, 75 minutes across three runs.
+Substrate incubation
+6.3 5.3 5.8 %CV (HPC) and 6.2, 6.0, 6.1 % CV
+(LPC) for 15, 20, 25 minutes across three runs.
+Slight increase with incubation time.
+Time to reading the plate after addition of stop
+solution:
+0.9, 1.2, 1.0 % CV (HPC) and 1.0, 0.50.7 % CV
+(LPC) for 2, 5,10, 20, 30 min across 3 runs
+Effect of Plate Lots
+For standard conditions two different plate lots
+across 2 runs gave 5.1, 6.4 %CV (HPC) and 0.3,
+2.2 % CV (LPC).
+Effect of Plate Lots
+
+only 2 fold. I have examined the
+associate tabulated data and agree with
+the sponsor’s statements. The titer
+precision is acceptable.
+Examination of report ts307-069 where
+these data are found shows that the
+(b) (4)
+statement for screening are
+correct. For Confirmatory, one
+unspiked Japanese sample gave a 20.6
+% inhibition-while all the other
+unspiked samples gave low inhibition.
+All the LPC spiked samples gave
+inhibition > 48.5%, and all the HPC
+spiked samples gave inhibition > 92.5%
+when treated with 50 µg/ ml
+aducanumab.
+For Titer, 15 out of 20 samples gave a
+titer of 3200, with the remaining 5
+samples giving a titer of 1600.
+Therefore, overall I agree with
+(b) (4)
+conclusion that selectivity
+and lack of matrix effects are
+demonstrated in the ADA assay.
+
+The robustness studies yielded
+modest changes for the ranges of 7
+different parameters studied. Thus
+the assay should yield valid results
+over these ranges of conditions.
+
+BLA 761178 Immunogenicity Review 9
+For standard conditions two different plate lots
+across 2 runs gave 5.1, 6.4 %CV (HPC) and 0.3, 2.2
+% CV (LPC)
+Specificity
+
+HPC and LPC gave signals consistent with those
+throughout validation while samples containing unrelated
+an BIB033 anti-idiotype antibody at the same
+concentrations as the LPC and HPC gave signal less than
+the screening cutpoint.
+Acceptance Criteria
+At least two of the three aliquots for each stability
+condition met the control range acceptance criteria at
+both the HPC and LPC levels. %CV between the
+replicate wells within each LPC and HPC set met the
+%CV ≤20% criterion. For all the stability tests below,
+(b) (4)
+states that all three aliquots met the acceptance
+criteria.
+
+I have examined the tabulated specificity
+(b) (4)
+data and find that
+statement is
+accurate for all the stability tests.
+I have examined the tabulated stability
+(b) (4)
+data and find that the
+statement
+is accurate for all the stability tests.
+
+Stability
+By these criteria
+Freeze/Thaw Stability: Demonstrated up to 10 freeze/thaw
+cycles
+Bench Top Stability: Demonstrated up 23 hours and 55
+minutes
+Refrigerator Stability (2 to 8⁰C) : Demonstrated up 13 days
+Short-term Stability (-15 to -30°C): Demonstrated up to one
+month.
+
+Lipidemia
+
+The effects of hemolysis and lipidemia
+were not assessed, IR sent 9/23/2020. In
+their response Biogen argue that
+hemolysis and lipidemia are not likely to
+impact a heterogeneous immunoassay
+format, such as is used for this ADA
+assay. They also state that they do not
+find literature references for interference
+by hemolysis or lipidemia on ADA
+assays.
+
+Hemolysis
+
+However, OBP experience is that these
+matrices do have some effect on ADA
+assays. Therefore, on 10/26/2020 OBP
+sent an IR asking Biogen to provide data
+on the prevalence of hemolysis and
+lipidemia in samples used for
+immunogenicity testing in the
+aducanumab clinical studies.
+As above
+
+From 221AD301:
+CSR 221AD301
+\\cdsesub1\evsprod\BLA761178\0003\m2\27-clinsum
+20.7% of subjects had hyperlipidemia
+
+ADA Assay
+Assessment
+
+Reference ID: 4806876
+
+Suitable/Not suitable for Intended purpose
+
+The ADA assay is suitable for its
+intended purpose.
+
+BLA 761178 Immunogenicity Review 10
+Parameters dependent on detection reagent lots
+Because 5 different labeled drug lots (2015-037-3B/3T, 2015-037-42B/43D, 2015-037-49B, 2015-03750D/52B, and 2016-063-18/19) were used during clinical development partial assay revelation was performed
+for each of these lots, with screening cutpoint, confirmatory cutpoint, control system suitability ranges, and drug
+tolerance being evaluated during each partial validation.
+NC, LPC/NC and HPC/NC system suitability limits
+Data from partial validation runs for each labeled drug lot were used to calculate NC, LPC/NC, and HPC/ NC
+ratios. Outliers were excluded, and the data were assessed for normality. In most cases it was necessary to use
+a natural log transformation to approximate a normal distribution, and in some cases (particularly for the NC) if
+transformation did not yield a normal distribution a nonparametric approach was used to assess the 99.7%
+percentile (equivalent to 3xSD range for normal distributions) to set the NC ranges .
+The assay acceptance limits were derived as follows:
+1. Calculate the interim control ranges for non-robustness runs using the following rules:
+• Lower ranges: Mean +/- 3xStdev for HPC/NC, LPC/NC, and NC
+• Upper ranges: Mean +/- 3xStdev for HPC/NC, LPC/NC, and NC
+2. Apply these ranges to the robustness runs and excluded any data points which did not
+meet the interim ranges calculated in Step 1.
+3. Calculate the final system suitability ranges for all acceptable runs using the following
+criteria
+• Lower ranges: Mean - 3xStdev for HPC/NC, LPC/NC, and NC
+• Upper ranges: Mean + 3xStdev for HPC/NC, LPC/NC, and NC
+Shown below are summary results for the suitability limits from the partial validations. Note that in most cases
+these limits were back-transformed to yield OD ratios.
+
+Reviewer comments
+The re-validation for control acceptance ranges yielded 2-3 fold ranges for the acceptance criteria, which seem
+somewhat broad. However, examination of the actual tabulated data for validation exercises across runs, days,
+and operators indicates narrow ranges of control values, and thus tight control in actual practice.
+Drug tolerance
+For drug tolerance, 2x BIIB037 (aducanumab) stock samples were prepared by serially diluting BIIB037 2-fold
+in blank matrix (negative control human serum) at a final concentration of 2000, 1000, 500, 250, 125, 62.5,
+31.25, 15.63 and 0.00 ng/ml. Stock samples containing 2x PC were prepared by serially diluting anti- BIIB037
+PC antibody 2-fold in blank matrix with resulting 2x concentrations of PC at a final concentration of 1000, 500,
+
+Reference ID: 4806876
+
+BLA 761178 Immunogenicity Review 11
+250, 125, 62.5, 31.25, 15.63 and 0.00 ng/mL. Equal volumes of each 2x BIIB037 stock sample and each 2x
+anti- BIIB037 PC stock sample were mixed in cluster tubes and pre-incubated at room temperature for at least 2
+hours but not more than 3 hours to allow drug:PC complex formation. The samples were stored at -60 to -80°C
+for at least 24 hours prior to use in the screening assay.
+From ts307-069vr-adden-2.pdf, Report Addendum No.2, Table 1
+
+Reviewer comments
+For labeled drug lot 2015-037-50D/52D the drug tolerance is 15.625 µg / ml. This reagent was used in the
+103, 301, and 302 studies, and the validated 15.625 µg/ ml drug tolerance may be below the mean aducanumab
+trough values observed in these studies, which are in the range 21-27 mg / L, or 21-27 µg/ ml. In response to
+the 9/23/2020 IR regarding this issue, the sponsor clarified that only one clinical sample had a serum
+aducanumab above the DT at the 15.625 ng/ ml anti-aducanumab level, and no samples were above the DT for
+the 100 ng /ml level of anti-aducanumab control antibody, indicating that for practical purposes the DT of
+assay is adequate.
+Screening and Confirmatory Cutpoints
+The screening assay cut point for this assay was determined using the baseline samples from the 221AD103
+study. In addition, a set of samples from commercial sources and representing healthy subjects of non-Japanese
+and Japanese ethnicity were evaluated during the cut point runs to evaluate the applicability of the derived cut
+points to broader population that includes Japanese subjects.
+The table below is from Method Validation Report Addendum 1, p.611, Appendix 23
+
+Reference ID: 4806876
+
+BLA 761178 Immunogenicity Review 12
+
+n.b. 2016-061-18 / 2016-061-19 was bridged with 2015-037-52D / 2015-037-50B validation.
+
+Reference ID: 4806876
+
+BLA 761178 Immunogenicity Review 13
+Additional information on screening and confirmatory cutpoint validation is provided in the table below
+Biotin
+labeled
+drug lot
+2015037-34B
+
+DIG
+labeled
+drug lot
+2015-0373T
+
+Cutpoint
+samples
+
+Transform
+confirmatory
+
+SCP
+
+Empirical CCP
+FPR
+
+Empirical
+FPR
+
+196 baseline
+221AD101
+42 Japanese,
+42 normal
+119 baseline
+221AD401
+
+Transform
+confirmatory
+
+1.46
+
+7.5%
+
+21.7 %
+1% FPR
+
+0.0%
+
+Transform
+confirmatory
+
+10.4%
+
+26.6 %
+1% FPR
+
+1.26%
+
+20152015-037037-49B 49D
+
+80 baseline
+221AD301,
+221AD302
+
+Transform
+confirmatory
+
+1.34
+Per 2019
+guidance
+1.24
+Per 2019
+guidance
+
+9.21 %
+
+16.7%
+1% FPR
+
+1.69%
+
+20152015-037037-52D 50B
+
+120 baseline
+221AD301-2
+
+No
+transformation
+
+1.9834
+Per 2019
+guidance
+Bridged with 2015-037-52D / 2015-37-50B
+
+10.0%
+
+20.21%
+1% FPR
+
+0.93%
+
+20152015-037037-42B 42B
+
+2016061-18
+
+2016-06119
+
+Reviewer comments
+The screening and confirmatory cutpoints were appropriately re-validated for each set of detection reagents,
+Except for the first set of detection reagents, the cutpoints were validated consistent with the FDA 2019
+guidance for immunogenicity assays. The SCPs yielded empirical False Positive Rates ranging from 7.5% to
+10.0%, demonstrating that these SCPs are not likely to miss to true positives, but rather will actually yield a
+level of false positives consistently higher than the suggested 5% FPR. The Confirmatory CutPoints all require
+an appreciable level of inhibition (16.7%-26.6%), which is expected to confirm true positives, but does not not
+require inhibition so great (> 50%) that the confirmatory assay would miss may low affinity antibodies. ..
+
+Neutralizing Antibody Assay
+A Nab assay was not developed or used in the aducanumab clinical trials.
+Regarding the NAb assay, as per Biogen’s response to the 9/23/ 2020 OBP IR
+Biogen had previously proposed to FDA to monitor anti-aducanumab antibodies and aducanumab exposure data
+in an integrated fashion to inform on neutralizing activity based on the aducanumab immunogenicity risk
+assessment (submitted to IND 106230 on August 3, 2017, Serial No. 0239). Biogen received agreement with
+FDA (by email on February 12, 2018) on the above proposal to identify subjects with neutralizing antiaducanumab antibodies by correlating anti-aducanumab antibody positivity to changes in aducanumab exposure
+and/or efficacy in treated subjects.
+However, due to the low ADA incidence, this approach was not feasible. Biogen did perform an ad-hoc analysis
+across 5 studies for ADA effect on clearance, and concluded that the systemic exposures of aducanumab
+including AUC and Cavg for ADA positive individuals were not affected by the presence of anti-aducanumab
+antibodies.
+
+Reference ID: 4806876
+
+BLA 761178 Immunogenicity Review 14
+Reviewer comments
+The need for a NAb assay was discussed with Clin-Pharm during the internal team meeting Oct 27, 2020. The
+Clin Pharm reviewer stated that he did not find a PMR for a NAb assay to necessary due to the low ADA
+incidence. OBP agreed with this approach.
+
+1.3
+
+Clinical Immunogenicity Results
+
+From the Integrated Summary of Immunogenicity
+For all four Phase 1 studies (221AD101, 221AD103, 221AD104, 221HV102) baseline samples were collected
+followed by a collection at between 2 to 4 weeks to monitor the anticipated onset of early immunogenicity
+responses. For the Phase 2 (221AD205) and Phase 3 studies (221AD301 and 221AD302) only long term
+(2ndary) responses were captured, with post-baseline immunogenicity samples beginning at week 16 for Phase
+2, and 24 weeks for Phase 3. In all studies subsequent the immunogenicity assessments were then spaced with a
+maximum of 8 weeks separation to establish persistence or response through year 2 of treatment. A similar
+approach was utilized for placebo cohorts that crossed over to drug treatment arms. For long-term extensions,
+the length between sampling was increased. In general, drug concentration assessments were collected at the
+same visits anti-aducanumab antibody samples to monitor impact on of immunogenicity on drug exposure.
+Specific criteria used to characterize immunogenicity for 221AD205, 221AD301, and 221AD302 were as
+follows:
+1. Subjects who screened positive for anti-aducanumab antibody at any point of the study were considered antiaducanumab antibody positive.
+2. Positive anti-aducanumab antibody responses were defined as treatment emergent if the participant had
+negative antibody evaluation at baseline or if the participant had an antibody positive evaluation at baseline but
+the postbaseline response was more than 2-fold increase in titer compared to the baseline response.
+3. Subjects with treatment-emergent positive anti-aducanumab antibody responses were classified as persistent
+positive if a positive evaluation occurred ≥ 112 days (16 weeks) apart or a positive evaluation occurred at the
+last available time point with no further negative results available. Responses were classified as transient
+positive if only a single positive evaluation occurred (that was not the last assessment), or if more than 1
+positive evaluation occurred within < 112 days (16 weeks) and not thereafter from the first positive evaluation.
+Reviewer comments
+The ADA characterization criteria is acceptable.
+Study 221AD101
+No subjects were positive for anti-aducanumab antibodies that were related to aducanumab treatment. Two
+aducanumab-treated subjects (2/39 [5%]), both in the 3.0 mg/kg dose group, and 2 subjects (2/14 [14%]) in the
+placebo group were anti-aducanumab antibody positive but were also positive at baseline. The titers of antiaducanumab antibodies in positive subject samples were low within 1 or 2 dilutions from the detection limit and
+remained stable over time within acceptable ± 2-fold variability of titers
+Reviewer comments
+Qualitatively, these results suggest that aducanumab is not highly immunogenic, but the small size of this study
+makes it difficult to draw strong conclusions.
+
+Reference ID: 4806876
+
+BLA 761178 Immunogenicity Review 15
+
+Study 221AD103
+Placebo-Controlled Period
+During the placebo-controlled period, 8 of 147 aducanumab-treated subjects (5%) had treatment-emergent antiaducanumab antibodies; 2 of 47 (4%) in the placebo group, 2 of 30 (7%) in the 1 mg/kg group, 0 of 32 (0%) in
+the 3 mg/kg group, 3 of 30 (10%) in the 6 mg/kg group, 1 of 32 (3%) in the 10 mg/kg group, 2 of 23 (9%) in the
+3 to 6 mg/kg titration group
+Reviewer comments
+Examination of the tabulated data for this placebo-controlled period shows that a similar number of positives
+occurred at immunogenicity sampling time-points throughout this study, indicating that the increased
+percentage of positives in this study do not result from the fact that samples were obtained at 4 and 8 weeks,
+versus taking the first samples only at 16 weeks or 24 weeks in the Phase 2 and Phase 3 studies. Nonetheless
+ADA levels were still low in this194 subject trial, supporting the modest immunogenicity of aducanumab.
+
+Active Treatment Period
+For the purpose of defining treatment-emergent anti-aducanumab antibodies during the active treatment period,
+the baseline of the placebo-controlled period was used as baseline for early starters, and baseline of the LTE
+period (beginning of aducanumab treatment) was used as baseline for late starters (placebo-treated subjects who
+transitioned to aducanumab at the start of the Long Term Extension). During the active treatment period, a total
+of 16 of 184 subjects (9%) had treatment-emergent anti-aducanumab antibodies; 4 of 30 (13%) in the 1 to 3
+mg/kg titration group, 0 of 42 (0%) in the 3 mg/kg group, 3 of 30 (10%) in the 6 mg/kg group, 2 of 32 (6%) in
+the 10 mg/kg group, 3 of 19 (16%) in the 3 to 6 mg/kg titration, and 4 of 31 (13%) in the 1 to 3 to 6 to 10 mg/kg
+titration group.
+Reviewer comments
+The number of positives continued to increase in the LTE, supporting the view that positives in this study are
+not a function of sampling at 4 and 8 weeks in the placebo-controlled segment.
+
+Study 221AD104
+There were no positive immunogenicity samples reported in this study.
+Study 221HV102
+There were no positive immunogenicity samples reported in this study.
+Study 221AD205
+There were no positive immunogenicity samples reported in this study.
+Studies 221AD301 and 221AD302
+For immunogenicity analysis, data from the Phase 3 Studies 301 and 302 were pooled because they were
+identically designed, the results were similar, and comprise the most robust dataset for evaluation of the
+immunogenicity of aducanumab. Both studies were conducted in a large number of subjects with mild cognitive
+impairment due to Alzheimer’s disease or mild Alzheimer’s disease dementia, and tested the proposed
+commercial dose of aducanumab (10 mg/kg after titration over 24 weeks), given IV once every 4 weeks
+Pool A1 (Phase 3 Placebo-Controlled Pool)
+
+Reference ID: 4806876
+
+BLA 761178 Immunogenicity Review 16
+This pool includes all randomized subjects who received at least 1 dose of study treatment (placebo or
+aducanumab) in the placebo-controlled period of the Phase 3 studies and allows for a direct comparison
+between aducanumab and placebo during the randomized placebo-controlled period
+of the Phase 3 studies.
+In Pool A1, a total of 9 of 1069 subjects in the placebo group (0.8%) and 30 of 2151 subjects in
+the total aducanumab group (1.4%) were positive for anti-aducanumab antibodies at any time during the
+placebo-controlled period, including the pre-dose baseline. The majority of the positive responses occurred at
+baseline prior to the first dose. In the placebo group, 2 of 1069 subjects (0.2%) had treatment-emergent antibody
+responses, of which 1 participant had a persistent response and 1 participant had a transient response. In the
+total aducanumab group, 10 of 2151 subjects (0.5%) had treatment-emergent antibody responses. Of these 10
+subjects, 2 subjects had a persistent response and 8 subjects had a transient response
+Reviewer comments
+In the A1 pool, for data from subjects in the placebo-controlled segment of the Phase 3 trial, a total of 9 of 1069
+subjects in the placebo group (0.8%) were ADA positive. There were 2151-1069 = 1082 subject receiving
+aducanumab, and of these 30-9=21 positives, for a 1.9% positivity rate. In the placebo group, 2 of 1069
+subjects (0.2%) had treatment-emergent antibody responses, of which 1 participant had a persistent response
+and 1 participant had a transient response. For subjects receiving aducanumab, (10-2)/1082 = 0.7% had
+treatment emergent ADA, with 1 subject showing a persistent response and 7 subjects showing a transient
+response. Taken together, these data indicate modest immunogenicity for aducanumab.
+Pool A2 (Phase 3 Aducanumab-Treated Pool)
+This pool includes all randomized subjects who received at least 1 dose of aducanumab at any time in the Phase
+3 studies, including placebo-controlled and/or LTE (Long Term Extension) periods, assessment of the overall
+immunogenicity profile including impact of longer term exposure based on all subjects exposed to aducanumab
+for the period of aducanumab treatment in the Phase 3 studies.
+In Pool A2, 37 of 2689 subjects (1.4%) were positive for anti-aducanumab antibodies at any time during the
+aducanumab-treated period of the study, including the predose baseline visit. Of these, 15 subjects were
+treatment emergent (0.6%), with 9 subjects having transient responses and 6 subjects having persistent
+responses.
+Reviewer comments
+In this pool, for which the totality of Phase 3 aducanumab exposure was assessed, there was low ADA incidence
+(1.4%) and low treatment emergent ADA (0.6%) again supporting the view that aducanumab elicits only
+modest immunogenicity.
+Information Requests Sent During Review
+Sept 23, 2020 IR
+FDA Information Request 1
+Provide a complete description of the positive control antibodies used in the ADA assay.
+FDA Information Request 2
+Lipid or lysed RBC in serum samples often affect the measurement of ADA. Therefore, provide
+data for the effects of lipidemia and hemolysis on your ADA assay.
+
+Reference ID: 4806876
+
+BLA 761178 Immunogenicity Review 17
+FDA Information Request 3
+The efficacy of aducanumab therapy for AD may be reduced by neutralizing activity (NAb) of ADA and
+assessment of NAb activity may be important for patient management. Therefore, provide an adequate rationale
+for not having a NAb assay.
+FDA Information Request 4
+You have changed lots of labeled drug detection reagents during clinical development, necessitating partial
+assay re-validation, including determination of drug tolerance. For labeled drug lot 2015-037-50D/52D you
+have determined a drug tolerance of 15.625 μg / ml (ADA validation Report Addendum No.2, Table I). This
+reagent was used in your 103, 301, and 302 studies, and the validated 15.625 μg/ml drug tolerance may be
+below the mean aducanumab trough values observed in these studies, which are in the range 21-27 mg / L, or
+21-27 μg/ ml. Therefore, in order to allow assessment of the accuracy of your ADA results, for each serum
+sample for which ADA were determined in 103, 301, and 302, provide the labeled drug lot, drug tolerance,
+ADA results, and aducanumab level at the time of sampling, highlighting samples for which the aducanumab
+levels were higher than the drug tolerance.
+Biogen Response, received October, ,2020
+Summary of Biogen responses
+Request 1’
+An adequate description of the monoclonal antibody positive control was provided and is discussed in the
+Validation Exercises section of this review.
+Request 2
+In their response Biogen argued that hemolysis and lipidemia are unlikely to affect ADA assays for biologics,
+and that there is no published reference indicate interference from these factors.
+Request 3
+Biogen provided background on discussion with the FDa regarding the NAB assay, including agreement not to
+pursue NAb assay development as discussed in the NAb assay section of this review.
+Request 4
+Biogen provided adequate rationale for the suitability of Drug Tolerance for the ADA assay, and this is
+discussed in the Validation Exercises and Drug Tolerance sections of this review.
+October 26, 2020 IR
+To assist in our evaluation of potential impact on your ADA assay resulting from hemolysis and lipidemia,
+provide data on the frequency of hemolysis and lipidemia in serum samples obtained for immunogenicity
+testing in your studies.
+Biogen Response, received Nov 2, 2020
+As the identification of hemolytic and lipemic samples is not a routine assessment for
+immunogenicity analysis (i.e. not specified in the lab method or sample analysis plan), no formal
+determination of the frequency of hemolysis and lipidemia in serum samples was conducted by
+the test facility during immunogenicity sample analysis.
+As previously indicated in Biogen’s response to a recent FDA information request, submitted on
+September 30, 2020 (Sequence No. 0027), there is no scientific rationale to support that these
+
+Reference ID: 4806876
+
+BLA 761178 Immunogenicity Review 18
+matrix anomalies would interfere in the ADA assay. Based on the evaluation of drug modality,
+drug target, disease population and ADA assay format there is no expectation that hemolysis or
+lipemia would interfere with the detection of anti-drug antibodies. For the full explanation please
+refer to the Biogen Response to FDA Information Request 2, submitted on September 30, 2020.
+Reviewer comments
+Biogen’s response essentially repeats the arguments in their responses to the FDA’s 9/23/2020 IR. It is the
+experience of OBP that assessment of matrix effects arising from hemolysis and lipidemia is typically part of
+ADA assay validation and examples of interference have been observed in several applications. In addition the
+potential interference from free hemoglobin and lipid is discussed in the FDA’s 2019 guidance for development
+of immunogenicity assays. Finally, in the Aducanumab trials, there was an approximate 19% incidence of both
+hyperlipidemia and hypercholestrolemia in the Phase 3 studies (Summary Clinical Safety m.2.7.4), and these
+conditions make it more likely that there will be interfering lipids in ADA samples. Therefore I recommend a
+PMC for evaluating the potential for matrix interference from hemolysis and lipidemia.
+IR sent 5/21/21
+PMC Language
+As discussed in the FDA 2019 guidance for immunogenicity assays, matrix effects arising from hemolysis and
+lipidemia have the potential to interfere with anti-drug antibody (ADA) assays. In this regard, there is an
+approximate 19% incidence of both hyperlipidemia and hypercholestrolemia in their Phase 3 studies (Summary
+Clinical Safety m.2.7.4), and these conditions make it more likely that there will be interfering lipids in ADA
+samples. Therefore the Sponsor should evaluate the potential for matrix interference from hemolysis and
+lipidemia in their assay for aducanumab ADA.
+Biogen response 5/25/21
+Biogen agreed to the FDA proposed 12/07/2021 submission data for the PMC final report
+
+Reference ID: 4806876
+
+Signature Page 1 of 1
+
+-------------------------------------------------------------------------------------------This is a representation of an electronic record that was signed
+electronically. Following this are manifestations of any and all
+electronic signatures for this electronic record.
+-------------------------------------------------------------------------------------------/s/
+-----------------------------------------------------------FREDERICK C MILLS
+06/04/2021 06:05:21 PM
+HAOHENG N YAN
+06/04/2021 06:10:53 PM
+
+Reference ID: 4806876
+
+FOOD AND DRUG ADMINISTRATION
+Center for Drug Evaluation and Research
+Office of Prescription Drug Promotion
+
+****Pre-decisional Agency Information****
+Memorandum
+Date:
+
+June 1, 2021
+
+To:
+
+Kevin Krudys, Clinical Reviewer
+Division of Neurology Products (DN1)
+E. Andrew Papanastasiou, Regulatory Project Manager, (DN1)
+Tracy Peters, Associate Director for Labeling, (DN1)
+
+From:
+
+Sapna Shah, Regulatory Review Officer
+Office of Prescription Drug Promotion (OPDP)
+
+CC:
+
+Aline Moukhtara, Team Leader, OPDP
+
+Subject:
+
+OPDP Labeling Comments for ADUHELM TM (aducanumab-avwa),
+injection for intravenous use
+
+BLA:
+
+761178
+
+In response to DN1’s consult request dated July 15, 2020, OPDP has reviewed the proposed
+product labeling (PI), Medication Guide, and carton and container labeling for the original BLA
+submission for ADUHELM TM (aducanumab-avwa) injection for intravenous use.
+PI: OPDP’s comments on the proposed labeling are based on the draft labeling received by
+electronic mail from DN1 (E. Andrew Papanastasiou) on May 19, 2021, and are provided
+below.
+Medication Guide: A combined OPDP and Division of Medical Policy Programs (DMPP)
+review was completed, and comments on the proposed Medication Guide were sent under
+separate cover on May 26, 2021.
+Carton and Container Labeling: OPDP has reviewed the attached proposed carton and
+container labeling submitted by the Sponsor to the electronic document room October 30,
+2020, and we do not have any comments.
+Thank you for your consult. If you have any questions, please contact Sapna Shah at (240)
+402-6068 or Sapna.Shah@fda.hhs.gov.
+
+1
+Reference ID: 4804433
+
+22 Page(s) of Draft Labeling have been Withheld in Full as b4 (CCI/TS) immediately following
+this page
+
+Signature Page 1 of 1
+
+-------------------------------------------------------------------------------------------This is a representation of an electronic record that was signed
+electronically. Following this are manifestations of any and all
+electronic signatures for this electronic record.
+-------------------------------------------------------------------------------------------/s/
+-----------------------------------------------------------SAPNA P SHAH
+06/01/2021 02:30:39 PM
+
+Reference ID: 4804433
+
+Department of Health and Human Services
+Public Health Service
+Food and Drug Administration
+Center for Drug Evaluation and Research
+Office of Medical Policy
+PATIENT LABELING REVIEW
+Date:
+
+May 26, 2021
+
+To:
+
+E. Andrew Papanastasiou,
+Regulatory Project Manager, RPM
+Division of Neurology 1 (DN 1)
+
+Through:
+
+LaShawn Griffiths, MSHS-PH, BSN, RN
+Associate Director for Patient Labeling
+Division of Medical Policy Programs (DMPP)
+
+From:
+
+Sharon W. Williams, MSN, BSN, RN
+Senior Patient Labeling Reviewer
+Division of Medical Policy Programs (DMPP)
+Sapna Shah, PharmD
+Regulatory Review Officer
+Office of Prescription Drug Promotion (OPDP)
+
+Subject:
+
+Review of Patient Labeling: Medication Guide (MG)
+
+Drug Name (established
+name):
+
+ADUHELM (aducanumab)
+
+Dosage Form and Route: injection, for infusion
+Application
+Type/Number:
+
+BLA 761178
+
+Applicant:
+
+Biogen Inc.
+
+Reference ID: 4801783
+
+1
+
+INTRODUCTION
+On February 20, 2020, May 15, 2020, and July 7, 2020, Biogen Inc. submitted for
+the Agency’s review a rolling submission of an Orignal New Biologic Drug
+Licensing Application (BLA) for ADUHELM (aducanumab) injection, for
+intravenous use. The purpose of the application is to seek approval for the use of
+ADUHELM (aducanumab) injection, for intravenous use to delay the clinical decline
+of patients with Alzheimer’s disease. On January 27, 2021, Biogen submitted
+additional information which constituted a major amendement to the application.
+Therefore, the Agency extended the goal date by three months to provide time for a
+full review of the submission.
+This collaborative review is written by the Division of Medical Policy Programs
+(DMPP) and the Office of Prescription Drug Promotion (OPDP) in response to a
+request by the Division of Neurology 1 (DN 1) on July 15, 2020, for DMPP and
+OPDP respectively to review the Applicant’s proposed MG for ADUHELM
+(aducanumab) injection, for intravenous use.
+
+2
+
+3
+
+MATERIAL REVIEWED
+•
+
+Draft ADUHELM (aducanumab) MG received on July 7, 2020 and received by
+DMPP and OPDP on May 19, 2021.
+
+•
+
+Draft ADUHELM (aducanumab) Prescribing Information (PI) received on July 7,
+2020, revised by the Review Division throughout the review cycle, and received
+by DMPP and OPDP on May 19, 2021.
+
+REVIEW METHODS
+To enhance patient comprehension, materials should be written at a 6th to 8th grade
+reading level, and have a reading ease score of at least 60%. A reading ease score of
+60% corresponds to an 8th grade reading level.
+Additonally, in 2008, the American Society of Consultant Pharmacists Foundation
+(ASCP) in collaboration with the American Foundation for the Blind (AFB)
+published Guidelines for Prescription Labeling and Consumer Medication
+Information for People with Vision Loss. The ASCP and AFB recommended using
+fonts such as Verdana, Arial or APHont to make medical information more
+accessible for patients with vision loss.
+In our collaborative review of the MG we:
+
+Reference ID: 4801783
+
+•
+
+simplified wording and clarified concepts where possible
+
+•
+
+ensured that the MG is consistent with the Prescribing Information (PI)
+
+•
+
+removed unnecessary or redundant information
+
+•
+
+ensured that the MG is free of promotional language or suggested revisions to
+ensure that it is free of promotional language
+
+•
+
+ensured that the MG meets the Regulations as specified in 21 CFR 208.20
+
+•
+
+4
+
+ensured that the MG meets the criteria as specified in FDA’s Guidance for
+Useful Written Consumer Medication Information (published July 2006)
+
+CONCLUSIONS
+The MG is acceptable with our recommended changes.
+
+5
+
+RECOMMENDATIONS
+•
+
+Please send these comments to the Applicant and copy DMPP and OPDP on the
+correspondence.
+
+•
+
+Our collaborative review of the MG is appended to this memorandum. Consult
+DMPP and OPDP regarding any additional revisions made to the PI to determine
+if corresponding revisions need to be made to the MG.
+
+Please let us know if you have any questions.
+
+Reference ID: 4801783
+
+4 Page(s) of Draft Labeling have been Withheld in Full as b4 (CCI/TS) immediately following
+this page
+
+Signature Page 1 of 1
+
+-------------------------------------------------------------------------------------------This is a representation of an electronic record that was signed
+electronically. Following this are manifestations of any and all
+electronic signatures for this electronic record.
+-------------------------------------------------------------------------------------------/s/
+-----------------------------------------------------------SHARON W WILLIAMS
+05/26/2021 12:08:24 PM
+SAPNA P SHAH
+05/26/2021 01:00:20 PM
+LASHAWN M GRIFFITHS
+05/26/2021 01:06:16 PM
+
+Reference ID: 4801783
+
+Clinical Inspection Summary
+Date
+From
+
+To
+
+BLA #
+Applicant
+Drug
+NME
+Proposed Indication
+Consultation Request
+Date
+Summary Goal Date
+Priority/Standard
+Review
+PDUFA Date
+
+I.
+
+2/8/2021
+Cara Alfaro, Pharm.D., Clinical Analyst
+Good Clinical Practice Assessment Branch
+Division of Clinical Compliance Evaluation
+Office of Scientific Investigations
+Emilios (Andrew) Papanastasiou, Regulatory Project Manager
+Kevin Krudys, M.D., Medical Officer
+Ranjit Mani, M.D., Team Leader
+Division of Neurology 1
+Office of Neuroscience
+761178
+Biogen
+Aducanumab
+Yes
+To delay clinical decline in patients with Alzheimer’s disease
+7/28/2020
+11/18/2020, extended to 2/5/2021
+Priority
+3/7/2021, extended to 6/7/2021 due to major amendment
+
+OVERALL ASSESSMENT OF FINDINGS AND RECOMMENDATIONS
+
+The clinical investigators (CIs) Drs. Ott and Van Dyck, and the sponsor, Biogen, were inspected
+in support of this BLA, covering Protocols 221AD103 and 221AD302. No significant GCP issues
+were discovered during the CI inspections. Although there were some findings during the
+sponsor inspection, as described below, the studies appear to have been conducted
+adequately, and the data generated by these sites and submitted by the sponsor appear
+acceptable in support of the respective indication.
+On March 21, 2019, the sponsor announced the termination of two identical Phase 3 studies
+(221AD301 and 221AD302) based on the results of an interim futility analysis for data
+collected up to 12/26/2018. The sponsor performed subsequent efficacy analyses based on
+data available through March 20, 2019, with results that questioned the earlier assessment of
+futility. In analyses that included the data up to study termination, Protocol 221AD302
+appeared to provide evidence of efficacy, though Protocol 221AD301 reportedly did not (and
+was therefore not covered during these inspections). Protocol 221AD302 was unblinded on
+4/18/2019. During the sponsor inspection, one focus was to identify any changes made to
+data after unblinding of the study.
+
+Reference ID: 4743371
+
+Page 2
+
+Clinical Inspection Summary
+BLA #761178 Aducanumab
+
+For Protocol 221AD302, clinical outcome assessments (COAs) were entered directly into an
+electronic device, the Virgil Tablet, provided by the vendor, MedAvante. COAs included the
+primary efficacy measure, i.e., the Clinical Dementia Rating (CDR) scale. During the sponsor
+inspection, changes to Week 78 CDR scores after study unblinding for visits occurring before
+study termination were identified for ten (<1%) subjects. These changes were made after
+review of data and query by MedAvante and subsequent discussion and concurrence by the
+blinded CDR rater. The changes occurred in the aducanumab low dose and high dose groups
+and included both increases and decreases in CDR scores.
+A review of the Virgil Tablet Activity log noted instances of significant delays between the
+start and end dates of CDR assessments as well as delays between the end of the CDR
+assessment and the electronic signature. Once an electronic signature was completed, data
+could no longer be altered on the tablet, and the data was then uploaded into the database
+(Virgil Portal). Audit trails began when the data had been uploaded to the Virgil Portal.
+However, prior to the electronic signature, data could be changed on the Virgil Tablet without
+an audit trail record. A >8 hour delay between the start and end of Week 78 CDR assessments
+was noted for 3.8% of subjects for data collected prior to study termination. A >1 hour delay
+between the end of the CDR assessment and electronic signature was noted for 7.2% of Week
+78 CDR assessments for data collected prior to study termination.
+These time delays occurred throughout the study and were not identified until April 2019,
+after study termination, when the Virgil Activity Log report was provided to the sponsor upon
+request. Therefore, since these time delays were not identified during the conduct of the
+trial, there were no systems in place to alert the rater, clinical site, vendor, or sponsor in real
+time to prevent the delays. User Acceptance Testing (UAT), conducted by the sponsor, may
+have identified these issues so that they could have been addressed by the vendor prior to
+initiation of Protocol 221AD302. Since no audit trails were available until data was uploaded
+to the Virgil Portal, it is not known if there were any changes to data during these time delays.
+This information was provided to the FDA statistical reviewer, who performed sensitivity
+analyses excluding subjects with these time delays. These sensitivity analyses reportedly
+supported the overall efficacy conclusions for Protocol 221AD302.
+II.
+
+BACKGROUND
+
+Aducanumab intravenous injection is being developed under BLA 761178 (IND 106230) to
+delay clinical decline in patients with Alzheimer’s disease. Aducanumab is a human
+immunoglobulin gamma 1 (IgG1) anti‐amyloid beta (Aβ) monoclonal antibody that targets
+aggregated soluble and insoluble forms of Aβ. Aducanumab is hypothesized to delay clinical
+decline by removing amyloid plaques that accumulate in the brains of people with
+Alzheimer’s disease.
+
+Reference ID: 4743371
+
+Page 3
+
+Clinical Inspection Summary
+BLA #761178 Aducanumab
+
+On March 21, 2019, the sponsor announced the termination of two Phase 3 studies
+(221AD301 and 221AD302) based on the results of an interim futility analysis for data
+collected up to 12/26/2018. The sponsor performed subsequent efficacy analyses based on
+data available through March 20, 2019 with results that questioned the earlier assessment of
+futility. The sponsor and the review division held meetings to discuss these analyses, details
+of which are beyond the scope of this Clinical Inspection Summary (CIS).
+The sponsor submitted the results of a Phase 3 study (Protocol 221AD302) and a Phase 1
+study (Protocol 221AD103) to support the efficacy and safety of aducanumab to delay clinical
+decline in patients with Alzheimer’s disease. The results of the Phase 3 Protocol 221AD301,
+which did not demonstrate efficacy, was also included in the BLA submission. Clinical
+investigator and sponsor inspections covered Protocols 221AD302 and 221AD103 only.
+Protocol 221AD301 was covered in a sponsor surveillance inspection conducted by the
+Medicines and Healthcare products Regulatory Agency (MHRA) and is briefly summarized in
+this CIS.
+Protocol 221AD302
+Title: “A Phase 3 multicenter, randomized, double‐blind, placebo controlled, parallel‐
+group study to evaluate the efficacy and safety of aducanumab (BIIB037) in subjects
+with early Alzheimer’s disease”
+Subjects: 1643 randomized
+Sites: 181 sites in the following geographic areas: North America [71 sites (United
+States 58, Canada 13)], Asia/Pacific (27 sites), Western Europe (69 sites), and Eastern
+Europe (14 sites)
+Study Initiation and Completion Dates: 9/15/2015 to 8/5/2019
+This was a randomized, double‐blind, placebo‐controlled Phase 3 study in subjects
+with early Alzheimer’s disease (AD). Included were male or female subjects, 50 to 85
+years of age (inclusive), mild cognitive impairment (MCI) due to AD or mild AD,
+positive amyloid PET scan, consent to ApoE ɛ4 genotyping, and having one
+informant/caregiver who can provide accurate information about the subject’s
+cognitive and functional abilities.
+The subject must have met all of the following clinical criteria for MCI due to AD or
+mild AD:
+ A Clinical Dementia Rating (CDR) global score of 0.5
+ A Repeatable Battery for Assessment of Neuropsychological Status (RBANS)
+score of <85 of objective cognitive impairment (based on the Delayed
+Memory Index score)
+ Mini‐Mental State Examination (MMSE) score between 24 and 30 (inclusive)
+
+Reference ID: 4743371
+
+Page 4
+
+Clinical Inspection Summary
+BLA #761178 Aducanumab
+
+Concomitant chronic medications were allowed if the doses had been stable for 4
+weeks prior to Screening Visit 1 and during Screening up to Study Day 1. However,
+concomitant medications for AD (e.g., donepezil, rivastigmine, galantamine, tacrine,
+and memantine) were only allowed if the dose had been stable for 8 weeks prior to
+Screening Visit 1 and during Screening up to Study Day 1.
+The protocol was comprised of four phases:
+Screening: 8 weeks
+Placebo‐controlled Phase: 76 weeks
+Investigational product (IP) was administered by IV infusion approximately every 4
+weeks, over approximately 76 weeks, for a total of 20 doses. Randomization was
+stratified by site and ApoE ɛ4 status. Based upon their ApoE ɛ4 carrier status, subjects
+were randomized (1:1:1) to one of three groups:
+ApoE ɛ4 Carrier
+ Aducanumab 3 mg/kg (low dose); 1 mg/kg for 2 doses, 3 mg/kg thereafter
+ Aducanumab 10 mg/kg (high dose); 1 mg/kg for 2 doses, 3 mg/kg for 2 doses, 6
+mg/kg for 2 doses, 10 mg/kg thereafter
+ Placebo
+ApoE ɛ4 Non‐Carrier
+ Aducanumab 6 mg/kg (low dose); 1 mg/kg for 2 doses, 3 mg/kg for 4 doses, 6
+mg/kg thereafter
+ Aducanumab 10 mg/kg (high dose); 1 mg/kg for 2 doses, 3 mg/kg for 2 doses, 6
+mg/kg for 2 doses, 10 mg/kg thereafter
+ Placebo
+Of note, as of Protocol Version 4 (3/24/2017), the high dose for the ApoE ɛ4 carriers
+was changed from 6 mg/kg to 10 mg/kg. ApoE ɛ4 carriers who were randomly
+assigned to the high‐dose group when the target dose was 6 mg/kg must have
+received 2 doses or more at 6 mg/kg prior to being titrated up to 10 mg/kg.
+Long‐Term Extension Phase: up to 5 years per protocol
+Subjects must have completed the placebo‐controlled phase of the study, taken at
+least 14 doses of IP, and not missed more than 4 consecutive doses of IP.
+Subjects who received aducanumab in the placebo‐controlled phase continued to
+receive the same dose. Subjects randomized to placebo in the placebo‐controlled
+phase were randomized (1:1) to receive dose‐blinded aducanumab at the low or high
+dose administered as in the placebo‐controlled phase (e.g. titration regimens, ApoE ɛ4
+status).
+
+Reference ID: 4743371
+
+Page 5
+
+Clinical Inspection Summary
+BLA #761178 Aducanumab
+
+Follow‐Up Safety Visit
+This visit occurred at Week 94 for subjects who did not enter the Long‐Term Extension
+Phase or 18 weeks after last administration of IP for subjects who withdrew from the
+study. A follow‐up safety visit also occurred for subjects in the Long‐Term Extension
+phase.
+The primary efficacy endpoint was the change from baseline in CDR‐SB score at Week
+78.
+Protocol 221AD103
+Title: “A randomized, double‐blinded, placebo‐controlled multiple dose study to
+assess the safety, tolerability, pharmacokinetics, and pharmacodynamics of BIIB037
+[aducanumab] in subjects with prodromal or mild Alzheimer’s Disease”
+Subjects: 197
+Sites: 27 sites in the United States
+Study Initiation and Completion Dates: 10/5/2012 to 7/31/2019
+This was a Phase 1, randomized, double‐blind, placebo‐controlled study in subjects
+with prodromal or mild Alzheimer’s Disease (AD). Included were males or females, 50
+to 90 years of age, positive 18F‐AV‐45 PET scan, consent for ApoE ɛ4 genotyping, a
+reliable informant or caregiver, and meeting criteria for prodromal or mild Alzheimer’s
+disease. Concomitant medications for AD were allowed if the doses were stable for 4
+weeks prior to screening and throughout the study.
+Subjects must have met all of the following criteria for Prodromal Alzheimer’s
+disease:
+ MMSE score between 24 and 30 (inclusive)
+ A spontaneous memory complaint
+ Objective memory loss, defined as a free recall score of <27 on the Free and
+Cued Selective Reminding Test (FCSRT)
+ A global CDR score of 0.5
+ Absence of significant levels of impairment in other cognitive domains
+ Essentially preserved activities of daily living and an absence of dementia
+Subjects must have met all of the following criteria for Mild Alzheimer’s disease:
+ MMSE scores between 20 and 26 (inclusive)
+ A global CDR score of 0.5 or 1.0
+ Meeting the National Institute on Aging‐Alzheimer’s Association core clinical
+criteria for probable Alzheimer’s disease
+The study was comprised of four periods:
+
+Reference ID: 4743371
+
+Page 6
+
+Clinical Inspection Summary
+BLA #761178 Aducanumab
+
+Screening Period – up to 60 days
+Placebo‐Controlled Period: 12 months
+The placebo‐controlled phase was a staggered, parallel‐group design with the first 3
+treatment arms (Arms 1 to 3) enrolled in parallel, followed by Arms 4 and 5 enrolled in
+parallel, etc. Dose escalation was based on independent Data Monitoring Committee
+recommendations following review of data.
+Subjects received 14 doses of investigational product (IP) administered by intravenous
+infusion every 4 weeks:
+ Arms 1 to 3 (3:3:2 ratio): aducanumab 1 mg/kg, aducanumab 3 mg/kg, or
+placebo
+ Arms 4 and 5 (3:1 ratio): aducanumab 10 mg/kg or placebo
+ Arms 6 and 7 (3:1 ratio): aducanumab 6 mg/kg or placebo
+ Arms 8 and 9 (3:1 ratio): aducanumab titrated to 10 mg/kg (1 mg/kg x two
+doses, 3 mg/kg x four doses, 6 mg/kg x 5 doses, 10 mg/kg thereafter) or
+placebo
+Randomization was stratified by ApoE ɛ4 status (carrier or noncarrier), with the
+exception of Arms 8 and 9, which enrolled ApoE ɛ4 carriers only.
+Long Term Extension Period: up to 8 years per protocol
+All subjects received aducanumab in this phase, but the dose was blinded. Subjects
+were eligible for the long‐term extension phase if they completed the placebo‐
+controlled portion of the study, received 11 or more doses, did not miss more than 2
+consecutive doses, and had a MMSE score >10 at Week 52.
+Subjects who had been randomized to aducanumab continued the dose they received
+in the placebo‐controlled phase with the exception of those subjects who were
+randomized to 1 mg/kg (e.g. Arm 1); they received 3 mg/kg.
+Subjects who received placebo during the placebo‐controlled phase received
+aducanumab as follows:
+ Arms 3, 5, and 7: aducanumab 6 mg/kg in a titration regimen (2 doses of 3 mg/kg
+then 6 mg/kg thereafter)
+
+
+Arm 9: aducanumab titrated to 10 mg/kg (as above)
+
+Follow‐Up Period – a safety follow‐up phone call occurred 14 days after the last dose
+was administered
+
+Reference ID: 4743371
+
+Page 7
+
+Clinical Inspection Summary
+BLA #761178 Aducanumab
+
+For this Phase I study, the primary objective was to evaluate the safety and tolerability
+of multiple doses of aducanumab in subjects with prodromal or mild Alzheimer’s
+disease dementia. Exploratory objectives included several measures of clinical
+progression, including the CDR scale, MMSE, and others. One of these exploratory
+efficacy measures included the change in CDR sum of boxes (CDR‐SB) score from
+baseline to Week 54, comparing placebo and aducanumab.
+Virgil Tablet
+For Protocol 221AD302, ratings for the electronic Clinical Outcome Assessments
+(eCOAs), including the CDR, were entered into the electronic device, the Virgil Tablet,
+by the onsite rater. The Virgil Tablet was provided by the vendor, MedAvante.
+Briefly, the sequence of events from the start of the assessment to uploading the data
+into the database included the following:
+1. Rater logs onto the tablet and starts the assessment by clicking on “Start”. This
+action generates an Activity Start Date/Time Stamp
+2. Rater completes the assessment and clicks on “Submit”. This action generates an
+Activity End Date/Time Stamp
+3. The system immediately prompts for an electronic signature of the rater. The
+rater enters credentials and clicks on “Sign”. This action generates a Submission
+Date/Time Stamp. After the rater clicks on “Sign”, no further changes can be
+made to the data.
+4. System immediately queues the assessment for transmission to the Virgil Portal.
+Audit trails begin once the data has been received on the Virgil Portal.
+Of note, if any changes need to be made to the eCOA data after it has been uploaded
+into the portal, the data is pushed back to the tablet for editing, and these changes
+are documented in the audit trail.
+Data from the Virgil Tablet were reviewed during the clinical investigator inspections
+to verify CDR scores.
+Amyloid‐Related Imaging Abnormalities
+Amyloid‐related imaging abnormalities (ARIA) is an adverse event of special interest
+for aducanumab. ARIA‐E (edema) and ARIA‐H (microhemorrhage, superficial siderosis,
+macro‐hemorrhage) are imaging findings identified based on centrally read MRI
+(b) (4)
+sequences. The vendor,
+was responsible for the central reading of the MRIs.
+All cases of symptomatic ARIA were reported as medically important SAEs, even if
+none of the other serious criteria were met. All cases of asymptomatic ARIA were
+recorded as nonserious AEs, unless the clinical investigator considered that the event
+met SAE criteria.
+
+Reference ID: 4743371
+
+Page 8
+
+Clinical Inspection Summary
+BLA #761178 Aducanumab
+(b) (4)
+
+reported cases of ARIA‐E and ARIA‐H to both the sponsor and the clinical
+investigator. All cases were reviewed by the sponsor and clinical investigator, and
+decisions on dosing continuation, interruption, or discontinuation were based on
+clinical symptoms and MRI findings.
+The clinical investigator inspections evaluated the adverse event reporting for ARIA as
+well as the processes for maintaining the study blind.
+Rationale for Site Selection
+The clinical sites were chosen primarily based on risk ranking in the site selection tool,
+numbers of enrolled subjects, enrollment in both Protocol 221AD103 and Protocol
+221AD302, subjects with Amyloid‐Related Imaging Abnormalities (ARIA), and prior
+inspectional history.
+III.
+
+RESULTS
+
+1. Brian Ott, M.D.
+Protocol 221AD103: Site #228
+Protocol 221AD302: Site #831
+Rhode Island Hospital
+593 Eddy Street
+Providence, RI 02903
+Inspection Dates: 9/8/2020 – 9/14/2020
+At this site for Protocol 221AD302, 34 subjects were screened, 17 were randomized, 14
+subjects completed the double‐blind phase of the study, and 13 subjects continued into the
+long‐term extension phase until the study was terminated by the sponsor. Three subjects
+discontinued the study during the double‐blind phase of the study due to: study termination
+by the sponsor (n = 2) and withdrawal of consent.
+At this site for Protocol 221AD103, 10 subjects were randomized, while 7 subjects completed
+the double‐blind phase of the study and continued into the long‐term extension phase. Three
+subjects discontinued during the double‐blind phase of the study due to: study visit burden (n
+= 2) and adverse event (ARIA‐E symptomatic; ARIA‐H superficial siderosis, symptomatic; ARIA‐
+H microhemorrhage, symptomatic). Six of the seven subjects discontinued during the long‐
+term extension phase due to: study termination by sponsor (n = 2), progression of disease,
+(b) (6)
+death (Subject
+), adverse event (peripheral edema), and investigator’s decision. The
+narrative of the death was included in the BLA submission with the reported term
+“Alzheimer’s disease progression”.
+Signed informed consent forms, dated prior to participation in the study, were present for all
+subjects who were screened. An audit of the study records of all randomized subjects in
+
+Reference ID: 4743371
+
+Page 9
+
+Clinical Inspection Summary
+BLA #761178 Aducanumab
+
+Protocols 221AD103 and 221AD302 was conducted. Records reviewed included, but were not
+limited to, source documents, monitoring documents, training documents (protocol, raters),
+IRB/sponsor communications, financial disclosure, test article accountability, inclusion and
+exclusion criteria, adverse event reports, laboratory results, concomitant medications,
+protocol deviations, secondary efficacy endpoint data (Mini Mental Status Examination
+[MMSE], and primary efficacy endpoint data (Clinical Dementia Rating‐Sum of Boxes score
+[CDR‐SB]).
+For Protocol 221AD103, all clinical outcome assessments (COAs), including the CDR, were
+recorded on paper forms. For Protocol 221AD302, all COAs, including the CDR, were entered
+directly into the Virgil Tablet. For both protocols, the double‐blind phase was the focus for
+the verification of CDR and MMSE scores. The FDA field investigator interviewed the blinded
+CDR rater who performed ratings for both studies and confirmed that the rater did not have
+access to any subject‐specific study data (e.g. adverse events) that could unblind the rater.
+Protocol 221AD103
+CDR and MMSE scores for all subjects were verified and one discrepancy was noted. For
+(b) (6)
+the CDR assessment at Week 54 of the double‐blind phase in Subject
+, the CDR
+score on one item was changed from 0 to 1 based on a query; however, this data change
+was not recorded on the paper source.
+Protocol 221AD302
+CDR and MMSE scores for all subjects were verified.
+During review of the Virgil Tablet data, delays in date stamps were noted (see
+Background). Specifically, for the subjects listed in Table 1, there was a significant delay
+between the start and end dates for CDR assessments. The CDR rater did not have an
+explanation for these delays.
+Table 1. Virgil Tablets: Delay Between Start and End Dates for CDR Assessments
+(Protocol 221AD302)
+Subject #
+
+(b) (6)
+
+Treatment
+Arm
+
+Visit
+
+Aducanumab Week 338
+high dose
+Aducanumab Week 50
+high dose
+Placebo
+Week 338
+
+Assessment
+
+Start Date
+of
+Assessment
+
+CDR
+CDR
+CDR
+
+At this site, there was no evidence of underreporting of adverse events.
+
+Reference ID: 4743371
+
+End Date of
+Assessment and
+Electronic
+Signature
+(b) (6)
+
+Page 10
+
+Clinical Inspection Summary
+BLA #761178 Aducanumab
+
+Reviewer comments: A review of Virgil Tablet date stamps identified delays in the start and
+end dates of CDR assessments for 3 of 17 (17.6%) subjects participating in Study 221AD302 at
+this site. Since audit trails began only once data had been uploaded into the Virgil Portal,
+there is no record for any changes that may have possibly been made to data during these
+time gaps. However, these CDR assessments occurred at Weeks 50 or Week 338 and not the
+primary visits of interest for the efficacy analyses (baseline, Week 78). Therefore, the finding is
+unlikely to have significant impact on trustworthiness and reliability of the primary efficacy
+data.
+Please refer to the Virgil Tablet discussion under the Biogen inspection summary for a more
+comprehensive discussion.
+2. Christopher van Dyck, M.D.
+Protocol 221AD103: Site #218
+Protocol 221AD302: Site #850
+Yale University School of Alzheimer’s Disease Research Unit
+1 Church Street, 8th Floor
+New Haven, CT 06510
+Inspection Dates: 9/1/2020 – 9/10/2020
+At this site for Protocol 221AD302, 102 subjects were screened, 53 were randomized, 38
+subjects completed the double‐blind phase of the study, and 36 subjects continued into the
+long‐term extension phase until the study was terminated by the sponsor. Three subjects
+discontinued the study during the double‐blind phase due to: adverse event (asymptomatic
+ARIA‐H microhemorrhage), withdrawal by guardian due to study visit burden, and loss to
+follow‐up. Twelve subjects did not complete the double‐blind phase of the study due to study
+termination by the sponsor.
+At this site for Protocol 221AD103, 31 subjects were screened, 13 were randomized, 12
+subjects completed the double‐blind phase of the study, and 11 subjects continued into the
+long‐term extension phase of the study. One subject discontinued during the double‐blind
+phase of the study due to the adverse event of asymptomatic ARIA‐E. All 11 subjects
+discontinued the study during the long‐term extension phase due to: study termination by
+(b) (6)
+the sponsor (n = 6), death (Subject
+), progression of disease, adverse event (atrial
+fibrillation), and study visit burden (n = 2). The narrative of the death was included in the BLA
+submission with the reported term “death due to endstage Alzheimer’s disease”.
+Signed informed consent forms, dated prior to participation in the study, were present for all
+subjects who were screened. An audit of the study records of 7 of 13 (54%) enrolled subjects
+in Protocol 221AD103 and 8 of 53 (15%) randomized subjects in Protocol 221AD302 was
+conducted. Records reviewed included, but were not limited to, source documents,
+monitoring documents, training documents (protocol, raters), IRB/sponsor communications,
+financial disclosure, test article accountability, inclusion and exclusion criteria, adverse event
+
+Reference ID: 4743371
+
+Page 11
+
+Clinical Inspection Summary
+BLA #761178 Aducanumab
+
+reports, laboratory results, concomitant medications, protocol deviations, secondary efficacy
+endpoint data (MMSE), and primary efficacy endpoint data (CDR‐SB).
+For Protocol 221AD103, COAs, including the CDR, were recorded on paper forms. For Protocol
+221AD302, all COAs, including the CDR, were entered directly into the Virgil tablet. For both
+protocols, the double‐blind phase was the focus for the verification of CDR and MMSE scores.
+CDR and MMSE scores for all subjects reviewed were verified for both protocols.
+There were delays in date stamps on the Virgil Tablets used in Protocol 221AD302 (see
+Background), similar to the findings for Site 831. The CDR rater was interviewed and
+explained that sometimes she was performing other tasks for other studies and may have
+forgotten to hit the submit button (which corresponds to the end of the assessment) on the
+Virgil Tablet.
+Table 2. Virgil Tablets: Delay Between Start and End Dates for CDR Assessments
+(Protocol 221AD302)
+Subject #
+
+(b) (6)
+
+Treatment Arm
+
+Placebo
+Placebo
+Aducanumab
+low dose
+Aducanumab
+high dose
+
+Visit
+
+Assessment
+
+Week 50
+Week 78
+Week 78
+Week 50
+
+CDR
+CDR
+CDR
+CDR
+
+Week 26
+
+CDR
+
+Start Date of
+Assessment
+
+End Date of
+Assessment and
+Electronic
+Signature
+(b) (6)
+
+(b) (6)
+
+There were two adverse events in Subject
+during the double‐blind phase of the study
+that were not reported to the sponsor. This subject, randomized to aducanumab low dose,
+(b) (6)
+experienced a mild headache at the end of the infusion (on
+) as well as pain in right
+(b) (6)
+toe and leg on
+. The duration and outcome of these adverse events is not known.
+Reviewer comments: A review of Virgil Tablet date stamps identified delays in the start and
+end dates of CDR assessments for 4 out of 8 (50%) subjects reviewed during the inspection.
+Since audit trails began only once data had been uploaded into the Virgil Portal, there is no
+record for any possible changes that may have been made to data during these time gaps.
+These CDR assessments occurred at Weeks 26, 50, and 78.
+This reviewer reviewed Virgil Tablet date/time stamps for all 53 subjects randomized in
+Protocol 221AD302 at this site. Based on this review, approximately 20% of all CDR
+assessments had a >8 hour difference between assessment start and end times.
+
+Reference ID: 4743371
+
+Page 12
+
+Clinical Inspection Summary
+BLA #761178 Aducanumab
+
+Please refer to the Virgil Tablet discussion under the Biogen inspection summary for a more
+comprehensive discussion.
+Two unreported adverse events occurring in a single subject for Protocol 221AD302 were
+noted. It is unlikely that this omission would impact the overall safety analyses
+3. Biogen, Inc.
+225 Binney Street
+Cambridge, MA 02142
+Inspection Dates: 10/26/2020 – 11/10/2020
+This inspection covered the sponsor practices related to Protocols 221AD103 and 221AD302
+and focused on the two clinical investigator sites (above) that had been selected for
+inspection. Prior to the inspection, information requests were sent to the sponsor requesting
+the following documents pertaining to Protocol 221AD302: data flow/process maps, data
+management plans, eCRF audit trails, eCOA audit trails and system logs (Virgil Tablet), and a
+listing of all inadvertent unblinding incidents. The sponsor responses were being reviewed by
+this OSI reviewer concurrent with the inspection so that the FDA field investigator could
+address any questions arising from this review.
+Records reviewed during the inspection included, but were not limited to, SOPs,
+organizational charts, monitoring plan and reports, monitor training records and CVs, vendor
+contracts, transfer of responsibilities, investigator agreements, financial disclosure forms,
+pharmacovigilance procedures and records, blinding/unblinding procedures, protocol
+deviations, adverse event reporting, test article, and Virgil Tablet (validation, user acceptance
+testing, audit trails).
+The futility analysis for Protocols 221AD301 and 221AD302 was conducted by a Quintiles
+(now IQVIA) unblinded statistician for data collected up to 12/26/2018. This analysis was sent
+to the Data Monitoring Committee (DMC) on 3/8/2019. The DMC met on 3/11/2019 in a
+closed session with the statistician who conducted the futility analysis. In a Biogen DMC Data
+Review Meeting held on 3/19/2019, the DMC recommended study termination. Both
+protocols were terminated on 3/21/2019. After study termination, the sponsor conducted
+further blinded analyses on data collected up to the date of study termination. The studies
+were unblinded on 4/18/2019. On 5/15/2019, the sponsor requested a meeting with the
+review division. The sponsor met with the review division on 6/14/2019 to discuss the
+statistical analyses conducted on data collected up to study termination. Further details of
+this and subsequent meetings with the review division are beyond the scope of this CIS.
+
+Reference ID: 4743371
+
+Page 13
+
+Clinical Inspection Summary
+BLA #761178 Aducanumab
+
+Study Unblinding
+An Authorization to Release Treatment Assignments for Protocol 221AD302 was signed on
+3/21/2019 due to an “urgent need for internal analysis upon the readout of the futility
+analysis”. Treatment assignment information was released to the Biogen Study Management
+Team (SMT) statistician. The sponsor released treatment assignments to the IQVIA statistics
+team on 4/18/2019 (as stated in the Statistical Analysis Plan [SAP] amendment dated
+11/4/2019).
+In response to a 9/15/2020 FDA information request, the sponsor provided a summary of
+changes made to eCRFs after April 18, 2019 (date of unblinding) to data collected prior to
+3/21/2019 (date of study termination) for Protocol 221AD302. In general, the most common
+data changes were described as changes to administrative variables. Raw datasets with >5%
+changes included End of Study and End of Treatment (Long Term Extension) [DSEOS and
+DSEOT datasets], Adverse Events [AE dataset], predominantly the end date and outcome of
+the adverse event [AEENDAT and AEOUT variables], and peripheral blood mononuclear cell
+(PBMC) sample collection [PBMC dataset].
+Changes to the primary efficacy measure, i.e., CDR scores, that were made after April 18,
+2019 (date of unblinding) to data collected prior to 3/21/2019 (date of study termination) for
+Protocol 221AD302 are discussed below under Virgil Tablets.
+Reviewer comments: The extent of exploratory analyses beyond those pre‐specified in the
+analysis plan is unknown. The number and extent of changes to eCRFs after April 18, 2019 to
+data collected prior to March 21, 2019 appear minimal and are unlikely to impact the overall
+efficacy and safety analyses. Changes to CDR data are discussed below.
+Data Integrity ‐ Virgil Tablets
+For Protocol 221AD302, the primary efficacy measure, the CDR, was conducted by blinded
+CDR raters, and data was entered directly into an electronic tablet. The electronic tablet, the
+Virgil Tablet, was supplied to the sites by the vendor, MedAvante. Audit trails of the Virgil
+Tablet were requested in the 9/15/2020 information request and were received on 10/6/20
+and 10/30/20.
+A Virgil Assessment Activity Report was also submitted as requested. This report included
+several columns with activities and different date/time stamps. Understanding these activities
+and date/time stamps was important to understand when data could be changed with or
+without a record of changes appearing in the audit trails (refer to Background section of this
+report). Briefly, The CDR rater started the assessment by clicking on “Start” and ended the
+assessment by clicking on “Submit”. The Virgil Tablet then immediately prompted the rater
+
+Reference ID: 4743371
+
+Page 14
+
+Clinical Inspection Summary
+BLA #761178 Aducanumab
+
+for an electronic signature which prompted the rater to click on “Sign”. After the electronic
+signature was obtained, the system queued the assessment for transmission to the Virgil
+Portal. Audit trails began once data was received on the Virgil Portal. If any changes needed
+to be made to CDR scores after it was uploaded into the portal, the data was pushed back to
+the tablet for editing and these changes were documented in the audit trail.
+The sponsor had requested the Virgil Assessment Activity Report in early 2019, and
+MedAvante provided the report in April 2019, after the study had been terminated. Virgil
+tablet audit trails were also reviewed by this reviewer with a focus on any changes to CDR
+data (for the baseline and Week 78 timepoints) collected prior to 3/20/2019 that were made
+after the study was unblinded on 4/18/2019.
+The following issues were noted during review of the Virgil Assessment Activity Report and
+the Virgil audit trails:
+Delays in Assessment Start and End
+In their response, the sponsor noted that 94% of all CDR assessments were completed in less
+than or equal to four hours. The sponsor noted that for 3.4% of all CDR assessments, there
+was a delay in completion of the assessment of >8 hours. The sponsor stated that they
+performed another analysis excluding assessments with a delay in assessment completion >8
+hours and that this analysis was consistent with the original analysis results (results of
+analysis not provided in response). The sponsor did not provide a reason for these time
+delays.
+This reviewer conducted a review of the data for CDR assessments at Week 78 only, for data
+collected prior to study termination (March 21, 2019), and noted 35/908 (3.8%) subjects with
+a delay in completion of the CDR assessment >8 hours. For these 35 subjects, the range of
+delay was 8.2 hours to 35 days, with an average delay of 6.7 days and a median delay of 2
+days. The subjects with these delays were approximately equally distributed among the
+placebo, aducanumab low dose, and aducanumab high dose groups. A review of the
+date/time stamps noted that these types of delays occurred throughout the entire study,
+from 2015 to 2019.
+This issue was discussed during the inspection of Biogen. The sponsor was not aware of these
+delays during the conduct of the study as the Virgil Assessment Activity Report was not
+requested by the sponsor. There did not appear to be any review of data during the study
+that would have identified these delays and/or institute processes to rectify them, e.g. some
+alert system that could communicate with the rater, CRO, MedAvante, or sponsor to identify
+the delays in real time.
+Reviewer comments: Since Virgil Tablet audit trails are available only when the data is
+uploaded to the Virgil Portal, there is no way to know whether any CDR assessments were
+changed during these delays between assessment start and end.
+
+Reference ID: 4743371
+
+Page 15
+
+Clinical Inspection Summary
+BLA #761178 Aducanumab
+
+This reviewer requested that the FDA statistician perform a sensitivity analysis for the 35
+subjects with significant delays between the start and end date for the Week 78 CDR
+assessment to determine the robustness of the reported results. The overall efficacy results
+were not impacted by exclusion of these 35 subjects.
+Delays in Assessment End and Electronic Signature
+As noted above, when the rater clicks on “Submit” in the Virgil Tablet, there is an immediate
+prompt for an electronic signature. According to the sponsor, once the electronic signature is
+entered, no further changes can be made to the data, and it is in a queue to upload to the
+Virgil Portal.
+This reviewer conducted a review of the data for CDR assessments at Week 78 only, for data
+collected prior to study termination (March 21, 2019), and found that the average delay
+between assessment end and electronic signature was 25 seconds. However, it was noted
+that 66/908 (7.2%) assessments had a delay >1 hour. For these 66 subjects, the range of delay
+was 1 hour to 381 days, with an average delay of 31.4 days and a median delay of 4.6 days.
+Only one of these delays was for a Week 78 visit occurring before 3/21/2019 for which the
+(b) (6)
+electronic signature date stamp was after the date of unblinding (4/18/2019). Subject
+(b) (6)
+randomized to aducanumab low dose, had a Week 78 visit on
+with the CDR
+(b) (6)
+assessment completed on that date but with an electronic signature date stamp on
+(326 days later). Overall, the subjects with these delays were approximately equally
+distributed among the placebo, aducanumab low dose, and aducanumab high dose groups.
+Reviewer comments: Overall, the average time between the end of a CDR assessment and the
+electronic signature was 25 seconds, which is consistent with the automated prompt for
+electronic signature by the Virgil Tablet. The reason for the >1 hour delay in electronic
+signature in 66/908 (7.2%) of CDR assessments at Week 78 (for data obtained before
+3/21/2019) is not known. The delay is significant (>24 hours) for 42 of these 66 subjects.
+Per the sponsor, data cannot be changed after the electronic signature is obtained. Therefore,
+data could still be changed after the assessment was completed and before the electronic
+signature was obtained, with no record of any changes made. As noted above, Virgil Tablet
+audit trails are available only when the data is uploaded into the Virgil Portal after the
+electronic signature is obtained.
+This reviewer requested that the FDA statistician perform a sensitivity analysis for the 66
+subjects with delays >1 hour between the Week 78 CDR assessment end and electronic
+signature to determine the robustness of the reported results. The overall efficacy results were
+not impacted by exclusion of these 66 subjects. Only one of these delays involved an electronic
+signature obtained after the date of study unblinding. This subject was randomized to
+aducanumab low dose, which did not demonstrate efficacy.
+
+Reference ID: 4743371
+
+Page 16
+
+Clinical Inspection Summary
+BLA #761178 Aducanumab
+
+Delays Between Electronic Signature and Data Upload
+In their response, the sponsor noted that there was a delay of >24 hours between the
+electronic signature and data upload to the Virgil Portal for 4.3% of all CDR assessments.
+During the inspection, the sponsor noted that these delays could be due to a number of
+reasons, including insufficient internet connection at the time of data upload or turning off
+the Virgil tablet while the data was transferring.
+Reviewer comments: The delays between the electronic signature and data upload are less
+concerning since, according to the sponsor, the data cannot be changed once the electronic
+signature is obtained.
+Maintenance of Study Blind
+Clinical Outcome Assessments (COAs)
+Aspects of maintaining the blinding and independence of the COA raters was more detailed
+for Protocol 221AD302 as it was for Protocol 221AD103, the Phase 1 study. For Protocol
+221AD302, raters who performed COAs, including the CDR, were to be independent and not
+involved in any other aspect of subject care and management. They must have remained
+blinded to adverse events, concomitant therapy, laboratory data, imaging data, etc. The
+raters who performed the CDR ratings were to be different from the raters who performed
+the other COAs (e.g., MMSE, ADAS‐Cog13, etc.).
+During the two clinical investigator inspections (see above), CDR raters for Protocol 221AD302
+were interviewed, and the delegation logs were reviewed. There was no evidence that CDR
+raters had access to subject‐specific data that could unblind them. For Protocol 221AD103,
+there were four study personnel at Site 218 delegated with performing CDR assessments.
+Two of these study personnel were also delegated tasks that could potentially unblind them,
+including “medical assessments (e.g., AE/SAE reporting)” and performing physical
+examinations. Further discussion of these delegated tasks did not occur during the inspection,
+and it is not known if these two individuals performed any of the CDR assessments. Upon
+request, the sponsor provided a list of all CDR raters for all clinical sites. Virgil audit trails were
+reviewed by this reviewer for 20% of sites, and no CDR scores were found that were entered
+by study personnel other than these CDR raters.
+Changes to the CDR Sum of Boxes Scores
+This reviewer conducted a review of the Virgil Tablet audit trails to identify changes to the
+CDR Sum of Boxes (CDR‐SB) Scores made after the date of unblinding (4/18/2019) to data
+collected prior to study termination (3/21/2019) for the baseline and Week 78 timepoints.
+CDR‐SB score changes were identified in five subjects in the aducanumab low dose group and
+five subjects in the aducanumab high dose group (no changes were found in the placebo
+group). All changes were entered by a CDR rater at the site, with the reason specified as
+“consult with MedAvante.” These data changes were made, on average, approximately 122
+
+Reference ID: 4743371
+
+Page 17
+
+Clinical Inspection Summary
+BLA #761178 Aducanumab
+
+days (range 56 to 251 days) after the Week 78 visit in which the CDR assessment was
+conducted. For the CDR changes for the 5 subjects in the aducanumab low dose group, 2
+were decreases in CDR score and 3 were increases in CDR score. For the CDR changes for the
+5 subjects in the aducanumab high dose group, 3 were decreases in CDR score and 2 were
+increases in CDR score. Please see Table 3 below for more details.
+Table 3. Changes to CDR‐SB Scores for Week 78: Changes Made After Date of Unblinding
+(4/18/2019) to Data Collected Before Study Termination (3/21/2019)
+Subject
+Week 78/ET Visit
+CDR Sum of Boxes
+Date of Change
+Original
+Score
+
+Changed
+Score
+
+Aducanumab Low Dose
+(b) (6)
+
+(b) (6)
+
+4.5
+5
+6
+7
+11
+1.5
+
+4
+2.5
+7
+8
+12
+3
+
+(b) (6)
+
+(b) (6)
+
+7.5
+
+5.5
+
+(b) (6)
+
+2
+4.5
+5
+3
+7
+
+2.5
+5
+7
+2.5
+6
+
+*
+
+Aducanumab High Dose
+(b) (6)
+
+*CDR scores were changed twice for these subjects
+
+Reviewer comments: Changes to CDR‐SB scores for Week 78 that were made after the date of
+unblinding (4/18/2019) to data collected prior to study termination (3/21/2019) occurred in
+<1% of subjects. These changes included both increases and decreases in CDR‐SB scores in
+both the aducanumab low and high dose groups. Due to the low number of changes and the
+lack of a consistent pattern in CDR‐SB score changes that would favor aducanumab (i.e.,
+changes to lower CDR‐SB scores), it is unlikely that these changes would have an impact on
+the overall efficacy analyses for the study.
+The reason for the data changes was noted as “consult with MedAvante”. During the
+inspection, it was explained that MedAvante reviewed CDR scores which included reviewing
+audio recordings of the assessments. This might prompt a query to the site to discuss the
+rating if there were any questions noted upon MedAvante review. If the CDR rater concurred
+with the suggested change, the data would be sent back to the Virgil Tablet from the Virgil
+Portal, and the CDR rater would make that change.
+
+Reference ID: 4743371
+
+Page 18
+
+Clinical Inspection Summary
+BLA #761178 Aducanumab
+
+Amyloid‐Related Imaging Abnormalities (ARIA) and Potential ARIA Unblinding Incidents
+ARIA is an adverse event of interest for aducanumab, and cases of Amyloid‐Related Imaging
+Abnormalities‐Edema (ARIA‐E) as well as Amyloid‐Related Imaging Abnormalities‐
+Hemorrhage or superficial siderosis (ARIA‐H), both asymptomatic and symptomatic, occurred
+almost exclusively in subjects receiving aducanumab for both Protocols 221AD103 and
+221AD302. Knowledge of ARIA occurring in a specific subject could potentially reveal the
+study drug assignment for that subject; therefore the blinding for ARIA cases was discussed
+during the inspection.
+For Protocols 221AD103 and 221AD302, MRIs were performed throughout the study to
+assess cases of ARIA‐E or ARIA‐H. For Protocol 221AD302, MRIs were performed at screening,
+Week 14, and every 8 to 12 weeks until the end of the double‐blind phase (Week 78).
+Subjects with ARIA noted on MRI had unscheduled visits for repeat MRIs every 4 weeks until
+(b) (4)
+ARIA resolution. MRIs were centrally read by the vendor,
+During the inspection, the sponsor explained that the MRI was performed at the local hospital
+or clinic and that the MRI technician was blinded. The technician removed personally
+identifiable information (PII) from the image and then sent the MRI to the blinded central
+(b) (4)
+reader. The
+central reader sent their report to the IQVIA Medical Monitor, IQVIA
+Clinical Research Associate (CRA), and the clinical investigator. The blinded clinical
+investigator issued the study prescription to the unblinded pharmacist based on the MRI
+report. The Independent Data Monitoring Committee (IDMC) members also reviewed
+unblinded data, including cases of ARIA.
+As mentioned above, a listing of all potential unblinding events for Protocol 221AD302 was
+requested as part of an information request. The sponsor’s response included, among other
+things, a listing of incidents of exposure to restricted ARIA‐related data. The sponsor noted
+that special measures and processes to maintain the study blind were implemented to restrict
+access to ARIA‐related data. Subject numbers were therefore not provided in this listing
+“because they are not collected due to unblinding considerations.”
+Reviewer comments: Due to the lack of details provided by the sponsor for the potential ARIA
+unblinding events, the extent of this potential unblinding cannot be determined. Subjects with
+ARIA, most of whom were randomized to aducanumab, had more frequent MRI scans to
+assess ARIA resolution. It is possible that the subject and/or caregiver would suspect that the
+subject was receiving aducanumab if the subject was undergoing frequent (every 4 week) MRI
+scans. The sample informed consent form provided by the sponsor states that there are 7 visits
+for brain MRIs, so if subjects underwent more MRI scans, this could potentially unblind them
+to study treatment. The sample informed consent does provide data regarding the frequency
+of ARIA in subjects receiving aducanumab (10 – 47% depending on dose) compared to placebo
+(7%). If subjects were potentially unblinded by the frequency of MRIs, this could bias their
+reporting to raters for ratings such as the CDR. This potential unblinding issue is beyond the
+scope of this CIS.
+
+Reference ID: 4743371
+
+Page 19
+
+Clinical Inspection Summary
+BLA #761178 Aducanumab
+
+Medicines & Healthcare Products Regulatory Agency (MHRA) Inspection
+MHRA conducted a surveillance inspection of Biogen Idec UK Limited, Berkshire, on
+December 3, 2019 (office‐based) and December 10, 2019 – December 13, 2019 (on‐site). This
+inspection covered 5 protocols, one of which was Protocol 221AD301. This inspection did not
+cover Protocol 221AD302, as this protocol did not enroll any subjects from the United
+Kingdom.
+The review division requested a copy of the MHRA final inspection report from Biogen. The
+inspection report was finalized by MHRA and received by Biogen on August 21, 2020. Biogen
+submitted this report to the BLA on August 24, 2020. The review division also requested a
+copy of Biogen’s response to the inspection findings, which Biogen submitted to the BLA on
+10/6/2020.
+The MHRA inspection report included no critical findings, five major findings, and nine other
+findings. The five major findings were in five general areas: Essential Documents, Statistics,
+Data Integrity, Data Integrity Control Processes, and Project Management. Since Protocol
+221AD301 and 221AD302 were identical in design and conducted concurrently, inspection
+findings for Protocol 221AD301 were considered potentially relevant to Protocol 221AD302,
+the primary efficacy study for this BLA submission. The findings from the MHRA inspection
+covering Protocol 221AD301 informed FDA’s information requests (as outlined above) to the
+sponsor for Protocol 221AD302.
+Complaint
+(b) (4)
+
+In October 2019, the Office of Scientific Investigations (OSI) received a complaint (C #
+(b) (4)
+alleging that
+. The complainant specifically
+mentioned Protocols 221AD301 and 221AD302 in this complaint but acknowledged that this
+(b) (4)
+(b) (4)
+was involved with multiple
+across many sponsors. During the Biogen
+(b) (4)
+(b) (4)
+inspection, the FDA field investigator found no evidence that
+was used
+for either of the protocols mentioned in the complaint. The sponsor had also denied
+(b) (4)
+involvement of
+for these protocols when asked by the review division.
+(b) (4)
+The FDA field investigator noted that
+for the Phase 1 study, 221AD103.
+(b) (4)
+Due to time constraints, lack of involvement of
+in the pivotal clinical trial, and
+limitations of following up on the specifics of the complaint due to the inability of FDA to
+(b) (4)
+conduct inspections
+this complaint was not further addressed during the Biogen
+inspection.
+
+Reference ID: 4743371
+
+Page 20
+
+Clinical Inspection Summary
+BLA #761178 Aducanumab
+
+{See appended electronic signature page}
+Cara Alfaro, Pharm.D.
+Clinical Analyst
+Good Clinical Practice Assessment Branch
+Division of Clinical Compliance Evaluation
+Office of Scientific Investigations
+CONCURRENCE:
+{See appended electronic signature page}
+
+Phillip Kronstein, M.D.
+Team Leader
+Good Clinical Practice Assessment Branch
+Division of Clinical Compliance Evaluation
+Office of Scientific Investigations
+CONCURRENCE:
+{See appended electronic signature page}
+Kassa Ayalew, M.D., M.P.H
+Branch Chief
+Good Clinical Practice Assessment Branch
+Division of Clinical Compliance Evaluation
+Office of Scientific Investigations
+
+cc:
+Central Document Room/BLA #761178
+Office of Neuroscience/Director (Acting)/Billy Dunn
+Division of Neurology 1/Division Director/Eric Bastings
+Division of Neurology 1/Division Deputy Director/Teresa Buracchio
+Division of Neurology 1/Medical Team Leader/Ranjit Mani
+Division of Neurology 1/Medical Officer/Kevin Krudys
+Division of Neurology 1/Project Manager/Emilios (Andrew) Papanastasiou
+OSI/Office Director/David Burrow
+OSI/Office Deputy Director/Laurie Muldowney
+OSI/DCCE/ Division Director/Ni Khin
+
+Reference ID: 4743371
+
+Page 21
+
+OSI/DCCE/GCPAB/Branch Chief/Kassa Ayalew
+OSI/DCCE/GCPAB/Team Leader/Phillip Kronstein
+OSI/DCCE/GCPAB/Reviewer/Cara Alfaro
+OSI/GCPAB Program Analyst/Yolanda Patague
+
+Reference ID: 4743371
+
+Clinical Inspection Summary
+BLA #761178 Aducanumab
+
+Signature Page 1 of 1
+
+-------------------------------------------------------------------------------------------This is a representation of an electronic record that was signed
+electronically. Following this are manifestations of any and all
+electronic signatures for this electronic record.
+-------------------------------------------------------------------------------------------/s/
+-----------------------------------------------------------CARA L ALFARO
+02/08/2021 10:41:55 AM
+PHILLIP D KRONSTEIN
+02/08/2021 11:08:34 AM
+KASSA AYALEW
+02/08/2021 11:16:32 AM
+
+Reference ID: 4743371
+
+MEMORANDUM
+REVIEW OF REVISED LABEL AND LABELING
+Division of Medication Error Prevention and Analysis (DMEPA)
+Office of Medication Error Prevention and Risk Management (OMEPRM)
+Office of Surveillance and Epidemiology (OSE)
+Center for Drug Evaluation and Research (CDER)
+Date of This Memorandum:
+
+December 10, 2020
+
+Requesting Office or Division:
+
+Division of Neurology 1 (DN 1)
+
+Application Type and Number:
+
+BLA 761178
+
+Product Name and Strength:
+
+Aduhelm (aducanumab-avwa) Injection, 170 mg/1.7 mL (100
+mg/mL) and 300 mg/3 mL (100 mg/mL)
+
+Applicant/Sponsor Name:
+
+Biogen Inc. (Biogen)
+
+OSE RCM #:
+
+2020-1503-1
+
+DMEPA Safety Evaluator:
+
+Beverly Weitzman, PharmD
+
+DMEPA Team Leader:
+
+Briana Rider, PharmD, CPPS
+
+1
+
+PURPOSE OF MEMORANDUM
+
+The Applicant submitted information to clarify the expiration date format (see Appendix A)
+received on October 9, 2020 and revised container labels and carton labeling (Appendix B)
+received on October 30, 2020 for Aduhelm. The Division of Neurology 1 (DN 1) requested that
+we review the revised carton labeling and container labels for Aduhelm to determine if they are
+acceptable from a medication error perspective. The revisions are in response to
+recommendations that we made during a previous label and labeling review.a
+2
+
+CONCLUSION
+
+The Applicant implemented all of our recommendations and we have no additional
+recommendations at this time.
+
+a Weitzman B. Label and Labeling Review for Aduhelm (BLA 761178). Silver Spring (MD): FDA, CDER, OSE, DMEPA
+
+(US); 2020 OCT 03. RCM No.: 2020-1503.
+
+1
+
+Reference ID: 4715368
+
+APPENDIX A. APPLICANT’S RESPONSE TO THE AGENCY’S OCTOBER 3, 2020 COMMENTS
+RECEIVED ON OCTOBER 9, 2020.
+Available in docuBridge via: \\CDSESUB1\evsprod\bla761178\0039\m1\us\multiple-moduleinfo-carton-container-label.pdf
+Agency’s Comment:
+Clarify whether you intend to use numerical or alphabetical characters to denote the month in
+your proposed expiration date format.
+Applicant Response:
+Biogen has updated the expiration date to YYYY-MM which is intended to be numerical
+characters.
+
+2
+3 Page(s) of Draft Labeling have been Withheld in Full as b4 (CCI/TS) immediately following
+this page
+Reference ID: 4715368
+
+Signature Page 1 of 1
+
+-------------------------------------------------------------------------------------------This is a representation of an electronic record that was signed
+electronically. Following this are manifestations of any and all
+electronic signatures for this electronic record.
+-------------------------------------------------------------------------------------------/s/
+-----------------------------------------------------------BEVERLY WEITZMAN
+12/10/2020 09:45:30 PM
+BRIANA B RIDER
+12/11/2020 02:11:16 PM
+
+Reference ID: 4715368
+
+LABEL AND LABELING REVIEW
+Division of Medication Error Prevention and Analysis (DMEPA)
+Office of Medication Error Prevention and Risk Management (OMEPRM)
+Office of Surveillance and Epidemiology (OSE)
+Center for Drug Evaluation and Research (CDER)
+*** This document contains proprietary information that cannot be released to the public***
+Date of This Review:
+
+October 3, 2020
+
+Requesting Office or Division:
+
+Division of Neurology 1 (DN1)
+
+Application Type and Number:
+
+BLA 761178
+
+Product Name and Strength:
+
+Aduhelm (aducanumab-avwa) Injection, 170 mg/1.7 mL (100
+mg/mL) and 300 mg/3 mL (100 mg/mL)
+
+Product Type:
+
+Single Ingredient Product
+
+Rx or OTC:
+
+Prescription (Rx)
+
+Applicant/Sponsor Name:
+
+Biogen Inc. (Biogen)
+
+FDA Received Date:
+
+July 7, 2020
+
+OSE RCM #:
+
+2020-1503
+
+DMEPA Safety Evaluator:
+
+Beverly Weitzman, PharmD
+
+DMEPA Team Leader:
+
+Briana Rider, PharmD, CPPS
+
+1
+
+Reference ID: 4680503
+
+1 REASON FOR REVIEW
+As part of the approval process for Aduhelm (aducanumab-avwa) Injection, the Division of
+Neurology 1 (DN1) requested that we review the proposed Aduhelm prescribing information
+(PI), medication guide (MG), container labels, and carton labeling for areas of vulnerability that
+may lead to medication errors.
+2
+
+MATERIALS REVIEWED
+Table 1. Materials Considered for this Label and Labeling Review
+Appendix Section
+(for Methods and Results)
+
+Material Reviewed
+Product Information/Prescribing Information
+
+A
+
+Previous DMEPA Reviews
+
+B
+
+ISMP Newsletters*
+
+C (N/A)
+
+FDA Adverse Event Reporting System (FAERS)*
+
+D (N/A)
+
+Information Request
+
+E
+
+Labels and Labeling
+
+F
+
+N/A=not applicable for this review
+*We do not typically search FAERS or ISMP Newsletters for our label and labeling reviews
+unless we are aware of medication errors through our routine postmarket safety surveillance
+
+3
+
+FINDINGS AND RECOMMENDATIONS
+
+Tables 2 and 3 below include the identified medication error issues with the submitted
+prescribing information (PI), container labels, and carton labeling, our rationale for concern,
+and the proposed recommendation to minimize the risk for medication error.
+Table 2. Identified Issues and Recommendations for Division of Neurology 1 (DN1)
+IDENTIFIED ISSUE
+
+RATIONALE FOR CONCERN
+
+RECOMMENDATION
+
+Prescribing Information (PI) – General Issues
+
+1.
+
+The PI contains
+discrepancies in terms of
+the intend to market
+strengths. We
+acknowledge that the
+Applicant plans on
+marketing only the 170
+mg/1.7 mL and 300
+mg/3mL product
+strengths.
+
+In response to our
+Revise to include only the
+September 1, 2020
+intend-to-market strengths
+Information Request, the
+throughout the PI labeling.
+Applicant states they intend
+to market only the 170
+mg/1.7 mL (100 mg/mL)
+and 300 mg/3 mL (100
+mg/mL) product strengths.
+However, the PI has not
+been revised to reflect this.
+2
+
+Reference ID: 4680503
+
+Table 2. Identified Issues and Recommendations for Division of Neurology 1 (DN1)
+2.
+
+IDENTIFIED ISSUE
+
+RATIONALE FOR CONCERN
+
+RECOMMENDATION
+
+The nonproprietary
+name suffix placeholder
+“xxxx” is used
+throughout the PI
+labeling.
+
+The nonproprietary name
+suffix “avwa” was found to
+be conditionally acceptable
+on September 11, 2020.a
+
+Replace the placeholder ‘xxxx’
+with the conditionally
+acceptable nonproprietary
+name suffix “avwa” (i.e.,
+aducanumab-avwa)
+throughout the PI.
+
+Highlights of Prescribing Information (HPI)
+1.
+
+2.
+
+The administration
+technique “via an in-line
+filter during infusion” is
+not included the Dosage
+and Administration
+section of the HPI.
+
+Inclusion of instruction to
+use an “in-line filter during
+infusion” may help mitigate
+the risk for wrong
+technique medication
+errors.
+
+We recommend adding a new
+bullet point to ensure that the
+correct administration
+technique is stated. For
+example,
+
+The following statement
+in the Dosage and
+Administration section of
+(b) (4)
+the HPI:
+
+To emphasize the correct
+preparation and help avoid
+errors associated with using
+a wrong solution for
+dilution.
+
+Revise the statement “
+
+is incomplete and can be
+improved to emphasize
+correct preparation.
+
+• Administer as an
+intravenous infusion over
+approximately one hour via a
+0.2 or 0.22 micron in-line
+filter.
+(b) (4)
+
+)” to
+read “Dilution in 100 mL of
+0.9% Sodium Chloride
+Injection USP, is required prior
+to administration (2.5, 2.6)”.
+
+Full Prescribing Information – Section 2 Dosage and Administration
+1.
+
+The infusion instructions
+for treatment initiation
+do not include the
+infusion time.
+
+2.
+
+Section 2.5 of the PI
+includes the statement:
+(b) (4)
+“
+
+To increase clarity and
+prevent incorrect infusion
+time during treatment
+initiation.
+(b) (4)
+
+Ensure the dosing instructions
+for treatment initiation
+include the infusion time.
+Revise the statement “
+
+(b) (4)
+
+to
+
+a Mena-Grillasca, C. Nonproprietary Name Suffix Review (BLA 761178). Silver Spring (MD): FDA, CDER, OSE, DMEPA
+
+(US); 2020 SEP 11. Panorama No. 2020-1645.
+
+3
+
+Reference ID: 4680503
+
+Table 2. Identified Issues and Recommendations for Division of Neurology 1 (DN1)
+IDENTIFIED ISSUE
+
+RATIONALE FOR CONCERN
+
+RECOMMENDATION
+(b) (4)
+
+(b) (4)
+
+read “Select the correct vial(s)
+for the required volume.”
+
+See Guidance for Industry:
+Safety Considerations for
+Container Labels and Carton
+Labeling Design to
+Minimize Medication Errors.
+Food and Drug
+Administration. 2013.
+(Available from
+http://www.fda.gov/downl
+oads/Drugs/GuidanceComp
+lianceRegulatoryInformatio
+n/Guidances/UCM349009.p
+df)
+Full Prescribing Information – Section 2 Dosage and Administration and Section 16 How
+Supplied/Storage and Handling
+1.
+
+As currently presented in
+Section 2.5 and 16.2 of
+the PI, the following
+storage statement for
+“after dilution” is
+confusing and unclear:
+
+The meaning of the storage
+statement for after dilution
+(b) (4)
+
+could be misinterpreted
+(b) (4) and poses risk of improper
+storage. For example, the
+following interpretations
+(b) (4)
+may be possible:
+
+We recommend the storage
+instructions for “after
+dilution” be revised for clarity
+to mitigate possible storage
+errors. For example, consider
+revising to state:
+“…for up to a maximum of 84
+hours as follows:
+Up to 72 hours at 2°C to 8°C
+(36°F to 46°F), followed by
+Up to 12 hours at 30°C (86°F).
+
+Full Prescribing Information – Section 16 How Supplied/Storage and Handling
+1.
+
+Section 16.1 may need to Post-Market experience
+be revised once the
+indicates that similarity of
+4
+
+Reference ID: 4680503
+
+We recommend the NDC
+product code be revised to
+
+Table 2. Identified Issues and Recommendations for Division of Neurology 1 (DN1)
+
+2.
+
+IDENTIFIED ISSUE
+
+RATIONALE FOR CONCERN
+
+RECOMMENDATION
+
+Sponsor determines how
+to differentiate the NDC
+product codes. Currently
+the middle digits of the
+NDC product codes are
+sequential (i.e., 101 and
+102) which is not an
+effective differentiating
+feature.
+
+the NDC product code
+numbers has led to
+selecting and dispensing of
+the wrong strength.
+
+ensure consistency with the
+below container label and
+carton labeling
+recommendations, if
+appropriate. See Table 3
+recommendation number five
+below under the heading
+“Container Labels and Carton
+Labeling”.
+
+In Section 16.2 the
+temperature statements
+do not contain the
+temperature scale
+designation (i.e., °C and
+°F) after the numerical
+value.
+
+We are concerned that this
+information could be
+misinterpreted and may
+pose a risk of drug
+degradation.
+
+We recommend that the
+degree symbol and
+temperature scale follow each
+numeric value denoting
+temperature ranges, e.g.,
+revise “36-46°F” to read “36°F
+to 46°F” to increase clarity.
+
+Table 3. Identified Issues and Recommendations for Biogen Inc. (Biogen) (entire table to be
+conveyed to Applicant)
+IDENTIFIED ISSUE
+
+RATIONALE FOR CONCERN
+
+RECOMMENDATION
+
+General Recommendation (Container Labels and Carton Labeling)
+1.
+
+The color scheme of the
+300 mg/3 mL strength,
+the proprietary name
+and top flap of the
+carton labeling appear in
+a similar blue color.
+
+The use of similar blue
+colors for the proprietary
+name, top flap of the
+carton labeling and one of
+the product’s strengths
+minimizes the difference
+between the two strengths
+and may lead to wrong
+strength selection errors.
+
+Revise the font color of the
+proprietary name and top flap
+of the carton labeling or the
+color utilized for the 300 mg/3
+mL strength to appear in its
+own unique color and ensure
+the color does not overlap
+with any other colors utilized
+in highlighting the strengths.
+
+Container Labels and Carton Labeling
+1.
+
+The labels and labeling
+contain the
+nonproprietary name
+suffix placeholder “xxxx.”
+
+The nonproprietary name
+suffix “avwa” was found to
+be conditionally acceptable
+on September 11, 2020.
+5
+
+Reference ID: 4680503
+
+Replace the placeholder ‘xxxx’
+with the conditionally
+acceptable nonproprietary
+name suffix “avwa” (i.e.,
+aducanumab-avwa) on the
+
+Table 3. Identified Issues and Recommendations for Biogen Inc. (Biogen) (entire table to be
+conveyed to Applicant)
+IDENTIFIED ISSUE
+
+RATIONALE FOR CONCERN
+
+RECOMMENDATION
+
+container labels and carton
+labeling.
+Increase the prominence of
+the active ingredient and
+dosage form taking into
+account all pertinent factors,
+including typography, layout,
+contrast, and other printing
+features.
+
+The color contrast of the
+(b) (4)
+text (i.e., active
+ingredient and dosage
+form) against the white
+background appears
+difficult to read.
+
+Insufficient color contrast
+may make text difficult to
+read.
+
+3.
+
+As currently presented,
+the proper name is not
+enclosed in parentheses.
+
+This layout is not consistent
+with the presentation for
+Specified Biologics per 21
+CFR 201.10 (g)(2).
+
+Enclose the proper name in
+parentheses. For example:
+Aduhelm
+(aducanumab-avwa)
+Injection
+
+4.
+
+The total concentration
+and concentration per
+mL are presented on the
+same line, which may
+hinder readability.
+
+The presentation of the
+total concentration (i.e.,
+170 mg/1.7 mL and 300
+mg/3 mL) and
+concentration per mL (100
+mg/mL) can be improved.
+
+To improve readability of the
+concentration statements, if
+space allows, consider
+presenting the total
+concentration and
+concentration per mL on two
+lines. For example, (170
+mg/1.7 mL represented):
+170 mg/1.7 mL
+(100 mg/mL)
+
+5.
+
+As currently presented,
+the NDC product code
+numbers (middle 3
+digits) are sequential
+(i.e., -101- for 170
+
+The middle digits are
+traditionally used by
+healthcare providers to
+check the correct product,
+strength, and formulation.
+
+Revise the product code in the
+NDC numbers to ensure that
+the middle three digits (XXX)
+are not sequential between
+the 170 mg/1.7 mL and 300
+
+2.
+
+See Guidance for Industry:
+Safety Considerations for
+Container Labels and
+Carton Labeling Design to
+Minimize Medication
+Errors. Food and Drug
+Administration. 2013.
+(Available from
+http://www.fda.gov/downl
+oads/Drugs/GuidanceComp
+lianceRegulatoryInformatio
+n/Guidances/UCM349009.p
+df)
+
+6
+
+Reference ID: 4680503
+
+Table 3. Identified Issues and Recommendations for Biogen Inc. (Biogen) (entire table to be
+conveyed to Applicant)
+IDENTIFIED ISSUE
+
+RATIONALE FOR CONCERN
+
+RECOMMENDATION
+
+mg/1.7 mL and -102- for
+300 mg/3 mL)
+
+The similarity of the
+product code numbers has
+led to selecting and
+dispensing of the wrong
+strength and wrong drug.
+Therefore, assignment of
+sequential numbers for the
+middle digits is not an
+effective differentiating
+feature.
+
+mg/3 mL product strengths. If
+for some reason the middle
+digits cannot be revised,
+increase the prominence of
+the middle digits by increasing
+their size in comparison to the
+remaining digits in the NDC
+number or put them in bold
+type.
+
+We are unable to assess
+the expiration date format
+from a medication safety
+perspective (for example,
+may increase the risk for
+deteriorated drug
+medication errors).
+
+Clarify whether you intend to
+use numerical or alphabetical
+characters to denote the
+month in your proposed
+expiration date format.
+
+For example: XXXX-XXX-XX.
+
+Container Labels
+1.
+
+The proposed format for
+the expiration date (that
+is, MM/YYYY) does not
+specify whether the
+month (that is, MM) will
+be displayed using
+numerical (for example,
+06), or alphabetical (for
+example, JU) characters.
+
+7
+
+Reference ID: 4680503
+
+FDA recommends that the
+human-readable expiration
+date on the drug package label
+include a year, month, and
+non-zero day. FDA
+recommends that the
+expiration date appear in
+YYYY-MM-DD format if only
+numerical characters are used
+or in YYYY-MMM-DD if
+alphabetical characters are
+used to represent the month.
+If there are space limitations
+on the drug package, the
+human-readable text may
+include only a year and month,
+to be expressed as: YYYY-MM
+if only numerical characters
+are used or YYYY-MMM if
+alphabetical characters are
+used to represent the month.
+FDA recommends that a
+
+Table 3. Identified Issues and Recommendations for Biogen Inc. (Biogen) (entire table to be
+conveyed to Applicant)
+IDENTIFIED ISSUE
+
+RATIONALE FOR CONCERN
+
+RECOMMENDATION
+
+hyphen or a space be used to
+separate the portions of the
+expiration date.
+2.
+
+It is unclear whether the
+linear barcode on the
+label and labeling
+contains, at a minimum,
+the appropriate National
+Drug Code (NDC)
+number.
+
+The NDC number must be
+contained within the linear
+barcode per 21 CFR 201.25.
+
+Ensure the linear barcode on
+the container label and carton
+labeling contains, at a
+minimum, the NDC number in
+accordance with 21 CFR
+201.25.
+
+The format for expiration Clearly define the
+date is not defined.
+expiration date will
+minimize confusion and risk
+for deteriorated drug
+medication errors.
+
+Identify the expiration date
+format you intend to use. FDA
+recommends that the humanreadable expiration date on
+the drug package label include
+a year, month, and non-zero
+day. FDA recommends that
+the expiration date appear in
+YYYY-MM-DD format if only
+numerical characters are used
+or in YYYY-MMM-DD if
+alphabetical characters are
+used to represent the month.
+If there are space limitations
+on the drug package, the
+human-readable text may
+include only a year and month,
+to be expressed as: YYYY-MM
+if only numerical characters
+are used or YYYY-MMM if
+alphabetical characters are
+used to represent the month.
+FDA recommends that a
+hyphen or a space be used to
+separate the portions of the
+expiration date.
+
+Carton Labeling
+1.
+
+8
+
+Reference ID: 4680503
+
+Table 3. Identified Issues and Recommendations for Biogen Inc. (Biogen) (entire table to be
+conveyed to Applicant)
+2.
+
+3.
+
+IDENTIFIED ISSUE
+
+RATIONALE FOR CONCERN
+
+RECOMMENDATION
+
+The dosage statement
+can be improved.
+
+To ensure consistency with
+the physician labeling rule
+(PLR) formatted Prescribing
+Information.
+
+Revise the statement,
+
+The carton labeling
+(b) (4)
+instructs
+
+To emphasize the correct
+preparation and help avoid
+errors associated with using
+a wrong solution for
+dilution.
+
+We recommend adding the
+statement “Must be diluted
+with 100 mL of 0.9% Sodium
+Chloride Injection, USP prior to
+use” on the side panel of the
+carton labeling.
+
+)
+which is not specified on
+the carton labeling.
+
+(b) (4)
+
+to
+read “Dosage: See prescribing
+information.”
+
+4.
+
+The discard statement is
+not prominently visible
+on the carton labeling.
+
+The discard statement
+“discard unused portion”
+may be overlooked.
+
+We recommend adding the
+statement “Discard unused
+portion” to the top flap of the
+carton labeling to minimize
+the risk of the entire contents
+of the vial being given as a
+single dose.
+
+5.
+
+The carton labeling can
+be improved to align
+with the administration
+technique “use an in-line
+filter during infusion”.
+
+Inclusion of instruction to
+“use an in-line filter during
+infusion” on the carton
+labeling may help mitigate
+the risk for wrong
+technique medication
+errors.
+
+We recommend adding the
+statement “Use a 0.2 or 0.22
+micron in-line filter during
+infusion” to the side or back
+panel of the carton labeling.
+
+6.
+
+As currently presented
+the storage statement
+lacks prominence.
+
+Lack of prominence of the
+storage statement may
+increase the risk of the
+storage information being
+overlooked. If the storage
+information is overlooked
+this could lead to
+degradation of the product
+due to improper storage.
+
+We recommend bolding the
+statement “Refrigerate at 2°C
+to 8°C (36°F to 46°F)” to
+increase the prominence and
+minimize the risk of the
+storage statement being
+overlooked.
+
+9
+
+Reference ID: 4680503
+
+4
+
+CONCLUSION
+
+Our evaluation of the proposed Aduhelm prescribing information (PI), container labels, and
+carton labeling identified areas of vulnerability that may lead to medication errors. Above, we
+have provided recommendations in Table 2 for the Division and Table 3 for the Applicant. We
+ask that the Division convey Table 3 in its entirety to Biogen Inc. (Biogen) so that
+recommendations are implemented prior to approval of this BLA.
+
+10
+
+Reference ID: 4680503
+
+APPENDICES: METHODS & RESULTS FOR EACH MATERIAL REVIEWED
+APPENDIX A. PRODUCT INFORMATION/PRESCRIBING INFORMATION
+Table 4 presents relevant product information for Aduhelm that Biogen Inc. (Biogen) submitted
+on July 7, 2020.
+Table 4. Relevant Product Information for Aduhelm
+
+Initial Approval Date
+
+N/A
+
+Active Ingredient
+
+aducanumab
+
+Indication
+
+Delay clinical decline in patients with Alzheimer’s disease
+
+Route of Administration
+
+Intravenous infusion
+
+Dosage Form
+
+Injection
+
+Strength
+
+170 mg/1.7 mL (100 mg/mL) and 300 mg/3 mL (100 mg/mL)
+
+Dose and Frequency
+
+
+
+
+Initiation: 1 mg/kg for 2 doses, 3 mg/kg for 2 doses, 6 mg/kg
+for 2 doses administered every 4 weeks
+Maintenance: 10 mg/kg every 4 weeks
+
+How Supplied
+
+Single dose vials
+
+Storage
+
+Unopened vial: Store in original carton until use. Store in a
+refrigerator at 2°C to 8°C (36°F to 46°F). Do not freeze or shake.
+Protect from light. If no refrigeration is available, ADUHELM may
+(b)
+be stored unopened in its original carton, protected from light (4)
+25°C (77°F) for up to 3 days. Prior to dilution, unopened
+(b) (4)
+vials of ADUHELM
+be removed from and returned to the
+refrigerator if necessary. Total combined time out of
+refrigeration and exposure to light should not exceed 24 hours at
+room temperature.
+Diluted solution: After dilution, immediate use is recommended.
+(b) (4)
+If not administered immediately, store the
+solution of
+ADUHELM in 0.9% Sodium Chloride Injection, USP for up to 3
+(b) (4)
+days at 2-8°C (36-46°F)
+12 hours at 30°C
+(86°F).
+
+Container Closure
+
+rubber stopper
+The stoppered vial is sealed with
+an aluminum closure with a flip-off button.
+(b) (4)
+
+clear glass vials with
+
+11
+
+Reference ID: 4680503
+
+(b) (4)
+
+(b) (4)
+
+APPENDIX B. PREVIOUS DMEPA REVIEWS
+On September 1, 2020, we searched for previous DMEPA reviews relevant to this current
+review using the terms, Aduhelm, aducanumab, and BLA 761178. Our search identified zero
+previous relevant reviews.
+
+12
+
+Reference ID: 4680503
+
+APPENDIX E. INFORMATION REQUEST
+E.1
+Information Request
+During our review of the label and labeling we identified a discrepancy regarding the proposed
+strengths listed in Section 3 ‘Dosage Forms and Strengths’ compared to Section 16.1 ‘How
+Supplied’ of the prescribing information (PI) and the container labels and carton labeling. On
+September 1, 2020, we sent an Information Request to Biogen to clarify which strengths the
+Applicant intends to market.
+IR available in DARRTS
+via:https://darrts.fda.gov/darrts/ViewDocument?documentId=090140af805907fb
+E.2
+Response
+The Applicant responded to DMEPA’s IR on September 1, 2020. In their response, Biogen stated
+that they intend to market only the following strengths:
+ 170 mg/1.7 mL (100 mg/mL)
+ 300 mg/3 mL (100 mg/mL)
+Response available in docuBridge via:
+\\CDSESUB1\evsprod\bla761178\0021\m1\us\cover-letter-20200901.pdf
+
+13
+
+Reference ID: 4680503
+
+APPENDIX F. LABELS AND LABELING
+F.1
+List of Labels and Labeling Reviewed
+Using the principles of human factors and Failure Mode and Effects Analysis,b along with
+postmarket medication error data, we reviewed the following Aduhelm labels and labeling
+submitted on July 7, 2020 by Biogen Inc. (Biogen).
+
+
+
+
+Container labels: 170 mg/1.7 mL (100 mg/mL) and 300 mg/3 mL (100 mg/mL)
+Carton labeling: 170 mg/1.7 mL (100 mg/mL) and 300 mg/3 mL (100 mg/mL)
+Medication Guide (image not shown)
+Refer to link in docuBridge for Medication Guide:
+\\CDSESUB1\evsprod\bla761178\0003\m1\us\draft-labeling-mg-20200624.pdf
+
+
+
+Prescribing Information (Image not shown)
+Refer to link in docuBridge for Prescribing Information:
+\\CDSESUB1\evsprod\bla761178\0003\m1\us\annotated-draft-labeling-uspi20200603.pdf
+
+b Institute for Healthcare Improvement (IHI). Failure Modes and Effects Analysis. Boston. IHI:2004.
+
+14
+3 Page(s) of Draft Labeling have been Withheld in Full as b4 (CCI/TS) immediately following
+this page
+Reference ID: 4680503
+
+Signature Page 1 of 1
+
+-------------------------------------------------------------------------------------------This is a representation of an electronic record that was signed
+electronically. Following this are manifestations of any and all
+electronic signatures for this electronic record.
+-------------------------------------------------------------------------------------------/s/
+-----------------------------------------------------------BEVERLY WEITZMAN
+10/03/2020 08:34:28 PM
+BRIANA B RIDER
+10/05/2020 01:54:42 PM
+
+Reference ID: 4680503
+
+

@@ -1,0 +1,129 @@
+NDA 217389
+OHTUVAYRE (ensifentrine)
+
+Method for the Analysis of Ensifentrine in Human Plasma via PPT/UPLC-MS/MS
+(Pharmaron ABS)
+
+A method for the quantitation of ensifentrine in human plasma (lithium he
+PPT/UPLC-MS/MS was developed and validated at
+
+. The IS was RPL554-d4. The method was validated for the analytical
+range of 5.00 to 5,000 pg/mL. The method was accurate, precise, reproducible, and specific.
+Ensifentrine remained stable in plasma when stored in polypropylene tubes for at least 76 days at
+-70°C, at least 26.5 hours at room temperature, and in up to three freeze/thaw cycles.
+Additionally, ensifentrine remained stable in whole blood (lithium heparin) when stored in
+polypropylene for at least up to 2 hours on ice (4°C). No significant carryover was detected for
+ensifentrine or RPL554-ds. Additional details on this method are provided in Table 68.
+
+usin}
+
+Table 68. Summary of Method Performance- i Method Qualification
+
+Bioanalytical method validation | Validation of a Bioanalytical " ‘Analysis of Ensifentrine (RPLSS4) in Human Plasma (Lithium
+report name, amendments, and | Heparin)
+hyperlinks 206554-19M027
+Method description PPT/UPLC-MS/MS
+Materials used for standard Biological matrix: human plasma (lithium heparin)
+calibration curve and 5.00, 10.0, 40.0, 200, 700, 2000, 4000, 5000 pg/mL.
+concentration
+Validated assay range 5 to 5,000 pp/ml.
+Material used for quality controls | RPLSS4-d,
+and concentration 15.0, 250, 3750 pa/mL
+‘Minimum required dilutions 1 in 100
+‘Source and lot of reagents Ensifentrine RPLSS4-dy
+Lot number 131112M Lot number:
+Retest date 03 Nov 2021 Retest date 05 Dec 2021
+
+Regression model and weighting | Linear regression (y = ax + b where y=peak area ratio of the analyte to the intemal standard and x=concentration of the
+analyte in the calibration standards) with a 1/x? weighting was applied to the chromatographic peak area ratios
+(analyte/internal standard) to nominal concentration plot for the construction of calibration curves. This provided
+
+information on the slope, the intercept and the coefficient of determination (R°).
+
+‘Validation parameters ‘Method Validation Summary ‘Source Location
+‘Standard calibration curve ‘Number of standard calibrators from LLOQ to ULOQ | 8 from 5.00 to | 206554-19MO7, Table 5
+performance during accuracy and 5,000 ppimL
+precision runs ‘Cumulative accuracy (ébias) from LLOQ to ULOQ | -1.8% bias to
+2.00 % bias
+‘Cumulative precision (%CV) from LLOQ to ULOQ | 2.76% to
+4.53% CV
+Performance of QCs during ‘Cumulative accuracy (*%bias) in 5 QCs | 7.20% to 206554-19MO7, Table 7
+accuracy and precision runs 12.6% bias
+Tnter-batch %CV | 2.56% to
+7.87% CV
+Total Error | WA
+
+Selectivity & matrix effect 206554-19M07, Section 5.8
+
+There were ensifentrine interfering peaks in one lot (>20% of the mean LLOQ response),
+‘but the remaining lots showed no significant interfering peaks at the retention times of
+
+ensifentrine and RPL554-ds
+
+Interference & specificity
+
+Tater lot precision and accuracy was demonstrated using 6 blank matrix lots spiked at the
+Jow QC level.
+
+206554-19M07, Section
+5.11.2 and Table 15
+
+‘Hemolysis effect
+
+‘No significant hemolysis effects were observed on the quantification of ensifentrine
+
+‘Lipemic effect
+
+‘No significant hyperlipidemic effects were observed on the quantification of ensifentrine
+
+206554-19M07, Section
+$113
+
+Dilution linearity & hook effect
+
+Dilution integrity was assessed by diluting spiked matrix sample with the blank matrix
+(0=6). The precision and accuracy of 100-fold diluted samples were within 15% CV and
+within £15% bias
+
+Hook effect is not applicable to MS/MS methods of analysis.
+
+206554-19M07, Section 5.6
+
+Bench-top/process stability
+
+Demonstrated for 26.5 hours at room temperature
+
+Freeze-Thaw stability
+
+‘Demonstrated for 3 freeze/thaw cycles at -70°C
+
+Long-term storage
+
+‘Demonstrated for 76 days at -70°C
+
+206554-19M07, Section
+5.12
+
+Parallelism,
+
+‘Not applicable for MS/MS-based methods
+
+NA
+
+‘Carry over
+
+‘No significant carryover was observed for ensifentrine and RPL5S4-dy
+
+206554-19M07, Section 5.9
+
+Source: Summary of Biopharmaceutical Studies, Table 14
+Abbreviations: CV, coefficient of variation; LC, liquid chromatography; LLOQ, lower limit of quantitation; MS/MS, tandem mass
+
+spectrometry; N/A, not applicable; PPT, protein precipitation, QC, quality control; R?, coefficient of determination; ULOQ, upper limit
+of quantitation; UPLC, ultra-performance liquid chromatography
+
+105
+
+Integrated Review Template, version 3.0 (05/25/2022)
+
+Reference ID: 5403306

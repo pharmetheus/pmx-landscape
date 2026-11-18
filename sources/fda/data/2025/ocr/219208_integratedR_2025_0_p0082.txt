@@ -1,0 +1,67 @@
+NDA 219208
+Vanrafia (atrasentan)
+
+Figure 12. Hepatocellular Drug-Induced Liver Injury Screening Plot, Safety Population, Non-
+SONAR DN Trials (Pooled)
+
+All Arms
+
+4
+
+Cholestasis Potential Hy's Law
+
+M11350: ()(6); unlikely
+
+‘Maximum Post-baseline Bilirubin (xULN)
+
+Temple's Corollary
+
+73 0 1S 20 3 30
+‘Maximum Post-baseline ALT or AST (xULN)
+
+© Atrasentan 0.25mg * —Atrasentan 0.75 mg Atrasentan 1.75 mg
+= Atrasentan0.5mg + Atrasentan 1.25mg Placebo
+
+Source: CDS’s analysis based on adibchem.xpt; Software: R
+
+Each data point represents a subject plotted by their maximum ALT or AST versus their maximum total bilirubin values in the
+postbaseline period.
+
+A potential Hy’s Law case (red circle) was defined as having any postbaseline total bilirubin equal to or exceeding 2 ULN within 30
+days after a postbaseline ALT or AST equal to or exceeding 3x ULN, and ALP less than 2x ULN (note ALP values are not circled).
+All subjects with at least one postbaseline ALT or AST and bilirubin are plotted.
+
+Abbreviations: ALP, alkaline phosphatase; ALT, alanine aminotransferase; AST, aspartate aminotransferase; CDS, clinical data
+scientist; DILI, drug-induced liver injury; DN, diabetic nephropathy; ULN, upper limit of normal
+
+Prostate Cancer Studies
+
+Atrasentan has been studied in metastatic hormone refractory prostate cancer under NDA
+©. The product was not approved for prostate cancer, but this was not because of concerns
+
+regarding DILI. In the prostate cancer studies, the maximum evaluated dose was 10 mg QD,
+which was more than 10-fold the dose evaluated for IgAN in ALIGN. At this higher dose, mean
+ALT increased insignificantly compared to placebo in the phase 3 Trial M00-211 where 404 and
+397 subjects with metastatic prostate cancer received atrasentan 10 mg or placebo, respectively
+
+Table 125). Mean AST appeared to be slightly elevated at the Week 8 visit (mean [SD] change
+from baseline: 9 [164] IU/L; mean change [SE] from baseline relative to placebo: 7 [9] IU/L).
+However, these results had large variability and the relative change to placebo was small, thus,
+the results are not considered to be clinically significant. Three subjects (0.8%)/one subject
+(0.3%) in the atrasentan arm (compared to zero in placebo) had AST/ALT increased from CTAE
+Grade 0 to 2 (<5S-fold ULN) at baseline to Grade 3 to 4 (>5-fold ULN). The difference was not
+considered significant. The interpretability of this shift analysis is limited.
+
+Conclusion
+
+Atrasentan does not have a substantial risk of DILI. In ALIGN, there was a slightly higher
+proportion of subjects with ALT or AST >3-fold ULN for atrasentan compared to placebo. In
+ALIGN, there was one possible DILI case on atrasentan without reoccurrence after rechallenge
+with atrasentan and one case of elevated ALT on atrasentan (>3-fold ULN) that did not reoccur
+after the second rechallenge with atrasentan. There were no possible or probable DILI cases in
+the much larger DN studies (2088 subjects in the phase 2/3 placebo-controlled studies) with
+
+69
+Integrated Review Template, version 4.0 (11/1/23)
+
+Reference ID: 5563590

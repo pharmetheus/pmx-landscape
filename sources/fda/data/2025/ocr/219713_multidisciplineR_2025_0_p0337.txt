@@ -1,0 +1,60 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 219713}
+{IBTROZI™, Taletrectinib}
+19.4.4. | Exposure-Response Analysis
+
+19.4.4.1. ER (Efficacy) Executive Summary
+
+The FDA’s Assessment:
+Lack of positive E-R relationships for efficacy endpoints was observed across steady-state
+exposure with data of mainly 600 mg QD dosage. In the randomized study of small sample size
+(n=~20/arm), a lower ORR (including confirmed and unconfirmed responses) was observed for
+the 400 mg QD arm among patients previously treated with ROS1 TKIs, while a difference was
+not observed in TKI naive patients. The difference in ORR observed in those with prior TKI
+treatment may be attributed to an imbalance of patient characteristics in this subgroup (refer to
+Section 6). Integrating the randomized data in the pooled E-R analysis did not alter the flat E-R
+trend. This suggests the exposure of doses less than 600 mg taken 2 hours before or after a meal
+(e.g., 400 mg dose taken 2 hours before or after a meal, or with standard meals) may preserve
+efficacy.
+
+19.4.4.2. ER (Efficacy) Assessment Summary
+
+The Applicant’s Position:
+
+For the primary efficacy endpoint objective response, no relationship was identified between
+taletrectinib exposure measures (Cavg,ss) and probability of achieving objective response in
+logistic regression model. Prior TKI treatment history was identified as the only significant
+predictor of ORR. As a supportive analysis, linear regression models utilizing taletrectinib
+popPK predicted exposure measures (Cavg.ss) as a covariate did not indicate a clear clinically
+relevant association between best percent change in tumor size and exposure to taletrectinib.
+Similarly, prior TKI treatment history was identified as a significant predictor of tumor size
+
+change.
+General Information
+
+Goal of ER analysis To characterize taletrectinib E-R relationships of efficacy
+with respect to the following efficacy measures (ORR and
+tumor size)
+
+Study Included AB-106-C203 and AB-106-G208
+
+Endpoint Primary: Objective response (IRC)
+Secondary: Decrease in tumor size (nadir of IRC assessed
+SLD
+
+No. of Patients (total, and with | 161 TKI-naive patients and 151 TKI pretreated patients
+
+individual PK)
+
+Population General Age median (range): 56 yr (26, 83)
+
+Characteristics
+
+Weight median (range): 64 kg (38, 115)
+
+336
+Version date: March 1, 2024 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5606238

@@ -1,0 +1,59 @@
+NDA 220848
+LIPFENDRA (enlicitide)
+
+FDA Table 20. Hypersensitivity OND Custom Medical Query (Narrow), Placebo-Controlled Pool,
+Trials P013 and P017
+
+Enlicitide Enlicitide Enlicitide
+20 mg Placebo _| 20 mg Placebo _| Enlicitide Placebo Pooled vs.
+013 01 017 017 Pooled PoolediPlacebo Pooled
+OCMQ (Narrow) N=1935, N=96: N=202 N=101 N=2137 N=1070|Risk Difference
+Preferred Term n(%) n(% n(%) n (%)n (adjusted %)n (adjusted %) (%) (95% Cl)
+Hypersensitivity 8 (0.4) 0 3 (1.5) 0 11 (0.5) O 0.5(0.2,0.9)*
+(OcMa)
+Drug hypersensitivity 3 (0.2) q 1 (0.5) ie 4 (0.2) Q 0.2 (-0.2, 0.5)
+Hypersensitivity 2 (0.1) g 1 (0.5) g 3 (0.1) Q 0.1 (-0.2, 0.4)
+Allergic cough 2(0.1) 0 0 0 2 (0.1) O_0.1(-0.3, 0.3)
+Drug eruption 1(0.1) [e ) [ 1 (0.0) Q__0.0 (-0.3, 0.3)
+Allergy to chemicals 0 q 1 (0.5) q 1 (0.0) Q__0.0 (-0.3, 0.3)
+Maximum severity
+Death (‘) [e (‘)} [e (‘) Q_ -0.0 (-0.4, 0.2)
+Life-threatening 1 (0.1) [e (‘} [e 1 (0.0) Q 0.0 (-0.3, 0.3)
+Severe () q () g () Q_ -0.0 (-0.4, 0.2)
+Moderate 4 (0.2) ”d 0 ”d 4 (0.2) 0 __0.2(-0.2, 0.5)
+Mild 3 (0.2) q 3 (1.5) g 6 (0.3) Q 0.3 (-0.1, 0.6)
+Serious 1 (0.1) g tt) g 1 (0.0) Q_0.0 (-0.3, 0.3)
+Deaths ) q ) q ) Q| -0.0 (-0.4, 0.2)
+Resulting in (°) q (°) q [) Q -0.0 (-0.4, 0.2)
+treatment
+discontinuation
+
+Source: Clinical Data Scientist
+Abbreviations: OCMQ, OND custom medical query
+
+8.2.5. Analysis of Submission-Specific Safety Issues
+
+The Applicant’s Position:
+
+Events of clinical interest were discussed in [Sec. 8.2.4] under the Significant Adverse Events
+section. No events of potential DILI were observed. No association of enlicitide with new-onset
+or worsening diabetes mellitus were observed. On review of the totality of the safety data, no
+AEs assessed as causally related to the use of enlicitide have been identified.
+
+The FDA’s Assessment:
+FDA agrees.
+
+8.2.6. Clinical Outcome Assessment Analyses Informing Safety/Tolerability
+The Applicant’s Position: COA analyses informing safety/tolerability were not performed.
+The FDA’s Assessment:
+
+FDA agrees.
+
+152
+
+Version date: February 10, 2025 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5833849

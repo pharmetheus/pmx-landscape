@@ -1,0 +1,2117 @@
+CENTER FOR DRUG EVALUATION AND
+RESEARCH
+APPLICATION NUMBER:
+
+210913Orig1s000
+CLINICAL PHARMACOLOGY
+REVIEW(S)
+
+Office of Clinical Pharmacology Review
+
+BLA Number
+Link to EDR
+Submission Date
+Submission Type
+Brand Name
+Generic Name
+Dosage Form and
+Strength
+Route of
+Administration
+Proposed Indication
+Applicant
+Associated IND
+OCP Review Team
+
+OCP Final Signatory
+
+761156
+\\CDSESUB1\evsprod\BLA761156\761156.enx
+28 Aug 2019
+351(a)
+Sogroya (Proposed)
+Somapacitan
+Injectable solution; 10 mg/1.5 mL
+Subcutaneous
+
+Replacement of endogenous growth hormone in adults with
+growth hormone deficiency (AGHD)
+Novo Nordisk Inc.
+IND 116327
+Mohammad (Abir) Absar, PhD; Sang Chung, PhD, Lian Ma, PhD,
+Jayabharathi Vaidyanathan, PhD
+Doanh Tran, PhD
+
+1
+
+Reference ID: 4602384
+
+Table of Contents
+1.
+
+EXECUTIVE SUMMARY ....................................................................................................................... 6
+
+1.1
+1.2
+
+Recommendations....................................................................................................................... 6
+Post-Marketing Requirements and Commitments ................................................................... 7
+
+2. SUMMARY OF CLINICAL PHARMACOLOGY ASSESSMENT .................................................................. 7
+2.1
+2.2
+
+Pharmacology and Clinical Pharmacokinetics .......................................................................... 7
+
+Dosing and Therapeutic Individualization ................................................................................ 8
+
+2.2.1
+
+2.2.2
+
+2.3
+3.
+
+2.4
+
+General dosing ..................................................................................................................... 8
+
+Therapeutic individualization ............................................................................................ 8
+
+Outstanding Issues ...................................................................................................................... 8
+Summary of Labeling Recommendations.................................................................................. 8
+
+COMPREHENSIVE CLINICAL PHARMACOLOGY REVIEW ................................................................ 9
+
+3.1
+3.2
+
+Overview of the Product and Regulatory Background............................................................. 9
+General Pharmacological and Pharmacokinetic Characteristics................................................. 10
+
+3.2.1
+
+Mechanism of Action:......................................................................................................... 11
+
+3.2.2
+
+Pharmacokinetics: ............................................................................................................... 11
+
+3.3
+
+Clinical Pharmacology Questions............................................................................................. 14
+
+3.3.1
+Does the clinical pharmacology information provide supportive evidence of
+effectiveness?..................................................................................................................................... 14
+
+3.3.2
+Is the proposed general dosing regimen appropriate for the general patient
+population for which the indication is being sought? .................................................................... 14
+3.3.3
+Is an alternative dosing regimen and management strategy required for subpopulations
+based on intrinsic factors?................................................................................................................... 18
+3.3.4
+Are there clinically relevant drug-drug interactions and what is the appropriate
+management strategy?...................................................................................................................... 24
+
+APPENDICES .................................................................................................................................... 25
+
+4.
+
+4.1
+4.2
+
+Summary of Bioanalytical Method Validation......................................................................... 25
+
+Summary of Individual Clinical Pharmacology Studies.......................................................... 26
+
+4.2.1. Study 3915 – First in human dose............................................................................................. 26
+4.2.2. Study 4237 – Absorption, metabolism and excretion ............................................................... 29
+
+4.2.3. Study 3947 – dose ranging vs Norditropin® in AGHD patients ............................................... 30
+4.2.4. Study 4297 – Renal impairment................................................................................................ 34
+2
+
+Reference ID: 4602384
+
+4.2.4. Study 4298 – Hepatic impairment............................................................................................. 36
+4.2.5. Pharmacometrics Review.......................................................................................................... 38
+4.3. Formulation Composition of Somapacitan Drug Products ......................................................... 48
+
+List of Tables
+
+Table 1: Steady state PK properties of somapacitan in patients with AGHD (Study 3947)............................12
+Table 2: Change from baseline to Week 35 in truncal fat% (primary endpoint) for somapacitan vs placebo
+(Study 4054)................................................................................................................................................ 16
+Table 3: Statistical comparison of AUC0-168h and Cmax of somapacitan in subjects with normal renal
+function varying degree of renal impairment (Study 4297).........................................................19
+Table 4: Statistical comparison of AUC0-168h and Cmax of somapacitan in subjects with normal hepatic
+function and mild or moderate hepatic impairment (Study 4298) .............................................21
+Table 5: Population pharmacokinetic covariate analysis of somapacitan exposure in patients with AGHD
+(Studies 4054, 4244 and 4043).............................................................................................................. 24
+Table 6: Summary of bioanalytical method for somapacitan....................................................................................25
+Table 7: Summary of somapacitan PK (Study 3915)...................................................................................................27
+Table 8: Pharmacodynamic summary of somapacitan in healthy subjects (Study 3915).................................28
+Table 9: Pharmacokinetic parameters of somapacitan in AHGD patients (Study 3947)..................................31
+Table 10: Pharmacodynamics of somapacitan and Norditropin® in patients with AGHD (Study 3947)....33
+Table 11: Statistical comparison of IGF-1 parameters after dose 4 in AGHD patients (Study 3947)..........33
+Table 12: Statistical analysis of AUC0-168h and Cmax of somapacitan in subjects with normal renal function
+or various degrees of renal impairment (Study 4297)....................................................................35
+Table 13: Statistical analysis of IGF-1 AUC0-168h (Study 4297)..........................................................................35
+Table 14: Statistical analysis of AUC0-168h and Cmax of somapacitan in subjects with normal hepatic
+function or mild or moderate hepatic impairment (Study 4298) ................................................37
+Table 15: Statistical analysis of IGF-1 in patients with mild or moderate hepatic impairment (Study 4298)
+.........................................................................................................................................................................37
+Table 16: Overview of trials included in the model-based evaluation of somapacitan (Source; Table 4-1,
+Modeling Report) ...................................................................................................................................... 38
+Table 17: Schedules for PK and PD sampling across Phase 3 trials (Source; Table 4-5, Modeling Report)
+.........................................................................................................................................................................38
+Table 18: Parameter estimates from the full and final PK model of somapacitan (Source; Table 8-7,
+Modeling Report) ...................................................................................................................................... 46
+Table 19: Parameter estimates from the final PK/PD model of somapacitan effects on IGF-1 (Source;
+Table 8-14, Modeling Report)...............................................................................................................46
+Table 20: Parameter estimates from exposure-response models versus somapacitan exposure for effects
+on truncal fat, visceral adipose tissue, lean body mass and appendicular skeletal muscle.
+(Source; Table 8-19, Modeling Report) .............................................................................................47
+Table 21: Parameter estimates from exposure-response models versus change from baseline of IGF-1avg
+for effects on truncal fat, visceral adipose tissue, lean body mass and appendicular skeletal
+muscle. (Source; Table 8-20, Modeling Report) .............................................................................47
+Table 22: Composition of somapacitan drug product formulations ........................................................................48
+
+3
+
+Reference ID: 4602384
+
+List of Figures
+Figure 1: Somapacitan bound to albumin........................................................................................................................ 10
+Figure 2: Mean somapacitan concentration-time profile (on log scale) following single dose
+administration in healthy subjects (Study 3915) .............................................................................11
+Figure 3: Mean (SD) somapacitan concentration at trough levels in AGHD patients (Study 3947) ............12
+Figure 4: Total recovery of [3H]-somapacitan-related material excreted in urine, feces and expired air (%
+of dose) (Study 4237)...............................................................................................................................13
+Figure 5: Mean IGF-1 SDS levels by dose over time in patients with AGHD (Study 3947). ........................14
+Figure 6: Box plot of weekly doses at titration visits and fixed dose periods ......................................................15
+Figure 7: Average IGF-1 SDS at steady state following once-weekly somapacitan and daily Norditropin®
+by studies (Studies 4054, 4043 and 4244).........................................................................................16
+Figure 8: Predicted somapacitan PK (A) and IGF-1 (B) profiles compared to simulations for delayed and
+skipped doses (Phase 3 studies) ............................................................................................................ 17
+Figure 9: Mean somapacitan concentration-time profile in subject with normal renal function or various
+degree of renal impairment (Study 4297) ..........................................................................................19
+Figure 10: Mean IGF-1 SDS curves for subjects with normal renal function or various degrees of renal
+impairment (Study 4297) ........................................................................................................................ 20
+Figure 11: Mean somapacitan concentration-time profile (log scale) in subjects with normal hepatic
+function or mild or moderate hepatic impairment (Study 4298) ................................................21
+Figure 12: Mean IGF-1 SDS-time profile for subjects with normal hepatic function, or with mild or
+moderate hepatic impairment (Study 4298)......................................................................................22
+Figure 13: Mean IGF-1 SDS profiles by dose over time following single (A) and multiple (B) dose in
+healthy non-Asian subjects (Study 3915) ..........................................................................................29
+Figure 14: Somapacitan concentration-time profile after dose 4 in AGHD patients (Study 3947)...............31
+Figure 15: Regression analysis of body-weight base dose (top panel) and nominal dose (lower panel) vs
+AUC0-168 and Cmax for somapacitan following weekly dosing in patients with AGHD ......32
+Figure 16: Schematic summary of PK/PD models of somapacitan (Source; Figure 4-2, Modeling Report)
+......................................................................................................................................................................... 39
+Figure 17: Mean somapacitan doses during and following dose titration, by trial (A) and by start dose
+group (B) (Source: Figure 5-1, Modeling Report)..........................................................................40
+Figure 18: Somapacitan doses after titration; by trial (A), by starting dose group (B), by body weightgroup (C), by sex and oral estrogen intake (D), by age group (E), and by race (F) (Source:
+Figure 5-2, Modeling Report); mean (SE) somapacitan weekly dose over the treatment
+period by body weight quartile (G), and by sex and oral estrogen (H) F NO; female
+without oral estrogen, F OE; female with oral estrogen, M OLD; male >=65 year, M Y;
+male <65 year (reviewer’s analysis using Trial 4054 data) .........................................................41
+Figure 19: PK (upper) and PK/PD (lower) models fit to geometric mean observed data in trial 4054 (A),
+trial 4043 (B) and trial 4244 (C) (Source: Figure 5-3 and 5-5, Modelling Report)..............42
+Figure 20: Somapacitan Cavg versus dose (A), IGF-1avg versus dose (B), IGF-1avg versus Cavg (C), IGF­
+1avg change from baseline versus Cavg (D) after titration as observed in phase 3 (Source;
+Figure 5-8, Modeling Report)................................................................................................................43
+Figure 21: Forest plot of effects of intrinsic covariates on Cavg during 2 mg weekly doses somapacitan
+(Source; Figure 5-11, Modeling Report)............................................................................................43
+Figure 22: Exposure versus dose (A, D, G, J), IGF-1 response versus somapacitan exposure (B, E, H, K)
+and IGF-1 response versus somapacitan dose (C, F, I, L) across body weights, sex and oral
+estrogen groups, age groups and races (Source; Figure 5-12, Modeling Report).................44
+Figure 23: Exposure-Response (upper): Truncal fat (A), lean body mass (B), visceral adipose tissue (C)
+and appendicular skeletal muscle (D) change from baseline vs. somapacitan Cavg (Figure
+5-17, Modeling Report); PD-Response (lower): Truncal fat (A), lean body mass (B),
+4
+
+Reference ID: 4602384
+
+visceral adipose tissue (C) and appendicular skeletal muscle (D) change from baseline vs.
+IGF-1avg change from baseline (Source; Figure 5-18, Modeling Report)................................45
+
+5
+
+Reference ID: 4602384
+
+1. EXECUTIVE SUMMARY
+Novo Nordisk Inc (applicant) is seeking approval of somapacitan injection under 351(a) regulatory
+pathway for replacement of endogenous growth hormone (GH) in adults with growth hormone
+deficiency. Somapacitan is a long-acting recombinant human GH derivative with a single
+substitution in the amino acid backbone (leucine [L] at position 101 substituted with cysteine [C])
+to which an albumin binding moiety has been attached. The drug product is supplied as a sterile
+solution for subcutaneous (s.c.) use as 10 mg/1.5 mL ready-to-administer pre-filled pen.
+
+1.1
+
+Recommendations
+
+The Office of Clinical Pharmacology/Division of Cardiometabolic and Endocrine Pharmacology
+(OCP/DCEP) has reviewed the clinical pharmacology data submitted under BLA 761156 and
+recommends approval. Key review issues with specific recommendations and comments are
+summarized below:
+Review Issues
+
+Recommendations and Comments
+
+Supportive evidence of
+effectiveness
+
+The primary evidence of effectiveness for the proposed
+dosing regimen were obtained from pivotal Study 4054,
+which showed that s.c. somapacitan, titrated based on IGF­
+1 level, produced significant reduction of truncal fat
+percentage over placebo. The Applicant reported a 1.06%
+reduction in truncal fat percentage from baseline at Week 34
+(primary endpoint) compared to placebo, for which truncal
+fat percentage was increased by 0.47%.
+
+General dosing
+instructions
+
+•
+•
+
+•
+Dosing in patient
+subgroups
+
+The proposed starting dose of somapacitan is 1.5
+mg/week.
+The dose should be increased by increments of
+approximately 0.5 to 1.5 mg, according to individual
+patient requirements based on the clinical response and
+serum insulin like growth factor 1 (IGF-1)
+concentrations. IGF-1 samples should be drawn 3 to 4
+days after the prior dose.
+Maintenance dose should not exceed a dose of 8
+mg/week.
+
+•
+
+A lower starting dose (e.g., 1.0 mg/week) and smaller
+dose increment is proposed for adult patients >60 yrs of
+age.
+
+•
+
+A higher starting dose (e.g., 2.0 mg/week) is proposed
+in women receiving oral estrogen.
+
+•
+
+A lower starting dose (e.g., 1.0 mg/week) and smaller
+dose increment is recommended for patients with
+moderate hepatic impairment, due to the higher
+somapacitan exposure observed in this population. The
+maximum dose should not exceed 4.0 mg/week.
+6
+
+Reference ID: 4602384
+
+Bridge between the “to-bemarketed” and clinical trial
+formulations
+
+1.2
+
+The to-be-marketed drug product formulation was used in
+the pivotal and supportive Phase 3 studies.
+
+Post-Marketing Requirements and Commitments
+
+None.
+
+2. SUMMARY OF CLINICAL PHARMACOLOGY ASSESSMENT
+2.1
+
+Pharmacology and Clinical Pharmacokinetics
+
+Somapacitan is a long-acting recombinant human GH derivative with a single substitution in the
+amino acid backbone (leucine [L] at position 101 substituted with cysteine [C]) to which an
+albumin binding moiety has been attached. The albumin binding moiety (side-chain) consists of
+an albumin binder and a hydrophilic spacer attached to position 101 of the protein by chemical
+conjugation. The non-covalent, reversible binding to endogenous albumin delays the elimination
+of somapacitan and thereby prolongs the in vivo half-life (t1/2) and duration of action.
+The following is a summary of the clinical pharmacokinetics of s.c. somapacitan:
+Absorption:
+
+Distribution:
+
+Elimination:
+
+Metabolism:
+
+• Following administration of s.c. somapacitan in AGHD patients at doses
+ranging from 0.02 mg/kg/week to 0.12 mg/kg/week, maximum plasma
+concentration is reached 4 to 24 hours post dose. Steady state is achieved
+following 1–2 weekly doses. The absolute bioavailability of s.c.
+somapacitan in human has not been studied.
+• Somapacitan displayed approximately linear pharmacokinetics in the
+clinically relevant dose range, but at higher doses, the PK is non-linear.
+• The steady state PK of somapacitan is comparable between healthy
+subjects and patients with AGHD.
+• Somapacitan is extensively bound to plasma protein (>99%) and is
+expected to be distributed in tissues with high albumin concentration, such
+as serum/plasma. The molar concentration of albumin in human serum is
+>100,000 times higher than that of somapacitan at maximal therapeutic
+concentrations in humans.
+• Based on population PK analyses, the estimated volume of distribution
+(V/F) of somapacitan in AGHD patients is approximately 14.6 L.
+• The elimination half-life of somapacitan in AGHD patients was 2 – 3 days.
+• The primary excretion routes of somapacitan related material were urine
+(80.9%) and feces (12.9%). No intact somapacitan is excreted, indicating
+full breakdown of somapacitan prior to excretion.
+• Somapacitan is metabolized via proteolytic cleavage of the linker sequence
+between the peptide backbone and albumin binder sidechain.
+
+7
+
+Reference ID: 4602384
+
+2.2
+
+Dosing and Therapeutic Individualization
+
+2.2.1
+
+General dosing
+
+Somapacitan should be initiated with a dose of 1.5 mg/week. Dose should be increased every 2–
+4 weeks by increments of approximately 0.5 to 1.5 mg, based on clinical response and serum IGF­
+1 concentrations. Maintenance dose should not exceed 8 mg/week.
+If a somapacitan dose is missed, it should be administered as soon as possible and not more than
+3 days after the missed dose (within 72 hour). This is to ensure that there is a dosing interval of
+no less than 4 days between 2 consecutive doses. If more than 3 days have passed, the dose should
+be skipped, and the next dose should be administered on the regular dosing day.
+2.2.2
+
+Therapeutic individualization
+
+No separate dose/dosing regimen is recommended in patient subgroups due to intrinsic (sex, race,
+body weight, renal impairment) and extrinsic factors. A lower starting dose and smaller dose
+increment is recommended for adult patients >60 yrs of age while a higher starting dose is
+recommended in women receiving oral estrogen, as per the recommendations in prescribing
+information of currently marketed growth hormone products. Considering the higher somapacitan
+exposure in patients with moderate hepatic impairment, a lower starting dose (1.0 mg/week) is
+recommended; the maximum dose should not exceed 4.0 mg/week. No dose adjustment is needed
+for patients with mild hepatic impairment. Somapacitan was not studied in patients with severe
+hepatic impairment.
+
+2.3
+
+Outstanding Issues
+
+None.
+
+2.4
+
+Summary of Labeling Recommendations
+
+The Office of Clinical Pharmacology recommends the following labeling concepts be included in
+the final package insert:
+Label Section
+
+2 DOSAGE AND ADMINISTRATION
+
+Recommendation
+
+•
+
+The Applicant proposed a starting dose of approximately 1.5
+(b) (4)
+mg/week
+for treatment
+(b) (4)
+naïve patients or
+(b) (4)
+for patients switching from daily
+growth hormone (somatropin). In the pivotal Phase 3 study, a
+(b) (4)
+fixed starting dose was used.
+(b) (4)
+. Since the efficacy and safety of a
+higher starting dose of somapacitan has not been evaluated
+using the pre-specified endpoints in the clinical program, the
+same starting dose, i.e., 1.5 mg/week is recommended for both
+treatment naïve patients and patients switching from daily
+growth hormone. Overall, we recommend the dosing of
+somapacitan as “Initiate TRADE NAME with a dose of 1.5
+mg/week”.
+
+8
+
+Reference ID: 4602384
+
+12 USE IN SPECIFIC POPULATIONS
+8.7 Hepatic Impairment
+
+(b)
+
+•
+
+Applicant also proposed a lower starting dose for patients > (4)
+years of age and a higher starting dose in women receiving oral
+estrogen. However, the lower or higher dose was not specified
+in the label. In the pivotal Phase 3 study, a dose of 1.0
+mg/week and 2.0 mg/week was used in patients >60 years of
+age and in women receiving oral estrogen, respectively.
+Hence, we recommend the dose of somapacitan in these
+population as “Use a lower starting dose (e.g., 1.0 mg/week)
+(b)
+and smaller dose increment for adult patients greater than (4)
+years of age, as they may be at increased risk for adverse
+reactions with TRADE NAME than younger individuals. Use a
+higher starting dose (e.g., 2.0 mg/week) in women receiving
+oral estrogen.”
+
+•
+
+The Applicant did not propose any dose adjustment for
+patients with hepatic impairment. However, patients with
+moderate hepatic impairment demonstrated a 4.7-fold higher
+somapacitan exposure and a 25% lower IGF-1 response.
+Hence, a lower starting dose and a lower maximum dose is
+recommended in this patient population (Refer to Section 3.3.3
+for additional detail). Overall, we recommended the dose of
+somapacitan in patients with hepatic impairment as – “No
+specific dose adjustment is required in patients with mild
+hepatic impairment. For patients with moderate hepatic
+impairment, use a lower starting dose (e.g., 1.0 mg/week) and
+smaller dose increment, due to the higher somapacitan
+exposure observed in this population. The maximum dose
+should not exceed 4.0 mg/week. Somapacitan was not studied
+in patients with severe hepatic impairment.”
+
+3.
+
+COMPREHENSIVE CLINICAL PHARMACOLOGY REVIEW
+
+3.1
+
+Overview of the Product and Regulatory Background
+
+Somapacitan is a long-acting recombinant human GH derivative with a single substitution in the
+amino acid backbone (leucine [L] at position 101 substituted with cysteine [C]) to which an
+albumin binding moiety has been attached. The albumin binding moiety (side-chain) consists of
+an albumin binder and a hydrophilic spacer attached to position 101 of the protein by chemical
+conjugation. The non-covalent, reversible binding to endogenous albumin delays the elimination
+of somapacitan and thereby prolongs the in vivo half-life and duration of action. As for human
+GH, the mechanism of action of somapacitan is either directly via binding to the GH receptor or
+indirectly via insulin-like growth factor 1 (IGF-1).
+
+9
+
+Reference ID: 4602384
+
+The relevant regulatory history regarding these communications is summarized below:
+Dates
+May 19, 2014
+
+Jul 23, 2014
+Sept 08, 2016
+
+Communication/Meeting
+Type
+EOP2 Meeting
+
+IND submission with Phase 3
+study protocol (Study 4054)
+Email communication –
+Clinical pharmacology
+
+Nov 15, 2017
+
+Type C meeting - CMC
+
+Apr 20, 2018
+
+Type C meeting Immunogenicity
+Pre-BLA Meeting
+
+Apr 25, 2019
+
+Key Communication Points
+Applicant’s proposed Phase 3 study design, primary/
+secondary endpoints, starting doses and IGF-1 standard
+deviation score (SDS) based titration was deemed reasonable.
+The proposed study was deemed safe to proceed.
+Applicant’s approach to not conduct dedicated DDI studies
+with somapacitan were deemed reasonable. In addition, the
+proposal to conduct a dedicated renal impairment study and
+hepatic impairment study in subjects without growth hormone
+deficiency was deemed reasonable.
+The Applicant discussed the CMC and non-clinical
+comparability program to demonstrate comparability between
+drug substance manufactured at the pilot facility for Phase 3
+study and drug substance manufactured at the commercial
+manufacturing site.
+The ADA assays were deemed sufficient.
+Completeness of the application for the BLA submission was
+discussed.
+
+(b) (4)
+
+Aug 12, 2019
+
+3.2
+
+General Pharmacological and Pharmacokinetic Characteristics
+
+Growth hormone deficiency is a rare disorder which affects both children and adults. It is
+characterized by inadequate systemic availability of growth hormone due to inadequate secretion
+from the anterior pituitary gland or destruction of the gland. The incidence of AGHD is about 1.90
+for males and 1.42 for females, per 100,000. AGHD may have either childhood or adulthood
+onset. The etiology of growth hormone deficiency can be congenital, acquired (e.g., as a result of
+traumatic brain injury, infection, radiation therapy, or tumor growth within the hypothalamicpituitary areas of the brain) or idiopathic.
+Somapacitan is a long-acting recombinant human growth hormone (hGH) derivative containing
+an albumin binding moiety. The protein part consists of 191 amino acids. The molecular formula
+(including albumin binding moiety) is C1038H1609N273O319S9 and the molecular weight is 23305.10
+g/mol, of which the albumin binding moiety is 1191.39 g/mol.
+
+Figure 1: Somapacitan bound to albumin
+Source: Module 2.5. Clinical Overview
+
+10
+
+Reference ID: 4602384
+
+The clinical pharmacology characteristics of somapacitan was investigated in five studies: two in
+healthy subjects, one in AGHD patients, one in subjects with renal impairment and one in subjects
+with hepatic impairment.
+3.2.1 Mechanism of Action:
+The mechanism of action of somapacitan is either directly via the GH-receptor and/or indirectly
+via IGF-1 produced in tissues throughout the body, but predominantly in the liver. The major
+effects of somapacitan are on body composition (i.e., decreased body fat mass, increased lean body
+mass, increased bone mineral density) and on metabolic action.
+3.2.2 Pharmacokinetics:
+3.2.2.1 Absorption
+The single dose PK of somapacitan following s.c. administration was evaluated in healthy subjects
+(Study 3915) at dose levels of 0.01, 0.04, 0.08, 0.16 and 0.32 mg/kg. The median time to peak
+serum concentration (Tmax) ranged from 6 to 36 hours post-dose. AUC0-168h and Cmax increased
+with a higher than dose-proportional manner within the investigated dose-range (Figure 2).
+
+Figure 2: Mean somapacitan concentration-time profile (on log scale) following single dose
+administration in healthy subjects (Study 3915)
+Source: Module 2.7.2. Summary of Clinical Pharmacology Studies
+
+The steady state PK of somapacitan were evaluated in AGHD patients (Study 3947), in healthy
+subjects (Study 3915) and in specific population including otherwise healthy subjects with renal
+impairment (Study 4297) and hepatic impairment (Study 4298). In patients with AGHD, the
+median Tmax at steady state ranged from 4 to 11.9 hour. Steady state occurred after 1 to 2 doses,
+as seen by the stable trough levels after the 2nd dose (Figure 3); the accumulation ratio was
+generally low, ranging from 1.0 to 2.0.
+
+11
+
+Reference ID: 4602384
+
+Figure 3: Mean (SD) somapacitan concentration at trough levels in AGHD patients (Study 3947)
+Source: Reviewer’s analysis based on Data submitted under Study 3947
+
+Somapacitan displayed apparent linear pharmacokinetics in the clinically relevant dose range (0.02
+to 0.12 mg/kg), but at higher doses, the pharmacokinetics of somapacitan is non-linear and greater
+than dose-proportional. In patients with AGHD, a 6-fold increase in somapacitan dose (from 0.02
+mg/kg/week to 0.12 mg/kg/week) resulted in approximately 8-fold increase in both AUC0-168h and
+Cmax of somapacitan in Study 3947 (Table 1). The power model indicates that PK was proportional
+to dose as exponents of the model 1.12 for both AUC0-168h and Cmax at steady-state, within a dose
+range of 0.02 to 0.12 mg/kg/week. Further, corresponding exponents were 1.05 and 0.99 when
+weekly total doses were used (1.5 to 11.6 mg/week, Figure 15 in Section 4.2.3). Those dose ranges
+(0.02 to 0.12 mg/kg/week or 1.5 to 11.6 mg/week) covered the therapeutic weekly dose range of
+1.5 to 8 mg investigated in the Phase 3 trials.
+Table 1: Steady state PK properties of somapacitan in patients with AGHD (Study 3947)
+
+Dose
+
+N
+
+0.02 mg/kg/wk
+0.04 mg/kg/wk
+0.08 mg/kg/wk
+0.12 mg/kg/wk
+
+7
+6
+6
+7
+
+AUC0-168h
+(ng.hr/mL) (CV)
+666 (70.9)
+986 (93.3)
+2085 (102.2)
+5431 (61.7)
+
+Cmax (ng/mL)
+(CV)
+14.4 (193.2)
+20.6 (201.2)
+45.4 (127.6)
+114.8 (113.3)
+
+Source: Module 2.7.2. Summary of Clinical Pharmacology Studies
+
+The total variability (CV) for AUC0-168h ranged from 61.7% to 102.2% and for Cmax from 113.3%
+to 201.2% across doses (0.02 to 0.12 mg/kg) at steady state in patients with AGHD. In healthy
+(non-Asian) subjects, the total variability for AUC0-168h ranged from 60.9% to 90.4% and for Cmax
+from 30.1% to 118.1% across doses (0.02 to 0.24 mg/kg) at steady state. Based on population PK
+analyses on data from the Phase 3 trials, the intra-subject variability in somapacitan exposure (Cavg)
+was estimated to be 37% (CV).
+12
+
+Reference ID: 4602384
+
+3.2.2.2 Distribution
+Somapacitan is extensively bound to plasma protein (>99%) and is expected to be distributed in
+tissues with high albumin concentration. In patients with AGHD, the estimated mean volume of
+distribution during the terminal phase (Vz/F) ranged from 1.6 to 4.3 L/kg under the assumption of
+no rate limiting absorption or distribution. However, population PK model, which indicated rate
+limiting absorption, estimated the volume of distribution to be 14.6 L.
+3.2.2.3 Metabolism and elimination
+Based on the mass-balance study (Study 4237), the primary excretion routes of somapacitan were
+urine (80.9%) and feces (12.9%), as assessed by [3H]-somapacitan-related material. The mean
+total recovery was 94%. The excreta contained no intact somapacitan, indicating full degradation
+prior to excretion (Figure 4).
+
+Figure 4: Total recovery of [3H]-somapacitan-related material excreted in urine, feces and expired
+air (% of dose) (Study 4237)
+Source: Module 2.7.2. Summary of Clinical Pharmacology Studies
+
+Three abundant plasma metabolites (P1, M1 and M1B) and two abundant urine metabolites (M4
+and M5) were detected. Intact somapacitan was the principal plasma component during the first
+week and accounted for 59% of the total exposure of somapacitan related material, while the
+metabolites accounted for 21% (P1) and 12% (sum of M1 and M1B). The remaining plasma
+metabolites accounted for <10% of the total AUC exposure.
+The steady state clearance (CL/F) in AGHD patients ranged from 0.021 to 0.039 L/h/kg with high
+variability (CV of 62 to 99.9%). The estimated terminal half-life (t1/2) in AGHD patients ranged
+from 48.8 to 75.7 hour (2–3 days), which is in agreement with the model estimated t1/2 of 69.2
+hour.
+
+13
+
+Reference ID: 4602384
+
+3.3
+
+Clinical Pharmacology Questions
+
+3.3.1
+
+Does the clinical pharmacology information provide supportive evidence of
+effectiveness?
+
+Yes, the data presented in this BLA provide supportive evidence of effectiveness for s.c.
+somapacitan as replacement of endogenous growth hormone in adults with growth hormone
+deficiency. Refer to Section 3.3.2 for additional details.
+3.3.2
+
+Is the proposed general dosing regimen appropriate for the general patient population
+for which the indication is being sought?
+
+Yes, the proposed dosing regimen is appropriate for the AGHD patients. The starting dose of 1.5
+mg/week was selected based on the outcome of a 4-week, randomized, open-label, activecontrolled, multiple-dose, dose-escalating study in AGHD patients (Study 3947). Four dose levels
+of somapacitan were evaluated (0.02, 0.04, 0.08 and 0.12 mg/kg/week) in 8 AGHD patients in
+each cohort (somapacitan (n=6); placebo (n=2)). Norditropin® was used as the active control; the
+dose of Norditropin® was the same as the individual daily dose patients received during the 3­
+month period before starting the washout period.
+The IGF-1 levels increased in a dose-dependent manner across the dose levels studied (Figure 5).
+There were no statistically significant differences for IGF-1 AUC0-168h and Cmax between
+somapacitan 0.02 mg/kg and Norditropin® and between somapacitan 0.04 mg/kg and Norditropin®
+(mean once-daily dose of Norditropin® was 0.004 mg/kg). For somapacitan dose of 0.08 and 0.12
+mg/kg, AUC0-168h and Cmax were higher than that with Norditropin®.
+
+Figure 5: Mean IGF-1 SDS levels by dose over time in patients with AGHD (Study 3947).
+Source: Module 2.7.2. Summary of Clinical Pharmacology Studies
+
+Overall, this study showed that at steady state, the IGF-1 profiles of somapacitan doses of 0.02 and
+0.04 mg/kg/week matched the IGF-1 level of the average Norditropin® dose of 0.004 mg/kg/day,
+indicating that the once-weekly somapacitan dose should be approximately 5 to 10-fold higher
+than the daily Norditropin® dose. Since the Norditropin® starting dose ranged from 0.15 to 0.3
+
+14
+
+Reference ID: 4602384
+
+mg/day, a 10-fold of the lower range of daily Norditropin® dose was selected for weekly
+somapacitan dose, i.e., 1.5 mg/week.
+Consequently, in the Phase 3 studies, patients ≤60 yrs received a starting somapacitan dose of 1.5
+mg/week of somapacitan. As recommended in the Norditropin® label, patients >60 yrs of age
+received a lower somapacitan starting dose (1.0 mg/week) and female patients on oral estrogen
+received a higher starting dose (2.0 mg/week). Thereafter, somapacitan dose was titrated towards
+a target range of -0.5<IGF-1 SDS≤2 at 2 to 4 weeks interval. Samples for IGF-1 were drawn 3–4
+days after the previous dose. In the pivotal Phase 3 study (Study 4054), majority of the patients
+(59.6%) increased their somapacitan dose during the titration period, where 30.7% patients did not
+adjust the dose. A similar pattern was observed in the two supportive Phase 3 studies (4244 and
+4043). Thus, the maintenance dose of somapacitan was generally higher than the starting dose. In
+Phase 3 studies, the maximum dose of somapacitan was 8 mg/week which was selected based on
+Study 3947 that showed doses up to 0.12 mg/kg were well tolerated.
+The pivotal Phase 3 study 4054 was a randomized, parallel-group, placebo- (double-blinded) and
+active-controlled (open; Norditropin®) study in treatment naïve AGHD patients in which onceweekly somapacitan and once-daily Norditropin® were administered during a 35-week main
+period, followed by a 53 weeks open-label extension period. Both the main trial period and the
+extension period consisted of 8 weeks dose titration followed by 26 weeks (main) and 44 weeks
+(extension) fixed dose treatment. The mean somapacitan dose was 2.56 mg/week during the fixed
+dose treatment; 17 out of 121 patients in the somapacitan group received a dose of >4.0 mg/week
+while only one patient received the proposed maximum dose of 8 mg. The weekly dosing at each
+study visit is presented in Figure 6.
+
+Figure 6: Box plot of weekly doses at titration visits and fixed dose periods
+Source: Module 5.3.5. Clinical Study Report for Study 4054
+
+15
+
+Reference ID: 4602384
+
+A reduction in truncal fat% from baseline to Week 34, the primary endpoint, was observed with
+somapacitan (-1.06%) compared to an increase in placebo (0.47%). The estimated difference was
+statistically significant (-1.53%; p=0.009), suggesting superiority of somapacitan over placebo
+(Table 2). Overall, once-weekly dose of somapacitan administered up to 86 weeks were well
+tolerated and no clinically significant safety issues were identified. Refer to the Clinical Review
+by Dr. Geanina Roman-Popoveniuc and Statistics Review by Dr. Yoonhee Kim for additional
+details on efficacy and safety assessment of somapacitan in Phase 3 studies.
+Table 2: Change from baseline to Week 35 in truncal fat% (primary endpoint) for somapacitan vs
+placebo (Study 4054)
+
+Source: Module 2.5. Clinical Overview
+
+In all Phase 3 studies, once-weekly somapacitan and daily Norditropin® resulted in similar average
+IGF-1 SDS levels at steady state (Figure 7). The average weekly dose of somapacitan in all three
+Phase 3 studies (2.4 mg/week) corresponded approximately to the sum of daily doses of
+Norditropin® over one week (7 times 0.3 mg/day).
+
+Figure 7: Average IGF-1 SDS at steady state following once-weekly somapacitan and daily
+Norditropin® by studies (Studies 4054, 4043 and 4244)
+Source: Module 2.3. Clinical Overview
+
+Missed dose:
+To evaluate the impact of a missed or delayed dose of somapacitan, simulations of data from the
+Phase 3 studies were performed. If one dose is missed, the concentration of somapacitan will
+decrease, but is expected to be completely restored 2 weeks (i.e., Week 3) after the missed dose.
+
+16
+
+Reference ID: 4602384
+
+The IGF-1 levels are also expected to decrease, but regular steady state profiles are expected to be
+restored 2 weeks after the missed dose (Figure 8).
+
+Figure 8: Predicted somapacitan PK (A) and IGF-1 (B) profiles compared to simulations for
+delayed and skipped doses (Phase 3 studies)
+Source: Module 2.7.2. Summary of Clinical Pharmacology Studies
+
+If a dose is delayed by 3 days, slightly decreased peak concentrations are expected, whereas trough
+concentrations will be higher compared to regular steady-state dosing. Two weeks after the
+delayed dose (Week 3) the concentrations will be completely restored. The IGF-1 level is also
+expected to decrease to a lower trough value compared to steady-state dosing and the two
+subsequent peak values will be slightly lower and higher, respectively, compared to regular steadystate values. IGF-1 levels are restored following the dose in Week 3.
+Hence, the recommendation for missed dosing is if a dose is missed, it should be administered as
+soon as possible and not more than 3 days after the missed dose (72 hours). This is to ensure that
+there is a dosing interval of no less than 4 days between 2 consecutive doses. If more than 3 days
+have passed, the dose should be skipped, and the next dose should be administered on the regular
+dosing day.
+Effect on QT/QTc interval:
+The potential effect of somapacitan on cardiac repolarization was assessed based on ECGs
+collected in the Phase 3 Study 4054. The ECGs were collected at baseline and close to the expected
+time of Cmax for somapacitan at different timepoints during the treatment period. A dedicated
+QT/QTc trial was not conducted.
+In the QT-IRT review, dated 09/05/2019, the reviewer noted that the mean somapacitan dose used
+in pivotal Phase 3 Study 4054 was lower than the maximum recommended dose, i.e., 8 mg/week.
+Hence, the observed peak concentration (4.9 ng/mL) would be considerably lower compared to
+the peak concentration that would be observed with the maximum recommended dose. It was also
+noted in the Phase 3 study (4054) that the time-matched systemic exposure to ECG monitoring
+ranged from 0.56 ng/mL to 183 ng/mL which covers the clinically relevant dose and concentration
+of somapacitan at steady-state. At these somapacitan exposures, there were no large increases in
+the QTc interval. None of the patients in the somapacitan group had QTc>480 ms or a change
+from baseline >60 ms.
+17
+
+Reference ID: 4602384
+
+Immunogenicity:
+No anti-somapacitan antibodies were detected after treatment with somapacitan in healthy adults
+or AGHD patients in the five clinical pharmacology studies or the three phase 3 studies. This is
+consistent with short-acting recombinant growth hormone product, i.e., somatropin. Refer to the
+Quality review by Dr. Arudchandran for additional detail on the immunogenicity assay for
+somapacitan.
+3.3.3
+
+Is an alternative dosing regimen and management strategy required for subpopulations
+based on intrinsic factors?
+Results from the clinical pharmacology trials and population PK analysis of data from Phase 3
+studies indicate that dose adjustment of somapacitan is not required for patients based on intrinsic
+factors of sex, body weight, race, ethnicity or renal function. Since the somapacitan exposure and
+IGF-1 SDS response were lower in female patients receiving oral estrogen, a higher starting dose
+is recommended. On the other hand, a lower starting dose is recommended in patients >60 yrs of
+age due to the observed higher exposure. This dosing paradigm is consistent with clinical practice
+and sponsor studied these patients accordingly in the Phase 3 trials, in which 1.0 mg/week and 2.0
+mg/week starting doses were used in patients >60 yrs and in females on oral estrogen, respectively.
+Considering the higher somapacitan exposure in patients with moderate hepatic impairment, a
+lower starting dose (1.0 mg/week) is recommended; the maximum dose should not exceed 4.0
+mg/week. No dose adjustment is needed for patients with mild hepatic impairment. Somapacitan
+was not studied in patients with severe hepatic impairment.
+3.3.3.1 Renal Impairment
+The effect of renal impairment on the PK and PD properties of somapacitan was evaluated in Study
+4297 in which 3 doses of 0.08 mg/kg somapacitan was administered once-weekly for 3 weeks to
+subjects with either normal renal function (n=15), mild (n=8), moderate (n=8) or severe (n=5)
+renal impairment, or to subject requiring hemodialysis (n=8). Overall, the exposure to
+somapacitan was higher in the renal impairment groups, and exposure tend to increase with
+decreasing GFR (Figure 9). Compared to subjects with normal renal function, AUC0-168h was
+higher by 25%, 27%, 75% and 63%, while Cmax was higher by 31%, 40%, 47% and 34% in the
+mild, moderate, severe, and hemodialysis group, respectively (Table 3).
+
+18
+
+Reference ID: 4602384
+
+0
+
+12 24
+
+48
+
+72
+
+96
+
+120
+
+144
+
+168
+
+336
+
+FL
+
+Figure 9: Mean somapacitan concentration-time profile in subject with normal renal function or
+various degree of renal impairment (Study 4297)
+Source: Module 2.7.2. Summary of Clinical Pharmacology Studies
+
+Table 3: Statistical comparison of AUC0-168h and Cmax of somapacitan in subjects with normal renal
+function varying degree of renal impairment (Study 4297)
+
+Renal impairment
+group
+
+Geometric mean ratio (vs normal)
+(90% CI)
+AUC0-168h
+
+Cmax
+
+Mild (n=8)
+
+1.25 (0.74, 2.11)
+
+1.31 (0.71, 2.39)
+
+Moderate (n=8)
+
+1.27 (0.77, 2.07)
+
+1.40 (0.79, 2.47)
+
+Severe (n=5)
+
+1.75 (1.00, 3.06)
+
+1.47 (0.77, 2.81)
+
+Hemodialysis (n=8)
+
+1.63 (1.01, 2.61)
+
+1.34 (0.77, 2.32)
+
+Source: Module 2.7.2. Summary of Clinical Pharmacology Studies
+
+Similar to the higher somapacitan exposure in all renal impairment groups, mean IGF-1 SDS, and
+IGFBP-3 SDS levels were also elevated relative to the normal renal function group (Figure 10).
+The IGF-1 AUC0-168h increased by 14%, 35%, 40% and 24% in subjects with mild, moderate,
+severe renal function and hemodialysis groups, respectively, compared to the normal renal
+function group.
+
+19
+
+Reference ID: 4602384
+
+0
+
+12 24
+
+48
+
+72
+
+96
+
+120
+
+144
+
+168
+
+336
+
+FL
+
+Figure 10: Mean IGF-1 SDS curves for subjects with normal renal function or various degrees of
+renal impairment (Study 4297)
+Source: Module 2.7.2. Summary of Clinical Pharmacology Studies
+
+Since, both somapacitan exposure and IGF-1 response increases in a similar fashion, which was
+<2-fold, and since somapacitan dose will be titrated based on clinical response and IGF-1
+concentrations, specific dosing recommendation is not considered necessary.
+3.3.3.2 Hepatic Impairment
+The effect of hepatic impairment on the PK and PD properties of somapacitan was evaluated in
+Study 4298 in which 3 doses of 0.08 mg/kg somapacitan was administered once-weekly for 3
+weeks to subjects with either normal hepatic function (n=16), mild (n=9) or moderate (n=9) hepatic
+impairment. Somapacitan concentration was generally similar in normal hepatic function and mild
+impairment group, but higher in the moderate impairment group (Figure 11).
+
+20
+
+Reference ID: 4602384
+
+0
+
+12 24
+
+48
+
+72
+
+96
+
+120
+
+144
+
+168
+
+336
+
+FL
+
+Figure 11: Mean somapacitan concentration-time profile (log scale) in subjects with normal hepatic
+function or mild or moderate hepatic impairment (Study 4298)
+Source: Module 2.7.2. Summary of Clinical Pharmacology Studies
+
+Compared to normal hepatic function group, AUC0-168h was similar in the mild hepatic impairment
+group, but 4.7-fold higher in the moderate hepatic function group. Similarly, Cmax in mild hepatic
+impairment group was similar to the normal hepatic function group but was 3.5-fold higher in the
+moderate hepatic impairment group (Table 4).
+Table 4: Statistical comparison of AUC0-168h and Cmax of somapacitan in subjects with normal
+hepatic function and mild or moderate hepatic impairment (Study 4298)
+
+Hepatic impairment
+group
+
+Geometric mean ratio (vs normal)
+(90% CI)
+AUC0-168h
+
+Cmax
+
+Mild (n=9)
+
+1.08 (0.66, 1.75)
+
+0.95 (0.52, 1.74)
+
+Moderate (n=9)
+
+4.69 (2.92, 7.52)
+
+3.52 (1.97, 6.31)
+
+Source: Module 2.7.2. Summary of Clinical Pharmacology Studies
+
+On the contrary, mean IGF-1 SDS levels were lower both at baseline and at steady state in the mild
+and moderate hepatic impairment groups, compared to the normal hepatic function group (Figure
+12). In the moderate impairment group, the AUC0-168h for IGF-1 SDS was 25% lower than that in
+normal hepatic function group.
+
+21
+
+Reference ID: 4602384
+
+0
+
+12 24
+
+48
+
+72
+
+96
+
+120
+
+144
+
+168
+
+336
+
+FL
+
+Figure 12: Mean IGF-1 SDS-time profile for subjects with normal hepatic function, or with mild or
+moderate hepatic impairment (Study 4298)
+Source: Module 2.7.2. Summary of Clinical Pharmacology Studies
+
+The lower IGF-1 and IGFBP-3 levels (37% lower) despite increased somapacitan exposure
+indicate that higher somapacitan doses might be needed in the moderate hepatic impairment group
+to obtain adequate result. However, since the dose of somapacitan is individually titrated based
+on clinical response and IGF-1 level, the Applicant proposed no specific recommendations for
+patients with hepatic impairment.
+The Agency raised concern that a higher somapacitan dose (if required) in these population may
+further increase the drug exposure. In a response, dated January 22, 2020, the Applicant noted that
+the starting dose of 1.5 mg/week (~equivalent to 0.02 mg/kg/week for a 70 kg patient) would result
+in exposure levels that were well-tolerated in the clinical pharmacology trials. Somapacitan
+exposure (AUC0-168h) following a 0.02 mg/kg/week dose in AGHD patients (normal hepatic
+function) was 666 ng.hr/mL (Study 3947). Hence, a 4.7-fold increase in exposure in moderate
+hepatic impairment would result in an AUC0-168h of 3130 ng.hr/mL, which corresponds to an
+exposure observed between 0.08 mg/kg/week and 0.12 mg/kg/week. These doses were overall
+well-tolerated in Study 3947. Furthermore, in the dedicated hepatic impairment study (Study
+4298), there was no difference in safety parameters observed across the hepatic function groups.
+The Applicant’s justification on safety of the starting dose of somapacitan in patients with hepatic
+impairment appears reasonable. However, as discussed above, patients with hepatic impairment
+demonstrated a lower IGF-1 response, and may be titrated to a higher dose, which subsequently
+will result in a significantly higher somapacitan exposure. For example, the proposed maximum
+dose of 8 mg would result in a markedly higher exposure – the safety of which is unknown with
+currently available clinical data. Moreover, the lower levels of IGF-1 observed in hepatic
+impairment in this study is likely because of growth hormone resistance and lower IGF-1 level
+
+22
+
+Reference ID: 4602384
+
+generally observed in patients with hepatic disease. 1 Hence, a higher somapacitan dose may not
+necessarily result in higher IGF-1 response.
+Currently marketed growth hormone products do not have any dose adjustment for patients with
+hepatic impairment due to lack of clinical data. However, based on the dedicated hepatic
+impairment study conducted with somapacitan (Study 4298), it is recommended that patients with
+moderate hepatic impairment start with a lower dose (1.0 mg/week) with smaller dose increment
+and the maximum dose is limited to 4.0 mg/week. If the desired IGF-1 level is not achieved with
+4.0 mg/week dose, patients should discontinue receiving somapacitan. It is noted that the majority
+of the patients (>85%) in the pivotal Phase 3 study required a dose of <4.0 mg/week. In addition,
+there are limited safety data available with the markedly higher exposure that may result from the
+originally proposed maximum dose, i.e., 8 mg.
+3.3.3.3 Race, Sex, Body weight and Age
+The effects of various pre-specified covariates on somapacitan exposure and IGF-1 response was
+assessed using population PK and population PK/PD analyses based on data from the three Phase
+3 studies in AGHD patients (Studies 4054, 4244 and 4043). Of all investigated covariates, body
+weight, sex and concomitant oral estrogen intake were the major covariates whereas age and race
+were less important (Table 5).
+Based on individual parameter estimates from the developed longitudinal PK/PD model, doseexposure-response (IGF-1) simulation were performed across the dose range 0.1 – 8 mg to illustrate
+the expected outcome of somapacitan dosing if subjects were administered fixed doses rather than being
+titrated. The simulated dose-response was apparently similar across races. The predicted dose-response
+relationship supported higher doses for females on oral estrogen to reach similar response compared to
+that of males, and the exposure difference may attribute to the difference in doses between two groups
+in addition to the different baseline IGF-1 levels.
+It is noted that somapacitan exposure was ~3-fold higher in patients with lower body weight (BW;
+45 kg) as compared to patients with 85 kg BW (Table 5). However, the dose-response was
+expected to be similar across BW due to difference in baseline IGF-1 level (Figure 21). In the
+pivotal Phase 3 study, only 2 out of 115 patients in the somapacitan group had BW below 45 kg
+(44.5 and 44.8 kg). In addition, the exposure comparison was made against 85 kg BW while the
+median BW in the Phase 3 study was 72.9 kg. Given that the dose will be titrated based on clinical
+response, and that the safety profiles in the sub-group with lower body weight were found
+acceptable, no dose adjustment is recommended based on body weight.
+Overall, the dosing recommendations including titration algorithms are supported by the
+dose/exposure-response evaluation as the analysis reasonably described the dose-response
+relationships in clinically relevant sub-groups. See Appendix 4.2.5 for more details.
+
+Wallace D et al. GH Treatment in Adults with Chronic Liver Disease: A Randomized, Double-Blind, PlaceboControlled, Cross-over Study. J Clin Endocrin Metab. 2002;87(6):2751-9
+1
+
+23
+
+Reference ID: 4602384
+
+Table 5: Population pharmacokinetic covariate analysis of somapacitan exposure in patients with
+AGHD (Studies 4054, 4244 and 4043)
+
+Source: Module 2.7.2. Summary of Clinical Pharmacology Studies
+
+3.3.4
+
+Are there clinically relevant drug-drug interactions and what is the appropriate
+management strategy?
+
+Since somapacitan has a similar molecular structure to human GH, a similar mode of action via
+binding to GH receptor and a similar pharmacodynamic action to that of human GH, the class
+effects for currently marketed daily GH products can be applicable for somapacitan. As part of
+the non-clinical development program of somapacitan, potential effects on CYP450 enzyme
+activity/expression was investigated both in vitro and in vivo. No in vitro metabolic turn-over of
+somapacitan was observed in any of the hepatocyte incubations (mouse, rat, monkey and human
+hepatocytes).
+In vivo, changes of CYP450 enzyme activities/expressions in rats (30% reduction when expressed
+as nmol/mg protein with 9 mg/kg/day for 13 weeks) and monkeys (10% increase when expressed
+as nmol/mg protein at 9 mg/kg twice weekly for 13 weeks) were observed following high doses
+of somapacitan. The clinical relevance of this finding is unknown. It has, however, previously
+been reported that human GH can induce changes in CYP450 activity in humans, and concomitant
+treatment with CYP450 substrates is addressed in the prescribing information of somapacitan, as
+per in the class label of growth hormone products.
+The molar concentration of albumin in human serum is >100,000 times higher than that of
+somapacitan at steady state. With this large excess of albumin compared to somapacitan,
+displacement drug-drug interaction on albumin is considered unlikely.
+
+24
+
+Reference ID: 4602384
+
+4.
+
+4.1
+
+APPENDICES
+
+Summary of Bioanalytical Method Validation
+
+Somapacitan in human serum was quantified by a specific Luminescent Oxygen Channeling Immunoassay
+(LOCI). This was a homogeneous assay based on the proximity of two beads; i.e., donor and acceptor
+beads. The donor beads were coated with streptavidin. A specific monoclonal antibody (mAb) against
+human growth hormone was conjugated to the acceptor beads. A biotinylated mAb against somapacitan
+was added to make up the immuno-sandwitch, in the presence of somapacitan. Upon laser excitation, a
+photosensitizer presented in the donor beads converted ambient oxygen to a more excited state (singlet
+oxygen). The singlet oxygen channelled into the acceptor beads and reacted with a thioxene derivate in the
+acceptor beads, generating chemiluminescence at 370 nm that further activated the fluorophone euporium,
+embedded in the acceptor beads. Euporium subsequently emitted light at 615 nm, which was measured in
+the EnVision reader and the signal recorded was amount of light generatd in counts per second (cps). The
+amount of light generated in cps was proportional to the concentraon of somapacitan in the sample.
+Table 6: Summary of bioanalytical method for somapacitan
+Matrix (anticoagulant)
+
+Human plasma (K2EDTA)
+
+Analytical method/detection
+
+Luminescent oxygen channeling immunoassay (LOCI)
+
+Validated range
+
+0.50 to 650 ng/mL
+
+Calibration model
+
+Non-linear regression
+
+Weighting factor
+
+1/y2
+
+Intra-assay accuracy (%RE)
+
+-5.78% to 12.8%
+
+Intra-assay precision (%CV)
+
+4.63% to 10.9%
+
+Inter-assay accuracy (%RE)
+
+-7.46% to 4.32%
+
+Inter-assay precision (%CV)
+
+3.59% to 21.5% (LLOQ)
+
+QC samples
+
+1.00 ng/mL, 1.50 ng/mL, 30 ng/mL, 520 ng/mL
+
+Freeze-thaw stability
+
+Five cycles at -20°C
+Five cycles at -80°C
+
+Long-term stability
+
+28 months at -20°C
+9 months at -80°C
+
+Short-term stability
+
+7 days at ambient temperature
+7 days at 4°C
+
+Source: Module 2.7.1: Summary of Biopharmaceutic Studies and Associated Analytical Methods; Module 5.3.1.4: Study
+Report 211467
+
+The accuracy and precision of at least 67% of all quality control (QC) samples were within ±20% of their
+nominal concentration and at least 50% of QCs at each level were within ±20% of their nominal values.
+The reproducibility of the somapacitan assay was evaluated by performing incurred sample re-analysis
+(ISR) in Studies 3915 (healthy subject), 3947 (AGHD patients), 4297 (renal impairment) and 4298 (hepatic
+impairment). At least 10% of the samples of the first 1000 samples plus 5% of the number of samples
+exceeding 1000 samples were analyzed. All ISR assessment were within the acceptance criteria, i.e., at
+least 67% of the re-analyzed samples were within 30% of the original value (the observed percentage of
+the incurred samples ranged from 91.5% to 100%).
+
+25
+
+Reference ID: 4602384
+
+4.2
+
+Summary of Individual Clinical Pharmacology Studies
+
+4.2.1. Study 3915 – First in human dose
+Title: First human dose trial of somapacitan (NNC0195-0092) in healthy subjects. A randomized, singlecenter, placebo-controlled, double-blind, single- and multiple-dose, dose-escalation trial assessing safety,
+tolerability, pharmacokinetics and pharmacodynamics of s.c. administration of NNC0195-0092 in healthy
+subjects.
+Objective:
+Primary objective:
+• To determine safety and tolerability of single and multiple s.c. doses of NNC0195-0092 in healthy
+male subjects compared to placebo
+Secondary objectives:
+• To determine PK and PD parameters following single and multiple s.c. doses of NNC0195-0092
+in healthy, male subjects
+• To compare local tolerability (i.e., injection site reactions) of single and multiple s.c. doses of
+NNC0195-0092 with placebo in healthy, male subjects
+Study design:
+This first human dose trial was a randomized, double-blind, placebo-controlled, single-dose (SD)/multiple­
+dose (MD), dose-escalation trial with s.c. administrations of NNC0195-0092 to healthy, male subjects. The
+trial consisted of a SD part and a MD part, which were conducted in a semi-parallel design.
+The SD part of the trial: Five dose levels (0.01, 0.04, 0.08, 0.16 and 0.32 mg/kg) were evaluated. There
+were 8 subjects in each group, with 6 subjects on active treatment (NNC0195-0092) and 2 subjects on
+placebo. Each subject was allocated to 1 dose level only. All subjects were dosed once. After dosing, the
+subjects were monitored in-house at the trial site for 8 days.
+The MD part of the trial: Four dose levels (0.02, 0.08, 0.16 and 0.24 mg/kg) are evaluated. The MD part
+included 4 cohorts with Japanese healthy male subjects and 4 cohorts with non-Asian healthy male subjects.
+There were 8 subjects in each group, with 6 subjects on active treatment (NNC0195-0092) and 2 subjects
+on placebo. Each subject was allocated to 1 dose level only. All subjects were dosed 4 times with a dosing
+interval of 1 week (Days 1, 8, 15 and 22). Following the 1st and the 4th dosing, the subjects were monitored
+in-house at the trial site for 3 days followed by daily visits to the clinic for 3 days. After the 2nd and 3rd
+dose the subjects were followed by daily visits to the clinic for 2 days after dosing.
+Study population:
+A total of 40 healthy, male subjects were exposed in the single-dose part of the trial (30 on somapacitan
+and 10 on placebo). All subjects were White and 22−43 years of age.
+A total of 32 healthy, Japanese (24 on somapacitan and 8 on placebo), male subjects (23−38 years of age)
+and a total of 33 healthy, non-Asian (25 on somapacitan and 8 on placebo), male subjects (White and 22−45
+years of age) were exposed in the multiple-dose part of the trial.
+Treatments:
+• SD part: Five dose levels of somapacitan – 0.01, 0.04, 0.08, 0.16 and 0.32 mg/kg
+• MD part: Four dose levels of somapacitan – 0.02, 0.08, 0.16, 0.24 mg/kg once-weekly for 4 doses
+• Placebo
+Study endpoints:
+• PK endpoints: AUC0-168h, AUC0-240h (SD part only), AUC, Cmax, Tmax, t1/2, MRT, CL/F, Vz/F, Racc
+(MD part only) for somapacitan plasma concentration
+26
+
+Reference ID: 4602384
+
+•
+
+PD endpoints: AUC0-168h, AUC0-240h (SD part only), Cmax, Tmax, ΔIGF-1 at 168 hour for plasma IGF­
+1 and IGFBP-3 levels
+
+Pharmacokinetic results:
+• Somapacitan mean plasma concentrations after administration to healthy, male subjects increased
+with increasing dose (Figure 2). Somapacitan concentration profiles indicated non-linear
+pharmacokinetics at high dose levels and dose proportionality was not supported by the statistical
+analysis (AUC, AUC0-168h and Cmax) based on all dose levels investigated during the trial (Table 7).
+• At lower and clinically relevant dose levels (≤0.08 mg/kg), the somapacitan concentration profiles
+indicated approximately linear pharmacokinetics, and dose proportionality was indicated for AUC
+and AUC0-168h by an exploratory statistical analysis, restricted to include only the expected
+clinically relevant dose levels (≤0.08 mg/kg). However, the increase in Cmax with increasing dose
+was not consistent with dose proportionality.
+• Following multiple dosing to healthy, Japanese and non-Asian subjects, somapacitan plasma
+concentration increased with dose, and the mean AUC0-168h and Cmax increased with increasing dose
+(Table 7).
+Table 7: Summary of somapacitan PK (Study 3915)
+
+Source: Module 2.7.2. Summary of Clinical Pharmacology Studies
+
+Pharmacodynamic results:
+• In the single dose part, IGF-1 response increased with increasing dose, with elevated IGF-1 levels
+at 4 of 5 dose levels of somapacitan investigated (0.04, 0.08, 0.16 and 0.32 mg/kg). At the lowest
+dose of 0.01 mg/kg, the IGF-1 response was comparable to placebo (Figure 13).
+
+27
+
+Reference ID: 4602384
+
+•
+•
+•
+
+In the multiple-dose part, IGF-1 response increased with increasing dose, with elevated IGF-1
+levels at all dose levels of somapacitan investigated (0.02, 0.08, 0.16 and 0.24 mg/kg). The dose
+response was reflected in AUC0-168h and Cmax (Table 8).
+IGFBP-3 also increased with increasing dose, though not as consistent as that observed in IGF-1.
+The IGF-1 response to somapacitan after multiple dosing was similar between healthy Japanese
+subjects and healthy non-Asian subjects at the same dose per kg.
+
+Table 8: Pharmacodynamic summary of somapacitan in healthy subjects (Study 3915)
+
+Source: Module 2.7.2. Summary of Clinical Pharmacology Studies
+
+28
+
+Reference ID: 4602384
+
+A
+
+B
+
+Figure 13: Mean IGF-1 SDS profiles by dose over time following single (A) and multiple (B) dose in
+healthy non-Asian subjects (Study 3915)
+Source: Module 5.3.1. Study Report 3915
+
+Conclusion:
+• Single (SD) and multiple (MD) doses of somapacitan administered s.c. to healthy Japanese and
+non-Asian male subjects were well tolerated at all doses investigated (SD: 0.01−0.32 mg/kg; MD:
+0.02−0.24 mg/kg), with no serious safety issues or significant local tolerability issues identified.
+• Somapacitan AUC, AUC0-168h and Cmax appeared to increase with dose. A deviation from dose
+proportionality was observed.
+• A dose-dependent IGF-1 response was induced.
+• There were no differences in key PK and PD parameters between Japanese and non-Asian subjects.
+
+4.2.2. Study 4237 – Absorption, metabolism and excretion
+Title: A single center, open-label trial investigating the absorption, metabolism and excretion of
+somapacitan after single subcutaneous dosing in healthy male subjects
+Objectives:
+Primary objective:
+• To investigate absorption, metabolism and excretion of somapacitan in healthy male subjects after
+a single s.c. administration of [3H]-somapacitan
+Secondary objectives:
+• To assess the pharmacokinetics of [3H]-somapacitan-related material and somapacitan in healthy
+male subjects after a single s.c. administration of [3H]-somapacitan
+• To evaluate safety and tolerability of somapacitan in healthy male subjects after a single s.c.
+administration of [3H]-somapacitan
+Study design:
+This was a 5-week, single-center, open-label trial investigating the absorption, metabolism and excretion
+of tritium [3H]-somapacitan-related material after a single s.c. administration of [3H]-somapacitan (6
+mg/540 μCi (20 MBq)) in healthy male subjects.
+All subjects were dosed on the same day (day 1). After dosing, blood, serum, plasma, urine, feces and
+expired air were collected for assessment of radioactivity until excreted levels of radioactivity reached the
+defined end criterion level or up to a maximum of 35 days after dosing. The end criterion was >90%
+recovery of total [3H] in excreta or a total [3H]-excretion (i.e., in feces and urine) ≤0.5% of the administered
+dose in 2 consecutive 24-hour samples, whichever criterion was reached first between days 13 and 36.
+
+29
+
+Reference ID: 4602384
+
+Plasma, serum, blood, urine, feces and expired air were analyzed for total [3H]-somapacitan-related
+material. In addition, selected plasma, urine and feces samples were used for metabolite profiling and
+structure identification analyses. Blood samples for evaluation of PK/PD were collected for a minimum of
+14 days after dosing and a maximum period of 35 days after dosing to cover the absorption and elimination
+phase of somapacitan.
+Study population:
+A total of 7 healthy, male subjects were exposed in the trial. Six (6) subjects were White and one subject
+belonged to the race ‘Other’ (White and American Indian). The age range was 45−62 years.
+Results:
+• The excretion of [3H]-somapacitan-related material in urine, feces and expired air showed that
+94.0% of the administered dose was recovered 28 days after dosing of which 80.9% was excreted
+in urine (wet samples), 12.9% was excreted in feces (wet samples) and 0.19% was excreted in
+expired air.
+• Three (3) abundant plasma metabolites (named P1, M1 and M1B) and two abundant urine
+metabolites (named M4 and M5) were detected and quantified.
+• The PK properties of [3H]-somapacitan-related material appeared to be consistent across plasma,
+serum and blood.
+4.2.3. Study 3947 – dose ranging vs Norditropin® in AGHD patients
+Title: A randomized, open-label, active-controlled, multiple-dose, dose-escalating, sequential dose group
+trial investigating safety, tolerability, pharmacokinetic and pharmacodynamics of once-weekly long-acting
+growth hormone (somapacitan) compared to once-daily Norditropin® in adults with GHD
+Objectives:
+Primary objective:
+•
+To evaluate safety and tolerability of multiple once-weekly s.c. dosing of somapacitan in female
+and male AGHD patients compared to once-daily s.c. dosing of Norditropin®
+Secondary objectives:
+• To evaluate PK and PD of multiple once-weekly s.c. dosing of somapacitan in male and female
+AGHD patients
+• To compare local tolerability (i.e., injection site reactions) of multiple, once-weekly s.c. dosing of
+somapacitan with once-daily s.c. dosing of Norditropin®.
+Study design:
+This was a 4-week, randomized, open-label, active-controlled, multiple-dose, dose-escalating study in
+AGHD patients with s.c. administrations of somapacitan and Norditropin®. Four dose levels of somapacitan
+were evaluated (0.02, 0.04, 0.08 and 0.12 mg/kg). There were 8 AGHD patients in each cohort who were
+randomized to receive either once-weekly s.c. somapacitan (6 patients) or once-daily Norditropin® (2
+patients). The dose level of Norditropin® was the same as the individual daily dose of hGH administered
+during the 3-month period before starting the washout period. Sampling for PK/PD and safety evaluations
+were done on the days of dosing and up to 29 days after the first dose as well as at the follow-up visit 42−49
+days after the first dose.
+Study population:
+
+30
+
+Reference ID: 4602384
+
+A total of 34 AGHD patients were exposed in the trial (25 male and 9 female patients). A total of 33
+patients were White and 1 patient was reported as ‘other’ (White/African). The age range was 21−69 years.
+The medical history and concomitant illnesses were consistent with a diagnosis of AGHD. The patients
+were all to be in stable GH replacement therapy for at least 3 months at inclusion and a GH wash-out period
+of 14 days was required prior to randomization.
+Treatment:
+• Somapacitan: 0.02, 0.04, 0.08, 0.12 mg/kg s.c. once-weekly for 4 doses
+• Norditropin®: Same daily s.c. dose prior to entering the study for 4 weeks
+Study endpoints:
+• PK endpoints: AUC0-168h (somapacitan only), AUC0-24h (Norditropin® only), AUC, Cmax, Tmax, t1/2,
+MRT, CL/F, Vz/F and Racc
+• PD endpoints: AUC0-168h, Cmax, Tmax for both IGF-1 and IGFBP-3, change from baseline at 168 hour
+for IGF-1 and IGFBP-3, IGF-1 SDS and IGFBP-3 SDS at 168 hour and Cmax SDS at 168 hour
+
+Somapacitan (ng/mL)
+
+Study results:
+The increase in somapacitan AUC0-168h and Cmax was approximately dose proportional following multiple
+dosing (Figure 14) (Table 9). The power model indicates that the nominal somapacitan dose was linear for
+both AUC0-168h and Cmax at steady-state within a dose range of 0.02 to 0.12 mg/kg/week or 1.5 to
+11.6 mg/week (Figure 15)
+
+Figure 14: Somapacitan concentration-time profile after dose 4 in AGHD patients (Study 3947)
+Source: Module 5.3.3.2. Study report 3947
+
+Table 9: Pharmacokinetic parameters of somapacitan in AHGD patients (Study 3947)
+
+Source: Module 2.7.2. Summary of Clinical Pharmacology Studies
+
+31
+
+Reference ID: 4602384
+
+1000
+
+Somapacitan Cmax (ng/mL)
+
+y = 46758x1.1287
+10000
+
+1000
+
+100
+
+0.01
+
+Dose (mg/kg)
+
+0.1
+
+100000
+y = 373 35x1.0528
+10000
+
+1000
+
+100
+
+y = 986.87x1.1248
+
+100
+
+10
+
+1
+
+0.01
+
+Dose (mg/kg)
+
+0.1
+
+1000
+
+Somapacitan Cmax (ng/mL)
+
+Somapacitan AUC0-168 (ng.h/mL)
+Somapacitan AUC0-168 (ng.h/mL)
+
+100000
+
+1
+
+Dose (mg)
+
+y = 8.6118x0.9983
+100
+
+10
+
+1
+
+10
+
+1
+
+Dose (mg)
+
+10
+
+Figure 15: Regression analysis of body-weight base dose (top panel) and nominal dose (lower panel)
+vs AUC0-168 and Cmax for somapacitan following weekly dosing in patients with AGHD
+Source: Reviewer’s analysis from data submitted under Study 3947
+
+A dose-dependent IGF-1 response was induced, with increased IGF-1 levels at all investigated somapacitan
+dose levels (Table 10). There were no statistically significant differences (for IGF-1 AUC0-168h and Cmax)
+between somapacitan 0.02 mg/kg and Norditropin® and between somapacitan 0.04 mg/kg and Norditropin®
+(mean once-daily dose of Norditropin® was 0.004 mg/kg) (Table 11). For somapacitan doses of 0.08 and
+0.12 mg/kg, AUC0-168h and Cmax were higher than that with Norditropin®. The mean IGF-1 SDS ranged
+from 0 to +2 after once-weekly somapacitan 0.02 and 0.04 mg/kg and once-daily Norditropin® treatment.
+For somapacitan 0.08 and 0.12 mg/kg, the mean IGF-1 SDS profiles were above +2 IGF-1 SDS (Figure 5).
+
+32
+
+Reference ID: 4602384
+
+Table 10: Pharmacodynamics of somapacitan and Norditropin® in patients with AGHD (Study
+3947)
+
+Source: Module 2.7.2. Summary of Clinical Pharmacology Studies
+
+Table 11: Statistical comparison of IGF-1 parameters after dose 4 in AGHD patients (Study 3947)
+PD parameter
+
+AUC0-tau
+(ng.hr/mL)
+
+Somapacitan dose vs
+Norditropin®
+
+Ratio (95% CI)
+
+p-value
+
+0.02 mg/kg
+
+0.87 ((0.66, 1.13)
+
+0.271
+
+0.04 mg/kg
+
+1.08 (0.82, 1.43)
+
+0.572
+
+0.08 mg/kg
+
+1.37 (1.04, 1.82)
+
+0.0275
+
+0.12 mg/kg
+
+2.32 (1.77, 3.04)
+
+<0.0001
+
+0.02 mg/kg
+
+0.95 (0.72, 1.24)
+
+0.689
+
+0.04 mg/kg
+
+1.13 (0.85, 1.50)
+
+0.394
+
+0.08 mg/kg
+
+1.48 (1.12, 1.97)
+
+0.0086
+
+0.12 mg/kg
+
+2.52 (1.92, 3.32)
+
+<0.0001
+
+Cmax (ng/mL)
+
+Source: Module 5.3.3.2. Study report 3947
+Conclusion:
+
+•
+•
+•
+
+Multiple doses of somapacitan administered s.c. to AGHD patients were well tolerated at all doses
+investigated.
+The mean serum concentrations of somapacitan following MD s.c. administration to AGHD
+patients increased in an approximately dose dependent manner in this study.
+A dose-dependent IGF-1 response was induced. There were no statistically significant differences
+in IGF-1 response between somapacitan 0.02 mg/kg and 0.04 mg/kg, respectively, and
+Norditropin®.
+
+33
+
+Reference ID: 4602384
+
+4.2.4. Study 4297 – Renal impairment
+Title: Investigation of pharmacokinetics, pharmacodynamics, safety and tolerability of multiple doses of
+somapacitan in subjects with various degrees of impaired renal function compared to subjects with normal
+renal function.
+Objective:
+Primary objective:
+• To investigate the steady state exposure of somapacitan in subjects with various degrees of renal
+impairment (mild, moderate, severe renal impairment, requiring hemodialysis treatment) compared
+to subjects with normal renal function
+Secondary objectives:
+• To investigate the pharmacokinetic and pharmacodynamic properties of somapacitan at steady state
+in subjects with various degrees of renal impairment compared to subjects with normal renal
+function
+• To evaluate the safety and tolerability of three once-weekly s.c. administrations of somapacitan in
+subjects with various degrees of renal impairment compared to subjects with normal renal function
+Study design:
+This was a 6-week, single-center, open-label, multiple-dose, parallel group study with s.c. administrations
+of somapacitan to subjects with various degrees of impaired renal function and in subjects with normal
+renal function. All subjects received once-weekly s.c. administrations of 0.08 mg/kg of somapacitan for 3
+doses. Sampling for PK/PD and safety evaluations were done on the days of dosing and up to 29 days after
+the first dose as well as at the follow-up visit 43 days after the first dose. Subjects requiring hemodialysis
+continued their hemodialysis treatment throughout the trial period and were dosed on non-dialysis days.
+Study population:
+A total of 44 subjects (25 male and 19 female subjects) were exposed in the trial. All subjects were White
+and 28−74 years of age. There were 8 subjects in each of the renal impairment groups of mild, moderate
+and requiring hemodialysis treatment, 5 subjects in the group of severe renal impairment and 15 subjects
+with normal renal function. Allocation of subjects into respective renal function groups was based on their
+measured glomerular filtration rate (GFR) – normal renal function: ≥90 mL/min, mild, moderate and severe
+renal impairment: 60 – <90 mL/min, 30 – <60 mL/min, and <30 mL/min, respectively.
+Treatment:
+Somapacitan 0.08 mg/kg s.c. once-weekly for 3 doses.
+Results:
+After 3 once-weekly s.c. doses, higher somapacitan exposure was observed in subjects with severe renal
+impairment and subjects requiring hemodialysis compared to subjects with normal renal function. The
+systemic exposure tended to increase with decreasing GFR (Figure 9). AUC0-168h was higher for all renal
+impairment groups compared to the normal renal function group but was most pronounced for the severe
+renal impairment (75% higher) and hemodialysis group (63%). The Cmax for the renal impairment groups
+appeared higher (ranging from 31% to 47% higher) compared to the normal renal function group (Table
+12). Median Tmax varied across the different renal function groups with no consistent pattern.
+
+34
+
+Reference ID: 4602384
+
+Table 12: Statistical analysis of AUC0-168h and Cmax of somapacitan in subjects with normal renal
+function or various degrees of renal impairment (Study 4297)
+
+Source: Module 2.7.2. Summary of Clinical Pharmacology Studies
+
+In line with the higher somapacitan exposure in all renal impairment groups, mean IGF-1 SDS levels were
+also elevated relative to the normal renal function group (Figure 10). Based on IGF-1 AUC0-168h at steady
+state, the increases were most pronounced for the moderate and severe renal impairment groups and the
+hemodialysis group (Table 13).
+Table 13: Statistical analysis of IGF-1 AUC0-168h (Study 4297)
+
+Source: Module 5.3.3.3. Study Report 4297
+
+The mean IGFBP-3 SDS levels were also increased for all renal function groups. Based on IGFBP-3 AUC0­
+168h at steady state, the increases were most pronounced for the moderate and severe renal impairment
+groups and the hemodialysis group. The estimated ratios relative to the normal renal function group were:
+1.12 [90% CI 0.99, 1.27] (mild); 1.18 [ 90% CI 1.06, 1.32] (moderate), 1.36 [90% CI 1.20, 1.55] (severe)
+and 1.53 [90% CI 1.37, 1.70] (hemodialysis).
+
+35
+
+Reference ID: 4602384
+
+4.2.4. Study 4298 – Hepatic impairment
+Title: Investigation of pharmacokinetics, pharmacodynamics, safety and tolerability of multiple doses of
+somapacitan in subjects with mild and moderate degrees of hepatic impairment compared to subjects with
+normal hepatic function.
+Objective:
+Primary objective:
+• To investigate the steady state of somapacitan exposure in subjects with mild and moderate hepatic
+impairment compared to subjects with normal hepatic function
+Secondary objectives:
+• To investigate the PK and PD properties of somapacitan at steady state in subjects with mild and
+moderate hepatic impairment compared to subjects with normal hepatic function
+• To evaluate the safety and tolerability of three weekly s.c. injections of somapacitan in subjects
+with mild and moderate hepatic impairment compared to subjects with normal hepatic function
+Study design:
+This was a 6-week, single-center, open-label, multiple-dose, parallel group study with s.c. administrations
+of somapacitan to subjects with various degrees of impaired hepatic function and in subjects with normal
+hepatic function. All subjects received once-weekly s.c. administrations of 0.08 mg/kg of somapacitan for
+3 doses. Sampling for PK/PD and safety evaluations were done on the days of dosing and up to 29 days
+after the first dose as well as at the follow-up visit 43 days after the first dose.
+Study population:
+A total of 34 subjects (15 male and 19 female subjects) were exposed in the study. All subjects were White
+and 37−69 years of age. Categorization of the subjects into respective hepatic impairment groups was done
+according to the Child-Pugh classification. There were 9 subjects in each of the groups with mild and
+moderate hepatic impairment and 16 subjects with normal hepatic function. Subjects with severe hepatic
+impairment were not included as it was considered ethically unacceptable to include these critically ill
+subjects in the trial.
+Treatment:
+Somapacitan 0.08 mg/kg s.c. once-weekly for 3 doses.
+Results:
+Steady-state somapacitan AUC0-168h (after 3rd dose) was affected by the degree of hepatic impairment. The
+mean somapacitan concentration-time profile in the moderate hepatic impairment group was higher than in
+the mild impairment and normal hepatic function groups (Figure 11). The AUC0-168h obtained from the
+moderate hepatic impairment group was 4.7-fold higher than in the normal hepatic function group, while
+the AUC0-168h obtained for the mild hepatic impairment group was similar to the normal hepatic function
+group. Similarly, Cmax was 3.5-fold higher in the moderate hepatic impairment group as compared to the
+normal hepatic function group and Cmax in the mild hepatic impairment group was similar to the normal
+hepatic function group (Table 14).
+
+36
+
+Reference ID: 4602384
+
+Table 14: Statistical analysis of AUC0-168h and Cmax of somapacitan in subjects with normal hepatic
+function or mild or moderate hepatic impairment (Study 4298)
+
+Source: Module 2.7.2. Summary of Clinical Pharmacology Studies
+
+Mean IGF-1 SDS levels were lower both at baseline and at steady state in the mild and moderate hepatic
+impairment groups, compared to the normal hepatic function group (Figure 12). For the mild and moderate
+hepatic impairment group, IGF-1 AUC0-168h was lower by 15% and 25%, respectively, than that of the
+normal hepatic function group (Table 15).
+Table 15: Statistical analysis of IGF-1 in patients with mild or moderate hepatic impairment (Study
+4298)
+
+Source: Module 5.3.3.3. Study Report 4298
+
+Mean IGFBP-3 SDS levels were also lower both at baseline and at steady state in the mild and moderate
+hepatic impairment groups compared to normal hepatic function group. For the moderate hepatic
+impairment group, IGFBP-3 AUC0-168h was lower than in the normal hepatic function group with an
+estimated ratio of 0.68 [90% CI 0.57, 0.81].
+
+37
+
+Reference ID: 4602384
+
+4.2.5. Pharmacometrics Review
+Synopsis: Population PK, PK/PD and Exposure-Response analyses
+The final datasets for population PK and PK/PD analysis contained 4364 PK concentrations and 4886 IGF­
+1 concentrations from 330 AGHD subjects in all Phase 3 trials (trials 4054, 4043 and 4244; see overview
+of Phase 3 studies in Table 16). PK and PD samples were collected as summarized in Table 17.
+Table 16: Overview of trials included in the model-based evaluation of somapacitan (Source; Table
+4-1, Modeling Report)
+Data used for
+
+Population
+Global
+
+Treatment
+Prior
+duration
+treatment
+(weeks)
+hGH-naïve
+341
+
+PK
+x
+
+IGF-1
+x
+
+DXA
+x
+
+Global
+
+hGH-naïve
+
+521
+
+x
+
+x
+
+(not included)
+
+NN8640-4043
+
+Global
+
+hGH
+
+261
+
+x
+
+x
+
+-
+
+NN8640-4244
+
+Japanese
+
+hGH
+
+522
+
+x
+
+x
+
+-
+
+NN8640-4054
+
+1
+2
+
+Main
+phase
+Extension
+phase
+
+Including 8 weeks of dose titration followed by fixed dose treatment.
+Including 20 weeks of dose titration. hGH: human growth hormone
+
+Table 17: Schedules for PK and PD sampling across Phase 3 trials (Source; Table 4-5, Modeling
+Report)
+Trial
+Trial 4054
+
+Sampling schedule
+-2W (screening; PD), 0W (randomization), 1W+3D, 2W, 3W+3D,
+4W, 5W+3D, 7W+3D, 8W, 9W+3D, 16W+4D, 25W+1D, 33W+4D,
+35W
+Extension
+PK/PD
+36W+3D, 37W, 38W+3D, 39W, 40+3D, 42W+3D, 43W,
+44W+3D, 53W+4D, 64W+1D, 75W+4D, 86W+4D, 88W
+Trial 4043
+PK
+0W (randomization), 2W, 4W, 8W, 16W+4D, 25W+4D and 27W
+PD
+-2W (screening), 1W+3D, 3W+3D, 4W, 5W+3D, 7W+3D,
+16W+4D and 25W+4D
+Trial 4244
+PK/PD
+-2W (screening; PD), 0W (randomization), 3W+3D, 7W+3D,
+11W+3D, 15W+3D, 19W+3D, 32W+4D and 51W+4D.
+Sampling schedule in relation to randomization (Week 0)
+PK: somapacitan/hGH,
+PD: IGF-1
+Main
+
+Variable
+PK/PD
+
+A one-compartment model with dual first and zero order absorption and with saturable (Michaelis-Menten)
+elimination was used to describe somapacitan PK. PK/PD was described using an indirect response model.
+Base, full with all investigated covariates and final with significant covariates models were developed for
+population PK and PK/PD analyses. The investigated covariates were body weight, sex (male, females with
+and without oral estrogen), age group (<65 years, ≥65 years) and race (White, Japanese, Asian non-Japanese;
+others with insufficient number (<20) were pooled with White).
+
+38
+
+Reference ID: 4602384
+
+C, somapacitan concentration in the central compartment; EC50, somapacitan concentration corresponding to halfmaximum stimulation of IGF-1I production rate; Emax, maximum increase in IGF-1 production rate; F, bioavailability; IGF-1,
+insulin-like growth factor I; k0, zero-order rate constant; ka, linear absorption rate constant; kin, production rate of IGF-1;
+Km, Michaelis-Menten constant for saturable elimination; kout, first order turn-over of IGF-1; k , linear transit rate
+constant; V, volume of distribution; Vmax, maximum elimination rate.
+
+Figure 16: Schematic summary of PK/PD models of somapacitan (Source; Figure 4-2, Modeling
+Report)
+For population PK and PK/PD analysis using Phase 3 data, the number of estimated structural parameters
+and inter-individual variability (IIV) was reduced (e.g., fixing values of ka, ktr, Km and EC50, and removing
+IIVs on ka, ktr, and kout) to obtain reasonable estimates in the given situation by means of sensitivity analyses.
+The following covariates were evaluated for the common scaling parameter β (for the three parameters
+Vmax/F, V/F and k0/F) equivalent to estimation of the relative bioavailability (F):
+• Body weight, centered at 85 kg
+• Sex (male, female with and without oral estrogen) with male set as reference
+• Age group (18–64, 65–85) with 18–64 age interval set as reference
+• Race (White, Asian Japanese, Asian non-Japanese) with “White” set as reference
+In the final model, all covariates were significant at p<0.001 (ΔOFV=11.6 for one parameter) and the final
+model was the same as the full model. The effect(s) of the various covariates on somapacitan exposure and
+IGF-1 response (IGF-1avg SDS) were analyzed using typical measures of goodness-of-fit such as various
+types of graphical displays based on either the collected data an d/ or estimations based on the PK and
+PK/PD models.
+Dose-exposure-response estimations were performed across the somapacitan dose range 0.1–8 mg to
+illustrate the expected outcome of somapacitan dosing if subjects were administered fixed doses rather
+than being titrated. Dose-exposure (between dose and Cavg), exposure-response (between Cavg and IGF­
+1avg) and dose-response (between dose and IGF-1avg) was simulated based on individual sets of PK and
+PK/PD parameters.
+Exposure-response was analyzed using data from the main phase of pivotal Phase 3 trial 4054. Response
+endpoints were as follows:
+• Truncal fat (%) change from baseline
+• Lean body mass (g) change from baseline
+• Visceral adipose tissue (cm2) %-change from baseline
+•
+
+Appendicular skeletal muscle mass (g) change from baseline
+
+Exposure-response models versus IGF-1avg SDS change from baseline were fitted as linear models
+including placebo data.
+39
+
+Reference ID: 4602384
+
+Results
+•
+
+Graphic summary of dosing data in Phase 3 studies
+
+Figure 17: Mean somapacitan doses during and following dose titration, by trial (A) and by start
+dose group (B) (Source: Figure 5-1, Modeling Report)
+
+40
+
+Reference ID: 4602384
+
+G
+
+H
+
+Figure 18: Somapacitan doses after titration; by trial (A), by starting dose group (B), by body
+weight-group (C), by sex and oral estrogen intake (D), by age group (E), and by race (F) (Source:
+41
+
+Reference ID: 4602384
+
+Figure 5-2, Modeling Report); mean (SE) somapacitan weekly dose over the treatment period by
+body weight quartile (G), and by sex and oral estrogen (H) F NO; female without oral estrogen, F
+OE; female with oral estrogen, M OLD; male >=65 year, M Y; male <65 year (reviewer’s analysis
+using Trial 4054 data)
+
+•
+
+PK and PK/PD models reasonably fitted observed data.
+
+Figure 19: PK (upper) and PK/PD (lower) models fit to geometric mean observed data in trial 4054
+(A), trial 4043 (B) and trial 4244 (C) (Source: Figure 5-3 and 5-5, Modelling Report)
+42
+
+Reference ID: 4602384
+
+•
+
+PK/PD models described reasonably well for observed data of dose-exposure-PD
+
+Figure 20: Somapacitan Cavg versus dose (A), IGF-1avg versus dose (B), IGF-1avg versus Cavg (C),
+IGF-1avg change from baseline versus Cavg (D) after titration as observed in phase 3 (Source; Figure
+5-8, Modeling Report)
+
+•
+
+PK model characterized the effect of covariates on somapacitan exposure
+
+Figure 21: Forest plot of effects of intrinsic covariates on Cavg during 2 mg weekly doses
+somapacitan (Source; Figure 5-11, Modeling Report)
+
+43
+
+Reference ID: 4602384
+
+•
+
+PK/PD models characterized the covariate effects on dose-exposure-response
+
+Figure 22: Exposure versus dose (A, D, G, J), IGF-1 response versus somapacitan exposure (B, E,
+H, K) and IGF-1 response versus somapacitan dose (C, F, I, L) across body weights, sex and oral
+estrogen groups, age groups and races (Source; Figure 5-12, Modeling Report)
+
+44
+
+Reference ID: 4602384
+
+•
+
+Exposure-Response analysis characterized changes in DXA endpoints with increasing
+somapacitan exposure and IGF-1avg change from baseline
+
+Figure 23: Exposure-Response (upper): Truncal fat (A), lean body mass (B), visceral adipose tissue
+(C) and appendicular skeletal muscle (D) change from baseline vs. somapacitan Cavg (Figure 5-17,
+Modeling Report); PD-Response (lower): Truncal fat (A), lean body mass (B), visceral adipose
+tissue (C) and appendicular skeletal muscle (D) change from baseline vs. IGF-1avg change from
+baseline (Source; Figure 5-18, Modeling Report)
+45
+
+Reference ID: 4602384
+
+Reviewer’s Comment: The applicant’s population PK, and longitudinal PK/PD models generally
+appear acceptable for characterizing covariate effects and simulating dose-response relationships
+for IGF-1 without titration. However, the E-R relationships for body fat composition related
+endpoints are potentially confounded by the titration-to-response study design, since the exposure
+measure (i.e., Cavg) was derived following individual dose adjustment to clinical responses at
+steady-state. Therefore, it should be considered as exploratory and interpreted with caution.
+
+•
+
+Final parameter estimates for PK, PK/PD, and Exposure-Response models
+
+Table 18: Parameter estimates from the full and final PK model of somapacitan (Source; Table 8-7,
+Modeling Report)
+
+Table 19: Parameter estimates from the final PK/PD model of somapacitan effects on IGF-1
+(Source; Table 8-14, Modeling Report)
+
+46
+
+Reference ID: 4602384
+
+Table 20: Parameter estimates from exposure-response models versus somapacitan exposure for
+effects on truncal fat, visceral adipose tissue, lean body mass and appendicular skeletal muscle.
+(Source; Table 8-19, Modeling Report)
+
+Table 21: Parameter estimates from exposure-response models versus change from baseline of IGF­
+1avg for effects on truncal fat, visceral adipose tissue, lean body mass and appendicular skeletal
+muscle. (Source; Table 8-20, Modeling Report)
+
+47
+
+Reference ID: 4602384
+
+4.3. Formulation Composition of Somapacitan Drug Products
+Table 22: Composition of somapacitan drug product formulations
+(b) (4)
+
+(b) (4)
+
+(b) (4)
+
+(b) (4)
+
+(b) (4)
+(b) (4)
+
+(b) (4)
+
+(b) (4)
+
+(b) (4)
+(b) (4)
+(b) (4)
+
+(b) (4)
+
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+
+Source: Module 2.7.1. Summary of Biopharmaceutic Studies
+
+48
+
+Reference ID: 4602384
+
+Signature Page 1 of 1
+
+-------------------------------------------------------------------------------------------This is a representation of an electronic record that was signed
+electronically. Following this are manifestations of any and all
+electronic signatures for this electronic record.
+-------------------------------------------------------------------------------------------/s/
+-----------------------------------------------------------MOHAMMAD S ABSAR
+05/04/2020 06:12:54 AM
+SANG M CHUNG
+05/04/2020 08:40:54 AM
+LIAN MA
+05/04/2020 09:28:37 AM
+JAYABHARATHI VAIDYANATHAN
+05/04/2020 09:51:12 AM
+DOANH C TRAN
+05/04/2020 09:58:44 AM
+
+Reference ID: 4602384
+
+

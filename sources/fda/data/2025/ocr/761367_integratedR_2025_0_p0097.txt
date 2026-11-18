@@ -1,0 +1,71 @@
+BLA 761367
+Andembry / garadacimab
+
+Figure 14. Univariate Forest Plot Illustrating Covariate Effects on Garadacimab Steady-State
+AUCtau Relative to a Reference Subject
+AUCtau,ss (ug*hour/mL) Median [95% Cl]
+
+Healthy or Patient with HAE
+0.944 [0.357, 1.04]
+Japanese or Non-Japanese
+
+0.790 [0.597, 0.892]
+Chinese or Non-Chinese
+
+0.976 [0.824, 1.17]
+
+Healthy or Patient with HAE
+
+Patients with HAF
+
+= ala
+
+Japanese or Non-Japanese
+Japanese aaa
+
+Chinese or Non-Chinese
+
+Chinese
+Weight (kg) Weight (ka)
+BLWT_105 0.624 [0.578, 0.681]
+BLWT_95 0.701 [0.862, 0.749]
+BLWT_85 0.788 [0.768, 0.832]
+BLWT_75 0.923 [0.911, 0.937]
+BLWT_65 1.09 [1.07, 1.11]
+
+1.32 (1.25, 1.39]
+Serum Creatinine (mg/dL)
+
+BLWT_55
+
+Serum Creatinine (mg/¢L)
+
+BLCREAT_0.6 0.983 [0.951, 1.03]
+BLCREAT__1 1.01 (0.981, 1.07]
+Bilirubin (umol/L) Bilirubin (umol/L)
+BLBILI_13 1.07 [1.04, 1.10]
+BLBILI__4 0.911 [0.368, 0.951]
+Alanine Aminotransferase (U/L) Alanine Aminotransferase (U/L)
+BLALT_40 1.04 [1.09, 1.07]
+BLALT_10 0.930 [0.871, 1.00]
+
+02 08 10 14 18
+
+Fraction and 95% Cl
+
+Relative to Reference
+Source: Figure $82, Population PK/PD Report.
+Covariates in the model were visualized by varying single covariates individually while keeping all other conditions constant. Results
+are presented relative to a reference subject, i.e., a non-Japanese, non-Chinese, healthy volunteer with baseline body weight of
+70 kg, baseline serum creatinine of 0.75 mg/dL, baseline ALT of 25 U/L, and baseline bilirubin of 8umol/L. Colored diamonds
+represent the median and the solid horizontal lines represent the 95% confidence interval. The gray shaded reference range of 80 to
+125% was analogous to the region of practical equivalence. For continuous covariates, the upper and lower values used in the
+simulations were determined based on the 10 and 90" percentiles in the observed dataset.
+Abbreviations: AUC;.,ss, area under the plasma concentration-time curve over one dosing interval at steady state; BLALT, baseline
+alanine aminotransferase; BLBILI, baseline bilirubin; BLCREAT, baseline serum creatinine BLWT, baseline body weight; Cl,
+confidence interval; HAE, hereditary angioedema; PD, pharmacodynamics; PK, pharmacokinetics
+
+73
+Integrated Review Template, version 3.0 (05/25/2022)
+
+Reference ID: 5458438

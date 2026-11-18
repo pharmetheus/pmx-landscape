@@ -1,0 +1,82 @@
+BLA 761306 Multi-disciplinary Review and Evaluation
+Ebglyss (lebrikizumab) injection
+
+Asimilar frequency of subjects reported a TEAE of hypertension in both treatment groups.
+
+Table 55. Blood Pressure Mean Changes from Baseline and TE Shifts for the Placebo-Controlled Induction
+
+Period
+PBO
+(N=417) (N=805)
+
+Systolic BP Mean Changes from Baseline
+
+Mean (SD) -0.3 (10.90) -0.9 (11.27)
+
+Median (Min, Max) 0.0 (-30, 41) -1.0 (-61, 34)
+SBP TE-Low Shifts (n (%)) 3(0.7) 7(0.9)
+SBP TE-High Shifts (n (%)) 8(1.9) 24 (3.0)
+Diastolic BP Mean Changes from Baseline
+
+Mean (SD) -0.2 (8.48) -0.4 (8.51)
+
+Median (Min, Max) 0.0 (-36, 39) 0.0 (-45, 27)
+DBP TE-Low Shifts (n (%)) 1(0.2) 4 (0.5)
+DBP TE-High Shifts (n (%)) 22 (5.3) 47 (5.8)
+Treatment-Emergent Adverse Events -- Hypertension (n (%)) 4(1.0) 9(1.1)
+Treatment-Emergent Adverse Events -- Blood Pressure Increased 3(07) 2(0.2)
+{n (%))
+Treatment-Emergent Adverse Events -- Hypertensive Crisis (n 1(0.2) 0
+(%))
+
+‘Source: OCS Analysis Studio, Custom Table Tool
+
+‘Columns - Dataset: Demographics; Filter: ALLPCFL = 'Y’, SAFFL ="Y
+
+‘Systolic BP Mean Changes from Baseline - Dataset: Vital Signs; Filter. PARAMCD = ‘SYSBP’, AVISIT = "BASELINE LAST INDUCTION or ‘POST BASELINE LAST
+INDUCTION:
+
+‘SBP TE-Low Shifts (n (%)) - Dataset: Vital Signs; Filter: ANLO2FL = "Y', PARAMCD = 'SYSBP’, DTYPE = MINIMUM, CRIT2FL ="Y"
+
+‘SBP TE-High Shifts (n (%)) - Dataset: Vital Signs; Filter- ANLO2FL ="Y', PARAMCD = 'SYSBP", DTYPE = ‘MAXIMUM, CRIT1FL="Y
+
+Diastolic BP Mean Changes from Baseline - Dataset: Vital Signs; Filter: PARAMCD = 'DIABP’, AVISIT = 'BASELINE LAST INDUCTION or ‘POST BASELINE LAST
+INDUCTION.
+
+DBP TE-Low Shifts (n (%)) - Dataset: Vital Signs; Fitter: ANLO2FL = 'Y’, DTYPE = ‘MINIMUM’, PARAMCD = ‘DIABP’, CRIT2FL = 'Y’
+
+DBP TE-High Shifts (n (%)) - Dataset: Vital Signs; Filter- ANLO2FL ="Y', DTYPE = MAXIMUM, PARAMCD = IABP’, CRITIFL = "Y.
+
+Treatment-Emergent Adverse Events — Hypertension (n (%)) - Dataset’ Adverse Events; Filter: ANLO2FL = 'Y’, TEMONDFL = 'Y’, AEDECOD = ‘Hypertension’
+Treatment-Emergent Adverse Events — Blood Pressure Increased (n (%)) - Dataset: Adverse Events; Filter: ANLO2FL = "Y', TEMONDFL = 'Y’, AEDECOD = Blood
+pressure increased’
+
+Treatment-Emergent Adverse Events — Hypertensive Crisis (n (%)) - Dataset: Adverse Events; Filter: ANLO2FL = "Y’, TEMONDFL = 'Y’, AEDECOD = Hypertensive crisis’
+‘SD = Standard Deviation.
+
+Maintenance Period (AD Mono PC Weeks 16 to 52
+
+No difference was observed in the frequency of TE-low shift in SBP in the combined
+lebrikizumab groups compared with placebo (LEB withdrawal). No dose difference was
+observed. TE-high shift in SBP was not observed in any subject.
+
+TE-low DBP was not observed in any subject. The frequency of subjects with TE-high shift in
+DBP was numerically higher in the placebo group compared to either lebrikizumab treatment
+
+group.
+Table 56. Blood Pressure Mean Changes from Baseline and TE Shifts for the Maintenance Period
+Pa2w 125004W L2500Q2W
+(N=62) (N=122) (N=121)
+Systolic BP Mean Changes from Baseline
+Mean (SD) 0.7 (8.40) 1.1 (10.85) 0.7 (11.77)
+Median (Min, Max) 1.0 (19, 18) 0 (28, 41) 0.0 (.29, 41)
+‘SBP TE-Low Shifts (n (%)) 0 0 10.8)
+SBP TE-High Shifts (n (%)) 0 0 0
+Diastolic BP Mean Changes from Baseline
+Mean (SD) -0.4 (7.76) 1.3 (8.49) -0.2 (8.46)
+Median (Min, Max) 0.0 (20, 18) 1.0 (26, 33) 0.0 (-26, 24)
+155
+
+Version date: October 12, 2018
+
+Reference ID: 5252985

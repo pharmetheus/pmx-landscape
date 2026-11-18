@@ -1,0 +1,56 @@
+19.4.4.4.3. Can PBPK analyses be used to estimate the effects of
+camizestrant on substrates of CYP2C9, CYP2C19 and CYP2D6?
+
+Camizestrant is predicted to be a strong inhibitor of CYP2C9 and CYP2C19, but to have a
+minimal effect on CYP2D6 (Table 19.17). The details are discussed below.
+
+Table 50: Summary of observed and predicted DDIs of camizestrant 75mg once daily as
+inhibitor of drug metabolizing enzymes
+
+. Predicted’ (Geomean, 90%CI) | Predicted” (Geomean, 90%CI)
+DDI Mechanism Substrates Dosage
+Cone Fatio AUC ratio Conax Fatio AUC ratio
+
+Omeprazole 20 mg 29 73 33 8.5
+cyp2c19 Esomeprazole 40 mg 23 32 25 3.6
+inhibition Lansoprazole 30 mg 15 46 15 5.7
+
+Voriconazole 200 mg 17 41 18 47
+
+5-Warfarin 10 mg 11 128
+CYP2C9 inhibition
+
+Siponimod 0.25 mg 11 53
+ICYP2D6 inhibition |Desipramine 50 mg 11 11
+
+"Predicted using the cancer patient population model published by Schwenger et al (PMID: 29063606). * Predicted using the Simcyp default
+cancer patient population model (version 24). A single dose of a CYP substrate was given on Day 8 following oral administration
+of camizestrant 75mg once daily for 8 to 10 days. Geomean, geometric mean; CI, confidence interval.
+
+Source: Tables 21, 23 and 24 in the camizestrant-response-document-pbpk (seq 0019)
+Additional Comments:
+
+« A nonspecific binding fy mic value of 0.303, measured at an HLM concentration of 1
+mg/mL (BS005015-56), was applied to all enzymes in the interaction module of
+the camizestrant PBPK model (Table 19.5). However, competitive inhibitions were
+assessed at an HLM concentration of 0.2 mg/mL, and time-dependent inhibitions were
+assessed at an HLM concentration of 2 mg/mL. The Applicant was requested to re-
+simulate the interactions with camizestrant using corrected fy, mic values. The corrected fu,
+mic Values were 0.68 for competitive inhibition and 0.18 for time-dependent inhibition
+(camizestrant-response-document-pbpk, seq 0019). Due to the change in fu, mic values for
+competitive inhibition, the CYP3A4 K; value of camizestrant was re-optimized to 0.11
+mM from 0.25 mM (D8534C00001) based on the results from the midazolam interaction
+
+328
+Version date: March 1, 2024 (All NDA/BLA reviews)
+
+In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the Applicant,
+which do not necessarily reflect the positions of the FDA.
+
+The FDA review was conducted in conjunction with other regulatory authorities under Project ORBIS. The FDA
+collaborated with Australia’s Therapeutic Goods Administration (TGA), Brazilian Health Regulatory Agency
+(ANVISA), Health Canada (HC), Singapore’s Health Sciences Authority (HSA), and Switzerland’s Swissmedic
+(SMC). While the conclusions and recommendations expressed herein reflect the FDA’s completed review of the
+application, the applications may still be under review at the other regulatory agencies.
+
+Reference ID: 5864804

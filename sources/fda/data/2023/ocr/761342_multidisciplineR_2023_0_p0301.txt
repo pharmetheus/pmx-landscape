@@ -1,0 +1,55 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {BLA 761342}
+Talquetamab-tgvs
+
+(c) Overall Survival versus Ctrough,t01 Quartile
+
+Stata CtroughFDI=G1 + CtroughFD1=02 + CtroughFD1=03 + CroughFDt=ad
+° Lo oe
+08
+3 +
+W = + +
+2 06
+5
+3
+5 o4
+s
+fo)
+02
+00
+0 200 400 600 800
+Days Since First Dose
+s or ar 4 4 2
+p 96 60 10 4 0
+8 FDI=054 96 49 12 4 0
+a7 53 16 5 0
+0 200 400 600 800
+
+Days Since First Dose
+
+Exposure was simulated in 386 patients with RRMM in MonumenTAL-1 who received at least one dose of
+subcutaneous talquetamab with any dosing regimen.
+
+Cavg4wks = average concentration over the first four weeks of treatment doses; Cavgro1 = average concentration
+following first treatment dose; Ctrough,ro1 = average concentration over the first four weeks of treatment doses;
+OS = overall survival; Q = quartile (e.g., Q1 = 1* quartile); RRMM = relapsed/refractory multiple myeloma.
+
+Figure source: Reviewer analysis.
+
+Multivariate Cox proportional hazard modeling was performed to evaluate E-R associations
+after accounting for potential covariate effects on efficacy. Cavg,rp1 had a stronger association
+with OS compared to Cavg,awks OF Ctrough,ro1, and lower Cavgro1 was still associated with worse OS
+after including other significant covariate effects. The final Cox proportional hazard model
+identified statistically significant associations between better OS and Cavg.rp1 above 513 ng/mL
+(i.e., greater than the 25" percentile of Cavg,ro1, yes versus no), lower ALP, lower LDH, ECOG
+score equal to 0 (versus 1 or 2), and no high disease burden at baseline. However,
+interpretation of OS results are limited by the single-arm trial design. The final Cox proportional
+hazard model of OS is summarized in FDA Table 37. Of note, prior CAR-T/BsAb therapy status
+was not associated with OS after accounting for statistically significant covariates in the final
+model.
+
+Version date: June 2022 (ALL NDA/ BLA reviews) 300
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5222858

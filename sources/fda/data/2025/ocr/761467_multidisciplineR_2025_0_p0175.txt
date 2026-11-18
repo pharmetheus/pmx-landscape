@@ -1,0 +1,79 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {Insert Application Type and Number}
+{Insert Product Trade and Generic Name}
+
+Table 51: FDA — Anticipated Model Risk for Population PK Analysis
+
+Elements Details
+° The proposed SC administration for adult and pediatric patients (12
+Question of Interest years and older who weigh greater than 40 kg) across solid tumor
+indications
+
+¢ Rationale: Exposure-matching between approved IV administration
+and SC administration by key PK endpoints (AUC at the first dose
+and Ctrough at steady state) and absorption agnostic to solid tumor
+types
+
+¢ Population PK modeling and simulation to derive exposures
+
+© Adult: Low:
+
+© Pediatrics (12 to <17 years old): medium
+
+Model Influence Although there is no SC data in pediatrics (12 to <17 years old) , the
+assumption that the bioavailability of pediatrics (12 to <17 years old)
+is similar to that of adults is reasonable.
+
+e = Adult: low
+
+@ = Pediatrics (12 to <17 years old): low
+
+Context of Use
+
+In adults, the efficacy and safety of the SC dosages are supported by
+clinical data that were similar to the approved recommended IV
+dosages.
+
+Decision Consequence In pediatrics 12 years and older, uncertainty in SC absorption
+(without clinical data) is not likely to result in an elevated risk for
+efficacy reduction, toxicity, or immunogenicity, given the following
+reasons:
+
+The safety margin has been established by IV administration,
+
+which is much higher than exposures of administrated SC dosages.
+Flat E-R relationship for efficacy and safety across wide
+dose/exposure range.
+
+© Adults: low
+
+© Pediatrics (12 to <17 years old): medium
+
+Model Risk
+
+Source: Reviewer’s analysis
+19.4.2.2. PPK Assessment Summary
+
+The Applicant’s Position: Key information is summarized in the following table.
+General Information
+Objectives of PPK Analysis
+
+e Characterize PK and estimate PK parameters of the
+absorption phase for pembrolizumab following SC
+administration of MK-3475A
+
+e Evaluate baseline patient characteristics and injection site
+potentially influencing the SC absorption of
+pembrolizumab
+
+e Derive model-based individual exposure estimates of
+AUCo-6wks (first dose) and steady-state (Cycle 3) Crrougn for
+participants in MK-3475A-D77, which are the dual
+primary endpoints in the Phase 3 study.
+
+174
+Version date: March 1, 2024 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5662067

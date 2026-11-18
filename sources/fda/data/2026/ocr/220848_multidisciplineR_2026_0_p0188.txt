@@ -1,0 +1,48 @@
+NDA 220848
+
+LIPFENDRA (enlicitide)
+No. of Patients, PK Samples, | No. of Participants: 2713
+cal UG No. of PK Samples: 19,158
+968 BLQ samples (750 from Phase 1 studies, 20 from P008,
+183 from P013, and 15 from P017).
+Sampling Rich Single dose: predose, 0.25, 0.5, 1, 1.5, 2, 3, 5, 8, 12, 24, 36,
+Schedule Sampling 48, 72, 96, 120, 168 hours or a subset of these time points
+Multiple dose (qd): predose, 0.25, 0.5, 1, 1.5, 2, 3, 5, 8, 12,
+and 24 hours postdose or a subset of these time points
+In ITT Phase 2 Study: Day 1 (1.5 hour postdose), Week 4 (predose
+Population | trough and 1.5 hour postdose), and Week 8 or
+discontinuation (24 to 48 hours post last dose)
+Phase 3 Studies: Predose PK on Weeks 4, 24, 36, SI Discon;
+1 hour postdose PK: Day 1, Weeks 4, 24
+Covariates Static Model Based Analysis: Body weight, Sex, Participant
+Evaluated population, Race, eGFR, Fasting status (Food Effect),
+Concomitant statin use
+Graphical Analysis Only: Age, Formulation (Phase 2 vs.
+Phase 3)
+Time- Not applicable.
+varying
+Final Model Summary Acceptability
+[FDA’s
+comments]
+Software and Version R Statistical Software Version 4.3.2 Acceptable. The
+©) reviewer was able
+to reproduce the
+: applicant’s results
+NONMEM, Version VII, Level 5.1 with no meaningful
+running under PsN (Perl-speaks- discordance
+NONMEM) 5.2.6.
+Model Structure Two-compartment model with
+nonlinear concentration-dependent
+clearance. The PK was parameterized
+in terms of the duration of zero-order
+input (D1) into the dose depot
+compartment, first-order absorption
+
+175
+
+Version date: February 10, 2025 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5833849

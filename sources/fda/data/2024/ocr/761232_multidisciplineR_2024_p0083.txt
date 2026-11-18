@@ -1,0 +1,50 @@
+BLA 761232 - Multi-disciplinary Review and Evaluation
+TEVIMBRA - tislelizumab-jsgr
+
+e Progression-Free Survival (PFS): Similar statistical methods described in the primary
+efficacy analysis of OS were applied to the PFS analysis. According to the primary
+censoring rule, PFS were censored in patients with 1) no baseline or any post-baseline
+tumor assessments and without death within two tumor assessments from randomization;
+2) no progression at the time of data cutoff or withdrawal from study; 3) new anticancer
+treatment started before disease progression; and 4) death or progression after more than
+one missed tumor assessment.
+
+e Duration of response (DOR): The same censoring rule for PFS primary analysis was
+applied to DOR. Median of DOR per treatment arm with 95% confidence interval was
+constructed with a generalized Brookmeyer and Crowley method.
+
+e Health-Related Quality of Life (HRQoL): PRO key endpoints included the global health
+status/QoL (GHS) and physical function as measured by the EORTC QLQ-C30 and
+esophageal cancer main symptoms of pain, eating, dysphagia and reflux as measured by
+EORTC QLQ-OES18. Descriptive analysis (mean [standard deviation], median, range
+and change of mean scores) for the EORTC QLQ-C30 and the EORTC QLQ-OES18
+scales and the EQ-5D-5L VAS were summarized by treatment arm. Time to clinically
+meaningful worsening for key PRO endpoints were evaluated by treatment arm. All
+HRQoL measures were summarized in the ITT Analysis Set and the patients with PD-L1
+vCPS = 10%.
+
+The FDA’s Assessment:
+
+FDA agrees with the applicant’s presentation of the statistical analysis plan for efficacy analyses.
+The overall type I error rate of 0.025 (one-sided) was controlled by testing the primary endpoint
+of OS in the ITT population and the key secondary endpoint of OS in the PDL1 vCPS >10%
+patient subpopulation sequentially. According to the study protocol there was no formal interim
+analysis planned for the primary and key secondary endpoint. Other secondary endpoints of PFS,
+ORR, DOR and HRQoL were not formally tested with alpha allocation and are considered
+descriptive only.
+
+Protocol Amendments
+
+The Applicant’s Description:
+The original global protocol for this study was dated 13 July 2017. All patients were enrolled
+
+after the implementation of Protocol Amendment Version 1.0. Key changes to the protocol are
+summarized below.
+
+82
+Version date: January 2020 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5345383

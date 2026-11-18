@@ -1,0 +1,25 @@
+Figure 20: Visual predictive check for Final Model of Amyloid Plaque Reduction
+
+Data and predictions stratified by placebo arm (top left panel), AACD donanemab data (top right
+panel), and AACG donanemab data (bottom panel).
+
+Observed data: Solid red line: median of observed concentrations; dashed red lines: 5th and
+95" percentiles of observed concentrations; blue full circles: individual observed amyloid plaque
+data.
+
+Simulated data: red shaded area: 95% confidence interval for the median of simulated data;
+blue shaded areas: 95% confidence intervals for the 5" and 95th percentiles of simulated data;
+
+Source: sequence 0002, module 5335, pop-pk-aacg-report.pdf, page 46 of 176
+
+The Applicant conducted an additional assessment of model performance using data
+from subjects who discontinued treatment (or were dose reduced to 0 mg) early. The
+effect of withdrawing treatment after achieving amyloid beta plaque reduction to <11
+Centiloid. This scenario includes the subset of subjects that demonstrated < 11
+Centiloid levels before Week 24. Subjects were simulated to received 24 weeks of
+treatment at which time treatment ceases. Figure 21 shows the anticipated re-
+accumulation according to the amyloid plague PKPD model.
+
+50
+
+Reference ID: 5110430

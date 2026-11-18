@@ -1,0 +1,62 @@
+BLA 761232 - Multi-disciplinary Review and Evaluation
+TEVIMBRA - tislelizumab-jsgr
+
+No. of Patients (total, and with | 254 patients for OS
+
+individual PK) 236 patients for ORR
+
+Population General Age median (range): 62 (40 -83) yr
+
+Characteristics Weight median (range): 58.7 (37.4 — 170) kg
+
+(Table 52) Gender: 216 (85%) males
+Race:
+White: 51 (20.1%)
+Asian: 201 (79.1%)
+Other: 2 (0.8%)
+
+Pediatrics (if | Not applicable
+any)
+
+Dose(s) Included 200 mg IV O3W
+
+Exposure Metrics Explored Cavg, ss: 26.9 - 188 g/mL
+
+(range) Cnaxss: 64.2 — 260.8 g/mL
+Cnin, ss: 12.4 — 149.4 g/mL
+Cavg, dose!: 16.4 — 67.3 ug/mL
+
+Covariates Evaluated age, age group (<65 years vs. >=65 years), body weight
+[WT], sex, race [White, Asian, and Other], tumor size
+[TUMSZ], albumin [ALB], estimated glomerular
+filtration rate [eGFR], alanine aminotransferase [ALT],
+aspartate aminotransferase [AST], bilirubin [BIL],
+lactate dehydrogenase [LDH], ECOG status [0 vs. >=1],
+anti-drug antibodies status [ADA, treatment-emergent
+ADA status], and tumor growth rate (TGR)
+
+Final Model Parameters Summary Acceptability
+[FDA’s
+comments]
+
+Model Structure OS: Kaplan-Meier survival curves | Acceptable
+and Cox proportional hazards
+model
+ORR: Linear logistic regression
+model
+Model Parameter Estimates Table 53, Table 54 Acceptable
+Covariates and Clinical Figure 26 Acceptable
+Relevance
+Visualization of E-R Figure 27 and Figure 29 Acceptable
+relationships
+The ER relationship of OS in the Acceptable
+ITT population was explored by
+Kaplan-Meier curves stratified by
+
+220
+Version date: January 2020 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5345383

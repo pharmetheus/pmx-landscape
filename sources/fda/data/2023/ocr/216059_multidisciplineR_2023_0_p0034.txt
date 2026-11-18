@@ -1,0 +1,56 @@
+NDA 216059 Multi-disciplinary Review and Evaluation
+Jaypirca (pirtobrutinib)
+
+Drug activity related to proposed indication
+¢ Invitro studies
+Inhibition of cellular signaling and proliferation in lymphoma cell lines
+The anti-tumor activities of pirtobrutinib were assessed in human lymphoma cell lines that
+exhibit BTK-dependent surviving signaling and proliferation, i.e., Ramos RA1 (B-lymphocyte cell
+line) and TMD8 (activated B-cell-like (ABC) subtype of diffuse large B-cell lymphoma (DLBCL);
+ABC-DLBCL). Cells incubated with pirtobrutinib were stimulated with crosslinked anti-human
+IgM (RA1) or sodium orthovanadate (TMD8) and the levels of phospho-BTK Y223 (RA1 and
+TMD8) and/or phospho-PLCy2 Y1217 (RA1 only) were determined in the cell lysate. Non-
+specific toxicity was measured on Jurkat cells, a T-cell line that does not express BTK, as a
+negative control.
+
+In each of the functional cellular readouts on BTK containing cell lines, pirtobrutinib’s ICso was <
+10 nM, ranging from 2.33 nM for TMD8 anti-proliferation (data not shown) to 9.1 nM for
+inhibition of PLCy2 phospho-Y1217 in Ramos cells. The ICso for inhibition of BTK phospho-Y223
+was essentially identical at 3.3 nM in Ramos cells and 3.2 nM in TMD8 cells.
+
+Table 7: Pirtobrutinib Inhibition of BTK Kinase Activity in Lymphoma Cell Lines (Inhibition of
+223 Autophosphorylation)
+
+Pirtobrutinib ICso
+Cell Line a Readout
+TMD8 2 phosphorylated BTK Y223
+Ramos RAI 3 phosphorylated BTK Y223
+Ramos RAL 3 phosphorylated PLCy2 Y1217
+
+(Table from the Applicant)
+
+Inhibition of human B-cell activation in peripheral blood mononuclear cells (PBMC) and whole
+blood
+
+The inhibitory activity of pirtobrutinib (referred as REDX08608 in this study report) on B-cell
+activation was determined via flow cytometry, based on the percent of CD19+ cells in PBMC or
+whole blood B cells that were stained for CD69-positive, a B-cell activation marker. The
+estimated ICso values were 3.6 nM and 30.6 nM for pirtobrutinib induced B-cell inhibition in
+PBMC and whole blood, respectively.
+
+e  Invivo study
+
+Murine xenograft model
+
+In OCI-Ly10 human B-cell lymphoma cell inoculated severe combined immunodeficiency (SCID)-
+mice, orally administered pirtobrutinib induced dose-dependent inhibition of tumor growth.
+The tumor-suppressive effect lasted dose-dependently after dosing cessation. No remarkable
+toxicities, such as body weight reduction, were noted under the conditions of the study.
+Pirtobrutinib also induced tumor suppression in the xenograft model harboring TMD8 DLBCL
+
+33 of 265
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5116352

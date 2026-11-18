@@ -1,0 +1,55 @@
+BLA Multi-disciplinary Review and Evaluation {BLA 761263, Lunsumio (Mosunetuzumab)}
+
+Hypothesis testing for the primary endpoint was conducted once only at the time of the
+primary analysis, based on a clinical cutoff date of 15 March 2021.
+
+The FDA’s Assessment:
+
+The pre-specified primary efficacy endpoint was CR rate per independent review facility per the
+2007 international working group criteria (Cheson 2007). However, the FDA uses overall
+response rate as an intermediate endpoint reasonable likely to predict clinical benefit,
+supported by durability. In addition, the FDA disagrees with the Applicant’s statement that CR
+rate may be a potential surrogate for PFS in patients with follicular lymphoma. The use of CR
+rate in patients with relapsed or refractory follicular lymphoma is not an established surrogate
+endpoint and has not been used as an intermediate endpoint to support a regulatory
+determination in follicular lymphoma. Of note, complete response rate at 30 months is an
+established surrogate endpoint in patients with previously untreated follicular lymphoma.
+
+The proposed historical control CR rate of (3% was not agreed upon with FDA. Comparison of
+response rates from single-arm trials against a historical rate is challenging because the
+historical benchmark is difficult to verify. Due to differences in population, trial design and
+other possible unknown confounders, the historical estimation is likely subject to biases which
+cannot be resolved. Consequently, the proposal for a hypothesis test or comparison against
+
+3% is not adequate for inferential purposes but instead is considered as supportive only, and
+the corresponding p-value is nominal.
+
+Statistical Analysis Plan and Amendments
+
+The Applicant’s Description:
+The analyses conducted were prospectively planned and described in the Statistical Analysis
+
+Plan (SAP, dated 18 December 2020) which was reviewed by the FDA (Type B Pre-BLA Content
+and Format meeting, 21 January 2021) prior to the CCOD for the primary analysis. The SAP was
+amended (v2, 21 May 2021) to revise censoring rules for time-to-event endpoints for events
+occurring after NALT (at the recommendation of the Agency). There were no changes made to
+the planned analyses of the primary and key secondary endpoints according to the SAP after
+the database snapshot for either the primary, or updated analyses.
+
+The FDA’s Assessment:
+
+The primary analysis for efficacy was conducted on the B11 pivotal cohort, which includes 90
+patients with relapsed or refractory FL treated at the proposed registrational dose (i.e.,
+1/2/60/30 mg) in Group B of Study GO29781.
+
+Response rates (ORR and CR) are summarized with 95% Clopper-Pearson Confidence Interval
+(Cl) in the B11 pivotal cohort. Patients with missing/no response assessments are counted as
+non-responders.
+
+94
+Version date: January 2020 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5100050

@@ -1,0 +1,62 @@
+BLA 761367
+Andembry / garadacimab
+
+Additionally, the phase 3 PK data were incorporated into the E-R analyses for efficacy based on
+the relative risk of HAE attacks. The model-predicted relative risk of an HAE attack as a
+function of simulated steady-state garadacimab exposure (area under the concentration-time
+curve (AUC) over one dosing interval at steady state) is shown in Figure 2. Simulated steady-
+state exposure was derived from the proposed dosing regimen consisting of a 400 mg SC loading
+dose followed by 200 mg SC once monthly. Results indicate that at steady state, the area under
+the plasma concentration-time curve over one dosing interval at steady state (AUC tauss)
+following the 200 mg once monthly maintenance dose yielded a reduction in the relative risk of
+HAE attacks near the plateau of the curve. Also, population predictions of exposure indicated
+that about 75% of subjects will achieve an at least 90% reduction in the HAE attack rate
+compared to baseline.
+
+Figure 2. Relative Risk of an HAE Attack as a Function of Garadacimab Steady-State AUCtau
+
+S
+8 0.204
+w
+w 0.154
+<
+=
+zs) 0.104 ----=
+x 1
+ao
+3 I
+® 0.054 1
+2 '
+t 1
+3 0.004 '
+ow r 1 r 1 r
+0 10000 20000 30000 40000
+'
+mol
+2
+S HAE patients (>=12 years) 4 rT]
+E
+=
+0 10000 20000 30000 40000
+
+AUCtau,ss (ug*hour/mL)
+
+Source: Summary of Clinical Pharmacology, Figure 21
+
+Notes: In the top panel, the simulated mean HAE relative risk is shown as the blue line with an approximate 95% Cl for the mean in
+gray. The bottom panel shows the density of simulated AUC,.,... where the boxplot indicates the 25", 50", and 75" percentiles with
+whiskers extending to 1.5x IQR.
+
+Abbreviations: AUC;au ss, area under the plasma concentration-time curve over one dosing interval at steady state; Cl, confidence
+interval; HAE, hereditary angioedema; IQR, interquartile range
+
+Loading Dose Justification
+
+The proposed dosing regimen includes an initial loading dose of 400 mg SC. This loading dose
+was incorporated into the regimen administered to subjects randomized to garadacimab in the
+phase 3 trial (3001). E-R analyses for efficacy (reduction in HAE attack rate) shown above were
+
+17
+Integrated Review Template, version 3.0 (05/25/2022)
+
+Reference ID: 5458438

@@ -1,0 +1,65 @@
+NDA/BLA Multi-disciplinary Review and Evaluation Biologics License Application 761400
+linvoseltamab
+
+5/25/50 mg QW or 5/25/200 mg QW. The multivariate model for CR rate is summarized in
+Table 72.
+
+Better independently-assessed PFS was associated with higher full dose level, more lines
+of prior therapy, lower baseline sBCMA, female sex (versus male), standard cytogenetic risk
+(versus high cytogenetic risk), use of I1VIG, and higher baseline lymphocyte count in Study
+1826 patients who received full doses ranging from 3 mg to 800 mg. The multivariate model
+for PFS is summarized in Table 73.
+
+Table 71: FDA - Final Dose-Response Multivariate Model - Independently-Assessed
+
+ORR
+Covariate Odds Ratio Odds Ratio 95% Cl p-value
+Full dose level (mg) 1.006 1.001, 1.011 0.015
+5 or more prior lines of therapy 2.984 1.382, 6.741 0.007
+(versus 2 to 4 prior lines of therapy)
+Baseline age (years) 1.044 1.009, 1.083 0.016
+Baseline soluble BCMA (mg/L) 0.364 0.215, 0.579 <0.001
+Baseline lymphocyte count (109/L) 1.891 1.113, 3.421 0.026
+Use of IVIG (versus no recorded use of IVIG) 9.396 4.382, 21.760 <0.001
+
+Cl = confidence interval. Higher odds ratio indicates higher odds of achieving response.
+Source: Reviewer's analysis
+
+Table 72: FDA - Final Dose-Response Multivariate Model - Independently-Assessed
+
+CR
+Covariate Odds Ratio Odds Ratio 95% Cl p-value
+Full dose level (mg) 1.007 1.003, 1.011 0.002
+Use of IVIG (versus no recorded use of IVIG) 3.847 2.047, 7.400 <0.001
+Plasmacytoma at baseline (versus no 0.279 0.104, 0.660 0.006
+plasmacytoma) : a °
+
+Cl = confidence interval. Higher odds ratio indicates higher odds of achieving complete response.
+Source: Reviewer's analysis
+
+Table 73: FDA - Final Dose-Response Multivariate Model - Independently-Assessed
+
+PFS
+
+Covariate Hazard Ratio Hazard Ratio 95% Cl p-value
+Full dose level (mg) 0.993 0.990, 0.997 <0.001
+Number of prior lines of therapy 0.888 0.799, 0.986 0.026
+Baseline soluble BCMA (mg/L) 1.373 1.108, 1.701 0.004
+Male sex (versus female sex) 2.278 1.358, 3.822 0.002
+High cytogenetic risk (versus standard risk) 2.258 1.373, 3.713 0.001
+Use of IVIG (versus no recorded use of IVIG) 0.274 0.162, 0.465 <0.001
+Baseline lymphocyte count (10“9/L) 0.665 0.456, 0.971 0.03
+
+Cl = confidence interval. Higher hazard ratio indicates higher hazard of disease progression or death.
+Source: Reviewer's analysis
+
+Full dose amount had no statistically significant associations with OS after accounting for
+other patient covariates. Better OS was associated with female sex (compared to male),
+
+204
+
+Version date: August 2023 (ALL NDA/BLA reviews)
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are
+completed by the Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5432800

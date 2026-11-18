@@ -1,0 +1,1631 @@
+CENTER FOR DRUG EVALUATION AND
+RESEARCH
+APPLICATION NUMBER:
+
+214231Orig1s000
+CLINICAL PHARMACOLOGY
+REVIEW(S)
+
+CLINICAL PHARMACOLOGY REVIEW
+MEMORANDUM
+(Addendum to the original review dated December 10, 2020)
+NDA
+
+214231
+
+Submission Date
+
+March 27, 2020
+
+Brand Name
+
+ZEGALOGUE
+
+Generic Name
+
+Dasiglucagon
+
+Reviewer
+
+S.W. Johnny Lau, R.Ph., Ph.D.
+
+Team Leader
+
+Manoj Khurana, Ph.D.
+
+Division Director
+
+Shirley K. Seo, Ph.D.
+
+OCP Division
+
+Division of Cardiometabolic and Endocrine Pharmacology
+
+OND Division
+
+Division of Diabetes, Lipid Disorders, and Obesity
+
+Sponsor
+
+Zealand Pharma A/S
+
+Dosage form; Strength
+
+Solution: 0.6 mg/0.6 mL
+127866
+
+Associated IND
+Proposed indication
+
+Treatment of severe hypoglycemia in patients with
+diabetes aged 6 years and above
+
+Background
+Refer to Clinical Pharmacology review dated December 10, 2020 in DARRTS Reference ID: 4715185 for the
+Clinical Pharmacology information of dasiglucagon. The purpose of this addendum is to revise the
+recommendation of a statement appeared on Page 3/39 in Section 1.1 Recommendations for the approval of the
+proposed indication for dasiglucagon.
+Recommendation
+The second sentence for the Section 1.1 Recommendations should read “The application is approvable from a
+clinical pharmacology perspective for patients with diabetes aged 6 years and above.” instead of “The application
+is approvable from a clinical pharmacology perspective for patients with T1DM aged 6 years and above.”
+Rationale
+The sponsor conducted all Phase 3 clinical studies in patients with type 1 diabetes mellitus (T1DM) for
+dasiglucagon. The sponsor did not include patients with type 2 diabetes mellitus (T2DM) in the development
+program of dasiglucagon due to the potential confounding effect of endogenous insulin production on endpoint
+assessment as indicated in the end of Phase 2 meeting minutes in DARRTS on July 28, 2017 Reference ID:
+4131786. Upon discussions with the clinical review team and that the mechanism of action of
+
+dasiglucagon is through the stimulation of hepatic breakdown of glycogen to release glucose, the efficacy
+outcome of the dasiglucagon development program should be applicable to both patients with T1DM and
+patients with T2DM. Furthermore, clinical guidelines for treatment of severe hypoglycemia do not distinguish
+between treatment of patients with T1DM and treatment of patients with T2DM. Thus, the second sentence for the
+Section 1.1 Recommendations should read “The application is approvable from a clinical pharmacology
+perspective for patients with diabetes aged 6 years and above.”
+1
+Reference ID: 4753597
+
+Signature Page 1 of 1
+
+-------------------------------------------------------------------------------------------This is a representation of an electronic record that was signed
+electronically. Following this are manifestations of any and all
+electronic signatures for this electronic record.
+-------------------------------------------------------------------------------------------/s/
+-----------------------------------------------------------SZE W LAU
+02/26/2021 11:33:12 AM
+MANOJ KHURANA
+03/01/2021 11:10:57 AM
+SHIRLEY K SEO
+03/04/2021 02:42:07 PM
+
+Reference ID: 4753597
+
+Office of Clinical Pharmacology Review
+NDA Number
+Link to EDR
+Submission Dates
+Submission Type
+Brand Name
+Generic Name
+Dosage Form and Strength
+Route of Administration
+Proposed Indication
+
+Applicant
+Associated IND
+OCP Review Team
+OCP Final Signatory
+
+214231
+\\cdsesub1\evsprod\NDA214231
+March 27, 2020; July 20, 2020; July 29,
+2020; November 6, 2020
+Standard
+ZEGALOGUE
+Dasiglucagon
+Solution; 0.6 mg/0.6 mL
+Subcutaneous
+Treatment of severe hypoglycemia in
+patients with diabetes aged 6 years and
+above
+Zealand Pharma A/S
+127866
+S.W. Johnny Lau, Justin Earp, and Manoj
+Khurana
+Shirley K. Seo; Director, Division of
+Cardiometabolic and Endocrine
+Pharmacology
+
+1
+
+Reference ID: 4715185
+
+Table of Contents
+1. EXECUTIVE SUMMARY ......................................................................................................................3
+1.1 Recommendations................................................................................................................................3
+1.2 Post-Marketing Requirements and Commitments ...............................................................................4
+2. SUMMARY OF CLINICAL PHARMACOLOGY ASSESSMENT .......................................................4
+2.1 Pharmacology and Clinical Pharmacokinetics.....................................................................................4
+2.2 Dosing and Therapeutic Individualization...........................................................................................4
+2.2.1 General dosing ..............................................................................................................................4
+2.2.2 Therapeutic individualization .......................................................................................................4
+2.3 Outstanding Issues ...............................................................................................................................4
+2.4 Summary of Labeling Recommendations............................................................................................4
+3. COMPREHENSIVE CLINICAL PHARMACOLOGY REVIEW ..........................................................5
+3.1 Overview of the Product and Regulatory Background ........................................................................5
+3.2 General Pharmacology and Pharmacokinetic Characteristics .............................................................7
+3.3 Clinical Pharmacology Review Questions...........................................................................................9
+3.3.1 To what extent does the available clinical pharmacology information provide pivotal or
+supportive evidence of effectiveness? ...................................................................................................9
+3.3.2 Is the proposed dosing regimen appropriate for the general patient population for which the
+indication is being sought?.....................................................................................................................9
+3.3.3 Is an alternative dosing regimen and/or management strategy required for subpopulations based
+on intrinsic factors?................................................................................................................................9
+3.3.4 Are there clinically relevant food-drug or drug-drug interactions and what is the appropriate
+management strategy?..........................................................................................................................10
+3.3.5 Is the proposed product specification for the dasiglucagon content of 69% acceptable to
+account for the lost in stability due to dual storage under refrigeration and at room temperature? ....10
+4. APPENDICES........................................................................................................................................12
+4.1 Summary of Bioanalytical Method Validation and Performance......................................................12
+4.2 Clinical PK and/or PD Assessments ..................................................................................................13
+4.3 Population PK and/or PD Analyses ...................................................................................................27
+4.4 Exposure-Response Analyses ............................................................................................................33
+
+2
+
+Reference ID: 4715185
+
+1. EXECUTIVE SUMMARY
+The applicant (Zealand Pharma) submitted the NDA 214231 for dasiglucagon as an
+antihypoglycemic agent to treat severe hypoglycemia in patients with type 1 diabetes mellitus
+(T1DM) aged 6 years and above. Dasiglucagon, a glucagon analog, consists of 29 amino acids
+but has 7 substituted amino acids that are different from glucagon to improve physical and
+chemical stability. The applicant developed the dasiglucagon product to be stored either under
+refrigeration or at room temperature for convenience. . The to-be-marketed dasiglucagon is a
+ready-to-use aqueous formulation in either a pre-filled syringe or an auto-injector. The
+dasiglucagon development program consists of pharmacokinetics (PK), tolerability, dosefinding, and pivotal clinical trials in adult and pediatric patients.
+
+1.1 Recommendations
+The Office of Clinical Pharmacology/Division of Cardiometabolic and Endocrine Pharmacology
+(OCP/DCEP) has reviewed the clinical pharmacology data submitted to support NDA 214231
+and found the data acceptable. The application is approvable from a clinical pharmacology
+perspective for patients with T1DM aged 6 years and above.
+Review Issue
+
+Recommendations and Comments
+
+Pivotal or supportive evidence
+of effectiveness
+
+Three pivotal trials 16137, 17145, and 17086 provide the
+pivotal evidence of dasiglucagon effectiveness and safety for
+patients aged 6 years and above. Patients with T1DM treated
+with dasiglucagon showed that the median time to increase in
+blood glucose of 20 mg/dL is about 10 minutes and those
+treated with placebo is about 40 minutes.
+The Phase 2 dose finding PK/pharmacodynamic (PD) study
+provided data for the exposure-response relationship for the
+primary PD effect of dasiglucagon (as captured via plasma
+glucose increase from baseline), which supported the single
+subcutaneous (SC) dose of 0.6 mg.
+Patients with severe hypoglycemia should subcutaneously
+inject 0.6 mg dasiglucagon into the abdomen, buttocks, thigh,
+or upper arm.
+None of the patient subgroups such as age ( 6 years), body
+weight (60 – 100 kg), renal impairment, injection site, organ
+impairments, and concomitant medications have specific
+dosing recommendations.
+All phase 3 trials evaluated the to-be-marketed formulation of
+dasiglucagon.
+
+General dosing instructions
+Dosing in patient subgroups
+(intrinsic and extrinsic factors)
+Bridge between the to-be­
+marketed and clinical trial
+formulations
+
+3
+
+Reference ID: 4715185
+
+1.2 Post-Marketing Requirements and Commitments
+None.
+
+2. SUMMARY OF CLINICAL PHARMACOLOGY ASSESSMENT
+2.1 Pharmacology and Clinical Pharmacokinetics
+Dasiglucagon is a glucagon receptor agonist, which increases blood glucose concentration via
+activating the hepatic glucagon receptors to stimulate glycogen breakdown and release glucose
+from the liver. Hepatic stores of glycogen are necessary for dasiglucagon to produce an
+antihypoglycemic effect.
+The Cmax is about 1510 pmol/L (5107 pg/mL)1 and tmax is about 35 minutes upon subcutaneous
+injection of 0.6 mg dasiglucagon to patients with T1DM. The dasiglucagon apparent volume of
+distribution and half-life are 47 L and 30 minutes, respectively, upon subcutaneous
+administration. Dasiglucagon is cleared via proteolytic degradation pathways, similar to
+glucagon, in the blood, liver, and kidney. Dasiglucagon is excreted via glomerular filtration in
+the kidneys. After filtration, dasiglucagon is degraded by the proteases in the proximal tubules
+and the peptide fragments are reabsorbed.
+
+2.2 Dosing and Therapeutic Individualization
+2.2.1 General dosing
+
+In patients aged 6 years and above, the recommended dose is 0.6 mg dasiglucagon administered
+via subcutaneous injection into the abdomen, buttock, thigh, or upper arm.
+2.2.2 Therapeutic individualization
+
+No dose adjustment is necessary for age ( 6 years), gender, body weight (60 – 100 kg), race, organ
+impairment, injection site, or drug interaction.
+
+2.3 Outstanding Issues
+None
+
+2.4 Summary of Labeling Recommendations
+The following is the preliminary labeling recommendations for different sections related to
+clinical pharmacology:
+Section 7
+DRUG INTERACTIONS
+Deleted the text but added the following table:
+
+1
+
+To convert the concentration unit of pmol/L to pg/mL for dasiglucagon, multiply the value in pmol/L
+with 3.382 to convert the value to pg/mL.
+4
+
+Reference ID: 4715185
+
+Table 3: Clinically Significant Drug Interactions with TRADENAME
+Recent
+Beta-Blockers
+Patients taking beta-blockers may have a transient increase in
+Clinical Impact:
+pulse and blood pressure when given TRADENAME.
+Indomethacin
+In patients taking indomethacin, TRADENAME may lose its
+Clinical Impact:
+ability to raise blood glucose or may even produce
+hypoglycemia.
+Warfarin
+TRADENAME may increase the anticoagulant effect of
+Clinical Impact:
+warfarin.
+The table format rather than the proposed text is recommended to improve readability. No
+interventions are recommended for the concomitant use of beta-blockers, indomethacin, and
+warfarin because the dasiglucagon dose is for single use only and under conditions of severe
+hypoglycemia, which is episodic and uncommon in occurrence. The drug interactions listed in
+Table 3 are based on the generally known information for glucagon and is consistent with other
+glucagon product labels.
+Section 12.2 Pharmacodynamics
+Cardiac Electrophysiology
+At a dose resulting in 5 times the concentration of the 0.6 mg dasiglucagon subcutaneous dose,
+ZEGALOGUE does not prolong the QT interval to any clinically relevant extent.
+The QT-IRT reviewer recommended the above language to be consistent with the Clinical
+Pharmacology Labeling guidance.
+Section 12.3 Pharmacokinetics
+Recommended to express the mean peak dasiglucagon concentration as both pg/mL and pmol/L
+because prescribers may not have access to information on dasiglucagon’s molecular weight and
+the product label does not mention the information. Also, the unit of plasma dasiglucagon
+concentration in pg/mL helps prescribers better relate to the dasiglucagon dose in mg.
+
+3. COMPREHENSIVE CLINICAL PHARMACOLOGY REVIEW
+3.1 Overview of the Product Development and Regulatory Background
+The applicant interacted directly with the FDA through an end of phase 2 meeting (June 2017)
+and a pre-NDA meeting (November 2019). Besides these major regulatory interactions with the
+FDA, the sponsor has also been in continuous dialog with the FDA on the development program,
+both for dasiglucagon and the device component.
+5
+
+Reference ID: 4715185
+
+The ability to store dasiglucagon both refrigerated and at room temperature for prolonged
+periods is important to provide patients and caregivers with a portable and convenient treatment
+option, allowing flexibility in their everyday life while ensuring immediate access to a ready-to­
+use treatment for episodes of severe hypoglycemia. Thus, the applicant has had interactions with
+the FDA on the regulatory approach to pursue the dual storage conditions.
+The applicant evaluated the therapeutic use of dasiglucagon for the treatment of severe
+hypoglycemia in a clinical development program consisting of 9 clinical trials (Figure 1).
+
+IV, intravenous; PD, pharmacodynamics; PK, pharmacokinetics; QTc, corrected QT interval;
+All are completed trials. Trials providing PK and PD data in this overview are in bold red font.
+Source: Modified from Module 2.7.2 Figure 1-1
+
+Figure 1 Overview of Dasiglucagon clinical trials
+Due to differences in the formulation of dasiglucagon during the clinical development program,
+some of the earlier trials (such as Trials 14013 and 15007) are not included in the evaluation of
+(b) (4)
+the PK and PD properties of dasiglucagon. In the initial formulation, the excipients
+(b) (4)
+were different from those of the drug product intended
+for the market.
+The following trials provide the clinical pharmacology information for the to-be-marketed
+formulation:
+Phase 2 Dose-finding trial 15126
+The Phase 2 dose-finding trial 15126 characterized the PK and PD properties of a single SC
+doses of dasiglucagon (0.1, 0.3, 0.6, and 1.0 mg) in adult patients with type 1 diabetes mellitus
+(T1DM) in order to determine the optimal dasiglucagon dose for the Phase 3 clinical
+development program. Trial 15126 also assessed the dasiglucagon dose proportionality via SC
+administration.
+Pivotal trials 16137 and 17145
+The PK and PD characteristics of a single SC dose of 0.6 mg dasiglucagon were evaluated as
+secondary endpoints in these two pivotal Phase 3 trials, 16137 and 17145, in adult patients with
+T1DM.
+
+6
+
+Reference ID: 4715185
+
+Pediatric pivotal trial 17086
+In the Phase 3 trial 17086, the PK and PD effects of a single SC dose of 0.6 mg dasiglucagon
+were evaluated in children (aged 6 to 11 years) and adolescents (aged 12 to 17 years) with
+T1DM.
+All Phase 3 trials evaluated the to-be-marketed formulation of dasiglucagon. The to-be-marketed
+dasiglucagon is a ready-to-use aqueous formulation in either a pre-filled syringe or an autoinjector. The formulation used in Phase 3 trials was identical to that used in Phase 2 trial, except
+(b) (4)
+for a
+(b) (4)
+, the formulation used in Phase 1 trials was changed prior to the Phase 2 trial.
+Bridging trial 17084
+This Phase 3 bridging trial 17084 compared the PK and PD effects of a single 0.6 mg
+dasiglucagon dose from a batch stored under the intended dual storage (refrigerated and at room
+temperature) relative to a batch stored under refrigerated condition of the to-be-marketed
+formulation. The exposure of dasiglucagon was about 15% lower for the dual storage condition
+than that stored under refrigerated condition. However, the glucose response is comparable
+among the 2 storage conditions.
+The applicant assessed the in vitro metabolism of dasiglucagon in human hepatocytes (Studies
+15-075 and 15-076), plasma or serum samples (Study 14-001).A total of 498 healthy subjects
+and patients with T1DM received dasiglucagon in 9 dasiglucagon clinical trials. Four patients
+had treatment-induced antidrug-antibody (ADA) response (< 1% incidence). The
+immunogenicity Phase 3 trial 16136 did not show subject with ADA and thus it did not allow
+follow up of PK and PD sampling to determine the impact of ADAs on efficacy. Of the trials
+that showed ADA-positive samples, the impact of ADAs on PK and PD is undeterminable due to
+the lack of dasiglucagon dosing post-development of ADAs. The immunogenicity of
+dasiglucagon appears low. For details, see Dr. Kristen Pluchino’s clinical review in DARRTS.
+
+3.2 General Pharmacology and Pharmacokinetic Characteristics
+
+7
+
+Reference ID: 4715185
+
+Table 1 below shows the key pharmacological and pharmacokinetic properties of
+dasiglucagon.
+Dasiglucagon
+Dasiglucagon
+
+Mechanism of action
+
+Absolute SC bioavailability1, %
+Cmax, pmol/L (geometric mean) 2
+tmax, min (median) 3
+Vz/f, L (geometric mean) 4
+Metabolism*
+
+Excretion
+
+Terminal t1/2, min (geometric
+mean)5
+SC dose proportionality6
+Drug interaction7
+
+Characteristics
+Consists of 29 amino acids, like glucagon, but has 7
+substituted amino acids to improve physical and
+chemical stability in aqueous environment
+Dasiglucagon increases blood glucose concentration via
+activating the hepatic glucagon receptors to stimulate
+glycogen breakdown and release glucose from the liver
+51
+1266 – 1690 [adult]; 1160 [pediatric]
+30 – 45 [adult]; 21 [pediatric]
+46.6 – 56.6 [adult]; 86.4 [pediatric]
+ cleared mainly in the blood, liver, and kidneys via
+normal proteolytic degradation pathways
+ metabolites are not expected to be active on the
+glucagon receptor with high activity
+Via filtration thru the kidneys. Following glomerular
+filtration, peptides are degraded by the proteases present
+in the proximal tubule and the peptide fragments are
+reabsorbed
+28.5 – 34.6 [adult]; 37.4 [pediatric]
+AUC0-360min is proportional to dose in the dose range of
+0.1 – 1 mg
+Dasiglucagon does not significantly inhibit CYPs 1A2,
+2C9, 2C19, 2D6, and 3A4 with all IC50s > 25 μM.
+
+SC = subcutaneous; Cmax = maximum plasma dasiglucagon concentration; tmax = time Cmax occurred; Vz/f = apparent volume of distribution; CYP
+= cytochrome P450
+1Trial 17144
+2Trials 15126, 16137, 17145, 16136, and 17084 [adult]; Trial 17086 [pediatric]
+3Trials 15126, 16137, 17145, 16136, and 17084 [adult]; Trial 17086 [pediatric]
+4Trials 15126 and 17084
+5Trials 15126 and 17084[adult]; Trial 17086 [pediatric]
+6Trial 15126
+7Study 13-149
+* The applicant reported 16 proteolytic metabolites of dasiglucagon. With in vivo rats and dogs studies, the data indicate that dasiglucagon is
+mainly cleared through the blood, liver, and kidney via proteolytic degradation pathways like that of glucagon.
+Source: Reviewer’s compilation
+
+8
+
+Reference ID: 4715185
+
+3.3 Clinical Pharmacology Review Questions
+3.3.1 To what extent does the available clinical pharmacology information provide pivotal or
+supportive evidence of effectiveness?
+
+Clinical pharmacology information from Phase 2 dose finding trial (15126), Phase 3 trials in
+adults (16137 and 17145), and the pediatric Phase 3 trial (17086) provide supportive evidence of
+effectiveness for dasiglucagon to treat severe hypoglycemia in patients with T1DM aged 6 years
+and above. These trials consistently demonstrated a significant improvement in PD response
+parameters (AUE0-30min and TPG increase >20mg/dL) over placebo for rise in plasma glucose from
+baseline (see Table 2 below and also Appendix Section 4.2 for details).
+Table 2. Summary of dasiglucagon PK and PD parameters as observed from different
+trials
+Trial
+
+AUC0-30 min,
+pM*h
+
+AUC0-inf,
+pM*h
+
+Cmax,
+pmol/L
+
+t1/2, min
+
+AUE0-30 min,
+mg*h/dL
+
+15126
+16137
+
+413 (36.8)
+⸺
+
+2610 (13.8)
+1770 (31.2)#
+
+1510 (28.2) 28.5 (25.2)
+1280 (37.7)
+⸺
+
+17145
+
+⸺
+
+1780 (31.6) #
+
+1350 (38.2)
+
+⸺
+
+19.9 (8.41)
+
+17086
+
+376 (78.1)
+
+1850 (45.1)
+
+1160 (61.2)
+
+37.4 (37.4)
+
+22.8 (6.13)
+
+21.1 (6.1)
+21.0 (5.26)
+
+TPG
+
+,
+min
+9 (6 – 16)§
+10 (10 –
+10)
+9.3 (7.8 –
+10.3 )
+10 (8 – 12)
+
+increase≥20mg/dL
+
+AUC0-30 min, AUC0-inf, Cmax , and t1/2 are in geometric mean (CV%); AUE0-30 min, in mean (SD); TPG increase≥20mg/dL in
+median (95% CI); # = AUC0-120 min, pM*h; § = TPG increase≥20mg/dL in median (range)
+Source: Reviewer’s compilation
+
+3.3.2 Is the proposed dosing regimen appropriate for the general patient population for which
+the indication is being sought?
+
+Yes, the proposed dosing of 0.6 mg dasiglucagon administered via SC injection into the
+abdomen, buttock, thigh, or upper arm to patients 6 years of age and above is appropriate for the
+proposed indication from a clinical pharmacology perspective.
+3.3.3 Is an alternative dosing regimen and/or management strategy required for
+subpopulations based on intrinsic factors?
+
+No dose adjustment is necessary for age, gender, body weight, race, organ impairments, injection
+site, or drug interaction. The applicant did not conduct dedicated studies for organ impairment
+(renal and hepatic) or for drug interactions. However, dasiglucagon is intended for single use to
+treat severe hypoglycemia. Population PK analysis and simulations showed that the dasiglucagon
+exposure of a patient with renal impairment relative to that of a typical male or female aged  24
+years, weighing 78 kg with eGFR of 95 mL/min/1.73 m2 is estimated to be 1.05, 1.16¸ and 1.25
+for mild, moderate, and severe renal impairment, respectively (see Appendix 4.3 Population PK
+analysis). While body weight was observed to be the main covariate affecting dasiglucagon
+exposure, the PK, PD, and efficacy data from clinical trials support that the proposed single 0.6
+
+9
+
+Reference ID: 4715185
+
+mg SC dose provides adequate efficacy coverage for the broad body weight range in patients 6
+years and above.
+3.3.4 Are there clinically relevant food-drug or drug-drug interactions and what is the
+appropriate management strategy?
+
+In vitro Study 13-149 showed that dasiglucagon does not significantly inhibit CYPs 1A2, 2C9,
+2C19, 2D6, and 3A4 isozymes in human liver microsomes with all IC50 values > 25 μM. The
+geometric mean Cmax of 0.6 mg dasiglucagon SC injection is 1510 pmol/L (Trial 15126).
+Assuming a competitive inhibition, the Ki value for inhibiting CYPs equals IC50/2 as 12.5 μM.
+The R value according to the In Vitro Drug Interaction guidance is 1.000121 and is < 1.02. As a
+result of these in vitro findings, the applicant did not conduct dedicated clinical drug-drug
+interaction studies.
+3.3.5 Is the proposed product specification for the dasiglucagon content
+acceptable to
+account for the loss in stability due to dual storage under refrigeration and at room
+temperature?
+(b) (4)
+
+Yes. The recommended dose is 0.6 mg dasiglucagon and the proposed product specification for
+(b)
+(b)
+the dual storage condition for 12 months is (4) % of the original dasiglucagon content. Thus, (4) %
+(b) (4)
+of the recommended dose is
+mg. The applicant developed a model of SC dasiglucagon
+dose and time to increase glucose 20 mg/dL from baseline in blood according to Trial 15126.
+
+10
+
+Reference ID: 4715185
+
+Figure 2. Model prediction of mean time to recovery as a function of dasiglucagon dose
+
+TTR = time to recovery
+Source: Submission on July 29, 2020
+
+Table 3 below shows the predicted glucose recovery time and the difference in predicted glucose
+recovery time to the 0.6 mg dose.
+Dasiglucagon
+Subcutaneous Dose,
+mg
+
+Predicted Mean
+Recovery Time
+(95% Confidence
+Interval), minutes
+
+Predicted Mean
+Difference in
+Recovery Time
+versus 0.6 mg,
+minutes
+
+0.6
+0.46
+0.44
+0.42
+0.40
+
+9.21 (8.28, 10.14)
+9.63 (8.61, 10.65)
+9.71 (8.65, 10.76)
+9.80 (8.70, 10.90)
+9.90 (8.75, 11.04)
+
+0
+0.42
+0.50
+0.59
+0.68
+
+95% Confidence Interval
+(CI) of the Predicted Mean
+Difference in Recovery
+Time versus 0.6 mg,
+minutes*
+-0.93, 1.76
+-0.87, 1.87
+-0.82, 1.99
+-0.76, 2.12
+
+* The confidence intervals are derived from the standard errors of the predicted means.
+Source: Submission on July 29, 2020
+
+The 95% CI for the difference in recovery time contains zero. Thus, the recovery times for the
+lower doses are not significantly different from that of 0.6 mg. The upper bound of the CI for
+the difference in recovery time is 2.12 minutes for the 0.4 mg dose. Considering the benefit of
+the to-be-marketed dasiglucagon product being ready-to-use without the need to reconstitute, this
+may justify the very small delay (~0.6 minutes) of anti-hypoglycemia effect.
+
+11
+
+Reference ID: 4715185
+
+4. APPENDICES
+4.1 Summary of Bioanalytical Method Validation and Performance
+The applicant used a bioanalytical method that consisted of offline solid phase extraction (SPE)
+followed by online SPE and a liquid chromatography coupled to tandem mass spectrometry (LC­
+MS/MS) with multiple reaction monitoring to measure dasiglucagon in human plasma samples.
+The applicant used a stable labeled internal standard in all validation studies and actual clinical
+trials. Table 4 shows the validation of the dasiglucagon bioanalytical method. To convert the
+concentration unit of pmol/L to pg/mL for dasiglucagon, multiply the value in pmol/L with 3.382
+to convert the value to pg/mL.
+Table 4. Summary of assay validations for dasiglucagon in human plasma samples
+Method
+LC-MS/MS
+LC-MS/MS
+LC-MS/MS
+
+LLOQ
+(nmol/L)
+0.010
+0.010
+0.020
+
+ULOQ
+(nmol/L)
+1.0
+1.0
+1.0
+
+Inter-assay
+CV (%)
+2.9 – 12.4
+2.76 – 4.7
+3.5 – 16.9
+
+Inter-assay
+bias (%)
+-5.5 – 11.0
+-13.7 – 3.0
+-2.3 – -0.3
+
+Validation
+study
+14-170
+15-170
+17-063
+
+Source: Module 2.7.1’s Table 1-2
+LLOQ = lower limit of quantitation; ULOQ = upper limit of quantitation; CV = coefficient of variation
+
+Table 5 shows the performance of the bioanalytical assay to determine dasiglucagon in human
+plasma for key clinical trials.
+Table 5. Performance of the dasiglucagon bioanalytical assay in human plasma for key
+clinical trials
+Trial 15126
+Trial 16137
+Trial 17084
+Trial 17086
+Trial 17144
+Cumulative
+Cumulative
+Cumulative
+Cumulative
+Cumulative
+bias: -2.2 –
+bias: -2.4 –
+bias: -2.3 –
+bias: -2.5 –
+bias: -1.1 –
+2%
+1.9%
+3%
+1%
+0.8%
+Cumulative
+Cumulative
+Cumulative
+Cumulative
+Cumulative
+precision: 
+precision: 
+precision: 
+precision: 
+precision: 
+9.5% CV
+4.7% CV
+7.7% CV
+8.9% CV
+8.4% CV
+QC
+Cumulative
+Cumulative
+Cumulative
+Cumulative
+Cumulative
+performance
+bias: -4.3 –
+bias: -6.0 –
+bias: -7.7 –
+bias: 4 – 7%
+bias: -0.3 –
+5.7%
+4.3%
+2%
+Cumulative
+1.3%
+Cumulative
+Cumulative
+Cumulative
+Cumulative
+precision: 
+precision: 
+precision: 
+precision: 
+precision: 
+11.5% CV
+6.6% CV
+8.1 % CV
+13.4% CV
+10.2% CV
+Incurred
+Performed on Performed on Performed on Performed on Performed on
+sample
+10.9% trial
+10.3% trial
+8% trial
+10% trial
+10.7% trial
+reanalysis
+samples;
+samples;
+samples;
+samples; 95% samples;
+100% of
+80.3% of
+90.2% of
+of samples
+83.9% of
+samples met
+samples met
+samples met
+met pre­
+samples met
+pre-specified pre-specified pre-specified specified
+pre-specified
+criteria
+criteria
+criteria
+criteria
+criteria
+Study sample 182 days at ­
+188 days at ­
+188 days at ­
+227 days at ­
+188 days at ­
+stability
+80°C
+80°C
+80°C
+80°C
+80°C
+Source: Reviewer’s compilation of the file “Summary-biopharm-app-4-2.pdf” for Module 2.7.1
+Standard
+curve
+performance
+
+12
+
+Reference ID: 4715185
+
+Trial 17145
+Cumulative
+bias: -2.5 –
+2%
+Cumulative
+precision: 
+7.3% CV
+Cumulative
+bias: 2 – 3%
+Cumulative
+precision: 
+8.9% CV
+Performed on
+11.8% trial
+samples;
+97.1% of
+samples met
+pre-specified
+criteria
+188 days at ­
+80°C
+
+The applicant reanalyzed 8% of the clinical samples for Trial 17084, whereas the Bioanalytical
+Method Validation Guidance recommends 10% to be reanalyzed. Trial 17084 is the bridging
+trial for the dual storage condition. Nevertheless, the passing rate of 90.2% for incurred sample
+reanalysis for Trial 17084 is consistent with the Bioanalytical Method Validation Guidance.
+Overall, the bioanalytical method validation of dasiglucagon is acceptable.
+For the 3 pivotal clinical trials (16137, 17145, and 17086), the applicant used the US FDAapproved glucose analyzer Yellow Springs Instrument (YSI) 2300, Yellow Springs Instruments,
+Yellow Springs, OH to measure the glucose concentration in plasma samples at central
+laboratories.
+The applicant used a radioimmunoassay and used the 125I-labelled glucagon as a tracer
+for the quantitative determination of glucagon in plasma samples. The 125 I-labelled
+glucagon and the sample-derived glucagon competed for binding to a glucagon-specific
+antibody. The complex of the antibody and glucagon was precipitated through a
+secondary antibody. The measured radioactivity in the sample was inversely correlated
+with the concentration of glucagon. The lower limit of quantification (LLOQ) was
+determined to be 4.7 pmol/L.
+The stability of glucagon samples stored at -30°C ± 10°C was assessed through
+testing aliquots of EDTA plasma containing aprotinin. Aprotinin increased the
+stability of rapidly degrading proteins such as glucagon, enabling them to be more
+accurately measured in plasma samples. The samples of EDTA plasma containing
+glucagon and aprotinin were stored for up to 24 months and then assessed at 5 time
+points. The data for EDTA-plasma samples with aprotinin stored at -30°C ± 10°C
+for up to 24 months demonstrated a high stability of glucagon. Thus, glucagon
+samples from the dasiglucagon clinical trials can be stored for up to 24 months at ­
+30°C ± 10°C without loss of stability.
+
+4.2 Clinical PK and/or PD Assessments
+Table 5 shows the clinical trials that the applicant conducted to support NDA 214231. All
+Phases 2 and 3 clinical trials were conducted in patients with T1DM. All Phase 1 trials were
+conducted in healthy volunteers except Part B of Trial 14013 was conducted in patients with
+T1DM.
+
+13
+
+Reference ID: 4715185
+
+Table 5. Clinical trials that support NDA 214231
+
+14
+
+Reference ID: 4715185
+
+Source: Modified table of Module 5.2
+
+Trial 15126 in Adult Patients with T1DM (A randomized, double-blind trial of single doses of
+ZP4207 (dasiglucagon*) administered s.c. to hypoglycemic Type 1 diabetic patients to describe
+the pharmacokinetics and pharmacodynamics of ZP4207 as compared to marketed glucagon)
+This was a Phase 2, single-center, randomized, double-blind within groups, single dose parallel
+trial in Group 1 and cross-over trial in Groups 2, 3, and 4 in patients with T1D. Figure 3 shows
+the schematic of Trial 15126’s design. The sponsor collected serial blood samples predose and
+postdose to determine the dasiglucagon, glucagon, and glucose concentrations in plasma.
+Figure 3. Schematic of Trial 15126
+
+Source: Trial 15126’s study report Figure 9.1
+
+15
+
+Reference ID: 4715185
+
+Figure 4. Mean (with standard error of mean) plasma concentration profiles following
+single SC doses of dasiglucagon (ZP4207) and GlucaGen
+
+Source: Trial 15126’s report Figure 14.2.2.3.2
+
+Figure 5. Mean (with standard error of mean) plasma glucose concentration profiles
+following single SC doses of dasiglucagon (ZP4207) and GlucaGen
+
+Source: Trial 15126’s report Figure 14.2.4.3.2
+
+Table 6. Dose proportionality of SC dasiglucagon
+Parameter
+
+Treatment / Comparison
+
+Slope
+
+95% CI
+
+AUC0-30min
+
+Overall
+
+0.885
+
+(0.7403; 1.0292)
+
+AUC0-360min
+
+Overall
+
+1.029
+
+(0.9667; 1.0904)
+
+AUC0-inf
+
+Overall
+
+1.030
+
+(0.9683; 1.0916)
+
+Cmax
+
+Overall
+
+0.888
+
+(0.7791; 0.9972)
+
+Source: Trial 15126’s report Table 11-5
+
+The applicant used the Power model to assess dose proportionality of SC dasiglucagon. Table 6
+shows the results of ANOVA analysis for the slope of log dasiglucagon PK parameter vs. log
+dasiglucagon dose plots. Dose-proportionality was indicative as the 95% CI of the slope
+included “1”. Thus, the SC dasiglucagon PK is dose-proportional between 0.1 mg – 1 mg.
+16
+
+Reference ID: 4715185
+
+The PK profiles in Figure 4 show rather rapid increases in plasma dasiglucagon concentrations
+upon SC administrations. For example, the dasiglucagon Cmax was 1570 pM (mean) and tmax was
+35 minutes (median) for the 0.6 mg SC dose (see Table 7).
+Table 7. Summary statistics of dasiglucagon PK parameters as arithmetic mean
+(standard deviation) but median (range) for tmax
+
+Source: Trial 15126’s synopsis
+
+Table 8. Summary statistics of plasma glucose PD parameters as arithmetic mean
+(standard deviation) but median (range) for tmax, TPG≥70mg/dL, and TPG
+increase≥20mg/dL
+
+Source: Trial 15126’s synopsis
+
+17
+
+Reference ID: 4715185
+
+Figure 5 shows the PD data for the different doses of dasiglucagon and GlucaGen treatments. For
+example, the SC 0.6 mg dasiglucagon treatment and SC 1 mg GlucaGen treatment resulted in
+increases of plasma glucose and the area under the observed plasm glucose-time curve (AUE0­
+30min) for the dasiglucagon and GlucaGen treatments were 21.1 and 20.4 mg*h/dL, respectively
+(see Table 8).
+Trial 16137 in Adult Patients with T1DM (A Phase 3, randomized, double-blind, parallel trial
+to confirm the clinical efficacy and safety of dasiglucagon in the rescue treatment of
+hypoglycemia in patients with type 1 diabetes mellitus (T1DM) compared to placebo and with
+reference to GlucaGen®)
+This was a Phase 3, randomized, double-blind, parallel trial to confirm the clinical efficacy and
+safety of dasiglucagon in the rescue treatment of hypoglycemia in adult patients with T1DM
+compared to placebo and with reference to GlucaGen. Figure 6 below shows the schematic of
+Trial 16137.
+
+Source: Trial 16137’s report Figure 9-1.
+
+18
+
+Reference ID: 4715185
+
+Figure 7. Mean (with standard error of mean) plasma concentration profiles following
+single SC doses of dasiglucagon (0.6 mg) and GlucaGen (1 mg)
+
+Source: Trial 16137’s report Figure 14.2.2.1
+
+Figure 7 shows the PK data for the dasiglucagon and GlucaGen treatments. The dasiglucagon
+Cmax was 1280 pM (geometric mean) and tmax was 40 minutes (median) upon a single
+subcutaneous 0.6 mg dasiglucagon injection.
+Figure 8 shows the PD data for the dasiglucagon and GlucaGen treatments. The SC 0.6 mg
+dasiglucagon treatment resulted in a rise from baseline (mean 58.9 mg/dL) in plasma glucose,
+which was apparent on average within 5 minutes of injection, to about 220 mg/dL by the last
+observation time of 90 minutes. The area under the observed plasm glucose-time curve (AUE0­
+30min) for the dasiglucagon and GlucaGen treatments were 21 mg*h/dL and 20.4 mg*h/dL,
+respectively, and higher than that of the placebo (3.57 mg*h/dL) (see Table 10)
+Figure 8. Mean (with standard error of mean) plasma glucose concentration profiles
+following single SC doses of dasiglucagon (0.6 mg) and GlucaGen (1.0 mg)
+
+Source: Trial 16137’s report Figure 14.2.2.2
+
+19
+
+Reference ID: 4715185
+
+Table 9. Summary statistics of dasiglucagon PK and GlucaGen PK
+
+Source: Trial 16137’s report Table 14.2.12.1
+
+Table 10. Plasma Glucose Response as AUE0-30min
+Pharmacodynamic
+Parameter
+AUE0-30min (mg*h/dL)
+
+Category/
+Statistic
+Mean (SD)
+
+Dasiglucagon
+(N=82)
+21.0 (5.26)
+
+Placebo
+(N=43)
+3.57 (2.86)
+
+GlucaGen®
+(N=43)
+20.4 (5.49)
+
+Median
+
+20.5
+
+3.21
+
+20.6
+
+Min, max
+
+6.47, 31.8
+
+0.0, 12.5
+
+9.75, 32.9
+
+Source: Trial 16137’s report Table 11-5
+
+Trial 17145 in Adult Patients with T1DM (A randomized, double-blind, parallel-group trial to
+confirm the clinical efficacy and safety of dasiglucagon in the rescue treatment of hypoglycemia
+in subjects with type 1 diabetes)
+
+20
+
+Reference ID: 4715185
+
+Figure 9 below shows the schematic of Trial 17145
+
+Source: Trial 17145’s report Figure 2-1
+
+Figure 10. Mean (with standard error of mean) plasma concentration profiles following
+single SC doses of dasiglucagon
+
+Source: Trial 17145’s report Figure 11-5
+
+21
+
+Reference ID: 4715185
+
+Figure 11. Mean (SD) plasma glucose concentration profiles following single SC doses of
+dasiglucagon and placebo
+
+Source: Trial 17145’s report Figure 14.2.2.2
+
+22
+
+Reference ID: 4715185
+
+Table 11. Summary statistics of dasiglucagon PK
+
+Source: Trial 17145’s report Table 14.2.9
+
+The PK profiles in Figure 10 show rather rapid increases in plasma dasiglucagon concentrations
+upon SC administrations. The dasiglucagon Cmax was 1440 pM (mean) and tmax was 35 minutes
+(median) for the 0.6 mg SC dose (see Table 11).
+Table 12. Plasma glucose response as AUE0-30min
+
+Source: Trial 17145’s report Table 14.2.6
+
+23
+
+Reference ID: 4715185
+
+Figure 11 shows the PD data for the dasiglucagon and placebo treatments. The SC 0.6 mg
+dasiglucagon treatment resulted in increases of plasma glucose and the area under the observed
+plasm glucose-time curve (AUE0-30min) for the dasiglucagon and placebo treatments were 19.9
+and 2.67 mg*h/dL, respectively (see Table 12).
+Trial 17086 in Pediatric Patients with T1DM (A phase 3, randomized, double-blind, placeboand active-controlled, parallel-arm trial to assess the efficacy, safety, and pharmacokinetics of
+dasiglucagon relative to placebo and GlucaGen® when administered as a rescue therapy for
+severe hypoglycemia in children with T1DM treated with insulin)
+Figure 12 below shows the schematic of Trial 17086
+Figure 12 Trial 17086 Design
+
+Source: Trial 17086’s report Figure 9.1
+
+24
+
+Reference ID: 4715185
+
+Figure 13. Mean (with standard error of mean) plasma concentration profiles following
+single SC doses of dasiglucagon
+
+Source: Trial 17086’s report Figure 11.5
+
+Figure 14. Mean (with standard error of mean) plasma glucose concentration profiles
+following single SC doses of dasiglucagon, GLUCAGEN, and placebo
+
+Source: Trial 17086’s report Figure 11.7
+
+25
+
+Reference ID: 4715185
+
+Table 13. Summary statistics of dasiglucagon PK and GlucaGen PK
+Dasiglucagon
+(N=20)
+
+GlucaGen®
+(N=10)
+
+Median
+Min-max
+Geom. mean
+Geom. mean CV %
+Median
+Min-max
+Geom. mean
+Geom. mean CV %
+Median
+Min-max
+Geom. mean
+Geom. mean CV %
+Median
+Min-max
+Geom. mean
+Geom. mean CV %
+Median
+Min-max
+Geom. mean
+Geom. mean CV %
+Median
+Min-max
+Geom. mean
+Geom. mean CV %
+Median
+Min-max
+Geom. mean
+Geom. mean CV %
+Median
+Min-max
+Geom. mean
+Geom. mean CV %
+Median
+Min-max
+Geom. mean
+Geom. mean CV %
+Median
+Min-max
+
+413
+88.7-1340
+376
+78.1
+1900
+709-4440
+1810
+44.8
+1160
+359-3410
+1160
+61.2
+0.35
+0.167-1.5
+0.476
+58.9
+1920
+719-4450
+1850
+45.1
+1.21
+0.777-2.31
+1.27
+29.5
+1.07
+0.515-2.1
+1.11
+37.4
+0.647
+0.329-1.35
+0.623
+37.4
+92.7
+39.9-247
+96.1
+45.1
+77.4
+36.1-245
+
+356
+147-902
+376
+63.3
+1180
+599-3250
+1370
+72.7
+979
+376-2660
+1120
+80
+0.333
+0.167-0.5
+0.328
+41.8
+1250
+715-3590
+1530
+70.3
+1.85
+1.36-2.44
+1.86
+21.1
+0.544
+0.296-0.67
+0.504
+27.2
+1.27
+1.03-2.34
+1.38
+27.2
+229
+80.1-401
+188
+70.3
+348
+143-943
+
+Geom. mean
+Geom. mean CV %
+
+86.4
+62.2
+
+Parameter1
+
+AUC0-30min
+(h•pmol/L)
+
+AUC0-300min
+(h•pmol/L)
+
+Cmax
+(pmol/L)
+
+Tmax (h)
+
+AUC0-inf
+(h•pmol/L)
+
+MRT (h)
+
+λz (/h)
+
+t½ (h)
+
+CL/f (L/h)
+
+Vz/f (L)
+
+Appears this way on
+original
+
+373 Geom. mean
+81.1 Geom. mean CV %
+
+Baseline correction was not applied for GlucaGen pharmacokinetic assessments, and the influence of endogenous glucagon is therefore not
+accounted for in the pharmacokinetic parameter calculations.
+Source: Trial 17086’s synopsis
+
+Figure 13 shows rather rapid increase in plasma dasiglucagon concentrations upon 0.6 mg SC
+administration. The dasiglucagon Cmax was 1160 pM (geometric mean) and tmax was 21 minutes
+(median) for the 0.6 mg SC dose (see Table 13).
+26
+
+Reference ID: 4715185
+
+86.4
+62.2
+
+Table 14. Plasma glucose response as AUE0-30min
+Parameter
+AUE0-30min Mean (±SD)
+(mmol•h/L) Median
+Min-max
+
+Dasiglucagon
+(N=20)
+22.83 (±6.126)
+22.44
+10.9-34.1
+
+Placebo
+(N=11)
+1.81 (±4.641)
+1.46
+-6.3-9.1
+
+GlucaGen®
+(N=10)
+19.66 (±3.410)
+20.11
+13.8-24.1
+
+Source: Trial 17086’s synopsis
+
+Figure 14 shows the PD data for the dasiglucagon, GlucaGen, and placebo treatments. The SC
+0.6 mg dasiglucagon treatment and GlucaGen treatment resulted in increases of plasma glucose
+and the area under the observed plasm glucose-time curve (AUE0-30min) for the dasiglucagon,
+GlucaGen, and placebo treatments were 22.83, 19.66, and 1.81 mg*h/dL, respectively (see Table
+14).
+
+4.3 Population PK and/or PD Analyses
+
+OFFICE OF CLINICAL PHARMACOLOGY:
+PHARMACOMETRIC REVIEW FOR NDA 214231, DASIGLUCAGON
+RESULTS OF APPLICANT’S ANALYSIS
+Population Pharmacokinetic Modeling Review
+The Applicant submitted the following 3 Population Pharmacokinetic (PPK) Reports to support
+the approval of dasiglucagon to treat severe hypoglycemia in patients with type 1 diabetes
+mellitus (T1DM) aged 6 years and above:
+ 16-147
+ 17-094
+ 19-077
+Report 16-147 is also for the population PK/PD modeling and simulation of dasiglucagon in
+patients with T1DM. Error! Reference source not found.5 below shows the studies assessed in
+APPEARS THIS WAY ON ORIGINAL
+these 3 PPK reports.
+Trial Type
+
+Trial
+
+Number
+
+Dose Regimen
+
+Dose finding
+
+15126
+
+54
+
+Single doses of 0.1, 0.3, 0.6 and 1 mg of dasiglucagon.
+Injection site: abdomen. Pre-filled syringe
+
+Immunogenicity
+
+16136
+
+57
+
+3 consecutive 0.6 mg doses of dasiglucagon. Injection site:
+abdomen. Pre-filled syringe
+
+1st pivotal
+
+16137
+
+82
+
+0.6 mg single dose of dasiglucagon. Injection sites:
+abdomen, thigh or buttocks. Pre-filled syringe.
+
+Dual storage
+
+17084
+
+90
+
+2 consecutive 0.6 mg doses of dasiglucagon of 2 batches.
+Injection site: abdomen. Pre-filled syringe
+
+Pediatric pivotal
+
+17086
+
+20
+
+0.6 mg single dose of dasiglucagon. Injection sites:
+abdomen or thigh. Pre-filled syringe
+
+2nd pivotal
+
+17145
+
+34
+
+0.6 mg single dose of dasiglucagon. Injection sites: buttocks or
+deltoid. Auto injector
+
+Number = Number of subjects with available dasiglucagon PK
+
+27
+
+Reference ID: 4715185
+
+Source: Review’s compilation
+
+The applicant used the data from the dose-finding trial (15126) to develop the PPK model as
+reflected in Report 16-147. The applicant then used this PPK model and updated it with
+allometric scaling to support the pediatric dose of 0.6 mg dasiglucagon (Report 17-094). Report
+19-077 reflects the establishment of the final PPK model through all 7 trials shown in Table 1.
+Reviewer’s Comments: This PPK review will focus on Report 19-077 because it is the updated
+final PPK model.
+Figure 15 shows the structure of the Applicant’s final PPK model.
+Figure 15. Structures for Dasiglucagon PPK Model for Patients with T1DM.
+
+F is the bioavailability. Tlag is the lag time. Ka is the absorption rate constant. Vc is the central compartment volume.
+Ke is the elimination rate constant. CL is the clearance.
+Source: Population PK Report 19-077’s Figure 4.
+
+Dasiglucagon concentration after subcutaneous (SC) administration in adult and pediatric
+subjects was characterized through a 1-compartment model with first-order delayed absorption
+and first-order linear elimination.
+
+28
+
+Reference ID: 4715185
+
+A1=dasiglucagon amount in absorption compartment; A2=dasiglucagon amount in central compartment; Tlag=absorption lag
+time; C=dasiglucagon concentration; CL=clearance; eGFR=estimated glomerular filtration rate; KA=absorption rate constant;
+ke=elimination rate constant; PK=pharmacokinetic; Vc=central compartment
+
+Table 16 shows the parameter estimates for the final dasiglucagon PPK model.
+Table 16. Parameter Estimates of Applicant's PPK Model.
+
+AGE-F=age effect on F, Agekp=age knot point in the piece-wise linear relationship between F and age, BATCHF=batch effect on F, CI=confidence interval, CL=clearance, CV=coefficient of variation, eGFR=estimated
+glomerular filtration rate, eGFR-CL=eGFR effect on CL, F=relative bioavailability, IIV=interindividual variability,
+INJSITE-F=injection site effect on F, KA=absorption rate constant; kp=knot point, SEX-KA=sex effect on KA,
+Tlag=absorption lag time, Vc=central volume of distribution.
+Source: Population PK Report 19-077’s Table 12.
+
+29
+
+Reference ID: 4715185
+
+The PPK parameters KA, CL, V, F and Tlag were estimated with acceptable precision for
+descriptive PK purposes. The η-shrinkage was low for F (4.6%), acceptable for Vc (21.5%) and
+KA (29.6%) and high for Tlag
+(40.8%). The ε-shrinkage was low (10%). The parametric estimates and bootstrap estimates
+from the final PPK model are consistent. The bootstrap estimates were based on 450
+successfully converged bootstrap replicates (out of 500). The 95% CI of all parameter estimates
+does not include zero.
+The estimated bioavailability was lower in pediatric subjects than in adult subjects, and lower
+after thigh, buttock and deltoid injections than after abdominal injection. The estimated F was
+69% (95% CI: 62%-75%) for thigh injection vs abdominal injection and 86% (95% CI: 80%­
+91%) for buttocks and deltoid injections vs abdominal injection. The estimated F for the batch
+reflecting storage at the intended dual storage conditions was 87% (84%-89%) relative to batches
+stored at refrigerated conditions. The KA was predicted 29% (95% CI: 23%-35%) higher in
+female subjects compared to male subjects.
+Figure shows the goodness-of-fit (GOF) plots for dasiglucagon’s final PPK model.
+
+30
+
+Reference ID: 4715185
+
+Figure 16. GOF Plots for Dasiglucagon’s Final PPK Model.
+
+31
+
+Reference ID: 4715185
+
+Dots are individual data points and solid red lines are smoothed LOESS lines. The solid black lines in the 2
+plots in the 1st row are lines of identity. The dashed lines in the 2 plots in the 2nd row show the boundaries
+of the CWRES ± 2 interval.
+CWRES=conditional weighted residuals, DV=dependent variable (dasiglucagon concentration),
+GOF=goodness of fit, IPRED=individual predictions, |IWRES|=absolute values of individual weighted
+residuals, PRED=population predictions.
+
+Source: Population PK Report 19-077’s Figure 8.
+
+Figure shows the prediction-corrected visual predictive checks (VPC) for the final PPK model
+of dasiglucagon.
+Figure 17. Prediction-Corrected VPC for Applicant’s Final PPK Model for Dasiglucagon.
+
+Source: Population PK Report 19-077’s Figure 11.
+Blue dots are observed data points; red solid line is the observed median; red dashed lines are observed p5 and p95.
+The pink area is the 95% prediction interval (PI) of the simulated median, and purple areas are the 95%PI of the
+simulated p5 and p95 based on 500 replicates. VPC=visual predictive check
+
+Reviewer’s Comments: The GOF and VPC plots demonstrate reasonable agreement between the
+observed concentrations and model predictions for descriptive PK purposes and establishing
+exposure metrics for the PK/PD model..
+Figure 18 below shows the relative effect of covariates on dasiglucagon exposure.
+32
+
+Reference ID: 4715185
+
+APPEARS THIS WAY ON ORIGINAL
+
+33
+
+Reference ID: 4715185
+
+Figure 18 The relative effect of covariates on dasiglucagon exposure.
+
+Source: Report 19-077’s Figure 7
+
+4.4 Exposure-Response Analyses
+Population Pharmacokinetic-Pharmacodynamic (PKPD) Model
+Figure 19 shows the final PKPD model for dasiglucagon.
+Figure 19. Structure of the final PKPD model. The dasiglucagon concentrations are
+predicted by the final population PK model.
+
+Source: Population PK Report 16-147’s Figure 7.
+
+34
+
+Reference ID: 4715185
+
+Glu is the observed glucose concentration described by the model-predicted individual glucose
+concentration, Glui, and a proportional residual error model with variance σ2. A population
+baseline, BASE, was estimated representing glucose concentration in the induced hypoglycemic
+state at time zero. Individual glucose elimination rate (KOUT,i), maximal effect of the sigmoid
+EMAX component of the PKPD relation (EMAXi; with Hill factor, γ), glucose steady state
+concentration (PLATi, plateau), and slope of the linear component of the PKPD relation (DSLPi)
+was estimated by the model.
+The individual estimated EMAXi and PLATi were highly (negatively) correlated, and estimation
+of an off-diagonal element (ω23) of the variance-covariance matrix was necessary in order to
+adequately describe the inter- individual variability in the data. Without dasiglucagon exposure
+(C=0), the model predicts a glucose concentration of BASE at time zero. Over time, this
+concentration exponentially approaches steady state, PLATi, with time constant, KOUT,i. Thus,
+this model, starts from a non-steady state hypoglycemic level. In a model starting at steady state,
+the initial condition would be defined as KIN/KOUT.
+The PKPD relation estimated with a previous model including a standard sigmoidal EMAX
+model. Figure 20 shows that the impact of the linear component (DSLP) is to create a flatter
+plateau at high exposures compared to the EMAX component only. Also, the steepness at low
+exposures was greater in the final model than predicted by the previous model. The addition of
+the linear component to the PKPD relation led to a statistically significant improvement in model
+fit compared to a model including a sigmoid EMAX relation only: p=0.0019 and p=0.0018 when
+adding the fixed and random effects in 2 successive steps (2 x 1 df).
+
+35
+
+Reference ID: 4715185
+
+Figure 20. PKPD relation estimated by the combined linear and sigmoid EMAX
+component in the final model (red) compared to the contribution from the EMAX
+component only (black) and a previous sigmoid EMAX model (purple). Black markers
+show predicted dasiglucagon concentration at the PD sampling time points at the dose level
+corresponding to the position on the ordinate axis.
+
+Source: Population PK Report 16-147’s Figure 7.
+
+Table 17 shows the PKPD model parameters.
+
+36
+
+Reference ID: 4715185
+
+Table 17. PKPD model parameter estimates with relative standard errors (RSE) and
+bootstrap confidence intervals
+
+$: Random effects are shown as variances and covariances in the parameter estimate column, and sd and correlation in the
+untransformed parameter column. #: Out of 500 replicates, 48 runs with minimization terminated were skipped when
+calculating the bootstrap results and 14 runs with estimates near a boundary were skipped when calculating the bootstrap
+results Source: Population PK Report 16-147’s Table 9.
+
+37
+
+Reference ID: 4715185
+
+Figure 21. VPC showing glucose response stratified by treatment arm. Solid (dashed)
+curves show median (5th and 95th percentile) of observed data; red (blue) shaded areas
+show the 95% CI of the simulated median (outer percentile bands) based on 1000
+replicates.
+
+Figure 22. VPC showing glucose response in the first 30 minutes after dose, stratified by
+treatment arm. Solid (dashed) curves show median (5th and 95th percentile) of observed
+data; red (blue) shaded areas show the 95% CI of the simulated median (outer percentile
+bands) based on 1000 replicates.
+
+38
+
+Reference ID: 4715185
+
+Signature Page 1 of 1
+
+-------------------------------------------------------------------------------------------This is a representation of an electronic record that was signed
+electronically. Following this are manifestations of any and all
+electronic signatures for this electronic record.
+-------------------------------------------------------------------------------------------/s/
+-----------------------------------------------------------SZE W LAU
+12/10/2020 04:00:21 PM
+JUSTIN C EARP
+12/10/2020 04:11:32 PM
+MANOJ KHURANA
+12/10/2020 04:18:23 PM
+SHIRLEY K SEO
+12/10/2020 04:21:16 PM
+
+Reference ID: 4715185
+
+

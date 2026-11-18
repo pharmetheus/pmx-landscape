@@ -1,0 +1,63 @@
+FDA Table 8: Prevalence of ESR1 Mutations — Full Analysis Set
+
+ESRI mutation Camizestrant + AI+ CDK4/6i Total (N=315)
+CDK4/5i (N=157) (N=158) n(%)*
+n (%)* n(%)
+D538G 70 (44.6) 82 (51.9) 152 (48.3)
+Y¥537S 61 (38.9) 60 (38.0) 121 38.4)
+Y537N 29 (18.5) 25 (15.8) 54 (17.1)
+E380Q 15 (9.6) 18 (11.4) 33 (10.5)
+Y537C 8 G.1) 744) 15 (4.8)
+1L536H 31.9) 744) 10 (3.2)
+L536P. 3 (1.9) 6 (3.8) 9 (2.9)
+L536R 21.3) 21.3) 4(1.3)
+V422del 31.9) 0 3 (1.0)
+S436P 0 1(0.6) 1(0.3)
+Y537D 0 0 0
+
+* Percentages add up to greater than 100% because subjects can have multiple mutations.
+
+Source: Sponsor data (D8534C00001 CSR Table 14.2.21.4).
+
+Exploratory subgroup analyses for the four most common ESR/ mutations are summarized in
+FDA Table 9. Camizestrant + CDK4/6 inhibitor improved PFS compared to AI + CDK4/6
+inhibitor in patients with D538G, Y537S, and Y537N mutations. However, Camizestrant +
+CKD4/6 inhibitor did not improve PFS compared to AI + CDK4/6 inhibitor in patients with the
+
+E380Q mutation (HR 1.5: 95% CI 0.58, 4.08). The small sample size for the E380Q mutation
+group limits further interpretation.
+
+FDA Table 9: PFS in the Four Most Frequent ESR1 Mutations
+
+ESRI Camizestrant | AI + CDK4/6i Median PFS Median PFS | HR (95% CI)
+mutation | +CDK4/6i__| (PFS events/n) | months (95% CT) | months (95% CI)
+(PFS events/n) in camizestrant + | in AI + CDK4/6i
+CDK4/6i
+D538G 29/70 52/82 16.8 73 0.34
+(12.91, 24.87) (6.74, 9.30) (0.21, 0.53)
+Y537S 24/61 46/60 16.9 73 0.29
+(11.30. NC) (4.34, 9.53) (0.17. 0.47)
+Y537N 13/29 18/25 16.6 94 0.45
+(5.42. NC) (3.71, 14.59) (0.32. 0.63)
+E380Q 9/15 8/18 8.3 94 1.53
+(7.36, NC) (3.91, NC) (0.58, 4.08)
+
+PFS = progression free survival; CI = confidence interval; AI = aromatase inhibitor; HR = hazard ratio
+
+Source: Sponsor data (eCTD Sequence Number 0018)
+
+143
+
+Version date: March 1, 2024 (All NDA/BLA reviews)
+
+In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the Applicant,
+which do not necessarily reflect the positions of the FDA.
+
+The FDA review was conducted in conjunction with other regulatory authorities under Project ORBIS. The FDA
+collaborated with Australia’s Therapeutic Goods Administration (TGA), Brazilian Health Regulatory Agency
+(ANVISA), Health Canada (HC), Singapore’s Health Sciences Authority (HSA), and Switzerland’s Swissmedic
+(SMC). While the conclusions and recommendations expressed herein reflect the FDA’s completed review of the
+application, the applications may still be under review at the other regulatory agencies.
+
+Reference ID: 5864804
+

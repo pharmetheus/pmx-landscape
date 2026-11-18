@@ -1,0 +1,50 @@
+NDA Multi-disciplinary Review and Evaluation - NDA 215814
+REZLIDHIA, olutasidenib
+
+20.4.2 Population PK Analysis
+
+Population PK analysis was performed on 4517 observations from 324 subjects for Study 2102-
+HEM-101 and 796 observations from 25 subjects for Study 2102-HVS-105. The number of
+samples below the quantitation limit (BLQ) after the administration of the first dose (“post-
+treatment BLQ”) were 122 (2.60%) and 30 (3.6%) in studies 2102-HEM-101land 2102-HVS-105
+respectively. BLQ samples were excluded from the analysis. Data from 2 subjects were all BLQ
+and therefore were not modeled.
+
+20.4.2.1 Executive Summary
+The FDA’s Assessment:
+
+Two-compartmental model with 1st-order absorption constant rate and Ist-order elimination
+constant rate captured the PopPK data and there was no clinically meaningful covariate
+identified in patients. PK data of only 1 of 3 Phase 1 clinical studies in health volunteers were
+included in the original population PK analysis. In addition, NCI classification for hepatic
+impairment had been mis-applied using baseline ALT instead of AST. Upon FDA information
+request, the applicant included all 3 Phase 1 studies in the PPK analysis where NCI hepatic
+impairment was correctly classified using baseline AST. The Applicant’s updated PPK modeling
+analysis is generally acceptable.
+
+Overall, the clearance in AML patients (mean + SD of 3.15 + 1.19, n=326) was about 2.5 times
+that in healthy volunteers (1.21 + 0.17, n=81). Female patients’ CL was 86% of males. There
+was no large impact on CL observed for the other covariates, including body weight, hepatic
+impairment, and renal impairment.
+
+20.4.2.2 PPK Assessment Summary
+The Applicant’s Position:
+
+The baseline demographics of the continuous covariates and categorical covariates evaluated in
+the population PK analysis are shown in Table 86-Table 88 respectively.
+
+The estimate for apparent clearance (CL/F) was 3.25 L/h, volume of distribution (V2/F) of the
+central compartment was 201 L, volume of distribution (V3/F) of the peripheral compartment
+was 4613 L, and absorption rate (KA) was 6.282 I/h.
+
+A 2-compartment model with first-order elimination adequately described olutasidenib plasma
+concentration data, and the PK parameters were precisely estimated. The covariates included
+were body weight on V2/F, sex on CL/F and V2/F and study on CL/F V2/F and KA.
+
+240
+Version date: January 2020 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “The Applicant’s Position” are completed by the Applicant
+and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5086659

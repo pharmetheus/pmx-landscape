@@ -1,0 +1,55 @@
+NDA 219132
+Aqneursa (levacetylleucine)
+
+developed pneumonia. The subject died 88 days after the treatment discontinuation. As this
+subject discontinued the trial after Visit 3, assessments at essential visits (Visit 4 and Visit 6)
+were not available.
+
+One subject © missed the Visit 6 assessment. On © during Visit 6, which
+was | day after the last dose of study drug in the second treatment period (placebo), the
+Investigator determined that the subject required hospitalization due to worsening of depression.
+The Investigator confirmed that the subject remained hospitalized for depression °
+The subject had a history of depression and a prior psychiatric hospitalization
+
+wer
+
+The remaining subjects in the trial (n=58) completed both Visit 4 and Visit 6.
+
+Review team’s comment: The Applicant proposed LOCF per-period basis for missing values in
+the primary analysis. Therefore, in the primary analysis, the Visit 3 score was carried to Visit 4
+for the Subject © and the Visit 5 score was carried to Visit 6 for Subject a
+However, a Visit 6 score does not exist for Subject © since the subject withdrew from the
+trial during the first treatment period (levacetylleucine) and died prior to Visit 6. While the SAP
+specifies a treatment policy strategy to handle withdrawal from study medication due to AEs and
+states, “Patients who did not provide sufficient data for a LOCF approach were omitted from
+analysis,” Subject © was not omitted from the primary analysis and the nonexisting Visit 6
+score in the second treatment period was handled by a hypothetical strategy. In other words, the
+Applicant’s MMRM model implicitly imputed the Visit 6 score of Subject © under
+missing-at-random assumption. While the withdrawal of Subject ®© +5 not considered
+related to the investigational drug, the review team conducted sensitivity analyses to evaluate
+robustness of the primary efficacy analysis result based on {SARA (Section 6.2.2.4.3).
+
+6.2.2.4. Results of Analyses
+
+6.2.2.4.1. Subject Disposition and Baseline Characteristics
+
+A total of 64 patients were screened, of whom 60 were enrolled and treated. Four patients had
+screen failures due to violation of one or more inclusion criteria. Of the 60 treated subjects, 59
+(98.3%) subjects completed both treatment periods, and 58 (96.7%) subjects had assessments at
+the end of both treatment periods (Visit 4 and Visit 6).
+
+Table 14. Patient Screening and Enrollment, Trial 1B1001-301
+
+Disposition Trial IB1001-301
+Patients screened 64
+Screening failures 4 (6.3%)
+Inclusion/exclusion criteria not met 4 (6.3%)
+Patients enrolled 60 (93.8%)
+Subjects randomized 60 (93.8%)
+
+Source: Table 14.1.3 of Trial IB1001-301 Clinical Study Report
+
+4S
+Integrated Review Template, version 4.0 (11/1/23)
+
+Reference ID: 5451862

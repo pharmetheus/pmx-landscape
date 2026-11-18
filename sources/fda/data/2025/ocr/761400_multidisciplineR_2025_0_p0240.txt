@@ -1,0 +1,58 @@
+NDA/BLA Multi-disciplinary Review and Evaluation Biologics License Application 761400
+linvoseltamab
+
+higher baseline albumin, lower baseline LDH, lower baseline sBCMA, use of IVIG, and
+higher baseline lymphocyte count in Study 1826 patients who received full doses ranging
+from 3 mg to 800 mg. The multivariate model for OS is summarized in Table 74.
+
+Table 74: FDA - Final Dose-Response Multivariate Model — Overall Survival
+
+Covariate Hazard Ratio Hazard Ratio 95% Cl p-value
+Male sex (versus female sex) 1.820 1.109, 2.989 0.018
+Baseline albumin (g/L) 0.944 0.906, 0.983 0.006
+Baseline lactate dehydrogenase (IU/dL) 1.018 1.009, 1.027 <0.001
+Baseline soluble BCMA (mg/L) 1.317 1.056, 1.642 0.014
+Use of IVIG (versus no recorded use of IVIG) 0.285 0.163, 0.498 <0.001
+Baseline lymphocyte count (10“9/L) 0.643 0.424, 0.976 0.038
+
+Cl = confidence interval. Higher hazard ratio indicates higher hazard of death.
+Source: Reviewer's analysis
+
+Multivariate regression identified a potential association between worse PFS and worse OS
+with male sex compared to female sex, which is not explained by dose or other patient
+characteristics. As discussed in Section 19.4.1.2, female patients were predicted to have
+28% higher geometric mean Week 13 AUC compared to male patients. However, the
+difference in exposure by sex does not explain the magnitude of difference in PFS and OS
+by sex. It is unclear if the efficacy trends according to sex are related to the 28% higher
+Week 13 total linvoseltamab AUC in female patients compared to male patients, differences
+in disease pathophysiology by sex, or other factors associated with sex. Overall, the
+benefit/risk profile supports the proposed 5/25/200 mg dosage in patients with RRMM of all
+sexes from a clinical pharmacology perspective.
+
+It is unclear why multivariate regression identified a statistical association between more
+lines of prior therapy and better ORR and PFS. When lines of prior therapy was excluded
+from the ORR and PFS covariate selection, the resulting models were slightly weaker but
+still showed statistically significant associations between higher full dose amount and better
+ORR and PFS.
+
+Overall, the exploratory multivariate dose-response analysis generally supports the
+proposed full dosage of 200 mg QW in patients with RRMM.
+
+19.4.2.4. ER (safety) Executive Summary
+
+The FDA’s Assessment:
+
+The Applicant’s E-R safety analysis is inadequate to support any conclusions regarding
+linvoseltamab E-R safety associations, and the E-R safety analysis is limited by three critical
+factors:
+
+. shorter duration of treatment and follow up at lower doses compared to doses (e.g.,
+
+205
+
+Version date: August 2023 (ALL NDA/BLA reviews)
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are
+completed by the Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5432800
+

@@ -1,0 +1,68 @@
+NDA 217686
+
+TRYVIO (aprocitentan)
+Aprocitentan Aprocitentan Aprocitentan
+
+12.5 mg 25 mg Any Dose? Placebo?
+N=243 N=713 N=724 N=444
+Parameter* n (%) n(%) n(%) n(%)
+
+Subjects treated, by duration, n (%)
+>2 weeks 239 (98.4) 698 (97.9) 710 (98.1) 439 (98.9)
+>4 weeks 191 (78.6) 687 (96.4) 699 (96.5) 397 (89.4)
+212 weeks 0 661 (92.7) 667 (92.1) 171 (38.5)
+224 weeks 0  633(88.8) 635 (87.7) 0
+236 weeks 0 391 (54.8) 461 (63.7) 0
+248 weeks 0 50 (7.0) 99 (13.7) 0
+252 weeks 0 1 (0.1) 5 (0.7) ie)
+
+Source: adex xpt and adsl. xpt, Software: R
+1 Exposure is calculated as the total exposure to treatment regardless of study part. In Part 2, exposure duration was unable to be
+calculated for eight subjects, as they were lost to follow-up and no treatment end date was recorded. The subjects’ IDs were 2}
+
+In Part 3, exposure duration was unable to be calculated for two
+subjects, as no treatment end date was recorded tor either subject. One subject was lost to follow-up ( ()6)), and
+‘one subject ( {©)(®)) could not remember date of last intake of study drug.
+
+2 Aprocitentan Any Dose’ includes all randomized subjects who received at least 1 dose of aprocitentan (12.5 mg or 25 mg) during
+Part 1, 2, or 3. For subjects who received 12.5 mg in Part 1 and 25 mg in Part 2 and potentially Part 3, the total exposure is added
+together.
+
+? Total exposure on placebo may not be continuous, as a subject may have been randomized to placebo in Part 1, received single-
+blind Part 2 aprocitentan 25 mg, and then rerandomized to placebo in Part 3.
+
+Abbreviations: N, number of subjects in treatment arm, n, number of subjects with given treatment duration; Q1, first quartile;
+
+Q3, third quartile; SD, standard deviation
+
+7.6. Safety Results
+
+7.6.1. Overview of Treatment-Emergent Adverse
+Events
+
+In Part 1 of the PRECISION study, TEAEs and serious AEs (SAEs) were reported in a higher
+proportion of aprocitentan-treated subjects than placebo-treated (Table 25). AEs leading to
+permanent discontinuation were also reported in a slightly numerically greater proportion of
+aprocitentan- as compared to placebo-treated subjects. Although AEs leading to dose interruption
+were reported in a slightly numerically greater proportion of subjects in the aprocitentan 12.5 mg
+dose group as compared to placebo, a similar finding was not seen at the higher dose.
+
+Table 25. Overview of Treatment-Emergent Adverse Events, Safety Population, Part 1, PRECISION
+
+Study
+Aprocitentan Aprocitentan
+12.5 mg vs. 25 mg vs.
+Aprocitentan Aprocitentan Placebo Placebo
+12.5 mg 25mg _‘~Placebo Risk Risk
+N=243 N=245 N=242 Difference Difference
+Event Category n(%) n(%) n(%) —(%)(95% Cl) (%) (95% Cl)
+SAE 8 (3.3) 8 (3.3) 3(1.2) 2.1(-0.6,4.7) 2.0(-0.6, 4.7)
+SAEs with fatal outcome 1 (0.4) 0 0 0.4 (-0.4, 1.2) 0 (0, 0)
+AE leading to permanent 7 (2.9) 5 (2.0) 2(0.8) 2.1(-0.3,4.4) 1.2 (-0.9, 3.3)
+
+discontinuation
+
+56
+Integrated Review Template, version 3.0 (05/25/2022)
+
+Reference ID: 5347932

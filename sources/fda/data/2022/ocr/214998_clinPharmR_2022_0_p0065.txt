@@ -1,0 +1,50 @@
+Clinical Pharmacology Review
+NDA-214998 Page 47
+
+Source: Mavacamten-er-report.pdf, SN0038, Figure 25
+
+Reviewer’s comments:
+
+e The Reviewers conducted independent simulations based on Applicant’s popPK and E-R
+models to verify the Applicant’s proposed dosing regimen for mavacamten. Refer to Section
+4.1.2 for more details. In general, the reviewers agree that the Applicant’s proposed dosing
+regimen is expected to achieve similar benefit-risk to the dose titration regimen in study 005
+(based upon similar incidence of LVEF <50% and VLVOT <30 mm Hg), and the benefit-risk
+is predicted to be maintained over 2 years in patients with CYP2C19 non-PM genotypes.
+
+e However, given the significant difference in PK characteristics in patients with PM OF
+CYP2C19 genotype vs. other genotypes, the Applicant’s proposed dosing regimen is expected
+to result in a high percent of patients with PM genotype experiencing LVEF<50% during the
+course of treatment. To reduce the risk of LVEF<50% in patients with PM of CYP2C19, the
+reviewers recommend a modified dosing regimen with a reduced dosing frequency for PM
+patients based on the FDA’s simulations. The modified dosing regimen for PM patients
+includes an initial treatment with once daily doses for 4 weeks and followed by a three-time-
+per-week (TIW, on Monday, Wednesday and Friday) dosing from Week 5. Dose levels and
+dose adjustment criteria are the same as proposed by the Applicant in the labeling. This
+modified dosing regimen for PM patients was supported by similar mavacamten PK exposure,
+response of VLVOT <30 mm Hg, and risk of LVEF <50% in PM patients as compared to non-
+PM patients. Refer to Section 4.5.2 Reviewer's Analysis for more details.
+
+©)
+
+. However, the reviewers do not agree
+with such a dosing regimen without prospective CYP2C19 genotype due to the following
+reasons: 1) the proposed ECHO-guided criteria were not studied in any of clinical studies,
+and 2) this complicated modified dosing regimen brings potential compliance issues for the
+majority of patients (non-PM patients) without a significant improvement in the control of risk
+of LVEF<50%.
+
+4.1.2 Reviewer’s Analysis
+
+Introduction: Patients with PM of CYP2C19 is expected to accumulate drug at a slower rate and
+achieve significantly higher exposure as compare to the other genotype groups. The performance
+of the Applicant’s proposed dosing regimen in patients with UM, RM, NM, IM, and PM of
+CYP2C19 could be different due to variations in systemic exposure.
+
+Objectives: To evaluate the need of differential dosing regimen in patients with different
+CYP2C19 genotypes.
+
+Methods: The simulation analysis used the Applicant’s final popPK and E-R models. For each
+proposed dosing regimen and monitoring plan, simulations were conducted in 200 virtual trials
+
+Reference ID: 4872643

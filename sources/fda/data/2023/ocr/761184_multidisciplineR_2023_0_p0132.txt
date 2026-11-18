@@ -1,0 +1,56 @@
+BLA 761184
+Ngenla (somatrogon)
+
+established if the lower limit of the two-sided 95% confidence interval (CI) for the mean
+difference “somatrogon—Genotropin” in the primary analysis was >-1.8 cm/year. Based on the
+Applicant’s justification of the NI margin, the Division finds an NI of -1.8 acceptable. Refer to
+Section 15.1.4 for the NI justification.
+
+If NI was confirmed, then a test for superiority of somatrogon over Genotropin would be
+conducted. Superiority would be claimed if the lower limit of the two-sided CI of the treatment
+difference is greater than or equal to 0 cm/year.
+
+Method for Handling Missing Data for the Primary Endpoint
+
+The Applicant used a multiple imputation method assuming missing not at random (MNAR)
+using SAS PROC MI with multiple imputation by fully conditional specification (FCS MI)
+(MNAR/FCS) method by treatment group to impute missing data at Month 12. The imputed
+values for the somatrogon group were reduced by 1.8 cm/year as a penalty. A total of 100
+imputed datasets were created. Using the ANCOVA model described above, the least square
+means and 95% confidence interval of the treatment difference for each imputed set was
+calculated. The results were then combined for evaluation with SAS PROC MIANALYZE. The
+amount of missing data were low for the primary endpoint at Month 12, about 1.3% (one in the
+somatrogon group and two in the Genotropin group), therefore, FDA was not concemed about
+the approach to handling of missing data.
+
+Subgroup Analysis
+
+An ANCOVA model was used to determine the treatment difference between somatrogon and
+Genotropin at 12 months for the following categories: age group, gender, region, race, and peak
+GH levels in pretrial stimulations tests.
+
+Secondary Efficacy Analyses
+
+The secondary efficacy endpoints, AHV after 6 months of treatment, change from baseline in
+height SDS at 6 months and 12 months, respectively, were analyzed using an ANCOVA model
+with its corresponding baseline for each endpoint as a covariate.
+
+Descriptive statistics was used to analyze the secondary endpoint, change from baseline in bone
+maturation at the end of 12 months, compared to screening bone age (calculated as bone
+age/chronological age).
+
+Method for Handling Missing Data for the Secondary Endpoints
+
+Missing data were imputed using a multiple imputation MNAR/FCS method, similar to the
+primary endpoint, however, but no penalty was added to the imputed values in the somatrogon
+group. Missing data were not imputed for change from baseline in bone maturation.
+
+6.2.1.4. Results of Analyses
+
+This section summarizes patient disposition, demographics, baseline disease characteristics, and
+primary and secondary efficacy results based on data submitted by the Applicant and verified by
+FDA.
+
+30
+
+Reference ID: 4924352

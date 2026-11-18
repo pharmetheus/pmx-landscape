@@ -1,0 +1,43 @@
+Table 1: Summary statistics for each treatment and paired differences for Drug Liking VAS Emax
+
+TRT Mean SD Min Qi Med Q3 Max
+dAMP 75.8 11.7 56 65.8 75.5 85.3 100
+LDX 79.2 12.6 58 65.8 79 88 100
+P 51.3 2.3 50 50 50 51.3 58
+T400 70.9 18.0 44 53 67 90.8 99
+T800 76.0 18.4 50 56.3 78.5 94.3 100
+dAMP - P 24.5 11.5 6 15 24.5 34 47
+dAMP -T400 49 18.1 -28 -10 5.5 20.8 46
+dAMP -T800 -0.2 17.7 -32 -16.3 -1.5 13.8 32
+LDX-P. 27.9 11.9 8 15 29 37.3 50
+LDX - 1400 8.3 17.2 -25 4 9 16.3 47
+LDX -T800 3.2 18.3 -29 -13.5 6.5 14.3 50
+T400-P. 19.6 17.8 6 2.25 16.5 40.5 46
+7800 -P 24.7 18.5 8 6 28 43.3 50
+
+The mean (SD) Drug Liking VAS Emax scores were 75.8 (11.7) for d-AMP (median = 75.5), 79.2 (12.6)
+for LDX (median = 79), 70.9 (18) for EB-1020 400 mg (median=53), and 76 (18.4) for EB-1020 800 mg
+(median =78.5). The median TEmax values were 2.5 hours and 3.25 hours for d-AMP and LDX, and 1.5
+
+and 2.25 for EB-1020 400 mg, and 800 mg, respectively.
+
+Figure 2 is the heat map display for Drug Liking VAS Emax scores by treatment.
+
+1
+t)
+
+5 10 15 20 25 30 35 40 45 50 55 60
+
+Pp
+Treatment
+
+_
+65 70 75 80 85 90 95 100
+
+Figure 2: Heat map display for Drug Liking VAS Emax by treatment
+
+Reference ID: 5793951
+
+‘SubjID
+
+13

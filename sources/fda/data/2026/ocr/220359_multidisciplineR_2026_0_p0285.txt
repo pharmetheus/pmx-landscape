@@ -1,0 +1,85 @@
+Model Structure
+
+Two compartment model with
+first-order elimination and 3 transit
+compartments to capture oral
+camizestrant absorption.
+
+Acceptable
+
+Model Parameter Estimates
+
+See Table 2, Population PK Report,
+Module 5.3.3.5.
+
+Acceptable
+
+Uncertainty and Variability
+(RSE, ITV, Shrinkage,
+Bootstrap)
+
+All structural PK parameter
+estimates had good precision with a
+RSE < 10%, whereas most of the
+covariate and random effects were
+estimated with an RSE < 20%.
+
+The IV for MTT (82.2%), CL/F
+(43.6%), and V2/F (43.2%).
+
+Acceptable
+
+BLQ for Parameter Accuracy
+
+M1 approach; the percentage of
+BLQs in the total observed data for
+camizestrant was 1.19%
+
+(70 observations). Minimum impact
+of BLQ on PK is anticipated due to
+the low BLQ percentage (<~5%).
+
+645 (12, 1.86 % BLQ) camizestrant
+samples from 151 patients post-dose.
+No BLQ during pre-first dose.
+
+Acceptable
+
+GOF, VPC
+
+For GOF, please see Section 7.2.4
+Figure H5, H6, and H7 in the PopPK
+report. For peVPC, please see
+Section 7.2.5, Figures 11-12 in
+SERENA-6 Population PK Report,
+Module 5.3.3.5.
+
+Acceptable
+
+Significant Covariates and
+Clinical Relevance
+
+See Section 7.2.6, Table 12 and
+Figures 15-17, and Section 7.2.7
+Figures 18-20 in the SERENA-6
+PopPK Report, Module 5.3.3.5.
+
+Acceptable
+
+Version date: March 1, 2024 (All NDA/BLA reviews)
+
+In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the Applicant,
+
+284
+
+which do not necessarily reflect the positions of the FDA.
+
+The FDA review was conducted in conjunction with other regulatory authorities under Project ORBIS. The FDA
+collaborated with Australia’s Therapeutic Goods Administration (TGA), Brazilian Health Regulatory Agency
+(ANVISA), Health Canada (HC), Singapore’s Health Sciences Authority (HSA), and Switzerland’s Swissmedic
+(SMC). While the conclusions and recommendations expressed herein reflect the FDA’s completed review of the
+
+application, the applications may still be under review at the other regulatory agencies.
+
+Reference ID: 5864804
+

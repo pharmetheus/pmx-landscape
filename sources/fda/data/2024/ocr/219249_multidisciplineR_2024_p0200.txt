@@ -1,0 +1,54 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 219249}
+{Inavolisib}
+
+Population PK Model: The final population PK model of inavolisib was a three-compartment
+model with first-order absorption, linear elimination, and a mixed proportional and additive
+error model. Effects of eGFR on CL, body weight and race on Vc and formulation on Ka were
+included. The parameter estimates for the final population PK model are presented in Table 48.
+
+Table 48: Final PK model Parameter Estimates for Inavol
+
+Parameters Point oe 98% CI | Shrinkage%
+Estimate
+
+Typical Values
+
+Clearance CL 8) 35 175 853-913 =
+Central volume Ve (2) 155 345 145166 =
+Peripheral volume Vp (L) 68.1 17.5 447-915 -
+Peripheral volume Vp2 (L) 314 7.08 270= -
+Absorption rate constant Ka (h'') 0.917 15.7 0.635—1.20 -
+Intercompartmental clearance Q (Lis) 730 455 683-817 =
+Intercompartmental clearance Q? (Uk) 01a ng 0106-0177 =
+GFR on CL (@GFRIE™) oad BO 0328=0 =
+Body weight on Ve ((weight/65)*) 0.635 44 0.456-0.815 -
+Race on Ve (Asian — exp“) 0.288 19.1 -0.396—-0.180 =-
+Fors mon Xa Phase VRespply- | 9.723 26 1.040.403 -
+Random Effects
+
+On CL 8.33 0.0688 0.0956 85
+On Ka 13.7 0.462—0.802 28.7
+OaVe 231 | 00368-00975 | _245
+On Vp 18 138-231 383
+Covariance CL'Ve 15.1 0.0428 0.0788 -
+Residual Error
+
+Proportional (%) 33.1 0.898 32.5- ~
+
+Additive (ng/mL) 0.0759 179 0.0493 0.102 ~
+
+‘Abbreviations: CL=clearance of the central compartment, Cl=confidence interval; CV=coefficient of variation; eGFR=
+‘estimated glomerular filtration rate; Ka=absorption rate constant; PK=pharmacokinetics; Q=intercompartmental clearance for
+the first peripheral compartment, Q?=intercompartmental clearance for the second pertpheral compartment; Ve=volume of
+distribution of the central compartment: Vp=volume of distribution of the frst peripheral compartment; Vp2=volume of
+dismbution of the second penpheral compartment.
+
+Source: Table 6 on page 40 of Applicant’s population PK report
+
+199
+Version date: June 2022 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5460147

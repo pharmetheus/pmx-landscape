@@ -1,0 +1,61 @@
+NDA 214487 CCX168 Page 10 of 35
+
+rat study to adjust for multiple testing, (FDA 2001 draft guidance for the carcinogenicity study design and
+data analysis).
+Reviewer’s findings:
+
+Table 4: Tumor Types with P-Values < 0.05 for Dose Response Relationship or the pairwise Comparisons
+Treated Groups and Control Group in Hamster.
+
+0 mg Veh. Omg 10 mg 30 mg 100 mg
+
+Cont (N=65) | Water (N=65) | Low (N=65) | Med(N=65) | High (N=65)
+
+Sex Organ Name Tumor Name P-Trend_ | P-VC vs. W _|P-VC vs. L| P- VC vs. M| P-VC vs. H
+[Male | Adrenal B-Cortical Adenoma 5/65 (37) 21/65 (51) 13/65 (41) | 7/65 (40) 8/65 (39)
+0.5392 0.0042* 0.04982 0.4350 0.3079
+Stomach B-Squamous Cell Papilloma | 0/65 (35) 3/64 (46) 1/65 (36) 1/65 (39) 4/65 (38)
+0.0164* 0.1779 0.5070 0.5270 0.0678
+[Female | Adrenal B-Benign Pheochromocytoma| 3/65 (35) 3/65 (33) 0/65 (34) 2/65 (33) 6/65 (35)
+0.02272 0.6347 1.0000 0.8031 0.2386
+Hemolympho- | M-Malignant Lymphoma- 0/65 (34) 3/65 (33) 0/65 (34) 1/65 (33) 3/65 (33)
+Reticular System | Pleomorphic 0.0172* 0.1139 NC 0.4925 0.1139
+Parathyroid B-Adenoma 9/62 (35) 18/59 (37) | 16/62(38) | 17/61 (38) | 12/60 (34)
+0.4391 0.03822 0.1096 0.0729 0.2735
+Uterus B-Adenoma 1/65 (34) 0/65 (31) 1/65 (34) 1/65 (33) 4/65 (33)
+0.04062 1.0000 0.7537 0.7463 0.1686
+Vagina B-Squamous Cell Papilloma | 0/65 (34) 2/65 (32) 3/65 (34) 2/65 (33) 4/65 (32)
+0.0610 0.2312 0.1194 0.2388 0.0499*
+B-Squamous Cell Papilloma/ | 0/65 (34) 2/65 (32) 4/65 (35) 2/65 (33) 4/65 (32)
+M-Squamous Cell Carcinoma 0.0972 0.2312 0.0606 0.2388 0.0499*
+
+& X/ZZ (YY): X=number of tumor bearing animals, YY=mortality weighted total number of animals, ZZ=unweighted total number of animals
+observed;
+
+NC = Not calculable
+
+*: Statistically significant at 0.005 and 0.025 level for common and rare tumor or 0.01 and 0.05 level for common and rare tumors for tests of
+dose response relationship and pairwise comparison, respectively.
+
+&: not Statistically significant at 0,005 and 0.025 level for common and rare tumor or 0.01 and 0.05 level for common and rare tumors for tests of
+dose response relationship and pairwise comparison, respectively
+
+Following the multiple testing adjustment method described above, this reviewer’s analyses showed a
+statistically significant increasing dose response relationships across the vehicle control and the treated
+groups for the incidence of benign squamous cell papilloma in the stomach, in male hamsters and the
+incidence of malignant lymphoma-Pleomorphic in the hemolymphoreticular system, in female hamsters
+(p-values = 0.0164, and =0.0172, respectively). The pairwise comparisons showed statistically significant
+increases in the high dose group for the incidences of benign squamous cell papilloma and the combined
+benign squamous cell papilloma and malignant Squamous Cell Carcinoma, in the vagina in female
+hamsters (p-values = 0.0499, and =0.0499, respectively).
+
+Also, this reviewer’s analyses showed Statistically significant in water controls group for the incidences
+of adrenal cortical adenomas, when compared to the vehicle control group in male hamsters (P=0.0042)
+
+4. Summary
+
+In this submission, the sponsor included reports of two animal carcinogenicity studies, one in regular rats and
+one in hamster. These studies were intended to assess the carcinogenic potential of CCX168 in rats and
+
+Reference ID: 4754346
+

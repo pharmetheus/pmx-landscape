@@ -1,0 +1,89 @@
+NDA 220848
+LIPFENDRA (enlicitide)
+
+rate constant (KA), CLmax/F, VC/F,
+VP/F, and Qmax/F.
+
+Model Parameter Estimates
+
+Table 31
+
+Uncertainty and Variability
+(RSE, ITV, Shrinkage,
+Bootstrap)
+
+RSE is reported for uncertainty, as no
+bootstrap was conducted due to the
+long run time of the popPK models.
+
+IIV was only estimated for KA,
+CLmax/F, and VC/F. Shrinkage
+estimates: 9.3% for ITV in CLmax/F,
+77.9% for ITV in VC/F, and 10.8% for
+
+The model
+estimates appear
+to resolve
+reasonably with
+good precision and
+does not appear to
+be
+
+IIV in KA. IIV on KA was only overparameterized.
+
+estimated in participants from the
+
+Phase 1 studies due to sparse sampling
+
+in Phase 2/3 studies.
+
+BLQ for Parameter Accuracy | The percentage of BLQ samples are Acceptable as
+
+<5%, thus they were not included there is an
+
+popPK analysis and treated as missing. | extensive amount
+of data above the
+BLQ and the
+
+amount excluded
+was less than 10%.
+
+GOF, VPC
+
+Figure 5
+
+The GOF plots are
+acceptable for
+describing the
+population mean
+characteristics of
+enlicitide.
+
+Significant Covariates and
+Clinical Relevance
+
+No covariates were clinically
+meaningful.
+
+Figure 6] (e.g., forest plot)
+
+The reviewer
+agrees. Given the
+benefit-risk
+assessment, the
+changes in PK
+based on patient
+factors are not
+expected to
+meaningfully
+impact the efficacy
+
+176
+
+Version date: February 10, 2025 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5833849
+

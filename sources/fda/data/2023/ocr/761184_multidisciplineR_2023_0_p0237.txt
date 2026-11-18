@@ -1,0 +1,116 @@
+BLA 761184
+Ngenla (somatrogon)
+
+Table 75. Parameter Estimates of the Applicant’s Final Allometric PopPK Model
+
+Parameter
+
+Fixed Estimate SE
+
+(%)
+
+cv
+(%)
+
+Shrinkage
+(%)
+
+CUF (U/hr)
+
+Vc/F (L)
+
+QF (L/hr)
+
+Vp/F (L)
+
+Ka (I/hr)
+
+Lag time (hr)
+
+Body Weight on CL/F & Q/F
+Body Weight on Vc/F & Vp/F
+Proportional Change in Apparent
+Clearance for Positive ADA
+Status
+
+Proportional Change in Apparent
+Clearance for Study CP-4-006
+Compared to Study CP-4-004
+Variance on CL/F
+Covariance on CL/F & Ve/F
+Variance on Ve/F
+
+Variance on Ka
+
+Variance on ADAT
+
+Cortelation (CL/F & Vc/F)
+Residual SD
+
+0.472
+10.9
+0.0135
+
+-0.258 0.01
+
+0.0661 0.00309
+
+0.295 0.0814
+0.35 0.124
+0.456 0.192
+
+0.449
+
+0.0301
+0.955
+0.815
+
+0.0172
+0.0125
+0.00836
+
+-3.876
+
+4.675
+
+27.6
+35.4
+42.1
+
+57.1
+1.31
+1.026
+
+76.0
+153
+17.5
+
+112.2
+
+26.0
+
+36.3
+57.6
+43.6
+
+Fixed=parameters being fixed; Estimate=parameters being estimated; SE=:
+ation; CL/F=apparent clearance from
+
+RSE=relative st
+
+andard error;
+
+central compartment; Ve/F=apparent central compartment volume; Q/F=apparent clearance
+between peripheral and central compartment; Vp/F=apparent peripheral compartment
+
+volume; Ka
+
+ng=nanogram; SD=standard deviation in log scale
+
+Source: Applicant's Population Modeling Analysis Report (Report number PMAR-EQDD-C031b-DP3-1093, page 39 of 231).
+
+Reference ID: 4924352
+
+135
+
+‘absorption rate constant; L=liter; mL=milliliter; hr=hour; ug=microgram;

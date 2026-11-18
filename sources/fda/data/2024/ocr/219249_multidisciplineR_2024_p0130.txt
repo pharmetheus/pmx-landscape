@@ -1,0 +1,67 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 219249}
+{Inavolisib}
+
+The FDA’s Assessment:
+FDA agrees with the Applicant’s assessment.
+
+8.2.4. Safety Results
+
+Deaths
+Data:
+Table 30: Applicant - Study WO41554 Summary of Deaths (Safety Analysis Set)
+InavotPalbotFuly PhotPalbotFuly
+N=162 N=162
+n(%) n(%)
+Total Deaths 43 (26.5%) 54 (33.3%)
+Due to progressive disease 32 (74.4%) 47 (87.0%)
+Due to adverse event, 6 (14.0%) 2(3.7%)
+Due to other reasons: 5 (11.6%) 5 (9.3%)
+Within 30 days after last dose 6 10
+Due to progressive disease 1 (16.7%) & (80%)
+Due to adverse event 5 (83.3%) 2 (20%)
+Due to other reasons: 0 0
+Beyond 30 days after last dose 36 45
+Due to progressive disease 31 (86.1%) 39 (86.7%)
+Due to adverse event, 1 (2.8%) °
+Due to other reasons: 4 (11.1%) 6 (13.3%)
+
+Source: t_dd_SAS_29SEP2023 41554; |_dd_SAS 29SEP2023_41554; Dataset: ADaM: ADSL
+
+Table 31: Applicant - Study WO41554 Grade 5 Adverse Events (Safety Analysis Set)
+
+Inave#PalbotFuly Pho#PalbotFuly
+Adverse Event N=162 N=162
+ni (%) n (%)
+Deaths due to Adverse Event
+Acute coronary syndrome 1 (0.6%) 0
+Cardiac arrest 0 1 (0.6%)
+COVID 19 1 (0.6%) 0
+COVID-19 pneumonia 0 1 (0.6%)
+Cerebral hemorrhage 1 (0.6%) oO
+Cerebrovascular accident 1 (0.6%) 0
+Gastrointestinal hemorrhage 1 (0.6%) o
+Death 1 (0.6%) 0
+
+Source: t_ae_ctc_SER_SAS_29SEP2023_41554 ; Dataset: ADaM: ADAE
+
+The Applicant’s Position:
+
+Pivotal Study WO41554: At the time of CCOD (29 Sep 2023), a total of 97 patients (29.9%) had
+died due to any cause. The proportion of patients who died in the Inavo+Palbo+Fulv arm
+(26.5%) was lower in comparison with the Pbo+Palbo+Fulv arm (33.3%). The most common
+cause of death in both treatment arms was progressive disease (Table 30). Grade 5 AEs were
+reported in 6 patients (3.7%) in the Inavo+Palbo+Fulv arm and 2 patients (1.2%) of patients in
+the Pbo+Palbo+Fulv arm (Table 31). None of the Grade 5 AEs were reported as related to any
+study drug by the investigator and no Grade 5 AE by PT was observed in >1 patient in either
+arm.
+
+Supportive Study GO39374: As of the CCOD (27 March 2023), 7 deaths have been reported in
+
+129
+Version date: June 2022 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5460147
+

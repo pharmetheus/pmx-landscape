@@ -1,0 +1,55 @@
+NDA Multidisciplinary Review and Evaluation
+NDA 220305
+Komzifti (ziftomenib)
+
+As shown in FDA Table 68, the predicted effects of esomeprazole on ziftomenib
+exposure were similar to the observed effects of rabeprazole on ziftomenib, when
+ziftomenib was administered 10, 12, and 14 h following multiple-dose administration of a
+PPI, indicating that staggered dosing did not help to minimize the interaction.
+
+The effect of esomeprazole on ziftomenib exposure was predicted to be minimal when
+the PPI was administered 2 h after ziftomenib administration, or when ziftomenib was
+administered 22 h after PPI administration, as indicated in FDA Table 68. However, we
+note that the PBPK analyses underpredicted the observed effect of rabeprazole on
+ziftomenib AUC by approximately 34% following once daily dosing of 10 mg
+rabeprazole for 5 days (FDA Table 68). This underprediction may result from the lower
+simulated pH compared to the observed and the pKa value of ziftomenib (FDA Figure
+13). Ziftomenib is a poorly soluble weak base with pK, values of 8.2 and 4.78. Its
+ionization properties around pH 4.78 are expected to significantly affect its
+pharmacokinetics. The dynamic pH model failed to capture the nocturnal rise of gastric
+pH, and the simulated pH values were below the observed gastric pH and/or the pKa
+value of ziftomenib after 12 h of PPI administration (FDA Figure 13). Therefore, the
+effects of esomeprazole on ziftomenib exposure may be also underestimated if
+ziftomenib is administered 14 h or 22 h after esomeprazole administration.
+
+The ziftomenib PBPK model failed to describe the ziftomenib plasma concentration-time
+profiles and did not capture its absorption phase in the absence of CYP3A inhibitors in
+cancer patients (FDA Figure 12).
+
+Taken together, the PBPK analyses do not support staggered dosing of PPIs to minimize the
+effects of PPIs on ziftomenib exposure.
+
+FDA Table 68. Simulated and observed effects of proton pump inhibitors on ziftomenib
+
+exposure
+Ziftomenib and | Timing of PPI Ziftomenib Ziftomenib + PPI GMR
+reaimens| | toatomenia, | AUCom | Gmux | AUG rr [Goan | AUCpar | Com
+ZFM 400mg SD | 2h before (obs.) | 2490 123 1170 374 | 047 | 03
+rabeprazole QD Fh before (sim.) | 2403 21 1490 504 | 063 | 0.24
+Ziftomenib 600 | 2h after 2871 | 465 2280 365 | 079 | 0.79
+eS 10h before 2871 465 1077 156 038 | 034
+ap 14d 12h before 2871 | 465 1357 205 | 047 | 0.44
+14h before 2371 | 465 1626 252 | os7 | osa
+
+Obs, observed; sim, simulated; sd, single dose; QD. Once daily dosing; d, day; PPI, proton pump inhibitor, AUCt/inf, area under the plasma
+concentration-time curve during a dosing interval or from 0 to infinity: Ci. peak plasma concentration.
+
+Source: Responses to FDA Clin Pharm IR dated July 28, 2025 (seq 0026)
+
+316
+Version date: March 1, 2024 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5694243

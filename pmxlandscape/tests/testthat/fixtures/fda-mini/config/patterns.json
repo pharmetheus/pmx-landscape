@@ -1,0 +1,45 @@
+{
+ "_note": "Test fixture: a subset of the FDA patterns.",
+ "patterns": {
+  "NONMEM": {
+   "group": "estimation",
+   "regex": "\\bNON-?ME[MN]E?S?\\b|(?i:\\bnonmem\\b)"
+  },
+  "Monolix": {
+   "group": "estimation",
+   "regex": "(?i:\\bmonolix\\b)"
+  },
+  "Phoenix NLME": {
+   "group": "estimation",
+   "regex": "Phoenix\\W{0,3}(?:NLME)"
+  },
+  "Stan/Torsten": {
+   "group": "estimation",
+   "regex": "\\bTorsten\\b|\\bStan\\b|\\b[rc]?[Ss]tan\\b|cmdstan"
+  },
+  "PsN": {
+   "group": "auxiliary",
+   "regex": "\\bPsN\\b|Perl.[Ss]peaks.NONMEM"
+  },
+  "SimBiology/MATLAB": {
+   "group": "auxiliary",
+   "regex": "\\bSimBiology\\b|\\bMATLAB\\b"
+  },
+  "Simcyp": {
+   "group": "pbpk",
+   "regex": "\\bSimcyp\\b"
+  },
+  "Phoenix WinNonlin (NCA)": {
+   "group": "nca",
+   "regex": "WinNonlin|Phoenix\\W{0,3}WNL"
+  },
+  "Phoenix (unspecified)": {
+   "group": "nca",
+   "regex": "\\bPhoenix\\b(?!\\W{0,3}(?:NLME|WinNonlin|WNL|AZ|Arizona))"
+  },
+  "popPK marker": {
+   "group": "marker",
+   "regex": "[Pp]opulation [Pp]harmacokinetic|\\b[Pp]op ?PK\\b|\\bPPK\\b"
+  }
+ }
+}

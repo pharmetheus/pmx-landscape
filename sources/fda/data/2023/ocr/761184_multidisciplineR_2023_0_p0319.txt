@@ -1,0 +1,43 @@
+BLA 761184
+Ngenla (somatrogon)
+
+PEN Year 2 (N=35)
+Positive ADA Negative ADA
+System Organ Class N=12 N=23
+Preferred Term n(%) n (%)
+Immune system disorders 0 1 (4.3)
+Food allergy 0 1 (4.3)
+Infections and infestations 5 (41.7) 6 (26.1)
+Upper respiratory tract infection 2 (16.7) 1 (4.3)
+Nasopharyngitis 1 (8.3) 0
+Respiratory tract infection viral 1 (8.3) 1 (4.3)
+Rhinitis 1 (8.3) 1 (4.3)
+Coxsackie viral infection 0 1 (4.3)
+Lower respiratory tract infection viral 0 1 (4.3)
+Pyoderma streptococcal 0 1 (4.3)
+Tonsillitis 0 1 (4.3)
+Injury, poisoning and procedural complications 0 1 (4.3)
+Clavicle fracture i?) 1 (4.3)
+Metabolism and nutrition disorders 1 (8.3) ()
+lodine deficiency 1 (8.3) ie}
+Neoplasms benign, malignant, and unspecified (incl cysts 1(8.3) 0
+
+and polyps) .
+
+Schwannoma 1 (8.3) (¢)
+Nervous system disorders 0 1 (4.3)
+Headache ie} 1 (4.3)
+Psychiatric disorders 1 (8.3) ie}
+Anxiety 1 (8.3) e)
+Respiratory, thoracic, and mediastinal disorders 1 (8.3) 0
+Respiratory failure 1 (8.3) 0
+
+Source: adae xpt; software, R. Data provided in the Major Amendment submitted on September 15, 2021
+Treatment-emergent adverse events defined as any AE onset occuming post-treatment.
+
+Abbreviations: ADA, antidrug antibody, N, numberof patients in treatment arm; n, number of patients with adverse event OLE,
+open-label extension; TEAE, treatment-emergentadverse event
+
+217
+
+Reference ID: 4924352

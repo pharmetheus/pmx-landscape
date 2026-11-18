@@ -1,0 +1,46 @@
+SAGE-217 (auranolone) Page 19 of 30
+Female Rats Poly-3 Test
+Omg Vehicle | 0 mg Water 0.2 mg 0.6 mg 1.5 mg
+Cont (N=70) | Cont (N=70) | Low(N=70) | Med (N=70) | High (N=70)
+Organ Name Tumor Name P-Trend |P-VCvs.W] P-VCvs.L | P-VCvs.M |P-VCvs.H
+Liposarcoma, Malignant 1/70 (34) 0/70 (32) 0/70 (29) 0/70 (34) 0/70 (33)
+1.0000 NC 1.0000 1.0000 1.0000
+Sarcoma, Undifferentiated, | 0/70 (33) 0/70(32) | 0/70(29) 1/70(34) | 0/7033)
+Malignant 0.5194 NC NC 0.5075 NC
+Multicentric Neoplasm | Hemangiosarcoma, 0/70 (33) 1/70 (32) 1/70 (29) 0/70 (34) 0/70 (33)
+Malignant 0.7442 NC 0.4677 NC NC
+Lymphoma, Malignant 0/70 (33) 0/70(32) | 1/70(29) 2/70 (34) 1/70 (33)
+0.3367 NC 0.4677 0.2537 0.5000
+Sarcoma, Histiocytic, 0/70 (33) 1/70 (32) 1/70 (29) 0/70 (34) 1/70 (33)
+Malignant 0.3158 NC 0.4677 NC 0.5000
+Nose Adenoma, Benign 1/70 (33) 0/70(32) | 0/70(29) 1/70(34) | 0/70(33)
+0.7710 NC 1.0000 0.7612 1.0000
+Ovaries Sex-Cord/Stromal Tumor, 0/70 (33) 0/70 (32) 0/70 (29) 1/70 (34) 0/70 (33)
+Benign 0.5194 NC NC 0.5075 NC
+Pancreas Adenoma, Acinar-Islet Cell] 1/70(33) | 0/702) | 0/70(29) 0/70(34) | 0/70(33)
+Benign 1.0000 NC 1.0000 1.0000 1.0000
+Adenoma. IsletCell, Benign] 1/70 (34) 2/70(32) | 0/70(29) 2/70 (34) 1/70 (33)
+0.3867 NC 1.0000 0.5000 0.7463
+Carcinoma, Islet Cell, 1/70 (33) 1/70 (32) 0/70 (29) 1/70 (34) 0/70 (33)
+Malignant 0.7710 NC 1.0000 0.7612 1.0000
+Adenoma / Carcinoma. Islet] 2/70 (34) 3/70(33) | 0/70(29) 3/70 (35) 1/70 (33)
+Cell, Benign / Malignant 0.5528 NC 1.0000 0.5140 0.8751
+Parathyroid Glands Adenoma, Benign 0/70 (33) 0/70 (32) 0/70 (29) 1/70 (34) 0/70 (33)
+0.5194 NC NC 0.5075 NC
+Pharynx Papilloma, Squamous Cell, 0/70 (33) 1/70 (32) 0/70 (29) 0/70 (34) 0/70 (33)
+Benign NC NC NC NC NC
+Pituitary Gland Adenoma, Pars Distalis, 53/70 (62) 54/70 (61) 52/70 (58) 56/70 (62) 48/70 (56)
+Benign 0.5984 NC 0.3407 0.2916 0.5906
+Carcinoma, Pars Distalis, 1/70 (34) 3/70(33) | 2/70(30) 3/70 (35) 1/70 (33)
+Malignant 0.5941 NC 0.4524 0.3180 0.7463
+Adenoma /CarcinomaPars | 54/70 (62) 57/70 (63) | 54/70(59) 59/70 (64) 49/70 (57)
+Distalis, Benign / Malignant 0.7082 NC 0.3125 0.2596 0.6738
+Skin Carcinoma, Squamous Cell, | 1/70 (34) 0/70 (32) 0/70 (29) 0/70 (34) 0/70 (33)
+Malignant 1.0000 NC 1.0000 1.0000 1.0000
+Carcinoma, 1/70 (33) 0/70(32) | 0/70(29) 0/70(34) | 0/70(33)
+Undifferentiated, Malignant 1.0000 NC 1.0000 1.0000 1.0000
+Fibroma, Benign 0/70 (33) 1/70 (32) 0/70 (29) 1/70 (34) 0/70 (33)
+0.5194 NC NC 0.5075 NC
+
+Reference ID: 5174472
+

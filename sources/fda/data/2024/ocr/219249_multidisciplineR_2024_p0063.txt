@@ -1,0 +1,55 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 219249}
+{Inavolisib}
+
+rat Pig-a assay is justified, as the AUC ratio of ©® to inavolisib was approximately 2.5%
+
+in rat plasma (Study 21-1488). In contrast, in humans, circulating metabolites were minimal
+with the majority (99.5%) of drug related material being inavolisib (See 2.6.4 Pharmacokinetic
+Written Summary, Section 5, and 2.7.2 Summary of Clinical Pharmacology Studies,
+
+Section 2.3.1.2) (Study 22-0069 [5.3.2.2, Other Human Biomaterials]; GP42652/5.3.4.1 Healthy
+Subject PD and PK/PD). Thus, inavolisib and Cay) (at clinically relevant circulating
+exposure) do not pose biologically relevant mutagenic risks in mammals in vivo.
+
+The FDA’s Assessment:
+FDA agrees with the Applicant’s position.
+
+Impurities (Including Mutagenic Impurities)
+
+The Applicant’s Position: Impurities in the drug substance (inavolisib) and drug product are
+controlled according to ICH Q3A and ICH Q3B, respectively. All specified and unspecified
+impurities in the drug substance are controlled with individual acceptance criteria lower than or
+equal to the ICH Q3A qualification threshold, except for impurities |
+
+©® Were qualified in a 28-day GLP toxicity study (15-3288/4.2.3.2
+Repeat-Dose Toxicity) that justifies higher limits than the ICH Q3A qualification threshold.
+Degradation products are controlled in the drug product with individual acceptance criteria
+lower than or equal to the ICH Q3B qualification threshold. Refer to Module 3, 3.2.P.5.6
+Justification of Specification(s).
+
+In silico mutagenicity assessments were conducted with inavolisib and impurities of inavolisib
+using standard in silico structure—activity relationship software programs Derek for Nexus®
+(Version 6.1.0) and Leadscope Statistical bacterial mutation model (Version 2) in combination
+with expert review. One impurity © was shown to be experimentally non-mutagenic
+in a 5-strain non—GLP compliant bacterial reverse mutation assay (Study 15-3392/4.2.3.7.6).
+
+The FDA’s Assessment:
+FDA agrees with Applicant’s position. Additional details are provided below.
+
+An internal CDER (Q)SAR consult showed that OM is predicted to be negative for
+
+bacterial mutagenicity. oO was predicted to be positive for bacterial mutagenicity by
+Derek Nexus 6.3.0. However, it was not mutagenic in a non-GLP compliant Ames assay, and it
+showed a negative prediction for mutagenicity by CASE Ultra 1.9.0.8 GT1.BMUT model 1.9.0.2
+and equivocal prediction by Leadscope Model Applier 2023.0.0-12 Bacterial Mut v2 model
+(LMA).
+
+©® was detected in higher amounts during process development and in development
+
+62
+Version date: June 2022 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5460147

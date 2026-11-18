@@ -1,0 +1,71 @@
+BLA Multi-disciplinary Review and Evaluation {BLA 761263, Lunsumio (Mosunetuzumab)}
+
+Table 53: Methods for Cross validation
+
+Bioanalytical method | Cross-Validation of Ani-CD20/CD3 TDB (BTCT4465A, mosunetuzumab)
+validation report Pharmacokinetic ELISA Method B20T3.003 (Genentech) and ELISA Method
+name and hyperlink | 1CD554 [using Incurred Samples from Clinical Study GO29781
+B20T3.003.CVR_O
+
+Changes in method No changes in method
+
+New validated assay | Assay range is unchanged
+
+range if any
+Validation parameters | Cross-validation performance Source location
+Standard calibration Cumulative accuracy (%bias) in standard NA NA
+
+curve performance calibrators from LLOQ to ULOQ
+during accuracy &
+
+prciainn Cumulative precision (%CV) from LLOQ to NA NA
+ULOQ
+QCs performance Cumulative accuracy (%bias) in 5 QCs NA NA
+during accuracy & | inter-bateh %CV NA NA
+precision
+Percent total error (TE) NA NA
+Cross-validation 100 post-dose incurred samples from study Tables 1, 2, and
+GO29781, an open-label, multicenter, Phase 1 3 of B20T3.003.
+trial evaluating the safety and pharmacokinetics CVR_O
+
+of escalating doses of BTCT4465<A, with or
+without single-dose obinutuzumab pretreatment,
+in patients with relapsed or refractory B-cell
+non-Hodgkin's lymphoma and chronic
+lymphocytic leukemia. These incurred samples
+were analyzed in the mosunetuzumab PK
+methods at | nd Genentech. The methods
+were found to be equivalent.
+
+Slope of the %Difference by mean -0.008+
+concentration 0.007
+%Difference of all samples (n= 100) 8.22%
+Bias for of the 90% confidence interval lower
+
+bound
+
+Bias for of the 90% confidence interval upper 11.34%
+bound:
+
+Difference by Quartile 5.05 to
+
+Bias range of the 90% confidence interval lower | 11.12%
+bound for quartiles 1, 2 and 3 combined, and 4:
+
+Bias range of the 90% confidence interval upper | 9.21 to
+bound for quartiles 1, 2 and 3 combined, and 4: | 15.72%
+
+List other parameters NA
+
+CV =coefficient of variation; CVR=cross validation report; LLOQ =lower limit of quantitation;
+NA=not applicable; TE=total error; ULOQ=upper limit of quantitation.
+
+Source: Table 2b in summary of biopharmaceutic studies and associated analytical methods
+
+195
+Version date: January 2020 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5100050

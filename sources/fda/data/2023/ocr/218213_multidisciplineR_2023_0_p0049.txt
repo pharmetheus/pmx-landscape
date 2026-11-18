@@ -1,0 +1,55 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 218213}
+Repotrectinib (BMS-986472)
+
+parameters. Repotrectinib inhibited ligand binding of adenosine Aza receptor and Ca** channel
+with ICso values of 6.3 uM and 3.5 uM, respectively; these correspond to 87-fold and 48-fold
+multiples of the mean Cmax of unbound repotrectinib observed (0.072 4M) after administration
+of repotrectinib at the intended clinical dose (160 mg BID). Repotrectinib inhibited LCK activity
+with an ICso value of 0.11 4M, which corresponds to a 1.5-fold multiple of the mean clinical Cmax
+of unbound repotrectinib. Inhibition of LCK has the potential to cause immunosuppression and
+increase the risk of infection, but a low incidence of lymphopenia has been reported in patients
+treated with repotrectinib (< 2%) and there is no evidence of increased immunosuppression or
+incidence of infection for this class of drugs and patient population.
+
+The FDA’s Assessment:
+
+The FDA generally agrees with the Applicant’s conclusions on the secondary pharmacology of
+repotrectinib, with additional pertinent details below. The Cmax of unbound repotrectinib was
+calculated by the FDA clinical and nonclinical team to be 0.092 uM at the recommended dose of
+160 mg BID; thus, the inhibition of adenosine Aza receptor, Ca2* channel, and LCK were at
+concentrations 68-, 38-, and 1.2-fold higher than the unbound Cmax in patients. Additional
+secondary kinase targets inhibited by repotrectinib at clinically relevant concentrations are
+listed in Table 5.
+
+Table 5. Secondary Kinase Targets for Repotrectinib at Clinically Relevant Concentrations
+
+Target | Repotrectinib ICso (nM) | Target | Repotrectinib ICso (nM)
+JAK2 1 TXK 3.2
+ARKS 45 SRC 5.3
+DDR1 5.7 FAK 7
+SNARK 13 HCK 16.4
+LcK 18.6 JAK1 18.8
+TYK2 21.6 TYK1 21.8
+DDR2 23 ACK1 24.1
+EPHA1 25 BLK 32.3
+GRK7 35.2 PYK2 29.9
+RET 47.1 JAK3 49.9
+EPHA8 50.2
+
+Safety Pharmacology
+
+Inhibition of the hERG potassium channel by repotrectinib was investigated using a stably
+transfected CHO cell line expressing the hERG mRNA at concentrations up to 30 uM. The ICso
+value for the inhibitory effect of repotrectinib on hERG potassium current was 18 4M, which
+corresponds to a 249-fold multiple to the clinical mean Cmax of unbound repotrectinib
+
+(0.072 LM). The inhibition of human Nav1.5 sodium channel and hCav1.2 calcium channel by
+repotrectinib was minimal (< 15% and 35% inhibition, respectively, at 30 uM). ECG
+
+48
+
+Version date: June 2022 (ALL NDA/ BLA reviews)
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5277412

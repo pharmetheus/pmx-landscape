@@ -1,0 +1,4 @@
+value,definition
+used,"The authors used the tool for their own analysis: fitting, estimation, simulation with their model, or the tool is the platform their new method runs in, or their software is built around the tool."
+comparator,"The tool is a benchmark or reference that the authors' own method or tool is compared with (for example ""compared with SCM in Monolix"", ""results agreed with NONMEM""), including a tool the authors run only to produce the reference results their method is compared with."
+mentioned,"The tool is named only in passing: background, a list of software, an example of what others use, future work."

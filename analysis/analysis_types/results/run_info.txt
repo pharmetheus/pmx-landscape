@@ -1,0 +1,6 @@
+run_date: 2026-09-29
+reviews left out: PubMed: 22, Europe PMC: 106
+Europe PMC papers naming a tool (reviews left out): 2273 ; with an own fit by one estimation tool, kept: 1918
+Europe PMC: 1918 items naming a tool, 0 without text, 38 without a type
+PAGE: 3221 items naming a tool, 0 without text, 60 without a type
+PubMed: 916 items naming a tool, 0 without text, 10 without a type

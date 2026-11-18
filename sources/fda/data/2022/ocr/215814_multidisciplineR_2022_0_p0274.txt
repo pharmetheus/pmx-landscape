@@ -1,0 +1,57 @@
+NDA Multi-disciplinary Review and Evaluation - NDA 215814
+REZLIDHIA, olutasidenib
+
+Table 94: Model Predicted Occurrence of CR/CRh across Exposure Quantile at Steady
+
+State
+Model-Predicted Incidence (95% CI)
+
+Binary Efficacy Endpoint P10 | P50 l P90
+Cavgss (ng/mL)
+
+CR/CRh [0.066 (0.037, 0.114) | 0.11 (0.08, 0.151) [0.175 (0.122, 0.244)
+Cwmaxss (ng/mL)
+
+CR/CRh | 0.066 (0.037,0.115) | 0.111 (0.08, 0.151) [0.174 (0.122, 0.243)
+Crminss (ng/mL)
+
+CR/CRh [0.065 (0.036, 0.112) _ | 0.111 (0.08, 0.152) [0.172 (0.121, 0.238)
+
+Abbreviations: Cavgs==average plasma concentration at steady state, CI=confidence interval: Cmaxss=maximum
+plasma concentration at steady state: Cminss=minimum plasma concentration at steady state: CR=complete
+remission; CRh=complete response with partial hematologic recovery: P10=10% quantile; P50=50" quantile:
+P90=90" quantile
+
+Source: Report FORM-PMX-FT2102-2633, Table 50
+
+20.4.3.3 E-R (safety) Executive Summary
+The FDA’s Assessment:
+
+FDA exploratory univariate analysis suggested a positive exposure-response relationship for >
+Grade 3 adjudicated PI identified differentiation syndrome (DIFATRG3) and treatment emergent
+> Grade 3 hepatoxicity. For DIFATRG3, the rate was 16.2% (6/37) for patients with
+mild/moderate hepatic impairment vs 2.6% (4/155) for patients with normal liver function.
+
+20.4.3.4 E-R (safety) Assessment Summary
+The Applicant’s Position:
+
+The number (% occurrence) of subjects with observed AE incidence are presented in Table 97
+and AE incidences stratified by Cavgss quartile are in Table 98. AE incidence appeared to be
+similar across exposure quartiles for all safety endpoints, except for a trend for differentiation
+syndrome endpoints and an inverse trend for hepatic AE endpoints.
+
+The relationship between olutasidenib exposure (steady-state Cavg, Cmax, and Cmin) and the
+probability of experiencing AEs was evaluated using univariate logistic regression analysis. Final
+model parameter estimates are presented in Table 99.
+
+Increased exposure was correlated with the increased probability of Pl-identified differentiation
+syndrome and drug-related PI-identified differentiation syndromebut was not correlated with
+severe (grade 3 or higher) cases of PI-reported differentiation syndrome.
+
+273
+Version date: January 2020 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “The Applicant’s Position” are completed by the Applicant
+and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5086659

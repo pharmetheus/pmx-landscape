@@ -1,0 +1,105 @@
+NDA/BLA Multi-Disciplinary Review and Evaluation
+
+Tovorafenib (DAY101)
+
+No. of Patients (total, and with
+individual PK)
+
+A total of 287 subjects had available CTCAE graded AE data, of which
+263 subjects had corresponding tovorafenib PK exposure data
+available. A total of 275 subjects had available hemoglobin, AST, and
+ALT data. A total of 220 subjects had available CPK data.
+
+-Age: median: 17.0 years (range: 1-94 years)
+
+-Weight: median: 59.3 kg (range: 9.20 — 186 kg)
+
+-n = 141 (53.6%) male
+
+-n = 196 (74.5%) White; n = 8 (3.0%) Black; n = 11 (4.2%) Asian; n = 3
+(1.1%) multiple; n = 9 (3.4%) other; n = 36 (13.7%) unknown
+
+Refer to population PK analysis for overall number of patients with
+organ impairment.
+
+N=3 (1.1%) 1 month - <2 years
+N=27 (10.3%) 2 - <6 years
+N=66 (25.1%) 6 - <12 years
+N=36 (13.7%) 12 - <18 years
+
+Population General
+
+Characteristics (,
+
+)
+Organ
+impairment
+Pediatrics
+Geriatrics
+
+Exposure Metrics Explored
+
+Not applicable
+) 4,
+
+Gniny Cmax AUG, and TAE
+
+Covariates Evaluated
+
+If a statistically significant E-R safety relationship was identified,
+then potential covariates listed in Table 74 were further investigated
+
+Final Model Parameters Summary Acceptability
+[FDA’s comments]
+Model Structure Exposure: Grade > 3 skin rash Yes
+
+model is provided as an example
+of an AE of particular clinical
+interest. Logistic regression
+describes the relationship between
+Cmin and probability of reporting
+Grade > 3 skin rash
+
+Model Parameter Estimates
+
+Parameter estimates of
+univariate E-R analysis for 9
+AEs was supplied by Reviewer
+(Table 77).
+
+Table 75 (Grade > 3 skin rash)
+
+Model Evaluation
+
+Numerical predictive check of the | Yes
+exposure-skin rash final models
+was used. For all quartiles of
+exposure, the observed rate of
+Grade > 3 skin rash was contained
+within the 95% Cl of the model-
+predicted rate, showing good
+agreement between the observed
+and predicted rates.
+
+Covariates and Clinical Relevance
+
+No covariates were selected in the | Yes
+Gnin-Grade > 3 skin rash model.
+
+Simulation for Specific Population
+
+Not applicable
+
+Visualization of E-R relationships
+
+Figure 12, Figure 13, Figure 26
+illustrate additional E-R
+relationships for Gr > 2 or Gr >
+3 AEs comprised of the 9
+commonly occurring AEs, Gr >
+
+Figure 25
+
+Reference ID: 5368881
+
+286

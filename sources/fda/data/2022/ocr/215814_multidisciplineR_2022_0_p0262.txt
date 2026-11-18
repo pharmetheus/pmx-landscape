@@ -1,0 +1,76 @@
+NDA Multi-disciplinary Review and Evaluation - NDA 215814
+REZLIDHIA, olutasidenib
+
+Figure 21. Covariate Effect in AML Patients Based on Post-hoc Analysis of the Output of
+Applicant’s Sep2022 PopPK Analysis
+
+glm(formula = d$CL ~ dSSEX + dSAGE + dSBWI + dSRACE + dSRENIMP +
+
+PIMP + dSBALT + d$BASTULN + dSBALB + dSBALP + dSBSCR +
+
+BBILI + dSBBILIULN + dSBCRCL + dSBEGFR + dSBECOG)
+
+as
+
+Deviance Residuals:
+Min 1¢ Median 3Q Max
+-1.5728 -0.5498 -0.0624 0.3878 3.9071
+
+Coefficients:
+Estimate Std. Error t value Pr(>/t/)
+(Intercept) 4.064e+00 3.348e+00 1.214
+
+daSSEX -5.300e-O1 2.517e-Ol -2.105
+aSAGE -4.201le-03 346e-02
+aSBWwr -7.030e-03 446e-03
+aSRACE 18e-03 334e-03
+aSRENIMP 433e-02 $Se-01
+
+v
+
+-143e-01
+4.350e-03
+
+e-O01l
+
+aSBASTULN
+
+daS$BALB
+
+daSBALP
+
+daSBSCR . 083e+00
+aSBBIL +321e-01
+
++242e-01
+
+aS$BCRCL
+
+aSBEGFR
+
+aSBECOG 9.93le-'
+
+Signif. codes: 0 ‘****’ 0.001 ‘**** 0.01 ‘**” 0.05 *.’ 0.1 *’ 1
+
+Source: FDA Reviewer’s Analysis.
+
+Notably, applicant’s analyses, as presented in Figure 20 and Figure 23, are misleading for gender
+effect on exposure due to inappropriately included health volunteers in the 95% confidence
+calculation which inflated the actual variability of CL in patients.
+
+20.4.2.3 PPK Review Issues
+The Applicant’s original population PK analysis described above was not adequate. As the original
+Applicant’s PPK analysis included only one of the 3 Phase 1 studies in health volunteers, and the
+hepatic impairment (HI) NCI classification was based on baseline ALT instead of AST. Upon
+teviewer’s request, the applicant updated the analysis by including 2 additional Phase 1 studies
+(2102-HVS-103 and 2102-HVS-106/fasted) and corrected HI NCI classification. All covariates in
+the previous model were retained. One additional covariate (moderate CYP3A4 inhibitor on CL/F)
+was found significant. Steady-state exposure boxplots by sex and hepatic function/sex also showed
+
+261
+Version date: January 2020 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “The Applicant’s Position” are completed by the Applicant
+and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5086659

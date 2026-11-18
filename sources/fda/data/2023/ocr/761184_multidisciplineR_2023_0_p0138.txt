@@ -1,0 +1,89 @@
+BLA 761184
+Ngenla (somatrogon)
+
+Table 12. Secondary Analysis: Annual Height Velocity at Month 6 in Full Analysis Set, Trial CP-4-
+
+006
+
+Somatrogon Genotropin
+Annual Height Velocity at 6 Months N=109 N=115
+Least-square means 10.76 10.19
+Treatment difference somatrogon-Genotropin 0.57
+95% Confidence interval -0.11, 1.25
+
+Source: Statistical Reviewer's analysis, adsl xpt, advs xpt
+
+Multiple imputation using SAS PROC MI with the FCS method
+
+Least-square means are from the analysis of covariance model with treatment, age group, gender, peak growth hormonelevels, and
+region as fixed factors and baseline height SDS as a covariate.
+
+Treatment mean difference was calculatedas somatrogon-Genotopin.
+
+Abbreviations: FCS, fully conditional method; SDS, standard deviation score
+
+Table 13. Secondary Analysis: Change in Height SDS at Months 6 and 12 in the Full Analysis Set, Trial CP-4-
+
+006
+Somatrogon Genotropin
+
+Parameter N=109 N=115
+Mean height SDS at baseline -2.94 -2.78
+Height SDS at 6 months
+
+LS Means 0.54 0.48
+
+Treatment difference somatrogon—Genotropin 0.06
+
+95% Cl -0.01, 0.13
+Height SDS at 12 months
+
+LS Means 0.91 0.86
+
+Treatment difference somatrogon—Genotropin 0.05
+
+95% Confidence interval -0.06, 0.16
+
+‘Source: Statistical Reviewer's analysis, adsi.xpt, advs xpt
+
+Multiple imputa ion using SAS PROC MI with the FCS method.
+
+Least-square means are from the analysis of covariance model with treatment, age group, gender, peak growthhormone levels, and regionas fixed
+factors and baseline height SDS as a covariate.
+
+‘Treatment mean difference calculated as somatrogon—Genotropin.
+
+Abbreviations: Cl, confidence interval, FCS, fully conditional method;LS, least-square; SDS, standard deviation score
+Secondary endpoints were not controlled for type | error. If included in labeling results should
+
+be descriptive only.
+
+Change in Bone Age
+
+Subjects with GHD have a delay in bone age relative to chronological age and the bone age is
+expected to increase with growth promoting therapies. Consequently, there is a potential risk of
+undue acceleration in bone age with GH replacement therapy.
+
+In study CP-4-006 as expected, there was a trend toward increased bone age at Month 12 and
+similar to the change observed with Genotropin treatment. However, the change from baseline
+was small, most likely reflecting the short duration of treatment. The small change also suggests
+that somatrogon treatment will not adversely advance bone age relative to chronological age.
+
+Table 14. Secondary Analysis: Change in Bone Maturation at 12 Months in the Full Analysis Set,
+
+Trial CP-4-006
+Somatrogon Genotropin
+Parameter N=109 N=115
+n 107 107
+Baseline 0.67 0.66
+Change at 12 months in bone maturation from baseline
+n 104 102
+Mean (standard deviation) 0.05 (0.09) 0.06 (0.10)
+Median (minimum, maximum) 0.03 (-0.18, 0.35) 0.04 (-0.18, 0.36)
+
+Source: Statistical Reviewer's analysis; advs.xpt, adpc xpt.
+Missing data not imputed.
+
+36
+
+Reference ID: 4924352

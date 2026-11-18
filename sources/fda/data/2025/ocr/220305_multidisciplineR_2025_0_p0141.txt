@@ -1,0 +1,54 @@
+NDA Multidisciplinary Review and Evaluation
+NDA 220305
+Komzifti (ziftomenib)
+
+FDA Figure 3. Swimmer Plots for Azole Administration in n=16 Patients in mITT
+Population Never on Strong CYP3A-inhibiting Azoles
+
+AZOLE
+
+UsUBLI
+
+MENDY
+Source: Reviewer analysis.
+
+PK: The FDA evaluated the effect of strong CYP3A-inhibiting azole use on ziftomenib PK in
+patients not receiving PPIs (to control for other known DDIs), as shown in
+
+FDA Table 23. In patients receiving strong CYP3A-inhibiting azoles, ziftomenib single-dose
+Cmax and AUC were 23% and 76% higher, respectively, and steady-state Cmax and AUC were
+118% and 145% higher, respectively, than in patients not receiving azoles. Although variability
+in the FDA analysis was high, results were consistent with PopPK and physiologically-based PK
+(PBPK) analyses submitted by the Sponsor demonstrating ~2-fold increase in ziftomenib
+exposure at steady state [Section 14.4.2, 14.4.4].
+
+FDA Table 23. Ziftomenib PK Parameters with Strong CYP3A Inhibitor Use
+
+Single-dose (C1D1) ?
+No CYP3A inhibitor Strong CYP3A-inhibiting azole
+= - GMR
+(n=8) (m=12)
+Dose-normalized 3.6
+AUC (ng*h/mL/mg) 25Cn) (167) 176
+Dose-normalized
+Can, (ag/inL/mg) 0.23 (182) 0.29 (149) 1.23
+Steady-state (C2D1)”
+No CYP3A inhibitor Strong CYP3A-inhibiting azole
+_ _ GMR
+(n=12) (n=81)
+‘AUC (ng*h/mL) 4915 (56) 12042 (51) 2.45
+‘Cmax (ng/mL) 262 (52) 571 (46) 2.18
+Data presented as geometric mean (geo % CV)
+* C1D1 NCA parameters in patients at all ziftomenib dose levels not receiving PPIs, * C2D1 PopPK parameters at
+the 600 mg QD dose level in patients not receiving PPIs
+GMR, geometric mean ratio
+
+Source: Reviewer analysis.
+
+140
+Version date: March 1, 2024 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5694243

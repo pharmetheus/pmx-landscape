@@ -1,0 +1,81 @@
+BLA 761151 Multi-disciplinary Review and Evaluation
+BIMZELX (bimekizumab-bkzx) injection, for subcutaneous use
+
+Result and Conclusion:
+
+PASI model: The final population PKPD model for PASI was a bounded integer (BI) model with a
+placebo effect model, described with maximum placebo effect (PL,,,,), and a treatment effect
+maximum effect (Emax) model of bimekizumab average concentration (Cav) over the dosing
+intervals added on the placebo effect. The time course of both effects was described by a mono
+exponential time-dependent effect parameter (time to reach half maximum effect (EFpair))-
+Covariates were tested on the population PKPD model for PASI model if indicated by n versus
+covariate plots in the base model. Covariates in the model were baseline WT, baseline PASI
+score and region on Emax, and baseline age and region on EF j,i. Study participants with higher
+baseline WT had a smaller reduction in PASI score than study participants with lower baseline
+WT. Study participants who were not from Central/Eastern European region had a smaller
+reduction in PASI score and faster onset of treatment effect than the study participants who
+were from Central/Eastern European region.
+
+The base population PKPD model for PASI included base and SP parameters. The placebo
+response was described with a mono-exponential placebo effect using PLax and EF pair
+parameters. The bimekizumab treatment effect was characterized with an Emax type effect
+added to PLmax- Normally distributed IIV was included on the base parameter, PLmax and Emax
+parameters, while SP, EF,,.;and EC50 were assumed to be log-normally distributed between
+individuals. Covariance terms were included between EF}, Emax and EC50. The parameter
+estimates of the base bimekizumab population PKPD model for PASI are presented in Table 84.
+
+Table 84: Parameter estimates of the base bimekizumab population PKPD model for PASI
+
+Run 170 (Condition number = 77.3)
+“Unit” Value——SORSE(@)
+
+Scaling parameter (SP) 0.196 2.10
+BASE 1.52
+
+PLimax 20.5
+
+EF yar Week 3.61
+
+Emax 2.29
+
+EC59 ng/mL 0.155 16.5
+
+IIV SP CV 0.463 5.07
+
+IIV BASE SD 0.209 4.72
+
+TV PLinax sD 0.515 147
+
+IV EF par CV 0.880 3.69
+
+Corr EF yaie-Emax Com. — -0.600 737
+
+TV Emax sD 0.715
+
+Cort EF pat-EC50 Corr. 0.158
+
+Corr Emax-ECso Com. -0.573
+
+HV EC59 cv 2.22
+
+Additive IIV and covariances are reported on the SD/Correlatioa
+seale (Vo?)
+
+RSEs of the IV parameters are calculated according to
+abs(SD/estimate)*100
+
+EF pote: time to reac!
+ILV: interindividual variability
+
+half maximum effect
+
+PLanx: maxinmun placebo effect
+‘SD: standard deviation CV: coefficient of variation
+Con: Correlation
+
+Source: Table 20 of PKPD report.
+
+240
+Version date: October 12, 2018
+
+Reference ID: 4982337

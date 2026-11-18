@@ -1,0 +1,59 @@
+NDA/BLA Multi-disciplinary Review and Evaluation — BLA 761384
+Telisotuzumab Vedotin
+
+Sampling Rich Study M14-237
+Schedule Sampling © Cycle 1: Day 1 Pre-dose and 30 minutes (+5 min) after the end of
+infusion, Day 2 (24+4 hours after end of infusion on Day 1), 4, 8,
+and 15 (+1 day)
+
+© Cycle 2, 3, > 4: Day 1 (+2 days)
+
+In ITT Study M14-239 (sparse PK sampling)
+Population © Cycle 1: Day 1 Pre-dose and 30 minutes (+5 min) after the end of
+infusion, Day 8 (+2 days)
+© Cycle >2: Day 1 Pre-dose and 30 minutes (+5 min) after the end
+of infusion
+e End of Treatment
+Covariates Static ¢ Age (continuous)
+Evaluated © Sex (male, female)
+
+© Race (White, Black or African American, Asian)
+
+© Japanese vs. Non-Japanese
+
+e Ethnicity (Hispanic or Latino, Not Hispanic or Latino)
+
+¢ Region (Asia, North America/Europe/Rest of the world)
+
+* Body weight (continuous)
+
+¢ Baseline albumin (continuous)
+
+© Renal function (categorical based on CrCL calculated by
+Cockcroft-Gault) (Normal, Mild, Moderate/Severe)
+
+© Hepatic function (categorical based on NCI Criteria) (Normal,
+Mild)
+
+¢ c-Met expression level (high, intermediate, missing)
+
+© — Stratified patient population (Sq NSCLC. Non-sq EGFR MT
+NSCLC, Non-sq EGFR WT NSCLC, Other [M14-237])
+
+© Treatment-emergent anti-drug antibody (ADA) status (positive,
+
+negative)
+© Neutralizing antibody (nAb) status (positive, negative/not
+evaluated)
+Time-varying | None
+Acceptability
+Final Model Summary [FDA's comments]
+Software and Version NONMEM (Version 7.5.1) Yes
+194
+
+Version date: March 1, 2024 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as "Data" and "The Applicant's Position" are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5590242

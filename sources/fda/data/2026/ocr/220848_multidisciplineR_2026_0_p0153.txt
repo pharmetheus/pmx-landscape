@@ -1,0 +1,63 @@
+NDA 220848
+LIPFENDRA (enlicitide)
+
+The Applicant’s Position:
+
+The percentages of participants with AEs leading to discontinuation of study intervention were
+comparable between the enlicitide and placebo groups. In both groups, about half of these AEs
+were determined by the investigator to be drug-related.
+
+The FDA’s Assessment:
+
+Tn the placebo-controlled pool, there were fewer TEAEs leading to treatment discontinuation in
+the enlicitide group compared to placebo overall. However, more subjects discontinued enlicitide
+due to myalgia and dizziness than placebo, as shown below, although the numbers were very
+small.
+
+No other imbalances were noted when evaluating the treatment discontinuations by trial.
+
+FDA Table 16. Treatment Emergency Adverse Events Leading to Discontinuation, Placebo-
+Controlled Pool, Trial P013 and P017
+Summary of Subjects With TEAEs Leading to Discontinuation
+
+Enlicitide
+20 mg Placebo
+N=2137| N=1070} Risk Difference
+Preferred Term n (%)| n (%)| RD (95% Cl) Forest Plot
+Any AE 64 (299) 43 (4.02) -1.02 (-2.4, 0.36) e
+Myalgia 4 (0.19) 0 (0.00) 0.19 (0,0.37) re
+Dizziness 3 (0.14) 0 (0.00) 0.14 (-0.02, 0.3) rs
+
+Source: OCS Analysis Studio, Safety Explorer.
+
+Filters: TRTO1A = "Enlicitide 20 mg" and SAFFL = Y (Enlicitide 20 mg); TRTO1A = "Placebo" and SAFFL = Y (Placebo); TRTEMFL
+="Y" and AEACN = ("DRUG WITHDRAWN") (Adverse Events).
+
+Risk Difference calculated by comparing the left column (Group 1) to the right column (Group 2).
+
+Forest Plot Scale: Lower limit = -2.4, Risk Difference reference line = 0, Upper limit = 0.37.
+
+Red forest plots indicate that the confidence interval does not cross the reference line.
+
+Only adverse events showing an unfavorable imbalance for enlicitide are shown above.
+
+Abbreviations: AE, adverse event; Cl, confidence interval; OCS, Office of Computational Science; RD, risk difference; TEAE,
+treatment-emergent adverse event
+
+Dose Interruptions, Delays, and/or Reductions Due to Adverse Effects
+
+The Applicant’s Position:
+
+Enlicitide was manufactured as a single dose without an option for dose reduction. Dose
+interruptions were allowed for any reason; however, due to the long half-life and minimal impact
+of temporary interruptions on outcomes, these interruptions were not tracked as safety endpoints
+for enlicitide studies.
+
+140
+
+Version date: February 10, 2025 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5833849

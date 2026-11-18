@@ -1,0 +1,41 @@
+BLA 761184
+Ngenla (somatrogon)
+
+e Graphical explorations of ETA versus covariates plot were used to identify potential
+covariates. This was repeated after each univariate addition of covariate into the model.
+Finally, after forward inclusion of covariates, covariances among between subject variance
+parameters were tested.
+
+14.3.3.2.4. Final PKPD Model
+
+The final PKPD model included time and somatrogon dependent increase in IGF-1 overtime.
+Parameter estimates of the final model are given in Table 90. Eta shrinkage for Emax, EC50,
+ETSLP were 29.1 %, 25.7 %, and 36.2 %, respectively. Goodness-of-fit plots for the final model
+are given in Figure 50. The final model conditional number was 23.48 and no model parameter
+estimates had large correlation (i.e., coefficient of correlation >0.9). Sex and baseline IGF-1 were
+the only covariates on Emax. No other covariate-parameter relations were identified.
+
+Table 90. Parameter Estimates of the Reviewer’s Final Population PAPD Model
+
+Parameter Description Estimate (RSE)
+OFV Objective function value 11774.851
+KOUT Rate constant of IGF-1 loss (1/h) 0.0261 (7%)
+Emax Maximum somatrogon effect 2.569 (7%)
+ECs Somatrogon concentration producing half of Emax (ng/mL) 50.29 (13%)
+POWER Sigmoidity parameter 2.747 (19%)
+TSLP Slope for time-dependent IGF-1 increase 0.001797 (10%)
+PROPERR Typical (population average) proportional residualerror 0.188 (5%)
+SEXEMAX Fold increase in Emax for female compared to male 1.327 (10%)
+BIGFEMAX Exponent for effect of baseline IGF-1 on Emax -0.3377 (19%)
+EEMAX Between subject variability for Emax 0.4033 (12%)
+EEMAX_cor_EECs Correlation between EEwax and EECs 0.2876 (71%)
+EECs Between-subject variability for ECso 0.9759 (11%)
+ETSLP Between-subject variability for TSLP 0.6878 (13%)
+EPROP Between-subject variability for PROPERR 0.4398 (16%)
+
+Source: Reviewer's independent analysis.
+Abbreviations: IGF-1, insulin-like growth factor-1; PKPD, pharmacokinetics/pharmacodynamics; RSE, relative standard error
+
+160
+
+Reference ID: 4924352

@@ -1,0 +1,59 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {BLA 761344}
+{Tarlatamab}
+
+response (DOR), and best tumor size response (BTSR,
+based on percentage change in sum of target lesion
+diameters from baseline)
+
+Study Included The dataset for ER analyses consisted of 412 subjects
+with small cell lung cancer (SCLC) receiving at least one
+dose of tarlatamab in the monotherapy setting in the
+phase 1 Study 20160323 and phase 2 Study 20200491
+
+Endpoint Primary: ORR
+Secondary: DCR, PFS, OS, DOR, BTSR
+
+No. of Patients (total, and with | 412
+
+individual PK)
+Population General Age median (range): 63 (32-82) year
+Characteristics Weight median (range): 73 (35-149) kg
+263 (64%) male
+286 (69%) White
+8 (1.9%) Black or African American
+100 (24%) Asian
+18 (4.4%) Other
+Pediatrics (if Not Applicable
+any)
+Dose(s) Included 0.003, 0.01, 0.03, 0.1, 0.3, 1, 3, 10, 30, 100 mg Q2W;
+200 mg Q3W
+Exposure Metrics Explored The PK exposure metrics, including Cavg, first cycle: Ctrough first
+(range) cycle ANd Cmax,first cycle. Were derived from the population
+
+pharmacokinetic analysis for tarlatamab based on the
+model-predicted concentration-time profiles depending
+on the respective subjects dose, regimen, and PK
+covariates. These exposure metrics were comparable to
+steady state exposures.
+
+Covariates Evaluated Age, body weight, sex, race, ethnicity, liver metastasis,
+brain metastasis, smoking status, number of prior lines of
+anticancer therapy, prior PD-1 or PD-L1 inhibitor theray,
+sum of target lesion diameters, presence of ADA, chronic
+kidney disease category (CKD) based on estimated
+glomercular filtration rate, National Cancer Institute
+Organ Dysfunction Working Group (NCI-ODW6G) criteria
+
+for hepatic dysfunction.
+Final Model Parameters Summary Acceptability
+[FDA’s comments]
+Model Structure Cox regression model: PFS, Acceptable
+OS, DOR
+304
+
+Version date: June 2022 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5382024

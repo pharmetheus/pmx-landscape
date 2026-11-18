@@ -1,0 +1,70 @@
+BLA 761195
+Vyvgart (efgartigimod alfa - feab)
+
+logistic regression without the baseline value as a covariate. The results were consistent with the
+primary analysis of QMG (Table 11).
+
+Table 11. QMG Responders in the AChR-Ab Seropositive Population During Cycle 1
+
+Efgartigimod Placebo Efgartigimod vs. Placebo
+
+Analysis Type nIN (%) n/N (%) Odds Ratio (95% Cl) P-value
+Primary analysis
+
+QMG responder 41/65 (63.1) 9/62 (14.5) 10.842 (4.179, 31.200) __<0.0001
+Sensitivity analysis (with imputed baseline value for 2 subjects)
+
+QMG responder 41/65 (63.1) 9164 (14.1) 10.842 (4.179, 31.200) __<0.0001
+Sensitivity analysis (without baseline value as a covariate)
+
+QMG responder 41/65 (63.1) 9164 (14.1) 11.707 (4.527, 33.621) __<0.0001
+
+Source: statistical reviewer.
+Abbreviations: AChR-Ab, acetylcholine receptor-antibody; Cl, confidence interval; QMG, Quantitative Myasthenia Gravis; N, number
+of subjects in treatment group; n, number of subjects with given characteristic
+
+A statistically significantly higher percentage of MG-ADL responders was observed in the
+efgartigimod group compared to the placebo group during cycle 1 in the overall population
+(p<0.0001; logistic regression testing). The MG-ADL responder criterion was met in 57 (67.9%)
+subjects in the efgartigimod group compared to 31 (37.3%) subjects in the placebo group, and
+the OR (95% CI) was 3.70 (1.85; 7.58) (Lable 12). The result for the overall population ' was
+driven by the AChR-Ab seropositive population
+
+(see Section 15 for
+
+further details).
+Table 12. MG-ADL Responders in the Overall Population During Cycle 1
+
+Efgartigimod Placebo Efgartigimod vs. Placebo
+Analysis Type n/N (%) n/N (%) Odds Ratio (95% Cl) P-value
+MG-ADL responder 57/84 (67.9) 31/83 (37.3) 3.699 (1.854, 7.578) 0.0006
+
+Source: CSR Table 21, confirmed by statistical reviewer.
+Abbreviations: AChR-Ab, acetylcholine receptor-antibody; Cl, confidence interval; MG-ADL, Myasthenia Gravis-Specific Activities of
+Daily Living; N, number of subjects in treatment group; n, number of subjects with given characteristic
+
+The mean (SE) percentage of time AChR-Ab seropositive subjects were reported to be showing a
+CMI was 48.714 (6.163) in the efgartigimod group compared to 26.649 (6.316) in the placebo
+group (Table 13). The difference between the efgartigimod group and placebo group was
+statistically significant (p=0.0001; analysis of covariance).
+
+Table 13. MG-ADL Total Score Clinically Meaningful Improvement Percentage of Time in the AChR-
+Ab Seropositive Population, mITT Analysis Set
+
+Efgartigimod Placebo Efgartigimod vs. Placebo
+Parameter (N=65) (N=64) Difference P-value
+LS mean (SE) 48.714 (6.163) 26.649 (6.316) 22.065 (5.616) 0.0001
+(95% Cl) (36.517, 60.912) (14.148, 39.151) (10.949, 33.181) :
+
+Source: CSR Table 22, confirmed by statistical reviewer.
+Abbreviations: AChR-Ab, acetylcholine receptor-antibody; Cl, confidence interval; MG-ADL, Myasthenia Gravis-Specific Activities of
+Daily Living; mITT, modified intent-to-treat; N, number of subjects in treatment group; SE, standard error
+
+The median time to qualification for retreatment (Table 14) was 8 days in the placebo group and
+35 days in the efgartigimod group, and the difference between the groups was not statistically
+significant (p=0.2604; log-rank test).
+
+29
+Integrated Review Template, version 2.0 (04/23/2020)
+
+Reference ID: 4907061

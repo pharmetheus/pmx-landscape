@@ -1,0 +1,64 @@
+NDA 217388
+Wainua (eplontersen)
+
+Figure 25. Final Model ETA-Covariate Plots: ICs9; Categorical Covariates
+
+=e ETT Wey Wea ET
+2 | 2 +
+8
+8 —— a + days Fs a
+SS ae eaannnna a
+E —_—| Cd “
+2 v
+é Y
+Sex
+eT
+2
+2
+8 f......fRL. f ]
+£ |
+2
+>
+¢ e
+Region
+
+Source: Figure 116 on Page 255 of ppk01-final-report pdf.
+
+The dashed blue lines represent zero, the thick solid black lines represent the median of the data, the hinges (top and bottom of the
+boxes) represent the 25 and 75" percentiles (ic. IQR), the top and bottom whiskers extend to the largest and smallest values that are
+within 1.5 * IQR of the hinges respectively, and values outside the whiskers are represented with dots. The blue shaded region is the
+approximate 95% CI for the median, calculated as +1.58 x IQR/ Vn. Box widths are proportional to the square-roots of the number of
+observations in the groups. N denotes the number of subjects in each subcategory. Note: time-varying categorical covariates such as
+‘concomitant drug use is not included in the plots.
+
+Abbreviations: Cl, confidence interval, ETA, estimate of interindividual variability; |Czo, half-maximal inhibitory concentration;
+IQR, interquartile range; N, number of subjects
+
+Figure 26. Final Model ETA-Covariate Plots: ICs9; Continuous Covariates
+
+y=027-00061-x, # =D00501 y=-038+-00%3-x, #=0.00807
+
+ETAICSO
+ETAICSO
+
+@
+Age (years)
+
+ETAICSO
+
+7 7 EY By =
+Baseline TTR (mg/dl)
+‘Source: Figure 117 on Page 256 of ppk01-final-report pdf.
+Note:
+
+« The solid blue lines represent zero.
+
+The solid red lines represent the trend in the data (Loess smooth).
+
+« The solid green lines represent a linear regression with the corresponding regression model shown above in each panel.
+Abbreviations: ETA, estimate of interindividual variability; ICso, half-maximal inhibitory concentration
+
+168
+Integrated Review Template, version 3.0 (05/25/2022)
+
+Reference ID: 5299039

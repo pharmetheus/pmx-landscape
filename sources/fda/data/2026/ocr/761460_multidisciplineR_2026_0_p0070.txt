@@ -1,0 +1,58 @@
+NDA/BLA Multi-disciplinary Review and Evaluation - BLA 761460
+Pivekimab Sunirine (IMGN632)
+
+the PK parameters using non-compartmental analysis. Additionally, the FDA determined that
+the bioanalytical assays for the ADC and the total antibody were not sufficiently sensitive to
+detect plasma concentrations at the recommended dosage and that the total antibody assay was
+not properly validated. PMRs have been issued to develop a more sensitive ADC assay with
+adequate PK sampling procedures as part of the PMRs for renal impairment and CYP3A
+inhibitors.
+
+The PK parameters for volume of distribution (Va) and clearance (CL) in the labeling differ from
+the parameters listed by the Applicant above, which are derived from population PK analysis.
+However, an NCA analysis of the observed PK data was used to generate Va and CL in labeling
+(5.4 L and 1.8 L/h, respectively).
+
+The FDA notes that the half-life for PVEK at the recommended dosage of 1.5 hours after the end
+of infusion is much shorter than those for other ADCs, which typically range from days to weeks
+(Mahmood, 2021). The Applicant attributed this to the low recommended dosage and target-
+mediated drug disposition (TMDD), which is supported by the non-linear PK profile of PVEK at
+lower dosages and high binding affinities of PVEK to CD123-expressing CD123-expressing
+human cell line HNT-34 in vitro (Ka = 104 pM).
+
+Refer to Section 3.1 for more detailed information on the PK data.
+
+Immunogenicity
+
+The immunogenicity data provided by the Applicant are from all patients in CADENZA, which
+included patients with BPDCN, AML, ALL, and other B-cell lymphomas. The FDA
+recommended inclusion of immunogenicity information from only patients with BPDCN from
+CADENZA in labeling. The patients with BPDCN had a higher positive ADA incidence (24% vs
+15%) and a higher positive NAb rate (78% vs 70%) compared with the overall patient population
+in CADENZA (Table 11). The discrepancy between the ADA-positive numerator and the NAb-
+positive denominator was attributable to one ADA-positive patient for whom NAb sampling was
+not available for analysis. The FDA generally agrees that ADA and NAb status did not impact
+efficacy, safety, or PK.
+
+Table 11. FDA — Summary of Positive ADA and NAb Incidence in CADENZA by Overall
+Population vs BPDCN Patients.
+
+ADA category Overall Population, BPDCN, n/N (%)
+n/N (%)
+
+ADA positive 24/165 (14.5) 19/80 (23.7%)
+
+NAb positive 16/23 (69.6) 14/18 (77.8%)
+Source: Adapted from Table 4 and Table 5 in the Applicant’s Immunogenicity Summary.
+6.2.2 General Dosing and Therapeutic Individualization
+6.2.2.1 General Dosing
+Data:
+
+69
+
+Version date: February 10, 2025 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as "Data" and "The Applicant's Position" are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5805215

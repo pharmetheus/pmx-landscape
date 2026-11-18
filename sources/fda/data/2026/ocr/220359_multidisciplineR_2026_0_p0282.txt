@@ -1,0 +1,55 @@
+(2) Is there a need to make dose adjustment for patients receiving ribociclib in
+combination with camizestrant given the DDI between camizestrant and
+ribociclib?
+
+Context of Population PK modeling was used to: (1) characterize the PK of camizestrant
+use as monotherapy and in combination with CDK4/6 inhibitors across Phase I,
+Phase II, and Phase III studies; (2) evaluate the impact of intrinsic and
+extrinsic factors on camizestrant PK variability; (3) derive individual predicted
+exposure metrics (AUCss, Cmaxss, Cminss) for use in exposure-response
+analyses for efficacy (PFS, ORR, CBR24, biomarkers) and safety
+(bradycardia, visual effects, any AE Grade >1); and (4) support dosing
+recommendations in special populations and in the context of drug-drug
+
+interactions.
+
+Decision Low
+
+consequence
+The recommended dosage of camizestrant 75 mg QD in combination with a
+CDK4/6 inhibitor was studied in clinical trials, with modeling and simulation
+providing supportive rather than primary evidence for dose selection.
+
+Model Low
+
+influence
+
+Model risk Low
+
+19.4.2. Population PK Analysis
+19.4.2.1. Executive Summary
+
+The FDA’s Assessment:
+
+The effects of baseline body weight (34.2-150 kg), Hispanic/Latino ethnicity, and baseline
+creatinine clearance (22.8 to 303 mL/min) were not considered to be clinically meaningful.
+Concomitant use of abemaciclib or palbociclib did not have a statistically significant impact on
+camizestrant PK. However, the population PK demonstrates that ribociclib increases
+camizestrant exposure by 2-fold which may increase cardiac toxicities such as bradycardia and
+QTc interval prolongation.
+
+The Applicant’s dataset and analyses were reviewed and verified by the pharmacometrics
+
+281
+Version date: March 1, 2024 (All NDA/BLA reviews)
+
+In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the Applicant,
+which do not necessarily reflect the positions of the FDA.
+
+The FDA review was conducted in conjunction with other regulatory authorities under Project ORBIS. The FDA
+collaborated with Australia’s Therapeutic Goods Administration (TGA), Brazilian Health Regulatory Agency
+(ANVISA), Health Canada (HC), Singapore’s Health Sciences Authority (HSA), and Switzerland’s Swissmedic
+(SMC). While the conclusions and recommendations expressed herein reflect the FDA’s completed review of the
+application, the applications may still be under review at the other regulatory agencies.
+
+Reference ID: 5864804

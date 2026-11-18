@@ -1,0 +1,52 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 215833}
+{Tradename / lutetium (*7Lu) vipivotide tetraxetan}
+
+attributed to the non-blinded trial design, with patients withdrawing consent in the control arm
+when they realized they were not going to receive the investigational therapy. The Applicant
+implemented corrective actions during the trial and withdrawal of consent decreased
+considerably as a result. As noted earlier in this review, rPFS was prospectively analyzed in the
+analysis population of patients randomized after these measures were implemented (PFS-FAS
+analysis set). This PFS-FAS analysis set served to mitigate, but did not eliminate, the extent of
+withdrawal which could bias the analysis of rPFS in particular, because rPFS data could not be
+collected for the patients with early dropout. Table 21 notes approximately 20% more
+censoring of rPFS in the control arm compared to the investigational arm and adequate tumor
+assessments were not available for 18% of the control arm patients compared with only 1.3%
+on the PLUVICTO arm. While sensitivity analyses support the robust statistical difference in rPFS
+favoring PLUVICTO, asymmetric censoring creates uncertainty around the true magnitude of
+delay in tumor progression which is problematic for an endpoint that relies heavily on the
+magnitude of effect to support clinical meaningfulness.
+
+OS was analyzed in all randomized patients (FAS analysis set). This is because in addition to
+improvementin dropout with the corrective measures, the effect of early withdrawal on
+survival was further mitigated by the ability to ascertain survival status where feasible. Patients
+could still be followed for overall survival via public registries if they dropped out, and this was
+specified in the site specific informed consent. Thus, a substantial number of patients who
+withdrew consent early still had available OS data used in the primary analysis (OS FAS analysis
+set) which mitigated, although did not completely eliminate, asymmetric censoring for OS. FDA
+further investigated the concern that asymmetric censoring due to withdrawal of consent could
+impact efficacy results. In the FAS for OS, 15 patients (2.7%) were censored due to withdrawal
+of consent in the 177Lu-PSMA-617 arm compared to 33 patients (11.8%) in the BSoC arm.
+Among this subset of patients, the observed median time from randomization to date of
+censoring due to withdrawal of consent was 8.4 (range: 1 - 18.6) months in the 17”7Lu-PSMA-617
+arm and 0.7 (range: 0.03 - 8.1) months in the BSoC arm.
+
+Several sensitivity analyses were conducted by the Applicant to assess the impact of censoring
+due to drop-outs for both OS and rPFS results in the FAS and PFS-FAS populations, respectively.
+
+Table 23: Sensitivity Analyses of OS and rPFS Assessing Impact of Censoring Due to Drop-Outs
+
+Os (FAS) Scenario HR (95% Cl)
+Analysis per protocol Censoredas it is 0.62 (0.52, 0.74)
+Extreme case The seleted extreme case 0.66 (0.55, 0.79)
+scenario
+Multiple imputation under Hazard in BSC/BSoC arm 0.8 (0.67, 0.96)
+best patients based on best 20% patients
+across both arms
+
+116
+Version date: January 2020 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 4957011

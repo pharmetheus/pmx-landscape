@@ -1,0 +1,44 @@
+O17: CL ~ TGGTTT: y 1.20, fixed - -
+
+0: Vi) T7i oi82 671
+Ou: Vi ~ Study FO1/F02 0.583 0.142 24.4
+01s: Vi ~ IGGTIT: Emax 3.97 0.309 7.77
+— ace 00 fixed Se | os
+O20: Vi~ TGGTTT: y 0.420, fixed - -
+
+0.218
+
+0.157
+
+0s: Qs (L/hr) 0.00240
+00: Q3 ~ Study FO1/F02 0.000292
+06: Vs L) 836
+
+1014: V3 ~ Study FO1/FO2 0.0000874
+
+Inter-Individual Variab'
+
+new 0.729 (10.2) 29.8
+A(ci.v1 0.267 27.8
+nvr 0.146 (5.13) 145
+0.0745 (27.6) 45.6
+
+3.56 (27.6)
+
+ne? 0.08014 0.00575 7.18
+
+Residual Variability
+
+Prop for Study F01/F02 o; 0.0575 0.0039 6.90
+Add for Study F01/FO2 a2” 914 378 414
+Prop for Study F20/F50 o3* 0.0838 0.00359 4.30
+
+Add for Study F20/F50 o,” 4520 "1100 243
+Source: Table 12-1 of applicant's PPK report with Corrections by FDA reviewer.
+
+For the IV infusion, the absolute bioavailability (F1) was set as 1 with occasion as covariate:
+F, = 1*EXP(ETA(S5)*OC1 + ETA(6)*OC2 + ETA(7)*OC3 + ETA(8)*OC4)
+
+48
+
+Reference ID: 5170172

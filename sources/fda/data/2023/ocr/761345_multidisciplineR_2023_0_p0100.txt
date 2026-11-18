@@ -1,0 +1,57 @@
+NDA/BLA Multi-disciplinary Review and Evaluation BLA 761345
+elranatamab
+
+Table 18: FDA — Simulated Elranatamab Crrough for Dose Delay Scenarios
+
+Last Dose Time Since the Last | Action for Next Dose Simulated Ctrough | Reference
+Administered | Dose Administered (ng/mL) at End of | Ctrough (ng/mL)
+Dose Delay
+Step-up dose 1 | 2 weeks or less (<14 | Continue at step-up dose 2 | 186 (LLOQ, 699) 207 (64, 681)
+(12 mg) on days) (32 mg)
+c1D1
+Step-up dose 2 | 2 weeks or less (£14 | Continue at 76 mg 786 (130, 2084) 1038 (317, 3641)
+(32 mg) on days)
+c1p4 <2 to <4 weeks (15 | Restart at step-up dose 2 430 (LLOQ-1868) | 207 (64, 681)
+days to <28 days) _| (32 mg).
+Frist treatment | 6 weeks or less (<42 | Continue at 76 mg 861 (LLOQ-4155) 1037 (317, 3641)
+dose (76 mg) days)
+on C1D8 8 weeks or less (<56 | Continue at 76 mg 529 (LLOQ-3295) | 1037 (317, 3641)
+days)
+<8to<12(56days | Restart at step-up dose 2 226 (LLOQ-2177) | 207 (64, 681)
+to <84 days) (32 mg)
+76 QW C1D15_ | 8 weeks or less (<56 | Continue at 76 mg 1188 (LLOQ-5950) | 1037 (317, 3641)
+and onward days) or higher
+and Q2W <8 to < 12 weeks Restart at step-up dose 2 388 (LLOQ-3594) 207 (64, 681)
+C701 and (56 days to <84 (32 mg) or higher
+onward days)
+
+Crrough = trough concentration; QW = every week; Q2W = every 2 weeks; LLOQ: 50 ng/mL
+Source: IR Response received 16 June 2023, Tables 2-12
+
+The PK-based criterion was met for all but two dose delay scenarios:
+
+e Continuation of 76 mg after a 2 weeks (14 days) dosing interval following step-up dose 2 (32
+mg) on C1D4 failed to meet the PK-based criterion and the predicted Ctrough Was
+approximately 75% of reference value. Such dose delay scenario was supported by safety
+data observed in clinical trial (Table 17).
+
+e Continuation of 76 mg after a 8 weeks (56 days) dosing interval following the first treatment
+dose of 76 mg also failed to meet the PK-based criterion and the predicted Ctrough was
+approximately 50% of reference value, while PK simulations suggested that a 6 weeks (42
+days) dosing interval can meet the PK-based criterion and the predicted Cirough Was
+approximately 83% of reference value(Table 18). Based on the totality of data including PK
+simulation and clinical data, FDA recommended a more conservative approach, to allow
+patients to proceed with the next planned treatment doses after any treatment dose at 76
+mg if dose delay is < 42 days. Due to limited clinical data (7 patients) for a dose interval > 42
+days between any full treatment doses of 76 mg, FDA also provided a statement for
+prescribers to consider the benefit-risk of restarting elranatamab for a dose delay of more
+than 42 days due to an adverse reaction.
+
+97
+Version date: June 2022 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5226136
+

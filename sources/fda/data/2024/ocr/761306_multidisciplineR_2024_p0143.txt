@@ -1,0 +1,70 @@
+BLA 761306 Multi-disciplinary Review and Evaluation
+Ebglyss (lebrikizumab) injection
+
+Sepsis 1(0.2) | o(0.0) | 1(0.3) | 0(0.0) | 0(0.0) | 0(0.0)
+
+Injury, poisoning and procedural
+complications 1(0.2) | 3(0.4) | 1(0.3) | 2(0.3) | 0(0.0) | 1(0.7)
+
+Accidental overdose 0 (0.0) 1 (0.1) 0 (0.0) 1 (0.2) 0 (0.0) 0 (0.0)
+Fall 0(0.0) | 1(0.1) | 0(0) | 0(0.0) | 0(00) | 110.7)
+Fibula fracture 1(0.2) | 0(0.0) | 1(0.3) | 0(00) | 0(0.0) | 0(0.0)
+Multiple injuries 0(0.0) | 1(0.1) | 0(0.0) | 1(0.2) | 0(00) | 0(0.0)
+Tibia fracture 1(0.2) | 0(0.0) | 100.3) | 0(0.0) | 0(0.0) | 0(0.0)
+Metabolism and nutrition 1(0.2) | 0(0.0) | 0(0.0) | o(0.0) | 1(2.3) | 0(0.0)
+
+Dehydration 1(0.2) | 0(0.0) | 0(0.0) | o(0.0) | 1(1.3) | 0(0.0)
+
+Musculoskeletal and connective
+tissue disorders 0 (0.0) 2 (0.2) 0 (0.0) 2 (0.3) 0 (0.0) | 0 (0.0)
+
+Arthralgia (0.0) | 1(0.1) | o(0.0) | 1(0.2) | 0(0.0) [ 0(0.0)
+
+Synovitis 0(0.0) | 1(0.1) | o(0.0) | 1(0.2) | 0(0.0) | 0(0.0)
+
+Neoplasms benign, malignant and
+unspecified (incl cysts and polyps) 1(0.2) 0 (0.0) 1 (0.3) 0 (0.0) 0(0.0) | 0(0.0)
+
+Uterine leiomyoma 1 (0.2) 0 (0.0) 1 (0.3) 0 (0.0) 0 (0.0) 0 (0.0)
+Nervous system disorders 0 (0.0) 2 (0.2) 0 (0.0) 2 (0.3) 0 (0.0) 0 (0.0)
+Carpal tunnel syndrome 0 (0.0) 1 (0.1) 0 (0.0) 1 (0.2) 0 (0.0) 0 (0.0)
+Cerebellar syndrome 0 (0.0) 1 (0.1) 0 (0.0) 1 (0.2) 0 (0.0) 0 (0.0)
+Renal and urinary disorders 1 (0.2) 0 (0.0) 0 (0.0) 0 (0.0) 1 (1.3) 0 (0.0)
+Acute kidney injury 1 (0.2) 0 (0.0) 0 (0.0) 0 (0.0) 1 (1.3) 0 (0.0)
+
+Respiratory, thoracic and
+
+mnediastinal disorders 1(0.2) | 0(0.0) | 1(0.3) | 0(0.0) | 0(0.0) | 0(0.0)
+
+Pulmonary embolism 1 (0.2) 0 (0.0) 1 (0.3) 0 (0.0) 0 (0.0) 0 (0.0)
+
+Skin and subcutaneous tissue
+disorders 1(0.2) | 1(0.1) | 10.3) | 1(0.2) | 0(0.0) | 0(0.0)
+
+Dermatitis atopic 1 (0.2) 1 (0.1) 1 (0.3) 1 (0.2) 0 (0.0) 0 (0.0)
+
+‘Source: OCS Analysis Studio, Safety Explorer
+
+Filters: TRTO1A = "PQ2W" and ALLPCFL = "Y" and SAFFL = "Y" (PQ2W); TRTO1A = "L250Q2W" and ALLPCFL ="Y" and SAFFL ="Y"
+(L25002W); TRTEMFL = "Y" and AESER = "Y" and TEMONDFL = "Y" and ANLO2FL = "Y" and AESER = "Y" (Adverse Events).
+
+Filters: TRTO1A = "Lebrikizumab 250mg Q2W" and SAFFL = "Y" (Lebrikizumab 250mg Q2W); TRTO1A = "Placebo" and SAFFL = "Y"
+(Placebo); TRTEMFL = "Y" and AESER = "Y" (Adverse Events).
+
+Filters: TRTO1A = "PQ2W" and INDSAFFL = "Y" and SAFFL = "Y" (PQ2W); TRTO1A = "L250Q2W" and INDSAFFL = "Y" and SAFFL =
+"Y" (L25002W), TRTEMFL = "Y" and AESER = "Y" and TEMONDFL = "Y" and ANLO2FL = "Y" and AESER = "Y" (Adverse Events)
+
+Brief vignettes describing SAEs in lebrikizumab-treated subjects during the placebo-
+controlled induction period are provided below:
+
+KGAB- ®) (Myocardial Infarction):
+
+A 50-year-old male participant receiving lebrikizumab 250 mg Q2W, with a medical
+history of hypertension treated with perindopril and 20 years of smoking, presented
+with moderate pain in the lower jaw region and behind the chest, and difficulty of
+breathing while skiing. He reported an AE of myocardial infarction on Study Day 49. He
+
+130
+Version date: October 12, 2018
+
+Reference ID: 5252985

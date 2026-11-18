@@ -1,0 +1,59 @@
+NDA/BLA Multi-disciplinary Review and Evaluation NDA 221075
+Iberdomide (ZENBEXUS)
+
+DV4d control arm in both stages. In total, 939 patients were enrolled in the ITT population
+across Stage 1 and Stage2.
+
+e Long-term Efficacy Analysis Population: All patients randomized to the selected IberDd arm
+(1 mg) and the DVd arm across Stage 1 and Stage 2. This group of patients is further divided
+into the “Stage 1 Group by Analysis (S1A)”, which includes all randomized patients whose
+data were used in the dose-selection interim analysis (IA1), and the “Stage 2 Group by
+Analysis (S2A)”, which includes all randomized patients. This analysis group includes
+patients. The Applicant refers to this population as the Confirmatory Analysis Group.
+
+e MRD Primary Analysis Population: The first 420 patients randomized to the 1 mg dose of
+iberdomide chosen for IberDd and DVd across both stages of the study. This group was
+introduced after MRD-negative CR at any time was added as a dual primary endpoint in
+protocol amendment 5 (November 6, 2024).
+
+(b) (4)
+
+Refer to Table 78 in the Appendix 19.4 for detailed information.
+Multiplicity Control and P-value Combination Method
+
+The overall Type I error was strongly controlled at 0.025 (one-sided) with alpha being split
+between the two primary endpoints, which allocated a one-sided Type I error rate of 0.005 to
+MRD-negative CR at any time and 0.02 to PFS as assessed by IRC. If MRD-negative CR at any
+time was statistically significant, the one-sided 0.005 alpha would be fully re-allocated to PFS. If
+PFS was statistically significant, a fixed sequence testing procedure would be applied to the key
+secondary endpoint OS at the same significance level as PFS. The Lan-DeMets alpha spending
+function with O'Brien-Fleming boundary was used to ensure that the one-sided Type I error rate
+of 0.02 (if MRD-negative CR at any time was not statistically significant) or 0.025 (if MRD-
+negative CR at any time was statistically significant) was strongly controlled for PFS and OS.
+
+No formal statistical testing was conducted in Stage 1. Therefore, no Type I error adjustment was
+applied at that stage. In Stage 2, to control for potential Type I error inflation resulting from dose
+selection in Stage 1, p-values for comparisons involving Stage 1 patients were adjusted at each
+interim and final analysis using a rank-based single-step Dunnett method. Specifically, based on
+the prespecified ranking criterion (>90% reduction in serum M-protein or sFLC), the selected 1
+ing dose of iberdomide ranked second among the three iberdomide dose arms in Stage 1;
+therefore, a two-group-versus-control Dunnett adjustment was applied to the Stage 1 data. The
+adjusted p-value from Stage 1 were then combined with the p-value from Stage 2 using a
+weighted inverse normal method with Cochran-Mantel-Haenszel (CMH) weights across all
+interim and final efficacy analyses.
+
+Analysis Method
+
+FDA generally agrees with the Applicant's description of the analysis methods for MRD-
+negative CR at any time, including the handling of the intercurrent event and missing data. For
+time-to-event endpoints, the hazard ratio and 95% confidence interval were estimated using a
+stratified Cox proportional hazards model with treatment as the sole explanatory variable. The
+model was stratified by number of prior lines (1 vs 2), Age (<=70 vs >70) as collected in eCRF,
+
+141
+Version date: February 10, 2025 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5851050

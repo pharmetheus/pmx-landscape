@@ -1,0 +1,73 @@
+BLA 761184
+Ngenla (somatrogon)
+
+Table 78. Parameter Estimates of the Applicant’s Weight-Normalized Model Where the Estimation
+Was Repeated by the Reviewer
+
+Parameter Description Estimate (RSE)
+OFV Objective function value 17627.590
+CL Clearance (L/h/77 kg) 1.805 (8%)
+V2 Volume of central compartment (L/77 kg) 40.74 (6%)
+
+Q Intercompartment clearance (L/h/77 kg) 0.07272 (6%)
+V3 Volume of peripheral compartment (L/77 kg) 208.1 (84%)
+Ka Absorption rate constant (/h) 0.4012 (9%)
+ALAG1 Absorption lag-time (h) 0.9883 (4%)
+TIMEFCT Factor for step change in CL at day 125 0.8809 (1%)
+ECL Between-subject variability of CL 1.083 (4%)
+ECL_cor_EV2 Correlation between BSV-CL and BSV-V2 0.994 (0%)
+Ev2 Between-subject variability of V2 1.262 (2%)
+ECL_cor EQ Correlation between BSV-CL and BSV-Q 0.7002 (14%)
+EV2_cor_ EQ Correlation between BSV-V2 and BSV-Q 0.7014 (14%)
+EQ Between-subject variability of Q 1.007 (21%)
+ECL_cor_EV3 Correlation between BSV-CL and BSV-V3 0.302 (118%)
+EV2_cor_EV3 Correlation between BSV-V2 and BSV-V3 0.383 (92%)
+EQ_cor_EV3 Correlation between BSV-Q and BSV-V3 0.6612 (24%)
+Ev3 Between-subject variability of V3 1.385 (17%)
+EKA Between-subject variability of Ka 1.086 (FIXED)
+PROP Proportional residual error 0.5741 (0%)
+ADD Additive residual error 360 (0%)
+
+‘Source: Reviewers independent an
+Abbreviations: BSV, between-subject variability; RSE, relative standard error
+
+Table 79. Coefficient of Correlation Among Model Parameters Indicating Unidentifiability of V3, CL,
+Ka, ALAG1, Variance, and Covariance
+
+Correlated Parameters Coefficient of Correlation Implication
+VsCL 0.95
+
+KeCL -~0.95
+
+KrV3 -0.98
+
+ADAGLEC pS Unidentifiable
+OMEGA(2,1)-ECL 0.94
+
+OMEGA(3,2)-OMEGA(3, 1) 0.98
+
+OMEGA(4,2)-OMEGA(4, 1) 0.99
+
+Source: Reviewers independent analysis.
+Abbreviations: ALAG1, absorption lag time; CL, clearance; ECL, enhanced chemiluminescence; K,, absorption rate constantV2,
+
+volume of central compartment; V3, volume of peripheral compartment
+
+Decrease in somatrogon clearance among patients who developed ADA was surprising. The
+suggested explanation was that ADA conjugated with somatrogon thus limiting its elimination.
+This hypothesis could be tested by examining the impact of ADA titer on somatrogon clearance.
+If ADA-somatrogon conjugate had less clearance, then subjects with higher ADA titer would
+have lower clearance compared to subjects with lower ADA titer. The Applicant did not evaluate
+the impact of ADA titer on somatrogon clearance.
+
+14.3.1.4. Reviewer’s PopPK Model Development
+14.3.1.4.1. Introduction
+
+Due to the deficiencies in both of the Applicant’s PopPK models, the reviewer developed an
+alternative PopPK model to describe both the phase 2 and phase 3 PK data in pediatric subjects.
+The goal was to obtain a parsimonious PopPK model that adequately described the PK data and
+therefore used for sequential PKPD modeling and labeling PK parameters in the USPI.
+
+139
+
+Reference ID: 4924352

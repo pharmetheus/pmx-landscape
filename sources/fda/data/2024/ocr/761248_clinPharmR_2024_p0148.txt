@@ -1,0 +1,45 @@
+Figure 22: Simulated amyloid plaque level over time using treatment exposure-
+response model and stratified by participants achieving <11 Centiloid units at
+Week 24. Duration extending to 76 weeks
+
+On Treatment Off Treatment
+
+Fs
+
+ry
+3
+
+Amyloid Plaque (Centiloid)
+
+36 48 60 72
+Time (weeks)
+
+PET = positron emission tomography. The solid line represents the simulated median value, and
+the shaded area represents the 95% confidence interval of the median. Simulations used titer
+values over time from the NONMEM dataset with last-observation-carried-forward applied to
+replicate the time-varying effect of titer on clearance in the PK model. Reference line shows 24.1
+Centiloid.
+
+Source: sequence 0002, module 5335, pop-pk-aacg-report.pdf, page 70 of 176
+
+Applicant concludes that in a group of subjects that achieve amyloid levels <11 Centiloid
+by week 24, withdrawal of donanemab treatment did not result in a substantial increase
+in amyloid level through the end of the simulation (Week 76).
+
+[Reviewer comment: The Applicant utilizes a threshold of 24.1 Centiloid to represent complete
+amyloid clearance. During study AACG, an additional threshold of < 11 Centiloid was also used
+to determine when treatment could be discontinued.
+
+The Applicant’s simulations suggest that after attaining amyloid plaque levels < 11 Centiloid by
+24 weeks, if donanemab treatment ceases at 24 weeks, that the donanemab levels are expected
+to increase over time.
+
+The Applicant conducted simulations extending to 15 years to determine the time at which
+subjects increase back to 24.1 Centiloid. However, the amyloid assessments were planned up to
+76 weeks with the actual times occurring generally < week 80 (out of 1147 amyloid
+measurements, only 12 measurements were collected across the population between week 80
+and the maximum time, 92 weeks). Overall, it is not clear that the model can reliably predict
+
+54
+
+Reference ID: 5110430

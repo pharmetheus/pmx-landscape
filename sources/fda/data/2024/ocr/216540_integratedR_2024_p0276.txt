@@ -1,0 +1,43 @@
+NDA 216540 Acoramidis (AG-10)
+
+Page 25 of 28
+
+Table 6B: Tumor Rates and P-Values for Dose Response Relationship and The pairwise comparisons
+Female Mice Using Poly-3 test
+0 mg Vehicle} 30 mg 100 mg 300 mg 75 mg
+Cont (N=25)| Low (N=25) | Med(N=25) | High (N=25) | Posi (N=10)
+Organ Name} Tumor Name P-Trend | P-Cvs.L | P-VCvs.M]| P-VCvs.H | P-VCvs.PC
+Hematolymphoid| M-Malignant lymphoma | 0/25 (24) 1/25 (23) 0/25 (24) 0/25 (25) 10/10 (10)
+System 0.7500 0.4894 NC NC <0.0001*
+Tleum M-Hemangiosarcoma 0/23 (22) 0/25 (23) 1/25 (24) 0/25 (25) 0/10 (4)
+0.5213 NC 0.5217 NC NC
+Lung M-Carcinoma,bronchiob-| 0/25 (24) | 0/25 (23) 1/25 (24) 0/25 (25) 0/10 (4)
+alveolar 0.5104 NC 0.5000 NC NC
+Lymph Node, | M-Hemangiosarcoma 0/25 (24) 0/25 (23) 1/25 (24) 0/25 (25) 0/10 (4)
+Mandibular 0.5104 NC 0.5000 NC NC
+Mammary Gland| M-Carcinoma 1/25 (24) 1/23 (22) 1/24 (24) 0/24 (24) 0/10 (4)
+0.8373 0.7333 0.7553 1.0000 1.0000
+Skin/Subcutis | B-Papilloma, squamous | 0/25 (24) 0/25 (23) 0/25 (24) 0/25 (25) 2/10 (5)
+cell NC NC NC NC 0.0246*
+M-Carcinoma, squamous] 0/25 (24) 0/25 (23) 0/25 (24) 0/25 (25) 2/10 (5)
+cell NC NC NC NC 0.0246*
+M-Hemangiosarcoma 0/25 (24) 2/25 (24) 0/25 (24) 1/25 (25) 0/10 (4)
+0.4510 0.2447 NC 0.5102 NC
+Spleen M-Hemangiosarcoma 2/25 (25) 0/25 (23) 1/25 (24) 1/25 (25) 0/10 (4)
+0.5813 1.0000 0.8752 0.8827 1.0000
+Stomach, B-Papilloma, squamous | 0/25 (24) | 0/25 (23) 0/25 (24) 0/25 (25) 8/10 9)
+Nonglandular | cell NC NC NC NC <0.0001*
+M-Carcinoma,squamous| 0/25 (24) 0/25 (23) 0/25 (24) 0/25 (25) 1/10 (5)
+cell NC NC NC NC 0.1724
+Thymus B-Thymoma, benign 1/25 (24) 0/25 (23) 0/24 (23) 0/24 (24) 0/10 (4)
+1.0000 1.0000 1.0000 1.0000 1.0000
+Uterus M-Hemangiosarcoma 1/25 (24) 0/25 (23) 1/25 (24) 2/25 (25) 0/10 (4)
+0.1798 1.0000 0.7553 0.5156 1.0000
+‘& X/ZZ (WY). X=number of tumor bearing animals, YY=mortality weighted total number of animals, ZZ= total number of animals observed,
+
+NC = Not calculable;
+*: Statistically significant at 0.005 and 0.025 for common and rare tumors, respectively in dose response relationship (trend) tests and
+significance levels of 0.01 and 0.05 for common and rare tumors, respectively in pairwise compari sons.
+
+Reference ID: 5385041
+

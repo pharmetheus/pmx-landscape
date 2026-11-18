@@ -1,0 +1,30 @@
+BLA 761367
+Andembry / garadacimab
+
+Table 106. Applicant-Summary of Baseline Characteristics and Laboratory Values in the Dataset
+
+Stratified by Study
+
+A: Continuous covariates by study
+Variable n Mean Median SD Min / Max
+Study: CSL312_2001
+Age (years) 44 40.0 39.0 12.8 20.0 / 65.0
+Weight (kg) 44 84.9 83.2 22.7 45.5 / 135
+Rate of HAE attacks in run-in (HAE attacks per week) 44 1.02 0.830 0.545 0.170 / 2.95
+Study: CSL312_3001
+Age (years) 64 41.2 41.0 15.9 12.0 / 69.0
+Weight (kg) 64 80.4 77.2 219 43.3 / 153
+Rate of HAE attacks in run-in (HAE attacks per week) 64 0.601 0.500 0.379 0.200 / 2.33
+Study: CSL312_3002 (CSL312-naive subjects only)
+Age (years) 69 41.2 42.0 15.7 13.0 / 73.0
+Weight (kg) 69 79.7 78.0 183 45.0/ 125
+Rate of HAE attacks in run-in (HAE attacks per week) 69 0.671 0.510 0.522 0.130 / 3.11
+All data
+Age (years) 177 40.9 41.0 15.0 12.0 / 73.0
+Weight (kg) 177 81.2 79.2 20.8 43.3/153
+Rate of HAE attacks in run-in (HAE attacks per week) 177 0.733 0.610 0.508 0.130 / 3.11
+
+211
+Integrated Review Template, version 3.0 (05/25/2022)
+
+Reference ID: 5458438

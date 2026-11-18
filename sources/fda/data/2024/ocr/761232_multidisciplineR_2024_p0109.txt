@@ -1,0 +1,52 @@
+BLA 761232 - Multi-disciplinary Review and Evaluation
+TEVIMBRA - tislelizumab-jsgr
+
+Figure 17. BeiGene: Kaplan-Meier Plot of Overall Survival in Patients With PD-L1 vCPS >
+10% (Study 302) (ITT Analysis Set)
+
+1.0
+
+0.94
+— Tislelizumab : n = 89 , events = 61 Median:10.3 95% CI 8.5 - 16.1
+_ ICC : n =68 , events = 58 Median:6.8 ,95% CI 4.1 - 8.3
+
+HR (95% Cl) : 0.54(0.36 - 0.79)
+Log-rank test p-value : 0.0006
+
+Survival Protability
+°
+Sn
+
+T
+0 4 8 12 16 20 24 28 31
+
+‘Time (Months)
+Number of Patients at Risk:
+
+Time: 0 12:3 4 5 6 7 8 % 1011 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31
+Tislelizumab 89 85 82 79 71 63 60 59 55 52 43 37 36 35 34 32 302519171411 8 6 2 1 1 1110
+ICC 68 63 60 51 40 35 3229 2622221917 1411118 65521 11 t 1d 1000
+
+Source: ADTTE. Data cutoff: 01DEC2020. Data extraction: 15JAN2021.
+
+One-sided p-value was estimated from log-rank test stratified on ECOG status and ICC option.
+Hazard ratio was based on Cox regression model including treatment as covariate stratified by
+ECOG status and ICC option
+
+Progression-Free Survival (ITT Analysis Set)
+
+Results of PFS in the ITT Analysis Set showed a 17% reduction in the risk of disease
+progression or death in the Tislelizamab Arm compared with the ICC Arm (stratified HR: 0.83
+[95% CI: 0.67 to 1.01]) (Table 23).
+
+Although the median PFS was slightly shorter in the Tislelizumab Arm than in the ICC Arm, the
+Kaplan Meier- plots of PFS began to separate approximately 3 months after randomization in
+favor of the Tislelizumab Arm and remained separate for the remainder of the study (Figure 18)
+
+108
+Version date: January 2020 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5345383

@@ -1,0 +1,66 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {BLA 761342}
+Talquetamab-tgvs
+
+to have efficacy (see Section 8.1.2 for clinical efficacy assessment). The E-R efficacy analysis also
+supports both the 0.4 mg/kg QW and 0.8 mg/kg Q2W regimens. The exposure differences
+between the two proposed regimens are not expected to impact clinical efficacy. Refer to
+Section 19.4.2.2 for the detailed E-R efficacy analysis.
+
+After accounting for the longer median follow-up with 0.4 mg/kg in MonumenTAL-1 (see
+Section 8.2.2 for details regarding duration of treatment and follow-up in patients with safety
+data), the E-R safety analysis identified that MonumenTAL-1 patients who received 0.8 mg/kg
+Q2W had higher probabilities of skin toxicity and skin exfoliation which may be due to the
+higher Cmax Or Cavg following 0.8 mg/kg Q2W. However, the difference in probability of skin
+toxicity and skin exfoliation between the two regimens was primarily due to Grade 1 events.
+The E-R safety analysis did not identify a major safety difference between the 0.4 mg/kg QW
+and 0.8 mg/kg Q2W dosage regimens. Refer to Section 19.4.2.4 for the detailed E-R safety
+analysis.
+
+FDA Table 36: Comparison of Talqguetamab Exposure Following Proposed Dosage Regimens
+
+Percent Difference
+0.4 mg/kg QW | 0.8 mg/kg Q2W | (0.8 mg/kg Q2W versus
+
+Dose Exposure Metric | Geo mean (CV%) | Geo mean (CV%) 0.4 mg/kg QW)
+First Treatment Dose Cave (ng/mL) 615 (73%) 1505 (71%) 145%
+(Day 0) Cmax (ng/mL) 752 (74%) 2001 (72%) 166%
+
+Crrough (ng/mL) 606 (79%) 971 (94%) 60.3%
+Day 14Treatment Dose | Cave (ng/mL) 1353 (68%) 1771 (69%) 30.9%
+
+Cmax (ng/mL) 1509 (66%) 2291 (65%) 51.9%
+
+Crrough (ng/mL) 1194 (78%) 1159 (96%) 2.9%
+Day 28 Treatment Dose | Cave (ng/ml) 1769 (67%) 2000 (68%) 13.1%
+
+Cmax (ng/mL) 1940 (64%) 2550 (62%) 31.4%
+
+Crrough (ng/mL) 1546 (78%) 1334 (96%) -13.7%
+Day 112 Treatment Dose | Cave (ng/mL) 2735 (71%) 2768 (72%) 1.2%
+(Steady State) Cmax (ng/mL) 2939 (67%) 3408 (63%) 16.0%
+
+Crrough (ng/mL) 2409 (83%) 1929 (103%) -20.0%
+
+Exposure was simulated for each regimen in 392 MonumenTAL-1 patients following subcutaneous administration
+of talquetamab 0.4 mg/kg QW and 0.8 mg/kg Q2W with 3 days between step-up doses. Steady state was
+calculated for the Day 112 Treatment Dose (i.e., 17 treatment dose of 0.4 mg/kg QW and 9" treatment dose of
+0.8 mg/kg Q2W).
+
+The 0.4 mg/kg QW dosage regimen refers to 0.01 mg/kg SC on Day -6, 0.06 mg/kg SC on Day -3, 0.4 mg/kg SC on
+Day 0, and then 0.4 mg/kg SC QW thereafter. The 0.8 mg/kg Q2W dosage regimen refers to 0.01 mg/kg SC on
+Day -9, 0.06 mg/kg SC on Day -6, 0.3 mg/kg SC on Day -3, 0.8 mg/kg SC on Day 0, and then 0.8 mg/kg SC Q2W
+thereafter.
+
+Cavg = average concentration; Cmax = maximum concentration; CV = coefficient of variation; Ctrough = trough
+concentration; geo mean = geometric mean; QW = every week; Q2W = once every 2 weeks; SC = subcutaneous.
+
+Source: Reviewer's analysis; Applicant's PPK simulation (dated 25Apr2023) submitted in response to 11Apr2023 IR
+
+Overall, the PPK analysis supports both the proposed regimen of 0.4 mg/kg QW and the
+
+Version date: June 2022 (ALL NDA/ BLA reviews) 274
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5222858

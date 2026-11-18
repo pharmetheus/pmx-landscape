@@ -1,0 +1,69 @@
+Multi-disciplinary Review and Evaluation
+
+NDA 218784
+
+VORANIGO (vorasidenib)
+
+from these studies using a simple Emax model, the estimated Emax was 99.4%. EAUCso(0-12hr) Was
+698 hr-ng/mL, and the plasma AUC of vorasidenib required for 90% 2-HG AUC decrease in
+tumor was estimated to be 6,280 hr-ng/mL (Table 3).
+
+Study AG881-N-046-R1 evaluated male ICR SCID mice inoculated intracranially with TS603
+IDH1-R132H neurosphere cells. Vorasidenib showed dose-linear PK based on the calculated
+AUCo-12hr and a dose-dependent reduction of 2-HG levels in brain tissue was observed.
+Maximum 2-HG reduction in the brain based on the AUCo-12hr (10 mg/kg) was 52%. Reduction of
+2-HG was substantially higher in brain tumor than in brain tissue. The highest dose (10 mg/kg)
+reduced brain tumor 2-HG by >99.9%. Based on PK/pharmacodynamic modeling of vorasidenib
+exposure and 2-HG decrease in brain tumor using a simple Emax model, EAUCsojo-12hr] Was
+
+23.3 hr-ng/mL, and the derived EAUC that resulted in sustained 90% inhibition (EAUCoo) was
+210 hr-ng/mL (Table 3).
+
+A study using the TS603 glioma IDH1-R132H xenograft model investigated the relationship
+between 2-HG reduction and tumor growth rate (TGR) after treatment of either vehicle alone
+or AGI-5198, a compound that was identified in a high-throughput screen for compounds that
+inhibit the IDH1-R132H mutant homodimer (Popovici-Muller et al, 2012). Mice treated with
+AGI-5198 had tumor 2-HG reductions of ~ 90% and tumor volume reductions of ~ 60%
+compared with vehicle treated animals (Rohle et al, 2013).
+
+In an HLA-A2/HLA-DR1-syngeneic IDH1-R132H mutant orthotopic glioma model, AG-881
+
+(50 mg/kg) resulted in a reduction of 2-HG levels in IDH1-R132H glioma cells (10-fold) and
+tumor-associated myeloid cells. IDH1-R132H tumor-bearing mice treated with both AG-881 and
+a programmed cell death protein 1 (PD-1) blocking antibody demonstrated improved survival
+when compared to either treatment alone (Chuntova et al, 2022).
+
+The FDA’s Assessment:
+
+The Applicant uses terminology such as “potency”, “potent”, and “selectivity” to describe study
+results; such terms should be avoided as they are vague, subjective, and promotional.
+
+The FDA generally agrees with the Applicant’s conclusions on the pharmacology of vorasidenib,
+with additional pertinent details below. Vorasidenib exhibited low nanomolar inhibitory activity
+against IDH1R132 (H, C, G, L, and S), IDH2R140Q, and IDH2R172K mutant homodimers, wild
+type (WT) IDH1 and IDH2, and IDH1WT/R132H, IDH2WT/R140Q, and IDH2WT/R172K
+heterodimer enzymes (Table 4).
+
+Table 4: In vitro activity of vorasidenib against IDH1 and IDH2 WT and mutant enzymes
+
+Enzyme ['Gs0 1 hour (nM) | 1Cso 16 hours (nM)
+IDH1
+
+R132H 6 8
+
+R132C 19 :
+
+R132G 17 :
+
+R132L 34 :
+
+R132S 6 :
+
+51
+
+Version date: December 2023(ALL NDA/BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5425021

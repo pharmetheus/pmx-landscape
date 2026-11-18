@@ -1,0 +1,7 @@
+run_date: 2026-10-19
+years: 2016 to 2020 
+queries: 200
+queries whose retrieved IDs differ from the reported count: 0
+PubMed base-set papers matching more than one year, kept only in the earliest: 368
+base-set papers already in the frozen 2021 to 2026 set, left out: 131
+tool IDs outside the base set of the same source and year: 0

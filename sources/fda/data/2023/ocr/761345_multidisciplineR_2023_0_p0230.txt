@@ -1,0 +1,100 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {BLA 761345}
+
+elranatamab
+
+[FDA’s comments]
+
+Model Structure
+
+For ORR: Binomial logistic
+regression model
+
+For DOR: Cox proportional hazard
+model
+
+Acceptable
+
+Model Parameter Estimates
+
+Table 73 for ORR
+Table 74 and Table 75 for DOR
+
+Acceptable
+
+Model Evaluation
+
+e Asignificant E-R relationship
+was identified for ORR with total
+and free elranatamab exposure
+Cave,Day28 and Cave,Event. Patients
+with higher total and free
+elranatamab exposure were
+more likely to achieve objective
+responses.
+
+e Overall, the results of the
+Cave,Event analysis were
+consistent with that of
+Cave,Day28.
+
+e@ The Cox proportional hazard
+analysis and KM analysis of DOR
+revealed that there was no
+significant association between
+total or free elranatamab
+exposure, or Q2W switch
+
+Acceptable
+
+Covariates and Clinical
+Relevance
+
+Number of prior lines of therapy
+and baseline EMD were
+
+inversely associated with achieving
+objective responses. In the total
+elranatamab E-R analysis, baseline
+sBCMA was identified as a
+significant predictor of ORR.
+
+Acceptable
+
+Simulation for Specific
+Population
+
+Not applicable
+
+Acceptable
+
+Visualization of E-R
+relationships
+
+Figure 44 for total elranatamab
+Cave,Day28
+
+Figure 45 for free elranatamab
+Cave,Day28
+
+Acceptable
+
+Overall Clinical Relevance for
+ER
+
+The E-R analysis revealed that
+higher elranatamab exposures were
+associated with higher probability
+
+of achieving objective responses. In
+the total PK logistic regression
+
+Acceptable
+
+Version date: January 2020 (ALL NDA/ BLA reviews)
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5226136
+
+23.
+

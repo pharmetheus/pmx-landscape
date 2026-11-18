@@ -1,0 +1,85 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 219249}
+{Inavolisib}
+
+metastatic, years since locally advanced metastatic (Missing for WO41554), number metastatic sites,
+endocrine resistance [primary/secondary], PIK3CA mutation (all Yes for WO41554), prior systemic
+therapy in the metastatic setting (all No for WO41554), prior FULV/SERD/PI3K/AKT/mTOR inhibitors (all
+No for WO41554), measurable disease per RECIST (all Yes for WO41554)
+
+Final Model Parameters Summary Acceptability
+[FDA’s comments]
+Model Structure The relationships between efficacy and inavolisib exposure were explored using | Acceptable
+
+Kaplan-Meier curves and Cox proportional hazard models for the survival
+endpoints (PFS, OS, DOR, TFST), and logistic regressions for the binary endpoints
+(ORR, BOR, CBR). The Firth correction was implemented in the logistic regression
+when required to reduce the bias of maximum /likelihood estimates where
+small samples with unbalanced risk factors lead to separation problem
+
+Model Parameter Estimates | Phase Ill Study WO41554: ‘Acceptable
+No exposure-response relationship was observed for ORR, BOR, and CBR based
+on logistic regression models and for PFS, DOR, and TFST based on Cox models
+after adjustment to baseline covariates. For 0S, the upper quartile of Cnin (4)
+showed numerically shorter survival than other quartiles despite adjustment to
+baseline covariates while similar OS was seen across the three other quartiles.
+See Tables 21, 23, 25, 26~29 in Report 1129439.
+
+Phase | Study GO39374:
+
+No exposure-response relationship was observed for ORR, BOR based on logistic
+regression models and for PFS and DOR based on Cox models.
+
+(see Tables 6, 8, 9, 10 in Report 1129439).
+
+n and model evaluation by change of objective function and | Acceptable
+statistical significance of model parameters (stepwise forward inclusion and
+backward elimination). First, a stepwise forward addition test was performed on
+relevant covariates, keeping in the model for the statistically significant
+covariate that reduce AIC the most, one-by-one, until no further covariate could
+be included. The statistical significance of model parameters was tested in the
+logistic regression models with a p-value of 0.05. Each exposure metric (AUC,
+Cin, Cmax) was tested one by one as the last step of forward addition, and the
+exposure parameter that reduced the AIC the most (if any), while being
+statistically significant, was added to the model. The model at this stage was
+referred to as full model. Next, the full model was inspected where the
+categorized continuous covariates or the categorical covariates with p-value
+above 0.1 were lumped with the default category, and the resulting model was
+re-estimated. Categories with skip ordinal won't be combined (i.e., not
+combining quartile 1 with quartile 3, or normal renal function with moderate
+impairment). The model at this stage was referred to as simplified full model.
+Finally, a stepwise backward elimination was performed by removing
+covariates/exposure parameter from the simplified full model one at a time, if
+their deletion leads to insignificant model deterioration. The most insignificant
+covariate was removed first, and the procedure was repeated until no further
+insignificant covariate relationship was detected. Significance level of 0.01 was
+used in the backward elimination. The change of OFV has accounted for the
+change of degree of freedom, i.e., 6.635, 9.21, and 11.34 points for one, two,
+three degrees of freedoms, respectively. The model obtained was called the
+
+Model Evaluation
+
+final model.
+Covariates and Clinical Phase Ill Study WO41554: Acceptable
+Relevance Neutrophil count at baseline as quartile was identified as covariates consistently
+
+in the final model of CBR, PFS, OS, and TFST, with Q4 being statistically
+nificant (worse response); Other covariates, such as Aspartate
+Aminotransferase, liver metastasis and BSA were
+endpoints. Exposure metrics (Cmia) was only identified as covariate for OS, with
+Q4 showing worse OS. Given that OS data could be impacted by treatments
+received after study treatment discontinuation, and that OS data was not yet
+mature, TFST was investigated as another measure of longer-term outcome,
+there was no exposure-response relationship for this endpoint.
+
+The analyses outcomes indicated that patients benefited similarly across the
+range of exposures following 9 mg QD.
+
+Phase | Study GO39374:
+
+207
+Version date: June 2022 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5460147

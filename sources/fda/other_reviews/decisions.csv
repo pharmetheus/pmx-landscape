@@ -1,0 +1,17 @@
+year,drug,application,family,evidence_strength,source,document,page,reason,decided_by
+2021,Bylvay,215498,NONMEM,stated,EMA assessment report,bylvay-epar-public-assessment-report_en,60,"EU approval the same month as the FDA; the applicant's popPK of odevixibat was done in NONMEM",Claude Opus 5.5
+2021,Lumakras,214665,NONMEM,stated,EMA assessment report,lumykras-epar-public-assessment-report_en,40,"EU approval about seven months after the FDA; the applicant's sotorasib popPK used NONMEM 7.2",Claude Opus 5.5
+2023,Skyclarys,216718,NONMEM,stated,EMA assessment report,skyclarys-epar-public-assessment-report_en,47,"EU approval a year after the FDA; the applicant's omaveloxolone popPK used NONMEM 7.4.3",Claude Opus 5.5
+2023,Sohonos,215559,NONMEM,stated,EMA assessment report,sohonos-epar-refusal-public-assessment-report_en,44,"EU refusal report from the same period as the FDA approval; the applicant's palovarotene popPK used NONMEM 7.4.3",Claude Opus 5.5
+2024,Livdelzi,217899,NONMEM,stated,EMA assessment report,seladelpar-gilead-epar-public-assessment-report_en,51,"EU approval four months after the FDA; the applicant's seladelpar popPK used NONMEM 7.4.3",Claude Opus 5.5
+2024,Tryngolza,218614,NONMEM,stated,EMA assessment report,tryngolza-epar-public-assessment-report_en,68,"EU approval nine months after the FDA; the applicant's olezarsen popPK/PD was done in NONMEM",Claude Opus 5.5
+2024,Winrevair,761363,NONMEM,stated,EMA assessment report,winrevair-epar-public-assessment-report_en,66,"EU approval five months after the FDA; the applicant's sotatercept popPK used NONMEM 7.3",Claude Opus 5.5
+2025,Enflonsia,761432,NONMEM,stated,EMA assessment report,enflonsia-epar-public-assessment-report_en,43,"EU approval ten months after the FDA; the applicant's clesrovimab popPK used NONMEM 7.5.1 with PsN",Claude Opus 5.5
+2024,Vafseo,215192,NONMEM,stated,EMA assessment report,vafseo-epar-public-assessment-report_en,71,"EU approval eleven months before the FDA; the applicant's vadadustat popPK and PK/PD were done in NONMEM",Claude Opus 5.5
+2021,Tivdak,761208,NONMEM,indirect,EMA assessment report,tivdak-epar-public-assessment-report_en,63,"EU approval three and a half years after the FDA, with an updated popPK in NONMEM; not the analysis the FDA reviewed",Niclas
+2021,Welireg,215383,NONMEM,indirect,EMA assessment report,welireg-epar-public-assessment-report_en,51,"EU approval three and a half years after the FDA, with an updated popPK in NONMEM; not the analysis the FDA reviewed",Niclas
+2022,Sunlenca,215973,NONMEM,indirect,EMA assessment report,yeytuo-epar-public-assessment-report_en,56,"only the later EU product for PrEP (Yeytuo, 2025) names NONMEM for the lenacapavir popPK; the Sunlenca report names no tool",Niclas
+2025,Grafapex,214759,NONMEM,indirect,EMA assessment report,trecondi-epar-public-assessment-report_en,46,"the EU product Trecondi (2019, filed by the licensor) names NONMEM for the treosulfan popPK; an earlier submission",Niclas
+2021,Jemperli,761174,NONMEM,indirect,EMA assessment report,jemperli-epar-public-assessment-report_en,69,"NONMEM named only for the applicant's PK/PD target-engagement model, not the popPK",Niclas
+2023,Ryzneuta,761134,NONMEM,indirect,EMA assessment report,ryzneuta-epar-public-assessment-report_en,34,"NONMEM written as if short for nonlinear mixed-effects modelling",Niclas
+2021,Exkivity,215310,NONMEM,indirect,FDA other review,215310_otherR,31,"the QT review says the sponsor fitted its concentration-QTc model in NONMEM; the popPK tool is not named",Niclas

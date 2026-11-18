@@ -1,0 +1,61 @@
+BLA 761184
+Ngenla (somatrogon)
+
+comorbidities were hypothyroidism (7.1% and 8.5% in somatrogon and Genotropin groups,
+respectively) and pituitary hypoplasia (6.3% and 5.4% in somatrogon and Genotropin groups,
+respectively). These comorbidities are commonly seen in patients with GHD.
+
+Primary and Secondary Efficacy Analyses Results
+
+Primary Analysis
+
+The results of the primary analysis demonstrated noninferiority of somatrogon administered once
+weekly to Genotropin administered once daily of increase in AHV after 12 months of treatment.
+The Applicant’s primary efficacy results were confirmed by the statistical review team, with
+negligible differences. The results shown in Table 11 (FDA analysis) include imputed data for
+missing AHV values using multiple imputation with MNAR/FCS method. The lower bound of
+the 95% CI was -0.23 cm/year, which is greater than the noninferiority margin of -1.8 cm/year.
+
+However, the difference between somatrogon and Genotropin was not statistically significant
+because the lower limit of the 95% CI for the mean difference between the two treatment groups
+was less than zero. Thus, superiority is not claimed.
+
+Table 11. Primary Analysis: Annual Height Velocity at Month 12 in the Full Analysis Set, Trial CP4-
+
+006
+
+Somatrogon Genotropin
+Annual Height Velocity at 12 Months N=109 N=115
+Least-square mean 10.07 9.73
+Treatment difference, somatrogon-Genotropin 0.34
+95% Confidence interval 0.23, 0.91
+
+Source: Statistical Reviewer's analysis; ads!_xpt, advs.xpt_
+
+Multiple imputation using the SAS PROC MI with the MNAR/FCS method.
+
+Least-square means are from the analysis of covariance model with treatment, age group, gender, peak growth hormonelevels, and
+region as fixed factors and baseline height SDS as a covariate.
+
+Treatment mean difference is calculated as somatrogon—Genotropin.
+
+Abbreviations: FCS, fully conditional method; MNAR, missing not at random; SDS, standard deviation score
+
+Subgroup Analyses of the Primary Endpoint
+
+Overall, the treatment effects of the subgroups supported the conclusion of non-inferiority of
+somatrogon to Genotropin regardless of age, sex, region, race, or baseline peak GH level. There
+were some variabilities in treatment differences between subgroups. Refer to Section 16.1 for the
+detailed subgroup analyses. However, the team concluded that these variabilities were most
+likely due to small sample size and large variability in the sample estimates for some subgroups.
+To estimate the treatment effect among subgroups with more precision, the statistical reviewer
+conducted an additional analysis that entailed deriving shrinkage estimates for subgroup
+treatment effects using a Bayesian hierarchal model (Section 16.2 for Bayesian shrinkage
+analysis details). Results from this shrinkage analysis also supports the noninferiority of
+somatrogon to Genotropin in terms of AHV regardless of age, sex, region, race or baseline peak
+
+GH level (Figure 6).
+
+34
+
+Reference ID: 4924352

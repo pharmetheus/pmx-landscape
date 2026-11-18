@@ -1,0 +1,55 @@
+NDA/BLA Multi-Disciplinary Review and Evaluation NDA 216956
+Velsipity (etrasimod)
+
+Cumulative precision (%CV) (wy (4}
+APD334: NA. APD334.MV.004.
+ARSO3641: < 3.8% Rev.01 Appendix 1 and
+
+ARS04344: < 3.0% Appendix 2
+CA29122-01/CA29122-
+
+02 Table 2
+APD3M4: $56
+ARSO3641: < 6.9% 8420-496 Table 7.8,
+ARSOU344:< 8.2% Table 7.9. and
+
+Table 7.10
+Cross-validation The plasma concentration data obtained at WV) from the 34 pooled human plasma
+replicates showed an ISR passing rate for the three analytes listed below APD334MV.004,
+APD334: 34 of 34 passed or 100% | Rev.01 Table |
+
+ARS03641: 32 of 34 passed or 94.1% | Table 2, and Table 3
+
+ARS0434: 33 of 34 passed or 97.1%
+The results of this cross-validation indicates that the bioanalytical methods as well as laboratory
+performance at (V@hce robust, reproducible, and reliable. The bioanalytical
+laboratories of (O)(4)herefore successfully passed inter-laboratory cross
+validations for the determination of APD334 and metabolites ARSO3641 and ARS04344 in human
+plasma samples.
+Source: Module 2.7.1 Summary of Biopharmaceutic Studies and Associated Analytical Methods, Appendix 4
+Abbreviations: CV = coefficient of variation, QC = quality control; LLOQ = lower limit of quantitation; ULOQ = upper limit of
+quantitation; ISR = incurred sample reanalysis
+
+In addition, plasma concentrations for moxifloxacin and the two components of a monophasic
+oral contraceptive (ethinyl estradiol/levonorgestrel) were also quantified by validated LC-
+MS/MS methods, respectively.
+
+16.4. Additional Efficacy Information
+16.4.1. Multiple Testing Procedure
+
+A prespecified gatekeeping multiple testing approach was implemented to control the overall
+Type | error rate at 2-sided alpha of 0.05 for all co-primary and multiplicity-controlled
+secondary endpoints for APD334-301 and APD334-302, as shown in Figure 29 and Figure 30,
+respectively. First, the whole alpha was spent on testing family 1 (F1) consisting of the co-
+primary endpoints. If both null hypotheses in F1 were rejected, the testing with the whole alpha
+proceeded to F2. Truncated Hochberg procedure with a truncation fraction 0.8 was
+implemented for testing hypotheses in F2. Since all null hypotheses in F2 were rejected, the
+whole alpha was spent on testing F3 based on a traditional Hochberg procedure. The Hochberg
+method may not control type | error when endpoints within a family are negatively correlated;
+however, given the efficacy results for these studies, the review team is not concerned with
+potential type | error inflation in this instance.
+
+238
+Version date: October 12, 2018
+
+Reference ID: 5259863

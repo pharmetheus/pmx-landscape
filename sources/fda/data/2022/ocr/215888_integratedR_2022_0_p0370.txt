@@ -1,0 +1,46 @@
+IND 111675 VT-1161 Page 18 of 32
+male Rats _Poly-3 test.
+0 mg Vehicle 0.5 mg 1.5 mg 5/3 mg
+Cont (N=70) | Low (N=70) | Med (N=70) | High (N=70)
+Organ Name Tumor Name P- Trend P-Cvs.L | P-Cvs.M | P-Cvs.H
+Parathyroid Adenoma, Benign 4/70 (30) 0/70 (31) 1/70 (32) 0/70 (15)
+Glands 0.9742 1.0000 0.9780 1.0000
+Pituitary Gland Adenoma, Pars Distalis, Benign 37/70 (48) 35/70 (49) 41/70 (53) 19/70 (27)
+0.6694 0.8073 0.5801 0.8212
+Skeletal Muscle | Fibrosarcoma, Malignant 0/70 (29) 0/70 (31) 1/70 (32) 0/70 (15)
+0.4393 NC 0.5246 NC
+Skin Basal Cell Tumor, Benign 0/70 (29) 2/70 (32) | 0/70(32) | 0/70(15)
+0.7691 0.2710 NC NC
+Carcinoma, Squamous Cell, 1/70 (29) 0/70 (31) 0/70 (32) 0/70 (15)
+Malignant 1.0000 1.0000 1.0000 1.0000
+Fibrosarcoma, Malignant 0/70 (29) 0/70 (31) 1/70 (33) | 0/70 (15)
+0.4444 NC 0.5323 NC
+Hair Follicle Tumor, Benign 0/70 (29) 0/70 (31) | 2/70(33) | o/70(15)
+0.3510 NC 0.2792 NC
+Keratoacanthoma, Benign 1/70 (29) 0/70 (31) 0/70 (32) 0/70 (15)
+1.0000 1,0000 1.0000 1.0000
+Papilloma, Squamous Cell, 1/70 (29) 1/70 (31) 0/70 (32) 0/70 (15)
+Benign 0.9284 0.7706 1.0000 1.0000
+Skin, Subcutis | Adenoma, Basal Cell, Benign 1/70 (29) 0/70 (31) 0/70 (32) 0/70 (15)
+1.0000 1.0000 1.0000 1.0000
+Carcinoma, Squamous Cell. 0/70 (29) 1/70 (31) 0/70 (32) 1/70 (15)
+Malignant 0.1852 0.5167 NC 0.3409
+Fibroma, Benign 1/70 (29) 1/70 (32) 2/70 (33) 1/70 (15)
+0.2831 0.7781 0.5491 0.5708
+Fibrosarcoma, Malignant 1/70 (29) 5/70 (34) | 3/70 (34) 1/70 (16)
+0.5670 0.1386 0.3692 0.5899
+Fibroma, Benign/ Fibrosarcoma, 2/70 (30) 6/70 (35) | 5/70(35) | 2/70 (16)
+Malignant 0.4031 0.1845 0.2824 0.4340
+Hair Follicle Tumor, Benign 0/70 (29) 0/70 (31) 1/70 (32) | 0/70 (15)
+0.4393 NC 0.5246 NC
+Leiomyosarcoma, Malignant 0/70 (29) 0/70 (31) 1/70 (32) 0/70 (15)
+0.4393 NC 0.5246 NC
+Lipoma, Benign 1/70 (29) 2/70 (32) 1/70 (32) 0/70 (15)
+0.8032 0.5375 0.7781 1.0000
+Sarcoma, Undifferentiated, 0/70 (29) 0/70 (31) 1/70 (33) 0/70 (15)
+Malignant 0.4444 NC 0.5323 NC
+Schwannoma, Malignant 4/70 (32) 0/70 (31) 0/70 (32) 0/70 (15)
+1.0000 1.0000 1.0000 1.0000
+
+Reference ID: 4883049
+

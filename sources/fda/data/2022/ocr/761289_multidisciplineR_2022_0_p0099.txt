@@ -1,0 +1,61 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {BLA 761289 and sBLA 761069}
+{IMJUDO, tremelimumab; IMFINZI, durvalumab}
+
+MVI: Yes —o— 300+D=78/103 (75.7%)  $=83/100 (83.0%)
+MVI: No —o- T:300+D=184/290 (63.4%) $+210/289 (72.7%)
+EHS Yes —e— T:300+D=146/209 (69.9%) S=160/203 (78.8%)
+EHS No eo T300+D=114/182 (62.6%) $-133/185 (71.9%)
+Mvl=Yesandior EHS=Yes —o T:300+D=186/263 (70.7%) S=196/251 (78.1%)
+MVI=No and EHS=No —o— T300+D=74/128 (57.8%)  S-97/137 (70.8%)
+Region: Asia (except Japan) = :300+D=103/156 (66.0%) S=123/156 (78.8%)
+Regon: Rest of World (includes Japen) oe T300+D=159/237 (67.1%) S*170/233 (73.0%)
+Alphafetoprotein (AFP) at baseline: <400 ng/ml —o T300+D=109/167 (65.3%) S-130/182 (71.4%)
+Alpha-fetoprotein (AFP) at basdine: >=400 ngiml —=— :300+D=70/98 (71.4%)  $=60/71 (84.5%)
+BOLC sore B — + 7:300+D=44/77 (57.1%)  S=44/66 (66.7%)
+BOLC sore C oe T:300+D=218/316 (69.0%) S-249/323 (77.1%)
+T T T T T
+0.25 0s 1 2 4
+HR and 95% Cl
+
+An HR < 1 implies a lower risk of death for T300+D.
+Size of circle is proportional to the number of events. Gray band represents the 95% Cl for the overall (all subjects) HR.
+Source: Figure 14.2.1.2, HIMALAYA CSR, Module 5.3.5.1
+
+The Applicant's Position:
+HIMALAYA met the primary objective of superiority of T300+D over S in patients with 1L uHCC.
+
+Additionally, when controlling for imbalances in key prognostic factors, the OS benefit favoring T300+D
+treatment vs S was consistent across all prespecified subgroups.
+
+The FDA's Assessment:
+
+FDA agrees that based on the results of the HIMILAYA trial, treatment with T300+D in patients with 1L
+
+uHCC provides a statistically significant and clinically meaningful improvement in OS compared to
+
+sorafenib. FDA provides the following additional notes:
+
+e The stratified OS HRs for T300+D vs. sorafenib and for durvalumab vs. sorafenib reported by the
+Applicant were calculated using a stratified Cox proportional hazard model with patients from all
+three arms. FDA conducted separate sensitivity analyses using stratified Cox proportional hazard
+models with patients only from the T300+D and S arms. This analysis showed an OS HR of 0.78 (95%
+Cl: 0.66, 0.92), and with patients only from the durvalumab and sorafenib arms that resulted in an
+OS HR of 0.86 (95% Cl: 0.73, 1.01), which are consistent with the Applicant’s results.
+
+e On August 9, 2022, FDA sent an Information Request (IR) to the Applicant requesting clarification of
+the alpha boundaries used for the Applicant’s primary and key secondary endpoints. FDA noted an
+inconsistency regarding the 96.02% Cl of HR comparing T300+D to sorafenib, with the significance
+level of 0.0419 in footnote b of Table 15. The Applicant responded on August 15, 2022 and stated
+that the footnote is an error. The correct alpha level applied at final analysis was 0.0398 accounting
+for the 555 observed OS events in contrast to the planned 515 OS events at final analysis. In
+addition, FDA conducted a sensitivity analysis based on the first 515 OS events observed. The
+estimated median OS was 16.4 months for patients treated with T300+D vs. 13.8 months for
+patients treated with sorafenib, and the estimated stratified OS HR was 0.80 (95% Cl: 0.67, 0.95) in
+
+98
+Version date: July 2021 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5064925

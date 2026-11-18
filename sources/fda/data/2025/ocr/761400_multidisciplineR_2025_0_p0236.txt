@@ -1,0 +1,65 @@
+NDA/BLA Multi-disciplinary Review and Evaluation Biologics License Application 761400
+linvoseltamab
+
+Figure 15: Applicant - Forest Plot of the Final Multivariate Model for Investigator
+Reported ORR (SCR+CR+VGPR+PR) in Phase 1 + Phase 2 vs Predictors
+
+Objective Response Rate (sCR+CR+VGPR+PR) [Ph1 + Ph2]
+‘Aug of weekly log Cavg (mg/L) up to final dose week [IQR]
+
+(3.95, 38.4) ——+>—__ [6.75 (4.06, 11.9) p-value = 2.54e-12 n = 282
+
+Monocytes (1079/1) (1QR)
+
+(0.4, 0.7) —+— 0.646 (0.451, 0.902) p-value = 0,013 n = 282
+Plasmacytome
+T
+With:without| ————e———_ | 0.352 (0.167, 0.722) p-value = 0.005 n = 67
+1
+Soluble BCMA (mg/L) [}OR]
+v
+(0.172, 0.932] —+—_ 0.429 (0.288, 0.602) p-value = 6.49¢-06 n = 282
+
+0.3 1.0 3.0 10.0
+Odds Ratio (95% Cl)
+
+n= number of individuals in each group
+
+categorical variables = category:reference category
+
+[IQR] of log Exposure is presented in natural space.
+
+Source: Module 5.3.3.5 R5458 E-R Report, Figure 3
+
+The FDA’s Assessment:
+
+The Applicant's E-R efficacy analysis is considered exploratory and inadequate to support
+E-R conclusions due to two significant issues which limit confidence in the E-R analysis
+results:
+
+1. The Applicant's analysis investigated total linvoseltamab exposure rather than free
+linvoseltamab exposure, which limits the ability to identify true E-R efficacy
+associations. As described in Section 19.4.1.2, Study 1826 patients potentially may
+have relatively large differences in total linvoseltamab concentrations versus free
+linvoseltamab concentrations, especially earlier in treatment and with lower weekly
+doses. Linvoseltamab is a T cell engaging bispecific antibody and therefore its
+activity is more closely associated with free rather than total drug concentration, and
+so the total drug concentration may not adequately reflect efficacy. E-R efficacy
+associations have not been characterized with free linvoseltamab exposure.
+
+2. The Applicant’s analysis investigated time-averaged exposure metrics which may
+introduce confounding from treatment duration, dose modifications, tolerability,
+and/or patient response and thereby bias the results towards a positive E-R
+association. The average minimum concentration up to last dose or time of event
+(CMINAVG), average concentration up to last dose or time of event (CAVGAVG),
+and average concentration up to last dose or Week 14 (CAVGWK14) tend to be
+higher in patients with better response and longer durations of treatment because
+exposure following each dose increases over time up to Week 14, as illustrated in
+
+201
+
+Version date: August 2023 (ALL NDA/BLA reviews)
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are
+completed by the Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5432800

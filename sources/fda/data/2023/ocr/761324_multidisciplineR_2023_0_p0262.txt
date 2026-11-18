@@ -1,0 +1,90 @@
+BLA Multi-disciplinary Review and Evaluation {Biologics License Application (BLA) 761324
+
+{epcoritamab}
+
+Vali
+
+ion Parameters
+
+ECLIA-139 (GNM20420-20420X-B)
+
+With rituximab: All 3 lots spiked at the LLOQ and at 750 ng/mL*
+were 20% of nominal concentration (*one lot at
+750 ng/mL was 22% of nominal)
+
+Dilution Linearity (% accuracy)
+
+Serial 2-fold dilutions from 7500 ng/mL in pooled plasma analyzed in
+3 runs:
+
+14.6 to 938 ng/mL (512x to 8x): up to -15.9% in 3 lots, except in 2 of
+3 lots at 14.6 ng/mL bias was > -20% (-20.1%, -26.2%)
+
+10-fold Dilution [%Bias (%CV)]:
+
+300 ng/mL: 4.5% (10.6%)
+7500 ng/mL: -1.5% (3.6%)
+
+Stock stability [%Bias (%CV)]
+
+316 days at RT: 1% (5%)
+
+Bench-top stability [%Accuracy (%CV)]
+
+24 hours at RT: <10% (<10%)
+
+Extract stability
+
+163 hours at 2°C to 8°C
+
+Long-term Stability [%Accuracy (%CV)]
+
+603 days at -70°C at 750 and 7500 ng/mLt: <20% (<5%)
+448 days at -70°C at 30, 750, and 7500 ng/mL: <20% (<5%)
+
+Freeze-Thaw Stability [%Accuracy
+(%CV)]
+
+5 cycles at -70°C: <7% (<9%)
+5 cycles at -20°C: <2% (<2%)
+
+Assay used in Clinical Studies
+
+GCT3013-01 (57% of samples for Escalation phase and all samples for
+
+Expansion phase) and GCT3013-04
+
+LLOQ= lower limit of quantitation, ULOQ=upper limit of quantitation
+
+Accuracy and Precision acceptance [ Accuracy (CV)]: <20% (<20%) except <25% (<25%) at LLOQ and ULOQ,
+Total error: <30% (<40% at LLOQ & ULOQ)
+
+Stability and dilution linearity acceptance: [Accuracy (CV)]: <20% (<20%)
+
+Selectivity acceptance: 2 of 3 determinations <25% at LLOQ (<20% at HQC, if included)
+
++ Report GNM20420-20420X-B Am 01
+
+19.4.3.2. Bioanalytical Report
+
+The validated ECLIA-139 method was used for analysis of study samples in GCT3013-01 and -04
+trials (Table 89). In Studies GCT3013-01 and -04, the precision was $10% and accuracy was
+<$10% (Table 90 and Table 91). Majority (70-80%) of the analytical runs in the studies were
+successful. The incurred sample reanalysis (ISR) performed in the studies were within the
+acceptable limits, with 270-80% of samples within relative difference of <30%.
+
+The study sample concentrations reported were analyzed within the validated storage and
+handling conditions. The maximum storage period at -70°C between blood sampling and
+sample analysis was 819 days in Study GCT3013-01 were beyond the validated frozen storage
+period. Nonetheless, results from 393 samples of the Escalation phase and 3 samples of the
+Expansion phase of GCT3013-01 were not reported as they were analyzed outside the validated
+storage. All patient samples in Study GCT3013-04 were analyzed within the validated frozen
+storage stability.
+
+261
+Version date: June 2022 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5176690

@@ -1,0 +1,54 @@
+BLA 761232 - Multi-disciplinary Review and Evaluation
+TEVIMBRA - tislelizumab-jsgr
+
+The FDA’s Assessment:
+
+FDA’s analysis of laboratory findings is summarized in Table 40, below. Patients treated with
+tislelizumab had a greater incidence of increased AST, ALT, alkaline phosphatase, and creatine
+kinase levels compared to patients in the ICC while patients receiving chemotherapy had a
+greater incidence of myelotoxicity. These differences are consistent with mechanism of action of
+each drug class.
+
+Table 40. RATIONALE-302 : All Grade Laboratory Abnormalities Occurring in >=10% of
+
+Patients in Any Arm
+TISLELIZUMAB Icc
+N= 255 N= 240
+Grades 1-4
+n/N Grades 3-4 n/N | Grades 1-4 n/N | Grades 3-4 n/N
+evaluable evaluable (%) | evaluable (%) | evaluable (%)
+(%)
+
+GLUCOSE Increased 110/240 (46) 9/240 (3.8) 83/209 (40) 4/209 (1.9)
+GLUCOSE Decreased 24/240 (10) 1/240 (0.4) 20/209 (10) 1/209 (0.5)
+SODIUM Decreased 82/240 (34) 22/240 (9) 76/209 (36) 17/209 (8)
+ALBUMIN Decreased 79/240 (33) 2/240 (0.8) 77/209 (37) 2/209 (1.0)
+ALKALINE PHOSPHATASE 76/240 (32) 7/240 (2.9) 32/209 (15) 1/209 (0.5)
+Increased
+
+AST Increased 64/240 (27) 2/240 (0.8) 25/210 (12) 1/210 (0.5)
+ALT Increased 54/240 (23) 2/240 (0.8) 32/210 (15) 3/210 (1.4)
+PHOSPHATE Decreased 35/236 (15) 9/236 (3.8) 41/207 (20) 7/207 (3.4)
+POTASSIUM Decreased 30/240 (13) 3/240 (1.3) 31/209 (15) 7/209 (3.3)
+CREATINE KINASE Increased | 28/209 (13) 3/209 (1.4) 3/136 (2.2) 0/136 (0.0)
+BILIRUBIN Increased 26/235 (11) 4/235 (1.7) 16/205 (8) 1/205 (0.5)
+HEMOGLOBIN Decreased 108/240 (45) 14/240 (6) 130/212 (61) 21/212 (10)
+PLATELETS Decreased 27/240 (11) 3/240 (1.3) 24/212 (11) 2/212 (0.9)
+LEUKOCYTES Decreased 23/240 (10) 2/240 (0.8) 139/212 (66) 66/212 (31)
+NEUTROPHILS Decreased 11/235 (4.7) 2/235 (0.9) 117/211 (55) 64/211 (30)
+
+Source: ADSL (Subject-Level Analysis Dataset) - 2021-07-12, ADLB (Labs Analysis Dataset) - 2021-07-12.
+Variables used: USUBJID, TRTO1A, SAFFL, PARAM, ABLFL, AVAL, ANRLO, ANRHI, EVLLBFL, TRTEDT,
+ADT, TRTSDT, ADY, ATOXGRHN, ATOXGRLN
+
+Vital Signs
+
+Data:
+
+160
+Version date: January 2020 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5345383

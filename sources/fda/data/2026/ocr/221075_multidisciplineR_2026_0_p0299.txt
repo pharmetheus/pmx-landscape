@@ -1,0 +1,58 @@
+NDA/BLA Multi-disciplinary Review and Evaluation NDA 221075
+Iberdomide (ZENBEXUS)
+Figure 37: FDA — Effect of Predictors on Grade >3 Neutropenia (Full Model)
+
+Covariate
+Categorical = Comparator:Reforence (N) Hazard Ratio (95% Cl)
+Continuous = Reference (ROS - P95)
+Baseline EGFR [mU/min/1.73m2] [>=90:<90) ° af
+(N=89:250) 0.883 (0.666 - 1.17)
+ISS Stage [Stage Ill:Stage I) af
+“(N=30:208) —_o— 1.41 (0.954 ~ 2.09)
+ISS Stage [Stage M:Stage |) =
+(N=92:208) _— 1.17 (0.883 - 1.55)
+ECOG [>=1:0} a
+(N#144:105) —_——— 0.97 (0.76 - 1.24)
+Race [Black/AA/Unknown:\White] em
+nei3-207} —_e—___. 1.25 (0.681 - 228)
+Race Asian: White} ° +
+(N*119:207) 12 (0.901 - 1.59)
+Age [>70:<=70) e 7
+(N=127:212) 1.09 (0.844 - 1.41)
+Sex [Female-Male} 7
+(N=148:191) _——— 0.864 (0.656 - 1.14)
+Baseline Neutrophil [*10*3clul) | a 1.65 (1.34 - 2.04)
+2.62 (1.26 - 5.75) — 0.584 (0.466 ~ 0.732)
+Baseline Piatelet ["10*3cluL] 2 1:36 (1.12 - 1.63)
+162 (65.9 - 307) a 0.671 (0.528 - 0.861)
+Baseline Body Weight [kg] -8 1.15 (0.933 - 1.42)
+73 (49.8 ~ 109) —-—- 0.801 (0.582 ~ 1.11)
+Cavgt - 0.873 (0.778 -0.98)
+2.16 (1.44 = 3.45) — 1.28 (1.04 - 1.57)
+03 0s 10 Zo 50
+
+Hazard Ratio
+
+Estimate (Cont Var < Reference) Estate (95%C1): Categorical
+Estimate (Cont Var > Reference) (1) Estate (98%C!): Continuous (POS)
+I Estmate (95%Ci}: Continuous (P85)
+
+Note 1: Categorical covariate effects (95% CI) are represented by open symbols (horizontal lines).
+
+Note 2: Continuous covariate effects (95% CI) at the 5/95" percentiles of the covariate are represented by the end
+of horizontal boxes (horizontal lines). Open/shaded area of boxes represents the range of covariate effects from the
+median to the 5/95 percentile of the covariate.
+
+Note 3: Reference subject: male, white race, age <70, ECOG of 0, ISS Stage I, baseline eGFR< 90 mL/min/1.73 m?
+who had median value of Cavg1 = 2.16 ng/mL, baseline body weight = 73 kg, baseline platelet = 182 x10%c/uL,
+baseline neutrophil = 2.62 x10°c/uL.
+
+Source: Figure 3.1-5 in Response to FDA Information Request Received Feb 3, 2026
+
+300
+Version date: February 10, 2025 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5851050

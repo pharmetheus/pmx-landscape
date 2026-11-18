@@ -1,0 +1,47 @@
+SAGE-217 (zuranolone)
+
+Page 18 of 30
+
+Table3B: Tumor Rates and P-Va ues for Dose Response Relationship and the pairwise comparisons
+
+Female Rats Poly-3 Test
+Omg Vehicle | 0 mg Water 0.2 mg 0.6 mg 1.5 mg
+Cont (N=70) | Cont (N=70) | Low(N=70) | Med (N=70) | High (N=70)
+Organ Name Tumor Name P-Trend |P-VCvs.W] P-VCvs.L | P-VCvs.M |P-VCvs.H
+Adrenal Glands Adenoma, Cortical, Benign | 0/70 (33) 1/70 (32) 1/70 (29) 2/70 (35) 2/70 (33)
+0.1473 NC 0.4677 0.2612 0.2462
+Pheochromocytoma,Benign| 1/70 (34) 0/70(32) | 0/70(29) 1/70 (34) 1/70 (33)
+0.4077 NC 1.0000 0.7537 0.7463
+Brain Glioma, Malignant 0/70 (33) 1/70 (32) 1/70 (30) 0/70 (34) 0/70 (33)
+0.7462 NC 0.4762 NC NC
+Granular Cell Tumor, 0/70 (33) 0/7032) | 1/70(29) 0/70 (34) 1/70 (33)
+Malignant 0.3158 NC 0.4677 NC 0.5000
+ClitoralGlands Adenoma, Benign 0/70 (33) 1/70 (32) 0/70 (29) 0/70 (34) 0/70 (33)
+NC NC NC NC NC
+Kidneys Lipoma, Benign 0/70 (33) 0/70(32) | 0/70(29) 1/70 (34) 1/70 (33)
+0.1999 NC NC 0.5075 0.5000
+Mammary Gland Adenocarcinoma, Malignant] 17/70 (42) 26/70 (47) 17/70 (39) 21/70 (44) 27/70 (47)
+0.0454 NC 0.4766 0.3231 0.0827
+Adenoma, Benign 2/70 (34) 1/70 (32) 1/70 (29) 1/70 (34) 1/70 (33)
+0.6966 NC 0.8493 0.8806 0.8751
+Adenocarcinoma, Malignant] 18/70(43) | 26/70(47) | 18/70(40) | 22/70(45) | 28/70(47)
+/ Adenoma, Benign 0.0377 NC 0.4733 0.3273 0.0708
+Carcinosarcoma, Malignant | 1/70 (33) 0/70 (32) 1/70 (29) 1/70 (34) 0/70 (33)
+0.8404 NC 0.7208 0.7612 1.0000
+Fibroadenoma, Benign 35/70(50) | 22/70(43) | 31/70(46) | 39/70(52) | 34/70(48)
+0.4123 NC 0.6901 0.3655 0.5523
+Carcinosarcoma, Malignant | 35/70 (50) 22/70 (43) 32/70 (46) 39/70 (52) 34/70 (48)
+/ Fibroadenoma, Benign 0.4524 NC 0.6063 0.3655 0.5523
+Adenoma, Benign / 36/70(51) | 22/70(43) | 31/70(46) | 39/70(52) | 35/70(49)
+Fibroadenoma, Benign 0.4021 NC 0.7124 0.3892 0.5510
+Adenocarcinoma, Malignant] 45/70 (56) 38/70 (53) | 40/70 (52) 51/70 (59) 48/70 (57)
+/ Fibroadenoma, Benign 0.2101 NC 0.7488 0.2655 0.3860
+Adenocarcinoma/ Adenoma] 45/70(56) | 38/70(53) | 40/70(52) | 51/70(59) | 49/70(57)
+/ Fibroadenoma, Benign 0.1358 NC 0.7488 0.2655 0.2931
+Sarcoma, Stromal, 0/70 (33) 1/70 (32) 1/70 (29) 1/70 (34) 0/70 (33)
+Malignant 0.6351 NC 0.4677 0.5075 NC
+Mesentery/Peritoneum | Lipoma, Benign 0/70 (33) 1/70 (32) 0/70 (29) 0/70 (34) 0/70 (33)
+NC NC NC NC NC
+
+Reference ID: 5174472
+

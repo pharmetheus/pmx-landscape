@@ -1,0 +1,18 @@
+group,term,regex,pubmed,epmc,note
+ML,machine learning,(?i:\bmachine[- ]learn(?:ing|ed|t)\b),"""machine learning""[tiab]","""machine learning""",
+ML,neural networks,(?i:\bneural[- ]net(?:work)?s?\b),"(""neural network*""[tiab] OR ""neural net""[tiab])","(""neural network"" OR ""neural networks"")",A network of neurons in the brain is not the method
+ML,deep learning,(?i:\bdeep[- ]learning\b),"""deep learning""[tiab]","""deep learning""",
+ML,neural ODEs,(?i:\bneural (?:ODEs?|ordinary differential)),"(""neural ODE*""[tiab] OR ""neural ordinary differential""[tiab])","(""neural ODE"" OR ""neural ODEs"" OR ""neural ordinary differential"")",
+ML,random forests,(?i:\brandom[- ]forests?\b),"""random forest*""[tiab]","(""random forest"" OR ""random forests"")",
+ML,gradient boosting,(?i:\bgradient[- ]boost(?:ing|ed)?\b)|\bXGBoost\b|\bLightGBM\b|\bCatBoost\b,"(""gradient boost*""[tiab] OR XGBoost[tiab] OR LightGBM[tiab] OR CatBoost[tiab])","(""gradient boosting"" OR ""gradient boosted"" OR XGBoost OR LightGBM OR CatBoost)",
+ML,support vector machines,(?i:\bsupport[- ]vector (?:machines?|regression|classifiers?)\b)|\bSVMs?\b,"""support vector*""[tiab]","(""support vector machine"" OR ""support vector machines"" OR ""support vector regression"")",SVM is matched in capitals only
+ML,reinforcement learning,(?i:\breinforcement learning\b),"""reinforcement learning""[tiab]","""reinforcement learning""",
+ML,symbolic regression,(?i:\bsymbolic regression\b),"""symbolic regression""[tiab]","""symbolic regression""",
+ML,k-nearest neighbours,(?i:\bk[- ]?nearest[- ]neighbou?rs?\b|\bkNN\b),"(""nearest neighbor*""[tiab] OR ""nearest neighbour*""[tiab])","(""nearest neighbor"" OR ""nearest neighbour"" OR ""nearest neighbors"" OR ""nearest neighbours"")",
+AI,artificial intelligence,(?i:\bartificial intelligence\b),"""artificial intelligence""[tiab]","""artificial intelligence""",
+AI,AI,\bAI\b,AI[tiab],,"Capitals only; not searched in Europe PMC full text, where it is too ambiguous (papers using the term also spell it out)"
+AI,expert systems,(?i:\bexpert systems?\b),"""expert system*""[tiab]","(""expert system"" OR ""expert systems"")",
+AI,large language models,(?i:\blarge language models?\b)|\bLLMs?\b,"(""large language model*""[tiab] OR LLM[tiab] OR LLMs[tiab])","(""large language model"" OR ""large language models"" OR LLM OR LLMs)",
+AI,ChatGPT and GPT,(?i:\bchat-?GPT\b)|\bGPT-?[345](?:\.\d)?o?\b,"(ChatGPT[tiab] OR ""GPT-4""[tiab] OR ""GPT-3""[tiab] OR ""GPT-3.5""[tiab] OR ""GPT-5""[tiab])","(ChatGPT OR ""GPT-4"" OR ""GPT-3"" OR ""GPT-3.5"" OR ""GPT-5"")",Bare GPT is not searched: in clinical text it is also glutamic pyruvic transaminase
+AI,generative AI,(?i:\bgenerative (?:AI|artificial intelligence)\b)|\bGenAI\b,"(""generative AI""[tiab] OR ""generative artificial intelligence""[tiab] OR GenAI[tiab])","(""generative AI"" OR ""generative artificial intelligence"" OR GenAI)",
+AI,AI agents,(?i:\bagentic\b)|\bAI agents?\b,"(agentic[tiab] OR ""AI agent*""[tiab])","(agentic OR ""AI agent"" OR ""AI agents"")",

@@ -1,0 +1,3849 @@
+CENTER FOR DRUG EVALUATION AND
+RESEARCH
+APPLICATION NUMBER:
+
+213006Orig1s000
+CLINICAL PHARMACOLOGY
+REVIEW(S)
+
+Office of Clinical Pharmacology Review
+
+NDA Number
+
+213006
+
+Link to EDR
+
+\\CDSESUB1\evsprod\NDA213006\213006.enx
+[SDN 1 (eCTD 0001), SDN 6 (eCTD 0004), SDN 10
+(eCTD 0008), and SDN 13 (eCTD 0011)]
+
+Submission Date
+
+12/26/2019
+
+Submission Type
+
+Standard
+
+Brand Name
+
+GEMTESA®
+
+Generic Name
+
+Vibegron
+
+Dosage Form and Strength
+
+Tablet contains 75 mg vibegron
+
+Dosage and Administration
+
+One 75 mg tablet once daily with or without food
+
+Proposed Indication
+
+For the treatment of overactive bladder (OAB) with
+symptoms of urge urinary incontinence, urgency, and
+urinary frequency
+
+Applicant
+
+Urovant Sciences GmbH
+
+Associated IND
+
+IND 106410
+
+OCP Review Team
+
+Lin Zhou, Ph.D.
+Junshan Qiu, Ph.D.
+Jingyu (Jerry) Yu, Ph.D.
+Yanhui Lu, Ph.D.
+Shirley Seo, Ph.D.
+Division Director
+Division of Cardiometabolic and Endocrine Pharmacology
+
+OCP Final Signatory
+
+1
+
+Reference ID: 4691247
+
+Table of Contents
+1. EXECUTIVE SUMMARY .............................................................................................................................. 3
+1.1 Post-Marketing Requirements and Commitments ............................................................................. 4
+2. SUMMARY OF CLINICAL PHARMACOLOGY ASSESSMENT ......................................................................... 4
+2.1 Pharmacology and Clinical Pharmacokinetics..................................................................................... 4
+2.2 Dosing and Therapeutic Individualization........................................................................................... 4
+2.2.1 General dosing ............................................................................................................................. 4
+2.2.2 Therapeutic individualization....................................................................................................... 5
+2.3 Outstanding Issues .............................................................................................................................. 6
+2.4 Summary of Labeling Recommendations ........................................................................................... 6
+3. COMPREHENSIVE CLINICAL PHARMACOLOGY REVIEW ............................................................................ 7
+3.1 Overview of the Product and Regulatory Background ....................................................................... 7
+3.2 General Pharmacology and Pharmacokinetic Characteristics ............................................................ 7
+3.3 Clinical Pharmacology Review Questions ......................................................................................... 10
+3.3.1 To what extent does the available clinical pharmacology information provide pivotal or
+supportive evidence of effectiveness? ............................................................................................... 10
+3.3.2 Is the proposed dosing regimen appropriate for the general patient population for which the
+indication is being sought? ................................................................................................................. 10
+3.3.3 Is an alternative dosing regimen and/or management strategy required for subpopulations
+based on intrinsic factors? .................................................................................................................. 11
+3.3.4 Are there clinically relevant food-drug or drug-drug interactions and what is the appropriate
+management strategy? ....................................................................................................................... 15
+4. APPENDICES ............................................................................................................................................ 18
+4.1 Summary of Bioanalytical Method Validation and Performance ..................................................... 18
+4.2. Clinical vs. To-be-marketed Formulations ....................................................................................... 24
+4.3. Clinical PK and/or PD studies ........................................................................................................... 30
+4.4. Clinical Drug Interaction Assessments ............................................................................................. 52
+4.5 Pharmacometrics Review.................................................................................................................. 79
+
+2
+
+Reference ID: 4691247
+
+1. EXECUTIVE SUMMARY
+Vibegron is a selective agonist of the human beta-3 adrenergic receptor (β3-AR). The recommended
+dose of vibegron is one 75 mg tablet once daily with or without food. Vibegron is considered as a new
+molecular entity (NME) in the US.
+The Office of Clinical Pharmacology, Division of Cardiometabolic and Endocrine Pharmacology, has
+reviewed the information contained in NDA 213006 and recommends approval of this NDA. The key
+review issues with specific recommendations and/or comments are summarized below:
+Review Issue
+Pivotal or supportive evidence
+of effectiveness
+
+Recommendations and Comments
+•
+•
+
+General dosing instructions
+Dosing in patient subgroups
+(intrinsic and extrinsic factors)
+
+Two pivotal Phase III studies (RVT-901-3003 and RVT-901-3004)
+demonstrated the safety and efficacy of vibegron for the
+proposed indication of treatment of OAB.
+Two Phase III studies conducted in Japan (KRP114V-T301 and
+KRP114V-T302) and one Phase 2b dose-finding study (MK-4618008) provided supportive evidence.
+
+The recommended dosing regimen is one 75 mg tablet once daily.
+•
+
+•
+
+•
+
+No dosage adjustment for vibegron is recommended for patients
+with mild, moderate, or several renal impairment (eGFR 15 to <
+90 ml/min/1.73 m2). Vibegron has not been studied in patients
+with end-stage renal disease (eGFR < 15 mL/min/1.73 m2) with or
+without hemodialysis and is not recommended in these patients.
+No dosage adjustment for vibegron is recommended for patients
+with mild to moderate hepatic impairment (Child-Pugh A and B).
+Vibegron has not been studied in patients with severe hepatic
+impairment (Child-Pugh C) and is not recommended in this
+patient population.
+Concomitant use of vibegron increases digoxin Cmax and AUC.
+Measure serum digoxin concentrations before initiating vibegron.
+Reduce digoxin dose as necessary. Continue monitoring digoxin
+concentrations upon discontinuation of vibegron and adjust
+digoxin dose as needed.
+
+Bridge between the to-bemarketed and clinical trial
+formulations
+
+The qualitative and quantitative composition
+tobe-marketed formulation is identical to that of the tablet formulation
+(b) (4)
+used in Phase 3 studies. The two formulations only differed in
+of the tablet. No pharmacokinetics (PK) bridging
+study was needed.
+
+Labeling
+
+Pending negotiation with the applicant. Our edits to the applicant’s
+proposed labeling are consistent with guidance “Clinical Pharmacology
+Section of Labeling for Human Prescription Drug and Biological Products –
+Content and Format”
+
+(b) (4)
+
+3
+
+Reference ID: 4691247
+
+1.1 Post-Marketing Requirements and Commitments
+None.
+
+2. SUMMARY OF CLINICAL PHARMACOLOGY ASSESSMENT
+2.1 Pharmacology and Clinical Pharmacokinetics
+Vibegron is a selective agonist of the human beta-3 adrenergic receptor (β3-AR). Activation of the beta-3
+AR increases bladder capacity by relaxing the detrusor smooth muscle during bladder filling.
+Absorption
+After a single oral dose of 75 mg vibegron tablet, the average plasma Cmax and AUC0-inf of vibegron were
+132.7 ng/mL and 1621 hr*ng/mL, respectively, with a median Tmax of 1 hour (range: 0.5 - 3.0 hours) (Source
+data: Part 2 of the food effect study 1004). Across studies, the median Tmax was 1 to 3 hours. Absolute
+bioavailability following oral administration of vibegron has not been characterized. At vibegron single
+doses ranging from 2 to 600 mg, systemic exposure increased with escalating doses in a greater than dose
+proportional manner.
+Distribution
+Human plasma protein binding of vibegron is approximately 50% bound to human plasma protein over a
+concentration range of 0.1 to 100 µM. The average blood-to-plasma concentration ratio is 0.9.
+Elimination
+The PK of vibegron is best fitted with a 3-compartment model. The mean (±SD) terminal elimination halflife after a 75 mg oral dose is 84 (±16.6) hours (Part 2 of the food effect study 1004). The effective halflife across dose range of 25 to 400 mg is 30.8 hours.
+Metabolism
+Metabolism plays a minor role in the elimination of vibegron. CYP3A4 is the predominant CYP enzyme
+responsible for in vitro metabolism.
+Excretion
+Following a radiolabeled dose, approximately 59% of the dose (54% as unchanged) was recovered in feces
+and 20% (19% as unchanged) in urine.
+
+2.2 Dosing and Therapeutic Individualization
+2.2.1 General dosing
+The proposed dosing regimen of 75 mg tablet once daily was selected based on two successful Phase 3
+studies using this regimen. The 75 mg dose was selected for evaluation in Phase 3 based on a exposure-
+
+4
+
+Reference ID: 4691247
+
+response analysis that included 931 subjects across four different vibegron dose levels (3, 15, 50, and
+100 mg).
+2.2.2 Therapeutic individualization
+Renal Impairment:
+In a dedicated renal impairment study (Study 014), after a 100 mg oral dose of vibegron, patients with
+mild, moderate, and severe renal impairment had mean vibegron total exposures (AUC0-∞) 49%, 106%,
+and 83% higher, respectively, than the healthy matched control subjects. The mean peak vibegron
+exposures (Cmax) in mild, moderate, and severe renal impairment patients were 96%, 68%, and 42%
+higher, respectively, than in the healthy matched control subjects. In the population PK analysis, eGFR
+was a statistically significant covariate on the PK of vibegron. Mild to severe renal impairment could lead
+to 10% to 57% increase in vibegron AUC, respectively, and 6% to 24% increase in Cmax after a single oral
+dose of 75 mg vibegron.
+The increases in vibegron exposure due to renal impairment are not considered clinically meaningful
+because 100 mg vibegron in the Japanese population (which produces approximately double the
+exposure of 75 mg vibegron in the US population) was found to be reasonably safe by the clinical team.
+Therefore, no dosage adjustment for vibegron is recommended for patients with mild, moderate, or
+several renal impairments (eGFR 15 to < 90 ml/min/1.73 m2). Vibegron has not been studied in patients
+with end-stage renal disease (eGFR < 15 mL/min/1.73 m2) with or without hemodialysis and is not
+recommended in these patients.
+Hepatic Impairment:
+In a dedicated hepatic impairment study, the PK of vibegron in subjects with moderate hepatic
+impairment and healthy matched controls were evaluated following a single oral dose of vibegron
+100 mg. Compared to the healthy controls, vibegron Cmax and AUC increased 35% and 27%,
+respectively, in subjects with moderate hepatic impairment.
+The increases in vibegron exposure due to hepatic impairment are not considered clinically meaningful.
+Therefore, no dosage adjustment for vibegron is recommended for patients with mild to moderate
+hepatic impairment (Child-Pugh A and B). Vibegron has not been studied in patients with severe hepatic
+impairment (Child-Pugh C) and is not recommended in this patient population.
+Drug-Drug Interaction (DDI):
+Concomitant administration of vibegron increased digoxin Cmax and AUC by 21% and 11%, respectively.
+Because digoxin is a narrow-therapeutic-window drug, the observed increase in digoxin due to
+coadministration with vibegron is considered clinically relevant and we proposed the following labeling
+language for digoxin. “Measure serum digoxin concentrations before initiating GEMSTA. Reduce digoxin
+dose as necessary. Continue monitoring digoxin concentrations upon discontinuation of GEMSTA and
+adjust digoxin dose as needed.”
+5
+
+Reference ID: 4691247
+
+2.3 Outstanding Issues
+None from a clinical pharmacology perspective.
+
+2.4 Summary of Labeling Recommendations
+Per guidance “Clinical Pharmacology Section of Labeling for Human Prescription Drug and Biological
+Products – Content and Format”, minor edits were made to dosage and administration section (Section
+2.1) and the RI and HI dosing sections (Section 8.6. and 8.7) for clarity.
+The following major edits were made:
+•
+•
+
+In Section 7, a prevention strategy was added to mitigate the risk of drug-drug interaction
+between vibegron and digoxin coadministration.
+In Section 12.2 Pharmacodynamics and 12.3 Pharmacokinetics, edits were made to be succinct
+and in alignment with the guidance.
+
+6
+
+Reference ID: 4691247
+
+3. COMPREHENSIVE CLINICAL PHARMACOLOGY REVIEW
+3.1 Overview of the Product and Regulatory Background
+The Product
+The applicant, Urovant Sciences (referred to as Urovant), submitted a New Drug Application (NOA) for
+GEMTESA™ (vibegron 7S mg tablet) for the treatment of overactive bladder (OAB) with symptoms of
+urge urinary incontinence, urgency, and urinary frequency on December 26, 2019. Vibegron is a
+selective agonist of the human beta-3 adrenergic receptor ( ~3-AR). The proposed dose of GEMTESA™ is
+one 7S mg tablet once daily w ith or w ithout food.
+Regulatory History
+The init ial development of vibegron for OAB (IND 106410) w as conducted by Merck Sharp &Dohme Corp
+and the IND was later transferred to Urovant. Merck conducted the initial clinical efficacy study of
+vibegron (Study 008, a Phase 2b study). Subsequently, the initial Phase 3 clinical studies (Studies 301 and
+302) of vibegron w ere conducted by Kyorin Pharmaceutical Co, Ltd in Japan. These three studies, which
+are considered supportive for the current application, focused on doses of SO and 100 mg.
+Based on results from Japanese Phase 3 trials (Studies 301 and 302), vibegron SO mg once-daily received
+approval in Japan in September 2018 for OAB indication (Tradename Beova®).
+The Phase 3 registrationa l program conducted by Urovant w as based on a selected dose of 7S mg from
+Phase 1 and 2 studies. It included a large (N = lSlS treated subjects) efficacy and safety study (Study
+3003) and an associated long-term (S2 weeks) efficacy/ safety extension study (Study 3004). These t w o
+Phase 3 studies provide the primary efficacy and safety information supporting the proposed
+registration of vibegron 7S mg for the treatment of OAB.
+The Clinical Develoement Program
+In support of this NOA, the applicant submitted t w o pivotal Phase 3 studies conducted by Urovant
+(Studies RVT-901-3003 and RVT-901-3004), t w o Phase 3 studies conducted by Kyorin in Japan (Studies
+KRP114V-T301 and KRP114V-T302), one Phase 2b dose-finding study (Study MK-4618-008), and 20
+clinical pharmacology studies.
+
+3.2 General Pharmacology and Pharmacokinetic Characteristics
+Pharmacology
+Mechanism of Action
+
+Mbegron is a selective human beta-3 adrenergic receptor (AR) agonist.
+~ctivat ion of the beta-3 AR increases bladder capacity by relaxing the
+
+detrusor smooth muscle during bladder filling.
+!Active Moieties
+
+Mbegron is the active moiety; no major metabolites w ere identified.
+
+PT Prolongation
+
+~ta single dose S.3 t imes the recommended dose (7S mg), GEMTESA does
+
+not prolong the QT interval to any clinically relevant extent.
+
+7
+
+Reference ID 4691 247
+
+Effects o n Blood Pressure
+
+In a 4-w eek randomized, placebo-controlled, ambulat ory blood pressure
+study in OAB patients (n=200), once daily treatment w ith 75 mg vibegron
+w as not associated w ith statistically or clinically significant changes in blood
+pressure. In this study, placebo-adjusted mean changes from baseline in
+daytime and 24-hour syst olic blood pressure w ere 0.81 mmHg and 0 .57
+mmHg, respectively.
+
+~eneral Information
+
+Bioanalysis
+
+LC-MS/ MS met hods w ere used to measure vibegron concentrat ions in
+plasma.
+
+Healthy vs. Patients
+
+Mbegron pharmacokinetics w ere similar betw een healthy su bjects and
+patients wit h OAB.
+
+Drug Exposure at St eady State In the pivotal Phase 3 st udy 3003, vibegron plasma concentrations (mean±
+Following the Therapeutic
+
+SD) at 24 hou rs post dose for 75 mg once daily at Week 4, Week 8, and
+
+Dosing Regimen
+
+Week 12 w ere 20.5 ± 19.6, 19.4 ± 26.2 and 21.2 ± 31.6 ng/ mL, respectively.
+!The vibegron 75 mg steady-state Cmax of 150 ± 103 ng/ m L (mean± SD) w as
+report ed in Study RVT-901-1002.
+
+Range of Effective Dose or
+
+Ora l dosing of 75 mg daily
+
+Exposure
+Maximally Tolerated Dose
+
+Phase 1 studies evaluated a single dose of vibegron up to 600 mg and
+
+(MTD) or Exposure
+
+multiple doses up t o 400 mg. MTD w as not identified.
+
+Pharmacody namics
+
+~n ambulatory blood pressure monitoring (ABPM) study w as conducted
+
+because primary safety concerns wit h t he beta 3 agonist class have been
+increases in BP and HR. Based on IRT review of the AMBP st udy, treatment
+of vibegron for 28 days wit h 75 mg once daily did not have a clinical
+Dose Proportionality
+
+meaningfu l effect on BP and HR in patients wit h OAB.
+Mean vibegron Cmax and AUC increase in a greater than dose-proportional
+manner up to 600 mg.
+
+!Accumulation
+
+!The mean steady state Cmax and AUC accumu lat ion ratios are
+approximat ely 1.7 and 2.4, respectively.
+
+!Variability
+
+Mbegron betw een-su bject variabilit y is estimated at 37% t o 59% for AUC
+and 32% t o 67% for Cmax. The w ithin-subject variabilit y for vibegron Cmax
+and AUC ranged from 36 t o 55% and 18 to 40%, respectively.
+
+!Absorptio n
+Bioavailability
+
+jAbsolute bioavailabilit y w as not determined.
+
+8
+
+Reference ID 4691247
+
+rnme t o M aximum
+
+~fter a single oral dose of 75 mg vibegron tablet in Part 2 of t he food effect
+
+Concentration (Tmax)
+
+study 1004, the median (m in-max) of Tmax w as 1 hour (range: 0.5 - 3.0
+hours).
+!The median Tmax ranged from 1 to 3 hours across studies.
+
+Food effect
+Geometric mean ratio [90% Cl]
+
+IAUCO--
+
+~max
+
+Tm ax
+
+~0.63 [0.53-0.74)
+
+ao.37 [0 .27-0.52)
+
+aDelayed by ~3 hours
+
+b0.90 [0.83-0.97]
+
+bo. 70 [0.60-0.82]
+
+bSimilar (Tmax: ~i hour)
+
+~ Foll owi ng a high-fat meal (fe d/ fast ed) cont aining 53% fat, 869 calories
+
+[32.1 g protein, 70.2 g carbohydrat e, and 51.1 g fat ].
+bAdminist ered with apple sauce (crushed in apple sauce/ intact tablet)
+Distribution
+!Volume of Distributionc
+
+!The apparent volume of distribution is approximately 5845 Liters.
+
+Plasma Protein Binding
+
+Mbegron is approximately 50% bound to human plasma protein over a
+concentration range of 0 .1 to 100 µM. The average blood-to-plasma
+concentration ratio is 0.9 in human blood, indicating that vibegron is
+preferentially distributed into the plasma compartment of w hole blood.
+
+IAs Substrate of Transpo rters
+
+Mbegron is a substrate for P-glycoprot ein (P-gp), but not a substrate for
+breast cancer resistance protein (BCRP), organic anion transport ing
+polypeptide (OATP) 181, OATP1B3, organic cat ion transporter (OCT)l , OCT2,
+multidrug and toxin extrusion transporter (MATE)l , or MATE2-K.
+
+Elimination
+!Terminal Elimination Half-Lifec !The mean (±SD) terminal elimination ha lf-life is 84 (±16.6) hours.
+Effective Elimination Half-Life !The effective half-life is 30.8 hours.
+
+'Metabolism
+Fraction M etabolized (% dose) 8.2% of t he drug is metabolized as a percent of the dose.
+Primary Met abolic Pathw ay(s) Met abolism plays a minor role in the elimination of vibegron. CYP3A4 is the
+predominant CYP enzyme responsible for in vit ro metabolism.
+Seven minor metabolites w ere detected in urine and feces, 6 of which (M l ,
+M3, M4, M6, Mll, and M17) are oxidative met abolites and met abolite M7
+is an 0 -glucuronide conjugate of vibegron.
+
+!Excretion
+Primary Excretion Pathways
+
+Following a radiolabeled dose, approximately 59% of t he dose w as
+recovered in feces (54% of t he radioactive dose excreted unchanged) and
+20% in urine (19% of the radioactive dose excreted unchanged).
+
+~nteraction liability (Drug as perpetrator)
+
+9
+
+Reference ID 4691247
+
+Inhibition/Induction of
+Metabolism
+
+Vibegron is not an inhibitor of human CYP1A2, 2B6, 2C8, 2C9, 2C19, 2D6, or
+3A4/5 at concentrations up to 100 µM, which is 361-fold higher than
+clinically relevant concentrations and did not cause time dependent
+inhibition of these enzymes. Furthermore, vibegron did not induce CYP1A2,
+CYP2B6, or CYP3A4.
+
+Inhibition/Induction of
+Transporter Systems
+
+Vibegron did not inhibit P-gp, BCRP, OATP1B1, OATP1B3, OAT1, OAT3,
+OCT1, OCT2, MATE1, or MATE2-K at clinically relevant concentrations.
+
+After a single oral dose of 75 mg tablet (Part 2 of the food effect study 1004)
+
+C
+
+3.3 Clinical Pharmacology Review Questions
+3.3.1 To what extent does the available clinical pharmacology information provide pivotal or
+supportive evidence of effectiveness?
+The 75 mg once daily dose of vibegron was selected for pivotal Phase 3 studies (Studies 3003 and 3004)
+primarily based on safety and efficacy results obtained in the Phase 2 dose-finding study (Study 008).
+Four doses of vibegron at 3, 15, 50, and 100 mg administered once daily were evaluated in Study 008, a
+Phase 2b, randomized, double-blind, placebo- and active comparator-controlled, parallel-group study in
+patients with OAB. The primary efficacy endpoint was change from baseline in daily number of
+micturition at Week 8. PK/pharmacodynamic (PD) modeling data obtained from the study suggested
+that the effect of vibegron on micturition frequency, urgency episodes and urge incontinence generally
+increases, with incremental plateauing of effect, from 50 to 100 mg. Details of the PK/PD modeling
+exercise can be found in pharmacometrics report (Appendix 4.5).
+3.3.2 Is the proposed dosing regimen appropriate for the general patient population for which
+the indication is being sought?
+Yes. The proposed regimen is supported by clinical efficacy, safety, PK, and PD data. The safety and
+efficacy of vibegron 75 mg once daily for the treatment of OAB have been demonstrated in the pivotal
+Phase 3 study (Study 3003). Efficacy evaluations from Study 3003 consistently demonstrated the
+superiority of vibegron 75 mg over placebo across both co-primary efficacy endpoints. For details of the
+Phase 3 study, please see the Medical Officer’s review.
+Clinical pharmacology information that supports the proposed dosing regimen of vibegron is presented
+below:
+Efficacy-response (ER) for efficacy
+In the range of exposure for vibegron 75 mg oral tablet once daily, there were no significant ER
+relationships for vibegron on the co-primary efficacy endpoints (i.e., change from baseline [CFB] in
+average daily number of micturition at Week 12 and CFB in average daily number of UUI episodes at
+Week 12).
+10
+
+Reference ID: 4691247
+
+In the initial ER analysis, vibegron trough concentrations from studies 3003 and 008 vs. the CFB at Week
+8 in micturition frequency (MF) and in UUI episodes are plotted and overlaid with the estimates of the
+Emax model (See Figure 6 and 7 of the Pharmacometrics Review). Due to difference in study duration
+(i.e., 8 weeks for Study 008 and 12 weeks for Study 3003), CFB in both endpoints at week 8 were
+included in the analyses.
+Later, the ER analysis was updated using the data from the pivotal Phase 3 Study 3003 only. Vibegron
+trough concentrations from Study 3003 vs. the CFB at Week 12 in MF and in UUI episodes are plotted
+and overlaid with the estimates of the Emax model (See Figure 8 and 9 of the Pharmacometrics Review).
+In summary, ER analyses for efficacy demonstrate that there is no clear relationship between vibegron
+exposures and the two co-primary endpoints ( CFB in micturition frequency and CFB in UUI episodes).
+Safety
+•
+
+Vital signs
+
+An ambulatory blood pressure (AMBP) monitoring study (Study 1001) was conducted in patients with
+OAB to study the effect of vibegron 75 mg at steady state on ambulatory blood pressure and heart rate.
+Based on analysis performed by the Interdisciplinary Review Team (IRT) for Cardiac Safety Studies, the
+mean (90% CI) of the treatment difference for vibegron vs placebo was 0.5 (-1.3, 2.4) mmHg in daytime
+systolic blood pressure (SBP), -0.3 (-1.5, 1) mmHg in daytime diastolic (DBP) and 1 (-0.3, 2.2) bpm in
+daytime HR. It was concluded by IRT that no significant effects of vibegron on blood pressure (BP) was
+observed in this ABPM study as evidenced by an upper bound of 1.7 mmHg for the mean change from
+baseline in systolic BP.
+•
+
+QTc assessment
+
+No significant QTc prolongation effect of vibegron was detected in the QT assessment for vibegron. The
+effect of vibegron was evaluated in a single dose, randomized, double-blind, placebo and activecontrolled, 4-period, crossover, TQT study (Study P012) in 52 healthy subjects. The highest dose of
+vibegron evaluated was 400 mg, which covers the worst-case exposure scenario (i.e., 2-fold increase in
+the presence of a strong CYP3A4 inhibitor).
+3.3.3 Is an alternative dosing regimen and/or management strategy required for
+subpopulations based on intrinsic factors?
+Yes, vibegron is not recommended for use in patients with end-stage renal disease with or without
+hemodialysis or in patients with severe hepatic impairment because it was not studied in these
+populations.
+Effects of body weight, age, estimated glomerular filtration rate (eGFR), sex, race (Japanese vs nonJapanese), disease status (i.e. OAB) on vibegron PK were evaluated in the population PK analysis.
+Hepatic impairment was not tested as a covariate in the population PK analysis because the dedicated
+hepatic impairment study did not raise any concern. Body weight, eGFR, age, and disease status were
+significant covariates for vibegron PK.
+11
+
+Reference ID: 4691247
+
+Historically, primary safety concerns with the beta 3 adrenergic receptor agonist class have been
+increases in BP and HR. The greatest magnitude of increase in vibegron exposure due to intrinsic factors
+is ~2-fold as seen in the dedicated renal impairment study. A 2-fold increase in vibegron AUC and Cmax
+with a 75 mg dose is not considered clinically significant based on the following evidence:
+•
+
+•
+
+A higher vibegron dose of 100 mg has been evaluated in 681 patients with OAB of which 174 have
+been exposed for at least 52 weeks in Phase 2 (Study 008) and Japapnses Phase 3 (Study 301 and
+302) studies. No significant safety or tolerability issues or clinically relevant changes in BP
+occurred.
+The 100 mg exposures in Japanese population are similar to a doubling of a 75 mg dose in US
+population (See Appendix 4.5 pharmacometrics review for details).
+
+Renal Impairment
+In the population PK analysis, eGFR was a statistically significant covariate on the PK of vibegron. However,
+the effect of renal impairment was not clinically meaningful as represented by the 10% to 57% increase
+in vibegron AUC and the 6% to 24% increase in Cmax across varying degrees of renal impairment after a
+single oral dose of 75 mg vibegron as listed in Table 1.
+Table 1. Simulated Vibegron AUC and Cmax from the Population Pharmacokinetic Analysis for Various Levels of
+Renal Function and Comparison of AUC and Cmax in Renal Impairment to Normal Renal Function
+
+AUC
+
+Cmax
+
+Source: Tables 4 and 5 in 2020930-rep-clinpharm 1.
+
+In a dedicated renal impairment study (Study 014) testing vibegron single dose of 100 mg, patients with
+mild, moderate, and severe renal impairment had mean vibegron total exposures (AUC0-∞) 49%, 106%,
+and 83% higher, respectively, than the healthy matched control subjects. The mean peak vibegron
+exposures (Cmax) in mild, moderate, and severe renal impairment patients were 96%, 68%, and 42%
+higher, respectively, than in the healthy matched control subjects.
+
+12
+
+Reference ID: 4691247
+
+Based on these results, no dosage adjustments are recommended for patients with mild, moderate, or
+severe renal impairment. Vibegron is not recommended for use in patients with End-Stage Renal Disease
+because the drug has not been investigated in this subpopulation and changes in vibegron exposure could
+be even greater than observed for mild to severe.
+Hepatic Impairment
+In a dedicated hepatic impairment study, the PK of vibegron in subjects with moderate hepatic
+impairment and healthy matched controls were evaluated following a single oral dose of vibegron 100 mg.
+Compared to the healthy controls, vibegron Cmax and AUC increased 35% and 27% in subjects with
+moderate hepatic impairment, respectively (Table 2).
+Table 2. Geometric Least Squares Mean and Statistical Comparison of Vibegron Pharmacokinetics in Moderate
+Hepatic Impairment and Healthy Control Subjects (Study 013)
+
+The changes in vibegron exposures in subjects with moderate hepatic impairment are not considered
+clinically meaningful. Thus, no dose adjustment for vibegron is recommended in OAB patients with mild
+or moderate hepatic impairment. Vibegron has not been evaluated in subjects with severe hepatic
+impairment and therefore, is not recommended in this population.
+Sex and Age
+In Phase 1 studies, vibegron exposures have been evaluated in young (18 to 45 years), middle-aged (46 to
+64 years) and elderly (65 to 85 years) males and females. No clinically significant differences were
+observed and thus, no dosage adjustments are recommended in patients based on sex or age.
+Vibegron exposures are higher in elderly compared to middle-aged and younger subjects. Steady-state
+vibegron AUC0-24h and Cmax values were ~1.7-fold and ~1.3-fold greater, respectively, in the elderly
+compared with younger males.
+
+13
+
+Reference ID: 4691247
+
+Vibegron plasma concentrations were slightly higher in middle-aged females (46 to 64 years) compared
+with middle-aged males (~1.5-fold higher steady-state AUC in middle-aged females), which was also
+observed when comparing exposures in elderly (65 to 85 years) females to those in elderly males.
+In population PK analysis, gender was not a significant covariate on vibegron PK. Age was a significant
+covariate but its impact on Cmax and AUC of vibegron is not clinically relevant.
+Body weight
+In population PK analysis, body weight had a statistically significant and modest effect on clearance and
+central volume of distribution. The mean (SD) weight for patients with OAB enrolled into Study 3003 was
+83.5 (20.7) kg. The median predicted vibegron AUCtau and Cmax were 31% and 71% higher, respectively,
+in subjects weighing < 60 kg compared with subjects weighing 75 to < 90 kg.
+In addition, based on simulated data, although exposure of vibegron in patients with low body weight
+(<10th percentile of subject in Study 3003, 40 - 52.3kg) is higher than those with median body weight (25th
+to 50th percentile of subjects in Study 3003, 69 - 100 kg), the magnitude of increase (within 2-fold for all
+AUC, Cmax and Caverage) is not considered clinically meaningful.
+From an efficacy perspective, differences in body weight were not associated with differences in daily MF
+or UUI episodes given a fixed dose of 75 mg once daily in Study 3003 (See Figure 10 and 11 in
+Pharmacometrics review). Similar results in efficacy and exposures were observed across all 4 weight
+quartiles when the same analyses were performed for Studies 3003 and 008 combined, further supporting
+results from Study 3003 that body weight was not correlated with efficacy. In addition, the vibegrontreated patient with the largest body weight (161.30 kg) in Study 3003 achieved clinical improvements in
+daily micturition and UUI episodes that were generally consistent with the overall response for the
+vibegron treatment group.
+From a safety perspective, the proportion of vibegron-treated patients experiencing any TEAE was similar
+for both weight subgroups: 36.8% in the ≤ 25th percentile and 39.4% for the > 25th percentile and 38.2%
+in the ≤ 75th percentile and 40.3% for the > 75th percentile, demonstrating that the fixed vibegron dose
+of 75 mg did not lead to an increased incidence of TEAEs in patients with lower body weight. See Table 7
+and Table 8 in Pharmacometrics review for more details.
+Thus, no dose adjustment based on body weight is needed.
+Race and Ethnicity
+Race (White and other versus Asian versus Black) was not identified as a significant covariate in the
+population pharmacokinetic analysis.
+No dose adjustment based on race or ethnicity is needed.
+Effect of Disease Status (OAB vs. Healthy)
+
+14
+
+Reference ID: 4691247
+
+OAB status was a statistically significant covariate on clearance. Based on population PK analysis, healthy
+subjects had 19.5% lower clearance relative to OAB patients; however, this magnitude of difference in
+clearance is not considered clinically relevant.
+3.3.4 Are there clinically relevant food-drug or drug-drug interactions and what is the
+appropriate management strategy?
+Six drug-drug interaction studies evaluating vibegron in combination with 9 drugs have been conducted.
+A dedicated food effect study was conducted to assess the PK of vibegron following administration of a
+single dose of the to-be-marketed tablet 75 mg after a high-fat meal, and after the tablet was crushed in
+apple sauce. In addition, vibegron was given with or without food in the Phase 2 and Phase 3 studies
+(3003/3004).
+The observed increase in digoxin due to coadministration with vibegron is considered clinically relevant
+and we proposed the following labeling language for digoxin. “Measure serum digoxin concentrations
+before initiating GEMSTA. Reduce digoxin dose as necessary. Continue monitoring digoxin concentrations
+upon discontinuation of GEMSTA and adjust digoxin dose as needed.”
+Drug-drug Interactions
+In vitro data suggest that the metabolism of vibegron, although minor, occurs via CYP3A4/5 isoenzymes.
+Vibegron is also a substrate for the human efflux transporter P-gp but not a substrate for other major
+transporters.
+In vitro, vibegron is not an inhibitor or inducer of major human CYP enzymes. Vibegron is not an inhibitor
+of major drug transporters except for OCT1, OCT2, and MATE1 where inhibition occurs at concentrations
+that are 32- to 130-fold of the human Cmax after multiple daily doses of vibegron 75 mg.
+•
+
+Effect of Co-Administered Drugs on the PK of Vibegron
+
+Co-administration of vibegron with a moderate (diltiazem) and strong (ketoconazole) CYP3A/P-gp
+inhibitor resulted in a small and modest increase in vibegron exposures, respectively. The increase in
+vibegron exposure in the presence of a moderate or strong CYP3A/P-gp inhibitor is ~2-fold and is not
+considered clinically significant primarily based on safety data of 100 mg vibegron in Japanese Phase 3
+studies (also see Section 3.3.3).
+In the presence of the CYP3A4 inducer rifampin, vibegron geometric mean AUC was comparable to
+vibegron alone. However, vibegron Cmax was 86% higher following coadministration with rifampin
+compared to a single dose of vibegron administered alone. The similar AUC and t½ between treatment
+groups suggest that strong CYP3A4 inducers, such as rifampin do not decrease exposures of vibegron. The
+reason for the increased Cmax of vibegron in the presence of rifampin is unclear.
+Co-administration of vibegron with tolterodine (a drug approved for OAB) resulted in small and nonclinically relevant changes in either vibegron AUC or Cmax.
+
+15
+
+Reference ID: 4691247
+
+The geometric mean ratios (90% confidence interval) of Cmax and AUC for vibegron co-administered with
+concomitant medications are summarized in Figure 1.
+Figure 1. Geometric Mean Ratio (90% Confidence Interval) AUC and Cmax of Vibegron with and without the CoAdministered Drug
+
+Source: Figure 9 of Module 2.7.2 Summary of Clinical Pharmacology
+
+•
+
+Effect of Vibegron on the PK of Co-Administered Drugs
+
+Co-administration of vibegron and tolterodine (another approved OAB product) did not affect the AUC
+or Cmax of tolterodine.
+The AUC and Cmax of metoprolol, a commonly used anti-hypertensive agent, increased 40% and 49%,
+respectively, in the presence of vibegron; however, the metoprolol t½ was not affected by concomitant
+administration with vibegron (9.49 hours alone versus 10.88 hours with vibegron). The increase in
+metoprolol exposures is considered not clinically significant.
+Co-administration of vibegron and digoxin (a narrow therapeutic drug and a P-gp substrate) increased
+the AUC and Cmax of digoxin by 11% and 21%, respectively. Because digoxin is a narrow therapeutic
+drug, the observed increase in digoxin exposure warrants labeling language regarding coadministration
+of digoxin and vibegron.
+Co-administration of vibegron and warfarin (a narrow therapeutic drug and a CYP2C19 substrate)
+increased AUC and Cmax of R-warfarin by 17% and 5%, respectively. The effect on S-warfarin was within
+a similar magnitude. The changes are not clinically meaningful.
+
+16
+
+Reference ID: 4691247
+
+In a DDI study evaluated the effect of vibegron on a combined oral contraceptive containing ethinyl
+estradiol (EE) and levonorgestrel (LNG), EE exposures did not change whereas LNG AUC0-∞ and Cmax
+increased ~20%. This increase in LNG exposure is not considered clinically meaningful.
+The geometric mean ratios (90% confidence interval) Cmax and AUC for drugs co-administered with
+vibegron are summarized in Figure 2.
+Figure 2. Geometric Mean Ratio (90% Confidence Interval) AUC and Cmax of Co- Administered Drug with and without
+Vibegron
+
+Source: Figure 10 of 2.7.2 Summary of Clinical Pharmacology
+
+Effect of Food
+Vibegron exposures from a 75 mg dose of the to-be-marketed tablet were assessed after a high-fat
+meal. Vibegron Cmax and AUC decreased approximately by 63% and 37%, respectively, in the presence
+of a high fat meal compared with the fasted state. The tmax was delayed by approximately 3 hours (4
+hours at fed state vs. 1 hour at fasted state) when vibegron was administered with a high-fat meal.
+Vibegron Cmax decreased 30% and AUC(0-∞) decreased ~10% when given after the tablet was crushed
+and mixed in a tablespoon of applesauce. The tmax was similar when vibegron was administered intact
+in a fasted state and when administered crushed in applesauce (~1 hour).
+Vibegron was dosed in the Phase 2 (008) and Phase 3 (3003/3004) studies without regard to meals.
+17
+
+Reference ID: 4691247
+
+Considering that there was no clear ER relationship for the efficacy of vibegron for OAB and that
+vibegron was administered without regard to meals in the Phase 2 (008) and Phase 3 (3003/3004)
+studies which demonstrated safety and efficacy at the proposed dose of 75 mg, vibegron can be
+administered to patients without any restrictions on food administration.
+
+4. APPENDICES
+4.1 Summary of Bioanalytical Method Validation and Performance
+4.2 Clinical vs. To-be-marketed Formulations
+4.3 Clinical PK and/or PD studies
+4.4 Clinical Drug Interaction Studies
+4.5 Pharmacometrics Review
+
+18
+
+Reference ID: 4691247
+
+4.1 Summary of Bioanalytical Method Validation and Performance
+The methodology for analysis of plasma samples for vibegron levels was initially developed and validated by Merck Research Laboratories, West
+Point, PA (Validation Report DM-956). The methodology was revalidated following each laboratory transfer (as documented in Modification
+Report BP0004, and Validation Reports 10BAS0323 and 177107ARHP, respectively). The methodology for analysis of urine samples for vibegron
+levels was developed and validated by Merck Research Laboratories, West Point, PA (Validation Report DM-956).
+The lower limit of quantification (LLOQ) of the assay for vibegron was 0.2 ng/mL. The detailed method and validation parameters are described
+below (Table 1 and Table 2). The linearity of standard curve, selectivity/specificity, assay accuracy and precision, extraction efficiency and
+dilution fulfilled the standard acceptance criteria. The established frozen storage stability and run storage stability covered the corresponding
+study period and sample analysis period. Performance of these assays during bioanalyses of PK samples were acceptable.
+Table 3. Summary of Key Validation Parameters for LC-MS/MS assays for Determining Vibegron in Plasma
+
+Validation Report
+
+Clinical
+Studies
+
+Method Description and Performance
+
+Validation of LC-MS/MS methods for analysis of vibegron in plasma
+Vibegron
+Human Plasma (EDTA)
+Merck Research Laboratories
+West Point, PA 19486
+Validation Report: DM-956 Title:
+Analytical Procedure for the
+Determination of MK-4618 in Human
+Plasma (HPLC-MS/MS)
+Supplemental Memo
+(NB-chenli-0298157-0036)
+(Long-term Stability)
+Title: QC Stability Determination of
+MK-4618 for 13 Months at -20°C
+
+001
+002
+003
+006
+007
+009
+011
+
+Vibegron extracted from 100 µL human plasma by protein precipitation using acetonitrile. Vibegron
+and the internal standard (IS), [D6]-vibegron, separated by HPLC using HILIC column (2.1 mm by 50
+mm, 3 µm particle size) and detected with tandem mass spectrometric detection (API 4000) employing
+a turbo ionspray interface in positive ion mode.
+Lower Limit of Quantitation (LLQ): 0.2 ng/mL
+Calibration/Validated Assay Range: 0.2 to 200 ng/mL
+Calibration Curve Performance:
+Precision (%CV): ≤5.0, Accuracy (%bias): -4.6 to 2.0
+Quality Control (QC) Levels:
+0.2 (LLQ), 0.6 (low [L]), 50 (medium[M]),
+160 ng/mL (high [H])
+Within-run Precision (%CV):
+L, M, & H QCs: ≤ 2.6, LLQ QC: ≤8.1 Betweenrun Precision (%CV):
+L, M, & H QCs: not determined, LLQ QC: 5.1
+Within-run Accuracy (%bias):
+L, M, & H QCs: -4.6 to 1.9, LLQ QC: -1.8 to 7.6
+Between-run Accuracy (%bias):
+L, M, & H QCs: not determined, LLQ QC: 1.7
+Stability in Human Plasma:
+Freeze-thaw Stability:
+3 freeze-thaw cycles from -20°C Shortterm Stability:
+5.5 hours at room temperature Long-term
+Stability:
+13 months at -20°C
+Stock Solution Stability:
+34 days at 4°C, one day at room temperature
+Processed Extract Stability:
+3 days at room temperature in autosampler
+
+19
+
+Reference ID: 4691247
+
+Validation Report
+
+Clinical
+Studies
+
+Method Description and Performance
+
+Vibegron
+Human Plasma (EDTA)
+
+012
+013
+
+Vibegron extracted from 100 µL human plasma by protein precipitation using acetonitrile, with
+optional subsequent step of evaporation of eluate and reconstitution in mobile phase. Vibegron and
+IS ([13C6]-vibegron) separated by UPLC using a HILIC column (2.1 mm by 50 mm, 3 µm particle
+size), and detected with tandem mass spectrometric detection (API 4000) employing a turbo ionspray
+interface in the positive ion mode.
+Lower Limit of Quantitation (LLQ): 0.2 ng/mL
+Calibration/Validated Assay Range: 0.2 to 200 ng/mL
+Calibration Curve Performance:
+Precision (%CV): ≤4.00, Accuracy (%bias): -0.94 to 0.94
+QC Levels:
+0.2 (LLQ), 0.6 (L), 50 (M), 160 ng/mL (H)
+Within-run Precision (%CV):
+L, M, & H QCs: ≤ 5.02, LLQ QC: ≤4.42
+Between-run Precision (%CV):
+L, M, & H QCs: ≤ 6.34, LLQ QC: 10.53
+Within-run Accuracy (%bias):
+L, M, & H QCs: -4.83 to 6.33, LLQ QC: -9.5 to 14.5
+Between-run Accuracy (%bias):
+L, M, & H QCs: -0.17 to 2.99, LLQ QC: 4.50
+Stability in Human Plasma:
+Freeze-thaw Stability:
+4 freeze-thaw cycles from -20°C Shortterm Stability:
+17 hours at room temperature
+Long-term Stability:
+955 days at -20°C and 56 days at -70°C
+Stock Solution Stability:
+293 days at 4°C, 16 hours at room temperature
+Processed Extract Stability:
+74 hours in autosampler at 10°C
+
+Merck Research Laboratories
+5342 CC Oss, The Netherlands
+Modification Report: BP0004
+Title: Modification Report Describing
+Changes to the LC-MS/MS Method
+(DM-956) for MK-4618 in Human
+Plasma
+Supplemental Memo
+(NB-xuelingl-0298270-0007)
+(Incorporation of Solution Stability)
+Title: Nine-month Solution Stability
+Determination of MK-4618
+
+20
+
+Reference ID: 4691247
+
+Validation Report
+Vibegron
+Human Plasma (K2EDTA)
+
+Validation Report: 10BAS0323
+Title: Validation Report of an
+LC-MS/MS Method for the
+Determination of MK-4618 in Human
+Plasma (K2EDTA)
+Supplemental Memo
+(NB-chenli-0298157-0036)
+(Long-term Stability)
+Title: QC Stability Determination of
+MK-4618 for 13 Months at -20°C.
+Supplemental Memo
+(NB-xuelingl-0298270-0007)
+(Incorporation of Solution Stability)
+Title: Nine-month Solution Stability
+Determination of MK-4618
+
+Clinical
+Studies
+004
+008
+010
+(b) (4)
+014
+015
+018
+
+Method Description and Performance
+Vibegron extracted from 100 µL human plasma by protein precipitation using acetonitrile. Vibegron
+and IS ([2H6]-vibegron) separated by HPLC using a HILIC column (2.1 mm by 50 mm, 3 µm particle
+size), and detected with tandem mass spectrometric detection (API 4000) employing a turbo ionspray
+interface in the positive ion mode.
+Lower Limit of Quantitation (LLQ): 0.2 ng/mL
+Calibration/Validated Assay Range 0.2 to 200 ng/mL
+Calibration Curve Performance:
+Precision (%CV): ≤5.0, Accuracy (%bias): -4.8 to 5.9
+QC Levels:
+0.2 (LLQ), 0.6 (L), 50 (M), 160 ng/mL (H)
+Within-run Precision (%CV):
+L, M, & H QCs: ≤3.3, LLQ QC: 4.5
+Between-run Precision (%CV):
+L, M, & H QCs: ≤2.4, LLQ QC: 4.5
+Within-run Accuracy (%bias):
+L, M, & H QCs: 0.0 to 6.9, LLQ QC: 10.0
+Between-run Accuracy (%bias):
+L, M, & H QCs: 0.0 to 5.4, LLQ QC: 10.0
+Stability in Human Plasma:
+Freeze-thaw Stability:
+3 freeze-thaw cycles from ≤-15°C Shortterm Stability:
+25 hours at room temperature Long-term Stability:
+401 days at ≤-15°C
+Stock Solution Stability:
+293 days at 4°C, one day at room temperature
+Processed Extract Stability:
+79 hours in autosampler at room temperature
+
+21
+
+Reference ID: 4691247
+
+Validation Report
+Vibegron
+Human Plasma (K2EDTA)
+
+Validation report: 177107ARHP
+Title: Validation of an Ultra
+Performance Liquid Chromatographic
+Method using Tandem Mass
+Spectrometry Detection and Automated
+Extraction for the Determination of
+RVT-901 (200-200000 pg/mL) in
+Human K2EDTA Plasma
+
+Clinical
+Studies
+1001
+1002
+1003
+(b) (4)
+1004
+3003
+
+Method Description and Performance
+Vibegron extracted from 100 µL human plasma by protein precipitation using acetonitrile/methanol
+(50/50) followed by evaporation of eluate and reconstitution in mobile phase. Vibegron and IS
+([D5]-vibegron) separated with reversed-phase UPLC, using X-Select HSS T3 column (4.6 mm by
+30 mm, 2.5 µm particle size), and detected with tandem mass spectrometric detection (API 5000)
+employing a turbo ionspray interface in positive ion mode.
+Lower Limit of Quantitation (LLQ): 0.2 ng/mL
+Calibration/Validated Assay Range 0.2 to 200 ng/mL
+Calibration Curve Performance:
+Precision (%CV): ≤5.39, Accuracy (%bias): -3.84 to 1.83
+QC Levels:
+0.2 (LLQ), 0.6 (L), 100 (M), 150 ng/mL (H)
+Within-run Precision (%CV):
+L, M, & H QCs: ≤4.16 , LLQ QC: 5.77
+Between-run Precision (%CV):
+L, M, & H QCs: ≤5.92, LLQ QC: 16.23
+Within-run Accuracy (%bias):
+L, M, & H QCs: -6.51 to 3.26, LLQ QC: -2.86
+Between-run Accuracy (%bias):
+L, M, & H QCs: -1.73 to 1.62, LLQ QC: 11.53
+Stability in Human Plasma:
+Freeze-thaw Stability:
+4 freeze-thaw cycles at -20°C and -80°C Shortterm Stability:
+23 hours at room temperature and 4°C Long-term
+Stability:
+110 days at -20°C and -80°C
+Stock (& IS) Solution Stability:
+24 hours at room temperature, 116 days at -20°C
+Processed Extract Stability:
+95 hours at room temperature
+
+22
+
+Reference ID: 4691247
+
+Table 4. Summary of Key Validation Parameters for LC-MS/MS assays for Determining Vibegron in Urine
+
+Validation Report
+
+Clinical
+Studies
+
+Method Description and Performance
+
+Validation of LC-MS/MS Methods for Analysis of Vibegron in Urine
+Vibegron
+Urine (0.2% Tween 20)
+Merck Research Laboratories
+West Point, PA 19486
+Validation report: DM-957
+Title: Analytical Procedure for the
+Determination of MK-4618 in Human
+Urine with 0.2% Tween 20 (HPLCMS/MS)
+Supplemental Memo
+(NB-xuelingl-0298270-0007)
+(Incorporation of Solution Stability)
+Title: Nine-month Solution Stability
+Determination of MK-4618
+
+001
+002
+003
+009
+011
+014
+
+Vibegron extracted from 50 µL human urine with 0.2% Tween 20 by protein precipitation using
+acetonitrile. Vibegron and IS ([D6]-vibegron) separated by HPLC using HILIC column (2.1 mm by
+50 mm, 3 µm particle size), and detected with tandem mass spectrometric detection (API 4000)
+employing a turbo ionspray interface in positive ion mode.
+Lower Limit of Quantitation (LLQ): 20 ng/mL
+Calibration/Validated Assay Range: 20 to 20,000 ng/mL
+Calibration Curve Performance:
+Precision (%CV): ≤4.7, Accuracy (%bias): -1.2 to 1.1
+QC Levels:
+20 (LLQ), 60 (L), 8,000 (M), 16,000 ng/mL (H)
+Within-run Precision (%CV):
+L, M, & H QCs: ≤3.6, LLQ QC: ≤13.6
+Between-run Precision (%CV):
+L, M, & H QCs: not determined, LLQ QC: 2.1
+Within-run Accuracy (%bias):
+L, M, & H QCs: 0.0 to 1.8, LLQ QC: -0.5 to 3.5
+Between-run Accuracy (%bias):
+L, M, & H QCs: not determined, LLQ QC: 1.2
+Stability in Human Urine:
+Freeze-thaw Stability:
+3 freeze-thaw cycles from -20°C Shortterm Stability:
+4 hours at room temperature Long-term
+Stability:
+284 days at -20°C
+Stock Solution Stability:
+293 days at 4°C, one day at room temperature
+Processed Extract Stability:
+3 days in autosampler
+
+Assays for DDI Studies:
+LC-MS/MS methods were also developed and validated for the quantitative determination of the plasma concentrations of concomitant
+medications administered in drug interaction studies. Upon detailed review, these bioanalystical methods are acceptable based on FDA
+Guidance for Industry on bioanalytical method validation.
+
+23
+
+Reference ID: 4691247
+
+4.2. Clinical vs. To-be-marketed Formulations
+The qualitative and quantitative composition of the
+to-be-marketed formulation is
+identical to that of the tablet formulation used in phase 3 studies. The two formulations only differed in
+(b) (4)
+of the tablet. No pharmacokinetics (PK) bridging study was
+needed.
+(b) (4)
+
+During the clinical development program, 4 different formulations were evaluated. The first formulation,
+which was used for the early phase 1 studies, was a capsule formulation. This was replaced by an
+(b) (4)
+(b) (4)
+immediate-release
+tablet formulation (hereafter referred to as “
+tablet
+formulation”), which was used in further phase 1 studies and the phase 2 study in subjects with OAB
+(b) (4)
+(b) (4)
+(Study 008). A simplified light green
+tablet formulation (hereafter referred to as “
+tablet 1”) was used for the pivotal phase 3 clinical studies (Study 3003 and Study 3004). When NDA was
+(b) (4)
+submitted, the Applicant initially proposed “
+tablet 2” as the to-be-marketed drug product,
+(b) (4)
+which is the same as “
+tablet 1”, except that the film coating material is a different color.
+(b) (4)
+“
+tablet 2” was used in the food effect study Study 1004.
+During the review cycle, the Applicant decided to switch film coating of the to-be-marketed product
+(b) (4)
+back to the light green film coating, which was applied to “
+tablet 1” (pivotal clinical trials
+(b) (4)
+material). The only reported difference between between “
+tablet 1” and the final to-be(b) (4)
+marketed tablets is
+applied to the tablets.
+An overview of the clinical studies performed with each version of the formulation is provided in Table
+1.
+
+24
+
+Reference ID: 4691247
+
+Table 5. Overview of Vibegron Drug Product Formulations and their Use in Clinical Studies.
+Vibegron Drug Product Formulations
+(b) (4)
+
+Appearance
+
+(b) (4)
+
+Capsule
+
+Tablet
+
+Capsule
+
+(b) (4)
+
+Dosage Strengths 1, 10, 100 and
+
+tablet
+
+coated
+
+(b) (4)
+
+Tablet 1
+
+Tablet 2e
+
+To-be-marketed
+Tablet
+
+(b) (4)
+Light-green
+Light-green
+coated tablet coated tablet coated tablet
+
+3, 15 and 50 mg
+
+150 mg
+
+(b) (4)
+
+50, 75 and
+
+75 mg
+
+75 mg
+
+100 mg
+Clinical Study Number
+
+Phase 1 studies
+
+Phase 2 studies
+
+001 (SAD BA)
+
+004 (PD)
+
+002d (MAD BA)
+003 (SAD BA)
+006 (Bridging I)
+007 (PK/PD, DDI)
+009 (MAD BA)
+
+006 (bridging I) 024 (DDI)
+010 (PK/PD)
+1001 (PD)
+012 (tQTc)
+1002 (DDI)
+013 (Hepatic)
+1003 (DDI)
+014 (Renal)
+015 (DDI)
+018 (bridging II)
+022 (DDI)
+008 (dose finding) 2001b
+
+018a(bridging 1004 (food
+effect)
+
+Pivotal Phase 3
+
+3003
+
+studies
+Other Phase 3
+
+3004
+301
+
+studies
+
+302
+3005c
+
+None
+
+None
+None
+3006c
+
+None
+
+(b) (4)
+
+e Initially proposed as the to-be-marketed formulation when NDA was submitted
+
+The Applicant conducted Study 006 to bridge the capsule formulation and the
+tablet
+formulation. The geometric mean ratios and 90% confidence interval for vibegron AUC0-∞ and Cmax of
+(b) (4)
+the
+tablet formulation to the capsule formulation were 0.94 (0.87-1.00) and 0.90 (0.751.08), respectively.
+(b) (4)
+
+The Applicant conducted Study 018 to bridge the
+tablet formulation and the
+(b) (4)
+tablet formulation (
+tablet 1). The geometric mean ratios and 90% confidence interval of
+(b) (4)
+
+25
+
+Reference ID: 4691247
+
+(b) (4)
+
+vibegron AUCO-oo and Cmax of the
+
+4
+Cb>C l tablet formu lation to the
+
+were 1.00 (0.92-1.09) and 1.08 (0.87-1.33), respective ly.
+
+-----
+
+4
+CbH l tablet formu lation
+
+4
+
+(6)(41
+
+4.2.1. Study P006: Comparative Bioavailability of
+CbH J Tablet (Phase II) and
+4
+CbH l (Phase I) Formulations of Vibegron
+---------
+
+---
+
+Study Title: A single-dose study to compare the pharmacokinetics of the Phase I and Phase 11
+formu lations of MK-4618 in healthy young subjects.
+Objectives: To compare the bioavailabilit y between the capsule and
+
+4
+CbH l tablet formu lations
+
+-----
+
+using AUCO-= as primary endpoint and other PK parameters (i.e., Cmax, Tmax, Ti12) as secondary
+endpoints, after a single dose of 150 mg vibegron.
+Study Design: This was a randomized, open-label, single-dose, 2-period crossover study.
+Period I
+
+Pu iod 2
+
+Study Day 1
+
+Study Day 1
+
+Vibegron 150-mg single close
+1 x 150-mg capsule
+
+Vibegron 150-mg single dose
+3 x 50-mg
+<6H41tablets
+
+?: 28-day
+washout
+OR
+
+Vibegron 150-mg__single dose
+CbH41 tablets
+3 x 50-mg
+
+Vibegron 150-mg single dose
+l x 150-mg capsule
+
+".::: 28-day
+
+washout
+
+Doses were administered in fasted-state
+
+Blood samples for vibegron were at pre-dose, 0.5, 1, 2, 3, 4, 6, 8, 12, 16, 24, 48, 72, 120, and 216 hours
+post-dose. Plasma concentrations of vibegron were ana lyzed using validated LC/ MS/ MS assays by Merck
+Research Laboratories West Point, PA, with LLOQ of 0.2 ng/ mL (Validation report: DM-956).
+Subject Disposition: A tota l of 22 healthy male subjects aged 18 to 45 years were randomized, and 21
+subjects completed the study. One s ubject prematurely discontinued as unavailable for Period 2.
+Available data from all s ubjects were included in the analyses of safety and PK.
+Safety Results: No serious adverse events (SAEs), adverse events of clinical interest (AECls), or adverse
+events (AEs) that resulted in subject discontinuation were reported.
+PK Results: The geometric least-squares (GLS) means for the vibegron AUCO-= and Cmax, and the ratio
+4
+of GLS means
+CbH Ytablet formu lation/ capsule formu lation) after administration of a single
+4
+dose of
+CbH l tablet or capsule are presented in Table 2.
+Table 6. Comparison of PK Parameters Following Administration of Single 150-mg Vibegron Dose as (6)(4l
+4
+CbH l Tablet and
+Cb>C4l Capsule: Study 006
+
+---
+
+26
+
+Reference ID 4691247
+
+The 90% CI for the GMR between the
+tablet and capsule formulations for AUC0-∞ was
+within the range of 0.8 to 1.25. The median Tmax was 1.0 h (range: 0.5 h to 3.0) for the capsule and 2.0
+(b) (4)
+h (range 0.5 h to 4.0 h) for the
+tablet. GLS mean (and coefficient of variation [CV%]) values
+(b) (4)
+for t½ were similar for the capsule (68.9 h [9.7%]) and
+tablet (65.7 h [ 9.4%]) formulations.
+(b) (4)
+
+Conclusions:
+Vibegron PK following a 150-mg single dose of the
+tablet formulation was comparable to
+that of the capsule formulation. The results of this study supported the transition from the capsules
+(b) (4)
+formulation to
+tablet.
+(b) (4)
+
+4.2.2. Study P018: Comparative Bioavailability of Two Tablet Formulations of Vibegron
+(b) (4)
+Tablets vs.
+Tablet 1)
+
+(b) (4)
+
+Study Title: A study of the comparative bioavailability of MK-4618 in healthy subjects
+Objective: To evaluate comparative bioavailability of vibegron 50-mg
+(b) (4)
+50-mg
+tablets after a single dose.
+
+(b) (4)
+
+tablets vs. vibegron
+
+Study Design: This was a randomized, open-label, single-dose, 2-period crossover study.
+
+27
+
+Reference ID: 4691247
+
+P eriod 1
+
+Period 2
+
+Stucly Day 1
+
+Stucly Day I
+
+Vibegron 50-mg sin gle dose
+(b) (4Jtablet
+
+Vibegron 50-mg single dose
+2: 14-day washout
+
+(b)(41ra b let
+
+OR
+
+Vibegron 50-mg sin gle dose
+(bH4>rablet
+
+Vibegron 50-mg single dose
+2: 14-day washout
+
+(b) C41tablet
+
+Dos es w ere administered in fasted-state
+
+Blood samples for vibegron were at pre-dose, 0.5, 1, 2, 3, 4, 6, 8, 12, 16, 24, 48, 72, 120, and 216 hours
+41
+post-dose. Plasma concentrations of vibegron were ana lyzed using validated LC/ MS/ MS assays
+(bJ<
+4
+(bH J with LLOQ of 0.2 ng/ ml (Va lidation report: 10BAS0323).
+
+----
+
+Subject Disposition: A tota l of 20 healthy male and fema le subjects between the ages of 18 years and 54
+years were randomized, and all 20 subjects completed the study. All available data from all subjects
+were included in the analyses of safety and PK.
+Safety Results: No SAEs, AECls, or AEs that resulted in subject discontinuation were reported.
+PK Results: Vibegron AUCO-oo, AUC0-24 and Cmax GMR and 90% Cls after administration of a single
+4
+41
+dose of
+<6H tablet or
+(bH Ytablet are presented in Table 3.
+(6)(4)
+
+Table 7. Comparison of PK Parameters Following Administration of Single Vibegron 50-mg Dose as
+Tablets and
+(bH41 Tablets: Study 018
+-----
+
+AUCo-«> = ai·ea-under-the-plasma-concentration vs. time curve from time. zero to infinity; AUC0-24 =area -under-the-plasmaconcentration vs.. time curve from t ime zero to 24 h post-dose : Cl = confidence interval ; C unx = maximum plas ma
+concentration: C SR = clinical study report: %C'V= coefficient of rnriation; GLS = geometric least-squares; G MR = geometric
+mean ratio; PK= phaimacokinetics
+
+Note: AUC and Cmax values were nattu-a l log-transformed and evaluated in linear mixed effects models. with period and
+(bJ<41tablet formulation/
+(b)(4~tablet fonnulation was
+treatment as fixed effects. Two-sided 90% CI for the GMR of:
+ca lculated.
+
+28
+
+Reference ID 4691247
+
+The 90% CI of the GMR between the
+tablet formulations for AUC0-∞ and
+AUC0-24 were within the range of 0.8 to 1.25. While the upper limit of the 90% CI for Cmax was slightly
+higher than the upper limit of the bioequivalence range (i.e., 1.33 compared to 1.25), it should be noted
+that the intra-subject variability for this parameter was high (CV 38%).
+(b) (4)
+
+Median Tmax was 2.0 h (range: 0.5 h to 4.0 h) for the
+tablet, and 1 h (range: 0.5 h to 5.0 h)
+(b) (4)
+for the
+tablet. GLS mean (CV%) values for t½ were very similar for the 2 formulations: 68.1 h
+(b) (4)
+(b) (4)
+(30.7%) for the
+tablet and 70.0 h (23.8%) for the
+tablet.
+(b) (4)
+
+Conclusions:
+Vibegron PK following a 50-mg single dose of the
+tablet formulation was comparable to that of
+(b) (4)
+(b) (4)
+the
+tablet formulation. The results of this study supported the transition from the
+(b) (4)
+(b) (4)
+tablet formulation to the
+tablet formulation.
+(b) (4)
+
+29
+
+Reference ID: 4691247
+
+4.3. Clinical PK and/or PD studies
+4.3.1. Study 011: Mass Balance Study
+Title: A Study to Investigate the Absorption, Metabolism, Excretion, and Mass Balance of MK-4618
+Objective(s): to evaluate the absorption, distribution, metabolism and excretion (ADME) of a single dose
+of [14C]-MK-4618.
+Design: Healthy adult male subjects (N=6) between 19 and 55 years of age received a single oral dose of
+100 mg ([14C])-MK-4618 (~92 μCi) with 240 mL of water after fasting for at least 10 hours prior to
+dosing. Blood, urine, and feces were collected until the majority of radioactivity was recovered to
+evaluate [14C]-MK-4618 excretion and possible metabolites up to 28 days post-dose.
+Subjects remained confined to the clinic site for a minimum of 216 hours post-dose (Day 10 of the
+study). Following the minimum 216-hour confinement, subjects were discharged at any time during the
+study if either one of these 2 criteria were satisfied: 1) Total recovery of the radioactivity in urine and
+feces was ≥ 90% or; 2) There was ≤ 1% of the administered radioactivity in each of 2 consecutive
+samples from combined 24-hour urine and fecal collections.
+If discharge criteria were not met by 216 hours (Day 10) postdose, collection for urine and fecal samples
+continued in 24-hour intervals until discharge criteria were met or a maximum stay of 28 days postdose
+was reached (Day 29). Blood samples were collected at specified time points up to Day 10 (216 hours
+postdose), and in 3-day intervals, until discharge criteria were met or a maximum stay of 28 days
+postdose (Day 29) was reached.
+Plasma and urine samples were assayed for MK-4618 concentrations using liquid chromatography/mass
+spectrometry (LC/MS). Plasma, urine, and fecal samples were measured for total radioactivity.
+Metabolic profiling was performed on selected plasma, urine, and fecal samples using high pressure
+liquid chromatography-high resolution mass spectrometry (HPLC/HRMS), coupled with a UPLC system
+and a β-ram Model 5 radiometric detector.
+Safety Results: No SAE, AECI or subject discontinuation due to an AE occurred.
+PK Results:
+The mean total urinary and fecal recovery of radioactivity following the oral dose was 79.5% (95% CI:
+70.4% - 88.6%) over the 20-day collection interval, with 20.3% in urine (95% CI: 12.1% - 28.4%) and
+59.2% in feces (95% CI: 55.4% - 63.1%). Nineteen percent (19%) of the total radioactive dose was
+recovered in urine and 54% of the total radioactive dose was recovered in feces as unchanged parent
+radioactive drug. Fraction metabolized is calculated as (79.5% - 19% - 54%)/79.5% = 8.2%.
+Although the total recovery of radioactivity 79.5% was less than the applicant’s predefined values of
+85% to 90% for recovery, all the subjects met at least one of the two discharge criteria by Day 20.
+Therefore, the study results were acceptable for the characterization of the primary routes of excretion
+for vibegron.
+Vibegron renal clearance was 157 mL/minute (min).
+
+30
+
+Reference ID: 4691247
+
+Vibegron was the predominant circulating component in human plasma, representing 78% and 73% of
+the total circulating vibegron-related material in the 0-2 and 2-4 hours pooled plasma samples,
+respectively (Table 1).
+Seven (7) minor metabolites were detected in urine and feces. Six (6) of them (M1, M3, M4, M6, M11,
+and M17) are oxidative metabolites. M7, an O-glucuronide conjugate of MK-4618, was the major
+circulating metabolite in plasma accounting for approximately 12% to 14% of the total circulating drugrelated material. M4 and M17, accounted for 4 to 6% and 6 to 7%, respectively, of total drug-related
+material in plasma (Table 1). The radioactivity in plasma samples at all other time points beyond 4 hours
+post-dose was too low to be profiled.
+Table 8. Distribution of Metabolites as Percent of Total MK-4618-Derived Circulating Material in Human Plasma
+(0 - 2 and 2 - 4 Hour Pools, N = 3 Subjects)
+% of Total*
+0-2 hrs
+2-4 hrs
+MK-4618
+78
+73
+M4
+4
+6
+M7
+12
+14
+M17
+6
+7
+Total
+100
+100
+*Estimated based on HPLC-radioactivity detention and MS analysis of the peaks of interest
+Metabolite ID
+
+Modified based on Table 11-4 of Study 011 CSR
+
+Mean plasma concentration-time profiles, mean PK parameters and descriptive statistics of MK-4618
+and total radioactivity in plasma following a single oral dose of radiolabeled 100 mg vibegron are shown
+in Figure 1 and Table 2.
+Figure 3. Arithmetic Mean (SD) Plasma Concentration-Time Profiles of MK-4618 (N = 6) and Total Radioactivity
+(N = 4) Following the Administration of a Single Oral Dose of 100 mg [14C]-MK-4618 (~92 μCi) in Healthy Adult
+Male Subjects (Inset = Semi-log Scale) (N = 6 for MK-4618 and N = 4† for Total Radioactivity)
+
+31
+
+Reference ID: 4691247
+
+†: Subjects AN 0001 and AN 0003 had all BLQ values for total radioactivity. Therefore, data from subjects AN 0001
+and AN 0003 were excluded from presentation of mean total radioactivity concentration equivalents.
+Source: Figure 14-1 of Study 011 CSR
+Table 9. Mean Plasma Pharmacokinetics of MK4618 and Total Radioactivity Following Administration of a Single
+Oral Dose of 100 mg [14C]-MK-4618 (~92 µCi) in Healthy Adult Male Subjects
+
+Source: Table 11-2 of Study 011 CSR
+
+4.3.2. Study 001: Single Ascending Dose Study
+Title: A Two Part, Single-Dose Study to Evaluate the Safety and Pharmacokinetics of MK-4618 in Healthy
+Subjects
+32
+
+Reference ID: 4691247
+
+Objective(s):
+To evaluate the safety and pharmacokinetics of single-ascending oral doses of vibegron in
+healthy young males, elderly males and elderly females in the fasted state;
+• To assess the effect of a high-fat breakfast on the plasma pharmacokinetics of vibegron in
+healthy young men (a single dose of 50 mg, lower than the proposed dose);
+• To compare vibegron pharmacokinetics in elderly females to elderly males;
+• To compare vibegron pharmacokinetics in elderly subjects to healthy young male subjects;
+• To evaluate the effects of single oral doses of vibegron on resting maximum heart rate (HR),
+estimated as the maximum change from pre-dose baseline in moving average of HR over 4
+hours post-dose (MA4);
+• To obtain preliminary data on the urinary excretion of vibegron following a single-dose
+administration of vibegron (exploratory).
+Design: This was a 3-part, double-blind, randomized, placebo-controlled, alternating (Panels A and B and
+Panels D and E), multiple-period study. Panel C contained a single-period and single oral dose.
+•
+
+Panel A (Period 3 and 5) was a complete crossover food effect study in 6 subjects.
+In Parts 1 and 3, blood samples for MK-4618 were collected at predose and 0.5, 1, 2, 3, 4, 6, 8, 12, 24,
+48, 72, 120, and 216 hours (except Panels A and B Period 1 collected for 24 hours and Panel A Periods 2
+and 3, and Panel B Period 2 collected for 120 hours).
+In Part 2 (Elderly), blood samples for MK-4618 were collected at predose and 0.5, 1, 2, 3, 4, 6, 8, 12, 24,
+48, 72, 120, and 216 hours postdose.
+33
+
+Reference ID: 4691247
+
+Plasma concentrations of vibegron were analyzed using validated LC/MS/MS assays by Merck Research
+Laboratories West Point, PA, with LLOQ of 0.2 ng/mL (Validation report: DM-956). Urine concentrations
+of vibegron were analyzed using validated LC/MS/MS assays by Merck Research Laboratories West
+Point, PA, with LLOQ of 20 ng/mL (Validation report: DM-957).
+Subject Disposition: Forty-eight (48) subjects (32 young males and 16 elderly) were enrolled into the
+study and 47 subjects completed the study per protocol. One (1) subject (healthy young male) in Panel E
+(only received 300 mg MK-4618 in Period 1) was discontinued from the study.
+Safety Results: No SAE, AECI or subject discontinuation due to an AE occurred.
+Pharmacokinetic Results:
+The mean ± standard deviation (SD) pharmacokinetic parameters after single doses of vibegron from 2
+to 600 mg are provided in Table 3.
+Table 10. Mean ± SD Vibegron Plasma Pharmacokinetic Parameters Following a Single Dose of Vibegron to
+Healthy Young Males in a Fasted State (Part 1, Panels A and B, Part 3, Panels D and E) and Elderly Males and
+Females (Part 2, Panel C)
+
+Vibegron exhibited greater than dose proportional increases in exposure over a dose range of 5 to 600
+mg.
+
+34
+
+Reference ID: 4691247
+
+A high-fat meal decreased vibegron Cmax approximately 67% and AUC0-∞ approximately 43% after a
+single dose oral administration of 50 mg vibegron. Because 50 mg is lower than the proposed dose of 75
+mg, the food effect results from this study are only considered supportive evidence regarding the
+evaluation of food effect on vibegron PK for this NDA.
+Vibegron AUC values in pooled elderly subjects were approximately 80% higher than that in healthy
+young males Table 3. Vibegron AUC values in elderly females (65 to 79 years of age) were approximately
+30% higher than in elderly males; the geometric mean ratio (GMR) AUC0-∞ was approximately
+contained within the prespecified interval of 0.5 to 2.00 Table 4.
+Table 11. Statistical Comparison of Plasma Pharmacokinetics of MK-4618 Following Administration of Single Oral
+Doses of 50 mg MK-4618 to Healthy Elderly Females Versus Healthy Elderly Males (Part II, Panel C)
+
+Source: Table 11-3 of Study 001 CSR
+
+Vibegron urine pharmacokinetic parameters in healthy young males, elderly males and elderly females
+are summarized in Table 5.
+Table 12. Mean ± SD Vibegron Urine Pharmacokinetic Parameters Following a Single Dose of Vibegron 200 and
+600 mg to Healthy Young Males and Vibegron 50 mg to Elderly Males and Females
+
+Panel (Period)
+
+Dose (mg)
+
+N
+
+Ae0-24 (mg)
+
+fe (%)
+
+CLR (L/hr)
+
+B (4 & 5, young males)
+
+200
+
+12
+
+19.8 ± 8.49
+
+9.88 ± 4.24
+
+12.5 ± 5.89
+
+E (2, young males)a
+
+600
+
+5
+
+133 ± 28.3
+
+22.1 ± 4.71
+
+12.4 ± 1.74
+
+C (1, elderly)
+
+50
+
+12
+
+2.23 ± 1.27
+
+4.47 ± 2.55
+
+6.89 ± 1.81
+
+Ae0-24 =cumulative amount of unchanged drug excreted in urine over the 24-hour collection interval; fe = fraction
+of dose excreted in urine over the 24-hour collection interval; CLR = renal clearance
+a: One subject discontinued and had no available data
+Source: Study 001 CSR, Tables 14-15, 14-16, 14-17
+
+35
+
+Reference ID: 4691247
+
+The results suggest that the fraction of dose excreted renally increases with dose. In young males, renal
+clearance was similar at 200 and 600 mg doses. In contrast, renal clearance was reduced in elderly
+relative to young males.
+Pharmacodynamic Results: Defer to Clinical.
+
+4.3.3. Study 002: Multiple Ascending Dose Study
+Title: A Three-Part, Multiple-Dose Study to Evaluate the Safety and Pharmacokinetics of MK-4618 in
+Healthy Subjects
+Objective(s): to (1) evaluate the safety, tolerability and pharmacokinetics of multiple oral doses of
+vibegron in healthy subjects and (2) assess the effect of vibegron on HR and blood pressure (BP). An
+exploratory objective was to obtain preliminary data on the urinary excretion of vibegron following
+multiple-dose administration.
+Design: This was a 6-part, double-blind, randomized, placebo-controlled, multiple-ascending dose study.
+Doses of vibegron or placebo were administered once daily to healthy young males (18 to 45 years),
+healthy middle-aged subjects (46 to 64 years) and healthy elderly subjects (65 to 80 years).
+
+All panels in Parts 1, 2, 4, and 5 were included in the pharmacodynamic analysis of HR on Day 14.
+Placebo-treated subjects in Parts 1 and 4 were pooled into a single treatment group. Part 6 included
+analysis of HR on Day 7. If the 90% CI for the difference from placebo in resting maximum MA4 HR (i.e.,
+maximum change from baseline in moving average of heart rate over 4 hours postdose) following
+multiple doses of vibegron lies completely below 10 bpm then the change was not considered clinically
+meaningful.
+
+36
+
+Reference ID: 4691247
+
+For Part 1, 2, 4, and 5, intensive blood samples for MK-4618 were collected for 24 hours on Day 1, 7, and
+14. Trough blood samples were collected pre-dose on Day 3-6, Day 9-13, Day 16, 17, 19 and 23.
+For Part 3, intensive blood samples for MK-4618 were collected for 24 hours on Day 1, 14, and 28.
+Trough blood samples were collected pre-dose on Day 5, 9, 13, 19, 23, 27, 31, 33, and 37.
+For Part 6, intensive blood samples for MK-4618 were collected for 24 hours on Day 7. Trough blood
+samples were collected pre-dose on Day 1-6, and Day 9, 10, 12, 16.
+For Part 1, 2 and 4, urine for MK-4618 were collected at the following intervals: Pre-dose on Day 1 and
+at the following intervals on Day 14 0-4, 4-8, 8-12, 12-24 hours post-dose.
+Plasma concentrations of vibegron were analyzed using validated LC/MS/MS assays by Merck Research
+Laboratories West Point, PA, with LLOQ of 0.2 ng/mL (Validation report: DM-956). Urine concentrations
+of vibegron were analyzed using validated LC/MS/MS assays by Merck Research Laboratories West
+Point, PA, with LLOQ of 20 ng/mL (Validation report: DM-957).
+Subject Disposition: A total of 121 subjects completed the study per protocol. Eight (8) subjects were
+discontinued from the study: 4 subjects due to AEs, 1 subject was lost to follow-up, and 3 for other
+reasons (1 subject was due to a pre-existing medical condition identified after dosing and the 1 subject
+was due to personal reasons, and 1 subject was due to dose intake issues). The subject who was lost to
+follow-up received all doses as per protocol. One (1) discontinued subject experienced vomiting
+approximately 5 minutes after administration of study drug (100 mg MK-4618) on Day 1 and was
+subsequently replaced. The replacement subject completed the study per protocol.
+Safety Results: No SAE or AECI occurred; 4 subjects discontinued due to a non-serious AE (chest
+discomfort, rash, arrhythmia, and detachment of macular retinal pigment epithelium) not likely related
+to study drug.
+Pharmacokinetic Results:
+The mean vibegron plasma concentrations for Panels A-D and G-I are presented in Figure 2. (linearscale) and Figure 3 (log-scale).
+Figure 4. Arithmetic Mean Plasma Concentration-Time Profiles of MK-4618 Following Multiple Once Daily Oral
+Dose Administration of 25 to 400 mg MK-4618 for 14 Days to Healthy Male Subjects (Parts I and IV, Panels A – D
+and G - I) (Linear Scale) (N = 5 on Day 14 for Panels A and G and N = 6 for Others)
+
+37
+
+Reference ID: 4691247
+
+Source: Figure 11-1 of Study 002 CSR
+Figure 5. Arithmetic Mean Plasma Concentration-Time Profiles of MK-4618 Following Multiple Once Daily Oral
+Dose Administration of 25 to 400 mg MK-4618 for 14 Days to Healthy Male Subjects (Parts I and IV, Panels A – D
+and G - I) (Semi-Log Scale) (N = 5 on Day 14 for Panels A and G and N = 6 for Others)
+
+Source: Figure 14-1 of Study 002 CSR
+
+38
+
+Reference ID: 4691247
+
+The mean ± standard deviation (SD) pharmacokinetic parameters after multiple doses of vibegron from
+25 to 400 mg are provided in Table 6.
+Table 13. Mean ± SD Vibegron Plasma Pharmacokinetic Parameters Following Multiple-Dose Administration of
+Vibegron to Healthy Young Males, Elderly Males, Elderly Females and Middle-Aged Males and Females after 14
+Days of Dosing (Except for Panel F at Day 28)
+
+Across all populations studied, vibegron exhibited greater than dose proportional increases in exposure
+over a dose range of 25 to 400 mg once daily. The mean accumulation ratio (Rac) over the dosing range
+was 1.7 for Cmax and 2.4 for area under the concentration time curve from 0 to 24 hours (AUC0-24hrs).
+Subjects reached 90% of steady-state exposure after 3 to 5 days of daily dosing. Modeling of trough
+plasma concentrations collected during multiple-dose administration was also performed. Across all
+doses evaluated, the majority of subjects in the treatment groups (7 out of 9 groups) achieved 90% of
+steady-state concentrations by day 7.
+Approximately 6% to 28% of vibegron daily doses were recovered in 24-hour urine collections on Day
+14, with increasing percentages excreted with increasing doses.
+39
+
+Reference ID: 4691247
+
+Although no formal statistical comparison was made, vibegron Cmax and AUC0-24hrs after 150 mg oral
+administration in fed middle-aged and elderly females (Panel J) were comparable to those in fasted
+healthy young males (Panel D).
+In healthy young males, terminal t½ values on Day 14 were longer following the lower doses (25 to 150
+mg), at approximately 80 to 90 hours, than following the higher doses (200 mg to 400 dose), at ~60
+hours.
+The effective half-life (t½eff) was estimated to be 30.8 hours using the equation below [Gidal BE, et al.
+Epilepsy Research; 129(2017): 26-32.]:
+t½eff = t * ln2/ln[Rac/(Rac-1)] where τ= 24 hours, Rac value = 2.4.
+Pharmacodynamic Results: Defer to Clinical.
+
+4.3.4. Study 013: Hepatic Impairment Study
+Title: A Two-Part, Open-Label, Single-Dose Study to Investigate the Pharmacokinetics of MK-4618 in
+Patients with Hepatic Insufficiency
+Objective(s): to compare the safety, tolerability and pharmacokinetics of vibegron in subjects with mild
+or moderate hepatic impairment (HI) to healthy matched control subjects.
+Design: This was a single-dose, open-label, parallel group, two-part, adaptive study. Part 1 of the study
+enrolled subjects with moderate HI defined by a Child-Pugh score of 7 to 9 (N=8). Healthy subjects (N=8,
+the control group) were matched for gender, age (± 15 years), and body mass index (BMI; ± 3 units) to
+the subjects in the moderate HI category. On Day 1, subjects with moderate HI and matched control
+subjects received a single 100 mg oral dose of vibegron followed by PK sampling for 336 hours (i.e., predose, 0.5, 1, 2, 3, 4, 6, 8, 12, 24, 36, 48, 72, 120, 216, and 336 hours post-dose). Plasma concentrations
+of vibegron were analyzed using a validated LC/MS/MS assay by Merck Research Laboratories, Oss, the
+Netherlands, with LLOQ of 0.2 ng/mL (Validation report: BP0004).
+Subject Disposition:
+Sixteen (16) male and female subjects, 8 patients with moderate HI and 8 healthy matched subjects
+were enrolled into the study and all 16 subjects completed the study.
+Safety results: There were no SAEs or AECIs and no subjects withdrew from the study due to an AE.
+Pharmacokinetic Results:
+Mean plasma MK-4618 concentration-time profiles following a single 100 mg dose in patients with
+moderate HI relative to healthy matched control subjects are presented in Figure 4.
+Figure 6. Arithmetic Mean (± SD) Plasma Concentration-Time Profiles of MK-4618 Following a Single Oral Dose of
+100 mg MK-4618 Administered to Patients with Moderate HI (N = 8) and Healthy Matched Control Subjects (N =
+8) (Inset = Semi-log Scale)
+
+40
+
+Reference ID: 4691247
+
+Source: Figure 11-1 of Study 013 CSR
+
+Geometric mean and statistical comparisons of vibegron pharmacokinetic parameters in subjects with
+moderate HI and healthy matched control subjects are presented in Table 7.
+Table 14. Geometric Least Squares Mean and Statistical Comparison of Vibegron Pharmacokinetics in Moderate
+HI and Healthy Control Subjects
+
+Following administration of vibegron 100 mg to subjects with moderate HI, vibegron AUC0-∞ increased
+~27% and Cmax increased ~35% relative to healthy matched control subjects.
+Conclusions:
+41
+
+Reference ID: 4691247
+
+•
+
+Increases in vibegron exposure when administered to moderate HI subjects compared to
+healthy controls were not considered clinically significant. Since moderate HI did not result in a
+clinically relevant increase in vibegron exposure, the effect of mild HI is expected to be no larger
+than that of moderate HI. Therefore, conducting a study in subjects with mild HI (Part 2) was not
+required.
+
+4.3.5. Study 014: Renal Impairment Study
+Title: An Open-Label, Single-Dose Study to Investigate the Pharmacokinetics of MK-4618 in Patients with
+Renal Insufficiency
+Objective(s):
+(1) to evaluate the safety, tolerability and plasma pharmacokinetics of vibegron in subjects with
+impaired renal function;
+(2) to compare the urinary excretion of a single vibegron dose in subjects with impaired renal function to
+healthy subjects;
+(3) to define the relationship between estimated glomerular filtration rate (eGFR) and vibegron plasma
+pharmacokinetics using a model-based approach.
+Design:
+Adult male and female subjects were enrolled into 4 groups, each consisting of 8 subjects with mild,
+moderate, severe or normal renal function as assessed by creatinine clearance (CLCR) estimated by the
+Modification of Diet in Renal Disease (MDRD) equation at screening.
+Healthy subjects were matched by age (± 15 years) and body weight (± 10 kg) according to mean age
+and body weight, respectively, of all subjects with renal impairment combined. Subjects received a
+single dose of vibegron 100 mg.
+Plasma samples were collected prior to dosing and for 336 hours (i.e., pre-dose, 0.5, 1, 2, 3, 4, 6, 8, 12,
+24, 36, 48, 72, 120, 216, and 336 hours post-dose). Plasma concentrations of vibegron were analyzed
+(b) (4)
+using a validated LC/MS/MS assays
+with LLOQ of 0.2 ng/mL (Validation report:
+10BAS0323).
+Urine samples were collected prior to dosing and at the following intervals post-dose: 0-12 hours, 12-24
+hours, and 24-48 hours. Plasma concentrations of vibegron were analyzed using a validated LC/MS/MS
+assays by Merck Research Laboratories West Point, PA 19486 with LLOQ of 20 ng/mL (Validation report:
+DM-957).
+Subject Disposition:
+A total of 32 male and female subjects, 8 in each group (i.e., healthy subjects, subjects with mild,
+moderate, severe, or normal renal functions) were enrolled into the study and all 32 subjects completed
+the study.
+Safety results: There were no treatment emergent SAEs, AECIs, or discontinuation due to an AE.
+42
+
+Reference ID: 4691247
+
+Pharmacokinetic Results:
+Vibegron renal clearance (CLR) decreased with increasing degree of renal impairment. Patients with
+mild, moderate, and severe renal insufficiency had mean CLR values of 6.3 L/hr, 3.6 L/hr, and 1.9 L/hr,
+respectively, compared to 10.4 L/hr in healthy matched control (normal renal function) subjects.
+The mean plasma MK-4618 concentration versus time profile following a single 100 mg MK-4618 dose in
+patients with mild, moderate, and severe renal insufficiency and healthy matched control subjects is
+presented in Figure 5.
+Figure 7. Arithmetic Mean Plasma Concentration-Time Profiles of MK-4618 Following a Single Oral Dose of 100
+mg MK-4618 Administered to Patients with Varying Degrees of Renal Insufficiency and to Healthy Matched
+Control Subjects (Inset: Semi-log Scale)
+
+Source: Figure 11-1 and 11-2 of Study 014 CSR
+
+Statistical comparisons using an analysis of covariance (ANCOVA) model of vibegron plasma
+pharmacokinetic parameters following a single oral dose of 100 mg to subjects with severe, moderate,
+or mild renal impairment and to healthy matched control subjects are listed in Table 8. Patients with
+mild, moderate, and severe renal insufficiency had mean vibegron total exposures (AUC0-∞) 49%,
+106%, and 83% higher, respectively, than the healthy matched control subjects. The mean peak
+vibegron exposures (Cmax) in mild, moderate, and severe renal insufficiency patients were 96%, 68%,
+and 42% higher, respectively, than in the healthy matched control subjects. Patients with mild,
+moderate, and severe renal insufficiency had mean CL/F values 33%, 51%, and 45% lower, respectively,
+than the healthy matched control subjects.
+
+43
+
+Reference ID: 4691247
+
+Table 15. Statistical Comparison of Vibegron Plasma Pharmacokinetics Following a Single Oral Dose of 100 mg to
+Subjects with Varying Degrees of Renal Impairment and to Healthy Matched Controls
+
+Source: Table 11-1 of CSR for Study 014
+
+Linear regression analysis of CL/F (with either eGFR or estimated CrCL as a continuous variable in the
+model) indicates that vibegron CL/F decreases with increasing degree of renal impairment, with
+comparable results when modeled with either eGFR or CrCL. The ratios of the regression model
+estimated vibegron AUC and CL/F for the renal-impaired groups relative to the control group (normal
+renal function) are shown in Table 9.
+
+44
+
+Reference ID: 4691247
+
+Table 16. Predicted Ratios (90% CI) of Vibegron AUC and CL/F for the Renal-Impaired Groups Versus Healthy
+Control Group (Normal Renal Function), Based on Linear Regression of CL/F with eGFR and with Estimated CLcr
+
+Although both ANCOVA and linear regression models suggest the same trend of increased exposure
+(decreased CL/F) in subjects with renal impairment, the linear models appear to fit the data well with
+similar results obtained when either eGFR or CLCR was used as a measure of renal function. Due to the
+limitations of the current study and small sample size, a more robust estimate of the impact of renal
+function on vibegron PK across a wide range of eGFR values has been explored across multiple datasets,
+including data from this study, in the Population PK model. Refer to Appendix 4.5 Pharmacometrics
+review for more details.
+Conclusions:
+•
+
+Vibegron CLR and CL/F decreased with increasing degree of renal impairment.
+
+•
+
+Vibegron was generally safe and well tolerated in subjects with mild, moderate and severe renal
+impairment.
+
+Reviewer’s comment:
+•
+
+During the study, 3 subjects changed their renal status between screening and baseline. One (1)
+subject (AN 0023) was assigned to the mild renal insufficiency group as per screening value
+(61.800 mL/min/1.73 m²); however, their baseline eGFR value was moderate renal insufficiency
+(49.400 mL/min/1.73 m²). Two (2) subjects (AN 0025 and AN 0026) were assigned to the normal
+renal insufficiency group as per screening values (95.028 and 98.900 mL/min/1.73 m²;
+respectively); however, their baseline eGFR values were mild renal insufficiency (88.962 and
+45
+
+Reference ID: 4691247
+
+86.400 mL/min/1.73 m²; respectively). No subjects had eGFR changes from screening to baseline
+greater than 30% in the study. Data calculation based on renal impairment category at baseline
+showed similar results.
+4.3.6. Study 1004: Food Effect Study
+Title: A 2-Part, Open-Label, Randomized, Crossover, Single Dose Study to Assess the Effect of Food on
+Vibegron Pharmacokinetics and to Assess the Pharmacokinetics of Vibegron Crushed in Applesauce
+Objective(s):
+Part 1: To assess plasma pharmacokinetic parameters and evaluate safety and tolerability of a
+single-dose oral vibegron 75 mg administered in a fasted state and with a high-fat meal
+• Part 2: To assess plasma pharmacokinetic parameters and evaluate safety and tolerability of a
+single-dose oral vibegron 75 mg administered in a fasted state and crushed in applesauce
+Study Design:
+•
+
+This was an open-label randomized 2-part study assessing the plasma exposures of a single dose of
+vibegron administered intact in a fasted state and with a high-fat meal (53% fat, 869 calories [32.1 g
+protein, 70.2 g carbohydrate, and 51.1 g fat]) (Part 1) and the plasma exposures of a single dose of
+vibegron administered intact in a fasted state and crushed in applesauce (Part 2). Each part of the study
+consisted of an open-label, randomized, 2-period, crossover study in healthy subjects. Subjects had a
+screening visit within 30 days prior to the first dose of study drug and were confined to the clinical unit
+for 24 days.
+There was a 13-day washout period between Period 1 and Period 2 of Part 1 and Part 2. In each period,
+subjects received a single 75 mg dose of vibegron on Day 1 of the period. Blood samples were collected
+for 216 hours (i.e., at pre-dose, 0.5, 1, 2, 3, 4, 6, 8, 12, 24, 48, 72, 96, 120, 168, and 216 hours post(b) (4)
+dose). Plasma concentrations of vibegron were analyzed using a validated LC/MS/MS assays
+(b) (4)
+with LLOQ of 20 ng/mL (Validation report: 177107ARHP).
+Part 1: Randomized, Open-label, 2-Period Study
+
+Part 2: Randomized, Open-label, 2-Period Study
+
+46
+
+Reference ID: 4691247
+
+Subject Disposition:
+In Part 1, a total of 18 subjects were enrolled in the study. Of these, 15 subjects (83.3%) completed the
+study and were included in the PK analysis, and 3 subjects (16.7%) discontinued prior to completion.
+Among the 3 subjects who discontinued, two withdrew consent and one withdrew due to a TEAE of
+swelling.
+In Part 2, a total of 30 subjects were enrolled in the study. Of these, 27 subjects (90.0%) completed the
+study; 29 subjects were included in the PK analysis; and 3 subjects (10.0%) discontinued prior to
+completion. Among the 3 subjects who discontinued, one was withdrawn due to principal investigator’s
+decision and two withdrew due to other reasons.
+Safety Results:
+There were no deaths, SAEs, grade 3-5 TEAEs, or AESIs occurred during the study. One subject was
+withdrawn by the investigator due to a TEAE of swelling (swelling left lower jaw) in period 2 of Part 1
+(fed conditions). The TEAE was considered moderate in intensity, not related to the administration of
+the drug and the outcome of the TEAE was recovering/resolving at the end of the study.
+PK Results:
+Mean plasma concentration-time profiles of a single dose of vibegron 75 mg under fed or fasted state
+using linear and semi-log scales from part 1 are presented in Figure 6.
+
+47
+
+Reference ID: 4691247
+
+Figure 8. Mean Plasma Concentration-Time Profiles of a Single Dose of Vibegron 75 mg under Fed or Fasted
+State (Part 1)
+
+Source: Figure 11-1&2 of Study 1004 CSR
+
+Mean plasma concentration-time profiles of a single dose of vibegron 75 mg administered crushed or
+intact using linear and semi-log scales from part 2 are presented in Figure 7.
+Figure 9. Mean Plasma Concentration-Time Profiles of a Single Dose of Vibegron 75 mg Administered Crushed or
+Intact (Part 2)
+
+Source: Figure 11-3&4 of Study 1004 CSR
+
+48
+
+Reference ID: 4691247
+
+Table 17. Summary of Key PK Parameters for Vibegron by Treatment Period (Part 1)
+
+Source: Table 11-1 of Study 1004 CSR
+Table 18. Summary of Key PK Parameters for Vibegron by Treatment Period (Part 2)
+
+Source: Table 11-2 of Study 1004 CSR
+Part 1
+Based on the PK data (Table 10), vibegron peak concentration and the extent of exposure decreased
+when administered with a high-fat meal as shown by a Cmax of 23.65 ng/mL and 63.96 ng/mL, AUC(0-t)
+of 658.9 ng*h/mL and 1003 ng*h/mL , and AUC(0-∞) 721.9 ng*h/mL and 1146 ng*h/mL for the fed and
+fasted states, respectively. The tmax was delayed by approximately 3 hours when vibegron was
+administered with a high-fat meal. The elimination of vibegron was similar as represented by a t1/2 of
+79.42 hours when administered with a high-fat meal compared with 87.20 hours in fasted state.
+Part 2
+Based on the PK data (Table 11), vibegron Cmax AUC decreased to a lesser extent after crushed and
+mixed in applesauce than following a high-fat meal. The tmax was similar when vibegron was
+administered intact in a fasted state and when administered crushed and mixed in applesauce (i.e.
+approximately 1 hour). The elimination of vibegron was also similar as represented by a t1/2 of 87.86
+hours when administered crushed and mixed in applesauce compared with 82.35 hours when
+administered intact.
+49
+
+Reference ID: 4691247
+
+The geometric LSmeans ratios and 90% CIs were estimated between test and reference for vibegron
+(Fed/Fasted, Part 1 or Crushed/Intact, Part 2), AUC(0-t), AUC(0-∞), and Cmax, as listed in Table 12 and
+Table 13.
+Table 19. Statistical Comparison of Pharmacokinetic Parameters for Vibegron – Part 1
+
+N/n
+Parameter
+(Unit)
+
+Geometric
+LSmean
+
+Geometric
+LSmean
+
+Ratio of Geometric
+LSmean
+
+Fed
+
+Fasted
+
+Fed/Fasted
+
+90% CI for Ratio
+
+Cmax
+
+15/15
+
+23.8
+
+63.7
+
+0.373
+
+0.268-0.519
+
+(ng/mL)
+AUC(0-t)
+
+15/15
+
+658.6
+
+1003.5
+
+0.656
+
+0.542-0.794
+
+(ng*h/mL)
+AUC(0-∞)
+
+15/14
+
+721.9
+
+1146.2
+
+0.630
+
+0.534-0.743
+
+(ng*h/mL)
+
+N: Number of subjects in PK Population; n: number of subjects included for the parameter; CI: confidence interval;
+LSmean: least squares mean
+Source: Table 11-3 of Study 1004 CSR
+Table 20. Statistical Comparison of Pharmacokinetic Parameters for Vibegron – Part 2
+
+Geometric
+LSmean
+Crushed
+
+Geometric Ratio of Geometric
+LSmean
+LSmean
+90% CI for Ratio
+Intact
+Crushed/Intact
+
+Parameter (Unit)
+
+N/n
+
+Cmax
+
+29/29
+
+80.8
+
+114.9
+
+0.703
+
+0.602- 0.822
+
+(ng/mL)
+AUC(0-t)
+
+29/28
+
+1197.0
+
+1348.3
+
+0.888
+
+0.817- 0.965
+
+(ng*h/mL)
+AUC(0-∞)
+
+29/28
+
+1369.7
+
+1524.5
+
+0.898
+
+0.830- 0.973
+
+(ng*h/mL)
+
+N: Number of subjects in PK Population; n: number of subjects included for the parameter; CI: confidence interval;
+LSmean: least squares mean
+Source: Table 11-4 of Study 1004 CSR
+
+In Part 1, following administration of vibegron with a high-fat meal, the vibegron Cmax decreased by
+63%, AUC(0-t) decreased by 34%, and AUC(0-∞) decreased by 37% when compared to the fasted state.
+In Part 2, AUC decreased by ~10% and Cmax decreased by 30% when vibegron was administered
+crushed in applesauce compared to the fasted state.
+Conclusions:
+•
+
+Vibegron Cmax and AUC(0-∞) decreased by 63% and 37% respectively in the presence of a high
+fat meal compared to administration in the fasted state. The tmax was delayed by
+approximately 3 hours when vibegron was administered with a high-fat meal.
+
+50
+
+Reference ID: 4691247
+
+•
+
+Vibegron Cmax decreased by 30% and AUC(0-∞) decreased by ~10% when crushed and mixed
+in a tablespoon of applesauce. The tmax was similar when vibegron was administered intact in
+a fasted state and when administered crushed in applesauce (approximately 1 hour).
+
+51
+
+Reference ID: 4691247
+
+4.4. Clinical Drug Interaction Assessments
+4.4.1. Study 015: DDI Study with the CYP3A4/P-gp Inhibitors, Ketoconazole and Diltiazem
+Title: A Study to Assess the Effects of Multiple Oral Doses of Ketoconazole and Diltiazem on the SingleDose Pharmacokinetics of MK-4618 in Healthy Subjects.
+Objective(s): to assess the safety, tolerability and pharmacokinetics of a single dose of vibegron alone
+and in the presence of multiple doses of ketoconazole, a strong CYP3A4 and P-gp inhibitor and diltiazem,
+a moderate CYP3A4 and P-gp inhibitor.
+Design:
+This was a two-panel, open-label, randomized, 2-period, fixed sequence study in healthy male and
+female subjects.
+
+Blood samples for vibegron PK were collected over 216 hours (i.e., pre-dose, 0.5, 1, 2, 3, 4, 6, 8, 12, 24,
+48, 72, 168, and 216 hours after dose) starting on Day 1 of Period 1 and over 360 hours (i.e., pre-dose,
+0.5, 1, 2, 3, 4, 6, 8, 12, 24, 48, 72, 168, 216, 288 and 360 hours after dose) starting on Day 2 of Period 2.
+(b) (4)
+Plasma concentrations of vibegron were analyzed using a validated LC/MS/MS assays
+(b) (4)
+with LLOQ of 0.20 ng/mL (validation report: 10BAS0323).
+Subject disposition: Ten subjects entered Panel 1, 9 completed the study, and 1 subject discontinued
+due to mild increase in creatine due related to ketoconazole. Twelve subjects entered Panel 2 and all of
+them completed the study.
+Pharmacokinetic Results:
+Vibegron GMR and 90% CI Cmax and AUC0-∞ with and without multiple-dose administration of the
+perpetrators, ketoconazole or diltiazem, are presented in Table 1.
+
+52
+
+Reference ID: 4691247
+
+Table 21. Geometric Least Squares Mean and Statistical Comparison of Vibegron Pharmacokinetic Parameters
+Alone and following Administration with the Perpetrators, Ketoconazole or Diltiazem
+
+Vibegron exposures when administered as a single 100 mg dose concomitantly with multiple doses of
+ketoconazole 200 mg approximately doubled relative to vibegron administered alone (Figure 1).
+However, vibegron t½ was not affected by concomitant administration of ketoconazole (77 h alone vs.
+75 h with ketoconazole), suggesting that the predominant effect was on inhibition of intestinal P-gp
+resulting in increased absorption of vibegron, rather than on inhibition of vibegron elimination.
+Figure 10. Arithmetic Mean (SE) Plasma Concentration-Time Profiles of MK-4618 Alone, MK-4618 alone (Dried
+Blood Spot), and MK-4618 With Ketoconazole in Healthy Adult Subjects (Panel 1) (N=10) (inset = Semi-Log scale)
+
+Source: Figure 11-1 of Study p015 CSR
+
+Vibegron exposures when administered as a single 100 mg dose concomitantly with multiple doses of
+diltiazem increased by approximately 60% relative to when vibegron was administered alone (Figure 2).
+53
+
+Reference ID: 4691247
+
+Consistent with the ketoconazole data, the t½ of vibegron was unchanged when vibegron was
+concomitantly administered with diltiazem (73 h alone vs. 80 h with diltiazem).
+Figure 11. Arithmetic Mean (SE) Plasma Concentration-Time Profiles of MK-4618 Alone and MK-4618 With
+Diltiazem in Healthy Adult Subjects (Panel 2) (N=12) (Inset = Semi-Log scale)
+
+Source: Figure 11-2 of Study p015 CSR
+
+Safety results:
+No serious adverse events (SAE) or adverse event of clinical interest (AECI) occurred; 1 subject
+discontinued due to a laboratory adverse event (AE) of mild increase in creatine related to ketoconazole
+only.
+Applicant’s Conclusions:
+Vibegron exposures approximately doubled following concomitant administration of multiple
+doses of the strong CYP3A4 and P-gp inhibitor, ketoconazole.
+• The pharmacokinetics of vibegron are modestly increased by concomitant administration of
+multiple doses of the moderate CYP3A4 and P-gp inhibitor, diltiazem.
+• Vibegron in the presence of ketoconazole or diltiazem was generally well tolerated.
+Reviewer’s comment:
+•
+
+•
+
+•
+
+Plasma samples for PK were measured by a validated LC-MS/MS assay (validation report:
+10BAS0323). Dry-blood samples (DBS) collected were analyzed by Merck. The assay for DBS was
+not submitted and the review did not see the need to request the information because plasma
+sample were collected at the same time points.
+We agree with the sponsors conclusions from a clinical pharmacology perspective.
+
+54
+
+Reference ID: 4691247
+
+4.4.2. Study 1003: DDI Study with the CYP450 3A4 Inducer, Rifampin
+Title: The Effect of Rifampin on the Pharmacokinetics of Vibegron in Healthy Adult Subjects
+Objective(s): to assess the safety, tolerability and pharmacokinetics of single-dose oral vibegron alone
+and after repeat-dose oral rifampin administration.
+Design: This study was an open-label, single-sequence, cross-over study of a single dose of vibegron
+alone and following co-administration with repeat-dose rifampin in healthy male and female subjects.
+Blood samples for vibegron were collected over 216 hours (i.e., pre-dose, 0.5, 1, 2, 4, 6, 8, 12, 16, 24, 36,
+48, 72, 96, 120, 144, 168, 192 and 216 hours post dose) starting on Day 1 of Period 1 and Day 17 of
+Period 3. Plasma concentrations of vibegron were analyzed using a validated LC/MS/MS assays by
+(b) (4)
+with LLOQ of 0.20 ng/mL (Validation report: 177107ARHP).
+
+Subject disposition: Twenty subjects were enrolled, 18 completed the study and 2 subjects withdrew.
+(b) (6)
+Subject
+withdrew consent from the study due to a family emergency. The subject only received a
+(b) (6)
+single 75 mg oral dose of vibegron alone on Day 1. Subject
+withdrew consent from the study for
+personal reasons. The subject received a single 75 mg oral dose of vibegron alone on Day 1 and a single
+600 mg oral dose of rifampin alone once a day from Day 10 to Day 14.
+Pharmacokinetic Results:
+Vibegron Cmax, AUC0-∞, and AUC0-t GMR and 90% CI with and without multiple-dose administration
+of the perpetrator (rifampin) are presented in Table 2.
+Table 22. Geometric Least Squares Mean and Statistical Comparison of Vibegron Pharmacokinetic Parameters
+Alone and following Administration with the Perpetrator, Rifampin
+
+In the presence of the CYP3A4 inducer rifampin, vibegron geometric mean AUC was comparable to
+vibegron alone. However, vibegron Cmax was 86% higher following vibegron administration with
+rifampin compared to a single dose of vibegron administered alone. Vibegron t½ was similar between
+55
+
+Reference ID: 4691247
+
+the two treatment groups (Figure 3 and Figure 4). The similar AUC and t½ between treatment groups
+suggest that strong CYP3A4 inducers such as rifampin do not decrease exposures of vibegron.
+While vibegron Cmax was 86% higher when administered with rifampin, no differences in safety or
+tolerability were observed when vibegron was administered with rifampin compared to vibegron
+administered alone. The mechanism for the increase in vibegron Cmax in the presence of steady-state
+rifampin is unclear.
+Figure 12. Arithmetic Mean (+/- SD) Plasma Vibegron Concentration vs Time Plots Following a Single-Dose
+Administration of Vibegron Alone or After Repeat-Dose Oral Rifampin Administration—Linear Representation
+Including Inset Figure up to 24 Hours
+
+Source: Figure 11-1 of Study 1003 CSR
+
+56
+
+Reference ID: 4691247
+
+Figure 13. Mean (+/- SD) Plasma Vibegron Concentration vs Time Plots Following a Single-Dose Administration of
+Vibegron Alone or After Repeat-Dose Oral Rifampin Administration—Log Representation Including Inset Figure
+up to 24 Hours
+
+Source: Figure 11-2 of Study 1003 CSR
+
+Applicant’s Conclusions:
+Vibegron Cmax increased 86% while AUC was not affected by repeat-dose administration of
+rifampin.
+• The administration of single dose vibegron alone and after repeated doses of oral rifampin in
+healthy adult subjects was generally well tolerated.
+Reviewer’s comment:
+•
+
+•
+
+We agree with the sponsors conclusions from a clinical pharmacology perspective.
+
+4.4.3. Study 024: DDI Study with the P-glycoprotein (P-gp) Substrate, Digoxin
+Title: A Study to Assess the Effects of MK-4618 on the Single-Dose Pharmacokinetics of Digoxin in
+Healthy Subjects
+Objective(s): to assess the safety, tolerability, and pharmacokinetics of a single dose of digoxin 0.25 mg
+alone and after administration of multiple doses of vibegron 100 mg.
+Design: This was an open-label, two-period, single-sequence, two-treatment design study in healthy
+male and female subjects. Doses were administered in a fasted state.
+
+57
+
+Reference ID: 4691247
+
+In each period, blood samples were collected prior to dosing (0-hour) and at 0.25, 0.5, 1, 1.5, 2, 3, 4, 6, 8,
+12, 24, 48, 72, 96 and 120 hours after digoxin administration. Plasma concentrations of vibegron were
+(b) (4)
+analyzed using a validated LC/MS/MS assays
+with LLOQ of 10 pg/mL (Validation report: LCMSD
+455.3).
+In each period, urine was collected prior to dosing (0-hour) and throughout the 0-12 and 12- 24 hours
+intervals after digoxin administration. Urine samples were not analyzed because the sponsor believed
+that there is a lack of substantial effect of MK-4618 on digoxin.
+
+Subject Disposition:
+The following table shows the number of subjects who completed each period and those who were
+discontinued:
+
+Pharmacokinetic Results:
+Digoxin Cmax, AUC0-∞, GMR and 90% CIs alone and in combination with multiple-dose administration
+of vibegron are presented in Table 3. Mean Digoxin plasma concentration-time profiles are presented in
+Figure 5.
+
+58
+
+Reference ID: 4691247
+
+Table 23. Geometric Least Squares Mean and Statistical Comparison of Single Dose Digoxin 0.25 mg
+Pharmacokinetic Parameters Alone and with Multiple-Dose Administration of Vibegron [150 mg (Day 1 Period 2)
+and 100 mg Daily (Days 2-6 Period 2)]
+
+Figure 14.Mean Digoxin Plasma Concentration-time Profiles
+(Left: Linear Scale, Right: Log-linear Scale)
+
+(Source: Figure 11-1 and 11-2 of Study 024 CSR)
+
+Based on in vitro data, Vibegron is a substrate for P-gp. It was not an inhibitor for P-gp at the
+concentrations tested up to 300 μM (digoxin used as substrate). In addition, vibegron Igut = 75 mg/250
+mL = 0.3 mg/mL; 0.3 mg/mL/(444.5 g/mol) = 674 μM. Assuming the IC50 is 300 μM, Igut/IC50 = ~2, less
+than 10-fold (i.e., the cutoff recommended by the DDI guidance for in vivo study).
+Yet, study 014 was designed to confirm the expectation that a 100 mg dose of MK-4618, when coadministered with digoxin, will not increase exposure to digoxin based on inhibition of P-gp, an acute
+effect.
+Multiple-dose administration of vibegron resulted in a modest increase in the exposure of digoxin. For
+AUC0-inf, the geometric mean ratio was 1.11 with 90%CI of 1.03 to 1.19; for Cmax, the geometric mean
+ratio was 1.21 with 90%CI of 1.09 to 1.35. Individual subject ratios are presented in Figure 6.
+
+59
+
+Reference ID: 4691247
+
+Figure 15. Individual subject Ratios, GMR and the 90% CI for Digoxin (Study 024)
+
+Source: Figure 11-5 of Study 024 CSR
+
+Safety Results:
+No SAE or AECI occurred; 1 subject discontinued due to an AE of fever not related to study drug.
+Reviewer’s conclusions:
+Digoxin is a narrow therapeutic window drug. The observed increase in digoxin Cmax and AUC0-∞
+may have clinical relevance because the magnitude of change in digoxin exposure is similar to
+what was observed for atorvastatin and carvedilol in the label of DIGOXIN ORAL SOLUTION (NDA
+21648).
+• We have the following labeling recommendation regarding vibegron and digoxin interactions,
+“Measure serum digoxin concentrations before initiating GEMSTA. Reduce digoxin dose as necessary.
+Continue monitoring digoxin concentrations upon discontinuation of GEMSTA and adjust digoxin dose as
+needed.”.
+•
+
+4.4.4. Study 007: DDI Study with the CYP2D6 Substrate, Tolterodine
+Title: A Multiple Dose Study to Evaluate the Safety, Tolerability, and Pharmacokinetics of MK-4618
+Administered Alone and in Combination with Tolterodine Extended-Release (ER)
+Objective(s):
+(1) to evaluate the increase in HR at steady-state following co-administration of vibegron with
+tolterodine ER;
+
+60
+
+Reference ID: 4691247
+
+(2) to estimate the difference in HR change from baseline (CFB) at steady state following coadministration of vibegron with tolterodine ER compared to (a) CFB in HR at steady state following
+vibegron alone and (b) CFB in HR at steady state following tolterodine ER alone;
+(3) to estimate the effect of tolterodine ER on vibegron pharmacokinetics;
+(4) to estimate the effect of vibegron on the pharmacokinetics of tolterodine ER and the active 5hydroxymethyl metabolite (5-HM) of tolterodine.
+Design: This was a double-blind, double dummy, randomized, placebo-controlled study to assess
+multiple doses of vibegron 100 mg (Panel I) and 150 mg (Panel II) in healthy male subjects alone and in
+combination with multiple-doses of tolterodine ER 4 mg. Within a given Panel, subjects were further
+divided into groups (2 groups/Panel). In each group, subjects were randomized to receive one of two
+treatment sequences for 7 consecutive days. Study drugs were co-administered orally once-daily.
+Panel I
+Group 1
+Group 2
+
+Panel II
+Group 1
+Group 2
+
+N
+6
+6
+6
+6
+
+Period 1*
+100 mg vibegron + Placebo tolterodine ER
+100 mg vibegron + 4 mg tolterodine ER
+4 mg tolterodine ER + Placebo vibegron
+4 mg tolterodine ER + 100 mg vibegron
+
+Period 2
+100 mg vibegron + 4 mg tolterodine ER
+100 mg vibegron + Placebo tolterodine ER
+4 mg tolterodine ER + 100 mg vibegron
+4 mg tolterodine ER + Placebo vibegron
+
+N
+6
+6
+6
+6
+
+Period 1*
+150 mg vibegron + Placebo tolterodine ER
+150 mg vibegron + 4 mg tolterodine ER
+4 mg tolterodine ER + Placebo vibegron
+4 mg tolterodine ER + 150 mg vibegron
+
+Period 2
+150 mg vibegron + 4 mg tolterodine ER
+150 mg vibegron + Placebo tolterodine ER
+4 mg tolterodine ER + 150 mg vibegron
+4 mg tolterodine ER + Placebo vibegron
+
+*: There was a minimum of 21 days between the last dose of Period 1 and the first dose of Period 2.
+
+In each period, blood samples for vibegron assay were collected prior to dosing (0-hour) on Day 1 -6 and
+at pre-dose, 0.5, 1, 2, 3, 4, 6, 8, 12, 16, 24, 48, 72, 96, 120, 216 and 312 hours after co-administration of
+study drugs. Plasma concentrations of vibegron were analyzed using a validated LC/MS/MS assays by
+Merck Research Laboratories, West Point, PA 19486 with LLOQ of 0.2 ng/mL (Validation report: DM956).
+In each period, blood samples for tolterodine and 5-hydroxymethyl tolterodine assays were collected
+prior to dosing (0-hour) on Day 1 -6 and at pre-dose, 0.5, 1, 2, 3, 4, 6, 8, 12, 16, 24, 36, 48, 72 and 120
+hours after co-administration of study drugs. Plasma concentrations of tolterodine and 5-hydroxymethyl
+(b) (4)
+tolterodine were analyzed using a validated LC/MS/MS assays
+with LLOQ of 50 pg/mL
+(Validation Report: 45147HEN).
+Subject Disposition:
+Fifty subjects were randomized, 46 completed the study and 4 discontinued.
+AN213 and AN239 withdrew consent after randomization. AN225 withdrew consent in Period 2 prior to
+dosing on Day 2. AN248 was lost to follow-up.
+AN225 and AN248 were replaced by AN325 and AN348, respectively. The replacement numbers
+followed the same randomization as the allocation numbers. AN213 and AN239 were not replaced.
+61
+
+Reference ID: 4691247
+
+None of the 4 subjects were discontinued due to AE.
+Pharmacokinetics Results:
+• PK of vibegron
+The mean plasma concentration of vibegron versus time profiles in healthy male subjects are presented
+in Figure 7 for Panel I and II.
+Figure 16. Mean Plasma Concentration Profiles versus Time for MK-4618 in Healthy Male Subjects Following
+Once-Daily Oral Administration for 7 Days of 100 mg (Panel I, Group 1, N = 12) or 150 mg (Panel II, Group 1, N =
+12 for MK-4618 alone, N = 11 for MK-4618+tolterodine ER) MK-4618 with and without Co-administration with 4
+mg Tolterodine ER
+
+(Top: Linear Scale; Bottom: Semi-log Scale)
+
+Source: Figure 11-11 of Study 007 CSR
+
+Geometric mean and statistical comparisons for vibegron 100 and 150 mg alone and in combination
+with tolterodine are listed in Table 4. Geometric mean and statistical comparisons for tolterodine and its
+active metabolite 5-HM alone and in combination with vibegron 100 or 150 mg are listed in Table 5 and
+Table 6, respectively.
+
+62
+
+Reference ID: 4691247
+
+Table 24. Geometric Mean and Statistical Comparison of Vibegron Pharmacokinetics on Day 7 in Healthy Male
+Subjects Following Once-Daily Vibegron 100 mg or 150 mg for 7 Days with and without Co-Administration with
+Tolterodine ER 4 mg (Group 1 only data from Panel 1 and Panel 2)
+
+No clinically relevant changes in either vibegron AUC or Cmax were observed when co-administered
+with tolterodine ER 4 mg.
+• PK of tolterodine ER and its metabolite (5-hydroxymethyl tolterodine)
+The mean plasma concentration of tolterodine ER versus time profiles in healthy male subjects are
+presented in Figure 8 for Panel I and II.
+
+63
+
+Reference ID: 4691247
+
+Figure 17. Mean Plasma Concentration Profiles Versus Time for Tolterodine ER in Healthy Male Subjects
+Following Once-Daily Oral Administration for 7 Days of 4 mg Tolterodine ER with and without Co-administration
+with 100 mg (Panel I, Group 2, N = 12) or 150 mg MK-4618 (Panel II, Group 2, N = 12 for tolterodine ER, N = 11 for
+tolterodine ER + MK-4618)
+
+(Top: Linear Scale, Bottom: Semi-log Scale)
+
+Source: Figure 11-14 of Study 007 CSR
+
+64
+
+Reference ID: 4691247
+
+Table 25. Geometric Mean and Statistical Comparison of Tolterodine Pharmacokinetics on Day 7 in Healthy Male
+Subjects Following Once Daily Tolterodine ER 4 mg with and without Co-administration with Vibegron 100 mg or
+150 mg Once Daily
+
+The mean plasma concentration of 5-HM metabolite of tolterodine versus time profiles in healthy male
+subjects are presented in Figure 9 for Panel I and II.
+
+65
+
+Reference ID: 4691247
+
+Figure 18. Mean Plasma Concentration Profiles Versus Time for 5-HM Metabolite of Tolterodine in Healthy Male
+Subjects Following Once-Daily Oral Administration for 7 Days of 4 mg Tolterodine ER with and without Coadministration with 100 mg (Panel I, Group 2, N = 12) or 150 mg MK-4618 (Panel II, Group 2, N = 12 for
+tolterodine ER alone, N = 11 for tolterodine ER + MK-4618)
+
+(Top: Linear Scale, Bottom: Semi-log Scale)
+
+Source: Figure 11-17 of Study 007 CSR
+
+66
+
+Reference ID: 4691247
+
+Table 26. Geometric Mean and Statistical Comparison of the Pharmacokinetics of the 5-hydroxymethyl (5-HM)
+Metabolite of Tolterodine on Day 7 in Healthy Male Subjects Following Once Daily Tolterodine ER 4 mg with and
+without Co-administration with Vibegron 100 mg or 150 mg Once Daily
+
+Vibegron 100 mg, a higher dose than the to-be marketed dose of 75 mg, did not alter exposures of
+tolterodine or its 5-HM metabolite. The modest increase in tolterodine and 5-HM Cmax in the presence
+of vibegron 150 mg was not considered to be clinically meaningful.
+The apparent t½ of tolterodine and 5-HM were similar when administered alone and in combination
+with vibegron, demonstrating that vibegron does not inhibit CYP2D6, the metabolic pathway of
+tolterodine to 5-HM. Geometric mean tolterodine exposure in subjects receiving 100 mg vibegron was
+higher relative to subjects receiving vibegron 150 mg, likely attributed to a higher number of poor
+CYP2D6 metabolizers in the vibegron 100 mg treatment group.
+Pharmacodynamic Results:
+Per the Interdisciplinary Review Team for Cardiac Safety Studies, in Study 007, there is no clinically
+meaningful increase in heart rate; the average change from baseline in 24-h average HR is < 10 bpm.
+Applicant’s Conclusions regarding PK:
+There was no clinically meaningful effect on the multiple dose pharmacokinetics of vibegron 100
+mg and 150 mg when co-administered with multiple doses of tolterodine ER 4 mg.
+• There was no clinically meaningful effect on the multiple dose pharmacokinetics of tolterodine
+ER 4 mg or its active metabolite 5-HM, when co-administered with multiple doses of vibegron
+100 or 150 mg.
+Reviewer’s Comment:
+•
+
+•
+
+We agree with the sponsors conclusions from a clinical pharmacology perspective.
+
+67
+
+Reference ID: 4691247
+
+4.4.5. Study 1002: DDI study with Warfarin and Metoprolol
+Title: The Effect of Vibegron on the Pharmacokinetics of Warfarin and Metoprolol in Healthy Subjects
+Objective(s): to assess the safety, tolerability and pharmacokinetics of single-dose warfarin and
+metoprolol alone and after repeat-dose oral vibegron administration.
+Design: This was an open-label, single-sequence study of single-dose oral warfarin and metoprolol
+succinate alone, and in combination with repeat-dose oral vibegron in healthy male and female subjects.
+In Period 1, subjects received single doses of warfarin 10 mg followed by metoprolol succinate 100 mg
+(within 5 minutes) on Day 1 and had PK samples collected for 144 hours. Period 2 began on Day 8, and
+subjects received vibegron at a dose of 75 mg for 16 days (Day 8 to Day 23). On Day 17, subjects also
+received single doses of warfarin 10 mg followed by metoprolol succinate 100 mg (within 5 minutes) and
+had PK samples collected for 144 hours.
+
+PK samples were collected on Day 1 and Day 17 at pre-dose and at 0.5, 1, 2, 4, 6, 8, 12, 16, 24, 36, 48,
+72, 96, 120, and 144 hours post dose for warfarin and metoprolol succinate concentrations. Plasma
+concentrations of R-(+)-warfarin and S-(-)-warfarin were analyzed using a validated LC/MS/MS assays by
+(b) (4)
+with LLOQ of 10 ng/mL (Validation report: 145025AJQV). Plasma concentrations of
+(b) (4)
+metoprolol succinate was analyzed using a validated LC/MS/MS assays
+with LLOQ of
+0.5 ng/mL (Validation report: 95072AHHV).
+PK samples were collected on Day 17 at pre-dose and at 0.5, 1, 2, 4, 6, 8, 12, 16, 24, 36, 48, 72, 96, 120,
+and 144 hours post dose for vibegron concentrations. Plasma concentrations of vibegron were analyzed
+(b) (4)
+using a validated LC/MS/MS assays
+with LLOQ of 0.2 ng/mL (Validation report:
+177107ARHP).
+Subject Disposition:
+A total of 24 subjects were enrolled in the study. All 24 subjects (100%) completed the study.
+Pharmacokinetic Results:
+The mean plasma concentration of R- and S-warfarin, and metoprolol versus time profiles in healthy
+subjects are presented in Figure 10, Figure 11, Figure 12, and Figure 13
+
+68
+
+Reference ID: 4691247
+
+Figure 19. Arithmetic Mean (± SD) Plasma Concentration vs Time Profiles of R-warfarin Following Single-Dose
+Administration of Warfarin (10 mg) and Metoprolol Succinate (100 mg) Alone or After Repeat-Dose
+Administration of Vibegron
+
+(Left: Linear Scale, Right: Semi-log Scale)
+
+Source: Figure 14.3.3.1-2 of Study 1002 CSR
+Figure 20. Arithmetic Mean (± SD) Plasma Concentration vs Time Profiles of S-warfarin Following Single-Dose
+Administration of Warfarin (10 mg) and Metoprolol Succinate (100 mg) Alone or After Repeat-Dose
+Administration of 75 mg Vibegron Once Daily
+
+(Left: Linear Scale, Right: Semi-log Scale)
+
+Source: Figure 14.3.3.3-4 of Study 1002 CSR
+
+69
+
+Reference ID: 4691247
+
+Figure 21. Arithmetic Mean (± SD) Plasma Concentration vs Time Profiles of Metoprolol Following Single-Dose
+Administration of Warfarin (10 mg) and Metoprolol Succinate (100 mg) Alone or After Repeat-Dose
+Administration of 75 mg Vibegron Once Daily
+
+(Left: Linear Scale, Right: Semi-log Scale)
+
+Source: Figure 14.3.3.5-6 of Study 1002 CSR
+Figure 22. Arithmetic Mean (± SD) Plasma Concentration vs Time Profiles of Vibegron 75 mg on Day 17
+Following Single-Dose Administration of Warfarin (10 mg) and Metoprolol Succinate (100 mg) and Repeat-Dose
+Administration of 75 mg Vibegron Once Daily
+
+(Left: Linear Scale, Right: Semi-log Scale)
+
+Source: Figure 11-7 and 11-9 of Study 1002 CSR
+
+R-warfarin, S-warfarin and metoprolol GLS mean Cmax, AUC0-∞, GMR and 90% CIs alone and with
+multiple-dose administration of vibegron are presented in Table 7.
+70
+
+Reference ID: 4691247
+
+Table 27. Geometric Least Squares Mean and Statistical Comparison of R-Warfarin, S-Warfarin and Metoprolol
+Plasma Pharmacokinetics Following Administration of a Single Oral Dose of Warfarin 10 mg and Metoprolol
+Succinate 100 mg Alone and With Multiple-Dose Administration of Vibegron 75 mg Once-Daily
+
+Warfarin
+Vibegron does not alter the pharmacokinetics of R-warfarin and S-warfarin as demonstrated by the 90%
+CI of the GMR AUC and Cmax, which remained within the no-effect boundaries (80%- 125%).
+Additionally, the t½ for R-warfarin and S-warfarin were similar between the two periods.
+Metoprolol
+Following repeat-dosing of vibegron, the metoprolol GMR AUC0-∞ increased by 40% and Cmax
+increased by 49%. The t½ of metoprolol was not affected by concomitant administration with vibegron
+(9.49 hours alone vs 10.88 hours with vibegron). Vibegron in vitro inhibition data and in vivo data with
+tolterodine (a sensitive CYP2D6 substrate) have demonstrated that vibegron is not a CYP2D6 inhibitor.
+Thus, the predominant effect of vibegron on metoprolol exposure is likely a result of increased
+absorption rather than decreased elimination. The mechanism for the increase in metoprolol absorption
+is unclear but is assessed as not clinically significant since the increase in metoprolol exposure resulted
+in no clinically significant findings for vital signs and metoprolol is not a narrow therapeutic index drug.
+Furthermore, Study 010 evaluated the pharmacodynamic effect of vibegron 100 mg on BP in 13 subjects
+receiving stable metoprolol doses of 25 to 100 mg for the treatment of hypertension. On Day 1 of
+vibegron administration with metoprolol or placebo, the mean (90% CI) difference vs. placebo in
+maximum decrease from baseline in SBP was 3.70 (-3.05, 10.44) mmHg for semi-recumbent position and
+-0.80 (-8.97, 7.37) mmHg for standing position. On Day 7, the mean (90% CI) difference vs. placebo in
+maximum decrease from baseline in SBP was 2.63 (-4.11, 9.38) mmHg for semi-recumbent position and
+0.13 (-8.04, 8.30) mmHg for standing position. As such, there is no clinically or statistically significant
+71
+
+Reference ID: 4691247
+
+effect on SBP when vibegron is co-administered with metoprolol. Additionally, there were no cases of
+orthostatic hypotension observed in this study. The Interdisciplinary Review Team for Cardiac Safety
+Studies agreed with the applicant’s conclusion regarding blood pressure change in Study 010.
+Vibegron
+Cmax at steady state for 75 mg vibegron daily dosing was characterized by collecting intensive PK
+samples for the vibegron dose on Day 17 following single-dose administration of warfarin (10 mg) and
+metoprolol succinate (100 mg) and repeat-dose ddministration of 75 mg vibegron once daily. The
+arithmetic mean ± SD of Cmax at steady-state was 150 ± 103 ng/mL and the geometric mean of Cmax at
+steady-state was 123 ng/mL. See CSR for values of other PK parameters.
+Safety Results: No SAE, AECI or discontinuation due to an AE occurred during the study.
+Applicant’s Conclusions:
+•
+•
+
+•
+
+R-warfarin and S-warfarin pharmacokinetics were not affected by repeat-dose administration of
+vibegron.
+Metoprolol AUC0-∞ and Cmax increased 40% and 49%, respectively, in the presence of steadystate vibegron; however, metoprolol t½ was similar when administered alone and in
+combination with vibegron.
+The increase in metoprolol exposure is assessed as not clinically significant.
+
+Reviewer’s Comment:
+•
+
+We agree with the sponsors conclusions from a clinical pharmacology perspective.
+
+4.4.6. Study 022: DDI Study with Ethinyl Estradiol and Levonorgestrel
+Title: A Study to Assess the Effect of Multiple Oral Doses of MK-4618 on the Single-Dose
+Pharmacokinetics of the Components (Ethinyl Estradiol and Levonorgestrel) of an Oral Contraceptive Pill
+in Postmenopausal Female Subjects
+Objective(s): to assess the safety, tolerability and effect of multiple doses of vibegron on the single-dose
+pharmacokinetic profile of oral contraceptive components, ethinyl estradiol (EE) and levonorgestrel
+(LNG) after a single dose of Nordette® 28 (0.03 mg EE/0.15 mg LNG).
+Design: This was an open-label, two-period, fixed-sequence study. Healthy postmenopausal or
+oophorectomized adult female subjects 45 to 65 years of age were enrolled into the study.
+
+72
+
+Reference ID: 4691247
+
+Blood samples for EE and LNG were collected before NORDETT®28 dosing on Day 1 of Period 1 and Day
+10 of Period 2 and through 96 hours postdose in each period (i.e., pre-dose, 0.5, 1, 1.5, 2, 3, 4, 6, 8, 10,
+12, 16, 24, 48, 72, and 96 hours post-dose). Plasma concentrations of ethinyl estradiol were analyzed
+(b) (4)
+using a validated LC/MS/MS assays
+with LLOQ of 1 pg/mL (Validation report:
+75066AEKE). Plasma concentrations of Levonorgestrel were analyzed using a validated LC/MS/MS
+(b) (4)
+assays
+with LLOQ of 25 pg/mL (Validation report: 75066AEKE).
+Subject Disposition:
+A total of 18 subjects were enrolled in the study. All 18 subjects (100%) completed the study.
+Pharmacokinetic Results:
+The arithmetic mean EE plasma concentration versus time profiles following the administration of a
+single oral dose of Nordette®28 (0.03 mg EE/0.15 mg LNG) with and without multiple-dose
+administration of MK-4618 (100 mg once-daily x 13 days) are presented in Figure 14. The figure shows
+that the arithmetic mean EE plasma concentration versus time profiles were similar following both
+treatments, peaking at 1.5 hours post-dose, and declining in a biphasic fashion to 72 hours post-dose.
+The arithmetic mean LNG plasma concentration versus time profiles following the administration of a
+single oral dose of Nordette®28 (0.03 mg EE/0.15 mg LNG) with and without multiple-dose
+administration of MK-4618 (100 mg once-daily x 13 days) are presented in Figure 15.
+
+73
+
+Reference ID: 4691247
+
+Figure 23. Arithmetic Mean (SD) Plasma Concentration-Time Profiles of Ethinyl Estradiol Following the
+Administration of a Single Oral Dose of Nordette®28 (0.03 mg EE/0.15 mg LNG) With and Without Multiple-Dose
+Administration of MK-4618 (100 mg Once-Daily x 13 Days) (N = 18) (inset = semi-log scale)
+
+Source: Figure 11-1 of Study 022 CSR
+Figure 24. Arithmetic Mean (SD) Plasma Concentration-Time Profiles of Levonorgestrel Following the
+Administration of a Single Oral Dose of Nordette®28 (0.03 mg EE/0.15 mg LNG) With and Without Multiple-Dose
+Administration of MK-4618 (100 mg Once-Daily x 13 Days) (N = 18) (inset = semi-log scale)
+
+Source: Figure 11-3 of Study 022 CSR
+
+74
+
+Reference ID: 4691247
+
+Table 28. Geometric Mean and Statistical Comparison of Ethinyl Estradiol and Levonorgestrel Pharmacokinetics
+Following the Administration of a Single Oral Dose of Nordette® 28 (0.03 mg EE/0.15 mg LNG) With and Without
+Multiple-Dose Administration of Vibegron 100 mg Once-Daily
+
+Applicant’s Conclusions:
+EE exposures after co-administration of a single dose of Nordette® 28 with multiple-dose
+administration of vibegron 100 mg once-daily were not altered compared with administration of
+a single dose of Nordette® 28 alone.
+• LNG AUC0-∞ and Cmax increased approximately 20% when co-administered with multiple dose
+vibegron 100 mg once daily. This increase in LNG exposure is not considered clinically
+meaningful.
+• The lack of a decrease in EE or LNG following co-administration of Nordette®28 and vibegron
+suggests that vibegron will not impact the efficacy of oral contraceptives.
+Reviewer’s comment:
+•
+
+•
+
+We agree with the sponsors conclusions from a clinical pharmacology perspective.
+
+4.4.7. Study 010: Cardiovascular Safety with a Beta-Blocker or Vasodilator
+Title: A Study to Evaluate the Co-Administration of MK-4618 with Antihypertensive Agents
+Objective(s):
+•
+•
+
+To evaluate the safety and tolerability of multiple oral doses of vibegron when co-administered
+with antihypertensive agents in adult subjects;
+To evaluate BP following multiple-dose administration of vibegron with a beta-blocker and with
+a vasodilator;
+
+75
+
+Reference ID: 4691247
+
+To obtain preliminary steady state vibegron pharmacokinetic data after co-administration of
+multiple oral doses of vibegron with metoprolol and with amlodipine.
+Study Design:
+•
+
+This was a 2-panel, randomized (within panel), blinded (with respect to vibegron only), placebocontrolled, 2-period crossover study to evaluate safety, tolerability, and pharmacokinetics of once-daily
+multiple oral doses of vibegron 100 mg when co-administered with a beta-blocker (Panel A) or with a
+vasodilator (Panel B).
+Panel A enrolled 13 subjects (9 males, 4 females) 42 to 68 years of age who were maintained on a stable
+dose of extended-release metoprolol or another beta-blocker for at least 6 weeks prior to enrollment.
+Panel B enrolled 13 subjects (5 males, 8 females) 41 to 77 years of age who were maintained on a stable
+dose of amlodipine for at least 6 weeks prior to enrollment.
+
+PK samples were collected during a total period of 16 days. Intensive PK samples were collected for the
+first dose (Day 1) and the last dose (Day 7) during each period. For the first dose, blood samples were
+collected at per-dose, 0.5, 1, 2, 3, 4, 6, 8, 10, 12, 16 hrs post-dose. Pre-dose sample were collected for
+the second to the sixth daily doses. For the last dose, blood samples were collected pre-dose, 0.5, 1, 2, 3,
+4, 6, 8, 12, 16, 24, 48, 72, 96, and 192 hrs post-dose. Plasma concentrations of vibegron were analyzed
+(b) (4)
+using a validated LC/MS/MS assays
+with LLOQ of 0.20 ng/mL (validation report:
+10BAS0323).
+Subject Disposition
+In total, 26 subjects (12 females and 14 males) were included in the study and 23 subjects (10 females
+and 13 males) completed the study per protocol. More information can be found in Table 9.
+
+76
+
+Reference ID: 4691247
+
+Table 29. Subject Disposition (All Subjects)
+
+PK results
+• Panel A: MK-4618 with Metoprolol
+Table 10 displays summary statistics of PK parameters following multiple dose administration of MK4618 with metoprolol for 7 days in subjects with hypertension.
+Table 30. Summary of Pharmacokinetic Parameters of MK-4618 Following Administration of Once-daily Multiple
+Oral Doses of 100 mg MK-4618 Co-Administered with a Beta-Blocker Metoprolol in Male and Female Subjects
+with Hypertension
+
+Source: Table 11-9 of CSR of Study 010
+
+• Panel B: MK-4618 with Amlodipine
+Table 11 displays summary statistics of MK-4618 PK parameters following multiple dose administration
+of MK-4618 with amlodipine for 7 days in subjects with hypertension.
+
+77
+
+Reference ID: 4691247
+
+Table 31. Summary of Pharmacokinetic Parameters of MK-4618 Following Administration of Once daily Multiple
+Oral Doses of 100 mg MK-4618 Co-Administered with a Vasodilator Amlodipine in Male and Female Subjects
+with Hypertension
+
+Source: Table 11-11 of CSR of Study 010
+
+The accumulation ratio (90% CI) on Day 7 vs. Day 1 for vibegron AUC0-24 in combination with
+metoprolol or amlodipine was 2.15 (1.82, 2.53) and 2.61 (2.13, 3.19), respectively and for Cmax was 1.33
+(1.03, 1.70) and 1.84 (1.27, 2.67), respectively. The accumulation ratios were similar to those of vibegron
+alone from Study 002, the multiple ascending dose study. Metoprolol or amlodipine did not alter the
+pharmacokinetics of vibegron.
+Pharmacodynamic results: Defer to Clinical.
+
+78
+
+Reference ID: 4691247
+
+4.5 Pharmacometrics Review
+Population pharmacokinetics and exposure response analyses
+Aim: The population pharmacokinetics (PopPK) analysis was to develop a PopPK model to describe
+vibegron PK and associated variability following single and repeated once-daily dosing, evaluate selected
+covariates’ impact on PK parameters, and use the vibegron PK model to illustrate and quantify potential
+difference across subgroups (e.g., elderly, renally impaired, and underweight subjects).
+Data: There were 10 clinical studies included in the PopPK analysis. The data include 9,799 observations
+from 1,179 patients, and 16 doses, ranging from 2 to 600 mg. Subjects’ baseline characteristics are
+summarized in Table 1.
+Table 32. Summary of baseline characteristics.
+Study
+
+Age (yr)
+Mean (SD)
+
+Phase I
+
+URO-901-1001*
+
+(N=256)
+
+(N=40)
+
+46.1 (18)
+
+MK-4618-008
+(PhII)
+
+RVT-901-3003
+(PhIII)
+
+(N=252)
+
+(N=1179)
+
+59.5 (8 8)
+
+62.6 (12)
+
+57.3 (13)
+
+(N=631)
+
+60.6 (8.7)
+
+All
+
+Median (range)
+
+43 (18 - 79)
+
+62.5 (44 - 74)
+
+60 (31 - 76)
+
+64 (18 - 93)
+
+60 (18 - 93)
+
+Weight (kg)
+Mean (SD)
+
+75.4 (12)
+
+78.2 (14)
+
+74.8 (20)
+
+87.7 (21)
+
+77.8 (19)
+
+Median (range)
+Sex
+Female
+Male
+
+Race
+American Indian
+
+75
+(45.5 - 137)
+
+67 (26.2%)
+
+189 (73 8%)
+0 (0.0%)
+
+Asian
+
+49 (19.1%)
+
+Other
+
+4 (1.6%)
+
+Black
+
+Multiple
+
+Pacific Islander
+White
+
+Health Status
+Healthy
+Patient
+
+eGFR
+(ml/min/1.73 m2)
+Mean (SD)
+
+26 (10.2%)
+1 (0.4%)
+0 (0.0%)
+
+176 (68 8%)
+256
+(100.0%)
+
+0 (0.0%)
+
+94.8 (24)
+
+76.4
+(59.5 - 113)
+
+27 (67.5%)
+13 (32.5%)
+
+1 (2.5%)
+
+569 (90.2%)
+62 (9 8%)
+
+36 (14.3%)
+
+9 (1.4%)
+
+0 (0.0%)
+
+35 (87.5%)
+
+0 (0.0%)
+
+49 (19.4%)
+
+24 (3 8%)
+
+0 (0.0%)
+
+0 (0.0%)
+
+203 (80.6%)
+
+1 (0.4%)
+
+148 (23.5%)
+
+4 (10.0%)
+
+86.2
+(46.7 - 161)
+
+1 (0.2%)
+
+0 (0.0%)
+
+0 (0.0%)
+1 (0.2%)
+
+75.8
+(39.1 - 161)
+
+866 (73.5%)
+313 (26.5%)
+3 (0.3%)
+
+9 (3.6%)
+
+206 (17.5%)
+
+2 (0.8%)
+
+15 (1.3%)
+
+0 (0.0%)
+0 (0.0%)
+
+90 (7.6%)
+1 (0.1%)
+1 (0.1%)
+
+448 (71.0%)
+
+204 (81.0%)
+
+863 (73.2%)
+
+0 (0.0%)
+
+0 (0.0%)
+
+256 (21.7%)
+
+40 (100.0%)
+
+631 (100.0%)
+
+83.2 (20)
+
+93.6 (21)
+
+79
+
+Reference ID: 4691247
+
+72.1
+(39.1 - 159)
+
+252 (100.0%)
+
+85 (21)
+
+923 (78.3%)
+
+91.7 (22)
+
+Median (range)
+
+94.7 (12.5 170)
+
+81.4 (52.8 148)
+
+90.8 (38 8 173)
+
+83.2 (32.6 147)
+
+90.1 (12.5 - 173)
+
+This was a double-blind, randomized, placebo-controlled study to assess the effect of 75 mg vibegron
+on blood pressure and heart rate in subjects with OAB. Cmax was a key exposure metric in this study.
+*
+
+Source: Table 5, Population PK report.
+Model: The base structural model was developed on rich phase 1 data. The model was updated with
+data from later phases studies. The final model was a 3-compartment model with one saturable
+distribution compartment and linear elimination (See Figure 1). Relative bioavailability was described by
+a nonlinear dose dependent function. The model included inter-individual variability (IIV) on clearance
+(CL), central volume of distribution (V2), mean transit time (MTT) and maximum distribution capacity
+(Bmax). A proportional error model was used to describe the residual variability with different
+magnitude for phase 1 and Overactive Bladder (OAB) patient studies. The covariate effects and
+parameter estimates of the final model are shown in Table 2. The final model was assessed by graphical
+goodness of fit (GOF) (Figure 2) and visual predictive check (VPC) plots (See Figure 3).
+Covariate Analysis: A covariate search involved stepwise testing of linear relationships for categorical
+covariates and power relationships for continuous covariates in a forward inclusion and backwards
+exclusion procedure. Effects of estimated glomerular filtration rate (eGFR), body weight (WT), age, sex,
+race, Japanese, OAB status (i.e. OAB patients vs healthy) on CL, effects of WT, age, sex, race, Japanese,
+OAB status on V2 and effects of WT, age, sex, race, Japanese, OAB status on Bmax were evaluated.
+The following covariates were retained in the final model: WT on CL and V2, age on Bmax, eGFR on CL,
+and OAB status on CL. WT had the largest impact on maximum concentration (Cmax) and area under
+the concentration vs. time curve over the dosing interval (AUCτ) among these covariates. The group with
+WT below 60 kg showed an increased Cmax and AUCτ of 71% and 31% respectively compared to the
+subjects in the middle group (73-85 kg). Age on Bmax and eGFR on CL were statistically significant,
+however, not clinically relevant since their impact on Cmax and AUCτ was low compared to the
+variability from other sources. The AUCτ and Cmax for subjects in the highest age group (>80 years) was
+predicted be 2% and 0% higher compared to the subjects in the middle age group (50 to <65 years). The
+geometric mean predicted vibegron AUCτ was 42.7% higher in subjects representing severe renal
+impairment (lowest eGFR group 15-30 ml/min/1.73 m2) compared to the subjects with mildly decreased
+renal impairment (60-90 ml/min/1.73m2) (see Table 3). OAB status was a statistically significant
+covariate on clearance. However, simulations showed that Cmax and AUCτ for subjects with OAB
+without food restrictions had a clinically irrelevant decrease in AUCτ (19% lower) and Cmax (9% lower)
+compared to fasting healthy subjects.
+
+80
+
+Reference ID: 4691247
+
+Figure 25. Final Population PK Model
+
+CL: Systemic clearance. V2: Central volume of distribution. V3: Peripheral volume of distribution. Q2:
+Intercompartmental clearance. Bmax: Maximum capacity of peripheral distribution. km: Amount
+giving 50% of distribution. kp: Rate constant of distribution. Ntr: Number of transit compartments.
+ktr: Rate constant of transit absorption.
+Source: Adapted from Figure 13, population PK report.
+Figure 26. Goodness of fit plots for the final model
+
+81
+
+Reference ID: 4691247
+
+Source: Figures 14 and 15, population PK report.
+Figure 27. Visual predictive check plot.
+
+Source: Figure 19, population PK report.
+82
+
+Reference ID: 4691247
+
+Table 33. Parameter Estimates of the Final PopPK model
+
+Parameter
+θ1
+θ2
+θ3
+θ4
+θ5
+θ6
+θ7
+θ8
+θ9
+θ10
+θ11
+θ12
+θ13
+θ14
+θ15
+θ16
+θ17
+θ18
+ω1.1
+ω2.2
+ω3.3
+ω4.4
+σ1.1
+σ2.2
+
+Alias
+
+Estimate
+
+Relative SE (%)
+
+95% CI
+
+CL/F (L/h)
+V2/F (L)
+V3/F (L)
+Q2/F (L/h)
+MTT1 (h)
+Bmax/F (µg)
+Km/F (µg)
+Fbase (-)
+F50 (mg)
+Food study 001 and 003 (-)
+Ntr1 (-)
+kp/F (/h)
+Food study 002 (-)
+Age on Bmax (-)
+eGFR on CL (-)
+Healthy CL (-)
+WT on CL (-)
+WT on V2 (-)
+ω CL2
+ωV12
+ωMTT12
+ωBMAX2
+Proportional residual error healthy
+Proportional residual error patients
+
+48.1
+575
+880
+3.33
+0.517
+1.61·105
+3.15·104
+0.204
+71.2
+0.482
+3.38
+0.0783
+0.805
+0.372
+0.312
+-0.195
+0.563
+1.38
+0.215
+0.278
+0.500
+0.116
+0.0865
+0.130
+
+.....
+.....
+.....
+.....
+.....
+.....
+.....
+.....
+.....
+10.8
+.....
+.....
+10.5
+16.6
+17.9
+10.8
+12.6
+13.4
+7.90
+13.0
+19.4
+15.5
+3.80
+5.80
+
+(42.4 - 54.7)
+(521 - 635)
+(699 - 1.11·103)
+(2.66 - 4.16)
+(0.468 - 0.572)
+(1.37·105 - 1.88·105)
+(2.62·104 - 3.79·104)
+(0.171 - 0.241)
+(50.4 - 101)
+(0.380 - 0.585)
+(2.39 - 4.78)
+(0.0704 - 0.0872)
+(0.640 - 0.971)
+(0.251 - 0.494)
+(0.202 - 0.421)
+(-0.236 - -0.154)
+(0.424 - 0.701)
+(1.02 - 1.74)
+(0.182 - 0.249)
+(0.207 - 0.348)
+(0.310 - 0.690)
+(0.0809 - 0.152)
+(0.0800 - 0.0930)
+(0.115 - 0.145)
+
+Source: Adapted from Table 9, Population PK report.
+Special Population: eGFR was a statistically significant covariate on vibegron pharmacokinetics.
+However, the effect of renal impairment was not clinically meaningful as represented by the 10% to 57%
+increase in vibegron AUC and the 6% to 24% increase in Cmax across varying degrees of renal
+impairment as listed in Table 3.
+
+Table 34. Simulated Vibegron AUC and Cmax from the Population Pharmacokinetic Analysis for Various Levels of Renal Function
+and Comparison of AUC and Cmax in Renal Impairment to Normal Renal Function
+
+83
+
+Reference ID: 4691247
+
+AUC
+
+Cmax
+
+Source: Tables 4 and 5 in 2020930-rep-clinpharm 1.
+Exposure-Response Analyses (RD-18-001)
+Dose Selection for Phase 3
+Study P008 investigated the effects of 4 doses of MK-4618 as monotherapy (3, 15, 50, and 100 mg) and
+as combo therapy (MK-4618 50 mg and tolterodine extended release (ER) 4 mg). The trial also studied
+tolterodine ER 4 mg monotherapy for comparison. In order to inform the selection of the MK-4618 dose
+level for Phase 3, pharmacokinetic-pharmacodynamic (PK-PD) modeling of micturition frequency (MF),
+urinary urge incontinence (UUI), and strong urgency (SU) data from Protocol 008-Part 1 was conducted.
+An exposure metric in the form of simulated PK daily concentration at the end of a 24-hour dose interval
+(C24h) was used in the analyses. Details of the modeling are as follows.
+For MF, a final Generalized Poisson (GP) model with estimated C24hr using a non-compartment model
+in power law, was able to describe placebo-subtracted change from baseline (CFB) at doses of interest
+(15 mg to 100 mg) for Japanese and the rest of world (ROW) separately vs. least squares means
+(LSmean) and 95% confidence interval (CI) from the statistical analysis by the treatment groups and the
+study populations (See Figure 4). The model structure and parameter estimates are shown in Table 4.
+The 3 mg response in rest of world the (RoW) dataset showed an effect size that was similar to that of
+15 mg and 50 mg which would not be congruent with an exposure response gradient (See Figure 4).
+Because the 3 mg efficacy was comparable to the 15 mg efficacy despite differences in mean trough
+concentrations, although there was considerable overlap, models fit to the full dataset tended to either
+over-estimate the placebo effect or underestimate the CFB at the 50 and 100 mg doses. Therefore, 3 mg
+data was excluded in the RoW dataset. For Japanese dataset, the 3 mg data did show a response in
+agreement with an incremental exposure response gradient, thus in the analysis of MF in Japanese, the
+3 mg data were included. Because first order conditional estimation with Interaction (FOCE-I) method
+was not feasible for GP modeling under NONMEM V7.2.0, first run Stochastic Approximation
+Expectation Maximization (SAEM) with 3,000 burn-in samples with stringent convergence tests
+(CTYPE=3, CITER=25) and 300 stochastic posterior samples, and the subsequent MCMC BAYES run
+consisted of 3,000 burn-in samples with the same convergence tests, followed by 1,000 samples of the
+84
+
+Reference ID: 4691247
+
+posterior distribution. Parameter and standard error estimates for the MF models under the GP
+distribution were obtained using at least 1,000 samples from the posterior distribution. In summary, the
+model could not be used for extrapolation to higher doses > 100 mg, and was also not considered
+sufficiently robust given that the 3 mg data had been excluded.
+Figure 28. Population prediction of MF via Generalized Poisson Models vs. LSmean and 95% CI based on statistical model)
+
+Source: Figure 12 in rd-18-001 report
+
+85
+
+Reference ID: 4691247
+
+Table 35. Final MF model structure and parameter estimates.
+
+Model Structure: General Poisson
+
+Ф2 that was fixed to a -0.001 for the Japanese data set, which resulted in the dispersion factor being
+assumed to be lognormally distributed between subjects.
+Final GP MF model parameter estimates :Rest of World
+Japan
+
+Source: Tables 7 and 8 in the RD-18-001 report.
+
+86
+
+Reference ID: 4691247
+
+For UUI and SU, it did not require a reduced dataset to be used; and only OAB wet patients were
+included in the analysis of UUI. The exposure response relationship (ERR) for either UUI or SU was
+described by a Poisson model and built with the FOCE-I algorithm. The model structure and final model
+parameter estimates are shown in Table 5. The models were further assessed via posterior predictive
+check (See Figure 5).
+In conclusion, using the GP and the Poisson distribution to appropriately describe the observed
+distribution, the ERR developed for MF, UUI, and SU count data supported selection of 50 mg MK-4618
+as the low dose and 100 mg as the high dose to take into Phase 3 development in Japan. For all
+endpoints, the effect was predicted to increase from 50 to 100 mg, which supports the selection of 75
+mg in Phase 3 trials in US.
+Table 36. Summary of model structures and parameter estimates.
+
+UUI model structure and parameter estimates
+
+SU model Structure and parameter
+estimates
+
+87
+
+Reference ID: 4691247
+
+Source: Tables 10 and 12 in the RD-18-001 report.
+Figure 29. Posterior Predictive Check of UUI and SU models.
+
+Source: Figure 31 in rd-18-001 report
+Updated Exposure-Efficacy Analysis with Phase 3 data included
+88
+
+Reference ID: 4691247
+
+The pharmacokinetics (PK) metric selected was vibegron concentrations at 22 or 26 hours after the most
+recent dose (Ctrough). The reason for this selection is that trough concentrations, a reflection of drug
+clearance, are highly correlated to AUC and indicate drug exposure over the dosing interval. During
+development, vibegron trough concentrations were collected in the Phase 2 and 3 studies.
+The updated ER analyses for efficacy parameters included data from the dose-finding Phase 2 study 008
+(a 8-week study) and the pivotal Phase 3 Study 3003 (a 12-week study). A three-parameter Emax model
+was chosen for the ER analysis of each co-primary endpoint at week 8. Vibegron trough concentrations
+from studies 3003 and 008 vs. the CFB at Week 8 in MF and in UUI episodes are plotted and overlaid
+with the estimates of the Emax model (See Figure 6 and Figure 7). For MF, the Emax model is: CFB=1.477-0.405/(1+[1.952/Ctrough]) and for UUI, the Emax model is: CFB=-1.21-1.57/(1+[18.39/Ctrough]). ,
+The limitation of this analysis was that the endpoints used were obtained at week 8 while co-primary
+efficacy endpoints at week 12 were used in the Phase 3 study for efficacy assessment.
+Later, the ER analysis was updated using data from the pivotal Phase 3 Study 3003 only. A threeparameter Emax model was chosen for the ER analysis of each co-primary endpoint at week 12.
+Vibegron trough concentrations from studies 3003 vs. the CFB at Week 12 in MF and in UUI episodes are
+plotted and overlaid with the estimates of the Emax model (See Figure 8 and Figure 9). For MF, the
+Emax model is: CFB = -1.579 – 6.142/(1 + [266.9/Ctrough]) and for UUI, the Emax model is: CFB = -0.627
+– 2.14/(1 + [1.637/Ctrough]). For both endpoints, the ER relationships seems blurred by the high
+variation in responses and appear no clear trend.
+Figure 30. Change from Baseline at week 8 in Average Number of Micturitions vs Vibegron Trough Concentrations: studies 3003
+and 008.
+
+Source: Figure 1 in 2020413-rep-clinpharm 4-5.
+
+89
+
+Reference ID: 4691247
+
+Figure 31. Change from Baseline at week 8 in Average Daily Number of Urge Urinary Incontinence Episodes vs. Vibegron Trough
+Concentrations-studies 3003 and 008.
+
+Source: Figure 2 in 2020413-rep-clinpharm 4-5.
+Figure 32. Week 12 Change from Baseline in Average Daily Number of Micturitions vs Vibegron Trough Concentrations Vibegron-treated FAS with Evaluable Trough PK Samples: Study 3003
+
+Source: Figure 1 in 2020619-rep-clinpharm 1-4.
+
+90
+
+Reference ID: 4691247
+
+Figure 33. Week 12 Change from Baseline in Average Daily Number of Urge Urinary Incontinence Episodes vs Vibegron Trough
+Concentrations -Vibegron-treated FAS-I with Evaluable Trough PK Samples: Study 3003
+
+Source: Figure 2 in 2020619-rep-clinpharm 1-4.
+
+Furthermore, differences in body weight were not associated with differences in daily MF or UUI
+episodes given a fixed dose of 75 mg once daily (See Figure 10 and Figure 11). Similar results in efficacy
+and exposures were observed across all 4 weight quartiles when the same analyses were performed for
+Studies 3003 and 008 combined, further supporting results from Study 3003 that body weight was not
+correlated with efficacy. In addition, the vibegron-treated patient with the largest body weight (161.30
+kg) in Study 3003 achieved clinical improvements in daily micturitions and UUI episodes that were
+generally consistent with the overall response for the vibegron treatment group.
+
+91
+
+Reference ID: 4691247
+
+Figure 34. Change from baseline in Average Daily Number of Micturitions at Week 12 by Baseline Weight study 3003.
+
+Source: Figure 5.2.1.3 in 2020413-resp-clinpharm.
+
+Figure 35. Change from baseline in Average Daily Number of Urge Urinary Incontinence Episodes at Week 12 by Baseline
+Weight-study 003.
+
+Source: Figure 5.2.2.3 in 2020413-resp-clinpharm.
+
+92
+
+Reference ID: 4691247
+
+Exposure-Safety Analyses
+Blood Pressure (BP:RD-19-005):
+The effect of supra-therapeutic single dose vibegron 200 mg and 400 mg on QTc interval and vital signs
+was assessed in 52 healthy male and female volunteers in Study 012. The vibegron tQT study did not
+evaluate the effect of multiple dose vibegron or the vibegron to-be-marketed dose of 75 mg on vital
+signs. The objective of these analyses was to assess the concentration-effect relationship between
+vibegron exposure and vital signs (SBP, DBP and HR) to estimate the effect of the to-be-marketed dose
+of vibegron 75 mg after single and repeat doses on vital signs in healthy volunteers. Estimates of the
+effect of single dose and multiple dose vibegron 75 mg on SBP, DBP and HR were generated by using
+linear regression of observed BP and HR changes versus vibegron concentration (including placebo).
+Predicted maximum change from baseline (CFB) and difference from placebo in SBP, DBP and HR for
+single vibegron doses of 0, 75, 200 and 400 mg and vibegron 75 mg at steady state are listed in Table 6.
+Predicted values for placebo adjusted maximum changes in SBP (1.3 mmHg and 3.6 mmHg for 200 and
+400 mg, respectively) were generally consistent with the observed values (2.2 mmHg and 3.97 mmHg,
+respectively). Predicted values for placebo adjusted 24-hour changes in SBP (0.3 mmHg and 0.7 mmHg
+for 200 and 400 mg, respectively) were generally consistent but somewhat underpredicted the observed
+values (0.7 mmHg and 1.3 mmHg, respectively). The vibegron Cmax concentration associated with a 1
+mm Hg increase in placebo adjusted SBP is 305.5 ng/mL. Using the observed and estimated
+concentration effect relationship between vibegron and SBP, DBP and HR, the predicted placebo
+adjusted 75 mg once daily Cmax and 24-hour steady-state average changes (i.e. sustained increases)
+from baseline in SBP, DBP and HR are estimated as not clinically meaningful (i.e. average 24-hour SBP
+and DBP < 1mm Hg and HR < 1 bpm).
+The model prediction on SBP, DBP and HR related to Cmax or 24-hour average at 75 mg under the
+dosing regimen of a single dose or multiple doses at steady state is extrapolated from the linear model
+established from the single dose of vibegron 200 mg and 400 mg on QTc study. This extrapolation
+assumes that the low dose 75 mg and high doses of 200 mg and 400 mg share the same exposure
+response relationship. Therefore, the interpretation of the results should be cautious. In addition, when
+assessing the risk of blood pressure change, average concentration during a dosing interval is more
+relevant than Cmax. The ABPM study concluded that there were no significant effects of vibegron on BP
+in the ABPM study, with the following 24-hour placebo-adjusted mean changes from baseline (∆∆) for
+SBP, DBP, and HR. Per study 3003, there is no safety concern regarding blood pressure increase due to
+vibergron exposure at 75 mg.
+
+93
+
+Reference ID: 4691247
+
+Table 37. Predicted Change from Baseline and Difference from Placebo in Systolic Blood Pressure, Diastolic Blood Pressure
+and Heart Rate.
+
+Source: Table 2 in Vibegron Exposure-Safety Report.
+Updated Exposure-Safety Analysis
+The proportion of vibegron-treated patients experiencing any TEAE was similar for both weight
+subgroups: 36.8% in the ≤ 25th percentile and 39.4% for the > 25th percentile (See Table 7) and 38.2% in
+the ≤ 75th percentile and 40.3% for the > 75th percentile (See Table 8), demonstrating that the fixed
+vibegron dose of 75 mg did not lead to an increased incidence of TEAEs in patients with lower body
+weight.
+
+94
+
+Reference ID: 4691247
+
+Table 38. Treatment Emergent Adverse Events Reported in ≥2% of Patients Receiving Vibegron 75 mg by Weight Subgroups:
+Study 3003.
+
+Source: Table 3 in 2020413-resp-clinpharm 4-5.
+
+95
+
+Reference ID: 4691247
+
+Table 39. Treatment Emergent Adverse Events Reported in ≥2% of Patients Receiving Vibegron 75 mg by Weight Subgroups:
+Study 3003.
+
+Source: Table 3 in 2020619-resp-clinpharm.
+
+96
+
+Reference ID: 4691247
+
+Simulation: A simulation was performed to enable comparison of 75 mg versus 100 mg once daily
+vibegron, and explore what a doubling of exposure from 75 mg would imply. The results indicate that a
+doubling of exposure from 75 mg for 94% population are covered by exposures from 100 mg with
+respect to AUCτ and Cmax (See Figure 12 and Table 9). However, the 50th percentiles of AUCτ and Cmax
+are 40% higher when doubling of exposure from 75 mg relative to the 100 mg exposure.
+We asked the sponsor to simulate exposure metrics, AUC and Cmax, for Japanese population dosed at
+100 mg QD and for US population dosed at 75 mg QD. To simulate the 100 mg dose in Japanese
+population, the distribution of influential covariates on pharmacokinetics of vibegron, such as body
+weight, age, and eGFR, should come from the Japanese Phase 3 studies (i.e., Study 301 and 302).
+Similarly, to simulate the 75 mg dose in US population, the distribution of these covariates should come
+from the US Phase 3 studies (i.e., Study 3003 and 3004). A comparison summary table () of 5%, 25%,
+50%, 75% and 95% percentile of AUC and Cmax for doubling exposure of 75 mg QD in the US population
+and the percentiles of AUC and Cmax for 100 mg QD in the Japanese population shows that the 50th
+percentile of AUC for doubling exposure of 75 mg QD in the US population is 20% higher. However,
+Cmax is comparable between the scenarios across all percentiles.
+Figure 36. Simulated Vibegron Cmax and AUCτ for Doses of 100 mg and 2*75 mg
+
+Source: Figure 1, included in the IR response dated 9/18/2020.
+
+97
+
+Reference ID: 4691247
+
+Table 40. Summary table of 5%, 25%, 50%, 75%, 94%, 95% and 99% percentile of AUC and Cmax for 100 mg QD and doubling
+exposure of 75 mg QD (2*75 mg)
+
+Dose (mg)
+
+AUCτ
+CMAX
+(ng*h)/ml) (ng/ml)
+100 mg
+100 mg
+
+5th
+635
+percentile
+25th
+1006
+percentile
+50th
+1370
+percentile
+75th
+1843
+percentile
+94th
+2822
+percentile
+95th
+2925
+percentile
+99th
+3955
+percentile
+Source: PM reviewer.
+
+65.38
+
+AUCτ
+(ng*h)/ml)
+Doubled 75
+mg
+898.1
+
+CMAX
+(ng/ml)
+Doubled 75
+mg
+91.12
+
+99.25
+
+1351
+
+136.8
+
+130.5
+
+1878
+
+185.2
+
+186.5
+
+2553
+
+246.7
+
+276.4
+
+3930
+
+372.7
+
+286.8
+
+4126
+
+402
+
+393
+
+5747
+
+550.9
+
+Table 41. Summary of 5%, 25%, 50%, 75% and 95% percentile of AUC and Cmax for doubling exposure of 75 mg QD in the US
+population and the percentiles of AUC and Cmax for 100 mg QD in the Japanese population.
+
+Source: Table 1.1.2.1 in the resp-clin-pharm-exp-sim dated 10052020.
+
+98
+
+Reference ID: 4691247
+
+Review Summary
+In general, the applicant’s population PK analysis is considered acceptable for the purpose of supporting
+analyses objectives. The applicant’s analyses were verified by the reviewer, with no significant
+discordance identified.
+More specifically, the developed model was used to support the current submission as outlined in Table
+11.
+Table 42. Specific Comments on Applicant’s Final Population PK model
+
+Utility of the final model
+Support
+applicant’s
+proposed
+labeling
+statements
+about intrinsic
+and extrinsic
+factors
+
+Intrinsic
+factor
+
+(b) (4)
+
+The statements are
+acceptable without
+significant changes.
+The conclusions on
+hepatic impairment
+are mainly based on
+the dedicated study.
+
+99
+
+Reference ID: 4691247
+
+Reviewer’s
+Comments
+
+Extrinsic
+factor
+
+Derive exposure
+metrics for
+Exposureresponse
+analyses
+
+NA
+
+Predict
+exposures at
+alternative
+dosing regimen
+
+NA
+
+NA
+
+The conclusions on
+extrinsic factors were
+not based on PopPK
+analyses.
+Observed Ctroughs
+included in the
+analyses were binned
+in a time interval of
+22 to 26 hours after
+the most recent dose
+of vibegron.
+NA
+
+100
+
+Reference ID: 4691247
+
+Signature Page 1 of 1
+
+-------------------------------------------------------------------------------------------This is a representation of an electronic record that was signed
+electronically. Following this are manifestations of any and all
+electronic signatures for this electronic record.
+-------------------------------------------------------------------------------------------/s/
+-----------------------------------------------------------LIN ZHOU
+10/23/2020 01:40:38 PM
+JUNSHAN QIU
+10/23/2020 03:16:06 PM
+JINGYU YU
+10/23/2020 03:27:19 PM
+YANHUI LU
+10/23/2020 03:29:35 PM
+SHIRLEY K SEO
+10/23/2020 04:04:23 PM
+
+Reference ID: 4691247
+
+

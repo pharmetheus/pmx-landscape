@@ -1,0 +1,46 @@
+BLA Multi-disciplinary Review and Evaluation {Biologics License Application (BLA) 761324
+{epcoritamab}
+
+above 48 mg QW, it is unclear if ORR differs following full doses above 48 mg QW compared to
+the proposed dosage regimen (0.16/0.8/48 mg).
+
+Multivariate E-R efficacy analysis was conducted in patients with LBCL from Study GCT3013-01
+and GCT3013-04 (n=234) for the endpoint of ORR. Higher cycle 1 AUC was associated with
+better ORR after accounting for the impacts of prior CAR-T therapy status and duration since
+prior CD20 therapy on ORR (Table 102). Patients with higher Cycle 1 AUC, no prior CAR-T
+therapy and greater than median duration since prior CD20 therapy at baseline (i.e., greater
+than 4.8 months since prior CD20 therapy at baseline) tended to have better ORR.
+
+OS and PFS data were available in a total of 237 patients with LBCL from Study GCT3013-01 and
+GCT3013-04 who received individual doses ranging from 0.004 to 60 mg SC, and the Cycle 1
+AUC in these patients is summarized in Table 103. In the E-R efficacy analysis, Cycle 1 AUC was
+determined using actual dosage records for each patient. If a patient interrupted treatment
+following the first or the second dose and then restarted treatment, Cycle 1 was defined as
+4-week interval following treatment restart.
+
+Table 103: Summary of Cycle 1 AUC in Patients with E-R Efficacy Dataset
+
+Exposure metric _| Statistic Quartile 1 Quartile 2 Quartile 3 Quartile 4
+Cycle 1 AUC n 60 59 59 59
+(ug/mL*day) Median 7.65 33.8 48.7 67
+
+Min —Max 0.00211 - 21.8 21.9 - 41.3 41.6-57.1 57.4 - 101.4
+
+Data shown for 237 patients with LBCL in Study GCT3013-01 and GCT3013-04 who received individual epcoritamab
+doses from 0.004 to 60 mg SC and had recorded exposure, OS, and PFS data.
+
+AUC = area under the concentration-versus-time curve; OS = overall survival; PFS = progression-free survival.
+Source: Reviewer's analysis
+
+Kaplan-Meier plots show that the lowest Cycle 1 AUC quartile was associated with worse OS
+(Figure 36) and worse PFS (Figure 37) compared to higher exposure quartiles.
+
+Figure 36: Kaplan-Meier Plot of Overall Survival by Cycle 1 AUC Quartile
+
+298
+Version date: June 2022 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5176690

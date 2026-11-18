@@ -1,0 +1,41 @@
+NDA/BLA Multi-disciplinary Review and Evaluation — BLA 761384
+
+Telisotuzumab Vedotin
+Final Parameter
+Value used in
+Parameter PBPK Model Source/Details
+Physicochemical Properties
+
+Blood to plasma ratio 0.55 Li2014*
+fa plasma 1 No binding
+Maximum DAR Way Internal data
+Di (Or)
+
+iscrete distribution Internal data
+DAR Mean 2.99 Internal data
+
+Distribution
+Distribution mode! Minimal PBPK
+model
+FeRy binding affinity (uM) 3.9 R&D/13/854
+Uptake rate in the endosomal 0.0218 Calibrated to capture internal PK data
+space, endocytosis rate (1/h)
+Recycling rate (I/h) 3.3 Simeyp default for wild-type IgG
+Recycling fraction of FoRN 0.5 Simeyp default for wild-type IgG
+bound drug
+a
+Catabolic clearance (L/h) 0.0175 simeyp default for wild-type IgG (Li 2014)
+Non-specific systemic plasma 0.025 Calibrated to capture TAb PK data
+clearance (L/h)
+Deconjugation rate constant 0.007 The initial deconjugation rate was calculated based on
+for DAR 1 (1/h) MMAE concentra increase in 24 hours in an in vitro
+study and later increased by ~35-fold to capture both
+conjugated antibody and MMAE exposure.
+
+239
+Version date: March 1, 2024 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as "Data" and "The Applicant's Position" are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5590242

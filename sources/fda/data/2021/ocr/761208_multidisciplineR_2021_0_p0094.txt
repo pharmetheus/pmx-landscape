@@ -1,0 +1,59 @@
+BLA Multi-disciplinary Review and Evaluation {Biologics License Application (BLA) 761208}
+{tisotumab vedotin}
+
+parameters, PK, and ADAs of tisotumab vedotin.
+
+Exploratory endpoints included:
+e TF expression in pre-treatment and post-progression tumor biopsies, circulating TF,
+proteomic analyses, and genetic variations
+¢ Circulating TF and proteomic analyses
+¢ EORTC-QLQ-C30 and EORTC-QLQ-CX24
+
+The FDA’s Assessment:
+FDA agrees with the Applicant’s description of study endpoints.
+
+Statistical Analysis Plan and Amendments
+
+The Applicant's Description:
+The current version of the statistical analysis plan (SAP), version 7.0, was finalized on 17 Jun
+
+2019, prior to the database lock. There were no changes to the analysis of the primary endpoint
+(confirmed ORR per IRC). The trial was designed such that by applying a one-sided exact
+binomial test at the 0.025 significance level, the planned sample size of 100 subjects provided
+280% power to reject an ORR of 11%, the combined ORR for available second-line therapies, or
+less for true ORRs in the range 21% - 25%, representing clinically relevant improvements over
+available second-line treatments.
+
+Key analysis populations defined include:
+¢ The Full Analysis Set (FAS) and Safety Set, which included all subjects who received at
+least one dose of tisotumab vedotin. Since the FAS and the Safety set are identical, all
+safety analyses used the term FAS as the analysis population.
+
+Primary analysis on confirmed ORR was performed on the FAS so that any treated subjects with
+missing information regarding response to treatment were counted as non-responders. ORR
+including unconfirmed responders was also analyzed, and confirmed ORR was analyzed by
+subgroup using a forest plot. Further, confirmed ORR as well as confirmed and unconfirmed
+ORR, as assessed by the investigator, were analyzed and summarized in the same way.
+
+DOR (months) was listed for all subjects in the FAS with a confirmed best overall response of CR
+or PR and presented graphically as well as summarized using survival analysis methods.
+Six-month DOR rate (ie, percentage of subjects with DOR 26 months) and 95% Cl were
+summarized using Kaplan-Meier estimates. TTR was summarized in the FAS population
+restricted to subjects with a confirmed response using descriptive statistics. PFS and OS were
+analyzed in the FAS population and presented graphically as well as summarized using Kaplan
+Meier curves and Kaplan-Meier estimates of the median time, the first and third quartiles,
+along with approximate 95% confidence interval of the median.
+
+Subgroup analyses:
+Subgroup analyses were performed for the primary endpoint of ORR. Prespecified subgroups
+
+included:
+¢ Histology (squamous or non-squamous)
+
+93
+
+Version date: March 2021 (ALL NDA/ BLA reviews)
+Disclaimer: In this document, the sections labeled as “The Applicant’s Position” are completed by the Applicant
+and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 4858975

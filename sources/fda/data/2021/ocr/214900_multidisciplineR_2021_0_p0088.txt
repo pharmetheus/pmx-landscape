@@ -1,0 +1,54 @@
+NDA Multi-disciplinary Review and Evaluation - NDA 214900
+BREXAFEMME (ibrexafungerp)
+
+duration of therapy on efficacy was not evaluated. Given the unknown implications of CYP3A
+inducers on ibrexafungerp pharmacokinetics, the Clinical Pharmacology review team
+recommends that concomitant use of strong and moderate CYP3A inducers be avoided.
+
+Effect of Proton Pump Inhibitors on Ibrexafungerp Pharmacokinetics
+
+Results from solubility studies in pH buffers indicate the solubility behavior of ibrexafungerp
+citrate is pH dependent with the highest solubility in acidic pH and progressively decreasing
+with increasing pH. Given proton pump inhibitors (PPls) effectively block gastric acid secretion
+and increase gastric pH, the Applicant conducted a clinical DDI study to evaluate ibrexafungerp
+exposure when coadministered with a PPI, pantroprazole (Study SCY-078-015). Results from
+this study showed that pantoprazole decreased ibrexafungerp AUCO-inf by 25% following
+multiple dose administration of 40 mg pantoprazole delayed release tablet once daily on Days -
+4 to Day 1 coadministered with a single dose of 500 mg ibrexafungerp on Day 1 under fasted
+conditions (approximately 2.5 hours after pantoprazole dosing) compared to ibrexafungerp
+alone (Study SCY-078-015; Table 6-10).
+
+Table 6-10. Summary of Pharmacokinetic Parameters of Ibrexafungerp Tablet and
+Ibrexafungerp Tablet Co-administered with Pantoprazole
+
+PK Ibrexafungerp Tablet (B) Ibrexafungerp Tablet + PPI (C) Ratio (C/B)
+Parameter [| N | GM 95% Cl N | GM 95% Cl GMR 90% CI
+AUuCO-inf | 15 | 7804.01 | (6232.88, 9771.17) | 14 | 5904.40 | (4885.05, 7772.93) | 0.757 | (0.615, 0.930)
+(hr*ng/ml)
+Cmax 15 | 372.45 (301.74, 459.73) 14 | 290.15 (210.71, 399.53) 0.779 | (0.612, 0.991)
+(ng/ml)
+Tmax (hr) 15 4.02 3.97-6.0 14 4.06 2.0-8.0 - -
+Ti/2 15 [21.79 17.05% 14 [22.64 22.52%
+
+Source: Study SCY-078-015
+Cl = confidence interval; GM = geometric mean
+
+This study used a lower limit 90% Cl for AUCO-inf GMR (with PPI / without PPI) of >0.60 to
+satisfy the hypothesis that the pharmacokinetics of ibrexafungerp were similar with or without
+a PPI based on the variability of ibrexafungerp exposure after oral administration. To derive this
+lower limit, the Applicant used a CV of 38.37% for AUCO-inf from healthy volunteers who
+received 300 mg of the to-be-marketed citrate salt tablet twice daily for 1 day following a
+standard low-fat meal (Study SCY-078-107). The dose normalized AUCO-inf in the fasted state
+from this study was associated with a CV of 37%. Based on the non-effect boundaries defined in
+this study, the DDI interaction with pantoprazole was not considered to be significant.
+
+The ibrexafungerp exposure following concomitant PPI administration is expected to fall within
+the range of efficacious exposures in the clinical studies. An analysis of outcome was done in
+women receiving PPIs in these two Phase 3 studies. Only 22 subjects enrolled in these studies
+reported taking PPls, 10 of which received ibrexafungerp. Four of these 10 subjects had Clinical
+Cure at TOC and five of them had Mycological Eradication at TOC. However, it is not possible to
+
+87
+Version date: October 12, 2018
+
+Reference ID: 4804396

@@ -1,0 +1,66 @@
+NDA 220848
+LIPFENDRA (enlicitide)
+
+adverse event preferred terms with unfavorable imbalances in the enlicitide group, as discussed
+below.
+
+FDA Table 14. Serious TEAEs, Placebo-Controlled Pool, Trials P013 and P017
+
+Summary of Subjects With Serious TEAEs
+
+Enlicitide
+20 mg Placebo
+N=2137| N=1070| Risk Difference
+
+Preferred Term n_ (%) n (%)|_ RD (95% Cl) Forest Plot
+Any SAE 200 (9.36)) 120(11.21) -1.86 (-4.11,0.4)______@ _
+Chest pain 9 (0.42 1 (0.09) 0.33 (0, 0.66) oe
+Chronic 5 (0.23) 0 (0.00) 0.23 (0.03, 0.44)
+obstructive al
+pulmonary disease
+Diabetes mellitus 5 (0.23, 0 (0.00)} 0.23 (0.03, 0.44) -
+Acute myocardial 7 (0.33) 2 (0.19) 0.14  (-0.21, 0.5) =
+infarction
+Cataract 3 (0.14) 0 (0.00) 0.14 (-0.02, 0.3) e
+Coronary artery 3 (0.14) 0 (0.00) 0.14  (-0.02, 0.3) A
+occlusion
+Death 5 (0.23 1 (0.09) 0.14 (-0.13, 0.42) es
+Subdural 3 (0.14) 0 (0.00) 0.14  (-0.02, 0.3) A
+haematoma
+
+Source: OCS Analysis Studio, Safety Explorer.
+
+Filters: TRTO1A = “Enlicitide 20 mg" and SAFFL = Y (Enlicitide 20 mg); TRTO1A = "Placebo" and SAFFL = Y (Placebo); TRTEMFL
+="Y" and AESER = “Y" (Adverse Events).
+
+Risk Difference calculated by comparing the left column (Group 1) to the right column (Group 2).
+
+Forest Plot Scale: Lower limit = -4.11, Risk Difference reference line =0, Upper limit =0.66.
+
+Red forest plots indicate that the confidence interval does not cross the reference line.
+
+Includes only PT terms with risk differences >0.1%.
+
+Abbreviations: Cl, confidence interval; OCS, Office of Computational Science; RD, risk difference; SAE, serious adverse event;
+TEAE, treatment-emergent adverse event
+
+(1) Chest pain: enlicitide (9, 0.4%) versus placebo (1, 0.09%).
+
+A review of the case narratives shows that the severity of chest pain was sufficient to prompt
+cardiac and pulmonary evaluation but that the clinical investigations ruled out any serious
+cardiopulmonary etiology and the chest pain subsequently resolved.
+
+In the placebo-controlled pool, there is no imbalance in the overall cardiac and pulmonary
+systems at the system organ class (SOC) grouping levels for SAEs and no imbalances in
+“angina” SAEs or “non-cardiac chest pain” SAEs.
+
+When examining all treatment emergent adverse event (TEAEs) (serious and nonserious),
+
+136
+
+Version date: February 10, 2025 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5833849

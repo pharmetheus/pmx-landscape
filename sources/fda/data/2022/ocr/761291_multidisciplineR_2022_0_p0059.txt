@@ -1,0 +1,61 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {BLA 761291}
+
+teclistamab
+FDA Figure 2: Exposure-Response Relationship of the Overall Response in the Phase 1 SC
+Subjects Versus the Predicted Cave,1stdose (Investigator Assessment, 2011 IMWG)
+
+1.09 rN TTT T T
+
+0.754
+0.504
+
+0.254
+
+Proportion of Responder
+
+0.00 4
+
+ty 10 20
+Predicted Cave,retdose (ug/mL)
+
+>RP2D ——{__T + —
+RP2D sate eet .
+<RP20 pew
+
+Notes: Error bars are the 95% Cl of ORR in the respective exposure tertile groups. Shaded areas of the logistic
+regression plots represent the 95% Cl of the predicted ORR. Short vertical lines at the lower and upper part of the
+plotting area represents the exposure metrics in non-responders and responders, respectively.
+
+Cave,1stdose=average concentration during the first treatment dose; Cl=confidence interval; IMWG=International
+Myeloma Working Group; ORR=overall response rate; RP2D=recommended Phase 2 dose, which is the SC
+teclistamab recommended dosage regimen (0.06 mg/kg SC, followed 2 to 4 days later by 0.3 mg/kg SC, followed 2 to
+4 days later by 1.5 mg/kg SC and then 1.5 mg/kg SC once weekly thereafter); SC=subcutaneous.
+
+Source: Figure 10 in Section 19.4.3.2
+
+Additional E-R analyses conducted with data from 150 patients treated with the recommended
+SC dosage regimen during either Phase 1 or Phase 2 of MajesTEC-1 did not identify relationships
+between teclistamab exposure (Cave,istdose ANd Ctrough,Adoses) and efficacy outcomes including ORR
+(assessed by IRC based on IMWG 2016 criteria), progression-free survival (PFS), duration of
+response (DOR), or overall survival (OS). This finding is not unexpected given that only one
+dosage regimen was included in the analyses. Patient covariates including baseline sBCMA and
+PD-1 expression had statistically significant associations with ORR. The interpretability of this
+finding is confounded by correlations between multiple covariates including teclistamab
+exposure, body weight, myeloma type, ISS, baseline sBCMA, and baseline PD-1 expression. Refer
+to Section 19.4.3.2 for details.
+
+Pharmacodynamics: Additional supportive data came from assessment of changes in sBCMA over
+time. FDA Table 4 summarizes median percent change from baseline sBCMA in the 40 patients
+treated with the recommended SC dosage regimen during Phase 1 of MajesTEC-1. After three
+treatment doses (Cycle 2 Day 1), the median change from baseline in sBCMA was -18.6% in
+patients who had a response and 151.2% in patients who did not have a response. Reduction
+from baseline in soluble BCMA was observed in 64% of patients who had a response and not
+observed in patients who did not have a response. A similar pattern was observed for patients
+treated with the recommended SC dosage regimen during Phase 2 of MajesTEC-1 but collection
+
+Version date: January 2020 (ALL NDA/ BLA reviews) 58
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5065872

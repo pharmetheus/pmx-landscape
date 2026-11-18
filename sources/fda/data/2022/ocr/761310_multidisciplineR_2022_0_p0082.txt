@@ -1,0 +1,54 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {Biologics License Application (BLA) 761310}
+{Mirvetuximab soravtansine}
+
+The E-R analysis for efficacy identified a positive correlation between the AUC of mirvetuximab
+soravtansine in the first cycle (AUCo.214) and Ctrough, and the probability of achieving ORR, shown
+in Figure 2. The Applicant stated that there was no relationship between mirvetuximab
+soravtansine Cmax and ORR.
+
+Figure 2: Observed Objective Response Rate vs. Mirvetuximab soravtansine Crrough and AUCo.
+21d With Model Predicted Probability Overlay - IMGN853-0417
+
+‘Pvalue = 0.00274; 32 OR out of 97 patients ‘p-value = 0.00604; 32 OR out of 97 patients
+
+1.004 " prwenrareas oof r HH
+
+74
+
+Probability of Objective Response
+Probability of Objective Response
+o
+o
+
+*
+
++ 0004 + +t HE +
+
+a0 60 a 100
+
+TROUGH Mirv AUCTAU_Mirv
+Source: Applicant’s E-R analysis Report QPK28-007 — Figures 4 and A.3.4
+
+In stepwise model selection procedure, a forward and backward, Akaike information criterion
+(AIC) based, automatic selection process was used to identify important exposure relationships
+and covariates. Therefore, the Applicant opined that the Ctrough and AUCo-214 are more
+appropriate exposure parameters for the E-R analysis.
+
+It should be noted that the final E-R analysis for efficacy was conducted with clinical data
+obtained from Study IMGN853-0417 since the patients from the other studies (i.e., Study
+IMGN853-0401 and Study IMGN853-0403) were heterogenous with regards to the FRa
+expression levels.
+
+Exposure-safety relationship
+
+The E-R analysis for safety evaluated a relationship between the ELAHERE exposure and the key
+safety endpoints including ocular AEs of Grade > 2, peripheral neuropathy (PN), pneumonitis
+and interstitial lung disease (ILD). The analysis identified a positive correlation between the
+AUCo.214 of mirvetuximab soravtansine and probability of ocular AEs of Grade 2 2 or PN (Figure
+3). As such, the incidence of PN was very low (including Grade > 2) and the E-R for PN showed a
+shallow relationship.
+
+81
+Version date: October 12, 2018
+
+Reference ID: 5076613

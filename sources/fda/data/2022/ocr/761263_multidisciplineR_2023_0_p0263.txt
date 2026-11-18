@@ -1,0 +1,53 @@
+BLA Multi-disciplinary Review and Evaluation {BLA 761263, Lunsumio (Mosunetuzumab)}
+
+Gamat Lavi Total Study GO29781 | Study NP30179
+(N=61) (N=16) (N=45)
+1 = Glofitamab 39 (63.9%) | - [39 (86.7%)
+Group 2 = Glofitamab + Obinutuzumab 6 (9.8%) - 6 (13.3%)
+josunetuzumab 16 (26.2%) | 16 (100%) | -
+_ 0 = female 17 (27.9%) 3 (18.8%) 14 31.1%)
+1 = male 44 (72.1%) 13 (81.2%) 31. (68.9%)
+1=White 53 (86.9%) 15 (93.8%) 38 (84.4%)
+RACE 2-Black 11.6%) 1 (6.2%) -
+3=Asian 101.6%) | -
+Unknown 6 (9.8%) -
+1= Hispanic or Latino 1(1.6%) | - | 1 (2.2%)
+Ethnicity 2 = Not Hispanic or Latino 54 (88.5%) | 16 (100%) | 38 (84.4%)
+Missing 6 (9.8%) - 6 (13.3%)
+Missing 1 (1.6%) 16.2%) :
+: ; 1 8(13.1%) | 318.8%) | S(11.1%)
+Sade oe 2 39 (63.9%) 8 (50%) 31 (68.9%)
+3 9 (14.8%) 3 (18.8%) 6 (13.3%)
+4 4 (6.6%) 1 (6.2%) 3 (6.7%)
+Missing 111.6%) | 1 (6.2%) | -
+Maximum | ! 711.5%) | 212.5%) | 5 (11.1%)
+Grade of | 2 39 (63.9%) 8 (50%) 31 (68.9%)
+CRS 3 10 (16.4%) 4 (25%) 6 (13.3%)
+4 4 (6.6%) 16.2%) 3 (6.7%)
+
+Source file: CatCov.csv (CRS_ReportPlots.R)
+
+Source: Applicant’s Population PK Report (poppk-1114219), Table 5.
+
+The serum concentration-time course of tocilizumab following single and multiple IV
+administrations in adult patients with CRS was accurately described by a two compartment
+pharmacokinetic model with parallel linear and Michaelis-Menten elimination. The final PK
+model parameter estimates and the corresponding 95% confidence intervals (Cls) for TCZ and
+sIL-6R are presented in Table 70. The goodness-of-fit plots for the final PK model are
+presented in Figure 56. The prediction corrected visual predictive check (pcVPC) based on all
+data (Figure 57) illustrated the prediction percentiles and corresponding 95% Cl of simulated
+concentrations overlaid on the observed TCZ and sIL-6R concentrations and the corresponding
+5 and 95" percentiles. CRS had significant effects on tocilizumab PK parameters and sIL6R
+parameters. Specifically, linear clearance in patients with CRS grade 2 or higher was on
+average 60% (95% Cl: 25-103%) higher than in patients with RA. Elimination rate of bound sIL-
+6R, was 109% (95% Cl: 80-142%) higher in patients with CRS than in patients with RA.
+Degradation rate of free (unbound) sIL-6R was 76% (95% Cl: 64-89%) higher in patients with
+CRS than in patients with RA. The CRS effect on VC was relatively minor (15% increase, 95% Cl:
+
+262
+Version date: January 2020 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5100050

@@ -1,0 +1,57 @@
+Censoring if received subsequent anti- 70 (45) 96 (61) 0.43 (0.31, 0.59)
+cancer therapy prior to progression!
+Assessment bias (BICR data)! 47 (30) 65 (41) 0.43 (0.29, 0.63)
+Assessment bias (BICR data) with 46 (29) 60 (38) 0.42 (0.28, 0.63)
+censoring if received subsequent anti-
+cancer therapy prior to progression"!
+
+COVID-194 71 (45) 100 (63) 0.44 (0.31, 0.60)
+Source: Clinical Study Report Summary Tables and Figures, pp. 354-359
+1 Full analysis set, defined as all randomized patients, except [d] and [e].Percentages were based on the full analysis
+set.
+
+Abbreviations: BICR, blinded independent central review; CDK4/6i, cyclin-dependent kinase 4 and 6 inhibitor; CI,
+confidence interval; N = number of patients
+
+©] The analysis was performed using interval censoring methods, censoring after two missed visits.
+
+© The analysis was performed using interval censoring methods, where subjects who progressed or died in the
+absence of progression immediately following 2 or more missed visits were included as events.
+
+( The analysis was performed with the primary PFS censoring rule modified such that patients who take subsequent
+anti-cancer therapy prior to progression were censored at their last evaluable RECIST assessment prior to taking
+subsequent anti-cancer therapy.
+
+(4 The analysis was performed using the BICR data.
+
+( The analysis was performed using the BICR data with the primary PFS censoring rule modified such that patients
+who take subsequent anti-cancer therapy prior to their last evaluable RECIST assessment or progression or death
+were censored at their last evaluable assessment prior to taking the subsequent anti-cancer therapy.
+
+(4 Patients who have not progressed prior to death and who died with primary/secondary cause as COVID-19
+infection, or a COVID-19infection that is reported as a fatal AE, were censored at their last evaluable assessment
+prior to their COVID-19 infection death date.
+
+The results of the sensitivity PFS analyses described by the Applicant are presented in
+
+Table 18. The SAP prespecified that the sensitivity analysis for the stratification factors would
+use the values recorded according to the eCRF rather than the ones recorded according to the
+IRT; the factors used to stratify the Cox regression to compute the hazard ratio were the same as
+those for the primary analysis. For the remaining sensitivity analyses, the SAP prespecified that
+the factor being investigated would be included as a covariate in the Cox regression model while
+still stratifying by the same stratification factors as the primary PFS analysis. FDA agrees that
+these were consistent with the primary PFS analysis. FDA also conducted an unstratified PFS
+
+189
+Version date: March 1, 2024 (All NDA/BLA reviews)
+
+In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the Applicant,
+which do not necessarily reflect the positions of the FDA.
+
+The FDA review was conducted in conjunction with other regulatory authorities under Project ORBIS. The FDA
+collaborated with Australia’s Therapeutic Goods Administration (TGA), Brazilian Health Regulatory Agency
+(ANVISA), Health Canada (HC), Singapore’s Health Sciences Authority (HSA), and Switzerland’s Swissmedic
+(SMC). While the conclusions and recommendations expressed herein reflect the FDA’s completed review of the
+application, the applications may still be under review at the other regulatory agencies.
+
+Reference ID: 5864804

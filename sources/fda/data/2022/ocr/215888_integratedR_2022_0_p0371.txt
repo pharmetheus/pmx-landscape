@@ -1,0 +1,39 @@
+IND 111675 VT-1161 Page 19 of 32
+male Rats _Poly-3 test.
+0 mg Vehicle 0.5 mg 1.5 mg 5/3 mg
+Cont (N=70) | Low (N=70) | Med (N=70) | High (N=70)
+Organ Name Tumor Name P- Trend P-Cvs.L | P-Cvs.M | P-Cvs.H
+Small Intestine, | Adenocarcinoma, Malignant 0/70 (29) 1/70 (32) 0/70 (32) 0/70 (15)
+Jejunum, 0.7315 0.5246 NC NC
+Spleen Sarcoma, Stromal, Malignant 1/70 (29) 0/70 (31) 0/70 (32) 0/70 (15)
+1.0000 1.0000 1.0000 1.0000
+Stomach, Papilloma, Squamous Cell, 0/70 (29) 1/70 (31) 0/70 (32) 0/70 (15)
+Nonglandular Benign 0.7290 0.5167 NC NC
+Tail Hair Follicle Tumor, Benign 1/70 (29) 0/70 (31) | 0/70(32) | o/70(15)
+1.0000 1.0000 1.0000 1.0000
+Testes Adenoma, Leydig Cell, Benign 1/70 (29) 5/70 (33) | 12/70(38) | 15/70 (25)
+<0.0001* 0.1300 0.0033*
+<0.0001*
+Sertoli Cell Tumor, Benign 0/70 (29) 0/70 (31) | 0/70 (32) 1/70 (15)
+0.1402 NC NC 0.3409
+Thyroid Gland | Adenoma, C-Cell, Benign 3/70 (30) 2/70 (32) | 3/70 (33) 1/70 (15)
+0.5772 0.8425 0.7091 0.8161
+Adenoma, Follicular Cell, Benign | 2/70 (29) 6/70 (34) | 36/70(50) | 27/70 (33)
+<0.0001* 0.1860
+<0.0001* <0.0001*
+Carcinoma, C-Cell, Malignant 1/70 (29) 0/70 (31) 2/70 (33) 0/70 (15)
+0.5463 1.0000 0.5491 1.0000
+Carcinoma, Follicular Cell, 1/70 (29) 2/70 (32) 13/70 (37) 4/70 (17)
+Malignant 0.0162 0.5375 0.0014* 0.0549
+Adenoma/ Carcinoma, C-Cell, 4/70 (30) 2/70 (32) | 5/70 (34) 1/70 (15)
+BenignMalignant 0.6154 0.9162 0.5818 0.8834
+Adenoma/Carcinoma, Follicular 3/70 (30) 8/70 (35) 44/70 (53) 29/70 (34)
+Cell, Benign/Malignant <0.0001* 0.1477
+<0.0001* <0.0001*
+Urinary Bladder _| Papilloma, Transitional Cell, 0/70 (29) 1/70 (31) | 0/70 (32) 1/70 (15)
+Benign 0.1852 0.5167 NC 0.3409
+Zymbal’S Gland | Carcinoma, Zymbals Gland, 2/70 (30) 1/70 (32) | 0/70(32) | 0/70(15)
+Malignant 0.9807 0.8926 1.0000 1.0000
+
+Reference ID: 4883049
+

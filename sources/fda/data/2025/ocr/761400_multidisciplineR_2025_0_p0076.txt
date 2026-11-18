@@ -1,0 +1,55 @@
+NDA/BLA Multi-disciplinary Review and Evaluation Biologics License Application 761400
+linvoseltamab
+
+nM to 193 nM. The CD3 protein sequence is poorly conserved between humans and
+rodents, and linvoseltamab is not expected to cross react with rodent CD3.
+
+The capacity of linvoseltamab to mediate primary human T-cell-induced cytotoxicity and
+T-cell activation was evaluated in flow cytometry-based assays using NCI-H929
+(BCMA-high) and MOLP-8 (BCMA-low) human MM target cell lines. Linvoseltamab
+mediated the cytolysis of NCI-H929 and MOLP-8 cells in the presence of primary
+human T-cells in a concentration-dependent manner with ECso values of 108 pM to 139
+pM. Linvoseltamab also mediated T-cell activation (as measured by CD25 upregulation)
+in both cell lines in a concentration-dependent manner; however, greater maximum
+percent cytolysis and T-cell activation were observed with NCI-H929 (BCMA-high) cells.
+
+The T-cell-induced cytotoxicity assay described above was repeated using primary
+cynomolgus monkey T-cells and target cells that endogenously expressed human
+BCMA (NCI-H929) or human embryonic kidney 293T (HEK293T) cells which were
+engineered to express cynomolgus monkey BCMA (HEK293/MfBCMA). Linvoseltamab
+mediated the cytolysis of NCI-H929 and HEK293/MfBCMA cells in the presence of
+primary cynomolgus monkey T-cells with ECso values of 17.7 pM and 883 pM,
+respectively.
+
+The flow cytometry-based cytotoxicity and T-cell activation assay was repeated in the
+presence of human primary T-cells pretreated with dexamethasone. The ECso values for
+linvoseltamab-mediated T-cell cytotoxicity and T-cell activation were reduced by
+dexamethasone pretreatment of T-cells, but the maximum percent cell killing was
+unaffected, suggesting higher concentrations of linvoseltamab could overcome the
+impact of dexamethasone treatment.
+
+Human A proliferation-inducing ligand (APRIL) and human B-cell activating factor
+(BAFF) are endogenous BCMA ligands; binding to BCMA leads to the activation of
+signaling that results in B-cell activation, differentiation and maturation into plasma cells,
+and long-term plasma cell survival. The ability of APRIL, BAFF, or soluble BCMA
+(SBCMA) to block the interaction of linvoseltamab with BCMA on BCMA-expressing
+cells was assessed using a NFAT reporter bioassay. Results showed that sSBCMA and
+APRIL inhibited linvoseltamab-mediated NFAT signaling with ICs0 values of 756 pm and
+1.22 nM, respectively; however, BAFF did not block linvoseltamab-mediated T-cell
+activation under the conditions tested.
+
+The capacity of linvoseltamab to mediate cytotoxicity of primary MM cells was evaluated
+using (1) autologous patient T-cells or (2) non-autologous healthy donor T-cells; flow
+cytometry was used to evaluate cell viability and T-cell activation. Most of the primary
+MM cells from newly diagnosed and relapsed/resistant patients were sensitive to
+linvoseltamab in the presence of autologous T-cells; cells that were not sensitive to
+linvoseltamab in the presence of autologous T-cells were killed in the presence of
+healthy donor T-cells.
+
+41
+
+Version date: August 2023 (ALL NDA/BLA reviews)
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are
+completed by the Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5432800

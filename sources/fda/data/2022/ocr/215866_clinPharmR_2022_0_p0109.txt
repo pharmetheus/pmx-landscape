@@ -1,0 +1,50 @@
+Figure 22. Sensitivity analyses of absorption inputs parameters on the PK of atorvastatin
+
+‘Atorvastatin ‘Atorvastatin ‘Atorvastatin Atorvastatin
+
++ reeset) | + rane domaty )_ + Merete tate] rept fh |
+
+‘Atorvastatin ‘Atorvastatin Atorvastatin ‘Atorvastatin
+
+‘cmax (Sub)
+
+ine tity) th rercebeaty sa) J
+
++ worscaern abt ssth_| + Penne ni) J
+
+Abbreviations: Cmax = maximum plasma concentration; Tmax = time at maximum plasma concentration.
+
+Source: Applicant’s response to FDA’s IR Figure 4.9
+2. Can the fold-change approach describe the impacted of GE delay on the PK of acetaminophen?
+
+Yes, by incorporating the fold-change in MRT derived using population PK model, the Applicant was able
+to reproduce the changes in the PK of acetaminophen before and after single (Day 2) or multiple (Day
+23) tirzepatide treatment as summarized in Table 7.
+
+Table 20. Comparison of observed and simulated acetaminophen pharmacokinetic parameters before and after
+single or multiple tirzepatide treatment
+
+Observed PK ratio w/wo Predicted PK ratio w/wo
+tirzepatide tirzepatide
+Dose Sub. Cmax Tmax AUC Cmax Tmax AUC
+difference difference
+(hour) (hour)
+0.5 QW [Day 2] HV 0.95 0.17 0.97 0.98 0.08 1
+0.5 QW [Day 23] HV 1.11 -0.17 1.07 1 0.02 1
+1.5 QW [Day 2] HV 0.95 oO 0.92 0.92 0.38 1
+4.5 QW [Day 2] HV 0.5 1 0.87 0.7 1.55 0.97
+4.5 QW [Day 23] HV 1.04 0.5 1.2 0.94 0.3 1
+5/5/8/10 [Day 23] HV 0.99 1 1.21 0.82 0.88 0.99
+0.5 QW [Day 2] T2M 11 i} 1.11 1 0.02 1
+0.5 QW [Day 23] T2M 1.15 -0.17 1.09 1 1 1
+5 QW [Day 2] T2M 0.5 il 0.75 0.59 2.35 0.95
+5 QW [Day 23] T2M 0.92 0.83 1.05 0.97 0.15 1
+5/5/10/15 [Day 23] | T2M 0.6 1 1.07 0.69 1.62 0.97
+
+Source: Applicant's PBPK report
+
+3. Is the PBPK analysis adequate to predict effects of GE delay in the tested drugs?
+
+108
+
+Reference ID: 4954959

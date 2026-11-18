@@ -1,0 +1,63 @@
+NDA 216951
+Jesduvrog (daprodustat)
+
+For each participant, Baseline Hb was the value obtained prior to taking randomized treatment
+(or if this was missing, Baseline Hb was the value obtained at the latest non-missing pre-dose
+assessment on or before the randomization date), and Hb during the EP was determined by
+calculating the mean of all available and imputed Hb values between Weeks 28 to 52 inclusive
+regardless of adherence to randomized treatment. Multiple imputation was used to impute
+missing Hb data, and an ANCOVA model, adjusting for dialysis type, region, Baseline Hb and
+treatment, was used to analyze the data and calculate a point estimate, two-sided 95% CI for the
+treatment effect and an associated one-sided non-inferiority test p-value. Analysis results from
+the multiple imputation were combined using Rubin's rules. Non-inferiority was established if
+the lower limit of the two-sided 95% CI was greater than the margin of -0.75 g/dL.
+
+Sensitivity Analyses
+
+e Post-randomization Hb (Observed Values Only Analysis): An analysis using available
+observed Hb values (on and off-treatment) only for post-randomization hemoglobin.
+Missing Hb data were not imputed.
+
+e Evaluable Hb: An alternative “while on-treatment” estimand using only evaluable Hb
+data. Missing Hb data were not imputed.
+
+Per Protocol (PP) Hb: A PP population analysis based on the evaluable Hb analysis.
+
+Alternative EP (Week 28-36) Analyses:
+
+- An alternative EP analysis from Week 28-36 using all available Hb values (on
+and off treatment). Missing post-Baseline Hb values were imputed.
+
+- An alternative EP analysis from Week 28-36 using only evaluable Hb values.
+Missing Hb data were not imputed.
+
+e A tipping point analysis using all available Hb values (on and off-treatment) as a
+sensitivity for the co-primary estimand and using evaluable Hb values as supportive
+analysis
+
+e Excluding sites with suspected fraud: The co-primary analysis, using on and off treatment
+Hb values with imputation for missing values, was repeated excluding data from sites
+with suspected fraud.
+
+In the 4 active-controlled studies, a target level Hb during the Evaluation Period was set as 10.0
+to 11.0 g/dL. In the protocols, to account for within participant variability between methods used
+for measuring Hb values (HemoCue at study visits for inclusion/dose titration, compared with
+central laboratory tests), 0.5 g/dL was added to the upper end of the target range to create a
+defined analysis range of 10.0 to 11.5 g/dL.
+
+Analyses for Secondary Efficacy Endpoints
+
+IV iron use for all participants was recorded in the eCRF and the average on-treatment monthly
+IV iron dose from Day 1 up to Week 52, prior to receipt of a red blood cell or whole blood
+transfusion, was calculated. An analysis of covariance (ANCOVA) model was used to compare
+the difference in on-treatment average monthly IV iron dose per participant between treatment
+arms, including factors for Baseline dose, treatment, and the prognostic randomization
+stratification factors (dialysis type and region).
+
+All analyses of additional secondary endpoints were unadjusted for multiplicity; summary
+statistics, treatment effects and nominal p-values were used for any treatment comparisons.
+
+37
+Integrated Review Template, version 3.0 (05/25/2022)
+
+Reference ID: 5119138

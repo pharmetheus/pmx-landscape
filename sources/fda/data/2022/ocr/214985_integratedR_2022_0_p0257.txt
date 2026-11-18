@@ -1,0 +1,57 @@
+505(b)1 NME NDA 214985
+Daridorexant (Quviviq) for Insomnia
+
+Applicant’s PBPK Modeling Effort
+
+PBPK Software
+
+Simcyp V17 (Simcyp Ltd, UK) was used to develop the daridorexant PBPK models and predict
+the PK of daridorexant with and without CYP3A modulators.
+
+Model Development
+Daridorexant
+
+The absorption of daridorexant was modelled using the Advanced, Dissolution, Absorption, and
+Metabolism (ADAM) model in Simcyp. A solid immediate release formulation |
+
+model were selected. The effective permeability in human jejunum (Pes) (5.29 x 107 cm/s)
+was predicted based on the measured apparent permeability (Papp) values in MDCK-II wild-type
+cells and then translated into regional Peg values using Mech Peg predictor (mechanistic regional
+permeability predictor). The mass balance study indicated almost complete absorption of
+daridorexant from the gut, as evidenced by less than 1% of the oral dose excreted in feces as
+unchanged drug (D-15.653).
+
+The controlled supersaturation experiments in fasted state simulated intestinal fluid (FaSSIF)
+indicated that daridorexant precipitated. From supersaturated condition
+(ELB0238-2687). The solubility of © daridorexant was assigned in the model
+as the intrinsic solubility of daridorexant. The critical supersaturation ratio was estimated from in
+vitro study and used as initial estimates for parameter estimation of the supersaturation ratio and
+precipitation rate constant from clinical data. The diffusion layer model scalar was estimated by
+simultaneous fitting of dissolution rate data of a 5 mg capsule in simulated gastric fluid, FaSSIF,
+and fed state simulated intestinal fluid (FeSSIF). The particle size distribution of the active
+pharmaceutical ingredient was entered as a log normal distribution. The biorelevant solubility
+was considered by estimating bile micellar distribution coefficients from FaSSIF, FeSSIF and
+aqueous solubilities in buffers in SIVA 3.0. After oral administration, daridorexant was quickly
+absorbed with a median Tmax of 0.7 to 2 h for the 5, 25, and 50-mg doses, and 2.5 and 2.8 h for
+the 100 and 200-mg doses, respectively. The apparent terminal half-life was between 5.9 and 6.5
+h for the 5, 25 and 50-mg doses and 7.5 h and 8.8 h for the 100 and 200-mg doses, respectively.
+The absolute bioavailability was 62%.
+
+The full PBPK distribution model was used to describe the distribution of daridorexant.
+Daridorexant was highly bound to plasma proteins with fraction unbound in plasma of 0.003.
+The volume of distribution at steady state (0.41 L/kg) was estimated using the Method 3 in
+Simcyp and adjusted based on the clinical PK data (D-15.653) by applying a Ky scalar of 0.53.
+Perfusion-limited distribution was assumed for all organs.
+
+Mass balance study indicated that the percentage of unchanged drug excreted in feces was less
+than 1% of the administered dose and in urine, no unchanged daridorexant was found. Therefore,
+daridorexant elimination was assumed to be governed by metabolic elimination only. In vitro
+study results suggested that the fraction of daridorexant metabolized by CYP3A4 was 89% of the
+metabolic intrinsic clearance, while the remaining 11% was ascribed to CYP2C19. The minor
+contribution of CYP2D6, CYP2C9, CYP2C8 and CYP1A2 was not considered in the model. The
+systemic clearance of daridorexant was 5 L/h, which was derived from an intravenous study (D-
+
+238
+Integrated Review Template, version 2.0 (04/23/2020)
+
+Reference ID: 4916689

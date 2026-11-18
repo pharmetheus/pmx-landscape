@@ -1,0 +1,53 @@
+NDA/BLA Multi-disciplinary Review and Evaluation NDA 221075
+Iberdomide (ZENBEXUS)
+Table 87: FDA — Parameter estimates for updated PopPK model with formulation effect
+
+Parameter Estimate SE (RSE%) 95% CI
+
+Population Parameters
+
+VCIF (L) 312 8.04 (25.8) (15.4, 46.9)
+CL/F (L/hr) 13.3 0.392 (2.95) (12.5, 14.1)
+
+Ka (hr?) 0.21 0.0175 (8.33) (0.176, 0.244)
+VP FF (L) 350 40.9 (11.7) (270, 430)
+
+Q’F (L/hr) 19.3 1.92 (9.97) (15.5, 23)
+Absorption lag (hr) 0.772 0.0382 (4.95) (0.697, 0.846)
+eGFR 0.308 0.0595 (19.3) (0.192, 0.425)
+Asian:nonasian -0.124 0.0387 (31.2) (-0.2, -0.0483)
+FI:F3 CL a
+F1:F3 Ve
+
+Inter-Individual Variability
+
+w? (VC/F) 1.47 0.2 (13.7) (1.08, 1.86)
+wo? (VC/F): @? 5 5 4
+(CLF) 0.697 0.0902 (12.9) (0.521, 0.874)
+o* (CLF) 0.364 0.0173 (4.74) (0.33, 0.398)
+o? (VP/F) 0.927 0.0768 (8.29) (0.776, 1.08)
+
+Residual Error
+
+Additive (ng/mL) 0.398 0.00411 (1.03) (0.389, 0.406)
+
+Note 1: Eta shrinkage (%): ETA CL: 16.4, ETA VC:41.9, ETA VP:52.9, EPS shrinkage (%): 14.5
+Note 2: Condition no: 37.8
+
+Source: Table 2.1-2 in Response to FDA Information Request Received Feb 3, 2026
+
+The applicant also conducted a pooled PopPK analysis, and the result was published at The
+AAPS Journal (2025), 27:85, “Model-Informed Drug Development (MIDD) Approach to
+Support Biopharmaceutical Development of Iberdomide”. The PopPK model was developed by
+pooling data including 301 subjects from studies CC-220-CP-001 (N = 45), CC-220-CP-002 (N
+= 36), CC-220-CP-005 (N = 16) and CC-220-MM-001(N = 204). Post hoc analysis showed that
+CL/F, V2/F and dose-normalized iberdomide PK exposure (AUCss and Cmax) in either multiple
+myeloma (MM) patients or in healthy volunteers were comparable among formulations (F1, F2,
+
+270
+Version date: February 10, 2025 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant's Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5851050

@@ -1,0 +1,63 @@
+BLA Multi-disciplinary Review and Evaluation BLA 761339 Pozelimab
+
+Table 77. Bioanalytical Method Validation for Total IgG in Serum
+
+ANALYTICAL REPORT: Regeneron Protocol R3918-PLE-1878 ( *~
+Bioanalytical Method Total Immunoglobulin (IgG) (__ -2023-06-155)
+Review Summary © for Tina-quant IgG Gen.2 (IGG-2, Cobas C a)
+Method description Immunoturbidimetric assay: Anti-lgG antibodies react with antigen in the sample
+
+to form an antigen/antibody complex. Following agglutination, this is measured
+turbidimetrically. Addition of PEG allows the reaction to progress rapidly to the
+end point, increase sensitivity, and reduces the risk of samples containing
+
+excess antigen producing false negative results.
+
+Validated assay range Lab location: CG)
+Instrument Name: COBAS 8000
+Validated analytical measuring range (AMR): LLOQ to ULOQ-- 30 to 3900 mg/dL
+(linearity was confirmed in this range)
+
+(0) (4)
+
+Lower detection of limit of test: 0.3 g/L (30 mg/dL)—calculated as the value lying 3
+SD above that of the lowest standard
+
+Measuring range: 3 to 50 g/L (300 to 5000 mg/dL)
+
+If determine samples having higher concentration via rerun function, dilution of
+samples 1:5.5 dilution
+
+If determine samples having lower concentration via rerun function, the rerun
+function increases the sample volume by a factor of 7.5.
+
+Validation parameters _ Method validation summary Location
+Calibration curve The intra-assay and inter-assay precision were assessed across the IR
+performance during tested range (5 levels) and CV< 1.2% Response
+accuracy & precision SDN 31
+Appendix
+N
+QCs performance oy IR
+during accuracy & Precision was determined using human samples and controls in an intemal Response
+precision protocol with repeatability (n = 21) and intermediate precision (3 aliquots SDN 31
+Per run, 1 run per day, 21 days). The following results were obtained. Appendix
+Serum/plasma application (IGG-2)
+Repeatability Mean SD cv
+gl gl %
+{umol/L, mg/dL) | (umol/L, mg/dL)
+Precinom Protein | 9.33 (623,933) | 0.04(0.3, 4) 04
+Precipath Protein 14.9 (99.5, 1492) 0.1 (0.6, 9) 06
+Human serum A 37.4 (249, 3740) 0.5 (3, 50) 12
+Human serum B 12.5 (83.4, 1250)} 0.1 (0.7, 10) 09
+Human serum C 3.40 (22.7,340) | 0.03 (0.2, 3) 08
+Intermediate Mean sD cv
+precision gl gt %
+(umol/L, mg/dL) | (umol/L, mg/dL)
+Precinorm Protein | 8.19 (54.6,819) | 0.12 (0.8, 12) 15
+Precipath Protein 14.2 (94.7, 1420)| 0.2 (1.3, 20) 15
+Human serum 3 7.11 (474,711) | 0.08 (05, 8) 14
+Human serum 4 21.1 (140, 2110) 0.4 (3, 40) 17
+
+228
+
+Reference ID: 5229031

@@ -1,0 +1,60 @@
+BLA 761184
+Ngenla (somatrogon)
+
+Originally Originally
+Randomized to Randomized to
+
+Somatrogon Genotropin Total
+
+System Organ Class N=104 N=108 N=212
+Preferred Term n (%) n(%) n(%)
+Respiratory, thoracic, and mediastinal disorders 16 (15.4) 19 (17.6) 35 (16.5)
+Cough 6 (5.8) 11 (10.2) 17 (8.0)
+Oropharyngeal pain 5 (4.8) 3 (2.8) 8 (3.8)
+Nasal congestion 3 (2.9) 2 (1.9) 5 (2.4)
+Rhinitis allergic 3 (2.9) 1 (0.9) 4(1.9)
+Rhinorrhea 3 (2.9) 4 (3.7) 7 (3.3)
+Adenoidal hypertrophy 1 (1.0) 0 1 (0.5)
+Bronchial hyperreactivity 1 (1.0) 0 1 (0.5)
+Dyspnea 1 (1.0) 1 (0.9) 2 (0.9)
+Pharyngeal erosion 1 (1.0) i?) 1 (0.5)
+Productive cough 1 (1.0) i¢) 1 (0.5)
+Snoring 4 (1.0) 0 1 (0.5)
+Tonsillar hypertrophy 1 (1.0) 1 (0.9) 2 (0.9)
+Epistaxis 0 2 (1.9) 2 (0.9)
+Vasomotor rhinitis 0 1 (0.9) 1(0.5)
+Skin and subcutaneous tissue disorders 11 (10.6) 11 (10.2) 22 (10.4)
+Idiopathic urticaria 2(1.9) 0 2 (0.9)
+Urticaria 2(1.9) 1 (0.9) 3 (1.4)
+Acne 1 (1.0) 1 (0.9) 2 (0.9)
+Dry skin 1 (1.0) 0 1 (0.5)
+Erythema 1 (1.0) 1 (0.9) 2 (0.9)
+In-growing nail 1(1.0) 0 1 (0.5)
+Rash 1 (1.0) 1 (0.9) 2 (0.9)
+Rash pruritic 1 (1.0) 0 1 (0.5)
+Skin hypopigmentation 1 (1.0) 0 1 (0.5)
+Dermatitis 0 1 (0.9) 1 (0.5)
+Dermatitis atopic 0 1 (0.9) 1 (0.5)
+Eczema 0 2(1.9) 2(0.9)
+Prurigo 0 1 (0.9) 1 (0.5)
+Sebortheic dermatitis 0 1 (0.9) 1 (0.5)
+Skin swelling 0 1 (0.9) 1 (0.5)
+Urticaria physical 0 1 (0.9) 1 (0.5)
+Vascular disorders 2 (1.9) 0 2 (0.9)
+Hypotension 1 (1.0) 0 1 (0.5)
+Kawasaki's disease 1 (1.0) (0) 1 (0.5)
+
+Source: adae xpt, software, R
+
+Treatment-emergent adverse events defined as if the event started forthe first time after the start of treatment or increased in
+
+severity if another event also occurred before the start of treatment.
+Safety analysis of data provided in Major Amendment (submitted on September 15, 2021).
+
+Abbreviations: N, number of patients in treatmentarm, n, number of patients with adverse event; OLE, opentabel extension; SOC,
+
+system organ class; TEAE, treatment-emergent adverse event
+
+211
+
+Reference ID: 4924352

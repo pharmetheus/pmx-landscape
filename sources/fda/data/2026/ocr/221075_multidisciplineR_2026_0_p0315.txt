@@ -1,0 +1,56 @@
+NDA/BLA Multi-disciplinary Review and Evaluation NDA 221075
+
+Iberdomide (ZENBEXUS)
+Weak CYPSA4 AOD ND) | cesar 1.13 Lu 1.19 115
+Moderate Efavirenz Healthy subjects 0.46 0.65 0.38 0.57
+CYP3A4 inducer | 600 mg QD Cancer patients 0.42 0.62 0.32 0.50
+Weak CYP3A4 Modafinil Healthy subjects 0.85 0.93 0.81 0.89
+inducer 200 mg QD Cancer patients 0.84 0.92 0.78 0.86
+
+Observed data are shaded in blue. QD, once daily; TID, three times a day. * Ratio of predicted value to observed
+value. For the clinical itraconazole DDI study, a single dose of 0.6 mg iberdomide was given on Day 6 of a 9-day
+itraconazole treatment regimen (200 mg twice daily on Day 1, followed by 200 mg QD) (Study CC-220-CP-003) +
+Simulations were performed in Simcyp V25 by the reviewer using the workspaces submitted by the Applicant
+except that the CYP3A4 inhibition parameter Ki was changed to 11 mM from 25 mM (NDA219685 FDA review).
+Source: Table 6.1-1 and Table 6.2-1 in the PBPK report (pbpk-ddi) and FDA Reviewer’s Analyses
+
+Additional comments:
+
+To accurately predict the effects of CYP3A4 inhibitors and inducers on iberdomide PK, the
+fraction metabolized by CYP3A4 (fm.cyp3a4) is one of the key parameters that must be
+verified in the iberdomide PBPK model. As shown in the human ADME study (Study CC-
+220-CP-006), approximately 78% of iberdomide was absorbed following oral administration
+of a single dose of 1 mg iberdomide solution, of which 21% was excreted as unchanged
+parent drug in the urine, 63% was excreted as oxidative metabolites, 9% was excreted as
+hydrolysis products, and 8% was excreted as uncharacterized metabolites. In vitro reaction
+phenotyping studies showed that CYP3A4 was responsible for approximately 90% of the
+formation of oxidative metabolites; other enzymes such as CYP2A6 and FMOs only made
+minor contributions (Study CC-220-DMPK-1309). Therefore, the fmcyp3a4 value is
+approximately 57% based on in vitro phenotyping and human ADME studies, which is
+similar to the fmcyp3a4 Value of 55% that the Applicant determined could reproduce the
+inhibitory effects of itraconazole on iberdomide exposure in healthy subjects. The ability of
+the iberdomide PBPK model to reproduce the inhibitory effects of itraconazole confirmed the
+fmcyp3a4 Value in the model, and the iberdomide PBPK model is suitable for predicting the
+effects of other CYP3A4 inhibitors.
+
+For the rifampin simulation, the induction parameter Indmax in the model (SV-Rifampicin-
+MD) increased from 16 to 30.6. The induction effects of rifampin on iberdomide were
+underpredicted when the default Indmax value of 16 in the rifampin model was used (Table
+105). The reason for this underprediction is unclear. Given that iberdomide is a P-gp
+substrate (Study CC-220-DMPK-1327), it is possible that rifampin also decreases iberdomide
+exposure via P-gp induction. Rifampin is known to decrease the exposure of P-gp substrates
+through this mechanism. One study showed that incorporating P-gp induction parameters into
+the rifampin model may improve the prediction of rifampin DDI (PMID: 34729944).
+However, the potential involvement of P-gp in the rifampin DDI cannot be evaluated because
+P-gp kinetics were not incorporated in the iberdomide model. In addition to P-gp, the
+enzymes responsible for forming 16% of the excreted metabolites have not been
+characterized. The potential induction of these unidentified metabolic pathways by CYP3A4
+inducers cannot be ruled out.
+
+316
+Version date: February 10, 2025 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5851050

@@ -1,0 +1,52 @@
+BLA 761367
+Andembry / garadacimab
+
+B: Categorical covariates by study of the PopPK-PD dataset
+
+‘Study
+CSL312-1001 CSE312-1003_CSL312-2001 TP1_CSL312-2001 TP2_CS1312-3001 _CS1312-3002
+
+‘Anti-drug antibodies
+
+Missing 00.0) 0 (0.0) 0.0) 0 (0.0) 0(0.0) 1(0.6)
+No Result 48 (100.0) 0 (0.0) 00.0) 0 (0.0) 0(0.0) 0 (0.0)
+Negative 00.0) 37 (100.0) 44 (100.0) 40 (100.0) 63 (98.4) 159 (98.8)
+Positive 0.0) 0(0.0) 0.0) 0(0.0) 1(1.6) 1(0.6)
+Renal function
+
+Baseline eGFR >= 90 mL/min/1.73m2 44 (91.7) 35 (94.6) 33 (75.0) 32 (80.0) 54 (84.4) 136 (84.5)
+60 =< Baseline eGFR<90mL/min/1.73m2 4 (8.3) 25.4) 10 (22.7) 8 (20.0) 904.) 24 (14.9)
+30 =< Baseline eGFR< 60 mL/min/1.73m2 __0(0.0) 0 (0.0) 1(2.3) 0 (0.0) 1(1.6) 1(0.6)
+15 =< Baseline eGFR < 30 mL/min/1.73m2 —_0(0.0) 0 (0.0) 00.0) 0 (0.0) 0 (0.0) 0 (0.0)
+Baseline eGFR < 15 mL/min/1.73m2 00.0) 0(0.0) 0.0) 0(0.0) 0(0.0) 0 (0.0)
+‘Age group
+
+Adolescent (<17 years) 0.0) 00.0) 0 (0.0) 6 (9.4) 11 6.8)
+Adult (>17 to <65 years) 48.(100.0) 37 (100.0) 39 (97.5) 52 (81.2) 137 (85.1)
+Elderly (2 65 years) 00.0) 00.0) 1(2.5) 619.4) 13 (8.1)
+Sex
+
+Female 0.0) 21 (56.8) 27 (61.4) 23 (57.5) 38 (59.4) 101 (62.7)
+Male 48 (100.0) 16 (43.2) 17 48.6) 17 (42.5) 26 (40.6) 60 (37.3)
+Race
+
+Caucasian 3777.) 13 (35.1) 39 (88.6) 35 (87.5) 55 (85.9) 133 (82.6)
+Black or African American 24.2) 00.0) 1(2.3) 1(2.5) 1 (1.6) 2(1.2)
+Asian 714.6) 24 (64.9) 36.8) 3(7.5) 6 (9.4) 23 (14.3)
+Other 2 (4.2) 00.0) 1(2.3) 1(2.5) 23.1) 3.9)
+Asian or non-Asian
+
+Asian 7 (14.6) 24 (64.9) 36.8) 37.5) 6 (9.4) 23 (14.3)
+Non-Asian 41:(85.4) 13 (35.1) 4193.2) 37 (92.5) 58 (90.6) 138 (85.7)
+
+Source: Applicant's Population PK Report, Tables S19 and S20.
+
+Abbreviations: A, absorbance; CSL-312, garadacimab; eGFR, estimated glomerular filtration rate; FXII/PLG HAE, hereditary
+angioedema with normal C1-esterase inhibitor and factor XII or plasminogen gene mutation; HAE, hereditary angioedema; max,
+maximum min, minimum; n, number of records summarized; PD, pharmacodynamics; PK, pharmacokinetics; PopPK, population
+pharmacokinetics; SD, standard deviation; TP, Treatment Period; summary is count (percentage) for categorical variables
+
+198
+Integrated Review Template, version 3.0 (05/25/2022)
+
+Reference ID: 5458438

@@ -1,0 +1,106 @@
+NDA/BLA Multi-Disciplinary Review and Evaluation
+
+NDA 217700 and 218033
+Tovorafenib (DAY101)
+
+Study 2015140
+Predose and 0.5, 1, 1.5, 2, 3, 4, 5, 6, 8, 10, 12, 16, 24, 36, 48, 60, 72,
+96, and 120 hours postdose
+
+In ITT Population
+(Study FIREFLY-1)
+
+C1D1 (1, 2 and 4 hours postdose)
+
+C1D15 (a sample between 1 and 4 hours postdose)
+
+2D1 (predose)
+
+C4D1 (a sample between 1 and 4 hours postdose)
+
+C4, C7, C10 and C13 (a sample between 1 and 4 hours postdose)
+
+Covariates Static Sex, age, weight, BSA, albumin, ALP, AST, ALT, bilirubin, creatinine,
+Evaluated crCL, eGFR, race, ethnicity, disease type, renal impairment, hepatic
+impairment, H2 receptor antagonist, antacid
+Time-varying Regimen/formulation, concomitant medication use
+Final Model Summary Acceptability
+[FDA’s comments]
+Software and Version NONMEM Version 7.4.3 Yes
+
+Model Structure
+
+Figure 20)
+
+One-compartment model with three-transit | Yes
+absorption model (designated as Ka
+[Tablet]) for the tablet formulation and first-
+order absorption model with no transit
+compartment (designated as Ka [PfR]) for
+the PfR formulation, and first-order
+
+Shrinkage, Bootstrap)
+
+elimination.
+Model Parameter Estimates Table 36 Yes
+Uncertainty and Variability (RSE, IIV, | All parameters, including those Yes
+
+characterizing the covariate effects, were
+estimated with good precision, with %RSE
+consistently below 30%.
+
+BLQ for Parameter Accuracy
+
+N=1BLQ observation after administration Yes
+of the first dose (“postdose BLQ”) in Study
+28001, 2 BLQ observations in Study
+
+(1 205140, and 3 BLQ observations in Study
+FIREFLY-1.
+
+GOF, VPC
+
+Figure 21 (GOF for base/final model) Yes
+Figure 22 (pcVPC for final model)
+
+Significant Covariates and Clinical
+Relevance
+
+Figure 23 Yes
+BSA was selected for body size scaling. BSA
+was included as a covariate of tovorafenib
+CL/F and Vc/F.
+
+The final model included the effect of sex
+(male vs. female) on CL/F and prandial
+status (fasted vs. fed) on the Ka of the tablet
+formulation. Based on univariate analysis,
+the food and formulation effects on
+tovorafenib exposure (AUC, Cmax, and Cmin)
+were within the 0.8 to 1.25 exposure ratio
+interval and were not considered clinically
+meaningful. Males were estimated to have a
+21.5% higher CL/F than females, which was
+not considered clinically meaningful.
+
+Several factors of
+interest have limited
+to no information for
+characterizing the
+impact on PK,
+including moderate-
+to-severe hepatic
+impairment, severe
+renal impairment, and
+moderate-to-strong
+CcyP2C8
+inhibitors/inducers.
+
+Analysis Based on Simulation
+
+Not applicable.
+
+Reference ID: 5368881
+
+269
+

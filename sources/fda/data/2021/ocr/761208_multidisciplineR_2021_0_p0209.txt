@@ -1,0 +1,37 @@
+BLA Multi-disciplinary Review and Evaluation {Biologics License Application (BLA) 761208}
+
+{tisotumab vedotin}
+
+Parameter Value RSE% 95% Cl cv Shrinkage
+ADC parameters
+Wa On 0.0538 11.0 0.0422 ; 0.0654 | CV=23.2% 3.6%
+R Wo Wys Qi2 | 0.0166 14.0 0.012 ; 0.0211 R=0.415
+wy Qn 0.0296 8.59 0.0246 ; 0.0346 | CV=17.2% 4.3%
+R Wy:Wy2 Qn, 0.0145 14.8 0.0103 ; 0.0187 R=0.586
+wv Qs, | 0.0208 13.9 0.0151 ; 0.0264 | CV=14.4% 19.2%
+wy Qu, | 0.0561 127 0.0422 ; 0.0701 | CV=23.7% 24.6%
+o Dan 1 fixed 7.9%
+MMAE parameters
+Wer Oss 0.0212 10.6 0.0168 ; 0.0256 | CV=14.5% 15.8%
+WcLmmae Qee 0.299 7.85 0.253 ;0.345 | CV=54.7% 3.6%
+one ee er 0.125 14.4 0.0901 ; 0.161 R=0.495
+neue Qn 0.215 9.77 0.174 ; 0.256 CV=46.3% 8.0%
+W's Qee | 0.0712 10.6 0.0564 ; 0.0861 | CV=26.7% 16.1%
+o Zao 1 fixed 5.2%
+
+w2 and 02: variances of inter-individual and residual variability, respectively, R: correlation
+coefficient, SE: Standard Error; PE: Parameter Estimate; RSE (%): Relative Standard Error =
+100-abs(SE/PE); 95% Cl: 95% confidence interval, CV: coefficient of variation
+
+Source: In-Text Table 3 in the population PK report.
+
+Table 51. Covariate Effects, Final ADC-MMAE Model.
+
+Reference ID: 4858975
+
+208
+
+Version date: March 2021 (ALL NDA/ BLA reviews)
+Disclaimer: In this document, the sections labeled as “The Applicant’s Position” are completed by the Applicant
+and do not necessarily reflect the positions of the FDA.
+

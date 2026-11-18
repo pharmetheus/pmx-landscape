@@ -1,0 +1,74 @@
+NDA/BLA Multi-disciplinary Review and Evaluation - NDA 216059
+
+Jaypirca (pirtobrutinib)
+
+Table 95: PBPK Input Parameters for Pirtobrutinib
+
+Parameter Value Method/Reference
+
+Molecular weight (g/mol) 479.43
+
+Log P 3.35 Predicted by ChemAxon
+
+Compound type Neutral
+
+B:P Measured in-vitro
+
+fup 0.046
+
+Fa 0.91
+
+ka (1/h) 0.82 fitted to match observed tmax and Cmax
+
+Lag time (h) 0.25 after a single dose of pirtobrutinib
+
+Fugut 1 Assumed
+
+Qgut (L/h) 3.154 Estimated based on Fg of 0.96
+
+Peff,man (10-4 cm/s) 4.49 Measured Papp of 48.8 x10-6 cm/s scaled to
+Peff,man with in-house correlation:
+Log10(Peff,man x10* cm/s) =
+0.89 x Log10(Pappx10° cm/s) - 0.85
+
+Q (L/h) 3.56 Based on concentration-time profile
+
+VSAC (L/kg) 0.17 following intravenous administration
+
+Vss (L/kg) 0.54
+
+Kp scalar 0.145 Fitted to match clinically observed Vss
+
+Enzyme Kinetics (Recombinant) 0.03 Calculated based on fm,CYP3A4 of 0.40
+
+CYP3A4 CLint (uL/min/pmol) using the Simcyp retrograde calculator
+
+Additional HLM CLint (uL/min/mg) | 3.66
+
+CLR (L/h) 0.12 Measured from intravenous data
+
+CLint,bile (uL/min/million cells) 0.47 To fit the fecal pirtobrutinib after
+intravenous administration
+
+CYP3A KI (uM) 0.47 Measured
+
+CYP3A kinact (h-1) 0.056 Fitted value to match clinical individual
+concentration-time profiles from Study
+LOXO-BTK-20008
+
+fuinc 0.78 Measured value at 0.5 mg/mL human liver
+microsomes
+
+Source: PBPK report Table 3.1
+
+The Applicant evaluated the performance of pirtobrutinib PBPK model by comparing the
+simulated and observed clinical PK data following single and multiple dose administration of
+200 mg as shown in Table 96 and Table 97 and Figure 30, respectively.
+
+245 of 265
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5116352
+

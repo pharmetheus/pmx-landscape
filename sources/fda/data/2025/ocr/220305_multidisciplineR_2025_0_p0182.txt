@@ -1,0 +1,60 @@
+NDA Multidisciplinary Review and Evaluation
+NDA 220305
+Komzifti (ziftomenib)
+
+FDA Table 32. Summary of Response Rate
+
+n(% [95% Phase 1b Phase 2 Pooled Efficacy Cohort
+ci) (N= 20) (N=92) (N= 112)
+CR+CRh | 7 (35%) [15.4%, 59.2%])_| 17 (18.5% [11.1%, 27.9%])_| 24 (21.4% [14.2%, 30.2%])
+CR 6 (30%) [11.9%, 54.3%]) 13 (14.1% [7.7%, 23%]) 19 (17.0% [10.5%, 25.2%])
+CRh 1 (5%) [0.1%, 24.9%]) 4 (4.3% [1.2%, 10.8%]) 5 (4.5% [1.5%, 10.1%])
+Source: FDA analysis
+
+Statistical TL’s Comment: The null rate of 12% specified for the Phase 2 Cohort was based
+loosely on historical data of a different endpoint (12% CR/CRi as reported in for a population of
+patients who mostly had > 2 or more prior therapies). Thus, its relevance to the studied
+population is unclear. However, clinical trials are evaluated based on whether they meet their
+planned objectives or not. After adjudication, the Phase 2 Cohort did not meet its pre-specified
+objective to rule out a CR + CRh rate of 12%. While the initial results excluded this threshold,
+the impact of adjudication on the inference raises questions about the robustness of the results.
+
+The 95% confidence interval for CR + CRh in the Pooled Efficacy Cohort excludes 12%. This
+provides a more comprehensive experience and appears to confirm the initial inference by the
+Applicant. This analysis does not account for the multiple-testing nature of this inference.
+
+A more natural inference framework for such evidence synthesis might be the Bayesian
+framework. While the Phase 1b and Phase 2 populations are similar, it is possible that they
+differ in meaningful ways such that pooling may not reflect a homogenous population. In this
+scenario, the Phase Ib results could be considered in a prior distribution with varying levels of
+relevance to the Phase 2 population. The strength of evidence utilizing in a prior distribution is
+often characterized by the effective sample size (ESS). FDA Table 33 considers such prior
+distributions at varying levels of informativeness, with 100% ESS reflecting the scenario where
+the prior distribution reflects n=20 patients worth of data.
+
+FDA Table 33. Bayesian Analysis of Phase 1b/2 Data in KO-MEN-001 Under Various Levels
+of Borrowing
+
+Prior Type Prior Distribution | Posterior Distribution | Posterior Mean | Posterior 95% | P(p >
+a 0.12)
+100% ESS Beta(7, 13) Beta(24. 88) 0.214 (0.147, 0.292) 0.9946
+50% ESS Beta(3.5. 6.5) Beta(20.5, 81.5) 0.201 (0.137. 0.276) 0.9854
+25% ESS Beta(1.75, 3.25) Beta(18.75, 78.25) 0.193 (0.129, 0.267) 0.9738
+Non-informative | Beta(1. 1) Beta(18. 76) 0.191 (0.125. 0.268) 0.9651
+Improper Prior | Beta(0.001, 0.001) _| Beta(17.001. 75.001) | 0.185 (0.121. 0.260) 0.9516
+
+!p is the probability of a patient achieving CR + CRh
+
+These results suggest that the probability of the CR + CRh rate exceeding 12% is high for all
+
+scenarios, regardless of how much information is borrowed from Phase 1b. While there is no
+
+standard cutoff for Bayesian analyses to demonstrate “significance,” one might consider a
+181
+
+Version date: March 1, 2024 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5694243

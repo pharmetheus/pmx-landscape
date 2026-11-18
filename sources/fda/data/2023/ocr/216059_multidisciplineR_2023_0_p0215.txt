@@ -1,0 +1,62 @@
+NDA/BLA Multi-disciplinary Review and Evaluation - NDA 216059
+Jaypirca (pirtobrutinib)
+
+Acceptability
+
+Final Model Summary [FDA’s comments]
+Software and Version . NONMEM (Version 7.4.2) Acceptable
+. R (Version 4.1.2)
+° PsN (Version 4.8.1)
+Model Structure 2-compartment model with 4 transit Acceptable
+compartments for absorption.
+Model Parameter Estimates Table 82 Acceptable
+Uncertainty and Variability (RSE, IIV, Model parameter estimation was Acceptable
+Shrinkage, Bootstrap) performed with overall high precision and
+
+interindividual variability was generally low
+to moderate. Shrinkage for interindividual
+ETA parameters on CL/F and MTT were 3%
+and 57%, respectively
+
+BLQ for Parameter Accuracy 17 post-dose BLQ samples were excluded _ | Acceptable
+(<1%). Parameter accuracy assessment for
+BLQ was not carried out.
+
+GOF, VPC Figure 15 and Figure 16 Acceptable
+Significant Covariates and Clinical a total of 3 patient factors were found to Acceptable
+Relevance meet the criteria for inclusion in the final
+popPK model:
+© body weight on CL/F, Q/F,
+Vc/F, Vp/F,
+
+® serum albumin on CL/F and
+Vc/F
+
+© — eGFR on CL/F
+
+Analysis Based on Simulation Figure 17, Figure 18, and Figure 19 Acceptable
+(optional)
+Labeling Language Description Acceptability
+[FDA’s comments]
+12.3 PK Steady state was achieved within 5 days of | Acceptable.
+
+once daily dosing. The mean (CV%) steady- | Based on the PPK
+state AUC and Cmax were 91300 h*ng/mL model the estimated
+(41%) and 6460 ng/ml (26%), respectively, | terminal half-life for
+at the recommended dosage. pirtobrutinib is 18.5
+* Age, Race and Body Weight: hours.
+
+Based on a population pharmacokinetic
+analysis in patients with cancer, age (range
+27-95 years), gender (394 males and
+
+201 females), and body weight (range
+35.7-152.5 kg) had no clinically meaningful
+effect on the exposure of pirtobrutinib.
+
+214 of 265
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5116352

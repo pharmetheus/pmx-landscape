@@ -1,0 +1,73 @@
+BLA 761367
+Andembry / garadacimab
+
+Table 87. PK Method Validation for RnD-VAL-000141302
+Report Number and Title: Module 5.3.1.4. RuD-VAL-000141302, CSL312 Pharmacokinetic Assay Validation Report
+Assay Procedure: RaD-SOP-000053!
+
+“Acceptance criteria Summary of result Source location i
+validation report
+System suitability | RE and CV < 20% for 7 out of 9 non-zero standards | RE: -12% to 3% Tables 2.3
+(excluding anchor points) CV: 0.6% to 2.5%
+Selectivity RE and CV < 20% for 80% of samples RE: -13% to 40% Table 4
+CV: 1% t0 8%
+Dilutional linearity RE < 30% RE: -13% to 18% Table $
+Range Detennined by the acceptable range for accuracy and | 1 to 100 ng’ Section 7.4
+precision
+Accuracy RE < 20% (< 25% for ULPC/UHPC) RE: -14% to -1% Table 6
+Intermediate 20% (< 25% for ULPC/UHPC) Repeatability (CV): 2.1% to 12.9% Tables 7, 8,9
+preciséon / Inter-assay precision (CV): 2% to 24%
+repeatability Inter-operative precision (CV): 0.2% to
+16%
+Quantitation limit | Quantitatively determined with acceptable precision | LLOQ: 100 ng/mL. Section 7.7
+and accuracy ‘Minimum required dilution: 100
+Robustness CV and RE < 20% Freeze / thaw cycles: 6 freeze / thaw Tables 10B, 11, 12
+cycles
+Plate coating time: Up to 72 hours at 2°C
+to 8°C
+Ambient temperature stability: 7 days
+
+Source: Table 3, Summary of Biopharmaceutic Studies.
+
+Note: Precision and accuracy were demonstrated by interpolating the concentration of five controls and examining the relative error
+(RE) and coefficient of variation (CV). Based on the concentrations of the controls (i.e., 1, 5, 40, 80, and 100 ng/mL), the range of
+the assay was shown to be 1 to 100 ng/ml.
+
+The relative error of 40% under selectivity was noted as not meeting acceptance criteria. This value was obtained in 1 out of 5
+replicates at a concentration of 200 g/mL. Across all remaining replicates (n=9), the relative error ranged from -13 to 17%.
+Acceptance criteria of relative error <30% for dilutional linearity is not consistent with FDA’s guidance for industry, M10 Bioanalytical
+Method Validation and Study Sample Analysis (November 2022). The calculated mean concentration should be within 20% of the
+nominal concentration. The observed relative error for dilutional linearity meets acceptance criteria.
+
+Repeatability refers to three sets of controls assayed on one plate; interassay precision refers to three sets of controls assayed on a
+different plate and performed on different days by one operator, interoperator precision refers to three sets of controls assayed on
+three separate days by two different operators.
+
+Abbreviations: LLOQ, lower limit of quantification; PK, pharmacokinetics
+
+In response to the Agency’s inquiry, the Applicant submitted an amended bioanalytical method
+
+validation report for method RnD-VAL-000141302 (v. 8.0, submitted on February 20, 2024).
+
+The following information was provided on selectivity, benchtop stability and long-term
+
+stability:
+
+e Selectivity was assessed in plasma from subjects with HAE (N=20 lots). Individual lots were
+spiked with garadacimab at concentrations of 1, 5, and 80 ng/mL. Note that 10 lots were
+
+spiked at 5 ng/mL, while 10 separate lots (N=20 total) were spiked at 1 and 80 ng/mL. At all
+concentrations, the %RE and %CV were <20% for at least 8/10 lots.
+
+e Sample stability in 100% pooled healthy human plasma (sodium citrate) at temperatures
+<-60°C is established for up to 3 years, 5 months and 25 days (~41 months).
+
+e Long-term stability in plasma from subjects with HAE is ongoing. Samples are spiked with
+garadacimab at concentrations of 15,000 and 7,500 ng/mL. Per the Applicant, at the time of
+response (i.e., February 20, 2024), 10 months stability assessment has been completed and
+shown to pass acceptance criteria.
+
+172
+Integrated Review Template, version 3.0 (05/25/2022)
+
+Reference ID: 5458438

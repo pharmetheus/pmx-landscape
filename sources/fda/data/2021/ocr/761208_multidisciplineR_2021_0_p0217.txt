@@ -1,0 +1,50 @@
+BLA Multi-disciplinary Review and Evaluation {Biologics License Application (BLA) 761208}
+{tisotumab vedotin}
+
+measures, AGE is individual age at baseline (years), WT is individual body weight at baseline (kg), TFE is
+individual membrane tissue factor expression (H-score) at baseline, SUMDIAM is individual sum of
+tumor diameters at baseline (mm), ALB is individual albumin concentration at baseline (g/L), LDH is
+individual LDH concentration at baseline (U/L), SEXF is equal to 1 for females and 0 for males, USA is
+equal to 1 for patients from USA and 0 otherwise, CERVICAL is 1 for patients with cervical cancer,
+RENAL2 is 1 for patients with mild or moderate renal impairment, RENAL3 is 1 for patients with
+moderate renal impairment; HEP is 1 for patients with mild hepatic impairment, and ECOG is the ECOG
+score (0 or 1). The main goal of the covariate analysis was to confirm association of exposure with
+response after adjustment for covariates. Therefore, specific covariate results are not discussed. A
+significance level of a = 0.05 was used for evaluation of the exposure coefficient of the covariate model
+(slope parameter). The main safety results are summarized in Table 52.
+
+Table 52. Summary of Main Exposure Safety Analyses Results.
+
+Probability of treatment-related TEAEs leading to dose interruptions (TEAE4), reductions (TEAES) or
+Discontinuations (TEAE6) significantly increased with increase of ADC Cycle 1 AUC (E1) based on
+
+pooled data.
+E1 AE | Coefficient | se | RSE | 95%CI | p-value | Model |
+TEAE 4 0.0475 0.01396 29.4 0.02013;0.07488 0.001" | Base
+0.03845 0.01728 44.95 0.00457 1;0.07232 0.026* | Full
+0.05 0.01356 27.11 0.02343;0.07657 <0.0005" | Base
+TEAE S 0.04648 0.01695 36.46 0.01327;0.0797 0.006" | Full
+0.03848 0.01195 31.06 0.01506;0.06191 0.001* | Base
+TEAE 6 0.032 0.01634 47.92 0.001942;0.06207 0.037" | Full
+Probability of Grade 2+ ocular TEAEs (TEAES8) significantly increased with increase of ADC
+Cycle 1 AUC (E1), ADC Cycle 1 Cmax (E2), and ADC CavgLast (E3) based on pooled data.
+E1 AE | Coefficient | SE RSE | 95%Cl | p-vatue | Model |
+0.05755 0.01169 20.32 0.03463;0.08047 <0.0005* | Base
+TEAE 6 0.06375 0.01405 22.04 0.03621;0.09129 <0.0005* | Full
+E2 TEAE 8 0.07057 0.01704 24.14 0.03718;0.104 <0.0005" | Base
+0.07864 0.02119 26.94 0.03712;0.1202 <0.0005* Full
+—3 TEAE 8 1.191 0.2447 20.55 0.7114;1.671 <0.0005" | Base
+1.263 0.2866 22.69 0.7016;1.825 <0.0005* Full
+
+Subset analysis of Study GCT1015-04 data was consistent with the pooled dataset.
+The probability of Grade 2+ ocular TEAEs significantly increased with increase of ADC Cycle 1 AUC
+(£1), ADC Cycle 1 Cmax (E2), and ADC CavgLast (E3);
+
+Reference ID: 4858975
+
+216
+
+Version date: March 2021 (ALL NDA/ BLA reviews)
+Disclaimer: In this document, the sections labeled as “The Applicant’s Position” are completed by the Applicant
+and do not necessarily reflect the positions of the FDA.
+

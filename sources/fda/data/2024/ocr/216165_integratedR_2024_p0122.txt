@@ -1,0 +1,58 @@
+NDA 216165
+Cefepime-Enmetazobactam
+
+14. Clinical Pharmacology
+
+14.1. In Vitro Studies
+
+Distribution
+
+Study AAT101-PK-17-26 evaluated the extent of enmetazobactam binding to rat, rabbit, dog and
+human plasma proteins at concentrations of 1, 10, 50, 100 and 300 g/mL using equilibrium
+dialysis. At every concentration tested, the calculated free fraction of enmetazobactam was 100%
+across all species.
+
+Metabolic Profiling of Enmetazobactam
+
+Study AAT101-PK-17-01 (also named 2016-0365) evaluated the in vitro metabolism of ["*C]-
+enmetazobactam in human hepatocytes (pooled mixed-sex) at a concentration of 101M. The
+metabolite profiles were assessed by LC-UV-RAD and quantification of metabolites was
+performed by radiochemical detection. Enmetazobactam was poorly metabolized by human
+hepatocytes. Unchanged enmetazobactam accounted for 98%, 98%, and 95% of total
+radioactivity in the samples at zero time and after 0.5 and 1.5 hours, respectively. Only one
+relevant sulfinic acid metabolite was detected. The sulfinic acid metabolite accounted for 2.1%
+of total radioactivity at zero time and increased to 2.3% and 4.6% after 0.5 and 1.5 hours,
+respectively. Therefore, enmetazobactam was stable in liver microsomes and human hepatocytes,
+indicating that enmetazobactam does not undergo significant hepatic metabolism.
+
+Table 80. Identification Code, Molecular Formula, Mass to Charge Ratio (m/z), Chemical Structure
+of [*4C]-AAI101, and the Proposed Chemical Structure of the Identified Metabolites
+
+miz aT
+
+Code Molecular formula mz calculated found (min) ‘Structure
+Qo
+ee
+AAI101 C11H1SN405S 315.0763 315.0757 65 oh
+on
+of
+
+Surin ag CeHIsNdo4s 263.0814 263.0821 33
+
+Source: DocuBridge, NDA 216165. Module 5.3.3.1 Bioanalytical Report. Table 22. Page 41
+Abbreviations: m/z, mass to charge; N/A, not applicable; RT, retention time
+
+In Vitro Drug-Drug Interaction Studies for Enmetazobactam
+
+CYP Inhibition
+
+Studies AAI101-PK-12-01, AAT101-PK-17-03, AAI101-PK-19-01 evaluated the potential for
+enmetazobactam to inhibit human cytochrome (CYP) P450 enzymes using human liver
+microsomes. Enmetazobactam did not show any inhibitory effect within the concentration range
+of 0.1-100uM in the tested CYPs (CYP1A2, CYP2C9, CYP2C19, CYP2D6, CYP2A6, CYP2B6,
+CYP2C8, and CYP3A4).
+
+107
+Integrated Review Template, version 3.0 (05/25/2022)
+
+Reference ID: 5333102

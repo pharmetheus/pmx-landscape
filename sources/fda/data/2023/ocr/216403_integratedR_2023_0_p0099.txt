@@ -1,0 +1,60 @@
+NDA 216403
+Filspari (sparsentan)
+
+Table 42. In Vitro Receptor Inhibition Parameters
+ECgo (Calcium Mobilization ECgo (B-Arrestin Translocation and
+
+Receptor Ki and Antagonism) Antagonism)
+ETaR 12.8nM 5.6nM 5nM
+ATiR 0.36nM 1.0nM 3.9nM
+
+Source: Reviewer's summary from Applicant's RE-021-Report016-2015-DMPK and RE-021-Report006-2018-PHARM reports.
+Abbreviations: AT,R, angiotensin II receptor, ECgo, drug concentration that causes 80% of maximum effect; ET,R, endothelin type A
+receptor
+
+Based on these data, the review team agrees with the Applicant that the use of sparsentan with
+strong CYP3A inducers should be avoided due to the large decrease in sparsentan exposure. The
+team also agrees with the Applicant that the use of sparsentan with moderate CYP3A inducers
+should be allowed without additional instructions or dose-adjustment (See Section 14.7 for
+details).
+
+8.5.3. Effect of Acid Reducing Agents on Sparsentan
+
+Sparsentan has pH-dependent solubility in the relevant physiological pH range, with solubility
+that is lower under pH 6.8 (0.055 mg/mL) compared to pH 1.2 (1.48 mg/mL). The solubility of
+sparsentan within the pH range of 6.0 to 6.8 is less than the proposed dosage (400 mg) divided
+by 250 mL, and the estimated f2 value (similarity factor) is less than 50 based on the dissolution
+profiles of sparsentan in 0.1N HCl (pH 1.2) and 50mM phosphate buffer (pH 6.8). Thus,
+sparsentan is likely to have interactions with acid reducing agents (ARAs).
+
+To address this issue, the Applicant submitted a PopPK analysis |
+
+However, the Applicant’s PopPK analysis is not adequate to characterize the impact of
+ARAs on sparsentan PK because the Applicant’s PopPK analysis treated ARA co-administration
+status as a binary covariate for each patient and did not account for medication history prior to
+study entry or the dosing records for concomitant ARAs, which are critical to capture the DDI
+effect on the absorption phase and therefore relative bioavailability. Therefore, a PMR will be
+issued for a dedicated DDI study to evaluate the effect of ARAs on sparsentan PK.
+
+8.5.4. Effect of Sparsentan on Other Drugs
+
+In vitro studies indicated that sparsentan is an inhibitor of CYP3A4 and a weak inhibitor of
+CYP2C8, as well as an inducer of CYP2B6, 2C9, 2C19, and 3A4. Sparsentan is also an inhibitor
+of transporters P-gp, the breast cancer resistance protein (BCRP), and OATP1B3.
+
+Refer to Section 14.1 for additional information on these in vitro studies with sparsentan.
+
+The effect of sparsentan on substrates of CYP3A was evaluated using midazolam. The induction
+effect of sparsentan on CYP2B6 as well as its inhibitory effect on OATP1B3 were also tested
+using bupropion and pitavastatin, respectively.
+
+Induction of CYP2C9 and CYP2C19 by sparsentan was evaluated using PBPK modeling and
+simulations.
+
+Clinical DDI studies or PBPK modeling and simulations were not conducted for sparsentan to
+test its inhibition potential on P-gp or BCRP substrates.
+
+90
+Integrated Review Template, version 3.0 (05/25/2022)
+
+Reference ID: 5128407

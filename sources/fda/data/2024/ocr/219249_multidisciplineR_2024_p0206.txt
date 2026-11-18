@@ -1,0 +1,51 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 219249}
+{Inavolisib}
+
+dose (9 mg PO QD) were associated with similar effects. These data should be interpreted with
+caution given that only one inavolisib dose level was evaluated.
+
+Based on exposure-safety analysis for study GO39374 using logistic regression analysis, positive
+exposure-response relationships were observed for the probability of grade > 3 AE, grade > 2
+hyperglycemia, and inavolisib dose modification due to AE increased when AUC or Cmax were
+used as exposure metrics.
+
+Based on exposure-safety analysis for study WO41554 using logistic regression analysis, no
+exposure-response relationship was observed for most adverse events of interest (grade > 3 AE,
+grade 2 2 neutropenia, grade 2 2 hyperglycemia, grade 2 2 thrombocytopenia, inavolisib dose
+modification due to AE, grade >=2 diarrhea, and grade >=2 stomatitis). However, the probability
+of grade > 2 anemia was higher with increasing inavolisib Cmax values. Similar to the E-R efficacy
+analysis, these results should be interpreted with caution given that only one inavolisib dose
+level was evaluated.
+
+The Applicant’s analyses were repeated and deemed acceptable.
+The Applicant’s E-R analyses are summarized in detail below.
+
+19.4.3.2. E-R (efficacy) Assessment Summary
+
+The Applicant's Position:
+e Based on the exposure-efficacy analysis on a total of 149 patients with model-predicted
+
+exposure parameters in the inavolisib arm from Study WO41554, PFS, ORR, BOR, DOR, CBR,
+and time to TFST did not show an association with inavolisib exposure, after adjustment to
+baseline covariates (including baseline neutrophil count, AST, liver metastasis, and body
+surface area). Although similar OS was seen across Cmin quartiles 1 - 3, numerically shorter
+OS was observed for quartile 4. Given that OS data could be confounded by the treatments
+received after study treatment discontinuation, and that OS data was not yet mature, TFST
+was investigated as another measure of long-term outcome. As outlined above,
+exposure-efficacy relationship was not significant for TFST.
+
+Based on the exposure-efficacy analysis on a total of 183 patients (Arm A to F) with
+model-predicted exposure parameters from the supportive study GO39374 (Dose range: 3,
+6, 9, and 12 mg, with limited data from 3, 6, and 12 mg), ORR, BOR, DOR and PFS were not
+associated with inavolisib exposure, after adjustment to baseline covariates. However,
+these results should be interpreted with caution given that the data was pooled across
+multiple arms of Study GO39374 which include different combination partners across these
+arms.
+
+205
+Version date: June 2022 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5460147

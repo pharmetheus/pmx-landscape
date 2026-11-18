@@ -1,0 +1,65 @@
+NDA/IND Multi-disciplinary Review and Evaluation NDA 219379/219389
+Mirdametinib (GOMEKLI)
+
+Actual doses administered are visualized in Figure 4.
+
+Exposure Metrics Explored (range) AUCo.12, Cavg, Cmin (trough) and Cmax
+Covariates Evaluated Age (continuous), Age group (<12, 12-17, adult),
+Lansky/Karnofsky performance status, Sex/ Baseline
+
+progression, Baseline tumor volume, Baseline laboratory
+values, as appropriate for each endpoint.
+
+Final Model Parameters Summary Acceptability
+[FDA’s comments]
+Model Structure The relationships between Acceptable
+
+(mirdametinib and PD-0315209)
+exposure and safety endpoints
+were evaluated as PKPDx or ERR
+models. For the ERR analyses of
+safety endpoints evaluated by
+logistic regression, the final
+PopPK model was used to
+calculate individual estimates of
+exposure on the day of onset, as
+available. For each safety
+endpoint, nominal steady state
+exposure was used for
+participants with no event.
+
+Exposure-response relationships
+with safety events were
+evaluated by logistic regression.
+For significant relationships,
+covariates were tested in a
+stepwise forward search at a
+
+p < 0.05 level of significance.
+Only covariates that were
+significant in a univariate search
+were included in multivariate
+testing. Mirdametinib and/or PD-
+0315209 AUCO-12,ss were found
+to be the best exposure
+predictors for all significant
+TEAEs. Of the grade 1+ binary
+endpoints, the probability of a
+ALT elevation, AST elevation, or
+CPK increase event were found
+to have statistically significant
+relationships with mirdametinib
+exposure. The probability of
+acneiform rash, ALT elevation,
+and AST elevation were found to
+have statistically significant
+relationships with PD-0315209
+exposure.
+
+339
+Version date: June 2022 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5528369

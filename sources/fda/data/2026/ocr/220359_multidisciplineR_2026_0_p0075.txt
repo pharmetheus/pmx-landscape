@@ -1,0 +1,69 @@
+Kin? (uM) NA >I5_[>15 0.23 | =15 S15 S15 2.2 S15 1.25
+Ri 0.02 0.003 | 0.003 0.217_| 0.003 | 0.003_| 0.003 _| 0.023 | 0.003 | 0.059
+Ri gut 10 NA NA NA NA NA NA NA NA 738.7
+DDI potential No No Yes No No No Yes No Yes
+
+M4 and M14: No in vitro CYP inhibition was observed; no potential for DDI.
+
+*Kiu=(Cs0/2)x fur,inc as probe substrates at Km (Michaelis-Menten constant)
+
+R1 = (liee/Kin), Rigut = In/Kiu. DDI, drug-drug interaction; b: intestinal luminal concentration of the interacting drug: Iiee,
+maximal unbound plasma concentration of the interacting drug at steady state (unbound Cmax); ICso, half-maximal inhibitory
+concentration; Kiu, unbound inhibition constant, NA, not applicable. Bold = potential for DDI
+
+Cytochrome p450 inhibition (time-dependent) (5.3.2.2) Studies BS001884-91; BS001884-40; BS003400-70):
+BS004957-97; BS004957-95.
+
+Camizestrant: No time-dependent inhibition for CYPs1A2, 2B6, 2C8, 2D6, and 3A4/5 (at 10 or 50 1M).
+CYP2C9, Kinact=0.03 min, Ky =2.1 tM: CYP2C19, Kinace=0.10 min, Kr =1.2 1M (between 0.3 and 300
+uM).
+
+M4 and M14: No inhibition for CYPs 1A2, 2B6, 2C8, 2C9, 2C19, 2D6, and 3A4/5 (at 10 or 50 1M).
+Interpretation of Camizestrant time-dependent inhibition data for a 75 mg QD dose regime
+
+DDI potential | DDI Camizestrant
+
+potential if 1A2 2B6 2C8 2c9 2C19 2D6 3A4/5
+
+value>
+Ki (mM) NA >50 >50 >50 21 12 4A >50
+Kis* (uM) NA NA NA NA 0.37 0.21 NA NA
+Kinact (hr) NA NA NA NA 0.03 0.1 NA NA
+Ra 1.25 1 1 1 2.43 2.69 1 1
+Rat 1.25 1 1 1 2 4.3 1 1
+DDI potential No No No Yes Yes No No
+*Kiuis the unbound inhibitor concentration causing half maximal inactivation; kobs is the apparent first order inactivation rate
+constant of the affected enzyme: kéeg is the apparent first-order degradation rate constant of the affected enzyme. kinact is the
+maximal inactivation rate constant; Cmaxuis the maximal unbound plasma concentration of the inhibitor drug at steady state:
+Ru = (kotstk degh)/k degh , R gut = ( Kobs +k deg int )/kaeg int ; Kobs = (Kinact x 5 x Cmaxu)/(Kiu x 5 x Cmax). DDI, drug-drug interaction;
+NA. not applicable. Bold= potential for DDI
+
+UGT inhibition (5.3.2.2) Studies BS003400-46; BS005039-01; BS005039-02.
+
+Camizestrant is a weak in vitro inhibitor of UGT1A1, UGT1A4, UGT1A9, UGT2B7 and UGT2B15, with
+ICso values of 131, 185, 28.8, >300 and 42.2 \\M, respectively, indicating low DDIs risk via these enzymes.
+Carboxylesterase 1&2 (CES1 & CES2) inhibition Studies CYP0750 R218; BE003623-73
+
+Camizestrant inhibited CES2 in vitro (ICso= 38.2 jtM and K; = 19.1 1M) but weakly against CES1
+(ICso>100 |tM). Since the intestinal conc. (In) of camizestrant at 75 mg clinical dose is 630 1M, DDI via
+CES2 inhibition cannot be ruled out.
+
+Atropine metabolism inhibition (5.3.2.2) Study ELN00039516.
+
+ICso values 0.14 1M (dog) and 5.22 tM (human) for inhibition of atropine hydroxylation and 0.15 1M
+(dog) and 13.9 1M (human) for inhibition of atropine N-demethylation by camizestrant. Atropine N-
+oxidation not affected. As free Cmax at 75 mg clinical dose is ~ 0.03 1M, the findings observed in dogs are
+
+74
+Version date: March 1, 2024 (All NDA/BLA reviews)
+
+In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the Applicant,
+which do not necessarily reflect the positions of the FDA.
+
+The FDA review was conducted in conjunction with other regulatory authorities under Project ORBIS. The FDA
+collaborated with Australia’s Therapeutic Goods Administration (TGA), Brazilian Health Regulatory Agency
+(ANVISA), Health Canada (HC), Singapore’s Health Sciences Authority (HSA), and Switzerland’s Swissmedic
+(SMC). While the conclusions and recommendations expressed herein reflect the FDA’s completed review of the
+application, the applications may still be under review at the other regulatory agencies.
+
+Reference ID: 5864804

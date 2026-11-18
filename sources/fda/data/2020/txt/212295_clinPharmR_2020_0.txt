@@ -1,0 +1,2328 @@
+CENTER FOR DRUG EVALUATION AND
+RESEARCH
+APPLICATION NUMBER:
+
+212295Orig1s000
+CLINICAL PHARMACOLOGY
+REVIEW(S)
+
+Office of Clinical Pharmacology Review
+NDA or BLA Number
+Link to EDR
+Submission Date
+Submission Type
+Brand Name
+Generic Name
+
+212295
+\\CDSESUB1\evsprod\NDA212295\212295.enx
+04/05/2019
+505(b)(1) Standard Review
+BYFAVO
+Remimazolam
+
+Dosage Form and
+Strength
+Route of Administration
+Division Director:
+OCP Division:
+OND Division:
+
+Solution for Injection
+
+Dosage and
+Administration
+
+Proposed Indication
+Applicant
+Associated IND
+OCP Review Team
+
+OCP Final Signatory
+
+IV injection
+Mehul Mehta. Ph.D.
+Division of Neuropsychiatric Pharmacology (DNP)
+Division of Anesthesiology, Addiction Medicine, and Pain
+Medicine (DAAP)
+An initial dose of remimazolam administered
+intravenously (IV) as a 5 mg (2 mL) push injection over a
+1-minute time period.
+As needed, supplemental doses of 2.5 mg (1 mL) of
+remimazolam may be administered IV over a 15-seconds.
+At least 2 minutes must have elapsed prior to the
+administration of any supplemental dose
+The induction and maintenance of procedural sedation in
+adults
+Cosmo Technologies Ltd
+102486
+Deep Kwatra, Ph.D., (DNP Clinpharm Reviewer)
+Tao Liu, Ph.D., (DPM Reviewer)
+Atul Bhattaram, Ph.D., (DPM Team Lead)
+Yun Xu, Ph.D., (DNP Clinpharm Team Lead)
+Mehul Mehta (DNP Clinpharm Division Director)
+
+1
+
+Reference ID: 4564702
+
+Table of Contents
+1. EXECUTIVE SUMMARY .............................................................................................................................. 4
+1.1 Recommendations .............................................................................................................................. 4
+1.2 Post-Marketing Requirements and Commitments............................................................................. 4
+2. SUMMARY OF CLINICAL PHARMACOLOGY ASSESSMENT......................................................................... 5
+2.1 Pharmacology and Clinical Pharmacokinetics..................................................................................... 5
+2.2 Dosing and Therapeutic Individualization........................................................................................... 6
+2.2.1 General dosing ............................................................................................................................. 6
+2.2.2 Therapeutic individualization....................................................................................................... 6
+2.3 Outstanding Issues.............................................................................................................................. 7
+2.4 Summary of Labeling Recommendations ........................................................................................... 7
+3. COMPREHENSIVE CLINICAL PHARMACOLOGY REVIEW.......................................................................... 11
+3.1 Overview of the Product and Regulatory Background ..................................................................... 11
+Formulation:........................................................................................................................................ 11
+3.1.1 Key Studies Submitted in NDA ................................................................................................... 12
+3.1.2 Regulatory Background.............................................................................................................. 14
+3.2 General Pharmacology and Pharmacokinetic Characteristics .......................................................... 15
+Summary of Population PK ................................................................................................................. 16
+General PK Characteristics:................................................................................................................. 17
+3.3 Clinical Pharmacology Review Questions ......................................................................................... 19
+3.3.1 To what extent does the available clinical pharmacology information provide pivotal or
+supportive evidence of effectiveness? ............................................................................................... 19
+3.3.2 Is the proposed dosing regimen appropriate for the general patient population for which the
+indication is being sought? ................................................................................................................. 20
+3.3.3 Is an alternative dosing regimen and/or management strategy required for subpopulations
+based on intrinsic factors? .................................................................................................................. 20
+3.3.4 Are there clinically relevant food-drug or drug-drug interactions and what is the appropriate
+management strategy? ....................................................................................................................... 26
+Pharmacokinetic Drug Interactions: ................................................................................................... 26
+Potential Pharmacodynamic Drug-Drug Interactions:........................................................................ 32
+4. APPENDICES ............................................................................................................................................ 33
+2
+
+Reference ID: 4564702
+
+4.1 Summary of Bioanalytical Method Validation and Performance ..................................................... 33
+4.2 Clinical PK and/or PD Assessments ................................................................................................... 36
+Summary of Study CNS7056-001. ....................................................................................................... 36
+Summary of Multiple Bolus IV Administration Study (CNS7056-002). ............................................... 39
+Summary of Study CNS7056-017 (IV Infusion Study). ........................................................................ 42
+Summary of Japanese Phase 1 Study ONO-2745-01. ......................................................................... 44
+Summary of Japanese IV infusion Study ONO-2745-02...................................................................... 46
+Summary of Study CNS7056-019 (Intranasal Administration Study). ................................................ 47
+Summary of Study CNS7056-016 (Oral Administration Study)........................................................... 49
+Summary of Study CNS7056-020 (Oral Administration Study with Ethanol). .................................... 51
+Abuse potential studies ...................................................................................................................... 55
+QT prolongation potential Studies...................................................................................................... 57
+4.3 Population PK and/or PD Analyses ................................................................................................... 60
+Pharmacometrics Review ....................................................................................................................... 60
+Introduction ........................................................................................................................................ 60
+Model development............................................................................................................................ 60
+Results................................................................................................................................................. 62
+
+3
+
+Reference ID: 4564702
+
+1. EXECUTIVE SUMMARY
+1.1 Recommendations
+From the Clinical Pharmacology perspective, NDA 212295, submitted on April 5, 2019 is acceptable and
+no approvability issues have been identified during the review of the NDA. Overall, adequate
+information has been provided characterizing the clinical pharmacology aspects of Remimazolam
+including to guide dosing in special populations. Labeling negotiation with the Applicant were still
+ongoing when this review was being documented in DARRTS.
+Review Issue
+Pivotal or supportive
+evidence of effectiveness
+
+General dosing instructions
+
+Dosing in patient subgroups
+(intrinsic and extrinsic
+factors)
+
+Labeling
+Bridge between the to-be­
+marketed and clinical trial
+formulations
+
+Recommendations and Comments
+Two pivotal Phase 3 studies support the efficacy of BYFAVO.
+Study CNS7056-006 is a Phase III, double-blind, placebo and midazolam­
+controlled trial assessing efficacy and safety of initial bolus dose and
+subsequent top-ups RMZ for procedural sedation. The total number of
+subjects in this study were 458 undergoing colonoscopy.
+Study CNS7056-008 is a Phase III, randomized, double-blind, placebo
+and midazolam-controlled trial assessing efficacy and safety of initial
+bolus dose and subsequent top-ups RMZ for procedural sedation. The
+total number of subjects in this study were 431 undergoing
+bronchoscopy.
+The following are the dosage and administration recommendations for
+Byfavo.
+҅ !Ҁ ѧҀѧҤѧЌѹ Ф҇ҚШ ҇в ҖШѿѧѿЌӖ҇ѹЌѿ ЌФѿѧҀѧҚҤШҖШФ ѧҀҤҖЌӊШҀ҇ҿҚѹӑ ҈Οѽ҉ ЌҚ Ќ ӻ
+mg (2 mL) push injection over a 1-minute time period
+҅ !Қ ҀШШФШФџ ҚҿғғѹШѿШҀҤЌѹ Ф҇ҚШҚ ҇в ӸѢӻ ѿњ ҈ӷ ѿш҉ of remimazolam may
+be administered IV over a 15-seconds
+҅ !Ҥ ѹШЌҚҤ Ӹ ѿѧҀҿҤШҚ ѿҿҚҤ ѤЌӊШ ШѹЌғҚШФ ғҖѧ҇Җ Ҥ҇ ҤѤШ ЌФѿѧҀѧҚҤҖЌҤѧ҇Ҁ ҇в ЌҀӑ
+supplemental dose
+Renal Impairment: No dosing adjustment needed
+Hepatic Impairment: Depending on the overall status of the patient,
+lower frequency of supplemental doses may be needed to achieve the
+level of sedation required for the procedure. All patients should be
+monitored for sedation-related cardiorespiratory complications.
+BYFAVO is indicated for the induction and maintenance of procedural
+sedation in adults undergoing procedures lasting 30 minutes or less.
+All pivotal studies submitted in this NDA were performed using the final
+to be marketed formulation.
+
+1.2 Post-Marketing Requirements and Commitments
+None
+4
+
+Reference ID: 4564702
+
+2. SUMMARY OF CLINICAL PHARMACOLOGY ASSESSMENT
+2.1 Pharmacology and Clinical Pharmacokinetics
+Conventus Biomedical Solutions, Inc. as the authorized representative and U.S. Agent for Cosmo
+Technologies, Ltd. (Cosmo), of Dublin, submitted a 505(b)(1) NDA 212295 to support use of BYFAVO
+(remimazolam) for injection. BYFAVO (Remimazolam, also referred to as CNS7056 in the PAION
+development program and ONO-2745 in the previous Japanese development program) is a new ultra­
+short-acting benzodiazepine that is intended for intravenous (IV) repeat bolus administration for the
+induction and maintenance of procedural sedation in adults. Remimazolam was originally developed as
+an improved version of midazolam, building on the experience gained with the short-acting opiate ester,
+remifentanil. Conventus conducted several in vitro and in vivo studies to support the clinical
+pharmacology program based on recommendations provided during drug development for NDA 212295,
+under the IND 102486.
+The clinical pharmacology package summarizes data from 11 completed Phase 1 clinical studies
+submitted with the original NDA. This includes 9 PK, PK/PD and cardiac function studies in healthy
+volunteers, 1 study in subjects with renal impairment (CNS7056-012), 1 study in subject with hepatic
+impairment (ONO-2745IVU007), and an abuse liability study in otherwise healthy recreational CNS
+depressant users (CNS7056-014, reviewed in detail by Control Substance Staff). The Pharmacokinetic
+studies included single ascending-dose (SAD) study (CNS7056-001); multiple ascending-dose (MAD)
+study (CNS7056-002); 1 IV infusion study (CNS7056-017); 2 SAD and IV infusion studies in Japanese
+subjects (ONO-2745-01 and ONO-2745-02); 1 oral bioavailability and 1 intranasal bioavailability study
+(CNS7056-016 and CNS7056-019 respectively); 2 studies to evaluate QT prolongation potential of
+remimazolam (CNS7056-017, the IV infusion study and CNS7056-005); 1 study to measure the effect of
+ethanol on orally administered remimazolam PK/PD (Study CNS7056-020). The NDA package also
+contained 11 Phase 2 and 3 studies, only 5 of which were in procedural sedation and two of which were
+pivotal Phase 3 studies (CNS7056-006 and CNS7056-008). Other supportive studies for procedural
+sedation were Phase 3 Study CNS7056-015, which was primarily a safety study and Phase 2 studies
+CNS7056-004 (with fentanyl) and CNS7056-003 (without fentanyl). As noted above, 6 clinical studies
+have also been performed, to evaluate IV remimazolam as an agent for general surgical anesthesia or
+ICU sedation. In those studies, remimazolam was administered as a continuous infusion. A population PK
+(PopPK) analysis was conducted on pooled data from 11 studies and submitted to the NDA. The goal of
+the analysis was to evaluate the effect of age, sex, race, American Society of Anesthesiologists (ASA)
+class, BMI, eGFR, and creatinine clearance (CrCL) on CL; the effect of concomitant medications that
+inhibit carboxylesterase 1 (CES-1) on CL; the effects of age, sex, race, ASA class and BMI on Vss. This
+review will focus on the 11 PK/PD studies, the PopPK analysis.
+All the clinical pharmacology claims the sponsor has submitted and will be populated within the label
+are being derived from the Phase-I and II studies conducted by the sponsor. The efficacy and safety
+information are being derived from the pivotal Phase-III studies.
+The key clinical pharmacology findings are:
+
+5
+
+Reference ID: 4564702
+
+When remimazolam is administered intravenously from 0.01 to 0.5 mg/kg, total exposure (AUC0-∞҉
+suggested a close dose-proportional relationship. Volume of distribution (Vz) was 0.76 to 0.98 L/kg.
+Plasma protein binding was >91%, primarily to human serum albumin. Remimazolam has a terminal
+elimination half-life of 37 to 53 minutes and the mean distribution half-life is between 0.5 and 2
+minutes.
+The main route of metabolism of remimazolam is via conversion to primary inactive metabolite
+CNS7054, which is then subject to hydroxylation and glucuronidation. Conversion to CNS7054 is
+mediated by tissue carboxylesterases with no meaningful contribution by cytochrome P450 enzymes.
+The t1/2 of this metabolite was 2.4 to 3.8 hours. A very small fraction of remimazolam is excreted
+unchanged in urine, and 50% to 60% of the dose is excreted in urine as the metabolite CNS7054.
+Remimazolam and the metabolite CNS7054 caused no clinically relevant inhibition of cytochrome P450
+isoenzymes 1A2, 2B6, 2C8, 2C9, 2C19, 2D6, or 3A4. There were no inducing effects on CYP1A2, 2B6, and
+3A4. No relevant inhibition of human drug transporters (OAT3, OCT2, OATP1B1, OATP1B3, OAT1, BCRP)
+was seen with remimazolam or CNS 7054. Remimazolam was not a relevant substrate of a panel of
+human drug transporters (OATP1B1, OATP1B3, BCRP). These results together show a very low potential
+for pharmacokinetic drug interactions.
+In a thorough QT study, the largest mean placebo-adjusted change-from-baseline QTc (upper bound of
+2-sided 90% confidence interval) was 6.7 (9.5) ms and 10.7 (13.4) ms, respectively, after treatment with
+10 mg or 20 mg IV remimazolam. Remimazolam treatment is associated with increases in heart rate. The
+largest mean placebo-adjusted change-from-baseline HR (upper bound of 2-sided 90% CI) was 12.3
+(14.2) bpm and 15.2 (17.1) bpm, respectively, after treatment with 10 mg and 20 mg remimazolam.
+
+2.2 Dosing and Therapeutic Individualization
+2.2.1 General dosing
+The following are the dosage and administration recommendations for Byfavo.
+•
+•
+•
+
+An initial dose of remimazolam administered intravenously (IV) as a 5 mg (2 mL) push injection
+over a 1-minute time period.
+As needed, supplemental doses of 2.5 mg (1 mL) of remimazolam may be administered IV over a
+15-seconds.
+At least 2 minutes must have elapsed prior to the administration of any supplemental dose
+
+2.2.2 Therapeutic individualization
+The pharmacokinetics of remimazolam were not altered in patients with mild to end stage renal disease
+not requiring dialysis. In a dedicated renal impairment study, remimazolam PK parameters (e.g. AUC and
+Cmax) were not significantly different in subjects with varying degrees of renal function (from normal to
+severely impaired). Increased exposure to an inactive metabolite CNS7054 was observed with increasing
+6
+
+Reference ID: 4564702
+
+degree of renal impairment. No Therapeutic individualization is needed in patients with renal
+impairment for remimazolam.
+The Cmax values of total remimazolam were slightly lower in subjects with hepatic impairment than in
+healthy subjects. Prolonged t1/2 of remimazolam were observed with increasing severity of hepatic
+impairment. The t1/2 of remimazolam in healthy subjects and subjects with moderate and severe hepatic
+impairment are 42.9, 59.2 and 105 minutes, respectively. Sedation lasted longer and recovery took
+longer for subjects with hepatic impairment compared to healthy subjects. Since the Cmax was not
+altered in a clinically meaningful way in hepatic impairment reducing the dose may lead to decreased
+Cmax and hence decrease in efficacy, especially in terms of onset of action. Thus, dose reduction for
+hepatically impaired subjects is not suggested. Since the product is titrated to dose and subsequent topup doses are administered in practice as needed, clinicians would be advised that a lower frequency of
+top-ups may be needed in patients with impaired liver function. For the suggested labeling language
+refer to section 2.4 of this review.
+Based on population PK analysis, age, gender, race, and weight had no clinically relevant effect on
+remimazolam pharmacokinetics.
+
+2.3 Outstanding Issues
+Currently there are no outstanding issues from a clinical pharmacology perspective. The Labeling issues
+regarding QT prolongation and hepatic impairment were communicated to the sponsor in the Mid-Cycle
+communication and the labeling language is yet to be negotiated at the time of finalizing of this review.
+
+2.4 Summary of Labeling Recommendations
+The following labeling comments are proposed by this reviewer. Deletion is shown by Strike through
+text and addition is shown by underline text.
+Reviewer Comments:
+8.5 Geriatric Use
+Of the total number of subjects treated with TRADENAME in clinical studies for procedural sedation,
+there were 649 subjects <65 years of age, 221 subjects >65 years of age, 171 subjects between 65-74
+years of age and 50 subjects >75 years of age.
+No overall differences in safety or effectiveness were observed between these subjects and younger
+subjects, and other reported clinical experience has not identified differences in responses between the
+elderly and younger patients, (b)
+greater sensitivity (a faster onset of loss of consciousness and a longer
+(4)
+(b) (4)
+duration of sedation) of some older individuals
+Supplemental doses of TRADENAME should be administered slowly to achieve the level of sedation
+(b) (4) cardiorespiratory
+required for the procedure, and all patients should be monitored for
+complications.
+8.6 Hepatic Impairment
+7
+
+Reference ID: 4564702
+
+In patients with severe hepatic impairment, the dose of TRADENAME should be carefully titrated to
+effect. Depending on the overall status of the patient, lower frequency of supplemental doses may be
+needed to achieve the level of sedation required for the procedure. All patients should be monitored for
+sedation-related cardiorespiratory complications. [see Clinical Pharmacology (12.3)].
+12.2 Pharmacodynamics
+(b) (4)
+Dose finding studies
+the IV dosing recommendation of the initial 5 mg bolus, followed by 2.5 mg
+(b) (4)
+top-up doses. Median time to peak sedation in the following Phase 3 trials was 3.0 Ѿ 3.5 minutes
+median time to Fully Alert following the last dose of TRADENAME of 11.0 Ѿ 14.0 minutes.
+Cardiac Electrophysiology Effects on Electrocardiogram
+(b) (4)
+
+In a thorough QT study
+57 healthy volunteers were given an iv push of 10 mg or 20 mg
+TRADENAME, intravenous midazolam (2.5 mg or 7.5 mg) or placebo, or a single tablet of moxifloxacin
+(b) (4)
+400 mg given orally.
+The largest mean placeboadjusted change-from-baseline QTc (upper bound of 2-sided 90% confidence interval) was 6.7 (9.5) ms,
+10.7 (13.4) ms, 4.5 (7.3) ms, and 8.1 (10.8) ms, respectively, after treatment with 10 mg or 20 mg
+TRADENAME, or 2.5 mg or 7.5 mg midazolam.
+TRADENAME treatment is associated with increases in heart rate. The largest mean placebo-adjusted
+change-from-baseline HR (upper bound of 2-sided 90% CI) was 12.3 (14.2) bpm and 15.2 (17.1) bpm,
+respectively, after treatment with 10 mg and 20 mg TRADENAME.
+(b) (4)
+
+8
+
+Reference ID: 4564702
+
+(b) (4)
+
+12.3 Pharmacokinetics
+Absorption
+TRADENAME is administered intravenously. TRADENAME overall maximum plasma concentration
+(Cmax) after i.v. administration of 0.01 to 0.5 mg/kg was 189 to 6,960 ng/ml, and overall area under the
+concentration versus time curve from time 0 to infinity (AUC0-∞҉ ӋЌҚ ӷӸѢӷ Ҥ҇ ӺӻӸ Ҁњ҆ѤѶѿѹѠ ѮѤ!DEя!юE
+cumulative dose versus TRADENAME total exposure (AUC0-∞҉ ҚҿњњШҚҤШФ Ќ Кѹ҇ҚШ Ҥ҇ Ф҇ҚШ-proportional
+relationship. Metabolite Cmax was achieved approximately 20-30 minutes post dose. Metabolite AUC0­
+∞ ӋЌҚ Ӹӹӷ Ҥ҇ ӽџӶӿӶ Ҁњ҆ѤѶѿl.
+Metabolism
+The main route of metabolism of TRADENAME is via conversion to primary inactive metabolite CNS7054,
+which is then subject to hydroxylation and glucuronidation. Conversion to CNS7054 is mediated by
+tissue carboxylesterases (primarily type 1A), with no meaningful contribution by cytochrome P450
+enzymes. The t1/2 of the metabolite was 2.4 to 3.8 hours.
+Special Populations
+Hepatic Impairment: A Phase I open label, single dose trial evaluated the PK and safety of TRADENAME
+given as an i.v. bolus of 0.1 mg/kg over one minute in subjects with hepatic impairment (8 moderately
+hepatically impaired subjects and 3 severely hepatically-impaired subjects) and 9 matched healthy
+subjects.
+(b) (4)
+The Cmax values of total TRADENAME were
+in subjects with hepatic impairment than in
+healthy subjects. Larger Vz and Vss, and prolonged t1/2, of TRADENAME were observed with increasing
+severity of hepatic impairment. Sedation lasted longer and recovery took longer for subjects with
+hepatic impairment compared to healthy subjects.
+In patients with severe hepatic impairment, the dose of TRADENAME should be carefully titrated to
+(b) (4)
+effect. Depending on the overall status of the patient,
+less frequency of supplemental doses may be
+(b) (4) . All patients should be
+needed to achieve the level of sedation required for the procedure,
+monitored for sedation-related cardiorespiratory complications.
+
+9
+
+Reference ID: 4564702
+
+Renal Impairment: The pharmacokinetics of TRADENAME were not altered in patients with mild to end
+(b) (4)
+(b) (4)
+stage renal disease not requiring dialysis. In a
+renal impairment study
+(b) (4)
+TRADENAME PK parameters (e.g. AUC and Cmax) were not
+different in subjects with varying
+(b) (4)
+degrees of renal function (from normal to severely impaired).
+Increased exposure to (b) (4)
+inactive metabolite CNS7054 was observed with increasing degree of renal impairment.
+Drug-drug Interactions:
+TRADENAME and the metabolite CNS 7054 caused no relevant inhibition of cytochrome P450
+isoenzymes 1A2, 2B6, 2C8, 2C9, 2C19, 2D6, or 3A4. There were no inducing effects on CYP1A2, 2B6, and
+3A4. TRADENAME was not a relevant substrate of a panel of human drug transporters (OATP1B1,
+OATP1B3, BCRP).
+No relevant inhibition of human drug transporters (OAT3, OCT2, OATP1B1, OATP1B3, OAT1, BCRP) was
+seen with TRADENAME or CNS 7054. Remifentanil did not influence the hydrolysis of TRADENAME by
+(b) (4)
+human liver S9 fractions,
+the possibility of an interaction by competition for liver
+carboxylesterases.
+These results together show a very low potential of TRADENAME for pharmacokinetic drug interactions.
+
+10
+
+Reference ID: 4564702
+
+3. COMPREHENSIVE CLINICAL PHARMACOLOGY REVIEW
+3.1 Overview of the Product and Regulatory Background
+(b) (4)
+
+Table 2: Physical-Chemical Properties of
+Proprietary Name of Drug
+҄F!ѽѕ ҫ
+Product:
+Non-proprietary Name of
+Drug Product:
+
+Remimazolam for Injection
+
+Non-proprietary Name of
+Drug Substance:
+
+Remimazolam
+
+Strengths:
+
+12-ml vial containing (4)mg of remimazolam besylate; when
+reconstituted with 8.2 mL of sterile saline solution, the
+concentration obtained is 2.5 mg/mL of remimazolam (as free
+base)
+
+Chemical Name
+
+4H-imidazol[1,2-a][1,4]benzodiazepine-4-propionic acid, 8-bromo-1­
+methyl-6-(2-pyridinyl)-(4S)-methyl ester, benzenesulfonate (1:1)
+
+(b)
+
+Structure
+
+Formulation:
+The proposed Remimazolam for Injection 20 mg drug product is a sterile, white to off-white lyophilized
+(b) (4)
+(b) (4)
+powder filled in single-use clear, 12 mL
+glass vials fitted with
+rubber stoppers and
+(b) (4)
+capped with aluminum seals with
+flip-off caps. The vial contains (b)
+(4)mg of remimazolam
+besylate, which when reconstituted with 8.2 mL of sterile saline solution, the concentration obtained is
+2.5 mg/mL of remimazolam (as free base)
+Table 3: Composition of Remimazolam for Injection 20 mg
+USP = United States Pharmacopeia 1. Contains (b) (4)overage; 2.
+
+11
+
+Reference ID: 4564702
+
+(b) (4)
+
+(b) (4)
+
+(b) (4)
+
+(b) (4)
+
+(b) (4)
+(b)
+(4)
+(b) (4)
+
+(b) (4)
+
+3.1.1 Key Studies Submitted in NDA
+Clinical Pharmacology Studies:
+The core clinical development program includes 11 phase 1 studies (described in Table 4) and 11 Phase 2
+and 3 studies. The PK/PD studies included single ascending-dose (SAD) study (CNS7056-001); multiple
+ascending-dose (MAD) study (CNS7056-002); 1 IV infusion study (CNS7056-017); 2 SAD and IV infusion
+studies in Japanese subjects (ONO-2745-01 and ONO-2745-02 respectively); 1 oral bioavailability and 1
+intranasal bioavailability study (CNS7056-016 and CNS7056-019); 2 studies to evaluate QT prolongation
+potential of remimazolam (CNS7056-017: the IV infusion study and CNS7056-005); 1 study to measure
+the effect of ethanol or orally administered remimazolam PK/PD (Study CNS7056-020) 1 study in
+subjects with renal (CNS7056-012) and 1 study in subject with hepatic impairment (ONO-2745IVU007)
+and an abuse liability study in otherwise healthy recreational CNS depressant users (CNS7056-014).
+Table 4: Summary of Clinical Pharmacology Studies of Remimazolam Submitted to NDA 212295
+
+Study No.
+
+Population
+
+Total
+number
+of
+subjects
+
+Number of
+Subjects
+Randomized
+to BYFAVO
+
+CNS7056­
+001
+
+Healthy
+adult
+volunteers
+
+81
+
+54
+
+ONO-2745­
+01
+
+Healthy
+(young adult
+and elderly)
+volunteers
+
+42
+
+35
+
+Double-blind, placebo­
+& midazolam­
+controlled study
+assessing PK, PD &
+safety of single
+ascending dose of
+RMZ
+Double-blind, parallel
+group study assessing
+PK, PD, safety &
+tolerability of single
+ascending dose of
+RMZ
+
+12
+
+Reference ID: 4564702
+
+Brief Description
+
+Route and
+Doses
+
+Site
+
+0.01 to 0.30
+mg/kg IV
+
+USA
+
+0.05 to 0.5
+mg/kg IV
+
+Japan
+
+Healthy
+adult male
+volunteers
+
+10
+
+8
+
+Healthy &
+chronic
+ONO­
+hepatic
+2745IVU007
+impairment
+subjects
+
+20
+
+20
+
+ONO-2745­
+02
+
+CNS7056­
+012
+
+CNS7056­
+002
+
+Subjects
+with normal
+renal
+function &
+with ESRD
+not
+requiring
+dialysis
+Healthy
+adult
+volunteers
+
+23
+
+51
+
+Double-blind, placebocontrolled, parallel
+group study assessing
+PK, PD, safety &
+tolerability of a single
+continuous IV infusion
+of RMZ
+Open-label study
+assessing PK, PD &
+safety of single IV dose
+RMZ in healthy
+subjects vs those with
+chronic hepatic
+impairment
+
+1 mg/kg/hr
+IV
+
+Japan
+
+0.1 mg/kg IV
+
+USA
+
+23
+
+Open-label study
+assessing PK and
+safety in subjects with
+ESRD not requiring
+dialysis vs those with
+normal renal function
+
+1.5 mg IV
+
+Hungary
+
+51
+
+Part A Ѿ flumazenil
+reversal Part B Ѿ
+multiple ascending
+dose in healthy
+volunteers undergoing
+colonoscopy
+
+Part A: 0.25
+Part B: 0.04
+to 0.10
+mg/kg
+
+USA
+
+CNS7056­
+017
+
+Healthy
+adult
+volunteers
+
+20
+
+20
+
+PK, PD modelling of
+hypnotic effect and
+impact on corrected
+QT interval
+
+CNS7056­
+016
+
+Healthy
+adult
+volunteers
+
+14
+
+14
+
+Oral bioavailability of
+single dose RMZ
+
+12
+
+Safety, PK, PD and
+bioavailability of
+intranasal powder &
+solution RMZ
+compared to IV
+control
+
+CNS7056­
+019
+
+Healthy
+adult
+volunteers
+
+12
+
+13
+
+Reference ID: 4564702
+
+5 mg/min (5
+min) 3
+mg/min (15
+min) 1
+mg/min (15
+min) Stop at
+35 min
+(Total=85
+mg)
+0.14 mg/kg
+oral; 0.025
+mg/kg IV
+4 mg IV, 10,
+20 and 40
+mg
+intranasal
+powder 10,
+20 and 40
+mg
+
+Germany
+
+USA
+
+USA
+
+intranasal
+solution
+
+CNS7056­
+005
+
+Healthy
+adult
+volunteers
+
+57
+
+57
+
+CNS7056­
+014
+
+Recreational
+depressant
+users
+
+83
+
+40
+
+CNS7056­
+020
+
+Healthy
+female
+volunteers
+
+32
+
+Double-blind, placebo
+and midazolam
+controlled, cross-over
+study assessing effect
+of single-doses IV RMZ
+on QTc intervals
+Double-blind, placebo
+and midazolam
+controlled cross-over
+study assessing abuse
+potential of RMZ
+A study assessing PK,
+PD, safety and
+tolerability after oral
+RMZ administration
+with ethanol
+
+32
+
+10.0 and
+20.0 mg IV
+
+USA
+
+5.0 and 10.0
+mg IV
+
+USA
+
+Part1: 60,
+140, 240,
+360 and 480
+mg orally,
+Part 2: 360
+mg plus 5%,
+15% and
+40% EtOH
+
+USA
+
+Clinical Studies:
+The NDA package also contained 11 Phase 2 and 3 studies, only 5 of which were in procedural sedation
+and two of which were pivotal Phase 3 studies.
+Phase 3 Study (with commercial scale formulation):
+
+•
+•
+
+Study CNS7056-006 Phase III, Double-blind, placebo and midazolam-controlled trial Assessing
+efficacy and safety of initial bolus dose and subsequent top-ups RMZ for procedural sedation.
+The total number of subjects in this study were 458 undergoing Colonoscopy.
+Study CNS7056-008 Phase III, Randomized, Double-blind, placebo and midazolam-controlled
+trial Assessing efficacy and safety of initial bolus dose and subsequent top-ups RMZ for
+procedural sedation. The total number of subjects in this study were 431 Undergoing
+Bronchoscopy.
+
+3.1.2 Regulatory Background
+Remimazolam is a new molecular entity (NME) and no remimazolam products have been previously
+approved by the FDA.
+During the midcycle communication T-con held with the sponsor on Nov 22nd, 2019, the sponsor was
+(b) (4)
+ѧҀв҇ҖѿШФ ҤѤЌҤ
+
+14
+
+Reference ID: 4564702
+
+(b) (4)
+
+. We intend to include a description of the drug effect on HR and QTcF from the TQT
+study, CNS7056-005, in labeling, if the drug is approved. The final labeling language is still being
+ФѧҚКҿҚҚШФ ЌҀФ ѤЌҚ Ҁ҇Ҥ ЙШШҀ вѧҀЌѹѧӖШФѢѩ ѮѤШ Ѩғ҇ҀҚ҇Җ ҚҤЌҤШФ ҤѤЌҤ ҤѤШӑ ѧҀҤШҀФ Ҥ҇ ғҖ҇ӊѧФШ ӋҖѧҤҤШҀ
+(b) (4)
+explanation
+th
+. The written response was received on Dec 19 and was reviewed by the QT-IRT
+(b) (4) Ѣ ѮѤШ ФШҤЌѧѹҚ ҇в ҤѤШ ΟѤ ҖШҚғ҇ҀҚШ ЌҀФ ѣѮ-IRTs
+recommendations are presented later in the review.
+In the same meeting the sponsor was also informed regarding the hepatic impairment labeling that
+Ѩ!ѹҤѤ҇ҿњѤ ӋШ Ф҇ ЌњҖШШ ӋѧҤѤ ҤѤШ ҇ЙҚШҖӊШФ ѧҀКҖШЌҚШ ѧҀ ШӐғ҇ҚҿҖШ ҈!Ѳ҉ ЌҀФ Шѹ҇ҀњЌҤШФ ѤЌѹв-life for
+(b) (4)
+remimazolam in subjects with severe hepatic impairment,
+. We
+(b) (4)
+may recommend additional monitoring in the label
+ѮѤШ вѧҀЌѹ ѹЌЙШѹѧҀњ ѹЌҀњҿЌњШ ѧҚ ҚҤѧѹѹ ЙШѧҀњ ФѧҚКҿҚҚШФ ЌҀФ ѤЌҚ Ҁ҇Ҥ ЙШШҀ вѧҀЌѹѧӖШФѢѩ Ѯ҇ ӋѤѧКѤ ҤѤШ Қғ҇ҀҚ҇Җ
+(b) (4)
+acknowledged our comments and they clarified
+This point is
+considered during internal labeling deliberations.
+
+For this NDA, a Pre-NDA meeting was held on July 12th, 2018. A Type-C guidance meeting was held on
+11-16-2017 and two End of Phase 2 (SOP-2) meetings were held on 10/17/2013 & 08/14/2014
+respectively under IND 102486. All pivotal phase 3 safety and efficacy studies conducted and submitted
+in this NDA were performed using the TBM formulation.
+
+3.2 General Pharmacology and Pharmacokinetic Characteristics
+BYFAVO (Remimazolam) is a fast-acting, ultra-short-duration sedative intended for the induction and
+maintenance of procedural sedation. It is a chirally pure molecule (S enantiomer) and is isolated as the
+besylate salt. Remimazolam is a benzodiazepine that was originally developed to have equivalent
+sedative effects to agents such as midazolam but was designed as an ester-based drug to be rapidly
+hydrolyzed in the body to an inactive metabolite and, consequently, to have a shorter and more
+predictable duration of action than current agents. Remimazolam binds to brain benzodiazepine sites
+(gamma amino butyric acid type A [GABAA] receptors) with high affinity, while its carboxylic acid
+metabolite (CNS7054, primary non-active metabolite) has a 300 times lower affinity for the receptor. No
+evidence of off-target activities of Remimazolam or its metabolite have been observed. Remimazolam
+enhanced GABA currents in cells stably transfected with subtypes of the GABAA receptor.
+Remimazolam, like other benzodiazepines in clinical use, does not show clear selectivity between
+subtypes of the GABAA receptor. Confirmation of an effect on central GABAA receptors was revealed by
+a dose-dependent inhibition of substantia nigra pars reticulata neuronal firing, with a rapid recovery to
+baseline firing rates.
+
+15
+
+Reference ID: 4564702
+
+The proposed remimazolam product is indicated for the induction and maintenance of procedural
+sedation in adults. The clinical efficacy studies, CNS7056-006 and CNS7056-008 in subjects undergoing
+procedural sedation involving colonoscopy and bronchoscopy respectively along with three other
+supportive studies for procedural sedation and the eleven clinical pharmacology studies described in
+section 3.3.3 and section 4.2 form the basis to support the dosing for this NDA along with some
+information being derived from population PK analysis conducted by the sponsor.
+For final assessment of the safety and efficacy findings, see Clinical review by Dr. Renee Petit-Scott
+(Clinical Reviewer). For detailed information on the Population PK analysis conducted by the sponsor,
+refer to the pharmacometrics review conducted by Dr. Tao Liu and Dr. Atul Bhattaram in the Appendix
+section of this review.
+Summary of Population PK
+Multiple population PK and population PK/PD modelling analyses were performed during the
+remimazolam development program for both bolus dosing (for procedural sedation) and continuous
+infusion dosing (for general anesthesia). Initially, PK models utilized a physiologic recirculation model
+(W-06-13, W-03-09, W-03-10). These models assumed that a significant portion of the metabolism
+occurred in the lung. Later in vitro data suggested that the rate of metabolism in the lung is much slower
+than the liver (AE-7176-G) therefore, these models are not relevant for predicting exposure of
+remimazolam. Several early pop PK models showed that covariates such as race, body weight, and body
+mass index (BMI) are not important predictors of the variability in the PK of remimazolam (W-09-14,
+WM-06-11, W-03-10). This observation led to the decision to use fixed-dose (mg) rather than weightadjusted (mg/kg) bolus dosing for subsequent clinical studies procedural sedation.
+Many of the other PK models reported were conducted to either describe simplistic models from data in
+individual studies (WM-06-11, Y12CA009) or to evaluate potential mechanisms of the high
+concentrations seen in patients in the intensive care unit (ICU) receiving continuous infusions of
+remimazolam (Y14CA003, W-09-14W-04-14A, W-04-14b). After completion of the Phase 3 studies in
+procedural sedation, data from 11 clinical trials were pooled for more comprehensive popPK analyses.
+Pop PK modeling included all subjects who received an active remimazolam dose with available dosing
+information and remimazolam plasma levels before administration of flumazenil: 126 healthy subjects,
+193 patients undergoing procedural sedation, and 40 patients undergoing induction and maintenance of
+anesthesia for surgery; 359 subjects total. The goal was to evaluate the effect of age, sex, race, American
+Society of Anesthesiologists (ASA) class, body mass index (BMI), estimated glomerular filtration rate
+(eGFR), and creatinine clearance (CrCL) on CL; the effect of concomitant medications that inhibit
+carboxylesterase 1 (CES-1) on CL; the effects of age, sex, race, ASA class and BMI on volume of
+distribution at steady-state (Vss).
+The final population PK model was a 3-compartment model with a CL of 1.18 L/min and a Vss of 41.5 L in
+a 70 kg subject. Analyses indicated that:
+• CL was 9.7% higher in females than males.
+• CL was 13.0% lower in African Americans than in Caucasians or Asians. The Vss was 16% lower in
+African Americans than in Caucasians or Asians.
+16
+
+Reference ID: 4564702
+
+•
+
+Other parameters assessed, such as age, ASA class, BMI, eGFR, and creatinine clearance had no
+effect on the PK of remimazolam.
+
+General PK Characteristics:
+Absorption:
+BYFAVO is being developed for IV administration but oral administration of remimazolam was evaluated
+in Study CNS7056-016 where 14 subjects received a single dose of remimazolam (0.14 mg/kg orally and
+0.025 mg/kg IV) under fasting conditions, with 48-hour washout period between each dose. Mean peak
+(Cmax) and total (AUC0-t) remimazolam systemic exposure were considerably lower after oral treatment
+than after IV treatment. The absolute bioavailability of oral remimazolam was 1.2% based on dosenormalized Cmax (90% CI: 0.008 - 0.017) and 2.2% based on dose-normalized AUC0-t (90% CI: 0.015 ­
+0.032). The median tmax of the metabolite, CNS7054, was 0.5 hours for both treatments, indicating that
+remimazolam was rapidly metabolized to CNS7054.
+Table 5: Statistical Analysis of Relative Bioavailability of Oral and Intravenous Formulations of
+Remimazolam
+LS Mean Ratio
+Geometric LS Mean
+PK Parameter
+(Test/Reference)
+Analyte
+(Units)
+Oral
+IV
+Estimate
+90% CI
+Remimazolam
+
+CNS 7054
+
+Cmax (ng/mL)
+
+4.29
+
+65.19
+
+0.66
+
+(0.044, 0.098)
+
+AUC0-T (ng·h/mL)
+
+2.46
+
+19.91
+
+0.123
+
+(0.084, 0.182)
+
+Cmax (ng/mL)
+
+829.91
+
+115.55
+
+7.182
+
+(6.626, 7.785)
+
+AUC0-T (ng·h/mL)
+
+1881.59
+
+292.46
+
+6.343
+
+(5.775, 7.167)
+
+Based on dose-normalized parameters, Cmax and AUC0-t for the metabolite, CNS7054, were respectively
+1.3 and 1.2-fold higher after oral treatment than after IV administration. For both oral and IV treatment,
+mean peak (Cmax) and total (AUC0-t and AUCinf) systemic exposure to metabolite CNS7054 was
+considerably higher than exposure to the parent compound. The mean t½ of CNS7054 was 1.9 hours
+after IV treatment and 2.5 hours after oral treatment
+Distribution:
+Following a single bolus dose of remimazolam, the volume of distribution (Vz) was 0.76 to 0.98 L/kg. In
+study CNS7056-002, when remimazolam was administered as a bolus IV loading dose (0.04-0.1 mg/kg)
+followed by supplemental doses to maintain sedation during colonoscopy (CNS7056-002), the mean
+volume of distribution (Vss) for remimazolam ranged from 52-71 L (Table 17).
+ΟҀ ӊѧҤҖ҇ ҚҤҿФѧШҚ ѧҀФѧКЌҤШ ҤѤЌҤ ЌҤ К҇ҀКШҀҤҖЌҤѧ҇ҀҚ ҖЌҀњѧҀњ вҖ҇ѿ ӷ Ҥ҇ ӷӶ ҏњѶѿшџ ҤѤШ ФѧҚҤҖѧЙҿҤѧ҇Ҁ ҇в
+remimazolam in blood cells in humans ranged from 7.5 to 11.7% (Study report AE-7175-G). Protein
+17
+
+Reference ID: 4564702
+
+binding of 14C-labeled remimazolam was found to be >91% at concentrations ranging from 1-ӷӶ ҏњѶѿш
+in human serum, primarily to human serum albumin (Study Report AE-6097-G). It was not affected by
+the addition of clinically relevant concentrations of various concomitant drugs such as propofol,
+isoflurane, sevoflurane, thiamylal, remifentanil, rocuronium, or succinylcholine (Study Report AE-6503­
+G). Thus, drug-drug interaction via displacement of protein binding by concomitant drugs in clinical
+practice is considered negligible.
+Metabolism:
+When administered IV, remimazolam is metabolized by tissue carboxylesterase (CES) (primarily type 1A)
+which produce a primary inactive metabolite (CNS7054) along with six others that make up less than
+0.5% each of the balance of metabolism products in plasma or urine. A study on structures of
+metabolites in human plasma and urine (Y10AE019) was conducted and complementary information on
+plasma metabolites is available from a publication on a different remimazolam product authored by
+Zhou et al. in 2017. The metabolites and proposed metabolic pathways for remimazolam are provided in
+Figure 1. It is evident that experimental animals and humans share the principal metabolite, CNS7054,
+and all metabolites found in the circulation, though CNS7054 is the primary and only relevant
+metabolite of remimazolam. No clear metabolite peak apart from that of CNS7054 was observed,
+irrespective of cell concentrations and incubation times in either human studies in cryopreserved
+hepatocytes or studies in human plasma. Appearance of these further metabolites in human urine due
+their greater hydrophilicity and rapid renal excretion is predictable.
+Figure 1: Proposed Metabolic Pathways of Byfavo.
+(b) (4)
+
+18
+
+Reference ID: 4564702
+
+Excretion:
+Remimazolam is metabolized quickly in the liver and very little of the parent drug is recovered from
+plasma or urine following IV administration. In healthy subjects, at least 80% of the administered
+remimazolam is excreted as CNS7054. In subjects undergoing colonoscopy, after pretreatment with 2 L
+of resuspended HalfLytely and 2 tablets (5 mg) bisacodyl, approximately 50-60% of the administered
+dose is recovered as the main metabolite, CNS7054, in urine. Mean t1/2 following single IV doses of
+remimazolam ranged from 24-53 minutes. Remimazolam is rapidly cleared from plasma; clearance is
+high (61 - 78 L/h) and not related to body weight.
+Remimazolam T1/2 is not affected by renal impairment. The T1/2 was prolonged with increasing severity
+of hepatic impairment. For example, the T1/2 of unbound remimazolam in healthy subjects and subjects
+with moderate and severe hepatic impairment are 42.9, 59.2 and 105 minutes, respectively.
+Dose-proportionality of Remimazolam:
+Dose proportionality was analyzed in numerous single and multiple dose studies for remimazolam. In
+Study CNS7056-001, single bolus IV injections of remimazolam of 0.01, 0.025, 0.05, 0.075, 0.1, 0.15, 0.2,
+0.25, 0.3 mg/kg were administered (infused over 1 minute). Across this 30-fold increase in dose (0.01
+mg/kg to 0.30 mg/kg), Cmax increased by approximately 28-fold (50.83 to 1401.07 ng/mL), AUC0-t
+increased by approximately 28-fold (215.14 to 5956.76 ng*hr/mL), and AUC0-inf increased by
+approximately 37-fold (230.76 to 6338.59 hr*ng/mL). Distribution and clearance did not depend on
+dose; CL was 0.853 and 0.878 L/hr/kg at 0.01 and 0.30 mg/kg, respectively, and Vd was 0.757 and 0.894
+L/kg.
+Similar patterns were observed in other studies. For example, in Study ONO-2745-01, the Cmax and AUCinf
+increased in proportion to dose in the dose range of 0.05 to 0.5 mg/kg. The 95% confidence interval (CI)
+в҇Җ ҤѤШ Қѹ҇ғШ ҈Ѿ҉ ҇в ҤѤШ ҖШњҖШҚҚѧ҇Ҁ ѹѧҀШ ӋЌҚ ѧҀ ҤѤШ ҖЌҀњШ ҇в ӶѢӽӶ Ҥ҇ ӷѢӹӶѢ ѮѤШ ФѧввШҖШҀКШҚ ѧҀ Ѯ max and T1/2
+among the doses were not significant.
+
+3.3 Clinical Pharmacology Review Questions
+3.3.1 To what extent does the available clinical pharmacology information provide pivotal or
+supportive evidence of effectiveness?
+No biological biomarker was assessed in this NDA. In both the pivotal Phase 3 studies the primary
+efficacy endpoint was success of the procedure, defined as the completion of the colonoscopy
+procedure with no requirement for a rescue sedative medication and no requirement for more than 5
+doses of study medication (remimazolam or placebo) within any 15-minute window. For subjects
+randomized to midazolam only, the latter part of the definition was no requirement for more than 3
+doses of midazolam within any 12-minute window. This primary endpoint analysis was performed in the
+intent-to-treat (ITT) population, defined as all randomized subjects. Several secondary assessments were
+also performed in both studies. For multiple initial clinical pharmacology studies, PD endpoints included:
+
+19
+
+Reference ID: 4564702
+
+•
+•
+•
+•
+
+•
+•
+
+Sedation incidence rates: Incidence rates of the loss of consciousness (LoC) and loss of
+eyelid/corneal reflexes
+DѧҚҤҖѧЙҿҤѧ҇Ҁ ҇в ю҇ФѧвѧШФ ҇ЙҚШҖӊШҖѥҚ ЌҚҚШҚҚѿШҀҤ ҇в ЌѹШҖҤҀШҚҚ ЌҀФ ҚШФЌҤѧ҇Ҁ ҈юѕ!!ѶѨ҉ ҚК҇ҖШ ҇ӊШҖ
+time
+Time to LoC
+Time to loss and return of
+o response to acoustic stimulus.
+o eyelid reflex.
+o corneal reflex.
+Time to return to orientation relating to person, time and location
+Change in QTc and other ECG parameters over time
+
+Clinical Pharmacology information provided within the package supports dosing of BYFAVO with regards
+Ҥ҇ ғЌҤѧШҀҤҚѥ ЌњШ ҈ШѹФШҖѹӑ҉џ ҖШҀЌѹ ЌҀФ ѤШғЌҤѧК вҿҀКҤѧ҇Ҁџ ЌҚ ӋШѹѹ ЌҚ К҇-administration with other
+concomitant medications.
+3.3.2 Is the proposed dosing regimen appropriate for the general patient population for which
+the indication is being sought?
+An initial single intravenous dose over one minute of remimazolam 5.0 mg and maintenance doses of
+further top-up doses of remimazolam 2.5 mg (not earlier than two minutes apart after assessment of
+the sedative effect) appears to be efficacious in the pivotal clinical trials CNS7056-006 and CNS7056-008.
+For final assessment of the safety and efficacy findings, see Clinical review by Dr. Renee Petit-Scott
+(Clinical Reviewer). Population PK analysis showed that Age, gender, race, and weight had no clinically
+relevant effect on remimazolam pharmacokinetics
+3.3.3 Is an alternative dosing regimen and/or management strategy required for
+subpopulations based on intrinsic factors?
+The effect of intrinsic factors (i.e., age, gender, body weight and BMI) on the PK of remimazolam were
+studied in multiple individual studies. Additionally, several early popPK models showed that covariates
+such as race, body weight, and body mass index (BMI) are not important predictors of the variability in
+the PK of remimazolam (Study reports W-09-14, WM-06-11, W-03-10). This observation led to the
+decision to use fixed-dose (mg) rather than weight-adjusted (mg/kg) bolus dosing for subsequent clinical
+studies procedural sedation.
+After completion of the Phase 3 studies in procedural sedation, data from 11 clinical trials were pooled
+for more comprehensive popPK analyses: Studies ONO-2745-01, ONO-2745-02, ONO-2745-03, ONO­
+2745-IVU007, CNS7056-001, CNS7056-002, CNS7056-004, CNS7056-006, CNS7056-008, CNS7056-015,
+and CNS7056-017. (NPS2981-RPT001_01) with the goal to evaluate the effect of age, sex, race, American
+Society of Anesthesiologists (ASA) class, body mass index (BMI), estimated glomerular filtration rate
+(eGFR), and creatinine clearance (CrCL) on CL; the effect of concomitant medications that inhibit
+carboxylesterase 1 (CES-1) on CL; the effects of age, sex, race, ASA class and BMI on volume of
+distribution at steady-state (Vss).
+
+20
+
+Reference ID: 4564702
+
+Gender
+As noted, population PK modelling (Study Report NPS2147-RPT001) to support remimazolam bolus
+dosing for procedural sedation found that CL was 11% higher in females than males.
+In the time-to-event modelling analysis (Study Report N-12-15) evaluating the PK/PD of remimazolam
+administered as a continuous infusion for the induction and maintenance of general anesthesia, females
+required a slightly (5%) higher infusion rate to produce adequate sedation and had a slightly faster (~3-5
+min) time to extubation than males.
+In both cases, these effects are all small in magnitude and not considered clinically relevant.
+Age
+Phase 1 Study ONO-2745-01, conducted in Japan, evaluated the PK and PD of a single IV bolus dose of
+remimazolam 0.1 mg/kg (infused over 1 minute) in healthy young adult males (age 20-45 years) versus
+healthy elderly males (age 65-74 years). No difference in the PK of remimazolam between healthy young
+adult and elderly male subjects was observed. The PD effects between adult and elderly males was
+generally similar except that remimazolam 0.1 mg/kg induced deeper sedation in healthy elderly male
+subjects than in healthy adult male subjects, with the duration of loss of consciousness comparable to
+that in healthy adult male subjects at 0.3 mg/kg.
+These findings are consistent with the results of the two more extensive population PK/PD analyses
+which also showed no effect of age on remimazolam PK but found a small PD effect related to increased
+age (i.e., that elderly patients may have a faster onset of LoC and a longer duration of sedation than
+younger patients with infusion and bolus dosing, respectively) which appears to be not clinically
+relevant.
+Race
+PK Analysis (Y13CA010) evaluated the effect of race on remimazolam PK. This analysis included PK data
+from 30 Japanese and 54 non-Japanese subjects received single doses of remimazolam of 0.05, 0.1, 0.2
+and 0.3 mg/kg. Plasma remimazolam concentrations for Japanese subjects <65 years old were taken
+from Study ONO-2745-01 and plasma concentrations for non-Japanese subjects (18-54 years old) were
+taken from Study CNS7056-001. Cmax and AUCinf values were higher in the non-Japanese subjects than in
+the Japanese subjects, except for AUCinf at a dose of 0.1 mg/kg. However, based on the ranges of the PK
+parameter distribution and the changes in the plasma ONO-2745 concentrations in Japanese and NonJapanese subjects, the PK of Japanese and Non-Japanese subjects were generally considered to be
+similar.
+The final population PK model was a 3-compartment model with a CL of 1.18 L/min and a Vss of 41.5 L in
+a 70 kg subject. In this population PK analysis, CL of remimazolam was found to be 13.0% lower and the
+Vss was 16% lower - in African Americans than in Caucasians or Asians.
+
+21
+
+Reference ID: 4564702
+
+Table 6: Pharmacokinetic parameters (Cmax, AUCinf) of remimazolam after intravenous injection of
+remimazolam to Japanese and Non-Japanese healthy subjects at doses of 0.05 to 0.3 mg/kg
+Japanese
+Non-Japanese
+Japanese/Non-Japanese
+Parameter
+Dose (mg/Kg)
+Mean (SD)
+Mean (SD)
+GMR (90% confidence interval)
+
+AUCinf
+(ng*h/mL)
+
+Cmax
+(ng/mL)
+
+0.05
+
+49.6(2.7)
+
+57.3(8.4)
+
+0.87(0.76-1.00)
+
+0.1
+
+120(9)
+
+107(7)
+
+1.11(1.03-1.20)
+
+0.2
+
+199(34)
+
+224(44)
+
+0.90(0.73-1.10)
+
+0.3
+
+255(23)
+
+339(98)
+
+0.78(0.61-0.99)
+
+0.05
+
+654(138)
+
+721(85)
+
+0.90(0.74-1.08)
+
+0.1
+
+1620(210)
+
+1880(260)
+
+0.86(0.74-1.00)
+
+0.2
+
+3260(550)
+
+3560(940)
+
+0.93(0.72-1.22)
+
+0.3
+
+4190(520)
+
+6100(740)
+
+0.69(0.60-0.79)
+
+In the population PK/PD analyses race was not found to be a significant factor affecting remimazolam
+PK/PD with bolus dosing for procedural sedation or infusion dosing for general anesthesia.
+Body Weight
+Multiple PopPK and PK/PD analyses were conducted to show that body weight and BMI are not
+significant factors affecting the PK or PD of remimazolam. This was a key factor in switching from
+weight-based dosing to fixed dosing in the later Pivotal studies.
+Renal Impairment
+The PK/PD effects of remimazolam in subjects with renal impairment were demonstrated in Study
+CNS7056-012. In this open-label PK and safety study, a single dose of 1.5 mg remimazolam was
+administered to 6 subjects with end-stage renal disease (ESRD; estimated glomerular filtration rate
+[eGFR] of 15 to 30 mL/min/1.73m2), 5 subjects with ESRD (eGFR of <15 mL/min/1.73 m2), and 12
+ҚҿЙѳШКҤҚ ӋѧҤѤ Ҁ҇ҖѿЌѹ ҖШҀЌѹ вҿҀКҤѧ҇Ҁ ҈ӷӶ ҚҿЙѳШКҤҚ ӋѧҤѤ ШGFѤ шӿӶѿшѶѿѧҀѶӷѢӽӹ ѿӸ ЌҀФ Ӹ ҚҿЙѳШКҤҚ ӋѧҤѤ
+eGFR of 80 to 90 mL/min/1.73 m2).
+Pharmacokinetics: The concentration-time profile and PK after a single IV dose of 1.5 mg remimazolam
+did not show relevant differences in ESRD subjects compared to subjects with normal renal function. For
+example, for ESRD subjects and subjects with normal renal function, CL was 118.4 vs 111.4 L/h, Cmax was
+56.5 vs 53.0 ng/mL, Tmax was 0.03 vs 0.04 hours, and AUC0-inf was 12.7 vs 13.5 (h*ng/mL) (geometric
+means).
+
+22
+
+Reference ID: 4564702
+
+Table 7: Summary Statistics of Pharmacokinetic Parameters for Remimazolam in Plasma. Study Report
+CNS7056-012
+
+Based on these results, impairment of renal function is not expected to influence the PK characteristics
+of remimazolam and therefore no dose adjustment is considered necessary for patients with renal
+impairment.
+
+23
+
+Reference ID: 4564702
+
+Figure 2: Geometric Mean (SD) Plasma Concentration-Time Profiles of Remimazolam (Linear Scale).
+Study Report CNS7056-012
+
+The exposure to the metabolite CNS7054 was increased and its elimination was delayed in ESRD
+subjects compared to subjects with normal renal function. Accumulation of CNS7054 can be expected in
+cases of repeated bolus administration or in continuous infusion settings, such as general anesthesia
+and ICU sedation. Due to its inactivity, this accumulation is not considered clinically relevant.
+Figure 3: Geometric Mean (SD) Plasma Concentration-Time Profiles of CNS 7054 (Linear Scale). Study
+Report CNS7056-012
+
+Based on these results no dose adjustment is required in renal impairment, including ESRD patients.
+Hepatic Impairment
+The PK/PD effects of remimazolam in subjects with hepatic impairment were evaluated in study ONO­
+2745IVU007. In this open label, single-dose IV administration study, 8 patients with moderate hepatic
+impairment (score of 7 to 9 on the Child Pugh scale) and 9 healthy matched subjects as well as 3 patients
+with severe hepatic impairment (score of 10 to 15 on the Child Pugh scale) received remimazolam as a
+24
+
+Reference ID: 4564702
+
+single IV bolus at 0.1 mg/kg infused over 1 minute. No patients with mild hepatic impairment were
+enrolled in the study.
+Pharmacokinetics: The summary statistics of PK parameters of unbound remimazolam after IV
+administration to healthy subjects and subjects with hepatic impairment are summarized in Table 8. The
+Cmax values of unbound remimazolam were similar among all subjects. Larger Vz and Vss of remimazolam
+were observed with increasing severity of hepatic impairment. These data suggest that the unbound
+ratio of remimazolam in plasma increased in subjects with hepatic impairment and the volume of
+distribution of remimazolam increased accordingly. The T1/2 was prolonged with increasing severity of
+hepatic impairment. For example, the T1/2 of unbound remimazolam in healthy subjects and subjects
+with moderate and severe hepatic impairment are 42.9, 59.2 and 105 minutes, respectively. This can be
+explained by the decreasing hepatic blood flow shown in the subjects with hepatic impairment.
+
+Table 8: Summary Statistics of PK Parameters of Unbound Remimazolam After IV Administration to
+Healthy Subjects and Subjects with Hepatic Impairment in Study ONO-2745IVU007 (Mean ± SD)
+
+(b) (6)
+
+Geometric mean ratios of Cmax and AUCinf in subjects with moderate hepatic impairment to that in
+corresponding healthy subjects were calculated for total and unbound remimazolam, and total
+CNS7054. For total remimazolam, the geometric mean ratio (90% CI) of Cmax was 0.59 (0.46 - 0.76), and
+AUCinf was 0.82 (0.66 - 1.03). For unbound remimazolam, the geometric mean ratio of Cmax was 0.78
+(0.60 - 1.01), and AUCinf was 1.09 (0.85 - 1.40). For total CNS7054, the geometric mean ratio of Cmax was
+0.65 (0.51 - 0.82), and AUCinf was 0.91 (0.58 - 1.42).
+Pharmacodynamics: LoC occurred in 7 (77.8%) of the healthy control subjects, 6 (75%) patients in the
+moderate hepatic impaired group, and all 3 (100%) patients in the severe hepatic impaired group
+following administration of 0.1mg/kg of remimazolam. There were similar durations of LoC for subjects
+in all three groups. There were, however, slower recovery times for patients in the hepatically impaired
+groups compared to the healthy control subjects. The average duration of LoC and recovery time was
+25
+
+Reference ID: 4564702
+
+3.2 minutes and 12.1 minutes, respectively for subjects in the moderate hepatically impaired group.
+These times were 2.0 minutes and 16.7 minutes, respectively, for the subjects in the severe hepatically
+impaired group. Healthy control subjects had a LoC of 1.6 minutes and a recovery time of 8.0 minutes.
+(b) (4)
+
+.
+Reviewers comments: Hepatic impairment did not result in any significant changes in the Cmax of
+remimazolam or the time to loss of consciousness. The major changes in PK and PD attributed to hepatic
+impairment were an increase in Half Life and increased recovery time with increased hepatic impairment.
+(b) (4)
+
+This was communicated to the sponsor in the Mid-Cycle communication Tcom meeting with the sponsor they were informed regarding the hepatic impairment labeling that
+“!lthough we do agree with the observed increase in exposure (AUC) and elongated half-life for
+(b) (4)
+remimazolam in subjects with severe hepatic impairment,
+We
+(b) (4) in this patient population.
+may recommend additional monitoring in the label
+The final labeling language is still being discussed and has not been finalized.” To which the sponsor
+(b) (4)
+acknowledged our comments
+Since the drug is as such administered to effect and top ups are dosed as needed, labeling language
+suggesting potential increase in recovery times for hepatic impaired subjects and need of less frequent
+top ups would be included into the label. The labeling language is still being deliberated and the labeling
+negotiations still need to take place at the time of this review.
+
+3.3.4 Are there clinically relevant food-drug or drug-drug interactions and what is the
+appropriate management strategy?
+Food-drug interaction does not apply to this product since it is administered intravenously.
+Pharmacokinetic Drug Interactions:
+In Vitro Studies:
+When administered IV, remimazolam is metabolized by tissue carboxylesterase (CES) (primarily type 1A)
+which produce a primary inactive metabolite (CNS7054) along with six others that make up less than
+0.5% each of the balance of metabolism products in plasma or urine. In vitro experiments showed no
+clinically relevant metabolic interactions between remimazolam and the carboxylesterase substrates
+esmolol and landiolol (Study AE-7165-G) and the CES1 inhibitors atorvastatin and diltiazem (Study ADM­
+17-1714). Remifentanil did not influence the hydrolysis of remimazolam by human liver S9 fractions,
+dismissing the possibility of an interaction by competition for liver carboxylesterases.
+The inhibitory effects of remimazolam on cytochrome P450 (CYP)-dependent drug-metabolizing
+isoenzyme activities were examined using human liver microsomes (Study Y13AG002). The potential
+inhibitory effects of remimazolam and CNS7054 on seven cytochrome P450 isoenzymes (CYP1A2,
+26
+
+Reference ID: 4564702
+
+CYP2C9, CYP2C19, CYP2D6, CYP3A4, CYP2B6 and CYP2C8) were examined. Neither compound showed
+significant inhibition of any of the isoenzymes. The IC50 of remimazolam for inhibition of CYP2C9,
+҄ѡӸӷӿџ ҄ѡӸDӼџ ЌҀФ ҄ѡӹ!Ӻ ӋЌҚ ѤѧњѤШҖ ҤѤЌҀ ӷӶӶ ҏюџ ЌҀФ Қ҇ ӋЌҚ ҤѤШ Ο50 of CYP2B6. The values for
+҄ѡӸӾ ЌҀФ ҄ѡӷ!Ӹ ӋШҖШ ӸӿѢӸ ЌҀФ ӼӹѢӼ ҏюџ ҖШҚғШКҤѧӊШѹӑѢ ѮѤШ ΟӻӶ ҇в ҤѤШ ѿШҤЌЙ҇ѹѧҤШ яѨӽӶӻӺ ҇Ҁ ҤѤШ
+ШҀӖӑѿШ ЌКҤѧӊѧҤӑ ҇в ҄ѡ ѧҚ҇в҇ҖѿҚ ӋЌҚ ӻӽӾ ҏю в҇Җ ҄ѡӸӾ ЌҀФ ѤѧњѤШҖ ҤѤЌҀ ӼӶӶ ҏю в҇Җ ҄ѡӷ!Ӹџ ҄ѡӸӼџ
+CYP2C9, CYP2C19, CYP2D6, and CYP3A4.
+Consistent results were obtained in human CYP over-expressing liver microsomes (Study Y05AE037).
+Inhibition of metabolism of fluorescent substrates of CYP1A2, CYP2C9, CYP2C19, CYP2D6 and CYP3A4 by
+ҖШѿѧѿЌӖ҇ѹЌѿ ЌҀФ яѨӽӶӻӺ ҈ӹ Ҥ҇ ӹӶ ҏњѶѿш҉ ӋЌҚ ѹШҚҚ ҤѤЌҀ ӻӶу ШӊШҀ ЌҤ ҤѤШ ѤѧњѤШҚҤ К҇ҀКШҀҤҖЌҤѧ҇ҀѠ
+therefore, the IC50 ӋЌҚ я ӹӶ ҏњѶѿш ҈ШҕҿѧӊЌѹШҀҤ Ҥ҇ яӼӾѢӹ ҏю в҇Җ ҖШѿѧѿЌӖ҇ѹЌѿ ЌҀФ яӽӶѢӻ ҏю в҇Җ
+CNS7054) for all the CYP isoforms.
+A possible induction of specific P450 isoforms (CYP1A2, 2B6, and 3A4) by remimazolam was studied in
+human hepatocytes and compared with the effects of prototypical inducers (Study 8235276). All
+prototype inducers demonstrated appropriate induction of the respective enzyme activities. The
+conclusion of this study was that remimazolam did not show any notable induction of human CYP1A2,
+2B6, and 3A4 under the study conditions. In a further study on the same topic, the ability of CNS7054 to
+induce CYP1A2, CYP2B6, or CYP3A4 enzyme activities was investigated (Study 8281401). The fold
+ѧҀФҿКҤѧ҇Ҁ ӊЌѹҿШҚ ҇в ҄ѡӷ!Ӹџ ҄ѡӸӼџ ЌҀФ ҄ѡӹ!Ӻ ШҀӖӑѿШ ЌКҤѧӊѧҤѧШҚ ӋШҖШ ёӷѢӽӽџ ёӷѢӷӿ ЌҀФ ёӷѢӾӼџ
+ҖШҚғШКҤѧӊШѹӑѢ ΟҤ ӋЌҚ К҇ҀКѹҿФШФ ҤѤЌҤ ҤѤШ ҤШҚҤ ЌҖҤѧКѹШ ҈ҿғ Ҥ҇ ӻӶӶ ҏю҉ ФѧФ Ҁ҇Ҥ ҚѤ҇Ӌ ѧҀФҿКҤѧ҇Ҁ ҇в ҤѤШ ШҀӖӑѿШ
+activities studied.
+Several in vitro studies (Studies 8281404; 8281402, 8281403, Y10AE006, Y10AG018, Paion-01­
+17Aug2017) were performed to identify possible interactions of remimazolam with drug transporters
+including the guidance-conforming standard battery. Remimazolam showed some in vitro inhibition
+capacity towards OCT2, OAT3, OATP1B1 and OATP1B3, but not OAT1 or BCRP. The IC50 values of
+ҖШѿѧѿЌӖ҇ѹЌѿ ӋШҖШ ШҚҤѧѿЌҤШФ Ҥ҇ ЙШ яӷӶӶ ҏю в҇Җ ѕ!Ѯӹџ ЌЙ҇ҿҤ ӷӶӶ ҏю в҇Җ ѕѮӸ ЌҀФ ѕ!Ѯѡӷӹџ ЌҀФ
+ЌЙ҇ҿҤ ӷӶ ҏю в҇Җ ѕ!ѮѡӷӷѢ ѨѧҀКШ ѤҿѿЌҀ ѿЌӐ ҈ҿҀЙ҇ҿҀФ҉ ѧҚ ю ӷ ҏюџ ҤѤШ ғҖ҇ЙЌЙѧѹѧҤӑ в҇Җ ѧҀ ӊѧӊ҇ ѧҀѤѧЙѧҤѧ҇Ҁ
+is negligible even for OATP1B1. The metabolite CNS7054 caused inhibition of OAT3, OATP1B1, and
+OATP1B3, but not OAT1, OCT2, or BCRP. The IC50 ӊЌѹҿШҚ ӋШҖШ ШҚҤѧѿЌҤШФ Ҥ҇ ЙШ яӻӶ ҏю в҇Җ ѕ!Ѯӹ and
+ЌғғҖ҇ӐѧѿЌҤШѹӑ ӻӶӶ ҏю в҇Җ ѕ!Ѯѡӷӷ ЌҀФ ѕ!ѮѡӷӹѢ ѾѧҤѤ Ќ ѤҿѿЌҀ max ҈ҿҀЙ҇ҿҀФ҉ ҇в ӹѢӼ ҏюџ ҤѤШ
+probability for in vivo inhibition is negligible even for OATP1B1.
+No inhibition of MDR1(P-glycoprotein) by remimazolam was identified, as decreases of the corrected
+flux ratio of 3H-Фѧњ҇ӐѧҀ ѧҀ ҤѤШ ғҖШҚШҀКШ ҇в ҖШѿѧѿЌӖ҇ѹЌѿ ҈ҤШҚҤШФ ҿғ Ҥ҇ ӻӶ ҏѿ҇ѹѶш҉ ӋШҖШ ѹШҚҚ ҤѤЌҀ ӻӶ у
+and not concentration-dependent. CNS7054 yielded comparable results: No decreases of the corrected
+flux ratio of 3H-digoxin in the presence of CNS7054 ҈ҤШҚҤШФ ҿғ Ҥ҇ ӹӶ ҏѿ҇ѹѶш҉џ ЌҀФ Ҁ҇ К҇ҀКШҀҤҖЌҤѧ҇Ҁ­
+dependent changes were observed. Thus, neither remimazolam nor CNS7054 is not an inhibitor of
+MDR1. Additional studies with further transporters such as human BSEP, BCRP, MDR1, MRP2, MRP3 and
+MRP4 efflux (ABC), and with human MATE1 and MATE2K uptake transporters were carried out in vitro.
+Remimazolam, but not CNS7054, was an inhibitor of BSEP, MATE1 and MATE2-K, causing inhibitions of
+Ӽӹџ ӹӶџ ЌҀФ ӹӹ у ЌҤ ӷӶӶ ҏюџ ҖШҚғШКҤѧӊШѹӑџ ӋѤѧКѤ ЌҖШ ҿҀѹѧѶШѹӑ Ҥ҇ ҤҖЌҀҚѹЌҤШ ѧҀҤo the clinical situation.
+27
+
+Reference ID: 4564702
+
+Remimazolam was not a relevant substrate of a panel of human drug transporters (OATP1B1, OATP1B3,
+BCRP, MDR1). CNS7054 was found to be a likely substrate for BCRP and MDR1. These results together
+show a very low potential of remimazolam for drug-drug interactions based ADME considerations.
+Clinical Studies:
+No formal clinical drug-drug PK or PD interaction studies have been performed with IV remimazolam.
+The effects of alcohol on the PK and PD of orally administered remimazolam were assessed in Study
+CNS7056-020. The study consisted of 2 parts. Part 1 was an open-label, single-ascending dose trial
+conducted in 21 healthy female volunteers to identify the minimally biologically active dose of
+remimazolam (i.e., lowest dose with effects on memory and consciousness) as well as the PK, safety,
+and tolerability of a single oral dose of remimazolam of 60, 140, 240, 360 or 480 mg. Part 2 was a
+double-blind, double-dummy, single dose, crossover trial conducted in 11 female subjects to evaluate
+the effects of varying concentrations of ethanol on the safety and tolerability, PK, and PD of a single oral
+dose of remimazolam (360 mg).
+Part 1 Pharmacokinetic Results: After oral administration of 60 to 480 mg remimazolam, plasma levels
+of remimazolam reached median Tmax at between 0.23 to 0.48 hours, independent of dose. As dose
+increased from 60 to 480 mg, remimazolam Cmax, AUC0-last and AUC0-inf all increased with dose. For the 8­
+fold increase in dose, geometric mean Cmax increased 5.8-fold, geometric mean AUC0-last increased 11.1­
+fold, while AUC0-inf increased 5.9-fold. Disappearance of parent drug from plasma was very rapid, with a
+geometric mean t1/2 of 0.53 to 0.66 hours, independent of dose.
+Part 1 Pharmacodynamic Results: The PD effects of remimazolam in the population tested were
+modest. At oral doses of 60 to 480 mg, a minimally biologically active dose of remimazolam was not
+identified based on protocol-specified MOAA/S and AE criteria. Most PD assessments did not show
+conclusive results or trends, except for Alertness/Drowsiness VAS, which suggested a modest increase in
+drowsiness with increasing doses of remimazolam up to 240 mg, with a plateau at higher doses.
+Part 2 Pharmacokinetic Results: Remimazolam: After oral administration of 360 mg remimazolam (as a
+drinkable solution) with 0%, 5%, 15% and 40% of co-administered alcohol, median Tmax occurred rapidly,
+ranging from 0.23 to 0.49 hours, and was independent of the amount of co-administered alcohol.
+Disappearance of remimazolam from plasma was rapid, with a geometric mean t1/2 of 0.54 to 0.62 hour,
+independent of alcohol dose. As the amount of added alcohol increased from 0% to 40%, remimazolam
+Cmax, AUClast, and AUCinf all increased: mean Cmax (76.3 to 135 ng/mL); mean AUClast ҈ӾӻѢӸ Ҥ҇ ӷӼӹ Ҁњ҆ѤѶѿш҉
+and mean AUCinf ҈ӿӶѢӹ Ҥ҇ ӷӼӾ Ҁњ҆ѤѶѿш҉Ѣ
+
+28
+
+Reference ID: 4564702
+
+Table 9: Summary of Remimazolam Plasma Pharmacokinetic Parameters: Part 1 CNS7056-020
+
+29
+
+Reference ID: 4564702
+
+From the analyses, it is evident that addition of alcohol to the oral administration of remimazolam
+modestly increased the systemic exposure to remimazolam. Addition of alcohol to the oral dose of
+remimazolam had much less of an effect on systemic exposure to metabolite CNS7054 than it did on
+remimazolam.
+Part 2 Pharmacodynamic Results: Oral remimazolam alone (360 mg) had a mild but significant effect on
+all PD measures as compared to alcohol alone (40%) that had no effect on any PD measure (although
+sometimes a difference versus pre-dose was seen, but the lack of a real placebo control precludes any
+conclusion). When remimazolam and alcohol were administered together, the effects were slightly
+stronger than with remimazolam alone, although mostly not in an alcohol dose-dependent manner. The
+concentration of alcohol did not, however, have a major impact on the change in PD effects of
+remimazolam in the presence of alcohol.
+
+30
+
+Reference ID: 4564702
+
+Table 10: Summary of Remimazolam Plasma Pharmacokinetic Parameters: Part 2 CNS7056-020
+
+31
+
+Reference ID: 4564702
+
+Potential Pharmacodynamic Drug-Drug Interactions:
+The sedative effect of remimazolam can be accentuated by any concomitantly administered medication
+that depresses the CNS such as sedative-hypnotics and narcotics, (e.g., other benzodiazepines, [fos­
+]propofol, and opioids, such as morphine and fentanyl).
+Risks from Concomitant Use with Opioids:
+Concomitant use of benzodiazepines, including remimazolam, with opioids can result in profound
+sedation, respiratory depression, coma, and death. Remimazolam should be used for sedation only in
+the presence of personnel skilled in early detection of hypoventilation, maintaining a patent airway, and
+supporting ventilation. Remimazolam should be used in a setting with the immediate availability of
+oxygen, resuscitative drugs, and appropriate equipment for bag/valve/mask ventilation. The immediate
+availability of specific reversal agent (flumazenil) is highly recommended.
+In the placebo-controlled studies in procedural sedation, remimazolam was administered in
+combination with fentanyl. Higher cumulative doses of fentanyl were associated with increased rates of
+the most common adverse events and Important Identified Risks in all treatment groups. Higher initial
+Ф҇ҚШҚ ҇в вШҀҤЌҀӑѹ ҈яӻӶ ҏњ҉ ӋШҖШ ЌҚҚ҇КѧЌҤШФ ӋѧҤѤ ЌҀ ѧҀКҖШЌҚШФ вҖШҕҿШҀКӑ ҇в ЌҀ юѕ!!ѶѨ ҚК҇ҖШ ҇в Ӷ ҇Җ ӷѢ
+Other noted Clinical drug interactions:
+Subjects receiving concomitant antihypertensive medications appeared to have a higher incidence of all
+TEAEs and TEAEs that were Vascular disorders (including hypotension and hypertension) and
+Respiratory, thoracic, and mediastinal disorders (including hypoxia and tachypnea) on both
+remimazolam and placebo. The incidences were similar on placebo but were not consistently different
+between subjects with and without antihypertensive medication.
+Subjects on remimazolam receiving concomitant sedative/hypnotic medications appeared to have a
+higher incidence of all TEAEs and TEAEs that were Vascular disorders (including hypotension and
+hypertension); Respiratory, thoracic, and mediastinal disorders (including hypoxia and tachypnea); and
+Investigations (including respiratory rate increased, respiratory rate decreased, and blood pressure
+diastolic decreased). The effect could not be compared to placebo because only 5 subjects randomized
+to placebo were not taking concomitant sedatives/hypnotics.
+
+32
+
+Reference ID: 4564702
+
+4. APPENDICES
+4.1 Summary of Bioanalytical Method Validation and Performance
+The quantification of remimazolam and its inactive metabolite, CNS7054, in both plasma and
+urine - and of midazolam (active control in clinical studies) - in plasma was carried out via high
+performance liquid chromatography (HPLC) analyses with tandem mass spectrometry (MS/MS)
+detection.
+The initially developed method (ZNA17619.002), covering a low concentration range, was used
+for the start of analysis of samples from Phase 1 and Phase 2 clinical studies. However, when a
+significant number of plasma concentrations were found to be outside of the linear range for
+remimazolam, analysis was continued using a high-range assay (ZNA17619.009). The method
+was revalidated at a high concentration range (VPT1548). A more sensitive method was further
+developed for the needs of various Phase 1 studies (oral and nasal bioavailability) as well as a
+pharmacokinetic (PK) study in subjects with end-stage renal disease), due to the low plasma
+concentration of remimazolam in those studies (VPT3108). This method was revalidated
+(VPT5956/2017) for study CNS7056-020 (which evaluated oral dosing) in which the ratio of the
+primary metabolite CNS7054 to remimazolam was unexpectedly high due to the complete
+absorption but extremely low bioavailability (1-2%) as a result of first pass metabolism. In the
+VPT5956/2017 method, the precipitating agent was switched from methanol to isopropyl
+alcohol. In all studies conducted by ONO, the GB10005V method was used for quantifying total
+remimazolam and CNS7054 concentrations in human plasma; in a subset of studies, plasmafree concentrations were quantified using the GB12046V method.
+Bio-analytical Validation:
+
+Table 11 and Table 12 provide the analytical performance (ranges, linearity, precision, and
+accuracy values) for the methods used in different clinical studies for remimazolam in plasma
+and urine, respectively. Table 13 and Table 14 show the analytical performance of the methods
+for metabolite CNS7054 in plasma and urine, respectively.
+
+33
+
+Reference ID: 4564702
+
+Table 11: Bioanalytical Methods for Remimazolam in Plasma, by Study
+
+Table 12: Bioanalytical Methods for Remimazolam in Urine, by Study
+
+34
+
+Reference ID: 4564702
+
+Table 13: Bioanalytical Methods for Metabolite CNS7054 in Plasma, by Study
+
+Table 14: Bioanalytical Methods for Metabolite CNS7054 in Urine, by Study
+
+35
+
+Reference ID: 4564702
+
+4.2 Clinical PK and/or PD Assessments
+Summary of Study CNS7056-001.
+A Phase 1, double-blind, active-controlled study employed ascending dose bolus IV injections
+(administered over 1 minute) of remimazolam of 0.01, 0.025, 0.05, 0.075, 0.1, 0.15, 0.2, 0.25, 0.3 mg/kg
+or midazolam 0.075 mg/kg in 54 healthy adult subjects.
+This was a first-in-human (FIH), Phase 1, double-blind, single-dose escalation study of CNS 7056 to
+determine its safety, pharmacokinetics (PK) and pharmacodynamics (PD) in healthy adults. Up to ten
+single ascending dose cohorts were planned from 0.01 mg/kg to 0.35 mg/kg. The dose was increased in
+conservative increments only after a thorough analysis of the safety data from each preceding cohort.
+During drug administration, an anesthesiologist was present, and oxygen and the benzodiazepine
+reversal agent flumazenil was immediately available. Arterial and/or venous blood samples for analyses
+of PK parameters of midazolam, CNS 7056, and CNS 7054 were collected within 10 minutes pre-dose
+and at 1, 2, 3, 4, 6, 8, 10, 12, 15, 20, 30, 45, 60 minutes and 2, 3, 4, 6, 8- and 12-hours post-dose. These
+sampling times were considered sufficient to determine the PK parameters.
+Pharmacokinetics: Following administration of a single IV bolus dose (infused over 1 minute),
+ҖШѿѧѿЌӖ҇ѹЌѿ ӋЌҚ ҖЌғѧФѹӑ КѹШЌҖШФ вҖ҇ѿ ғѹЌҚѿЌ ҈ѿШЌҀ КѹШЌҖЌҀКШ ӶѢӿӶ шѶѤҖѶѶњ҉Ѣ ѮѤШ ѿШЌҀ ҤдѼ ӋЌҚ
+approximately 1.6 minutes, compared with 3.35 minutes for midazolam. Terminal half-life t½, of
+remimazolam was 37 to 48.5 minutes, while that of midazolam was 1.6 h. Remimazolam was converted
+rapidly to the inactive metabolite, CNS7054, with the elimination rate of the latter being largely
+unchanged within the dose ranges studied. The mean elimination half-life of the metabolite CNS7054
+was found to be between 2.4 and 3.8 hours. The PK behavior of remimazolam was observed to be linear
+within the dose ranges studied (0.01 to 0.30 mg/kg) in this study (mean Cmax and AUC parameters
+increased in proportion to dose).
+Table 15: Statistical Summary of the Dose Proportionality Model
+CNS 7054 Parameter Slope
+95% Confidence Interval
+Cmax
+
+1.03
+
+0.97, 1.10
+
+AUC0-t
+
+0.99
+
+0.95, 1.04
+
+Plasma concentration profile for remimazolam and midazolam are represented in figure 4 and the
+summary of PK parameters is represented in Table 16.
+
+36
+
+Reference ID: 4564702
+
+Figure 4: Mean (±SD) CNS 7056 and Midazolam Plasma Concentration-Time Data -Log Scale
+
+Table 16: Summary of Midazolam and Remimazolam (CNS 7056) Plasma Pharmacokinetic Parameter
+Data
+
+(b) (6)
+
+Pharmacodynamics: Sedation (defined as median MOAA/S score < 4) was observed in all subjects
+receiving a single bolus dose of remimazolam of 0.075 mg/kg or higher. The onset of sedation was rapid,
+
+37
+
+Reference ID: 4564702
+
+with sedation being observed at 1-2 minutes across all active remimazolam doses compared to an onset
+of sedation of 15 minutes for the dose of midazolam tested (0.075 mg/kg).
+The duration of sedation with remimazolam showed dose-dependency. Duration of sedation was
+approximately 8 minutes at 0.075 mg/kg and approximately 40 minutes at 0.25 mg/kg. Durations of Loss
+of Consciousness (LOC) also increased with increasing remimazolam dose, with median MOAA/S scores
+of <2 for approximately 0, 1, 3, 5, 9, and 12 minutes in the 0.075, 0.1, 0.15, 0.2; 0.25, and 0.3 mg/kg
+remimazolam treatment groups, respectively. Mean recovery times from first MOAA/S of < 5 to Fully
+Alert (defined as time to the first of 3-consecutive median MOAA/S scores of 5 after dosing) also showed
+a dose-dependent increase across remimazolam treatment groups. Subjects treated with 0.075, 0.1,
+0.15, 0.2; 0.25, and 0.3 mg/kg remimazolam were fully alert after approximately 5, 13, 12, 21, 50, and 35
+minutes of sedation, respectively.
+In comparison, subjects treated with 0.075 mg/kg midazolam were not as deeply sedated but were
+sedated for longer than those treated with CNS 7056. No median MOAA/S score in the midazolam group
+was below 3.5 and subjects remained at a median MOAA/S score of 3.5 or 4 for approximately 45
+minutes post-dose.
+Subjects in the placebo treatment group were Fully Alert throughout the study. Based on the results of
+this study, a dose of 0.075 mg/kg was considered appropriate for procedural sedation.
+
+Figure 5: Median MOAA/S Scores over Time - High Dose CNS 7056 Groups and Midazolam.
+
+38
+
+Reference ID: 4564702
+
+Summary of Multiple Bolus IV Administration Study (CNS7056-002).
+A Phase 1, two-part multiple bolus IV administration study of remimazolam.
+Part A was a double-blind, placebo-controlled, crossover design evaluating the effect of flumazenil, a
+benzodiazepine antagonist, as a reversal agent for remimazolam in 6 healthy subjects.
+Part B was an open-label, ascending-dose study evaluating the safety, PK, and PD of remimazolam in
+healthy subjects undergoing a colonoscopy. In Part B of this study, 45 healthy subjects were randomized
+to initially receive a single IV bolus (over 1 minute) dose of remimazolam 0.04, 0.075, or 0.1 mg/kg. Prior
+Ҥ҇ ЌФѿѧҀѧҚҤҖЌҤѧ҇Ҁ ҇в ҤѤШ ѧҀѧҤѧЌѹ Ф҇ҚШ ҇в ҖШѿѧѿЌӖ҇ѹЌѿџ ЌҀ ѧҀѧҤѧЌѹ ӻӶ ҏњ Ф҇ҚШ ҇в вШҀҤЌҀӑѹџ ӋЌҚ ЌФѿѧҀѧҚҤШҖШФ
+IV over 1 to 2 minutes. After the initial remimazolam dose, supplemental bolus IV doses of 0.04 mg/kg
+remimazolam were administered to maintain adequЌҤШ ҚШФЌҤѧ҇ҀѢ ѕҀШ ЌФФѧҤѧ҇ҀЌѹ Ф҇ҚШ ҇в Ӹӻ ҏњ вШҀҤЌҀӑѹ
+was allowed if needed to maintain analgesia. The primary PD endpoint in Part B was the assessment of
+ҤѤШ ҚҿККШҚҚ ҇в ҤѤШ ғҖ҇КШФҿҖШ ҈Ќ К҇ѿғ҇ҚѧҤШ ШҀФғ҇ѧҀҤ К҇ҀҚѧҚҤѧҀњ ҇в ҤѤШ в҇ѹѹ҇ӋѧҀњѡ юѕ!!ѶѨ ё Ӻ ҇Ҁ ӹ
+consecutive measurements, completion of 30-minute period of sedation [including if alternative
+sedative medication used], no requirement for an alternative sedative, and no manual or mechanical
+ventilation).
+Pharmacokinetics: CNS 7056 plasma PK parameters were derived via a 2-compartment model with
+intravascular administration using WinNonlin. Remimazolam showed extensive tissue distribution and
+fast elimination after IV administration and was rapidly and extensively metabolized and Overall, Cmax for
+remimazolam ranged from 60.8 to 1573 ng/mL and overall AUC0-inf ranged from 86.7 to 560 ng*h/mL).
+Distribution and elimination half-lives were short; mean tдѼ ranged from 6 to 7 minutes and mean tдѾ
+ranged from 56 to 73 minutes. Clearance was high (mean CL ranged from 61 to 78 L/hr), and volume of
+distribution was extensive (mean Vss ranged from 52 to 71 L), suggesting fast tissue distribution and
+elimination. Dose proportionality analysis of remimazolam cumulative dose versus CNS 7056 total
+exposure (AUC0-inf) suggests a close to dose-proportional relationship. The point estimate of the slope
+was close to 1.0 (1.03 for AUC0-inf), and the range of possible values for the slope provided by the 90% CI
+estimate (0.846, 1.209), which fell just outside of the pre-specified range (0.859, 1.141).
+Table 17: Dose-independent PK parameters of remimazolam in MAD study CNS7056-002.
+
+39
+
+Reference ID: 4564702
+
+Figure 6: Scatter Plot of AUC0-inf versus remimazolam Cumulative Dose.
+
+Urine CNS 7056 PK parameters were also studied and showed that very little of the remimazolam dose
+excreted unchanged in the urine (approximately 0.003%); it was excreted in the urine primarily as the
+inactive metabolite CNS7054 (50-60% within 24h).
+Pharmacodynamics: Flumazenil administration (0.5 mg) in Part A decreased the Time to Fully Alert
+following a single IV infusion of 0.25 mg/kg CNS 7056 from approximately 21 minutes to approximately 6
+minutes, (1.8 and 16.8 minutes after administration of flumazenil or placebo respectively), indicating
+that flumazenil was able to reverse the sedative effects of CNS 7056. No re-sedation was observed.
+
+40
+
+Reference ID: 4564702
+
+Figure 7: Mean (Standard Deviation) Bispectral Index Scores over Time, Part A;
+Note: Remimazolam was administered at T = 0 and flumazenil/placebo was administered at
+approximately 4 minutes post remimazolam administration
+
+In Part B, the primary PD endpoint was the assessment of the success of the procedure, a composite
+ШҀФғ҇ѧҀҤ К҇ҀҚѧҚҤѧҀњ Ќѹѹ ҇в ҤѤШ в҇ѹѹ҇ӋѧҀњѡ юѕ!!ѶѨ ё Ӻ ҇Ҁ ӹ К҇ҀҚШКҿҤѧӊШ ѿШЌҚҿҖШѿШҀҤҚџ К҇ѿғѹШҤѧ҇Ҁ ҇в ӹӶ­
+minute period of sedation, no requirement for an alternative sedative, and no manual or mechanical
+ventilation. All subjects in the 0.075 mg/kg group and approximately 65% of subjects in both the 0.04
+mg/kg and 0.1 mg/kg groups had successful procedures by this definition.
+Part B results also showed that the recovery time following the last dose of study drug was fast, with the
+mean time to fully alert ranging from 6.9 - 9.8 minutes, and mean time to ready for discharge (Aldrete
+score) ranging from 23.0 - 24.1 minutes. The amnestic effect of remimazolam was evaluated by the
+subject's ability to recall the procedure, which was assessed by using the Brice Questionnaire. The
+results indicated that between 60% (Cohort 1) and 80% (Cohorts 2 and 3) of subjects did not recall the
+procedure.
+
+Figure 8: Median Modified Observer’s !ssessment of !lertness and Sedation Scores over Time, Part B
+
+41
+
+Reference ID: 4564702
+
+Summary of Study CNS7056-017 (IV Infusion Study).
+The CNS7056-017 study involved continuous IV remimazolam administration at a rate of 5 mg/min for 5
+minutes, followed by 3 mg/min for 15 minutes and 1 mg/min for another 15 minutes in 20 healthy adult
+males. Administration was stopped after 35 minutes, when 85 mg remimazolam had been administered.
+This study was a prospective open-label randomized two-arm single-center crossover phase 1 clinical
+trial for pharmacokinetic/pharmacodynamic modeling of the hypnotic effect of remimazolam and its
+impact on corrected QT interval in healthy male volunteers. In this summary the PK and PD aspects of
+the study would be discussed. The QT measurements of the study is discussed in section 2.7.
+Pharmacokinetics: Based on a three-compartment model, remimazolam showed a high clearance
+(CL=1.15±0.12 L/min, mean±standard deviation [SD]), a small central volume of distribution
+(V1=4.99±1.35 L), and a short terminal half-life (t1/2=69.5±10.0 min). V1 showed a proportional increase
+with body weight (not significant). The simulated time for a 50% decrease of remimazolam (contextsensitive halftime) after an infusion of 4 hours was 6.6±2.4 minutes.
+
+Figure 9: Measured plasma concentrations of remimazolam. The black dots show the measured
+concentrations. Each grey line represents the data of one volunteer.
+
+Based on a two-compartment model with a transit compartment and lag time when compared to
+remimazolam, the metabolite CNS7054 showed a low clearance (CL=0.078±0.012 L/min, mean±SD), an
+42
+
+Reference ID: 4564702
+
+even smaller central volume of distribution (V1=0.55±0.17 L), and a longer terminal half-life
+(T1/2el=116±22 min). The rate constant for the transit compartment (Km) was 0.024±0.002 1/min, and the
+lag time was 0.56±0.17 min. The simulated time to maximum concentration of CNS7054 after a bolus
+dose of remimazolam was 32.8±7.9 min.
+Pharmacodynamics: All 20 subjects showed sedation, with all 20 subjects experiencing both LoC
+(defined as MOAA/S score < 2 at least once) and loss of eyelid reflex, but only 11 subjects (55.0%)
+showing loss of corneal reflex. The mean (± SD) time to LoC was 4.60 (1.14) minutes. The mean (± SD)
+time return to consciousness (defined as the time from the end of IMP administration until 1st of three
+subsequent MOAA/S scores of 5) was 23 (7) minutes.
+A model with sigmoid probability functions was selected as the best model. The half maximum effect
+site concentrations were 1779±988 ng/ml for a MOAA/S score =0, 695±239 ng/ml for a MOAA/S score
+<=1, 506±66 ng/ml for a MOAA/S score <=2, 477±63 ng/ml for a MOAA/S score<=3 and 341±49 ng/ml
+for a MOAA/S score<=4 (Figure 10). The simulated time to peak effect after a bolus dose of
+remimazolam was 2.9±0.4 min. The simulated time for a 50% decrease of the effect site concentration
+(context-sensitive halftime) after an infusion of 4 h was 12.1±1.7 min. There were no effects of age and
+weight.
+
+Figure 10: Observed MOAA/S scores. The black dots show the observed values. Each grey line
+represents the data of one volunteer.
+
+43
+
+Reference ID: 4564702
+
+Summary of Japanese Phase 1 Study ONO-2745-01.
+The study ONO-2745-01 was a double-blind, parallel-group comparative study consisted of two parts. In
+Part A, 30 healthy young adult Japanese males (20-45 years) were administered single ascending IV
+bolus (over 1 minute) doses of remimazolam of 0.05, 0.1, 0.2, 0.3, 0.4, 0.5 mg/kg. Six healthy young
+adults were administered placebo. In Part B, 10 healthy elderly adult Japanese males (65-74 years) were
+to be administered 0.10 and 0.30 mg/kg. The 0.30 mg/kg dose was not administered as all elderly
+patients in the 0.10-mg dose group (5 patients) achieved LoC (i.e., objectives of the study met at this
+dose).
+Pharmacokinetics: In healthy adult male subjects, the plasma remimazolam concentration reached Cmax
+at 1.0 to 2.0 minutes after starting administration. T1/2, Vss, and CL were 39 to 53 minutes, 0.480 to 0.580
+L/kg, and 0.0140 to 0.0198 L/min/kg, respectively. In healthy elderly male subjects, remimazolam
+reached Cmax at the end of injection. The T1/2, Vss, and CL were 47 minutes, 0.473 L/kg, and 0.0164
+L/min/kg, respectively.
+ѮѤШ ҖШҚҿѹҤҚ ҇в К҇ѿғЌҖҤѿШҀҤЌѹ ЌҀЌѹӑҚѧҚ ҇в ҤѤШ ФЌҤЌ вҖ҇ѿ ѤШЌѹҤѤӑ ЌФҿѹҤ ѿЌѹШ ҚҿЙѳШКҤҚ ӋШҖШѡ ѮӷѶӸѼџ ѮӷѶӸѾ,
+TӷѶӸҀ and V1 were 0.52 to 0.87 minutes, 9.2 to 11 minutes, 38 to 52 minutes, and 0.0366 to 0.0606 L/kg,
+respectively. In healthy elderly male subjects, the TӷѶӸѼ, TӷѶӸѾ, TӷѶӸҀ, and V1 were 0.67 minutes, 7.4
+minutes, 45 minutes, and 0.0469 L/kg, respectively. At least 80% of the IV administered remimazolam
+dose was excreted in urine as inactive metabolite CNS7054. A tabular summary of PK parameters by
+dose are presented in more detail in Table 18.
+
+Table 18: Pharmacokinetic parameters (Cmax, Tmax, AUC4h, AUCinf, T1/2, CL, Vss) of remimazolam after
+single intravenous injection of remimazolam at 0.05 to 0.5 mg/kg over one minute to healthy adult
+and elderly male Japanese subjects
+
+Pharmacodynamics:
+
+44
+
+Reference ID: 4564702
+
+!ФҿѹҤҚѡ ш҇ ҈ФШвѧҀШФ ЌҚ юѕ!!ѶѨ ҚК҇ҖШ ё ӷ҉ ӋЌҚ ҇ЙҚШҖӊШФ ѧҀ Ӹ ҇ҿҤ ҇в ӻ ӑ҇ҿҀњ ЌФҿѹҤҚ ЌҤ Ќ ҚѧҀњѹШ Й҇ѹҿҚ Ф҇ҚШ
+of 0.05 mg/kg and was observed in all young subjects administered 0.20 mg/kg and higher doses. Onset
+of sedation (defined as median MOAA/S score < 4) was fast, occurring at 1 to 2 minutes after injection
+for all doses tested. The mean durations of LoC at 0.2, 0.3, 0.4 and 0.5 mg/kg (doses that induced LoC in
+all subjects) were 3approximately 3, 4, 6, and 16 minutes, respectively, indicating a dose-dependent
+prolongation of the duration of LoC. The mean times to recovery of consciousness (time from the end of
+administration to the last point when the MOAA/S score returҀШФ вҖ҇ѿ ё Ӻ Ҥ҇ ӻ҉ ӋШҖШ ЌғғҖ҇ӐѧѿЌҤШѹӑ ӸӺџ
+25, 29, 32, 40, and 54 minutes at the remimazolam 0.05, 0.1, 0.2, 0.3, 0.4, and 0.5 mg/kg doses,
+respectively, indicating dose dependent prolongation.
+Elderly: LoC was observed in all elderly adults at 0.10 mg/kg (while in the younger group, LoC was
+observed in only one of the five subjects at 0.10 mg/kg). The mean duration of LoC was 3.8 minutes,
+which was comparable to that at 0.30 mg/kg in the younger subjects (3.6 minutes). The mean time to
+recovery of consciousness was 22.0 minutes, which was equivalent to that at the same dose in the
+younger subjects (24.8 minutes).
+
+45
+
+Reference ID: 4564702
+
+Summary of Japanese IV infusion Study ONO-2745-02.
+In the ONO-2745-02 double-blind, parallel-group, comparative study, 8 healthy, adult, male subjects
+received continuous IV infusion of 1 mg/kg/hr remimazolam until 10 minutes after LoC (or a maximum
+of 1 hour).
+The objective of this study was to investigate the pharmacokinetics, pharmacodynamics, safety, and
+tolerability of a single continuous intravenous dose of remimazolam given until loss of consciousness.
+Pharmacokinetics: PK analysis using arterial plasma remimazolam concentrations in 8 healthy male
+subjects led to the selection of a 3-compartment model as the optimal model for simulation. Using this
+model, the concentration immediately before the end of infusion (Ceoi), T1/2, Vss, and CL of remimazolam
+in arterial plasma were 672 ng/mL, 57 minutes, 30.9 L, and 1.11 L/min, respectively. Those of
+remimazolam in venous plasma were 619 ng/mL, 59 minutes, 43.1 L, and 1.11 L/min, respectively. The
+AUClast, AUCinf, T1/2, and CL of remimazolam in arterial blood were equivalent to those in venous blood
+(Table 19). The Ceoi and Vss in arterial blood were higher and lower, respectively, than those in venous
+blood. The CL was estimated to be 0.0177 L/min/kg.
+
+Table 19: Pharmacokinetic parameters of plasma ONO-2745 after continuous intravenous infusion of
+ONO-2745 at the infusion rate of 1 mg/kg/hr to healthy adult male subjects
+
+Pharmacodynamics: All 8 of the 8 subjects experienced LoC at the employed remimazolam 1 mg/kg/hr
+dose. The time to LoC (mean ± SD) was 16.5 ± 8.6 minutes. The duration of LoC was 12.5 ± 9.0 minutes
+(mean ± SD). The condition in 2 of the 8 subjects changed from loss of consciousness to a sedated state
+during infusion: one remained sedated until the end of administration and the other lost consciousness
+again. The time to recovery of consciousness was 24.9 ± 19.1 minutes (mean ± SD) after the end of the
+infusion. As expected, the MOAA/S score decreased as the plasma remimazolam concentration
+increased.
+
+46
+
+Reference ID: 4564702
+
+Summary of Study CNS7056-019 (Intranasal Administration Study).
+The CNS7056-019 study involved a cross-over study, remimazolam was administered intranasally as a
+non-reconstituted drug product powder (10, 20, and 40 mg), intranasally as a solution (10, 20, and 40
+mg) and compared to an intranasal placebo solution, intranasal placebo powder, and 4 mg IV
+remimazolam (bolus dose over 1 minute).
+Pharmacokinetics: After remimazolam 4 mg IV, median Tmax occurred at 0.033 hours, corresponding to
+a mean Cmax of 213 ng/mL. An initial mean plasma concentration at time zero (C0) of 417 ng/mL was
+estimated by back extrapolation. Mean systemic exposures, AUClast and AUCinfџ ӋШҖШ ӻӻ Ҁњ҆ѤѶѿш ЌҀФ ӻӿ
+Ҁњ҆ѤѶѿшџ ҖШҚғШКҤѧӊШѹӑѢ
+The intranasal solution formulation remimazolam Cmax and systemic exposure were similar to the
+powder formulation, except at the higher dose levels (20 and 40 mg), where the powder formulation
+had higher exposure. Cmax for the solution formulation ranged from 112-209 ng/mL and that for the
+powder formulation ranged from 108-330 ng/mL. Compared to the 4 mg IV administration, intranasal
+administration achieved higher Cmax at the 40 mg dose level and higher total systemic exposure (AUClast
+and AUCinf) at all dose levels (AUCinf from 72-268 and 62-144 ng҆h/mL for the powder and solution
+formulations, respectively). Cmax increased in a dose-proportional manner for the intranasal powder
+formulation but was less than dose proportional for the intranasal solution formulation.
+Table 20: Summary of Remimazolam Pharmacokinetic Parameters Ѿ Pharmacokinetic Population
+
+Remimazolam absolute bioavailability based on dose normalized AUC0-inf was 49%, 49%, and 48% for the
+10 mg, 20 mg, and 40 mg powder treatments, respectively. Intranasal powder treatment relative Cmax
+concentration based on dose-normalized Cmax was 18% to 22% of the IV administration. The intranasal
+solution formulation resulted in similar absolute bioavailability at the 10 mg dose (47%), but then
+deceased with increasing doses to 34% at 20 mg and 26% at the 40 mg dose. Similarly, intranasal
+47
+
+Reference ID: 4564702
+
+solution relative exposure based on dose-normalized Cmax decreased from 24% of the iv administration
+in the 10 mg treatment to 11% in the 40 mg treatment.
+Tmax for the powder and solution intranasal formulations ranged from 0.21-0.23 and 0.13-0.15 hours,
+respectively. The mean t1/2 after IV injection was 0.49 hours and was extended for the intranasal
+formulations (0.66-0.87 hours and 0.71-1.17 hours for the powder and solution, respectively).
+Pharmacodynamics: Intranasal administration of remimazolam as either a powder or solution increased
+drowsiness with the strongest effects observed at higher doses. These effects persisted longer when
+remimazolam was dosed as powder.
+Intranasal dosing of remimazolam at all doses tested produced relaxation effects. The effect persisted
+longer following powder administration compared to administration as a solution.
+Intranasal delivery of remimazolam as either a powder or solution produced mild to moderate nasal
+ғЌѧҀ ЌҚ ѿШЌҚҿҖШФ Йӑ ҤѤШ ӊѧҚҿЌѹ ЌҀЌѹ҇њ ҚКЌѹШ ҈ѽ!Ѩ҉ в҇Җ ѨѡЌѧҀѩџ ӋѧҤѤ Ӷ ЙШѧҀњ Ҁ҇ ғЌѧҀѶФѧҚК҇ѿв҇ҖҤ ЌҀФ ӷӶӶ
+being extreme pain/discomfort. When administered as an intranasal solution, the Emax values for the VAS
+scale for Pain for the 10, 20 and 40 mg remimazolam doses were 24.9, 31.7 and 46.9, respectively. When
+administered as an intranasal powder, the Emax values for the 10, 20 and 40 mg remimazolam doses
+were 40.9, 45.0, and 37.7, respectively. Nasal pain peaked at 5 to 15 minutes post-dose and generally
+subsided within 60 minutes. However, dosing with 40 mg powder resulted in mild pain persisting at 60
+minutes post-dose.
+A small but generally dose-dependent effect on memory, as measured by the Total Adjusted Errors in
+the PAL Test, was observed that was stronger for the intranasal powder as compared to the solution
+formulation. A possible training effect may have been seen with IV remimazolam being dosed first which
+made it appear that memory and reaction time (RTI) improved with repeat assessment in inexperienced
+subjects, when it could have been a conditioned effect and not a drug effect. In addition, there was high
+variability in scores for both memory effects and RTI.
+RTIs were increased slightly following intranasal dosing with powder remimazolam in a dose dependent
+manner. RTI effects were only observed for 60 minutes following dose. Effects on RTI were not observed
+following intranasal remimazolam solution administration.
+
+48
+
+Reference ID: 4564702
+
+Summary of Study CNS7056-016 (Oral Administration Study).
+The oral administration of remimazolam was evaluated in Study CNS7056-016 where 14 subjects
+received a single dose of remimazolam 0.14 mg/kg orally and 0.025 mg/kg IV under fasting conditions,
+with 48-hour washout period between each dose.
+Pharmacokinetics: Mean peak (Cmax) and total (AUC0-t) remimazolam systemic exposure were
+considerably lower after oral treatment than after IV treatment. The absolute bioavailability of oral
+remimazolam was 1.2% based on dose-normalized Cmax (90% CI: 0.008 - 0.017) and 2.2% based on
+dose-normalized AUC0-t (90% CI: 0.015 - 0.032). AUCinf was excluded from the statistical analysis, as
+there were not enough valid observations to perform the analysis. The median tmax of the metabolite,
+CNS7054, was 0.5 hours for both treatments, indicating that remimazolam was rapidly metabolized to
+CNS7054.
+Table 21: Summary Statistics of Pharmacokinetic Parameters for Remimazolam in Plasma
+
+49
+
+Reference ID: 4564702
+
+Based on dose-normalized parameters, Cmax and AUC0-t for the metabolite, CNS7054, were respectively
+1.3 and 1.2-fold higher after oral treatment than after IV administration. For both oral and IV treatment,
+mean peak (Cmax) and total (AUC0-t and AUCinf) systemic exposure to metabolite CNS7054 was
+considerably higher than exposure to the parent compound. The mean t½ of CNS7054 was 1.9 hours
+after IV treatment and 2.5 hours after oral treatment.
+These results indicate complete absorption of orally administered remimazolam followed by an
+extensive first-pass effect in the liver. The results also indicate that the oral route of administration is
+unlikely to reveal clinically significant plasma levels for remimazolam.
+
+50
+
+Reference ID: 4564702
+
+Summary of Study CNS7056-020 (Oral Administration Study with Ethanol).
+The CNS7056-020 trial assessed the effect of remimazolam when administered orally with various
+concentrations of ethanol. The study consisted of 2 parts.
+• Part 1 was an open-label, single-ascending dose trial conducted in 21 healthy female volunteers
+to identify the minimally biologically active dose of remimazolam (i.e., lowest dose with effects
+on memory and consciousness) as well as the PK, safety, and tolerability of a single oral dose of
+remimazolam of 60, 140, 240, 360 or 480 mg.
+• Part 2 was a double-blind, double-dummy, single dose, crossover trial conducted in 11 female
+subjects to evaluate the effects of varying concentrations of ethanol on the safety and
+tolerability, PK, and PD of a single oral dose of remimazolam (360 mg).
+
+Pharmacokinetics:
+Part 1: In Part 1, after oral administration of 60 to 480 mg remimazolam, plasma levels of remimazolam
+reached median Tmax at between 0.23 to 0.48 hours, independent of dose. As dose increased from 60 to
+480 mg, remimazolam Cmax, AUC0-last and AUC0-inf all increased with dose. For the 8-fold increase in
+dose, geometric mean Cmax increased 5.8-fold, geometric mean AUC0-last increased 11.1-fold, while
+AUC0-inf increased 5.9-fold. Disappearance of parent drug from plasma was very rapid, with a geometric
+mean t1/2 of 0.53 to 0.66 hours, independent of dose.
+Part 2: In Part 2, after oral administration of 360 mg remimazolam (as a drinkable solution) with 0%, 5%,
+15% and 40% of co-administered alcohol, median Tmax occurred rapidly, ranging from 0.23 to 0.49 hours,
+and was independent of the amount of co-administered alcohol. Disappearance of remimazolam from
+plasma was rapid, with a geometric mean t1/2 of 0.54 to 0.62 hour, independent of alcohol dose. As the
+amount of added alcohol increased from 0% to 40%, remimazolam Cmax, AUClast, and AUCinf all increased:
+mean Cmax (76.3 to 135 ng/mL); mean AUClast ҈ӾӻѢӸ Ҥ҇ ӷӼӹ Ҁњ҆ѤѶѿш҉ ЌҀФ ѿШЌҀ !Ѳinf (90.3 to 168
+Ҁњ҆ѤѶѿш҉Ѣ
+Metabolite CNS7054: After oral administration of 360 mg remimazolam with 0%, 5%, 15% and 40% of
+added alcohol, remimazolam was rapidly and extensively metabolized to CNS7054. Formation of
+CNS7054 appeared to be delayed slightly by the presence of added alcohol. Median Tmax was
+approximately 1 hour after administration of remimazolam with 0% or 5% added alcohol, increasing to
+1.5 hours after administration of remimazolam with 15% or 40% added alcohol. Disappearance of the
+metabolite CNS7054 from plasma was somewhat slower than parent, with a geometric mean t1/2 ranging
+from 1.82 to 2.02 hours, independent of the amount of added alcohol. As the amount of added alcohol
+increased from 0% to 40%, Cmax, AUClast and AUC0inf for CNS7054 all appeared to increase in relation
+to the amount of added alcohol, although the degree of change was much smaller compared to that of
+remimazolam: mean Cmax (25.9 to 27.5 mg/L); mean AUClast ҈ӾӸѢӻ Ҥ҇ ӷӶӶ ѿњ҆ѤѶш҉ ЌҀФ ѿШЌҀ !Ѳinf (88.2
+Ҥ҇ ӷӷӷ ѿњ҆ѤѶш҉Ѣ
+From the analyses, it is evident that addition of alcohol to the oral administration of remimazolam
+modestly increased the systemic exposure to remimazolam. Addition of alcohol to the oral dose of
+
+51
+
+Reference ID: 4564702
+
+remimazolam had much less of an effect on systemic exposure to metabolite CNS7054 than it did on
+remimazolam.
+Table 22: Summary of Remimazolam Plasma Pharmacokinetic Parameters: Part 1
+
+52
+
+Reference ID: 4564702
+
+Table 23: Summary of Remimazolam Plasma Pharmacokinetic Parameters: Part 2
+
+53
+
+Reference ID: 4564702
+
+Pharmacodynamics:
+Part 1: In Part 1, The PD effects of remimazolam in the population tested were modest. At oral doses of
+60 to 480 mg, a minimally biologically active dose of remimazolam was not identified based on protocolspecified MOAA/S and AE criteria. Most PD assessments did not show conclusive results or trends,
+except for Alertness/Drowsiness VAS, which suggested a modest increase in drowsiness with increasing
+doses of remimazolam up to 240 mg, with a plateau at higher doses.
+Part 2: In Part 2, Oral remimazolam alone (360 mg) had a mild but significant effect on all PD measures
+as compared to alcohol alone (40%) that had no effect on any PD measure (although sometimes a
+difference versus pre-dose was seen, but the lack of a real placebo control precludes any conclusion).
+When remimazolam and alcohol were administered together, the effects were slightly stronger than
+with remimazolam alone, although mostly not in an alcohol dose-dependent manner. The concentration
+of alcohol did not, however, have a major impact on the change in PD effects of remimazolam in the
+presence of alcohol.
+
+54
+
+Reference ID: 4564702
+
+Abuse potential studies
+Study CNS7056-014 was a single-dose, randomized, double-blind, placebo- and active-controlled
+crossover study with a single inpatient treatment visit. The abuse potential of single doses of IV
+remimazolam 5 mg and 10 mg was compared with that of 2.5 mg and 5 mg IV midazolam (active
+control) and placebo in healthy recreational CNS depressant users.
+Eligible subjects received each of the following 5 treatments (on Days 5, 7, 9, 11, and 13), administered
+IV over 1 minute, in a randomized, double-blind, crossover manner following an overnight fast:
+• Remimazolam 5 mg
+• Remimazolam 10 mg
+• Midazolam 2.5 mg
+• Midazolam 5 mg
+• Placebo (saline injection)
+Each drug administration was separated by approximately 48 hours. Serial pharmacodynamic (PD)
+evaluations were conducted up to 8 hours post-dose. PK and safety were also assessed.
+The primary PD endpoint was the maximum effect (Emax) on the bipolar Drug Liking visual analogue scale
+(VAS). Secondary endpoints included Drug Liking VAS (minimum effect [Emin] and time-averaged area
+under the effect curve to 8 hours after study drug administration [TA_AUE]); Overall Drug Liking VAS
+(Emax/Emin); Take Drug Again VAS (Emax); Good Effects VAS (Emax and TA_AUE); Bad Effects VAS (Emax and
+TA_AUE); Alertness/Drowsiness VAS (Emin and TA_AUE); Agitation/Relaxation VAS (Emin and TA_AUE);
+Any Effects VAS (Emax and TA_AUE); and Paired Associates Learning (PAL) total error score (Emax and
+TA_AUE).
+Pharmacodynamics: Remimazolam demonstrated an absolute abuse potential relative to placebo based
+on a its subjective effects on recreational drug abusers. The abuse potential of remimazolam was
+comparable to that of midazolam based on the primary measure, drug liking Emax. The Drug Liking VAS
+for remimazolam 5 mg and the comparable midazolam dose (2.5 mg) was 77.69 and 78.6, respectively
+and were 79.8 and 81.5 for remimazolam 10 mg and midazolam 5 mg, respectively (a score of 0 =
+ѨѨҤҖ҇Ҁњ ФѧҚѹѧѶѧҀњѩѠ ӻӶ ы ѨяШѧҤѤШҖ ѹѧѶШ Ҁ҇Җ ФѧҚѹѧѶШѩѠ ӷӶӶ ы ѨѨҤҖ҇Ҁњ ѹѧѶѧҀњѩ҉Ѣ ѮЌѶШ DҖҿњ !њЌѧҀ Emax was
+significantly lower for 5 mg remimazolam compared to 2.5 mg midazolam; the difference was no longer
+statistically different for the comparison of 10 mg remimazolam vs 5 mg midazolam, indicating that any
+difference flattens out when the dose is increased. The duration of drug liking and of other drug effects
+were generally longer for midazolam compared to remimazolam (drug liking for both remimazolam and
+midazolam peaked at between 2- and 20-minutes post-dose and were sustained for up to approximately
+4 hours post-dose). The TA_AUE of good effects were statistically significantly higher for midazolam than
+remimazolam and the TA_AUE of bad effects were statistically significantly higher for remimazolam than
+midazolam. For more details on the abuse liability of this product refer to the Control Substance Staff
+(CSS) review for the NDA.
+
+55
+
+Reference ID: 4564702
+
+Table 24: Statistical Analysis of Drug Liking Parameters of IV Midazolam and Placebo: Completer
+Population (N=39)
+
+For more details on the abuse liability of this product refer to the CSS review for the NDA.
+
+56
+
+Reference ID: 4564702
+
+QT prolongation potential Studies
+Two studies were conducted to evaluate the effect of remimazolam on QTc Study CNS7056-005 and
+Study CNS7056-017. In Study CNS7056-005, a thorough QT trial following the principles of ICH guidance
+E14, 57 healthy subjects (approximate 1:1 ratio of males to females) were randomized using a double
+ѾѧѹѹѧЌѿѥҚ ҚҕҿЌҖШ КҖ҇ҚҚ-over design to a sequence of the following treatments: IV bolus placebo, 1 tablet
+moxifloxacin 400 mg per oral, IV bolus remimazolam 10 mg, IV bolus remimazolam 20 mg, IV bolus
+midazolam 2.5 mg, and IV bolus midazolam 7.5 mg. There was a minimum 3-day washout period
+between treatments.
+The time-matched (timepoint) analysis demonstrated a very rapid increase in heart rate immediately
+following dosing, and these heart rate increases persisted for 5 to 10 minutes before resolving by 30 to
+60 minutes after dosing. This study detected the expected QT interval prolongations with moxifloxacin,
+validating assay sensitivity. As shown in Table 25, a transient increase in QTc at 30 seconds and 2
+minutes after dosing was observed for both remimazolam and midazolam which slightly exceeded the
+ѨҖШњҿѹЌҤ҇Җӑ ҤѤҖШҚѤ҇ѹФ ҇в К҇ҀКШҖҀҡ ҈ҤӋ҇-sided 90% CI exceeding 10 ms) cited in ICH E14 guidance.
+Beyond the first 2 minutes, there was no evidence of any clinically significant effect of remimazolam on
+QTc.
+Table 25: Effects of Remimazolam on QTc interval: Study CNS7056-005
+
+This initial transient effect on repolarization in the first 2 minutes after bolus dosing was hypothesized to
+be due to QT-RR hysteresis due to the large, rapid increase in heart rate immediately after dosing. This
+hypothesis was further explored in Study CNS-7056-017.
+Study CNS7056-017 was an open-label, randomized, placebo-controlled, crossover Phase 1, PK/PD
+clinical PK/PD study in which the effect of steady state plasma concentrations of remimazolam and its
+metabolite CNS7054 on cardiac repolarization during continuous infusion of remimazolam was
+evaluated without the confounding effect of QT-RR hysteresis observed with bolus dosing. The trial
+employed 3 different remimazolam infusion rates: initially 5 mg/min over 5 min, followed by 3 mg/min
+for the next 15 min, and then 1 mg/min for another 15 min. As expected, the remimazolam plasma
+К҇ҀКШҀҤҖЌҤѧ҇ҀҚ ҖЌҀњШФ вҖ҇ѿ ӷѢӼ Ҥ҇ ӸѢӶ ҏњѶѿш ФҿҖѧҀњ ҤѤШ ӹ ѿњѶѿѧҀ ѧҀвҿҚѧ҇Ҁ ЌҀФ вҖ҇ѿ ӷѢӶ Ҥ҇ ӷѢӷ ҏњѶѿш
+during the 1 mg/min infusion.
+A total of 20 subjects were randomized and received at least one dose of study drug. The results showed
+no effect of remimazolam on AV conduction as measured by the PR interval or on cardiac depolarization
+as measured by the QRS duration. There were no clinically relevant morphological changes
+57
+
+Reference ID: 4564702
+
+demonstrating a signal of concern. A 15 bpm but stable increase in HR was observed from 5 minutes to
+65 minutes after the start of infusion.
+No signal of any effect of remimazolam on cardiac repolarization was observed, based on time point,
+outlier, and PK/PD analyses. The largest control-corrected change from baseline for QT interval with
+individual correction (QTcI) was 3.7 ms (two-sided 90% upper confidence interval 8.5 ms) 15 minutes
+after the start of infusion. None of the remimazolam time points demonstrated an upper bound that
+approached or exceeded 10 ms.
+(b) (4)
+
+ѮѤШ ФЌҤЌ вҖ҇ѿ Й҇ҤѤ ҤѤШ ҚҤҿФѧШҚ ӋШҖШ ШӊЌѹҿЌҤШФ Йӑ ҤѤШ ҇ввѧКШѥҚ ѣѮ ѧҀҤШҖҀЌѹ ҖШӊiew team (QT-IRT). The IRT
+review concluded that remimazolam treatment is associated with large increase in heart rate. In the
+thorough QT study, the largest mean placebo-adjusted change-from-baseline HR (upper bound of 2­
+sided 90% CI) was 12.3 (14.2) bpm and 15.2 (17.1) bpm, after treatment with 10 mg and 20 mg
+remimazolam, respectively. The observation does not impact the overall conclusion that remimazolam
+increases the QTc interval because in a separate study (CNS7056-017) where heart rate is kept constant
+by using a slow IV infusion, small increases in QTc interval were detected. Furthermore, the slopes of the
+concentration- QTc relationship between the two studies were similar.
+ѮѤШ в҇ѹѹ҇ӋѧҀњ ӋШҖШ ҤѤШ ΟѤѮҚ К҇ѿѿШҀҤҚ Ҥ҇ ҤѤШ ҖШӊѧШӋ ҤШЌѿ
+
+(b) (4)
+
+We recommend reporting study findings, including drug effect on HR and QTcF,
+from the TQT study, CNS7056-ӶӶӻѢѩ Ѯ҇ њШҤ вҿҖҤѤШҖ ФШҤЌѧѹҚ ҇Ҁ ҤѤШ ѣѮ-IRT review refer to the review
+written by Dr. Nan Zheng submitted to DARRTS on 08/02/2019.
+These issues raised by the QT-IRT were communicated to the sponsor in the Mid-Cycle communication
+meeting. During the midcycle communication T-con held with the sponsor on Nov 22nd, 2019, the
+(b) (4)
+Қғ҇ҀҚ҇Җ ӋЌҚ ѧҀв҇ҖѿШФ ҤѤЌҤ
+
+. We intend to include a description of the drug effect on HR and QTcF from the
+TQT study, CNS7056-005, in labeling, if the drug is approved. The final labeling language is still being
+(b) (4)
+ФѧҚКҿҚҚШФ ЌҀФ ѤЌҚ Ҁ҇Ҥ ЙШШҀ вѧҀЌѹѧӖШФѢѩ
+
+58
+
+Reference ID: 4564702
+
+(b) (4)
+
+Reviewers Comments: We agree with the QT-IRT assessment that the study results from study CNS7056005 should be reported in the remimazolam label. The suggested labeling language is described in
+section 2.4 of this review.
+
+59
+
+Reference ID: 4564702
+
+4.3 Population PK and/or PD Analyses
+Pharmacometrics Review
+Introduction
+The primary objectives of this population pharmacokinetic (PopPK) analysis were to:
+1. Characterize the pharmacokinetics (PK) of remimazolam in adults following intravenous (IV)
+administration of remimazolam.
+2. Identify influential covariates, such as bodyweight, age, sex, race, American Society of
+Anesthesiologists (ASA) class, body mass index (BMI), estimated glomerular filtration rate (eGFR), and
+creatinine clearance (CrCL) on CL; the effect of concomitant medications that inhibit carboxylesterase 1
+(CES-1) on CL; the effects of age, sex, race, ASA class and BMI on volume of distribution at steady-state
+(Vss) in patients.
+Model development
+Data
+The PopPK analysis was based on PK data from 11 clinical studies: ONO-2745-01, ONO-2745-02, ONO­
+2745-03, ONO-2745-IVU007, CNS7056-001, CNS7056-002, CNS7056-004, CNS7056-006, CNS7056-008,
+CNS7056-015, CNS7056-017. The study design and blood sampling schedule varied among the 11 clinical
+studies.
+A summary of the number of subjects in PopPK model is given in Base model
+The base model was based on previously developed PopPK models. Inter-individual variability (IIV) for
+log-transformed PK parameters was modeled assuming a normal distribution for patient level random
+effects. The base structural model included 3 compartments to describe remimazolam concentrations
+over time. Even though previous PopPK models have shown that there is no relationship between body
+weight and PK parameters, the effect of body weight on all CL and V of distribution parameters was
+included with the allometric exponent (fixed to 0.75 for CL and intercompartmental clearances, Q2 and
+Q3, and 1.0 for V1 and volumes of the peripheral compartments [V2 and V3]).
+Covariate analysis
+A systematic covariate search was performed that led to the final model in the PK analysis. Covariate
+parameters, including the effect of age, sex, race, ASA class, BMI, eGFR, and CrCL on CL; the effect of
+concomitant medications that inhibit CES-1 on CL; the effects of age, sex, race, ASA class and BMI on
+Vss, were investigated in the PopPK analysis.
+
+Table 26. Pop PK modeling included all subjects who received a remimazolam dose with available dosing
+information and remimazolam plasma levels before administration of flumazenil: 126 healthy subjects,
+193 patients undergoing procedural sedation, and 40 patients undergoing induction and maintenance of
+anesthesia for surgery; 359 subjects total.
+
+60
+
+Reference ID: 4564702
+
+Base model
+The base model was based on previously developed PopPK models. Inter-individual variability (IIV) for
+log-transformed PK parameters was modeled assuming a normal distribution for patient level random
+effects. The base structural model included 3 compartments to describe remimazolam concentrations
+over time. Even though previous PopPK models have shown that there is no relationship between body
+weight and PK parameters, the effect of body weight on all CL and V of distribution parameters was
+included with the allometric exponent (fixed to 0.75 for CL and intercompartmental clearances, Q2 and
+Q3, and 1.0 for V1 and volumes of the peripheral compartments [V2 and V3]).
+Covariate analysis
+A systematic covariate search was performed that led to the final model in the PK analysis. Covariate
+parameters, including the effect of age, sex, race, ASA class, BMI, eGFR, and CrCL on CL; the effect of
+concomitant medications that inhibit CES-1 on CL; the effects of age, sex, race, ASA class and BMI on
+Vss, were investigated in the PopPK analysis.
+
+Table 26 Number of Subjects for Population PK Analyses
+
+a
+
+This number includes those with quantifiable concentrations. There were prediction records for all
+subjects to be included in the PK/PD analysis. b A total of 5 quantifiable pre-dose values were removed
+from the dataset because the recorded time of sampling was before or equal to the recorded time of
+the first dose. c One additional record was removed for missing sample time. d This number does not
+reflect the data that was not included in modeling because the samples were considered erroneous or
+outliers.
+(Source: !pplicant’s Population PK report nps2981-rpt001, Table 17)
+
+61
+
+Reference ID: 4564702
+
+Results
+The final PopPK model was a 3-compartment model with a CL of 1.18 L/min and a Vss of 41.5 L in a 70 kg
+subject. Analyses indicated that:
+•
+•
+•
+
+CL was 9.7% higher in females than males.
+CL was 13.0% lower in African Americans than in Caucasians or Asians. The Vss was 16% lower in
+African Americans than in Caucasians or Asians.
+Other parameters assessed, such as age, ASA class, BMI, eGFR, and creatinine clearance had no
+effect on the PK of remimazolam.
+
+Final Population Pharmacokinetic Model
+The parameter estimates for the final PopPK model in the analysis are listed in
+
+APPEARS THIS WAY ON ORIGINAL
+
+62
+
+Reference ID: 4564702
+
+Table 277. The goodness-of-fit plots for the final covariate model for all data are shown in
+
+APPEARS THIS WAY ON ORIGINAL
+
+63
+
+Reference ID: 4564702
+
+Figure 11. The final PopPK model reasonably described the observed data, and the PK parameter
+estimates were reasonable.
+
+APPEARS THIS WAY ON ORIGINAL
+
+64
+
+Reference ID: 4564702
+
+Table 27 NONMEM Estimates and Bootstrap Estimates for the Final Pop PK Model (Model #100)
+
+(Source: !pplicant’s Population PK report nps2981-rpt001, Table 3)
+
+65
+
+Reference ID: 4564702
+
+Figure 11 Final PopPK Pharmacokinetic Model Goodness of Fit Plots (Model #100)
+
+DV: dependent variable, observed remimazolam concentration (ng/mL); PRED: population predicted
+remimazolam concentration (ng/mL); IPRED: individual predicted remimazolam concentration (ng/mL);
+CWRES: conditional weighted residual error
+(Source: !pplicant’s Population PK report nps2981-rpt001, Figure 3)
+In the final PopPK model, the effect of categorical covariates including sex, race, ASA class, concomitant
+medications that inhibit CES-1 and the effect of continuous covariates including age, BMI, eGFR, and
+CrCL were evaluated. The major findings in the covariate analysis were depicted in
+
+66
+
+Reference ID: 4564702
+
+Figure 12 below. The effect of covariates on remimazolam PK were not clinically meaningful.
+
+67
+
+Reference ID: 4564702
+
+Figure 12 Covariate analysis result: Clearance vs bodyweight (top left), age (top right), gender (bottom
+left), and race (bottom right)
+
+RACE = (0 = White/Caucasian, 1 = Black/African-American, 2 = Asian), and SEX = (0 = male, 1 = female)
+҈ѤШӊѧШӋШҖѥҚ ЌҚҚШҚҚѿШҀҤ ЙЌҚШФ ҇Ҁ ҤѤШ Қғ҇ҀҚ҇ҖѥҚ вѧҀЌѹ ѡ҇ғѡά ѿ҇ФШѹ҉
+
+Reviewer’s comments: ѮѤШ ЌғғѹѧКЌҀҤѥҚ ғ҇ғҿѹЌҤѧ҇Ҁ ѡά ЌҀЌѹӑҚѧҚ ѧҚ ЌККШғҤЌЙѹШѢ ѮѤШ њ҇҇ФҀШҚҚ-of-fit plots
+indicated that the final population PK models for remimazolam was adequate in characterizing the PK
+ғҖ҇вѧѹШҚѢ ѮѤШ ЌғғѹѧКЌҀҤѥҚ ЌҀЌѹӑҚШҚ ӋШҖШ ӊШҖѧвѧШФ Йӑ ҤѤШ reviewer, with no significant discordance
+68
+
+Reference ID: 4564702
+
+identified. The allometric scaling approach sufficiently described bodyweight effect on remimazolam
+disposition. In another PopPK analysis based on Phase 2 studies (ONO-2745-03, ONO-2745-04, ONO­
+2745-05, and ONO-2745-06), bodyweight was found not to be a clinically relevant covariate. Hence, the
+dose evaluated in the Phase 3 clinical studies was not adjusted for bodyweight.
+The reviewer recommends the following labeling statement in section 12.3:
+Other Specific Populations
+Age, gender, race, and weight had no clinically relevant effect on remimazolam pharmacokinetics.
+
+69
+
+Reference ID: 4564702
+
+Signature Page 1 of 1
+
+-------------------------------------------------------------------------------------------This is a representation of an electronic record that was signed
+electronically. Following this are manifestations of any and all
+electronic signatures for this electronic record.
+-------------------------------------------------------------------------------------------/s/
+-----------------------------------------------------------DEEP KWATRA
+02/21/2020 12:26:55 PM
+TAO LIU
+02/21/2020 01:33:34 PM
+VENKATESH A BHATTARAM
+02/21/2020 01:34:34 PM
+YUN XU
+02/21/2020 01:45:26 PM
+MEHUL U MEHTA
+02/21/2020 03:08:11 PM
+
+Reference ID: 4564702
+
+

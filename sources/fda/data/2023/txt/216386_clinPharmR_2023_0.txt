@@ -1,0 +1,1944 @@
+CENTER FOR DRUG EVALUATION AND
+RESEARCH
+APPLICATION NUMBER:
+
+216951Orig1s000
+CLINICAL PHARMACOLOGY AND
+BIOPHARMACEUTICS REVIEW(S)
+
+Office of Clinical Pharmacology
+Integrated Review
+NDA Number
+
+216386
+
+Link to EDR
+
+\\CDSESUB1\evsprod\NDA216386
+
+Submission Date
+
+09-Mar-2022
+
+Submission Type
+
+505(b)(1) Application (Standard Review)
+
+Brand Name
+
+ZAVZPRET
+
+Generic Name
+
+Zavegepant Hydrochloride (‘BHV-3500’)
+
+Dosage Form (Strength)
+
+Nasal Spray (10 mg)
+
+Proposed Indication
+
+Acute treatment of migraine with or
+without aura in adults
+
+Applicant
+
+Biohaven Pharmaceuticals, Inc.
+
+Associated IND
+
+134120
+
+OCP Review Team
+
+Suresh Babu Naraharisetti, Ph.D.,
+Liu, Jie Ph.D.,
+Atul Bhattaram, Ph.D.,
+Yuching Yang, Ph.D.,
+Gopichand Gottipati, Ph.D.
+Sreedharan Sabarinath, Ph.D.,
+Ramana Uppoor, Ph.D.
+
+OCP Final Signatory
+
+Mehul Mehta, Ph.D.
+
+1
+
+Reference ID: 5136841
+
+Table of Contents
+1. Executive Summary ............................................................................................ 4
+1.1 Recommendations ...................................................................................... 4
+1.2 Post-Marketing Requirement and Commitment .......................................... 6
+2. Summary of Clinical Pharmacology Assessment .............................................. 7
+2.1 The Pharmacology and Clinical Pharmacokinetics ..................................... 7
+2.2 Dosing and Therapeutic Individualization.................................................... 9
+
+2.2.1 General dosing ............................................................................................... 9
+2.2.2 Therapeutic individualization........................................................................... 9
+
+2.2.3 Outstanding Issues ........................................................................................11
+2.2.4 Summary of Labeling Recommendations .......................................................11
+
+3. Comprehensive Clinical Pharmacology Review .............................................. 13
+3.1 Overview of the Product and Regulatory Background............................... 13
+3.2 General Pharmacological and Pharmacokinetic Characteristics ............... 13
+3.3 Clinical Pharmacology Questions.............................................................. 15
+
+3.3.1 To what extent does the available clinical pharmacology information provide
+pivotal or supportive evidence of effectiveness?.....................................................15
+3.3.2 Is the proposed dosing regimen appropriate for the general population for
+which the indication is being sought? .....................................................................18
+3.3.3 Is an alternative dosing regimen and management strategy required for
+subpopulations based on intrinsic factors? .............................................................18
+3.3.4 Are there clinically relevant food-drug or drug-drug interactions and what is the
+appropriate management strategy? ........................................................................20
+3.3.5 Is the to-be-marketed formulation the same as the clinical trial formulation, and
+if not, are there bioequivalence data to support approval of the to-be-marketed
+formulation? ...........................................................................................................27
+
+4. Appendices ..................................................................................................... 28
+4.1 Summary of Bioanalytical Method Validation ............................................ 28
+4.2 Pharmacometrics Review ......................................................................... 30
+
+2
+
+Reference ID: 5136841
+
+List of Abbreviations
+AE
+
+Adverse event
+
+AUC
+
+Area under the concentration-time curve
+
+AUC0-inf
+
+AUC from time 0 to extrapolated to infinity
+
+BCRP
+
+Breast cancer resistance protein
+
+BSEP
+
+Bile salt export pump
+
+CGRP
+
+Calcitonin gene-related peptide receptor
+
+Cmax
+
+Maximum (peak) drug concentration
+
+CYP
+
+Cytochrome P-450 enzyme
+
+DDI
+
+Drug-Drug Interaction
+
+MATE
+
+Multidrug and toxin extrusion transporter
+
+MBS
+
+Most bothersome symptom
+
+MRPs
+
+Multidrug resistance associated proteins
+
+NDA
+
+New Drug Application
+
+NTCP
+
+Sodium taurocholate co-transporting polypeptide
+
+OAT
+
+Organic anion transporter
+
+OATP
+
+Organic anion-transporting polypeptide
+
+OCT
+
+Organic cation transporter
+
+PBPK
+
+Physiologically based pharmacokinetic model
+
+PD
+
+Pharmacodynamics
+
+P-gp
+
+P-glycoprotein
+
+PK
+
+Pharmacokinetics
+
+Tmax
+
+Time of maximum (peak) drug concentration
+
+UDS
+
+Unit Dose System
+
+3
+
+Reference ID: 5136841
+
+1. Executive Summary
+In this original New Drug Application (NDA), Biohaven Pharmaceuticals Inc. is seeking
+approval of Zavegepant intranasal (IN) spray (NDA 216386) for the acute treatment of
+migraine in adults. Zavegepant (also referred as ‘BHV-3500’) is a new molecular entity
+(NME) and is not marketed in the US for any indication. It is a calcitonin gene-related
+peptide (CGRP) receptor antagonist developed for IN administration. Recently, several
+therapies targeting CGRP pathway such as Erenumab (BLA-761077, 5/17/2018),
+Fremanezumab (BLA-761089, 9/14/2018), Galcanezumab (BLA-761083, 9/27/2018),
+Eptinezumab (BLA-761119, 2/21/2020), and Atogepant (NDA 215206, 09/28/2021) have
+been approved by the FDA for migraine prevention in adults. Ubrogepant (NDA-211765,
+12/23/2019) was approved for the acute treatment of migraine in adults, while
+Rimegepant (NDA-212728, 2/27/2020 & 4/11/2022) was approved for both acute
+treatment of migraine and episodic migraine prevention.
+The applicant is relying on 2 randomized, double-blind, single-dose, placebo-controlled
+efficacy studies (BHV3500-201 and BHV3500-301), and one open-label long-term safety
+study (BHV3500-202) in patients with acute migraine. The patients with acute migraine
+were defined as those who had at least 1 year history of migraine (with or without aura)
+and not more than 8 attacks of moderate or severe pain intensity per month within last 3
+months (International Classification of Headache Disorders criteria; 3rd Ed. beta, 2013).
+Study BHV3500-201 evaluated single dose of 5, 10 and 20 mg IN zavegepant. Only the
+10 and 20 mg arms met the prespecified criteria for co-primary efficacy endpoints: pain
+freedom and absence of the most bothersome migraine-associated symptom (MBS) at 2
+hours, while patients in 20 mg arm did not show meaningful improvements in efficacy
+compared to those in 10 mg arm. Study BHV3500-301 evaluated single dose of 10 mg
+IN zavegepant and met the prespecified criteria for co-primary efficacy endpoints noted
+above. Study BHV3500-202 evaluated and demonstrated the long-term safety of only the
+10 mg dose-level. The applicant is seeking approval for 10 mg zavegepant given as a
+nasal spray in one nostril, and the maximum allowed dose in 24-hours is 10 mg. In
+addition to the efficacy/safety studies, the applicant included 11 Phase 1 studies.
+The primary focus of this review is to evaluate the appropriateness of dose adjustments
+based on intrinsic and extrinsic factors.
+
+1.1 Recommendations
+The Office of Clinical Pharmacology (OCP) team has reviewed the information submitted
+under this NDA and recommends approval of 10 mg IN dose of zavegepant (with the
+maximum dose of 10 mg in a 24-hour period) for the acute treatment of migraine with or
+without aura in adults. The key review issues with specific recommendations and
+comments are summarized below in Table 1-1:
+4
+
+Reference ID: 5136841
+
+Table 1-1 Summary of Review Issues and OCP Recommendations
+Review Issues
+
+Recommendations and Comments
+
+Evidence of
+effectiveness:
+
+The evidence of effectiveness of 10 mg IN zavegepant for acute
+treatment of migraine in adults is from two, multi-center, doubleblind, placebo-controlled, single-dose studies, BHV3500-201 and
+BHV3500-301.
+
+General dosing
+instructions:
+
+The recommended dose is 10 mg given as a single spray in one
+nostril. The maximum dose in a 24-hour period is 10 mg.
+
+Dosing in patient
+subgroups (intrinsic
+and extrinsic factors)
+
+•
+
+Severe hepatic impairment (Child-Pugh C): Zavegepant has
+not been studied in patients with severe hepatic impairment
+(Child-Pugh C). Avoid use of zavegepant in patients with
+severe hepatic impairment.
+
+•
+
+Severe renal impairment (CLcr 15-29 mL/min): In patients
+with severe renal impairment, accumulation of uremic solutes
+has been reported to inhibit OATP transporter, which can
+increase zavegepant exposures. Avoid use of zavegepant in
+patients with severe renal impairment.
+
+•
+
+Subjects with kidney failure (CLcr < 15 mL/min):
+Zavegepant has not been studied in patients with kidney failure
+or in patients on dialysis. Avoid use of zavegepant in patients
+with kidney failure.
+
+•
+
+Inhibitors of OATP1B3 or NTCP transporters: Zavegepant
+is a substrate for OATP1B3 and NTCP transporters. Increased
+plasma concentrations of zavegepant were observed when
+concomitantly administered with steady-state rifampin
+(OATP1B3 and NTCP inhibitor). Avoid concomitant use of
+zavegepant with the drugs that inhibit OATP1B3 or NTCP.
+
+•
+
+Inducers of OATP1B3 or NTCP transporters: Zavegepant is
+a substrate for OATP1B3 and NTCP transporters.
+Concomitant administration of zavegepant with inducers of
+OATP1B3 or NTCP transporters may result in reduced plasma
+concentrations of zavegepant. Avoid concomitant use of
+zavegepant with the drugs that induce OATP1B3 or NTCP.
+
+5
+
+Reference ID: 5136841
+
+Review Issues
+
+Recommendations and Comments
+
+Dosing in patient
+subgroups
+(intrinsic and
+extrinsic factors)
+
+•
+
+Bridge between
+the “to-bemarketed” and
+clinical trial
+formulations
+
+The zavegepant nasal spray is a solution of 10 mg zavegepant free
+(b) (4)
+base (equivalent to
+mg of zavegepant hydrochloride) in a
+(b) (4)
+buffered aqueous solution (
+mg/mL). The composition of the
+formulation and the design of the device used in the pivotal trials and
+commercial use (to-be-marketed) are the same. Therefore, no PK
+bridging studies are required.
+
+Intranasal decongestants: Concomitant administration of
+zavegepant with intranasal decongestants may decrease the
+absorption of zavegepant. Avoid concomitant administration of
+intranasal decongestants with zavegepant. When concomitant
+use is unavoidable, intranasal decongestants should be
+administered at least 1 hour after zavegepant administration.
+
+1.2 Post-Marketing Requirement and Commitment
+None
+
+6
+
+Reference ID: 5136841
+
+2. Summary of Clinical Pharmacology Assessment
+2.1
+
+The Pharmacology and Clinical Pharmacokinetics
+
+Mechanism of Action:
+Zavegepant is a CGRP receptor antagonist developed for IN administration. CGRP is an
+endogenous 37 amino acid peptide contained within pain signaling nociceptive afferents.
+Zavegepant reportedly binds to the human CGRP receptor and antagonizes CGRP
+receptor function, thus inhibiting CGRP-induced enhancement of pain signaling, blocking
+CGRP-induced vasodilation, and halting CGRP-induced neurogenic inflammation.
+Absorption:
+The median Tmax of zavegepant with 10 mg nasal spray was 0.54 h. The absolute
+bioavailability of zavegepant, determined using population pharmacokinetics (PPK)
+approach after 10 mg intranasal dose was ~5%. Following once daily IN zavegepant
+dosing of 10 mg and 20 mg for 14 days, and 40 mg (2 x 20 mg administered with a 2-hour
+gap between the 2 doses) for 8 days, there was minimal accumulation (up to 18%).
+Zavegepant exhibits slightly less than dose-proportional increase in the exposure
+following single IN dose administration over the dose range from 1 mg to 40 mg.
+Distribution:
+The mean apparent volume of distribution of intranasal zavegepant is approximately 1774
+L. Zavegepant is approximately 90% bound to human plasma proteins.
+Elimination:
+Metabolism
+Based on in vitro studies, zavegepant is primarily metabolized by CYP3A4. After a single
+IV dose of 5 mg [14C]-zavegepant, unchanged zavegepant was the most prevalent
+circulating component in the human plasma (~ 90%). No major metabolites (i.e., > 10%)
+of zavegepant were detected in plasma.
+Excretion
+The effective elimination half-life in healthy subjects following a single dose of 10 mg
+zavegepant nasal spray was approximately 6.6 hours. The mean apparent clearance of
+intranasal zavegepant was 266 L/h. Fecal excretion (biliary elimination) plays a major role
+while renal plays a minor role in the elimination for zavegepant: 80% and 11% of the dose
+was recovered as unchanged zavegepant in feces and urine, respectively.
+
+7
+
+Reference ID: 5136841
+
+Specific Populations:
+Hepatic Impairment
+In a clinical study comparing PK of zavegepant in subjects with moderate hepatic
+impairment (Child-Pugh B) compared to that in subjects with normal hepatic function,
+zavegepant AUC0-inf was 1.9-fold higher and Cmax was 16% higher in subjects with
+moderate hepatic impairment (Child-Pugh B). Based on minimal accumulation (given the
+short effective half-life and once daily dosing interval) and tolerable safety profile noted in
+a multiple ascending dose study, upon discussion with clinical division, the review team
+recommends that no dose adjustment is needed in patients with moderate hepatic
+impairment. Since the magnitude of the impact of mild impairment on PK is expected to
+be lower than that observed with moderate hepatic impairment, no dose adjustment is
+needed in mild hepatic impairment (Child Pugh A).
+The impact of severe hepatic impairment has not been studied. Therefore, it is
+recommended to avoid use of zavegepant in patients with severe hepatic impairment
+(Child-Pugh C) (see Section 3.3.2).
+Renal Impairment
+The mass balance study showed that the renal route plays a minor role in the clearance
+of zavegepant (11% of dose recovered as unchanged zavegepant in urine). The effect of
+renal impairment on zavegepant PK has not been studied in a dedicated renal impairment
+study. PPK analysis indicated that there is no clinically significant effect on the PK of
+zavegepant in subjects with estimated creatinine clearance (CLcr) ranging from 52 to >
+90 mL/min. In-vitro and in-vivo studies indicate that zavegepant is a substrate for
+OATP1B3 transporter. It has been reported in the literature that uremic solutes can
+accumulate in subjects with severe renal impairment (CLcr < 30 mL/min). Accumulation
+of uremic solutes has been reported to inhibit OATP transporters 1, that can result in
+increased zavegepant exposures. Therefore, it is recommended to avoid use of
+zavegepant in patients with severe renal impairment (CLcr 15 – 29 mL/min). The impact
+of kidney failure or dialysis on the PK of zavegepant was not evaluated. Therefore, it is
+recommended to avoid use in patients with kidney failure (CLcr < 15 mL/min).
+Effects of Body Weight, Gender, Race, Ethnicity and Age
+Body weight, gender, race, ethnicity and age did not have a clinically relevant effect on
+the PK of zavegepant. Please refer to Section 4.2 for additional details.
+
+1 Ming-Liang Tan et al; Effect of Chronic Kidney Disease on Nonrenal Elimination Pathways: A Systematic
+
+Assessment of CYP1A2, CYP2C8, CYP2C9, CYP2C19, and OATP; PMID: 28990182
+
+8
+
+Reference ID: 5136841
+
+2.2. Dosing and Therapeutic Individualization
+2.2.1 General dosing
+For the acute treatment of migraine, the recommended dose is 10 mg given as a single
+spray in one nostril. The maximum dose in a 24-hour period is 10 mg.
+2.2.2 Therapeutic individualization
+Drug Interactions
+Inhibitors of CYP3A4 and P-gp:
+In a dedicated drug interaction study, concomitant administration of a single dose of 10
+mg zavegepant IN with itraconazole (200 mg once daily; at steady state), a strong
+CYP3A4 and P-gp inhibitor did not result in a clinically relevant effect on the exposures
+of zavegepant. Therefore, no dosage adjustment for zavegepant is recommended when
+concomitantly administered with inhibitors of CYP3A4 and P-gp.
+Since the impact on the zavegepant exposures with a moderate or a weak inhibitor will
+be lower than that with strong inhibitors, no dosage adjustment for zavegepant is
+recommended when concomitantly administered with moderate or weak inhibitors of
+CYP3A4 and P-gp.
+Inducers of CYP3A4 and P-gp:
+Considering the low metabolic clearance of zavegepant and the lack of a significant effect
+with a strong CYP3A4 inhibitor on the PK of IN zavegepant, drug interactions with
+CYP3A4 and P-gp inducers is not expected to have a clinically significant effect on
+zavegepant exposures. Therefore, no dose adjustment of zavegepant is recommended
+when concomitantly administered with inducers of CYP3A4 and P-gp.
+Inhibitors of OATP1B3 or NTCP:
+Zavegepant is a substrate for OATP1B3 and NTCP transporters. Concomitant
+administration of single dose of 100 mg zavegepant oral capsule with rifampin (600 mg
+once daily; at steady state), a strong inducer of P-gp and CYP3A, and an inhibitor of
+OATP1B3 and NTCP, showed 2.3-fold and 2.2-fold increase in zavegepant AUC and
+Cmax, respectively. This observed effect is a composite of the induction effect on P-gp
+and CYP3A and the inhibition effect on OATP1B3 and NTCP transporters, and therefore,
+likely is an underestimate of the OATP1B3 or NTCP-mediated inhibition effect. The review
+team recommends avoiding the concomitant use of zavegepant with inhibitors of
+OATP1B3 or NTCP.
+Inducers of OATP1B3 or NTCP
+The applicant did not conduct a dedicated study to evaluate the impact of OATP1B3 or
+NTCP inducers on PK of zavegepant. Concomitant administration of zavegepant with
+9
+
+Reference ID: 5136841
+
+inducer of OATP1B3 or NTCP transporters may result in reduced plasma concentrations
+of zavegepant. The review team recommends avoiding the concomitant use of
+zavegepant with the drugs that induce OATP1B3 or NTCP.
+Sumatriptan:
+Sumatriptan is indicated for the acute treatment of migraine attacks. In a dedicated PKPD DDI study, the co-administration of sumatriptan (12 mg, given as two 6 mg
+subcutaneous doses separated by one hour) with 20 mg IN zavegepant did not result in
+a clinically significant change in the PK of sumatriptan or zavegepant, or cause elevations
+in mean arterial BP or systolic or diastolic BP. Therefore, co-administration of zavegepant
+with sumatriptan can be allowed without dosage modification.
+Oral Contraceptives:
+In a dedicated study, co-administration of oral contraceptive ethinyl estradiollevonorgestrel, EE-LNG (0.02 mg- 0.1 mg) with 20 mg IN zavegepant did not result in a
+clinically significant change in the PK of EE or LNG. Therefore, oral contraceptives may
+be co-administered with IN zavegepant without dosage modification.
+Specific Populations
+Hepatic Impairment
+In a dedicated clinical study comparing PK of zavegepant in subjects with moderate
+hepatic impairment (Child-Pugh B) compared to subjects with normal hepatic function,
+higher exposures of zavegepant (AUC0-inf by 1.9-fold and Cmax by 16%) were observed
+in moderate hepatic impairment. Based on the observed increase in exposure of
+(b) (4)
+zavegepant, the applicant recommended
+(b) (4)
+in patients with moderate hepatic impairment. Based on minimal accumulation
+(given the short effective half-life and once daily dosing interval) and tolerable safety
+profile noted in multiple ascending dose study, upon discussion with clinical division, the
+review team recommends that no dose adjustment is needed in patients with moderate
+hepatic impairment. Since the magnitude of the impact of mild impairment on PK is
+expected to be lower than that observed with moderate hepatic impairment, no dose
+adjustment is needed in mild hepatic impairment (Child Pugh A).
+The impact of severe hepatic impairment on the PK of zavegepant has not been studied.
+It is recommended to avoid zavegepant in patients with severe hepatic impairment (see
+Section 3.3.3).
+Renal Impairment
+The effect of renal impairment has not been studied in a dedicated renal impairment
+study. The mass balance study showed that the renal route plays a minor role in the
+10
+
+Reference ID: 5136841
+
+clearance of zavegepant (11% of dose recovered as unchanged zavegepant in urine).
+The PPK analysis indicated that there is no clinically significant effect on the PK of
+zavegepant in subjects in patients with estimated Clcr ranged from 52 to >90 mL/min. Invitro and in-vivo studies indicate that zavegepant is a substrate for OATP1B3 transporter.
+It has been reported in the literature that uremic solutes can accumulate in subjects with
+severe renal impairment (CLcr < 30 mL/min). Accumulation of uremic solutes has been
+reported to inhibit OATP transporters, resulting in increased zavegepant exposures.
+Therefore, it is recommended to avoid use of zavegepant in patients with severe renal
+impairment (CLcr 15 – 29 mL/min). The impact of kidney failure or dialysis on PK of
+zavegepant was not evaluated. Therefore, it is recommended to avoid use in patients with
+kidney failure (CLcr < 15 mL/min) (see Section 3.3.3).
+Other Specific Populations:
+Based on the population PK analysis, body weight, gender, race, ethnicity, and age did
+not have a clinically relevant effect on the PK of zavegepant. Refer to Section 4. for
+additional details.
+2.2.3 Outstanding Issues
+None.
+2.2.4 Summary of Labeling Recommendations
+The Office of Clinical Pharmacology has the following labeling concepts to be included in
+the final package insert.
+•
+
+The recommended dose is 10 mg given as a single spray in one nostril. The
+maximum dose in a 24-hour period is 10 mg.
+
+•
+
+No dose adjustment is necessary in mild and moderate renal impairment, CLcr
+>30 mL/min (see Section 3.3.3). Accumulation of uremic solutes in subjects with
+severe renal impairment can affect OATP activity, potentially resulting in increased
+zavegepant (an OATP1B3 substrate) exposures in such subjects. Therefore, it is
+recommended to avoid use of zavegepant in patients with severe renal impairment
+(CLcr 15 – 29 mL/min). The impact of kidney failure or dialysis on PK of zavegepant
+was not evaluated. Therefore, it recommended to avoid use in patients with kidney
+failure (CLcr < 15 mL/min) (see Section 3.3.3).
+
+•
+
+No dose adjustment is required in subjects with mild hepatic impairment (ChildPugh A). In patients with moderate hepatic impairment (Child-Pugh B), zavegepant
+exposures, AUC0-inf increased by 1.9-fold and Cmax by 16% relative to matched
+healthy controls. Based on minimal accumulation and tolerable safety profile noted
+11
+
+Reference ID: 5136841
+
+after QD administration for 14 days of 20 mg IN zavegepant in MAD study, no dose
+adjustment is necessary in patients with moderate hepatic impairment.
+Zavegepant has not been studied in patients with patients with severe hepatic
+impairment (Child-Pugh C). It is recommended to avoid use of zavegepant in
+patients with severe hepatic impairment (see Section 3.3.3).
+•
+
+No dose adjustment is necessary based on body weight, age, gender, race, and
+ethnicity (see Section 3.3.3).
+
+•
+
+Concomitant administration of IN zavegepant with a strong inhibitor of CYP3A4
+and P-gp (itraconazole) did not result in a clinically significant change in
+zavegepant exposures. No dose adjustment of zavegepant is necessary with
+inhibitors of CYP3A4 /P-gp (see Section 3.3.4).
+
+•
+
+Considering the low metabolic clearance and the lack of a significant effect with a
+strong CYP3A4 inhibitor on the PK of IN zavegepant, drug interactions with
+CYP3A4 and P-gp inducers is not expected to have a clinically significant effect on
+zavegepant exposures. Therefore, no dose adjustment of zavegepant is
+necessary with inducers of CYP3A4 and P-gp.
+
+•
+
+Concomitant oral administration of 100 mg oral zavegepant with rifampin at steady
+state (strong CYP3A and P-gp inducer, and OATP1B3 and NTCP inhibitor)
+resulted in 2.3-fold increase in AUC and 2.2-fold in Cmax of zavegepant. This
+effect is a composite of induction of CYP3A and P-gp, and inhibition of OATP1B3
+and NTCP. Therefore, the magnitude of OATP1B3 and NTCP-mediated
+interaction is likely to be an underestimate. Therefore, it is recommended to avoid
+concomitant use of zavegepant with the drugs that inhibit OATP1B3 or NTCP (see
+Section 3.3.4).
+
+•
+
+Concomitant administration of zavegepant with inducers of OATP1B3 or NTCP
+transporters may result in reduced plasma concentrations of zavegepant. It is
+recommended to avoid the concomitant use of zavegepant with the drugs that
+induce OATP1B3 or NTCP (see Section 3.3.4).
+
+•
+
+Concomitant administration of zavegepant with intranasal decongestants may
+decrease the absorption of zavegepant. It is recommended to avoid concomitant
+administration of intranasal decongestants with zavegepant. When concomitant
+use is unavoidable, intranasal decongestants should be administered at least 1
+hour after zavegepant administration (see Section 3.3.4).
+
+•
+
+No clinically significant PK interactions were observed with oral contraceptives
+(see Section 3.3.4).
+
+12
+
+Reference ID: 5136841
+
+3.3 Clinical Pharmacology Questions
+3.3.1 To what extent does the available clinical pharmacology information
+provide pivotal or supportive evidence of effectiveness?
+The primary evidence of effectiveness of zavegepant for the treatment of acute migraine
+is based on two randomized, double-blind, placebo-controlled single-attack trials
+BHV3500-201 and BHV3500-301. Study BHV3500-201 evaluated efficacy of 5, 10, and
+20 mg administered as a single IN dose, while study BHV3500-301 evaluated efficacy of
+a single IN dose of 10 mg zavegepant. These trials enrolled male or female patients who
+were 18 years and older and had at least 1 year history of migraine attacks (with or without
+aura) consistent with a diagnosis according to the International Classification of
+Headache Disorders, 3rd edition, with an age of onset prior to 50 years of age, migraine
+attack lasting 4 to 72 hours if untreated and not more than 8 attacks of moderate or severe
+intensity per month within the last 3 months (please refer to Clinical and Statistics reviews
+for additional details on exclusion and inclusion criteria). Both trials included a screening
+period (up to 28 days) and an acute treatment period of 45 days.
+Study BHV3500-201 met the prespecified criteria for both co-primary efficacy endpoints:
+pain freedom and absence of the most bothersome migraine-associated symptom (MBS)
+[photophobia, phonophobia, or nausea] at 2 hours, following single doses of 10 mg and
+20 mg, while 5 mg did not (results summarized in figure below). Additionally, patients in
+20 mg arm did not show meaningful improvements in efficacy compared to those in 10
+mg arm. Based on these results, 10 mg IN was selected for further evaluation.
+
+15
+
+Reference ID: 5136841
+
+Figure 3-1 Forest plot of primary endpoints, zavegepant 5 mg, 10 mg, and 20 mg
+versus placebo (Study BHV3500-201)
+
+Source: Study BHV3500-201 clinical study report, Figures 10-1, 10-2 and 10-3 on pages 51, 53 and 55
+
+Study BHV3500-301 met the prespecified criteria for 10 mg zavegepant for co-primary
+endpoints noted above. The results are summarized in figure below.
+Please refer to statistical review Drs. Ye Li and John Lawrence for additional details on
+primary and secondary endpoint analyses.
+
+16
+
+Reference ID: 5136841
+
+Figure 3-2 Forest plot of co-primary and secondary endpoints (BHV3500-301)
+
+Source: Study BHV3500-301 clinical study report, Figures 11-1, on pages 43 and 44
+
+Study BHV3500-202 is a multicenter, open-label study to assess the safety and
+tolerability of long-term use of zavegepant 10 mg IN, taken up to 8 times per month (28
+days), in 600 subjects with migraine. Overall, the study of zavegepant IN 10 mg
+demonstrates the favorable safety profile across a variety of safety endpoints, including
+AE assessments, clinical laboratory testing including LFTs, vital signs, and ECGs. The
+most frequently reported treatment-emergent AEs were dysgeusia, nasal discomfort,
+COVID-19, nausea, throat irritation, and nasal congestion. Please refer to the clinical
+review by Drs. Ryan Kau and Heather Fitter for additional details.
+
+17
+
+Reference ID: 5136841
+
+3.3.2 Is the proposed dosing regimen appropriate for the general population for
+which the indication is being sought?
+Yes, studies BHV3500-201 and BHV3500-301 demonstrated that the 10 mg dose
+administered as IN spray is superior to placebo for the acute treatment of migraine for
+both pain freedom and absence of the most bothersome migraine-associated symptom
+at 2 hours (See Section 3.3.1). Even though the 20 mg was superior to placebo in one of
+the studies (BHV3500-201), the efficacy endpoints were comparable to 10 mg dose. The
+applicant intends to market only 10 mg dose strength and is seeking approval only for 10
+mg dose. Study BHV3500-202 demonstrated long-term safety for the 10 mg dose.
+3.3.3 Is an alternative dosing regimen and management strategy required for
+subpopulations based on intrinsic factors?
+Yes, zavegepant should be avoided in patients with severe renal impairment and kidney
+failure, and severe hepatic impairment. Population pharmacokinetic analysis did not
+reveal a clinically significant impact of body weight, gender, race, ethnicity and age on the
+exposures of zavegepant. Therefore, no dose adjustment is necessary based on these
+intrinsic factors.
+Renal Impairment
+The results from the mass-balance study indicate that renal route plays a minor role in
+the clearance of zavegepant. Following a single IV 5 mg [14C]-zavegepant dose, only
+~11% of the dose was recovered as unchanged zavegepant in the urine. The effect of
+renal impairment has not been studied through a dedicated renal impairment study.
+Based on PPK analysis, no clinically significant effect on the PK of zavegepant was
+observed in subjects with estimated creatinine clearance, CLcr in the range from 52 to >
+90 mL/min.
+The review team’s recommendations and relevant considerations are summarized below
+for patients with CLcr <30 mL/min, who constitute patients with severe renal impairment
+(CLcr 15-29 mL/min) and kidney failure (CLcr < 15 mL/min):
+Severe Renal Impairment
+Zavegepant is a substrate for CYP3A, P-gp OATP1B3 and NTCP. The applicant
+conducted a DDI study with oral zavegepant and rifampin (OATP1B3 and NTCP inhibitor,
+and CYP3A and p-gp inducer) at steady state. However, the design of the available study
+makes it difficult to tease out the relative contribution of CYP3A and/or p-gp induction as
+well as OATP1B3 or NTCP-inhibition effects of rifampin on zavegepant exposure (see
+Section 3.3.4). Therefore, the observed 2.3-fold increase in zavegepant exposures with
+rifampin is likely an underestimation of the OATP1B3 and/or NTCP inhibition. Assuming
+a worst-case scenario of accumulation of uremic solutes (which is reported to occur in
+18
+
+Reference ID: 5136841
+
+patients with severe renal impairment) behaving like a “strong” inhibitor of OATP and/or
+NTCP, the exposures could be > 2.3-fold, as seen with the rifampin DDI study. This is the
+basis for review team’s recommendation to avoid zavegepant use in severe renal
+impairment.
+Kidney failure
+The impact of kidney failure or dialysis (CLcr < 15 mL/min) on PK of zavegepant was not
+studied. Zavegepant is 90% plasma protein bound. While the impact of dialysis has not
+been studied, during the dialysis, in addition to removal of uremic solutes, it is likely that
+the zavegepant could also be removed to a certain degree. Since the true impact of
+dialysis on the exposure of zavegepant cannot be reliably predicted, the review team
+recommends avoid use of zavegepant in patients with kidney failure.
+Hepatic Impairment
+The applicant conducted a study (Study # BHV3500-108), an open-label, parallel group
+study to evaluate the PK of 10 mg IN zavegepant in subjects with moderate hepatic
+impairment (Child Pugh B, n=8) compared to that in healthy matched controls (n=8). The
+results show that moderate hepatic impairment increased the exposure of zavegepant,
+approximately 1.9-fold in AUC0-inf and 16% in Cmax following a single dose of IN
+zavegepant 10 mg when compared to normal hepatic function (Table 3-2).
+In both the treatment groups, unbound zavegepant concentrations were measured at 0.5and 4-hours post-dose. The geometric mean Fu (fraction unbound) of zavegepant was
+similar in subjects with moderate hepatic impairment (0.13) and in subjects with normal
+hepatic function (0.11). The Fu was similar at 0.5- and 4-hours postdose for individual
+subjects regardless of hepatic function.
+Table 3-2 Summary of total zavegepant PK parameters following a single dose of
+IN zavegepant 10 mg in subjects with moderate hepatic impairment or subjects with
+normal hepatic function [Study # BHV3500-108]
+Group (N)
+Normal hepatic function
+(N = 8)
+Moderate hepatic impairment
+(N = 8)
+
+PK Parameters
+Cmax
+AUC0-inf
+(ng/mL)
+(h.ng/mL)
+20 (53%)
+44 (51%)
+
+Geometric Mean Ratio (90 % CI)
+Cmax
+AUC0-inf
+(ng/mL)
+(h.ng/mL)
+
+23 (67%)
+
+1.16
+(0.69 to 1.95)
+
+84 (47%)2
+
+1.93
+(1.12 to 3.33)
+
+2n = 7; PK parameters are presented as geometric mean (% CV); Source: Reviewer confirmed sponsor’s
+
+analysis.
+
+19
+
+Reference ID: 5136841
+
+Based on the observed 1.9-fold increase in AUC of zavegepant in patients with moderate
+(b) (4)
+hepatic impairment (HI), the applicant recommended
+(b) (4)
+The observed ~2-fold increase in AUC is
+equivalent to that following 20 mg IN dose, which showed comparable efficacy for primary
+and secondary efficacy endpoints at 10 mg IN in study 201. Although the long-term safety
+for 20 mg IN dose was not evaluated, the review team recommends that no adjustment
+in moderate HI is necessary based on the following considerations:
+•
+
+•
+
+•
+
+The MAD study in health volunteers evaluated 10 mg, 20 mg QD dosing for 14 days
+and 40 mg (2 x 20 mg administered with a 2-hour gap between the 2 doses) QD
+dosing for 8 days. Based on discussion with Clinical, the observed adverse events
+with 20 mg QD dosing for 14 days were not particularly concerning (albeit the data is
+from a small number of patients). The MAD study results showed the effective halflife was 6.5 hours, and minimal accumulation with QD dosing (up to 18%). The
+proposed indication is acute treatment of migraine, and maximum allowed dose in a
+24-hour period is a single dose. Therefore, the potential for significant accumulation
+with multiple dosing of 10 mg in subjects with moderate HI is unlikely.
+Zavegepant does not undergo significant hepatic metabolism, and 80% of the 5 mg
+[14C]-zavegepant intravenous dose is excreted unchanged in feces. Further, no major
+metabolites have been identified in mass-balance study. The absolute bioavailability
+of IN zavegepant determined using PPK approach was reported to be ~5%.
+The safety profile for zavegepant was reasonably characterized in the clinical
+program and clinical team noted the AEs were not concerning. Further, the
+cumulative safety data generated for the recently approved therapies that target
+CGRP pathways did not show cardiovascular related AEs (which were initially
+thought to occur based on the mechanism of action targeting CGRP pathway).
+
+For mild hepatic impairment patients, since the magnitude of the impact on PK is expected
+to be lower than that observed with moderate hepatic impairment, no dose adjustment is
+needed in mild hepatic impairment (Child Pugh A). The impact of severe hepatic
+impairment on the PK of zavegepant has not been studied. Therefore, the review team
+recommends to avoid use in patients with severe hepatic impairment (Child Pugh C).
+3.3.4 Are there clinically relevant food-drug or drug-drug interactions and what
+is the appropriate management strategy?
+Zavegepant 10 mg IN spray is not expected to have food-effect, and therefore the
+applicant did not evaluate the impact of food-intake on PK. Avoid concomitant use of
+zavegepant with OATP1B3 or NTCP inhibitors or inducers, and intranasal decongestants.
+
+20
+
+Reference ID: 5136841
+
+Drug Interactions
+Modulators of CYP3A4 and P-gp
+Zavegepant is a substrate for CYP3A4 and P-gp. The applicant conducted a clinical drug
+interaction study (Study # BHV3500-111) in which Cohort 2 assessed the effect of
+itraconazole (a strong CYP3A4 and P-gp inhibitor) on the PK of oral and IN zavegepant.
+This is an open- label, fixed-sequence study to assess the effect of multiple doses of
+itraconazole solution on the single dose PK of oral and IN zavegepant in healthy subjects.
+Subjects (n=18) received a single dose of IN zavegepant 10 mg on Day 1 and a single
+dose of 50 mg zavegepant oral softgel capsule on Day 3, under fasted conditions and
+separated by a washout period of approximately 48 hours. On days 4 to 12, the subjects
+received itraconazole 200 mg QD under fasted conditions. On day 7, 10 mg IN
+zavegepant was administered under fasted conditions 1 hour after itraconazole dosing.
+On day 11, 50 mg zavegepant oral soft gel capsule was administered under fasted
+conditions 1 hour after itraconazole dosing. The PK of zavegepant was characterized
+when administered alone on Days 1 and 3 and when co-administered with itraconazole
+on Days 7 and 11.
+The summary of pharmacokinetic parameters for IN and oral zavegepant are presented
+in tables below. Concomitant administration of itraconazole (a strong CYP3A4 and P-gp
+inhibitor) at steady state with a single dose of 10 mg IN zavegepant showed no clinically
+relevant changes in the exposure of zavegepant. Based on these results, the applicant
+proposed that no dose adjustment is necessary when zavegepant is concomitantly
+administered with CYP3A4 or P-gp inhibitors. The review team agrees with applicant’s
+proposal.
+Table 3-3: Summary of zavegepant PK parameters following a single dose of
+intranasal zavegepant 10 mg alone or co-administration with itraconazole.
+Treatment / Day
+
+Zavegepant IN / Day 1
+Itraconazole + Zavegepant
+IN / Day 7
+
+PK Parameters*
+Cmax
+(ng/mL)
+24 (89%)
+
+AUC0-inf
+(h.ng/mL)
+48 (55%)
+
+21 (83%)
+
+49 (59%)
+
+Geometric Mean Ratio
+(90 % CI)
+Cmax
+AUC0-inf
+(ng/mL)
+(h.ng/mL)
+
+0.88
+0.64 to 1.20
+
+1.02
+0.82 to 1.26
+
+Source: Reviewer confirmed sponsor’s analysis. *PK parameters are presented as geometric mean (% CV)
+
+Though the applicant intends to market only 10 mg strength for IN administration,
+concomitant drug administration of oral soft gel capsules with itraconazole and rifampin
+were used to inform dosing recommendations for concomitant administration of IN
+21
+
+Reference ID: 5136841
+
+zavegepant with OATP1B3 or NTCP inhibitors or inducers (discussed in subsequent
+subsection).
+Concomitant administration of itraconazole at steady state with a single dose of 50 mg
+oral zavegepant capsules resulted in increased exposure of zavegepant (AUC by 59%
+and Cmax by 77%, respectively (Table 3-3). This suggests the involvement of P-gp and/or
+CYP3A in the first pass effect.
+Table 3-4: Summary of zavegepant PK parameters following a single dose of
+zavegepant oral softgel capsule 50 mg alone or co-administration with
+itraconazole.
+Treatment / Day
+
+Zavegepant Oral / Day 3
+Itraconazole + Zavegepant
+Oral / Day 11
+
+PK Parameters*
+Cmax
+AUC0-inf
+(ng/mL)
+(h.ng/mL)
+7.2 (151%) 24 (114%)
+13 (125%)
+
+41 (72%)
+
+Geometric Mean Ratio
+(90 % CI)
+Cmax
+AUC0-inf
+(ng/mL)
+(h.ng/mL)
+
+1.77
+1.09 to 2.89
+
+1.59
+1.16 to 2.17
+
+Source: Reviewer confirmed sponsor’s analysis. *PK parameters are presented as geometric mean (% CV)
+
+Modulators of OATP1B3 or NTCP
+Zavegepant is a substrate for OATP1B3 and NTCP based on in-vitro studies. The
+applicant conducted a clinical drug interaction study (Study # BHV3500-111), in which
+Cohort 1 assessed the effect of rifampin (a OATP1B3 and NTCP inhibitor, CYP3A4 and
+P-gp inducer) on the PK of oral zavegepant.
+This was an open- label, fixed-sequence study to assess the effect of multiple doses of
+rifampin on the single dose PK of oral zavegepant in healthy subjects. Subjects (N=15)
+received a single dose of zavegepant oral softgel capsule 100 mg on Day 1 under fasted
+conditions and rifampin 600 mg once daily from Days 2 to 11. On day 11, 100 mg
+zavegepant oral soft gel capsule was administered under fasted conditions within 5
+minutes of rifampin dosing. The summary of pharmacokinetic parameters is presented in
+table below.
+
+22
+
+Reference ID: 5136841
+
+Table 3-5: Summary of zavegepant PK parameters following a single dose of
+zavegepant oral softgel capsule 100 mg alone or co-administration with rifampin.
+Treatment / Day
+
+PK Parameters*
+
+Zavegepant Oral / Day 1
+
+Cmax
+(ng/mL)
+11 (79%)
+
+AUC0-inf
+(h.ng/mL)
+40 (72%)
+
+Rifampin + Zavegepant Oral / Day 11
+
+24 (80%)
+
+91 (73%)
+
+Geometric Mean Ratio
+(90 % CI)
+Cmax
+AUC0-inf
+(ng/mL)
+(h.ng/mL)
+
+2.17
+1.60 to 2.94
+
+2.33
+1.80 to 3.02
+
+Source: Reviewer confirmed sponsor’s analysis. *PK parameters are presented as geomean (% CV)
+
+The results show that concomitant administration of oral zavegepant with rifampin (at
+steady-state) resulted in 2.3-fold increase in zavegepant AUC and 2.2-fold increase in
+Cmax. Based on the in-vitro data, DDI study with itraconazole, and PBPK analyses, the
+applicant concluded that the main mechanism for the observed increase in zavegepant
+exposure when co-administered with rifampin is due to the inhibition of both OATP1B3
+(b) (4)
+and NTCP. Based on these results, the applicant recommends
+The review team disagrees with the applicant’s proposal and
+recommends to avoid use of zavegepant with inhibitors of OATP1B3 or NTCP
+transporters based on the following considerations:
+1. The results of the mass-balance study showed that 80% and 11% of the dose was
+recovered in feces and urine as unchanged drug, following a single intravenous dose
+of 5 mg [14C]-zavegepant to healthy males. Further, unchanged zavegepant was found
+to be most prevalent circulating component, accounting for ~90%, suggesting that the
+hepatic metabolism of zavegepant was low. Given the involvement of biliary excretion
+as the major pathway in the elimination of zavegepant, the uptake transporters
+OATP1B3 and NTCP play an important role in the disposition of zavegepant. The
+absolute bioavailability of IN zavegepant determined using PPK approach was
+reported to be 5%.
+2. As summarized in Tables 3-3 and 3-4 above, concomitant administration of IN
+zavegepant and itraconazole did not alter zavegepant exposures, while concomitant
+administration of oral zavegepant and itraconazole resulted in 60-80% higher
+zavegepant exposures, suggesting the involvement of CYP3A and/or p-gp in the firstpass effect.
+3. The review team notes that the zavegepant exposures following 100 mg oral soft-gel
+capsules are comparable to those following 10 mg IN zavegepant dose (Study 107: 100
+
+23
+
+Reference ID: 5136841
+
+mg oral zavegepant mean Cmaxss, 9 ng/mL and mean AUC0-24, 38 ng•h/mL ; Study
+102: 10 mg IN zavegepant mean Cmaxss, 13 ng/mL and mean AUC0-24, 33 ng•h/mL).
+4. Rifampin is a strong inducer of CYP3A and P-gp, and an inhibitor of OATP1B3 and
+NTCP. Therefore, the (up to 2.3-fold) increase in zavegepant exposures is a
+composite effect of induction of CYP3A and P-gp (which is supposed to decrease
+zavegepant exposures), and inhibition of OATP1B3 and NTCP (which is supposed to
+increase zavegepant exposures).
+5. Therefore, observed 2.3-fold increase in zavegepant exposures following 100 mg oral
+zavegepant and steady-state rifampin was likely an underestimate of inhibition of
+OATP1B3 and NTCP.
+6. The applicant claimed that rifampin (at steady-state) is a weak NTCP inhibitor, and
+the observed increase in zavegepant exposures is likely driven by primarily by
+OATP1B3. However, the review team notes that the design of the DDI study between
+oral zavegepant and rifampin makes it difficult to delineate the relative contribution of
+induction of CYP3A and p-gp, and/or of inhibition of OATP1B3 and NTCP.
+Furthermore, the relative contribution of OATP1B3 and NTCP in the disposition of
+zavegepant is not clear.
+7. Additionally, the applicant conducted PBPK modeling and simulation under two
+scenarios and the results are summarized below:
+a. Concomitant administration of single dose of IN zavegepant and single oral
+dose of rifampin is predicted to result in 2.39-fold increase in AUC and 1.70fold increase in Cmax.
+b. Cyclosporine (CsA) is a dual inhibitor of OATP1B3 and NTCP. Concomitant
+administration of single dose of IN zavegepant and single oral dose of CsA is
+predicted to result in up to 1.58-fold increase in zavegepant exposures,
+assuming a ratio of 90:10 for the relative contribution of OATP1B3: NTCP
+mediated uptake and upto 1.37-fold increase in zavegepant exposures,
+assuming a ratio of 50:50 for the relative contribution of OATP1B3: NTCP
+mediated uptake of zavegepant.
+8. The review team notes that the results in #7a above clearly exceed the 2-fold safety
+margin (relative to 10 mg IN zavegepant dose). The applicant intends to market a
+single dose strength of 10 mg, and therefore, lack of availability of lower dose strength
+precludes from adjusting zavegepant dose.
+9. The complex interplay of the DDI mechanisms and lack of clear understanding of the
+relative contributions of OATP1B3 and NTCP transporters in disposition of
+zavegepant (as outlined in #6 above), contribute to uncertainties in magnitude of
+interaction reported by CsA PBPK model (outlined in #7b). Furthermore, the review
+24
+
+Reference ID: 5136841
+
+team notes that CsA PBPK model (outlined in #7b) was verified with repaglinide, which
+is suggested to be a substrate for both OATP1B1 and OATP1B3. The current data does
+not offer insights into definitive contribution of OATP1B1 versus OATP1B3 on the
+disposition of repaglinide. The Ki of 0.032 μM for OATP1B3 used in CsA PBPK model
+was not independently verified with clinical data. Therefore, uncertainty exists in the
+predicted magnitude of the effect of cyclosporine on OATP1B3-specific pathway, and
+consequently adds to the overall uncertainty in the PBPK prediction which assumed the
+relative contributions of OATP1B3 and NTCP.
+10. In summary 2, an increase of more than 2-fold in zavegepant exposures with
+concomitant administration of IN zavegepant and OATP1B3 or NTCP inhibitors cannot
+be completely ruled out.
+The applicant did not conduct drug-interaction studies to evaluate the impact of OATP1B3
+or NTCP inducers on zavegepant exposures. Although the inducibility of OATP1B3 or
+NTCP and associated clinical implications have not been well established, such a
+possibility cannot be completely ruled out based on literature 3. Therefore, the review team
+recommends to avoid concomitant use of zavegepant with inducers of OATP1B3 or
+NTCP
+Intranasal Decongestants
+Intranasal decongestants may decrease the absorption of concomitantly administered
+nasal products (the evidence in literature shows mixed results). The review team
+recommends to avoid concomitant administration of intranasal decongestants with
+zavegepant. If concomitant use cannot be avoided, intranasal decongestants should be
+administered at least 1 hour after zavegepant administration. This 1-hour interval is
+consistent with Tmax of IN zavegepant (0.5 to 1 hour).
+Oral Contraceptives
+Ethinyl estradiol-levonorgestrel (EE-LNG) is a combined oral contraceptive drug and
+CYP3A4 is involved in the metabolic pathway of EE and LNG. The applicant conducted
+DDI study (BHV3500-109) to characterize the potential of zavegepant as a perpetrator to
+affect the disposition of oral contraceptives.
+Study BHV3500-109 was an open-label, multiple-dose, fixed-sequence, 2-period, DDI
+study in healthy females. Subjects (n=26) received multiple doses of IN zavegepant (20
+mg) and a single dose of EE-LNG (0.02 mg-0.10 mg) under fasted conditions in 2 periods,
+with a washout period of at least 7 days between the periods.
+
+2 Correspondence between the Agency and applicant are included in sequence numbers 0035 (13 February 2023), 0036
+
+(17 February 2023), 0037 (23 February 2023), 0038 (27 February 2023).
+
+3
+
+Zamek-Gliszczynski MJ et al, Clin Pharmacol Ther. 2021, 109: 55-64)
+
+25
+
+Reference ID: 5136841
+
+Co-administration of zavegepant IN with EE-LNG did not show a clinically significant
+change in EE and LNG exposures. Therefore, the applicant proposed that oral
+contraceptives may be co-administered with IN zavegepant. The review team agrees with
+the applicant’s proposal.
+Sumatriptan
+The applicant conducted a clinical drug interaction study (Study # BHV3500-110) to
+assess the effect of zavegepant administration on the PK and pharmacodynamics (resting
+BP) of sumatriptan.
+This was a single center, randomized, partially blinded, placebo-controlled, one-arm
+study. On days 1 and 4, subjects received 12 mg single dose of sumatriptan open-label
+(administered as 2 subcutaneous injections - 6 mg/0.5 mL separated by 1 h; n=42). The
+zavegepant 10 mg IN or placebo administered as 2 sprays of 0.1 mL (one spray in each
+nostril) for a total dose of 20 mg from Days 2 to 4 (3 days). On Day 4, zavegepant or
+placebo was administered immediately after the second sumatriptan injection. Blood
+samples for intensive sumatriptan and zavegepant PK were collected on Day 1 and Day
+3, respectively, and again on Day 4 for both drugs. Ambulatory BP monitoring was used
+to obtain BP recordings predose and over a 13-hour period at predetermined time points
+after the first sumatriptan injection on Days 1 and 4 and zavegepant or placebo
+administration on Day 3. The results of the study indicated that the concomitant
+administration of sumatriptan (single dose) with zavegepant (multiple doses) did not affect
+the PK of each other. In addition, no clinically significant differences were observed in the
+time-weighted average of mean arterial pressure between 2 treatments.
+In-vitro Metabolism Studies
+Inhibitor/Inducer:
+In-vitro studies showed that zavegepant is not an inhibitor of CYP1A2, 2C9, 2C19, 2B6
+2D6 and 3A4. It is not a time- dependent inhibitor of CYP2C9, 2C19, 2D6, 2B6, 2C8, and
+3A4. In-vitro studies indicated that zavegepant showed little to no induction of CYP1A2,
+2B6, or 3A4/5.
+In-vitro Transporter Studies
+As a Substrate:
+In vitro human transporter studies (Studies XT178113, XT178116 and BioHaven-01)
+indicated that zavegepant is a substrate for P-gp, MATE1, MATE2-K, OATP1B3 and
+NTCP transporter, and not a substrate of BSEP, BCRP, OATP1B1, OAT1, OAT3, OCT2,
+BSEP, MRP2, MRP3, or MRP4 transporters. The clinical relevance of potential
+interactions with these transporters are summarized below:
+•
+
+Substrate for P-gp: The concomitant administration of itraconazole (a strong CYP3A4
+and P-gp inhibitor) at steady state with a single dose of 10 mg IN zavegepant showed
+26
+
+Reference ID: 5136841
+
+no clinically relevant changes in the exposure of zavegepant. Hence a clinically
+relevant drug interaction effect of CYP3A4 and P-gp inhibitors on zavegepant
+exposure is not expected.
+•
+
+Substrate for MATE1, MATE2-K: These transporters are primarily expressed in the
+kidneys. The renal route plays a minor role in the clearance of zavegepant (10%).
+Therefore, no clinical drug interactions are expected when co-administered with
+MATE1, and MATE2-K inhibitors.
+
+•
+
+Substrate for OATP1B3 and NTCP: Concomitant administration of rifampin (inhibitor
+of both OATP1B3 and NTCP) increased exposure of zavegepant (AUC by 2.3-fold &
+Cmax by ~2.2-fold). The details of this drug interaction and its labeling
+recommendations are provided in the Section 3.3.3 above.
+
+As an Inhibitor
+Zavegepant is not an inhibitor of P-gp, BCRP, OAT1 and OAT3 (IC50 ≥ 100 μM);
+OATP1B1 and OATP1B3 (IC50 ≥ 50 μM). It showed a potent inhibition of OCT2, MATE1
+and MATE2-K with IC50 values of 2.15, 0.158, and 4.96 μM, respectively. Considering
+the peak concentrations for 10 mg IN daily dosing (Cmax, 0.0203 μM) and protein binding
+(~90%), clinically relevant drug interactions are not expected (for the lowest IC50 value
+0.158 μM, the Imax,u/IC50 is ≤ 0.013, much less than 0.1). The details are provided
+below.
+•
+
+An investigational drug has the potential to inhibit transporter in vivo to cause clinical
+DDI if the Imax,u/IC50 value is ≥ 0.1 (where Imax,u: maximal unbound plasma
+concentration of the interacting drug at steady state). The calculations using Cmax
+(12.98 ng/mL= 0.0203 μM, Molecular weight: 639 Da) of zavegepant 10 mg IN
+multiple dose value in humans (Study BHV3500-102), Imax,u/IC50 value is much
+less than 0.1 (Imax,u/IC50, ~0.013 for the lowest IC50 value of 0.158 μM). Hence a
+clinically relevant drug interactions due to inhibition of OCT2, MATE1 or MATE2-K by
+zavegepant are not expected.
+
+3.3.5 Is the to-be-marketed formulation the same as the clinical trial formulation,
+and if not, are there bioequivalence data to support approval of the to-bemarketed formulation?
+Yes. The zavegepant nasal spray is a solution of 10 mg zavegepant free base (equivalent
+(b) (4)
+to
+mg of zavegepant hydrochloride) in a buffered aqueous solution. The composition
+of the formulation and design of the device used during the clinical trials remained
+unchanged and the same are proposed for commercial use (to-be-marketed). Therefore,
+no PK bridging studies are required.
+
+27
+
+Reference ID: 5136841
+
+4.
+
+Appendices
+
+4.1 Summary of Bioanalytical Method Validation
+For the determination of zavegepant concentrations in human plasma, the applicant used
+validated high- or ultra- performance liquid chromatographic (HPLC/UPLC) methods with
+tandem mass spectrometry detection methods. Plasma samples containing EDTA as an
+anticoagulant and internal standard were processed using liquid extraction prior to LCMS/MS analysis. The internal standard is Zavegepant-d8. For the mass balance study,
+total radioactivity concentrations in plasma, whole blood, urine, and feces were
+(b) (4)
+determined using liquid scintillation counting
+•
+•
+
+Clinical site: inVentiv Health Clinique Inc. (a Syneos Health Company) 1951 NW
+7th Avenue, Suite 450 Miami, FL 33136, USA
+Bio-analytical sites
+(b) (4)
+o Mass balance study, BHV3500-104:
+o For all other studies:
+
+(b) (4)
+
+Summary of bioanalytical methods used in the clinical program is provided in Table 4-1.
+Table 4-1: Summary of bioanalytical methods utilized in clinical studies of
+zavegepant
+Analytical
+Study Number
+
+Range
+
+182006ASZR
+180448Amendment II
+BHV/04
+202002AXAI
+202013AYFGAYFJ
+(Part 1)
+200316AYMUAYSO-
+
+Precision
+(CV%)
+Within Run
+Between
+Run
+
+Incurred sample
+reanalysis %
+(ISR)
+Passing/Number
+of Samples
+
+Clinical
+Studies
+Supported
+by
+Method
+
+0.4-400
+ng/mL
+0.4-200
+ng/mL
+0.4 -200
+ng/mL
+40 – 50,000
+pg/mL
+
+Accuracy
+(Mean %
+Deviation
+from
+Nominal)
+Within Run
+Between Run
+-8.20 to 1.30
+-4.96 to 2.18
+-6.80 to 0.70
+-4.96 to 2.18
+-0.8 to 8.3
+2.0 to 4.2
+-2.96 to 5.00
+0.85 to 3.47
+
+2.14 to 4.96
+3.62 to 5.08
+0.90 to 2.91
+3.62 to 5.08
+1.3 to 5.3
+3.1 to 5.8
+0.92 to 4.04
+1.61 to 6.44
+
+20 – 50,000
+
+-2.20 to 6.39
+
+0.98 to 7.80
+
+99.1% of 113
+samples
+98.8% of 170
+samples
+95.0% of 20
+samples
+97.4% of 117
+samples
+92.0% of 50
+samples
+100% of 72
+
+BHV3500101
+BHV3500102
+BHV3500104
+BHV3500105
+BHV3500108
+BHV3500-
+
+28
+
+Reference ID: 5136841
+
+AZAK
+200320AYMZAYRK
+
+pg/mL
+
+0.85 to 3.47
+
+1.61 to 6.44
+
+200406AYZF
+
+samples
+98.3% of 116
+samples
+97.1% of 140
+samples
+
+109
+BHV3500110
+BHV3500111
+
+For all studies, the cumulative accuracy (% bias) was less < ± 15% and precision (%CV)
+was < 15% for QC samples and calibration curves used the LC-MS/MS bioanalytical
+assay. The results of incurred samples reanalysis were within acceptable limits.
+Reviewer’s Comments:
+The bioanalytical method used in analysis of pharmacokinetic samples of zavegepant fulfill
+the required criterion for ‘method validation’ and ‘application to routine analysis’ provided
+in the ‘Guidance for Industry: Bioanalytical Method Development’ and is acceptable.
+
+29
+
+Reference ID: 5136841
+
+4.2 Pharmacometrics Review
+Applicant’s Analysis
+Population PK Analysis
+The final PopPK model was developed from a dataset of 10819 evaluable Zavegepant
+plasma concentrations from 594 subjects enrolled in 10 Phase 1 single and multiple
+dose studies. A nonlinear mixed effects modeling approach with the first-order
+conditional estimation with interaction (FOCEI) method in NONMEM, version 7.2 (ICON,
+Hanover, MD) was used for the PopPK analysis.
+Table 1. Summary of Studies Included in the PopPK Analysis
+Protocol
+
+Title
+
+Subject
+No. of Dose
+Population
+Subjects
+Healthy subjects 43
+1,3,5,10,20, and
+40 mg IN
+
+BHV3500- Phase 1 SADs study to
+101
+evaluate the safety and
+tolerability
+BHV3500- Phase 1, randomized,
+Healthy subjects 36
+5,10,20 mg QD
+102
+double-blind, placebox14d, 20mg
+controlled MAD study
+2hx8d IN
+BHV3500- Single-dose study to assess Healthy male
+6
+5 mg IV infusion
+104
+the mass balance recovery, subjects
+ADME
+BHV3500- Phase 1, randomized, open- Migraine subjects 39(38 for 10,20 mg IN
+105
+label, fixed-sequence, 2PD)
+period, comparative BA study
+during a migraine attack vs a
+non-migraine period
+BHV3500- Phase 1, open-label, 8-week, Migraine subjects 317
+100 mg capsules,
+106
+safety study of oral
+oral
+zavegepant
+BHV3500- Phase 1, randomized,
+Healthy subjects 47
+50,100mg
+107
+double-blind, placebocapsules, oral
+controlled study to evaluate
+the safety, tolerability and
+food effect
+BHV3500- Phase 1, open-label, single- Healthy subjects 16
+10 mg, IN
+108
+dose study to evaluate the
+and subjects with
+effects of moderate hepatic moderate hepatic
+impairment on the PK of
+impairment
+30
+
+Reference ID: 5136841
+
+zavegepant IN
+
+BHV3500- Phase 1, open-label, fixed- Healthy female 25
+109
+sequence study to evaluate subjects
+the effects of multiple-dose
+administration of zavegepant
+IN on oral contraceptive
+BHV3500- Phase 1, randomized,
+Healthy adult
+34
+110
+partially blind, placebosubjects
+controlled study to evaluate
+the effects of zavegepant and
+concomitant sumatriptan on
+blood pressure
+BHV3500- Phase 1, open-label, fixed- Healthy subjects 31
+111
+sequence, DDI study to
+evaluate the effects of
+rifampin on the PK of oral
+zavegepant and the effects of
+itraconazole on the PK of oral
+and IN zavegepant
+
+20 mg, IN
+
+20mg, IN
+
+20,50,100 mg, IN
+
+Source: Adapted from applicant’s PopPK report BIOH-PMX-VAZEGEPANT-3358, Page
+12, Table 1
+Table 2: Summary of Baseline Demographic Data in the Primary Analysis:
+Continuous Variables
+Covariate (Unit)
+Age (years)
+Body weight (kg)
+Body mass index (kg/m2)
+Albumin (U/L)
+Alkaline phosphatase (U/L)
+Alanine aminotransferase
+(U/L)
+Aspartate aminotransferase
+(U/L)
+Bilirubin (mg/dL)
+
+Overall (N=277)
+Mean (Std Dev)
+Median [Min, Max]
+40.5 (11.4)
+40.0 [18.0, 71.0]
+74.8 (11.9)
+74.2 [49.2, 131]
+26.2 (3.08)
+26.0 [18.6, 37.8]
+4.47 (0.297)
+4.50 [3.50, 5.20]
+68.7 (17.6)
+67.0 [29.0, 134]
+19.6 (9.82)
+
+17.0 [4.00, 77.0]
+
+19.4 (7.42)
+
+18.0 [9.00, 82.0]
+
+0.488 (0.197)
+
+0.468 [0.175, 1.60]
+
+31
+
+Reference ID: 5136841
+
+Serum creatinine (mg/dL)
+Creatinine clearance
+(mL/min)
+
+0.840 (0.178)
+
+0.836 [0.486, 1.30]
+
+117 (23.5)
+
+115 [52.5, 211]
+
+Source: Adapted from applicant’s PopPK report BIOH-PMX-VAZEGEPANT-3358, Page
+24, Table 4
+Table 3: Summary of Baseline Demographic Data (N=277) in the Primary Analysis:
+Categorical Variables
+Covariate
+Sex
+
+Levels
+Female
+Male
+FED status
+Fasting
+Route of administration
+Intranasal
+Intravenous
+Oral
+Race
+Black/African American
+White
+Ethnicity
+Hispanic or Latino
+Others
+Hepatic impairment
+Moderate
+Co-treated with rifampicin Yes
+Co-treated with oral
+Yes
+contraceptives
+Co-treated with
+Yes
+sumatriptan
+Co-treated with
+itraconazole (intranasal
+Yes
+route)
+Co-treated with
+Yes
+itraconazole (oral route)
+
+N (Percentage)
+126 (45.5%)
+151 (54.5%)
+22(7.94%)
+209 (75.5%)
+6 (2.2%)
+62 (22.4%)
+32 (11.6%)
+245 (88.4%)
+159 (57.4%)
+118 (42.6%)
+8(2.88%)
+15 (5.42%)
+25 (9.03%)
+35 (12.6%)
+18 (6.49%)
+18 (6.49%)
+
+Source: Adapted from Applicant’s PopPK report BIOH-PMX-VAZEGEPANT-3358, Page
+24, Table 5
+PopPK Model
+A PopPK approach was used to evaluate the PK of zavegepant in normal healthy
+32
+
+Reference ID: 5136841
+
+subjects and migraine patients. A combined PopPK model was developed using
+different zavegepant formulations, i.e. IV, IN, and oral soft gelatin capsule formulations.
+The analysis was performed using 9 studies with intensive PK sampling and 1 study
+(BHV3500-10616) where sparse PK plasma concentration data was collected after oral
+dosing.
+The final PopPK model comprised of 3 compartments along with sequential zero and
+first oral absorption, as illustrated in Figure 1. Inter-individual variability was estimated
+for the elimination clearance, central volume of distribution, absorption rate constant,
+duration of absorption, peripheral volume, and bioavailability. An additive and
+proportional residual error model was utilized.
+Figure 1: Schematic Representation of the Zavegepant PopPK Model
+
+Source: Applicant’s PopPK report BIOH-PMX-VAZEGEPANT-3358, Page 27, Figure 2
+The PopPK model was parameterized in terms of clearance (CL), volume of the central
+compartment (V2), intercompartment clearance of compartment 2 (Q3), peripheral
+volume of distribution of compartment 2 (V3), inter-compartment clearance of
+compartment 3 (Q4), peripheral volume of distribution of compartment 3 (V4), the
+33
+
+Reference ID: 5136841
+
+duration of the zero-order absorption (D1), and first-order absorption rate constant (ka)
+for IN administration.
+The model building was performed in a stepwise manner. Study BHV3500-104, with
+richly sampled IV data, was first modeled. Next, the studies with other formulations were
+added to the analysis data and model. In order to account for the IN and oral
+administration route in the base model, a scaling factor was added to the V2. Data from
+Study BHV3500-106 was sparse and had a destabilizing impact on the model. The
+popPK model was therefore built with 9 of the 10 studies. After the final PopPK model
+was defined, Study BHV3500-106 subjects were fitted with the final model parameters
+fixed but allowing interindividual fitting of the BHV3500-106 data. Allometric scaling with
+body weight was applied to the disposition parameters. Covariate selection was
+performed through iterative testing of potential covariate effects. The final PopPK model
+zavegepant was assessed with diagnostics plots including goodness-of-fit (Figure 2)
+and pcVPC (Figure 3).
+Figure 2: General Goodness-of-Fit Plots for Zavegepant from the Final PopPK
+Model
+
+Notes: The black dashed line is the identity line. The red line represents the LOESS
+smooth
+Abbreviations: LOESS=locally estimated scatterplot smoothing; PopPK=population
+34
+
+Reference ID: 5136841
+
+pharmacokinetic
+Source: Applicant’s PopPK report BIOH-PMX-VAZEGEPANT-3358, Page32, Figure 4
+Figure 3: Prediction-corrected Visual Predictive Check for the Final popPK Model
+for Zavegepant
+
+Notes: The solid line represents the median of the observed data. Shaded regions
+encompass 90% of the simulated (N=500) values of the predicted medians and the 5th
+and 95th percentiles. Data points represent the prediction-corrected observed data.
+Abbreviations: N=number of subjects; PopPK=population pharmacokinetic
+Source: Applicant’s PopPK report BIOH-PMX-VAZEGEPANT-3358, Page33, Figure 5
+Parameter estimates from the final PopPK model are presented in Table 4. For a typical
+patient with body weight of 70 kg, the estimated CL was 13.3 L/h, V2 was 12.1 L, Q3
+was 2.65 L/h, V3 was 65.9 L, Q4 was 5.19 L/h, V4 was 10.7 L, Ka and D1 for IN
+administration was 5.79 /h and 0.144 h, respectively.
+Statistically significant covariates were identified in the final model as: 1) moderate
+hepatic impairment on clearance, 2) itraconazole administration on clearance when
+zavegepant was administered orally, and 3) rifampin administration on the clearance of
+orally administered zavegepant. It is noteworthy that a covariate effect of itraconazole
+administration on zavegepant clearance was statistically insignificant when zavegepant
+was administered IN. Other covariates including age, race, ethnicity, sex, renal
+impairment (CLcr), oral contraceptives, and sumatriptan, were found not to be
+significant in modeling zavegepant exposure.
+35
+
+Reference ID: 5136841
+
+Table 4: Summary Statistics of Parameter Estimates for the Final PopPK Model
+Parameter (Unit)
+
+Estimate
+
+%RSE
+
+%IIV (%RSE)
+[%Shrinkage]
+
+CL (L/h)
+
+13.3
+
+9.9%
+
+V2 (L)
+
+12.1
+
+8.8%
+
+V3 (L)
+
+65.9
+
+10.7%
+
+Q3 (L/h)
+
+2.65
+
+10.5%
+
+26.8% (6.1%)
+[17.8%]
+32.2%
+(10.9%)
+[28%]
+26.1%
+(23.1%)
+[49.9%]
+-
+
+V4 (L)
+
+10.7
+
+10.1%
+
+-
+
+Q4 (L/h)
+
+5.19
+
+16.3%
+
+-
+
+Bioavailability of intranasal formulation (%)
+
+5.12
+
+11%
+
+Bioavailability of oral formulation (%)
+
+0.649
+
+17.5%
+
+66.1% (4.8%)
+[6.8%]
+
+ka for intranasal formulation (1/h)
+
+5.79
+
+5.1%
+
+ka for oral formulation (1/h)
+
+0.81
+
+6.1%
+
+Duration of absorption for intranasal
+formulation (h)
+
+0.144
+
+8.73%
+
+Duration of absorption for oral formulation (h)
+
+0.954
+
+14.4%
+
+Fed status on bioavailability
+
+-50.9%
+
+9.8%
+
+-
+
+Scaling factor on volume of distribution for
+intranasal formulation
+Scaling factor on volume of distribution for
+oral formulation
+Itraconazole use on CL when administered
+orally
+Moderate hepatic impairment on CL
+
++110%
+
+7.4%
+
+-
+
+17.2%
+
+87%
+
+-
+
+-27.9%
+
+26.3%
+
+-
+
+-43.9%
+
+13.5%
+
+-
+
+Rifampicin on CL
+
+-41.1%
+
+12.1%
+
+-
+
+Additive error (ng/L)
+
+0.001 FIX
+
+-
+
+-
+
+NONMEM Model Estimates
+
+nal error (%)
+
+44% (11%)
+[41.1%]
+114.5%
+(7.7%)
+[11.6%]
+
+7.8%
+
+Source: run8134a.lst
+Notes: CL, Q3, and Q4 parameters have body weight exponents fixed to 0.75,
+and V2, V3, and V4 have body weight exponents fixed to 1.0 (allometry).
+For the purposes of the model table, clearance (CL, Q3, and Q4) and volume of
+distribution (V2, V3, and V4) parameters are shown for IV formulation (F=100%).
+36
+
+Reference ID: 5136841
+
+Abbreviations: %IIV=percentage of the interindividual variability;
+%RSE=percentage of the relative standard error; CL=clearance;
+IV=intravenous; ka=absorption rate constant; NONMEM=nonlinear mixedeffects modeling software; PPK=population pharmacokinetic; Q3=clearance
+to first peripheral compartment; Q4=clearance to second peripheral
+compartment; V2=central volume of distribution; V3=first peripheral volume of
+distribution; V4=second peripheral volume of distribution; F= bioavailability.
+Source: Applicant’s PopPK report BIOH-PMX-VAZEGEPANT-3358, Page30-31, Table
+7
+Reviewer’s Analysis
+Methods
+Data Sets
+Data set used is listed in Table 5.
+Table 5: Analysis Data Sets
+Datasets
+Study
+
+Name
+
+Link to EDR
+
+Study BHV3500101,102,104,105,
+106,107,108,109,
+110 and 111
+
+ppkdata.csv
+
+\\CDSESUB1\EVSPROD\nda216386\0001\m5\d
+atasets\bioh-pmx-vazegepant3358\analysis\adam\datasets\ppkdata.csv
+
+Software
+PopPK model fitting was performed in NONMEM 7.3.0 and Pirana 2.9.9. Primary
+analysis and plotting were performed in R 4.1.2.
+Results
+The reviewer was able to reproduce the applicant’s PopPK results with NONMEM
+(version:7.3.0). The applicant’s PopPK analysis appears adequate for characterizing the
+PK profiles for zavegepant. No additional modeling analysis was conducted.
+Overview of Observed Data
+Figure 4 presents PK profiles of zavegepant for subjects at 5 mg/day, 10 mg/day and
+20 mg/day dose level.
+37
+
+Reference ID: 5136841
+
+Figure 4: Observed Zavegepant Concentration vs. Time after Dose for 5, 10 and
+20 mg/day Doses in Subjects in Study BHV3500-101, 102, 105, 108, 109, 110 and
+111
+
+Note: Observed values are indicated by solid grey circles, the black solid lines represent
+the observed medians, and the blue dashed lines represent the population predicted
+medians.
+Source: Reviewer’s Analysis
+The impact of sex, race, ethnicity, age (18-71 years), bodyweight (49-131kg), CLcr (52
+to 210 mL/min) on the PK of zavegepant were investigated. No clear trends in ETA with
+these covariates were observed with bodyweight allometric scaling in the final PopPK
+model (Figure 5, Figure 6 and Figure 7). Therefore, after inclusion of body weight in
+the PopPK model, other covariates were not found to influence PK of zavegepant.
+
+38
+
+Reference ID: 5136841
+
+Figure 5: Individual Random Effects versus Covariates Plots for Clearance of
+Zavegepant
+
+Source: Reviewer’s Analysis
+Figure 6: Individual Random Effects versus Covariate for Central Volume of
+Distribution (V2) of Zavegepant
+
+Source: Reviewer’s Analysis
+39
+
+Reference ID: 5136841
+
+Figure 7: Individual random effects versus Covariates Plots for Peripheral Volume
+of Distribution (V3) of Zavegepant
+
+Source: Reviewer’s Analysis
+Listing of Analyses Codes and Output Files
+File Name
+
+Description
+
+Location
+
+Zavegepant pk
+analysis.R
+
+PK and
+PopPK
+analysis file
+
+\\Review\2022\NDA 216386 Zavegepant\PPK
+analysis\Reviewer\Rscript
+
+Reviewer’s Comments:
+The applicant’s popPK analysis appears adequate for describing the PK of zavegepant
+after intranasal administration. The general statement regarding PK of zavegepant in
+the label (Section 12.3) is appropriate.
+
+40
+
+Reference ID: 5136841
+
+Signature Page 1 of 1
+
+-------------------------------------------------------------------------------------------This is a representation of an electronic record that was signed
+electronically. Following this are manifestations of any and all
+electronic signatures for this electronic record.
+-------------------------------------------------------------------------------------------/s/
+-----------------------------------------------------------SURESH B NARAHARISETTI
+03/06/2023 02:39:44 PM
+JIE LIU
+03/06/2023 02:56:11 PM
+VENKATESH A BHATTARAM
+03/06/2023 04:35:07 PM
+YUCHING N YANG
+03/06/2023 04:49:03 PM
+GOPICHAND GOTTIPATI
+03/06/2023 07:55:29 PM
+MEHUL U MEHTA
+03/07/2023 07:46:21 AM
+
+Reference ID: 5136841
+
+

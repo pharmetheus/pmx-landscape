@@ -1,0 +1,49 @@
+NDA 214487 CCX168
+
+Page 26 of 35
+
+Table 6A: Tumor Rates and P-Values for Dose Response Relationship and the pairwise Comparisons
+
+Male Hamster Poly-3 Test
+0 mg Veh. Omg 10 mg 30 mg 100 mg
+Cont (N=65) |Water (N=65)| Low(N=65) | Med (N=65) | High (N=65)
+Organ Name Tumor Name P-Trend |P-VCvs.W| P-VCvs.L | P-VCvs.M | P-VCvs.H
+Adrenal B-Benign phaeochromocytoma 1/65 (36) 5/65 (49) 3/65 (37) 3/65 (39) 4/65 (38)
+0.1613 0.1889 0.3177 0.3384 0.1961
+B-Cortical adenoma 5/65 (37) 21/65 (51) | 13/65 (41) 7/65 (40) 8/65 (39)
+0.5392 0.0042* 0.0498 0.4350 0.3079
+B-Subcapsular cell adenoma 17/65 (41) 31/65 (55) | 18/65 (42) 10/65 (41) 13/65 (41)
+0.8472 0.1078 0.5374 0.9704 0.8742
+M-Cortical carcinoma 5/65 (37) 2/65 (47) 3/65 (37) 3/65 (40) 2/65 (38)
+0.8578 0.9736 0.8694 0.8924 0.9503
+B-Cortical adenoma/ M-Cortical 10/65(38) | 23/65(52) | 15/65 (41) 10/65 (41) 9/65 (39)
+carcinoma 0.8031 0.0634 0.2305 0.6758 0.7235
+M-Malignant 1/65 (36) 0/65 (46) 0/65 (36) 0/65 (39) 0/65 (37)
+phaeochromocytoma 1.0000 1.0000 1.0000 1.0000 1.0000
+Benign phaeochromocytoma/ 2/65 (36) 5/65 (49) 3/65 (37) 3/65 (39) 4/65 (38)
+Malignant phaeochromocytoma 0.2458 0.3628 0.5132 0.5385 0.3635
+Caecum M-Sarcoma nos 1/64 (36) 0/65 (46) 0/65 (36) 0/64 (38) 0/65 (37)
+1.0000 1.0000 1.0000 1.0000 1,0000
+Connective B-Dermal fibroma 0/65 (35) 1/65 (46) 0/65 (36) 0/65 (39) 0/65 (37)
+Tissue NC 0.5679 NC NC NC
+M-Fibrosarcoma, pleomorphic 1/65 (36) 1/65 (47) 0/65 (36) 0/65 (39) 0/65 (37)
+1.0000 0.8149 1.0000 1.0000 1.0000
+M-Haemangiosarcoma 0/65 (35) 0/65 (46) 0/65 (36) 1/65 (39) 0/65 (37)
+0.5170 NC NC 0.5270 NC
+M-Sarcoma nos 0/65 (35) 0/65 (46) 0/65 (36) 1/65 (39) 0/65 (37)
+0.5170 NC NC 0.5270 NC
+Gall Bladder B-Adenoma 0/65 (35) 0/64 (46) 0/63 (35) 0/64 (38) 1/62 (38)
+0.2603 NC NC NC 0.5205
+Hemolympho- | M-Malignant lymphoma nos 0/65 (35) 1/65 (47) 0/65 (36) 0/65 (39) 0/65 (37)
+reticular System. NC 0.5732 NC NC NC
+M-Malignant lymphoma- 1/65 (36) 0/65 (46) 0/65 (36) 0/65 (39) 0/65 (37)
+lymphocytic 1.0000 1.0000 1.0000 1.0000 1.0000
+M-Malignant lymphoma- 0/65 (35) 0/65 (46) 0/65 (36) 1/65 (39) 0/65 (37)
+plasmacytic 0.5170 NC NC 0.5270 NC
+M-Malignant lymphoma- 0/65 (35) 0/65 (46) 1/65 (37) 0/65 (39) 0/65 (37)
+pleomorphic 0.7635 NC 0.5139 NC NC
+Kidney B-Adenoma 0/65 (35) 0/65 (46) 0/65 (36) 1/65 (39) 0/65 (37)
+0.5170 NC NC 0.5270 NC
+
+Reference ID: 4754346
+

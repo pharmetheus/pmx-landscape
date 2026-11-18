@@ -1,0 +1,59 @@
+BLA Multi-disciplinary Review and Evaluation {Biologics License Application (BLA) 761208}
+{tisotumab vedotin}
+
+Exposure | Coefficient SE RSE 95%Cl p-value | Model
+ADC Cycle | _ 0.07622 0.01963 | 25.75 0.03775;0.1147 <0.0005" | Base
+1 AUC 0.1063 0.02976 | 27.99 0.04799;0.1646 <0.0005* Full
+ADC Cycle | _0.09031 0.02853 | 31.59 0.03439;0.1462 0.002* Base
+1 Cmax 0.1312 0.04432 33.78 0.04434;0.2181 0.003* Full
+ADC 1.689 0.4374 25.9 0.8315;2.546 <0.0005" | Base
+Cavglast 1.802 0.5362 29.76 0.751;2.853 0.001* Full
+MMAE -0.03035 0.01159 | 38.18 -0.05307;-0.00764 0.009* Base
+Cyse 1 -0.0281 0.01501 53.42 -0.05753;0.001324 0.061 Full
+
+Probability of treatment-related serious TEAEs (1) and all serious TEAEs (2) significantly
+increased with increase of MMAE Cycle 1 AUC (ME1)
+
+AE Coefficient SE RSE 95%Cl p-value Model
+TEAE 1 0.007851 0.003676 46.83 0.0006452;0.01506 0.033* Base
+0.01228 0.004893 39.83 0.002693;0.02187 0.012* Full
+
+TEAE 2 0.01131 0.00372 32.88 0.004022;0.0186 0.002* Base
+0.009767 0.004353 44.57 0.001235;0.0183 0.025* Full
+
+Probability of Grade 2+ bleeding TEAEs and Grade 2+ peripheral neuropathy
+TEAEs were not correlated with ADC exposure.
+
+Probability of Grade 2+ bleeding TEAEs and Grade 2+ peripheral neuropathy
+TEAEs were not correlated with MMAE exposure.
+
+Coefficient: exposure slope of the logistic regression model; SE: standard error; RSE: relative
+standard error (%); 95%CI: 95% confidence interval for exposure slope; p-value: significance of
+exposure slope as provided by glm() function. Analyses associated with p <0.05 are denoted in
+red and marked with “*”.
+
+Source: Adapted from Tables 11-15 in the ER analyses report.
+
+Agency asked the sponsor to update the ER for safety endpoints on ocular toxicity defined by the terms:
+Asthenopia, Chalazion, Chorioretinopathy, Conjunctival abrasion, Conjunctivitis allergic, Corneal
+epithelium defect, Corneal bleeding, Corneal erosion, Corneal irritation, Corneal toxicity, Diplopia,
+Erythema of eyelid, Eyelids pruritus, Eye discharge, Eye movement disorder, Eye pruritus, Foreign body
+sensation in eyes, Herpes ophthalmic, Keratopathy, Meibomian gland dysfunction, Ocular hypertension,
+Open angle glaucoma, Periorbital oedema, Retinal exudates. In case no incidence of any the following
+terms, no action is needed. In addition, covariates such as ‘history of dry eye’ if available should be
+considered. The sponsor responded on 5/10/2021 as follows:
+
+e@ The Agency’s requested preferred terms of Asthenopia, Chalazion, Chorioretinopathy,
+Conjunctival abrasion, Conjunctivitis allergic, Corneal epithelium defect, Corneal bleeding,
+Corneal erosion, Corneal irritation, Corneal toxicity, Diplopia, Erythema of eyelid, Eyelids
+pruritus, Eye discharge, Eye movement disorder, Eye pruritus, Foreign body sensation in eyes,
+Herpes ophthalmic, Keratopathy, Meibomian gland dysfunction, Ocular hypertension, Open
+angle glaucoma, Periorbital oedema, and Retinal exudates were included in the ocular AE
+
+217
+
+Version date: March 2021 (ALL NDA/ BLA reviews)
+Disclaimer: In this document, the sections labeled as “The Applicant’s Position” are completed by the Applicant
+and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 4858975

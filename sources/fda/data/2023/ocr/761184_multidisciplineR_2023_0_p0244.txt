@@ -1,0 +1,72 @@
+BLA 761184
+Ngenla (somatrogon)
+
+Figure 36. Somatrogon Concentration-Time Profile After Last Dose in the Different Epochs of
+Treatment for Patients With and Without ADA in the Pediatric Phase 2 Study
+
+Dose(mgiKg) ° 0.26 - 048 + 068 ADAstatus + ve + sve
+
+612 Mon
+
+{248 Mon _4824Mon __-2430Mon 30.36 on 36-42 Mon 42.48 Mon
+
+|
+| . | o
+4 i ‘ t+ =
+7 PRP ie
+| : : f i 3
+LIL Inc |
+i ++ + tf a ‘ins Ft \i*
+Sethe aman i or Es % | an
+ae! ii cm ' é + LL i
+|
+|
+
+Gasazeds Cazameds Dasameds assRess Cvamess Cassese Casaress Cavamecs Dasameds Dasaaoss
+Time after last dose (h)
+Source: Reviewer's independent analysis.
+Red points, ADA-positive; black points, ADA-negative subjects
+Abbreviations: ADA, antidrug antibodies
+
+Figure 37. Somatrogon Concentration-Time Profile After Last Dose in the Different Epochs of
+Treatment for Patients With and Without ADA in the Pediatric Phase 3 Study
+
+Dose(mgiKg) ° 0.25 - 048 + 066 ADAstatus - -ve * tve
+
+0-6 Mon 612 Mon 12.18 Mon
+E 10°) + ‘ heed +. =
+2 ile) alt * Lae
+£ ete le +h ++ i
+- ai’ + fade | 4 le a
+8 492 24 age he i
+g ¥] # aie. [te ses 4s
+5 1 Bete ii, Py
+=
+5 we eee |, ME BF
+2 40'| + 4 SS + t Wy t = ‘ici ec ee 3
+8 arn ii ? + e
+§ + ae t + ¢ ay
++ «| Fe é
+310 + my is ?
+6 +
+2 4 +
+Si 1
+Bio
+
+0 24 48 72 96120144168 0 24 48 72 96120144168 O 24 48 72 96120144168
+Time after last dose (h)
+
+Source: Reviewer's independent analysis.
+Abbreviations: ADA, antidrugantibodies
+
+14.3.1.4.3. Model Development
+The steps below were followed in developing an alternative PopPK model.
+
+A one-compartment (1 CMT) PK model was tested using FOCE+I for SAEM + IMP methods for
+estimation of model parameters. Precise parameters were estimate for this model expect for
+variance of KA. Residual errors were described by combined plus proportional residual error
+model.
+
+142
+
+Reference ID: 4924352

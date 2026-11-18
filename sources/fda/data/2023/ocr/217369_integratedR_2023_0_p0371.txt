@@ -1,0 +1,78 @@
+SAGE-217 (auranolone) Page 16 of 30
+MaleRats _Poly-3 Test
+0 mg Vehicle] 0 mg Water 2mg 6mg 20mg
+Cont (N=70)} Cont(N=70) | Low(N=70) | Med (N=70) | High (N=70)
+Organ Name Tumor Name P-Trend |P-VCvs.W|P-VCvs.L| P-VCvs.M]| P- VC vs.H
+
+Salivary Gland, Leiomyosarcoma, Malignant} 0/70 (33) 0/70 (32) 1/70 (30) 0/70 (30) 0/70 (27)
+Mandibular 0.7250 NC 0.4762 NC NC
+
+Skin Adenoma, Basal Cell, 0/70(33) | 0/7032) | 1/7030) | 0/70(30) | 0/70(27)
+Benign 0.7250 NC 0.4762 NC NC
+
+Skin Adenoma, Sebaceous Cell, 0/70 (33) 1/70 (33) 0/70 (30) 1/70 (30) 1/70 (28)
+
+Benign 0.1678 NC NC 0.4762 0.4590
+
+Carcinoma, Basal Cell, 0/70 (33) 1/70(33) | 0/700) | 1/700) | 0/70(27)
+Malignant 0.4750 NC NC 0.4762 NC
+
+Fibroma, Benign 2/70 (34) 4/70 (34) 3/70 (32) 2/70 (30) 4/70 (29)
+
+0.1621 NC 0.4707 0.6445 0.2625
+
+Fibrosarcoma, Malignant 2/70(34) | 2/7034) | 0/7030) | 2/7031) | 0/7027)
+
+0.7949 NC 1.0000 0.6575 1.0000
+
+Fibroma, Benign / 4/70(35) | 6/70(36) | 3/7032) | 4/702) | 4/70(29)
+
+Fibrosarcoma, Malignant 0.3364 NC 0.7474 0.5931 0.5337
+
+HairFollicle Tumor, Benign] 1/70 (34) 1/70 (33) 0/70 (30) 1/70 (30) 1/70 (28)
+
+0.3548 NC 1.0000 0.7217 0.7033
+
+Keratoacanthoma, Benign 1/70 (34) 2/70 (33) 1/7031) 2/70 (31) 2/70 (29)
+
+0.2261 NC 0.7303 0.4649 0.4396
+
+Lipoma, Benign 3/70 (34) 1/70(32) | 0/70(30) | 2/70(31) 0/70 (27)
+
+0.8929 NC 1.0000 0.7923 1.0000
+
+Melanoma, Amelanotic, 1/7034) | 0/702) | 0/700) | 0/700) | 0/7027)
+
+Malignant 1.0000 NC 1.0000 1.0000 1.0000
+
+Osteosarcoma, Malignant 1/70 (34) 0/70 (32) 0/70 (30) 0/70 (30) 0/70 (27)
+
+1.0000 NC 1.0000 1.0000 1.0000
+
+Papilloma, SquamousCell. | 2/70(34) | 2/70(33) | 2/701) | 2/700) | 0/7027)
+
+Benign 0.8946 NC 0.6575 0.6445 1.0000
+
+Sarcoma, Undifferentiated, 2/70 (35) 0/70 (32) 0/70 (30) 1/70 (31) 0/70 (27)
+
+Malignant 0.8691 NC 1.0000 0.8570 1.0000
+
+Schwannoma, Malignant 2/70 (34) 1/7032) | 1/701) | 1/7030) 1/70 (28)
+
+0.6256 NC 0.8630 0.8564 0.8418
+
+Stomach, Glandular | Adenocarcinoma, Malignant} 0/70 (33) 1/70 (32) 0/70 (30) 0/70 (30) 0/70 (27)
+NC NC NC NC NC
+
+Stomach, Papilloma, Squamous Cell, 0/70 (33) 1/70 (32) 0/70 (30) 0/70 (30) 0/70 (27)
+Nonglandular Benign NC NC NC NC NC
+
+Testes Adenoma, Leydig Cell, 0/70(33) | 0/7032) | 0/700) | 0/70(30) 1/70 (28)
+
+Benign 0.2314 NC NC NC 0.4590
+
+Carcinoma, Leydig Cell, 0/70 (33) 0/70(32) | 1/700) | 0/7030) 0/70 (27)
+Malignant 0.7250 NC 0.4762 NC NC
+
+Reference ID: 5174472
+

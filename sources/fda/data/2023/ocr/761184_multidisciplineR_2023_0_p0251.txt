@@ -1,0 +1,46 @@
+BLA 761184
+Ngenla (somatrogon)
+
+Figure 41. Distribution of AUC Ratios at Different Body Weights to Body Weight of 15 kg
+
+1.4
+
+cof EEA ETE LEE LT ITI
+
+8 12 16 20 24 28 32 36 40 44 48 652
+Weight (Kg)
+Source: Reviewer's independent analysis.
+Abbreviations: AUC, area under the curve
+14.3.1.4.7. Impact of Dosing Delay or Dosing Advance on
+Somatrogon Exposure
+
+The impact of change of day of dosing was evaluated using two dosing scenarios. In the first
+scenario patients continued to take somatrogonat their usual dosing day of the week. In the
+second scenario the patients continued to take somatrogon at the new dosing day of the week.
+Results of these evaluations are given in the two subsections below.
+
+Subjects Return to Their Usual Dosing Day of the Week
+
+The effect of earlier or later dosing of somatrogon on weekly exposure (AUC and Cymax) Was
+evaluated through stochastic simulations. A virtual population sample (n=200) with weight range
+between 8 to 46 kg was created by bootstrap resampling of subjects from phase 2 and 3 PKPD
+dataset. The following dosing design was followed for each virtual subject: Each subject
+received somatrogon once every 168 hours except at weeks 14, 35, 56, and 77 when the subjects
+took somatrogon after 144, 120,96, and 72 hours since the last dose, respectively, and except at
+weeks 99, 119, 141, and 162 when somatrogon was delayed by 24, 48, and 72 hours and skipped
+one dose, respectively. At each change scenario, the simulation system was reset to zero for
+pharmacokinetic compartments and to baseline IGF-1 for the PD compartment. Subjects
+continued to take somatrogon at their usual dosing-day of the week. The final somatrogon
+population PKPD model was used to simulate somatrogon and IGF-1 concentration time profiles
+for 146 weeks. The dosing during the prior 5 weeks before dose-time change was assumed to be
+at steady state.
+
+The simulated profiles were analyzed in two ways. In the first analysis, weekly AUCs during the
+prior 5 weeks before dose-time change were the reference AUCs for each subject. Weekly AUC
+at other weeks were compared to reference AUC (Week 1 of prior 5 weeks) by calculating
+
+weekly AUC ratios. For earlier than usual doses, the AUCs account for two doses given within a
+
+149
+
+Reference ID: 4924352

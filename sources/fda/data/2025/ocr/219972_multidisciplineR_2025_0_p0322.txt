@@ -1,0 +1,67 @@
+NDA/BLA Multi-disciplinary Review and Evaluation — NDA 219972
+
+Sevabertinib (BAY 2927088) — Version 2.0
+
+M&S Report BAY 2927088 / 0957 / B003834
+
+Page: 126 of 378
+
+Table 14-19: Counts of categorical covariates for all participants
+
+Covariate Category Number of participants —_% of participants
+Yes 14 4.18
+RACE White 91 27.16
+Black/ African American 9 2.69
+Asian 216 64.48
+American Indian/ Alaska 1 03
+Native
+Not reported 18 5.37
+REGION1 Asia 214 63.88
+North America 29 8.66
+South America 1 03
+Western Europe and a1 27.16
+Israel
+REGION2 China 83 24.78
+Non-China 252 75.22
+REGION3 Japan 36 10.75
+Non-Japan 299 89.25
+REGION4 Asia 214 63.88
+Non-Asia 121 36.12
+SEX M 120 35.82
+F 215 64.18
+SMOKE Never 224 66.87
+Former 102 30.45
+Current 8 2.39
+Missing 4 0.3
+TUMORST Stage Ill A 6 1.79
+Stage III B 3 0.9
+Stage IVA 108 32.24
+Stage IVB 191 57.02
+Missing 27 8.06
+
+Table 87. Parameter Estimates From Final ER Model of (Endpoint)
+
+All grade diarrhea
+Source: Table 17-9, Module 5.3.3.5, Report B003834
+
+Table 17-9: Final Cox-PH model of diarrhea in PMx_SAF participants
+
+Parameter Estimate (95% Cl) Wald p-value p-value*
+Coefficient for participants from Japan 0.64822 (0.48315 — 1.2133) =0,0007 <0,0007
+Coefficient for participants with prior HER2 Ex20ins-targeted therapy 0.31496 (0.037681 -- 0.59225) 0.026
+
+Coefficient for transformed AUC2inss 586960 (335300 ~- 838620) <0,0001
+
+Based on OFV compared to RCM
+® Transformation done using function f(AUCamnss) = AUC2in s9/(IC50 + AUCaanss) where IC50 = 0.00008 and the value of IC50 was established using a
+algorithmic approach
+
+Diarrhea of grade > 3
+Source: Table 17-10, Module 5.3.3.5, Report B003834
+321
+Version date: March 1, 2024 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5697816

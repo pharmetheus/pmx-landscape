@@ -1,0 +1,78 @@
+Table 43 Validation Parameters and Performance of the UPLC-MS/MS Assay for
+Determination of Plasma Lyso-Gb3 Concentration in Studies PB-102-F30, PB-102-
+
+F20, and PB-102-F50
+
+Bioanalytical method
+review summary
+
+SOP-WCECCMS-002: The analytical method for Lyso-Gb3 in human plasma (validation
+report: SOP-WCECCMS-002) met acceptance criteria in general, with respect to sensitivity,
+precision, and accuracy, spanning a theoretical concentration range of 0.2 nM to 400 nM.
+Linearity, dilution integrity, interference, and selectivity were not evaluated. Stability
+evaluations in matrix and solutions met acceptance criteria in general.
+
+Method description
+
+A UPLC-MS/MS assay that uses for the quantification of globotriaosylsphingosine (lyso-Gb3)
+in plasma. Briefly, plasma samples are mixed with the internal standard (IS), then a solid
+phase extraction (SPE) procedure using Oasis MCX (Mixed-mode Cation eXchange)
+cartridges is performed. Lyso-Gb3 is analyzed using an ultra-performance liquid
+chromatography (UPLC) system hyphenated with electrospray-tandem mass spectrometry
+detection (ESI-MS/MS). Lyso-Gb3 is quantified according to a calibration curve, using the
+response factor (area of the molecule/area of the internal standard). Plasma lyso-Gb3
+concentrations are reported in nmol/L. Detailed information and parameters regarding this
+assay were previously published UPLC-MS/MS assay that we use for the quantification of
+globotriaosylsphingosine (lyso-Gb3) in plasma specimens.
+
+Materials used for
+calibration curve &
+concentration
+
+The calibration curve, ranging from 0 to 400 nM (0.2, 2, 10, 40, 140, 400), is prepared in 4X
+depleted charcoal plasma.
+
+Validated assay range
+
+Concentration range: 0-400 nM
+LOD = 0.23 nmol/L
+
+LOQ = 0.77 nmol/L
+
+Material used for QCs
+& concentration
+
+Pooled plasma samples from Fabry patients having low (30 nM) and high (200 nM)
+concentrations of lyso-Gb3.
+
+For accuracy, using charcoal-stripped plasma spiked with a lyso-Gb3 standard to obtain
+concentrations of 5 nM (n = 2) and 200 nM (n = 2).
+
+imum required
+
+tions (MRDs)
+
+not applicable
+
+Source & lot of
+reagents (LBA)
+
+Not provided
+
+Regression model &
+weighting
+
+The 1/x weighing is an automated curve-fitting algorithm, provided as part of the
+
+quantification software
+
+Validation parameters
+
+Method validation summary Acceptability
+
+No of standard calibrators from LLOQ to ULOQ | 6 Acceptable
+
+Reference ID: 5170172
+
+62
+

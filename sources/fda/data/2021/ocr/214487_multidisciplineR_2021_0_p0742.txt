@@ -1,0 +1,49 @@
+NDA 214487 CCX168
+
+Page 27 of 35
+
+Male Hamster Poly-3 Test
+0 mg Veh. Omg 10 mg 30 mg 100 mg
+Cont (N=65) |Water (N=65)| Low(N=65) | Med (N=65) | High (N=65)
+Organ Name Tumor Name P-Trend |P-VCvs.W| P-VCvs.L | P-VCvs.M | P-VCvs.H
+Liver B-Haemangioma 0/65 (35) 0/65 (46) 1/65 (37) 0/65 (39) 0/65 (37)
+0.7635 NC 0.5139 NC NC
+B-Hepatocellular adenoma 1/65 (36) 0/65 (46) 1/65 (37) 1/65 (39) 0/65 (37)
+0.8394 1.0000 0.7603 0.7730 1.0000
+M-Cholangiocarcinoma 0/65 (35) 1/65 (46) 0/65 (36) 0/65 (39) 1/65 (38)
+0.2568 0.5679 NC NC 0.5205
+Lymph Node, | B-Haemangioma 0/54 (31) 0/59 (44) 0/58 (32) 1/55 (32) 0/57 (35)
+Mesenteric 0.5154 NC NC 0.5079 NC
+Muscle, Other | M-Haemangiosarcoma 1/65 (36) 0/65 (46) 0/65 (36) 0/65 (39) 0/65 (37)
+1.0000 1.0000 1.0000 1.0000 1.0000
+M-Osteosarcoma 0/65 (35) 1/65 (46) 0/65 (36) 0/65 (39) 0/65 (37)
+NC 0.5679 NC NC NC
+Oral Mucosa | M-Sarcoma - NOS 0/65 (35) 0/65 (46) 0/65 (36) 0/65 (39) 1/65 (38)
+0.2568 NC NC NC 0.5205
+Pancreas B-Islet cell adenoma 0/65 (35) 1/65 (46) 0/65 (36) 0/65 (39) 1/65 (38)
+0.2568 0.5679 NC NC 0.5205
+M-Islet cell carcinoma 0/65 (35) 1/65 (46) 0/65 (36) 0/65 (39) 0/65 (37)
+NC 0.5679 NC NC NC
+Parathyroid B-Adenoma 2/64 (35) 1/58 (41) 0/62 (35) 3/59 (37) 2/60 (36)
+0.3285 0.9069 1.0000 0.5268 0.7036
+Preputial/ B-Adenoma 0/48 (26) 0/56 (41) 0/50 (30) 0/42 (26) 1/40 (24)
+Clitoral Gland 0.2264 NC NC NC 0.4800
+Prostate M-Fibrosarcoma 0/65 (35) 1/65 (46) 0/65 (36) 0/65 (39) 0/65 (37)
+NC 0.5679 NC NC NC
+Skin/Subcutis B-Benign hair follicle tumor 0/65 (35) 1/65 (46) 0/65 (36) 0/65 (39) 0/65 (37)
+NC 0.5679 NC NC NC
+B-Benign melanoma 0/65 (35) 0/65 (46) 1/65 (37) 0/65 (39) 0/65 (37)
+0.7635 NC 0.5139 NC NC
+B-Dermal fibroma 1/65 (36) 2/65 (47) 0/65 (36) 0/65 (39) 0/65 (37)
+1.0000 0.6000 1.0000 1.0000 1.0000
+B-Plasmacytoma 0/65 (35) 1/65 (46) 0/65 (36) 0/65 (39) 0/65 (37)
+NC 0.5679 NC NC NC
+B-Squamous cell papilloma 1/65 (36) 0/65 (46) 0/65 (36) 0/65 (39) 0/65 (37)
+1.0000 1.0000 1.0000 1.0000 1.0000
+M-Haemangiosarcoma 0/65 (35) 0/65 (46) 1/65 (36) 0/65 (39) 0/65 (37)
+0.7619 NC 0.5070 NC NC
+M-Malignant basal cell tumor 1/65 (36) 0/65 (46) 0/65 (36) 0/65 (39) 1/65 (38)
+0.4463 1.0000 1.0000 1.0000 0.7668
+
+Reference ID: 4754346
+

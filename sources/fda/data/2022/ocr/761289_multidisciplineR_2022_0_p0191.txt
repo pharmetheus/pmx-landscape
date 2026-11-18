@@ -1,0 +1,66 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {BLA 761289 and sBLA 761069}
+{IMJUDO, tremelimumab; IMFINZI, durvalumab}
+
+| Time-varying NA
+Final Model Summary Acceptability
+[FDA’s comments]
+Software and Version NONMEM v7.3.0 Yes
+Model Structure Two-compartment model with time- Yes
+varying clearance
+Model Parameter Estimates See Table 9, Population PK and Exposure- | Yes
+Response Report, Module 5.3.3.5
+Uncertainty and Variability (RSE, IIV, All fixed and random effects were Yes
+Shrinkage, Bootstrap) estimated with good precision (< 30% RSE
+
+except COMB2 and tumor types). The IIV
+was 8.96%, 3.89%, 5.24%, and 6.65% for
+CL, V1, V2, and Tmax, respectively.
+Shrinkage was <20% for CL, and high for
+V1 (30%) and Tmax maximum change of CL
+over time (59%).
+
+BLQ for Parameter Accuracy 216 (1.45%) durvalumab concentrations Yes
+BLQ during active treatment were
+excluded, corresponding to the M1
+method, and the minimum impact of BLQ
+on PK is anticipated due to the low BLQ
+percentage (<5%).
+
+GOF, VPC See Figure 2, Population PK and Exposure- | Yes
+Response Report, Module 5.3.3.5 (GOF);
+See Figure 3 and Appendix 3, Population
+PK and Exposure-Response Report,
+Module 5.3.3.5 (VPC)
+
+Significant Covariates and Clinical See Figure 4-5, Population PK and Yes
+
+Relevance Exposure-Response Report, Module Albumin levels (ALB),
+5.3.3.5 (tornado plots of covariates on creatinine clearance
+exposure) (CL), ECOG status,
+
+LDH, sex, body weight
+(WT), tumor types
+and combination
+therapy were
+identified as
+statistical significant
+covariates on
+clearance. WT and
+sex had a statistically
+significant impact on
+central volume of
+distribution. None of
+the covariates were
+considered as
+clinically relevant i.e.
+impact on
+durvalumab PK was
+less than or about
+
+190
+Version date: July 2021 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5064925

@@ -1,0 +1,75 @@
+NDA 217673
+Brinsupri (brensocatib)
+
+Table 93. Summary of Method Validation Performance (Report VISMN1700P1)
+
+Bioanalytical method
+validation report name,
+amendments, and hyperlinks
+
+Determination of INS1007 in Human Plasma. with K2EDTA as Anticoagulant, by LC-MS/MS
+Report VISMN1700P1
+Report VISMN1700P1 Amendment 1
+
+Report VISMN1700P1 Amendment 2
+
+Method description
+
+In this method. INS1007 and internal standard INS10075C¢, were extracted from human plasma
+using liquid-liquid extraction. After extraction, the residue was chromatographed using reversed
+phase HPLC with a Pursuit C18 analytical column. INS1007 and INS10074Co were detected by
+monitoring the precursor and product ions (m/z 421.2100.1 for INS1007 and m/z 427.2100.1
+for INS1007#°Css) using an Applied Biosystems Sciex APTS000 or APISS00 LC-MS/MS. The
+quantitation was based on setting a calibration graph using the internal standard.
+
+Materials used for standard
+calibration curve and
+concentration
+
+Calibration curve: 0.250 (LLOQ). 0.500, 6.00, 15.0. 30.0, 60.0, 120, and 150 (ULOQ) ng/mL of
+Reference Standard INS1007 in human plasma.
+
+Validated assay range
+
+0.250 to 150 ne/mL
+
+Material used for QCs and
+
+Quality Controls: 0.250 (LLOQ), 0.750, 45.0, 113 ng/mL of Reference Standard INS1007 in
+
+concentration human plasma.
+
+MRDs NA
+
+Source and lot of reagents Reference Standard INS1007:
+Lot 1004509 P14) -piration/retest: 07 APR 2018;
+Lot L004509 expiration/retest: 30 NOV 2018
+
+Internal Standard INS1007"*C¢:
+
+Lot AZ13661059-019 4) -xpiration/retest: 28 JUN 2019
+Matrix:
+
+K2EDTA Human Plasma Combo-5-45-1, Lot numbers: R312463 (Biochemed), BRH1183340
+Gioreclamation). BRH1183342 (Bioreclamation):
+
+KoEDTA Human Plasma BC244951D-1, Lot number; BC244951D-1 (Biochemed):
+
+K EDTA Human Plasma Combo-
+BC25149EK-3 (Biochemed)
+
+160-1, Lot numbers: BC25149EK-2 (Biochemed),
+
+Regression model and
+weighting
+
+Tinear regression: ya + bx.
+
+weighting: 1/x?
+
+186
+
+Integrated Review Template, version 4.0 (11/1/23)
+
+Reference ID: 5640933
+

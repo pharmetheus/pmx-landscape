@@ -1,0 +1,69 @@
+NDA/BLA Multi-disciplinary Review and Evaluation — BLA 761384
+Telisotuzumab Vedotin
+
+Covariates Evaluated © Demographics (age, body weight, sex, race, ethnicity)
+
+© c-Met expression level (high, intermediate)
+
+* Prior therapy (e.g.. platinum-based, IO)
+
+¢ Treatment-emergent anti-drug antibody (ADA) status (yes, no)
+¢ Neutralizing antibody (nAb) status (yes. no)
+
+¢ Number of lines of prior systemic therapies
+
+© History of peripheral neuropathy (yes, no)
+
+¢ Liver metastasis at baseline (yes, no)
+
+12.2 Pharmacodynamics
+
+(0) 4)
+
+Acceptability
+Final Model Parameters Summary [FDA's comments]
+Model Structure Linear and logarithmic logistic regression Yes
+models were evaluated to determine the best
+model describing the telisotuzumab vedotin
+effect on the probability of each safety
+outcome. Final models were selected based
+on AIC.
+Model Parameter Estimates Table 47 and Table 48 Yes
+Model Evaluation The predictive performance of the logistic Yes
+regression models was graphically evaluated
+to examine the usefulness of the models for
+describing observed event rates for
+evaluation.
+Covariates and Clinical None of the covariates of interested were Yes
+Relevance found significant on the safety variables
+evaluated
+Simulation for Specific Simulations of key safety variables Yes
+Population Grade > 3 Peripheral Neuropathy and
+Grade > 2 Comeal Epitheliopathy are
+provided in Table 39.
+Visualization of E-R relationships | Figure 14 and Figure 15 Yes
+Overall Clinical Relevance for Exposure-safety analyses indicated that Yes.
+ER conjugate exposures were correlated with E-R analysis for fatal
+Grade > 2 and > 3 peripheral neuropathy and | TEAEs was performed
+Grade > 2 corneal epitheliopathy. with (refer to 19.4.2.6).
+conjugate Cag showing the strongest
+correlations.
+Acceptability
+Labeling Language Description [FDA's comments]
+
+Added “Higher
+unconjugated MMAE
+exposure was associated
+with increased rates of
+Grade > 3 adverse reactions
+and fatal adverse reactions”.
+
+219
+
+Version date: March 1, 2024 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as "Data" and "The Applicant's Position" are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5590242
+

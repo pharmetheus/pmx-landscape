@@ -1,0 +1,51 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 219249}
+{Inavolisib}
+
+-30 °C and at -60 °C to -80 °C. The Applicant also cross validated the analytical method at two
+p a)
+sites
+
+The Applicant has sufficiently validated bioanalytical methods for inavolisib, palbociclib, and
+fulvestrant.
+
+19.4.2. Population PK Analysis
+19.4.2.1. Executive Summary
+The FDA’s Assessment:
+
+The Applicant submitted a population PK report entitled “Population PK Analysis of Inavolisib in
+Patients with Locally Advanced or Metastatic PIK3CA-Mutant Hormone-Receptor Positive
+Breast Cancer” to characterize the pharmacokinetics of inavolisib after oral administration in
+patients from studies GO39374 and WO41554. The final population PK model was used to
+estimate the PK parameters and exposure of inavolisib as a single agent or in combination with
+other agents in patients with locally advanced or metastatic PIK3CA-mutated solid tumors and
+in patients with locally advanced or metastatic, PIK3CA-mutated breast cancer. The potential
+effect of the intrinsic and extrinsic factors on inavolisib were also assessed.
+
+The population PK model for inavolisib was developed based on PK observations from a total of
+336 subjects, with 187 patients from Study GO39374 and 149 patients from Study WO41554.
+The final population PK model of inavolisib was a three-compartment model with first-order
+absorption, linear elimination, and a mixed proportional and additive error model. Effects of
+eGFR on CL, body weight and race on Vc and formulation on Ka were included in the final
+model. The typical values of CL and V of inavolisib were 8.83 L/h and 155 L, respectively.
+
+eGFR effect on CL, weight and race (Asian) effects on Vc were identified as significant
+covariates, with lower CL for subjects with lower eGFR. The rate of absorption was found to be
+slower with the phase 1 formulation and the Phase 1 resupply formulation compared to the
+phase 3 formulation. No impact from combination therapy (fulvestrant, palbociclib, letrozole)
+was identified.
+
+Patients with moderate renal impairment (N=27) showed higher exposure than patients with
+normal renal function (N=185) (GMR of steady-state AUCox: 1.42). Patients with mild renal
+impairment (N=124) and normal renal function had comparable exposure. No impact on
+inavolisib exposure was observed for patients with mild hepatic impairment (N=111) vs normal
+hepatic function (N=224).
+
+In general, the Applicant’s population PK analysis is considered acceptable for the purpose of
+estimating the PK and exposure parameters of inavolisib in adult patients with locally advanced
+192
+Version date: June 2022 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5460147

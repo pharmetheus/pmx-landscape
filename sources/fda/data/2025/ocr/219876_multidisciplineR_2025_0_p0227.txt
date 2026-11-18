@@ -1,0 +1,67 @@
+NDA Multi-Disciplinary Review and Evaluation
+NDA 219876
+Dordaviprone
+
+Results
+Can the PBPK model adequately describe the PK profiles of dordaviprone?
+
+Yes. The model was developed and optimized using the data from the itraconazole DDI study
+(Figure 19.9 and Table 19.9). Clinical PK data that had not been used in model development
+was used to verify the ability of the dordaviprone PBPK model to describe the PK profiles of
+dordaviprone. The model could reasonably describe the plasma concentration-time profiles of
+dordaviprone following single and multiple oral doses of dordaviprone in adult patients with
+cancer. Majority of the model-estimated AUC and Cmax were within 2-fold of the observed
+values. This predictive performance was considered reasonable considering the high variability
+in dordaviprone PK (CV% >100%) reported in patients. Simulated and observed dordaviprone
+PK profiles and parameters are summarized in Figure 19.10 and Table 19.10.
+
+Figure 19.9 Simulated and observed mean plasma concentrations of dordaviprone in the
+absence and presence of itraconazole 200 mg once daily following a single 125 mg
+dordaviprone in healthy subjects
+
+A 2000: B 10000
+z: ZF 1000;
+E1500 =
+2 2
+2 Be
+£ E 109
+§ 5
+§ 1000 &
+' }.
+3 8
+gn 8
+eee
+eee.
+° on
+ca a PT) ee oe ee nes oie
+Time (h) Time (h)
+
+Depicted are observed (triangles, (ONC201 in the presence of itraconazole); circles, (ONC201 in the absence of itraconazole) arithmetic mean
+ofn = 18 individuals; Clinical Study 103) plasma concentration-time profiles of ONC201 following a single dose of ONC201 in the absence of
+itraconazole (solid line) and on the Sth day of 8 days of dosing of itraconazole (dashed line). The grey lines represent arithmetic mean values of
+simulated individual trials and the black lines portray the arithmetic mean data of the simulated population (n = 180). A. Linear scale; B. Log-
+linear scale.
+
+Source: Figure 10 in the PBPK report (chmx3a-b)
+
+Table 19.9 Simulated and observed mean PK parameters of dordaviprone in the absence
+and presence of itraconazole 200 mg once daily following a single 125 mg dordaviprone in
+
+healthy subjects
+ONC201 ONC201 + Itraconazole GMR
+AUCo: Cmax AUC: Conax AUCs: Come
+(h.ng/mL) | (ng/mL) _| (h.ng/mt) | (ng/mL)
+‘Simulated 4185 695 19356 1191 4.62 171
+(Observed 4119 763 17663 1475, 4.46 1.93
+‘sIO 1.02 0.91 1.10 081 1.04 0.89
+
+Geometric means. S/O: Simulated/Observed. Observed data: Clinical Study 103; n = 18 individuals;
+Source: Table 12 in the PBPK report (chmx3a-b)
+
+226
+Version date: March 1, 2024 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5638121

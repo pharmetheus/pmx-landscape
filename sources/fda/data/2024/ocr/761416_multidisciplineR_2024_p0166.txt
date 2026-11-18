@@ -1,0 +1,116 @@
+BLA 761416 Multi-disciplinary Review and Evaluation
+
+Zanidatamab
+
+Covariates Evaluated
+
+Age, baseline weight, baseline lactate dehydrogenase, sex, race, number of
+lesions, baseline tumor size, HER2 expression (as determined by IHC or
+
+FISH), and ECOG performance status
+
+Final Model Parameters
+
+Summary
+
+Acceptability
+[FDA’s
+comments]
+
+Model Structure
+
+The final model for diarrhea is a logistic regression on the
+logit scale including an additive shift for HER2 status of 0/1+
+plus a linear function of Cavgss centered by its median.
+
+Acceptable
+
+Model Parameter Estimates
+
+Parameter estimates for the final model of diarrhea show
+additive shift for HER2 0/1+ is -1.91 (34.5 %RSE) and slope
+for Cavgss is 0.00429 (29.2 %RSE) (Table 50).
+
+Acceptable
+
+Model Evaluation
+
+In Figure 12, the model-based predicted probability of
+diarrhea AEs (blue and red lines for HER2 status of 2+/3+
+and 0/1+, respectively) was superimposed on the observed
+data points (circles and plusses) for both HER2 status groups
+across the range of zanidatamab Cavgss, indicating that the
+final model corresponded well with the observed data.
+
+Acceptable
+
+Covariates and Clinical
+Relevance
+
+Although HER2 IHC status was a statistically significant
+covariate where participants with HER2 IHC 0 or 1+ had a
+
+lower probability of diarrhea relative to those with IHC 2+ or
+
+3+, the clinical relevance of this observation is unknown.
+Despite the apparent ER trend for probability of diarrhea,
+there is no statistically significant ER relationship for
+
+Grade > 3 diarrhea, which is considered more clinically
+relevant. No statistically significant relationships were
+observed between zanidatamab exposure and Grade = 3
+TEAE, IRRs (all grades), and Grade = 3 IRRs. Limited
+participants had SAEs that were zanidatamab related (n = 10
+out of 85 total patients with SAEs), hence no meaningful
+analyses were summarized.
+
+Acceptable
+
+Simulation for Specific
+Population
+
+‘Simulations using the final PK model were performed to
+predict zanidatamab Cavgss for 1000 simulated BTC patients
+each administered doses of 15 and 20 mg/kg Q2W. These
+predicted exposure measures were used to obtain model-
+predicted probabilities of diarrhea using the final model. A
+summary of the model-predicted probabilities of diarrhea in
+each quartile of zanidatamab Cavg.ss. by regimen (Table 51,
+and Figure 14). The risk of an AE of diarrhea is predicted to
+exceed 50% for the highest exposure quartile for 15 mg/kg
+Q2W and the 2 highest exposure quartiles of zanidatamab
+Cag ss for 20 mg/kg O2W.
+
+Acceptable
+
+Visualization of ER
+relationships
+
+© Final model for diarrhea logistic regression vs Cavg.ss:
+Figure 13
+
+e Baseline demographics stratified by the Cavgss: quartiles:
+Table 49
+
+‘Acceptable
+
+Overall Clinical Relevance
+for ER
+
+No statistically significant E R relationship was found for any
+of the safety endpoints examined (including Grade > 3
+diarrhea, Grade > 3 TEAEs, or IRR), except for the
+probability of diarrhea, where higher zanidatamab exposure
+was associated with an increased probability of diarrhea.
+Despite the apparent E R relationship for the occurrence of
+
+‘Acceptable
+
+165
+
+Version date: August 2023 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5482010

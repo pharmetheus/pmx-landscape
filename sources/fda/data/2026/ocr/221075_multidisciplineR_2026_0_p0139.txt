@@ -1,0 +1,61 @@
+NDA/BLA Multi-disciplinary Review and Evaluation NDA 221075
+Iberdomide (ZENBEXUS)
+The FDA’s Assessment:
+
+FDA generally agrees with the Applicant's description of the efficacy endpoints for Study CC-
+220-MM.-002, and notes that the MRD status was assessed using the Hematogenix next-
+generation flow assay. The primary endpoints for the trial were MRD-negative CR at any time
+and PFS. Overall survival (OS) was the key secondary endpoint, while overall response rate
+(ORR) was included as an additional secondary endpoint.
+
+FDA notes that while the meta-analysis presented at the ODAC in 2024 was robust, there was a
+lack of a strong trial-level association for MRD and the clinical benefit endpoints of PFS and OS,
+indicating that MRD is not a validated surrogate endpoint in MM. However, the strong
+individual-level associations for MRD with PFS and OS did suggest that MRD is prognostic, and
+that MRD could potentially serve as an intermediate clinical endpoint to support accelerated
+approval in MM.
+
+Additionally, in the recent MRD Draft Guidance, FDA stated that there is limited data on the use
+of sustained MRD negativity rate (FDA MRD Guidance 2026).
+
+Sustained MRD negativity and time to response were
+FDA considered these endpoints as exploratory due to their
+
+limited regulatory purposes. Changes to the primary endpoints are discussed in the “Protocol
+Amendments” section below.
+
+(b) (4)
+
+Statistical Analysis Plan and Amendments
+
+The Applicant’s Description:
+
+The current version of the SAP, v5.0, was finalized on 10-Jul-2025. Throughout the study conduct
+the SAP was updated to reflect changes in the protocol amendments and add additional details to
+the analysis. The modifications to the SAP are not considered to have had an impact on the integrity
+of the trial or interpretation of the results.
+
+Data presented in the Interim CSR is based on the MRD analysis group, as defined in the “Trial
+Design” section above.
+
+Efficacy Analyses
+
+The primary analysis was based on the independent and centralized assessment by IRC according
+to IMWG Uniform Response Criteria for Multiple Myeloma 2016. The alpha allocated to testing
+MRD-negative CR at any time is 0.005 (one-sided). The efficacy analysis between IberDd 1 mg
+arm and DVd arm was based on the data from both Stage 1 and Stage 2, and the overall type I
+error will be controlled at1-sided 0.025 level. Endpoints are defined in Table 41.
+
+MRD-negative CR at Any Time: Comparisons between treatment arms used the stratified MN
+test, adjusting for stratification factors. The MN estimate of proportion difference, 2-sided 95%
+CL, and p-value for testing treatment difference was reported. Proportions of MRD-negative CR
+were reported with 95% CIs using the Clopper-Pearson method. Data after new anti-myeloma
+therapy or documented disease progression was excluded. Subjects who discontinued or died
+
+138
+Version date: February 10, 2025 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5851050

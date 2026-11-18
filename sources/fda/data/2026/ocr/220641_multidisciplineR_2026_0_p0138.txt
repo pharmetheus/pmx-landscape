@@ -1,0 +1,60 @@
+NDA/BLA Multi-disciplinary Review and Evaluation - NDA 220641
+Relacorilant
+
+FDA SA6. Control arm patients censored at randomization 6.5 vs. 5.6 0.80 (0.62, 1.04)
+were censored at the data cutoff date if they did not die:
+otherwise, they were considered as events at the time of
+death.
+
+FDA SA7. Hazard ratio was estimated based on a Cox 6.5 vs. 5.5 0.73 (0.56, 0.95)
+regression model adjusted by multiple prior treatment
+factors including number of prior lines of therapy for
+PROC, time since last taxane, progression on prior PARP,
+and discontinuing the most recent line of therapy due to
+disease progression.
+
+[Source: CSR Table 19 and dataset ADTTE.XPT]
+
+e Impact of early censoring on BICR-PFS results
+
+A total of 13 patients (2 patients on the relacorilant in combination with nab-paclitaxel arm vs.
+11 patients on the nab-paclitaxel monotherapy arm) were censored at randomization in the
+primary PFS analysis (Table 24). To evaluate the impact of the imbalanced early censoring at
+randomization on the primary PFS per BICR results, the review team conducted a tipping point
+analysis by imputing PFS time for the 11 patients on the nab-paclitaxel arm who were censored
+at randomization, by assuming different levels of reduced progression risk compared to the other
+patients on the nab-paclitaxel arm. A grid search algorithm was used to find the minimal
+percentage reduction needed such that the 96% confidence interval (corresponding to the
+efficacy boundary of the primary PFS analysis) would include 1. Figure 8 shows a gradual shift
+in the estimated hazard ratios and corresponding confidence intervals towards 1 (i-e., a result that
+would not be statistically significant) with imputations based on different levels of reduced risk.
+The results showed that with at least 80% lower risk, the 96% confidence interval around PFS
+hazard ratio includes 1.00, which suggests that the imbalanced early censoring at randomization
+is unlikely to change the statistical conclusion on PFS.
+
+Table 24: FDA - Summary of Early Censoring in the Primary BICR-PFS Analysis
+
+Relacorilant + Nab-
+Nab-Paclitaxel | Paclitaxel
+(N=188) (N=193)
+Number of patients censored, n (%) 75 (40) 72 (37)
+Censored at randomization 2() 1 ©
+No baseline or post baseline assessments and no death 1 8
+Not receiving trial treatment 0 3
+PFS event after 2 or more missing assessments 1 3
+Censored after randomization and before or at week 8 9 (5) 8 (4)
+PFS event after 2 or more missing assessments 4 2
+Receiving new anti-cancer therapy prior to progression 2 3
+No progression or death 3 3
+
+[Source: dataset ADTTE.XPT]
+
+Figure 8: FDA - Tipping Point Analysis of PFS per BICR
+
+137
+Version date: February 10, 2025 (ALL NDA/ BLA reviews)
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant's Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5769316
+

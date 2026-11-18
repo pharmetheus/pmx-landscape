@@ -1,0 +1,47 @@
+NDA 216540 Acoramidis (AG-10) Page 14 of 28
+
+Table3A: Tumor Rates and P-Values for Dose Response Relationship and the pairwise comparisons
+
+Male Rats Poly-3
+
+0 mg Vehicle 5mg 15 mg 50 mg
+Cont (N=60) | Low (N=60) | Med (N=60) | High (N=60)
+Organ Name Tumor Name P-Trend P-Cvs.L | P-Cvs.M | P-Cvs.H
+Adipose, Other B-Lipoma 0/60 (45) 0/60 (48) 1/60 (41) 0/60 (48)
+0.4890 NC 0.4767 NC
+Adrenal, Cortex | B-Adenoma 1/60 (45) 1/60 (48) 1/60 (41) 1/60 (48)
+0.5247 0.7686 0.7291 0.7686
+Adrenal, Medulla | B-Pheochromocytoma,] 9/60 (46) 10/60 (49) 8/60 (42) 12/60 (49)
+benign 0.2609 0.5616 0.6287 0.3712
+M-Pheochromocytoma,| 2/60 (46) 2/60 (49) 2/60 (42) 3/60 (49)
+malignant 0.3165 0.7151 0.6566 0.5302
+Pheochromocytoma, 10/60 (46) 11/60 (50) 10/60 (42) 15/60 (50)
+benign / malignant 0.1447 0.5861 0.5083 0.2461
+Bone, Other B-Odontoma 1/60 (46) 0/60 (48) 0/60 (41) 0/60 (48)
+1.0000 1.0000 1.0000 1.0000
+Brain M-Glioma, mixed, 0/59 (45) 0/60 (48) | 1/60 (41) 0/60 (48)
+malignant 0.4890 NC 0.4767 NC
+M-Reticulosis 0/59 (45) 0/60 (48) 0/60 (41) 1/60 (48)
+0.2637 NC NC 0.5161
+Duodenum M-Adenocarcinoma 0/60 (45) 0/60 (48) 1/60 (41) 0/60 (48)
+0.4890 NC 0.4767 NC
+Epididymis M-Schwannoma, 0/60 (45) 0/60 (48) 0/60 (41) 1/60 (48)
+malignant 0.2637 NC NC 0.5161
+Eye B-Schwannoma, benign] 0/60 (45) 0/60 (48) 0/60 (41) 1/60 (48)
+0.2637 NC NC 0.5161
+M-Schwannoma, 0/60 (45) 1/60 (48) 0/60 (41) 0/60 (48)
+malignant 0.7527 0.5161 NC NC
+Hematolymphoid | M-Leukemia 1/60 (45) 2/60 (48) | 2/60 (42) 1/60 (48)
+System 0.6160 0.5245 0.4738 0.7686
+M-Lymphoma 1/60 (46) 4/60 (49) | 4/60 (43) 3/60 (49)
+0.4093 0.2011 0.1600 0.3328
+Jejunum M-Carcinoma 0/60 (45) 2/60 (48) 0/60 (41) 0/60 (48)
+0.8088 0.2637 NC NC
+Kidney B-Adenoma 1/60 (45) 0/60 (48) 0/60 (41) 0/60 (48)
+1.0000 1.0000 1.0000 1.0000
+B-Adenoma, 0/60 (45) 0/60 (48) | 1/60 (42) 2/60 (48)
+amphophilic vacuolar 0.0644 NC 0.4828 0.2637
+M-Carcinoma 1/60 (46) 0/60 (48) 0/60 (41) 0/60 (48)
+1.0000 1.0000 1.0000 1.0000
+
+Reference ID: 5385041

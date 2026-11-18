@@ -1,0 +1,56 @@
+BLA Multi-disciplinary Review and Evaluation {Biologics License Application (BLA) 761324
+{epcoritamab}
+
+Cl = confidence interval; Ctr = Ctrough (trough concentration); Emax = maximal effect; LBCL = large B-cell
+lymphoma.
+Source: Figure 6 in Applicant's 2 December 2022 response to 22 November 2022 information request
+
+e Change in Dosing Intervals
+1) The majority of initial responses (94%) were achieved in QW dosage window (i.e., within
+first 3 cycles), with a median time to response (defined as the time from C1D1 to first
+documentation of objective tumor response) of 1.4 months (range: 1, 8.4).
+2) The majority of LBCL responders treated during Q2W and Q4W dosage window
+maintained or improved response during Q2W or Q4W dosing (Table 14).
+
+Table 14: Summary of ORR (IRC-Lugano) by dosage window in patients with LBCL in Study
+
+GCT3013-01
+Dosage Responders Response (% Responders)
+Wind. at the start of
+indow window (n) Maintained Improved Maintained or Improved
+Qw 93 76% 11% 87%
+Q2zw 81 52% 26% 78%
+Qaw* 48 83% 4% 87%
+
+*Majority of patients in Q4W window had 12 to 13 cycles. 30June2022 data cut-off.
+
+LBCL = large B-cell lymphoma; ORR = overall response rate; QW = once weekly; Q2W = every 2 weeks;
+Q4W = every 4 weeks.
+
+Source: Table fda.Ir2.q4.response2 , Response to 22Nov2022 IR Response, SDN 8
+
+3) Longer Q4W administration appears to maintain response. Of the 18 responders with
+>18 cycles and response assessment at Cycle 18, 89% maintained response.
+Nonetheless, the available patient data is limited at Q4W with longer follow-up.
+
+6.2.2.2, Therapeutic Individualization
+
+Data:
+
+The impact of intrinsic and extrinsic factors on epcoritamab exposures was evaluated using
+popPK modeling. The factors assessed included baseline body weight, sex, age, race, baseline
+renal impairment, baseline hepatic impairment, immunogenicity, geographic region, and
+baseline disease characteristics including prior therapies. No clinically relevant effect on
+exposure to epcoritamab was observed after accounting for differences in body weight. While
+body weight was the main covariate identified that had a significant effect on epcoritamab PK
+(the average AUC during Cycle 1 was 10.6% lower in subjects with weight 285 kg and 47.6%
+higher in subjects with weight <65 kg), no clinically meaningful differences in efficacy or safety
+in subgroups were observed.
+
+70
+Version date: June 2022 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5176690

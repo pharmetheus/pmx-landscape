@@ -1,0 +1,76 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {BLA 761345}
+elranatamab
+
+Method Validation Study C1071001 Study C1071002
+1079002 (© Project RSYR) (© Project RWKO)
+Bioanalytical site o@)
+Matrix Human Serum Human Serum
+Platform Electrochemiluminescen Electrochemiluminescence (ECL)
+ce (ECL)
+Format A validated sandwich format using biotin-labeled mouse anti-hCD3 antibody (binds to the
+
+anti-CD3 arm of PF-06863135) to capture free PF-06863135 and detected using ruthenium-
+labeled mouse anti-BCMA Combo C29 antibody (binds to the anti-BCMA arm of PF-
+
+06863135).
+
+Stock reference, Elranatamab (PF-06863135) | Elranatamab (PF-06863135)
+
+lot number, expiration date Reference Standard Lot Reference Standard Lot STL0006586-RS,
+STL0006586-RS, current review date 30Nov2022
+
+Calibration ranges from the | 50.0 to 6400 ng/mL 50.0 to 6400 ng/mL
+
+lower limit of quantitation
+
+(LLOQ) to the upper limit of
+
+quantitation (ULOQ)
+
+Matrix study population Multiple myeloma Multiple myeloma
+
+Table 92: FDA — Summary of Method Performance: Elranatamab Total and Free PK
+
+Summary of Method Performance: Elranatamab Total PK
+
+Bioanalytical © RIQQ2 (OSNov2020) Original
+
+method validation | TITLE: THE VALIDATION OF AN ECL ASSAY FOR THE DETERMINATION OF
+report name, TOTAL PF-06863135 (ANTI-BCMA-CD3 BISPECIFIC ANTIBODY) IN HUMAN
+amendments and | SERUM SAMPLES
+
+hyperlinks © RIQQ2 (06Mar2023)
+
+TITLE: THE VALIDATION OF AN ECL ASSAY FOR THE DETERMINATION OF
+TOTAL PF-06863135 (ANTI-BCMA-CD3 BISPECIFIC ANTIBODY) INHUMAN
+SERUM SAMPLES
+
+Method description | Samples containing PF-06863135 are incubated with 300 mM acetic acid (pH 3.0) to
+dissociate potential drug-target complexes. Dissociated samples are incubated with a
+neutralizing capture solution containing biotin-labeled mouse anti-hCD3 ID (binds to the
+PF 06863135 anti-CD3 arm), RN327 (anti-BCMA arm homodimer acting as a target
+blocker), and goat anti-hBCMA IgG polyclonal antibody (target blocker).
+
+PF-06863135 is captured via the biotin-labeled mouse anti-hCD3 ID, which then is bound
+to streptavidin-coated MSD Multi-Array™ plates. The bound PF-06863135 is detected
+with ruthenium-labeled mouse anti-BCMA Combo C29 anti-ID, which binds to the PF-
+06863135 anti-BCMA arm. Tripropylamine-containing buffer (MSD Read Buffer T) is
+added to the plate and, upon the application of an electrical charge. an
+electrochemiluminescent signal is produced. The resultant electrochemiluminescent signal
+is detected using an MSD instrument.
+
+Materials used for Elranatamab (PF-06863135). Drug Product lot 17-001511, 2.00 mg/mL (C1079001
+standard Validation, C1071001 and C1071002)
+
+calibration curve Reference Standard Lot STL0006586-RS, 9.9 mg/mL (C1071001, C1071002, C1071003
+and concentration and C1071009)
+
+Validated assay 0.500 to 32.0 ng/mL
+range
+
+287
+Version date: January 2020 (ALL NDA/ BLA reviews)
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5226136

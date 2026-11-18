@@ -1,0 +1,44 @@
+NDA 215973 lenacapavir injection, for subcutaneous use
+NDA 215974 lenacapavir tablets, for oral use
+
+Resistant to 3
+
+Failing Classes & PI RT INSTI Phenotypic
+BGRD Screening Failing on EFF VF Resistance Resistance Resistance SC
+PID Arm Regimen Resistance Regimen Day1VL_ OBT YIN _WK26_atSC at SC at SC Resistance
+@) LEN+FR DRV/C NRTI N 884 (not DRVIC Y Y A71T M41L D67G E157Q DRV 0.81
+FTC TDF NNRTI failingon FTC T69D V75M FTC >79
+regimen) TAF L1001 TDF 0.56
+DOR K103N
+M184V
+L210W
+T215D
+K219R
+6) LEN+FR IBL NRTI Y 78,500 DTG IBL Y N M461 154M D67N T69N IBL-R
+NNRTI ABC I84V L89V. K70R
+PI LAM K101E
+V1061
+Y181C
+T2151
+: K219E
+© LEN+FR DTG DRV NRTI N(notfailing 214(not. BICFICN  Y L33F F53L M41L DTG >0.69
+MVC NNRTI on regimen) failingon TAF 154V E138K DRV 0.82
+PI regimen) DRV Y181C MVC
+Mvc G190E (SUSC)
+T215C
+: K219R
+(oe) LEN+FR— DORLAM NRTI Y 35,200 DRVIC Y  N V82L L90M_K65K/R TO7A DOR 40
+TDF IBL = NNRTI FTC K70G/R E138K LAM 13
+INSTI TDF A98S L100! G140S TDF 0.99
+ABC K103N V106 Q148H IBL-R
+Y115F V179 K156N
+Y181Y/C
+L210W
+T215C
+K219Q
+H221Y
+255
+
+Integrated Review Template, version 2.0 (04/23/2020)
+
+Reference ID: 4944206

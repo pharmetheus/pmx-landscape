@@ -1,0 +1,68 @@
+NDA 216490
+Yorvipath (Palopegteriparatide)
+
+Figure 26. Reviewer’s Analysis on Dose Overlapping
+Oneway Analysis of Dispensed dose, mcg By Dose setting
+4)
+
+30
+
+i)
+3S
+
+2
+2
+&
+¢
+g
+S
+
+3
+
+)
+2
+2
+S
+2
+2
+
+(-]
+
+ro)
+
+Source: Reviewer's analysis
+Note: Each dot represents “delivered dose.” All four (4) dots at each dose setting (X-axis) represent possible distribution of
+“delivered dose” using the following combinations of underlying variables: minimum volume-minimum assay, minimum volume-
+maximum assay, maximum volume-minimum assay, and maximum volume-maximum assay. Y-axis represents “delivered dose” in
+lug corresponding to minimum and max volume at each dose setting and at minimum and maximum assay value based on the
+proposed specification of | ()(4)% for assay and | ()(4) for volume. The middle straight line at 18 mcg dose is the starting dose -
+
+Additionally, the Applicant proposed to implement a new test/control in the specification, which
+would limit the variability of the deliverable dose to! j1g at each dose setting. However, the
+assay and volume limits cannot assure the target delivered dose of | jg (ie., a net of (112)
+because the net dose variability is expected to occur at all dose settings as follows: & jg (if the
+assay is |(}%), | ug (if the assay is 100%), and! { pg (if the assay is |"), respectively,
+
+when pens are performing at their extreme ends of their proposed specification ( | uL).
+om
+
+Therefore, the proposed limit of " jg for “delivered dose” is significantly different/unrealistic
+
+as analyzed in the above tables (Table 41, Table 42, and Figure 26) based on the limits proposed
+for pen functionality ( a tL) and assay ( MM)04).
+
+The Applicant mentioned that they will reject batches that do not meet the | 1g criterion. In
+
+other words, while the assay and pen functionality can meet their criteria, a batch can still fail
+with respect to this — tg delivered dose criterion. However, the Applicant’s revised control
+strategy is not robust. Note that as per CDRH, the Applicant has not submitted device design
+verification testing data to ensure that the delivered dose specification (i.e.,!} ug dose
+precision) can be consistently achieved by the device at release and on stability. Per the
+Applicant’s specification, approximately half of the developmental batches (including some
+tegistration stability batches) failed with respect to either content/assay and/or deliverable
+volume, as well as delivered dose. Therefore, there is no assurance that the released batches will
+
+118
+Integrated Review Template, version 3.0 (05/25/2022)
+
+Reference ID: 5165921

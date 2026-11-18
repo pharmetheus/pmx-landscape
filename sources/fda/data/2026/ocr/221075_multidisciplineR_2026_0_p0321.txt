@@ -1,0 +1,60 @@
+APPEARS
+THIS WAY
+ON
+ORIGINAL
+
+NDA/BLA Multi-disciplinary Review and Evaluation NDA 221075
+Iberdomide (ZENBEXUS)
+
+study. Thus, the effective permeability was subsequently optimized to 5 x 10° cm/s. By
+incorporating the formulation-specific parameters derived from SIVA modeling (e.g.
+disintegration rate (Ka) and lag time), the final Simcyp PBPK model with mechanistic absorption
+model can describe the clinical PK, DDI, and food effect data collected across multiple
+formulations. Figure 47 and Table 111 compare the simulated and observed iberdomide PK
+profiles and parameters following a single dose of Iberdomide administered as formulations F1,
+F2 and ICF in fasted state. Based on PBPK simulations, the applicant concluded that there is no
+food effect for any of the formulations (including ICF), and that a clinical study evaluating food
+effect with the ICF formulation is therefore not warranted.
+
+Figure 47: FDA — Simulated and Observed Iberdomide Plasma Concentrations in Healthy
+Volunteers across multiple Formulations (CC-220-CP-005)
+
+AIC (fasted) (1 mg) AIC (fed) (1 mg) F1(fasted) (0.6 mg) F2(fasted) ((0.6 mg)
+
+|
+
+Source: figure 4.2.1-1, 4.2.2-1, 4.2.3-1 in the PBPK report (pbpk-food). Active In Capsule (AIC); Intended
+Commercial Formulation (ICF); formulation F1 and formulation F2.
+
+Table 111: FDA — Summary of Simulated Fed/Fasted Ratios of Multiple Formulations of
+Iberdomide
+
+Fed/Fasted Ratio
+
+Formulation Geometric Mean Ratios (90% Confidence Interval) *
+AUCine Camx
+
+AIC 1.01 (0.90 - 1.20) 0.95 (0.84 - 1.07)
+
+Fl 1.10 (0.97- 131)” 1.03 (0.89 - 1.15)
+
+F2 1.01 (0.90 - 1.21) 0.95 (0.84 - 1.07)
+
+ICF 1.01 (0.90 1.21) 0.95 (0.83 - 1.07)
+
+Source: Table 4.3-1 in the PBPK report (phpk-food). Active In Capsule (AIC); Intended Commercial Formulation
+(ICF); formulation F1 and formulation F2; * Average geometric mean from 10 trials of n=10 subjects. ® One trial
+had a value greater than 1.25; the remainder were below the BE upper limit.
+
+The reviewer acknowledges the Applicant’s PBPK analysis, which provides valuable
+mechanistic support for the low-risk nature of iberdomide as a BCS Class III compound (ICH
+M134). The following considerations are noted when interpreting the simulated prediction of 'no
+food effect’:
+
+322
+Version date: February 10, 2025 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5851050

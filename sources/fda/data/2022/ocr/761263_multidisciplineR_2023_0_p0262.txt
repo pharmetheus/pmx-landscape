@@ -1,0 +1,65 @@
+BLA Multi-disciplinary Review and Evaluation {BLA 761263, Lunsumio (Mosunetuzumab)}
+
+Study Model Development Data Set All Data
+: All Tocilizumab sIL6R All Tocilizumab sIL6R
+
+GO29781 16(98) 16(52) 14(46) 16(98) 16(52) 14(46)
+NP30179 45(386) 45(214) 41(172) 46(408) 46(224) 42(184)
+GO40515 : : = 318) 24) 34)
+GO40516 : : : 1010) 15) 15)
+GO40554 : : : 19) 14) 15)
+
+Total 61 (484) 61 (266) 55 (218) 67 (543) 66 (289) 61 (254)
+
+Source file: 178_sampleSummary.csv, 178msf_sampleSummary.csv (CRS_DiagnosticPlots.R)
+
+Source: Applicant’s Population PK Report (poppk-1114219), Table 3.
+Table 68: Summary of Continuous Covariates in PPK Analysis
+
+Covariate | Units Mean (SD) Median [Range]
+G029781 | NP30179 | Total | GO29781 NP30179 Total
+N 16 5 61 16 5 61
+7 _ 63.8 62.7 63 @ 66 64
+AGE yes | 0.1) (13.8) [54-87] [30-85] [30-87]
+_ 7” 84.4 72.6 814 714 73.8
+in (15.6) (12.9) [66.2-128] [53-114] [53-128]
+; 3 1.84 2.03 181 1.83
+BSA ™ | 223) | (181) [1.58-2.44] (1.47-2.3] [1.47-2.44]
+>| 278 24.9 26.3 a7 24.9
+BMI | Kem | 5.13) | 4.33) [18.2-38.8]
+_— mL/min 90.1 79.6 771
+CRCLN | 11.73m?| 0.5) | (24.4) [33.4-155]
+32.4 33.3 34
+ALB sl | 3p [20-46]
+7 343 38
+PROT gL (1.78) [45-73]
+43.2 35. 33.2 33.4
+SILER | agml | 26.5) (20.1) [24.4-82] [20.3-103] [20.3-103]
+- 7350 1280 1520 846 924
+FERRITIN | pmol | (3390) | (1220) | (2120) | [103-14100] [89.9-5560] [89.9-14100]
+GRp null 94.6 99.8 994 50 60.8
+eB [114 402) | 96.2) _|_ 97.2) [4-446] [3.4-446]
+80.3 82.6 82 75.2 75.2
+SCRT | nmol | 6.4) | 243) | 47) | [469-126] [45-158] [45-158]
+1.24 131 15 1.32 15
+HDL {mmol} 15 ) | 0.42) | 0.378)| [15-15] [0.465-2.5] [0.465-2.5]
+log(ILo)" log 5.64 6.48 6.29 5.66 7.06 6.26
+loedL6)" | (agit) | (0.615) | (1.84) | (1.67) | _[4.95-6.6] (2.39-9.83] (2.39-9.83]
+Le an 2410 | 1940 287 1160 345
+° nel | 332.235) |_ (4710) _| (4210) |_ [141-736] | _[10.9-18600] | _[10.9-18600]
+
+SD=standard deviation
+
+Source file: ContCovMean.csv, ContCovMedian.csv (CRS_ReportPlots.R)
+
+Source: Applicant’s Population PK Report (poppk-1114219), Table 4.
+Table 69: Summary of Categorical Covariates: Number (Percent) of Subjects in PPK Analysis
+
+261
+
+Version date: January 2020 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5100050

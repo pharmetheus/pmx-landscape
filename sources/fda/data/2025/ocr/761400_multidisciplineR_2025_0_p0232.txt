@@ -1,0 +1,69 @@
+NDA/BLA Multi-disciplinary Review and Evaluation Biologics License Application 761400
+linvoseltamab
+
+19.4.2. Exposure-Response Analysis
+19.4.2.1. ER (efficacy) Executive Summary
+The FDA’s Assessment:
+
+The E-R efficacy analysis was limited by the use of total drug concentrations rather than
+free drug concentrations and potential confounding with selected exposure metrics.
+Additionally, the E-R efficacy analysis did not accurately characterize ORR or OS in patients
+with RRMM.
+
+FDA conducted multivariate dose-response analysis to evaluate efficacy, and the dose-
+response analysis generally supports the proposed full dosage of 200 mg QW in patients
+with RRMM. Higher full dose was associated with better ORR, CR rate, and PFS after
+accounting for other patient and disease characteristics in Study R5458-ONC-1826 patients.
+
+19.4.2.2. ER (efficacy) Assessment Summary
+
+The Applicant's Position:
+
+General Information
+
+Goal of ER analysis Characterize the E-R relationship in RRMM patients treated with
+REGN5458 in Study R5458-ONC-1826 for selected efficacy variables.
+
+Study Included Study 1826 Phase 1 and Phase 2
+
+Endpoint ORR, PFS, OS, DOR
+
+No. of Patients (total, and No. of patients: 282 total patients, and 281 with individual PK
+with individual PK)
+Population General - Age median (range): 66 (37-91) years
+
+Characteristics - Weight median (range):77.1 (44.2-171) kg
+
+- 151 (53.5%) male; 131 (46.5%) female
+
+- 205 (72.7%) White; 44 (15.6%) Black or African American; 18 (6.4%)
+Asian; 7 (2.5%) Other; 8 (2.8%) Not Reported
+
+Pediatrics | Not Applicable
+
+(ifany)
+Dose(s) Included 1mg/3mg, 2mg/6mg, 4mg/12mg, 8mg/24mg, 16mg/48mg, 32mg/96mg,
+5mg/25mg/96mg, 5mg/25mg/50mg, 5mg/25mg/200mg,
+5mg/25mg/400mg, 5mg/25mg/800mg
+
+Exposure Metrics Explored | Individual popPK model predicted post-hoc exposure metrics evaluated
+
+(range) are Cmax, Cmin, and Cavg at weeks 1, 2, 3 and 14 and average weekly
+exposures (Cmax, Cmin, Cavg) up to final dose week
+Covariates Evaluated Sex, ethnicity, race, Hepatitis B Virus antibody, hepatic function
+
+category, renal function category, age, body weight, ALT, urine M
+Protein, total bilirubin, albumin, C-reactive protein, calcium, LDH, free
+kappa light chain, free lambda light chain, light chain involvement,
+erythrocytes, platelets, lymphocytes, basophils, monocytes, neutrophils,
+IL8, IFN-gamma, TNF, soluble BCMA, CD69 expression (CD4 and
+CD8), eosinophils, Ig, ECOG, plasmacytoma. Belantamab category,
+refractory to the last line of therapy, prior lines of therapy
+
+197
+
+Version date: August 2023 (ALL NDA/BLA reviews)
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are
+completed by the Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5432800

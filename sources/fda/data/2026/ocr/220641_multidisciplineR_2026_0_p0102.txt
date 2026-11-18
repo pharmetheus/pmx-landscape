@@ -1,0 +1,54 @@
+NDA/BLA Multi-disciplinary Review and Evaluation - NDA 220641
+Relacorilant
+
+The FDA’s Assessment:
+
+The FDA agrees with the Applicant regarding the effect of food on relacorilant exposures, and
+that relacorilant should be administered with food, consistent with administration instructions in
+Study 552 and Study 556. ~~)
+
+Relacorilant and Nab-Paclitaxel DDI:
+
+Relacorilant is a strong CYP3A inhibitor and weak CYP2C$8 inducer. Paclitaxel is a CYP2C8
+and CYP3A substrate. Coadministration of relacorilant and nab-paclitaxel results in an increase
+in paclitaxel exposure. Based on the results of Study 552, dose-normalized paclitaxel exposure
+AUC increased 1.7-fold and Cmax increased 2-fold following coadministration of nab-paclitaxel
+with relacorilant 150 mg. Despite the reduced nab-paclitaxel dose (80 mg/m”) in combination
+with relacorilant, paclitaxel AUCo-s was 1.3-fold higher and paclitaxel Cmax was 1.6-fold higher
+for relacorilant + nab-paclitaxel 80 mg/m? compared to nab-paclitaxel 100 mg/m? monotherapy.
+The FDA concluded that the dosages of relacorilant and nab-paclitaxel are acceptable based
+upon the totality of data (refer to Section 6.1.4.1).
+
+Other Potential DDIs:
+
+CYP1A2 Induction: Relacorilant and metabolite CORT125295 are in vitro inducers of CYP1A2.
+CYP1A2 induction by relacorilant was observed in vitro at 0.1 1M (9-fold higher than unbound
+Cmax). Only one donor showed greater than 2-fold induction around 50-times the unbound Cmax
+and accounted for only 6% of the relative response seen in the positive control (omeprazole). The
+metabolite CORT125295 showed a higher in vitro risk of CYP1A2 induction than relacorilant,
+with induction observed at 0.004 11M (10-fold lower than unbound Cmax) and a calculated R3
+value >1.3. However, this is unlikely to produce a strong induction effect on CYP1A2 based on
+known CYP1A2 substrates and inducers. While these results do not rule out the possibility for
+induction of CYP1A2 caused by relacorilant and metabolite CORT125295, the intennittent
+dosing schedule of relacorilant is unlikely to reach a maximal or sustained induction effect for
+CYP1A2 and does not need further evaluation at the proposed recommended relacorilant dosage.
+
+CYP2C8 Induction: Relacorilant is a weak CYP2C8 inducer. Relacorilant 350 mg QD under
+fasted conditions (1.8-times the recommended dose) for 11 days decreased pioglitazone Cmax to
+78% and AUC to 75%. The FDA concluded that certain CYP2C8 substrates (i.e., narrow
+therapeutic index drugs) should be avoided unless otherwise recommended in the Prescribing
+Information for CYP2C8 substrates where minimal concentrations changes may lead to reduced
+effectiveness.
+
+Gastric Acid Reducing Agents: Relacorilant is a lipophilic compound that exhibits low solubility
+over the physiologically relevant pH range (e.g., 0.6 g/mL at pH 1.2, 0.2 g/mL at pH 6.8) and
+is unlikely to have clinically significant interactions with gastric acid reducing agents. The
+relacorilant oncology trials did not prohibit use of gastric acid reducing agents and were included
+as a potential covariate in the popPK model. Although the popPK modeling analysis did not
+
+101
+Version date: February 10, 2025 (ALL NDA/ BLA reviews)
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5769316

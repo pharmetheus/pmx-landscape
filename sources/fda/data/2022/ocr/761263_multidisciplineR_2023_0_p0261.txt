@@ -1,0 +1,54 @@
+BLA Multi-disciplinary Review and Evaluation {BLA 761263, Lunsumio (Mosunetuzumab)}
+
+20.4.6. Population PK Analysis for Tocilizumab and sIL-6R
+20.4.6.1. Executive Summary
+
+The FDA’s Assessment:
+
+In support of the use of tocilizumab (TCZ) for the management of CRS induced by anti- CD20 T
+cell engaging (TCE) bispecifics antibodies (i.e., mosunetuzumab and glofitamab), the Applicant
+submitted updated PopPK report with study GO29781 (Mosunetuzumab) and NP30179
+(Glofitamab). The PopPK analyses were updated from the previous PK model of tocilizumab by
+using data from multiple studies in adult patients with RA and pediatric patients with sJIA and
+pcllA.
+
+The PK of tocilizumab was described by a two-compartment model with parallel linear and
+Michaelis-Menten elimination, and the first-order subcutaneous absorption. The PK of total sIL-
+6R was characterized by equations of quasisteady-state (QSS) approximation of the target-
+mediated drug disposition (TMDD) model. The final PopPK models for tocilizumab and sIL-6R
+were validated and the updated PopPK model is generally in line with the previous model.
+
+The covariate analysis showed CRS had significant effects on tocilizumab PK parameters and
+sIL6R parameters. Different TCZ dosing regimen scenarios were simulated and the following TCZ
+dosing recommendations were shown to maintain TCZ concentrations below the “safety
+threshold” during the full treatment duration of mosunetuzumab or glofitamab treatment: Two
+consecutive TCZ doses at least 8 hours apart, maximum two doses per CRS event; maximum
+three TCZ doses within each time period of 6 weeks of mosunetuzumab or glofitamab.
+
+The Applicant’s PopPK analyses for tocilizumab and sIL-6R were verified by the reviewer, with
+
+no significant discordance identified. ‘ |
+© Refer to section 8.2.4.1
+
+for details.
+20.4.6.2. PPK Assessment Summary for Tocilizumab and sIL-6R
+
+The FDA's Assessment:
+
+A total of 289 TCZ PK observations and 254 sIL-6R observations from 67 patients were available
+for the PK-sIL6R analysis. Of those, a total of 266 TCZ PK observations and 218 sIL-6R
+observations from 61 patients were used for model development (model development
+population) and the remaining ones were used for external evaluation of the model. The
+summary of the available data is presented in Table 67. Summary statistics of the continuous
+and categorical covariates that were evaluated in the PopPK analysis are shown in Table 68 and
+Table 69, respectively.
+
+Table 67: Summary of Available Data: Number of Subjects (Observations), by Study
+
+260
+Version date: January 2020 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5100050

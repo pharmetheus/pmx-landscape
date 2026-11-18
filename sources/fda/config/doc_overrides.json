@@ -1,0 +1,35 @@
+{
+ "_note": "Documents added by hand after 02_retrieve.py found none of the three target review types.",
+ "2023": {
+  "217369": [
+   {
+    "type": "integratedR",
+    "folder_year": "2023",
+    "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2023/217369Orig2s000IntegratedR.pdf",
+    "reason": "Zurzuvae approved under Orig2 (postpartum depression); Orig1 (MDD) was not approved and openFDA lists no Orig1 TOC"
+   }
+  ]
+ },
+ "2021": {
+  "761178": [
+   {
+    "type": "medR",
+    "folder_year": "2021",
+    "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2021/761178Orig1s000MedR.pdf",
+    "reason": "Aduhelm has no Integrated, Multi-Discipline or Clinical Pharmacology review; Clinical, Other and Summary reviews searched as fallback"
+   },
+   {
+    "type": "otherR",
+    "folder_year": "2021",
+    "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2021/761178Orig1s000OtherR.pdf",
+    "reason": "Aduhelm has no Integrated, Multi-Discipline or Clinical Pharmacology review; Clinical, Other and Summary reviews searched as fallback"
+   },
+   {
+    "type": "sumR",
+    "folder_year": "2021",
+    "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2021/761178Orig1s000SumR.pdf",
+    "reason": "Aduhelm has no Integrated, Multi-Discipline or Clinical Pharmacology review; Clinical, Other and Summary reviews searched as fallback"
+   }
+  ]
+ }
+}

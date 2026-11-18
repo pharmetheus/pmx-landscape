@@ -1,0 +1,71 @@
+NDA 216540
+ATTRUBY (acoramidis)
+
+Table 106. Summary of Life Cycle of Bioanalytical Method Used to Measure Acoramidis in Human
+Plasma (Also see Table 107)
+
+Validation
+Categories | 4005366 Study AG10-001 Study AG10-003 Study AG10-004 Study AG10-005
+Analyte Acoramidis
+Validation Full In-study In-study In-study In-study
+type
+eCTD Section |5.3.1.4 5.3.3.1 5.3.1.2 5.3.3.3 5.3.3.1
+Method ID ATM-2227
+Duration of | August 11 September 18 October 22, December 06, January 18,
+time method |2017 to 2017 to February 2018to October 2018 to 2019 to January
+is in use August 16 22, 2018 26, 2018 December 12, 25, 2019
+2017 2018
+Amendment 1
+December 09
+2017
+Amendment 2
+December 13
+2018
+Amendment 3
+April 26 2022
+Amendment 4
+March 03 2023
+and May 18
+2023
+Bioanalytical ere
+site|
+Matrix Human acidified plasma (K2-EDTA)
+Platform LC-MS-MS
+Format Human plasma containing acoramidis and the IS, AG10-D6, was extracted using protein
+precipitation and analyzed by a Sciex API 4000 LC-MS-MS equipped with a HPLC
+column. Study data were collected using Analyst® (version 1.6.1 or higher, Applied
+Biosystems/MDS Sciex) and evaluated with Watson Laboratory Information Management
+System™ (LIMS; version 7.5 or higher, Thermo Fisher Scientific) software.
+Calibration 10.0 ng/mL to 10.0 ng/mL to 10.0 ng/mL to 10.0 ng/mL to 10,000 ng/mL.
+range from 10,000 ng/mL 10,000 ng/mL 10,000 ng/mL. 10,000 ng/mL. 10,000 ng/mL
+the LLOQ to
+the ULOQ
+Matrix study | Normal plasma
+population
+
+Source: Applicant's summary of Biopharmaceutic Studies and Associated Analytical Methods
+
+Abbreviations: eCTD, electronic common technical document; EDTA, ethylenediaminetetraacetic acid; HPLC, high-performance
+liquid chromatography; LC-MS-MS, liquid chromatography with tandem mass spectrometry; LLOQ, lower limit of quantification;
+ULOQ, upper limit of quantification
+
+Table 107. Summary of Life Cycle of Bioanalytical Method Used to Measure Acoramidis in Human
+Plasma—Additional Studies Continued From Table 106
+Study
+Study Study ALXN2060 Study Study
+Categories | AG10-007 AG10-008 -HV-101 AG10-201 AG10-202 Study AG10-301
+
+Analyte Acoramidis
+
+Validation In-study In-study In-study In-study In-study In-study
+type
+
+eCTD 5.3.3.1 5.3.3.4 5.3.1.4 5.3.5.1 5.3.5.2 5.3.5.1
+Section
+
+Method ID ATM-2227
+
+163
+Integrated Review Template, version 4.0 (11/1/23)
+
+Reference ID: 5484506

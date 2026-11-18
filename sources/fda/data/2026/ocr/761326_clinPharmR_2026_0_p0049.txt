@@ -1,0 +1,40 @@
+Method summary
+
+Reference item / Detected analyte _ | NNC0148-0287 (insulin 0287)
+Biological matrix Human serum
+Method SOP SM3-429
+Sample Volume 100 ul (study sample volume 10 L)
+Regression type / weighting factor | 5-PL, Ly”
+Blank subtraction No
+Analytical Range 500 - 80000 pM
+Response eps (counts per second)
+Validation parameters
+Precision and Accuracy Intra- and inter-run precision, accuracy and total error criteria met
+Selectivity! recovery: Not spiked (BLQ) | LLOQ (within+25%) | HQC (within +20%)
+© Non-diabetic individual: :
+%% "i , 10 (80%
+G “ pre 10/10 (100%) 10/10 (100%) 8/10 (80%)
+© Type 2 diabetes patients: 10/10 (100%) 10/10 (100%) 10/10 (100%)
+Hemolysis All samples with 3% hemolysis degree met acceptance criteria
+Specificity Human insulin, Aspart, Dezludec, Detemir and Glargine
+(cross-reactivity)
+Acceptance criteria met (each concentration of each analogue was within 25%
+at both LLOQ and ULOQ levels)
+Dilution linearity and prozone effect | No high dose hook effect. Acceptance criteria of within 80-120% was met for
+up to a 300-fold dilution
+Stabi Freeze-thaw in human serum: 6 freeze-thaw cycles at -20°C
+Short-term in human serum: 22 hours at room temperature
+Long-term in human serum: 34 days at -20°C and at -80°C
+Whole blood: 2 hours at room temperature and at 5°C
+
+Source: BLA 761326 In DARRTS SDN 0001 April 10, 2023 Method Validation Report No. VCA25310-01: page 11
+
+The range of the standard curve used for clinical sample analysis was from 500 pM to 80,000
+pM.
+
+The assay range combined with the validated dilution methods are acceptable based on serum
+insulin icodec concentrations observed in the studies.
+
+page 50
+
+Reference ID: 5399798

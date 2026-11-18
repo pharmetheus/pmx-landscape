@@ -1,0 +1,64 @@
+NDA/BLA Multi-disciplinary Review and Evaluation NDA 221075
+
+Iberdomide (ZENBEXUS)
+
+Hemolysis Effect Accuracy (% bias) | 1 lot of 2% hemolyzed plasma Acceptable
+3.7% to 4.0%
+
+Lipemic Effect Accuracy (% bias) | 1 lot of lipemic plasma Acceptable
+-1.4% to 6.3%
+
+Dilution Linearity Accuracy (% bias) | 10 x dilution of 750 ng/mL Acceptable
+-4.2%
+
+Benchtop Stability Accuracy (% bias) | 24 hours @ -4° C or RT Acceptable
+0.4% to 5.3%
+
+Freeze/Thaw Accuracy (% bias) | 5 cycles @ -20° C or -70° C Acceptable
+
+Stability -1.8% to 2.7%
+
+Long-term Stability | Accuracy (% bias) | 440 days @ -20° C or 1608 days | Acceptable
+-70°C
+-13.3% to 9.0%
+
+Parallelism NA N/A
+
+Carryover None Acceptable
+
+Table 81: FDA — Summary of Bioanalytical Methods Validation for the Determination of
+M12 in Human Plasma (CC-220-DMPK-2273)
+
+Method Description
+Bioanalytical Method | Report CEL-R5240 (initial validation)
+Validation Report Addendum 1 (long-term stability)
+and Amendments Addendum 2 (interference of CC-16915 on M12)
+Addendum 3 (long-term stability, interference of dexamethasone on
+M12)
+Addendum 4 (long-term stability, lipemic effect, additional QCM)
+Method Description | Acidified human plasma (40 mM citrate acid) were processed using
+SPE and analyzed via HPLC coupled with Turbo IonSpray® MS/MS.
+Multiple reaction monitoring in positive ion mode was used to detect
+M12 and the IS (CC-16915-dg). Chromatographic separation was
+achieved on a Phenomenex Synergi Polar-RP column (2.0 x 50 mm, 4
+jum). Retention time was ~1.8 minutes for M12 and ~2.2 minutes for
+the IS.
+Materials M12 in acidified (40 mM citric acid) human K2EDTA plasma
+Calibration Quality Controls (QCs)
+A 0.1 ng/mL LLOQ 0.1 ng/mL
+B 0.2 ng/mL QCL 0.3 ng/mL
+€ 0.4 ng/mL QCM 1 15 ng/mL
+D 2 ng/mL QCH 38 ng/mL
+E 10 ng/mL QCVH 500 ng/mL
+E 20 ng/mL
+G 40 ng/mL
+H 50 ng/mL
+245
+
+Version date: February 10, 2025 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5851050
+

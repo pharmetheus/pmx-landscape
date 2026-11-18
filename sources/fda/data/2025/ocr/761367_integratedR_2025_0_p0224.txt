@@ -1,0 +1,43 @@
+BLA 761367
+
+Andembry / garadacimab
+Table 103. Applicant-Parameter Estimates and SE From Final Population PK-PD Model
+Estimate 95% CI
+Structural model parameters
+EMAX (unitless) exp(@,) Maximal inhibitory effect of drug 0.988 0.981, 0.996
+EC50 (ng/mL) exp(@,) Concentration that causes 17600 16400, 18800
+half-maximal effect
+FO (% baseline) exp(43) Initial level of FXlla-mediated 98.8 94.9, 103
+kallikrein activity
+GAMMA (unitless) exp(@,) Shape parameter 2.05 1.88, 2.23
+Covariate effect parameters
+EO ~ BLPD 4; Baseline FXIa-mediated kallikrein -0.262 -0.308, -0.217
+activity effect on EO
+EC50 ~ BLPD 0 Baseline FXIla-mediated kallikrein 0.269 0.124, 0.413
+
+activity effect on EC50
+
+Estimate 95% Cl Shrinkage (%)
+Interindividual variance parameters
+ITV-EC50 QXo2, 0.168 [CV%=42.8] 0.119, 0.217 20.2
+ITV-EO Q%3) 0.0268 [CV%=16.5] 0.0219, 0.0317 14.7
+IlV-GAMMA Q%4,4) 0.150 [CV%=40.2] 0.0876, 0.212 27.0
+Interindividual covariance parameters
+EC50-E0 Q% 3,2) 0.0148 [Corr=0.221] 0.00160, 0.0280 -
+GAMMA-E0O (42) 0.0846 [Corr=0.533] 0.0441, 0.125 -
+GAMMA-EC50— Q43) 0.0254 [Corr=0.400] 0.00647, 0.0442 -
+Residual variance
+Proportional Yq) 0.0577 [CV%=24.0] 0.0556, 0.0597 6.15
+Additive X22) 6.01 [SD=2.45] 4.42, 7.61 6.15
+
+Source: Applicant's Population PK Report, Tables S23 and S24.
+Abbreviations: A, absorbance; CSL-312, garadacimab; eGFR, estimated glomerular filtration rate; FXII/PLG HAE, hereditary
+angioedema with normal C1-esterase inhibitor and factor XII or plasminogen gene mutation; HAE, hereditary angioedema; max,
+maximum min, minimum; n, number of records summarized; PK, pharmacokinetics; PopPK, population pharmacokinetics; SD,
+standard deviation; TP, Treatment Period; summary is count (percentage) for categorical variables
+
+200
+
+Integrated Review Template, version 3.0 (05/25/2022)
+
+Reference ID: 5458438

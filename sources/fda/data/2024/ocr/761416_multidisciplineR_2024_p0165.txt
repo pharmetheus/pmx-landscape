@@ -1,0 +1,64 @@
+BLA 761416 Multi-disciplinary Review and Evaluation
+Zanidatamab
+
+Table 47: Summary of Simulated Model-Predicted Probability of OR for Virtual Patients,
+by Quartiles of Cycle 1 Zanidatamab Cyin for 15 and 20 mg/kg Q2W
+
+15 mg/kg Q2W
+
+Statistic [10.7, 53.4] (53.4, 71.5] __[71.6, 93.9] __[93.9, 253.5] Overall
+Probability of Objective Mean(StD) 0.10 (0.06) 0.25 (0.03) 0330.02) 0.40002) _—:0.27 (0.12)
+
+Response Median 0.10 0.25 0.33 0.40 0.29
+Min, Max —_ 0.0, 0.2 0.2. 0.3 0.3, 0.4 0.4, 0.5 0.0, 0.5
+a 250 250 250 250 1000
+20 mg/kg Q2W
+
+Statistic [18.5, 79.8] __[80, 105.3] [105.3, 137.4] _ [137.4, 356.5] _ Overall
+
+Probability of Objective  Mean(StD) 0.23 (0.08) 0.36 (0.02) —0.41(0.01)_—0.45(0.01)_—_—(0.36 (0.09)
+
+Response Median 0.24 0.36 0.41 0.44 0.39
+Min,Max 0.0, 0.3 0.3, 0.4 0.4, 0.4 0.4, 0.5 0.0, 0.5
+n 250 250 250 250 1000
+
+Abbreviations: Cnia = minimum observed concentration; Max = maximum; Min = minimum; n= number of
+patients; OR = objective response; Q2W = every 2 weeks; StD = standard deviation: Q2W = Once every 2 weeks.
+Source: ER Report Table 59.
+
+19.4.3.3. ER (Safety) Assessment Summary
+The Applicant’s Position:
+
+General Information
+Goal of ER analysis The goal of the ER analysis was to develop ER safety models to describe the
+relationships between the probability of incidence of diarrhea, Grade > 3
+diarrhea, Grade > 3 TEAEs, IRRs, Grade > 3 IRRs, and SAEs, if feasible, in
+patients with HER2-expressing cancers and zanidatamab exposure.
+Study Included ZWI-ZW25-203 and ZWI-ZW25-101.
+Population Included Exposure-response analyses of safety AEs were performed on data collected
+from participants with available zanidatamab exposure estimates from Study
+203 (N = 87) in participants with HER2 amplified BTC and Study 101 (N=
+192) in participants with HER2-expressing cancers.
+Endpoint Diarrhea, Grade > 3 diarrhea, Grade > 3 TEAEs, IRRs, Grade > 3 IRRs, and
+SAEs related to zanidatamab.
+No. of Patients (total, and The ER safety analysis dataset for AEs included a total of 279 patients (all had
+with individual PK) available model-predicted exposure measures for ER analyses).
+Population General * Demographics information appears in Table 48
+Characteristics | Organ © See Section 19.4.1.2, Population characteristics, Organ impairment row.
+impairment
+Pediatrics | Not applicable
+(Gf any)
+Geriatrics Age 65 to < 75: 93 (33.3%)
+(if any) Age > 75: 16 (5.7%)
+Dose(s) Included 5, 10, 15 mg/kg OW, 20, 25, 30 mg/kg O2W, and 30 mg/kg O3W (Study 101)
+and 20 mg/kg Q2W (Study 203)
+Exposure Metrics Explored | Exposure metrics were summarized in ER Report Table 28 (eg, steady-state
+(range) Cavg range: 69.61 to 701.80 ug/mL).
+164
+
+Version date: August 2023 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5482010

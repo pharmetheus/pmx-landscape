@@ -1,0 +1,67 @@
+BLA 761184
+Ngenla (somatrogon)
+
+Table 110. Adverse Events by FDA Medical Query (Narrow), Safety Population, Trial CP-4-004
+
+(Main Study)
+Somatrogon Somatrogon Somatrogon Total
+
+0.25 mg/kg/wk 0.48 mg/kg/wk 0.66 mg/kg/wk Somatrogon Genotropin
+FDA Medical Query N=13 N=15 N=14 N=42 N=11
+(Narrow) n(%) n(%) n(%) n(%) n(%)
+Headache 4 (30.8) 1 (6.7) 0 5 (11.9) 1 (9.1)
+Anemia 3 (23.1) 213.3) 3 (21.4) 8 (19.0) 1(9.1)
+Nasopharyngitis 3 (23.1) 2 (13.3) 1 (7.1) 6 (14.3) 3 (27.3)
+Pyrexia 3 (23.1) 1(6.7) 0 4(9.5) 1(9.1)
+Cough 1(7.7) 1(6.7) 0 2 (4.8) 0
+Hemorrhage 1(7.7) 0 2(14.3) 3(7.1) 0
+Erythema 1(7.7) ie} 1(7.1) 2 (4.8) 0}
+Local administration
+reactions 1(7.7) 0 1 (7.1) 2 (4.8) {0}
+Fatigue 1(7.7) ) 0 1 (2.4) 1 (9.1)
+Back pain 1(7.7) ie} i?) 1 (2.4) ie}
+Hypoglycemia 1(7.7) 0 0 1 (2.4) 0}
+Nausea 1(7.7) 0 0 1 (2.4) 0
+Peripheral edema 1(7.7) ie} 0 1 (2.4) 0
+Abdominal pain i?) 1 (6.7) O 1 (2.4) 1 (9.1)
+Vomiting 0 1(6.7) 0 1 (2.4) 1 (9.1)
+Pruritus 0 ft) 1(7.1) 1 (24) 0
+Rash 0 ie} 1(7.1) 1 (2.4) 0
+Urticaria 0 t) 4(7.1) 14 (2.4) ()
+Dizziness 0 0 0 0 1 (9.1)
+Vertigo i¢) o i} i*)} 1(9.1)
+
+‘Source: adae xpt, software, Python.
+
+Treatment-emergent adverse events defined as any AE onset occuring post-treatment.
+
+For specific preferred terms undereach FMQ.
+
+Abbreviations: FMQ, FDA medical query; N, number of subjects in treatment arm; n, number of subjects with adverse event
+
+Table 111. Adverse Events by Preferred Term (PT), Safety Population, Trial CP-4-004 (Main Study)
+
+Somatrogon Somatrogon Somatrogon Total
+0.25 mg/kg/wk 0.48 mg/kg/wk 0.66 mg/kg/wk Somatrogon Genotropin
+N=13 N=15 N=14 N=42 N=11
+Preferred Term n (%) n (%) n(%) n (%) n (%)
+Any AE 10 (76.9) 10 (66.7) 10 (71.4) 30 (71.4) 8 (72.7)
+Headache 4 (30.8) 1 (6.7) 0 5 (11.9) 1 (9.1)
+Bronchitis 3 (23.1) 0 0 3 (7.1) 2 (18.2)
+Respiratory tract
+infection 2 (15.4) 1 (6.7) 2 (14.3) 5 (11.9) 3 (27.3)
+Nasopharyngitis 2(15.4) 1 (6.7) 0 3 (7.1) 2 (18.2)
+Pyrexia 2(15.4) 1 (6.7) 0 3 (7.1) 1(9.1)
+Anemia 1 (7.7) 2(13.3) 3 (21.4) 6 (14.3) 1(9.1)
+Hypothyroidism 1 (7.7) 1 (6.7) 1 (7.1) 3 (7.1) 1(9.1)
+Cough 1 (7.7) 1 (6.7) 0 2 (4.8) 0
+Varicella 1 (7.7) 0 2 (14.3) 3(7.1) 0
+Injection site
+erythema 1(7.7) 0 1(7.1) 2 (4.8) 0
+Injection site
+swelling 1(7.7) 0 1 (7.1) 2 (4.8) 0
+Asthenia 1 (7.7) 0 0 1 (2.4) 1 (9.1)
+Nasal congestion 1(7.7) ie} i) 1 (2.4) 1(9.1)
+202
+
+Reference ID: 4924352

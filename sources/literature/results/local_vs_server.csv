@@ -1,0 +1,159 @@
+"source","year","software","server","local","both","server_base","local_base"
+"Europe PMC (full text)","2021","BUGS",2,1,1,511,439
+"Europe PMC (full text)","2022","BUGS",0,2,0,578,479
+"Europe PMC (full text)","2023","BUGS",1,1,1,425,355
+"Europe PMC (full text)","2024","BUGS",3,2,2,458,396
+"Europe PMC (full text)","2025","BUGS",2,3,2,612,587
+"Europe PMC (full text)","2026","BUGS",2,2,2,556,520
+"Europe PMC (full text)","2021","InsightRX",6,0,0,511,439
+"Europe PMC (full text)","2022","InsightRX",7,0,0,578,479
+"Europe PMC (full text)","2023","InsightRX",5,0,0,425,355
+"Europe PMC (full text)","2024","InsightRX",4,0,0,458,396
+"Europe PMC (full text)","2025","InsightRX",14,0,0,612,587
+"Europe PMC (full text)","2026","InsightRX",15,0,0,556,520
+"Europe PMC (full text)","2021","Kinetica",0,1,0,511,439
+"Europe PMC (full text)","2024","Kinetica",0,1,0,458,396
+"Europe PMC (full text)","2026","Kinetica",0,3,0,556,520
+"Europe PMC (full text)","2023","MATLAB NLME",0,1,0,425,355
+"Europe PMC (full text)","2024","MATLAB NLME",2,1,1,458,396
+"Europe PMC (full text)","2025","MATLAB NLME",0,2,0,612,587
+"Europe PMC (full text)","2026","MATLAB NLME",1,1,1,556,520
+"Europe PMC (full text)","2021","Monolix",45,42,41,511,439
+"Europe PMC (full text)","2022","Monolix",64,52,51,578,479
+"Europe PMC (full text)","2023","Monolix",60,49,48,425,355
+"Europe PMC (full text)","2024","Monolix",67,58,56,458,396
+"Europe PMC (full text)","2025","Monolix",95,96,91,612,587
+"Europe PMC (full text)","2026","Monolix",97,92,87,556,520
+"Europe PMC (full text)","2021","nlme",0,7,0,511,439
+"Europe PMC (full text)","2022","nlme",0,7,0,578,479
+"Europe PMC (full text)","2023","nlme",0,5,0,425,355
+"Europe PMC (full text)","2024","nlme",0,3,0,458,396
+"Europe PMC (full text)","2025","nlme",0,10,0,612,587
+"Europe PMC (full text)","2026","nlme",0,7,0,556,520
+"Europe PMC (full text)","2021","NLMIXED",3,3,3,511,439
+"Europe PMC (full text)","2022","NLMIXED",2,1,1,578,479
+"Europe PMC (full text)","2023","NLMIXED",1,1,0,425,355
+"Europe PMC (full text)","2024","NLMIXED",2,1,1,458,396
+"Europe PMC (full text)","2025","NLMIXED",7,4,4,612,587
+"Europe PMC (full text)","2021","nlmixr",5,6,4,511,439
+"Europe PMC (full text)","2022","nlmixr",2,3,2,578,479
+"Europe PMC (full text)","2023","nlmixr",4,4,4,425,355
+"Europe PMC (full text)","2024","nlmixr",4,3,3,458,396
+"Europe PMC (full text)","2025","nlmixr",11,12,11,612,587
+"Europe PMC (full text)","2026","nlmixr",13,14,13,556,520
+"Europe PMC (full text)","2021","NONMEM",321,286,284,511,439
+"Europe PMC (full text)","2022","NONMEM",335,289,286,578,479
+"Europe PMC (full text)","2023","NONMEM",213,188,180,425,355
+"Europe PMC (full text)","2024","NONMEM",262,251,243,458,396
+"Europe PMC (full text)","2025","NONMEM",350,349,339,612,587
+"Europe PMC (full text)","2026","NONMEM",287,284,272,556,520
+"Europe PMC (full text)","2026","OpenPMX",1,1,1,556,520
+"Europe PMC (full text)","2021","P-PHARM",0,2,0,511,439
+"Europe PMC (full text)","2023","P-PHARM",0,2,0,425,355
+"Europe PMC (full text)","2024","P-PHARM",0,3,0,458,396
+"Europe PMC (full text)","2025","P-PHARM",0,3,0,612,587
+"Europe PMC (full text)","2021","Phoenix NLME",26,22,21,511,439
+"Europe PMC (full text)","2022","Phoenix NLME",39,33,33,578,479
+"Europe PMC (full text)","2023","Phoenix NLME",25,21,20,425,355
+"Europe PMC (full text)","2024","Phoenix NLME",32,27,27,458,396
+"Europe PMC (full text)","2025","Phoenix NLME",42,44,41,612,587
+"Europe PMC (full text)","2026","Phoenix NLME",28,29,27,556,520
+"Europe PMC (full text)","2023","PhysPK",1,1,1,425,355
+"Europe PMC (full text)","2024","PhysPK",1,1,1,458,396
+"Europe PMC (full text)","2025","PhysPK",1,2,1,612,587
+"Europe PMC (full text)","2026","PhysPK",0,1,0,556,520
+"Europe PMC (full text)","2021","Pmetrics",20,13,12,511,439
+"Europe PMC (full text)","2022","Pmetrics",31,20,19,578,479
+"Europe PMC (full text)","2023","Pmetrics",18,14,14,425,355
+"Europe PMC (full text)","2024","Pmetrics",11,8,7,458,396
+"Europe PMC (full text)","2025","Pmetrics",12,11,11,612,587
+"Europe PMC (full text)","2026","Pmetrics",10,8,7,556,520
+"Europe PMC (full text)","2025","PoPy",0,1,0,612,587
+"Europe PMC (full text)","2021","Pumas",2,1,1,511,439
+"Europe PMC (full text)","2022","Pumas",8,5,5,578,479
+"Europe PMC (full text)","2023","Pumas",4,2,2,425,355
+"Europe PMC (full text)","2024","Pumas",6,5,4,458,396
+"Europe PMC (full text)","2025","Pumas",14,14,12,612,587
+"Europe PMC (full text)","2026","Pumas",10,9,7,556,520
+"Europe PMC (full text)","2021","S-ADAPT",4,3,2,511,439
+"Europe PMC (full text)","2022","S-ADAPT",4,4,4,578,479
+"Europe PMC (full text)","2023","S-ADAPT",6,4,3,425,355
+"Europe PMC (full text)","2024","S-ADAPT",5,1,1,458,396
+"Europe PMC (full text)","2025","S-ADAPT",5,5,5,612,587
+"Europe PMC (full text)","2026","S-ADAPT",6,9,5,556,520
+"Europe PMC (full text)","2021","SAAM II",1,1,0,511,439
+"Europe PMC (full text)","2024","SAAM II",0,1,0,458,396
+"Europe PMC (full text)","2026","SAAM II",2,2,2,556,520
+"Europe PMC (full text)","2021","saemix",1,2,1,511,439
+"Europe PMC (full text)","2022","saemix",1,2,1,578,479
+"Europe PMC (full text)","2023","saemix",2,2,2,425,355
+"Europe PMC (full text)","2025","saemix",3,3,3,612,587
+"Europe PMC (full text)","2026","saemix",2,2,2,556,520
+"Europe PMC (full text)","2021","Stan/Torsten",0,2,0,511,439
+"Europe PMC (full text)","2022","Stan/Torsten",3,7,2,578,479
+"Europe PMC (full text)","2023","Stan/Torsten",3,4,3,425,355
+"Europe PMC (full text)","2024","Stan/Torsten",7,10,5,458,396
+"Europe PMC (full text)","2025","Stan/Torsten",7,13,6,612,587
+"Europe PMC (full text)","2026","Stan/Torsten",5,16,4,556,520
+"Europe PMC (full text)","2021","USC*PACK",2,4,1,511,439
+"Europe PMC (full text)","2022","USC*PACK",1,3,1,578,479
+"Europe PMC (full text)","2023","USC*PACK",2,2,2,425,355
+"Europe PMC (full text)","2024","USC*PACK",2,3,2,458,396
+"Europe PMC (full text)","2025","USC*PACK",1,3,1,612,587
+"Europe PMC (full text)","2026","USC*PACK",1,1,1,556,520
+"Europe PMC (full text)","2021","WinNonMix",0,1,0,511,439
+"Europe PMC (full text)","2022","WinNonMix",0,3,0,578,479
+"Europe PMC (full text)","2023","WinNonMix",0,3,0,425,355
+"Europe PMC (full text)","2024","WinNonMix",0,3,0,458,396
+"Europe PMC (full text)","2025","WinNonMix",0,5,0,612,587
+"Europe PMC (full text)","2026","WinNonMix",0,1,0,556,520
+"PubMed (title/abstract)","2021","InsightRX",2,0,0,997,997
+"PubMed (title/abstract)","2025","InsightRX",2,0,0,936,936
+"PubMed (title/abstract)","2021","Kinetica",0,1,0,997,997
+"PubMed (title/abstract)","2021","Monolix",26,24,24,997,997
+"PubMed (title/abstract)","2022","Monolix",15,15,15,851,851
+"PubMed (title/abstract)","2023","Monolix",27,27,27,721,721
+"PubMed (title/abstract)","2024","Monolix",23,23,23,862,862
+"PubMed (title/abstract)","2025","Monolix",37,37,37,936,936
+"PubMed (title/abstract)","2026","Monolix",37,37,37,789,789
+"PubMed (title/abstract)","2026","nlme",0,1,0,789,789
+"PubMed (title/abstract)","2021","nlmixr",1,1,1,997,997
+"PubMed (title/abstract)","2022","nlmixr",2,2,2,851,851
+"PubMed (title/abstract)","2024","nlmixr",1,1,1,862,862
+"PubMed (title/abstract)","2025","nlmixr",3,3,3,936,936
+"PubMed (title/abstract)","2026","nlmixr",5,4,4,789,789
+"PubMed (title/abstract)","2021","NONMEM",138,138,138,997,997
+"PubMed (title/abstract)","2022","NONMEM",108,108,108,851,851
+"PubMed (title/abstract)","2023","NONMEM",89,89,89,721,721
+"PubMed (title/abstract)","2024","NONMEM",104,104,104,862,862
+"PubMed (title/abstract)","2025","NONMEM",110,111,110,936,936
+"PubMed (title/abstract)","2026","NONMEM",87,87,87,789,789
+"PubMed (title/abstract)","2026","OpenPMX",1,1,1,789,789
+"PubMed (title/abstract)","2021","P-PHARM",0,1,0,997,997
+"PubMed (title/abstract)","2021","Phoenix NLME",9,10,9,997,997
+"PubMed (title/abstract)","2022","Phoenix NLME",10,9,9,851,851
+"PubMed (title/abstract)","2023","Phoenix NLME",10,10,10,721,721
+"PubMed (title/abstract)","2024","Phoenix NLME",10,10,10,862,862
+"PubMed (title/abstract)","2025","Phoenix NLME",9,9,9,936,936
+"PubMed (title/abstract)","2026","Phoenix NLME",4,4,4,789,789
+"PubMed (title/abstract)","2021","Pmetrics",20,18,18,997,997
+"PubMed (title/abstract)","2022","Pmetrics",15,15,15,851,851
+"PubMed (title/abstract)","2023","Pmetrics",11,11,11,721,721
+"PubMed (title/abstract)","2024","Pmetrics",9,8,8,862,862
+"PubMed (title/abstract)","2025","Pmetrics",4,4,4,936,936
+"PubMed (title/abstract)","2026","Pmetrics",1,1,1,789,789
+"PubMed (title/abstract)","2021","Pumas",2,1,1,997,997
+"PubMed (title/abstract)","2022","Pumas",3,1,1,851,851
+"PubMed (title/abstract)","2023","Pumas",1,1,1,721,721
+"PubMed (title/abstract)","2025","Pumas",2,2,2,936,936
+"PubMed (title/abstract)","2026","Pumas",4,4,4,789,789
+"PubMed (title/abstract)","2023","S-ADAPT",2,2,2,721,721
+"PubMed (title/abstract)","2024","S-ADAPT",2,2,2,862,862
+"PubMed (title/abstract)","2026","S-ADAPT",0,1,0,789,789
+"PubMed (title/abstract)","2021","saemix",1,1,1,997,997
+"PubMed (title/abstract)","2024","saemix",2,2,2,862,862
+"PubMed (title/abstract)","2025","saemix",1,0,0,936,936
+"PubMed (title/abstract)","2022","Stan/Torsten",1,1,1,851,851
+"PubMed (title/abstract)","2024","Stan/Torsten",3,4,3,862,862
+"PubMed (title/abstract)","2026","Stan/Torsten",2,2,2,789,789
+"PubMed (title/abstract)","2021","USC*PACK",0,1,0,997,997

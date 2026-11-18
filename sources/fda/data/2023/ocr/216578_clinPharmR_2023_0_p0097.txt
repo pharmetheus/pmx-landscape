@@ -1,0 +1,47 @@
+Caffeine: CL/F
+
+CYP1A2 Clinical Inhibitors: CL/F
+CYP2C9 Clinical Inhibitors: CL/F
+CYP2C19 Clinical Inhibitors: CL/F
+
+Concomitant CYP1A2 inhibitors and CYP2C9 inhibitors were not
+evaluated because only a small number of subjects received
+one of these medications. In addition, baseline caffeine intake
+was not evaluated because this
+
+information was not collected in several studies. Finally, the
+investigation of the impact of CYP2C19 inhibitors was not
+evaluated in the full model, but rather following backward
+elimination since there is generally more uncertainty in the
+quality of data from concomitant
+
+medications compared to standard demographic variables.
+
+Current smoking status was included in the base model as a
+pre-specified structural covariate.
+
+Time-varying NA
+Final Model Summary Acceptability
+[FDA’s comments]
+Software and Version NONMEMS (version 7.4) Acceptable
+
+Model Structure
+
+A two-compartment model with Erlang Acceptable
+distribution transit compartment (n=6)
+absorption
+
+and first-order elimination adequately
+characterized the fezolinetant
+concentration-time
+
+data.
+
+Model Parameter Estimates
+
+Applicant - Table 14 Acceptable
+
+Reference ID: 5083095
+
+96
+

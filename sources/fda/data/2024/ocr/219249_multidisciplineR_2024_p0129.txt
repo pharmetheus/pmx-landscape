@@ -1,0 +1,81 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 219249}
+
+{Inavolisib}
+
+Table 29: Applicant — Selected Adverse Events for Inavolisib
+
+Selected Adverse Event
+
+Search Strategy (MedDRA Preferred Terms, Roche AEGT or SMQ)
+
+Diarrhea Non-infectious diarrhea SMQ (narrow)
+Nausea Nausea
+
+Vomiting Vomiting; Retching
+
+Colitis Roche colitis AEGT*
+
+Stomatitis or mucosal inflammation
+
+Roche PI3K inhibitors stomatitis AEGT?
+
+Rash
+
+Roche Standard AEGT for rash*
+
+Ocular Toxicities
+
+W041554 only: PTs mapped to the Eye Disorders SOC as a primary SOC
+G039374 only: PTs mapped to the Eye Disorders SOC as either a primary or secondary SOC
+
+Pneumonitis
+
+Interstitial lung disease SMQ (narrow)
+
+Neutropenia Neutropenia; Neutrophil count decreased
+
+Thrombocytopenia Thrombocytopenia; Platelet count decreased
+
+AST/ALT elevation Alanine aminotransferase increased; Alanine aminotransferase abnormal; Aspartate
+aminotransferase increased; Aspartate aminotransferase abnormal
+
+Lymphopenia Lymphopenia; Lymphocyte count decreased
+
+Anemia ‘Anaemia; Haemoglobin decreased, Reticulocyte haemoglobin decreased; Reticulocyte haemoglobin
+
+increased
+AEGT = adverse event group term; ALT = Alanine aminotransferase; AST = aspartate aminotransferase; SMQ = standardised MedDRA query;
+SOC = system organ class
+
+* Alist of preferred terms for Sponsor Standard Adverse Events Groups Terms is provided in the respective CSRs (see Primary CSR WO41554,
+Report 1126696, Section 3.7.4.1; Interim CSR GO39374, Report 1125233, Section 3.7.3.1).
+
+The FDA’s Assessment:
+In general, FDA agrees with the Applicant’s assessment for categorization of adverse events.
+
+FDA’s grouped term (GT) for rash differed slightly from the one used by the Applicant. This
+difference resulted in identifying a few additional patients. The adverse events for the
+additional patients included eczema, erythema multiforme, palmar-plantar erythrodysesthesia,
+and skin exfoliation. The incidence of rash was updated by FDA in the USPI reflecting this
+grouping of PTs.
+
+Routine Clinical Tests
+
+The Applicant's Position: Patients were closely monitored for safety and tolerability throughout
+the conduct of studies. The assessments performed were considered adequate for the expected
+toxicities associated with inavolisib and the combination agents. Patients were assessed for
+toxicity at each clinic visit and prior to each in-clinic dose of study treatment; dosing occurred
+only if the clinical assessments and local laboratory test values were acceptable. The
+assessments included, complete physical exam, ECOG performance status, vital signs, tumor
+and response evaluations, laboratory tests (includes but not limited to hematology, chemistry,
+fasting insulin, fasting lipid profile, amylase and lipase, HbAic, serum fibrinogen and
+coagulation, urinalysis, pregnancy test, PK analysis, and biomarker assays), ophthalmic
+examinations, electrocardiograms, and clinical outcome assessments.
+
+128
+Version date: June 2022 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5460147

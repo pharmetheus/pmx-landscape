@@ -1,0 +1,54 @@
+also conducted clinical studies ®) and Study ALK3831-A105 (NDA
+213378) in hepatic impairment (HI) subjects evaluating the effect of reduced hepatic function on
+the exposure of SAM administered via © oral routes, respectively.
+
+Refer to clinical pharmacology review sections for general clinical pharmacology characteristics
+of SAM and relevant in-vitro and in-vivo studies.
+
+The objective of this review is to evaluate the adequacy of Applicant’s PBPK analyses in
+supporting the proposed prescription information (USPI) as shown in Table 8:
+
+Table 8 Applicant’s proposed USPI information related to PBPK modeling
+
+Proposed USPI PBPK Review Objective
+
+a Evaluate the effect of itraconazole on
+the PK of SAM, following
+No PBPK- administration of ALK-3831
+
+Sec 7.2
+
+related language proposed)
+Sec 8.6 a Evaluate the exposure of SAM
+following administration of ALK-
+3831 in subjects with severe hepatic
+(No PBPK-related language proposed) impairment
+
+Source: Applicant’s proposed USPI
+
+4.3.3 Methods
+
+Basic PBPK model for SAM
+
+The PBPK analyses were performed using the population-based PBPK software Simcyp® (V17,
+Simcyp Ltd., a Certara Company, Sheffield, United Kingdom). The SAM PBPK model was
+developed based on in-vitro and human ADME studies as well as clinical PK data. Briefly, a
+first-order absorption model and a minimal PBPK model were utilized to describe SAM PK.
+The first-order absorption rate (ka value =0.7 1/h) was optimized to recover the observed Tmax
+of approximately 1 hour (Study ALK33-B107). The fraction absorbed (fa) was estimated based
+on Caco-2 data. In vitro permeability data (Study AM-3831-04AIV0208) under different drug
+concentrations and pH values was used to estimate the human intestinal effective permeability
+(Peff human =4.6 x 10“ cm/s) value and the hybrid intestinal blood flow parameter (QGut=14.8
+L/h). The unbound fraction in enterocytes (fuGut) was assumed to be 1.
+
+The in-vitro unbound fraction in plasma (fup=0.69) and in-vivo blood to plasma concentration
+ratio (B/P=1) values were used in the model. A volume of distribution (Vss) of 3.43 L/kg was
+predicted using “Method 3”! within the simulator. This value is comparable with estimates from
+population PK analysis (4.08 L/kg) for samidorphan following IV administration (Study ALK33-
+B107).
+
++ A refined Rodgers and Rowland method (PMID: 17372687)
+
+49
+
+Reference ID: 4678460

@@ -1,0 +1,99 @@
+BLA 761363
+
+Winrevair (sotatercept-csrk)
+
+Table 82. Life Cycle of Bioanalytical Method for Determination of Sotatercept Concentration in
+
+Serum
+1 Generation Sotatercept 2" Generation Sotatercept
+Concentration Assay Concentration Assay
+Analyte Sotatercept (MK-7962) Sotatercept (MK-7962)
+Validation type Full Full
+| ee, | eCTD reference number | py n/a
+
+Method ID
+
+PB 207-060 1
+
+ss1009
+
+Duration of time method is
+in use
+
+Bioanalytical site
+
+JUN-2006 to JUL-2010
+
+JUL-2010 to present
+
+validation of new streptavidin-
+HRP conjugate; 3) Cross-
+validation of Watson LIMS data
+processing.
+
+Matrix Iluman Serum Human Serum
+
+Platform Competitive Binding Enzyme-linked| Competitive Binding Enzyme-linked
+Immunosorbent Assay (ELISA) Immunosorbent Assay (ELISA)
+
+Format The 2 methods used the same format and same capture and detection reagents.
+Rabbit anti-goat [yG antibody was coated onto microtiter plates. Samples
+(including standards and QCs), biotinylated sotatercept (tracer), and goat anti-
+ActRIIA were pre-mixed, and added and incubated in anti-goat antibody coated
+plate. The binding was detected and quantitated by avidin-HRP_ The signal
+intensity is inversely proportional to the quantity of sotatercept in the samples.
+
+Stock reference, Various reference sotatercept lots Various reference sotatercept lots were
+
+se number, expiration | were used to support the assay used to support the assay
+
+jate
+
+Calibration range from | SngmL to 400 ngiml. 40 ng/mL to 2000 ngiml.
+
+the lower limit of
+
+quantitation (LLOQ) to
+
+the upper limit of
+
+quantitation (ULOQ)
+
+Matrix study population | Normal Normal, PAH disease
+
+Link to reports and [Ref 5.3.1.4: 08236C] [Ref. 5.3.1.4: O83LYS, 08232L]
+
+applicable amendments
+
+Synopsis of amendment | Addendum ! (2009): 1) Long- Amendment |: Determination of ACE-
+
+history term frozen stability; 2) Cross- O11 in Human Serum by Competitive
+
+ELISA dated 13-AUG-2019 [Ref.
+5.3.1.4: O83LYS]
+
+Amendment 2: Partial Validation of an
+ELISA for the Determination of ACI
+O11 in Human Serum dated 09-AUG-
+
+2019 |Ref. 5.3.1.4: 08232L]
+
+‘Source: Applicant's summary
+
+biopharmaceutic studies and associated
+
+‘analytical methods report. Appendix 2.
+
+~Ton
+
+Abbreviations: ActRIIA, activin receptor type IIA; eCTD, electronic common technical document, ELISA, enzyme-linked
+immunosorbent assay; HRP, horseradish peroxidase; LLOQ, lower limit of quantitation; n/a, not applicable; PAH, pulmonary arterial
+hypertension; QC, quality control; ULOQ, upper limit of quantitation
+
+126
+
+Integrated Review Template, version 3.0 (05/25/2022)
+
+Reference ID: 5354062
+
+page 15.

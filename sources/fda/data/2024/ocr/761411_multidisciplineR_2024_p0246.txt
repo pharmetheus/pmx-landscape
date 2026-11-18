@@ -1,0 +1,39 @@
+BLA Multidisciplinary Review and Evaluation
+
+BLA 761411
+
+Niktimvo (axatilimab-csfr)
+
+Q2W with a minimum body weight 240 kg instead of the proposed Ls
+Pediatric patients younger than 2 years are not expected to weigh 240 kg based on growth
+charts from the Centers for Disease Control, and so a minimum weight of 240 kg is acceptable
+based on current data.
+
+FDA Figure 17 also shows that higher body weight is associated with higher exposure following
+0.3 mg/kg Q2W. PK data were available in cGVHD patients weighing up to 151 kg, but the
+maximum baseline body weight in AGAVE-201 patients who received 0.3 mg/kg Q2W was only
+118 kg. No clinical safety data are available for the 0.3 mg/kg Q2W dosage in patients weighing
+more than 118 kg, but the popPK and E-R safety analyses suggest that patients weighing over
+118 kg may have higher risk of several safety events such as elevated liver enzymes and
+periorbital edema due to increased exposure. Refer to Section 14.4.2 for the detailed E-R safety
+analysis.
+
+Modeling and simulation support a dosage of 0.3 mg/kg Q2W with a maximum dose of 35 mg
+Q2W in patients weighing 40 kg and above. As shown in FDA Figure 18, the maximum dose cap
+of 35 mg results in lower exposure in patients weighing >118 kg compared to 0.3 mg/kg Q2W
+with no maximum dose, although the median predicted exposures remain similar to or higher
+than those at the median body weight of 73 kg. Therefore, 0.3 mg/kg with maximum dose of 35
+mg Q2W is expected to have similar efficacy and lower risk of safety events in patients with
+high body weight according to clinical pharmacology and pharmacometrics assessment.
+
+The popPK and E-R assessment supports 0.3 mg/kg (max dose 35 mg) Q2W for the treatment of
+
+cGVHD after failure of at least two prior lines of systemic therapy in adult and pediatric patients
+weighing 240 kg.
+
+246
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA. The FDA's position is highlighted in gray.
+
+Reference ID: 5429649

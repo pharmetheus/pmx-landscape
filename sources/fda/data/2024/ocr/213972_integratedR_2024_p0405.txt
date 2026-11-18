@@ -1,0 +1,71 @@
+NDA Multi-disciplinary Review and Evaluation {NDA 213972}
+{sulopenem etzadroxil/probenecid}
+
+Table 128. Absolute Bioavailability Analysis and Comparison of Plasma Sulopenem PK
+Parameters With Redosing for Cohort 1 — PK Parameter Population — Bilayer Tablet (Fed State)
+
+Ratio of Geom. | 90% CI for
+PK Parameter Fasted 366 mg IV (A) Fed Bilayer Tab (B) Mean (B/A) Ratio (%)
+(Unit) n Geom. Mean [1] n__| Geom. Mean [1] (%) 2]
+AUCo.tat (h*ng/mL) 14 11527.42 14 7308.43 63.4 57.54, 69.85
+AUCo.ine (h*ng/mL) | 13 11521.39 13 7423.51 644 58.23. 71.30
+
+Subject | @M®) data. as redosing Study Period 2 data for Subject | M6), was used to replace Study Period 2 data for
+Subject | (08) in the analysis.
+
+Bilayer tab = PF-03709270 500 mg + probenecid 500 mg fixed-dose PO tablet; 366 mg IV = sulopenem 366 mg IV infused
+over Lh.
+
+A paired 2-sample t-test was performed on the log-transformed PK parameters.
+
+A subject must have had a calculable PK parameter in both treatments (test and reference) in order to be included in the
+analysis for that parameter.
+
+[1] Geometric means were presented after back transformation to the original scale,
+
+[2] The 90% CIs were presented after back transformation to the original scale.
+
+AUCo.nf= area under the concentration-time curve from time 0 extrapolated to infinity; AUCouast = area under the
+concentration-time curve from time 0 to the last quantifiable time: CI = confidence interval: Geom = geometric:
+
+IV = intravenous(ly): PK = pharmacokinetic(s): PO = oral; tab = tablet.
+
+Source: Post-text Table 14.2.3.2.2
+
+For Cohort 2, comparison of sulopenem PK parameters following administration of a single 500
+mg oral dose of sulopenem etzadroxil in Study Periods 1 and 2 did not show a significant
+
+difference (Table 129).
+Table 129. Period Effect Analysis of Plasma Sulopenem PK Parameters for Cohort 2
+Ratio of
+
+PK Parameter Fasted PIB Period 1 (A) | Fasted PIB Period 2 (B) | Geom. Mean 90% CI for
+(nit) n_|_ Geom. Mean [1] n__| Geom. Mean [1] |_(B/A) (%)_|_ Ratio (%) [2]
+AUCo.1ax (h*ng/mL) | 8 3440.41 § 3396.21 98.7 94.24, 103.40
+AUCo.iee (h*ng/mL) 6 3483.83 6 97.2 91.98. 102.67
+Cmax (ng/mL) 8 1633.99 8 103.4 85.51, 124.92
+
+PIB = PF-03709270 500 mg PO Powder-in-Bottle.
+
+A paired 2-sample t-test was performed on the log-transformed PK parameters
+
+A subject must have had a calculable PK parameter in both treatments (test and reference) in order to be included in the
+analysis for that parameter.
+
+[1] Geometric means were presented after back transformation to the original scale
+
+[2] The 90% CIs were presented after back transformation to the original scale.
+
+AUCo.inf = area under the plasma concentration-time curve from time 0 extrapolated to infinity: AUCo-tast = area under the
+plasma concentration-time curve from time 0 to the last quantifiable concentration; CI = confidence interval; Cmax = maximum
+observed plasma concentration; Geom. = geometric; PIB = Powder-in-Bottle; PO = oral; PK = pharmacokinetic.
+
+Source: Post-text Table 14.2.3.4
+
+As would be anticipated, food intake did not yield a statistically significant effect on the PK of
+sulopenem following IV administration (Table 130).
+
+192
+Version date: October 12, 2018
+
+Reference ID: 4829902

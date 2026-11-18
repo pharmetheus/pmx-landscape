@@ -1,0 +1,75 @@
+NDA 216059 Multi-disciplinary Review and Evaluation
+Jaypirca (pirtobrutinib)
+
+Study Design, Data Analysis, and Clinical Implications. Results from Study LOXO-BTK-20014
+showed that following multiple doses of omeprazole 40 mg, pirtobrutinib AUCo.ing increased by
+11% (90% Cl: 1%, 16%). Additionally, the tmax and t1/2 remained similar to those seen with
+pirtobrutinib taken alone. These changes are not considered clinically relevant, thus
+pirtobrutinib can be administered concomitantly with acid reducing agents without
+pirtobrutinib dosage adjustment.
+
+Effect of Strong CYP3A4 Inhibitor, Strong CYP3A4 Inducer, and Moderate CYP3A4 Inducer on
+Pirtobrutinib PK
+
+Study-BTK-20006 showed that co-administration of a single 200 mg dose of pirtobrutinib with
+itraconazole 200 mg once daily (strong CYP3A4 inhibitor) increased pirtobrutinib AUCo ins by 49%
+with no significant change in Cmax (Table 16). Co-administration of a single 200 mg dose of
+pirtobrutinib with rifampin 600 mg once daily (strong CYP3A4 inducer) decreased pirtobrutinib
+AUCo inf by 71% and Cmax by 42% (Table 16). PBPK DDI simulations of co-administration of 200
+mg once daily dose of pirtobrutinib to steady-state and 600 mg once daily dose of efavirenz
+(moderate CYP3A inducer) to steady-state decreased pirtobrutinib AUCox by 49% and Cmax by
+33%. Similar simulations of moderate CYP3A inducers, bosentan and modafinil, predicted
+decreases in AUCo inf of 27% and 20% and in Cmax of 20% and 14% (Table 16). Additional
+simulations of concomitant use of pirtobrutinib with moderate CYP3A inhibitors diltiazem,
+fluconazole, and verapamil predicted increases in AUCo ins of 20%, 29%, and 30% and in Cmax of
+14%, 20%, and 21% (Table 16).
+
+Table 16: Summary of Statistical Analysis of Pirtobrutinib PK parameters During Strong or
+Moderate CYP3A4 Induction or Inhibition
+
+Perpetrator Drug GMR (90% Cl) vs. 200 mg pirtobrutinib
+|
+
+AUCo int Cmax
+1.49 (1.40, 1.58) 1.04 (0.951, 1.13)
+0.293 (0.271, 0.316) | 0.576 (0.537, 0.617)
+
+200 mg Itraconazole
+
+600 mg Rifampin
+
+600 mg Efavirenz (predicted) 0.51 (0.48, 0.54) 0.67 (0.65, 0.69)
+125 mg BID Bosentan (predicted) | 0.73 (0.72, 0.75) 0.80 (0.79, 0.81)
+400 mg Modafinil (predicted) 0.80 (0.79, 0.82) 0.86 (0.85, 0.87)
+
+Diltiazem (predicted)
+
+1.20 (1.19, 1.21)
+
+1.14 (1.13, 1.14)
+
+Fluconazole (predicted)
+
+1.29 (1.27, 1.30)
+
+1.20 (1.19, 1.21)
+
+Verapamil (predicted)
+
+1.30 (1.29, 1.32)
+
+1.21 (1.20, 1.22)
+
+Adapted from Table 9 and Table 11 in Applicant’s LOXO-BTK-20006 Study Report and 07Nov22
+Clinical Information Amendment
+
+Doses should be adjusted for concomitant administration of CYP 450 3A4 inhibitors and
+inducers. Given that 89% of patients with MCL enrolled in Study 18001 received the 200 mg
+daily dose, we recommend either avoiding concomitant therapy or adjusting the pirtobrutinib
+
+75 of 265
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5116352

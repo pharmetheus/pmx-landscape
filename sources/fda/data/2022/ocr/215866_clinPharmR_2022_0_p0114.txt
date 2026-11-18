@@ -1,0 +1,74 @@
+Figure 24. Sensitivity analyses of absorption inputs parameters on the PK of lisinopril
+
+Source: IR response figure 4.5
+
+Tsinopet Tisinoprt Tsinopat
+
+7.000 7.000 10,000
+
+6.000 6.000 peed
+F baad 75.000 z ee
+$ a0 3 4.000 2 6.000 ae
+
+z z ey
+
+ries ja 7 400
+£ 2.000 £ 2.00 f
+
+1.000 1.000 208
+
+0.000 0.000 0.000
+
+009 10000 200.00 30000 = 000-2000 4000 60.00 000 010 020 030 040
+— intrinsic soltitty (Sub) —— Monodispersed Radius (Sub) _] —— Poff fuser input) (sub) _]
+Usinopeit Usinopet Usinopeit
+
+0.070 0.200
+0060 | wate ee os + _
+3 0050 3 oso 5
+2 s ,
+yoo ¥ 0.100 we
+£0030 fz gf
+ooo foo 4
+
+0.010 $ ?
+
+0.000 0.000
+
+009 100.00 200.00 30000 00 +=—«-2000 4000 60.00 000 040 020 030 040
+ae) + Moroder adi (5) — + Pet user input ab)
+
+Two permeability values, 0.08 x e-4 cm/s and 0.18 x e-4 cm/s, were selected to provide a simulated AUC
+within 25% of that simulated using the Applicant’s lisinopril PBPK model. The GE impacts were simulated
+using the alternative permeability parameters and the workspace files submitted by the Applicant. As
+shown in Table 12, the impact of GE delay (longer MRT) on PK of lisinopril is similar across simulations
+using different permeability parameters.
+
+Table 25. Sensitivity analyses of permeability and GE delay on the PK of lisinopril
+
+Peff=0.112 x e-4.cm/s | Peff=0.08xe-4cm/s | Peff =0.18 x e-4 cm/s
+MRT (hour) AUC | Cmax | Tmax AUC | Cmax | Tmax AUC | Cmax | Tmax
+
+ratio | ratio | ratio ratio | ratio | ratio ratio | ratio | ratio
+0.27 hr. (baseline) 1.00 | 1.00 | 1.00 0.78 | 0.76 | 1.01 1.29 1.38 0.95
+1.51 hr. (w/ GED effect) | 0.99 | 0.96 | 1.32 0.77_ | 0.74 | 1.37 1.29 1.33 1.26
+
+*The ratio is present as relative to the simulated PK values at baseline (MRT = 0.27, Peff = 0.112 x e-4 cm/s)
+4. Previous clinical experience
+
+Table 13 presents a summary of DDI dosing recommendation regarding the gastric emptying DDI for
+marketed GLP-1 RAs in US. There is no significant change (defined as 25% changes from the baseline)
+observed in the AUC of lisinopril or metformin (BCS class III) and/or atorvastatin (BCS Class II) following
+coadministration with dulaglutide’ and liraglutide®. A 30-40% increase in the AUC of metformin and
+rosuvastatin was observed following the oral administration of semaglutide® at steady state. These
+changes were considered not clinically relevant for drugs where efficacy is AUC-mediated. For drugs
+dependent on threshold concentrations for efficacy or with narrow therapeutic index, the risk can be
+managed through labeling recommendations.
+
+7 https://www.accessdata.fda.gov/drugsatfda_docs/label/2021/125469s044Ibl.pdf
+§ https://www.accessdata.fda.gov/drugsatfda_docs/label/2019/208583s014s015Ibl.pdf
+° https://www.accessdata.fda.gov/drugsatfda_docs/label/2021/213051s006Ibl.pdf
+
+113
+
+Reference ID: 4954959

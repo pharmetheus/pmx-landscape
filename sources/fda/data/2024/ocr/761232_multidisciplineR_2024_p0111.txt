@@ -1,0 +1,40 @@
+BLA 761232 - Multi-disciplinary Review and Evaluation
+TEVIMBRA - tislelizumab-jsgr
+
+Figure 18. BeiGene: Kaplan-Meier Plot of Progression Free Survival (Study 302) ITT
+Analysis Set)
+
+1.0 4
+
+0.94
+— Tislelizumab : n = 256 , events = 223 Median:1.6 ,95% Cl 1.4 - 2.7
+0.87 _ ICC : n = 256 , events = 180 Median:2.1 ,95% CI 1.5 - 2.7
+
+HR (95% Cl) : 0.83(0.67 - 1.01)
+
+Survival Probability
+t
+
+014
+
+0.0
+
+0 2 4 6 8 10 12 14 16 «18202224 5
+Time (Months)
+Number of Patients at Risk:
+
+Time: oO 12 3 4 5 6 7 & 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25
+Tislelizumab 256 233119 85 74 62 49 46 35 32 28 27 25 25 20 18 15 13 9 8 6 3 3 2 2 0
+ICC 256184 98 57 42 33 20 16 12 12 6 4 2 2 1 1 1 1 1 6 0 0 6 06 0 0
+
+Source: ADTTE. Data cutoff: 01DEC2020. Data extraction: 15JAN2021.
+Hazard ratio was based on Cox regression model including treatment as covariate stratified by
+ECOG status and ICC option
+
+110
+Version date: January 2020 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5345383

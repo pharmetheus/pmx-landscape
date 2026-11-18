@@ -1,0 +1,42 @@
+NDA/BLA Multi-disciplinary Review and Evaluation/New Drug Application (NDA) 219908
+REVTORPYK (gedatolisib)
+
+P-gp inhibitors: Geometric mean ratios (gedatolisib + itraconazole/gedatolisib alone) for
+gedatolisib Cmax, AUCiast, and AUCing were 82.66%, 96.20%, and 98.56%, respectively,
+indicating concomitant administration of multiple doses of itraconazole did not have a clinically
+relevant effect on gedatolisib exposures. Dose modification of gedatolisib is not warranted when
+co-administered with P-gp inhibitors.
+
+©® Section 7 will be omitted from
+the US Package Insert (USPI).
+
+The FDA’s Assessment:
+
+The FDA agrees with the Applicant’s results for the DDI studies with repaglinide, metformin,
+and rosuvastatin. In vitro, gedatolisib inhibits BCRP, MATE1, MATE2-K, and OCT1, but does
+not inhibit OCT2 or OATP1B1 (IC50s >4 1M).
+
+The FDA disagrees with the Applicant’s assessment of P-gp inhibitors effects on gedatolisib PK.
+Although itraconazole can inhibit intestinal P-gp, clinical data supporting its ability to inhibit
+biliary P-gp at the dosage administered in the Applicant’s dedicated DDI study are lacking.
+Because gedatolisib is administered IV, it is unknown whether biliary P-gp was sufficiently
+inhibited to produce detectable changes in gedatolisib exposure. As a result, the itraconazole
+DDI study does not support definitive conclusions regarding the effect of P-gp inhibitors on
+gedatolisib PK. Furthermore, gedatolisib is a BCRP substrate, yet no studies were conducted to
+evaluate the effect of BCRP inhibitors on gedatolisib PK. A PMR will be issued to conduct
+dedicated DDI studies evaluating the effects of P-gp and BCRP inhibitors on gedatolisib PK,
+using appropriate inhibitors for both transporters.
+
+Jorge Marquez Lauren Price
+
+Frank Fang Li Jingyu (Jerry) Yu
+
+Primary Reviewers Team Leaders
+100
+
+Version date: February 10, 2025 (ALL NDA/BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5832496

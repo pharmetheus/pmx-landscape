@@ -1,0 +1,58 @@
+Report 1S1444PVDIS_ED RI
+
+validation report
+amendments, and hyperlinks
+‘Method description Partial Method Validation for the Quantitation of Tirzepatide (LY3298176) in Human
+Plasma by HRAM LC/MS
+Materials used for standard | Tirzepatide lot RS1058
+calibration curve and Internal standard (IS): LSN3316897 lot BCA-BE03935-132
+concentration Citrate buffer solution
+‘Validated assay range 2.00 to 500 ng/mL
+‘Material used for quality Turzepatide lot RS1058
+controls (QCs) and Internal standard (IS): LSN3316897 lot BCA-BE03935-132
+concentration Dry powder
+‘Minimum required dilution: | Not applicable
+QRD:)
+a and lot of reagents ‘Not applicable
+Reems melitead Weighted 1/x? least squares linear regression
+weighting
+Validation parameters Method validation summary Source location
+Standard calibration Number of standard calibrators from LLOQ | 8 191444PVDJS_ET R1
+curve performance during | to ULOQ Section 5.3.1.4
+accuracy and precision Cumulative accuracy (bias) from LLOQ to 191444PVDJS_EI R1
+runs ULOQ Section 5.3.1.4
+Tirzepatide
+Cumulative precision (CV) from LLOQ to | =4.8% 191444PVDJS_EII Ri
+ULOQ Section 5.3.1.4
+Ti
+Performance of QCs Cumulative accuracy (bias) in 3 QCs -2.1to 191444PVDJS_EII R1
+during accuracy and QCs: 28% Section 5.3.1.4
+precision runs Tirzepatide
+Tnter-batch %CV 12.9% | 191444PVDJS_EII R1
+QCs: Section 5.3.1.4
+Tirzepatide
+Total Error (TE) Not
+QCs: applicable
+Selectivity & matrix effect ‘Number of total lots tested. Range of observed bias. Six lots of blank plasma
+State any issue were tested. Response
+was <12.3% of LLOQ.
+Interference & specificity ‘Number of total lots tested. Range of observed bias. ‘Not applicable
+State any issue
+“Hemolysis effect ‘Number of total lots tested. Range of observed bias. ‘One lot of 2% hemolytic
+State any issue plasma was tested.
+Tar was 6.9% of
+‘Lipemic effect ‘Number of total lots tested. Range of observed bias. One bio iS
+State any issue was tested.
+7.3% of LLOQ.
+en eee ‘Shook 100-fold dilution validated. Hook effect not applicable.
+Bench-top/process stability? | Plasma: 24 hours at room temperature
+Extracted plasma: 177 hours at room temperature
+Freeze-Thaw stability 5 freeze/thaw cycles at -20 and -70°C
+Long-term storages? 680 days at -20 and -70°C
+Parallelism Not applicable
+Carry over ‘There was no significant carryover.
+
+Reference ID: 4954959
+
+40
+

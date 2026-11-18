@@ -1,0 +1,104 @@
+NDA/BLA Multi-disciplinary Review and Evaluation - BLA 761460
+Pivekimab Sunirine IMGN632)
+
+Covariates Evaluated
+
+© Demographics (age, body weight, body mass index, sex, race,
+
+ethnicity)
+
+¢ Baseline bone marrow blast percentage
+
+Disease category (AML, BPDCN)
+
+* Disease type (de novo, PCHM or R/R BPDCN)
+
+¢ Concomitant CYP3A4 inhibitors or inducers (not used, weak,
+
+moderate, strong)
+
+¢ Concomitant P-gp inhibitors (not used, used)
+
+* Prior systemic chemotherapy (yes, no)
+
+© Prior stem cell transplant (yes, no)
+© ECOG at baseline score (1, 2, 3, 4)
+
+e Pre-existing risk factors/comorbidities (yes, no)
+* Steroid use as premedication for the management of IRR (yes, no)
+
+Final Model Parameters
+
+Summary
+
+Acceptability
+[FDA's comments]
+
+Model Structure
+
+Various functional forms (e.g.. linear, log-
+linear, Emax) were evaluated in logistic
+regression modeling to determine the best
+model describing the PVEK effect on the
+probability of each safety outcome. Final
+models were selected based on LRT (in case
+of nested models) or AIC (in case of non-
+nested models), along with considerations of
+biological plausibility and parsimony.
+
+Acceptable
+
+Model Parameter Estimates
+
+Table 95
+
+Model not acceptable.
+
+Due to substantial BLQ,
+predicted payload exposure
+is not considered
+appropriate for analysis.
+
+Model Evaluation
+
+The predictive performance of the logistic
+regression models was graphically evaluated
+to examine the usefulness of the models for
+describing observed event rates for
+evaluation.
+
+Model evaluation for the
+updated models with
+observed payload exposure
+indicate reasonable model
+fit.
+
+Covariates and Clinical
+
+None of the covariates of interested were
+
+Re-evaluation of covariate
+
+Infections are provided in Table 93.
+
+Relevance found significant on the safety variables also did not identify any
+evaluated significant factors.
+
+Simulation for Specific Simulations of key safety variables Grade 2+ | Simulation is not reliable
+
+Population Infusion Related Reactions and Grade 3+ due to issues with payload
+
+exposure characterization.
+
+Visualization of E-R relationships
+
+Figure 20
+
+266
+
+Version date: February 10, 2025 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as "Data" and “The Applicant's Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5805215

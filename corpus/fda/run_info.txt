@@ -1,0 +1,7 @@
+built: 2026-10-20
+items: 305 (2020 to 2026)
+coverage: review text 150; review text and OCR 155
+sections: 83390, 178.0 million characters
+documents: 308
+text: pdftotext and OCR of the original Python run (sources/fda/data), committed
+applications without a row in the record, skipped: 

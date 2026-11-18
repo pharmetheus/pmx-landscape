@@ -1,0 +1,54 @@
+NDA/BLA Multi-disciplinary Review and Evaluation NDA 218881
+
+Inluriyo (imlunestrant)
+
+In the ESR/m-detected population, the PFS Kaplan-Meier curves overlapped throughout the first
+4 months and started to separate thereafter (Figure 8.4), which indicated that the assumption of
+exponential distribution was not met. Late separation in the KM curves persisted and led to an
+observed benefit in the PFS hazard ratio. The Applicant conducted an exploratory analysis of
+PFS using the restricted mean survival time (RSMT) to further quantify the treatment benefit for
+PFS (Table 8.13). The estimated RSMT at 19.4 months was 7.9 months (95% CI: 6.8, 9.1) in the
+imlunestrant arm vs 5.4 months (95% CI: 4.6, 6.2) in the TPC arm [difference 2.6 months (1.2.-
+3.9)]. It is noted that RMST results could change if a different cutoff timepoint was chosen;
+therefore, the RMST analysis is considered to be supportive only.
+
+e Discordance between PFS per investigator assessment and PFS per BIRC assessment
+
+The review team assessed the discordance rate of PFS assessments between investigator and
+BIRC (Table 8.20). In the ITT population, more patients in the TPC arm were censored by BIRC
+but considered as having a PFS event by investigator than patients in the imlunestrant arm
+
+(31.5% in the TPC arm vs 26.9% in the imlunestrant arm).
+
+Table 8.20: Discordance Analysis for PFS per Investigator Assessment vs PFS per BIRC
+
+Assessment
+Imlunestrant TPC
+PFS-BIRC PFS-BIRC PFS-BIRC PFS-BIRC
+Event Censor Event Censor
+
+ITT N=331 N=330
+PFS-INV Event 148 (44.7) 89 (26.9) 149 (45.2) 104 (31.5)
+PFS-INV Censor 12 (3.6) 82 (24.8) 10 (3.0) 67 (20.3)
+ESRIm N=138 N=118
+PFS-INV Event 68 (49.3) Al (29.7) 68 (57.6) 34 (28.8)
+PFS-INV Censor 6 (4.3) 23 (16.7) 3 (2.5) 13 (11.0)
+
+(Source: FDA’s analysis)
+
+To evaluate whether the observed discordance suggested an investigator bias favoring the
+imlunestrant arm in the investigator-assessed PFS analysis, the Applicant calculated the early
+discordance rate (EDR) and the late discordance rate (LDR) for each arm. EDR was the
+frequency of investigator-assessed progressions before central review as a proportion of all
+investigator progressions. LDR was the frequency of investigator-assessed progressions after
+central review as a proportion of all discrepancies. A negative differential discordance for the
+EDR and/or a positive differential discordance for the LDR between the experimental arm and
+the control arm beyond a threshold would suggest a possible bias in the investigator assessments
+
+148
+Version date: March 1, 2024 (ALL NDA/BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant's Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5665313

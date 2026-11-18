@@ -1,0 +1,57 @@
+NDA/BLA Multi-disciplinary Review and Evaluation/New Drug Application (NDA) 219908
+
+REVTORPYK (gedatolisib)
+North America 7/21 6/22 101 (0.34, 3.02)
+Rest of World 25/109 31/109 0.73 (0.43, 1.24)
+Prior Palbociclib
+Yes 14/47 18/52 0.94 (0.47, 1.91)
+No 18/83 19/79 0.66 (0.34, 1.26)
+Prior Ribociclib
+Yes 13/62 19/70 0.56 (0.27, 1.14)
+No 19/68 18/61 1.03 (0.54, 1.97)
+Prior Abemaciclib
+Yes 7/26 3/16 1.08 (0.27, 4.31)
+No 25/104 34/115 0.73 (0.43, 1.22)
+
+[Source: FDA Analysis (ADaM.ADSL and ADaM.ADTTE)]
+
+Although these exploratory subgroup analyses of OS are generally consistent with the primary
+analysis of OS, there is some variation in efficacy observed in select subgroups (e.g., visceral
+metastasis, geographic area, prior abemaciclib). In general, these exploratory subgroup analyses
+should be interpreted with caution due to small sample sizes and limited numbers of events in
+each subgroup.
+
+Contribution of Components
+
+The FDA conducted an independent assessment of the contribution of components to
+combination therapy exploring the comparison of Arm A vs Arm B (ie the triplet vs doublet
+combinations). Results of Arm A vs Arm B for PFS, OS, ORR and DoR are summarized in
+Table 33. Note that these results are exploratory. The comparison of OS for Arm A vs Arm B
+was included in the hierarchical testing procedure but was not able to be formally tested since OS
+for Arm A vs Arm C was not statistically significant at the interim analysis. Overall, the PFS and
+OS HRs for the Arm A vs Arm B comparisons directionally favor Arm A with wide confidence
+intervals. The ORR and DoR also appear slightly better with Arm A compared to Arm B.
+
+Table 33: Arm A vs Arm B Results
+
+Arm A ArmB
+(Geda+Palbo+Fulv) (Geda+Fulv)
+N=131 N=130
+PFS
+Median, months 9.3 7A
+(95% CI) (7.2, 16.6) (5.5, 9.9)
+HR (95% CI) 0.77 (0.54, 1.10)
+Os
+Median, months 23.7 NE
+(95% CI) (21.4, NE) (NE, NE)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+
+137
+
+Version date: February 10, 2025 (ALL NDA/BLA reviews)
+
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5832496
+

@@ -1,0 +1,54 @@
+NDA/IND Multi-disciplinary Review and Evaluation NDA 219379/219389
+Mirdametinib (GOMEKLI)
+
+FDA acknowledges the Applicants description of study endpoints and notes that the primary
+endpoint of ORR differs from that of MEK-NF-201 in that patients were discontinued from
+treatment if they did not achieve at least a 15% or 20% reduction in target tumor volume at
+Cycle 8 and 12, respectively, precluding a full evaluation of ORR and DOR.
+
+Statistical Analysis Plan and Amendments
+The Applicant’s Description:
+
+There were 2 versions of the SAP that were submitted to the FDA. The initial SAP (v1.0) was
+approved on 18 May 2023. The final SAP (v2.0) was approved 03 December 2023.
+
+The results of this study are presented overall and by pediatric and adult cohorts.
+
+Primary Efficacy Endpoint
+
+The primary efficacy endpoint was confirmed ORR defined as the proportion of participants
+who had a BOR of CR or PR by the end of Cycle 24 with 24 weeks duration.
+
+The target PNs were centrally evaluated by MRI by a single reader at the |
+
+Level of target PN response was defined as follows:
+
+e CR:Acomplete resolution of the target PN for 24 weeks
+
+e PR: A 220% reduction in the volume of the target PN lesion compared to the
+pretreatment volume for 24 weeks
+
+e Stable Disease (SD): Between a <20% increase, and <20% decrease in the volume of the
+target PN lesion compared to the pretreatment volume for 24 weeks
+
+e PD:A 220% increase in the volume of the target PN compared to the pretreatment
+volume
+
+To assess the primary efficacy endpoint, the confirmed ORR was presented alongside the
+corresponding 2-sided 95% Clopper-Pearson Cls and the p-values from a one-sample two-sided
+binomial test evaluating the null hypothesis that the ORR = 5%. Best overall confirmed response
+was summarized according to the categories presented above. Tumor volume (mL), change
+from baseline in tumor volume, and percentage change from baseline in tumor volume were
+summarized. Additionally, the best observed percentage volumetric change from baseline was
+also summarized.
+
+For calculation of the ORR, all participants with missing data who were not previously
+presented as confirmed PR or CR were imputed as non-responders for the primary endpoint
+
+191
+Version date: June 2022 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant's Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5528369

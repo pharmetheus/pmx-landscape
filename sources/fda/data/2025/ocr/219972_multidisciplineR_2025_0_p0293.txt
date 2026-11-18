@@ -1,0 +1,105 @@
+NDA/BLA Multi-disciplinary Review and Evaluation — NDA 219972
+Sevabertinib (BAY 2927088) — Version 2.0
+
+5-1, Sparse
+Module 5.3.3.5, Sampling
+Report B003829)
+
+Covariates
+Evaluated
+(Table 6-1
+Module 5.3.3.5,
+Report B003829)
+
+Static
+
+Time-varying
+
+C1D1 & C1D15: 0, 1, 2-4, 6-12h. C2D1, C3D1 & C5D1: 0, 1-
+4h.
+
+Body weight, Age, Sex, Race, Geographical region
+(Asia/North America/South America/Western Europe and
+Israel; China vs rest of the world; Japan vs rest of the world;
+Asia vs rest of the world), Serum creatinine, eGFR, renal
+function, Total bilirubin, AST, ALT, NCI-ODQG liver function,
+Number of liver metastases as assessed by local investigator,
+Albumin, Total protein, Albumin as fraction of total protein
+(Albumin fraction), Diarrhea adverse event in cycle 1, smoking
+status, Loperamide use prior to the first all grade diarrhea
+adverse event, Tablet size, Formulation Tablet manufacturing
+process, use (at any time during the study) of: weak or
+moderate CYP3A4 inhibitor(s), weak or moderate CYP3A4
+inducer (s), P-gp inhibitor(s), P-gp inducer(s), BRCP
+inhibitor(s), BCRP inducer(s)
+
+Loperamide treatment
+
+Final Model
+
+Software and Version
+
+Model Structure (Figure 8-3
+Module 5.3.3.5, Report B003829)
+
+Model Parameter Estimates
+
+Uncertainty and Variability (RSE,
+IV, Shrinkage, Bootstrap)
+
+BLQ for Parameter Accuracy
+
+Summary Acceptability
+
+[FDA’s comments]
+
+Model evaluation and all graphical Acceptable
+displays and statistical summaries were
+performed using R software version
+
+4.2.0.
+
+PK model building was conducted
+using nonlinear mixed-effects modeling
+using NONMEM software (ICON
+Development Solutions, version 7.4.3)
+
+Simulations for visual predictive checks
+(VPC) were executed using NONMEM.
+Exposure simulations utilizing selected
+popPK models were implemented in R
+
+using the “RxODE” library
+
+A 2-compartmental model with delayed
+first order absorption described with 5
+transit compartments between the
+dosing and central compartment
+
+Table 8-6 in Module 5.3.3.5,
+Report B003829
+
+All model parameters were estimated
+with acceptable standard errors
+(RSE<30%) and shrinkage (<30%)
+
+As only 1.52% of the available PK
+samples were below the lower limit of
+quantification, the possible impact of
+
+Acceptable
+
+Acceptable
+
+Acceptable
+
+Acceptable
+
+292
+
+Version date: March 1, 2024 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5697816

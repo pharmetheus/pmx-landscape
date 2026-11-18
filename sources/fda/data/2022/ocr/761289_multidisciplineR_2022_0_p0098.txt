@@ -1,0 +1,48 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {BLA 761289 and sBLA 761069}
+{IMJUDO, tremelimumab; IMFINZI, durvalumab}
+
+Inversed Censoring
+
+Areverse Kaplan-Meier survival curve showed that the curves for T300+D, D, and S remain close to 1 for
+the first 26 months post-randomization, indicating nearly complete follow-up for this period of time. No
+meaningful difference in the length of follow-up among D, T300 +D, and S was observed, as evidenced
+by similar median follow-up times in censored patients in Table 15 (D: 31.61 months, T300+D: 32.36
+months, and S: 30.36 months).
+
+Subgroup analyses
+
+In HIMALAYA, prespecified subgroup analyses of OS were performed in the FAS to investigate the
+consistency of treatment effect across prespecified stratification factors and subgroups based on
+demographics, geographical region, and disease characteristics. All predefined subgroup HRs were in
+favor of T300+D vs S (HR < 1), consistent with the overall OS analysis, with the exception of females
+(HR = 1.02; 95% Cl: 0.67, 1.56) and HCV-positive patients (HR = 1.06; 95% Cl: 0.76, 1.49) (Figure 11). A
+post-hoc analysis of baseline covariates within the HCV subgroup identified imbalances in prognostic
+factors known for patients with HCC (EHS and serum albumin-bilirubin); when controlling for these
+imbalances, the HR favored T300+D (HR = 0.89).
+
+Figure 11 Forest Plots of Overall Survival by Subgroup for T300+D vs Sorafenib in HIMALAYA (FAS)
+All sbjects oe T:300+D=262/393 (66.7%) S-293/389 (75.3%)
+Sex: Male —o— T:300+D=211/327 (64.5%) S-255/337 (75.7%)
+Sx: Femde —_——_ 300+D=51/66 (77.3%)  $=38/52 (73.1%)
+‘Age at randomization: <65 an T:300+D=134/195 (68.7%) S=146/195 (74.9%)
+Age at randomization: >=65 —o— T300+D=128/198 (64.6%) S=147/194 (75.8%)
+PD-L1 expression: Positive —o— T300+D=101/148 (68.2%) S-110/148 (74.3%)
+PD-L1 expression: Negative =e T300+D=128/189 (67.7%) S=138/181 (76.2%)
+Etiology of liver disease: HBV —-— 300+D=82/122 (67.2%) S-98/119 (82.4%)
+Etiology of liver disease: HCV —_— T:300+D=73/110 (66.4%)  S-64/104 (61.5%)
+Etiology of liver disease: Others —o— T300+D=107/161 (66.5%) $-131/166 (78.9%)
+ECOG performance status at baseline: 0 —o T'300+D=147/244 (60.2%) S=168/241 (69.7%)
+E00G performance status at bassine: 1 —o— T300+D=114/148 (77.0%) S=124/147 (84.4%)
+
+T T Tr T T
+0.25 0s 1 2 4
+HR and 95% Cl
+
+97
+
+Version date: July 2021 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5064925

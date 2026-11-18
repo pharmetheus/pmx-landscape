@@ -1,0 +1,50 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {Biologics License Application (BLA) 761310}
+{Mirvetuximab soravtansine}
+
+Overall Clinical Relevance for In general, both efficacy and ocular Acceptable.
+ER toxicity were found to increase with
+increasing exposure to mirvetuximab
+soravtansine. The covariates identified
+by the models overall had limited impact
+on efficacy and safety, and are likely not
+of clinical significance.
+
+Labeling Language Description Acceptability
+[FDA’s
+comments]
+
+12.2 Pharmacodynamics Not applicable
+
+Table 48: Parameter Estimates Final Logistic Regression Model of Effect of Mirvetuximab
+Soravtansine AUCO-d21 on Odds of Ocular System Adverse Events (Grade 2 and Higher) and
+Parameter Estimates Final Logistic Regression Model of Effect of Mirvetuximab Soravtansine
+AUCo-d2I on Odds of Peripheral Neuropathy (Grade 2 and Higher)
+
+Table 15: Parameter Estimates Final Logistic Regression Model of Effect of Mirvetuximab Soravtansine
+AUCp.a21 on Odds of Ocular System Adverse Events (Grade 2 and Higher)
+
+Coefficient (95% Cl)
+
+Constant —5.26883*** (—6.64479, —3.89287)
+AUCTAU_Mirv 0.04033*** (0.02928, 0.05138)
+TUMORSDB —0.00536** (—0.01035, —0.00036)
+
+**p<0.05; ***p<0.01
+
+Table 16: Parameter Estimates Final Logistic Regression Model of Effect of Mirvetuximab Soravtansine
+AUCo.a1 on Odds of Peripheral Neuropathy (Grade 2 and Higher)
+
+Coefficient (95% Cl)
+
+Constant —4,02252*** (5.44779, —2.59726)
+AUCTAU_Mirv 0.01483*** (0.00361, 0.02606)
+AST 0.01458** (0.00191, 0.02725)
+
+**p<0.05; ***p<0.01
+
+Source: Applicant's ER report QPK28-007
+
+190
+Version date: October 12, 2018
+
+Reference ID: 5076613

@@ -1,0 +1,93 @@
+BLA Multi-disciplinary Review and Evaluation {BLA 761263, Lunsumio (Mosunetuzumab)}
+
+Table 52: Methods validation and performance in study GO29781
+
+Bioanalytical method Genentech: ELISA for Measuring BTCT4485A (Anti-CD20/CD3 TDB) Antibody
+
+validation report in Human Serum (B20T3.003.AVR_0)
+
+name, amendments, —[{P)(4) Partial Validation of an ELISA Method for the Quantification of
+
+and hyperlinks Anti-CD20/CD3 TDB (BTCT4465A) in Human Serum and Addendum 1 and 2
+(S84, $84-1 and $84-2)
+
+Method description The method for the quantification of mosunetuzumab in human serum is an
+
+ELISA. A standard curve is prepared fresh in standard diluent (2% normal
+human serum in sample diluent). Quality controls and unknown samples are
+diluted to the assay minimum required dilution of 1/50 in sample diluent. Plate
+is incubated with mouse anti-BTCT4485A monoclonal antibody (against to
+anti-CD20 Fab) in carbonate buffer and then washed and blocked with assay
+diluent. The calibrators, diluted quality controls, and samples are transferred to
+the coated and blocked plate and incubated at room temperature. Following an
+additional wash step, a solution of biotinylated mouse ant-BTCTS465A
+monoclonal antibody (against to anti-CD3 Fab) is added and incubated at room
+temperature. Unbound materials are removed with a wash step. Subsequently,
+streptavidin conjugated to HRP is added for detection and incubated. Unbound
+materials are removed with a wash step. Then, a peroxidase substrate TMB is
+added for color development before stopping with 1M phosphoric acid. The
+Plate is read at 450 nm for detection absorbance and at 630 nm for reference
+absorbance
+
+The LLOQ to ULOG neat serum concentration range is from 10.0 to 00 ng/ml.
+The in-well calibration range is from 0.125 to 16.0 ng/mL. A four-parameter
+logistic, unweighted, least-squares regression algorithm is used to quantify
+unknown samples.
+
+Materials used for Genentech: Anti-CD20/CD3 TDB Clinical Material, BTCT4465A,
+calibration curve & _Lot: 678541; Concentration: 60.6 mgimL: Retest date: 24 November 2015
+concentration (N(4) TC T4465A (Anti-CD20/CD3 TDB); Reference Standard;
+Lot: 638414; Concentration: 60.2 mg/mL; Retest Date: 4)
+Lot: 3265083; Concentration: 10.0 mg/mL; Retest Date: x)
+
+Validated assay range LLOQ to ULOQ range is 10.0 ng/mL to 500 ng/ml in neat human serum.
+Material used forQCs Genentech: Anti-CD20/CD3 TDB Clinical Material, BTCT4465A,
+
+& concentration Lot: 678541; Concentration: 60.6 mg/mL: Retest date: 24 November 2015
+(ON) BTCT4465A (Anti-CD20/CD3 TDB); Reference Standard:
+Lot: 638414; Concentration: 60.2 mg/mL; Retest Date: wa)
+Lot: 3265083; Concentration: 10.0 mg/mL; Retest Date: 4)
+MRDs 4150
+Source & lot of Capture reagent: Coat Stock |; Source: Genentech; Lot: Vua-02Mar15-58-coat,
+reagents (LBA) Cone: 1.00 mg/mL;
+
+Detection reagent: biotin Conjugate Stock |; Source: Genentech; Lot:
+Tsd-12Feb16-250; Cone: 100 g/mL
+
+Regression model&  4-PL logistic fit, unweighted
+
+weighting
+Validation parameters Method validation summary Source location
+Calibration curve Number of standard calibrators from LLOQ to ULOO: Genentech: 8 WOAVabic 2A of ICD 564
+performance during Mosunetuzumab OMe Validation Report ($84)
+accuracy & precision Cumulative accuracy (%bbias) from LLOQ to ULOQ: Genentech: NA (bY Aable 24 of ICD 5
+Mosunetuzumab ). Validation Report (S84)
+‘Cumulative precision (%8CV) from LLOQ te ULO: (WNAFable 2A oF ICD 554
+Mosunetuzumab Validation Report ($84)
+(OCs performance during Cumulative accuracy (Ssbias) in 5 OCs Genentech: -7% to Genentech. Table 1 of
+accuracy & precision Genentech: QCs 1-6 for Masunetuzumab: 10.0, 125, 16% 820T3.003_AVR_O
+
+20.0, 75.0, 300, 500 nim.
+Wc 1-5 for Mesunetuzumab: 10.0, 200,760, PMA) 7.20% 0 2.36% [OYA able 38 of ICD 554
+
+375, 500 ng/ml Validation Report (S84)
+intercbatch CV Genentech: 511% Genentech’ Table 1 of
+Genentech: OCs 1-6 in Mosunetuzumab: 10.0, 12.5, ‘820T3.003_AVR_O
+2000, 75.0, 300, 500 ngim
+
+1B) OCs 1-5 for Mosunetuzumabs 100,200,750, KONA <7.20% rable 38 of ICD 554
+375, 500 ng/ml. Validation Report (S84)
+Total €or (TE) Genentech: £26% Genentech. Table 1 of
+Genentech: QCs 1-6 in Mosunetzumab: 10.0, 12.5, 820T3.003_ AVRO
+20.0, 76.0, 300, 600 ngimL.
+
+1) cs 1-5 for Mosunetuzumab: 10.0, 20.0, 75.0, ©) <o87 (YA able 28 of ICD 554
+3787800 ng/mL 4) Validation Report (S84)
+
+191
+Version date: January 2020 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5100050

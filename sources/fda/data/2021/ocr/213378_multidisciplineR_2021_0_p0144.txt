@@ -1,0 +1,54 @@
+Clinical/Statistical Review
+NDA 213378
+Lybalvi (Olanzapine/Samidorphan, ALKS 3831)
+
+Sensitivity Analyses
+Although the appropriateness of the primary analysis strategy with use of multiple imputation
+
+under a missing at random assumption cannot be verified or proven to be correct, sensitivity
+analyses inform the robustness of the primary efficacy analysis result.
+
+The Applicant performed several pre-specified sensitivity analyses:
+
+e The first pre-specified sensitivity analysis was based on the delta-adjusted pattern mixture
+model (see Table 34). Like in the primary analysis, missing data were imputed sequentially
+by each visit using a regression model. The model imputed the weight gain for subjects
+prematurely discontinuing from the olanzapine group to be diminished (that is, to be
+imputed with better weight outcomes) by a set percentage of the observed treatment
+difference between the two treatment groups (-2.38% from the primary analysis). It
+progressively increased this percentage in increments, imputing the weight closer and
+closer to the ALKS 3831 group to identify the tipping point at which there was no longer a
+statistical significance between treatment groups. The results showed that even when the
+olanzapine-treated subjects who discontinued would have, on average, their unobserved
+percent weight gain decreased by 80% of the observed treatment difference from the
+primary analysis (that is, decreased by 2.38*80% = 1.9%), we would still see a statistically
+significant difference at Week 24, with an estimated treatment difference in weight gain
+of -1.51 (95% Cl: -3.00, -0.01). Although the result would still be statistically significant, it is
+uncertain whether this magnitude of effect is clinically relevant. On the other hand, this is a
+very conservative estimate because it assumes that the olanzapine-treated subjects who
+dropped out would have, on average, considerably better outcomes if they had not
+dropped out than the olanzapine-treated subjects who continued treatment.
+
+Table 34: Sensitivity Analysis of Percent Change from Baseline in Body Weight at Week 24 —
+Delta Adjusted Pattern Mixture Model — Efficacy Population (Study A303)
+
+parameter ASEH
+
+Primary Analysis 0 -
+
+LS Mean Difference (SE) vs. Olanzapine _ -2.38 (0.77)
+p-value _ 0.002
+70% of Treatment Difference Between ALKS 3831 and Olanzapine (%) -1.66 -
+
+LS Mean Difference (SE) vs. Olanzapine - -1.61 (0.762)
+
+P-value - 0.035
+80% of Treatment Difference Between ALKS 3831 and Olanzapine (%) -1.90 -
+
+LS Mean Difference (SE) vs. Olanzapine - -1.51 (0.763)
+
+P-value - 0.048
+
+103
+
+Reference ID: 4701252

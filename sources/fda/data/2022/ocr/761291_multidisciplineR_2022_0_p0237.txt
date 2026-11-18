@@ -1,0 +1,57 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {BLA 761291}
+teclistamab
+
+19.4.3.5 | Reviewer’s Independent E-R Safety Analysis
+CRS mitigation and management is a crucial part of the teclistamab benefit/risk assessment (see
+Section 8.2.5.1). The Reviewer conducted exploratory multivariate E-R safety analyses of CRS to
+assess whether the proposed step-up dosing regimen resulted in any peaks in exposure associated
+with unnecessarily high CRS incidence. The exploratory E-R analysis supported the need for a
+step-up dosing regimen prior to the weekly treatment dosing in order to mitigate the risk of CRS.
+The exploratory E-R analysis did not identify any safety concerns regarding CRS for the proposed
+0.06/0.3/1.5 mg/kg SC step-up dosing regimen. Additionally, multivariate analyses suggest that
+tocilizumab administration to treat CRS with step-up dose 1 may impact the CRS rate with step-up
+dose 2.
+
+Data
+Exposure and CRS incidence for step-up dose 1 and step-up dose 2 were investigated because
+more than half of CRS events occurred with these two dose events (143/225 CRS events [63.6%]).
+
+The incidence of CRS with each dose event is summarized in FDA Table 17.
+
+FDA Table 26: Number of Patients Experiencing CRS and Number of CRS Events Per Dose Event
+
+E-R Safety Dataset (n=199 patients) Phase 2 Cohort A Patients with E-R Safety
+Data (n=120 patients)
+Any Grade CRS Grade 22 CRS Any Grade CRS Grade 22 CRS
+Dose Event Patients CRS Patients CRS Patients CRS Patients CRS
+with CRS | events | with CRS | events | with CRS | events | with CRS | events
+Step-up Dose 1 77 78 26 26 50 50 19 19
+Step-up Dose 2* 65 65 10 10 43 43 8 8
+Step-up Dose 2* 1 1 0 0 1 1
+Repeat 1
+Step-up Dose 3** 0 0 0 0 N/A N/A N/A N/A
+Cycle 1 Day1 49 50 10 10 32 32 7 7
+Cycle 1 Day 8 9 9 1 1 6 6 1 1
+Cycle 1 Day 15 6 6 i) i) 2 2 i) i)
+Cycle 1 Day 22 2 2 i) it} 2 2 oO it}
+Cycle 2 Day 1 7 7 0 0 2 2 0 0
+Cycle 2 Step-up Dose 2 1 1 1 1 1 1 1 1
+Repeat 1
+Cycle 2 Day 8 1 1 ) 0 1 1 0 0
+Cycle 2 Day 15 1 1 i) it) i) it} i} i)
+Cycle 3 Day8 1 1 1 1 1 1 1 1
+Cycle 18 Step Up 1 1 0 0 10) 0 i) 0
+Adhoc Dose Repeat 1
+Missing Visit Number 2 2 2 2 2 2 2 2
+Total number of CRS - 225 - 51 - 143 - 39
+events
+Total number of 136 - 37 - 88 - 26 -
+patients with at least
+one CRS event at any
+time during study
+Version date: January 2020 (ALL NDA/ BLA reviews) 236
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5065872

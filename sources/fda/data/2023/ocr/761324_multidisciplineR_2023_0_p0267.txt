@@ -1,0 +1,104 @@
+BLA Multi-disciplinary Review and Evaluation {Biologics License Application (BLA) 761324
+
+{epcoritamab}
+
+Final Model
+
+Summary
+
+Acceptability
+[FDA’s comments]
+
+intra-individual (residual) error was estimated
+as 21.2%.
+
+BLQ for Parameter Accuracy
+
+To evaluate the impact of BOL measurements
+on the PK model, the final model (Model 154)
+was re-estimated after adding the BOL
+measurements to the data and using a
+likelihood approach to incorporate the BQL
+data into the model (Model 154bql [popPK
+report Table 24]). The parameter estimates of
+this BQL model were similar to those of the
+final model (Model 154) (Table 94). Moreover,
+the individual and population predictions of
+these models were nearly identical. Therefore,
+this sensitivity analysis confirmed that
+exclusion of BQL data had little impact on the
+population PK model. BQL data had minimal
+impact on the final model.
+
+The majority of BQL samples
+were taken following a last
+dose of <0.8 mg (i.e., step-up
+doses) (836 out of 953 BQL
+samples [88%]). Because the
+purposes of the model relate
+to PK and exposure with the
+full dose (48 mg), exclusion
+of BQL samples from the PPK
+model input is acceptable.
+
+GOF, VPC
+
+GOF plots (Figure 19)
+
+VPC plots: overall and by trial (Figure 20) and
+by lymphoma subtypes (Figure 21)
+
+The final model adequately described the PK
+data.
+
+GOF plots on a linear scale
+are presented in Figure 22.
+The PPK model adequately
+characterizes concentrations
+approximately 0.1 ug/mL up
+to 15 ug/mL. The model
+under-estimates
+epcoritamab concentrations
+of 15 ug/ml and above, and
+thus model-predicted Cmax is
+likely less accurate than
+model-predicted AUC and
+Grrough.
+
+Significant Covariates and
+Clinical Relevance
+
+Baseline body weight had a significant effect
+on epcoritamab PK. Similar impact of body
+weight on PK have been observed for other
+therapeutic antibodies (Dirks and Meibohm,
+2010). Exposure decreased with increasing
+weight across baseline weight categories: <65
+kg (n=116 subjects), 65 to <85 kg (n=136
+subjects), and >85 kg (n=75 subjects). Since
+efficacy and safety were generally consistent
+across body weight categories, the differences
+in exposure among different weight groups
+were not considered clinically meaningful.
+Age was a statistically significant covariate on
+the absorption rate constant but did not
+influence other PK parameters (M2.7.2 Section
+3.2.2.3). Comparison of epcoritamab exposure
+among subjects <65 years, 65 to <75 years,
+
+No dosage adjustments are
+recommended according to
+weight, age, sex, race, mild
+to moderate renal
+impairment, or mild hepatic
+impairment.
+
+266
+
+Version date: June 2022 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5176690
+

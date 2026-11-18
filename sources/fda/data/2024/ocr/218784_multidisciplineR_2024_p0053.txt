@@ -1,0 +1,59 @@
+Multi-disciplinary Review and Evaluation
+
+NDA 218784
+
+VORANIGO (vorasidenib)
+Enzyme ICso 1 hour (nM) | ICso 16 hours (nM)
+WT 190 4
+WT / R132H 6 0.8
+WT / R132H 4 0.6
+IDH2
+R140Q, 118 12
+R172K 32 94
+WT 374 31
+WT/R140Q 307 24
+WT/R140Q 251 32
+WT /R172K 111 18
+WT /R172K 49 8
+
+Data from Study AG991-N-042.
+
+Mutant IDH1/2 leads to production of the oncometabolite 2-hydroxyglutarate (2-HG), thus it
+was used as an endpoint to evaluate pharmacological activity of vorasidenib in cellular assays.
+Vorasidenib inhibited 2-HG production in several cancer cell lines including human
+chondrosarcoma/fibrosarcoma (HT1080), human chondrosarcoma (JJO12), lung
+adenocarcinoma (COR-L 105), cholangiocarcinoma (HCCC-9810), and glioma neurospheres
+expressing R132G, R132H and R132S mutations as well as IDH2R140Q in the nanomolar to
+subnanomolar range. Vorasidenib had less inhibitor activity in colorectal carcinoma (HCT116)
+cells expressing IDH2R172K with an ICso of 130 nM.
+
+Table 5: Vorasidenib inhibited 2-HG production in several cancer cell lines and glioma
+neurospheres with IDH1 and IDH2 mutations
+
+Cell Line IDH Status _| ICso (nM)
+603* IDH1 R132H 0.25
+HK252* IDH1 R132H 0.059
+Br142* IDH1 R132H/- 2
+HCT116 IDH1 R132H 3
+HK213* IDH1 R132H 0.043
+522* IDH1 R132H 0.292
+TF-1 pLVX IDH1 R132H 3.2
+HCT116 IDH1 R132C 22
+COR-L 105 IDH1 R132C 3.8
+HT1080 IDH1 R132C 4
+JJ012 IDH1 R132G 6.6
+HCCC9810 IDH1 R132S 0.845
+TF-1 pLVX IDH2 R140Q 14
+U87MG pLVX |_IDH2 R140Q 71
+HCT116 IDH2 R172K 130
+
+* Neurospheres — free floating clusters of cells. All others were typical cell culture system based.
+In addition to the production of the oncometabolite 2-HG, mutant IDH enzymes can prevent
+
+52
+Version date: December 2023(ALL NDA/BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5425021

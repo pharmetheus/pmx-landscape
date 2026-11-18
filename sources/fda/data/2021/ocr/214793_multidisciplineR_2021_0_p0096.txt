@@ -1,0 +1,63 @@
+NDA 214793 / Piflufolastat F 18 (PYLARIFY): Multi-disciplinary Review and Evaluation
+
+PPV (95% Cl) 76 (60, 89) 78 (58, 91) 72.(55, 85)
+
+NPV (95% Cl) 83 (77, 87) 80 (74, 85) 80 (75, 85)
+p=1 [7 31 23 30
+
+FP 7 4 9
+
+FN 44 53 46
+
+TN 186 188 183
+
+Sensitivity (95% Cl) 41 (30, 53) 30 (20, 42) 39 (28, 51)
+
+Specificity (95% Cl) 96 (93, 99) 98 (95, 99) 95 (91, 98)
+
+PPV (95% Cl) 82 (66, 92) 85 (66, 96) 77 (61, 89)
+
+NPV (95% Cl) 81 (75, 86) 78 (72, 83) 80 (74, 85)
+
+Source: FDA statistical reviewer analysis
+
+Note: interval estimates are based on Clopper-Pearson method;
+
+p = the imputed probability of histopathology results positive for prostate cancer in the 16 patients without pelvic
+lymph node histopathology data
+
+Arefined imputation that incorporated patient-specific factors including baseline tumor stage,
+baseline Gleason score, and baseline PSA was performed in the Intent-To-Image Set. Two
+patients ( a) were imputed with 0.75 probability of pelvic lymph node
+histopathology positive for prostate cancer because they had bone biopsies positive for distant
+metastatic disease and were therefore considered at higher risk for pelvic lymph node
+metastases. Following discussion with the clinical team, the remaining patients without
+reference standard information were imputed with 0.5 probability of pelvic lymph node
+histopathology positive for prostate cancer if they were categorized as very high risk by NCCN
+criteria and with 0.25 probability of pelvic lymph node histopathology positive for prostate
+cancer if they were categorized as high risk by NCCN criteria. The results of this refined
+imputation are presented side-by-side with the Evaluable Set results in Table 45.
+
+Table 45: Refined imputation analysis results of piflufolastat F 18 for detection of pelvic
+lymph node metastases in the Intent-To-Image Set compared to Evaluable Set results
+
+(OSPREY Cohort A)
+Paramete Reader 1 Reader 2 Reader 3
+r Eval nT Eval nT Eval nT
+(n=252) | (n=268) | (n=252) | (n=268) | (n=252) | (n=268)
+TP 23 27.25 17 20 23 26.75
+FP 7 10.75 4 7 9 12.25
+FN 36 38.75 43 47 37 40.25
+™N 186 191.25 188 194 183 188.75
+Sensitivity | 39 (27, 53) | 41 (29, 54) | 28 (17, 41) | 30 (19, 42) | 38 (26, 52) | 40 (28, 53)
+Specificity | 96 (93, 99) | 95 (91, 97) | 98 (95, 99) | 97 (93, 99) | 95 (91, 98) | 94 (90, 97)
+PPV 77 (58, 90) | 72 (55, 85) | 81 (58, 95) | 74 (54, 89) | 72 (53, 86) | 69 (52, 82)
+NPV 84 (78, 88) | 83 (78, 88) | 81 (76, 86) | 80(75, 85) | 83 (78, 88) | 82 (77, 87)
+
+Source: FDA statistical reviewer analysis.
+Footnote: Clopper-Pearson confidence intervals are reported
+Eval = Evaluable Set results without imputation
+
+95
+
+Reference ID: 4802095

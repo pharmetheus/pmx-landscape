@@ -1,0 +1,60 @@
+NDA/BLA Multi-disciplinary Review and Evaluation/New Drug Application (NDA) 219908
+
+REVTORPYK (gedatolisib)
+
+Table 31: Contributory Effects: Gedatolisib, Palbociclib, and Combination of Gedatolisib and
+Palbociclib (BICR; ITT; Study 1)
+
+Parameter Coefficient p-value
+Difference between Arms A and C -1.4122 <0.0001
+Difference between Arms B and C -1.1779 <0.0001
+Time oR Progression on Immediate Prior Therapy (< or 0.1177 0.5756
+Presence of Visceral Metastasis (Lung/Liver: Yes/No) * -0.4953 0.0034
+Geographic Area (United States/Canada or Rest of World) 0.1985 0.3165
+Parameter Eacen p-value
+Treatment Regimen Effect (Arms A vs C) 0.24 (0.17, 0.35) <0.0001
+Gedatolisib Individual Effect (Arms B vs C) 0.33 (0.24, 0.48) <0.0001
+Gedatolisib + Palbociclib Combinatory Effect (Arms A vs B) 0.76 (0.55, 1.10) 0.1509
+
+Abbreviations: BICR = blinded independent central review: CI = confidence interval; CSR = clinical study report; HR = hazard
+ratio; ITT = Intent-to-Treat: vs = versus.
+
+Note: Stratified Cox regression model, CIs for HR were based on the score test.
+
+a. Visceral = lung, liver, and pleura.
+
+Source: Module 5.3.5.1, CELC-G-301 CSR (Table 14.2.1.1.15).
+
+A post hoc analysis of median PFS and hazard ratios with 95% CIs in key subgroups was
+conducted to further compare subjects in Arm A and B. Across most subgroups, median PFS was
+longer in Arm A than in Arm B, with differences considered clinically meaningful.
+
+e Other Radiologic Efficacy Measurements: ORR, TTR, CBR, DOR
+
+The confirmed ORRs among response-evaluable subjects in for Arms A, B, and C were 31.5%,
+28.3%, and 1.0%, respectively. Unconfirmed ORRs, which included both confirmed and
+unconfirmed objective responses (CR and PR) for the same analysis set, were 38.7%, 33.6%, and
+1.0%, respectively. Clinical benefit rates (CR + PR + SD >24 weeks) were 50.0%, 48.7%, and
+11.4%. Disease control rates (CR + PR + SD) were 85.4%, 77.0%, and 39.1%. Mean times to
+first responses were 2.8, 2.6, and 7.4 months, respectively.
+
+The FDA’s Assessment: FDA has the following additional comments and clarifications
+regarding overall survival, contribution of components, and other secondary endpoints including
+radiologic efficacy measurements in this trial.
+
+Overall Survival
+
+The FDA generally agrees with the efficacy results for the key secondary endpoint of OS
+presented by the Applicant. FDA clarifies that since PFS for Arm A vs Arm C and PFS for Arm
+B vs Arm C were both statistically significant, per the hierarchical testing procedure, the
+following OS comparisons were to be tested in the following order:
+
+1. OS for Arm A vs Arm C
+
+134
+Version date: February 10, 2025 (ALL NDA/BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5832496

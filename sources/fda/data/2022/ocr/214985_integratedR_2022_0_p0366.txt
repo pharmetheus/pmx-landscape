@@ -1,0 +1,42 @@
+In the reviewer's analysis, when any dose of ACT-541468 passed the comparison with both positive
+controls, the comparison between this dose of ACT-541468 and placebo was performed regardless of the
+significance in the comparisons between other doses of ACT-541468 and the positive controls. However,
+the result from this comparison can only be used for exploratory purpose. For decision making, one can
+pursue that ACT-541468 has similar abuse potential to placebo if and only if all doses of ACT-541468
+passed the comparisons with all validated positive controls.
+
+The statistical model used in the reviewer’s primary analysis was a mixed-effects model which included
+sequence, period, treatment and first-order-carryover effect as fixed effects, and subject as a random
+effect. For the primary endpoint, the W test on the residuals was significant (p=0.0072). Therefore, the
+normality of paired differences was further examined. Table 2 shows p-value of the W test and skewness
+for each paired difference for Drug Liking Emax.
+
+Table 2: The W-Test results for the pairwise comparisons for Drug Liking Emax (N=63)
+
+TRT Diff skewness P-value
+Z30-P -0.18 0.04404
+Z30-T50 -0.57 0.06323
+Z30-T100 -0.54 0.01502
+Z30-T150 -0.31 0.00567
+$150-P -0.12 0.00387
+$150-T50 0.51 0.07322
+$150-T100 -0.31 0.01475
+$150-T150 -0.15 0.23050
+T50-P. 0.23 0.03189
+T100-P -0.30 0.00498
+T150-P -0.09 0.00927
+
+The p-value in red indicates that the W test was not significant at a = 0.05 (prespecified in the protocol),
+and then the paired t test was used for these comparisons. Based on the sponsor’s changes on the planned
+analyses (Section 9.8 of the study report), the t-test was only used if the distribution of the paired
+difference was normal or slightly skewed, i.e., skewness=0 to 0.5 for upper-tailed test; skewness = —0.5 to
+0 for lower-tailed test; and skewness= —0.5 to 0.5 for two-tailed test. The cases with blue skewness
+satisfied the rules. The Sign test was used for the rest of comparisons.
+
+Table 3 shows the test results from the primary analysis. The p-value of a failed test is in red. Note that
+the comparisons between any dose of ACT-541468 and placebo was performed only when the
+comparisons between this dose and each positive control were significant.
+
+14
+
+Reference ID: 4859554

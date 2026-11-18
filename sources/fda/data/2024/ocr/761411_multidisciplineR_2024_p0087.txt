@@ -1,0 +1,50 @@
+BLA Multidisciplinary Review and Evaluation
+BLA 761411
+Niktimvo (axatilimab-csfr)
+
+(0) 6)
+
+* FDA considered a restarted montelukast as a systemic therapy for cGVHD. The Applicant
+considered new montelukast but not restarted montelukast as a systemic therapy for
+cGVHD for subject C2
+
+The final FDA-adjudicated list of first new systemic therapy was sent to the Applicant in an
+Information Request on 4/22/2024 (see DARRTS entry dated 4/22/2024).
+
+The Applicant submitted in adrs.xpt adtte.xpt the response assessments by the investigators,
+and adnih.xpt and adtte2.xpt by the Applicant adjudication algorithm, and adqs.xpt to include
+mLSS data. FDA identified the following major issues with the efficacy data:
+
+* FDA identified several discrepancies between the 2014 NIH criteria and the Applicant's
+algorithm.
+
+© The initial iteration for duration of response assessed loss of response in comparison to
+baseline. However, this does not take into account patients who achieve a response and
+then worsened, which would require that the duration of response be calculated from the
+nadir value for each individual organ.
+
+FDA used an algorithmic approach to identify responders and determined the DOR. The FDA
+analysis of efficacy used all available data, including assessments at unscheduled visits (e.g.,
+out-of-window) and end-of-therapy visits. Discrepancies between the Applicant’s revised
+response assessments and FDA's algorithm were adjudicated by the clinical review team at
+the data element level for the patients in the 0.3 mg/kg Q2W cohort. Following clarifications
+by the Applicant for cases of differences for response or duration of response, the final FDA-
+adjudicated responses for the 0.3 mg/kg Q2W cohort were conveyed to the Applicant in
+fadj.xpt sent on 07/10/2024, and the results are memorialized in the file fadj.xpt received
+
+in SDN 0036 on 07/17/2024. FDA did not adjudicate DOR for patients in the 1 mg/kg and
+
+3 mg/kg groups; instead, the DOR results were based on the data as submitted by the
+Applicant.
+
+FDA also requested revised datasets for AGAVE-201 with corrections based on the errors
+identified by the FDA inspector. On 6/21/2024 the Applicant submitted a new custom
+ADQSFDA data file reflecting the requested corrections, and this data file was used for FDA
+analyses.
+
+86
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA. The FDA's position is highlighted in gray.
+
+Reference ID: 5429649

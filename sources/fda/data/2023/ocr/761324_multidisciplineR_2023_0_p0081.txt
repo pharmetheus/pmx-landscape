@@ -1,0 +1,56 @@
+BLA Multi-disciplinary Review and Evaluation {Biologics License Application (BLA) 761324
+{epcoritamab}
+
+Table 21: Simulated Ctrough —-Nominal Dosing Schedule Compared to Dosing Delay During
+Q4W Dosing Window (Scenario 5)
+
+trough Following Last Q4W Full Dose
+Geo mean Geo mean 95% Cl
+Simulated Cohort Description (ug/ml) (ug/ml)
+Nominal Dosing Schedule 28 days between Cycle 11 Day 1 full 1.78 1.62, 1.95
+dose and the subsequent full dose
+Maximum Dose Delay 42 days between Cycle 11 Day 1 full 1.12 1.00, 1.25
+without Required Re-priming | dose and the subsequent full dose
+
+Last Q4W full dose administered on C11D1 for this scenario.
+
+Cl = confidence interval; Ctrough = concentration immediately prior to next dose; geo mean = geometric mean;
+Q4W = every 4 weeks.
+
+Source: Reviewer analysis using dataset and model file provided by Applicant in response to 09 January 2023
+information request
+
+6.2.2.4. Outstanding Issues
+
+Data:
+N/A
+
+The Applicant's Posit
+No outstanding issues.
+
+The FDA’s Assessment:
+
+FDA disagrees with the Applicant’s assessment. The Agreed iPSP includes a deferral in patients
+>1 to 18 years with mature B-cell lymphoma for the completion of the population PK modeling
+study (refer to Section 10). Evaluation of clinical trial to confirm the appropriate dose and
+assess the PK, safety and preliminary efficacy in pediatric patients with mature B-cell lymphoma
+will be required as a PMR.
+
+There is no PK data to assess the impact of racial categories other than White or Asian (refer to
+Section 6.2.2.2). PK and PD, in addition to safety and efficacy, of epcoritamab monotherapy
+should be further characterized in a population representative of the US patient population
+with large B-cell lymphoma. This will need to be evaluated as a PMC (Section 16).
+
+6.3.Comprehensive Clinical Pharmacology Review
+6.3.1. | General Pharmacology and Pharmacokinetic Characteristics
+
+Data:
+The general pharmacology and PK characteristics of epcoritamab are summarized in Table 22.
+
+80
+Version date: June 2022 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5176690

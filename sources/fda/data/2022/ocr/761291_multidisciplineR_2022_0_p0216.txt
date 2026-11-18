@@ -1,0 +1,40 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {BLA 761291}
+teclistamab
+
+Table 26: Results of the Logistic Regression Analyses for RP2D ORR
+
+Univariate Analyses with Cave,1stdose Odds Ratio 95% C1 p-value
+Cave,1stdose (per g/mL) 1.04 0.91-1.19 0.58
+Univariate Analyses with Ctroughadoses Odds Ratio 95% Cl p-value
+trough adoses (per ig/ml) 1.03 0.98-1.09 0.19
+
+Multivariate Analyses (significant
+
+" . . Odds Ratio 95% Cl p-value
+predictors only, as continuous endpoint)
+Baseline soluble BCMA (per ng/mL) 0.99 0.99-0.996 <0.001
+Baseline PD1 expression (per %T cell) 0.96 0.93-0.99 0.016
+Multivariate Analyses (significant N Odds Ratio 95% CI p-value
+predictors only, as categorical endpoint)
+Baseline soluble BCMA
+> median value vs < median value 74 vs 73 0.12 0.05-0.27 <0.001
+Not reported vs < median value 3vs 73 0.29 0.02-7.42 0.36
+Baseline PD1 expression
+> median value vs < median value 72vs71 0.37 0.16-0.82 0.016
+Not reported vs < median value 7Tvs71 0.44 0.07-2.42 0.35
+
+BCMAGB cell maturation antigen; Cave,1stdose=average concentration during the first treatment dose;
+Cl=confidence interval; Ctrough adoses=predicted trough concentration after the first 4 weekly treatment doses, ie,
+predose concentration of the fifth weekly treatment dose; N=number of subjects; ORR=overall response rate;
+PD1=programmed cell death protein 1; RP2D=recommended Phase 2 dose, which is 1.5 mg/kg teclistamab SC
+administered weekly, with the first treatment dose preceded by step-up doses of 0.06 and 0.3 mg/kg;
+SC=subcutaneous; vs=versus.
+
+Source: Applicant’s Population PK and Exposure-Response Analyses Report, Table 7.
+
+Version date: January 2020 (ALL NDA/ BLA reviews) 215
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5065872

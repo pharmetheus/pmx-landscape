@@ -1,0 +1,60 @@
+BLA 761416 Multi-disciplinary Review and Evaluation
+Zanidatamab
+
+6.2.2.3. | Outstanding Issues
+Data and The Applicant’s position:
+N/A
+The FDA’s Assessment:
+
+As discussed in Section 6.3.1 below, the treatment-emergent ADA incidence reported by the
+Applicant was not reliable. A PMC will be issued requesting the Applicant to reanalyze the ADA
+samples from studies 101 and 203 using a validated assay and reevaluate the effect of ADAs on
+efficacy, PK, and safety of zanidatamab.
+
+6.3. Comprehensive Clinical Pharmacology Review
+
+6.3.1. General Pharmacology and Pharmacokinetic Characteristics
+
+Data:
+
+Zanidatamab is a humanized, IgG1-like, HER2-targeted bispecific antibody (binding and MOA
+in Section 5.3). The PK of IV zanidatamab in participants with BTC and various cancer types
+was characterized by a 2-compartment model with parallel linear and nonlinear CL pathways.
+From the PopPK analysis, participants with BTC were predicted to have a typical CL of
+
+0.0115 L/h, a typical Vc of 3.51 L, a typical Vp of 3.95 L, and an estimated t’2 of approximately
+21 days, taking approximately 3.5 months (ie, 5 half-lives) to reach steady-state following
+multiple-dose administration of zanidatamab (Section 6.2.1). Exposure-response analyses
+evaluated the zanidatamab exposure-efficacy relationship in participants with HER2-amplified
+BTC and exposure-safety relationships in participants with HER2-expressing cancers. Findings
+support the use of IV 20 mg/kg Q2W zanidatamab (Section 6.2.2.1).
+
+The relationship between time-matched zanidatamab serum concentrations and AQTcF
+measurements was evaluated using linear regression (data from Study 101). The concentration-
+QT analysis dataset included 948 time-matched zanidatamab concentrations and QTcF
+measurements from 179 of 192 enrolled participants. The upper bound of the 2-sided 90% CI (or
+upper bound of the 1-sided 95% CI) for the effect on the QTcF interval did not exceed 10 ms
+(the threshold level of regulatory concern). Based on PopPK model-predicted 20 mg/kg Q2W
+and 30 mg/kg Q3W zanidatamab exposures (Cmax) at steady state, neither the mean nor the upper
+bound of the 2-sided 90% CI for the change in QTcF from baseline exceed the regulatory
+concern of 10 ms.
+
+Zanidatamab immunogenicity evaluations yielded overall treatment-emergent ADA incidence of
+1.5% (4 of 268 evaluable participants: 1.6% [3 out of 183], in Study 101 and 1.2% [1 out of 85]
+in Study 203 [the 1 ADA positive participant was also NAb positive]). In Study 203, there was
+no apparent impact of anti-zanidatamab antibodies on the PK of zanidatamab: Crrough for the
+
+1 participant with treatment-emergent ADAs (75.4 g/mL) was similar to the geometric mean
+Crrough for the 74 participants in Cohort 1 without treatment-emergent ADAs
+
+(73.7 g/mL, %CV 58.26). There was also no apparent impact of anti-zanidatamab antibodies on
+zanidatamab safety, although an inter-group comparison of AE incidences is not informative
+(only 1 participant with treatment-emergent ADAs in Study 203). The participant with
+
+55
+Version date: August 2023 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5482010

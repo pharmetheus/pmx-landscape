@@ -1,0 +1,107 @@
+Multi-disciplinary Review and Evaluation
+
+NDA 218784
+VORANIGO (vorasidenib)
+
+General Information
+
+Goal of ER (efficacy) analysis
+
+1. Evaluate the relationships between the steady-state exposure (AUCect)
+of vorasidenib, and the efficacy endpoints in subjects with residual or
+recurrent Grade 2 glioma with an IDH1 or IDH2 mutation treated with
+vorasidenib in Study AG881-C-004.
+
+2. Determine the effects of disease-related factors and predefined
+demographic factors on the efficacy endpoints.
+
+Study Included
+
+The ER efficacy analysis evaluated data from subjects with glioma obtained
+from Study AG881-C-004.
+
+Endpoint
+
+* PFS per BIRC
+
+* TIN
+
+© OR (CR+PR+mR) per BIRC
++ _CR+PR per BIRC
+
+No. of Patients (total, and with
+individual PK)
+
+n=167 subjects in the efficacy ER analysis
+
+Population General
+
+Characteristics
+
+Efficacy ER Analysis (N=167)
+
+Age median 41.0 years (21.0, 71.0)
+
+Weight median 79.9 kg (48.0, 155)
+
+01 (60.5%) male
+
+24 (74.3%) White; n=5 (3.0%) Asian; n=2 (1.2%) Black/African American;
+n=36 (21.6%) Other
+
+Pediatrics
+
+Not applicable.
+
+Dose(s) Included
+
+¢ 40 mg QD Formulation F2 (N=167)
+* 5S subjects started the study with 50 mg QD Formulation F1, then
+switched to 40 mg QD Formulation F2 during treatment
+
+Exposure Metrics Explored
+(range)
+
+* Because of strong correlation between AUC, Cmax, and Cmin, only AUC
+was evaluated as exposure metric in the ER efficacy analysis.
+
+¢ The ER efficacy analysis used the area under the curve (AUCect) at
+steady state based on the actual average dose across the treatment
+duration until EOT or up to the study data cutoff.
+
+© AUC. ranged from 343 to 12,800 hr-ng/mL.
+
+Covariates Evaluated
+
+* Demographic factors: age, weight, sex, race
+
+* Disease status: KPS for adults
+
+* Concomitant marijuana use was evaluated as 2-category covariate
+(use / no use) with threshold set at 25% of days on marijuana over the
+entire subject treatment duration
+
+Final Model Parameters Summary Acceptability
+[FDA’s
+comments]
+
+Model Structure * For PFS and TTNI, a Cox PH model was developed: Yes
+
+A(t) = ho (0) x exp[f (exposure, Besposure) + Be,(U1) ++ Br, Un)}
+
+ho(t) is a non-parametric baseline hazard. The general
+function, f, represents the effect of exposure as a
+predictor of disease progression and Bexposure, the
+coefficient for the effect of the predictor. vi, ... va are
+potential or known risk factors (covariates), and the
+coefficients (Bv;,... Bvq) are the corresponding log
+hazard-ratios.
+
+300
+
+Version date: December 2023(ALL NDA/BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5425021

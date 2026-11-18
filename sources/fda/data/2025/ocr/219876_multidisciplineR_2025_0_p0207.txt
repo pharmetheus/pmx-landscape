@@ -1,0 +1,81 @@
+NDA Multi-Disciplinary Review and Evaluation
+
+NDA 219876
+Dordaviprone
+Part B1 and B2: Predose, 0.25, 0.5, 0.75, 1, 1.5, 2, 2.5, 3, 4, 6, 8. 10, 12,
+14, 16, 24, 36, 48, 72, and 144 hours post-dose
+ONCO006
+CIDI: pre-dose, 2 hours post-dose
+ONCO13
+C1D1: pre-dose, 2-, 24-, 48-, and 72-hours post-dose
+9 C1D8 and D15: pre-dose
+ra oa ao >C2: D1 pre-dose (even cycles only)
+ONCO14
+CIDI: pre-dose, 0.5, 2-, 4-, 24-, and 48-hours post-dose
+CI1D8 and D15: pre-dose
+C2D1: pre-dose
+Static Body size, sex, age, CrCL at baseline, hepatic function,
+Kamofsky/Lansky performance status at baseline, disease status
+Covariates
+Evaluated albumin, dose regimen, Concomitant medications, including
+Time-varying CYP3A4-modifying drugs, acid-reducing drugs (PPIs, H2 antagonists,
+and other acid reducers), and dexamethasone
+Final Model Summary Acceptability
+
+[FDA’s comments]
+
+Software and Version
+
+NONMEM Version 7.5.1 Acceptable
+
+2-compartment disposition model with first- | Acceptable
+
+Uncertainty and Variability (RSE, ITV,
+Shrinkage, Bootstrap)
+
+Model Structure order absorption with a lag time. and linear
+elimination.
+
+Model Parameter Estimates Table 16 Acceptable
+All parameters were estimated with Acceptable
+
+acceptable precision. ITV on KA had the
+greatest shrinkage. likely due to differences
+in PK sampling schemes around Tmax
+between patient and healthy populations
+
+BLQ for Parameter Accuracy
+
+27.9% of post-treatment observations were | Acceptable
+BLQ, therefore a likelihood imputation
+method (M3 imputation) was tested, the
+resulting model did not minimize, therefore
+no further pursuit of M3 imputation was
+made
+
+GOF, VPC
+
+Figure 1 and Figure 2 Acceptable
+
+Relevance
+
+Significant Covariates and Clinical
+
+Acceptable
+
+Renal and hepatic
+
+Figure 3 functions were evaluated
+as covariates, and none of
+them were identified as
+significant covariates.
+
+206
+
+Version date: March 1, 2024 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5638121
+

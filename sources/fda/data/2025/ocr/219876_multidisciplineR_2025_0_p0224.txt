@@ -1,0 +1,52 @@
+NDA Multi-Disciplinary Review and Evaluation
+NDA 219876
+Dordaviprone
+
+clinical pharmacology section for detail information on dordaviprone regarding ADME
+properties, in vitro and clinical studies used in PBPK modeling.
+
+Table 19.7 In vitro drug interaction potential of dordaviprone as an inhibitor of various
+transporters and enzymes
+
+Transporters [Test system Substrate 1€50 (uM) ca
+|P:gp/MOR1__|MDCKIL-MDRI digoxin (1 pM) 53.7 Apparent Ki (iM)
+BCRP. MDCKII-BCRP [prazosin (1M) 2073 Enzyme
+
+loare161 HEK293-OATP1B1__|Estradiol-17-glucuronide (1 uM) | __52.3 own xe
+OATP1B3 HEK293-OATP1B3___|Cholecystokinine-8 (0.11 1M) 36.5 exP2Be 89.99
+oar CHOOATL [p-Aminohippurate (1 11M) 25 cerns an20
+JOAT3 MDCKII-OAT3 [Estrone-3-Sulfate (1 1M) 3.8 epee ans
+MATEL MDCKII-MATEL [Metformin (2M) 8.4 exencis S17
+MATE2-K MDCKILMATE2-K __|Metformin (10 nM) 5 cyeeps a3
+jocti CHO.OCTL {Tetra ethyl-ammonium (5 {M) 229 CEPBAWS 400
+joct2 CHO-OCT2 [Tetra ethyl-ammonium (5 jiM) 288 CYPSANS 2024
+
+Source: Study 15678 and Study 15679
+Methods
+
+All simulations were performed using the PK/PD Profiles mode in the Simcyp® Simulator
+(Version 21, Certara, Sheffield, UK), unless noted below. Simulations were performed using the
+default healthy subject population model. Age, sex, subject number, and dosing regimens were
+consistent with the actual trial design. Ten trials were simulated for each simulation scenario.
+Schemes of the PBPK modeling and simulation strategy are shown in Figure 19.8 Modeling and
+simulation strategy, which summarizes the studies used for dordaviprone model development
+and verification, and model applications in predicting DDI of dordaviprone as an object of
+CYP3A4 induction or inhibition and as a precipitant of various transports and enzymes. The final
+model input parameters are summarized in Table 19.8 and Figure 19.8. All Ki values for the
+enzymes were half of the IC50 values generated experimentally. The dordaviprone PBPK
+models consist of an Advanced Dissolution, Absorption and Metabolism (ADAM) model for
+describing drug absorption in each gut segment, a minimal PBPK model with a single adjustable
+compartment for distribution, and an enzyme kinetics model for elimination. The Simcyp library
+files for the models of rifampin (SV-Rifampicin-MD), itraconazole, erythromycin, fluconazole,
+cimetidine, efavirenz, modafinil, repaglinide, desipramine, midazolam, and dabigatran were used
+without any modification, unless otherwise noted.
+
+Figure 19.8 Modeling and simulation strategy
+
+223
+Version date: March 1, 2024 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5638121

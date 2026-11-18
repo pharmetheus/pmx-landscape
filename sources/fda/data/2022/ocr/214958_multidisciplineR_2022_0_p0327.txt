@@ -1,0 +1,121 @@
+Multi-disciplinary Review and Evaluation
+NDA 214958 Sotyktu (deucravacitinib) tablets, 6 mg
+
+Anticoagulant
+
+Dipotassium ethylenediaminetetraacetic acid (K2EDTA)
+
+Extraction method
+
+Liquid-liquid extraction
+
+Analyte
+
+Deucravacitinib, BMT-153261
+
+Internal standard (IS)
+
+© (IS deucravacitinib),
+© (IS for BMT-153261)
+
+Calibration curve range
+
+0.500 to 500 ng/mL
+
+QC Levels (ng/mL)
+
+LLOQ QC: 0.500
+LQC: 1.50
+GMQc: 15.0
+MQc: 150
+
+HQC: 375
+
+Dilution QC: 5000
+
+Precision (% CV)
+
+Precision Parameter Deucravacitinib BMT-153261
+Intra-batch (All QC except LLOQ) 33.6 3.6
+Intra-batch (LLOQ) 5.7 7.5
+Inter-batch (All QC except LLOQ) 55.2 40
+Inter-batch (LLOQ) 38.7 7.9
+Accuracy (% bias)
+Accuracy Parameter Deucravacitinib BMT-153261
+Intra-batch (All QC except LLOQ) -3.2 to 12.7 -2.1 to 7.3
+Intra-batch (LLOQ) -7.2to9.4 6.4 to 6.4
+Inter-batch (All QC except LLOQ) 0.3 to 6.7 0.0 to 4.0
+Inter-batch (LLOQ) 0.8 -0.6
+
+Selectivity
+
+No interference observed
+
+Matrix effect
+
+Deucravacitinib: Matrix Factor (Normalized) 0.98 - 0.99
+BMT-153261 : Matrix Factor(Normalized) 0.95 - 0.99
+
+Carry over
+
+No carryover >20% of LLOQ observed
+
+Freeze/thaw stability
+
+5 cycles at -20 °C and -70 °C
+
+Room temperature stability 27 hours
+Long-term stability 357 days at -20 °C and -70 °C
+Studies supported IM011-046
+
+158170 in Plasma
+
+Table 92. Summary of LC-MS/MS Bioanalytical Method Validation for Determination of BMT-
+
+Parameter Study Information
+Method ID 171775VWBA_BPN
+Matrix Human plasma
+
+Anticoagulant
+
+Dipotassium ethylenediaminetetraacetic acid (K2EDTA)
+
+Extraction method
+
+Liquid-liquid extraction
+
+Analyte
+
+Internal standard (IS)
+
+BMT-158170
+) (4)
+
+Calibration curve range 0.500 to 500 ng/mL
+QC levels (ng/mL) 0.500 (LLOQ), 1.50 (LQC), 150 (MQC), 375 (HQC)
+Precision (%CV) Intra-assay: 34.4%
+
+Inter-assay: $6.7%
+
+Accuracy (%Bias)
+
+Intra-assay: -3.4% to 11.0%
+Inter-assay: 2.1% to 5.0%
+
+Selectivity
+
+LLOQ -5.0% to 11.8%
+HQC -5.3% to 3.7%.
+
+Matrix effect
+
+No matrix effect observed
+
+Carry over
+
+No carryover >20% of LLOQ observed
+
+Reference ID: 5043097
+
+326
+

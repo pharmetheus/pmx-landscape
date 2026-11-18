@@ -1,0 +1,51 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 219249}
+
+{Inavolisib}
+
+The white circles represent observed palbociclib PK data following a single oral dose of 125 mg of palbociclib or a single SO mg intravenous
+infusion, respectively (digitalized from PMID: 27402157). The solid lines represent the simulated palbociclib profiles; black lines represent the
+simulation mean, gray lines represent the Sth and 95th percentiles of the simulations. Simulations were performed using the palbociclib model
+
+modified by the reviewer.
+Source: reviewer's analysis
+
+Table 51: Predicted and observed palbociclib exposure in the presence and absence of
+itraconazole and rifampin
+
+sd Cmacin 1 AUCing AUCing inn 7
+Precipitants "7 L Rati ” AUC,,¢ rati Model
+aa Cmacln@/me) | inert) | Som RAtlO | ingymth) | (ng/mb.h) mmeratio ode
+itraconazole | observed 60 : 80 : 14 : 1864 34820; 1.85
+Predicted 37 $ 6490} 133} 1377 2015: 1.46
+Applicant
+Pred/obs 0.61 0.61 0.99 0.74 0.58 0.78
+Predicted 44: 59 $ 136 : 1832 2895; 158
+Reviewer
+Pred/obs 0.74 0.74 1.01 0.98 0.83 0.85
+rifampin observed 55 | 16 0.30 | 1657 247, | 0.15
+Predicted 36 12 0.34 1376 284 0.21
+i i i Applicant
+Pred/obs 0.66 0.79 1.13 0.83 1.15 1.38
+Predicted 44 14 0.32 1830 332 0.18
+reviewer
+Pred/obs 0.79 0.9 1.08 11 1.35 1.21
+
+Source: clinical-information-amendment.pdf (seq0027) and reviewer's analysis
+
+19.4.4.3. Results
+The FDA’s Assessment:
+1. Can the PBPK model adequately describe the PK profiles of inavolisib?
+
+Yes. The model could reasonably well describe the plasma concentration-time profiles of
+inavolisib following single and multiple oral doses of inavolisib in patients with cancer, and the
+model-estimated AUC and Cmax were mostly within 0.8- and 1.25-fold of the observed values.
+Simulated and observed inavolisib PK profiles and parameters are summarized in Figure 19
+Figure 20 and Table 52.
+
+222
+Version date: June 2022 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5460147

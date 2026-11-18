@@ -1,0 +1,10 @@
+"old","new","Freq"
+"comparator","comparator",70
+"mentioned","comparator",0
+"used","comparator",32
+"comparator","mentioned",0
+"mentioned","mentioned",104
+"used","mentioned",15
+"comparator","used",8
+"mentioned","used",26
+"used","used",3110

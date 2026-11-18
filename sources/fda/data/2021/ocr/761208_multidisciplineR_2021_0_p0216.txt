@@ -1,0 +1,56 @@
+BLA Multi-disciplinary Review and Evaluation {Biologics License Application (BLA) 761208}
+{tisotumab vedotin}
+
+Caveane (g/mL) Cavemmac (ng/mL)
+
+Covariate N Mean (SD) | Median (Range) | Mean (SD) Median (Range)
+
+normal_| N=215 | 2.78 (0.601) | 2.74[1.19-4.63] | 2.37 (1.63) | 1.91 [0.459-9.65]
+
+RENAL mild N=142 | 2.76 (0.694) | 2.68 [1.06-4.77] | 2.37 (1.70) | 2.00 [0.391-10.7]
+
+moderate | N=42 | 2.49 (0.583) | 2.51 [1.28-3.70] | 2.48 (2.10) | 1.78 [0.585-11.8]
+
+Source: Adapted from Table 30 and Figure 113.
+Exposure Response Analyses:
+
+Exposure Metrics: The population PK analysis showed that there was no appreciable accumulation of
+ADC and MMAE with repeated dosing. Therefore, Cycle 1 exposure measures were used for all
+exposure-response analyses. Cycle 1 was defined as the interval between the first and the second doses.
+Moreover, trough concentrations of ADC were either below quantification limit (BQL) or close to it.
+Therefore, ADC trough (minimum) concentration was not a useful measure of exposure. Thus, the
+individual estimates of the following exposure measures in Cycle 1 were used for the exposure-response
+analyses in addition to average ADC concentration from time zero to the end of the cycle in which event
+occurred (CavgLast):
+
+© For ADC: AUC (AUC1, ADC) and Cmax (Cmax1, ADC);
+© For MMAE: AUC1, MMAE, Cmax1, MMAE, and Ctrough (Ctrough1, MMAE).
+
+Data: The database for the exposure-safety analysis included the data from 272 subjects administered
+TV 2.0 mg/kg 1Q3W doses in studies GEN701 (expansion cohort), GEN702 (expansion cohort), and
+GCT1015-04 (cutoff date February 6, 2020). The database for the exposure-efficacy analysis included the
+data from 101 subjects from Study GCT1015-04 (cutoff date February 6, 2020).
+
+Exposure Safety Analyses: Treatment-emergent adverse events (AEs) investigated include treatment
+related AEs, All SAEs, treatment-related Grade 3+ TEAEs, treatment-related TEAEs leading to dose
+interruption, treatment-related TEAEs leading to dose reduction, treatment-related TEAEs leading to
+dose discontinuation, Grade 2+ bleeding TEAEs, Grade 2+ ocular TEAEs, and Grade 2+ peripheral
+neuropathy. For each TEAE type, linear logistic regression base models were implemented to assess the
+relationship between the probability of TEAE occurrence and exposure. To define the confidence
+interval for the logistic regression function, 1000 bootstrap samples were drawn with replacement from
+the analysis population, and the logistic regression base model was fitted to each of these samples. For
+each exposure value, 95% confidence interval of the logistic regression curve was defined as the 5th and
+95" percentiles of the model predictions among 1000 bootstrap data sets. A significance level of a =
+0.05 was used for evaluation of the exposure coefficient of the base model (slope parameter). For each
+TEAE type, a covariate analysis was conducted using the full model approach. The full model had the
+following structure: logit(EVENT) ~ Intercept + Exposure + AGE + WT + SUMDIAM + ALB + LDH +TFE +
+factor(SEXF) + factor(USA) + factor(CERVICAL) + factor(RENAL2) + factor(RENAL3) + factor(HEP) +
+factor(ECOG), where Exposure was represented by one of the investigated ADC or MMAE exposure
+
+215
+
+Version date: March 2021 (ALL NDA/ BLA reviews)
+Disclaimer: In this document, the sections labeled as “The Applicant’s Position” are completed by the Applicant
+and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 4858975

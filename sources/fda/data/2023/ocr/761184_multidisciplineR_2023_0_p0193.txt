@@ -1,0 +1,64 @@
+BLA 761184
+Ngenla (somatrogon)
+
+simulations were performed. For each simulation, the ratio of mean AUC at each weight to mean
+AUC at 15 kg was calculated. The median and 95% prediction intervals of these ratios are shown
+in Figure 12. The figure shows that weight-based dosing provides comparable exposures across
+body weights despite weight-dependent increase in clearance.
+
+Figure 12. Distribution of AUC Ratios at Different Body Weights to Body Weight of 15 kg
+; — _—— —
+
+1.4
+
+1.2
+
+wl FEE ELTE ELE LEE
+
+£0.38
+oO
+
+20.6
+
+tio
+
+0.4
+0.2
+0.0
+
+8 12 16 20 24 28 32 36 40 44 48 6&2
+Weight (Kg)
+
+Source: Reviewer's independent analysis.
+Abbreviation: AUC, area underthe curve
+
+More information can be found in the Pharmacometrics review (Section14.3.1.4.1).
+
+ADA Status
+
+Observed PK data from Trial CP-4-004 and CP-4-006 including open-label extension showed
+increased somatrogon concentrations in ADA-positive subjects. See Section 14.3.1.4.2.
+
+Based on the population PK analysis, the clearance of somatrogon decreases ~26% after patients
+developed antidrug antibodies. Table 40 summarizes central tendency and ranges of the selected
+PK parameters at steady state for all subjects before and after turning ADA positive.
+
+Table 40. Summary Statistics of Model-Predicted Individual PK Parameters for All Subjects in the
+Phase 2 and Phase 3 Studies Before and After Turning ADA-Positive
+
+Parameter ADA Mean (SD) Median _Min-Max
+= 0.784 (0.337) 0.722 0.27-2.744
+CUF (Uh) ie 0.582 (0.309) 0.552__0.115-1.542
+Vero : 7.547 (5.848) 6.07 1.377-41.985
++ 8.31 (7.748) 6.058 _1.478-48.29
+vu : 13.921 (7.732) 12.208  3.005-43.07
++ 14.953 (8.505) 12.829 _3.697-51.819
+: : 6.386 (3.692) 5.293 1.663-22.67
+Alpha half-life (h) ee 10.554 (8.696) 6.959 __1.707-43.809
+Bela halflife dh) = 351.954 (69.893) 346.664 205.219-550.646
++ 369.052 (74.785) 359.974 _221.595-595.33
+; = 19.208 (3.122) 19.408  10.919-28.363
+AUCs (rmg/L) + 31.162 (14.498) 26.808 _12.504-73.647
+91
+
+Reference ID: 4924352

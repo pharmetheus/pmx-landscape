@@ -1,0 +1,49 @@
+BLA 761151 Multi-disciplinary Review and Evaluation
+BIMZELX (bimekizumab-bkzx) injection, for subcutaneous use
+
+Figure 21: Simulated Bimekizumab Concentration from Final Model.
+
+320mg Q4W 320mg QW, 220mg QBW
+
+Bimekizumab plasma concentration (yig/mL)
+
+Bn 2 0 ri) 5
+Time (Weeks)
+
+6 8 6
+
+Source: Figure 19 of PKPD report. Simulated bimekizumab concentrations from the final bimekizumab population
+PK model for a typical non- Asian male subject with a baseline body weight of 90kg and negative ADAb status
+receiving either 320mg bimekizumab QAW (green line and points) or 320mg bimekizumab Q4W until Week 16
+{indicated by dashed vertical line) followed by 320mg bimekizumab Q8W (red line and points). The horizontal
+dashed lines indicate the concentrations at Week 56 for the corresponding treatment regimens.
+
+Covariate Effect on PK Parameters
+
+A Forest plot showing the covariate-parameter relationships of the final bimekizumab
+population PK model is presented in Figure 22 to Figure 23, for CL/F, V/F and exposure metrics,
+respectively. The plots are based on 200 bootstrap samples. Six bootstrap samples terminated
+unsuccessfully due to rounding errors (NONMEM error code = 134) but were retained in all
+calculations. The plots indicate that WT seems to be the most clinically significant covariate on
+CL/F and V/F.
+
+Figure 22: Forest Plot of The Final Bimekizumab Population PK Model Illustrating the Ratio Of
+CL/F for The Statistically Significant Covariates
+
+WT =200
+
+WT = 18¢
+
+Fomale
+
+ADAb positive
+
+er | | |
+Source: Figure 20 of PKPD report. Forest plot of the final bimekizumab population PK model illustrating the ratio of CL/F for the
+statistically significant covariates with respect to the reference group, based on 200 bootstrap samples. The points and the
+horizontal error bars represent the median and 95% Cl of the relative CL/F for different covariate groups. The vertical dashed
+
+242
+Version date: October 12, 2018
+
+Reference ID: 4982337

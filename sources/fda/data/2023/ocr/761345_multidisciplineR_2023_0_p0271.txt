@@ -1,0 +1,70 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {BLA 761345}
+elranatamab
+
+The rate of BCMA shedding is assumed to be proportional to tumor burden. The total bound
+receptor counts in the BM were computed using the total numbers of MM and CD3 cells and
+published BCMA and CD3 T cell receptor densities. MM cell dynamics in the BM follow a
+standard Simeoni model with kill term driven by trimer concentrations.
+
+2. Generating a Virtual Population (VPop)
+
+To generate virtual patients, as shown in Figure 59, plausible patients (PP) were firstly created
+by sampling a subset of biologically relevant parameters with high sensitivity and uncertainty
+independently from their ranges using uniform distributions. Next, model solutions were
+checked to ensure that these parameters all fell within anticipated physiological ranges, the
+lower and upper bounds of which were based on literature data or local sensitivity analysis.
+Initial conditions for serum FLC, serum M-protein, and total sBCMA for plausible patient
+simulations were obtained from sampling of continuous distributions fitted to pooled studies
+1001 and 1003 Cohort A IA participant data at baseline. Each VPop was formed by selecting a
+subset of PP whose simulated serum M-protein and/or FLC time courses, including biochemical
+response rate (BRR) based on these biomarkers, best matched corresponding participant
+biomarkers in Part 1 and Part 1.1 (QW) cohorts in the 1001 study and Cohort A IA in 1003 study.
+
+Figure 59: FDA — Virtual clinical trial simulation strategy
+
+Plausible Patients Virtual Patients
+
+Evaluate Treatment Regimens on Plausible Patients
+
+Create Candidate Plausible Patient Simulations (N=5,000)
+Simulated C1071001 cohorts SCO Simulated C1071003 12/32/76 me
+
+akg to 1000 OW regimens GW regimen
+Sample uniform distributions for 2
+Sample initial states from baseline subset of 9 parameters: BCMA &
+data: SBOMA, M-spike, FLC (D3 receptor densities, T cell
+resistance, tumor growth rates Select Virtual Patient Cohorts (N=100) that match M-spike,
+
+ind BRR data stratified by dose and BL sBCMA
+en component chow
+Genco agortin
+
+fed By SBCA
+
+Plausible Patients Selection (N = 3,256)
+Evaluate Final Virtual Population performance against
+
+‘additional data
+Only retain parametrizations that yield model outputs in
+
+Seickgaay Mamba Model outputs compared with sBCMA time course dats not used for
+
+calibration
+
+Source: Figure 2 of the Applicant’s QSP report
+
+For each virtual patient, serum M-protein was selected as the integrated paraprotein for a
+participant if it was above detectable levels at baseline, otherwise FLC was used. A virtual
+patient was marked as a biochemical responder if its corresponding integrated paraprotein had
+a 50% decrease or greater from baseline and lasting over two treatment Cycles. For each VPop
+simulated under a particular regimen, percentage of biochemical responders was estimated
+and used as a metric of efficacy that was compared to a corresponding BRR obtained from
+study 1001 and 1003 Cohort A IA participant data. To explore variability in simulated BRR,
+multiple VPops that fit the relevant 1001/1003 Cohort A IA participant data were generated. In
+addition, to compare potential loss of efficacy due to Q2W switching, progressive disease
+
+Version date: January 2020 (ALL NDA/ BLA reviews)
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5226136

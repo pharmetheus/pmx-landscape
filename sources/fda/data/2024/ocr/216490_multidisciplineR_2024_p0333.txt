@@ -1,0 +1,38 @@
+NDA 216490
+Yorvipath (Palopegteriparatide)
+
+was applied to both healthy volunteers and patients. For patients, the model was able to describe
+the effect of PTH on serum and 24-hour urine calcium, serum phosphate and the intricate
+feedback of the phosphate-FGF23-vitamin D axis (as shown in Figure 56). Therefore, the
+submitted QSP model was able to support the mechanistic exposure response relationship of
+palopegteriparatide in patients observed in Trial TCP201.
+
+In addition to these measured clinical endpoints, the Applicant also applied the QSP model to
+investigate the mechanistic effect of PTH on TMCaGFR (Figure 57). Here, the expected
+physiology and pathophysiology (associated with hypoparathyroidism) are that
+hypoparathyroidism patients with low or no serum endogenous PTH(1-84) concentrations have
+lower TMCaGER. Correspondingly in the QSP model, untreated patients with
+hypoparathyroidism had very low serum endogenous PTH(1-84) concentrations and
+correspondingly low TMCaGER (around 1.9mM, lower left-hand comer of Figure 57).
+Hypoparathyroidism patients receiving palopegteriparatide showed a dose-dependent increase in
+active PTH concentration, and the simulated results indicated that doses as low as 9 meg could
+show improvement in TMCaGFR (Figure 57). Also, as indicated in Figure 57, model simulations
+suggested that the lower doses of 3 or 6 mcg QD were not sufficient to normalize TMCaGFR,
+whereas doses of 9 meg QD and above provided sufficient active PTH exposure to achieve
+TMCaGER near the expected healthy value of 2.1mM.
+
+Moreover, the Applicant also utilized the QSP model to evaluate the impact of one, two, four, or
+seven consecutive days of missed palopegteriparatide dosing (18 mcg QD) from a steady-state
+PTH exposure. Based on the simulated results (Figure 58), the Applicant considered that shorter
+discontinuations (1 to 2 days, possibly up to 4 days) were unlikely to result in marked drops in
+serum calcium. The reviewer noted that palopegteriparatide treatment is proposed to be titrated
+up to mcg QD which is © the doses used to develop and validate the
+QSP modeling for patients. As discussed in the Methods section, no out-of-sample predictive
+checks were performed to evaluate the predictive performance of the patient QSP model,
+therefore, uncertainty of the above simulated results may be a concer, particularly for treatment
+with higher doses aa.
+
+238
+Integrated Review Template, version 3.0 (05/25/2022)
+
+Reference ID: 5165921

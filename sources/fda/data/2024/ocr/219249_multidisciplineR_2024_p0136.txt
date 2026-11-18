@@ -1,0 +1,63 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 219249}
+{Inavolisib}
+
+Percentages are based on N in the column headings.
+
+Only treatment emergent AEs are displayed where the study medication adjustment CRF question is answered
+as "Drug withdrawn". For frequency counts by preferred term, multiple occurrences of the same AE in an
+individual are counted only once.
+
+Inavo = Inavolisib, Pbo = Placebo, Palbo = Palbociclib, Fulv = Fulvestrant
+Git repository: https: //ssh.code.roche.com/studies/clinicalreporting/W041554_CSR.git
+Git hash: 0la8a971cc8a9eee1780816b4125917029aa443e
+06 DEC 2023 19:19 cur
+Output : /ocean/harbour/CDT70123/W041554/csr-primary/prod/output/t_ae_DSC_SAS_29SEP2023_41554.out
+Source: Adapted from t_ae DSC_SAS 29SEP2023_41554; Dataset: ADaM: ADAE
+
+The Applicant's Position:
+Pivotal Study WO41554: The proportion of patients who experienced AEs leading to withdrawal
+
+of any study drug was overall low in both arms (Inavot+Palbo+Fulv: 6.8% vs. Pbo+Palbo+Fulv:
+0.6%), indicating manageability of AEs and good tolerability of inavolisib in combination with
+palbociclib and fulvestrant (Table and Table ).
+
+Supportive Study GO39374: In the overall safety population, AEs leading to withdrawal of any
+study treatment were reported in 7 patients (3.7%) and all AEs were single occurrences
+observed in one patient each. AEs leading to withdrawal of any study drug in Arm B, Arm E, or
+Arm F were infrequent. Overall, 2 patients each in Arm B, Arm E, and Arm F withdrew from
+treatment due to an AE; AEs that led to treatment withdrawals were: cerebrovascular disorder
+and hyperglycemia (one patient each in Arm B), asthenia and diarrhea (one patient each in Arm
+E), panniculitis (one patient in Arm F), esophageal candidiasis and hypocalcemia (both events in
+one patient in Arm F).
+
+The FDA’s Assessment:
+
+More patients on the inavolisib treatment arm in the INAVO120 trial (WO41554) discontinued
+treatment due to an AE compared to the placebo arm. The only adverse event that occurred in
+more than one patient (2 patients) leading to treatment discontinuation on the inavolisib
+treatment arm was hyperglycemia. All other adverse events occurred in one patient.
+
+The most common reason for treatment discontinuation was progression of disease, which
+occurred in a high proportion of patients on the placebo arm (62%) compared to the inavolisib
+treatment arm (42%).
+
+FDA agrees with the Applicant’s assessment of discontinuations for GO39374.
+
+Dose Interruption/Reduction Due to Adverse Effects
+
+Data:
+Table 34: Applicant - Study WO41554 Summary of Adverse Events leading to Dose
+Modifications (Interruption/ Reduction) of Inavolisib
+
+Inavo+Palbo+Fulv PbotPalbo+Fulv
+N= 162 N= 162
+n (%) n (%)
+
+135
+Version date: June 2022 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5460147
+

@@ -1,0 +1,55 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 219713}
+{IBTROZI™, Taletrectinib}
+
+Table 97. Predicted Effects of Taletrectinib on Statin Exposure Following Administration
+of 600 mg Taletrectinib Once Daily in Western Healthy Subjects
+
+ee ar fe ate Cmax ratios Source
+(iM)
+
+Pravastatin | 4.71/17.6 1.01 1.01
+Ki/10 1.06 1.05 PBPK report
+Ki/100 1.42 1.42 ANHE/1/F
+Ki/200 1.69 1.67
+
+Rosuvastatin | 4.71/17.6 4.34 1.05 1.08
+Ki/10 Ki/15 1.66 2.12 PBPK report
+Ki/100 Ki/15 2.20 3.11 ANHE/L/F
+Ki/200 Ki/15 2.61 3.81
+Ki/50 Ki/50 3.35 8.37 Reel
+Ki/100 Ki/50 3.96 10.23 analyses
+
+Simulations conducted by the reviewer were performed using Simcyp version 23.
+Source: Tables 25 and 26 in the PBPK report ANHE/1/F and reviewer’s analyses
+
+Effects of taletrectinib on OATP1B and BCRP substrate rosuvastatin
+
+The PBPK analysis cannot rule out a potential inhibition effect of taletrectinib on BCRP
+substrates for reasons discussed below:
+
+As for the OATP1B inhibition parameters, the in vitro to in vivo extrapolation of BCRP
+inhibition parameter (Ki or IC50) has not been established. Based on the data from BCRP
+inhibitors that have observed interaction data with both OATP1B1 endogenous substrates and
+rosuvastatin, the reviewer’s independent analysis indicated that the estimated in vivo Ki values
+for BCRP, using the Costales’ rosuvastatin model, were approximately 3- to 50-fold lower
+compared to the corresponding lowest ICS0 values of these inhibitors in the Certara DDI and
+FDA Databases (data not shown). Taletrectinib was predicted to increase rosuvastatin AUC and
+Cmax significantly when simulations were carried out with in vitro IC50 values of OATP1B and
+BCRP reduced simultaneously (Table 97). It should also be noted that the lowest IC50 values of
+BCRP inhibitors in the DDI Database were mostly generated from the membrane vesicle system,
+not the Caco-2 monolayer system used for taletrectinib. The BCRP IC50 generated using the
+Caco-2 monolayer system was on average 1 1-fold less potent, ranging from 0.3 to 53-fold less
+potent, compared to the HEK293 membrane vesicle system. Furthermore, taletrectinib had low
+to moderate permeability across the Caco-2 cell monolayer (Report No. 423090-20210624-
+Caco2). Given inhibition occurs at the intracellular domain of BCRP molecules, the actual IC50
+value may be lower than that estimated based on the nominal concentrations in the BCRP
+inhibition study. Taken together, these findings suggest that a significant interaction between
+taletrectinib and rosuvastatin cannot be ruled out.
+
+376
+Version date: March 1, 2024 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5606238

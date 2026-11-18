@@ -1,0 +1,74 @@
+BLA 761367
+
+Andembry / garadacimab
+Table 102. Applicant Parameter Estimates and SE From Final Population PK Model
+Estimate 95% CI
+
+Structural model parameters
+
+CL (L/h) exp(@,) Clearance 0.00664 0.00573, 0.00769
+
+V2 (L) exp(@,) Central compartment volume of 2.37 1.77, 3.17
+distribution
+
+FI 0; Absolute bioavailability 0.387 0.344, 0.431
+
+Q (L/h) exp(@;) _Intercompartmental clearance 0.00685 0.00588, 0.00799
+
+V3 (L) exp(0;) Peripheral compartment volume of 141 1.34, 1.50
+distribution
+
+KA (1/h) exp(0;) First-order absorption rate constant 0.00824 —_ 0.00763, 0.00889
+
+Covariate effect parameters
+
+CLQ~WT 0; Weight effect on CL and Q 1.16 0.963, 1.36
+
+V2V3~ WI Os Weight effect on V2 and V3 0.843 0.657, 1.03
+
+CL~ JPN exp(@) Japanese effect on CL 1.27 1.11, 1.44
+
+CL~CHN — exp(0jo) Chinese effect on CL 1.02 0.861, 1.21
+
+CL~ PAT exp(@,;) Patient effect on CL 1.05 0.952, 1.17
+
+CL~ SCR Oi Serum creatinine effect on CL -0.0343 -0.214, 0.146
+
+CL~ ALT O13 Alanine aminotransferase effect on -0.0773 — -0.148, -0.00670
+cL
+
+CL~ BILI Oy, Bilirubin effect on CL -0.136 -0.203, -0.0692
+
+Estimate 95% CL Shrinkage (%)
+
+Interindividual variance parameters
+
+TIV-CL Qj) 0.175 [CV%=43.8] 0.0980, 0.253 28.7
+
+lv-v2 29) O.717[CV%=102] 0.442, 0.991 25.2
+
+TIV-F1 M3) 0.359 [SD=0.135] 0.209, 0.510 43.3
+
+Interindividual covariance parameters
+
+V2-CL 1) 0.263 [Corr=0.743] 0.0961, 0.430 -
+
+FI-CL Q%j) 0.154 [Corr=0.614] 0.0578, 0.251 -
+
+Fl-V2 % 2) 0.174 [Corr=0.342]  -0.0970, 0.444 -
+
+Residual variance
+
+Proportional Xj.) 0.0395 [CV%=19.9] 0.0383, 0.0407 8.27
+
+Source: Applicant’s Population PK Report, Tables $9 and $10.
+
+Confidence intervals=estimate+1.96 SE; CV% of log-normal omegas=saqrt(exp(estimate) - 1) 100; CV% of sigma=sqrt(estimate) 100.
+Abbreviations: ALT, alanine aminotransferase; AST, aspartate aminotransferase; BILI, bilirubin; Cl, confidence interval; CL,
+clearance; CV, coefficient of variation; corr, correlation coefficient, CV, coefficient of variation, SD, standard deviation; IIV,
+interindividual variation; PK, pharmacokinetics; SCR, serum creatinine; SE, standard error
+
+199
+Integrated Review Template, version 3.0 (05/25/2022)
+
+Reference ID: 5458438

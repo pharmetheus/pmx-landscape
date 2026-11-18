@@ -1,0 +1,66 @@
+NDA Multi-Disciplinary Review and Evaluation
+
+NDA 219876
+Dordaviprone
+CYP3A inducers CYP3A substrates AUCinf ratio Cmax ratio Sources
+Rifampin 600 mg twice weekly 160° Midazolam $D D16 0.25 0.34
+Rifampin 600 mg twice weekly 15d°* = Midazolam SD D15 06 0.77
+
+PBPK simulations
+Rifampin 600 mg once weekly 15d Midazolam SD D15 09 1.08
+
+by reivewer
+
+Rifampin 600 mgSD Midazolam SD D1 1.05 1.22
+Rifampin 600 mg once daily 15d Midazolam $D D15 0.09 0.15
+Rifampin 1200 mg SD nifedipine 10 mgSD 0.358 0.668 PubMed 9226591
+Rifampin 600 mg once daily >10d Midazolam SD 0.08-0.15 0.12021 Multiple
+Rifapentine 600 mg twice weekly 14d°* indinavir 800 mg tid 28d 03 0.45 Product label
+Rifapentine 5 -20 mg/kg once daily Midazolam SD 0.07-0.1 0.11-0.2 Multiple
+Rifabutin 150 mgtwice weekly 15d** ritonavir 100mgqd 0.672+ 0.66+ PubMed 21712242
+Rifabutin 300 mg once daily Midazolam $D 0.316 0.47 PubMed 29569712
+Rifabutin 150 mg twice weekly 160° Midazolam SD D16 0.69 0.74 PBPK simulations
+Rifabutin 150 mgtwice weekly 15d°* — Midazolam SD D15 0.77 0.81 by reivewer
+
+* two consecutive doses; ** 1st dose on the 1st day and 2nd doseon the 4th day of the week
+
++ compared to historical controls
+
+Effects of dordaviprone on CYP2D6 substrates desipramine
+
+Dordaviprone is expected to have no effect on the exposure of the CYP2D6 substrate
+desipramine.
+
+The Applicant assessed the inhibition potential of dordaviprone on CYP2D6 by applying the in
+vitro ICSO value generated using bufuralol as a CYP2D6 substrate (15678-RPT03773). Because
+in vitro substrate-dependent inhibition of CYP2D6 has been reported (PMID21976621), the
+
+predicted drug interactions of dordaviprone with desipramine need to be interpretated with
+caution.
+
+The verification of the desipramine model has been previously evaluated (refer to NDA218197
+PBPK review for further details). It was noted that the in vitro CYP2D6 Kin value of an inhibitor
+needed to be reduced by 2- to 40-fold to reproduce the observed effects of this inhibitor on the
+exposure of CYP2D6 substrates. In the current analysis, reducing the in vitro CYP2D6 Kix of
+dordaviprone by 40-fold, dordaviprone was predicted to have no effect on desipramine PK.
+
+Effects of dordaviprone on the CYP2C8 repaglinide
+
+Dordaviprone 625 mg once weekly was predicted to have no effect on the exposure of the
+CYP2C8 substrate repaglinide.
+
+Effects of dordaviprone on the P-gp substrate dabigatran etexilate
+
+Dordaviprone was predicted to have no effect on the P-gp substrate dabigatran etexilate. The
+potential of dordaviprone to clinically inhibit P-gp is likely low.
+
+Dabigatran etexilate is a P-gp substrate. Dabigatran is a metabolite of dabigatran etexilate and is
+not a P-gp substrate. The effects of P-gp inhibitors on dabigatran etexilate are assessed by
+
+230
+Version date: March 1, 2024 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5638121

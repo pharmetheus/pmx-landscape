@@ -1,0 +1,370 @@
+[
+  {
+    "no": 1,
+    "name": "Zycubo",
+    "ingr": "copper histidinate",
+    "date": "1/12/2026",
+    "label": "openFDA brand-name lookup",
+    "appl": "211241"
+  },
+  {
+    "no": 2,
+    "name": "Adquey",
+    "ingr": "difamilast",
+    "date": "2/12/2026",
+    "label": "openFDA brand-name lookup",
+    "appl": "219474"
+  },
+  {
+    "no": 3,
+    "name": "Bysanti",
+    "ingr": "milsaperidone",
+    "date": "2/20/2026",
+    "label": "openFDA brand-name lookup",
+    "appl": "220358"
+  },
+  {
+    "no": 4,
+    "name": "Loargys",
+    "ingr": "pegzilarginase-nbln",
+    "date": "2/23/2026",
+    "label": "openFDA brand-name lookup",
+    "appl": "761211"
+  },
+  {
+    "no": 5,
+    "name": "Yuviwel",
+    "ingr": "navepegritide",
+    "date": "2/27/2026",
+    "label": "openFDA brand-name lookup",
+    "appl": "219164"
+  },
+  {
+    "no": 6,
+    "name": "Lynavoy",
+    "ingr": "linerixibat",
+    "date": "3/17/2026",
+    "label": "openFDA brand-name lookup",
+    "appl": "220295"
+  },
+  {
+    "no": 7,
+    "name": "Icotyde",
+    "ingr": "icotrokinra",
+    "date": "3/17/2026",
+    "label": "openFDA brand-name lookup",
+    "appl": "220149"
+  },
+  {
+    "no": 8,
+    "name": "Avlayah",
+    "ingr": "tividenofusp alfa-eknm",
+    "date": "3/24/2026",
+    "label": "openFDA brand-name lookup",
+    "appl": "761485"
+  },
+  {
+    "no": 9,
+    "name": "Lifyorli",
+    "ingr": "relacorilant",
+    "date": "3/25/2026",
+    "label": "openFDA brand-name lookup",
+    "appl": "220641"
+  },
+  {
+    "no": 10,
+    "name": "Awiqli",
+    "ingr": "insulin icodec-abae",
+    "date": "3/26/2026",
+    "label": "openFDA brand-name lookup",
+    "appl": "761326"
+  },
+  {
+    "no": 11,
+    "name": "Foundayo",
+    "ingr": "orforglipron",
+    "date": "4/1/2026",
+    "label": "openFDA brand-name lookup",
+    "appl": "220934"
+  },
+  {
+    "no": 12,
+    "name": "Idvynso",
+    "ingr": "doravirine and islatravir",
+    "date": "4/20/2026",
+    "label": "openFDA brand-name lookup",
+    "appl": "216964"
+  },
+  {
+    "no": 13,
+    "name": "Veppanu",
+    "ingr": "vepdegestrant",
+    "date": "5/1/2026",
+    "label": "openFDA brand-name lookup",
+    "appl": "219835"
+  },
+  {
+    "no": 14,
+    "name": "Beqalzi",
+    "ingr": "sonrotoclax",
+    "date": "5/13/2026",
+    "label": "openFDA brand-name lookup",
+    "appl": "220711"
+  },
+  {
+    "no": 15,
+    "name": "Baxfendy",
+    "ingr": "baxdrostat",
+    "date": "5/15/2026",
+    "label": "openFDA brand-name lookup",
+    "appl": "219878"
+  },
+  {
+    "no": 16,
+    "name": "Hepcludex",
+    "ingr": "bulevirtide-gmod",
+    "date": "5/22/2026",
+    "label": "openFDA brand-name lookup",
+    "appl": "761468"
+  },
+  {
+    "no": 17,
+    "name": "Decnupaz",
+    "ingr": "pivekimab sunirine-pvzy",
+    "date": "5/27/2026",
+    "label": "openFDA brand-name lookup",
+    "appl": "761460"
+  },
+  {
+    "no": 18,
+    "name": "Zaynich",
+    "ingr": "cefepime and zidebactam",
+    "date": "5/29/2026",
+    "label": "openFDA brand-name lookup",
+    "appl": "220787"
+  },
+  {
+    "no": 19,
+    "name": "Xocova",
+    "ingr": "ensitrelvir",
+    "date": "5/29/2026",
+    "label": "openFDA brand-name lookup",
+    "appl": "220442"
+  },
+  {
+    "no": 20,
+    "name": "Cypsedo",
+    "ingr": "cipepofol",
+    "date": "5/29/2026",
+    "label": "openFDA brand-name lookup",
+    "appl": "220482"
+  },
+  {
+    "no": 21,
+    "name": "Ambelvist",
+    "ingr": "gadoquatrane",
+    "date": "6/12/2026",
+    "label": "openFDA brand-name lookup",
+    "appl": "219627"
+  },
+  {
+    "no": 22,
+    "name": "Utebzi",
+    "ingr": "tebipenem pivoxil",
+    "date": "6/17/2026",
+    "label": "openFDA brand-name lookup",
+    "appl": "215960"
+  },
+  {
+    "no": 23,
+    "name": "Lumvoa",
+    "ingr": "veligrotug-vvze",
+    "date": "6/26/2026",
+    "label": "openFDA brand-name lookup",
+    "appl": "761530"
+  },
+  {
+    "no": 24,
+    "name": "Trutakna",
+    "ingr": "atacicept-vymj",
+    "date": "7/7/2026",
+    "label": "openFDA brand-name lookup",
+    "appl": "761486"
+  },
+  {
+    "no": 25,
+    "name": "Revtorpyk",
+    "ingr": "gedatolisib",
+    "date": "7/14/2026",
+    "label": "openFDA brand-name lookup",
+    "appl": "219908"
+  },
+  {
+    "no": 26,
+    "name": "Lipfendra",
+    "ingr": "enlicitide decanoate",
+    "date": "7/15/2026",
+    "label": "openFDA brand-name lookup",
+    "appl": "220848"
+  },
+  {
+    "no": 27,
+    "name": "Jideytro",
+    "ingr": "zidesamtinib",
+    "date": "7/22/2026",
+    "label": "openFDA brand-name lookup",
+    "appl": "220185"
+  },
+  {
+    "no": 28,
+    "name": "Lytenava",
+    "ingr": "bevacizumab-vikg",
+    "date": "7/24/2026",
+    "label": "openFDA brand-name lookup",
+    "appl": "761320"
+  },
+  {
+    "no": 29,
+    "name": "Simtriyo",
+    "ingr": "centanafadine",
+    "date": "7/24/2026",
+    "label": "openFDA brand-name lookup",
+    "appl": "218145"
+  },
+  {
+    "no": 30,
+    "name": "Orzeyful",
+    "ingr": "oveporexton",
+    "date": "8/5/2026",
+    "label": "openFDA brand-name lookup",
+    "appl": "220860"
+  },
+  {
+    "no": 31,
+    "name": "Tauklarify",
+    "ingr": "florquinitau F 18",
+    "date": "8/13/2026",
+    "label": "openFDA brand-name lookup",
+    "appl": "220496"
+  },
+  {
+    "no": 32,
+    "name": "Zenbexus",
+    "ingr": "iberdomide",
+    "date": "8/13/2026",
+    "label": "openFDA brand-name lookup",
+    "appl": "221075"
+  },
+  {
+    "no": 33,
+    "name": "Pasatru",
+    "ingr": "garetosmab-grts",
+    "date": "8/19/2026",
+    "label": "openFDA brand-name lookup",
+    "appl": "761508"
+  },
+  {
+    "no": 34,
+    "name": "Rasonque",
+    "ingr": "daraxonrasib",
+    "date": "8/26/2026",
+    "label": "openFDA brand-name lookup",
+    "appl": "220910"
+  },
+  {
+    "no": 35,
+    "name": "Lisraya",
+    "ingr": "brepocitinib",
+    "date": "8/27/2026",
+    "label": "openFDA brand-name lookup",
+    "appl": "220106"
+  },
+  {
+    "no": 36,
+    "name": "Mimrylo",
+    "ingr": "rusfertide",
+    "date": "8/28/2026",
+    "label": "openFDA brand-name lookup",
+    "appl": "220605"
+  },
+  {
+    "no": 37,
+    "name": "Zanvastro",
+    "ingr": "zilganersen",
+    "date": "9/3/2026",
+    "label": "openFDA brand-name lookup",
+    "appl": "220210"
+  },
+  {
+    "no": 38,
+    "name": "Etcamah",
+    "ingr": "camizestrant",
+    "date": "9/4/2026",
+    "label": "openFDA brand-name lookup",
+    "appl": "220359"
+  },
+  {
+    "no": 39,
+    "name": "Isembyld",
+    "ingr": "apitegromab-mstn",
+    "date": "9/11/2026",
+    "label": "openFDA brand-name lookup",
+    "appl": "761463"
+  },
+  {
+    "no": 40,
+    "name": "Pixclara",
+    "ingr": "floretyrosine F 18",
+    "date": "9/11/2026",
+    "label": "openFDA brand-name lookup",
+    "appl": "218592"
+  },
+  {
+    "no": 41,
+    "name": "Onswik",
+    "ingr": "insulin efsitora alfa-gobe",
+    "date": "9/23/2026",
+    "label": "openFDA brand-name lookup",
+    "appl": "761408"
+  },
+  {
+    "no": 42,
+    "name": "Lyrfigtu",
+    "ingr": "lirafugratinib",
+    "date": "9/23/2026",
+    "label": "openFDA brand-name lookup",
+    "appl": "220425"
+  },
+  {
+    "no": 43,
+    "name": "Juvmo",
+    "ingr": "tavapadon",
+    "date": "9/25/2026",
+    "label": "openFDA brand-name lookup",
+    "appl": "220415"
+  },
+  {
+    "no": 44,
+    "name": "Atebrioz",
+    "ingr": "zilurgisertib",
+    "date": "9/25/2026",
+    "label": "openFDA brand-name lookup",
+    "appl": "221198"
+  },
+  {
+    "no": 45,
+    "name": "Emcitate",
+    "ingr": "tiratricol",
+    "date": "9/28/2026",
+    "label": "openFDA brand-name lookup",
+    "appl": "220963"
+  },
+  {
+    "no": 46,
+    "name": "Hovilpri",
+    "ingr": "pritelivir",
+    "date": "10/9/2026",
+    "label": null,
+    "appl": null
+  }
+]

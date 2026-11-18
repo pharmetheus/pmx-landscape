@@ -1,0 +1,57 @@
+NDA/BLA Multi-disciplinary Review and Evaluation NDA 221075
+Iberdomide (ZENBEXUS)
+
+Table 103: FDA — Simulated and observed PK parameters following multiple oral doses of
+iberdomide in patients with cancer
+
+Dose (mg) N PK parameter Simulated - Observed Sim/Obs
+GM [range] GM [range]
+
+03 1 AUClast (ng*h/mL) 9.52 [4.48 - 18.7] 8.43 [NA] 1.13
+Cmax (ng/mL) 1.47 [0.72 - 2.80] 1.52 [NA] 0.97
+0.45 > AUCtau (ng*h/mL) 31.1 [13.0 - 69.4] 22.6 [22.1 - 23.1] 1.38
+: . Cmax (ng/mL) 2.20 [1.08 - 4.19] 1.79 [1.61 - 2.00] 1.23
+06 1 AUCtau (ng*h/mL) 41.5 [17.4 - 92.5] 111 [NA] 0.37
+Cmax (ng/mL) 2.94 [1.44 - 5.59] 10.7 [NA] 0.27
+07s 5 AUCtau (ng*h/mL) 51.9 [21.7 - 116] 66.0 [61.1 - 71.4] 0.79
+~ Cmax (ng/mL) 3.67 [1.80 - 6.99] 5.59 [4.60 - 6.80] 0.66
+
+Observed data from Study CC-220-MM-001. GM, geometric mean
+Source: Table 9.1-1 in the PBPK report (pbpk-ddi)
+
+19.5.6.6. Can PBPK analyses predict the effects of CYP3A4 precipitants on the
+PK of iberdomide?
+
+The iberdomide PBPK model can be used to predict the effects of weak and moderate CYP3A4
+inhibitors on iberdomide exposure. The moderate CYP3A4 inhibitors diltiazem and fluconazole
+were predicted to increase iberdomide AUC up to 1.8-fold, and the weak CYP3A4 inhibitor
+cimetidine was predicted to have a minimal effect on iberdomide exposure (Table 104). The
+iberdomide PBPK model can be also used to predict the effects of a moderate CYP3A4 inducer
+efavirenz on iberdomide exposure, with some uncertainties, which are further discussed below.
+
+Table 104: FDA — Predicted effects of CYP3A4 inhibitors and inducers on iberdomide
+exposure in healthy subjects and patients with cancer following co-administration with
+multiple doses of 1 mg iberdomide
+
+Day1 Day 21
+Categories Perpetrators Populations AUC Cmax AUC Cmax
+Ratio Ratio Ratio Ratio
+a 2.36 1.18
+Itraconazole
+SOAS Retin 24 133
+inhibitor 200 mg QD
+1.02* 1.13*
+Fluconazole Healthy subjects 1.43 1.19 1.70 1.38
+Moderate CYP3A | 200mgQD | Cancer patients 1.39 118 173 144
+inhibitor Diltiazem Healthy subjects 1.40 1.17 1.64 135
+60 mg TID Cancer patients 1.39 1.18 1.75 1.45
+Cimetidine Healthy subjects 1.11 1.09 1.14 111
+
+315
+Version date: February 10, 2025 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5851050
+

@@ -1,0 +1,111 @@
+family,group,variants,note
+NONMEM,estimation,"NONMEM; misprints NONMEMS, NONMENE; lower case nonmem; the expanded name ""nonlinear mixed effects modeling"" followed by a version",
+Monolix,estimation,Monolix; MonolixSuite; versioned names such as Monolix2024R1 or MonolixR2019b; MonolixTM,MonolixSuite and the versioned names were added in September 2026 after a sample of the 2024 literature showed them; the forms MonolixR2019b and MonolixTM were added in October 2026 from the third tool discovery round
+Phoenix NLME,estimation,"Phoenix NLME, Phoenix(R) NLME; Phoenix followed by NLME within six words (""Phoenix software version 8.3.4 for NLME""); a bare Phoenix in the same sentence as NONMEM, Monolix, nlmixr, Pumas or Pmetrics","Phoenix WinNonlin and a bare ""Phoenix"" are separate families. The six-word window was added in September 2026 from the 2024 literature. ""NLME ... in Phoenix WinNonlin"", with NLME before the product name, is not counted: it cannot be told from WinNonlin NCA by pattern. Widened on 2026-10-20 to the forms the tool use readers (version 5) listed as unlisted tools"
+nlmixr,estimation,nlmixr; nlmixr2; the estimation package nlmixr2est,nlmixr2est added in October 2026 from the third tool discovery round
+Pumas,estimation,Pumas; PumasAI,"Case-sensitive, so the animal (puma, pumas) is less likely to match"
+Stan/Torsten,estimation,Stan; STAN; rstan; cstan; cmdstan; Torsten,"Torsten is also a first name, and ""Stan"" can be OCR noise: read the hits. Widened on 2026-10-20 to the forms the tool use readers (version 5) listed as unlisted tools"
+saemix,estimation,"saemix, in any case",Widened on 2026-10-20 to the forms the tool use readers (version 5) listed as unlisted tools
+S-ADAPT,estimation,"S-ADAPT, SADAPT; ADAPT 5, ADAPT II, ADAPT V; ADAPT in capitals, not followed by Phase, trial, study, Pharma or a hyphenated word other than TRAN or TRANS",Widened on 2026-10-20 to the forms the tool use readers (version 5) listed as unlisted tools
+Pmetrics,estimation,Pmetrics,"R package from the USC Laboratory of Applied Pharmacokinetics that updates MM-USCPACK (Neely et al. 2012, doi:10.1097/FTD.0b013e31825c4ba6). Kept apart from USC*PACK so the switch shows over time"
+USC*PACK,estimation,USC*PACK; BigWinPops; MM-USCPACK; NPEM; NPEM2,"The USC Laboratory of Applied Pharmacokinetics collection: BigWinPops for nonparametric (NPAG) population modelling and MM-USCPACK for multiple-model Bayesian dosing (PAGE 2006 software demonstration). Added from the PAGE pilot, September 2026. NPAG is an algorithm, used by both USC*PACK and Pmetrics, and is not searched for. NPEM and NPEM2, the collection's nonparametric EM programs, were added in October 2026 from the tool discovery round (Niclas: under USC*PACK, not a family of their own)"
+NLMIXED,estimation,"NLMIXED (SAS PROC NLMIXED), in any case",Widened on 2026-10-20 to the forms the tool use readers (version 5) listed as unlisted tools
+BUGS,estimation,WinBUGS; OpenBUGS; MultiBUGS; PKBugs; JAGS; BUGS in capitals,"JAGS is a separate program that uses the BUGS language; counted with BUGS, as in the FDA search. Added to the shared list in September 2026. Widened on 2026-10-20 to the forms the tool use readers (version 5) listed as unlisted tools"
+OpenPMX,estimation,OpenPMX,"Added in September 2026 from the PAGE tool list. Group taken from that list, not verified"
+PhysPK,estimation,PhysPK,"Added in September 2026 from PAGE's parameter estimation software page, which is also the source of the group; not verified"
+PoPy,estimation,PoPy,Added in September 2026 from PAGE's parameter estimation software page. Case-sensitive
+SAAM II,estimation,SAAM II; SAAM2; SAAM,Added in September 2026 from PAGE's parameter estimation software page. The bare acronym SAAM may have other meanings: read the hits
+MATLAB NLME,estimation,nlmefit; nlmefitsa; sbiofitmixed,The NLME estimation functions of MATLAB's Statistics Toolbox and SimBiology. Added in September 2026 from the 2024 literature. MATLAB and SimBiology named without these functions stay in the auxiliary SimBiology/MATLAB family
+nlme,estimation,"nlme (the R package, lower case; NLME in capitals is the method, except when followed by function, library, package or toolbox, after library, or as NLME in S-PLUS or R)",Added in October 2026 from the first tool discovery round (taxonomy/discovery). Widened on 2026-10-20 to the forms the tool use readers (version 5) listed as unlisted tools
+P-PHARM,estimation,P-PHARM; P-Pharm,Added in October 2026 from the first tool discovery round (taxonomy/discovery)
+WinNonMix,estimation,WinNonMix,Added in October 2026 from the first tool discovery round (taxonomy/discovery)
+Kinetica,estimation,Kinetica,Added in October 2026 from the first tool discovery round (taxonomy/discovery)
+IMPRES-M,estimation,IMPRES-M,Added in October 2026 from the first tool discovery round (taxonomy/discovery)
+PDx-MC-PEM,estimation,PDx-MC-PEM,Added in October 2026 from the first tool discovery round (taxonomy/discovery)
+PsN,auxiliary,PsN; Perl speaks NONMEM,
+Pirana,auxiliary,Pirana,
+Xpose,auxiliary,Xpose,
+mrgsolve,auxiliary,mrgsolve,
+RxODE,auxiliary,RxODE; rxode2,
+SimBiology/MATLAB,auxiliary,SimBiology; MATLAB,
+Berkeley Madonna,auxiliary,Berkeley Madonna,
+InsightRX,auxiliary,InsightRX,"Model-informed precision dosing platform, not an estimation tool. Added from the PAGE pilot, September 2026"
+MonolixSuite tools,auxiliary,"Simulx (misprint Simulix) and RsSimulx; Sycomore; Mlxplore; the R packages mlxR, Rsmlx and lixoftConnectors",Added in October 2026 from the first tool discovery round (taxonomy/discovery)
+PopED,auxiliary,PopED; POPED,Added in October 2026 from the first tool discovery round (taxonomy/discovery)
+PFIM,auxiliary,PFIM,Added in October 2026 from the first tool discovery round (taxonomy/discovery)
+KIWI,auxiliary,KIWI (capitals),Added in October 2026 from the first tool discovery round (taxonomy/discovery)
+npde,auxiliary,"npde, only named as a package (followed by package, library, a version or ::, or after package/library); npde alone is the metric",Added in October 2026 from the first tool discovery round (taxonomy/discovery)
+Pharmpy,auxiliary,Pharmpy; pharmr,Added in October 2026 from the first tool discovery round (taxonomy/discovery)
+PDx-Pop,auxiliary,PDx-Pop,Added in October 2026 from the first tool discovery round (taxonomy/discovery)
+mapbayr,auxiliary,mapbayr,Added in October 2026 from the first tool discovery round (taxonomy/discovery)
+deSolve,auxiliary,deSolve,Added in October 2026 from the first tool discovery round (taxonomy/discovery)
+Wings for NONMEM,auxiliary,Wings for NONMEM; WFN,Added in October 2026 from the first tool discovery round (taxonomy/discovery)
+ncappc,auxiliary,ncappc,Added in October 2026 from the first tool discovery round (taxonomy/discovery)
+Piraid,auxiliary,Piraid,Added in October 2026 from the first tool discovery round (taxonomy/discovery)
+assemblerr,auxiliary,assemblerr,Added in October 2026 from the first tool discovery round (taxonomy/discovery)
+PKPDsim,auxiliary,PKPDsim,Added in October 2026 from the first tool discovery round (taxonomy/discovery)
+PopDes,auxiliary,PopDes,Added in October 2026 from the first tool discovery round (taxonomy/discovery)
+Tucuxi,auxiliary,Tucuxi,Added in October 2026 from the first tool discovery round (taxonomy/discovery)
+BestDose,auxiliary,BestDose,Added in October 2026 from the first tool discovery round (taxonomy/discovery)
+InSilicoTrials,auxiliary,InSilicoTrials (one word),Added in October 2026 from the first tool discovery round (taxonomy/discovery)
+Pharsight Trial Simulator,auxiliary,Pharsight Trial Simulator,Added in October 2026 from the first tool discovery round (taxonomy/discovery)
+Simulo,auxiliary,Simulo,Added in October 2026 from the first tool discovery round (taxonomy/discovery)
+TDMx,auxiliary,TDMx,Added in October 2026 from the first tool discovery round (taxonomy/discovery)
+vpc,auxiliary,"the R package vpc, only named as a package (vpc in lower case is also the method)",Added in October 2026 from the first tool discovery round (taxonomy/discovery)
+WinPOPT,auxiliary,WinPOPT,Added in October 2026 from the first tool discovery round (taxonomy/discovery)
+Campsis,auxiliary,Campsis,Added in October 2026 from the first tool discovery round (taxonomy/discovery)
+GenSSI,auxiliary,GenSSI,Added in October 2026 from the first tool discovery round (taxonomy/discovery)
+Metworx,auxiliary,Metworx,Added in October 2026 from the first tool discovery round (taxonomy/discovery)
+posologyr,auxiliary,posologyr,Added in October 2026 from the first tool discovery round (taxonomy/discovery)
+SimuRg,auxiliary,SimuRg,Added in October 2026 from the first tool discovery round (taxonomy/discovery)
+tidyvpc,auxiliary,tidyvpc,Added in October 2026 from the first tool discovery round (taxonomy/discovery)
+WAPPS-Hemo,auxiliary,WAPPS-Hemo,Added in October 2026 from the first tool discovery round (taxonomy/discovery)
+coveffectsplot,auxiliary,coveffectsplot,Added in October 2026 from the first tool discovery round (taxonomy/discovery)
+Edsim++,auxiliary,Edsim++,Added in October 2026 from the first tool discovery round (taxonomy/discovery)
+FTPK,auxiliary,FTPK,Added in October 2026 from the first tool discovery round (taxonomy/discovery)
+IQRtools,auxiliary,IQRtools,Added in October 2026 from the first tool discovery round (taxonomy/discovery)
+MBAOD,auxiliary,"MBAOD, only named as a package; MBAOD alone is the method",Added in October 2026 from the first tool discovery round (taxonomy/discovery)
+nonmem2R,auxiliary,nonmem2R,Added in October 2026 from the first tool discovery round (taxonomy/discovery)
+PharmML,auxiliary,PharmML,Added in October 2026 from the first tool discovery round (taxonomy/discovery)
+POPT,auxiliary,POPT,Added in October 2026 from the first tool discovery round (taxonomy/discovery)
+SBPOP,auxiliary,SBPOP,Added in October 2026 from the first tool discovery round (taxonomy/discovery)
+TCIWorks,auxiliary,TCIWorks,Added in October 2026 from the first tool discovery round (taxonomy/discovery)
+Finch Studio,auxiliary,Finch Studio,Added in October 2026 from the first tool discovery round (taxonomy/discovery)
+linpk,auxiliary,linpk,Added in October 2026 from the first tool discovery round (taxonomy/discovery)
+pyDarwin,auxiliary,pyDarwin,Added in October 2026 from the first tool discovery round (taxonomy/discovery)
+Improve,auxiliary,"Improve, followed by software, platform or environment",Added in October 2026 from the first tool discovery round (taxonomy/discovery)
+IQReport,auxiliary,IQReport,Added in October 2026 from the first tool discovery round (taxonomy/discovery)
+NMdata,auxiliary,NMdata,Added in October 2026 from the first tool discovery round (taxonomy/discovery)
+nonmem2rx,auxiliary,nonmem2rx,Added in October 2026 from the first tool discovery round (taxonomy/discovery)
+PKconverter,auxiliary,PKconverter,Added in October 2026 from the first tool discovery round (taxonomy/discovery)
+pmxTools,auxiliary,pmxTools,Added in October 2026 from the first tool discovery round (taxonomy/discovery)
+xgxr,auxiliary,xgxr,Added in October 2026 from the first tool discovery round (taxonomy/discovery)
+MwPharm,auxiliary,MwPharm; MwPharm++; MW\Pharm; MW/Pharm; MWPharm,Bayesian dosing and TDM software (Mediware). Added in October 2026 from the second tool discovery round (taxonomy/discovery)
+fit4NM,auxiliary,fit4NM (not the fit4NM.org pages of other programs),"R-based tool for NONMEM output, bootstrap and validation. Added in October 2026 from the second tool discovery round (taxonomy/discovery)"
+DAISY,auxiliary,DAISY (capitals),Structural identifiability software (Differential Algebra for Identifiability of SYstems). Added in October 2026 from the second tool discovery round (taxonomy/discovery)
+VCM-TDM,auxiliary,VCM-TDM,Vancomycin TDM software with Bayesian feedback. Added in October 2026 from the second tool discovery round (taxonomy/discovery)
+caffsim,auxiliary,caffsim,"R package simulating caffeine PK. Added in October 2026 from the second tool discovery round (taxonomy/discovery), on the CRAN Task View Pharmacokinetics"
+Simcyp,pbpk,Simcyp; SimCYP; SIMCYP,"Case-insensitive in the shared patterns; the FDA set was case-sensitive and missed 14 mentions, all in drugs that record Simcyp"
+GastroPlus,pbpk,GastroPlus,
+PK-Sim,pbpk,PK-Sim; PKSim; MoBi; OSP Suite; OSPSuite; ospsuite; Open Systems Pharmacology,"The Open Systems Pharmacology Suite: PK-Sim and MoBi, and the suite named without a product. MoBi and the suite names were added in October 2026 from the tool discovery round (Niclas: one family with PK-Sim); the one-word forms (OSPSuite, the R package ospsuite) on 2026-10-20"
+DBSolve,pbpk,DBSolve; DBSolve Optimum,Added in October 2026 from the first tool discovery round (taxonomy/discovery)
+Jinko,pbpk,Jinko,Added in October 2026 from the first tool discovery round (taxonomy/discovery)
+ADMET Predictor,pbpk,ADMET Predictor,Added in October 2026 from the first tool discovery round (taxonomy/discovery)
+QSP Designer,pbpk,QSP Designer,Added in October 2026 from the first tool discovery round (taxonomy/discovery)
+Cardiac Safety Simulator,pbpk,Cardiac Safety Simulator,Added in October 2026 from the first tool discovery round (taxonomy/discovery)
+esqlabsR,pbpk,esqlabsR,Added in October 2026 from the first tool discovery round (taxonomy/discovery)
+Phoenix WinNonlin,nca,WinNonlin; Phoenix WNL,
+PKanalix,nca,PKanalix,
+Phoenix (unspecified),nca,"Phoenix, not followed by NLME, WinNonlin, WNL, AZ or Arizona, and not in the same sentence as NONMEM, Monolix, nlmixr, Pumas or Pmetrics (then Phoenix NLME)",Kept apart because the product cannot be told from the text. Widened on 2026-10-20 to the forms the tool use readers (version 5) listed as unlisted tools
+PKNCA,nca,PKNCA,Added in October 2026 from the first tool discovery round (taxonomy/discovery)
+NonCompart,nca,NonCompart,Added in October 2026 from the first tool discovery round (taxonomy/discovery)
+IQnca,nca,IQnca,Added in October 2026 from the first tool discovery round (taxonomy/discovery)
+pkr,nca,pkr,Added in October 2026 from the first tool discovery round (taxonomy/discovery)
+ncar,nca,ncar,Added in October 2026 from the first tool discovery round (taxonomy/discovery)
+openNCA,nca,openNCA,Non-compartmental analysis system. Added in October 2026 from the second tool discovery round (taxonomy/discovery)
+SAS,other,SAS,General-purpose software; not counted as popPK software
+R (software),other,"R with a version, or ""R software"", ""R package""",General-purpose software; not counted as popPK software
+FME,auxiliary,"FME (the R package, named with package or in a list of R packages)",Flexible modelling environment for sensitivity and identifiability analysis of ODE models. Added in October 2026 from the third tool discovery round (taxonomy/discovery)
+MicLab,auxiliary,MicLab,Monte Carlo simulation of PK/PD target attainment (Medimatics). Added in October 2026 from the third tool discovery round (taxonomy/discovery)
+ubiquity,auxiliary,"ubiquity (the R package, named with package or in a list of R simulation packages)",R workflow for PK/PD simulation and analysis. Added in October 2026 from the third tool discovery round (taxonomy/discovery)
+PKSolver,nca,PKSolver; PK Solver,Excel add-in for non-compartmental analysis. Added in October 2026 from the third tool discovery round (taxonomy/discovery)

@@ -1,0 +1,7 @@
+"source","item_id","label","reader","earlier"
+"Europe PMC","MED:33921274","Monolix","rules.csv:version","not used"
+"Europe PMC","MED:38519816","Monolix","rules.csv:version","not used"
+"Europe PMC","MED:39352409","NONMEM","rules.csv:version","not used"
+"Europe PMC","MED:41471032","NONMEM","rules.csv:version","not used"
+"Europe PMC","PMC:PMC10678638","NONMEM","rules.csv:verb","not used"
+"PAGE","1661","NONMEM","rules.csv:verb","comparator"

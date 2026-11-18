@@ -1,0 +1,5658 @@
+CENTER FOR DRUG EVALUATION AND
+RESEARCH
+APPLICATION NUMBER:
+
+761184Orig1s000
+MULTI-DISCIPLINE REVIEW
+Summary Review
+Office Director
+Cross Discipline Team Leader
+Review
+Clinical Review
+Non-Clinical Review
+Statistical Review
+Clinical Pharmacology Review
+
+BLA 761184
+Ngenla (somatrogon-ghla)
+
+NDA/BLA Multi-Disciplinary Review and Evaluation
+
+Application Type
+Application Number(s)
+Priority or Standard
+Submit Date(s)
+Received Date(s)
+PDUFA Goal Date
+Division/Office
+
+Review Completion Date
+Established/Proper Name
+(Proposed) Trade Name
+Pharmacologic Class
+Code name
+Applicant
+Dosage form
+Applicant proposed Dosing
+Regimen
+Applicant Proposed
+Indication(s)/Population(s)
+Applicant Proposed
+SNOMED CT Indication
+Disease Term for each
+Proposed Indication
+Recommendation on
+Regulatory Action
+Recommended
+Indication(s)/Population(s)
+(if applicable)
+Recommended SNOMED
+CT Indication Disease
+Term for each Indication
+(if applicable)
+Recommended Dosing
+Regimen
+
+BLA
+761184
+Standard
+November 22, 2022
+November 22, 2022
+May 22, 2023
+Division of General Endocrinology/Office of Cardiology,
+Hematology, Endocrinology, and Nephrology
+April 24, 2023
+
+Somatrogon
+Ngenla
+Human growth hormone analog
+MOD-4023
+Pfizer Ireland Pharmaceuticals
+20 mg/mL and 50 mg/mL each as 1.2 mL single patient use
+prefilled pen
+Starting dose of 0.66 mg/kg body weight per week;
+individualize dosage for each patient based on the growth
+response
+treatment of pediatric patients with growth failure due to
+inadequate secretion of endogenous growth hormone
+Pituitary dwarfism
+
+Approval
+treatment of pediatric patients with growth failure due to
+inadequate secretion of endogenous growth hormone
+Pituitary dwarfism
+
+Starting dose of 0.66 mg/kg body weight per week;
+individualize dosage for each patient based on the growth
+response
+
+Version date: October 12, 2018
+Reference ID: 5197623
+
+1
+
+BLA 761184
+Ngenla (somatrogon-ghla)
+
+Table of Contents
+Table of Tables .............................................................................................................................. 4
+Table of Figures ............................................................................................................................. 5
+Reviewers of Multi-Disciplinary Review and Evaluation................................................................ 6
+Glossary ........................................................................................................................................ 7
+1
+
+Executive Summary................................................................................................................ 8
+Product Introduction................................................................................................... 8
+Conclusions on the Substantial Evidence of Effectiveness .......................................... 8
+Benefit-Risk Assessment ........................................................................................... 11
+Patient Experience Data ............................................................................................ 17
+
+2
+
+Therapeutic Context ............................................................................................................ 18
+Analysis of Condition................................................................................................. 18
+Analysis of Current Treatment Options ..................................................................... 18
+
+3
+
+Regulatory Background ........................................................................................................ 19
+U.S. Regulatory Actions and Marketing History ........................................................ 19
+Summary of Presubmission/Submission Regulatory Activity .................................... 19
+
+4
+
+Significant Issues From Other Review Disciplines Pertinent to Clinical Conclusions on
+Efficacy and Safety ............................................................................................................... 21
+Office of Scientific Investigations (OSI) ..................................................................... 21
+Product Quality ......................................................................................................... 21
+Clinical Microbiology ................................................................................................. 22
+Devices and Companion Diagnostic Issues ................................................................ 22
+
+5
+
+Nonclinical Pharmacology/Toxicology ................................................................................. 23
+Executive Summary ................................................................................................... 23
+
+6
+
+Clinical Pharmacology .......................................................................................................... 23
+Executive Summary ................................................................................................... 23
+Summary of Clinical Pharmacology Assessment ....................................................... 24
+Impact of ADA on PK ................................................................................................................. 24
+Impact of ADA on PD ................................................................................................................. 25
+Bioanalytical Methods for Determining Serum Somatrogon Concentrations.. 31
+Comprehensive Clinical Pharmacology Review ......................................................... 31
+General Pharmacology and Pharmacokinetic Characteristics ................................ 31
+
+7
+
+Sources of Clinical Data and Review Strategy ...................................................................... 31
+Table of Clinical Studies ............................................................................................ 31
+Review Strategy ........................................................................................................ 36
+
+Version date: October 12, 2018
+Reference ID: 5197623
+
+2
+
+BLA 761184
+Ngenla (somatrogon-ghla)
+8
+
+9
+
+Statistical and Clinical Evaluation ......................................................................................... 37
+Review of Relevant Individual Trials Used to Support Efficacy .................................. 37
+Assessment of Efficacy and Immunogenicity Across Trials ..................................... 39
+8.1.1.1. Patient Disposition ............................................................................................................ 39
+8.1.1.2. Immunogenicity Results ................................................................................................. 41
+8.1.1.3. Impact of Immunogenicity on Efficacy ..................................................................... 48
+Review of Safety........................................................................................................ 59
+Safety Review Approach .......................................................................................................... 59
+Review of the Safety Database .............................................................................................. 60
+Safety Results ............................................................................................................................... 61
+8.2.3.1. Deaths ..................................................................................................................................... 61
+8.2.3.2. Serious Adverse Events................................................................................................... 61
+8.2.3.3. Dropouts and/or Discontinuations Due to Adverse Effects............................ 63
+8.2.3.4. Treatment Emergent Adverse Events and Adverse Reactions ...................... 65
+8.2.3.5. Laboratory Findings ......................................................................................................... 66
+8.2.3.6. Vital Signs .............................................................................................................................. 66
+8.2.3.7. Electrocardiograms (ECGs) ........................................................................................... 66
+8.2.3.8. Immunogenicity ................................................................................................................. 66
+Analysis of Submission-Specific Safety Issues ............................................................... 66
+8.2.4.1. Immunogenicity and Safety........................................................................................... 66
+8.2.4.2. ADA-related Adverse Reactions .................................................................................. 67
+Clinical Outcome Assessment (COA) Analyses Informing Safety/Tolerability 72
+Safety in the Postmarket Setting .......................................................................................... 72
+Conclusions and Recommendations ......................................................................... 73
+Advisory Committee Meeting and Other External Consultations ........................................ 73
+
+10 Pediatrics ............................................................................................................................. 74
+11 Labeling Recommendations ................................................................................................. 74
+Prescription Drug Labeling ........................................................................................ 74
+12 Risk Evaluation and Mitigation Strategies (REMS) ............................................................... 77
+13 Postmarketing Requirements and Commitment ................................................................. 77
+14 Office Director (or designated signatory authority) Comments ........................................... 78
+15 Appendices .......................................................................................................................... 79
+References ................................................................................................................ 79
+Financial Disclosure ................................................................................................... 81
+Additional Clinical Outcome Assessment Analyses ................................................... 82
+
+Version date: October 12, 2018
+Reference ID: 5197623
+
+3
+
+BLA 761184
+Ngenla (somatrogon-ghla)
+
+Table of Tables
+Table 1. Mean and 95% CI of Somatrogon Concertation (ng/mL), Study CP-4-004 (From Month 6
+PEN Period Year 2* to the Data Cut-off Date of 31 Mar 2022).................................................... 24
+Table 2. Mean and 95% CI of Somatrogon Concentration (ng/mL), Study CP-4-006 (From Month
+6 PEN Period Year 2* to the Data Cut-off Date of 31 Mar 2022) ................................................. 25
+Table 3. Peak IGF-1 SDS in Study CP-4-004 by ADA Status (With Date Cut-off Date of March 31,
+2022) ........................................................................................................................................... 27
+Table 4. Summary of IGF-1 SDS by ADA Status, Study CP-4-006, Main Period (With Data Cut-Off
+Date of March 31, 2022) ............................................................................................................. 29
+Table 5. Summary of IGF-1 SDS by ADA Status, Study CP-4-006, OLE Period (With Data Cut-Off
+Date of March 31, 2022) ............................................................................................................. 30
+Table 6. Clinical Trials Relevant to This BLA-Resubmission ......................................................... 32
+Table 7. Subjects Disposition, Study CP-4-006, OLE .................................................................... 40
+Table 8. Disposition, Study CP-4-004, OLE................................................................................... 40
+Table 9. Incidence of ADA by Year in Study CP-4-006 ................................................................. 41
+Table 10. Summary of ADA Status During Study CP-4-006 .......................................................... 42
+Table 11. Summary of ADA Titer, Study CP-4-006 ....................................................................... 43
+Table 12. Summary of Neutralizing Antibodies During Study CP-4-006 ...................................... 44
+Table 13. Immunogenicity Data in the 4 Subjects Who Discontinued Somatrogon and Started
+Other hGH Therapy ..................................................................................................................... 45
+Table 14. ADA Titers and Growth Measurements in Subjects With Positive NAbs Over Time,
+Study CP-4-006 (Main and OLE) .................................................................................................. 55
+Table 15. Summary of Mean AHV vs ADA Status, Study CP-4-009 (Main and OLE), Full Analysis
+Set ............................................................................................................................................... 58
+Table 16. Mean Height SDS by ADA Status, Study CP-4-009 (Main and OLE), Full Analysis Set ... 58
+Table 17. Duration of Exposure to Somatrogon, Study CP-4-006 (Main and OLE Period
+Combined, Safety Population) .................................................................................................... 60
+Table 18. Duration of Exposure to Somatrogon 0.066 mg/kg/week, Study CP-4-004 (Main and
+OLE Periods Combined, Safety Population)................................................................................. 61
+Table 19. Summary of AEs Occurring in >= 5% of Subjects Exposed to Somatrogon (Study CP-4006, OLE Period).......................................................................................................................... 65
+Table 20. Summary of AEs by ADA Status, Study CP-4-006, OLE Period ...................................... 67
+Table 21. Incidence of AEs of Hypersensitivity Reactions by ADA Status, Trial CP-4-006
+(Extension Period) ....................................................................................................................... 68
+Table 22. Incidence of AEs of Injection Site Reactions by ADA Status, Trial CP-4-006 (Extension
+Period) ........................................................................................................................................ 69
+Table 23. Incidence of AEs of Hypersensitivity Reactions, Trial CP-4-009 (Main and Extension
+Period) ........................................................................................................................................ 70
+Table 24. Incidence of AEs of Injection Site Reactions, Trial CP-4-009 (Main and Extension
+Period) ........................................................................................................................................ 70
+Table 25. Incidence of AESI by ADA Status, Trial CP-4-006 (Extension Period) ............................ 71
+
+Version date: October 12, 2018
+Reference ID: 5197623
+
+4
+
+BLA 761184
+Ngenla (somatrogon-ghla)
+
+Table of Figures
+Figure 1. Peak IGF-1 SDS by Year by ADA Status in Study CP-4-004 (Data Cut-Off Date of March
+31, 2022) ..................................................................................................................................... 26
+Figure 2. Mean IGF-1 SDS and Change From Baseline IGF-1 SDS vs Time Point by ADA Status for
+All Subjects in Study CP-4-006 (Data Cut-off Date of March 31, 2022) ....................................... 28
+Figure 3. Cumulative Time to First Positive ADA Result (Study CP-4-006) ................................... 42
+Figure 4. Immunogenicity Status in Subjects Who Discontinued Somatrogon in Study CP-4-006,
+OLE .............................................................................................................................................. 45
+Figure 5. Mean Height Velocity Over Time by ADA Status, Study CP-4-006, Main and OLE, Full
+Analysis Set ................................................................................................................................. 49
+Figure 6. Mean Height SDS and Mean Change From Baseline in Height SDS Over Time by ADA
+Status, Study CP-4-006, Main and OLE, Full Analysis Set ............................................................. 49
+Figure 7. Mean AHV Over Time in ADA-Positive Subjects by ADA Titer, Study CP-4-006 (Main and
+OLE), Full Analysis Set ................................................................................................................. 50
+Figure 8. Mean Height SDS Over Time in ADA-Positive Subjects by ADA Titer, Study CP-4-006
+(Main and OLE), Full Analysis Set ................................................................................................ 51
+Figure 9. Waterfall Plots of Change in AHV in Individual Subjects Originally Randomized to
+Somatrogon in the Main Period Who Are NAbs-Positive (Red) Versus NAbs-Negative (Black) ... 53
+Figure 10. Waterfall Plots of Change in AHV in Individual Subjects Originally Randomized to
+Genotropin Who Are NAb-Positive (Red) Versus NAb-Negative (Black)...................................... 54
+Figure 11. Height SDS and Mean Change From Baseline in Height SDS Over Time by ADA Status,
+Study CP-4-004 (All Cohorts Combined) ...................................................................................... 57
+
+Version date: October 12, 2018
+Reference ID: 5197623
+
+5
+
+BLA 761184
+Ngenla (somatrogon-ghla)
+
+Reviewers of Multi-Disciplinary Review and Evaluation
+Regulatory Project Manager
+Nonclinical Reviewer
+Nonclinical Team Leader
+Office of Clinical Pharmacology Reviewer(s)
+Office of Clinical Pharmacology Team Leader(s)
+Clinical Reviewer
+Clinical Team Leader
+Statistical Reviewer
+Statistical Team Leader
+Cross-Disciplinary Team Leader
+Division Deputy Director
+Division Director (DGE)
+Associate Director for Labeling
+Office Director (or designated signatory authority)
+
+Abbreviations: DGE, Division of General Endocrinology
+
+Sejal Kiani/Dana Smith/Elisabeth
+Hanan
+Feleke Eshete
+David Carlson
+Lin Zhou
+Li Li/Jaya Vaidyanathan
+Geanina Roman-Popoveniuc
+Marina Zemskova
+Kiya Hamilton
+Feng Li
+Marina Zemskova
+Naomi Lowy
+Theresa Kehoe
+LaiMing Lee
+Lisa Yanoff
+
+Additional Reviewers of Application
+OPQ/OBP Reviewer
+OBP Immunogenicity Reviewer
+OBP Secondary Reviewer
+OBP Tertiary Reviewer
+Microbiology
+OBP Labeling
+OBP RBPM
+OPDP
+DMPP
+OSI
+OSE/DEPI
+OSE/DMEPA
+OSE/DRM
+OSE/DPV
+OSE PM
+CDRH
+Other
+
+Emine Guven Maiorov
+Montserrat Puig
+Massod Rahimi
+Susan Kirshner
+Candace Gomez Broughton
+Scott Dallas
+Melinda Bauerlien
+Charuni Shah
+Sharon Williams/Marcia Williams
+Ling Yang/Min Lu
+Po-Yin Chang/Yandong Qiang
+Peggy Rahbani/ Carlos Mena-Grillasca/ Madhuri Patel
+Courtney Cunningham/Yasmeen Abou-Sayed
+Amy Chen/Daniel Woronow
+Deveonne Hamilton-Stokes/Ameet Joshi
+Elvira Castro/Courtney Evans
+
+Abbreviations: OBP, Office of Biotechnology Products; OPQ; Office of Pharmaceutical Quality; OPDP, Office of Prescription Drug Promotion; OSI,
+Office of Scientific Investigations; OSE, Office of Surveillance and Epidemiology; DEPI, Division of Epidemiology;
+DMEPA, Division of Medication Error Prevention and Analysis; DMPP, Division of Medical Policy Programs; DRM, Division of Risk Management;
+PM, project management; CDRH, Center for Devices and Radiological Health
+
+Version date: October 12, 2018
+Reference ID: 5197623
+
+6
+
+BLA 761184
+Ngenla (somatrogon-ghla)
+
+Glossary
+ADA
+AE
+AESI
+AHV
+BLA
+CDRH
+CFR
+CI
+COA
+CR
+CRL
+CRMO
+CTP
+DARRTS
+DCOA
+FDA
+GHD
+GQ
+hGH
+IGF-1
+IGHD
+MedDRA
+OPMA
+OLE
+OPQ
+PD
+PEN
+PK
+SDS
+SOC
+TEAE
+
+antidrug antibody
+adverse event
+adverse event of special interest
+annualized height velocity
+biologics license application
+Center for Devices and Radiological Health
+Code of Federal Regulations
+confidence interval
+clinical outcome assessment
+complete response
+Complete Response Letter
+chronic recurrent multifocal osteomyelitis
+carboxy-terminal peptide
+Document Archiving, Reporting, and Regulatory Tracking System
+Dyad Clinical Outcome Assessment
+Food and Drug Administration
+growth hormone deficiency
+grouped query
+human growth hormone
+insulin-like growth factor 1
+isolated growth hormone deficiency
+Medical Dictionary for Regulatory Activities
+Office of Pharmaceutical Manufacturing Assessment
+open-label extension
+Office of Pharmaceutical Quality
+pharmacodynamics
+prefilled pen device
+pharmacokinetics
+standard deviation scores
+system organ class
+treatment-emergent adverse event
+
+Version date: October 12, 2018
+Reference ID: 5197623
+
+7
+
+BLA 761184
+Ngenla (somatrogon-ghla)
+
+1 Executive Summary
+Product Introduction
+The Applicant (Pfizer) submitted a complete response for the Biologic License Application (BLA)
+for somatrogon-ghla, a new biologic product, under Section 351 (a) of the Public Health Act.
+The Applicant is seeking an approval for somatrogon injection for the treatment of pediatric
+patients who have growth failure due to inadequate secretion of endogenous growth hormone.
+The original BLA submission received a complete response (CR) letter on January 21, 2021,
+because of a high rate and persistence of anti-drug antibody (ADA) formation and development
+of neutralizing antibodies with insufficient evidence that there was no impact on efficacy. In
+addition, four quality-related deficiencies were communicated in the CR letter.
+Somatrogon is a drug-device combination product proposed as a disposable, prefilled pen
+injector. Somatrogon (also known as MOD-4023) is human growth hormone (hGH) modified by
+the fusion of one copy of carboxy-terminal peptide (CTP) of human chorionic gonadotropin at
+the amino terminus of hGH and two CTP copies in tandem at its carboxy terminus. Fusion of the
+CTP peptides to hGH and a high level of glycosylation extend the half-life of this fusion protein
+to allow for weekly subcutaneous injection administration.
+
+Conclusions on the Substantial Evidence of Effectiveness
+The Applicant provided substantial evidence of effectiveness of somatrogon for the treatment
+of pediatric subjects ≥3 years of age with growth failure due to growth hormone deficiency
+(GHD). This is based on data from one adequate and well-controlled phase 3 study CP-4-006,
+plus confirmatory evidence consisting of strong mechanistic support. Supportive evidence of
+efficacy comes from the main period of the phase 2 study, CP-4-004, which provided 12-month
+controlled data, as well as from the long-term uncontrolled extension period of the phase 3 and
+phase 2 studies, respectively.
+The phase 3 study demonstrated non-inferiority of somatrogon compared to Genotropin in
+treatment-naïve subjects with pediatric GHD, with respect to annualized height velocity (AHV)
+at 52 weeks. CP-4-006 was a phase 3, randomized, active-controlled, open label, 52-week study
+comparing the safety and efficacy of somatrogon to Genotropin in 224 treatment naïve, prepubertal pediatric subjects with short stature due to pediatric GHD. Subjects were randomized
+in a 1:1 ratio to receive somatrogon or Genotropin, respectively. Based on the results of this
+study, somatrogon was found to be non-inferior to Genotropin in the improvement of AHV. The
+estimated treatment difference in the mean AHV at week 52 between somatrogon (mean AHV
+of 10.07 cm/year) and Genotropin (mean AHV of 9.73 cm/year) was 0.34 cm/year [95%
+confidence interval (CI) -0.23, 0.91]. The lower limit of the 95% CI (-0.23 cm/year) was greater
+than the prespecified non-inferiority margin of ≥ -1.8 cm/year, thus, the impact of somatrogon
+on AHV at 52 weeks was non-inferior to that of Genotropin. The results of secondary analyses,
+Version date: October 12, 2018
+Reference ID: 5197623
+
+8
+
+BLA 761184
+Ngenla (somatrogon-ghla)
+including height standard deviation score (SDS), support the primary efficacy endpoint. Short
+stature in pediatric patients is defined as height below -2.0 SDS for age, sex, and race. Height
+SDS is widely used in clinical practice to evaluate the appropriate growth of children at various
+stages of development. Thus, change in height SDS is traditionally accepted and used as a
+supportive growth endpoint in studies evaluating the effect of hGH on growth in pediatric
+patients with GHD. Treatment with both somatrogon and Genotropin resulted in an improved
+height SDS at week 52 compared to baseline. The height SDS at week 52 was 0.91 in the
+somatrogon group and 0.86 in the Genotropin group. As expected, treatment with somatrogon
+and Genotropin led to the normalization of IGF-1 levels, indicating an adequate replacement
+with missing hormone. At week 52, mean IGF-1 SDS levels were 0.65 in somatrogon group and 0.69 in Genotropin group.
+Trials that have supported approval of these drugs have shown that hGH products improve AHV
+and other growth parameters (e.g., height and height standard deviation scores (SDS)) via IGF-1
+mediated action of GH at the growth plate). Long-term studies with the earlier formulations of
+hGH demonstrated that improvements in AHV observed during the first year of treatment were
+sustained over the years of treatment and translate into improvement in final height (e.g.,
+Humatrope up to 8 years). Therefore, FDA accepted short term changes in AHV that are noninferior to an active comparator (approved hGH with known effect on AHV) as a surrogate
+endpoint to evaluate the efficacy of products with a native GH sequence for the treatment of
+short stature in pediatric patients with GHD.
+A strong mechanistic understanding exists of how GH exerts its effects in subjects with GHD. In
+pediatric subjects with growth failure due to inadequate secretion of endogenous growth
+hormone, somatrogon is intended to replace the deficient native GH. Somatrogon is a longacting recombinant hGH derivative. The active moiety of somatrogon has the same primary
+amino acid sequence as endogenous growth hormone and is thus expected to have the same
+action at the target receptor as endogenous human GH. The structure-function relationship of
+endogenous GH is well understood; the wide variety of GH biological effects are achieved only
+through a single mechanism of action, i.e., the binding of GH to, and subsequent activation of,
+growth hormone receptor, with subsequent transcription of genes for a variety of proteins,
+including insulin-like growth factor 1 (IGF-1). No alternative receptors mediating GH activity
+have been identified. GH and IGF-1 stimulate epiphyseal growth plates and formation of new
+bone resulting in linear growth until fusion of the growth plates.
+A single adequate and well-controlled trial plus confirmatory evidence is acceptable for this BLA
+because pediatric GHD is a rare disease. It is therefore challenging to conduct two adequate
+and well controlled trials, and, historically, the Food and Drug Administration (FDA) has
+accepted a single adequate and well controlled trial for the approval of hGH products with
+native GH sequences for the pediatric GHD indication.
+Study CP-4-004, the phase 2, open-label, safety, and dose-finding study, which provides
+supportive evidence of efficacy, compared three doses of somatrogon with Genotropin in
+pediatric subjects with short stature due to GHD. Changes in AHV and height standard deviation
+9
+Version date: October 12, 2018
+Reference ID: 5197623
+
+BLA 761184
+Ngenla (somatrogon-ghla)
+scores (SDS) at the end of 12 months of treatment were dose-dependent, while the changes
+observed in the somatrogon 0.66 mg/kg group (the highest dose tested and the one used in the
+phase 3 study) were similar to changes in growth parameters observed in Study CP-4-006.
+Additional supportive evidence is derived from the uncontrolled extension period of the phase
+3 study, as well as the extension periods of the phase 2 study. Long-term data included in this
+re-submission demonstrated continued benefit of somatrogon on growth. The high rate of
+immunogenicity does not appear to impact growth and thus is unlikely to impact final adult
+height.
+
+Version date: October 12, 2018
+Reference ID: 5197623
+
+10
+
+BLA 761184
+Ngenla (somatrogon-ghla)
+
+Benefit-Risk Assessment
+The Applicant proposes somatrogon, a long-acting recombinant human growth hormone (hGH) modified by the fusion of the carboxy-terminal
+peptide (CTP), as a weekly injection with the proposed dose of 0.66 mg/kg/week for the treatment of pediatric patients who have growth
+failure due to inadequate secretion of endogenous growth hormone (GH).
+Clinical manifestations of pediatric growth hormone deficiency (GHD) include short stature, decreased height velocity, and delayed bone age
+(International Classification of Pediatric Endocrine Diagnoses Consortium 2016; Jorge et al. 2020). If untreated, pediatric GHD is associated with
+poor growth velocity, decreased final adult height, and decreased quality of life. The 2016 Pediatric Endocrine Society Guidelines recommend
+GH therapy for children with GHD in order to normalize growth and attain normal final adult height (Grimberg et al. 2016). Replacement with
+hGH leads to improvement in hormone-associated delay in AHV and confers the benefit of increased height in this population.
+The clinical development program has shown that treatment with somatrogon provides the benefit of increased height in patients with
+pediatric GHD. There are multiple hGH therapies approved by FDA for the treatment of pediatric GHD, most are administered daily but two
+approved products are a once weekly dosing regimen. Therefore, somatrogon will not provide a unique benefit to patients, but will offer an
+additional option for those patients seeking the reduced burden of injection frequency from once daily to once weekly.
+The risks associated with somatrogon are expected to be those associated with the hGH class in the pediatric population, such as neoplasm,
+glucose intolerance and diabetes mellitus, intracranial hypertension, severe hypersensitivity, fluid retention, hypothyroidism, adrenal
+insufficiency, pancreatitis, lipoatrophy, progression of preexisting scoliosis, slipped capital femoral epiphysis, increase in serum levels of
+phosphorus and alkaline phosphatase. Although some of these risks could be serious, they are uncommon and to date have not been
+considered to outweigh the benefit of increased final adult height. Common adverse reactions were similar between somatrogon and
+Genotropin.
+High rates of anti-drug antibody formation have not been observed with approved formulations of hGH. However, a high and persistent
+incidence of antidrug antibodies (ADA) was observed in subjects treated with somatrogon compared to those treated with Genotropin, with
+some neutralizing antibody formation, leading to a Complete Response in the first review cycle because of insufficient evidence of a lack of
+impact on efficacy. Review of the data in the resubmission has allowed the conclusion of no impact of immunogenicity on efficacy or safety of
+the drug in children with GHD exposed to somatrogon for up to 7 years in the clinical program. Although subjects in the development program
+did not reach final adult height, the clinical relevance of the immunogenicity is considered to be sufficiently low that no postmarketing safety
+activities are warranted.
+11
+Version date: October 12, 2018
+Reference ID: 5197623
+
+BLA 761184
+Ngenla (somatrogon-ghla)
+
+Patient Experience Data
+Patient Experience Data Relevant to This Application (check all that apply)
+X The patient experience data that were submitted as part of the Section of review where
+application include:
+discussed, if applicable
+
+□ Clinical outcome assessment (COA) data, such as
+□
+□
+□
+□
+
+Patient reported outcome (PRO)
+Observer reported outcome (ObsRO)
+Clinician reported outcome (ClinRO)
+Performance outcome (PerfO)
+
+□ Qualitative studies (e.g., individual patient/caregiver
+
+interviews, focus group interviews, expert interviews, Delphi
+Panel, etc.)
+□ Patient-focused drug development or other stakeholder
+meeting summary reports
+
+□ Observational survey studies designed to capture patient
+
+experience data
+□ Natural history studies
+X Patient preference studies (e.g., submitted studies or
+scientific publications)
+□ Other: (Please specify):
+
+19.3
+
+□ Patient experience data that were not submitted in the application, but were considered
+in this review:
+□ Input informed from participation in meetings with patient
+stakeholders
+□ Patient-focused drug development or other stakeholder
+meeting summary reports
+□ Observational survey studies designed to capture patient
+experience data
+□ Other: (Please specify):
+
+□
+
+Patient experience data were not submitted as part of this application.
+
+Version date: October 12, 2018
+Reference ID: 5197623
+
+17
+
+BLA 761184
+Ngenla (somatrogon-ghla)
+
+2 Therapeutic Context
+Analysis of Condition
+Growth hormone deficiency (GHD), including pediatric GHD, is a condition characterized by
+insufficient production of growth hormone (GH) by the pituitary gland and subsequent
+decreased GH and insulin-like growth factor-1 (IGF-1) levels (Growth Hormone Research 2000).
+The prevalence of pediatric GHD is estimated to be 1:1533 to 1:30,000 worldwide, and 1:3480
+in the U.S., with a boy: girl ratio of 2.7:1. Pediatric GHD can be idiopathic or secondary to
+congenital causes (e.g., pituitary hypoplasia, empty cells, various genetic disorders) or acquired
+causes (e.g., trauma, infection, tumors) (Dattani and Preece 2004). Genetic causes include
+mutations in genes that encode GH, growth hormone releasing hormone (GHRH), and
+transcription factor defects (Alatzoglou and Dattani 2010). Clinical signs and symptoms of GHD
+in children include hypoglycemia, prolonged jaundice, microphallus or craniofacial midline
+abnormalities in neonates, and short stature, poor height velocity and delayed bone age
+(Stanley 2012).
+
+Analysis of Current Treatment Options
+Treatment with hGH (somatropin) therapy is the standard of care for the treatment of short
+stature due to pediatric GHD. Exogenous hGH treatment aims at mimicking the function of GH
+secretion (i.e., a replacement therapy), leading to normalization of IGF-1 levels and
+improvement in linear growth and final adult height. Primary objective of treatment of GHD in
+children is normalization of height during childhood, and attainment of normal adult height that
+is consistent with the patient’s genetic potential (Richmond and Rogol 2016).
+GH replacement therapy was first approved by the FDA in 1985. Since then, multiple shortacting hGH formulations with native GH sequence have been approved for the treatment of
+pediatric patients with growth failure due to GHD (NIH 2021). Most GH products require daily
+subcutaneous administration. Long-acting formulations (lonapegsomatropin and somapacitanbeco) that allow for weekly injections were recently approved. Long-acting formulations can
+potentially reduce discomfort and increase compliance by requiring less frequent injections,
+which may be a particular advantage in the pediatric population.
+These hGH formulations have a native GH sequence and have been approved based on the
+improvement in AHV and/or change in height SDS, since long-term studies with the earlier
+formulations of hGH also demonstrated that improvement in AHV translates into the
+improvement in final adult height (e.g., Humatrope up to 8 years).
+The safety profile of hGH products is well-characterized and GH therapy is generally well
+tolerated. Labeled adverse effects of GH treatment include intracranial hypertension, slipped
+capital femoral epiphysis, scoliosis progression, pancreatitis, impaired glucose intolerance and
+
+Version date: October 12, 2018
+Reference ID: 5197623
+
+18
+
+BLA 761184
+Ngenla (somatrogon-ghla)
+diabetes, prepubertal gynecomastia, arthralgia, and edema. GH treatment can unmask
+underlying adrenal insufficiency and hypothyroidism. Patients should thus be assessed for
+adrenal and thyroid axes after initiation of GH therapy. Treatment with GH therapy is
+contraindicated in patients with active malignancy; because of the mitogenic and antiapoptotic
+activity of GH and IGF-1, there is a theoretical concern for neoplasia development with GH
+therapy (Chae et al. 2015). However, at this time, there is no clear evidence that GH therapy
+leads to tumor development in children with or without a history of prior malignancy (Tuffli et
+al. 1995; Moshang et al. 1996; Wilton et al. 2010).
+The efficacy of hGH therapy in pediatric GHD is monitored in practice by assessing growth.
+Measurement of IGF-1 levels to evaluate the efficacy is not recommended. Although it is
+expected that binding of hGH to the human growth hormone receptor will raise IGF-1 levels
+which is what occurs physiologically, there are no data that establish a clear relationship
+between IGF-1 levels and growth improvement. Nevertheless, chronically elevated IGF-1 levels
+above the normal range may be associated with adverse events (AEs) including intracranial
+hypertension, hyperglycemia, edema, and tumors. Therefore, in pediatric patients with GHD,
+IGF-1 levels are typically followed to monitor for adherence to therapy and for assessment of
+safety (Grimberg et al. 2016). Goal IGF-1 levels are typically below +2 or +3 SDS. Precise levels
+and duration of the exposure to the elevated IGF-1 levels that correlate with potential risk of
+AEs is unknown. hGH treatment of patients with growth failure due to GHD should not continue
+at pediatric doses beyond epiphyseal fusion due to concern of causing acromegalic changes.
+After an interruption in treatment, reevaluation can be done to diagnose adult GHD and assess
+the need for therapy at lower doses designed for metabolic and body composition benefits.
+GHD may or may not persist into adult life and the objectives for treatment and dosing in adults
+with GHD are different.
+
+3 Regulatory Background
+U.S. Regulatory Actions and Marketing History
+Somatrogon is a new molecular entity. On October 22, 2020, the Applicant submitted an initial
+marketing application for somatrogon for treatment of pediatric GHD. On January 21, 2022,
+FDA issued a Complete Response for Clinical/Immunology and Product Quality deficiencies
+(refer to the CR Letter in DARRTS and to Section 3.2 below).
+
+Summary of Presubmission/Submission Regulatory Activity
+Refer to Integrated Review In DARRTS, dated January 21, 2021, for a summary of the regulatory
+history of the drug product prior to initial BLA submission on October 22, 2020.
+On October 22, 2020, the Applicant (Pfizer) submitted an initial marketing application for
+(b) (4)
+somatrogon
+Version date: October 12, 2018
+Reference ID: 5197623
+
+19
+
+BLA 761184
+Ngenla (somatrogon-ghla)
+Included in this application was a single phase 3
+study (CP-4-006), a supportive phase 2 study (CP-4-004), and data from the open-label
+extensions for each of these clinical studies.
+(b) (4)
+
+Because of FDA’s communicated concerns related to high immunogenicity of the product, on
+September 15, 2021, the Applicant submitted additional data that provided an additional 12
+months of efficacy, safety, and immunogenicity data from the phase 2 and 3 OLE studies. The
+submission was accepted as a Major Amendment, and the PDUFA action date was extended by
+3 months to January 22, 2022.
+On January 21, 2022, the Agency issued a Complete Response Letter (CRL) stating
+Clinical/Immunology and Product Quality deficiencies. The letter summarized the high rate and
+persistence of ADAs to somatrogon and its potential implications for loss of efficacy due to
+development of neutralizing antibodies. There was also a concern with antibodies being cross
+reactive to other GH products, and if persistent, these could potentially result in nonresponsiveness to other hGH replacement (refer to the CRL in DARRTS for additional details).
+(b) (4)
+The product quality concerns were related to
+
+To resolve the deficiencies, the Applicant was asked to provide reassurance that the ADA
+formation caused by somatrogon is not expected to have an impact on long-term growth
+achieved with somatrogon and does not interfere with other hGH formulations. FDA requested
+that the Applicant demonstrate, at a minimum, that ADA (including neutralizing antibodies)
+meaningfully decrease or resolve with somatrogon discontinuation and/or changing patients to
+other approved hGH formulations. If neutralizing antibodies do not resolve, the Applicant was
+asked to provide data that long-term growth is not impacted and also to provide mitigation
+strategies to address the potential impact of neutralizing antibodies.
+To resolve product quality deficiencies the Applicant was asked to provide information
+
+(b) (4)
+
+Lastly, pre-license inspections at the drug substance manufacturing site, Pfizer
+Ireland Pharmaceuticals (Clondalkin, Ireland; FEI 3004145594), and the drug product
+manufacturing site, Pfizer Manufacturing Belgium NV (Puurs, Belgium; FEI 1000654629) were
+required before this application may be approved.
+On March 29, 2022, a type A meeting via teleconference was held to discuss the Applicant’s
+proposal to address the clinical deficiencies described in the CRL. The Agency agreed to the
+Applicant’s proposal to submit the following: 1) additional immunogenicity assessments and
+analyses of the effect of antibody status on safety and efficacy in subjects who continued
+treatment with somatrogon in the ongoing open-label extension (OLE) periods of studies CP-4004 and CP-4-006, with a data cut-off of March 31, 2022; 2) an assessment of immunogenicity
+status in subjects from Study CP-4-006 who discontinued somatrogon and had positive ADA at
+Version date: October 12, 2018
+Reference ID: 5197623
+
+20
+
+BLA 761184
+Ngenla (somatrogon-ghla)
+the time of study drug discontinuation, including subjects who started other GH therapies; 3)
+(b) (6)
+additional information for subject
+who had a significant growth attenuation
+corresponding to the time of seroconversion to positive NAb; 4) immunogenicity assessments
+and analyses of the effect of antibody status on safety and efficacy from Study CP-4-009, a
+safety and efficacy study of somatrogon in Japanese subjects with pediatric GHD, which was not
+included with the original BLA submission.
+On July 1, 2022, the Agency provided additional written responses to the Applicant regarding
+the safety data to be included in the BLA resubmission.
+On November 22, 2022, the Applicant submitted a complete response to the deficiencies
+outlined in the CRL.
+
+4 Significant Issues From Other Review Disciplines Pertinent to Clinical
+Conclusions on Efficacy and Safety
+Office of Scientific Investigations (OSI)
+No clinical sites were selected for inspection to support re-submission of this BLA.
+The inspection for the original submission of BLA consisted of two domestic clinical sites and
+the co-sponsor (OPKO Health, Inc.) of Study CP-4-006. Based on the inspections of the two
+clinical sites and the co-sponsor, the inspectional findings supported validity of data as reported
+by the Sponsor under this BLA. Refer to the Integrated Review in DARRTS from January 21,
+2022.
+
+Product Quality
+The Office of Pharmaceutical Quality (OPQ)/ Office of Biotechnology recommends approval of
+BLA 761184 for Ngenla manufactured by Pfizer Pharmaceuticals Ireland. OPQ concluded that
+the data submitted in this application is adequate to support the conclusion that the
+manufacture of Ngenla is well controlled and leads to a product that is pure and potent (refer
+to the review from June 25, 2023).
+The reviewer concluded that the product quality deficiencies that were identified during the
+first assessment cycle were adequately addressed in this resubmission (refer to CR Letter in
+DARRTS from January 21, 2022, and to the latest OPQ review from April 10, 2023). The
+manufacturing process is well-controlled and leads to a product that is pure and potent. The
+product is free from endogenous and adventitious infectious agents and meets the standards
+recommended by FDA. The conditions used in the manufacturing process were adequately
+validated, and the product was consistently manufactured from multiple production runs.
+
+Version date: October 12, 2018
+Reference ID: 5197623
+
+21
+
+BLA 761184
+Ngenla (somatrogon-ghla)
+Lastly, the Applicant did not provide the real time shipping study results and protocol but
+agreed to perform real-time shipping studies as part of Postmarketing Commitment (refer to
+the Applicant’s response to the Agency’s Information Request from March 23, 2023, and to
+Section 13). OPQ found the Applicant’s approach to be acceptable.
+
+Clinical Microbiology
+The Office of Pharmaceutical Manufacturing Assessment (OPMA) reviewed the data included in
+the original BLA submission and recommended approval from a sterility assurance perspective
+(refer to OPMA review from July 27, 2021). No new data were included in this resubmission.
+
+Devices and Companion Diagnostic Issues
+The Center for Devices and Radiological Health (CDRH) recommends approval of BLA 761184.
+During the first cycle, CDRH reviewed the proposed device, which is a disposable pre-filled pen
+injector, and recommended approval of the device constituent parts of the combination
+product (pen-injector) (refer to the Integrated review in DARRTS from January 21, 2022).
+CDRH reviewed the data included in this resubmission of BLA including the updated batch
+analyses, stability data of the proposed device pen-injector, pen-injector performance and
+device performance and found no deficiencies. CDRH also confirmed that labeling adequately
+covers the device requirements for labeling.
+
+Version date: October 12, 2018
+Reference ID: 5197623
+
+22
+
+BLA 761184
+Ngenla (somatrogon-ghla)
+
+5 Nonclinical Pharmacology/Toxicology
+Executive Summary
+The nonclinical review of the original application recommended approval.
+All of the nonclinical information provided from the development of somatrogon have been
+reviewed and were summarized in the integrated assessment for BLA 761184 during the first
+cycle. Reference is made to the nonclinical review in the first cycle since no new data have been
+submitted in the resubmission. Minor edits have been made to the proposed language in
+Sections 8.1 and 13.1 of the label for somatrogon-ghla based on the original nonclinical review
+and consistent with other listed growth hormone products.
+Based on the prior review, the nonclinical review team continues to recommend approval of
+BLA 761184 for somatrogon manufactured by Pfizer Pharmaceuticals.
+
+6 Clinical Pharmacology
+Executive Summary
+The original BLA was acceptable from a clinical pharmacology perspective. The Clinical
+Pharmacology team reviewed the BLA resubmission and recommends approval.
+A detailed clinical pharmacology review on the original BLA and major amendment submission
+can be found in the integrated review for BLA 761184.
+The original BLA was submitted on October 22, 2020, with the data cut-off date of November 1,
+2019. During the review cycle, a major amendment with the data cut-off date of December 21,
+2020, was submitted on September 15, 2021.
+In this resubmission, the Applicant included additional long-term data on safety, efficacy, and
+immunogenicity data for both the ongoing phase 3 (CP-4-006) as well as the phase 2 (CP-4-004)
+with a data cut-off date of March 31, 2022, together with other supportive safety data.
+Samples for determining serum somatrogon concentrations (i.e., every 6 months) and IGF-1
+were collected from patients in the ongoing Study 004 and 006 after December 21, 2020, and
+submitted in this resubmission. The clinical pharmacology review team evaluated the impact of
+anti-drug antibody on pharmacokinetics (PK) and PD based on the additional data. The findings
+from the additional data are consistent with the conclusion during the first review cycle:
+although ADA-positive (ADA+) subjects had slightly higher concentrations of the drug compared
+to ADA-negative (ADA-) subjects, the difference does not appear to impact efficacy based on
+growth velocity and IGF-1 SDS. In addition, there was no apparent impact of ADA on safety
+Version date: October 12, 2018
+Reference ID: 5197623
+
+23
+
+BLA 761184
+Ngenla (somatrogon-ghla)
+profile of the drug; no new safety signals and/or immunogenicity-related safety signals such as
+increase incidence of injection site reactions, hypersensitivity, autoimmune syndromes, or
+class-related adverse reactions in ADA-positive subjects were identified.
+
+Summary of Clinical Pharmacology Assessment
+In this resubmission, the Applicant submitted additional data for both the ongoing phase 3 (CP4-006) as well as the phase 2 (CP-4-004) with a data cut-off date of March 31, 2022. This review
+focused on the impact of ADA on PK and PD for each study.
+Impact of ADA on PK
+Study CP-4-004
+A summary of PK data by ADA status is shown in Table 1 for Study CP-4-004. Mean somatrogon
+concentrations were higher in ADA+ subjects, compared to those in ADA- subjects at different
+visits between Month 6 prefilled pen device (PEN) period Year 2 visit and Month 6 PEN period
+Year 3 visit. Between the Month 12 PEN period Year 3 visit and Month 6 PEN Period Year 4, the
+difference in mean somatrogon concentrations in ADA-positive and ADA-negative subjects
+diminished. Across all visits, the difference was not statistically significant due to large
+variability in somatrogon concentrations.
+Table 1. Mean and 95% CI of Somatrogon Concertation (ng/mL), Study CP-4-004 (From Month 6
+PEN Period Year 2* to the Data Cut-off Date of 31 Mar 2022)
+ADAADA+
+0.66 mg/kg
+Mean
+N
+95% CI
+Mean
+N
+95% CI
+Month 6 PEN period year 2
+67.7
+16
+(43.9, 91.6)
+167.6
+15
+(28.9, 306.4)
+Month 12 PEN period year 2
+152.2
+14
+(15.5, 288.9)
+164.5
+13
+(10.5, 318.4)
+Month 6 PEN period year 3
+93.1
+13
+(58.0, 128.3
+110.3
+14
+(-7.5, 228.0)
+Month 12 PEN period year 3
+97.4
+11
+(11.2, 183.6)
+53.9
+13
+(23.6, 84.2)
+Month 6 PEN period year 4
+79.4
+11
+(31.7, 127.0)
+72.0
+11
+(23.4, 120.5)
+Source: FDA analysis. ADA status were determined based on SN0049 and SN0077. PK data were from SN0077.
+*last visit reviewed for the major amendment was Month 12 PEN Period Year 1.
+Note: The terms in the first column refers to the treatment duration of subjects who received vial presentation first and later switched to the
+single-patient-use, prefilled disposable pen device [hereafter referred to as pen], at the same dose in Study CP-4-004. For example, Month 6
+PEN period Year 2 refers to a duration of 18 months on somatrogon pen and Month 6 PEN period Year 3 for a duration of 30 months on
+somatrogon pen, etc.
+Abbreviations: ADA, anti-drug antibody; CI, confidence interval; PEN, prefilled pen device
+
+The overall trend is consistent with what was observed in the data submitted in the original BLA
+review cycle (including the major amendment).
+Study CP-4-006
+A summary of PK data by ADA status is shown in Table 2 for Study CP-4-006. From OLE Month
+18 visit, mean somatrogon concentrations were higher in ADA+ subjects, compared to those in
+ADA- subjects at different visits. Except for OLE Month 18 visit (p = 0.036), the differences were
+not statistically significant due to large variability in somatrogon concentrations.
+
+Version date: October 12, 2018
+Reference ID: 5197623
+
+24
+
+BLA 761184
+Ngenla (somatrogon-ghla)
+Table 2. Mean and 95% CI of Somatrogon Concentration (ng/mL), Study CP-4-006 (From Month 6
+PEN Period Year 2* to the Data Cut-off Date of 31 Mar 2022)
+ADAADA+
+0.66 mg/kg
+Mean
+N
+95% CI Mean
+N
+95% CI
+OLE month 18 (month 30 since 1st dose)
+82.6 40
+(58.5, 106.7)
+140.5 116
+(92.5, 188.5)
+OLE month 24 (month 36 since 1st dose)
+107.5 46
+(61.4, 153.6)
+139.7 121
+(83.5, 195.9)
+OLE month 30 (month 42 since 1st dose)
+81.8 42
+(56.3, 107.3)
+105.3 115
+(67.9, 142.7)
+OLE month 36 (month 48 since 1st dose)
+102.2 13
+(46.9, 157.5)
+112.7
+4
+(23.4, 202.0)
+Source: FDA analysis based on data submitted in SN 0077.
+*last visit reviewed for the major amendment was OLE Month 12 (month 24 since 1st dose).
+Abbreviations: ADA, anti-drug antibodies; CI, confidence interval; OLE, open-label extension; PEN, prefilled pen device
+
+The overall trend is consistent with what was observed in the data submitted in the original BLA
+review cycle (including the major amendment).
+Impact of ADA on PD
+To evaluate whether there is an effect of ADA on PD, IGF-1 SDS over time in subjects
+randomized to somatrogon dosing cohorts were plotted by ADA status.
+Note that the tables and figures in this section include additional immunogenicity data beyond
+what was previously provided during the first BLA review cycle. Because in these analyses a
+participant is considered ADA+ throughout the study if they tested ADA+ at any time during the
+study (including throughout the OLE period), there may be small differences in total counts of
+ADA+ participants from previously reported results. However, majority of subjects who
+developed ADA had persistent ADA positivity throughout the entire study period (refer to
+Section 8.1.1.2, Table 10, for details).
+Study CP-4-004
+The peak IGF-1 SDS values across the time period in ADA+ and ADA- participants are shown in
+Figure 1 and Table 3. Participants who tested ADA+ for somatrogon during the OLE, including
+Pen Year 3 and 4, had values for IGF-1 SDS comparable to ADA- participants. This is consistent
+with what was observed in the data submitted in the original BLA review cycle (including the
+major amendment).
+
+Version date: October 12, 2018
+Reference ID: 5197623
+
+25
+
+BLA 761184
+Ngenla (somatrogon-ghla)
+Figure 1. Peak IGF-1 SDS by Year by ADA Status in Study CP-4-004 (Data Cut-Off Date of March
+31, 2022)
+
+Notes: The circle and plus in the box are mean; line in the box is median.
+A subject is counted in the Positive row beginning in the year that he/she has a Positive status, and in every year thereafter.
+Source: Adapted from Figure 3 of isi.pdf
+Abbreviations: ADA, anti-drug antibodies; IGF-1, insulin-like growth factor-1; SDS, standard deviation scores; OLE, open-label extension; PEN,
+prefilled pen device
+
+Version date: October 12, 2018
+Reference ID: 5197623
+
+26
+
+BLA 761184
+Ngenla (somatrogon-ghla)
+Table 3. Peak IGF-1 SDS in Study CP-4-004 by ADA Status (With Date Cut-off Date of March 31,
+2022)
+Year 1
+0.25 mg/kg/wk
+0.48 mg/kg/wk
+0.66 mg/kg/wk
+Total
+N=16
+N=17
+N=16
+N=48
+IGF-1 SDS
+(Z)
+Positive Negative Positive Negative Positive Negative Positive Negative
+N
+2
+14
+3
+14
+7
+8
+12
+36
+Mean (SD) 0.72 (0.55)
+0.31
+1.34
+1.21
+1.09
+0.90
+1.09
+0.79
+(1.17)
+(1.48)
+(0.71)
+(1.00)
+(0.68)
+(1.01)
+(0.97)
+Median
+0.72
+0.44
+1.46
+1.48
+0.69
+1.11
+0.90
+0.99
+Min, max
+0.33, 1.11
+-2.08,
+-0.20,
+-0.66,
+-0.32, 0.01, 1.98
+-0.32,
+-2.08,
+2.25
+2.76
+1.99
+2.54
+2.76
+2.25
+Year 2
+N=44
+IGF-1 SDS
+(Z)
+Positive
+Negative
+N
+14
+30
+Mean (SD) 1.00 (1.14)
+0.96 (0.99)
+Median
+0.82
+1.07
+Min, max
+-1.08, 2.69
+-2.76, 2.67
+
+IGF-1 SDS
+(Z)
+N
+Mean (SD)
+Median
+Min, max
+
+Year 3
+N=43
+Positive
+Negative
+15
+27
+1.29 (0.73) 1.23 (0.84)
+1.10
+1.56
+0.42, 2.92
+-0.96, 2.47
+
+Year 4
+N=38
+Positive
+Negative
+11
+19
+0.98 (0.48) 0.79 (1.15)
+1.10
+1.06
+0.31, 1.75 -1.84, 2.44
+
+PEN Year 1
+PEN Year 2
+PEN Year 3
+PEN Year 4
+N=40
+N=35
+N=31
+N=26
+Positive Negative
+Positive Negative
+Positive Negative
+Positive Negative
+17
+23
+16
+19
+15
+16
+14
+12
+1.53 (0.83) 1.69 (0.69) 1.71 (0.91) 1.64 (0.92) 1.24 (1.20) 1.43 (0.73) 1.27 (1.15) 1.94 (0.63)
+1.12
+1.80
+1.44
+1.87
+1.45
+1.62
+1.59
+1.99
+0.60, 3.20 0.41, 3.23 0.29, 3.21 -0.24, 2.87 -2.32, 2.89 -0.29, 2.41 -1.00, 3.39 0.85, 3.02
+
+Notes: A subject is counted in the Positive row beginning in the year that he/she has a Positive status, and in every year thereafter.
+Source: Adapted from Table 4 of isi.pdf
+Abbreviations: ADA, anti-drug antibodies; IGF-1, insulin-like growth factor-1; SDS, standard deviation scores; PEN, prefilled pen device
+
+Study CP-4-006
+IGF-1 SDS and change from baseline in IGF-1 SDS through OLE Month 36 between ADA+ and
+ADA- participants for all participants are shown in Figure 2, Table 4, and Table 5. Overall, there
+was considerable overlap between ADA+ and ADA- subjects in terms of IGF-1 SDS values and
+change from baseline in IGF-SDS. This is consistent with what was observed in the data
+submitted in the original BLA review cycle (including the major amendment).
+
+Version date: October 12, 2018
+Reference ID: 5197623
+
+27
+
+BLA 761184
+Ngenla (somatrogon-ghla)
+Figure 2. Mean IGF-1 SDS and Change From Baseline IGF-1 SDS vs Time Point by ADA Status for
+All Subjects in Study CP-4-006 (Data Cut-off Date of March 31, 2022)
+
+Notes: Baseline is the main period baseline for the study.
+ADA positive defined as those who tested positive after receiving drug at any time during the study.
+Source: Adapted from Figure 9 of isi.pdf.
+Abbreviations: ADA, anti-drug antibodies; IGF-1, insulin-like growth factor-1; SDS, standard deviation scores; OLE, open-label extension; SD,
+standard deviation
+
+Version date: October 12, 2018
+Reference ID: 5197623
+
+28
+
+BLA 761184
+Ngenla (somatrogon-ghla)
+Table 4. Summary of IGF-1 SDS by ADA Status, Study CP-4-006, Main Period (With Data Cut-Off
+Date of March 31, 2022)
+Originally Randomized to Somatrogon
+ADA+
+ADAChange From
+Change From
+Visit
+Variable
+Observed
+Baseline
+Observed
+Baseline
+Baseline
+N
+92
+N/A
+17
+N/A
+Mean (SD)
+-1.97 (0.89)
+-1.84 (0.91)
+Median
+-1.89
+-1.74
+(Min, max)
+-4.39, -0.62
+-3.26, -0.21
+Month 3
+N
+92
+92
+17
+17
+Mean (SD)
+0.08 (1.45)
+2.05 (1.21)
+0.32 (1.40)
+2.16 (1.26)
+Median
+-0.05
+2.05
+0.24
+2.15
+(Min, max)
+-3.32, 3.69
+-0.5, 5.13
+-2.09, 3.41
+0.20, 5.28
+Month 6
+N
+92
+92
+15
+15
+Mean (SD)
+0.32 (1.32)
+2.29 (1.20)
+0.32 (1.26)
+2.14 (1.06)
+Median
+0.48
+2.24
+0.11
+2.06
+(Min, max)
+-3.54, 2.99
+-0.44, 5.57
+-1.67, 3.10
+0.46, 4.97
+Month 9
+N
+92
+92
+16
+16
+Mean (SD)
+0.60 (1.29)
+2.57 (1.36)
+0.47 (1.45)
+2.36 (1.24)
+Median
+0.76
+2.63
+0.82
+2.25
+(Min, max)
+-3.86, 2.99
+-0.39, 5.20
+-2.76, 2.46
+-0.51, 4.33
+Month 12
+N
+91
+91
+16
+16
+Mean (SD)
+0.74 (1.25)
+2.69 (1.23)
+0.16 (1.60)
+2.05 (1.30)
+Median
+0.82
+2.72
+0.57
+2.12
+(Min, max)
+-3.64, 3.22
+0.02, 6.11
+-3.2, 2.77
+-0.27, 3.90
+Note: Main study visits are only presented for “somatrogon/somatrogon” group since subjects in “Genotropin/somatrogon” group are not
+tested for Somatrogon ADA in main study.
+Source: Adapted from Table 16 of isi.pdf.
+Abbreviations: ADA, anti-drug antibodies; IGF-1, insulin-like growth factor-1; SDS, standard deviation scores; SD, standard deviation
+
+Version date: October 12, 2018
+Reference ID: 5197623
+
+29
+
+BLA 761184
+Ngenla (somatrogon-ghla)
+Table 5. Summary of IGF-1 SDS by ADA Status, Study CP-4-006, OLE Period (With Data Cut-Off
+Date of March 31, 2022)
+All subjects (N = 224)
+ADA+
+ADAChange From
+Change From
+Visit
+Variable
+Observed
+Baseline Observed
+Baseline
+Baseline
+N
+153
+N/A
+64
+N/A
+Mean (SD)
+-1.88 (0.91)
+-1.76 (0.90)
+Median
+-1.78
+-1.68
+(Min, max)
+-4.39, -0.51
+-3.91, -0.20
+OLE month 3 N
+148
+148
+60
+60
+Mean (SD)
+0.80 (1.38)
+2.68 (1.30) 0.77 (1.46)
+2.57 (1.34)
+Median
+0.97
+2.66
+0.77
+2.60
+(Min, max)
+-3.64, 3.06
+-0.30, 5.79 -2.04, 3.50
+-0.15, 4.99
+OLE month 6 N
+144
+144
+59
+59
+Mean (SD)
+1.01 (1.23)
+2.89 (1.26) 0.77 (1.48)
+2.56 (1.26)
+Median
+1.11
+2.87
+0.84
+2.61
+(Min, max)
+-3.24, 3.72
+-0.17, 5.49 -2.75, 3.37
+0.61, 5.24
+OLE month 9 N
+130
+130
+53
+53
+Mean (SD)
+1.10 (1.24)
+2.92 (1.28) 1.14 (1.49)
+2.88 (1.32)
+Median
+1.36
+3.05
+1.27
+2.88
+(Min, max)
+-3.07, 4.00
+-0.18, 5.59 -2.84, 3.57
+0.20, 5.70
+OLE month 12 N
+120
+120
+47
+47
+Mean (SD)
+1.26 (1.23)
+3.10 (1.26) 1.01 (1.23)
+2.76 (1.12)
+Median
+1.46
+3.04
+0.91
+2.66
+(Min, max)
+-4.20, 3.90
+-0.54, 7.12 -1.55, 3.68
+-0.34, 4.93
+OLE month 18 N
+117
+117
+43
+43
+Mean (SD)
+1.32 (1.12)
+3.06 (1.21) 1.38 (1.44)
+3.10 (1.30)
+Median
+1.42
+3.05
+1.58
+3.30
+(Min, max)
+-2.86, 3.51
+0.44, 5.94 -2.06, 3.91
+0.17, 5.34
+OLE month 24 N
+122
+122
+46
+46
+Mean (SD)
+1.20 (1.19)
+2.93 (1.19) 1.45 (1.28)
+3.12 (1.22)
+Median
+1.24
+3.10
+1.69
+3.28
+(Min, max)
+-3.53, 3.05
+-0.22, 5.40 -2.26, 3.58
+-0.56, 5.23
+OLE month 30 N
+117
+117
+46
+46
+Mean (SD)
+1.42 (1.11)
+3.14 (1.28) 1.63 (1.37)
+3.27 (1.39)
+Median
+1.52
+2.97
+1.81
+3.60
+(Min, max)
+-2.87, 4.55
+-1.68, 6.67 -1.81, 3.96
+0.00, 5.97
+OLE month 36 N
+39
+39
+15
+15
+Mean (SD)
+1.31 (0.90)
+3.06 (1.29) 1.84 (1.05)
+3.35 (1.00)
+Median
+1.36
+2.97
+1.68
+3.46
+(Min, max)
+-4.2, 3.36
+-0.54, 5.78 -1.55, 2.58
+0.54, 4.66
+OLE month 42 N
+1
+1
+1
+1
+Mean (SD)
+1.96
+3.72
+1.49
+2.78
+Median
+1.96
+3.72
+1.49
+2.78
+(Min, max)
+1.96, 1.96
+3.72, 3.72
+1.49, 1.49
+2.78, 2.78
+Note: Data from all subjects are summarized.
+Source: Adapted from Table 17 of isi.pdf.
+Abbreviations: ADA, anti-drug antibodies; IGF-1, insulin-like growth factor-1; OLE, open label extension; SDS, standard deviation scores; SD,
+standard deviation
+
+Version date: October 12, 2018
+Reference ID: 5197623
+
+30
+
+BLA 761184
+Ngenla (somatrogon-ghla)
+Bioanalytical Methods for Determining Serum Somatrogon
+Concentrations
+Per the Applicant’s response to an IR submitted on March 2, 2023 (SN 0086), the somatrogon
+PK ECL method format has not changed since the original BLA submission.
+Per the November 1, 2019, data cut-off for the original BLA, PK samples from Study CP-4-004
+(Main Study, Main OLE Years 1, 2, 3, and 4 and PEN) were analyzed using the PK ECL method at
+(b) (4)
+(b) (4)
+Since the original BLA submission and due to
+site closure, the PK ECL assay
+(b) (4)
+was transferred and validated at
+and supported CP-4- 004 PEN OLE
+Years 2, 3, and 4.
+Per the November 1, 2019, data cut-off for the original BLA, PK samples from Study CP-4-006
+(b) (4)
+(Main Study and initial OLE) were analyzed using the ECL method at
+(b) (4)
+Since the original BLA submission and
+(b) (4)
+due to
+site closure, the PK ECL assay was transferred, partially validated and cross(b) (4)
+validated at
+and supported CP4-006 (OLE).
+
+Comprehensive Clinical Pharmacology Review
+General Pharmacology and Pharmacokinetic Characteristics
+Refer to the original BLA review for details. The proposed dosing has not changed.
+
+7 Sources of Clinical Data and Review Strategy
+Table of Clinical Studies
+The following table summarizes the trials in the clinical development program for somatrogon
+for the indication of growth failure in pediatric subjects with inadequate secretion of GH. Trials
+that provided additional data included in this submission are marked with asterisks.
+
+Version date: October 12, 2018
+Reference ID: 5197623
+
+31
+
+BLA 761184
+Ngenla (somatrogon-ghla)
+Table 6. Clinical Trials Relevant to This BLA-Resubmission
+Trial
+Identifier
+CP-4-006
+(main)
+
+Trial Population
+Prepubertal,
+growth hormone
+treatment-naïve
+children with a
+verified diagnosis
+of GHD
+
+Trial Design
+Control type:
+active concurrent
+noninferiority
+Randomization:
+stratified
+randomization
+Blinding:
+open-label
+
+CP-4-006
+(OLE)
+
+Prepubertal,
+Control type:
+children with GHD who no treatment
+have completed main concurrent (single
+period of Study CP-4- arm)
+006
+Randomization:
+none (single-arm)
+
+Drug, Dose, Number
+Treated, Duration
+Somatrogon
+0.66 mg/kg/wk
+Number treated:109
+SC Injection Q1W × 12
+months
+Genotropin
+0.034 mg/kg/day
+
+Reference ID: 5197623
+
+Number of
+Subjects
+Randomized
+Planned:
+220
+Actual: 228
+
+Number of
+Trial Sites
+Centers:
+157
+Countries: 24
+
+Secondary:
+AHV after 6 months
+of treatment
+
+Number treated: 115
+SC injection QD × 12
+months
+
+Change in height
+SDS at 6 and 12
+months
+compared to
+baseline
+Somatrogon
+Primary:
+Actual: 212
+0.66 mg/kg/wk
+AHV in cm/year after
+Number treated: 212
+12 months of
+SC Injection Q1W (ongoing) Treatment
+Secondary:
+AHV after 6 months
+of treatment
+
+Blinding:
+open-label
+
+Version date: October 12, 2018
+
+Primary and Key
+Secondary
+Endpoints
+Primary:
+AHV in cm/year after
+12 months of
+treatment
+
+32
+
+Centers: 157
+Countries: 24
+
+BLA 761184
+Ngenla (somatrogon-ghla)
+Trial
+Identifier
+CP-4-004
+(main)
+
+Trial Population
+Prepubertal,
+growth hormone
+treatment-naïve
+children with a
+verified diagnosis
+of GHD
+
+Trial Design
+Control type:
+active concurrent
+noninferiority
+Randomization:
+stratified
+randomization
+Blinding:
+Open-label
+
+Drug, Dose, Number
+Treated, Duration
+Somatrogon
+0.25 mg/kg/wk
+Number treated: 13
+SC Injection Q1W × 12
+months
+Somatrogon
+0.48 mg/kg/wk
+Number treated: 15
+SC injection Q1W × 12
+Months
+Somatrogon 0.66 mg/kg/wk
+Number treated: 14
+SC injection Q1W × 12
+Months
+Genotropin
+0.034 mg/kg/day
+Number treated:11
+SC injection QD × 12
+months
+
+Version date: October 12, 2018
+Reference ID: 5197623
+
+33
+
+Primary and Key
+Secondary
+Endpoints
+Primary:
+AHV in cm/year after
+12 months of
+treatment
+Secondary:
+AHV after 6 months,
+change in HT SDS at
+6 months, change in
+HT SDS at 12 months
+
+Number of
+Subjects
+Randomized
+Actual: 53
+
+Number of
+Trial Sites
+Centers: 14
+Countries: 7
+
+BLA 761184
+Ngenla (somatrogon-ghla)
+CP-4-004
+(OLE)
+
+Prepubertal,
+Control type:
+children with GHD who No-treatment
+have completed main concurrent
+period of Study CP-4004
+Randomization:
+Genotropin
+population
+randomized to 0.25,
+0.48, or
+0.66 mg/kg/wk
+somatrogon.
+subjects already on
+somatrogon
+continued dose from
+main study
+Blinding:
+open-label
+
+Period III X 12 months
+Somatrogon
+0.25 mg/kg/wk Q1W
+Number treated: 16
+Somatrogon
+0.48 mg/kg/wk Q1W
+Number treated: 17
+Somatrogon
+0.66 mg/kg/wk Q1W
+Number treated: 15
+Period IV× 12 Months
+Somatrogon
+0.66 mg/kg/wk Q1W
+Number treated: 44
+Period V
+PEN Year 1
+Somatrogon
+0.66 mg/kg/wk Q1W
+Number treated: 40
+PEN Year 2
+Somatrogon
+0.66 mg/kg/wk Q1W
+Number treated: 35
+PEN Year 3
+Somatrogon
+0.66 mg/kg/wk Q1W
+Number treated: 31
+PEN Year 4(ongoing)
+Somatrogon
+0.66 mg/kg/wk Q1W
+Number treated: 26
+
+Version date: October 12, 2018
+Reference ID: 5197623
+
+34
+
+Primary:
+Period III
+AHV in cm/year after Actual: 48
+12 months of
+treatment
+Period IV
+Actual: 44
+Secondary:
+AHV after 6
+Period V
+months, change
+Actual: 40
+in height SDS at 6
+months, change
+in height SDS at 12
+months
+
+Centers: 13
+Countries: 7
+
+BLA 761184
+Ngenla (somatrogon-ghla)
+Trial
+Identifier
+CP-4-009
+and OLE
+
+Trial Population
+Trial Design
+Japanese pre-pubertal Control type:
+children with growth
+active concurrent
+hormone
+noninferiority
+deficiency
+Randomization:
+stratified
+randomization
+Blinding:
+open-label
+
+Drug, Dose, Number
+Treated, Duration
+Main: × 12 months
+Somatrogon:
+0.66 mg/kg/week Q1W
+(dose titrated in 3 stepwise
+escalating doses
+(0.25 mg/kg/week,
+0.48 mg/kg/week, and
+0.66 mg/kg/week), each for
+2 weeks, sequentially).
+Number treated: 22
+Genotropin:
+0.025 mg/kg daily
+Number treated: 22
+OLE:
+Originally randomized to
+Somatrogon
+Somatrogon:
+0.66 mg/kg/week
+Number treated: 22
+Originally randomized to
+Genotropin
+Somatrogon:
+0.66 mg/kg/week
+Number treated: 20
+
+Primary and Key
+Secondary
+Endpoints
+Main:
+Primary:
+AHV in cm/year after
+12 months of
+treatment
+
+Number of
+Subjects
+Randomized
+Main:
+Actual: 44
+OLE:
+Actual: 42
+
+Number of
+Trial Sites
+Centers: 24
+Countries: 1
+
+Secondary:
+AHV after 6 months
+of treatment
+Change in height
+SDS at 6 and 12
+Months compared to
+baseline
+OLE:
+Primary:
+AHV in cm/year after
+12 months of
+treatment
+Secondary:
+AHV after 6 months
+of treatment
+
+Source: Data excerpted from the Clinical Study Reports, CP-4-004, CP-4-004(OLE), CP-4-006, CP-4-006 (OLE), CP-4-009 and adsl.xpt
+Abbreviations: AHV, annualized height velocity; BLA, biologics license application; GHD, growth hormone deficiency; HT SDS, height standard deviation score; HV, height velocity; LTE, long-term
+extension study; N, number of subjects; OLE, open-label extension; PEN, prefilled pen device; Q1W, once weekly; QD, once daily; SC, subcutaneous
+
+Version date: October 12, 2018
+Reference ID: 5197623
+
+35
+
+BLA 761184
+Ngenla (somatrogon-ghla)
+
+Review Strategy
+The review team evaluated the data (with a cutoff date of December 21, 2020) from Study CP4-006 [main phase (1 year) and OLE Year 1], and Study CP-4-004 [main phase (1 year), OLE Years
+1-3, and OLE PEN Years 1 and 2] during the first review cycle (refer to Integrated Review in
+DARRTS, dated January 21, 2021, for further details) and therefore these data will not be
+discussed here. Briefly, data from the original BLA submission demonstrated that somatrogon
+increased AHV at the end of a 12-month treatment period and was shown to be non-inferior to
+Genotropin.
+FDA has accepted short-term changes in AHV that are noninferior to the active comparator
+(approved hGH with a known effect on AHV) as a surrogate to evaluate the efficacy of products
+with a native GH sequence for the treatment of short stature in pediatric patients with GHD. It
+is expected that hGH-induced changes in AHV ultimately translate into increased final adult
+height. This evidence is supported by a clear mechanistic rationale (replacement therapy in
+subjects with GHD, as described above) and clinical data from the earlier trials of short acting
+hGH formulations (e.g., Humatrope up to 8 years) where some subjects had been treated to
+final adult height and demonstrated that improvement in AHV was associated with
+improvement in final adult height. However, reliance on one-year data presupposes the
+absence of factors, such as immunogenicity (all approved hGH formulations had low
+immunogenicity rate), that may offset growth and affect final adult height.
+In the somatrogon clinical program, there was a markedly high incidence of antidrug antibodies
+to the GH sequence which raised uncertainties about the potential impact on long-term
+efficacy, leading to the CR (refer to Section 3, Regulatory background, for details).
+With this resubmission, the Sponsor provided additional data to support the favorable benefit risk assessment of somatrogon in the context of the high rate of immunogenicity (Table 6).
+This review focuses on the newly submitted long-term data from the ongoing open-label
+extension (OLE) studies, CP-4-006 and CP-4-004, as well as data from a new Study CP-4-009.
+Study CP-4-009 is a phase 3, randomized, active-controlled study of 12-month duration,
+followed by an uncontrolled OLE period of 12-month duration, which was conducted exclusively
+in Japan (Table 7). The new data for studies CP-4-006 and CP-4-004 cover the period December
+22, 2020, through March 31, 2022 (i.e., CP-4-006 OLE Year 2 and OLE Year 3, and CP-4-004 OLE
+Year 6 [PEN Year 3] and OLE Year 7 [PEN Year 4]). Comparison to the data previously reviewed
+by the Agency was only performed as appropriate.
+The review included Applicant’s analyses as well as analyses generated by the FDA review team.
+
+Version date: October 12, 2018
+Reference ID: 5197623
+
+36
+
+BLA 761184
+Ngenla (somatrogon-ghla)
+
+8 Statistical and Clinical Evaluation
+Review of Relevant Individual Trials Used to Support Efficacy
+The original submission included clinical data from Study CP-4-006 and Study CP-4-004. The
+main period of Study CP-4-006 together with mechanistic evidence provided substantial
+evidence of effectiveness. Additional supportive evidence of effectiveness was provided from
+phase 2 Study CP-4-004, main period of 12-month duration. Refer to Integrated Review in
+DARRTS, dated January 21, 2021, for details. Briefly:
+- Study CP-4-006 was a phase 3, randomized, active-controlled, open-label, 52-week
+study assessing efficacy and safety of somatrogon 0.66 mg/kg/wk versus Genotropin
+0.034 mg/kg/week in 224 subjects ≥ 3 years old with growth failure due to GHD. The
+trial demonstrated non-inferiority of somatrogon compared to Genotropin in treatmentnaïve subjects with pediatric GHD after 12 months of treatment. The mean treatment
+difference in AHV between somatrogon and Genotropin was 0.34 cm/year (95% CI 0.23, 0.91). Somatrogon was not superior to Genotropin (lower limit of 95% CI was less
+than zero. The results of secondary analyses were supportive and demonstrated
+comparable improvement in all growth parameters as well as normalization of IGF-1 SDS
+in both treatment groups.
+- Supportive evidence was provided from Study CP-4-004. Study CP-04-004 was a phase 2
+open-label safety and dose-finding study of four somatrogon dose levels compared to
+daily Genotropin administered for 12 months to 53 prepubertal subjects > 3 years old
+with GHD. Changes in AHV and height SDS at the end of 12-month treatment in
+somatrogon 0.66 mg/kg group were similar to changes in growth parameters observed
+in Study CP-4-006: mean AHV was 11.4 cm/year and mean change in height SDS was
+1.35. The trial also provided additional efficacy and safety data for up to 6 years of
+somatrogon use when all subjects were switched to somatrogon dose of
+0.66 mg/kg/wk.
+This section will discuss the results from the ongoing open label extension (OLE) studies, CP-4006 and CP-4-004 and from a new Study CP-4-009. The design of OLE of studies CP-4-006 and
+CP-4-004 are discussed in detail in Integrated Review in DARRTS, dated January 21, 2021.
+CP-4-006 OLE
+This was a single arm, open label extension trial. Subjects who completed 12 months of
+treatment in the main period of Study CP-4-006 were switched to somatrogon and continued
+on somatrogon 0.66 /kg/week. Data from OLE Year 2 and OLE Year 3 are included in this
+submission and discussed below.
+
+Version date: October 12, 2018
+Reference ID: 5197623
+
+37
+
+BLA 761184
+Ngenla (somatrogon-ghla)
+CP-4-004 OLE
+Year 6 [PEN Year 3] and OLE Year 7 [PEN Year 4]) This was an open label, single arm period.
+Somatrogon was administered using vial/syringe from the main period (Periods I to II) through
+the Periods III and IV in OLE study. All subjects had an option to switch from somatrogon
+administration using vial/syringe to the administration using a pen injector in PEN Period V
+during or after completing Year 2, Year 3, or Year 4 of Period IV. Subjects who completed PEN
+Period Year 1 could proceed to PEN Period Year 2. The Applicant included additional data from
+PEN Year 3 and Year 4 in this submission.
+Study CP-4-009
+During the pre-BLA resubmission meeting, the Agency asked the Applicant to submit all
+available data evaluating the immunogenicity effect on safety and effectiveness of somatrogon.
+As such, the Applicant provided data from Study CP-4-009, a phase 3, open-label, multicenter,
+randomized, active-controlled study of 12-month duration, followed by an open-label single
+arm extension period, evaluating the safety and efficacy of somatrogon compared to
+Genotropin in 44 Japanese pre-pubertal children with GHD.
+Eligible subjects were randomized 1:1 to receive somatrogon or daily Genotropin. During the
+first 6 weeks, somatrogon was administered in 3 stepwise escalating doses (0.25 mg/kg/week,
+0.48 mg/kg/week, and 0.66 mg/kg/week), each for 2 weeks sequentially, then subjects
+continued to receive somatrogon at a dose of 0.66 mg/kg/week for the remaining 46 weeks.
+The dose of Genotropin was 0.025 mg/kg/day. The study was followed by an uncontrolled OLE
+period of 12-month duration in which all subjects were treated with somatrogon
+0.66 mg/kg/week.
+The study included prepubertal children (3 to < 11 years for boys and 3 to < 10 years for girls)
+with a confirmed diagnosis of GHD by two GH provocative tests, who were naïve to treatment
+with hGH, and had impaired growth defined as AHV below the 25th percentile for chronological
+age (HV < -0.7 standard deviation score) and sex, and with a baseline IGF-1 level of at least 1 SD
+below the mean.
+The primary efficacy endpoint was AHV after 12 months of treatment. The Applicant’s
+prespecified analysis of the primary efficacy endpoint was performed using an analysis of
+covariance model. The model included treatment and gender as factors, and peak GH levels at
+screening and height SDS as covariates. Non-inferiority was to be establish if the lower limit of
+the two-sided 95% CI for mean difference “somatrogon-Genotropin” in the primary analysis
+was ≥-1.8 cm/year. Secondary endpoints included growth parameters (AHV after 6-months of
+treatment, change in height SDS at 6 and 12-months from baseline, change in bone maturation
+at 12 months compared to screening bone age), biochemical marker measurements (absolute
+
+Version date: October 12, 2018
+Reference ID: 5197623
+
+38
+
+BLA 761184
+Ngenla (somatrogon-ghla)
+IGF-1 levels and IGF-1 SDS across study visits, IGFBP-3 levels, and IGFBP-3 SDS across study
+visits).
+Safety endpoints included immunogenicity assessment.
+Of note, the study protocol including statistical analysis plan were not reviewed by the Agency
+prior to the study initiation.
+The study met its primary efficacy endpoint. The estimated treatment difference in the mean
+AHV at week 52 between somatrogon (mean AHV of 10.07 cm/year) and Genotropin (mean
+AHV of 9.73 cm/year) was 0.34 cm/year [95% confidence interval (CI) -0.23, 0.91]. The lower
+limit of the 95% CI (-0.23 cm/year) was greater than the prespecified non-inferiority margin of ≥
+-1.8 cm/year, thus, the impact of somatrogon on AHV at 52 weeks was non-inferior to that of
+Genotropin. The results of secondary analyses were supportive and demonstrated comparable
+improvement in all growth parameters as well as normalization of IGF-1 SDS in both treatment
+groups.
+Assessment of Efficacy and Immunogenicity Across Trials
+8.1.1.1.
+
+Patient Disposition
+
+Study CP-4-006, OLE
+Table 7 shows the disposition of subjects. All subjects who completed the main phase entered
+the OLE period (212 subjects). Of the 212 subjects who entered the OLE, 166 subjects were
+ongoing by the time of data cutoff for the current submission. Of 46 who discontinued
+treatment during the OLE period, 24 subjects did so as they completed the study after 1 year in
+OLE according to protocol requirements in India. Of 22 subjects who discontinued OLE period
+prematurely, 9 subjects discontinued the study due to the AEs. The subjects who discontinued
+study drug due to AEs are reviewed in Section 8.2.3. Of the 22 who discontinued study
+preliminary, 14 (64%) were ADA positive during OLE period of Study CP-4-006.
+Of 212 subjects enrolled in OLE, 61 subjects (29%) completed OLE Year 3.
+
+Version date: October 12, 2018
+Reference ID: 5197623
+
+39
+
+BLA 761184
+Ngenla (somatrogon-ghla)
+Table 7. Subjects Disposition, Study CP-4-006, OLE
+Number (%) of Subjects
+Discontinued
+Adverse event
+Withdrawal by caregiver/subject
+Other
+Completed Study a
+Ongoing
+Completed OLE year 1
+Completed OLE year 2
+Completed OLE year 3
+Achieved final adult height
+
+Total
+(N = 212)
+22 (10.4)
+9 (4.2)
+11 (5.2)
+2 (0.9)
+24 (11.3)
+166 (78.3)
+204 (96.2)
+172 (81.1)
+61 (28.8)
+0
+
+Source: Data excerpted from Table 7, Integrated Summary of Immunogenicity BLA Resubmission
+All subjects in Indian stopped treatment and completed study at the end of OLE Year 1, according to the protocol
+Abbreviations: OLE, open-label extension
+a
+
+Study CP-4-004
+Table 8 shows the disposition of subjects during the OLE periods. Of the 48 subjects who
+entered the OLE period of Study CP-4-004, 26 (54%) subjects finished OLE Pen Year 3, and 23
+(48%) subjects were ongoing at the data cutoff for the current submission. Of the 31 subjects
+entering in Pen Year 3, 5 subjects discontinued the study during Pen Year 3 (one subject due to
+AE) and 3 subjects discontinued the study during Pen Year 4 (no subject discontinued due to
+AE). Four (8.3%) subjects had achieved final adult height during Study CP-4-004.
+Table 8. Disposition, Study CP-4-004, OLE
+Number (%) of Subjects
+Discontinued
+Adverse event
+Withdrawal by caregiver/subject
+Other*
+Ongoing
+Completed OLE year 1
+Completed OLE year 2
+Completed OLE year 3
+Completed PEN year 1
+Completed PEN year 2
+Completed PEN year 3
+Completed PEN year 4
+Achieved final adult height b
+
+Source: Data excerpted from Table 1, Integrated Summary of Immunogenicity BLA Resubmission
+* Lost to follow up, protocol violation.
+Abbreviations: OLE, open label extension; PEN, prefilled pen device
+
+Total
+(N = 48)
+23 (48)
+3 (6.2)
+14 (29.1)
+6 (12.5)
+23 (48)
+43 (89.5)
+41 (85.4)
+37 (77)
+35 (73)
+31 (64.6)
+26 (54.1)
+2 (4.2)
+4 (8.3)
+
+Study CP-4-009
+Out of 44 subjects who were randomized during the main study period (22 to somatrogon and
+22 to Genotropin), 1 subject discontinued due to an AE in the Genotropin treatment arm. Out
+of 43 who completed the 12-month main study, 42 subjects entered the OLE period. One
+subject discontinued the OLE period due to withdrawal by the parent/guardian.
+Version date: October 12, 2018
+Reference ID: 5197623
+
+40
+
+BLA 761184
+Ngenla (somatrogon-ghla)
+8.1.1.2.
+
+Immunogenicity Results
+
+Study CP-4-006, OLE
+A high incidence of ADA in somatrogon-treated subjects was noted in the clinical development
+program during the review of the initial submission (refer to Integrated Review, Section 6.3.1,
+for details), with 77% of the subjects becoming ADA positive during the main 12-month of main
+period (Table 9).
+The incidence of ADA remained elevated during the OLE period but did not increase during the
+subsequent years of treatment; in subjects originally randomized to somatrogon, the incidence
+of ADA positivity during 3 years of exposure to somatrogon in the OLE was similar to the
+incidence of ADA during the main treatment period (Table 9). For subjects switched from
+Genotropin to somatrogon, the incidence of ADA increased during the first 12 months of OLE
+but remained lower during the subsequent years of treatment compared to subjects who were
+originally randomized to somatrogon (Table 9).
+ADAs most often showed specificity to hGH, while very few subjects (2 in OLE Year 2 and one in
+OLE Year 3) with ADA had antibodies that showed specificity to CTP.
+Table 9. Incidence of ADA by Year in Study CP-4-006
+Main period
+Somatrogon
+Genotropin
+OLE month 12
+Somatrogon/somatrogon
+Genotropin/somatrogon
+OLE month 24
+Somatrogon/somatrogon
+Genotropin/somatrogon
+OLE month 36
+Somatrogon/somatrogon
+Genotropin/somatrogon
+
+N
+
+ADA+
+
+Nab
+
+109
+115
+
+84 (77%)
+18 (16%)
+
+2 (2%)
+
+104
+108
+
+78 (75%)
+36 (33%)
+
+3 (3%)1
+
+87
+84
+
+60 (69%)
+31 (37%)
+
+4 (5%)2
+
+27
+28
+
+21 (78%)
+13 (46%)
+
+Source: Data excerpted from Table 9, Integrated Summary of Immunogenicity BLA Resubmission
+Gray text indicates data provided with previous submission
+1
+Of these 3 subjects, one (# (b) (6) ) was not reported with previous submission
+2
+Of these 4 subjects, two (# (b) (6) # (b) (6) ) were new, one subject (# (b) (6) ) had Nabs during main period, and one subject had Nabs
+during OLE Year 1
+Abbreviations: ADA, antidrug antibodies; Nab, neutralizing antibody; OLE, open-label extension
+
+Figure 3 shows the cumulative time to ADA seroconversion during Study CP-4-006. The figure
+illustrates that majority of the subjects originally randomized to somatrogon during main period
+of Study CP-4-006 seroconverted during the first 6 to 12 months of exposure to study drug (70%
+ADA+ at Month 6, 77% at Month 12), with 84% developing antibodies by Month 24. Subjects
+originally randomized to Genotropin during the main period of Study CP-4-006 had a lower rate
+of seroconversion, with 50% and 55% of the subjects developing antibodies after 12 and 24
+months, respectively, of exposure to somatrogon. Overall, 70.5% (153 out of 217) of all subjects
+exposed to somatrogon during Study CP-4-006 developed ADA.
+Version date: October 12, 2018
+Reference ID: 5197623
+
+41
+
+BLA 761184
+Ngenla (somatrogon-ghla)
+Figure 3. Cumulative Time to First Positive ADA Result (Study CP-4-006)
+
+Source: Integrated Summary of Immunogenicity BLA Resubmission, Figure 4.
+Abbreviations: ADA, antidrug antibodies; OLE, open label extension
+
+Most (97% in somatrogon/somatrogon and 77% in Genotropin/somatrogon arm) subjects who
+developed ADA had persistent antibodies (Table 10). According to published criteria (Shankar et
+al. 2014), ADA persistence was defined as ≥ 2 ADA-positive samples at time points separated by
+a period of ≥ 16 weeks (irrespective of any ADA-negative samples in between), or ADA-positive
+sample only at the last time point of the study treatment period, or at a time point < 16 weeks
+before an ADA-negative last sample.
+Table 10. Summary of ADA Status During Study CP-4-006
+Somatrogon/somatrogon
+Genotropin/somatrogon
+(N = 106)
+(N = 107)
+Antibody Status
+n (%)
+n (%)
+ADA-positive
+91 (86%)
+60 (56%)
+Persistent
+88 (97%a)
+46 (77% a)
+a
+Transient
+3 (3% )
+14 (23% a)
+ADA-negative
+15 (14%)
+47 (44%)
+
+Total
+(N = 213)
+n (%)
+151 (71%)
+134 (89% a)
+17 (11% a)
+62 (29%)
+
+Source: Data excerpted from Table 3.1.12 ISI-appendix tables CP-4-006 Integrated Summary of Immunogenicity BLA Resubmission
+a
+Percent calculated using ADA-positive subjects as denominator
+Abbreviations: ADA, anti-drug antibody
+
+Antibody Titers
+The median ADA titers for subjects originally randomized to somatrogon remained stable
+during the open-label extension period of Study CP-4-006. For subjects originally randomized to
+Genotropin, the median ADA titer was lower (Table 11).
+
+Version date: October 12, 2018
+Reference ID: 5197623
+
+42
+
+BLA 761184
+Ngenla (somatrogon-ghla)
+Table 11. Summary of ADA Titer, Study CP-4-006
+Originally Randomized to
+Somatrogon
+ADA Titer by Time Point
+(N = 109)
+Month 6
+N
+73
+Median
+250
+Range (minimum, maximum)
+(10, 6250)
+Month 12
+N
+83
+Median
+50
+Range (minimum, maximum)
+(10, 6250)
+OLE month 6
+N
+68
+Median
+250
+Range (minimum, maximum)
+(10, 6250)
+OLE month 12
+N
+57
+Median
+250
+Range (minimum, maximum)
+(10, 6250)
+OLE month 18
+N
+56
+Median
+150
+Range (minimum, maximum)
+(10, 6250)
+OLE month 24
+N
+60
+Median
+250
+Range (minimum, maximum)
+(10, 6250)
+OLE month 30
+N
+59
+Median
+50
+Range (minimum, maximum)
+(10, 1250)
+
+Source: Data excerpted from Table 10 Integrated Summary of Immunogenicity BLA Resubmission.
+For titer values, 6250 was the highest dilution possible and was used to represent values >6250.
+Gray text indicates data provided with previous BLA submission.
+Abbreviations” ADA, anti-drug antibody; OLE, open-label extension
+
+Originally Randomized to
+Genotropin
+(N = 108)
+
+21
+50
+(10, 6250)
+24
+50
+(10, 6250)
+26
+50
+(10, 6250)
+31
+50
+(10, 6250)
+33
+50
+(10, 6250)
+
+Neutralizing Antibodies
+Neutralizing antibodies (NAbs) are ADAs that directly block the binding of drug to its receptor
+(i.e., hGH receptor). The presence of NAbs may reduce both drug efficacy and endogenous/
+native GH activity. NAbs are more likely to be present when the incidence and prevalence of
+ADA is high.
+Eight subjects in Study CP-4-006 (in main and OLE period; until data cutoff of March 31, 2022)
+developed neutralizing antibodies; 3 of them were newly identified since the original
+submission (Table 12, also refer to Integrated Review in DARRTS, dated January 21, 2022,
+Section 6.3.1, for details). Six of the 8 subjects with positive NAbs were originally randomized to
+(b) (6)
+somatrogon during the main period. All but one (subject
+in whom follow up testing
+was not performed) had documented resolution of their NAbs. Six of the 8 subjects had positive
+NAbs at one assessment only and correlated with the peak ADA titer (Table 12). There was no
+correlation between time of development of neutralizing antibodies and the duration of
+Version date: October 12, 2018
+Reference ID: 5197623
+
+43
+
+BLA 761184
+Ngenla (somatrogon-ghla)
+exposure to somatrogon, with 3 subjects having positive neutralizing antibodies during year 1,
+3 subjects during year 2, and 2 subjects during year 3 of exposure to somatrogon, respectively.
+Table 12. Summary of Neutralizing Antibodies During Study CP-4-006
+Gender/Age Time(s) of NAb Positivity
+Subject ID
+(Years)
+During Study
+(b) (6)
+Male/7.3
+Month 21
+Month 24
+Month 30
+Male/9.5
+Month 24
+Male/6.0
+Month 36
+Male/8.6
+Month 36
+Female/9.5
+Month 12
+Male/6.3
+Month 12
+Male/3.0
+Month 6
+Month 12
+Month 24
+Female/6.0
+Month 15
+
+ADA Titer at
+Time of NAbs
+1250
+250
+>6250
+1250
+>6250
+1250
+250
+10
+>6250
+>6250
+1250
+>6250
+
+Source: Data excerpted from Table 3.1.13a ISI-appendix tables CP-4-006 Integrated Summary of Immunogenicity BLA Resubmission
+Gray text indicates data provided with previous BLA submission
+Abbreviations: Nab, neutralizing antibody; ADA, anti-drug antibody
+
+Immunogenicity Results in Subjects Who Discontinued Somatrogon during Study CP-4-006
+Given the homology in amino acid sequence between somatrogon, native growth hormone and
+other recombinant hGH products, there is concern that anti-somatrogon-antibodies may crossreact with other growth hormone products, and if persistent, they may also result in nonresponsiveness to other hGH replacement therapy. As such, the Agency asked the Applicant to
+provide follow up data on the immunogenicity status in subjects who discontinued somatrogon
+and had positive ADA at the time of study drug discontinuation, as well as growth data in those
+subjects who have started other hGH products. There were 46 subjects who discontinued
+somatrogon treatment during the OLE period; 22 subjects completed the study after OLE Year 1
+(per country specific protocol in India) and 24 subjects discontinued the study prematurely
+(refer to Table 7. Subjects Disposition, Study CP-4-006, OLE, Section 8.1.1.1). Of the 46 subjects,
+21 had positive ADA at their last assessment before treatment discontinuation. Of the 21
+subjects, the Applicant was able to collect and report follow-up data on the immunogenicity
+status after somatrogon discontinuation and the use of other hGH therapies in 13 subjects
+(Figure 4).
+
+Version date: October 12, 2018
+Reference ID: 5197623
+
+44
+
+BLA 761184
+Ngenla (somatrogon-ghla)
+Of these 4, 2 subjects
+had growth data available (data received from the
+Applicant on January 4, 2023, following an Information Request submitted by the Agency on
+December 21, 2022):
+(b) (6)
+
+- Subject
+had a height SDS of -1.24 at the time of end of OLE, and -0.90 at the
+time of the unscheduled visit, 675 days after somatrogon discontinuation and 369 days
+after starting daily hGH therapy, respectively, suggestive of continued growth while on
+daily hGH therapy. This subject had positive NAbs while on somatrogon therapy (at
+Months 6 and 12 of the main study and at OLE Month 15).
+(b) (6)
+- Subject
+had a height SDS of -1.56 at the time of end of OLE, and -2.92 at the
+time of the unscheduled visit, 819 days after somatrogon discontinuation, and 131 days
+after starting daily hGH therapy, respectively. The growth response to initiation of daily
+hGH therapy cannot be assessed in this subject due to lack of height data prior to start
+of hGH therapy, however, decrease in height SDS may be due to interruption of
+treatment with hGH for > 1 year.
+(b) (6)
+
+In summary, the longer-term data (i.e., up to 4 years) from Study CP-4-006 show persistence of
+ADAs in the majority of subjects with continued somatrogon exposure. Most ADA positive
+samples showed specificity to hGH. NAbs developed in 8 subjects, with new 3 subjects reported
+in the resubmission. The presence of NAbs was transient (i.e., at a single timepoint) in most
+subjects, and all subjects tested negative for NAbs even with continued somatrogon treatment.
+Data from subjects who were ADA positive and discontinued somatrogon suggest that the
+antibodies resolve over time.
+Study CP-4-004, OLE
+The incidence of ADA during OLE Pen Years 3 and 4 was 38.7% and 42.3%, respectively, which is
+similar to the incidence observed during OLE Pen Years 1 and 2 (38% and 37%, respectively). No
+NAbs were reported during Study CP-4-004 (main and OLE periods) until data cutoff of March
+31, 2022.
+In summary, immunogenicity data from the OLE Pen Years 3 and 4 showed persistence of ADA
+at similar incidence as observed during previous years. No NAbs were reported during Study CP4-004.
+Study CP-4-009
+The immunogenicity profile of subjects in this study was consistent with Study CP-4-006. During
+the main period, 81% (18 out of 22) of the subjects randomized to somatrogon and 18 % (4 out
+of 22) subjects randomized to Genotropin developed ADA. Seroconversion developed between
+months 3 to 6 and the antibodies were persistent in all cases. Two (9%) of the 22 subjects had
+transient neutralizing antibodies to somatrogon at one time point only during the main study
+period (1 subject at month 6 and 1 subject at baseline, pre-dose). During the OLE period of 1
+year duration, 15 out of the 18 subjects originally randomized to somatrogon who were ADA
+positive in the main period continued to be ADA positive. Of the subjects originally randomized
+Version date: October 12, 2018
+Reference ID: 5197623
+
+46
+
+BLA 761184
+Ngenla (somatrogon-ghla)
+to Genotropin during main study period, 60% (12 out of 20) developed positive ADA during the
+OLE period. No subjects had positive neutralizing antibodies during the OLE period. Most
+subjects who tested ADA positive to somatrogon showed specificity to hGH component of the
+molecule.
+In summary, the immunogenicity data in Study CP-4-009 showed similar findings with those
+from Study CP-4-006, with high incidence and persistence of ADA and transient NAbs in a few
+subjects.
+Conclusions
+The immunogenicity data from the somatrogon clinical development program shows a high rate
+of ADA formation (71% of subjects tested ADA-positive during Study CP-4-006 overall) with
+specificity to hGH. The incidence of ADA after 2 years of treatment was higher in subjects
+originally randomized to somatrogon vs Genotropin (i.e., 84% of subjects originally randomized
+to somatrogon developed ADA vs 55% of subjects originally randomized to Genotropin). The
+long-term data (i.e., up to 4 years of exposure in Study CP-4-006 and up to 8 years of exposure
+in Study CP-4-004) suggest that ADA persist overtime in the majority of subjects, and ADA titers
+remained stable. While NAbs developed in a few subjects (8 out of 212 subjects exposed to
+somatrogon in Study CP-4-006 and 1 out of 43 subjects exposed to somatrogon in Study CP-4009), they were detected at one timepoint only in majority (7 out of 9) of NAbs-positive
+subjects, were transient in all subjects, and were not dependent on the duration of exposure to
+somatrogon. Data from subjects who were ADA positive and discontinued somatrogon suggest
+that the ADA resolve/decrease in titer over time. There are very limited data on subjects who
+initiated other GH products after somatrogon discontinuation (4 subjects, and only 2/4 subjects
+had growth assessment), therefore an assessment of the impact of anti-somatrogon antibodies
+on growth when transitioning to other GH products could not be assessed. The risk of a
+potential increase in immunogenicity beyond what was observed up to the cut-off date is
+considered to be low based on the long-term immunogenicity assessment.
+Lastly, epitope spreading during continuous administration of an immunogenic protein such as
+somatrogon may lead to the development of ADA against new epitopes in the molecule over
+time, including neutralizing and non-neutralizing antibodies. These are antibodies to epitopes
+of the protein that were not immunogenic in the first place. Moreover, environmental or
+physiological factors such as infection or hormonal changes can exacerbate epitope spreading.
+The risk of epitope spreading that could impact efficacy or safety of somatrogon is low. This is
+based on the fact that most patients who seroconverted did so within the first 6-12 months of
+treatment and ADA titers plateaued or decreased thereafter. Furthermore, subjects were most
+likely exposed to the mentioned enhancing factors during the course of the clinical trial.
+Epitope mapping to determine the extent of epitope spreading in somatrogon is thus not
+justified given such a low-risk impact.
+
+Version date: October 12, 2018
+Reference ID: 5197623
+
+47
+
+BLA 761184
+Ngenla (somatrogon-ghla)
+8.1.1.3.
+
+Impact of Immunogenicity on Efficacy
+
+Study CP-4-006, OLE
+During the 12-month main period of Study CP-4-006, there were no meaningful differences in
+growth parameters (AHV and height SDS) between ADA-positive and ADA-negative subjects in
+somatrogon-treated subjects, with growth also being comparable to the growth observed in the
+Genotropin arm (refer to Section 6.3.1., Integrated Review, dated January 21, 2022).
+The additional long-term growth data included in the re-submission show that during the OLE
+of this study up to Month 36, subjects continued to show improvement in growth measures.
+(Figure 5 and Figure 6). There was a slight decline in growth velocity after the first year of
+treatment that is consistent with growth patterns observed with daily hGH products. Children
+with GHD treated with daily hGH products typically have a growth acceleration from a pretreatment growth velocity of 3-4 cm/year to 10-12 cm/year during first year of treatment,
+followed by a slight decline to 7-9 cm/year during the following years (Ali and Cohen 2009).
+Similar growth velocity values were observed following treatment with somatrogon (Figure 5),
+but growth velocity remained above the pre-treatment values.
+During the OLE period, there was also no observed difference in growth between the ADApositive and ADA-negative subjects. At OLE Months 24 and 36, the AHV (SD) was 7.87 (1.79)
+cm/year and 7.23 (1.90) cm/year in ADA-positive subjects, respectively, and 7.9 (1.93) cm/year
+and 7.10 (1.83) cm/year in ADA-negative subjects, respectively.
+The height SDS data were also supportive of AHV findings and demonstrated continued
+improvement over time, reaching a value close to zero by OLE Month 36 (Figure 6). Subjects
+who were ADA-positive, including OLE Years 2 (Month 24) and 3 (Month 36), had values for
+height SDS similar to ADA-negative subjects. At OLE Months 24 and 36, height SDS (SD) was 0.97 (0.81) and -0.54 (0.95) for ADA-positive subjects, respectively, and -0.88 (0.93) and -0.59
+(1.13) for ADA-negative subjects (Figure 6).
+
+Version date: October 12, 2018
+Reference ID: 5197623
+
+48
+
+BLA 761184
+Ngenla (somatrogon-ghla)
+Figure 5. Mean Height Velocity Over Time by ADA Status, Study CP-4-006, Main and OLE, Full
+Analysis Set
+
+Source: Figure 5, Integrated Summary of Immunogenicity BLA Resubmission
+ADA-positive defined as the subjects who tested positive after receiving drug at any time during the study.
+Main study visits (Month 6 and Month 12) are only presented for somatrogon/somatrogon group since subjects in “Genotropin/somatrogon”
+group are not tested for Somatrogon ADA in the main study period.
+Height Velocity is calculated on an annual basis, with height at Month 12 of the previous year serving as reference value.
+Abbreviations: ADA, anti-drug antibody; OLE, open-label extension; SD, standard deviation
+
+Figure 6. Mean Height SDS and Mean Change From Baseline in Height SDS Over Time by ADA
+Status, Study CP-4-006, Main and OLE, Full Analysis Set
+
+Source: Figure 7, Integrated Summary of Immunogenicity BLA Resubmission
+ADA-positive defined as the subjects who tested positive after receiving drug at any time during the study.
+Main study visits (Month 6 and Month 12) are only presented for somatrogon/somatrogon group since subjects in “Genotropin/somatrogon”
+group are not tested for Somatrogon ADA in the main study period.
+Change in height SDS is calculated cumulatively from main study baseline to end of each study year.
+Abbreviations: ADA, anti-drug antibody; OLE, open-label extension; SD, standard deviation; SDS, standard deviation scores
+
+Version date: October 12, 2018
+Reference ID: 5197623
+
+49
+
+BLA 761184
+Ngenla (somatrogon-ghla)
+Additionally, there was no correlation between ADA titer and AHV (Figure 7) or height SDS
+(Figure 8) during OLE Years 2 and 3, which is consistent with findings from the main period and
+OLE Year 1.
+
+Figure 7. Mean AHV Over Time in ADA-Positive Subjects by ADA Titer, Study CP-4-006 (Main and
+OLE), Full Analysis Set
+
+;
+Source: Figure 6, Integrated Summary of Immunogenicity BLA Resubmission
+Abbreviations: ADA, anti-drug antibodies; AHV, annualized height velocity; OLE, open-label extension
+
+Version date: October 12, 2018
+Reference ID: 5197623
+
+50
+
+BLA 761184
+Ngenla (somatrogon-ghla)
+Figure 8. Mean Height SDS Over Time in ADA-Positive Subjects by ADA Titer, Study CP-4-006
+(Main and OLE), Full Analysis Set
+
+Source: Figure 6, Integrated Summary of Immunogenicity BLA Resubmission
+Abbreviations: ADA, anti-drug antibodies; SDS, standard deviation score; OLE, open-label extension
+
+Neutralizing antibodies (NAbs) Effect on Growth
+Because NAbs block the binding of the drug to the hGH receptor, there is concern that they can
+reduce both drug efficacy and endogenous GH activity.
+During the previous submission review cycle, one (#
+) of the five subjects who
+developed NAbs was noted to have a significant decrease in AHV (from 11.8 to 3.0 cm/year) at
+Month 18 (OLE Month 6) after testing positive for NAb at Month 12 (refer to Integrated Review,
+Section 6.3.1, for details). The observed decline in AHV remained unexplained at the end of the
+first cycle review because of insufficient follow up time, and an immunogenic effect on growth
+could not be ruled out. With the current submission, the Applicant included additional
+information regarding this subject.
+(b) (6)
+
+He was a 6-year-old boy from India who was randomized to somatrogon 0.66 mg/kg/week in
+Study CP-4-006. Following the main phase, he had a drug interruption of 116 days before
+enrolling in the OLE phase due to delay in regulatory approval of the OLE protocol. His last
+study visit in the OLE was Month 9 (12 months after completing the main period). According to
+country-specific protocol requirements, he completed study at the end of OLE Month 12 (the
+India-specific protocol allowed participants to enroll in the OLE period of the study for only 1
+year). Of note, he had severe short stature (height/ heigh SDS: 79.5 cm/-7.48) and weight
+deficit (9 kg) at baseline. During the first year of treatment with somatrogon, he had a
+significant improvement in growth velocity at approximately 12 cm/year, followed by a
+significant decline in growth velocity to 3 cm/year at OLE Month 6; height SDS also showed
+Version date: October 12, 2018
+Reference ID: 5197623
+
+51
+
+BLA 761184
+Ngenla (somatrogon-ghla)
+continued decrease. The new data included with the current submission provided further
+evidence of decreased growth velocity at 3 cm/year at OLE Month 9 (in addition to OLE Month
+6), raising the question of whether there was lack of drug efficacy (Table 14). He had a low ADA
+titer from Month 6 until OLE Month 15, and positive NAbs at Month 12, as previously noted.
+Follow up immunogenicity data demonstrated negative ADAs and NAbs at OLE Months 18 and
+21, respectively. An additional sample collected at what would have been OLE Month 40 was
+also ADA negative. At this time, the subject underwent genetic testing, which revealed
+homozygous whole gene deletion of the GH1 gene, consistent with a diagnosis of isolated GHD
+(IGHD) type 1A, a rare autosomal recessive form of GHD (Keselman et al. 2012). Individuals with
+this diagnosis have severe GHD and early-onset growth attenuation with severe short stature
+throughout their lifetime. Because of complete lack of GH, exposure to hGH does not occur
+during fetal life, resulting in postnatal immunological intolerance to GH and development of
+anti-GH antibodies following exposure to treatment with any GH products. Whereas the cause
+of the growth attenuation in this condition is believed to be due to the development of NAbs to
+exogenous hGH, immunogenicity and clinical responses to exogenous hGH containing products
+has been reported to be quite variable. As such, the significant decline in growth velocity in this
+subject is believed to be the result of the underlying diagnosis of IGHD, and not a direct effect
+of somatrogon-induced immunogenicity.
+The effect of the drug on growth was further evaluated in the remaining 7 subjects who
+developed neutralizing antibodies during Study CP-4-006 (the 3 subjects newly identified with
+the current submission, and the 4 subjects identified during previous submission, in whom
+additional data were provided).
+Growth velocity evaluation using 12-month (i.e., from Month 12 to Month 24), and 24-month
+(i.e., from Month 12 to Month 36) interval data showed improvement in growth and changes
+were of similar magnitude in both NAbs-positive and NAbs-negative subjects (Figure 9 and
+Figure 10).
+
+Version date: October 12, 2018
+Reference ID: 5197623
+
+52
+
+BLA 761184
+Ngenla (somatrogon-ghla)
+provided with previous BLA submission. A decline in AHV that correlated with the timepoints
+during which Nabs were positive was observed when looking at the AHV data by study month
+(Table 14). However, there were other factors that could explain the short-term decline in AHV,
+(b) (6)
+including: a) temporary dose interruption (subjects
+); b)
+(b) (6)
+dose reduction (subject
+); c) algorithm used for growth velocity calculation, which may
+(b) (6)
+overestimate a growth decline if growth is measured at frequent intervals (subjects
+(b) (6)
+), or a combination of above-mentioned factors.
+In addition, height SDS continued to improve in all 7 subjects with positive NAbs until last
+assessment, suggesting continued study drug benefit on growth, despite presence of NAbs
+(Table 14).
+Table 14. ADA Titers and Growth Measurements in Subjects With Positive NAbs Over Time, Study
+CP-4-006 (Main and OLE)
+Gender/Age
+Subject
+(Years) at
+Timepoint From
+ADA
+AHV
+IGF-1
+ID
+Entry
+Entry
+Titer
+NAb
+(cm/year) HT SDS
+SDS
+(b) (6)
+Male/ 7.3
+Baseline
+N
+NA -3.745
+-3.54
+Month 3
+50
+N
+17.8
+-3.19
+-0.80
+Month 6
+250
+N
+15.9
+-2.66
+0.07
+Month 12
+250
+N
+13.7
+-2.14
+NA
+Month 18
+250
+N
+9.8
+-1.62
+-2.38
+Month 24
+250
+N
+7.1
+-1.68
+-0.03
+Month 30
+>6250
+Pos
+7.2
+-1.46
+-2.69
+Month 36
+50
+N
+9.8
+-0.86
+0.25
+Month 42
+10
+N
+15.3
+-0.04
+-0.12
+Month 48
+NA
+NA
+12.44
+0.22
+0.46
+(b) (6)
+Male/ 9.5
+Baseline
+N
+N
+NA
+-3.66
+-3.50
+Month 6
+10
+N
+10.9
+-3.04
+1.33
+Month 12
+50/250
+N
+10.8
+-2.50
+2.61
+Month 18
+1250
+N
+10.8
+-1.98
+1.54
+Month 24
+1250
+Pos
+9.2
+-1.81
+2.28
+Month 30
+250
+N
+6.15
+-1.71
+1.46
+Month 36
+250
+N
+5.31
+-1.82
+0.77
+Month 42
+250
+N
+7.98
+-1.80
+1.73
+Month 48
+250
+N
+8.70
+-1.67
+1.96
+(b) (6)
+* Female/ 9.5
+Baseline
+N
+N
+NA
+-6.86
+-3.54
+Month 6
+250
+N
+15.4
+-5.52
+-3.21
+Month 12
+250
+Pos
+15.5
+-4.33
+0.63
+Month 18
+10
+N
+8.3
+-3.79
+1.41
+Month 24/EOS
+50
+N
+9.7
+-3.41
+1.28
+(b) (6)
+* Male/ 6.3
+Baseline
+N
+N
+NA
+-7.48
+-3.70
+Month 6
+10
+N
+11.8
+-6.95
+-3.54
+Month 12
+10
+Pos
+11.8
+-6.40
+-1.84
+Month 15
+10
+N
+2.39
+-6.74
+-1.63
+Month 18
+N
+N
+2.95
+-6.75
+-1.68
+Month 21
+N
+N
+3.07
+-6.76
+-1.68
+(b) (6)
+* Male/ 3.0
+Baseline
+N
+N
+NA
+-6.18
+-3.05
+Month 6
+>6250
+Pos
+20.1
+-3.73
+0.27
+Month 12
+1250
+Pos
+17.8
+-2.25
+1.19
+Month 18
+1250
+N
+9.7
+-1.68
+2.13
+
+Version date: October 12, 2018
+Reference ID: 5197623
+
+55
+
+BLA 761184
+Ngenla (somatrogon-ghla)
+Gender/Age
+(Years) at
+Entry
+
+Subject
+ID
+(b) (6)
+
+*
+
+Female/6.0
+
+(b) (6)
+
+Male/6.0
+
+(b) (6)
+
+Male/8.6
+
+Timepoint From
+Entry
+Month 27/EOS
+Baseline
+Month 6
+Month 12
+Month 15
+Month 18
+Baseline
+Month 6
+Month 12
+Month 18
+Month 24
+Month 36
+Month 42
+Month 48
+Baseline
+Month 6
+Month 12
+Month 18
+Month 24
+Month 30
+Month 36
+Month 42
+Month 45
+Month 48
+Month 51
+
+ADA
+Titer
+1250
+N
+1250
+250
+>6250
+1250
+NA
+NA
+N*
+1250
+NA
+>6250
+1250
+1250
+NA
+NA
+N
+10
+NA
+1250
+1250
+50
+NA
+NA
+NA
+
+NAb
+Pos
+N
+N
+N
+Pos
+N
+NA
+NA
+NA
+N
+NA
+Pos
+N
+N
+NA
+NA
+NA
+N
+NA
+N
+Pos
+N
+NA
+NA
+NA
+
+AHV
+(cm/year) HT SDS
+9.3
+-1.24
+NA
+-5.20
+14.57
+-4.12
+13.26
+-3.27
+6.51
+-3.26
+8.73
+-2.91
+NA
+-1.87
+13.45
+-1.06
+10.55
+-0.91
+14.13
+-0.12
+12.14
+0.15
+8.09
+0.49
+8.91
+0.82
+7.58
+0.79
+NA
+-3.25
+10.46
+-2.72
+9.36
+-2.39
+10.62
+-1.85
+10.52
+-1.32
+10.17
+-0.88
+10.09
+-0.51
+3.99
+-0.58
+6.43
+-0.41
+6.5
+-0.40
+7.7
+-0.33
+
+IGF-1
+SDS
+3.02
+-2.93
+0.74
+0.87
+-3.03
+0.22
+-2.81
+-0.11
+-0.60
+2.68
+2.90
+1.43
+1.74
+1.18
+-3.75
+-3.31
+-0.57
+-1.15
+0.15
+0.09
+-3.53
+2.27
+NA
+NA
+NA
+
+Source: Prepared by the Medical Officer with data excerpted from the Integrated Summary of Immunogenicity, BLA Resubmission, Table
+3.1.13a and Applicant’s response to Agency’s Information Request, dated December 21, 2022.
+*Subjects completed the study as per protocol in India, and no further data are available on these subjects.
+Abbreviations: ADA, anti-drug antibodies; AHV, annualized height velocity; HT, height; IGF-1, insulin-like growth factor-1; N, negative; NA, not
+available; NAbs, neutralizing antibodies; OLE, open-label extension; Pos, positive; SDS, standard deviation score
+
+In summary, the additional growth data during OLE Years 2 and 3 in Study CP-4-006 do not
+suggest that either ADAs or NAbs meaningfully impact height velocity. In the single case
+identified during the previous submission in which growth velocity abruptly declined, an
+alternative valid explanation was identified. Transient decreases in height velocity observed in
+subjects who developed NAbs are unlikely to be related to NAbs, because similar patterns of
+growth attenuations are seen in Nab positive and NAb negative subjects. In addition,
+alternative valid explanations were identified for the transient decline in AHV, and height SDS
+continued to improve in all subjects.
+Study CP-4-004, OLE
+In Study CP-4-004, the improvements in AHV and height SDS were similar between ADApositive and ADA-negative subjects in all dose groups at the end of the 12 month dose-finding
+study period, as well as during the extension period of up to 5 years (Years 1-3 and Pen Years 1
+and 2) (refer to Section 6.3.1., Integrated Review, and Figure 11 below). During the OLE PEN
+Year 3, subjects continued to show improvement in growth measures, as evaluated by AHV and
+height SDS, with no difference observed between the ADA-positive and ADA-negative subjects.
+Version date: October 12, 2018
+Reference ID: 5197623
+
+56
+
+BLA 761184
+Ngenla (somatrogon-ghla)
+At OLE PEN Year 3, the AHV (SD) was 5.42 (1.52) cm/year in ADA-positive subjects and 5.42
+(1.91) cm/year in ADA-negative subjects, respectively. These growth velocities were of similar
+magnitude as observed during previous years of exposure to somatrogon in Study CP-4-004.
+Similarly, height SDS continued to improve over time, reaching a value close to zero by OLE Pen
+Year 3, with no difference between ADA-positive and ADA-negative subjects observed each
+year (Figure 11). At OLE PEN Year 3, height SDS (SD) was -0.77 (0.96) for ADA-positive subjects
+and -0.05 (0.83) for ADA-negative subjects.
+Figure 11. Height SDS and Mean Change From Baseline in Height SDS Over Time by ADA Status,
+Study CP-4-004 (All Cohorts Combined)
+
+Source: Figure 2, Integrated Summary of Immunogenicity BLA Resubmission
+ADA-positive defined as the subjects who tested positive after receiving drug at any time during the study.
+Change in height SDS is calculated cumulatively from baseline to end of each study year.
+Abbreviations: ADA, anti-drug antibodies; PEN, prefilled pen device; OLE, open-label extension; SDS, standard deviation score; SD, standard
+deviation
+
+Final Adult Height
+Four subjects, all boys, achieved final adult height during the Study CP-4-004; no other subjects
+in the clinical program achieved final adult height yet. Their median final height was 173.85 cm
+(range: 168.7 to 179.5 cm), consistent with normal average adult height. Three of the subjects
+were ADA negative and one subject was ADA positive (final height 174.5 cm).
+In summary, no apparent effect of immunogenicity on growth was noted with continued
+exposure to somatrogon during OLE Pen Year 3, and for a total of up to 8 years of exposure in
+Study CP-4-004.
+
+Version date: October 12, 2018
+Reference ID: 5197623
+
+57
+
+BLA 761184
+Ngenla (somatrogon-ghla)
+Study CP-4 009
+Similar to Study CP-4-006, no meaningful differences in mean AHV (Table 15) and heigh SDS
+(Table 16) were noted between ADA-positive subjects and ADA-negative subjects during the 12month active controlled period, as well as during the 12-month open label extension period.
+The overall effect of somatrogon on growth parameters was similar to that observed in Study
+CP-4-006. There was no evidence of growth decline in the one subject who had transient NAbs
+after 6 months of exposure to somatrogon during Study CP-4-009, based on growth data
+available for up to 21 months of exposure to somatrogon.
+Table 15. Summary of Mean AHV vs ADA Status, Study CP-4-009 (Main and OLE), Full Analysis Set
+Visit Time Point
+Somatrogon
+Genotropin
+(n)
+(N = 22)
+(N = 22)
+ADA +
+ADA ADA +
+ADA Month 6
+18
+4
+4
+17
+Mean (SD)
+10.02 (2.9)
+8.82 (2.2)
+8.61 (2.6)
+8.28 (1.7)
+Month 12
+18
+4
+4
+17
+Mean (SD)
+9.93 (1.5)
+9.10 (1.9)
+7.89 (1.0)
+7.75 (1.2)
+Originally Randomized to Somatrogon Originally Randomized to Genotropin
+(N = 22)
+(N = 20)
+ADA +
+ADA ADA +
+ADA Month 18
+18
+2
+12
+8
+Mean (SD)
+8.07 (1.0)
+6.90 (1.1)
+8.09 (1.1)
+8.02 (1.6)
+Month 24
+20
+2
+12
+7
+Mean (SD)
+7.61 (1.1)
+6.89 (0.7)
+7.94 (0.9)
+7.95 (1.3)
+
+Source: Prepared by Medical Officer with data excerpted from the Integrated Summary of Immunogenicity Table 32 and CP-4-009 CSR, Table
+14.2.7.1.s1.
+Abbreviations: ADA, anti-drug antibodies; AHV, annualized height velocity; OLE, open-label extension; SD, standard deviation
+
+Table 16. Mean Height SDS by ADA Status, Study CP-4-009 (Main and OLE), Full Analysis Set
+Visit Time point
+Somatrogon
+Genotropin
+(n)
+(N = 22)
+(N = 22)
+ADA +
+ADA ADA +
+ADA Baseline
+20
+2
+12
+10
+Mean (SD)
+-2.58 (0.4)
+-2.89 (0.1)
+-2.57 (0.4)
+-2.48 (0.4)
+Month 6
+20
+2
+12
+9
+Mean (SD)
+-1.95 (0.4)
+-2.66 (0.3)
+-2.28 (0.4)
+-2.16 (0.4)
+Month 12
+20
+2
+12
+9
+Mean (SD)
+-1.56 (0.3)
+-2.48 (0.3)
+-2.05 (0.5)
+-2.0 (0.5)
+Originally Randomized to somatrogon Originally Randomized to Genotropin
+(N = 22)
+(N = 20)
+ADA +
+ADA ADA +
+ADA Month 18
+20
+2
+12
+8
+Mean (SD)
+-1.27 (0.4)
+-2.35 (0.4)
+-1.78 (0.4)
+-1.83 (0.4)
+Month 24
+20
+2
+12
+7
+Mean (SD)
+-1.16 (0.4)
+-2.24 (0.3)
+-1.58 (0.5)
+-1.54 (0.5)
+Source: Prepared by Medical Officer with data excerpted from CP-4-009 CSR, Table 14.2.7.1.1.s1.
+Abbreviations: ADA, anti-drug antibodies; OLE, open-label extension; Pos, positive; SD, standard deviation; SDS, standard deviation score
+
+In summary, no immunogenicity effect on growth was noted after 2 years of exposure to
+somatrogon in Study CP-4-009, consistent with results from Studies CP-4-006 and CP-4-004.
+
+Version date: October 12, 2018
+Reference ID: 5197623
+
+58
+
+BLA 761184
+Ngenla (somatrogon-ghla)
+Conclusions
+Despite high ADA formation in the somatrogon clinical development program, there was no
+apparent impact of immunogenicity, including Nabs, on growth. This conclusion was supported
+by long-term exposure data of up to 4 years in Study CP-4-006 and up to 8 years in Study CP-4004. In addition, the 2-year data from Study CP-4-009 showed no effect of ADA on growth,
+consistent with results observed in Studies CP-4-006 and CP-4-004.
+
+Review of Safety
+Safety Review Approach
+The safety data are derived from two studies in pediatric subjects, age 3 to 11 years, with GHD:
+phase 3, CP-4-006 and phase 2, CP-4-004. The data from CP-4-006 (main period and OLE Year 1
+period) and CP-4-004 (main period and up to 5 years of follow up [OLE Years 1-3, and OLE PEN
+Years 1 and 2]) with a cutoff date of December 21, 2020, has been reviewed during the original
+submission (refer to Integrated Review in DARRTS, dated January 21, 2022).
+This review focuses on new safety data not previously reviewed from the open-label extension
+studies, CP-4-006 and CP-4-004 covering the period December 22, 2020, through March 31,
+2022 (i.e., CP-4-006 OLE Year 2 and OLE Year 3, and CP-4-004 OLE Year 6 [PEN Year 3] and OLE
+Year 7 [PEN Year 4]). These data are presented for each year of the OLE in tabular format where
+appropriate. This review also covers safety data from CP-4-009, the phase 3 Japanese study not
+previously submitted.
+Safety data were considered from all subjects who continued treatment on somatrogon in the
+above-mentioned studies beyond the original cutoff date (December 22, 2020). Considering the
+differences in trial designs, including randomization, use of control arms, duration, doses
+studied, and previous exposures to Genotropin, the clinical reviewer analyzed and presented
+the safety data separately for each individual trial. All safety assessments and conclusions are
+those of the clinical review team unless otherwise specified. The review team did not identify
+any major data quality or integrity issues that precluded performing a thorough safety review.
+Lastly, the primary source for safety assessment of somatrogon originates from the main phase
+of Study CP-4-006, which was previously reviewed by the Division [refer to Integrated Review in
+DARRTS, dated January 21, 2022] and will be used for labeling purposes. The safety data from
+the OLE period of studies CP-4-006 and CP-4-004 are considered supportive, given absence of a
+control arm and the potential confounding effect of previous exposure to Genotropin. As such,
+these data will not be included in the label, unless new safety signals are identified.
+
+Version date: October 12, 2018
+Reference ID: 5197623
+
+59
+
+BLA 761184
+Ngenla (somatrogon-ghla)
+Review of the Safety Database
+Overall Exposure
+The overall exposure to somatrogon in Studies CP-4-006 and CP-4-004 is summarized below.
+With the current submission, the Applicant provided an additional 15 months of safety data
+from studies CP-4-006 and CP-4-004 from the previous submission.
+Study CP-4-006
+Until the data cut-off of March 31, 2022, the mean (SD) and median duration of exposure to
+somatrogon in Study CP-4-006 were 36.1 (12.34) months, and 38.4 months, respectively
+(Table 17). The number of subjects with 36 months, 48 months, and > 48 months of exposure to
+somatrogon were 174 subjects, 87 subjects and 33 subjects, respectively.
+Table 17. Duration of Exposure to Somatrogon, Study CP-4-006 (Main and OLE Period Combined,
+Safety Population)
+Total
+(N = 217)
+Subjects Treated by Duration (months/years)
+n (%)
+Completed 12 months (1 year)
+204 (94)
+Completed 24 months (2 years)
+186 (86)
+Completed 36 months (3 years)
+174 (80)
+Completed 48 months (4 years)
+87 (40)
+Completed > 48 – 54 months (> 4 years)
+33 (15)
+Duration (months)
+Mean (SD)
+36.1 (12.3)
+Median (min, max)
+38.4 (2.1, 54.0)
+Source: Excerpted from Applicant’s Safety Update Resubmission, Table 1
+Abbreviations: OLE, open-label extension; SD, standard deviation
+
+Study CP-4-004
+Until the data cut-off of March 31, 2022, the mean (SD) and median duration of exposure to
+somatrogon in Study CP-4-004 were 74.4 (31.08) months, and 86.5 months, respectively, with
+24 subjects completing 7 years of treatment with somatrogon. (Table 18)
+
+Version date: October 12, 2018
+Reference ID: 5197623
+
+60
+
+BLA 761184
+Ngenla (somatrogon-ghla)
+Table 18. Duration of Exposure to Somatrogon 0.066 mg/kg/week, Study CP-4-004 (Main and OLE
+Periods Combined, Safety Population)
+Total
+(N = 52)
+Subjects treated by duration (months/years)
+n (%)
+Completed 72 months (5 years)
+38 (73)
+Completed 84 months (6 years)
+32 (62)
+Completed 96 months (7 years)
+24 (46)
+Completed 108 months (8 years)
+5 (10)
+Duration (months)
+Mean (SD)
+74.4 (31.08)
+Median (min, max)
+86.5 (10.8, 108.0)
+Source: Excerpted from Applicant’s Safety Update Resubmission, Table 1
+Abbreviations: OLE, open-label extension; SD, standard deviation
+
+Study CP-4-009
+The mean (SD) duration of exposure to somatrogon in Study CP-4-009 were 732 (15.3) days for
+subjects originally randomized to somatrogon, and 370.9 (8.1) days for subjects originally
+randomized to Genotropin and switched to somatrogon in OLE period.
+Safety Results
+8.2.3.1.
+
+Deaths
+
+No deaths were reported in studies CP-4-006, CP-4-004, and CP-4-009 at any time.
+8.2.3.2.
+
+Serious Adverse Events
+
+Study CP-4-006, OLE
+There were 2 new serious adverse events (SAEs) of urticaria (OLE Year 2, subject
+) and
+(b) (6)
+delayed puberty (OLE Year 3, subject
+). Both events unlikely related to the drug and are
+summarized:
+(b) (6)
+
+Urticaria
+Subject
+was a 9.7-year-old boy with growth hormone deficiency who started
+(b) (6)
+somatrogon therapy in Study CP-4-006 on
+His past medical history included
+(b) (6)
+seasonal allergy (since
+) and house dust mite allergy (unknown date), while
+concomitant medications included cetirizine hydrochloride and montelukast sodium (both since
+(b) (6)
+) for allergy prophylaxis. The subject entered the long-term OLE phase of the
+(b) (6)
+(b) (6)
+study on
+On
+(study Day 774), the subject experienced
+urticaria, 3 days after the last dose of somatrogon. The adverse event manifested as itchy
+urticarial lesions on the back, face, torso, upper and lower limbs, and groin, and was graded as
+mild in severity. The event occurred after the subject had tomatoes and a soft drink. He was
+seen by a physician and treated with intravenous dexamethasone 3 mg and was admitted to
+the hospital. He was treated with oral cetirizine hydrochloride 5 mg twice daily from Day 774 to
+(b) (6)
+
+Version date: October 12, 2018
+Reference ID: 5197623
+
+61
+
+BLA 761184
+Ngenla (somatrogon-ghla)
+Day 783. The physical exam and vital signs were normal during the hospital admission. The
+laboratory investigations in the hospital showed normal complete blood cell count and
+chemistry panel. Immunoglobulin E was slightly elevated at 126.3 U/mL (normal range < 90
+U/mL). No action was taken with the study drug. The skin lesions resolved with treatment and
+did not recur. On study Day 776 the event of urticaria was considered resolved and the subject
+was discharged from the hospital. The subject had no other related adverse events. The
+subject’s blood eosinophil levels were normal during the OLE period, except for mild elevation
+noted on study Day 1103 (0.46 × 109/L, normal range 0-0.3 × 109/L). The subject had
+intermittent positive antidrug antibodies (ADA) to somatrogon and human growth hormone
+(hGH), starting at month 3 of the OLE, until OLE month 36, with titer ranging between 10-50.
+The ADA were positive at OLE month 12, 38 days prior to the event of urticaria, but they were
+negative at OLE month 21, 8 months post-event, with no other ADA testing performed in
+between. He was negative for neutralizing antibodies (NAbs) to somatrogon and hGH.
+While a positive causal relationship between the event of urticaria and study drug-induced
+adverse reaction is possible, in the setting of exposure to study drug, as well as positive ADA
+prior to the event, confounding factors exist, such as underlying history of allergies and
+presence of food-related trigger (i.e., ingestion of tomatoes right before the event). In addition,
+the event resolved with treatment and did not recur, despite continuous exposure to
+somatrogon and presence of ADA. As such, this medical reviewer considers the event of
+urticaria as unlikely to be related to somatrogon.
+Delayed puberty
+Subject
+was a 9.5-year-old (at the time of enrollment) boy with delayed puberty 40
+months after somatrogon initiation that required hospitalization for diagnostic evaluation. Past
+medical history included phimosis, brain malformation and pituitary hypoplasia, secondary
+hypothyroidism, astigmatism, congenital eye disorder, congenital optic nerve anomaly, myopia
+and strabismus, secondary adrenocortical insufficiency, dwarfism, hyperprolactinemia, and
+growth hormone deficiency. Concomitant medications included hydrocortisone and
+levothyroxine. The hospital work up revealed testicular hypoplasia, borderline low normal
+levels of LH, FSH and testosterone, but adequate response in FSH, LH and testosterone level
+post stimulatory tests with diphereline and human chorionic gonadotropin.
+(b) (6)
+
+After reviewing the case narrative, this medical reviewer determined that a causal relationship
+between somatrogon and delayed puberty was unlikely, but rather related to subject’s
+underlying pituitary insufficiency.
+Study CP-4-004, OLE
+No SAEs were reported during OLE periods PEN Year 3 and PEN Year 4.
+
+Version date: October 12, 2018
+Reference ID: 5197623
+
+62
+
+BLA 761184
+Ngenla (somatrogon-ghla)
+Study CP-4-009
+A total of 6 SAEs were reported in 4 subjects (9.1%) during main study: 2 subjects in
+somatrogon arm (hypoparathyroidism, influenza, traumatic fracture, and febrile convulsion),
+and 2 subjects (9.1%) in Genotropin arm (craniopharyngioma and asthma). During the OLE, 3
+SAEs were reported in 2 subjects (4.8%): gastroenteritis, epilepsy, and upper respiratory tract
+inflammation. After reviewing the case narratives, none of the SAEs occurring in somatrogontreated subjects were considered related to somatrogon; the occurrences represent common
+events in this age group.
+Overall, no SAEs were considered related to somatrogon, and no subject discontinued study
+drug due to the SAE.
+8.2.3.3.
+
+Dropouts and/or Discontinuations Due to Adverse Effects
+
+Study CP-4-006, OLE
+Since the last cutoff date of December 22. 2020, 9 subjects discontinued somatrogon due to
+AEs including: injection site reaction (5 subjects), lysinuric protein intolerance, chronic recurrent
+multifocal osteomyelitis (CRMO), anxiety and irritability (1 subject, each). A causal relationship
+between the study drug and the AEs of injection site reactions is probable. The AEs of anxiety
+and irritability are likely related to fear associated with the injection, and not a direct effect of
+somatrogon. The narrative for the case of lysinuric protein intolerance was not provided by the
+Applicant. However, a causal relationship between somatrogon and the AE is unlikely, since
+lysinuric protein intolerance is an autosomal recessive inborn error of lysine metabolism,
+manifested as severe hyperammonemia and lysinuria after protein intake secondary to larginine deficiency. Because CRMO is an autoimmune condition that could plausible be
+triggered by ADA, the case narrative was further reviewed below.
+Chronic recurrent multifocal osteomyelitis (CRMO)
+Subject
+was a 7.6-year-old white girl with growth hormone deficiency who started
+(b) (6)
+(b) (6)
+somatrogon in Study CP-4-006 on
+and continued in the OLE period on
+(b) (6)
+Her past medical history included abnormal nuclear magnetic resonance imaging brain
+(ectopic pituitary bright spot located just posterior to the optic chiasm; thinning of the pituitary
+(b) (6)
+stalk), since
+and hypothyroidism. Concomitant medications during the study
+include levothyroxine and intermittent antibiotic and antiviral therapy for various transient
+respiratory infections, and left toe infection.
+(b) (6)
+
+On OLE Day 658 the subject reported AEs of right foot and left hip pain. On OLE Day 701 the AE
+of pain in right foot resolved, while the AE of left hip pain remained unresolved and a new
+diagnosis of chronic recurrent multifocal osteomyelitis (CRMO) was reported on the same day,
+following evaluation by rheumatologist. The diagnosis of CRMO was made based on clinical
+presentation, hip magnetic resonance imaging, which showed “patchy areas of signal
+
+Version date: October 12, 2018
+Reference ID: 5197623
+
+63
+
+BLA 761184
+Ngenla (somatrogon-ghla)
+abnormality in the left hip affecting the acetabulum, ischium and left superior ramus of the
+pubis at the anterior acetabular pillar. Similar but less apparent patchy bright signal is seen
+around the right acetabulum. All these areas enhance on post-contrast imaging” and elevated
+inflammatory markers (erythrocyte sedimentation rate [ESR] and C-reactive protein [CRP]). On
+OLE Day 701, the subject started prednisone, followed by methotrexate on OLE Day 711, and
+adalinumab OLE Day 750. On OLE Day 928, study drug was discontinued due to the AE of
+(b) (6)
+CRMO. The subject permanently discontinued from the study on
+The AE
+was listed as not resolved at the last study visit. The subject had positive antidrug antibodies
+(ADA) to somatrogon and human growth hormone (hGH) from baseline (i.e., before initiation of
+somatrogon) and remained positive throughout the entire duration of study until
+discontinuation of study drug, when antibodies became negative. Neutralizing antibodies
+(NAbs) to somatrogon and hGH were negative. The peak ADA titer of 1250 was noted on
+(b) (6)
+(OLE Day 542). Additional information regarding the case was obtained from
+the Applicant following an Information request; the condition was described as ongoing, and he
+(b) (6)
+was restarted on daily growth hormone therapy on
+due to growth
+attenuation following somatrogon discontinuation, which resulted in an improvement in
+growth following initiation of daily hGH treatment.
+Chronic recurrent multifocal osteomyelitis (CRMO) is a skeletal disorder occurring primarily in
+children and adolescents, and it is considered a noninfectious inflammatory disorder of
+unknown cause (Iyer et al. 2011). Some hypothesize that CRMO represents an autoimmune
+disorder (Jurik 2004), while others consider it as an auto-inflammatory condition, which is
+distinct from autoimmune disorders in that it is due to over-activation of the innate immune
+system, rather than the humoral immune system, which is typical of autoimmune conditions
+(Hofmann et al. 2017).
+Based on the fact that CRMO is autoimmune disorder, a causal relationship between the study
+drug and the autoimmune event of CRMO is possible, given the positive temporal relationship
+and persistence of ADA during the study period, with peak titer corresponding to the diagnosis
+of disease. High titers of ADA and sustained antibody in circulation could potentially induce
+immune responses. However, the presence of ADA at baseline (i.e., before somatrogon
+initiation) makes a causal association between presence of antibodies and drug-induced
+immunogenic adverse reaction less likely, although it cannot be excluded completely. To
+further evaluate the potential risk of drug-induced immunogenic autoimmune adverse
+reactions, the Applicant was asked in an Information Request to provide a summary and case
+narratives (including antibody status) of any other AEs of autoimmune etiology that occurred in
+somatrogon clinical development program until the data cutoff. The Applicant submitted all the
+events included in the standardized Medical Dictionary for Regulatory Activities (MedDRA)
+Query of “immune mediated autoimmune disorders’ from Studies CP-4-006 and CP-4-004
+[hypothyroidism (14), enteritis (4), dermatitis (3), Raynaud’s phenomenon (1), HenochSchonlein purpura (1) and cranial nerve disorder (1)], which were reviewed by the Agency and
+determined that none of them were likely autoimmune in etiology, nor were they likely related
+to study drug and/or antibody status. Because the event of CRMO is the single autoimmune
+event observed in the clinical development program of somatrogon and for which a definitive
+Version date: October 12, 2018
+Reference ID: 5197623
+
+64
+
+BLA 761184
+Ngenla (somatrogon-ghla)
+causal relationship could not be established, the potential risk of drug-induced immunogenic
+autoimmune adverse reactions remains theoretical at this time. As such, its inclusion in the
+label is not justified at this time.
+Study CP-4-004, OLE
+None of the subjects discontinued somatrogon due to AEs during Study CP-4-004, PEN Years 3
+and 4.
+Study CP-4-009
+No study drug discontinuations due to AEs were reported in somatrogon-treated subjects in
+Study CP-4-009.
+8.2.3.4.
+
+Treatment Emergent Adverse Events and Adverse Reactions
+
+Study CP-4-006, OLE
+No new safety signals were reported. Treatment-emergent AE (TEAE) during OLE Years 2, 3 and
+4 occurred at a lower incidence compared to OLE Year 1 (Table 19) and the main study period
+[refer to Section 7.6.6, Integrated Review, dated January 21, 2022], except for Coronavirus
+infection which is correlated to the COVID19 Pandemic timeline.
+Table 19. Summary of AEs Occurring in >= 5% of Subjects Exposed to Somatrogon (Study CP-4006, OLE Period)
+System Organ Class (SOC) a
+OLE Year 1
+OLE Year 2
+OLE Year 3
+OLE Year 4
+Preferred Term (PT)
+(N = 212)
+(N = 176)
+(N = 170)
+(N = 30)
+Any event
+153 (72.2)
+126 (71.6)
+108 (63.5)
+13 (43.3)
+Infections and infestations
+92 (43.4)
+48 (27.3)
+58 (34.1)
+8 (26.7)
+Nasopharyngitis
+44 (20.8)
+19 (10.8)
+21 (12.4)
+4 (13.3)
+Coronavirus infection
+1 (0.5)
+3 (1.7)
+19 (11.2)
+3 (10.0)
+General disorders and
+89 (42.0)
+51 (29.0)
+42 (24.7)
+4 (13.3)
+administration site conditions
+Injection site pain
+55 (25.9)
+35 (19.9)
+22 (12.9)
+3 (10.0)
+Injection site erythema
+10 (4.7)
+2 (1.1)
+0
+0
+Injection site pruritus
+3 (1.4)
+2 (1.1)
+1 (0.6)
+0
+Pyrexia
+28 (13.2)
+10 (5.7)
+14 (8.2)
+1 (3.3)
+Respiratory, thoracic and
+30 (14.2)
+17 (9.7)
+12 (7.1)
+1 (3.3)
+Mediastinal disorders
+Cough
+13 (6.1)
+4 (2.3)
+7 (4.1)
+0
+Nervous system disorders
+25 (11.8)
+14 (8.0)
+12 (7.1)
+2 (6.7)
+Headache
+20 (9.4)
+13 (7.4)
+12 (7.1)
+2 (6.7)
+Gastrointestinal disorders
+37 (17.5)
+20 (11.4)
+18 (10.6)
+2 (6.7)
+Vomiting
+15 (7.1)
+6 (3.4)
+5 (2.9)
+2 (6.7)
+Abdominal pain b
+9 (4.2)
+6 (3.4)
+5 (2.9)
+1 (3.3)
+
+Source: Excerpted from Applicant’s Safety Update Resubmission, Tables 5 and 6
+The total number of subjects in System Organ Class is not the sum of the preferred terms in the respective category, since only the PTs
+occurring with an incidence of >= 5% were included in the table, and also a subject may report two or more different AEs by PT within the
+respective SOC category.
+b
+includes the PTs of abdominal pain and abdominal pain upper
+Abbreviations: AEs, adverse events; OLE, open-label extension; SOC, system organ class; PT, preferred term
+a
+
+Version date: October 12, 2018
+Reference ID: 5197623
+
+65
+
+BLA 761184
+Ngenla (somatrogon-ghla)
+Study CP-4-004, OLE
+No new safety signals were reported. The incidence of TEAEs was also noted to decline during
+PEN Years 3 and 4 compared to previous years and consisted of primarily single AEs, similar to
+the ones observed in Study CP-4-006. No new safety signals were observed with long-term (i.e.,
+up to 8 years) exposure to somatrogon during Study CP-4-004.
+Study CP-4-009
+No new safety signals were reported. The incidence and type of TEAEs during Study CP-4-009
+was similar to those observed during Study CP-4-006 and consisted primarily of injection site
+reactions (73%) and upper respiratory tract infections (54%).
+8.2.3.5.
+
+Laboratory Findings
+
+No additional laboratory findings for studies CP-4-006, OLE and CP-4-004, OLE were included
+with the current submission.
+8.2.3.6.
+
+Vital Signs
+
+No additional vital signs for studies CP-4-006 and CP-4-004 were included with the current
+submission.
+8.2.3.7.
+
+Electrocardiograms (ECGs)
+
+No additional electrocardiograms were included with the current submission.
+8.2.3.8.
+
+Immunogenicity
+
+Refer to Section 8.1.1.2 for immunogenicity results from studies CP-4-006, CP-4-004, and CP-4009.
+Anti-carboxy terminal peptide (CTP) antibodies were detected in several subjects during
+somatrogon clinical development program. The potential risk of anti-CTP antibodies is
+interference with hCG-based diagnostic tests. This risk was evaluated in the original review of
+the BLA (refer to Section 7.7.4 of the Integrated Review in DARRTS dated January 21, 2022, for
+details). The Applicant did not provide any new information regarding this risk assessment with
+the current submission.
+Analysis of Submission-Specific Safety Issues
+8.2.4.1.
+
+Immunogenicity and Safety
+
+The team considered whether high titers and persistent circulating antibodies are associated
+with immune responses and immune complex deposition in the long-term. Immunogenicityrelated safety concerns include ADA-related adverse reactions (e.g., injection site reactions,
+hypersensitivity reactions, and autoimmune syndromes) and ADA-related decrease in drug
+Version date: October 12, 2018
+Reference ID: 5197623
+
+66
+
+BLA 761184
+Ngenla (somatrogon-ghla)
+clearance which increases exposure to drug and thus may affect the safety profile of the drug
+[e.g., increase in frequency or severity of drug class adverse reactions (i.e., adverse event of
+special interest [AESI]), such as tumorigenesis, intracranial hypertension, slipped capital
+epiphysis, glucose intolerance and diabetes mellitus, pancreatitis, adrenal insufficiency,
+hypothyroidism, fluid retention (manifested by arthralgia, myalgia, and nerve compression),
+scoliosis etc.]. As such, evaluation of ADA-related adverse reactions) was further reviewed in the
+context of ADA status.
+8.2.4.2.
+
+ADA-related Adverse Reactions
+
+Study CP-4-006, OLE
+Evaluation of AEs by ADA status during the OLE period of Study CP-4-006 showed no difference
+between ADA-positive and ADA- negative subjects. These results are consistent with the
+findings during the main study period. Specifically, during OLE Years 1, 2 and 3, AEs were
+reported in 72%, 69.5% and 62.6% ADA-positive subjects, and 72.6%, 77.1% and 66% ADAnegative subjects, respectively (Table 20).
+Table 20. Summary of AEs by ADA Status, Study CP-4-006, OLE Period
+OLE Year 1
+OLE Year 2
+OLE Year 3
+Adverse Event
+(N = 212)
+(N = 176)
+(N = 170)
+ADA+
+ADAADA+
+ADAADA+
+ADA(N=150)
+(N=62) (N=128)
+(N=48)
+(N=123) (N=47)
+Preferred Term
+n (%)
+n (%)
+n (%)
+n (%)
+n (%)
+n (%)
+Any AE
+108 (72) 45 (72.6) 89 (69.5) 37 (77.1) 77 (62.6) 31 (66)
+
+OLE Year 4
+(N = 30)
+ADA+
+ADA(N=18)
+(N=12)
+n (%)
+n (%)
+8 (44.4) 5 (41.7)
+
+Serious AEs
+
+6 (4)
+
+4 (6.5)
+
+1 (0.8)
+
+0
+
+1 (0.8)
+
+0
+
+0
+
+0
+
+AEs leading to
+study drug
+discontinuation
+
+5 (3.3)
+
+2 (3.2)
+
+1 (0.8)
+
+1 (2.1)
+
+0
+
+0
+
+0
+
+0
+
+Source: Data excerpted from Tables 19, 20 and Appendix 1 Table 3.1.2b, Integrated Summary of Immunogenicity.
+Abbreviations: ADA, anti-drug antibodies; AE, adverse events; OLE, open-label extension
+
+ADA status did not have any impact on AEs reporting when evaluated by System Organ Class
+(SOC), common AEs, drug class adverse reactions (i.e., AESI), SAEs, or AEs leading to study drug
+discontinuation. Similarly, there was no association between ADA titer and incidence of AEs
+reporting by SOC, common AEs, AESI, SAEs, or AEs leading to study drug discontinuation.
+Given the potential impact of immunogenicity on hypersensitivity reactions and/or certain
+injection site reactions with long-term use of the drug, these AEs were evaluated in more
+details below.
+Hypersensitivity reactions
+An analysis of all AEs reported by Preferred Terms suggestive of potential hypersensitivity
+reactions was performed under the grouped query (GQ) Hypersensitivity. Although certain
+
+Version date: October 12, 2018
+Reference ID: 5197623
+
+67
+
+BLA 761184
+Ngenla (somatrogon-ghla)
+injection site reactions might be related to hypersensitivity, they were not included in the GQ
+Hypersensitivity, but they are discussed in a separate subsection below.
+During the main period of Study CP-4-006, there were no meaningful differences in the
+incidence or type of hypersensitivity reactions between somatrogon and Genotropin treatment
+arms, or between ADA-positive vs ADA-negative subjects in each treatment arm [refer to
+Integrated Review dated January 21, 2022, Section 7.7.3]. The frequency of hypersensitivity
+adverse reactions was low (< 10%) during the OLE period of Study CP-4-006 and similar
+between the ADA-positive and ADA-negative subjects (Table 21). During OLE Years 1, 2 and 3,
+hypersensitivity reactions were reported in 9.3%, 6.2% and 9.7% ADA-positive subjects, and
+8.1%, 4.2% and 0 ADA-negative subjects, respectively (Table 21). A slight imbalance between
+the incidence of hypersensitivity reactions was observed during OLE Year 3 (8.9% vs 0). This
+likely has no clinical significance but can be attributed to the small sample size and imbalance in
+the number of subjects per each group, with more ADA+ subjects than ADA-negative subjects.
+The higher incidence was driven by more events of dermatitis [4 (3.2%) ADA+ subjects vs 0
+ADA- subjects). Aside from dermatitis, no other AE under GQ “hypersensitivity” occurred in
+more than 2 subjects. All AEs but one (urticaria occurring during OLE Year 2 in an ADA+ subject,
+refer to SAE reported in Section 8.2.3above) were nonserious, mild, or moderate, majority were
+self-limiting, and none required drug discontinuation.
+Table 21. Incidence of AEs of Hypersensitivity Reactions by ADA Status, Trial CP-4-006 (Extension
+Period)
+OLE Year 1
+OLE Year 2
+OLE Year 3
+OLE Year 4
+Adverse Event
+(N = 212)
+(N = 176)
+(N = 170)
+(N = 30)
+ADA+
+ADAADA+
+ADAADA+
+ADA- ADA+
+ADAGrouped Query
+(N=150) (N=62) (N=128) (N=48) (N=123) (N=47) (N=18) (N=12)
+Preferred Term/FMQ*
+n (%)
+n (%)
+n (%)
+n (%)
+n (%)
+n (%)
+n (%)
+n (%)
+Hypersensitivity
+14 (9.3) 5 (8.1)
+8 (6.2) 2 (4.2) 11 (8.9)
+0
+0
+0
+Rash*
+2 (1.3) 1 (1.6)
+1 (0.8) 1 (2.1)
+2 (1.6)
+0
+0
+0
+Rhinitis allergic
+1 (0.7) 1 (1.6)
+2 (1.6)
+0
+2 (1.6)
+0
+0
+0
+Conjunctivitis allergic
+2 (1.3)
+0
+0
+0
+0
+0
+0
+0
+Urticaria*
+2 (1.3) 3 (4.8)
+1 (0.8) 1 (2.1)
+1 (0.8)
+0
+0
+0
+Eyelid edema
+1 (0.7)
+0
+0
+0
+0
+0
+0
+0
+Bronchospasm
+0
+0
+1 (0.8)
+0
+1 (0.8)
+0
+0
+0
+Dermatitis *
+4 (2.6)
+0
+2(1.6)
+0
+4 (3.2)
+0
+0
+0
+Hypersensitivity
+1 (0.7)
+0
+0
+0
+1 (0.8)
+0
+0
+0
+Eye allergy
+0
+0
+1 (0.8)
+0
+0
+0
+0
+0
+Multiple allergies
+1 (0.7)
+0
+0
+0
+0
+0
+0
+0
+Source: Adapted from Table 21, Integrated Summary of Immunogenicity
+*FMQ (: groups together synonymous preferred terms.
+Rash includes: rash, rash erythematous, rash pruritic, exfoliative rash;
+Dermatitis includes: dermatitis, dermatitis allergic, dermatitis atopic, dermatitis contact, eczema;
+Urticaria includes: urticaria, idiopathic urticaria, urticaria physical.
+Abbreviations: ADA, anti-drug antibodies; AE, adverse events; FMQ, FDA medical queries; OLE, open-label extension
+
+Injection -site reactions
+Similar to the main period of Study CP-4-006 (refer to Integrated Review dated January 21,
+2022, Section 7.7), antibody status did not appear to impact the incidence of injection site
+reactions during the OLE period (Table 22).
+Version date: October 12, 2018
+Reference ID: 5197623
+
+68
+
+BLA 761184
+Ngenla (somatrogon-ghla)
+Table 22. Incidence of AEs of Injection Site Reactions by ADA Status, Trial CP-4-006 (Extension
+Period)
+OLE Year 1
+OLE Year 2
+OLE Year 3
+OLE Year 4
+Adverse Event
+(N = 212)
+(N = 176)
+(N = 170)
+(N = 30)
+ADA+
+ADAADA+
+ADAADA+
+ADA- ADA+
+ADAGrouped Query
+(N=150)
+(N=62) (N=128) (N=48) (N=123) (N=47) (N=18)
+(N=12)
+Preferred Term
+n (%)
+n (%)
+n (%)
+n (%)
+n (%)
+n (%)
+n (%)
+n (%)
+Local administration
+60 (40) 20 (32.3) 29 (22.6) 12 (25) 18 (14.6) 7 (14.9) 1 (5.5) 2 (16.6)
+reactions
+Injection site pain 38 (25.3) 17 (27.4) 26 (20.3) 9 (18.8) 16 (13.0) 6 (12.8) 1 (5.6) 2 (16.7)
+Injection site
+9 (6.0)
+1 (1.6)
+1 (0.8) 1 (2.1)
+0
+0
+0
+0
+erythema
+Injection site
+6 (4.0)
+0
+0
+0
+0
+0
+0
+0
+pruritus
+Injection site
+2 (1.3)
+1 (1.6)
+1 (0.8) 1 (2.1)
+1 (0.8)
+0
+0
+0
+swelling
+Injection site
+2 (1.3)
+0
+0
+0
+0
+0
+0
+0
+induration
+Injection site
+0
+0
+0
+0
+1 (0.8)
+0
+0
+0
+hemorrhage
+Injection site
+1 (0.7)
+1 (1.6)
+0
+0
+0
+0
+0
+0
+bruising
+Injection site
+0
+0
+1 (0.8)
+0
+0
+0
+0
+0
+hypertrophy
+Injection site
+2 (1.3)
+0
+0
+0
+0 1 (2.1)
+0
+0
+urticaria
+Injection site
+0
+0
+0 1 (2.1)
+0
+0
+0
+0
+atrophy
+Source: Adapted from Table 21, Integrated Summary of Immunogenicity
+Abbreviations: ADA, anti-drug antibodies; AE, adverse events; FMQ, FDA medical queries OLE, open-label extension
+
+Study CP-4-004, OLE
+Evaluation of AEs by ADA status during the OLE Pen Years 3 and 4 of Study CP-4-004 showed no
+difference between ADA-positive and ADA- negative subjects. ADA status did not have any
+impact on AEs reporting when evaluated by SOC, common AEs, drug class adverse reactions
+(i.e., AESI), SAEs, or AEs leading to study drug discontinuation. No hypersensitivity, or injection
+site reactions were reported in any subject regardless of ADA status during Pen Years 3 and 4 of
+Study CP-4-004.
+Study CP-4-009
+Evaluation of AEs by ADA status during the main and OLE period of Study CP-4-004 revealed no
+meaningful differences between ADA-positive and ADA- negative subjects.
+Evaluation of all AEs suggestive of potential hypersensitivity reactions under the GQ
+hypersensitivity (refer to Table 21 above for all Preferred Terms evaluated) was also performed
+for subjects exposed to somatrogon during Study CP-4-009, main and OLE periods (Table 23).
+Potential hypersensitivity reactions were reported in 33% (6 out of 18) ADA-positive subjects vs
+50 % (2 out of 4) ADA-negative subjects during the main study period, and 25% (8 out of 21)
+ADA-positive subjects vs none (0 out of 10) ADA-negative subjects during the OLE period. The
+Version date: October 12, 2018
+Reference ID: 5197623
+
+69
+
+BLA 761184
+Ngenla (somatrogon-ghla)
+higher incidence of the hypersensitivity reactions observed during OLE Year 1 in the ADA+
+subjects can be attributed to the imbalance between number of ADA-positive and ADAnegative subjects, as well as the small number of ADA-negative subjects.
+Table 23. Incidence of AEs of Hypersensitivity Reactions, Trial CP-4-009 (Main and Extension
+Period)
+Adverse Event
+Main Period
+OLE Year 1
+ADA+
+ADAADA +
+ADAGrouped Query
+N = 18
+N=4
+N = 32
+N = 10
+Preferred Term*
+n (%)
+n (%)
+n (%)
+n (%)
+Hypersensitivity
+6 (33.3)
+2 (50)
+8 (25)
+0
+Rhinitis allergic
+1 (5.5)
+0
+2 (6.2)
+0
+Conjunctivitis allergic
+1 (5.5)
+1 (25)
+2 (6.2)
+0
+Urticaria*
+2 (11.1)
+0
+0
+0
+Dermatitis *
+2 (11.1)
+1 (25)
+4 (12.4)
+0
+
+Source: Adapted from Tables 34 and 35, Integrated Summary of Immunogenicity
+*FMQ: groups together synonymous preferred terms.
+Dermatitis includes: dermatitis, dermatitis allergic, dermatitis atopic, dermatitis contact, eczema
+Urticaria includes: urticaria, idiopathic urticaria, urticaria physical.
+Abbreviations: ADA, anti-drug antibodies; AE, adverse events; FMQ, FDA medical queries; OLE, open-label extension
+
+Similar to results from Studies CP-4-006 and CP-4-004, ADA status did not appear to play a role
+on the incidence of injection site reactions during Study CP-4-009, with majority of ISRs being
+related to pain at the injection site (Table 24).
+
+Table 24. Incidence of AEs of Injection Site Reactions, Trial CP-4-009 (Main and Extension Period)
+Adverse Event
+Main Period
+OLE Year 1
+ADA+
+ADAADA +
+ADAGrouped Query
+(N = 18)
+(N = 4)
+(N = 32)
+(N = 10)
+Preferred Term
+n (%)
+n (%)
+n (%)
+n (%)
+Local administration reactions
+14 (77.8)
+2 (50)
+18 (56.2)
+5 (50)
+Injection site pain
+14 (77.8)
+2 (50)
+19 (56.2)
+5 (50)
+Injection site erythema
+2 (11)
+0
+0
+0
+Injection site pruritus
+1 (5.6)
+0
+0
+0
+Injection site swelling
+1 (5.6)
+0
+0
+0
+
+Source: Adapted from Tables 36 and 37, Integrated Summary of Immunogenicity
+Abbreviations: ADA, anti-drug antibodies; AE, adverse events; OLE, open-label extension
+
+Other Adverse Event of Special Interest (AESI)
+Other AESI that are class-specific labeled adverse events for all approved hGH labels include
+tumorigenesis, intracranial hypertension, slipped capital epiphysis, glucose intolerance and
+diabetes mellitus, pancreatitis, adrenal insufficiency, fluid retention (manifested by arthralgia,
+myalgia, and nerve compression). The Applicant included the AESI that occurred during the
+period December 22, 2020, through March 31, 2022. The AESI that are included in this resubmission are briefly summarized below. AESI that occurred prior to the cutoff date of
+December 21, 2020, of the original submission were analyzed in detail in the original review of
+BLA (refer to the Integrated Review dated January 21, 2022) and are not discussed in this
+review.
+
+Version date: October 12, 2018
+Reference ID: 5197623
+
+70
+
+BLA 761184
+Ngenla (somatrogon-ghla)
+Study CP-4-006 OLE
+A low incidence of AESI was similar to main period during the open-label extension period as
+follows: adrenal insufficiency [2 (1.9%) and 1 (0.9%) subjects during OLE Years 2 and 3,
+respectively], scoliosis [3 (1.7% and 3 (1.8%) subjects during OLE Years 2 and 3, respectively],
+benign skin neoplasms (skin papilloma, melanocytic nevus) [1 (0.6%) subject each during OLE
+Years 2 and 3], thyroid function impairment [6 (3.4%) and 5 (3%) subjects during OLE Years 2
+and 3, respectively], and arthralgia [6 (3.4%) and 1 (0.6%) subjects during OLE Years 2 and 3,
+respectively]. No AESI were reported during OLE Year 4, possibly due to short follow up period.
+There was no difference in the incidence of AESI between ADA-positive versus ADA-negative
+subjects (Table 25). No AESI of intracranial hypertension, slipped capital epiphysis, pancreatitis,
+diabetes were reported to date.
+Table 25. Incidence of AESI by ADA Status, Trial CP-4-006 (Extension Period)
+OLE Year 1
+OLE Year 2
+OLE Year 3
+Adverse Event
+(N = 212)
+(N = 176)
+(N = 170)
+ADA+
+ADAADA+
+ADAADA+
+ADAGrouped Query
+(N=150) (N=62) (N=128) (N=48) (N=123) (N=47)
+Preferred Term
+n (%)
+n (%)
+n (%)
+n (%)
+n (%)
+n (%)
+Adrenal insufficiency
+2 (1.3)
+0
+0 1 (2.1)
+0
+0
+Hyperglycemia
+0
+1 (1.6)
+1 (0.8)
+0
+0
+0
+Neoplasiaa
+2 (1.3)
+1 (1.6)
+1 (0.8)
+0
+0
+1 (2.1)
+Scoliosis
+0
+0
+3 (2.3)
+0
+1 (2.1)
+Arthralgia
+2 (1.3)
+2 (3.2)
+5 (3.9) 1 (2.1)
+1 (0.8)
+0
+Thyroid function
+5 (3.3)
+4 (6.5)
+4 (3.1) 2 (4.2)
+5 (4.1)
+0
+impairment
+
+OLE Year 4
+(N = 30)
+ADA+
+ADA(N=18) (N=12)
+n (%)
+n (%)
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+
+Source: Adapted from Table 21, Integrated Summary of Immunogenicity
+a
+Neoplasia included the events of melanocytic nevus and skin papilloma
+Abbreviations: ADA, anti-drug antibodies; AESI, adverse event of special interest; OLE, open-label extension
+
+Study CP-4-004 OLE
+Only 2 AESI of scoliosis and arthralgia, respectively, were reported during PEN Year 3. Both
+events occurred in subjects who were ADA-negative. No AESI was reported during PEN Year 4 in
+Study CP-4-004.
+Study CP-4-009
+During the main period of Study CP-4-009, there were one event of neoplasia reported in each
+treatment arm [melanocytic nevus (somatrogon) and skin papilloma (Genotropin)] and one
+event of arthralgia reported in each treatment arm. Only one event of skin papilloma was
+reported during OLE period of Study CP-4-009. No other significant AESI were reported during
+Study CP-4-009.
+Conclusions:
+The additional safety data from studies CP-4-006 OLE Years 2 and 3, CP-4-004, Pen Years 3
+and 4, and CP-4-009, main and OLE Year 1 did not reveal any immunogenicity-related safety
+
+Version date: October 12, 2018
+Reference ID: 5197623
+
+71
+
+BLA 761184
+Ngenla (somatrogon-ghla)
+concerns, such as injection site reactions, hypersensitivity reactions, autoimmune syndromes,
+or increased incidence of drug class-related adverse reactions (i.e., AESI). Despite high
+incidence of ADA formation observed during somatrogon clinical development program, there
+was no impact of immunogenicity on safety for up to 4 years of exposure in Study CP-4-006 and
+up to 8 years in Study CP-4-004. Thus, longer-term impact of immunogenicity on safety is
+expected to be low.
+Clinical Outcome Assessment (COA) Analyses Informing
+Safety/Tolerability
+The Applicant included in this re-submission the results of the phase 3 trial assessing the
+subject’s perception of treatment burden with use of somatrogon versus Genotropin
+(b) (4)
+(C0311002).
+(b) (4)
+(b) (4)
+However,
+it
+is not reviewed as part of this re-submission. In addition, the protocol including statistical
+analysis plan was not previously reviewed by the Agency and the clinical outcome assessment
+(COA) instrument used to assess treatment burden/ patient treatment preference has not been
+validated by the Agency for the use in the intended population.
+(b) (4)
+
+The design and the results of this trial are briefly summarized in Appendix, Section 15.3 for the
+completeness of the review, only.
+Safety in the Postmarket Setting
+Safety Concerns Identified Through Postmarket Experience
+On October 26, 2021, somatrogon was approved in the European Union. According to the
+Applicant, the cumulative worldwide exposure to somatrogon since the International Birth Date
+(26 October 2021) is estimated to be 263 standard units (SUs). One SU is equal to one pre-filled
+injection pen.
+According to the European Medicines Agency, the Periodic Safety Update reports covering the
+reporting period 27 Oct 2021 to 26 Apr 2022, and 27 Apr 2022 to 26 Oct 2022 did not identify
+any immunogenicity-related adverse events. In total, there were 7 cases of non-serious AEs
+reported, as follows: urticaria (3 cases); injection site reactions (3 cases) [injection site urticaria
+and injection site erythema (2 events each), injection site pruritus, injection site warmth,
+injection site swelling, injection site pain (1 event each)]; drug specific antibody present (1
+case). According to the European Medicines Agency, the case of “drug specific antibody
+present” was missing important supporting information such as the somatrogon indication,
+latency, and action taken in response to the event; event details; event outcome; and
+laboratory data.
+
+Version date: October 12, 2018
+Reference ID: 5197623
+
+72
+
+BLA 761184
+Ngenla (somatrogon-ghla)
+
+Conclusions and Recommendations
+The data provided with the current submission included an additional 1.25 years of
+uncontrolled data on growth, safety, and immunogenicity from the ongoing studies CP-4-006
+and CP-4-004, beyond the data included during the previous review cycle. The additional data
+confirm the persistence and high incidence of ADA in majority of subjects with continued
+exposure to somatrogon, while ADA resolved, or decreased in the subjects who discontinued
+somatrogon therapy. Neutralizing antibodies (NAbs) developed in several subjects in
+somatrogon development program, but they were transient in all subjects. The additional data
+do not suggest a meaningful impact of ADAs or NAbs on height velocity. The significant growth
+decline observed in one of the somatrogon-treated subjects who developed NAbs was unlikely
+to be drug-related, but more likely attributed to an underlying rare genetic condition.
+Finally, there was no evidence of impact of immunogenicity on safety during somatrogon
+clinical development program. Given the high incidence and persistence of anti-somatrogon
+antibodies during clinical development program without demonstrated effect on safety, or
+efficacy, further postmarketing evaluation of immunogenicity impact on safety and/or efficacy
+is not warranted. Routine pharmacovigilance will be used for further evaluation of adverse
+reactions during the post-marketing setting.
+The current data, along with data provided with previous submission (refer to Integrated
+Review, dated October 21, 2021) demonstrate a favorable benefit-risk profile of somatrogon in
+pediatric subjects with growth hormone deficiency. Thus, the Division recommends approval of
+somatrogon for treatment of pediatric growth failure due to insufficient secretion of growth
+hormone. In addition, since no impact of immunogenicity on the efficacy or safety of the drug
+during the long-term treatment was observed in the clinical program and that there is an
+overall low risk of the impact of antibody on efficacy or safety (refer to the clinical and
+immunogenicity team conclusion in Section 8.1.1.2 above), the Division recommends
+presenting the information on immunogenicity in section 12 of the label only.
+
+9 Advisory Committee Meeting and Other External Consultations
+No advisory committee meeting was held, as this was not the first drug in class, the application
+did not raise significant public health questions on the role of the biologic, and there were no
+controversial issues that would benefit from advisory committee discussion. The data in the
+resubmission addressed the immunogenicity concerns and did not need external input.
+
+Version date: October 12, 2018
+Reference ID: 5197623
+
+73
+
+BLA 761184
+Ngenla (somatrogon-ghla)
+
+10 Pediatrics
+The proposed indication for somatrogon is treatment of pediatric patients with growth failure
+due to insufficient secretion of growth hormone. A phase 3 efficacy and safety study was
+conducted in patients 3 years and above.
+The Applicant proposes to indicate this drug for all pediatric patients with open epiphyses.
+However, subjects < 3 years of age were not included in the somatrogon clinical development
+program. The pharmacokinetic (PK) and pharmacodynamic (PD) profile of somatrogon is
+different from other approved rhGH formulations because of its long-acting profile. The PK/PD
+profile and safety of somatrogon is not known at this time in the younger patient population
+and there was no predictive model to evaluate the PK/PD profile in this age group. In addition,
+growth failure due to GHD is not often diagnosed in children <2 years of age and the most
+common causes of growth failure during the first year of life are small for gestational age or
+genetic causes. As such, approval of somatrogon is recommended in pediatric patients with
+growth failure due to GHD who are ≥ 3 years of age only.
+
+11 Labeling Recommendations
+Prescription Drug Labeling
+Prescribing information
+Agreement on the final labeling language has not been reached at the time this review was
+completed. Refer to the completed labeling in the approval letter. The following sections should
+be addressed in the label:
+1. INDICATION AND USAGE:
+- The review team recommends that the proposed indication should be for pediatric
+patients aged 3 years and older who have growth failure due to inadequate
+secretion of endogenous GH. The trial used for registrational purposes, CP-4-006,
+and the supportive trial CP-4-004 included subjects 3 to 11 years of age. Given that
+no subjects < 3 years of age were enrolled in the clinical development program of
+somapacitan, safety of this drug is not established in this patient population at this
+time. Efficacy in younger children cannot be extrapolated for a number of reasons.
+First, growth failure due to GHD is rarely diagnosed in children < 2 years old, and the
+most common causes of growth failure during the first year of life are small for
+gestational age or genetic causes. In addition, neonatal GHD manifests by
+hypoglycemia. The PK profile of this long-acting drug is different from other
+approved hGH formulations. It is therefore not clear if subjects younger than 3
+would have a similar, greater, or lower IGF-1 response to somatrogon compared to
+subjects 3 years and older. If subjects under 3 years exhibit an exaggerated IGF-1
+Version date: October 12, 2018
+Reference ID: 5197623
+
+74
+
+BLA 761184
+Ngenla (somatrogon-ghla)
+response with somatrogon, given that somatrogon has a longer half-life than the
+currently available daily GH therapies, any adverse events observed may not be
+easily reversible upon discontinuation of the drug. Lastly, binding of estimated IGF to
+insulin receptors may exaggerate hypoglycemia in neonates with GHD.
+2. DOSAGE AND ADMINISTRATION:
+- We agree with the proposed language.
+1. CONTRAINDICATIONS:
+- The drug should be contraindicated in pediatric patients with Prader-Willi syndrome
+who are severely obese, have a history of upper airway obstruction or sleep apnea
+or have severe respiratory impairment to the contraindications due to the known
+risk of sudden death with this pharmacological class.
+2. ADVERSE REACTIONS:
+- The review team recommends reporting adverse reactions in this section based on
+the results of the FDA analyses using the MedDRA preferred terms FDA medical
+queries which were used to improve the capture of synonymous adverse event
+terms and to improve overall safety signal detection.
+- Adverse reactions that occurred at ≥5% frequency in pediatric patients treated with
+either the somatrogon or Genotropin in the main period of the phase 3 trial CP-4006 should be included in the ‘Clinical Trial Experience’ subsection The ≥5%
+incidence threshold ensures class-related adverse reactions (e.g., hypothyroidism,
+arthralgia) are being captured in the label and it is also consistent with adverse
+reaction incidence reporting for the previous and recently approved growth
+hormone products ( i.e., Sogroya, Skytrofa) 1 for pediatric GHD indication.
+7. DRUG INTERACTIONS:
+- Edits were made to this section, so the information presented is consistent with
+other long-acting growth hormone products.
+8. USE IN SPECIFIC POPULATIONS
+8.1 Pregnancy
+- Edits were made for clarity and to be consistent with the pregnancy and lactation
+labeling rule.
+8.3 Females and Males of Reproductive Potential
+-
+
+1
+
+Treatment with somatrogon was associated with development of anti-CTP
+antibodies that may potentially interfere with native hCG, leading to incorrect
+pregnancy tests. This risk was previously discussed in the original review of BLA. No
+new data was provided in this submission regarding the risk of drug interference
+with pregnancy tests. All disciplines agreed [Center for Devices and Radiological
+
+https://www.accessdata.fda.gov/scripts/cder/daf/
+
+Version date: October 12, 2018
+Reference ID: 5197623
+
+(b) (4)
+
+75
+
+BLA 761184
+Ngenla (somatrogon-ghla)
+Health (CDRH), Division of Urology, Obstetrics and Gynecology, Office of
+Biotechnology Products, Division of General Endocrinology (DGE)l) that the risk is
+likely low, but it is not completely excluded since the Applicant did not demonstrate
+to date that there is no such interference (refer to Integrated Review in DARRTS,
+dated January 21, 2022, for details). Therefore, the original review team continues
+recommending to manage this potential risk through labeling only. This review team
+added the text regarding the hypothetical risk of interference of ADA with
+pregnancy in section 8.3.
+12. CLINICAL PHARMACOLOGY:
+-
+
+Edits were made to Section 12.2 Pharmacodynamics, Section 12.3 Pharmacokinetics
+and Section 12. 6 Immunogenicity mainly to 1) report values based on FDA’s analysis
+and 2) delete figure/tables that do not provide additional information.
+
+13. NONCLINICAL TOXICOLOGY
+13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
+- Edits were made for clarity, including to describe carcinogenesis, mutagenesis, and
+fertility in separate subsections.
+(b) (4)
+
+14. CLINICAL STUDIES:
+(b) (4)
+- The review team recommends deleting information
+from this
+(b) (4)
+section. The information
+does not provide meaningful clinical
+(b) (4)
+information to prescribers
+-
+
+The review team also recommends deleting information
+
+- The review team also recommends deleting information
+
+Version date: October 12, 2018
+Reference ID: 5197623
+
+76
+
+(b) (4)
+
+(b) (4)
+
+BLA 761184
+Ngenla (somatrogon-ghla)
+
+12 Risk Evaluation and Mitigation Strategies (REMS)
+No safety issues including the immunogenicity rising to the level of requiring a risk evaluation
+and mitigation strategy was identified in the application. Safety issues will be handled through
+appropriate labeling.
+
+13 Postmarketing Requirements and Commitment
+No safety findings prompt the need for Postmarketing Requirements.
+Postmarketing Commitments:
+(b) (4)
+Postmarketing commitment
+: To perform commercial shipping studies to qualify the
+actual shipping conditions for the drug product (prefilled pen). The commercial shipping studies
+will include:
+- Product quality assessment on commercial drug product in the commercial
+container closure system, fully packaged (primary and secondary packaging, etc.)
+before and after real-time shipping to evaluate the effect of handling and shipping
+conditions on product quality.
+- Analytical testing to evaluate impact on critical quality attributes (CQAs) during
+shipping. Justification for the selected CQAs will be provided.
+- Evaluation of container closure integrity to ensure the maintenance of sterile barrier
+using an appropriate method (e.g., dye ingress).
+- Device functionality tests to demonstrate that the shipping conditions do not
+adversely impact the integrity and functionality of the device.
+- Temperature monitoring of the shipping container (external and internal
+temperatures) recorded continuously throughout shipping from thermal couple
+probes placed inside and outside of the shipping container.
+
+Version date: October 12, 2018
+Reference ID: 5197623
+
+77
+
+BLA 761184
+Ngenla (somatrogon-ghla)
+
+14 Office Director (or designated signatory authority) Comments
+I agree with the conclusions of this review and the recommendation for regulatory action.
+
+Version date: October 12, 2018
+Reference ID: 5197623
+
+78
+
+BLA 761184
+Ngenla (somatrogon-ghla)
+
+15 Appendices
+References
+Alatzoglou, KS and MT Dattani, 2010, Genetic causes and treatment of isolated growth
+hormone deficiency-an update, Nat Rev Endocrinol, 6(10):562-576.
+Ali, O and P Cohen, 2009, The pituitary gland and growth failure, Lavin N, ed. Manual of
+Endocrinology and Metabolism, 4th ed., Philadelphia, PA: Lippincott Williams & Wilkins, 95-105.
+Chae, HW, DH Kim, and HS Kim, 2015, Growth hormone treatment and risk of malignancy,
+Korean J Pediatr, 58(2):41-46.
+Dattani, M and M Preece, 2004, Growth hormone deficiency and related disorders: insights into
+causation, diagnosis, and treatment, Lancet, 363(9425):1977-1987.
+Grimberg, A, SA DiVall, C Polychronakos, DB Allen, LE Cohen, JB Quintos, WC Rossi, C Feudtner,
+and MH Murad, 2016, Guidelines for Growth Hormone and Insulin-Like Growth Factor-I
+Treatment in Children and Adolescents: Growth Hormone Deficiency, Idiopathic Short Stature,
+and Primary Insulin-Like Growth Factor-I Deficiency, Horm Res Paediatr, 86(6):361-397.
+Growth Hormone Research, S, 2000, Consensus guidelines for the diagnosis and treatment of
+growth hormone (GH) deficiency in childhood and adolescence: summary statement of the GH
+Research Society. GH Research Society, J Clin Endocrinol Metab, 85(11):3990-3993.
+Hofmann, SR, F Kapplusch, HJ Girschick, H Morbach, J Pablik, PJ Ferguson, and CM Hedrich,
+2017, Chronic Recurrent Multifocal Osteomyelitis (CRMO): Presentation, Pathogenesis, and
+Treatment, Curr Osteoporos Rep, 15(6):542-554.
+International Classification of Pediatric Endocrine Diagnoses Consortium, 2016, International
+Classification of Pediatric Endocrine Diagnoses accessed April 7, 2023, http://www.icped.org/.
+Iyer, RS, MM Thapa, and FS Chew, 2011, Chronic recurrent multifocal osteomyelitis: review, AJR
+Am J Roentgenol, 196(6 Suppl):S87-91.
+Jorge, AAL, A Grimberg, MT Dattani, and J Baron, 2020, CHAPTER 11 - Disorders of Childhood
+Growth, Pediatric Endocrinology (Fifth Edition), Sperling, M. A.: Elsevier, 299-356.
+Jurik, AG, 2004, Chronic recurrent multifocal osteomyelitis, Semin Musculoskelet Radiol,
+8(3):243-253.
+Keselman, A, PA Scaglia, MS Rodriguez Prieto, MG Ballerini, ME Rodriguez, MG Ropelato, I
+Bergada, HG Jasper, and HM Domene, 2012, Type IA isolated growth hormone deficiency
+(IGHD) consistent with compound heterozygous deletions of 6.7 and 7.6 Kb at the GH1 gene
+locus, Arq Bras Endocrinol Metabol, 56(8):558-563.
+Version date: October 12, 2018
+Reference ID: 5197623
+
+79
+
+BLA 761184
+Ngenla (somatrogon-ghla)
+Moshang, T, Jr., AC Rundle, DA Graves, J Nickas, A Johanson, and A Meadows, 1996, Brain
+tumor recurrence in children treated with growth hormone: the National Cooperative Growth
+Study experience, J Pediatr, 128(5 Pt 2):S4-7.
+NIH, 2021, DailyMed, accessed, https://dailymed.nlm.nih.gov/dailymed/.
+Richmond, E and AD Rogol, 2016, Treatment of growth hormone deficiency in children,
+adolescents and at the transitional age, Best Pract Res Clin Endocrinol Metab, 30(6):749-755.
+Shankar, G, S Arkin, L Cocea, V Devanarayan, S Kirshner, A Kromminga, V Quarmby, S Richards,
+CK Schneider, M Subramanyam, S Swanson, D Verthelyi, S Yim, and S American Association of
+Pharmaceutical, 2014, Assessment and reporting of the clinical immunogenicity of therapeutic
+proteins and peptides-harmonized terminology and tactical recommendations, AAPS J,
+16(4):658-673.
+Stanley, T, 2012, Diagnosis of growth hormone deficiency in childhood, Curr Opin Endocrinol
+Diabetes Obes, 19(1):47-52.
+Tuffli, GA, A Johanson, AC Rundle, and DB Allen, 1995, Lack of increased risk for extracranial,
+nonleukemic neoplasms in recipients of recombinant deoxyribonucleic acid growth hormone, J
+Clin Endocrinol Metab, 80(4):1416-1422.
+Wilton, P, AF Mattsson, and F Darendeliler, 2010, Growth hormone treatment in children is not
+associated with an increase in the incidence of cancer: experience from KIGS (Pfizer
+International Growth Database), J Pediatr, 157(2):265-270.
+
+Version date: October 12, 2018
+Reference ID: 5197623
+
+80
+
+BLA 761184
+Ngenla (somatrogon-ghla)
+
+Financial Disclosure
+The financial disclosure was reviewed, and no issues were identified.
+Covered Clinical Study (Name and/or Number): CP-4-004, CP-4-006
+Was a list of clinical investigators provided:
+
+Yes
+
+No
+(Request list from
+Applicant)
+
+Total number of investigators identified: 513
+Number of investigators who are Sponsor employees (including both full-time and part-time
+employees): None
+Number of investigators with disclosable financial interests/arrangements (Form FDA 3455):
+7
+If there are investigators with disclosable financial interests/arrangements, identify the
+number of investigators with interests/arrangements in each category (as defined in 21 CFR
+54.2(a), (b), (c) and (f)):
+Compensation to the investigator for conducting the study where the value could be
+influenced by the outcome of the study: None
+Significant payments of other sorts: 7
+Proprietary interest in the product tested held by investigator: None
+Significant equity interest held by investigator: 1
+Sponsor of covered study: 2
+Is an attachment provided with details
+of the disclosable financial
+interests/arrangements:
+
+Yes
+
+No
+(Request details from
+Applicant)
+
+Is a description of the steps taken to
+minimize potential bias provided:
+
+Yes
+
+No
+(Request information
+from Applicant)
+
+Number of investigators with certification of due diligence (Form FDA 3454, box 3) None
+Is an attachment provided with the
+reason:
+
+Version date: October 12, 2018
+Reference ID: 5197623
+
+Yes
+
+81
+
+No
+(Request explanation
+from Applicant)
+
+BLA 761184
+Ngenla (somatrogon-ghla)
+
+Additional Clinical Outcome Assessment Analyses
+Study C0311002
+Title: A phase 3, Randomized, Multicenter, Open-Label, Crossover Study Assessing Subject
+Perception of Treatment Burden With Use of Weekly Growth Hormone (Somatrogon) Versus
+Daily Growth Hormone (Genotropin®) Injections in Children With Growth Hormone Deficiency
+Design: This study was a randomized, open-label, 2-period crossover study of 24 weeks
+duration conducted in 87 children 3 to <18 years of age with GHD evaluating the treatment
+burden and treatment experience with somatrogon versus Genotropin therapy. To be eligible
+for enrollment, subjects had to be on a stable regimen of daily Genotropin for a minimum of 3
+months prior to enrollment. After enrollment, subjects were randomized in a 1:1 ratio to one of
+2 sequences, either 12 weeks of treatment with daily Genotropin followed by 12 weeks of
+treatment with once weekly somatrogon, or 12 weeks of treatment with once weekly
+somatrogon followed by 12 weeks of treatment with daily Genotropin.
+Subjects and caregivers (as a dyad) completed clinical outcome assessment questionnaires at
+baseline and at the end of each 12-week treatment period.
+The Applicant developed a new tool called the Dyad Clinical Outcome Assessment (DCOA) to
+capture the patient and caregiver experience of the GH injection treatment regimen, with the
+goal of demonstrating the benefits of a weekly injection regimen using phase 3 trial data.
+The primary endpoint was treatment burden assessed as the difference in mean overall life
+interference total scores between the weekly injection schedule and daily injection schedule
+using the Patient Life Interference Questionnaire (as part of DCOA 1). The secondary endpoints
+included: 1) treatment experience assessed as the difference in mean scores between the
+weekly injection schedule experience and daily injection schedule experience in each of the
+following variables within DCOA 1 Questionnaires completed at baseline and after subjects
+have experienced both treatment schedules: pen ease of use, ease of the injection schedule,
+satisfaction with overall treatment experience, willingness to continue injection schedule,
+caregiver life interference, including family life interference. 2) proportion of Subject/Caregiver
+Dyads that select the weekly injection schedule compared to the daily injection schedule in
+various outcome domains (e.g., choice of injection pen, preferred injection schedule,
+convenience, and ease of injection schedule) assessed by the DCOA2 Questionnaires completed
+at Week 24. 3) The Patient Global Impression Score at baseline and at the end of each period
+(Week 12 and Week 24).
+
+Version date: October 12, 2018
+Reference ID: 5197623
+
+82
+
+BLA 761184
+Ngenla (somatrogon-ghla)
+Results
+
+(b) (4)
+
+The proposed Dyad Clinical Outcome Assessment (DCOA) instrument used to assess treatment
+burden and other patient/caregiver treatment preference variables has not been previously
+evaluated and validated by the Agency for the use in the intended population. As such, the
+interpretability and clinical significance of the study results remain unknown at this time.
+
+Version date: October 12, 2018
+Reference ID: 5197623
+
+83
+
+Signature Page 1 of 1
+
+-------------------------------------------------------------------------------------------This is a representation of an electronic record that was signed
+electronically. Following this are manifestations of any and all
+electronic signatures for this electronic record.
+-------------------------------------------------------------------------------------------/s/
+-----------------------------------------------------------MARINA ZEMSKOVA
+06/26/2023 05:17:20 PM
+I am also signing on behalf of Deputy Division Director, Naomi Lowy.
+LISA B YANOFF
+06/27/2023 05:35:51 PM
+
+Reference ID: 5197623
+
+'LVFLSOLQH DQG 7LWOH
+RU 5ROH
+
+5HYLHZHU 1DPH
+
+2IILFH'LYLVLRQ
+
+6HFWLRQV $XWKRUHG
+$FNQRZOHGJHG $SSURYHG
+
+5HJXODWRU\ 3URMHFW
+0DQJHPHQW
+
+(OLVDEHWK +DQDQ 06
+
+21'252
+'52&+(1
+
+‫ ܈‬$XWKRUHG 6HFWLRQ 
+‫ ܈‬$SSURYHG 6HFWLRQ 
+
+&KLHI 3URMHFW
+0DQDJHPHQW 6WDII
+
+6LJQDWXUH
+
+'LVFLSOLQH DQG 7LWOH
+RU 5ROH
+
+5HYLHZHU 1DPH
+
+2IILFH'LYLVLRQ
+
+5HJXODWRU\ 3URMHFW
+0DQJHPHQW
+
+6HMDO .LDQL 06
+
+21'252
+'52&+(1
+
+5HJXODWRU\ 3URMHFW
+0DQDJHU
+
+6LJQDWXUH
+
+'LVFLSOLQH DQG 7LWOH
+RU 5ROH
+
+5HYLHZHU 1DPH
+
+2IILFH'LYLVLRQ
+
+6HFWLRQV $XWKRUHG
+$FNQRZOHGJHG $SSURYHG
+
+3KDUPDFRORJ\
+7R[LFRORJ\
+
+&DOYLQ /HH (OPRUH 3K'
+
+21'2&+(1
+'37&+(1
+
+‫ ܈‬$SSURYHG 6HFWLRQV  
+ 
+
+'HSXW\ 'LUHFWRU
+
+6LJQDWXUH
+
+Calvin L. Elmore -S
+
+Digitally signed by Calvin L. Elmore -S
+DN: c=US, o=U.S. Government, ou=HHS, ou=FDA, ou=People,
+0.9.2342.19200300.100.1.1=2000356615, cn=Calvin L. Elmore -S
+Date: 2022.01.18 10:14:02 -05'00'
+
+'LVFLSOLQH DQG 7LWOH
+RU 5ROH
+
+5HYLHZHU 1DPH
+
+2IILFH'LYLVLRQ
+
+6HFWLRQV $XWKRUHG
+$FNQRZOHGJHG $SSURYHG
+
+3KDUPDFRORJ\
+7R[LFRORJ\
+
+)HGHULFD %DVVR 3K'
+
+21'2&+(1
+'37&+(1
+
+‫ ܈‬$SSURYHG 6HFWLRQV  
+  
+
+6XSHUYLVRU
+
+6LJQDWXUH
+
+Federica Basso -S
+
+Digitally signed by Federica Basso -S
+DN: c=US, o=U.S. Government, ou=HHS, ou=FDA, ou=People,
+cn=Federica Basso -S, 0.9.2342.19200300.100.1.1=0011076316
+Date: 2022.01.18 10:19:52 -05'00'
+
+'LVFLSOLQH DQG 7LWOH
+RU 5ROH
+
+5HYLHZHU 1DPH
+
+2IILFH'LYLVLRQ
+
+6HFWLRQV $XWKRUHG
+$FNQRZOHGJHG $SSURYHG
+
+3KDUPDFRORJ\
+7R[LFRORJ\
+
+(OHQD %UDLWKZDLWH 3K'
+
+21'2&+(1
+'37&+(1
+
+‫ ܈‬$XWKRUHG 6HFWLRQV  
+  
+
+3ULPDU\ 5HYLHZHU
+
+6LJQDWXUH
+
+Elena K. Braithwaite -S
+
+Digitally signed by Elena K. Braithwaite -S
+DN: c=US, o=U.S. Government, ou=HHS, ou=FDA, ou=People,
+0.9.2342.19200300.100.1.1=0011322183, cn=Elena K. Braithwaite -S
+Date: 2022.01.18 10:26:56 -05'00'
+
+Digitally signed by Elisabeth Hanan -S
+DN: c=US, o=U.S. Government, ou=HHS, ou=FDA, ou=People,
+0.9.2342.19200300.100.1.1=2001248286, cn=Elisabeth Hanan -S
+Date: 2022.01.18 15:40:44 -05'00'
+
+Elisabeth Hanan -S
+
+Sejal Kiani -S
+
+6HFWLRQV $XWKRUHG
+$FNQRZOHGJHG $SSURYHG
+‫ ܈‬$XWKRUHG 6HFWLRQ 
+
+Digitally signed by Sejal Kiani -S
+DN: c=US, o=U.S. Government, ou=HHS, ou=FDA, ou=People,
+cn=Sejal Kiani -S, 0.9.2342.19200300.100.1.1=0014049364
+Date: 2022.01.19 13:20:39 -05'00'
+
+,QFOXGH ³,$´ IRU DXWKRUV ZKR FRQWULEXWHG WR WKH ,QWHUGLVFLSOLQDU\ $VVHVVPHQW
+$EEUHYLDWLRQV ,$ ,QWHUGLVFLSOLQDU\ $VVHVVPHQW (6 ([HFXWLYH 6XPPDU\
+
+
+Reference ID: 4924352
+
+'LVFLSOLQH DQG 7LWOH
+RU 5ROH
+&OLQLFDO 3KDUPDFRORJ\
+
+5HYLHZHU 1DPH
+
+2IILFH'LYLVLRQ
+
+6HFWLRQV $XWKRUHG
+$FNQRZOHGJHG $SSURYHG
+
+'RDQK 7UDQ 3K'
+
+2762&3'&(3
+
+‫ ܈‬$SSURYHG 6HFWLRQV  
+  
+
+Doanh C. Tran -S
+
+'HSXW\ 'LUHFWRU
+
+6LJQDWXUH
+
+'LVFLSOLQH DQG 7LWOH
+RU 5ROH
+
+5HYLHZHU 1DPH
+
+&OLQLFDO 3KDUPDFRORJ\ -D\DEKDUDWKL 9DLG\DQDWKDQ
+3K'
+
+Digitally signed by Doanh C. Tran -S
+DN: c=US, o=U.S. Government, ou=HHS, ou=FDA, ou=People,
+cn=Doanh C. Tran -S, 0.9.2342.19200300.100.1.1=1300378169
+Date: 2022.01.18 10:46:44 -05'00'
+
+2IILFH'LYLVLRQ
+
+6HFWLRQV $XWKRUHG
+$FNQRZOHGJHG $SSURYHG
+
+2762&3'&(3
+
+‫ ܈‬$SSURYHG 6HFWLRQV  
+  DQG 
+
+Digitally signed by Jayabharath Vaidyanathan -S
+DN: c=US, o=U.S. Government, ou=HHS, ou=FDA, ou=People,
+0.9.2342.19200300.100.1.1=1300220018, cn=Jayabharath
+Vaidyanathan -S
+Date: 2022.01.18 10:59:14 -05'00'
+
+Jayabharath
+Vaidyanathan -S
+
+7HDP /HDGHU
+
+6LJQDWXUH
+
+'LVFLSOLQH DQG 7LWOH
+RU 5ROH
+
+5HYLHZHU 1DPH
+
+2IILFH'LYLVLRQ
+
+/LQ =KRX 3K'
+
+‫ ܈‬$XWKRUHG 6HFWLRQV  
+2762&3'&(3  DQG 
+‫& ܈‬RQWULEXWHG 6HFWLRQ 
+
+&OLQLFDO 3KDUPDFRORJ\
+
+Lin Zhou -S
+
+3ULPDU\ 5HYLHZHU
+
+6LJQDWXUH
+
+'LVFLSOLQH DQG 7LWOH
+RU 5ROH
+
+5HYLHZHU 1DPH
+
+&OLQLFDO 3KDUPDFRORJ\ -XVWLQ (DUS 3K'
+6LJQDWXUH
+
+'LVFLSOLQH DQG 7LWOH
+RU 5ROH
+
+5HYLHZHU 1DPH
+
+&OLQLFDO 3KDUPDFRORJ\ (OLIRUG .LWDEL 3K'
+3ULPDU\ 5HYLHZHU
+
+6LJQDWXUH
+
+Digitally signed by Lin Zhou -S
+DN: c=US, o=U.S. Government, ou=HHS, ou=FDA,
+ou=People, cn=Lin Zhou -S,
+0.9.2342.19200300.100.1.1=2000423233
+Date: 2022.01.18 11:26:34 -05'00'
+
+2IILFH'LYLVLRQ
+
+6HFWLRQV $XWKRUHG
+$FNQRZOHGJHG $SSURYHG
+
+2762&3'30 ‫ ܈‬$SSURYHG 6HFWLRQ 
+
+Justin C. Earp -S
+
+7HDP /HDGHU
+
+6HFWLRQV $XWKRUHG
+$FNQRZOHGJHG $SSURYHG
+
+Digitally signed by Justin C. Earp -S
+DN: c=US, o=U.S. Government, ou=HHS, ou=FDA, ou=People,
+cn=Justin C. Earp -S, 0.9.2342.19200300.100.1.1=1300436664
+Date: 2022.01.18 14:33:20 -05'00'
+
+2IILFH'LYLVLRQ
+2762&3'30
+
+Eliford N. Kitabi -S
+
+6HFWLRQV $XWKRUHG
+$FNQRZOHGJHG $SSURYHG
+‫ ܈‬$XWKRUHG 6HFWLRQ 
+
+Digitally signed by Eliford N. Kitabi -S
+DN: c=US, o=U S. Government, ou=HHS, ou=FDA,
+ou=People, 0.9.2342.19200300.100.1.1=2002641767,
+cn=Eliford N. Kitabi -S
+Date: 2022.01.18 13:37:15 -05'00'
+
+,QFOXGH ³,$´ IRU DXWKRUV ZKR FRQWULEXWHG WR WKH ,QWHUGLVFLSOLQDU\ $VVHVVPHQW
+$EEUHYLDWLRQV ,$ ,QWHUGLVFLSOLQDU\ $VVHVVPHQW (6 ([HFXWLYH 6XPPDU\
+
+
+Reference ID: 4924352
+
+'LVFLSOLQH DQG 7LWOH
+RU 5ROH
+
+5HYLHZHU 1DPH
+
+2IILFH'LYLVLRQ
+
+6HFWLRQV $XWKRUHG
+$FNQRZOHGJHG $SSURYHG
+
+6WDWLVWLFDO
+
+)HQJ /L 3K'
+
+2762%
+
+‫ ܈‬$SSURYHG 6HFWLRQV 
+   
+
+Feng Li -S
+
+Digitally signed by Feng Li -S
+DN: c=US, o=U.S. Government, ou=HHS, ou=FDA,
+ou=People, cn=Feng Li -S,
+0.9.2342.19200300.100.1.1=2000332337
+Date: 2022.01.18 13:57:47 -05'00'
+
+7HDP /HDGHU
+
+6LJQDWXUH
+
+'LVFLSOLQH DQG 7LWOH
+RU 5ROH
+
+5HYLHZHU 1DPH
+
+2IILFH'LYLVLRQ
+
+6WDWLVWLFDO
+
+.L\D +DPLOWRQ 3K'
+
+2762%
+
+3ULPDU\ 5HYLHZHU
+
+6LJQDWXUH
+
+'LVFLSOLQH DQG 7LWOH
+RU 5ROH
+
+5HYLHZHU 1DPH
+
+2IILFH'LYLVLRQ
+
+6HFWLRQV $XWKRUHG
+$FNQRZOHGJHG $SSURYHG
+
+3URGXFW 4XDOLW\
+
+6XVDQ .LUVKQHU 3K'
+
+2342%3
+'%55,,,
+
+‫ ܈‬$SSURYHG 6HFWLRQV 
+  DQG 
+
+5HYLHZ &KLHI
+
+6LJQDWXUH
+
+'LVFLSOLQH DQG 7LWOH
+RU 5ROH
+
+5HYLHZHU 1DPH
+
+2IILFH'LYLVLRQ
+
+3URGXFW 4XDOLW\
+
+0DVVRG 5DKLPL 3K'
+
+2342%3
+'%55,,,
+
+$SSOLFDWLRQ 7HDP /HDG 6LJQDWXUH
+
+Digitally signed by Kiya Hamilton -S
+DN: c=US, o=U.S. Government, ou=HHS, ou=FDA, ou=People, cn=Kiya Hamilton -S,
+0.9.2342.19200300.100.1.1=2000501741
+Date: 2022.01.18 15:29:44 -05'00'
+
+Susan L. Kirshner -S
+
+Massod Rahimi -S
+
+Digitally signed by Susan L. Kirshner -S
+DN: c=US, o=U.S. Government, ou=HHS, ou=FDA,
+ou=People, 0.9.2342.19200300.100.1.1=1300194629,
+cn=Susan L. Kirshner -S
+Date: 2022.01.18 16:10:12 -05'00'
+
+5HYLHZHU 1DPH
+
+2IILFH'LYLVLRQ
+
+3URGXFW 4XDOLW\
+
+7UDF\ 'HQLVRQ 3K'
+
+2342%3
+'%55,,,
+
+6LJQDWXUH
+
+6HFWLRQV $XWKRUHG
+$FNQRZOHGJHG $SSURYHG
+‫ ܈‬$XWKRUHG 6HFWLRQ 
+
+Digitally signed by Massod Rahimi -S
+DN: c=US, o=U.S. Government, ou=HHS, ou=FDA,
+ou=People, cn=Massod Rahimi -S,
+0.9.2342.19200300.100.1.1=0014424508
+Date: 2022.01.18 20:35:36 -05'00'
+
+'LVFLSOLQH DQG 7LWOH
+RU 5ROH
+
+3ULPDU\ 5HYLHZHU
+
+6HFWLRQV $XWKRUHG
+$FNQRZOHGJHG $SSURYHG
+‫ ܈‬$XWKRUHG 6HFWLRQV 
+   
+‫& ܈‬RQWULEXWHG 6HFWLRQV 
+ 
+
+Tracy A. Denison -S
+
+6HFWLRQV $XWKRUHG
+$FNQRZOHGJHG $SSURYHG
+‫& ܈‬RQWULEXWHG 6HFWLRQ 
+
+Digitally signed by Tracy A. Denison -S
+DN: c=US, o=U.S. Government, ou=HHS, ou=FDA,
+ou=People, 0.9.2342.19200300.100.1.1=2001154781,
+cn=Tracy A. Denison -S
+Date: 2022.01.19 09:52:33 -05'00'
+
+,QFOXGH ³,$´ IRU DXWKRUV ZKR FRQWULEXWHG WR WKH ,QWHUGLVFLSOLQDU\ $VVHVVPHQW
+$EEUHYLDWLRQV ,$ ,QWHUGLVFLSOLQDU\ $VVHVVPHQW (6 ([HFXWLYH 6XPPDU\
+
+
+Reference ID: 4924352
+
+'LVFLSOLQH DQG 7LWOH
+RU 5ROH
+
+5HYLHZHU 1DPH
+
+2IILFH'LYLVLRQ
+
+6HFWLRQV $XWKRUHG
+$FNQRZOHGJHG $SSURYHG
+
+3URGXFW 4XDOLW\
+
+0RQWVHUUDW 3XLJ 3K'
+
+2342%3
+'%55,,,
+
+‫ ܈‬$XWKRUHG 6HFWLRQV 
+ 
+
+3ULPDU\ 5HYLHZHU
+
+6LJQDWXUH
+
+Montserrat Puig S
+
+Digitally signed by Montserrat Puig S
+DN: c=US o=U S Government ou=HHS ou=FDA
+ou=People 0 9 2342 19200300 100 1 1=1300378642
+cn=Montserrat Puig S
+Date: 2022 01 19 10:40:19 05'00'
+
+,QFOXGH ³,$´ IRU DXWKRUV ZKR FRQWULEXWHG WR WKH ,QWHUGLVFLSOLQDU\ $VVHVVPHQW
+$EEUHYLDWLRQV ,$ ,QWHUGLVFLSOLQDU\ $VVHVVPHQW (6 ([HFXWLYH 6XPPDU\
+
+
+Reference ID: 4924352
+
+Signature Page 1 of 1
+
+-------------------------------------------------------------------------------------------This is a representation of an electronic record that was signed
+electronically. Following this are manifestations of any and all
+electronic signatures for this electronic record.
+-------------------------------------------------------------------------------------------/s/
+-----------------------------------------------------------MARINA ZEMSKOVA
+01/21/2022 10:16:55 AM
+NAOMI N LOWY
+01/21/2022 10:20:24 AM
+LISA B YANOFF
+01/21/2022 11:03:38 AM
+
+Reference ID: 4924352
+
+recombinant human growth hormone therapy, had impaired height and height velocity 1, and
+with a baseline insulin-like growth factor-1 (IGF-1) level of at least 1 standard deviation below
+the mean IGF-1 level standardized for age and sex (IGF-1 standard deviation score ≤ -1).
+This study consisted of a 12-week screening period, a randomization period in which a total of
+224 subjects (who received at least 1 dose of study drug) were randomized (stratified by
+region, growth hormone peak levels at screening, and chronological age) in a 1:1 ratio to
+weekly subcutaneous (SC) doses of somatrogon (investigational treatment, 0.66 mg/kg/wk) or
+daily SC administration of Genotropin (0.034 mg/kg/day) for 12 months. The duration of this
+study was approximately 12 months.
+Patients were to enter a long-term open-label extension period to demonstrate continued safety
+and efficacy of MOD-4023 treatment (all patients) after successful completion of the first 12
+months of treatment. The open-label period is to continue until marketing approval.
+Study CP-4-006 was a non-inferiority trial.
+The study endpoints for Study CP-4-006 are as follows:
+Primary Efficacy Endpoint
+• The annual height velocity in cm/year after 12 months of treatment.
+Exploratory Efficacy COA Endpoint
+• Quality of life core total score at baseline and month 12 in specific countries as
+assessed by Quality of Life in Short Stature Youth (QoLISSY) Core Domain.
+Refer to the integrated review for more details on the clinical trial design, eligibility criteria,
+and statistical analyses.
+COA Description
+Quality of Life in Short Stature Youth (QoLISSY)
+The QoLISSY is a 51-item instrument (three core domains with 22 items plus three mediator
+domains with 29 items) designed to assess symptoms and impacts in short statured youth.
+The following versions were used in Study CP-4-006:
+• Self-report: Participants aged 7 years or older were encouraged to complete the child
+version of the QoLISSY core questionnaire for children and adolescents (“QoLISSYChild”) on their own.
+• Parent-report: For participants under 7 years, a QoLISSY core questionnaire for
+Parents (“QoLISSY-Parent”) was to be completed by the parent or caregiver.
+Each version consists of three core domains: Physical, Social, and Emotional. There are three
+mediator domains: Coping, Beliefs, and Treatment. The parent’s version contains two
+Impaired height velocity (HV) defined as: (1) Annualized HV below the 25th percentile for CA (HV < -0.7
+SDS) and gender according to the OPKO HV (Tanner, Prader and Hermanussen) calculator and (2) The interval
+between 2 height measurements should be at least 6 months, but should not exceed, 18 months prior to inclusion.
+
+1
+
+Reference ID: 4888851
+
+supplementary domains: Future and Effects on parents. Each item is rated on a 5-point verbal
+rating scale ranging from 1 (“not at all/never”) to 5 (“extremely/always”). The recall period is
+“the previous week.”
+The QoLISSY was assessed at Baseline (Visit 2) and end of treatment (Visit 8).
+For copies of the QoLISSY-Child and -Parent versions, see Appendices A and B of this
+review, respectively.
+The three dimensions (physical, social, and emotional) of the QoLISSY questionnaire will be
+calculated individually and as a combined core total score based on the QoLISSY scoring
+manual. This core score is calculated as the sum of the means of these three dimensions and
+divided by 3. All scores were transformed from raw scores to 0 to 100 scores, where higher
+scores represent a higher health-related quality of life.
+Reviewer’s comments: Of note, DCOA was not consulted to review QoLISSY during the IND
+phase of this drug development program. Based on discussions with DGE Clinical with
+regard to this BLA, they are interested in any COA-related evidence that may support benefit
+of this drug. The DCOA is being consulted by DGE to provide a closure in the form of a short,
+focused review for inclusion in their integrated review.
+This reviewer has conducted a review of the materials submitted in the BLA submission (i.e.,
+the QoLISSY User Manual) to support this instrument.
+There is insufficient information to fully assess the content validity 2 of the QoLISSY.
+• The user manual (see Section 16.1.9.7 of the Statistical Analysis Plan, SDN 1) lacks
+detail regarding the relevancy of concepts. It is unclear whether all concepts included
+in the adult/child versions of QoLISSY are relevant and important to the target patient
+population.
+•
+
+In the absence of patient transcripts, it is unclear how the participants (particularly
+children 8-13 years) defined and understood the concepts/content included in the
+questionnaires. Additionally, it appears that the discussion guide 3 for the focus groups
+includes leading questions (e.g., Do you get any comments at home about your height?
+From brothers/sisters, mother/father, others in family? When did you hear your height
+might be a problem for the first time (your age)?). This reviewer believes that leading
+questions (i.e., questions that include or imply the desired answer to the question in the
+phrasing of the question itself) are problematic because they may result in biased or
+false/misleading answers (results). They may also lead to a missed opportunity to hear
+an unexpected insight.
+
+•
+
+While caregiver input was obtained during the development of the QoLISSY Child and
+Parent versions, the QoLISSY user manual notes that the QoLISSY Parent version was
+
+The QoLISSY User Manual includes the methodology and results of the focus groups (86 children 4-7 years;
+114 parents).
+3
+See Table 5: List of questions discussed in the focus groups in Section 5.2.2 of the QoLISSY User Manual.
+2
+
+Reference ID: 4888851
+
+not cognitively tested in caregivers. Therefore, it is unclear whether the caregivers
+had a good understanding of the format/content of this instrument.
+•
+
+Many of the items in the QoLISSY-Parent version do not assess “observable” concepts.
+For example, the following items assess the child’s feelings:
+o Item 2.2.: My child feels small around others his/her age
+o Item 3.6: (S)he is sad because of his/her height
+o Item3.5: (S)he is insecure because of his/her height
+
+There is insufficient information to fully assess the other measurement properties of the
+QoLISSY. For example, there is no data on responsiveness (i.e., ability to detect change).
+Given the QoLISSY endpoint was exploratory, a full analyses report (with confidence
+intervals, p-values etc.) was not included in the submission rather, the Applicant provided a
+high-level summary of the results (mean, median, range) of the QoLISSY core domain scores.
+Hence, it is not known which items were driving the total core domain score of QoLISSY.
+Review Conclusions
+1. While the results from Study CP-4-006 demonstrated numerical increases in QoLISSY
+core total scores for both treatment groups (somatrogon and Genotropin) at month 12,
+the findings are uninterpretable for the following reasons:
+a. The open-label study design. Patients’ knowledge of treatment assignment may
+lead to systematic overestimation or underestimation of the treatment effect, the
+magnitude of which is currently unknown. Further, in the absence of evidence
+regarding the measurement properties, it is also unclear whether the tool is
+sufficiently sensitive and reliable enough to directly compare the two active
+treatments.
+b. The COA research objectives and endpoint definitions are unclear.
+c. There is insufficient information to determine whether the instrument is fit-forpurpose for the context of this development program.
+d. The threshold(s) for meaningful withing-patient score change is unknown as the
+applicant did not utilize anchor-based methods, which are the primary methods
+used to interpret meaningful within-patient score changes in COA endpoints.
+Appendices:
+Appendix A: QoLISSY-Child version
+Appendix B: QoLISSY-Parent version
+
+6 Pages have been Withheld in Full as B4 (CCI/TS) immediately following this page
+
+Reference ID: 4888851
+
+Signature Page 1 of 1
+
+-------------------------------------------------------------------------------------------This is a representation of an electronic record that was signed
+electronically. Following this are manifestations of any and all
+electronic signatures for this electronic record.
+-------------------------------------------------------------------------------------------/s/
+-----------------------------------------------------------SELENA R DANIELS
+11/16/2021 07:21:00 AM
+DAVID S REASNER
+11/18/2021 11:27:07 AM
+
+Reference ID: 4888851
+
+

@@ -1,0 +1,47 @@
+NDA 215973 lenacapavir injection, for subcutaneous use
+NDA 215974 lenacapavir tablets, for oral use
+
+Covariates Analysis
+
+The following continuous covariates were evaluated during covariate model selection: Age,
+weight, PO dose, food, and estimated glomerular filtration rate (eGFR using the Modification of
+Diet in Renal Disease formula). The evaluated categorical covariates were: sex (male as
+teference), race (white as reference), ethnicity (non-Hispanic as reference), formulation (tablet,
+sodium salt solution [300 mg/mL], sodium salt solution [150 mg/mL], and IV solution),
+antiretroviral background therapies (none as reference see Table 115), and health status (patient
+with HIV as reference).
+
+The following covariates were included in the final model:
+
+weight on! Q, V. and Vp (using allometric scaling standardized to 70 kg).
+Doseon Fpo (using a power model standardized to a 600 mg dose).
+Heath status (healthy) on CL and V, (using a proportional linear model).
+
+®® (using a proportional linear model).
+Formulation (sodium salt solution [155 mg/mL] versus [309 mg/mL]) on Kx and Vp (using
+a proportional linear model).
+e Antiretroviral background therapy (contains cobicistat [COBI] or ritonavir [RTV] as a
+booster versus all others) as a time-varying covariate on Fy. (using a proportional linear
+model).
+
+Final Model
+
+The parameter estimates from the final popPK model for LEN are listed in Table 116. According
+to the Applicant’s popPK model, for an average 70 kg, 34-year-old male patient with HIV,
+receiving 600 mg (PO or SC) LEN with no interacting antiretroviral therapy, the population
+estimates for LEN CL, Vc, Q, Vp, PO Ka, Fpo, SC Kair, SC Kr, Fsc, and SC fraction for direct
+absorption are 4.05 L/h, 68 L, 41.2 L/h, 908 L, 0.0287 h', 6.24%, 0.000376 h™, 0.00201 hb”,
+103%, and 42%, respectively.
+
+The estimated ITV expressed as the coefficient of variation (%CV) was 44%, 85%, 78%, 32%,
+and 39% for CL, Vp, Ka, Kur, and Fs respectively. The interindividual random effect (ETA)
+shrinkage from the final PopPK model was 9.9%, 5.4%, 10.1%, 41.9%, and 41.5% for CL, Ve
+Ka, Kr, and Fsc, respectively. Inclusion of ITV on additional parameters |
+
+resulted in model instability, as indicated by large relative standard errors (RSEs) or
+high condition numbers.
+
+193
+Integrated Review Template, version 2.0 (04/23/2020)
+
+Reference ID: 4944206

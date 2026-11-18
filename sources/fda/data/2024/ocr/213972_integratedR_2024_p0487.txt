@@ -1,0 +1,54 @@
+NDA Multi-disciplinary Review and Evaluation {NDA 213972}
+{sulopenem etzadroxil/probenecid}
+
+Micro-
+MITT
+PIR gp EMA Covance | IHMA-c Local Local-e _|DNA Gyraze | Population
+E.coli-R | E coli-R NA R
+Ecoli-S | Ecoli-S
+P. mirabilis -S|P. mirabilic-R| NA
+E.coli-S | E.coli-R | E.coli-R Not detected
+E.coli-R
+€ pneumoniae|K. pneumoniae|K. pneumoniae NA R
+-S -S -S
+E.coli-R | Ecoli-R | E coli-R
+
+Notes: PID, patient identification; HMA, primary baseline culture result from central laboratory; Covance, primary
+baseline culture result from Covance local laboratory (U.S.); IHMA-c, confirmatory baseline culture result of
+Covance isolate as determined by central laboratory; Local, primary baseline culture result from local laboratory
+(&-U-S or US.); Local-c, confirmatory baseline culture result of local laboratory isolate as determined by central
+laboratory; R, resistant; S, susceptible; NA, test not performed; DNA Gyrase assay was performed using Acuitas®
+Antimicrobial Resistance Gene Panel testing (multiplexed, semi-quantitative real-time PCR, OpGen® Inc.) to
+identify the presence or absence of DNA gyrase mutations. For patient!////()(6) , there was no discordance (eg, a
+resistant strain of E. coli was detected by both IHMA and Covance), so the patient was assigned to the micro-
+MITTR population even though DNA gyrase was not detected. See IT001-301 QC Analyses for details on R/S
+assignment convention
+Source: NDA submission
+Abbreviations: MMITT, microbiological modified intent-to-treat; PCR polymerase chain reaction
+
+Clinical Microbiology Reviewer’s Comments: The Agency differed with the Applicant’s approach
+for resolving discordant cipro-susceptibility results and whether or not to assign these subjects
+to the MMITTR population. The Agency provided guidance that if a subject is found with a cipro-
+resistant isolate from either a central lab IHMA culture or IHMA confirmatory identification of
+the local laboratory isolates, then the subject should be included in the MMITTR population. The
+ciprofloxacin susceptibility should be determined by IHMA based on the MIC broth microdilution
+assay only. The IHMA in vitro MIC susceptibility results should have priority irrespective of the
+gyrase PCR results. The Agency found that the proposed PCR for gyrase mutation was not
+sufficient to determine cipro-susceptibility since other gene mutations may also be involved in
+determining quinolone-resistance (e.g., parC, parE) as per current literature. Additionally, the
+presence of other plasmid-mediated quinolone resistance genes may also confer quinolone
+resistance.
+
+Summary of Baseline Culture Results: ITT Population
+
+Approximately 67% of the ITT patients (1072/1590) from both treatment arms had a baseline
+urine culture with at least one target uropathogen in a quantity of 210° CFU/mL, thus qualifying
+for the MMITT population. The most-frequently isolated uropathogens from urine at
+concentrations 210° CFU/mL in the ITT population are summarized in Table 189. More than half
+the pathogens isolated were E. coli (57.2%; 910/1590); whereas 6.2% were K. pneumoniae,
+2.1% were P. mirabilis, and less than 1% were S. saprophyticus.
+
+274
+Version date: October 12, 2018
+
+Reference ID: 4829902

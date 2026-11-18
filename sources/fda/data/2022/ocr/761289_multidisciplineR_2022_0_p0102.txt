@@ -1,0 +1,60 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {BLA 761289 and sBLA 761069}
+{IMJUDO, tremelimumab; IMFINZI, durvalumab}
+
+limited experience with clinical trials and was reported to no longer be at the site. No clear pattern was
+identified in the data anomaly to suggest the motive for the data discrepancies.
+
+FDA performed additional sensitivity analyses to investigate the impact of these data anomalies on the
+primary analysis results of OS for the HIMALAYA study. These sensitivity analyses included updating the
+survival data for the 4 patients with data anomalies from clinical site 6208 in the FAS population and
+excluding all patients from site 6208 in the FAS population. FDA also conducted additional sensitivity
+analyses excluding all patients from Russian sites in the FAS population and excluding all patients from
+both Russian and Ukraine sites in the FAS population as site inspections to these geographic regions is
+prohibited by the ongoing military crisis. Median OS and stratified HR of the T300+D and sorafenib arms
+for these sensitivity analyses were consistent with the median OS and stratified HR for the original FAS
+population with only decimal differences (Table 17).
+
+Table 17 Sensitivity Analyses Evaluating Data Anomalies
+
+, , Number of patients Median OS (95% Cl)®, months HR® (95% Cl)
+Analysis population 7300+D S T300+D S
+FAS 393 389 16.4 (14.2, 19.6) | 13.8 (12.3, 16.1) | 0-78 (0.66, 0.92)
+FAS with updated survival
+data for the 4 patients with | 393 389 16.4 (14.2, 19.6) | 13.8 (12.3, 16.1) | 0-78 (0.66, 0.92)
+data anomalies
+FAS excludes patients from | 3.94 383 | 16.7(14.2,20.4) | 13.8 (12.3, 16.1) | 0-77 (0.65, 0.91)
+site 6208
+FAS excludes patients from | 377 366 | 16.7(14.2,20.4) | 13.6 (12.2, 16.1) | 9.77 (0.65, 0.92)
+FAS excludes patients from | 355 347 | 16.7(14.1, 20.4) | 13.6 (12.1, 16.2) | 0-78 (0.65, 0.94)
+Russia and Ukraine
+
+% Calculated using the Kaplan-Meier method.
+
+Calculated using a stratified Cox proportional hazard model with stratification factors of etiology of liver disease (HBV vs
+HCV vs all others), ECOG (0 vs 1), and MVI (yes vs no). An HR < 1 favors the T300+D arm compared with the S arm in terms
+of being associated with a longer OS.
+
+Source: FDA generated analysis based on Applicant submitted data [ADTTE.xpt] (DCO: August 27, 2021).
+
+Efficacy Results — Secondary and Other Relevant Endpoints
+Data:
+
+ORR
+
+At the final DCO, the ORR based on Investigator assessment according to RECIST 1.1 for confirmed
+responses was 17.0% for the D arm, 20.1% for the T300+D arm, and 5.1% for the S arm (Table 18).
+Treatment with T300+D or D had a higher likelihood of response when compared with S. The odds ratio
+for the comparison of T300+D vs S was 4.69 (95% Cl: 2.85, 8.04; nominal p < 0.0004) in favor of the
+T300+D arm. In the comparison of D vs S, the odds ratio was 3.80 (95% Cl: 2.29, 6.57; nominal p
+
+< 0.0001) in favor of the D arm. Of note, the study was not sized for this comparison and no multiplicity
+adjustments were made. Overall, the data support that patients who received T300+D or D were more
+likely to have a response than patients who received S.
+
+101
+Version date: July 2021 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5064925

@@ -1,0 +1,72 @@
+NDA 216403
+Filspari (sparsentan)
+
+Table 91. Summary of Method Validation and Performance in Clinical Studies for Sparsentan in
+Human Plasma: Method M8349671
+
+Bioanalytical method | Validation of a method for the determination of sparsentan in human plasma
+
+validation report by liquid chromatography/tandem mass spectrometry
+
+name, amendments, Method report 8349671, Amendment 1, and Addendum 1
+
+and hyperlinks
+
+Method description Human plasma samples were prepared by addition of intemal standard
+(sparsentan-ds) and protein precipitation with acetonitrile. After
+centrifugation, supernatant was evaporated to dryness, reconstituted, and
+analyzed by LC-MS/MS. API 6500 and API 4000 mass spectrometers were
+used and accuracy and precision are reported separately below.
+
+Materials used for Sparsentan, lot number: L0503567
+
+standard calibration | 2. 4, 20, 200, 800, 2400, 3600, and 4000 ng/mL
+
+curve and
+
+concentration
+
+Validated assay range
+
+2.00 to 4000 ng/mL
+
+Material used for QCs | Sparsentan, lot number: L0503567
+and concentration 2, 6, 100, 1600, 3200, and 16 000 ng/mL
+Minimum required NA
+dilutions
+FJ
+
+Source and lot of Human plasma:
+reagents Acetonitrile and methanol, HPLC grade:|_
+
+om
+
+Ammonium acetate, ACS grade:
+
+NN-dimethylformamide, HPLC grade: a
+
+Water, deionized, HPLC grade: NR
+Regression model and | API 6500: Quadratic, weighted 1/x
+weighting API 4000: Linear, weighted 1/x*
+Validation parameters Method validation summary Source Location
+Standard calibration | Number of standard calibrators from 8 $349671,
+curve performance LLOQ to ULOQ Table 6.2
+during accuracy and | Cumulative accuracy (bias) fom | -75% to. 3.5% | 8349671,
+P LLOQ to ULOQ Table 6.2
+API 6500 -
+
+Cumulative precision (%CV) from <9. 5% 8349671,
+
+LLOQ to ULOQ Table 6.2
+Performance of QCs_ | Cumulative accuracy (%bias) in -11.0% to 8349671,
+during accuracy and | 4QCs 8.0% Table 6.6
+precision runs Inter-batch %CV 9.1% 8349671,
+API 6500 Table 6.6
+
+Total error NR NA
+
+150
+
+Integrated Review Template, version 3.0 (05/25/2022)
+
+Reference ID: 5128407

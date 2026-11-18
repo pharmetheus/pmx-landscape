@@ -1,0 +1,59 @@
+NDA 219209
+Journavx (Suzetrigine; VX-548)
+
+Methods
+
+Model Development
+
+The PBPK analyses were performed using the PBPK software Simcyp® V22 (Simcyp Ltd.,
+Sheffield, UK).
+
+The suzetrigine PBPK model was developed based on physicochemical properties and
+preclinical and clinical PK data. The SUZ 50-mg! tablet is an immediate-release tablet with
+a © film coating © However, absorption for
+the SUZ tablet was described using ® dissolution,
+absorption, and metabolism model under the fasted state. It allows simulating an, increased
+solubilization of SUZ in small intestine, where the solubility
+
+is higher than in the
+stomach. Human effective permeability (Pes man) (1210+ cm/s) was estimated from Caco-2
+permeability by using the SIMCYP built-in calculator and the in vitro permeability data in
+Madin-Darby canine kidney — knockout (MDCK-KO) cells (Papp= 12.25*10°6 cm/s) calibrated
+with propranolol’s Papp value of 12.43x 10 cm/s (Study FDD-36383). The values of Qgut
+(nominal flow through gut model) and unbound fraction in enterocytes (fy gus) Were optimized
+based on using PK data from VX19-548-001 (single ascending dose study), VX20-548-002
+(multiple ascending dose study), and VX21-548-008 (DDI study with itraconazole).
+
+The full PBPK distribution model was utilized, and steady-state volume of distribution (V,,) was
+predicted via Method 2 in Simcyp software. Furthermore, a tissue-to-plasma partitioning
+coefficient scalar (Kp scalar) of 0.55 was applied to fit the observed SUZ PK data from the
+following clinical studies: VX21-548-008 (itraconazole DDI study), VX22-548-013 (rifampin
+DDI study), VX21-548-011 (relative bioavailability study).
+
+SUZ intravenous clearance (CL;,) was set as 5.8 L/h based on the PBPK model-predicted.
+bioavailability value (F) and the observed apparent oral CL values in Study VX21-548-011 and
+VX22-548-013, assuming minimal first-pass elimination in the gut (Response to the IR received
+on July 24, 2024). SUZ’s fm (fraction metabolized) values for CYP3A4, CYP2C19, and
+CYP2C9 were set to 0.85, 0.10, and 0.05, respectively, based on CYP reaction phenotyping
+studies in recombinant CYP enzymes in human liver microsomes (Report R161). M6-SUZ’s fm
+values for CYP3A4 and CYP2C9 were set to 0.85 and 0.15, respectively, according to Report
+R184. These fmCYP (fraction of hepatic clearance of the substrate mediated by an individual
+CYP enzyme) values were confirmed by two DDI study results with rifampin (VX22-548-013)
+or itraconazole (VX21-548-008).
+
+Additionally, the CYP3A4 induction E,,,., value of 12.92, half-maximal effective concentration
+(ECs0) value of 1.097 and fraction of unbound drug (fy inc) value of 0.631M were incorporated
+into the PBPK model for SUZ. These values are the average values of the calibrated fold mRNA
+Eyax and ECs from data of three hepatocyte lots in Report P169.
+
+An absorption process using the first-order absorption model for the active primary metabolite,
+M6-SUZ, is included in the PBPK model, although the gastrointestinal absorption process does
+not occur for a metabolite. A full PBPK distribution model predicted the V., via Method 2 in
+Simcyp software. A Kp scalar of 0.2 was applied to fit the observed M6-SUZ PK data. The CLi,
+value of M6-SUZ was set to 2.23 L/h. M6-SUZ’s fmCYP3A4 and fmCYP2C9 values were set to
+be 0.85 and 0.15, respectively, based on results in human liver microsomes (Report R184). These
+
+197
+Integrated Review Template, version 4.0 (11/1/23)
+
+Reference ID: 5521299

@@ -1,0 +1,49 @@
+Table 48 Comparison of Predicted and Observed Effects of Steady-State Ketoconazole,
+Itraconazole, and Ribociclib (400 mg or 600 mg) on Midazolam SD
+
+Inhibitor PK Parameter Observed Predicted Source of observed data
+Ketoconazole, 400 mg QD ‘AUC ratio (mean) 159 117 (Olkckola et al 1994)
+‘Cmax ratio (mean) 4.10 294 PMID: 8181191
+Itraconazole, 200 mg QD ‘AUC ratio (mean) 108 10.34 (Olkckola et al 1994)
+‘Cmax ratio (mean) 3.40 236 PMID: 8181191
+Ribociclib, 400 mg QD AUC ratio Geomean 3.75 (3.41, 4.11) 3.28 (2.97, 3.63) (Samant et al 2020)
+(90% CI) 2.05 (1.88, 223) 1.91 (1.84, 1.99)
+Cmax ratio PMID 32557601
+Geomean (90% CT)
+Ribociclib, 600 mg QD AUC ratio Geomean No observed data 4.45 (3.96, 4.98) ‘Not applicable
+(90% CI) 2.15 (2.07, 2.25)
+‘Cmax ratio
+Geomean (90% C1)
+
+‘Midazolam dose was 7.5 mg in (Olkkola et al 1994) and 2 mg in (Samant et al 2020) studies
+AUC ratio is ratio of AUCo.u for SD administration
+Source: Table 7 in the response-to-query-féa-phpk-Information-request-nda-220359 (seq0037)
+
+Table 49 Predicted Effects of Steady-State Ketoconazole or Itraconazole
+on Camizestrant Exposure
+
+Inhibitor Camizestrant AUC ratio Camizestrant Cmax ratio
+(Geo mean, 90%CT) (Geo mean, 90%CT)
+sD Oo) sD Qo
+
+Ketoconazole 400 mg QD | 1.83 (1.78, 1.89) | 2.00(1.94,2.06) | 1.52 (1.49, 1.56) } 1.74 (1.69, 1.79)
+Itraconazole 200 mg QD 1.89 (1.86, 1.93) | 1.94(1.90,1.98) | 1.45 (1.42, 1.48) | 1.67 (1.64, 1.71)
+AUC ratio is ratio of AUC at steady state for QD administration and AUC ise for SD administration
+
+QD = once a day oral dose; SD = Single dose
+
+Source: Table 7 in the response-to-query-féa-phpk-Information-request-nda-220359 (seq0037)
+
+327
+Version date: March 1, 2024 (All NDA/BLA reviews)
+
+In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the Applicant,
+which do not necessarily reflect the positions of the FDA.
+
+The FDA review was conducted in conjunction with other regulatory authorities under Project ORBIS. The FDA
+collaborated with Australia’s Therapeutic Goods Administration (TGA), Brazilian Health Regulatory Agency
+(ANVISA), Health Canada (HC), Singapore’s Health Sciences Authority (HSA), and Switzerland’s Swissmedic
+(SMC). While the conclusions and recommendations expressed herein reflect the FDA’s completed review of the
+application, the applications may still be under review at the other regulatory agencies.
+
+Reference ID: 5864804

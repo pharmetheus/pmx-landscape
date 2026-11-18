@@ -1,0 +1,71 @@
+BLA 761306 Multi-disciplinary Review and Evaluation
+Ebglyss (lebrikizumab) injection
+
+Statistical Reviewers’ Comment: The applicant did not identify the concerns with the data from
+the audited site until after the results from Studies KGAC and KGAD were analyzed. Thus, all
+decisions related to the removal of the data from the audited site are post hoc. For Study KGAC,
+despite this issue, the conclusions and treatment effect estimates are consistent under both
+analysis populations (prespecified and post hoc), and Study KGAC supports the efficacy of
+
+lebrikizumab and the results can be included in labeling.
+
+Le for Study KGAD, the
+
+conclusions on the primary endpoint in Study KGAD differ depending upon whether the data
+from the audited site are included or excluded. In addition to that, there were dependence
+issues described in detail in Compliance with Good Clinical Practices. Thus, the results from
+Study KGAD are not sufficiently reliable
+
+0) 4)
+
+Table 30 presents the statistical reviewer’s analysis results, which are consistent with the
+applicant’s results, for primary endpoint using supportive estimand NRI with mITT population.
+The NRI analysis yields results similar to the MCMC-MI method with mITT population in each
+study, and the conclusions are not impacted by the two ways of handling missing data.
+
+Study KGAB: placebo-treated group, 11.3%; lebrikizumab-treated group, 41.0%; p<0.001
+Study KGAC: placebo-treated group, 9.6%; lebrikizumab-treated group, 31.3%; p<0.001
+Study KGAD: placebo-treated group, 19.7%; lebrikizumab-treated group, 39.3%; p=0.01
+
+Table 30. Percentage of Subjects with an IGA score of 0 or 1 and a > 2-point reduction from
+
+Baseline at Week 16, Non-Responder Imputation (NRI), mITT Population
+
+J2T-DM-KGAB J2T-DM-KGAC J2T-DM-KGAD
+LEB250, LEB250} LEB250
+PBO Q2w PBO Q2W PBO+TCS Q2W+TCS
+N=141 N=283, N=146 N=281 N=66 N=145
+Response, n (%)" 16 (11.3) 116 (41.0 14(96) 88 (31.3 73(19.7) 57 (39.3)
+95% Cl! (6.1,16.6) (35.3,46.7) (4.8, 14.4) (25.9,36.7) (10.1, 29.3) (31.4, 47.3)
+Difference - 29.0, - 21.3) - 18.8
+(95% Cl)? (21.5, 36.5 (13.9, 28.6 (6.7, 30.9)
+Odds Ratio - 6.08 - 4.05| - 2.71
+(95% Cl)? (3.29, 11.26) (2.22, 7.39 (1.32, 5.59)
+p-value? : <0.0001 : <0.0001| - 0.01
+
+‘Abbreviations: Cl = confidence interval, IGA = Investigator Global Assessment, ITT = intent to treat, LEB = Lebnikizumab, n =
+number of patients in the specified category; N = number of patients in the analysis population; NRI = nonresponder imputation;
+PBO = placebo; Q2W = every 2 weeks; TCS = topical corticosteroids.
+
+Note: patients who received topical or systemic rescue medication, discontinued treatment due to any reasons were set to non-
+response subsequent to this time through Week 16; intermittent missing values were also set to non-response.
+
+The common tisk difference is the difference in proportions adjusted for the stratification factor(s): geographic region (US versus EU
+versus rest of world), age (adolescent patients 12 to <18 versus adults >=18 years) and disease severity (IGA 3 versus 4), where
+the confidence intervals are calculated using Mantel-Haenszel-Sato method. The relative risk and odds ratio are also adjusted for
+the same stratification factor(s).
+
+‘ Unadjusted response rate and confidence interval.
+
+? Cochran-Mantel-Haenszel (CMH) test adjusted by geographic region (US versus EU versus rest of world), age (adolescent
+patients 12 to <18 versus adults > 18 years) and disease severity (IGA 3 versus 4).
+
+Source: reviewer analysis; adsl xpt and adigaad xpt
+
+Data Quality and Integrity
+See Compliance with Good Clinical Practices above.
+
+111
+Version date: October 12, 2018
+
+Reference ID: 5252985

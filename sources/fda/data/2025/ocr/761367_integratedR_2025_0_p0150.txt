@@ -1,0 +1,58 @@
+BLA 761367
+
+Andembry / garadacimab
+
+Table 65. Statistical Analysis of Cmax and AUC for Al Versus NSD, Study 1004
+
+Geometric Mean
+Geometric
+Parameter Al a NSD n Mean Ratio 90% CI (%)
+Cmax (14g/mL) 16.2 66 17.6 66 0.923 0.813, 1.05
+AUCo-ing (tug*h/mL) 10,556 65 10.957 66 0.963 0.866, 1.07
+
+AI = autoinjector; AUCo.ing = area under the plasma concentration-time curve extrapolated to infinity;
+
+CI = confidence interval; Cs.x = maximum plasma concentration; CSR = clinical study report; NSD = needle
+
+safety device.
+
+Source: Table 5, Summary of Clinical Pharmacology.
+
+The reviewer’s statistical analysis was conducted by performing nonlinear mixed effects
+modeling to determine the geometric mean ratios and associated 90% CIs of Cmax, AUCo-tast, and
+AUCo ing. The reviewer’s analysis corroborates the Applicant’s conclusions that bioequivalence
+criteria were met between the PFS-NSD and AI.
+
+PK by Injection Site
+
+PK parameters by device and injection site are shown in Table 66. The distributions of Cmax and
+AUCo in by injection site and device are shown in Figure 23. In general, PK parameters,
+
+including Cmax, AUC, Tmax, and T1/2, were similar across injection sites and devices.
+
+Table 66. Mean (SD) Garadacimab PK Parameters by Device and Injection Site, Study 1004
+
+200 mg PFS-NSD 200 mg Al
+Abdomen Thigh Upper Arm Abdomen Thigh Upper Arm
+PK Parameter (N=21) (N=22) (N=23) (N=22) (N=22) (N=22)
+Cmax (g/mL) 18.2 (7.1) 19.3 (7.8) 19.1(6.5)[ _19.2(7.8) _19.2(7.4) 15.3 (6.7)
+AUCo-int 11802 11982
+(ug-hmL) 10808 (3437) (3636) 11964 (4104)/ 10873 (5249) (343g) _ 11322 (4725)
+AUCiast 11308 11430
+(ug-h/mL) 10352 (3242) (3462) 11488 (3841)] 10480 (4902) (3265) 10288 (4748)
+Tmax (days) __6.0 (3.9, 7.2) 6.1(2.0, 13) _6.0(2.0,7.2)| 5.2(2.0, 14) 6.1(3.8, 15) 6.2 (4.0, 14)
+Ti (days) 18 (2.7) 18 (3.2) 17 (2.9) 16 (3.7) 18 (3.4) 18 (2.9)
+
+Source: Reviewer-generated table adapted from Table 14.2.2 2, Clinical Study Report for study 1004.
+
+* Reported as median (min, max)
+
+Abbreviations: Al, autoinjector; AUCo.z, area under the concentration-time curve from time 0 extrapolated to infinite time; AUCis,
+area under the concentration-time curve from time 0 to the last measurable concentration; Cmax, Maximum concentration; PK,
+pharmacokinetics; PFS-NSD, prefilled syringe with needle safety device; T,,2, half-ife; Tmax, time to maximum plasma concentration
+
+126
+
+Integrated Review Template, version 3.0 (05/25/2022)
+
+Reference ID: 5458438

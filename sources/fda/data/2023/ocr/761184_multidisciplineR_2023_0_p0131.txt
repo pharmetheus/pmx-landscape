@@ -1,0 +1,63 @@
+BLA 761184
+Ngenla (somatrogon)
+
+e Biochemical marker endpoints
+
+— Absolute IGF-1 and IGF-1 SDS levels across study visits
+— Insulin growth factor binding protein-3 (IGFBP-3) levels and IGFBP-3 SDS across study
+visits.
+Other exploratory endpoints included evaluation of quality of life by various questionnaires.
+
+None of patient reported outcome measures used in the clinical program have been validated in
+this patient population. See Section 15.1.2 fora full list of endpoints.
+
+6.2.1.2. Eligibility Criteria
+
+The inclusion and exclusion criteria were consistent with the indication sought in this application
+(treatment of growth failure due to pediatric GHD).
+
+The trial enrolled prepubertal children (3 to 11 years) with a confirmed diagnosis of GHD by two
+GH provocation tests, who were naive-to-treatment with hGH, and had impaired growth defined
+as annualized height velocity (AHV) below the 25t* percentile for chronological age (HV <-0.7
+standard deviation score) and sex. Overall, these inclusion criteria are consistent with current
+scientific society guidelines on the diagnosis of pediatric GHD (Growth Hormone Research
+2000; Grimberg et al. 2016).
+
+The Applicant adequately excluded children with non-GHD causes of short stature (e.g.,
+psychological dwarfism, born small for gestational age, chromosomal abnormalities, and
+uncontrolled diabetes). The Applicant also appropriately excluded subjects on various medical
+therapies that might influence growth and hence the efficacy assessment (e.g., anabolic steroids
+or chronic glucocorticoid therapies). Lastly, the Applicant also appropriately excluded subjects
+who would be at increased risk of adverse events associated with hGH treatment, including
+known active malignancy and intracranial tumors. Refer to Section 15.1.3 fora detailed list of
+the inclusion and exclusion criteria.
+
+6.2.1.3. Statistical Analysis Plan
+
+The primary and secondary efficacy analyses were performed using the full analysis set (FAS)
+which was defined as all randomized subjects who have received at least one dose of study drug.
+No primary estimand was stated by the Applicant.
+
+Primary Efficacy Endpoint Analysis
+
+The primary efficacy endpoint was AHV in cm/year at 12 months of treatment, which was
+calculated as follows:
+(Ht at Visit 8 — Ht at Visit2) in cm
+
+AHV = 365.25
+(cm/year) interval length of (Visit 8 — Visit 2) in days sa
+
+Where Visit 8 = 12 months, Visit 2 = baseline, and Ht = standing height
+
+The Applicant’s prespecified analysis of the primary endpoint was performed using an analysis
+of covariance (ANCOVA) model. The model included treatment, age group (>3 years to <7
+years and 0 days, >7 years and 0 days), gender (male, female), peak growth hormone (GH) levels
+at screening (<3 ng/mL, >3 ng/mL to <7 ng/mL, >7 ng/mL to <10 ng/mL), and region as factors
+and baseline height SDS as a covariate.
+
+The primary objective of this study was to demonstrate that the effect of somatrogon is
+noninferior to the Genotropin effect on AHV at Month 12 of treatment. Noninferiority (NI) was
+
+29
+
+Reference ID: 4924352

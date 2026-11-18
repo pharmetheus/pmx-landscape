@@ -1,0 +1,31 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 215833}
+{Tradename / lutetium (177Lu) vipivotide tetraxetan}
+
+Figure 13 and Table 45. Summary of simulated AUCinf and Cmax by baseline renal
+impairment and baseline weight categories.
+
+‘Simulated AUCint (MBq.h1L)
+Simulated Cmax (kBqmL)
+
+Simulations of 500 individuals were performed with covariates randomly sampled with replacement
+from the observed values. Only one individual had a moderate renal impairment (CrCls.=54mL/min).
+For each box plot, the top horizontal line is the 3% quartile, the middle line is the median and the
+bottom line is the 1* quartile
+
+PK metrics Simulated group Min 1** Quartile Median 3 Quartile Max
+Baseline renal impairment
+Moderate 3202 3436 3924 4304 6482
+ah Mild 2019 ©2753 3323 3923 «6057
+Normal 1192 2371 2767 3262 5337
+Ps Moderate 420 476 519 651 1498
+max
+(kBq/mL) Mild 228 422 578 739 1572
+Normal 206 447 597 760 1517
+203
+
+Version date: January 2020 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 4957011

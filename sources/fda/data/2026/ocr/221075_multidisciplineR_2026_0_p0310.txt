@@ -1,0 +1,65 @@
+NDA/BLA Multi-disciplinary Review and Evaluation NDA 221075
+Iberdomide (ZENBEXUS)
+Table 101: FDA — Final input parameters in the PBPK model of iberdomide
+
+PARAMETER REFERENCE
+‘Physicochemical properties, plasma free fraction and blood:plasma rario
+
+MW (g/mod) 449.51 US IND Section 32.S.1
+LogPow 1.37
+
+Acid/Base Ampholyte
+
+pKal, pKa2 10.26 (acid); 6.73 (base)
+
+BP ratio 0784 (©C-220-DMPK-1308
+
+fap 024 HSA) CC-220-DMPK-1308; average value
+“Absorption
+
+ADAM with DLM, Fhud
+
+Model ‘dymamucs with viscosity
+fiagut 1 Assumed
+Peff.man (x 10 cm/s) os CPi e S0.cP008)
+Intrinsic solubility (mg/mL) 0.132 SIVA fit of aqueous solubility data (US
+IND Section 3.2S.1)
+Measuwed pH Solubility
+(mg/mL)
+10 901
+is 143.1
+‘SF1; SF2; SF3 9484: 955:326 za 2062
+a5 205.0
+36 1s
+66 027
+75 O18
+Lest #19 a
+1.2 Gon) FeSSIF>50 mgamaL
+Fmax 99°:
+bong deen ri gotovege? — STWA Stofn ne TaSS and eS
+Lag 5 min
+Distribution
+Model
+Rat QWBA AUC ratios
+‘Tissue Kp (CC-220-DMPK-1730)
+Spleen 2.43
+Vss kg) 2.93
+Elimination
+chr aa 332
+Additional systemic CL (Lan) 16 amcngeen mane ydrolysis of
+‘human ADME)
+Model Enzyme kinetics
+‘Simulator: Reverse Translational Tool
+CYP3AS CLint (iL /min/pmol) oo Assumed 80% of metabolic clearance
+CYP3AS CLint (iL /min'pmod oo12 ‘Snulator. Reverse Translational Tool
+Additional HLM (ul/min‘mg
+protein 1371 ‘Simulator: Reverse Translational Tool
+Source: Table 9-1 in the PBPK report PBPK-ddi
+311
+
+Version date: February 10, 2025 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5851050

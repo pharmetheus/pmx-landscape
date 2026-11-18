@@ -1,0 +1,402 @@
+[
+  {
+    "no": 1,
+    "name": "Verquvo",
+    "ingr": "vericiguat",
+    "date": "1/19/2021",
+    "label": "Drugs@FDA link",
+    "appl": "214377"
+  },
+  {
+    "no": 2,
+    "name": "Cabenuva",
+    "ingr": "cabotegravir and rilpivirine (co-packaged)",
+    "date": "1/21/2021",
+    "label": "Drugs@FDA link",
+    "appl": "212888"
+  },
+  {
+    "no": 3,
+    "name": "Lupkynis",
+    "ingr": "voclosporin",
+    "date": "1/22/2021",
+    "label": "Drugs@FDA link",
+    "appl": "213716"
+  },
+  {
+    "no": 4,
+    "name": "Tepmetko",
+    "ingr": "tepotinib",
+    "date": "2/3/2021",
+    "label": "Drugs@FDA link",
+    "appl": "214096"
+  },
+  {
+    "no": 5,
+    "name": "Ukoniq",
+    "ingr": "umbralisib",
+    "date": "2/5/2021",
+    "label": "Drugs@FDA link",
+    "appl": "213176"
+  },
+  {
+    "no": 6,
+    "name": "Evkeeza",
+    "ingr": "evinacumab-dgnb",
+    "date": "2/11/2021",
+    "label": "Drugs@FDA link",
+    "appl": "761181"
+  },
+  {
+    "no": 7,
+    "name": "Cosela",
+    "ingr": "trilacicilib",
+    "date": "2/12/2021",
+    "label": "Drugs@FDA link",
+    "appl": "214200"
+  },
+  {
+    "no": 8,
+    "name": "Amondys 45",
+    "ingr": "casimersen",
+    "date": "2/25/2021",
+    "label": "Drugs@FDA link",
+    "appl": "213026"
+  },
+  {
+    "no": 9,
+    "name": "Nulibry",
+    "ingr": "fosdenopterin",
+    "date": "2/26/2021",
+    "label": "Drugs@FDA link",
+    "appl": "214018"
+  },
+  {
+    "no": 10,
+    "name": "Pepaxto",
+    "ingr": "melphalan flufenamide",
+    "date": "2/26/2021",
+    "label": "Drugs@FDA link",
+    "appl": "214383"
+  },
+  {
+    "no": 11,
+    "name": "Azstarys",
+    "ingr": "serdexmethylphenidate and dexmethylphenidate",
+    "date": "3/2/2021",
+    "label": "Drugs@FDA link",
+    "appl": "212994"
+  },
+  {
+    "no": 12,
+    "name": "Fotivda",
+    "ingr": "tivozanib",
+    "date": "3/10/2021",
+    "label": "Drugs@FDA link",
+    "appl": "212904"
+  },
+  {
+    "no": 13,
+    "name": "Ponvory",
+    "ingr": "ponesimod",
+    "date": "3/18/2021",
+    "label": "Drugs@FDA link",
+    "appl": "213498"
+  },
+  {
+    "no": 14,
+    "name": "Zegalogue",
+    "ingr": "dasiglucagon",
+    "date": "3/22/2021",
+    "label": "Drugs@FDA link",
+    "appl": "214231"
+  },
+  {
+    "no": 15,
+    "name": "Qelbree",
+    "ingr": "viloxazine",
+    "date": "4/2/2021",
+    "label": "Drugs@FDA link",
+    "appl": "211964"
+  },
+  {
+    "no": 16,
+    "name": "Nextstellis",
+    "ingr": "drospirenone and estetrol",
+    "date": "4/15/2021",
+    "label": "Drugs@FDA link",
+    "appl": "214154"
+  },
+  {
+    "no": 17,
+    "name": "Jemperli",
+    "ingr": "dostarlimab-gxly",
+    "date": "4/22/2021",
+    "label": "Drugs@FDA link",
+    "appl": "761174"
+  },
+  {
+    "no": 18,
+    "name": "Zynlonta",
+    "ingr": "loncastuximab tesirine-lpyl",
+    "date": "4/23/2021",
+    "label": "Drugs@FDA link",
+    "appl": "761196"
+  },
+  {
+    "no": 19,
+    "name": "Empaveli",
+    "ingr": "pegcetacoplan",
+    "date": "5/14/2021",
+    "label": "Drugs@FDA link",
+    "appl": "215014"
+  },
+  {
+    "no": 20,
+    "name": "Rybrevant",
+    "ingr": "amivantamab-vmjw",
+    "date": "5/21/2021",
+    "label": "Drugs@FDA link",
+    "appl": "761210"
+  },
+  {
+    "no": 21,
+    "name": "Pylarify",
+    "ingr": "piflufolastat F 18",
+    "date": "5/26/2021",
+    "label": "Drugs@FDA link",
+    "appl": "214793"
+  },
+  {
+    "no": 22,
+    "name": "Lumakras",
+    "ingr": "sotorasib",
+    "date": "5/28/2021",
+    "label": "Drugs@FDA link",
+    "appl": "214665"
+  },
+  {
+    "no": 23,
+    "name": "Truseltiq",
+    "ingr": "infigratinib",
+    "date": "5/28/2021",
+    "label": "Drugs@FDA link",
+    "appl": "214622"
+  },
+  {
+    "no": 24,
+    "name": "Lybalvi",
+    "ingr": "olanzapine and samidorphan",
+    "date": "5/28/2021",
+    "label": "Drugs@FDA link",
+    "appl": "213378"
+  },
+  {
+    "no": 25,
+    "name": "Brexafemme",
+    "ingr": "ibrexafungerp",
+    "date": "6/1/2021",
+    "label": "Drugs@FDA link",
+    "appl": "214900"
+  },
+  {
+    "no": 26,
+    "name": "Aduhelm",
+    "ingr": "aducanumab - avwa",
+    "date": "6/7/2021",
+    "label": "Drugs@FDA link",
+    "appl": "761178"
+  },
+  {
+    "no": 27,
+    "name": "Rylaze",
+    "ingr": "asparaginase erwinia chrysanthemi (recombinant)-rywn",
+    "date": "6/30/2021",
+    "label": "Drugs@FDA link",
+    "appl": "761179"
+  },
+  {
+    "no": 28,
+    "name": "Kerendia",
+    "ingr": "finerenone",
+    "date": "7/9/2021",
+    "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2021/215341s000lbl.pdf",
+    "appl": "215341"
+  },
+  {
+    "no": 29,
+    "name": "Fexinidazole",
+    "ingr": "fexinidazole",
+    "date": "7/16/2021",
+    "label": "Drugs@FDA link",
+    "appl": "214429"
+  },
+  {
+    "no": 30,
+    "name": "Rezurock",
+    "ingr": "belumosudil",
+    "date": "7/16/2021",
+    "label": "Drugs@FDA link",
+    "appl": "214783"
+  },
+  {
+    "no": 31,
+    "name": "Bylvay",
+    "ingr": "odevixibat",
+    "date": "7/20/2021",
+    "label": "Drugs@FDA link",
+    "appl": "215498"
+  },
+  {
+    "no": 32,
+    "name": "Saphnelo",
+    "ingr": "anifrolumab-fnia",
+    "date": "7/30/2021",
+    "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2021/761123s000lbl.pdf",
+    "appl": "761123"
+  },
+  {
+    "no": 33,
+    "name": "Nexviazyme",
+    "ingr": "avalglucosidase alfa-ngpt",
+    "date": "8/6/2021",
+    "label": "Drugs@FDA link",
+    "appl": "761194"
+  },
+  {
+    "no": 34,
+    "name": "Welireg",
+    "ingr": "belzutifan",
+    "date": "8/13/2021",
+    "label": "Drugs@FDA link",
+    "appl": "215383"
+  },
+  {
+    "no": 35,
+    "name": "Korsuva",
+    "ingr": "difelikefalin",
+    "date": "8/23/2021",
+    "label": "Drugs@FDA link",
+    "appl": "214916"
+  },
+  {
+    "no": 36,
+    "name": "Skytrofa",
+    "ingr": "lonapegsomatropin-tcgd",
+    "date": "8/25/2021",
+    "label": "Drugs@FDA link",
+    "appl": "761177"
+  },
+  {
+    "no": 37,
+    "name": "Exkivity",
+    "ingr": "mobocertinib",
+    "date": "9/15/2021",
+    "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2021/215310s000lbl.pdf",
+    "appl": "215310"
+  },
+  {
+    "no": 38,
+    "name": "Tivdak",
+    "ingr": "tisotumab vedotin-tftv",
+    "date": "9/20/2021",
+    "label": "Drugs@FDA link",
+    "appl": "761208"
+  },
+  {
+    "no": 39,
+    "name": "Qulipta",
+    "ingr": "atogepant",
+    "date": "9/28/2021",
+    "label": "Drugs@FDA link",
+    "appl": "215206"
+  },
+  {
+    "no": 40,
+    "name": "Livmarli",
+    "ingr": "maralixibat",
+    "date": "9/29/2021",
+    "label": "Drugs@FDA link",
+    "appl": "214662"
+  },
+  {
+    "no": 41,
+    "name": "Tavneos",
+    "ingr": "avacopan",
+    "date": "10/7/2021",
+    "label": "Drugs@FDA link",
+    "appl": "214487"
+  },
+  {
+    "no": 42,
+    "name": "Scemblix",
+    "ingr": "asciminib",
+    "date": "10/29/2021",
+    "label": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2021/215358s000Orig1lbl.pdf",
+    "appl": "215358"
+  },
+  {
+    "no": 43,
+    "name": "Besremi",
+    "ingr": "ropeginterferon alfa-2b-njft",
+    "date": "11/12/2021",
+    "label": "Drugs@FDA link",
+    "appl": "761166"
+  },
+  {
+    "no": 44,
+    "name": "Voxzogo",
+    "ingr": "vosoritide",
+    "date": "11/19/2021",
+    "label": "Drugs@FDA link",
+    "appl": "214938"
+  },
+  {
+    "no": 45,
+    "name": "Livtencity",
+    "ingr": "maribavir",
+    "date": "11/23/2021",
+    "label": "Drugs@FDA link",
+    "appl": "215596"
+  },
+  {
+    "no": 46,
+    "name": "Cytalux",
+    "ingr": "pafolacianine",
+    "date": "11/29/2021",
+    "label": "Drugs@FDA link",
+    "appl": "214907"
+  },
+  {
+    "no": 47,
+    "name": "Tezspire",
+    "ingr": "tezepelumab-ekko",
+    "date": "12/17/2021",
+    "label": "Drugs@FDA link",
+    "appl": "761224"
+  },
+  {
+    "no": 48,
+    "name": "Vyvgart",
+    "ingr": "efgartigimod alfa-fcab",
+    "date": "12/17/2021",
+    "label": "Drugs@FDA link",
+    "appl": "761195"
+  },
+  {
+    "no": 49,
+    "name": "Leqvio",
+    "ingr": "inclisiran",
+    "date": "12/22/2021",
+    "label": "Drugs@FDA link",
+    "appl": "214012"
+  },
+  {
+    "no": 50,
+    "name": "Adbry",
+    "ingr": "tralokinumab-ldrm",
+    "date": "12/27/2021",
+    "label": "Drugs@FDA link",
+    "appl": "761180"
+  }
+]

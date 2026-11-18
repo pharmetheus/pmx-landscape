@@ -1,0 +1,2373 @@
+CENTER FOR DRUG EVALUATION AND
+RESEARCH
+APPLICATION NUMBER:
+
+213793Orig1s000
+CLINICAL PHARMACOLOGY AND
+BIOPHARMACEUTICS REVIEW(S)
+
+Office of Clinical Pharmacology Review
+NDA Number
+Link to EDR
+Submission Date
+Submission Type
+Brand Name
+Generic Name
+Dosage Form and
+Strength
+Route of
+Administration
+Proposed Indication
+
+Applicant
+Associated IND
+OCP Review Team
+OCP Final Signatory
+
+213793
+\\Cdsesub1\evsprod\NDA213793\213793.enx
+27 MAR 2020
+505(b)(1)
+IMCIVREE (Proposed)
+Setmelanotide Injection
+•
+
+10 mg in a 1 mL vial
+
+Subcutaneous injection
+(b) (4)
+Indicated for the treatment of obesity
+associated with pro-opiomelanocortin (POMC), including
+proprotein convertase subtilisin/kexin Type 1 (PCSK1),
+deficiency obesity or leptin receptor (LEPR) deficiency obesity
+in adults and children 6 years of age and older.
+Rhythm Pharmaceuticals, Inc.
+IND-112595
+Suryanarayana Sista, PhD; Eliford Kitabi, PhD; Katarzyna
+Drozda, PharmD, MS; Christian Grimstein, PhD; Justin Earp,
+PhD; Jayabharathi Vaidyanathan, PhD
+Shirley Seo, PhD
+
+1
+
+Reference ID: 4669798
+
+Table of Contents
+1.
+
+EXECUTIVE SUMMARY .......................................................................................................................... 8
+1.1
+
+Recommendations ........................................................................................................................ 9
+
+1.2
+
+Post-Marketing Requirements and Commitments ....................................................................... 9
+
+2. SUMMARY OF CLINICAL PHARMACOLOGY ASSESSMENT ....................................................................... 10
+2.1
+
+Pharmacology and Clinical Pharmacokinetics............................................................................. 10
+
+2.2
+
+Dosing and Therapeutic Individualization................................................................................... 11
+
+2.2.1
+
+General dosing .................................................................................................................... 11
+
+2.2.2
+
+Therapeutic individualization.............................................................................................. 11
+
+2.3
+
+Outstanding Issues ...................................................................................................................... 11
+
+2.4
+
+Summary of Labeling Recommendations ................................................................................... 12
+
+3.
+
+COMPREHENSIVE CLINICAL PHARMACOLOGY REVIEW ...................................................................... 14
+3.1
+
+Overview of the Product and Regulatory Background ............................................................... 14
+
+3.2
+
+General Pharmacological and Pharmacokinetic Characteristics ................................................ 15
+
+3.3
+
+Clinical Pharmacology Review Questions ................................................................................... 19
+
+3.3.1
+To what extent does the available clinical pharmacology information provide pivotal or
+supportive evidence of effectiveness? ............................................................................................... 19
+3.3.2
+Is the proposed general dosing regimen appropriate for the general patient population
+for which the indication is being sought? ........................................................................................... 19
+3.3.3
+Is an alternative dosing regimen and/or management strategy required for
+subpopulations based on intrinsic factors? ........................................................................................ 20
+3.3.4
+Are there clinically relevant drug-drug interactions, and what is the appropriate
+management strategy? ....................................................................................................................... 24
+4.
+
+APPENDICES ........................................................................................................................................ 26
+4.1
+
+Summary of Bioanalytical Method Validation and Performance ............................................... 26
+
+4.1.1
+How is IMCIVREE identified and what are the analytical methods used to measure them in
+plasma? 26
+4.1.1
+urine?
+
+How is IMCIVREE identified and what are the analytical methods used to measure them in
+26
+
+4.2
+
+Biopharmaceutics ....................................................................................................................... 31
+
+4.3
+
+Clinical PK and PD Assessments .................................................................................................. 32
+
+4.3
+
+Immunogenicity .......................................................................................................................... 66
+
+4.4
+
+Pharmacometrics Assessment .................................................................................................... 67
+2
+
+Reference ID: 4669798
+
+4.4.1
+
+SUMMARY OF FINDINGS ..................................................................................................... 68
+
+4.4.2
+
+RESULTS OF SPONSOR’S ANALYSIS ..................................................................................... 69
+
+4.4.3
+
+REVIEWER’S ANALYSES ....................................................................................................... 79
+
+4.5
+
+Genomics and Targeted Therapy Review ................................................................................... 97
+
+4.5.1
+
+BACKGROUND ..................................................................................................................... 97
+
+4.5.2
+
+SUBMISSION CONTENTS RELATED TO GENOMICS ............................................................. 98
+
+4.5.3
+
+REVIEW OF EVIDENCE FOR SEQUENCE VARIANT INTERPRETATION................................... 98
+
+4.5.4
+
+SUMMARY AND CONCLUSIONS ........................................................................................ 104
+
+3
+
+Reference ID: 4669798
+
+List of Tables
+
+Table 1
+Table 2
+Table 3
+Table 4
+Table 5
+Table 6
+Table 7
+Table 8
+Table 9
+Table 10
+Table 11
+Table 12
+Table 13
+Table 14
+Table 15
+Table 16
+Table 17
+Table 18
+Table 19
+Table 20
+Table 21
+Table 22
+Table 23
+Table 24
+
+Steady-State Setmelanotide PK Parameters in Patients with Rare Genetic Disorders
+of Obesity (Study 014)........................................................................................................................... 16
+Summary Table of ELISA Method Validation for Quantitation of Setmelanotide
+(IMCIVREE) in Human Plasma ........................................................................................................... 27
+Summary Table of ELISA Method Validation for Quantitation of Setmelanotide
+(IMCIVREE) in Human Urine .............................................................................................................. 29
+Composition of the Commercial Formulation: Preserved Setmelanotide mPEGDSPE/CMC Injection ............................................................................................................................... 31
+Summary of Setmelanotide Steady State Pharmacokinetic Parameters from Study
+RM-493-009 ............................................................................................................................................... 37
+Plasma Pharmacokinetic Parameters of Setmelanotide after Once-Daily
+Administration (2 mg Week 1; 3 mg Weeks 2-12) .................................................................... 39
+Urine Pharmacokinetic Parameters of Setmelanotide after Once-Daily Administration
+(2 mg Week 1; 3 mg Weeks 2-12)..................................................................................................... 40
+Plasma Pharmacokinetic Parameters of Setmelanotide after Doses of 1.5 mg and 2.0
+mg................................................................................................................................................................... 42
+Plasma Pharmacokinetic Parameters of Setmelanotide after Doses of 1.5 mg and 2.0
+mg................................................................................................................................................................... 45
+Dose Proportionality of Setmelanotide Cmax and AUClast between Doses of 0.5 – 3.0 mg
+......................................................................................................................................................................... 46
+Plasma Pharmacokinetic Parameters of Setmelanotide by Dose ........................................ 51
+Proportion of POMC Patients Achieving at Least 10% Weight Loss from Baseline at
+52 Weeks from Therapeutic Dose of Setmelanotide................................................................. 53
+Percent Change in Daily Hunger Scores from Baseline at 52 Weeks from Therapeutic
+Dose (≥12 Years of Age) – Pivotal Cohort (DUS Population) ................................................ 55
+Proportion of Subjects (≥12 years of age) Achieving at Least 25% Improvement in
+Daily Hunger Scores from Baseline at 52 Weeks from Therapeutic Dose of
+Setmelanotide – Pivotal Cohort (FAS Population) ..................................................................... 56
+Plasma Pharmacokinetic Parameters of Setmelanotide in LEPR Obesity Patients by
+Dose ............................................................................................................................................................... 60
+Proportion of LEPR Obesity Patients Achieving at Least 10% Weight Loss from
+Baseline at 52 Weeks from Therapeutic Dose of Setmelanotide ......................................... 62
+Percent Change in Daily Hunger Scores from Baseline at 52 Weeks from Therapeutic
+Dose (≥12 Years of Age) – Pivotal Cohort (DUS Population) ................................................ 64
+Proportion of Subjects (≥12 years of age) Achieving at Least 25% Improvement in
+Daily Hunger Scores from Baseline at 52 Weeks from Therapeutic Dose of
+Setmelanotide – Pivotal Cohort (FAS Population) ..................................................................... 65
+Reviewer’s Specific Comments on Applicant’s Final Population PK model .................... 69
+Summary of Baseline Demographic Covariates for Analysis ................................................ 70
+Estimated model parameters and covariate effects for the base model .......................... 72
+Parameter Estimates of Applicant’s Final Model ....................................................................... 74
+Probability of simulated pediatric exposure exceeding lower 10th percentile of adult
+exposure ...................................................................................................................................................... 79
+Medians and Inter-quartile (IQR) ranges of parameter values for the historical
+growth model ............................................................................................................................................ 86
+4
+
+Reference ID: 4669798
+
+Table 25
+Table 26
+Table 27
+Table 28
+Table 29
+
+Parameter estimates and objective function Values final model of concentration vs
+weight ........................................................................................................................................................... 90
+Summary of Studies with PK Sampling Included in Population PK Analysis ................. 92
+American College of Medical Genetics and Genomics (ACMG) criteria for classifying
+pathogenic and benign variants ........................................................................................................ 99
+American College of Medical Genetics and Genomics (ACMG) rules for combining
+criteria to classify sequence variants ........................................................................................... 100
+Variant interpretation summary for studies RM493-012 and RM493-015................. 102
+
+5
+
+Reference ID: 4669798
+
+List of Figures
+Figure 1
+Figure 2
+Figure 3
+Figure 4
+Figure 5
+Figure 6
+Figure 7
+Figure 8
+Figure 9
+Figure 10
+Figure 11
+Figure 12
+Figure 13
+Figure 14
+Figure 15
+Figure 16
+Figure 17
+Figure 18
+Figure 19
+Figure 20
+Figure 21
+Figure 22
+Figure 23
+
+Mean Resting Energy Expenditure by Treatment following 1 mg/24 hour Dose of
+IMCIVREE or Equivalent Volume of Placebo ................................................................................ 15
+Mean Setmelanotide Concentration (±SD) Versus Time following 0.5 – 3.0 mg
+subcutaneous doses of IMCIVREE in Adult (Top Panel) and Adolescent Patients
+(Bottom Panel) ......................................................................................................................................... 17
+Mean Absolute Weight Change from Baseline (Left Panel) and Weekly Average
+Hunger Score (Right Panel)in Study 012 ....................................................................................... 20
+Mean Absolute Weight Change from Baseline (Left Panel) and Weekly Average
+Hunger Score (Right Panel)in Study 015 ....................................................................................... 20
+Simulated Setmelanotide AUCss for Pediatric Patients ............................................................ 22
+Effect of Mild Renal Function on Setmelanotide Clearance ................................................... 23
+Effect of Covariates on Setmelanotide Clearance ....................................................................... 24
+Mean (± SD) Setmelanotide Concentration Versus Time Following SC Infusion Doses
+of 0.0025, 0.01, 0.02, 0.025 and 0.05 mg/kg and 0.01 mg/kg SC Injection Dose of
+IMCIVREE .................................................................................................................................................... 32
+Mean (± SD) Setmelanotide Concentration Versus Time Following Doses of 0.0025,
+0.01, 0.015 mg/kg/day Infusion Doses and 0.015 mg/kg Injection Dose of IMCIVREE
+......................................................................................................................................................................... 34
+Effect of Setmelanotide Compared to Placebo on Resting Energy Expenditure ........... 36
+Mean (±SD) Setmelanotide Concentration Versus Time on Day 1 Following Daily
+Administration of Setmelanotide 2 mg (Week 1) and 3 mg (Weeks 2-12) ..................... 38
+Mean (±SD) Setmelanotide Concentration Versus Time after Administration of 1.5
+mg and 2 mg Doses of Setmelanotide to Patients With Rare Genetic Disorders of
+Obesity ......................................................................................................................................................... 41
+Mean (±SD) Setmelanotide Concentration Versus Time (inset - for the first 8-hours)
+after Administration of 0.5 – 3.0 mg Doses of Setmelanotide to Adult Patients with
+Rare Genetic Disorders of Obesity.................................................................................................... 44
+Mean (±SD) Setmelanotide Concentration Versus Time (inset - for the first 8-hours)
+after Administration of 0.5 – 3.0 mg Doses of Setmelanotide to Adolescent Patients
+with Rare Genetic Disorders of Obesity ......................................................................................... 44
+Dose Proportionality of Setmelanotide Cmax and AUClast between Doses of 0.5 – 3.0 mg
+......................................................................................................................................................................... 47
+Mean (±SD) Setmelanotide Concentration Versus Time (inset - for the first 8-hours)
+by treatment following Doses of 0.5, 1.0, 1.5, 2.0 and 2.5 mg Setmelanotide in POMC
+Patients ........................................................................................................................................................ 50
+Percent Change of Weight from Baseline by Visit Following Administration of
+Setmelanotide in POMC Patients....................................................................................................... 52
+Percent Change of Average Hunger Score from Baseline by Visit Following
+Administration of Setmelanotide in POMC Patients ................................................................. 54
+Mean (±SD) Setmelanotide Concentration Versus Time (inset - for the first 8-hours)
+by treatment following Doses of 0.5, 1.0, 1.5, 2.0, 2.5 and 3.0 mg Setmelanotide in
+LEPR Patients ............................................................................................................................................ 59
+Percent Change of Weight from Baseline by Visit Following Administration of
+Setmelanotide in LEPR Obesity Patients ....................................................................................... 61
+Percent Change of Average Hunger Score from Baseline by Visit Following
+Administration of Setmelanotide in POMC Patients ................................................................. 63
+Parameterization of the full covariate model .............................................................................. 73
+Goodness of fit plot for the final Setmelanotide population PK model ............................. 75
+6
+
+Reference ID: 4669798
+
+Figure 24
+Figure 25
+Figure 26
+Figure 27
+Figure 28
+Figure 29
+Figure 30
+Figure 31
+Figure 32
+Figure 33
+Figure 34
+Figure 35
+Figure 36
+Figure 37
+Figure 38
+
+Prediction corrected visual predictive check of the final model.......................................... 76
+Prediction corrected visual predictive check of the final model stratified by Studies77
+Full PK model covariate effects on steady state AUC................................................................ 78
+Probability of simulated pediatric exposure exceeding lower 10th percentile of adult
+exposure ...................................................................................................................................................... 80
+Weight profiles at different epochs of setmelanotide treatment. The profiles are
+stratified by age of patients at the start of treatment............................................................... 81
+Weight change plot overlaid on dose titration plot (1) ........................................................... 82
+Weight change plot overlaid on dose titration plot (2) ........................................................... 83
+Weight change plot overlaid on dose titration plot (3) ........................................................... 84
+Weight change plot overlaid on dose titration plot (4) ........................................................... 85
+Observed and model predicted growth curves from the historical growth data and
+model ............................................................................................................................................................ 86
+Schematic representation of the concentration vs weight model ....................................... 87
+Covariate versus covariate plots ....................................................................................................... 88
+Etas versus covariates plots for the base structural model of concentration vs weight
+......................................................................................................................................................................... 89
+Goodness-of-fit plots for the final model of concentration vs weight ............................... 90
+Observed and model predicted weight profiles during setmelanotide treatment ....... 91
+
+7
+
+Reference ID: 4669798
+
+1. EXECUTIVE SUMMARY
+This is an original NDA submitted by Rhythm Pharmaceuticals on 27 Mar 2020, seeking marketing
+(b) (4)
+approval for IMCIVREE (Setmelanotide) injection for the treatment of obesity
+associated with pro-opiomelanocortin (POMC), including PCSK1, deficiency obesity or leptin receptor
+(LEPR) deficiency obesity in adults and children 6 years of age and older. In this document, the names
+RM-493, Setmelanotide and IMCIVREE are used interchangeably.
+IMCIVREE (setmelanotide) is a formulation of setmelanotide available as a 10 mg/mL multi-dose vial.
+Setmelanotide is a synthetic, cyclic octapeptide (8-amino acid-containing peptide) that functions as a
+selective agonist to the human melanocortin-4 receptor (MC4R). Setmelanotide binds with high affinity
+(inhibitory constant [Ki] = 2.1 nM) to MC4R and is efficient in activating this receptor (50% effective
+concentration [EC50] = 0.27 nM). Chemically, it is Acetyl-L-arginyl-L-cysteinyl-D-alanyl-L-histidinyl-Dphenylalanyl-L-arginyl-L-tryptophanyl-L-cysteinamide cyclic (2→8)-disulfide and has the empirical
+formula C49H68N18O9S2 (anhydrous, free base) and a molecular weight of 1117.3 Daltons (anhydrous, free
+base). Setmelanotide has the following primary structure:
+
+(b) (4) solution (pH 5 - 6) with excipients mPEG-2000IMCIVREE drug product is formulated as
+DSPE (N-(Carbonyl-methoxypolyethylene glycol 2000)-1,2-distearoyl glycero-3-phosphoethanolamine
+sodium salt), carboxymethylcellulose sodium (CMC), mannitol, phenol, benzyl alcohol and sodium edetate.
+The proposed commercial formulation is a sterile solution intended for subcutaneous (SC) injection.
+
+Setmelanotide retains the specificity and functionality of the naturally occurring pro-opiomelanocortin
+(POMC)-derived neuropeptide, α-melanocyte-stimulating hormone (α-MSH), the endogenous ligand for
+the MC4R. Compared to the short-lived natural α-MSH ligand, setmelanotide is more potent and has a
+much longer half-life of ~10-12 hours in humans.
+Adrenocorticotropic hormone (ACTH), α-MSH, β-MSH, and γ-MSH are a family of peptide hormones that
+are all derived from the common precursor, POMC that form the melanocortins (MC). The MCs regulate
+energy homeostasis and body weight.
+The Melanocortin-4 receptor (MC4R) has been identified as the dominant MC receptor involved in body
+weight, hunger, and energy homeostasis regulation. Due to its mechanism of action, setmelanotide has the
+potential to restore lost activity in the MC4R pathway by bypassing the defects upstream of the MC4R and
+directly activating MC4R neurons in the hypothalamus below such defects, thereby re-establishing weight
+and appetite control in patients with POMC and LEPR obesity.
+
+8
+
+Reference ID: 4669798
+
+2.2
+
+Dosing and Therapeutic Individualization
+
+2.2.1
+
+General dosing
+
+The proposed starting dose of IMCIVREE is as follows:
+(b) (4)
+
+2.2.2
+
+Therapeutic individualization
+
+Based on findings from individual studies and population PK analyses, other than body weight, no other
+intrinsic factors affected the PK of setmelanotide after IMCIVREE administration. Dose adjustment of
+setmelanotide is not required for mild renal impairment. Setmelanotide is not recommended in patients
+with moderate and severe renal impairment. Setmelanotide was not evaluated in hepatic impairment.
+
+2.3
+
+Outstanding Issues
+
+None.
+
+11
+
+Reference ID: 4669798
+
+(b) (4)
+
+•
+
+8 USE IN SPECIFIC POPULATIONS
+8.6 Renal Impairment
+
+
+
+☐
+
+☐ • No dose adjustments are required in patients with mild
+
+12 CLINICAL PHARMACOLOGY
+12.2 Pharmacodynamics
+
+☐
+
+
+
+☐ •
+
+12.3 Pharmacokinetics
+
+☐
+
+
+
+
+
+renal impairment. Setmelanotide is not recommended in
+patients with moderate and severe renal impairment
+Energy Expenditure
+Short-term administration of IMCIVREE in 12 healthy
+obese subjects increased resting energy expenditure and
+(b) (4)
+shifted substrate oxidation to fat,
+
+• The accumulation of setmelanotide in systemic circulation
+during once-daily dosing over 12 weeks was approximately
+(b) (4)
+30%.
+
+A = Acceptable; AWE=Acceptable with minor edits; U=Unacceptable/substantive disagreement (must provide comment);
+
+13
+
+Reference ID: 4669798
+
+3.3
+
+Clinical Pharmacology Review Questions
+
+3.3.1
+
+To what extent does the available clinical pharmacology information provide pivotal or
+supportive evidence of effectiveness?
+
+The clinical pharmacology data presented in this NDA provides supportive evidence of effectiveness for
+(b) (4) associated with POMC, including
+IMCIVREE to for the treatment of obesity
+PCSK1, deficiency obesity or LEPR deficiency obesity in adults and children 6 years of age and older.
+The data from two phase 3 safety/efficacy studies (Studies RM-493-012 and RM-493-015) provided
+evidence of effectiveness of setmelanotide in producing clinically and statistically significant
+(b) (4) compared to baseline (see Clinical
+improvements in weight loss
+review by Dr. Galescu in DARRTS).
+3.3.2
+
+Is the proposed general dosing regimen appropriate for the general patient population
+for which the indication is being sought?
+
+Yes, the proposed general dosing regimen is appropriate for the POMC and LEPR deficiency obesity
+patients. No dedicated dose-finding study was conducted in these patients. The starting dose of 2 mg in
+adults was selected based on clinical experience gained during the pivotal Phase 3 studies.
+Due to limited available clinical data for doses of 2 mg and higher, and a theoretical concern that patients
+with MC4R pathway deficiencies might be especially sensitive to MC4R agonists, a cautious approach to
+the dosing regimen was followed at the time of study initiation. Adult dosing in Phase 3 pivotal studies
+were started at 1 mg, with dose increments of 0.5 mg every 2 weeks, until a therapeutic dose that resulted
+in weight loss or maximum dose of 3 mg was achieved. The starting setmelanotide dose was 0.5 mg in the
+pediatric patients (6 to 17 years of age) with dose increments of 0.5 mg and increasing up to a maximum
+dose of 3 mg. Frequent medical evaluation was needed with these small increments as it took 10 to 12
+weeks to achieve a therapeutic dose resulting in weight loss. As subsequent clinical data from patients
+receiving doses up to 3 mg/day did not show any additional safety concerns, sponsor proposed an adult
+starting dose of 2 mg/day to allow for a quicker response to treatment.
+Study 012 and Study 015 were conducted in POMC and LEPR deficiency obesity patients, respectively.
+The primary endpoint in both studies was defined as the proportion of patients in the pivotal cohort in the
+full analysis set (FAS) population who met the ≥10% weight loss threshold (responders) after
+approximately 1 year of treatment. Eight (8) of the 10 patients with POMC/PCSK1 deficiency obesity
+and Five (5) of the 11 patients with LEPR deficiency obesity in the FAS Population achieved at least 10%
+weight loss after approximately 52 weeks of treatment with setmelanotide. This clinically meaningful
+body weight loss was accompanied with improvements in hunger score in POMC and LEPR obesity
+patients which was evaluated as secondary endpoint in both the studies.
+The mean profiles of patients who met the ≥10% weight loss threshold is shown in Figure 3 and Figure
+4. Longitudinal measurement of hunger score is also shown in the figures.
+The drug’s effectiveness is supported by exposure-response analyses which determined that at the
+proposed starting and maintenance doses, setmelanotide concentrations were at the plateau of the
+exposure-response curve. The EC50 (concentration needed to achieve half of the maximum efficacy =
+7.8×10-20 ng/mL) was very small compared to the observed average concentration at the recommended
+starting and maintenance doses (Cav = 20.62 ng/mL).
+
+19
+
+Reference ID: 4669798
+
+kg had 55% (38% - 73%) higher steady state AUC and subjects weighing 200 kg had 45% (39% - 52%)
+lower AUC. Due to the strong correlation between age and body weight (younger patients having lower
+body weight), the applicant’s simulations indicated that pediatric subjects tend to be over-exposed
+compared to adults at the same setmelanotide dose. For this reason, the applicant proposes lower starting
+and maintenance doses for pediatric subjects. The applicant did not perform exposure-response analyses
+for efficacy nor for safety.
+The following key review question was addressed from a dosing regimen and /or management
+perspective:
+3.3.3.1 Does population PK and exposure-response modeling and simulation support the proposed
+labelling for specific populations?
+3.3.3.1.1
+Pediatric subjects
+Studies RM-493-012 (in POMC deficiency obesity) and RM-493-015 (in LEPR deficiency obesity)
+evaluated the PK of setmelanotide in pediatrics (n=4, Age: 6 to <12 years, body weight: 56 – 101 kg) and
+adolescents (n = 9, Age: 12 to 17 years). The body weights of patients between ages 12-17 years was 106139 Kg in Study 012, while it was between 89-118 Kg in the Study 015. In pediatric patients, 6 to < 12
+years, setmelanotide was initiated at 0.5 mg and maintenance dose ranged between 1.5 mg and 2 mg.
+Similarly, in adolescents (12-17 years), initial dose was 0.5 mg, but maintenance dose ranged between 1.5
+mg and 2.5 mg. Exploration of individual weight profiles indicate that all pediatric patients lost weight
+immediately after start of treatment. The data also indicate that titrations were mainly based on
+tolerability rather than on a pre-specified target for weight loss. A maximum dose of 3 mg was
+prespecified in the protocol for those patients who could tolerate higher doses of setmelanotide.
+On the other hand, findings from a PopPK model developed using PK data from these 2 studies
+concluded that patients aged 6 to <12 years of age would require a dose of 1.5 mg to match median adult
+exposures at the 2 mg dose and patients 12-17 years of age would require a dose of 2 mg. To approximate
+adult exposures at the 3 mg dose, patients aged 6 to <12 years of age would require a dose of 2 mg and
+patients aged 12-17 years of age would require a dose of 2.5 mg (Figure 5). These findings from model
+simulations suggest a higher starting dose would be warranted for pediatric subjects if an exposure
+matching principle was used. Though the safety profile of setmelanotide appears to be favorable in this
+patient population, the information is still limited, as only 4 subjects in the lower age group have been
+(b) (4)
+studied so far. The sponsor proposed
+Because the Agency did not perform an exposure-vs-safety analyses and the relationship
+between exposure and adverse events is unknown, there is the possibility of a positive relationship
+between exposure and adverse events. Thus, a conservative approach to lower starting and maintenance
+doses in the lower age group of pediatric patients is appropriate, given the paucity of safety data in the 6
+to <12 years of age subgroup (See Section 4.4 Pharmacometric Assessment for additional details).
+However, adolescents (12-17 years of age) may benefit from the same starting dose as adult subjects, as
+their baseline weight is comparable to adults and are predicted to have similar exposures as adults at the
+same starting dose. No significant safety events of interest were detected in adolescents in clinical trials.
+
+21
+
+Reference ID: 4669798
+
+Figure 5
+
+Simulated Setmelanotide AUCss for Pediatric Patients
+
+(Source: Module 2.7.2. Summary of Clinical Pharmacology Studies, Figure 7, page 58)
+
+3.3.3.1.2
+Renal impairment
+The effect of renal function on setmelanotide CL/F was evaluated across a range of creatinine clearance
+of 60 to 90 mL/min utilizing the developed population PK model by using PK data from 11 patients with
+mild renal impairment. Subjects with creatinine clearance values above 90 mL/min were assumed to have
+normal renal function. The expected effect was a ~20% decrease in CL/F for a patient with a creatinine
+clearance of 75 mL/min (Figure 6). Evaluation of renal function as a categorical covariate on CL/F (mild
+impairment vs. normal renal function) showed that subjects with mild renal impairment had a ~15% lower
+CL/F as compared to those with normal renal function. This magnitude of change in clearance is not
+expected to be clinically significant and thus, no dose adjustment is recommended for patients with mild
+renal impairment.
+
+22
+
+Reference ID: 4669798
+
+Setmelanotide has not been studied in patients with moderate or severe renal impairment and thus, no
+dosing recommendations are proposed for these patients.
+Figure 6
+
+Effect of Mild Renal Function on Setmelanotide Clearance
+
+(Source: Module 2.7.2. Summary of Clinical Pharmacology Studies, Figure 6, page 54)
+
+Acceptability of proposed labelling for Renal Impairment:
+The proposed labelling for mild renal impairment is acceptable. No dose adjustments are required in
+patients with mild renal impairment. The starting and maintenance doses in mild renal impaired subjects
+will result in exposures at the plateau of the dose response curve. Although mild renal impairment does
+not seem to be a significant PK covariate, approximately 40% of drug was eliminated unchanged in the
+urine. Thus, patients with moderate or severe renal impairment may have significantly higher exposure
+compared to patients with to normal renal function. Based on the lack of information, dosing in moderate
+and severe renal impairment is not recommended.
+3.3.3.1.3
+Hepatic Impairment
+A study in hepatically impaired patients was not conducted, and setmelanotide is not indicated in patients
+with hepatic impairment.
+3.3.3.1.4
+
+Race, Sex, Body weight and Age
+
+A fixed allometric relationships with exponents of 0.75 (CL/F) and 1.0 (V/F) was included for baseline
+body weight in the PopPK model. Based on the model and given the distribution of weight in the
+population PK database, the expected fold-changes in CL/F, relative to a 90 kg patient was a ~35%
+decrease for a 50 kg patient to an 83% increase for a 200 kg patient. Additionally, the model indicated
+that age was not a significant factor influencing clearance of setmelanotide (Figure 7), however a strong
+relationship between age and weight impacts recommendations for pediatric dosing.
+
+23
+
+Reference ID: 4669798
+
+Figure 7
+
+Effect of Covariates on Setmelanotide Clearance
+
+(Source: Module 2.7.2. Summary of Clinical Pharmacology Studies, Figure 5, page 54)
+
+3.3.3.1.5
+
+Genomics
+
+On May 05, 2020, the Office of Clinical Pharmacology/Division of Translational and Precision Medicine
+(OCP/DTPM) asked the applicant in an Information Request (IR) to provide the sequence variants
+interpretation for all subjects included in studies RM-493-012 and RM-493-015.
+The FDA received response to the IR on May 20, 2020. DTPM has reviewed the pathogenicity
+assignment of the genetic variants in the POMC, PCSK1, and LEPR genes. We generally concur with the
+applicant’s assessment of the pathogenicity of the genetic variants. For additional information please see
+the DTPM review in the Appendix 4.5.
+3.3.4
+
+Are there clinically relevant drug-drug interactions, and what is the appropriate
+management strategy?
+
+No new drug-drug interaction study was carried out with setmelanotide. In vitro studies demonstrated
+that setmelanotide has low potential for pharmacokinetic drug-drug interactions related to cytochrome
+P450 (CYP), transporters and plasma protein binding.
+Setmelanotide showed no inhibition potential for CYP1A2, CYP2A6, CYP2B6, CYP2C8, CYP2C9,
+CYP2C19, CYP2D6, and CYP2E1. The 50% inhibition concentration (IC50) was >1 mM for CYP1A2,
+2C9, 2C19 and 2D6, and >50μM for CYP3A4. The potential for time-dependent inhibition (TDI) of
+cytochrome P450 by setmelanotide showed that setmelanotide is not a time-dependent inhibitor of major
+24
+
+Reference ID: 4669798
+
+hepatic CYPs. Evaluation of the potential for cytotoxicity and induction of cytochrome P450 mRNA
+expression and enzyme activity (CYP1A2, CYP2B6 and CYP3A4) in human hepatocytes by
+setmelanotide showed that setmelanotide is not an inducer of these CYPs, nor is it cytotoxic up to 1 μM.
+Assessment of the substrate and inhibitor potential of setmelanotide for transporters showed that
+setmelanotide is not a significant inhibitor of P-glycoprotein (P-gp), breast cancer resistance protein
+(BCRP), OATP1B1, OATP1B3, OAT1, OAT3, or OCT2 and is not a substrate of P-gp, BCRP,
+OATP1B1, OATP1B3, OAT1, OAT3, or OCT2. Setmelanotide is a not a substrate of MATE1 or
+MATE2K; setmelanotide is not an inhibitor of MATE1 or MATE2K. These results do not warrant a
+clinical drug interaction study.
+
+25
+
+Reference ID: 4669798
+
+4.
+
+APPENDICES
+
+4.1
+
+Summary of Bioanalytical Method Validation and Performance
+
+4.1.1
+
+How is IMCIVREE identified and what are the analytical methods used to measure them
+in plasma?
+
+Setmelanotide concentrations in plasma were determined using a validated LC-MS/MS assay. The
+validation range was 0.500 – 200 ng/mL, with the lower limit of quantification (LLOQ) being 0.500
+ng/mL. A summary of validation parameters for the quantitation of setmelanotide in plasma is shown in
+Table 2.
+4.1.1
+
+How is IMCIVREE identified and what are the analytical methods used to measure them
+in urine?
+
+Setmelanotide concentrations in urine were determined using a validated LC-MS/MS assay. The
+validation range was 2.00 - 800 ng/mL, with the lower limit of quantification (LLOQ) being 2 ng/mL. A
+summary of validation parameters for the quantitation of setmelanotide in urine is shown in Table 3.
+
+26
+
+Reference ID: 4669798
+
+(Source: Module 2.7.1 Summary of Biopharmaceutic Studies and Associated Analytical Methods, Table 4, pp 12-15
+
+28
+
+Reference ID: 4669798
+
+30
+
+Reference ID: 4669798
+
+4.3
+
+Clinical PK and PD Assessments
+
+Study RM-493-001: Single Ascending Dose Study to Evaluate the Safety, Tolerability,
+Pharmacokinetics and Pharmacodynamics of Setmelanotide Administered to Healthy Obese NonDiabetic Volunteers
+This first-in-human (FIH) trial was conducted to evaluate the safety and tolerability of single doses of
+setmelanotide administered by SC continuous infusion and injection to healthy obese subjects. The other
+goals for this study were to evaluate the PK and PD profiles for single doses of setmelanotide. A total of
+36 healthy obese non-diabetic volunteers, 13 White and 23 Black, 16 males and 20 females, aged between
+20 and 53 years (mean = 35.6 years), participated in this study. The mean body weight of the population
+was 96.8 kg for the placebo group (n=22), 114.0 kg for the 0.0025 mg/kg group (n=3, males), 112.0 kg
+for the 0.01 mg/kg group (n=7), 104.3 kg for the 0.02 mg/kg group (n=4), and 95.3 kg for the 0.025
+mg/kg group (n=3, females). The mean BMI was 33.0 kg/m2 for the placebo group (n=22), 36.9 kg/m2
+for the 0.0025 mg/kg group (n=3, males), 34.8 kg/m2 for the 0.01 mg/kg group (n=7), 32.3 kg/m2 for the
+0.02 mg/kg group (n=4), and 34.3 kg/m2 kg for the 0.025 mg/kg group (n=3, females).
+Serial blood samples were taken for the PK measurement of setmelanotide.
+The mean setmelanotide exposure following administration of 0.0025, 0.01, 0.02, .025 and .05 mg/kg
+infusion doses of IMCIVREE and 0.01 mg/kg injection dose of IMCIVREE is presented in Figure 8.
+Figure 8
+
+Mean (± SD) Setmelanotide Concentration Versus Time Following SC Infusion
+Doses of 0.0025, 0.01, 0.02, 0.025 and 0.05 mg/kg and 0.01 mg/kg SC Injection
+Dose of IMCIVREE
+
+(Source: Reviewer generated graph)
+
+32
+
+Reference ID: 4669798
+
+Since this study used an early formulation of setmelanotide that was not carried forward to pivotal trials
+and the dosing was based on per kg body weight instead of nominal daily dosing, the PK and PD findings
+from this study will not be discussed in detail.
+Pharmacokinetics:
+Setmelanotide appeared to exhibit two compartment pharmacokinetics following subcutaneous bolus
+injection or infusion over 24-hours.
+A lag time was observed after continuous SC infusions of RM-493. The mean ±SD lag times varied from
+0.74 ± 0.22 hr (for 0.05 mg/kg dose group) to 6.00 ± 2.83 hr (for the 0.01 mg/kg dose group). There was
+no lag time after administration of the SC bolus dose.
+The mean Tmax was approximately 24 hours (i.e., at the end of infusion) across all SC infusion dosing
+groups. Mean Cmax ranged from 0.187 ng/mL (n = 1, 0.0025 mg/kg) to 64.75 ng/mL (n = 4, 0.1 mg/kg).
+After SC injections (0.01 mg/kg), the mean values for Tmax and Cmax were 25.4 ± 4.605 hr and
+25.4 ± 4.605 ng/mL, respectively (Figure 8).
+The mean (± SD) setmelanotide t½ was 8.98 ± 2.12 h across all dose groups (SC infusion and SC
+injection) and ranged from 5.59 to 12.9 hours across individual subjects.
+Setmelanotide was excreted as unchanged parent drug into urine. Across all SC infusion dose groups
+(excluding the 0.0025 mg/kg male group which had mostly undetectable RM-493 plasma concentrations),
+the mean fraction of dose excreted unchanged was 27.35 ± 11.46% and ranged from 23 ± 5% (0.01 mg/kg
+in males) to 38 ± 4% (0.05 mg/kg administered to females). The mean renal clearance of setmelanotide
+was 43.98 ± 15.27 mL/min.
+Pharmacodynamics:
+Though signals of numerical effects of setmelanotide on parameters of hunger/satiety were observed,
+especially at the higher doses studied, few reached statistical significance The Sponsor hypothesized that
+this could be due to confounding issues associated with this data as some of the higher doses were also
+associated with a higher incidence of nausea.
+
+33
+
+Reference ID: 4669798
+
+Study RM-493-002: Multiple Ascending Dose Study to Evaluate the Safety, Tolerability,
+Pharmacokinetics and Pharmacodynamics of Setmelanotide Administered to Healthy
+Obese Non-Diabetic Volunteers
+This trial was conducted to evaluate the safety and tolerability of multiple doses of setmelanotide when
+given by continuous subcutaneous (SC) infusion for 14 or 28 days or by SC injections every 12 hours
+(Q12 hours) for 14 days. The other goals for this study were to evaluate the PK and PD profiles for
+multiple doses of setmelanotide. A total of 57 subjects (age range: 19 – 57 years; 43 male and 14
+females; weight range: 77.6 – 163.7 kg) were enrolled and randomly assigned study treatments within a
+specific cohort. Thirty-nine subjects received setmelanotide and 18 subjects received placebo.
+The RM-493 doses administered during this trial were, in chronological order:
+• Cohort 1: 0.01 mg/kg/day for 14 days via SC infusion
+• Cohort 2: 0.0025 mg/kg/day for 14 days via SC infusion
+• Cohort 3: 0.01 mg/kg/day for 28 days via SC infusion
+• Cohort 4: 0.015 mg/kg/day for 28 days via SC infusion
+• Cohort 5: 0.015 mg/kg/day for 14 days via SC injection (0.0075 mg/kg every 12 hours)
+• Cohort 6 (MC4R heterozygous subjects): 0.01 mg/kg/day for 28 days via SC infusion
+Serial blood samples were taken for the PK measurement of setmelanotide.
+The mean setmelanotide exposure following administration of 0.0025, 0.01, 0.015 mg/kg/day infusion
+doses of IMCIVREE and 0.015 mg/kg injection dose of IMCIVREE is presented in Figure 9.
+Figure 9
+
+Mean (± SD) Setmelanotide Concentration Versus Time Following Doses of
+0.0025, 0.01, 0.015 mg/kg/day Infusion Doses and 0.015 mg/kg Injection Dose
+of IMCIVREE
+
+(Source: Reviewer generated graph)Pharmacokinetics:
+
+In subjects receiving SC infusions, plasma setmelanotide concentrations reached a plateau by 24 to 48
+hours after starting the infusion, suggesting that steady state is achieved by 24 to 48 hours. Following SC
+injection administered every 12 hours, setmelanotide steady-state concentrations were reached by 24 to 48
+hours. Trough setmelanotide concentrations were reasonably consistent from Day 3 to the last day of
+34
+
+Reference ID: 4669798
+
+dosing (Day 14 or 28). Setmelanotide AUC and Cmax increased with increasing dose in a roughly doseproportional manner following single- and multiple-dose SC infusions.
+However, the formulation used in this study was not carried forward to the pivotal program and
+additionally dosing in subsequent studies was based on fixed dosing as opposed to body weight-based
+dosing carried out in the current study. Further discussion about findings from this study will not be
+carried out as the findings do not contribute towards the labeling for the product.
+
+35
+
+Reference ID: 4669798
+
+Study RM-493-006 - Multiple Dose, Energy Expenditure in Healthy Obese Subjects
+Study RM-493-006 was a double-blind, placebo-controlled, multiple-dose, 2-period, crossover study in
+healthy obese subjects to evaluate the effect of setmelanotide on resting energy expenditure (REE)
+measured in a room calorimeter during continuous SC infusion of setmelanotide. Subjects stayed for 24
+hours in a metabolic chamber for the 3-day duration of each period, where they received active treatment
+during one period and placebo in another according to a randomization scheme. PK samples were drawn
+daily just before dosing. Urine over 24 hours was collected on the last day of treatment of both periods.
+A total of 12 obese normotensive, nondiabetic, subjects with normal thyroid function at baseline
+participated in the study. The subjects were between the age of 18 and 50 years with a body mass index
+(BMI) between 30 and 40 kg/m2. A schematic of the study design is shown below:
+
+The primary outcome, resting energy expenditure measured by respiratory chamber (REEC) was defined
+as the average resting energy expenditure in the metabolic chamber from 09:30 (49.5-hour after starting
+treatment) to 10:00 and 10:30 to 11:00 while the subject was fasting, completely still, and awake in a
+seated position under the observation of the study personnel. The effect of setmelanotide vs placebo on
+REE is presented in Figure 10.
+Setmelanotide increased resting energy expenditure vs. placebo by 6.4% (95% CI: 0.68 to 13.02 %), on
+average by 111 kcal/24h (95% CI: 15 to 207 kcal, p=0.03). Total daily energy expenditure trended higher
+while the thermic effect of a test meal and exercise energy expenditure did not differ significantly. The
+23-hour non-exercise respiratory quotient was lower during setmelanotide treatment (0.833 ± 0.021 vs.
+0.848 ± 0.022, p=0.02).
+Figure 10
+
+Effect of Setmelanotide Compared to Placebo on Resting Energy Expenditure
+
+(Source: Reviewer generated graph)
+
+36
+
+Reference ID: 4669798
+
+Study RM-493-009: Phase 1B/Phase 2A Safety and Efficacy of Setmelanotide in Obese Subjects
+Study RM-493-009 was a staged, randomized, double-blind, placebo-controlled study that evaluated the
+efficacy and safety of setmelanotide when administered by SC injection. This study was conducted in three
+stages, with each new stage initiated after review of the safety, tolerability and weight loss from the initial
+~4 weeks of the previous stage.
+Stage A: A total of 25 obese subjects (14 male, 11 female) with a mean age of 40.3 years (range: 24 – 59
+years), mean weight of 99.98 kg (range: 78.6 – 130.2 kg), and mean BMI of 33.92 kg/m2 (range: 30.2 –
+38.4 kg/m2) participated in Stage A. Of the 25 subjects in this stage, 15 were Black or African American,
+1 person was Native Hawaiian or Other Pacific Islander, 8 subjects were White, and 1 subject was classified
+as other.
+Stage B: A total of 17 obese subjects (8 male, 9 female) with a mean age of 41.23 years (range: 23 – 62
+years), mean weight of 97.27 kg (range: 79.3 – 116.8 kg), and mean BMI of 33.71 kg/m2 (range: 30.3 –
+38.6 kg/m2) participated in Stage B. Of the 17 subjects in this stage, 9 were Black or African American,
+and 8 subjects were White.
+Stage C: A total of 57 obese subjects (18 male, 39 female) with a mean age of 40.4 years (range: 21 – 60
+years), mean weight of 98.63 kg (range: 77.7 – 124.1 kg), and mean BMI of 34.69 kg/m2 (range: 30.4 –
+39.6 kg/m2) participated in Stage C. Of the 57 subjects in this stage, 20 were Black or African American,
+1 person was Native Hawaiian or Other Pacific Islander, 30 subjects were White, 1 person was American
+Indian or Alaska Native, and 5 subjects were classified as other.
+Compared to the mean setmelanotide concentration values of 5.74 ng/mL at 24 hours for the 0.75 mg BID
+treatment, (Stage A), the mean setmelanotide concentration values for QD treatments of 3.58 ng/mL at
+1.5 mg QD (Stage B) and 4.74 ng/mL at 2.0 mg QD (Stage C) were lower.
+The Sponsor reported that trough concentrations were collected during outpatient dosing in Stage B, with
+a significant number of patients and time-points demonstrating little evidence of drug exposure, and
+others with extremely variable setmelanotide concentrations. They report that despite intensive
+investigation with sites, no clear explanation was apparent, and hypothesized that there were challenges
+with drug administration and compliance during outpatient administration.
+A summary of setmelanotide steady state PK parameters on Day 8 is presented in Table 5.
+Table 5
+
+Summary of Setmelanotide Steady State Pharmacokinetic Parameters from
+Study RM-493-009
+
+Values are presented as arithmetic mean (%CV) for all parameters except Tmax which is presented as median (min, max); a Day 8
+(Source: CSR for Study RM-493-009, Table 6 Page 34)
+
+37
+
+Reference ID: 4669798
+
+Study RM-493-026: Phase 1b Repeat-Dose Setmelanotide in Healthy Obese Subjects
+Study RM-493-026 was a randomized, double-blind, placebo-controlled study using a weekly
+setmelanotide formulation (QW) or matching placebo and a QD setmelanotide formulation or matching
+placebo in healthy, obese subjects. However, only data from the QD formulation were included in this
+submission. Subjects receiving the QD formulation were administered 2 mg for 1 week followed by 3 mg
+QD for 11 weeks. All subjects in this cohort were randomized in a 2:1 ratio to receive either setmelanotide
+or placebo and were stratified by gender and baseline BMI. Blood samples for 24-hour PK profiles were
+collected on Week 1 (Day 1) and Week 12. Trough samples were collected daily during Week 1. Trough
+samples were collected pre-dose each week for Weeks 2 through 12. Urine was collected on Week 1 (Day
+1) and Week 12 over 24 hours. Blood samples were also collected for determination of ADA to
+setmelanotide.
+A total of 13 obese subjects, 3 male and 10 females, between the ages of 34 and 54 years (mean=43.6 years),
+participated in this study. The mean body weight was 120.1 kg and the mean BMI was 43.8 kg/m2.
+Plasma concentration data were received for 11 subjects (9 setmelanotide- and 2 placebo-treated subjects).
+The 9 setmelanotide-treated subjects were included in the PK analysis.
+As expected, mean setmelanotide concentrations at Week 12 were higher than those on Week 1
+throughout the 24-h sampling period, due to the difference in dose between Week 1 (2 mg) and Weeks 212 (3 mg), as well as possible accumulation during QD dosing. The mean setmelanotide exposure
+following administration of 2 and 3 mg QD is presented in Figure 11.
+Figure 11
+
+Mean (±SD) Setmelanotide Concentration Versus Time on Day 1 Following
+Daily Administration of Setmelanotide 2 mg (Week 1) and 3 mg (Weeks 2-12)
+
+(Source: Reviewer generated graph)
+
+38
+
+Reference ID: 4669798
+
+Pharmacokinetics:
+Following the first injection of 2 mg setmelanotide on Day 1 of Week 1, the mean setmelanotide Cmax was
+19.7 ng/mL occurring at a median Tmax of 8.5 h. The mean setmelanotide Cmax was 37.9 ng/mL at a
+median Tmax of 8.0 h on Day 1 of Week 12 after subjects were dosed with 3 mg setmelanotide. After
+normalizing to a 3 mg dose, the mean Week 12 Cmax was higher than that on Week 1 suggesting some
+accumulation occurred during QD dosing over 12 weeks. The average setmelanotide concentrations
+during the 24-h dosing interval after multiple dosing through Week 12 (Cavg) was 20.6 ng/mL and the
+mean fluctuation in concentration during the dosing interval was 153%.
+Accumulation was evident as seen by an increase in AUC during multiple dosing. The mean AUCtau was
+253 h*ng/mL on Day 1 of Week 1 ( 379 h*ng/mL when adjusted to a 3 mg dose) and 495 h*ng/mL on
+Week 12. Mean accumulation ratios were 1.29 for Cmax and 1.31 for AUCtau. These accumulation ratio
+values closely align with the theoretical accumulation factor of 1.23 to 1.33 for once-daily administration
+(tau = 24 h) after assuming linear PK with an apparent terminal t1/2 of 10 to 12 h.
+Based on data collected for 24 h during the Week 12 QD regimen, the steady-state apparent t1/2 in this
+study ranged from 5.94 to 8.13 h. The effective half-life of setmelanotide was 11 h. At steady-state, the
+mean CLss/F was 6.21 L/h and the mean Vz/F was 62.7 L. (Table 6).
+Table 6
+
+Plasma Pharmacokinetic Parameters of Setmelanotide after Once-Daily
+Administration (2 mg Week 1; 3 mg Weeks 2-12)
+
+(Source: CSR for Study RM-493-026, Table 7 Page 53)
+
+In vitro experiments showed that of the 4 potential metabolites of setmelanotide, M19, the free
+carboxylate, had 10-fold less activity than that of setmelanotide on MC1R, MC3R, MC4R, and MC5R.
+39
+
+Reference ID: 4669798
+
+Study RM-493-011: Phase 2 Study of Setmelanotide In Patients with Rare Genetic Disorders of
+Obesity
+Pharmacokinetics
+Study RM-493-011 was a Phase 2, open-label, uncontrolled, non-randomized, study with an additional
+long-term safety extension. The study planned to enroll up to 30 male and female patients identified with
+rare genetic obesity caused by a genetic mutation that impacts the leptin-melanocortin pathway (i.e.,
+POMC, LEPR, MC4R, PCSK1 mutations, including heterozygous and epigenetic genetic defects in POMC,
+heterozygous MC4R mutations and patients with Bardet-Biedl and Alstrom’s syndrome). Patients greater
+than or equal to 12 years of age with a POMC mutation or LEPR mutation were eligible for study
+participation after efficacy was established in adult patients.
+A total of 7 patients were screened and enrolled and treated with at least 1 dose of setmelanotide in this
+ongoing study. Of the 7 patients who were enrolled, all had completed the dose titration period and 6 are
+ongoing in the extension period. One (1) patient discontinued due to a protocol violation. There are 2
+female POMC patients with an average age of 23.0 years (20, 26 years), an average body weight of 153.9
+kg (152.8, 155.0 kg) and an average BMI of 51.8 kg/m2 (49.5, 54.1 kg/m2). There are 3 LEPR patients (2
+male and 1 female) with a mean age of 21.0 years (range: 15-22 years), mean body weight of 124.43 kg
+(range: 120.6 – 130.6 kg) and a mean BMI of 41.6 kg/m2 (range: 39.9 – 44.2 kg/m2). There were 2 patients
+with Epigenetic disease (1 male, 1 female) with an average age of 19.0 years (18, 20 years), an average
+body weight of 159.9 kg (137.6, 182.2 kg) and an average BMI of 46.7 kg/m2 (38.1, 55.3 kg/m2).
+PK data were collected for 2 setmelanotide dose levels: 1.5 mg and 2.0 mg. PK data were collected on 2
+study days for 2 of the 7 subjects. Otherwise, a single PK profile was included in the analysis.
+Mean setmelanotide concentration-time profiles by dose are presented in Figure 12.
+Figure 12
+
+Mean (±SD) Setmelanotide Concentration Versus Time after Administration of
+1.5 mg and 2 mg Doses of Setmelanotide to Patients With Rare Genetic
+Disorders of Obesity
+
+(Source: CSR for Study RM-493-011, Figure 3, Page 56)
+
+Mean Cmax occurring at a median Tmax of 3.50 hr obtained from 6 patients after the setmelanotide 1.5 mg
+dose was 24.8 ng/mL. Following a 2 mg dose in 3 patients, setmelanotide mean Cmax was 28.1 ng/mL and
+41
+
+Reference ID: 4669798
+
+occurred at a median Tmax of 4.05 hr. Mean AUClast values were 111 h*ng/mL (n=6) and 153 h*ng/mL
+(n=3) after the 1.5 mg and 2.0 mg doses of setmelanotide, respectively. Mean pre-dose (Ctrough)
+setmelanotide concentrations were 4.38 ng/mL after both 1.5 mg (n=6) and 2.0 mg (n=3) doses (Table 8).
+Table 8
+
+Plasma Pharmacokinetic Parameters of Setmelanotide after Doses of 1.5 mg
+and 2.0 mg
+
+(Source: CSR for Study RM-493-011, Table 12, Page 57)
+
+42
+
+Reference ID: 4669798
+
+Study RM-493-014: Phase 2 Study of Setmelanotide In Patients with Rare Genetic Disorders of
+Obesity
+Pharmacokinetics
+Study RM-493-014 was a Phase 2, pilot study to assess initial (~3 month) safety and efficacy of
+setmelanotide in a group of populations of very rare genetic disorders of obesity, with the potential for
+responding patients to enter into a long-term extension phase. Study of the various populations was
+included in this protocol for administrative convenience since some of these genetic obesity disorders are
+so rare, with each population to be evaluated separately. The Sponsor anticipated that approximately 5
+patients would be evaluated in each genetic disorder, and if substantial weight loss with good tolerability
+(“Proof of Concept”) was demonstrated:
+(i) Patients would be eligible to participate in the long-term phase (one-year extension); and
+(ii) After consultation with regulatory agencies, additional evaluation of the effect of setmelanotide in each
+specific genetic disorder would continue in a pivotal study under a separate protocol.
+The study began with an initial period of dose titration where the individual patient’s therapeutic dose was
+established by upwards dose titration in 2-week intervals. Patients continued on active treatment at their
+individually titrated therapeutic dose for an additional 10 weeks, for a total combined dosing duration of
+~12 weeks at the individual patient’s therapeutic dose. A second upwards dose titration may have been
+conducted if anticipated efficacy was not realized during the initial 10-week open label treatment phase.
+Patients demonstrating at least 5 kg weight loss (or 5% if baseline body weight <100 kg) at the end of the
+Open-Label Treatment Period were eligible to continue into the long-term extension phase.
+A total of 40 patients were screened in this study, of whom 30 were enrolled and treated with at least 1 dose
+of setmelanotide. Twenty (20) of 30 patients completed the initial 12-week treatment phase. Five (5)
+patients withdrew from the initial 12-week treatment phase, all at the patient’s/patient guardian’s request,
+and 5 other patients were ongoing in the initial 12-week treatment phase as of 09 April 2019 (date of data
+cutoff) There are 22 female and 8 male patients with an average age of 29.1 years (range: 12 - 65 years),
+an average body weight of 125.1 kg (71, 204 kg) and an average BMI of 45.4 kg/m2 (28, 80 kg/m2). There
+were 4 patients with the Alström gene subtype, 10 patients with Bardet-Biedl syndrome (BBS) gene
+subtype, 1 patient with LEPR deficient obesity, 7 patients with PCSK1 subtype deficiency, 6 patients with
+POMC deficient obesity and 2 patients with Smith - Magenis Syndrome (SMS) gene subtype. Of the
+population, 25 were White, 4 Black or African American and 1 Asian.
+PK data were collected for 6 setmelanotide dose levels: 0.5, 1.0, 1.5, 2.0, 2.5 and 3.0 mg.
+Mean setmelanotide concentration-time profiles by dose are presented in Figure 13 for adults and Figure
+14 for adolescents.
+
+43
+
+Reference ID: 4669798
+
+Figure 13
+
+Mean (±SD) Setmelanotide Concentration Versus Time (inset - for the first 8hours) after Administration of 0.5 – 3.0 mg Doses of Setmelanotide to Adult
+Patients with Rare Genetic Disorders of Obesity
+
+(Source: Reviewer generated plot)
+
+Figure 14
+
+Mean (±SD) Setmelanotide Concentration Versus Time (inset - for the first 8hours) after Administration of 0.5 – 3.0 mg Doses of Setmelanotide to
+Adolescent Patients with Rare Genetic Disorders of Obesity
+
+(Source: Reviewer generated plot))
+
+44
+
+Reference ID: 4669798
+
+Mean Cmax for combined visits ranged from 6.65 ng/mL (n=13) at a median (range) Tmax of 7.00 h (3.908.12 h) after 0.5 mg to 38.0 ng/mL (n=10) at a Tmax of 6.26 h (4.00-8.03 h) after 3 mg. The mean AUClast
+ranged from 35.8 h*ng/mL (n=13) after 0.5 mg to 207 h*ng/mL (n=10) after 3 mg (Table 9). The median
+Ctrough values were 0.727 ng/mL after 0.5 mg, 1.33 ng/mL after 1 mg, 2.50 ng/mL after 1.5 mg, 4.14 ng/mL
+after 2 mg, 7.3 ng/mL after 2.5 mg, and 6.68 ng/mL after 3 mg.
+Table 9
+
+Plasma Pharmacokinetic Parameters of Setmelanotide after Doses of 1.5 mg
+and 2.0 mg
+
+(Source: CSR for Study RM-493-014, Table 9, Page 82)
+
+Dose proportionality assessments showed that there was approximately proportional increase in mean Cmax
+and AUClast to the increase in dose for incremental increases in dose between 0.5 mg and 3 mg., There was
+a linear relationship between Cmax and AUClast versus dose, as shown in the 5.71-fold increase in mean Cmax
+and a 5.78-fold increase in mean AUClast for the overall 6-fold increase in dose between 0.5 mg and 3 mg
+(Table 10 and Figure 15).
+
+45
+
+Reference ID: 4669798
+
+Table 10
+
+Dose Proportionality of Setmelanotide Cmax and AUClast between Doses of 0.5 –
+3.0 mg
+
+(Source: CSR for Study RM-493-014, Table 10, Page 84)
+
+46
+
+Reference ID: 4669798
+
+Study RM-493-012: Pivotal Phase 3 Study of Setmelanotide in POMC Deficient Obesity
+Pharmacokinetics:
+Study RM-493-012 was a pivotal study to assess long-term (52 weeks) efficacy of setmelanotide in POMC
+deficiency obesity. For this global study, the maximum allowable dose differed across countries. The US,
+Canada and UK authorities approved a maximum daily dose of 3.0 mg, while Germany and France
+authorities initially approved a maximum daily dose of 2.5 mg. The study began with an initial period (dose
+titration) lasting 2 to 12 weeks (dependent upon number of dose escalations required to determine an
+individual’s therapeutic dose). During the dose titration, increments of 0.5 mg dose increases were done at
+weekly intervals to determine an individual’s therapeutic dose, up to the approved maximum dose in the
+specific country of the participating site. Thereafter, patients continued active treatment at their specific
+optimal therapeutic dose for an additional 10 weeks, for a total combined dosing duration of 12 weeks at
+the individual patient’s therapeutic dose. For patients who achieved at least a 5 kg weight loss (or at least
+5% weight loss if baseline body weight was <100 kg) at the end of the Open Label Treatment Period, they
+continued into the double-blind, variably-timed, placebo-controlled, withdrawal period lasting 8 weeks,
+inclusive of a 4-week of placebo treatment period. The onset of the placebo period was variable for each
+patient in order to mask the actual timing of the withdrawal period; patients, investigators, and investigative
+sites remained blinded as to when placebo treatment was administered. Following the withdrawal period,
+patients went on to complete approximately 1 year of treatment at the therapeutic dose (the primary endpoint
+defined as 52-weeks after achieving their relative therapeutic dose). It was anticipated that the patient’s
+therapeutic dose, established during the period of dose titration, would be administered throughout the
+study.
+The pivotal cohort included 9 patients with POMC genetic mutations and 1 patient with PCSK1 genetic
+mutation. Of these 10 pivotal patients comprising the pivotal cohort, 9 completed the study and 1 withdrew
+from the study due to lack of efficacy. Of the 10 pivotal patients, 5 were male and 5 were female. The
+mean age of the group was 18.4 years (range: 11 – 30 years), and the mean body weight was 118.7 kg
+(range: 55.9 – 186.7 kg) and the mean BMI was 40.41 kg/m2 (range: 26.6 – 53.3 kg/m2). Of the 10 patients,
+7 were White, 1 was Arab, 1 was Moroccan, 3 patients were categorized as other and 1 patient’s category
+was not available.
+In addition to this cohort, there were 4 supplemental patients, 1 male and 3 females. The mean age of this
+supplemental group was 17.0 years (range: 10 – 29 years), and the mean body weight was 106.5 kg (range:
+83.7 – 138 kg) and the mean BMI was 39.0 kg/m2 (range: 34.4 – 42.7 kg/m2). Of the 4 supplemental cohort
+patients, 1 was White and 3 patients were categorized as other.
+
+48
+
+Reference ID: 4669798
+
+A schematic of the study design is shown below:
+
+Serial blood samples were taken for the PK measurement of setmelanotide. PK sample collections were
+limited in pediatric age participants (age 6 through age 11 years) to avoid excess blood volume
+reductions.
+The mean setmelanotide exposure summarized by dose level are presented in Figure 16.
+
+49
+
+Reference ID: 4669798
+
+Figure 16
+
+Mean (±SD) Setmelanotide Concentration Versus Time (inset - for the first 8hours) by treatment following Doses of 0.5, 1.0, 1.5, 2.0 and 2.5 mg
+Setmelanotide in POMC Patients
+
+(Source: Reviewer generated graph)
+
+The mean Cmax ranged from 6.47 ng/mL after 0.5 mg (n=4, 45.7% CV) to 24.5 ng/mL after 2.0 mg (n=6,
+46.2% CV). The mean Cmax after 2.5 mg, 24.4 ng/mL (n=3, 50.4% CV), was similar to that after 2.0 mg.
+The median Tmax occurred between 4.01 h (range 1.00-8.02 h) after 1.5 mg and 7.03 h (range 5.80-8.00 h)
+after 2.5 mg. It should be noted that, given the limited PK sampling in most subjects, the Cmax and Tmax
+values may be underestimated. The mean AUC0-8 ranged from 38.3 h*ng/mL after 0.5 mg (n=4, 47.3%
+CV) to 143 h*ng/mL after 2.0 mg (n=6, 49.4% CV). As noted for Cmax, the mean AUC0-8 after 2.5 mg,
+138 ng/mL (n=3, 52.3% CV), was similar to that after 2.0 mg. Twenty-four (24) hour PK sampling
+occurred in only 2 subjects (4 profiles in each subject with 6 of 8 profiles occurring during dose titration).
+Estimates of AUC0-24 during the once-daily dosing interval ranged from 86.1 h*ng/mL after 1.0 mg (n=2,
+8.85% CV) to 228 h*ng/mL after 2.5 mg (n=1). (Table 11).
+
+50
+
+Reference ID: 4669798
+
+The primary endpoint in this study was defined as the proportion of patients in the pivotal cohort in the
+FAS population who met the ≥10% weight loss threshold (responders) after approximately 1 year of
+treatment.
+After approximately 52 weeks of treatment with setmelanotide, 8 of the 10 pivotal patients with
+POMC/PCSK1 deficiency obesity in the FAS Population achieved at least 10% weight loss,
+demonstrating statistically significant (p< 0.0001) and clinically meaningful body weight loss after 1 year
+of treatment (Table 12, Figure 17).
+Figure 17
+
+Percent Change of Weight from Baseline by Visit Following Administration of
+Setmelanotide in POMC Patients
+
+(Source: Reviewer generated graph)
+
+52
+
+Reference ID: 4669798
+
+Table 12
+
+Proportion of POMC Patients Achieving at Least 10% Weight Loss from
+Baseline at 52 Weeks from Therapeutic Dose of Setmelanotide
+
+(Source: CSR for Study RM-493-012, Table 12, Page 62)
+
+One of the secondary efficacy endpoints evaluated was hunger score. During the study 3 distinct daily
+hunger scores were collected: morning hunger, worst (most) hunger in 24 hours, and average hunger in 24
+hours. Weekly average hunger score for analysis were determined from average of daily hunger scores.
+The hunger score used to assess study endpoints was the weekly average hunger score of the daily worst
+(most) hunger score in 24 hours (Figure 18). The second key secondary endpoint of this study was to
+evaluate the mean percent change in hunger scores for patients ≥12 years of age with POMC/PCSK1
+deficiency obesity in the DUS population following 1 year of treatment with setmelanotide. The mean
+baseline score of the 7 patients ≥12 years of age in the DUS population was 8.1, the mean score at Week
+52 following treatment with setmelanotide was 5.8, and the mean score percent change from baseline to
+Week 52 was -27.1% (p=0.0005) as shown in (Table 13).
+
+53
+
+Reference ID: 4669798
+
+Figure 18
+
+Percent Change of Average Hunger Score from Baseline by Visit Following
+Administration of Setmelanotide in POMC Patients
+
+(Source: Reviewer generated graph)
+
+54
+
+Reference ID: 4669798
+
+Table 13
+
+Percent Change in Daily Hunger Scores from Baseline at 52 Weeks from
+Therapeutic Dose (≥12 Years of Age) – Pivotal Cohort (DUS Population)
+
+(Source: CSR for Study RM-493-012, Table 14, Page 65)
+
+The proportion of patients ≥12 years of age achieving at least 25% improvement in hunger scores following
+1 year of treatment with setmelanotide in FAS population was the third key secondary endpoint. Four (4)
+of the 8 patients (50%) in the FAS Population achieved at least 25% hunger score (worst ‘most’ hunger in
+24 hours) improvement from baseline at Week 52 after treatment with setmelanotide (p= 0.0004, Table
+14).
+
+55
+
+Reference ID: 4669798
+
+Table 14
+
+Proportion of Subjects (≥12 years of age) Achieving at Least 25%
+Improvement in Daily Hunger Scores from Baseline at 52 Weeks from
+Therapeutic Dose of Setmelanotide – Pivotal Cohort (FAS Population)
+
+(Source: CSR for Study RM-493-012, Table 15, Page 66)
+
+56
+
+Reference ID: 4669798
+
+Study RM-493-015: Pivotal Phase 3 Study of Setmelanotide in LEPR Deficient Obesity
+Study RM-493-015 was a pivotal study to assess long-term (52 weeks) efficacy of setmelanotide in LEPR
+deficiency obesity. For this global study, the maximum allowable dose differed across countries. The United
+Kingdom (UK) and the Netherlands authorities approved a maximum daily dose of 3.0 mg, while Germany
+and France authorities approved a maximum daily dose of 2.5 mg. There was an initial dose titration period
+lasting 2 to 12 weeks (dependent upon number of dose escalations required to determine an individual’s
+therapeutic dose). During the dose titration, increments of 0.5 mg dose increases were done at weekly
+intervals to determine an individual’s therapeutic dose, up to the approved maximum dose in the specific
+country of the participating site. Thereafter, patients continued active treatment at their specific optimal
+therapeutic dose for an additional 10 weeks, for a total combined dosing duration of 12 weeks at the
+individual patient’s therapeutic dose. Patients who achieved at least a 5 kg weight loss (or at least 5% weight
+loss if baseline body weight was <100 kg) at the end of the Open Label Treatment Period continued into
+the double-blind, variably-timed, placebo-controlled, withdrawal period lasting 8 weeks, inclusive of a 4week of placebo treatment period. The onset of the placebo period was variable for each patient in order to
+mask the actual timing of the withdrawal period; patients, investigators, and sites remained blinded as to
+when placebo treatment was administered. Following the withdrawal period, patients went on to complete
+approximately 1 year of treatment at the therapeutic dose (the primary endpoint defined as 52-weeks after
+achieving their relative therapeutic dose).
+The pivotal cohort included 11 patients with LEPR deficient obesity. Of these 11 pivotal patients
+comprising the pivotal cohort, 9 completed the study. One patient died in an automobile accident (unrelated
+to study drug) and the other patient was withdrawn from the study due to Grade 1 eosinophilia, which was
+considered by the Investigator to be probably related to study drug. Of the 11 pivotal patients, 3 were male
+and 8 were female. The mean age of the group was 23.7 years (range: 13 – 37 years), and the mean body
+weight was 133.3 kg (range: 89.4 – 170.4 kg) and the mean BMI was 48.2 kg/m2 (range: 35.8 – 64.6 kg/m2).
+Of the 11 patients, 10 were White and 1 patient was a South Asian.
+In addition to this cohort, there were 2 supplemental male patients. The average age of this supplemental
+group was 18.0 years (13 and 23 years), and the average body weight was 158.6 kg (108.6 and 208.7 kg)
+and the mean BMI was 56.1 kg/m2 (42.4 and 69.7 kg/m2). The race of these 2 supplemental cohort was
+classified as unknown.
+
+57
+
+Reference ID: 4669798
+
+A schematic of the study design is shown below:
+
+Serial blood samples were taken for the PK measurement of setmelanotide. Most PK profiles were
+collected over 8 hours, while 24-h PK samples (generally 2 to 4 subjects per dose level) were available in
+a smaller number of subjects. The mean setmelanotide concentrations after 3.0 mg were slightly lower
+than those observed after 2.5 mg at 9 h and later time points, likely due relatively small sample size and
+lower number of subjects with 9 to 24 h PK sampling (Figure 19).
+
+58
+
+Reference ID: 4669798
+
+Figure 19
+
+Mean (±SD) Setmelanotide Concentration Versus Time (inset - for the first 8hours) by treatment following Doses of 0.5, 1.0, 1.5, 2.0, 2.5 and 3.0 mg
+Setmelanotide in LEPR Patients
+
+(Source: Reviewer generated graph)
+
+Mean Cmax ranged from 7.21 ng/mL after 0.5 mg (n=4) to 38.9 ng/mL after 3.0 mg (n=3). The median Tmax
+occurred between 4.00 h (range 4.00-6.00 h) after 3.0 mg and 6.92 h (range 5.83-9.00 h) after 1 mg. The
+mean AUC0-8 ranged from 41.2 h*ng/mL after 0.5 mg (n=4) to 231 h*ng/mL after 3.0 mg (n=3). Estimates
+of AUC0-24 during the QD dosing interval ranged from 88.5 h*ng/mL after 0.5 mg (n=1) to 421 h*ng/mL
+after 3.0 mg (n=2) (Table 15).
+
+59
+
+Reference ID: 4669798
+
+Figure 20
+
+Percent Change of Weight from Baseline by Visit Following Administration of
+Setmelanotide in LEPR Obesity Patients
+
+(Source: Reviewer generated graph)
+
+61
+
+Reference ID: 4669798
+
+Table 16
+
+Proportion of LEPR Obesity Patients Achieving at Least 10% Weight Loss from
+Baseline at 52 Weeks from Therapeutic Dose of Setmelanotide
+
+(Source: CSR for Study RM-493-015, Table 11, Page 65)
+
+One of the secondary efficacy endpoints evaluated was hunger score. During the study 3 distinct daily
+hunger scores were collected: morning hunger, worst (most) hunger in 24 hours, and average hunger in 24
+hours. Weekly average hunger score for analysis were determined from average of daily hunger scores.
+The hunger score used to assess study endpoints was the weekly average hunger score of the daily worst
+(most) hunger score in 24 hours (Figure 21). In the pivotal cohort in the DUS population, an LS mean
+percent change from baseline in hunger score of -41.9% was seen at Week 52 (i.e., after 52 weeks of
+treatment at the therapeutic dose) as shown in Table 17.
+
+62
+
+Reference ID: 4669798
+
+Figure 21
+
+Percent Change of Average Hunger Score from Baseline by Visit Following
+Administration of Setmelanotide in POMC Patients
+
+(Source: Reviewer generated graph)
+
+63
+
+Reference ID: 4669798
+
+Table 17
+
+Percent Change in Daily Hunger Scores from Baseline at 52 Weeks from
+Therapeutic Dose (≥12 Years of Age) – Pivotal Cohort (DUS Population)
+
+(Source: CSR for Study RM-493-015, Table 13, Page 69)
+
+The proportion of patients ≥12 years of age achieving at least 25% improvement in hunger scores following
+1 year of treatment with setmelanotide in FAS population was the third key secondary endpoint. Eight (8)
+of the 11 patients (73%) in the FAS Population achieved at least 25% hunger score (worst ‘most’ hunger in
+24 hours) improvement from baseline at Week 52 after treatment with setmelanotide (p<0.0001, Table 18).
+64
+
+Reference ID: 4669798
+
+Table 18
+
+Proportion of Subjects (≥12 years of age) Achieving at Least 25%
+Improvement in Daily Hunger Scores from Baseline at 52 Weeks from
+Therapeutic Dose of Setmelanotide – Pivotal Cohort (FAS Population)
+
+(Source: CSR for Study RM-493-015, Table 14, Page 70)
+
+65
+
+Reference ID: 4669798
+
+4.3
+
+Immunogenicity
+
+Immunogenicity to setmelanotide was evaluated in a majority of the clinical trials in the development
+program. Anti-drug antibodies (ADA) to setmelanotide, neutralizing antibodies (NAb) to setmelanotide
+and antibodies to α-melanocortin stimulating hormone (α-MSH) were evaluated through validated assays.
+The incidence of screen positives was 79 of 1,148 samples in the screening assay (6.9%). Of the 79
+screening positive samples that were assessed in the confirmatory assay, no samples (0/79) were
+confirmed positive for antibodies to setmelanotide. As a result, no samples were tested in the neutralizing
+antibody assay (NAb). Antibodies specific for setmelanotide were not found in any of the samples from
+any of the clinical trials where ADA was assessed. There have been no observations of a rapid decline in
+measured setmelanotide concentrations, which would indicate a possible emergence of ADA to
+setmelanotide. This leads to the expectation that there would no impact of ADA on setmelanotide PK. In
+addition, there have been no observed clinical effects on PD or efficacy parameters, such as increased
+hunger or weight gain which is consistent with the observation of no ADA to setmelanotide as noted in
+the assays. There is no evidence of systemic allergic reactions or progression of skin reactions over time
+that would indicate the presence of ADA to the setmelanotide or its formulation components. There was a
+(b) (6) (Study 015) that led to discontinuation. This
+report of one case of mild eosinophilia in Subjec
+patient had pretreatment optical density (OD) values at or below the cut-point at screening and posttreatment with setmelanotide in the ADA assay, the setmelanotide PK concentrations appeared to be in
+alignment with other subjects, and there were no samples positive for anti-α-MSH antibodies. These data
+indicate there is no relationship between the eosinophilia and immunogenic response.
+The acceptability of the immunogenicity data and associated analytical method is further deferred to the
+OBP review.
+
+66
+
+Reference ID: 4669798
+
+4.4
+
+Pharmacometrics Assessment
+APPEARS THIS WAY ON
+ORIGINAL
+
+67
+
+Reference ID: 4669798
+
+4.4.1
+
+SUMMARY OF FINDINGS
+
+The applicant identified body weight but not renal function to be a significant intrinsic covariate
+associated with setmelanotide exposure. Subjects with mild renal function had 19% (95% CI: -6.5% 47%) higher setmelanotide steady state AUC compared to those with normal renal function. There were
+no subjects with moderate renal impairment in the development program. Subjects weighting 50 Kg had
+55% (95% CI: 38% - 73%) higher steady state AUC compared to subjects with 90 Kg and subjects
+weighting 200Kg had 45% (95% CI: 39% - 52%) lower AUC. Due to the strong correlation between age
+and body weight (younger patients having lower weight), the applicant’s simulations indicate that
+pediatric subjects tend to be over-exposed compared to adults at the same setmelanotide dose. For this
+(b) (4) . Similarly,
+reason, the applicant proposes
+(b) (4)
+despite lack of data, the applicant proposes
+
+The purpose of this review is to assess if population PK
+and exposure-response analyses support the proposed labelling for specific populations.
+4.4.1.1 Key review questions
+4.4.1.1.1
+
+Does population PK modeling and simulation data support the proposed labelling for
+specific populations?
+4.4.1.1.1.1
+Pediatric subjects
+Yes, the proposed labeling for pediatric subjects is acceptable for treatment of RGDO. However, the
+recommendation for starting dose for adolescents is not acceptable. The reviewer’s exposure-response
+analyses for efficacy determined a very small EC50 (concentration need to achieve half of the maximum
+efficacy = 7.8 × 10−20 𝑛𝑔/𝑚𝐿) compared to the range of observed concentration at the recommended
+starting and maintenance doses. This implies that at the proposed starting and maintenance doses, the
+concentrations (Cav = 20.62 ng/mL, see section 2.1) are at the plateau of the exposure-response curve and
+therefore maximum efficacy is expected. The reviewer did not perform exposure-vs-safety analyses but
+given a possibility for positive relationship between exposure and adverse events, a conservative approach
+(b) (4) The proposed doses are also
+supported by pediatric to adult exposure-matching PK simulations which indicate that acceptable
+proportions of pediatric subjects will attain exposures higher than the lower 10th percentiles of the adult
+exposures. However, adolescents may benefit from the same starting dose as adult subjects with no
+concerns for adverse events. This is because, the adolescents, with comparable baseline weight as adults
+are predicted to have the same exposure as adults at the same starting dose. Given the favorable safety
+profile observed in adults with the same exposure as adolescents at 2 mg dose, it is justified that
+adolescents should be initiated at the same dose as adults of 2 mg.
+4.4.1.1.1.2
+Moderate renal impairment
+No, the proposed labelling
+
+(b) (4)
+
+Therefore, given the
+concerns for safety, it is better to be conservative and avoid setmelanotide for subjects with moderate
+renal impairment.
+4.4.1.2 Recommendations
+The applicant’s proposed dose labelling is acceptable for treatment of RGDO, with a caution not to dose
+setmelanotide in patients with moderate renal impairment.
+68
+
+Reference ID: 4669798
+
+4.4.2.1.2
+Introduction
+The key objectives of the applicant’s population PK analyses were to:
+•
+To develop a population PK model from phase 1 to 3 studies.
+•
+To estimate the effects of prespecified covariates which may be important predictors of
+setmelanotide PK.
+•
+To use the resulting population PK model to determine an appropriate starting dose of setmelanotide
+in children (6 - 11yrs) and adolescents (12 - 17 yrs).
+4.4.2.1.3
+4.4.2.1.3.1
+
+Model development
+Data
+
+The analyses were based on PK data from 8 phase 1-3 studies. The study design, study population, and
+timing of blood samples varied among the 8 clinical studies. Brief descriptions of the studies included are
+presented in addendum Table 26.
+The final NONMEM data file for analysis contained 2711 PK observations from 120 subjects. Table 20
+provides summary statistics of the baseline demographic covariates in the analysis dataset.
+Table 20
+
+Summary of Baseline Demographic Covariates for Analysis
+STUDIES
+
+Characteristics
+
+level
+
+RM493008
+
+RM493010
+
+RM493011
+
+RM493012
+
+RM493014
+
+RM493015
+
+RM493026
+
+22
+
+40
+
+7
+
+12
+
+30
+
+13
+
+9
+
+N
+
+RACE (n (%))
+
+SEX (n (%))
+
+Formulation n (%)
+
+White
+
+2 (9.1)
+
+36 (90.0)
+
+6 (85.7)
+
+7 (58.3)
+
+25 (83.3)
+
+10 (76.9)
+
+5 (55.6)
+
+Black or African
+
+20 (90.9)
+
+1 (2.5)
+
+1 (14.3)
+
+0 (0.0)
+
+4 (13.3)
+
+0 (0.0)
+
+4 (44.4)
+
+Asian
+
+0 (0.0)
+
+3 (7.5)
+
+0 (0.0)
+
+0 (0.0)
+
+1 (3.3)
+
+0 (0.0)
+
+0 (0.0)
+
+Other
+
+0 (0.0)
+
+0 (0.0)
+
+0 (0.0)
+
+5 (41.7)
+
+0 (0.0)
+
+3 (23.1)
+
+0 (0.0)
+
+Male
+
+14 (63.6)
+
+19 (47.5)
+
+3 (42.9)
+
+7 (58.3)
+
+8 (26.7)
+
+5 (38.5)
+
+2 (22.2)
+
+Female
+
+8 (36.4)
+
+21 (52.5)
+
+4 (57.1)
+
+5 (41.7)
+
+22 (73.3)
+
+8 (61.5)
+
+7 (77.8)
+
+Preserved
+
+0 (0.0)
+
+0 (0.0)
+
+0 (0.0)
+
+0 (0.0)
+
+0 (0.0)
+
+13 (100.0)
+
+9 (100.0)
+
+Unpreserved
+
+22(100.0)
+
+40 (100.0)
+
+0 (0.0)
+
+0 (0.0)
+
+0 (0.0)
+
+0 (0.0)
+
+0 (0.0)
+
+0 (0.0)
+
+0 (0.0)
+
+7 (100.0)
+
+12 (100.0)
+
+30 (100.0)
+
+0 (0.0)
+
+0 (0.0)
+
+Baseline BMI (kg. /m^2),
+(Mean (Sd))
+
+33.68
+(3.24)
+
+39.67
+(11.86)
+
+45.97
+(7.02)
+
+39.73
+(8.35)
+
+45.39
+(10.10)
+
+49.37
+(11.43)
+
+44.44
+(7.06)
+
+Baseline weight (Kg), (Mean
+(Sd))
+
+99.68
+(13.70)
+
+97.72
+(25.56)
+
+142.99
+(21.98)
+
+114.27
+(35.66)
+
+125.08
+(33.52)
+
+137.17
+(32.75)
+
+120.62
+(23.45)
+
+Baseline ideal Weight (Kg),
+(Mean (Sd))
+
+65.58
+(8.59)
+
+52.82
+(13.37)
+
+69.29
+(9.28)
+
+62.13
+(12.44)
+
+58.47
+(12.94)
+
+60.18
+(7.68)
+
+57.39
+(7.42)
+
+Baseline adjusted Weight (Kg),
+(Mean (Sd))
+
+79.22
+(9.84)
+
+70.78
+(13.61)
+
+98.77
+(10.83)
+
+82.99
+(20.58)
+
+85.11
+(19.06)
+
+90.97
+(14.64)
+
+82.68
+(11.81)
+
+Baseline height (Cm), (Mean
+(Sd))
+
+171.42
+(7.88)
+
+158.12
+(13.19)
+
+176.54
+(8.59)
+
+167.87
+(13.48)
+
+165.39
+(12.50)
+
+166.69
+(7.27)
+
+164.41
+(6.70)
+
+Baseline age (yrs.), (Mean (Sd))
+
+39.23
+(8.49)
+
+26.35
+(9.48)
+
+20.29
+(3.40)
+
+17.08
+(6.37)
+
+29.13
+(16.81)
+
+22.85
+(8.21)
+
+43.78
+(6.80)
+
+No information
+
+Source: Reviewer’s independent analyses
+
+4.4.2.1.3.2
+
+Base Model
+
+The base model was a population PK model developed using setmelanotide PK data from 29 adult
+subjects who were healthy and obese and another 91 subjects with rare genetic disorders of obesity
+(RGDO) (See table of studies). The base PK model was a one-compartment structural model with zero70
+
+Reference ID: 4669798
+
+order absorption from subcutaneous administration site and linear elimination kinetics. The model was
+parameterized in apparent clearance (CL/F), apparent central compartment volume (V/F), duration of zero
+order absorption (D2). Relative bioavailability (F) from administration site was fixed to 1 and between
+subject variability for F was estimated. Clearance and volume parameters were allometrically scaled using
+body weight. coefficients for WT were fixed to literature values of 0.75 for CL and 1 for V. Allometric
+scaling was supported by a significant difference in objective function value between a model with and
+without allometric scaling (𝛥 𝑂𝐹𝑉 = −50). Estimated model parameters are given in Table 21 below.
+
+APPEARS THIS WAY ON
+ORIGINAL
+
+71
+
+Reference ID: 4669798
+
+Table 21
+
+Estimated model parameters and covariate effects for the base model
+
+Source: Applicant’s population PK modeling report (Report Number: RPI0101F-Report-v1.1-Final; Page 30 of
+215)
+
+Inter-individual variability (IIV) was modeled assuming a log-normal distribution for patient level
+random effects. The base model included variance covariances among the IIVs. Residual variability was
+modeled as a combined additive plus proportional residual error on setmelanotide concentration. Model
+evaluations and selection of the base model were based on standard statistical criteria of goodness-of-fit
+such as a decrease in the minimum objective function value (OFV), accuracy of parameter estimation
+(i.e., 95% confidence interval excluding 0), successful model convergence, and diagnostic plots.
+4.4.2.1.3.3
+
+Covariate Analysis
+
+Covariate model building proceeded through investigation of plots of covariates versus inter-individual
+random effects. No obvious trends were observed. Despite the lack of obvious relationships, the applicant
+employed the Full Covariate Model (FCM) building technique to develop a full covariate model. With
+FCM, physiologically plausible relationships are included into the model with emphasis on parameter
+estimation rather than stepwise hypothesis testing. Figure 22 shows the covariates included in the full
+model. Additional covariates (other than body weight) in the full model included age, renal function, sex,
+and health status on CL/F. The model also included effect of formulation on D2.
+
+72
+
+Reference ID: 4669798
+
+Figure 22
+
+Parameterization of the full covariate model
+
+4.4.2.1.3.4
+4.4.2.1.3.4.1
+
+Final Model
+Final model parameters and diagnostics
+
+The FCM was the final model and the parameter estimates for the final covariate model are listed in Table
+22. The goodness-of-fit plots for the final covariate model for all data are shown in Figure 23. The Visual
+Predictive Check (VPC) plot for the final covariate model with adult and pediatric data are given in
+Figure 24 and Figure 25.
+
+73
+
+Reference ID: 4669798
+
+Table 22
+
+Parameter Estimates of Applicant’s Final Model
+
+Source: Applicant’s population PK modeling report (Report Number: RPI0101F-Report-v1.1-Final; Page 33of 215)
+
+74
+
+Reference ID: 4669798
+
+Figure 23
+
+Goodness of fit plot for the final Setmelanotide population PK model
+
+Source: Applicant’s population PK modeling report (Report Number: RPI0101F-Report-v1.1-Final; Page 113 - 116
+of 215)
+
+75
+
+Reference ID: 4669798
+
+Figure 24
+
+Prediction corrected visual predictive check of the final model
+
+Source: Applicant’s population PK modeling report (Report Number: RPI0101F-Report-v1.1-Final; Page 126 of
+215)
+
+76
+
+Reference ID: 4669798
+
+Figure 25
+
+Prediction corrected visual predictive check of the final model stratified by
+Studies
+
+Source: Applicant’s population PK modeling report (Report Number: RPI0101F-Report-v1.1-Final; Page 127 of
+215)
+
+4.4.2.1.3.5
+Magnitudes of covariate effects
+Magnitudes of covariate effects on setmelanotide AUC relative to reference covariate values are shown in
+Figure 26. Significant covariate effects are observed for body weight, renal function, and unpreserved
+formulation. Compared to reference weight of 90Kg, subjects with 50 kg and greater than 150 Kg have
+higher and lower AUC respectively. Similarly, compared to subjects with normal renal function, subjects
+with mild renal function have higher AUC. Furthermore, subjects who took unpreserved formulation have
+significantly lower AUC compare to preserved formulation.
+On the other hand, Female have marginally lower AUC compared to males and compared to reference
+age of 25 years, subjects with 10 years and 60 years have marginally higher and lower AUC respectively.
+
+77
+
+Reference ID: 4669798
+
+Figure 26
+
+Full PK model covariate effects on steady state AUC
+
+Relative AUCss values were calculated using a setmelanotide 2.0 mg QD dose and simulated estimates of AUCss at
+various perturbations of sex, weight, formulation, patient status, and renal function, normalized to the AUCss of a
+typical 25-year-old, 90 kg, male patient, with normal renal function and receiving the preserved formulation of
+setmelanotide. Symbols represent the median relative AUCss and lines represent 95% confidence interval. Grey
+shaded area represents a 0.8 - 1.25 reference range
+Source: Applicant’s population PK modeling report (Report Number: RPI0101F-Report-v1.1-Final; Page 151 of
+215)
+
+4.4.2.1.3.6
+Matching of pediatric to adult setmelanotide exposures
+The applicant performed Monte-Carlo simulations of exposures in pediatric subjects using the final
+population PK model and a virtual subject population, created by randomly sampling weight/sex per age
+from a dataset of historical growth in patients with RGDO. The simulated pediatric exposures after 1, 1.5,
+2, and 2.5 mg doses were compared to post-hoc estimates of the population PK dataset for subjects 17-60
+years. Pediatric subjects were all assumed to have normal renal function. At each dose, the applicant
+compared the proportion of pediatric subjects who exceeded the lower 10th percentile of adult exposure.
+Table 23 shows the probability of exceeding the lower 10th percentile of adult exposure at different doses.
+Table 23 shows that initiating setmelanotide at 1 mg in pediatric subjects will result in only about 90% of
+6-12 years old and 65% of 12-17-year olds exceeding the lower 10th percentile of 2 mg adult exposures.
+Table 23 also shows that titrating dose to 2 mg will result in 98% of 6-12 years old and 90% of 12-17
+years old exceeding lower 10th percentile of 3mg adult exposures.
+78
+
+Reference ID: 4669798
+
+Table 23
+
+Probability of simulated pediatric exposure exceeding lower 10th percentile
+of adult exposure
+
+Source: Applicant’s population PK modeling report (Report Number: RPI0101F-Report-v1.1-Final; Page 78 of 215)
+
+4.4.2.1.4
+Reviewer’s comments
+The reviewer finds the applicant’s model development steps and identification of covariate effects to be
+acceptable for prediction of exposures in specific populations and for exposure-response analyses.
+Therefore, the reviewer did not perform independent exploration of covariate effects. The reviewer
+repeated the applicant’s analyses and found similar results as those reported by the sponsor.
+4.4.3 REVIEWER’S ANALYSES
+4.4.3.1 Exposure-response analyses for efficacy
+Exposure-response analyses for efficacy were conducted in order to determine if differences in
+setmelanotide exposures due to PK covariates (e.g. renal impairment and body weight) translates to
+meaningful differences in treatment outcomes. The specific objectives of exposure-response analyses are
+given below.
+4.4.3.1.1
+Objectives
+Objective of the reviewer’s exposure-response analyses were:
+79
+
+Reference ID: 4669798
+
+1.
+2.
+3.
+4.
+
+To develop a model that can adequately describe historical growth data for subjects with RGDO.
+To develop a model that can adequately describe weight changes during different treatment epochs.
+To characterize variability in treatment related weight loss.
+To determine factors associated with the variability in treatment related weight loss.
+
+4.4.3.1.2
+Data
+Historical growth data were available from 14 subjects with POMC/PSK1 genetic disorders (Study
+RM493012) and 13 subjects with LEPR disorder (Study RM493015). The data is shown in Figure 27.
+The data shows identical growth rate between subjects with POMC/PSK1 and those with LEPR genetic
+mutations.
+Figure 27
+
+Probability of simulated pediatric exposure exceeding lower 10th percentile
+of adult exposure
+
+Source: Reviewer’s independent analyses
+
+Data for weight profiles at different treatment epochs were available from 13 subjects in
+studyRM493012 and 13 subjects in study RM492015. The data is shown in Figure 28. The figure shows
+that for most subjects, weight loss occurs during treatment induction and open label epochs. But during
+blinded epoch (subjects receives placebo treatment) most subjects gain weight. Finally, most subjects
+lose weight again when setmelanotide is re-started during the treatment epoch.
+
+80
+
+Reference ID: 4669798
+
+4.4.3.1.5
+Modeling weight profiles during setmelanotide treatment.
+4.4.3.1.5.1
+Dataset preparation
+For each subject empirical bayes estimates of PK parameters and individual historical growth parameters
+were joined to the weight loss dataset. The weight loss dataset contained the following information:
+Weight profiles during setmelanotide treatment, setmelanotide dosing, and intrinsic and extrinsic
+covariates. Two subjects were excluded from analysis for lack of PK information. Another 4 subjects
+were excluded from analysis for the following reasons: Subject (b) (6) did not lose weight despite dose
+titration to 2.5 mg; Subject (b) (6) did not lose weight despite being on maximum tolerable dose for almost
+20 weeks; Subject (b) (6) received treatment for 5 weeks and lost less than 2.5% of baseline body weight;
+subject (b) (6) regained weight after placebo treatment and did not lose weight after re-initiation of
+setmelanotide. The final dataset contained 11 subjects from study RM493012 and 10 subjects from study
+RM493015.
+4.4.3.1.5.2
+Structural model.
+The same structural model for historical growth was used to describe weight profile after treatment. To
+account for treatment related weight loss two submodels were tested; for the first submodel drug effect
+was modelled to decrease KIN, while for the second submodel drug effect increased KOUT. The second
+submodel provided better fit to the data than the first model. However, plots of predicted overlaid to
+observed weight profiles indicated underprediction of weight gain during placebo treatment. This implied
+that the KIN parameter estimated from historical growth data was smaller than it should be during
+treatment. For this reason, a parameter for KIN adjustment (KIN_FCT) was introduced and estimated.
+Drug effect was assumed to follow an Emax-relationship with parameters Emax, and EC50 to be determined.
+A schematic representation of the model is given in Figure 34.
+Figure 34
+
+Schematic representation of the concentration vs weight model
+
+Source: reviewer’s independent analysis
+
+During the modeling exercise it was discovered that model objective function minimized successfully
+only when EC50 was fixed to a very small value. For this reason, EC50 was fixed to 3.5 × 10−5 and Emax
+and KIN_FACT were estimated. Also, inter-individual variability for Emax and KIN_FACT were
+estimated. Next, Emax, KIN_FACT, and IIV parameters were fixed to allow robust estimation of EC50 and
+IIV for EC50. The estimated EC50 was 7.8 × 10−20 , and was fixed to this value in all subsequent analyses.
+4.4.3.1.5.3
+Covariate model
+Parameter-vs-covariate relationships were assessed by statistical analysis and visual inspection of ETAvs-covariate plots. Correlation among covariates were assessed by statistical analysis and visual
+inspection of covariate-vs-covariate plots. Figure 35 shows correlated covariates.
+
+87
+
+Reference ID: 4669798
+
+Figure 35
+
+Covariate versus covariate plots
+
+Reviewer’s independent analyses
+
+Figure 36 shows that covariates related to ETA for Emax (ETA1) are: formulation type (FORM),
+genotype (GENTYP), baseline BMI (BLBMI), weight (BLWT), adjusted body weight (BLABW) and
+age groups (AGEGRP). No covariate is related to ETA for KIN_FCT (ETA3).
+
+88
+
+Reference ID: 4669798
+
+Figure 36
+
+Etas versus covariates plots for the base structural model of concentration vs
+weight
+
+Reviewer’s independent analyses
+
+Covariate relations were added into the model in a stepwise manner. The effect of genotype on Emax was
+included first. This resulted in significant improvement in model fit as indicated by significant drop in
+objective function (𝛥𝑂𝐹𝑉 = −7.56). Inspection of covariate relations indicated that, after inclusion of
+genotype-Emax relationship, covariates still related with ETA1 were: BLBMI, BLWT, and BLADW. Due
+to correlations among BLBMI, BLWT, and BLADW, BLWT-Emax relationship was selected for inclusion
+into the model. This led to further improvement in model fit (𝛥𝑂𝐹𝑉 = −24.1). No further covariateparameter relations were observed from subsequent covariate-vs-eta plots.
+4.4.3.1.5.4
+Final model
+The covariate model after inclusion of genotype and baseline body weight as covariates on Emax was the
+final model. Backward exclusion of covariates was not performed. Parameter estimates for the final
+model are given in Table 25. The parameters are well estimated as indicated by precision estimates
+(Relative standard error). The table shows that the population average for maximum decrease in body
+weight is about 28 Kg (LEPR subjects) and POMC subjects would lose 32% more weight on average
+compared to LEPR subjects. The table also shows that Emax is higher for subjects with low BLWT
+compared to subjects with high BLWT, e.g. typical Emax for subjects weighting 90 Kg would be
+28.6 × (90/115)−0.84 = 35Kg.
+
+89
+
+Reference ID: 4669798
+
+Table 25
+
+Parameter estimates and objective function Values final model of
+concentration vs weight
+
+Parameters
+OFV
+Emax (Kg)
+Ec50 (ng/mL)
+
+Descriptions
+Objective function value
+Maximum weight loss
+Concentration for half of Emax
+Ratio of rate constant of weight gain during treatment to before
+KIN_FCT
+treatment
+ADDWT (Kg)
+Additive body weight residuals
+PROPWT (%CV)
+Proportional body weight residuals
+GENTYP_EFFECT
+Ratio of Emax in POMC to Emax in LEPR
+Exponent for effect of baseline body weight on Emax
+BLWT_EFFECT
+(BLWT/115)^BLWT_EFFECT
+BSV Emax (%CV)
+Between subject variability for Emax
+BSV EC50(%CV)
+Between subject variability EC50
+BSV KIN FCT (%CV)
+Between subject variability KIN FCT
+Reviewer’s independent analyses
+
+Estimates (RSE)
+3938.2
+28.6 (3%)
+7.8E-20 (fixed)
+16.8 (3%)
+1.6 (44%)
+0.018 (37%)
+1.32 (25%)
+-0.84 (12%)
+7.0% (47%)
+33.3% (fixed)
+11.1% (19%)
+
+Figure 37 shows the goodness of fit plots for the final model. In general, the final model provided
+adequate fit of the observed data.
+Figure 37
+
+Goodness-of-fit plots for the final model of concentration vs weight
+
+Reviewer’s independent analyses
+
+90
+
+Reference ID: 4669798
+
+4.5
+
+Genomics and Targeted Therapy Review
+
+EXECUTIVE SUMMARY
+On March 27, 2020, FDA received a New Drug Application (NDA 213793) for setmelanotide.
+Setmelanotide is a melanocortin-4 receptor (MC4R) agonist. The proposed indication is for the treatment
+(b) (4) associated with pro-opiomelanocortin (POMC), including proprotein
+of obesity
+convertase subtilisin/kexin Type 1 (PCSK1), deficiency obesity or leptin receptor (LEPR) deficiency
+obesity in adults and children 6 years of age and older.
+Variants in the POMC, PCSK1, and LEPR genes affect the MC4R pathway and cause rare genetic disorders
+of obesity that start early in childhood and progress over time.
+The Office of Clinical Pharmacology/Division of Translational and Precision Medicine (OCP/DTPM) has
+reviewed the pathogenicity assignment of the genetic variants in the POMC, PCSK1, and LEPR genes. We
+generally concur with the applicant’s assessment of the pathogenicity of the genetic variants.
+4.5.1 BACKGROUND
+POMC deficiency obesity is caused by loss of function (LoF) mutations in the POMC gene. Mutations in
+POMC are very rare in the general population. In humans, null mutations in POMC gene lead to
+hyperphagia, early onset obesity, isolated adrenocorticotrophin (ACTH) deficiency, and
+hypopigmentation of skin and hair. Heterozygous carriers of null mutations have a significantly higher
+risk of being obese or overweight (PMID: 21633175).
+Mutations in the PCSK1 gene result in missing melanocortin stimulating hormone (MSH) neuropeptide
+synthesis and/or processing (PMID: 11874690). Rare congenital deficiency of PCSK1 has been reported
+in less than 20 unrelated probands (carrying homozygous or compound heterozygous mutations) who
+presented with malabsorptive diarrhea, failure to thrive during early infancy associated with high
+mortality rate, severe early-onset obesity, polyphagia, central diabetes insipidus, hypogonadism,
+hyperproinsulinemia and other endocrine dysfunctions (PMID: 24890885).
+Congenital leptin-receptor deficiency is characterized by severe, early-onset obesity associated with
+hyperphagia. Subjects are born with a normal birth weight but show rapid weight gain in the first months
+of life, which results in severe obesity. The key features are hyperphagia and impaired satiety (PMID:
+21633175). About 3% of patients with severe obesity have LoF mutations in the LEPR gene.
+Setmelanotide is a synthetic, cyclic octapeptide (8-amino acid-containing peptide) that functions as a
+MC4R agonist. According to the applicant, setmelanotide has the potential to restore lost activity in the
+MC4R pathway by bypassing the defects upstream of the MC4R and directly activating MC4R neurons in
+the hypothalamus below such defects. Thus, setmelanotide bypasses the upstream genetic defects in this
+critical MC4R signaling pathway to re-establish weight and appetite control in patients with POMC
+(including PCSK1) and LEPR obesity.
+(b) (4) as the Rhythm-preferred CLIA-LDT laboratory for
+The applicant identified
+post-NDA genetic testing. The American College of Medical Genetics and Genomics (ACMG) guidelines
+were utilized by (b) (4) for the interpretation of sequence variants and the impact on pathogenicity in the
+POMC, PCSK1, and LEPR genes. ACMG developed recommendation for classification and use of
+standard terminology- “pathogenic”, “likely pathogenic”, “uncertain significance”, “likely benign”, and
+“benign”- to describe variants identified in genes that cause Mendelian disorders (PMID: 25741868).
+
+97
+
+Reference ID: 4669798
+
+4.5.2 SUBMISSION CONTENTS RELATED TO GENOMICS
+On May 05, 2020, DTPM asked the applicant in an Information Request (IR) to provide the document
+with the sequence variants interpretation for all subjects included in studies RM-493-012 and RM-493015. The FDA received response to the IR on May 20, 2020. DTPM has reviewed the pathogenicity
+assignment of the genetic variants in the POMC, PCSK1, and LEPR genes.
+4.5.3
+
+REVIEW OF EVIDENCE FOR SEQUENCE VARIANT INTERPRETATION
+
+4.5.3.1 American College of Medical Genetics and Genomics (ACMG) pathogenicity classification
+In 2015, ACMG in collaboration with the Association for Molecular Pathology (AMP), and the College
+of American Pathologists, published revised guidelines for the interpretation of sequence variants (PMID:
+25741868). These recommendations primarily apply to the genetic tests used in clinical laboratories,
+including genotyping, single genes, panels, exomes, and genomes. The ACMG guidelines recommend the
+use of specific standard terminology- “pathogenic”, “likely pathogenic”, “uncertain significance”, “likely
+benign”, and “benign”- to describe variants identified in genes that cause Mendelian disorders. In
+addition, ACMG describes a process for classifying variants into five pathogenicity categories based on
+criteria using typical types of variant evidence (e.g., population data, computational data, functional data,
+segregation data; see Table 27 and Table 28).
+
+98
+
+Reference ID: 4669798
+
+likely to cause disease and are considered to be pathogenic. Based on the ACMG guidelines, “likely
+pathogenic” category should be restricted to variants where the data support a high likelihood (>90%
+certainty) that variants are pathogenic. In contrast, when a variant does not fulfill criteria for using terms
+“pathogenic” or “likely pathogenic “and cannot be classified as “benign” or “likely benign”, especially
+in the context of the observed phenotype, the variant assessment may default to categorization as a
+“variant of uncertain significance”. Classification of variants with some level of uncertainty (e.g., likely
+pathogenic, variant of uncertain significance) may require a reevaluation based on accumulation of
+additional evidence.
+Given that variant pathogenicity is not clearly established for many patients who may benefit from
+setmelanotide (i.e., patients carrying “variants of unknown significance”), clinical evaluation and
+implementation of the “stopping rule” might be beneficial for management of setmelanotide therapy (i.e.,
+reevaluate drug risk/benefit if patient does not reach a certain weight loss goal within a given timeframe
+and consider drug discontinuation).
+
+101
+
+Reference ID: 4669798
+
+4.5.4 SUMMARY AND CONCLUSIONS
+Human genetics studies have identified several diseases that are the result of genetic defects affecting the
+MC4R pathway, including POMC, PCSK1 deficiency obesity, and LEPR deficiency obesity. These
+MC4R pathway mutations cause rare genetic disorders of obesity that start early in childhood and
+progress over time and can become life-threatening in severity.
+Setmelanotide is a synthetic, cyclic octapeptide that functions as a MC4R agonist. The applicant has
+conducted 2 pivotal Phase 3 studies, one in patients with POMC deficiency obesity (including 1 patient
+with PCSK1 deficiency obesity), study RM-493-012, and another in patients with LEPR deficiency
+obesity, study RM-493-015. Efficacy results from the pivotal studies demonstrated that setmelanotide
+(b) (4) in these patient
+induced clinically meaningful weight loss
+populations.
+Implementation of the ACMG guidelines for classification
+and interpretation of sequence variants in the
+(b) (4)
+POMC, PCSK1, and LEPR genes was utilized by the
+laboratory.
+DTPM has reviewed the pathogenicity assignment of the genetic variants in the POMC, PCSK1, and
+LEPR genes submitted as an IR. We concur with the applicant’s assessment of the pathogenicity of the
+genetic variants.
+Given that variant pathogenicity is not clearly established for many patients who may benefit from
+setmelanotide (i.e., patients carrying “variants of unknown significance”), clinical evaluation and
+implementation of the “stopping rule” might be beneficial for management of setmelanotide
+therapy (i.e., reevaluate drug risk/benefit if patient does not reach a certain weight loss goal within
+a given timeframe and consider drug discontinuation).
+
+104
+
+Reference ID: 4669798
+
+Signature Page 1 of 1
+
+-------------------------------------------------------------------------------------------This is a representation of an electronic record that was signed
+electronically. Following this are manifestations of any and all
+electronic signatures for this electronic record.
+-------------------------------------------------------------------------------------------/s/
+-----------------------------------------------------------SURYANARAYANA M SISTA
+09/11/2020 04:53:47 PM
+ELIFORD N KITABI
+09/11/2020 09:48:32 PM
+KATARZYNA DROZDA
+09/12/2020 09:48:37 AM
+CHRISTIAN GRIMSTEIN
+09/12/2020 09:55:35 AM
+JUSTIN C EARP
+09/12/2020 11:36:38 AM
+JAYABHARATHI VAIDYANATHAN
+09/12/2020 01:51:25 PM
+SHIRLEY K SEO
+09/14/2020 09:19:39 AM
+
+Reference ID: 4669798
+
+

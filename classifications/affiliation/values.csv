@@ -1,0 +1,7 @@
+field,definition
+first_author_type,"The type of the first author's first listed affiliation, by the first matching rule in taxonomy/affiliation_rules.csv: regulator, CRO, vendor, industry or academia; unclassified where no rule matches; no affiliation where the record gives none. PAGE uses the numbered affiliation line with its fallbacks (classifyFirstAuthor())"
+first_author_organisation,"The name a naming rule matched in the first author's affiliation (a company, CRO, vendor or regulator, as written in the text); empty otherwise. Other organisation names are not published (decided 2026-10-20) and stay in the local cache"
+any_industry,"TRUE where any author's institution is of type industry"
+any_cro,"TRUE where any author's institution is of type CRO"
+named_organisations,"The names matched by rules that name organisations (companies, CROs, vendors, regulators), as written in the text, joined by '; '"
+withheld,"Organisations not stored: those decided by the consultancy rule (often named after a person) and those containing a word of the item's author list"

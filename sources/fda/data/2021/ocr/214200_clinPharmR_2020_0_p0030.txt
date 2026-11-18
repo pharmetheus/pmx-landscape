@@ -1,0 +1,68 @@
+Regression Model &
+Weighting
+
+Linear Regression, 1/x?
+
+Validation Parameter
+
+Method Validation Summary (Validation Report)
+
+Standard Curve
+Performance during
+accuracy and
+precision
+
+Precision (CV%) 0.9% to 3.3%
+Accuracy (Bias) -3.0% to 2.5%
+Linearity R?>0.99
+
+QC concentrations
+
+0.500, 1.50, 50.0 and 800 ng/mL
+
+Intra-run accuracy (% bias) -6.8% to 4.0%
+QCs performance Intra-run precision (%CV) 1.7% to 4.4%
+during accuracy &
+precision Inter-run accuracy (%CV) -3.2% to 2.4%
+Inter-run Precision (%CV) 1.6% to 4.2%
+Dilution 10-fold dilution and quantification up to 10000 ng/mL is valid
+
+Plasma Stability
+
+28 hours in plasma at room temperature, 42 days at -20°C and at -70°C
+
+Freeze/thaw Stability 6 cycles at -20°C and at -70°C
+Stock Stability 24 hours at room temperature 6 days at +4°C
+2 hours at 0°C,
+Stability in whole |e 2 hours at room temperature at 1.50 and 400 ng/mL only,
+blood e Whole blood stability at 4000 ng/mL up to 2 hours at room temperature
+was not demonstrated
+e Occasional carry-over occurred during method validation. Therefore,
+Carry-over carry-over has be carefully monitored during (bio-)analysis and evaluated
+
+by the Study Director
+
+Incurred Sample
+
+: ISR rate > 75% Passed
+Reanalysis (ISR) rate orasse
+Method | @-US-SML- 0114 (Plasma)
+An LC-MS/MS based bioanalytical method for the determination of the
+Method Description | concentrations of trilaciclib in human plasma. This method was used in Studies
+
+02, 03, 05, 09, 11, 17, 106, and 114.
+
+Material for
+calibration curve &
+concentration
+
+Trilaciclib (G1-T28-1, lot number: 1404309193; expiration date: 31 May 2017)
+
+Internal Standard
+
+Trilaciclib-d3
+
+Reference ID: 4739398
+
+29
+

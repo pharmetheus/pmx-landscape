@@ -1,0 +1,67 @@
+NDA/BLA Multi-disciplinary Review and Evaluation — NDA 219972
+
+Sevabertinib (BAY 2927088) — Version 2.0
+Figure 1. Efficacy of Sevabertinib in HER2 Y772_A755dup (ex20insYVMA) PDx Model CTG-2543
+
+A B
+fay = pay 2027088 10 mg/kg QD o 0.3 control
+a 7
+# 6004 -® BAY 2927088, 25 mg/kg QD Kd 40 moikg. aD
+s
+i -® BAY 2927088, 50 mg/kg QD. F BAY 2027008
+%— 400 gE O2 25 mg/kg QD
+£ 3s BAY 2927088
+e = 50 mg/kg QD
+E 200 got
+$ te 5
+5 ue 5
+— OF T T T T T T 1 —£ 0.0
+2 0 4 8 12 16 20 24 28 2
+time after treatment start [days]
+e 20
+c 2 45 -® control
+Se 10 —e- BAY 2927088, 10 mg/kg QD
+= 2 ; —e BAY2927088 25 mg/kg QD
+S25 —e BAY2927088 50 mg/kg QD
+3 = -10
+BAB
+2 24 T T T T T T 1
+
+i) 4 8 12 16 20 24 28
+
+time after treatment start [days]
+
+CTG-2543 tumor fragments were subcutaneously transplanted into female Nude-Foxn1nu mice. At a tumor
+size of 150 mm3-300 mm;, treatment started for a 28-day treatment period. Animals received either vehicle
+(Solutol/EtOH/water 40/10/50, pH4) or sevabertinib at 10mg/kg QD, 25mg/kg QD, or 50mg/kg QD po.
+
+(A) Time course of tumor growth
+
+(B) Final tumor weight on Day 27 (study termination). Bar graphs depict the individual tumor weights as well as
+the mean tumor weight per study group.
+
+(C) Time course of relative body weight change. Asterisks indicate statistical significance (*** p<0.0001).
+
+Source: Module 4.2.1.1, Report R-13868
+
+In vivo antitumor efficacy of sevabertinib in the patient-derived NSCLC xenograft model
+CIG-2842 (EGFR ex20insASV) in mice
+
+The therapeutic efficacy and tolerability of sevabertinib was assessed in the patient-derived
+xenograft model, CTG-2842, carrying an EGFR V769_D770insASV insertion (ex20insASV)
+(26). Female athymic Nude-Foxn/™ mice were subcutaneously transplanted with CTG-2842
+tumor fragments. At a tumor size of 150 mm?-300 mm”, treatment with either vehicle (control)
+or sevabertinib at 10 mg/kg, 25 mg/kg, or 50 mg/kg QD was initiated and continued for 28 days.
+Animal body weight and tumor size were measured twice weekly and at study end, tumors were
+collected for tumor weight analyses.
+
+Treatment with sevabertinib was well tolerated and resulted in significant anti-tumor activity
+compared to the vehicle control and tumor regression with final T/Cvorweight values of 0.06/0.02
+
+48
+Version date: March 1, 2024 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5697816

@@ -1,0 +1,50 @@
+BLA 761184
+
+Ngenla (somatrogon)
+Table 74. Summary of Baseline Demographic and Laboratory Characteristics
+Variable Value
+N 109
+Body weight (kg) Mean + sd 19.771
+Median 19.3
+min - max 8- 46.1
+Age (year) Mean + sd 78427
+Median 19
+min - max 3-12
+Baseline Creatinine CL (mL/min) Mean + sd 49.7 + 15.3
+Median 48.9
+min - max 22 - 93.3
+Male N(%) 82 (75.2%)
+Female N(%) 27 (24.8%)
+White N(%) 81 (74.3%)
+Asian N(%) 24 (22%)
+American Indian or Alaska Native N(%) 1 (0.9%)
+Other or missing N(%) 3 (2.8%)
+
+Repository artifact [ID FI-9428500. Line | substituted.
+
+N:number of patients; sd=standard deviation; kg=kilogram; min=minimum; naximum; C] learance
+Source: Applicant's Population Modeling Analysis Report (Report number PMAR-EQDD-C031b-DP3-1093, page 27 of 231).
+
+14.3.1.3.2. Base Model
+
+Development of both Allometric and Weight-Normalized PopPK models started by external
+validation of a previous PHASE-2 PopPK-MODEL using the sparse data from the phase 3 study.
+The previous PHASE-2 PopPK-MODEL failed external validation. The base structural model for
+the Weight-Normalized model was a 2-compartment PK model with delayed first order
+absorption kinetics and body weight as covariate on clearance and volume parameters
+parameterized as shown in equation (1.1). All parameters of the base model, including random
+effects parameters, were re-estimated.
+
+BodyWeight
+P; = Poop X —T7 x el
+
+Where:
+P; = individual predicted parameter value eo)
+
+Pyop = Typical population
+(mean) value for 77 Kg
+n = inter — individual random ef fect
+
+133
+
+Reference ID: 4924352

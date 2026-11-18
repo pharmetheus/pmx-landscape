@@ -1,0 +1,69 @@
+BLA 761306 Multi-disciplinary Review and Evaluation
+Ebglyss (lebrikizumab) injection
+
+DBP TE-Low Shift (n (%)) 0 0 i}
+DBP TE-High Shifts (n (%)) 4 (65) 3(25) 2(17)
+Treatment-Emergent ‘Adverse Events -- Hypertension 1(16) 0 2(17)
+Treatment-Emergent Adverse Events -- Blood 0 0 0
+Pressure Increased (n (%)
+
+Treatment-Emergent Adverse Events -- Hypertensive 0 0 0
+Crisis (n (%))
+
+‘Source: OCS Analysis Studio, Custom Table Tool
+
+‘Columns - Dataset: Demographics; Filter: MPSAFFL = "Y,, SAFFL="Y.
+
+‘Systolic BP Mean Changes from Baseline - Dataset: Vital Signs; Filter: PARAMCD = ‘SYSBP’, AVISIT = "BASELINE LAST MAINTENANCE ' or ‘POST BASELINE LAST
+MAINTENANCE’
+
+‘SBP TE-Low Shifts (n (%)) - Dataset: Vital Signs; Filter: PARAMCD ="SYSBP’, DTYPE = MINIMUM, CRIT2FL ="Y", ANLO3FL="Y-
+
+‘SBP TE-High Shifts (n (%) - Dataset: Vital Signs; Filter: PARAMCD = SYSBP’, DTYPE = MAXIMUM, CRIT1FL ="Y", ANLO3FL = "Y"
+
+Diastolic BP Mean Changes from Baseline - Dataset: Vital Signs; Filter: PARAMCD = ‘DIABP’, AVISIT = BASELINE LAST MAINTENANCE’ or ‘POST BASELINE LAST
+MAINTENANCE’
+
+DBP TE-Low Shifts (n (%)) - Dataset: Vital Signs; Fitter: DTYPE = ‘MINIMUM’, PARAMCD = ‘DIABP”, CRIT2FL = "Y", ANLO3FL = 'Y’
+
+DBP TE-High Shifts (n (%)) - Dataset: Vital Signs; Fitter: DTYPE = MAXIMUM’, PARAMCD = ‘DIABP”, CRIT1FL ="Y", ANLO3FL = 'Y’
+
+Treatment-Emergent Adverse Events — Hypertension (n (%)) - Dataset: Adverse Events; Filter: AEDECOD = ‘Hypertension’, ANLO3FL = "Y’, TEMAPFL = 'Y.
+Treatment-Emergent Adverse Events — Blood Pressure Increased (n (%)) - Dataset: Adverse Events; Filter. AEDECOD = ‘Blood pressure increased’, ANLO3FL =
+TEMAPFL = "Y"
+
+Treatment-Emergent Adverse Events — Hypertensive Crisis (n (%)) - Dataset: Adverse Events; Filter: AEDECOD = ‘Hypertensive crisis’, ANLO3FL = 'Y', TEMAPFL =
+‘SD = Standard Deviation.
+
+Pulse
+There was no clinical impact of treatment with lebrikizumab on pulse in the induction and
+maintenance periods or with any lebrikizumab exposure.
+
+Weight
+
+Weight gain was defined as at least a 7% increase at any time post-baseline. Although weight
+gain in the adult population was observed more frequently observed in lebrikizumab-treated
+subjects during the placebo-controlled induction period, the analysis of the mean change from
+last baseline to last post-baseline showed a small variation in weight that could be secondary to
+intrinsic fluctuation. Additionally, the mean was influenced by the presence of a few extreme
+values in both treatment groups, either for weight gain or weight loss. The median change
+from last baseline to last postbaseline was similar across both treatment groups. For the total
+adult population, no differences between treatment groups were noted in the distribution
+according to BMI category.
+
+In the maintenance period, weight loss (at least 7%) at any time was also observed in the adult
+population at a higher frequency for those treated with lebrikizumab compared to placebo (LEB
+withdrawal). The maintenance population sample size was smaller compared to induction,
+limiting conclusions.
+
+In lebrikizumab-treated subjects, the frequencies of weight gain and weight loss at any time
+was higher during the combined induction and maintenance phase and the AD All LEB analysis
+set compared to the placebo-controlled induction period. Weight fluctuations are not
+unexpected over longer observation periods given natural variability over time. No sustained
+weight gain could be verified when analyzing the variation of weight of subjects during the
+induction and maintenance phases.
+
+156
+Version date: October 12, 2018
+
+Reference ID: 5252985

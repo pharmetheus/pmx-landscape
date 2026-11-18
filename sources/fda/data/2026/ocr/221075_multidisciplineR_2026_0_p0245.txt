@@ -1,0 +1,53 @@
+NDA/BLA Multi-disciplinary Review and Evaluation NDA 221075
+
+Iberdomide (ZENBEXUS)
+Validated Range 0.1—S0 ng/mL
+Minimum Required | N/A
+Dilutions
+Regression Model 1/x? weighted least squares regression
+Method Validation
+Accuracy & # of calibrators 8 Acceptable
+Precision — Accuracy (% bias) _| -3.3% to 3.0%
+Calibration Curve Precision (% CV) <7.7™%
+Accuracy & Accuracy (% bias) _| -0.7% to 4.0% Acceptable
+Precision — QCs Precision (% CV) Intra-day: <7.3%
+Inter-day: < 9.2%
+Interference & No interference detected for 6 individual plasma lots | Acceptable
+Specificity from IS, CC-16915, or dexamethasone to analyte or
+analyte to IS
+Selectivity & Matrix | Blank selectivity met criteria for 6 individual plasma | Acceptable
+Effect lots
+Hemolysis Effect Accuracy (% bias) | 1 lot of 2% hemolyzed plasma | Acceptable
+-2.9% to 7.7%
+Lipemic Effect Accuracy (% bias) | 1 lot of lipemic plasma Acceptable
+-6.3% to -4.3%
+Dilution Linearity Accuracy (% bias) _| -6.0% to 4.2% Acceptable
+Benchtop Stability Accuracy (% bias) | 27 hours @ RT Acceptable
+-6.0 to 1.3%
+Freeze/Thaw Accuracy (% bias) | 5 cycles @ -20° C or -70° C Acceptable
+Stability -5.4% to 7.7%
+Long-term Stability | Accuracy (% bias) | 314 days @ -20° C or 918 days | Acceptable
+@-70°C
+-2.0% to 3.3%
+Parallelism N/A Acceptable
+Carryover None Acceptable
+Table 82: FDA — Summary of Bioanalytical Method Performance for the Determination of
+Iberdomide in Human Plasma in Clinical Studies (CC-220-DMPK-1504)
+Results | Acceptability
+Study CC-220-MM-001
+Assay Passing Rate Runs 1-65: 100% Acceptable
+Runs 66-84: 100%
+Calibration Curve | Accuracy (% Runs 1-65: -1.8% to 1.4% Acceptable
+Performance bias) Runs 66-84: -4.4% to 3.8%
+Precision (% CV) | Runs 1-65: < 6.7% Acceptable
+Runs 66-84: < 4.6%
+QC performance | Accuracy (% Runs 1-65: -2.3% to -0.5% Acceptable
+bias) Runs 66-84: -3.0% to -1.0%
+
+246
+Version date: February 10, 2025 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5851050

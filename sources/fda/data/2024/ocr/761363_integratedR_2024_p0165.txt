@@ -1,0 +1,58 @@
+BLA 761363
+Winrevair (sotatercept-csrk)
+
+Figure 30. Actual Dose and Hgb for Patients Experienced Over Three Consecutive Dosing Delays,
+STELLAR
+
+LT] (b) (6) 06]
+20
+18
+16
+LAacT™=-Tr 14
+Nee 12
+ve r 10
+8
+é
+we (0) 6) a
+q
+2
+Aye |i OF
+- 16
+—_— 14
+12
+10
+8
+
+21 21 63 105 147 189 231 273 -21 21 63 105 147 189 231 273
+Time [days]
+
+No. of Dose Delay 3 4
+
+Source: Reviewer's analysis.
+Abbreviations: Hgb, hemoglobin
+
+14.5.2. Pharmacokinetic-Pharmacodynamic Analysis
+for Hemoglobin
+
+For the population PK/PD analysis of sotatercept effect on Hgb, data collected from healthy
+participants enrolled in the 2 Phase 1 studies (MK-7962-009 and MK-7962-010) and patients
+with PAH enrolled in Phase 2/3 studies MK-7962-001, MK-7962-002, and MK-7962-003 were
+included. A total of 23,056 records in 528 subjects (4209 reticulocyte [RET], 9421 RBC, and
+9426 Hgb sample records) from 2 studies in healthy participants and 3 studies in patients with
+PAH were included in the final analysis dataset used for development of the final PK/PD model
+for Hgb. Table 90 summarizes the distribution of characteristics in participants included in the
+final dataset used for Hgb analysis. Table 91 summarizes the values of hematological markers at
+baseline.
+
+The PK/PD model was adapted from literature (PMID: 18025524). It included 4 sequential
+catenary compartments describing a) the irreversible maturation of the RBC line from progenitor
+cells in the bone marrow to the mRBCs, b) the saturable, sotatercept-driven stimulation of
+production and maturation of the most immature progenitor cell population, and c) the inhibitory
+or stimulatory feedback driven by the change in predicted Hgb concentrations from baseline
+Figure 31). The dynamics of observed RET counts were directly described by the model-
+predicted RET counts (represented by the 3rd sequential compartment in); the dynamics of
+
+152
+Integrated Review Template, version 3.0 (05/25/2022)
+
+Reference ID: 5354062

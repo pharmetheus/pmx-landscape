@@ -1,0 +1,64 @@
+NDA 220848
+LIPFENDRA (enlicitide)
+
+14.3. Nonclinical Pharmacology/Toxicology
+
+The Applicant’s Position:
+
+All nonclinical pharmacology/toxicology information is included in [Sec. 5] above.
+The FDA’s Assessment:
+
+All the necessary pharmacology and toxicology information are included in Section 5.
+
+14.4. OCP Appendices (Technical Documents Supporting OCP
+Recommendations)
+
+14.4.1. Model Risk Assessment
+
+The FDA’s Assessment:
+
+The pharmacometrics review is aimed around ensuring enlicitide exposures are described
+robustly for the label and that the labeled dose is appropriate. For the descriptive
+pharmacokinetics in the label, the goodness-of-fit plots indicate the population mean captures the
+central tendency of the data and the visual predictive check (VPC) plots suggest the error model
+is able to capture the distribution of these exposures (FDA Figure 11). The exposure-response
+assessment was not extensively evaluated as the application was supported by extensive clinical
+efficacy and safety information at the proposed dose. Further, the plateau of the exposure-
+response curve was in line with the point estimates of LDL-C reduction and the majority of the
+exposures at the to be labeled dose fell in the plateau of maximal response (Figure 10) suggesting
+patient factors would not be clinically meaningful for dose individualization.
+
+FDA Table 23. Assessment of Model Risk
+
+Question of interest Is the Applicant's final population PK model sufficient to describe the PK of
+enlicitide in the label and support exposure-efficacy assessment of LDL-C
+lowering?
+
+Context of use PopPK was used to evaluate the patient factors (body weight, age, injection
+
+site, batch, sex and eGFR) on exposure, and generate individual exposure for
+exposure-response analysis.
+
+Exposure-response analyses were conducted to understand exposure
+dependent changes in LDL-C in HEFH patients.
+
+Decision consequence Low: Exposure-response data suggest studied dose produces exposures in the
+plateau of maximal response.
+
+Model influence Low: Dose could be justified based on phase 3 efficacy data alone.
+
+Model risk Low
+
+Source: FDA Reviewer
+
+Abbreviations: eGFR, estimated glomerular filtration rate; HEFH, heterozygous familial hypercholesterolemia; LDL-C, low-density
+lipoprotein cholesterol; PK, pharmacokinetics
+
+173
+
+Version date: February 10, 2025 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5833849

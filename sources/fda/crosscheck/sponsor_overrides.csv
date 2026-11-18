@@ -1,0 +1,37 @@
+sponsor_name,short_name,reason
+BRISTOL,Bristol-Myers|Celgene,"'Bristol' alone also matches the University of Bristol; Celgene drugs are filed by Bristol-Myers Squibb"
+BRISTOL MYERS SQUIBB,Bristol-Myers|Celgene,Same company as BRISTOL
+BRISTOL-MYERS,Bristol-Myers|Celgene,Same company as BRISTOL
+NOVO,Novo Nordisk,"'Novo' alone is too short a word to search"
+MERCK SHARP DOHME,Merck|MSD,Merck publishes as Merck & Co. or MSD
+MSD,Merck|MSD,Same company as MERCK SHARP DOHME
+RENGENERON PHARMACEUTICALS INC.,Regeneron,Misspelled in openFDA
+"RENGENERON PHARMACEUTICALS, INC.",Regeneron,Misspelled in openFDA
+TG THERAPEUTICS INC,TG Therapeutics,"'TG' alone is too short"
+"TG THERAPEUTICS, INC",TG Therapeutics,"'TG' alone is too short"
+TG THERAPS,TG Therapeutics,"'TG' alone is too short"
+GE HLTHCARE,GE Healthcare,"'GE' alone is too short"
+AOP HLTH US,AOP,Publishes as AOP Orphan or AOP Health
+LEO PHARMA AS,LEO Pharma,"'LEO' alone is too common a word"
+DAY ONE BIOPHARMS,Day One Biopharmaceuticals,"'Day One' is a common phrase"
+ON TARGET LABS,On Target Laboratories,"'On Target' is a common phrase"
+BLUE EARTH,Blue Earth Diagnostics,"'Blue Earth' alone is ambiguous"
+ADC Therapeutics SA,ADC Therapeutics,"'ADC' is also a common abbreviation (antibody-drug conjugate)"
+UCB INC,UCB Pharma|UCB Biopharma|UCB S\.A,"'UCB' also abbreviates universities"
+KURA,Kura Oncology,"'Kura' alone is ambiguous"
+FABRE KRAMER,Fabre-Kramer,Hyphenated company name
+PTC THERAP,PTC Therapeutics,"'PTC' alone is ambiguous"
+LENZ THERAP,LENZ Therapeutics,"'Lenz' is also a surname"
+X4 PHARMS,X4 Pharmaceuticals,"'X4' alone is ambiguous"
+JAZZ PHARMS,Jazz Pharmaceuticals,"'Jazz' alone is ambiguous"
+LIB THERAPEUTICS INC.,LIB Therapeutics,"'LIB' alone is ambiguous"
+"LIB THERAPEUTICS, INC.",LIB Therapeutics,"'LIB' alone is ambiguous"
+SPECTRUM PHARMS,Spectrum Pharmaceuticals,"'Spectrum' also matches Spectrum Health, a hospital group"
+CATALYST PHARMS,Catalyst Pharmaceuticals,"'Catalyst' is a common word"
+MILESTONE PHARMS USA,Milestone Pharmaceuticals,"'Milestone' is a common word"
+CHECKPOINT THERAPEUTICS INC,Checkpoint Therapeutics,"'Checkpoint' is a common word in oncology"
+STEALTH BIOTHERAPS,Stealth BioTherapeutics,"'Stealth' is a common word"
+ORCHID PHARMA,Orchid Pharma,"'Orchid' is a common word"
+MAYNE PHARMA,Mayne Pharma,"'Mayne' is also a surname"
+SUN PHARM INDS INC,Sun Pharma,"'Sun' is a common word"
+application 214383,Oncopeptides,"Pepaxto (melphalan flufenamide) is missing from openFDA (withdrawn); its sponsor was Oncopeptides"

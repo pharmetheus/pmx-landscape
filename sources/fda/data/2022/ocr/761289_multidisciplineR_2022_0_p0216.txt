@@ -1,0 +1,78 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {BLA 761289 and sBLA 761069}
+{IMJUDO, tremelimumab; IMFINZI, durvalumab}
+
+Study Included HIMALAYA (Individual predicted exposure metrics of patients and
+efficacy data from HIMALAYA study)
+Endpoint Primary: OS
+Secondary: PFS
+No. of Patients (total, and with Total: 388 (T300+D), 388 patients with durvaluab PK and
+individual PK) 387 patients with tremelimumab PK
+Population General Age (years) median (range): 65 (22-86)
+Characteristics Weight (kg) median (range): 70.0 (40.5-140)
+(See Table 18, 19 n (%) male: 323 (83.2%)
+Population PK n (%) race: White 177 (45.6%), Black 7 (1.80%), Asian 195 (50.3%),
+and Exposure- Native Hawaiian or Other Pacific Islander 1 (0.258%), Other 7
+Response Report, (1.80%), missing 1 (0.258%)
+Module 5.3.3.5) _| Pediatrics (ifany) | None
+Dose(s) Included Durvalumab 1500 mg Q4W, Tremelimumab 300 mg single dose
+
+Exposure Metrics Explored (range) Durvalumab exposure:
+Crin,dose 1 Durva (g/mL): 11.2-255
+
+Cmax,dose 1 Durva (g/mL): 270-1030
+
+AUCdose 1 Durva (g.day/mL): 1740-9930
+
+Cmin,ss Durva (g/mL): 13.2-1050
+
+Cmaxss Durva (g/mL): 283-2060
+
+AUC, Durva (p1g.day/mL): 1930-35600
+
+Tremelimumab exposure:
+
+Cmin,dose 1 Treme (g/mL): 3.70-74.8
+
+Cmax,dose1 Treme (pg/mL): 45.8-174
+
+AUCaose1 Treme (yg.day/mL): 373-2320
+
+AUCine Treme (yg.day/mL): 460-2130
+
+Covariates Evaluated Age, body weight, BMI, AST, ALT, albumin, bilirubin, creatinine,
+baseline LDH, baseline neutrophil-to-lymphocyte ratio, baseline
+tumor size per investigator, sex, race, baseline ECOG, ADA post-
+baseline to durva, ADA post-baseline to treme, PD-L1 TC (<1%), NCI
+scale for hepatic function, BCLC Stage, hepatitis type, exposure
+
+metrics
+Final Model Parameters Summary Acceptability
+[FDA’s comments]
+Model Structure Primary endpoint OS: Yes
+
+CPH Model with AST and neutrophil-to-
+lymphocyte ratio as significant covariates;
+Secondary endpoint PFS:
+
+CPH Model with no significant covariate
+Model Parameter Estimates See Table 20-22, Population PK and Yes
+Exposure-Response Report, Module
+5.3.3.5 (for primary and major secondary
+
+endpoints)
+Model Evaluation OS and PFS: graphical exploration of OS Yes
+and PFS by exposure metrics of See Figure 25, Figure
+
+durvalumab and tremelimumab; evaluated | 26, Figure 27, Figure
+by the change of objective function values | 28, Figure 29, and
+and significant p-value for CPH model Figure 30
+
+when incorporating covariates.
+
+215
+Version date: July 2021 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5064925

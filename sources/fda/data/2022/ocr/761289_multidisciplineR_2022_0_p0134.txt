@@ -1,0 +1,53 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {BLA 761289 and sBLA 761069}
+{IMJUDO, tremelimumab; IMFINZI, durvalumab}
+
+7300 + D Durva Mono Sorafenib
+(N=388) (N=388) (N=374)
+System Organ Class - Preferred Term
+Grade 5 Grade 5 Grade 5
+n (%) n (%) n (%)
+Blood and lymphatic system disorders 1 (0.3) 0 (0.0) 0 (0.0)
+Thrombocytopenia 1 (0.3) 0 (0.0) 0 (0.0)
+Vascular disorders 1 (0.3) 3 (0.8) 0 (0.0)
+Internal haemorrhage 1 (0.3) 0 (0.0) 0 (0.0)
+Bleeding varicose vein 0 (0.0) 2 (0.5) 0 (0.0)
+Peripheral ischaemia 0 (0.0) 1 (03) 0 (0.0)
+Psychiatric disorders 0 (0.0) 2 (0.5) 0 (0.0)
+Completed suicide 0 (0.0) 1 (0.3) 0 (0.0)
+Restlessness 0 (0.0) 1 (0.3) 0 (0.0)
+Renal and urinary disorders 0 (0.0) 0 (0.0) 1 (0.3)
+Hematuria 0 (0.0) 0 (0.0) 14 (0.3)
+
+Source: OCS Analysis Studio, Safely Explorer. Adverse events missing Severifyiioxicity grades are not included in the above table.
+Filters: TRTO1A = "TREME 300 + DURVA" and SAFFL = "Y" (T300 + D); TRTO1A = "DURVA MONO" and SAFFL = "Y" (Durva Mono); TRTO1A =
+"SORA" and SAFFL = "Y" (Sorafenib ); TRTEMFL = "Y" and AETOXGRN = "Grade 5" (Adverse Events).
+
+Table 25 Death Summary — HIMALAYA Study
+
+7300 +D D Mono Sorafenib
+N=388 N=388 N=374
+
+Total Deaths 258 279 283
+Death due to Progression 221 245 256
+Death within 30 days of 20 22 56
+last dose
+Death 30 days after last 238 257 227
+dose
+Death due to AE 30 26 27
+
+Source: ADSL (Subject-Level Analysis Dataset) - 2022-02-23. Variables used: USUBJID, TRTO1A, SAFFL, DTHCAUS,
+DTH30TFL, DTHA30FL, DTHDT, DTHFL, TRTEDT
+
+Table 26: Narratives for Cause of Death Listed as Unknown by Investigator
+
+Subject ID Age / Sex Primary cause of Primary cause Reviewer Comment
+death listed by MedDRA
+investigator preferred term
+133
+
+Version date: July 2021 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5064925

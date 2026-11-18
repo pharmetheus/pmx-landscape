@@ -1,0 +1,55 @@
+BLA 761416 Multi-disciplinary Review and Evaluation
+
+Zanidatamab
+
+Validation Item Result Reference
+Table*
+
+Dilutional Linearity with serial dilutions up to 1:15,000 met target Table 9
+
+Linearity/Hook specifications. No hook effect was observed.
+
+Effect
+
+Cross validation A total of 30 samples prepared in pooled normal human | Addendum-1
+
+between ©@ | serum met the cross validation specifications. Table 6
+
+Cross validation The comparison of spiked samples analyzed at ©@ | Addendum-1
+
+between a] met acceptance criteria. Table 7
+
+* Table source: Module 5.3.1.4, 8425-100 Validation Report and Addendum-1
+19.4.2. Population PK Analysis
+
+19.4.2.1. Executive Summary
+The FDA’s Assessment:
+
+Zanidatamab PK data obtained from 279 patients (192 from Study ZWI-ZW25-101 and 87 from
+Study ZWI-ZW25-203) were used for the development of the PopPK model.
+
+The final zanidatamab PopPK model was a 2-compartment model with zero-order drug input and
+parallel linear and nonlinear CL pathways to describe elimination kinetics. The model was
+parameterized based on the duration of the zero-order infusion, linear CL, maximum rate of
+nonlinear elimination (Vmax), the drug amount at 50% of the maximum nonlinear elimination
+(Kim), Vc, Vp, and intercompartmental CL. Interindividual variability was estimated for CL, Vc,
+and Vp and was described using exponential error models. Residual variability was estimated
+using a proportional error model.
+
+Although the covariate analysis identified baseline body weight, albumin (ALB), baseline
+number of lesions, and cancer type as significant predictors of CL, as well as body weight and
+cancer type as significant predictors of Ve and cancer type as predictor of Vp, these covariates
+are unlikely to cause clinically relevant differences in steady state zanidatamab exposures at the
+proposed dosing regimen of 20 mg/kg Q2W. Therefore, no dosage adjustments are
+recommended for the intrinsic and extrinsic covariates evaluated.
+
+19.4.2.2. PPK Assessment Summary
+The Applicant’s Position:
+
+135
+Version date: August 2023 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5482010

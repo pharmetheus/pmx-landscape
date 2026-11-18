@@ -1,0 +1,39 @@
+NDA 217785
+
+REZDIFFRA (resmetirom)
+Resmetirom Resmetirom
+Resmetirom Resmetirom 80 mg vs. 100 mg vs.
+Placebo 80 mg 100 mg Placebo Placebo
+N=318 N=327 N=324 Risk Difference _ Risk Difference
+Malignancies n(%) n(%) n(%) % (95% Cl) % (95% Cl)
+Melanocytic naevus — —
+Meningioma benign
+Metastases to lymph nodes
+Neoplasm
+Neoplasm skin
+
+Papillary thyroid cancer
+Prostate cancer
+Prostate cancer stage IV
+
+Seborrheic keratosis 2(06 0 3 (0.9 -0.6 (-2.3, 0.5 0.3(-1.4 2.1
+Soft tissue sarcoma
+
+Squamous cell carcinoma 3 (0.9 0 3 (0.9 -0.9 (-2.7, 0.2 -0.0 (-1.9. 1.9)
+Squamous cell carcinoma of skin
+
+Uterine leiomyoma 2(0.6) 1(0.3) 1 (0.3) -0.3 (-2.0, 1.1) -0.3 (-2.0, 1.2)
+
+Source: adae.xpt; Software: R
+Note: Median analysis duration is 71.8 weeks (resmetirom 80 mg), 66.1 weeks (resmetirom 100 mg), and 69.6 weeks (placebo).
+Note: EAIR difference (with 95% confidence interval) is shown between treatment and placebo.
+
+Note: Relatedness is determined by investigator.
+Abbreviations: AE, adverse event; AESI, adverse event of special interest; Cl, confidence interval; N, number of patients in treatment arm; n, number of patients with adverse event;
+
+NA, not applicable;
+
+S11
+Integrated Review Template, version 4.0 (11/1/23)
+
+Reference ID: 5346512

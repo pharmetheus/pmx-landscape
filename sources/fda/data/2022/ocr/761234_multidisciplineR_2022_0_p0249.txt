@@ -1,0 +1,89 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {BLA 761234}
+Opdualag™ (nivolumab and relatlimab-rmbw)
+
+then mixed with a reaction buffer consisting of Biotin-MMDX-1106 anti-
+idiotype clone 1106.2438.12B4E11D11 and Tag-MDX-1106 anti-idiotype
+clone 1106.2437.16B10H7B8. During incubation BMS-936558 binds to
+both the biotinylated anti-idiotype clone 1106.2438.12B4E11D11 as
+well as the Tag-MDX-1106 anti-idiotype clone 1106.2437.16B10H7B8,
+forming a complex. Following this, the complexed samples are
+
+added to an MSD streptavidin plate. The biotinylated anti-idiotype
+clone binds to the streptavidin coating and the ruthenium metal chelate
+(Tag) acts as the ECL label. Plates are read on the MSD Sector Imager
+6000 after the addition of a tripropylamine-containing read buffer.
+During reading, the ruthenium produces a chemiluminescent signal that
+is directly proportional to the concentration of the BMS-936558 on the
+plate.
+
+Materials used for
+calibration curve &
+concentration
+
+BMS-936558 drug product supplied by Bristol-Myers Squibb
+Reference Standard lot I-M48A-05, 1.0 mg/mL
+
+Drug Product lot OD56606, 10.0 mg/mL
+
+Calibrator concentrations: 0.1 (anchor), 0.2, 0.3, 1.0, 2.5, 4.0, 5.5, 6.5
+
+hg/mL
+
+Validated assay
+range
+
+0.2 to 6.5 ug/mL
+
+Material used for
+QCs & concentration
+
+BMS-936558 drug product supplied by Bristol-Myers Squibb
+Reference Standard lot I-M48A-05, 1.0 mg/mL
+
+Drug Product lot OD56606, 10.0 mg/mL
+
+QC concentrations: 0.2 (LLOQ), 0.3 (back-up LLOQ), 0.6 (LQC), 1.5
+(MQC), 4.8 (HQC), 6.5 (ULOQ), 100 (dilution QC) yg/mL
+
+Minimum required
+dilutions (MRDs)
+
+1:100
+
+Regression model &
+
+Four-parameter logistic regression, no weighting
+
+weighting
+
+Validation Method Validation Summary Acceptability
+
+Parameters
+
+Calibration curve No of standard calibrators from LLOQ | 7 Yes
+
+performance during | to upper limit of quantitation (ULOQ)
+
+accuracy & precision | Cumulative accuracy (%bias) from -8.10 to 4.32% | Yes
+LLOQ to ULOQ
+
+Per BMV,
+
+At least 75% and Cumulative precision (%CV) from < 7.70% Yes
+
+minimum of 6 non- LLOQ to ULOQ
+
+zero calibrators
+
+without anchor
+
+points and
+
+248
+Version date: January 2020 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “The Applicant’s Position” are completed by the Applicant
+and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 4955210
+

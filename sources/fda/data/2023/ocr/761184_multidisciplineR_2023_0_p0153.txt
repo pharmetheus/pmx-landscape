@@ -1,0 +1,65 @@
+BLA 761184
+Ngenla (somatrogon)
+
+Table 22. Incidence of ADA in the Somatrogon Dose Groups and Genotropin Group at 6 and 12
+Months, Trial CP-4-004 (Main Period)
+
+Somatrogon Genotropin
+
+0.25 mg/kg/wk 0.48 mg/kg/wk 0.66 mg/kg/wk 0.034 mg/kg/wk
+
+Parameter N=13 N=15 N=14 N=11
+ADA+ subjects, n (%)
+
+Month 6 0/13 (0) 5/15 (33.3) 5/14 (35.7) 2/11 (18.2)
+
+Month 12 0/13 (0) 3/15 (20.0) 2/14 (14.3) 1/11 (9.1)
+
+Source: Prepared by the Medical Officer based on data excerpted from the Integrated Summary of Immunogenicity, Table 12.
+Abbreviation: ADA, antidrugantibody
+
+Overall, a broad range of ADA risk was observed among the clinical trials (if trial 005 conducted
+in adults but not submitted in this NDA is considered) despite use of the same assays, with a
+particularly high and unexpected ADA response in Trial CP-4-006. In this trial, subjects were
+initiated on somatrogon using the pen device, while Trial CP-4-004 dosed subjects using a vial
+and syringe for the first 44 years before switching to the pen, potentially priming them to lower
+antibody response. However, review of CMC data did not reveal any factors that may be device-
+related. At this time the cause of the immunogenicity findings remains unknown, and hence non-
+remediable.
+
+Effect of ADA on Somatrogon PK: Decreased Clearance of Somatrogon from Circulation
+in ADA-Positive Subjects
+
+Although limited PK data were obtained from Trial CP-4-004 and CP-4-006 from sparse PK
+sampling design, higher somatrogon concentrations were seen in ADA-positive subjects
+compared to ADA-negative subjects (Figure 27, Figure 30, Table 62, Table 63, Table 68, and
+
+Table 69).
+
+To better understand this finding, the impact of immunogenicity on PK was further assessed
+using a population PK approach, in which ADA status was a time-varying covariate for
+clearance. Based on model predicted PK parameters, the mean clearance of somatrogon
+decreases ~26% after patients developed antidrug antibodies (Table 83 and Table 84 of the
+Pharmacometrics Review).
+
+The increase in exposure in ADA-positive subjects did not appear to impact IGF-1 response.
+When plotting IGF-1 SDS from Trial CP-4-004 and CP-4-006 by ADA status, the range of IGF-
+1 SDS values among those who tested ADA positive to somatrogon overlap with those who
+tested ADA negative at different time points ( Figure 28, Figure 29, and Figure 31) One of the
+concems with the decreased somatrogon clearance is that it may be due to the formation of
+antibody-drug complexes, although this has not been evaluated in the somatrogon clinical
+program. High titers of ADA and sustained antibody response can potentially lead to the
+formation of immune complexes that can alter the pharmacokinetics of the drug, induce immune
+responses and immune complex deposition (Guidance 2014).
+
+Potential Effect of ADA on Somatrogon-Induced Growth
+
+The high incidence of ADA raises concerns regarding growth attenuation affecting final adult
+height.
+
+To better understand the relationship between ADA and growth, the reviewers analyzed growth
+
+parameter values among both ADA-positive and -negative subjects at Month 12 in Trials CP-4-
+006 and CP-4-004.
+
+Reference ID: 4924352

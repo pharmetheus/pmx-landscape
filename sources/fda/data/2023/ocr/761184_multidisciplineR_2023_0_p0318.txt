@@ -1,0 +1,67 @@
+BLA 761184
+Ngenla (somatrogon)
+
+PEN Year 1 (N=40)
+
+Positive ADA Negative ADA
+
+System Organ Class N=15 N=25
+Preferred Term n(%) n (%)
+Bronchitis 1 (6.7) 4 (16.0)
+Measles 1 (6.7) 0
+Nasopharyngitis 1 (6.7) 1 (4.0)
+Upper respiratory tract infection 1 (6.7) 1 (4.0)
+Varicella 1 (6.7) 1 (4.0)
+Hordeolum 0 1 (4.0)
+Otitis extema 0 1 (4.0)
+Paronychia 0 1 (4.0)
+Pharyngitis 0 1 (4.0)
+Pneumonia 0 1 (4.0)
+Rhinitis 0 2 (8.0)
+Rotavirus infection 0 1 (4.0)
+Tonsillitis 0 2 (8.0)
+Urethritis 0 1 (4.0)
+Metabolism and nutrition disorders (SOC) 1 (6.7) ie}
+Hypercholesterolemia 1 (6.7) ie)
+Musculoskeletal and connective tissue disorders (SOC) 1 (6.7) 2 (8.0)
+Arthralgia 1 (6.7) 0
+Osteochordrosis ie} 2(8.0)
+Nervous system disorders (SOC) 0 3 (12.0)
+Cranial nerve disorder 0 1 (4.0)
+Dizziness 0 1 (4.0)
+Headache ie} 2 (8.0)
+Psychiatric disorders (SOC) 1 (6.7) 0
+Autism spectrum disorder 1 (6.7) it}
+Reproductive system and breast disorders (SOC) 0 1 (4.0)
+Testicular disorder ie} 1 (4.0)
+Respiratory, thoracic and mediastinal disorders (SOC) 1 (6.7) 1 (4.0)
+Rhinitis allergic 1 (6.7) 1 (4.0)
+Rhinorrhea 1(6.7) 0
+
+‘Source: adae xpt, software, R. Data provided in the Major Amendment submitted on September 15, 2021
+
+Treatment-emergent adverse events defined as any AE with onset post-treatment.
+
+Abbreviations: ADA, anti-drug antbody, N, number of patients in treatment am, n, number of patients with adverse event; SOC,
+system organ class; TEAE, treatment-emergent adverse event
+
+Table 116. Treatment Emergent Adverse Events by Anti-Drug Antibody Status in PEN Year 2
+Group, Trial CP-4-004 (OLE Period)
+
+PEN Year 2 (N=35)
+
+Positive ADA Negative ADA
+
+System Organ Class N=12 N=23
+Preferred Term n(%) n (%)
+Any TEAE 6 (50.0) 9 (39.1)
+Endocrine disorders 0 2 (8.7)
+Autoimmune thyroiditis 0 1 (4.3)
+Hypothyroidism 0 1(4.3)
+General disorders and administration site conditions 1 (8.3) 1 (4.3)
+Injection site reaction 1 (8.3) 0
+Pyrexia ie} 1 (4.3)
+
+216
+
+Reference ID: 4924352

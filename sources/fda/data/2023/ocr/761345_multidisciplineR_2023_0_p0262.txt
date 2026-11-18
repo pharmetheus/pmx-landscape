@@ -1,0 +1,76 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {BLA 761345}
+
+elranatamab
+
+Table 84: Applicant — QSP Model Analysis
+
+aside for model validation and not used
+in the objective function for VPop
+construction, shown in Error! Reference
+source not found.
+
+Covariates and Clinical Not applicable Not applicable
+Relevance
+Simulation for Specific Not applicable Not applicable
+Population
+
+Visualization of model results
+
+Total sBCMA at baseline was explored
+through simulated virtual cohorts of
+patients stratified by sBCMA levels at
+baseline
+
+Error! Reference source not found.
+illustrates simulated biochemical
+response rate (BRR) for different dose QW
+or Q2W regimens across multiple VPops
+stratified by sBCMA levels at baseline.
+QSP simulations demonstrated 76 mg QW
+full treatment dose to provide maximum
+BRR for all virtual patients including those
+with high baseline sBCMA
+
+Visualization of
+model results is
+acceptable.
+
+Overall Clinical Relevance for
+Model results
+
+The model virtual population simulations
+support the recommended dose of 76 mg
+SC QW with transition to Q2W on Cycle
+27 upon confirmed response.
+
+Version date: January 2020 (ALL NDA/ BLA reviews)
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5226136
+
+The QSP model
+predictions showed
+slightly decrease in
+average progressive
+disease among
+responders under
+QW to Q2W versus
+constant QW
+scenarios with
+substantial overlap
+of the 90% prediction
+intervals of plotted
+biomarkers.
+Although the
+predicted differences
+might not be
+clinically relevant,
+the simulations
+suggest that the
+proposed switch to
+Q2W is as efficacious
+as a QW (no
+transition) regimen,
+supporting the
+

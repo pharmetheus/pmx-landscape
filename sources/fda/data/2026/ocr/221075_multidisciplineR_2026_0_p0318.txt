@@ -1,0 +1,48 @@
+NDA/BLA Multi-disciplinary Review and Evaluation NDA 221075
+Iberdomide (ZENBEXUS)
+
+Table 108: FDA — Simulated iberdomide PK parameters at steady state following 1 mg
+QOD iberdomide dose administration to cancer patients with itraconazole compared to 1
+mg QD iberdomide dosed alone
+
+Sampling _ 1lmg QD 1mg QOD
+interval PK Parameter Iberdomide alone Iberdomide + Itraconazole
+Cmax (ag/mL) 4.98 (4.75 - 5.23) 6.54 (6.30 - 6.78)
+Day33toDay  AUC(0-48h) se aes
+35 in (agth/mnt® 134 (126 - 142) 171 (164 - 178)
+simulation
+Cmax ratio 1.31 (1.28 - 1.35)
+AUC(0-48h) ratio® 1.28 (1.22 - 1.33)
+
+Source: .. /simcyp fda-ir-jan-2026/ddi-iber-itz-cancer-qd, .../simcyp/fda-ir-jan-2026/ddi-iber-itz-cancer-qod
+
+? Geometric mean ratios and 90% confidence interval of 1 mg QOD iberdomide + itraconazole/Img QD iberdomide
+alone
+
+For the Iberdomide 1 mg QD condition, AUC(0—48h) was derived by summing AUC(0-24h) from Day 33 and
+AUC(0-24h) from Day 34 to allow interval-matched comparison with the Iberdomide 1 mg QOD + itraconazole
+regimen
+
+Source: Table 4.1.2-] in in Response to FDA Information Request Received 03-Feb-2026 (seq0007)
+
+e Given that iberdomide AUC was predicted to increase 1.7-fold following coadministration
+with moderate CYP3A inhibitors, FDA recommended avoiding concomitant use of
+iberdomide with moderate CYP3A inhibitors due to safety concerns and proposed the
+following statements for the dosage modifications: ‘Jf concomitant use with moderate CYP3A
+inhibitors is unavoidable, reduce iberdomide dose to 0.75 mg once daily on Days I to 21 of a
+28-day cycle and Clinical Pharmacology. If dose modification is needed due to adverse
+events, reduce iberdomide dose to 1 mg every other day on Days I to 21 of a 28-day cycle.’
+In support of these dosage modification schemes, the Applicant simulated the proposed
+dosing regimens and compared iberdomide exposures with those following administration of
+iberdomide 1 mg once daily in the absence of CYP3A inhibitors. The results are shown in
+Table 109 and Table 110. Iberdomide steady-state exposures following the modified dosing
+regimens of iberdomide with moderate CYP3A inhibitors were predicted to be within 30% of
+those following iberdomide 1 mg QD alone.
+
+319
+Version date: February 10, 2025 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant's Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5851050

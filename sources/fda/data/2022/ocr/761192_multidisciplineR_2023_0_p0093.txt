@@ -1,0 +1,68 @@
+BLA Multi-disciplinary Review and Evaluation BLA 761192, NexoBrid (proteolytic enzymes)
+
+Category NexoBrid Treatment Arm
+
+Number of patients with samples 68
+
+Number of patients in ADA evaluable population | 62
+
+ADA Prevalence Pre-treatment
+
+Number of patients with positive ADA result in 25
+
+pre-treatment sample
+
+% of ADA evaluable population 40.3%
+
+Treatment-emergent ADA Positive
+
+Number of patients meeting definition of 58
+
+treatment-induced or treatment-boosted
+
+% of ADA evaluable population 93.5%
+ADA = anti-drug antibodies
+Note: Only 1 patient )©),.5 negative at baseline and at 1-week post-treatment (no other post-treatment
+samples available); 3 other patients did not meet the definitions of “treatment-incuced” or "treatment- boosted"
+namely Spatients (©)@nad same titer pre-and post-dose; Spatient "yas positive at baseline
+but negative post-dose.
+
+Table 8: ADA titer vs time for patients from study MW2010-03-02
+
+ADA Titer At Sampling Time Prior to or Following Treatinent
+
+Statistic Pre-treatment | 1-Week 4Week 8.Week 6-Month 24-Month
+Post-treatment | Post-treatment | Post-treatment | Post-treatment | Post-treatment
+
+‘Number of patients with result 2 23 32 43 a7 a
+
+Minimum 1 1 80 50 30 50
+
+25% percentile 1 10 1250 1250 1250 250
+
+‘Median 1 50 6250 1250 1250 250
+
+75% percentile 182.5 6250 31250 31250 6250 6250
+
+‘Maximum 31250 156250 781250 156250 156250 31250
+
+Geometric mean 105 1182 419 4217 1805 677.1
+
+‘ADA = anti-drug antibodies
+
+Note: Patients with a Negative ADA result were assigned as titer=1
+Source: Bioanalytical report 151093AMES_MYT
+
+GraphPad Prism version 8.2.1 for macOS
+
+Figure 1 illustrates the relationship between dose-adjusted Cmax and dose-adjusted AUC 41, to
+baseline ADA status. Results indicate that dose-adjusted Cmax and dose-adjusted AUC) 4,
+appear to be slightly higher for ADA-positive patients at baseline compared to
+
+ADA negative at baseline. However, due to the limited number of data points and the high
+variability a definitive conclusion cannot be reached on the relationship between baseline ADA
+status and the PK of NexoBrid.
+
+Version date: October 12, 2018
+
+Reference ID: 4816080

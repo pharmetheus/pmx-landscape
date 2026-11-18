@@ -1,0 +1,47 @@
+NDA 215973 Sunlenca (Lenacapavit)
+
+Page 11 of 14
+
+Table 3B: Tumor Rates and P-Values for Dose Response Relationship and the pairwise comparisons
+
+Female Mice Using Poly-3 test
+
+Omg Vehicle) 30mg 100 mg 300 mg 75mg MNU
+Cont (N=25)| Low(N=25)| Med(N=25) | High (N=25) | Posi (N=10)
+Organ Name Tumor Name P-Trend |P-VCvs.L] P- VC vs.M| P- VC vs.H | P- VC vs. PC
+HarderianGland |B-Adenoma 0/25(25) | 2/25(24) | 1/25(23) | 0/25(23) 0/10(7)
+0.7173 0.2347 0.4792 NC NC
+Heart M-Mesothelioma, 0/25 (25) 0/25 (24) 1/25 (24) 0/25 (23) 0/10(7)
+Atriocaval 0.4896 NC 0.4898 NC NC
+Hematolymphoid |M-Lymphoma 0/25(25) | 0/25(24) | 1/25(23) | 0/25(23) 7/10 (10)
+System 0.4842 NC 0.4792 NC <0.0001*
+Tleum M-Hemangiosarcoma 0/25 (25) 1/25 (24) 0/25 (23) 0/25 (23) 0/10(7)
+0.7368 0.4898 NC NC NC
+Lung B-Adenoma, 0/25(25) | 0/25(24) | 1/25(23) 0/25 (23) 0/10 (7)
+Bronchiolo-Alveo* 0.4842 NC 0.4792 NC NC
+Mammary Gland |M-Hemangiosarcoma 0/24 (24) 0/25 (24) 1/25 (24) 0/25 (23) 0/10(7)
+0.4947 NC 0.5000 NC NC
+Skin/Subcutis B-Papilloma, Squamous} 0/25 (25) 0/25 (24) 0/25 (23) 1/25 (24) 5/10(8)
+Cell 0.2500 NC NC 0.4898 0.0002*
+Spleen B-Hemangioma 0/25(25) | 0/25(24) | 0/25(23) 1/25 (23) 0/10(7)
+0.2421 NC NC 0.4792 NC
+M-Hemangiosarcoma 0/25 (25) 0/25 (24) 2/25 (24) 2/25 (24) 0/10(7)
+0.0677 NC 0.2347 0.2347 NC
+Stomach, B-Papilloma, Squamous] 0/25(25) | 0/25(24) | 1/25(23) | 0/25(23) 5/10(8)
+Nonglandular Cell 0.4842 NC 0.4792 NC 0.0002*
+Thymus B-Thymoma, Benign 0/25 (25) 0/25 (24) 0/25 (23) 1/25 (23) 0/10(7)
+0.2421 NC NC 0.4792 NC
+Uterus B-Hemangioma 2/25 (25) | 0/25(24) | 0/2422) | 0/25(23) 0/10(7)
+1.0000 1.0000 1.0000 1.0000 1.0000
+B-Polyp, Glandular 1/25(25) | 2/25(24) | 0/24(22) | 0/25(23) 0/10(7)
+0.9291 0.4844 1.0000 1.0000 1.0000
+
+& X/ZZ (YY): X=number of tumor bearing animals: YY=mortality weighted total number of animals; ZZ=unweighted total number of animals
+
+observed:
+‘NC = not calculable
+
+*: Statistically significant at 0.05 for common and rare tumors, respectively in pairwise comparisons
+
+Reference ID: 5052595
+

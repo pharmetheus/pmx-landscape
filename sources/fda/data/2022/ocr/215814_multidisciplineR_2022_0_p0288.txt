@@ -1,0 +1,37 @@
+NDA Multi-disciplinary Review and Evaluation - NDA 215814
+REZLIDHIA, olutasidenib
+
+Method: For patients on 150 mg BID olutasidenib monotherapy only, exposure was generated for
+each individual patient based on 300 mg daily dose and CL value from applicant’s run201.ctl
+associated with NONMEM dataset “FT2102-poppk-withconmed-TTE-09SEP2022-scm.csv”.
+Safety and efficacy data were from “er.xpt”.
+
+Results: The exploratory univariate analysis results of exposure-response relationship of major
+efficacy endpoints are shown in Figure 26 for CRH, Figure 27 for ORR, and Figure 28 for CBR
+in patients with olutasidenib BID monotherapy.
+
+Additional exploratory analysis also showed that, in general, the exposure-efficacy relationship
+was slightly positive in patients with normal liver function but flat or negative in patients with
+mild/moderate hepatic impairment.
+
+Figure 25: Exposure-Response Relationship for CR/CRH in Patients with Olutasidenib
+150 mg BID Monotherapy of Study 101
+
+Mild/Moderate Normal
+
+Probability of CRICRH
+J
+
+og of Daily AUCss (mg"hr/L)
+Source: FDA Reviewer’s Analysis
+
+Figure 26: Exposure-Response Relationship for ORR in Patients with Olutasidenib 150
+mg BID Monotherapy of Study 101
+
+287
+Version date: January 2020 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “The Applicant’s Position” are completed by the Applicant
+and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5086659

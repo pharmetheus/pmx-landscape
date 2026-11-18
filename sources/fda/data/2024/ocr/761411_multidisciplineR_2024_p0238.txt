@@ -1,0 +1,60 @@
+BLA Multidisciplinary Review and Evaluation
+BLA 761411
+Niktimvo (axatilimab-csfr)
+
+FDA Figure 12. Baseline Age versus Baseline Body Weight in Subjects with Pharmacokinetic
+Data
+
+‘ Pen ee
+ee
+
+Age
+
+et da) 6to <12 years
+
+® 12to<17 years
+
+Age (years)
+
+Adult (17 years and older)
+
+10 30 50 70 90 110 130 150
+Weight (kg)
+
+Black dashed line shows linear regression of weight across all ages.
+Source: Reviewer's analysis of Applicant’s PPK dataset
+
+Table 107 summarizes the final population pharmacokinetic/pharmacodynamic (popPK/PD)
+model, which incorporated a 2-compartment axatilimab PK model along with turnover of CSF-1,
+NCMC, AST, and CPK. The model included competitive binding between axatilimab and CSF-1
+for the CSF-1 receptor (CSF-1R). Total axatilimab clearance was modeled with parallel linear
+clearance and saturable clearance mediated by CSF-1R.
+
+The final popPK/PD model included the following statistically significant covariate effects:
+
+e Higher axatilimab volume of distribution was associated with higher body weight
+
+e Faster axatilimab elimination via linear clearance (CL) was associated with positive ADA
+status (time-varying) and higher CSF-1 (time-varying)
+Higher estimated baseline NCMC was associated with higher baseline CPK
+Higher estimated baseline NCMC was associated with patients with cancer (i.e., Study
+SNDX-6352-0502) compared to healthy subjects (i.e., Study SNDX-6352-0001)
+
+e Higher estimated baseline NCMC was associated with healthy subjects (i.e., Study SNDX-
+6352-0001) compared to patients with cGVHD
+
+e Higher estimated baseline CSF-1 was associated with higher observed baseline CSF-1
+
+The final estimate of interindividual variability was relatively high for linear CL (variance = 1.09,
+CV = 141%), estimated baseline NCMC (variance = 0.868, CV = 118%), and estimated baseline
+CPK (variance = 0.755, CV = 106%). Shrinkage was also relatively high for Vmax (51.2%),
+estimated baseline CSF-1 (44.5%), and linear CL (40.4%).
+
+The Applicant’s final popPK/PD model adequately characterized axatilimab concentrations in
+
+237
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA. The FDA's position is highlighted in gray.
+
+Reference ID: 5429649

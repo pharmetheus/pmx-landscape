@@ -1,0 +1,21 @@
+{
+ "_note": "Application numbers for rows where FDA's page has no label or Drugs@FDA link. Found by openFDA generic-name lookup (api.fda.gov/drug/drugsfda.json?search=openfda.generic_name:<name>).",
+ "2025": {
+  "Lerochol": {
+   "appl": "761427",
+   "source": "openFDA generic-name lookup (lerodalcibep)"
+  },
+  "Nuzolvence": {
+   "appl": "219491",
+   "source": "openFDA generic-name lookup (zoliflodacin)"
+  },
+  "Exdensur": {
+   "appl": "761458",
+   "source": "openFDA generic-name lookup (depemokimab)"
+  },
+  "Nereus": {
+   "appl": "220152",
+   "source": "openFDA generic-name lookup (tradipitant)"
+  }
+ }
+}

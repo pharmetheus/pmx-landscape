@@ -1,0 +1,55 @@
+BLA Multidisciplinary Review and Evaluation
+BLA 761179
+Rylaze (JZP-458)
+
+FDA Table 25. Duration on Study (weeks)
+
+Cohort 1A Cohort 1B Cohort 1€ All
+25 mg/m? 37.5 mg/m? 25(MW)/50(F) mg/m? (N= 102)
+N=33 (N= 53) (N= 16)
+Weeks | Mean (SD) 23.45 (10.62) 13.18 (8.16) 2.78 (1.49) 14.87 (10.91)
+‘on Study | Median (Min, 27.86 (0.14, 15.43 (1.43, 27.14) | 1.86 (1.71, 5.43) 15.86 (0.14, 38.43)
+Max) 38.43)
+Source: Reviewer's analysis, ADSL
+FDA Table 26. JZP458-201: Courses completed (one course = 6 doses)
+Cohort 1A Cohort 1B Cohort 1€ All
+25 mg/m? 37.5 mg/m? | 25(MW)/SO(F) mg/m? | (N= 102)
+(N= 33) (N=53) (N= 16)
+Courses of JZP-458 | Mean (SD) 4.55 (3.01) 3.04 (1.94) 1.31 (0.48) 3.25 (2.45)
+completed (n) Median (Min, Max) _| 4 (4, 14) 3 (1, 12) 1(1, 2) 5 (1, 14)
+
+Source: Reviewer's analysis, EX datafile
+
+An assessment of the use of drugs to prevent allergic reactions could not be performed, since
+adcm.xpt did not include a flag for drugs used for prophylaxis, and the text in the variable
+
+CMINDC was not sufficiently standardized to allow selection of such drugs specifically for use
+with the investigational product.
+
+Efficacy Results — Primary Endpoint (Including Sensitivity Analyses)
+Data:
+See Section 6.1
+
+The Applicant's Position:
+The Efficacy of JZP-458 is demonstrated by the totality of data, which includes observed
+
+nadir serum asparaginase activity (NSAA) data at the protocol-specified time points,
+population pharmacokinetic (PPK) modeling and simulation results, asparagine
+depletion data, asparaginase enzyme content data, available immunogenicity data,
+
+adverse events (AEs), and clinical laboratory results. The totality of the available data
+from ongoing JZP458-201 study planned for inclusion in the BLA and Update Report
+
+submissions support review of the preferred dose and regimen for JZP-458:
+25/25/50 mg/m? administered IM on MWF. This dose and schedule provide a positive
+benefit: risk profile for JZP-458, with sustained SAA levels 2 0.1 IU/mL to provide
+meaningful benefit to patients who require a non-E.coli asparaginase alternative. This is
+a population with significant unmet medical need.
+
+108
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA. The FDA's position is highlighted in gray.
+
+Reference ID: 4819545
+

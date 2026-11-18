@@ -1,0 +1,57 @@
+NDA/BLA Multi-disciplinary Review and Evaluation — BLA 761384
+Telisotuzumab Vedotin
+
+19.4.1.3. PPK Review Issues
+
+The patients with severe renal impairment were limited (n=2). Considering the rarity of severe
+renal impairment, a minor contribution of renal clearance to drug elimination, and the absence of
+drug related mortality in these patients, any specific recommendations for this patient subgroup
+do not appear necessary.
+
+19.4.1.4. Reviewer's Independent Analysis
+
+Baseline tumor size has been observed to impact ADC drug clearance and exhibits a positive
+
+association with ADC concentrations and a negative association with MMAE concentrations
+
+(Refer to 19.4.2.6). Therefore, popPK analysis was conducted to evaluate if and how baseline
+tumor impacts the dynamics between ADC and MMAE.
+
+Since ADC and MMAE were modeled separately, baseline tumor was respectively assessed as a
+covariate on ADC clearance in the ADC model and fractions of ADC deconjugated to MMAE
+(e.g., fraction of ADC carrying (jMMAE molecules deconjugated, and/or fraction of ADC
+carrying {3MMAE molecules deconjugated) in the MMAE model. Of note, telisolizumab-
+vedotin mainly consists of ADC carrying!) MMAE molecules (> (3%) which is
+approximately in equal molar yielding to a drug to antibody ratio of ~3.
+
+Baseline tumor size was curated from adtr datasets of Study M14-237 and M14-239 and
+implemented to popPK dataset. Notably, sum of diameter by Investigator was used in the
+analysis for consistency given the lack of sum of diameter by independent central review in
+Study M14-237. Adding baseline tumor size as a covariate on ADC clearance using power
+function to the final ADC model, OFV dropped by a , indicating statistical significance of
+p<0.001 by likelihood ratio test with df=1. The exponent for baseline tumor size normalized to
+the median value of 67.5 mm was estimated to be 0.1 with RSE of 23%. Parameter estimates
+were generally comparable to that in the final model with no deviation >20% (FDA Table 9).
+
+In the MMAE model, the parameter bioavailability i in the model is determined by the fraction of
+drug deconjugated from ADC carrying{) MMAE and ADC carrying {MMAE when completely
+deconjugated ( 04 in accordance with the drug characteristics). Baseline tumor
+size was evaluated as a covariate on the fraction of drug deconjugated from individual ADC
+composition as well as on both ADC compositions simultaneously. By comparing AIC/BIC of
+these models, the value is the lowest when baseline tumor was added as a covariate on fraction
+deconjugated from ADC carrying (3MMAE. Compared to the final MMAE model by the
+Applicant, OFV dropped by ok indicating statistical significance of p<0.001 by likelihood
+ratio test with df=1. The exponent for baseline tumor size normalized to the median value of 67.5
+mm was estimated to be 0.823 with RSE of 24%. Parameter estimates were generally
+comparable to that in the final model with no deviation >20% (FDA Table 10) except CL/F and
+V/F because these two parameters 2 are impacted by bioavailability (F) where the median tumor
+size is now associated with the % fraction of deconjugation from ADC carrying {)MMAE
+instead of 1%.
+
+208
+Version date: March 1, 2024 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as "Data" and "The Applicant's Position" are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5590242

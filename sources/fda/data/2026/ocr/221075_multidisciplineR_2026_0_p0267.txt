@@ -1,0 +1,54 @@
+NDA/BLA Multi-disciplinary Review and Evaluation NDA 221075
+Iberdomide (ZENBEXUS)
+
+The FDA’s Assessment:
+
+Based on PopPK result, there is no clinically relevant impact for iberdomide based on age (36 to
+90 years), sex (45% female), race (65% White, 27% Asian , and 4% African American), body
+weight (37.6 kg to 137 kg), body mass index (16.7 to 49.7 kg/m7), body surface area (1.27 to
+2.60 m2), hepatic impairment (mild and moderate), renal impairment (mild and moderate),
+ECOG status (1, and 2), or mono vs combination therapy with daratumumab and dexamethasone.
+However, the uncontrolled drug-drug interactions, BCRP, and p-gp inhibitor in PopPK analyses
+alone is not sufficient to derive reliable conclusion given the limitation in data quality and study
+design.
+
+19.5.4.1. PPK Review Issues
+
+Tberdomide has four formulations during its development, AIC in gelatin capsule (AIC),
+formulated gelatin capsule (F1), formulated HPMC capsule (F2), and HPMC capsule (F3/ICF)
+which is the commercial formulation. The biopharmaceutical studies that can be used to support
+these formulations are shown in figure below (Figure 25). The applicant only conducted food
+effect study with AIC formulation. In addition, the original PopPK model didn’t include
+formulation as a covariate in their analysis. An IR letter was sent to applicant on Feb 3, 2026, to
+ask them update PopPK model to evaluate formulation effect and food effect. The applicant
+submitted updated PopPK results on Feb 13, 2026. The summary of subjects receiving different
+formulations is listed in Table 86. Due to there are only 17 records for F2 formulation from 3
+subjects, the formulation effect of F2 was not evaluated.
+
+Figure 25: FDA — Biopharmaceutical studies to support Iberdomide Formulation
+Development
+
+popPK
+
+(meta-analysis)
+
+Comparable RBA Comparable RBA
+(1 mg) (0.6 mg)
+
+API in Gelatin Formulated Formulated
+Capsule (AIC) Gelatin = HPMC HPMC Capsule (F3/ICF)
+Loe Capsule (F1) Capsule (F2)
+
+No food effect
+
+(1 mg)
+
+Source: Figure 1 of AAPS journal (2025) 27:85, Model-informed Development Approach to Support
+Biopharmaceutical Development of Iberdomide
+268
+Version date: February 10, 2025 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant's Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5851050

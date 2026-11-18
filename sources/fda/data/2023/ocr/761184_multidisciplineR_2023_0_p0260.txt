@@ -1,0 +1,48 @@
+BLA 761184
+Ngenla (somatrogon)
+
+Secondly, baseline IGF1 were removed from the analyses. This information could have provided
+relevant estimates of BASEIGF that are in the range of the observed baseline IGF-1 values.
+
+— Figure 48 shows the distribution of baseline IGF-1 in both phase 2 and phase 3
+studies. Although the median of the observed baseline IGF-1 are 50 ng/mL and
+77 ng/mL for phase 2 and 3 respectively, the Applicant model’s estimated typical
+population value is 10.15 ng/mL and individual estimates ranges between 5.5 ng/mL -
+31 ng/mL. This discrepancy indicates that the Applicant’s modeling of baseline IGF-1
+is mis-specified and may cause underprediction of IGF-1 elevation during
+somatrogon treatment.
+
+The reviewer developed an alternative model to correct these two model deficiencies.
+
+Figure 48. Distribution of Baseline IGF-1 Among Patients in Both Phase 2 and Phase 3 Studies
+
+_ PHASE 2 _ _ ___ PHASES _
+5}
+4)
+$:|
+3
+SESE SS SEP SSPSLSELEFS cCSPPEEEE FESS FESS ESS
+
+Baseline IGF-1 (ngimL)
+Source: Reviewer's independent analysis.
+Abbreviation: IGF-1, insulinike growth factor-1
+
+14.3.3.2. Reviewer’s PKPD Model Development
+14,3.3.2.1. Introduction
+
+The deficiencies of the Applicant’s final population PKPD models are described in Section 1.2.2.
+The goals of developing an alternative PKPD model were three-fold: First, to provide an
+adequate description of observed IGF-1 profiles; secondly, to characterize sources of
+interindividual variability in IGF-1 response, and lastly, to assess the impact of ADA-titer on
+probability of patients achieving IGF-1 standard deviation score (IGF-1 SDS) >2.
+
+14.3.3.2.2. Data
+
+Both IGF-1 data from phase 2 and 3 studies were used for the PKPD model development. The
+PKPD dataset incorporated individual PK parameters derived from the reviewer’s final PopPK
+model. Summarized descriptions of the phase 2 and 3 studies are given in Table 80 and Table 73,
+respectively.
+
+158
+
+Reference ID: 4924352

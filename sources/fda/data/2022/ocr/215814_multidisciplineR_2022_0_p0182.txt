@@ -1,0 +1,55 @@
+NDA Multi-disciplinary Review and Evaluation - NDA 215814
+REZLIDHIA, olutasidenib
+
+Maximum Post-Baseline Value
+>30to
+> 450 to > 480 to < 60 msec > 60 msec
+
+450 msec | <480 msec | <500 msec | > 500 msec CFB CFB
+Baseline Value n(%) n(%) n(%) n(%) n(%) n(%)
+= 450 msec 93 (61) 37 (24) E¥e)) 3 (2) 34 (22) 10 (7)
+> 450 to < 480 msec 0 53) 3(@) 1d) 4(3) 0
+> 480 to < 500 msec 0 0 10) 2 (1) 10) 0
+> 500 msec 1) i) i) 0 0 0
+Total 93 (61) 42 (28) 11 (7) 6(4) 39 (26) 10 (7)
+
+Source: CSR HEM-101 Phase 2 Cohort 1 Table 14.3.8.2b. Data cutoff date: 18 Jun 2020.
+
+BID = twice daily: CFB = change from baseline; ECG = electrocardiogram: QTcF = heart rate-corrected QT interval
+using Fridericia’s method
+
+Note: Baseline for QTcF was defined as the average of the last three QTcF measurements taken prior to first dose of
+study treatment. Percentages are based on the number of patients in the cohort (N=152) who have both a
+baseline value and a post-baseline value. When selecting the visit with the maximum post-baseline value, the
+value for a given nominal timepoint was the average of the triplicate ECG parameter at that visit.
+
+Holter Monitoring Substudy
+
+A 24-hour Holter monitoring substudy was conducted in 33 single agent-treated patients (150 mg
+BID following a single dose at steady state). Electrocardiograms were collected digitally in
+triplicate on Day 1 of Cycle 1 and Cycle 2 at 45, 30, and 15 minutes predose, and 0.5, 1, 2, 4, 8,
+and 24 hours post dose. Electrocardiograms were sent for a treatment-blinded, high-resolution
+measurement of the cardiac intervals and morphological assessment by a central cardiologist
+blinded to the study treatment. A brief summary of the results is described below; the full
+analysis results of this substudy are presented in a separate Cardiac Safety Report.
+
+Olutasidenib did not show effects on heart rate, AV conduction as measured by the PR interval,
+or cardiac depolarization as measured by the QRS duration. There were no new clinically
+relevant morphological changes demonstrating a signal of concern.
+
+There also was no evidence of a large effect of olutasidenib (>20 msec) on cardiac repolarization
+as evidenced by the results of the primary analysis (concentration-QTc modeling) and secondary
+analyses (time matched and categorical outlier analyses).
+
+Based on the concentration-QTc analysis (Table 74), the upper bound of the two-sided 90%
+confidence interval of the predicted mean AQTcF was less than 10 msec at the observed steady-
+state geometric mean of the maximum olutasidenib concentration (Cmax) for 150 mg BID (Cmax
+3487 ng/mL) and a AQTcF with 90% upper confidence bound exceeding 20 ms can be excluded
+
+181
+Version date: January 2020 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “The Applicant’s Position” are completed by the Applicant
+and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5086659

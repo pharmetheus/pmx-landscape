@@ -1,0 +1,73 @@
+NDA 217388
+Wainua (eplontersen)
+
+Table 90. Parameter Estimates From the Final Population PK Model
+
+Parameter Name Estimated Value (% RSE)
+‘Apparent Clearance (CL/F, L/h)" 6.19 (7.0)
+Exponent for WT on CL/F 1.92 (14.7)
+Exponent for eGFR on CL/F 131.1)
+Maximum Metabolic Rate (Vmax, mg/h) 0.395 (6.6)
+Michaelis-Menten Constant (Km, ng/mL) 3.63 (7.2)
+Apparent Inter-compartmental Clearance (Q/F, L/h)*t 14.8 FIX
+Exponent for WT on Q/F 0.748 FIX
+Apparent Central Volume of Distribution (V./F, L)* 12.2 (5.3)
+Exponent for WT on V./F 1.38 (21.5)
+Apparent Peripheral Volume of Distribution (V_/F, L)* 11100 FIX
+Exponent for WT on V,/F 0.969 FIX
+Percent of the Dose Absorbed via the Slow Pathway (FR1) 0.814 FIX
+First-order Absorption Rate Constant for the Slow Pathway (kai, 1/h)* 0.176 (2.6)
+Exponent for WT on ky -0.656 (21.6)
+Covariate Effect of Arm as Site of Injection on kai and k,2 (Fold) 0.768 (1.9)
+First-order Absorption Rate Constant for the Fast Pathway (k,2, 1/h)"* 0.639 (4.8)
+Exponent for WT on k,2 -1.61 (16.4)
+
+1,523.9)
+(20.8)
+
+Covariate Effect of Device (Al, PFS) on ka2 (Fold)
+Between Subject Variability for CL/F (% CV)
+
+Between Subject Variability for Vinax (% CV) .3 (9.0)
+Between Subject Variability for Km (%e CV) 15.8 FIX
+Between Subject Variability for Q/F (% CV) 15.8 FIX
+Between Subject Variability for V</F (% CV) 30 (18.7)
+Between Subject Variability for Vp/F (4% CV) 34 FIX
+Between Subject Variability for FRI (Additive)* 101 FIX
+Between Subject Variability for kar (% CV) 23.4 (8.6)
+Between Subject Variability for kaa (% CV) 38.6 (10.2)
+Residual Unexplained Variability (Proportional) (%) 2821.2)
+
+Source: Table 8 on Page 96 of ppk01-final-report pdf.
+
+*CL/F = 6.19 - (WT/70)! - (CGFR/100)!
+
+14.8 - (WT/70)°748
+
+12.2- (wT/70)'*
+
+1100 - (WT/70)22”
+
+"kat = 0.176 « (WT/70)-° . 0.768 (if arm as site of injection)
+
+**ka2 = 0.639 - (WT/70) '-*! . 0.768 (if arm as site of injection) - 1.52 (if drug presentation auto-injector or pre-filled syringe)
+
+§ Additive on logit scale.
+
+AI = auto-injector, CV = coefficient of variation, GFR = estimated glomerular filtration rate, PFS = pre-filled syringe, RSE = relative
+standard error, WT = total body weight.
+
+Individual estimates of shrinkage for CL/F, Vmax, KM, Q/F, Ve/F, Vp/F, FR1, kal and ka2,
+were 41.3%, 25.5%, 62.5%, 37.0%, 57.5%, 41.4%, 36.7%, 34.4% and 32.1%, respectively.
+
+Figure 19 and Figure 20 show the relationship between ETACL and baseline covariates. The
+findings support the proposed labeling statement that eplontersen pharmacokinetics are not
+affected by age, body weight, sex, race, Val30Met mutation status, mild and moderate renal
+impairment (estimated glomerular filtration rate [eGFR]>45 to <90 mL/min), or mild hepatic
+impairment (total bilirubin <1 x ULN and AST >1 x ULN, or total bilirubin >1.0 to 1.5 x ULN
+and any AST).
+
+162
+Integrated Review Template, version 3.0 (05/25/2022)
+
+Reference ID: 5299039

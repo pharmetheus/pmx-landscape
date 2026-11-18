@@ -1,0 +1,55 @@
+NDA 215973 lenacapavir injection, for subcutaneous use
+
+NDA 215974 lenacapavir tablets, for oral use
+Figure 20. Study Visit Completion by Study Arm, Study 4625
+
+20. ‘Study Visits ‘Actual Treatment for Period 01
+[HII Cohort 1 LEN
+IH Cohort 1 P80» LEN
+I cohort 2
+70
+«|
+g
+37]
+3
+3B
+— x0
+2
+|
+10
+LES KRS, 2 © OL yh © OD Yo SF
+oe HAA AG OPPO LLL LS
+ef &
+Visit Name ordered bv Vist Number (ascend
+Source: Reviewer's analysis, ads|_xpt and sv.xpt, software, JMP Clinical.
+Abbreviations: LEN, lenacapavir, PBO, placebo
+Table 29. Duration of Exposure, Study 4625
+Cohort 1
+LEN PBO—LEN All LEN Cohort 2 Total
+Parameter N=24 N=12 N=36 N=36 N=72
+Duration of exposure,
+weeks
+Mean (SD) 48.4 (12) 48.4(12.2) 48.4 (11.9) 22.2 (9.7) 35.3 (17)
+- 49.4 48.8 49.4 22.2 33.1
+Median (Q1, Q3) (36.7, 58.5)  (36.8,58.4) (367,584) (151,273) (22.2, 50.4)
+Min, max 30.3, 69.3 32.3, 66.3 30.3, 69.3 2.1, 59.3 2.1, 69.3
+Total exposure 22 "1 33 15 49
+(person years)
+Patients treated, by
+duration, n (%)
+<12 weeks 0 0 0 1 (2.8) 1 (1.4)
+212 to <26 weeks 0 0 0 25 (69.4) 25 (34.7)
+226 to <50 weeks 13 (54.2) 6 (50.0) 19 (52.8) 9 (25.0) 28 (38.9)
+250 to <100 weeks 11 (45.8) 6 (50.0) 17 (47.2) 1(2.8) 18 (25.0)
+2100 weeks 0 0 0 0 i)
+
+Source: Clinical data scientist, adsl _xpt; software, R.
+Abbreviations: N, number of subjects in treatment arm; n, number of subjects with a given treatment duration; SD, standard
+
+deviation; Q1, first quartile; Q3, third quartile; LEN, lenacapavir; PBO, placebo
+
+67
+
+Integrated Review Template, version 2.0 (04/23/2020)
+
+Reference ID: 4944206

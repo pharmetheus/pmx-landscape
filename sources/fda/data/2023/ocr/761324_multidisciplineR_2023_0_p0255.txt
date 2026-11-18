@@ -1,0 +1,70 @@
+BLA Multi-disciplinary Review and Evaluation {Biologics License Application (BLA) 761324
+{epcoritamab}
+
+19.3. Nonclinical Pharmacology/Toxicology
+
+Data:
+N/A
+
+The Applicant's Position:
+All nonclinical pharmacology and toxicology data are included in Section 5.
+
+The FDA’s Assessment:
+The FDA concurs.
+
+19.4. OCP Appendices (Technical documents supporting OCP
+recommendations)
+
+19.4.1. Epcoritamab Pharmacokinetics
+
+Dose Proportionality
+
+Epcoritamab elimination showed nonlinear characteristics when evaluated using population PK
+(popPK) analysis (Figure 14). Population predictions of Cmax, dose-normalized Cmax, AUC,
+dose-normalized AUC at the second full dose (Week 4) (see Table 86). The epcoritamab popPK
+model is described in detail in Section 19.4.4.
+
+Table 86: Dose Proportionality Assessment Using Final Population Pharmacokinetics Model
+
+Cohort | Fulldose Cmax Cmax/dose AUC AUC/dose
+(mg) (ng/mL) | (ug/mL/mg) | (vg/ml-day) | (ug/ml-day/mg)
+
+Week 4
+
+7 3 0.0633 0.0211 0.405 0.135
+
+8 6 0.156 0.0260 0.976 0.163
+
+9 12 0.519 0.0432 3.13 0.261
+
+10 24 181 0.0756 10.9 0.456
+
+11 48 4.75 0.0989 29.2 0.608
+
+12 60 6.21 0.104 38.4 0.640
+
+Week 12
+
+6 15 0.0819 0.0546 0.548 0.365
+
+7 3 0.217 0.0724 1.43 0.477
+
+8 6 0.691 0.115 4.43 0.739
+
+9 12 2.00 0.167 12.8 1.07
+
+10 24 4.82 0.201 31.2 1.30
+
+11 48 10.5 0.220 68.6 1.43
+
+12 60 13.4 0.223 87.3 1.46
+
+Source: Table 27 in Applicant’s PopPK Report
+
+254
+Version date: June 2022 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5176690

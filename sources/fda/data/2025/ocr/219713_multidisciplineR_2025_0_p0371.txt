@@ -1,0 +1,56 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 219713}
+{IBTROZI™, Taletrectinib}
+
+Table 92. Predicted Cmax and AUC Ratio of Drug-Drug Interactions With a Single Dose of
+Taletrectinib 600 mg as a Victim in Western Healthy Subjects
+
+Categories Perpetrator Cmax Ratio ANUS? Study Type
+Ratio
+1.76 3.28 Observed*
+Be 1.45 2.65 Simulated*
+Strong CYP3A inhibitor Itraconazole 200 mg QD 0.83 081 Sim/Obs
+TS} 3.44 Simulated
+Fluconazole 200 mg QD 1.24 1.91
+Moderate CYP3A inhibitor | Erythromycin 500 mg TID 1.25 2.10 Simulated
+Verapamil 80 mg TID 1.51 2.64
+Weak CYP3A inhibitor Cimetidine 400 mg TID lil 1.22
+0.58 0.14 Observed*
+F A oa 0.37 0.15 Simulated*
+Strong CYP3A inducer Rifampicin 600 mg QD te Tr SOE
+0.29 0.12 Simulated
+Moderate CYP3A inducer_| Efavirenz 600 mg QD 0.60 0.34 Simulated
+Weak CYP3A inducer Modafinil 200 mg QD 0.94 0.82
+
+* Studies were conducted in Chinese healthy subjects.
+Source: PBPK report ANHE1F
+
+e To predict the effects of CYP3A inhibitors and inducers on taletrectinib PK, the fraction
+metabolized by CYP3A (fm,cyp3a) 1s one of the key parameters that need to be verified in the
+taletrectinib PBPK model. The fm values of taletrectinib were determined using in vitro
+hepatocyte and chemical inhibition data. A hepatocyte metabolism study (VPT1406/2013)
+showed that the primary metabolic pathway for taletrectinib was oxidation, comprising
+approximately 52.4% of the total metabolism in human hepatocytes. This was followed by
+acetylation and N-dealkylation, accounting for approximately 17.2% and 9.2% of, the total
+metabolism, respectively. Separately, a chemical inhibition study using human liver
+microsomes (BWU202308) indicated that CYP3A4 was responsible for approximately
+94.7% of taletrectinib metabolism. Contributions from CYP2C8 and CYP2C9 were minimal,
+at 3.4% and 1.9%, respectively. These results assume that inhibition values of less than 20%
+are insignificant and considered assay noise.
+
+Given that oxidation represents approximately 82.8% of the total metabolism (100% -
+17.2% acetylation), the fm.cyp3a value for taletrectinib was calculated to be 78.4%. The
+taletrectinib PBPK model, incorporating this fmcyp3a value, reproduced the observed effects
+of itraconazole on taletrectinib exposure (Table 92), thereby confirming the adequacy of the
+fm.cyP3a value.
+
+e Itraconazole is an inhibitor of CYP3A and P-gp. Taletrectinib, on the other hand, is a
+substrate of CYP3A and P-gp. Taletrectinib exhibits low to moderate permeability (423090-
+20210624-caco2). The human ADME study showed that at least 82% of taletrectinib is
+
+370
+Version date: March 1, 2024 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5606238

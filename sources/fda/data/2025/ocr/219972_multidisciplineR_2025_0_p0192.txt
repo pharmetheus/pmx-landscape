@@ -1,0 +1,52 @@
+NDA/BLA Multi-disciplinary Review and Evaluation — NDA 219972
+
+Sevabertinib (BAY 2927088) — Version 2.0
+Source: FDA reviewer's analyses
+
+Only 13 patients remained at risk near the median, with 17 patients censored before reaching this
+point, some likely representing informative censoring. To assess the robustness of DOR
+estimates in Group D, FDA conducted three sensitivity analyses. In Sensitivity Analysis 1,
+patients censored by BICR due to new anticancer therapy (ACT) were treated as having an event
+at ACT initiation (n=4), resulting in a median DOR of 8.8 months (95% CI: 5.8, 12.6). In
+Sensitivity Analysis 2, patients censored by BICR for ongoing response after investigator-
+assessed progression were treated as having an event (n=6), resulting in a median DOR of 8.2
+months (95% CI: 5.7, 11.0). In Sensitivity Analysis 3, all patients censored by BICR for ACT,
+ongoing response, and progression after more than one missing assessment were treated as
+having an event (n=11), resulting in a median DOR of 6.8 months (95% CI: 5.2, 9.2).
+
+Although these sensitivity analyses may represent conservative scenarios, the results suggest that
+the DOR estimate is sensitive to additional events or censoring and should be interpreted with
+caution. Additional follow-up data would help confirm the durability of response and provide a
+more stable estimate of median DOR.
+
+While the Applicant presents PFS results as supportive, given the single arm nature of the trial,
+the results of time-to-event endpoints in the absence of a comparator arm are challenging to
+interpret and are considered descriptive.
+
+Dose/Dose Response
+
+Data and the Applicant’s Position:
+
+Data collected in Study 21607 were used for population PK and exposure-response analyses. The
+results of these analyses are summarized in Section 6.3.2.
+
+The FDA’s Assessment:
+Refer to Section 6.3.2.
+
+Durability of Response
+
+Data and the Applicant’s Position:
+
+See discussion of DOR as aforementioned under Secondary and other relevant endpoints.
+The FDA’s Assessment:
+
+FDA agrees with the Applicant’s position. See the preceding section for the updated DOR
+results.
+
+191
+Version date: March 1, 2024 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5697816

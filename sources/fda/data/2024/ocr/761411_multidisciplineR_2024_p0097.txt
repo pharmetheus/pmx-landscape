@@ -1,0 +1,50 @@
+BLA Multidisciplinary Review and Evaluation
+BLA 761411
+Niktimvo (axatilimab-csfr)
+
+of CRs whether there is something else causing the non-cGVHD abnormality of lungs that
+causing abnormal low FEV1 at baseline.
+
+) (b) (6)
+
+For the 2 patients © on Day 141 and
+on Day 141] with CRs but missing PFTs at Study Day 141, the Applicant did follow the NIH
+2014 Response criteria that allow use of lung score in the absence of PFTs to determine CR in
+lungs. However, both of these patients had baseline lung involvement of cGVHD with abnormal
+low FEV1, and the patients’ FEV1 results were missing at Study Day 141 postbaseline visits and
+no normal FEV1 results at interim visits. It might not be reasonable to call a CR in the lungs at
+Study Day 141 visit when the patient’s FEV1 was missing and no normal FEV1 at interim visits.
+It might be called as “Unknown” or “No Change” for the response in lungs at Study Day 141
+visit.
+
+As per the NIH 2014 cGVHD criteria, “Complete response is defined as resolution of all
+manifestations in each organ or site”. “The Working Group recommends that skin, mouth, liver,
+upper and lower Gl, esophagus, lung, eye, and joint/fascia be considered in evaluating overall
+response.” (Lee, et al. 2015). For the cGVHD manifestation of abnormal low FEV1 in lung, the
+Applicant has not provided data to suggest a resolution of the manifestation of abnormal low
+FEV1 in lung at the Study Day 141 or at any postbaseline visits. Therefore, FDA adjudication for
+these 2 patients © in the group of Axatilimab 0.3 mg/kg IV Q2W
+and in the group of Axatilimab 3 mg/kg IV Q4W] would be no CR
+in lungs at the Study Day 141 visit and no CR as the overall response.
+
+FDA adjudicated dates of first response for those responding subjects in the Study AGAVE-201
+and confirmed that the variable FSTRSDT in adtte.xpt and adtte2.xpt submitted 12/28/2023
+provides the correct date of first response for these responding subjects, and that this is
+equivalent to STARTDT for duration of response (DOR) parameter codes (e.g., DOR2). FDA also
+confirm that the variable RSPF6CFL in adtte.xpt and adtte2.xpt submitted 12/28/2023 identifies
+the 59 subjects with first response within the first 6 cycles of therapy.
+
+The Applicant proposed using the randomized population as the denominator, but for a single-
+arm trial, the denominator should be all treated patients.
+
+Table 24 below shows the results of the primary efficacy endpoint of this Study AGAVE-201
+
+that was the ORR within the first 6 cycles of treatment, as adjudicated by FDA, using the 2014
+NIH Consensus Development Project on Clinical Trials in cGVHD (Lee et al 2015).
+
+96
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA. The FDA's position is highlighted in gray.
+
+Reference ID: 5429649

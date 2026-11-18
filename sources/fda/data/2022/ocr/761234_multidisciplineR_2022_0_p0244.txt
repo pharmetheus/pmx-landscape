@@ -1,0 +1,89 @@
+NDA/BLA Multi-discipl
+Opdualag™ (nivoluma
+
+inary Review and Evaluation {BLA 761234}
+b and relatlimab-rmbw)
+
+Bioanalytical method
+review summary
+
+Validation of method MTD 021 was adequate for determination of bms-
+986016 in human serum.
+
+Bioanalytical method
+validation report
+name, and
+amendments
+
+Validation of a chemiluminescent assay to measure BMS-986016 in
+human serum
+
+Report No.: 930119405 4.0, Addendum 01 (additional stability
+assessment), Addendum 02 (additional assessment of selectivity in
+disease samples), Addendum 03 (evaluation the effect of co-
+medications nivolumab (BMS-936558) and ipilimumab (BMS-734016)
+on the quantitation of BMS-986016 and to evaluate storage at -80°C for
+at least 1166 days)
+
+Method description
+
+This ELISA technology utilizes a chemiluminescent substrate that reacts
+with horseradish peroxidase conjugate to generate a luminescent signal
+that is proportional to the concentration of BMS-986016 in the serum.
+Briefly, this method uses a monoclonal antibody specific for BMS-
+986016 as the capture antibody, and uses BMS-986016 as the reference
+standard. The standards, quality controls, and validation samples in
+neat human serum are diluted to the minimum required dilution (MRD)
+of 50 (i.e., 2% human serum) and then added to the ELISA plate. The
+captured BMS-986016 is detected using a biotinylated monoclonal
+antibody specific for BMS-986016, followed by NeutrAvidin conjugated
+with horseradish peroxidase (NeutrAvidin-HRP). A luminol-based
+substrate specific for peroxidase is added and the resulting
+chemiluminescence is measured on a microplate reader.
+
+Materials used for
+calibration curve &
+concentration
+
+BMS-986016 drug product: lot No. 3C83978
+Calibrator concentrations: 50,000 (anchor), 6,400 (anchor), 3,200,
+2,500, 1,600, 800, 400, 200, 100, and 50 ng/mL
+
+Validated assay
+range
+
+50 (LLOQ) — 3200 (ULOQ) ng/mL
+
+Material used for
+QCs & concentration
+
+BMS-986016 drug product: lot No. 3C83978 and AACO467
+QC concentrations: 50 (LLOQ), 150 (LQC), 500 (MQC), 2400 (HQC), 3200
+(ULOQ), 500,000 (dilution QC) ng/mL
+
+Minimum required
+dilutions (MRDs)
+
+1:50
+
+Regression model &
+
+Four-parameter (4PL) Marquardt with 1/Y* weighting
+
+weighting
+Validation Method Validation Summary Acceptability
+Parameters
+Calibration curve No of standard calibrators from LLOQ | 8 Yes
+performance during | to upper limit of quantitation (ULOQ)
+accuracy & precision | Cumulative accuracy (%bias) from -4.0 to 3.8% Yes
+
+LLOQ to ULOQ
+
+243
+Version date: January 2020 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “The Applicant’s Position” are completed by the Applicant
+and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 4955210
+

@@ -1,0 +1,118 @@
+NDA/BLA Multi-disciplinary Review and Evaluation Biologics License Application 761400
+
+linvoseltamab
+
+Final Model Parameters
+
+Summary
+
+Acceptability
+[FDA’s comments]
+
+Model Structure
+
+Logistic regression analysis
+
+Model Parameter Estimates
+
+Table 70 for ORR
+
+Model Evaluation
+
+For all sub-cuts of the analysis data
+(Phase 1 only, Phase 2 only, Phase 2 +
+Phase 1 200 mg cohort, Phase 1 +
+Phase 2) the OR for a 200 mg dose of
+linvoseltamab is predicted to be 3.67 to
+5.06 times higher than in patients
+receiving a 50 mg dose of linvoseltamab
+when response is grouped by
+sCR+CR+VGPR+PR, and 1.57 to 3.58
+times higher when response is grouped
+by sCR+CR
+
+For the TTE efficacy analyses across
+the 3 data sub-cuts (phase 2 only, phase
+2+ phase 1 200 mg cohort, and phase 1
++ phase 2), the data showed a range of
+approximately 43.7% to 49.5% reduction
+in risk to progression or death based on
+the multivariate COXPH analysis of the
+PFS endpoint when comparing the 200
+mg to the 50 mg cohorts (across the
+CAVGAVG and CAVGWK14 efficacy
+exposure metrics), and a range of
+approximately 26.2% to 33.8% lower risk
+to die at the 200 mg relative to the 50
+mg cohort when assessing the OS
+endpoint.
+
+DOR was not associated with any
+exposure metric however may be related
+to the health status of the patients in
+terms of a baseline RBC associated with
+lower hazard).
+
+Covariates and Clinical
+Relevance
+
+For ORR, besides linvoseltamab
+exposure, other covariates were
+baseline levels of monocytes, soluble
+BCMA, and erythrocytes, and whether
+the patients had plasmacytoma.
+
+For PFS, covariates relating to
+increased disease burden and tissue
+destruction (plasmacytoma, baseline
+sBCMA, serum M protein baseline and
+baseline LDH) were associated with
+significantly higher hazard ratios, while
+increased baseline RBC and drug
+concentration (contrasting the 200 mg
+vs 50 mg cohorts) showed significantly
+lower hazard ratios.
+
+The E-R efficacy analysis
+was limited by the use of
+total drug concentrations
+rather than free drug
+concentrations and potential
+confounding with selected
+exposure metrics. The E-R
+efficacy analysis is
+considered exploratory and
+E-R efficacy conclusions
+remain uncertain.
+
+The Applicant's E-R efficacy
+analysis does not accurately
+characterize ORR or OS.
+The Applicant's models
+predicted higher odds ratios
+(ORs) for objective response
+and hazard ratio for OS
+compared to the observed
+clinical results.
+
+The Applicant's predicted
+hazard ratio was not
+significantly different than
+the observed hazard ratio for
+PFS in the 5/25/200 mg
+cohort compared to the
+5/25/50 mg cohort.
+According to the Applicant's
+analysis, PFS improved with
+higher CAVGWK14, higher
+baseline red blood cell
+count, and older age.
+
+198
+
+Version date: August 2023 (ALL NDA/BLA reviews)
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are
+completed by the Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5432800
+

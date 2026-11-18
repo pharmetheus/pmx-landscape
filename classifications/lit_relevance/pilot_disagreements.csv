@@ -1,0 +1,3 @@
+"source","item_id","value_development","method","value_api","note"
+"PubMed","37470445","not_own_fit","ai","own_fit","The authors fit a linear model to repeated log viral density measurements, estimating drug effects on clearance rate with a Bayesian hierarchical (mixed-effects) approach in a pharmacometric platform trial; this is own pharmacodynamic modelling with drug exposure (treatment) and response."
+"PubMed","40485284","not_own_fit","ai","own_fit","The authors built exposure-response logistic regression models on their own pooled phase 2/3 patient data, using exposures from a population PK analysis. This is not a mixed-effects model, so the call is borderline, but it is pharmacometric exposure-response model fitting."

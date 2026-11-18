@@ -1,0 +1,53 @@
+BLA 761123 Multi-disciplinary Review and Evaluation
+Saphnelo (anifrolumab-fnia) for adults with SLE
+
+There were 9 patients on the anifrolumab 300mg arm and 20 on the placebo arm that had
+missing data at week 24. Of these, 19 of them failed to meet the no excess medication and OCS
+tapering criteria and are considered non-responders. Therefore, based on the definition of the
+primary endpoint which incorporates use of excess medication and OCS tapering, only 10
+patients, 1 on anifrolumab 300 mg and 9 on the placebo arm, are considered as having missing
+data.
+
+Table 30 below displays the number of additional placebo responders needed to tip results per
+additional number of added responders on anifrolumab. For example, if we consider the single
+patient on anifrolumab 300mg with missing data to remain a non-responder, the results do not
+tip, i.e., does not change the conclusion, until at least 6 of the 9 placebo patients with missing
+data are responders. If we consider the single patient in the anifrolumab 300mg arm to be a
+responder, the results do not tip until at least 7 of the 9 placebo patients are responders.
+
+To consider if such scenarios are plausible, we note that among placebo completers at Week
+24, the response rate is 20.7%, and the estimated response rate among anifrolumab completers
+is 37.8%. All scenarios that result in tipping the conclusions would require at least 67% of the
+placebo subjects with missing data to be responders. Such a response rate would represent
+almost a doubling of the estimated response rate of anifrolumab 300mg and over three times
+the response rate observed among placebo completers. Such an increase in response rates for
+placebo patients who do not have week 24 data seems implausible, and we therefore consider
+these results to be robust to missing data assumptions.
+
+Table 30. Study 1013: Tipping point scenarios for SRI-4 + OCS tapering response at week 24
+
+# of added
+anifrolumab
+responders
+
+# of added te) 1
+
+placebo 5 Ss Ss
+
+responders [6 NS Ss
+7 NS NS
+8 NS NS
+9 NS NS
+
+Source: Statistical Reviewer's Analysis
+S: Nominally significant; NS: Not significant; alpha=0.05 was used
+
+BICLA without OCS tapering at Week 52
+
+There were 12 patients on the anifrolumab 300mg arm and 33 patients on the placebo arm that
+had missing week 52 data. Of these, 13 failed to meet the no excess medication requirements
+
+92
+Version date: October 12, 2018
+
+Reference ID: 4834322

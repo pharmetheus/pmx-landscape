@@ -1,0 +1,90 @@
+BLA Multi-disciplinary Review and Evaluation {Biologics License Application (BLA) 761324
+
+{epcoritamab}
+
+Table 89: Summary of method parameters of ECLIA-139 assay used in GCT3013-01 and
+
+GCT3013-04
+Parameters GCT3013-01 and GCT3013-004 (Report GNM012EL-170123-C,
+Report GNM20899-20899X-A)
+Analyte Epcoritamab
+Method ECLIA-139
+Anticoagulant K2EDTA plasma
+Range 10.0 to 1000 ng/mL, with anchor points at 1.00 ng/mL, 7.50
+
+ng/mL and 1500 ng/mL
+
+Calibrators Concentrations
+
+10, 25, 100, 250, 500, 750, 900, 1000 ng/mL
+
+Anchor points
+
+1, 7.5, 1500 ng/mL
+
+Minimum Required Dilution
+
+1:20
+
+Regression model and weighting
+
+4-parameter logistic with 1/Y? weighting factor
+
+Quality Controls
+
+30, 150, and 750 ng/mL, and diluted QCs 7500 ng/mL at 20x and
+40x
+
+Table 90: Summary of performance of ECLIA-139 assay in GCT3013-01
+
+Parameters GCT3013-01 (Report GNM012EL-170123-C)
+Inter-assay Precision (%CV) <10%
+
+Inter-assay Accuracy 1.1% to 1.9%
+
+Diluted QCs [%Accuracy (%CV)] -1% to 1% (<11%)
+
+Analytical run pass rate 70%
+
+Mainly rejected for not meeting QC acceptance criteria
+
+Reanalyses 9% of study samples were reanalyzed mainly as original values
+were >ULOQ.
+Parallelism 10 patient samples at Cmax range diluted serially to 5
+
+concentrations. For each patient sample, CV of the back-
+calculated concentrations were <30%
+
+Incurred Sample Reanalysis (ISR)
+
+Of the 501 samples reanalyzed for ISR, 79% were within 30% of
+original values
+
+Sample storage
+
+The maximum storage period at -70 °C between blood sampling
+and sample analysis was 819 days. Therefore, 393 samples in the
+Escalation phase and 3 samples in the Expansion phase that were
+analyzed outside the validated storage stability period and were
+not reported.*
+
+* from Report GNMO012EL-170123-C, Amendment 1
+
+Table 91: Summary of performance of ECLIA-139 assay in GCT3013-04
+
+Parameters GCT3013-04 (Report GNM20899-20899X-A)
+Inter-assay Precision (%CV) <9%
+Inter-assay Accuracy -1.2% to 1.7%
+Diluted QCs [%Accuracy (%CV)] 1.1% (<9%)
+Analytical run pass rate 80%
+Mainly rejected for not meeting QC acceptance criteria
+
+262
+
+Version date: June 2022 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5176690
+

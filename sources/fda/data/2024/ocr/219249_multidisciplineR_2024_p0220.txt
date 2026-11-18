@@ -1,0 +1,64 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 219249}
+{Inavolisib}
+
+Figure 16: Modeling and simula
+
+Model Development
+
++ Physicochemical properties based on in vitro measurements
+, scalar, Cl,, hepatic Cl, all based on mass balance study
+
+lermoces Weponena bined + Enzyene mhibition and induction parameters based an experiments
+
+Simple CL, input for renal elimination
+
+Model confirmation comparing simulated Observed dataset
+
+inavolisib PK profile and exposure metrics after + Inavolisib IV 0.1 mg single dose
+IV and PO dosing with observed data from + Inavolisib PO 9 mg single dose
+mass balance study
+
+Model Validation
+
+Model validation comparing simulated
+‘avolisib PK profile after single and multiple
+dosing with observed data from Phase 1a
+monotherapy cohort
+
+Observed dataset:
++ Inavolisib PO 6 mg, 9 mg, and 12 mg
+multiple dosing
+
+Observed dataset:
+
++ Inavolisib PO 9 mg multiple dosing
+
++ Palbociclib PO 125 mg multiple
+dosing
+
+Model validation comparing simulated
+palbociclib and inavolisib PK profile after single
+and multiple dosing with observed data from
+Phase 1b combination cohort
+
+Model Application
+
+Prediction of CYP3A4-mediated ODI between inavollsib 9 mg and midazolam:
+
+Simulation of AUC and C,,,, of midazolam in the presence and absence of inavolisib to calculate GMR
++ Scenario 1: CYP3A4 TDI only
+
++ Scenario 2: CYP3A4 induction only, using all three different hepatocyte lots/donors
+
++ Scenario 3: CYP3A4 TDI + induction, using all three different hepatocyte lots/donors
+
+Source: Figure 1 in the PBPK report 129287
+
+212
+
+Version date: June 2022 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5460147

@@ -1,0 +1,53 @@
+NDA 216951
+Jesduvrog (daprodustat)
+
+were excluded. Additionally, the effect estimates for CV harms (i-e., hazard ratios for mortality,
+thrombosis, thromboembolism, heart failure using the same methodologies found in this review)
+were not different when omitting participants who received EU darbepoetin. The sample size
+(n=29) of US darbepoetin-treated subjects precluded a reliable estimate of risks comparing
+daprodustat to US darbepoietin in the peritoneal dialysis subgroup or EU-US darbepoetin
+comparisons. However, there were no other clinical observations of efficacy or safety in
+ASCEND-D or ASCEND-ND which suggest EU and US darbepoetin alfa have different clinical
+properties.
+
+7.6. Safety Results
+
+7.6.1. Safety Results, ASCEND-ND
+7.6.1.1. MACE
+
+7.6.1.1.1. Overview
+
+Results for the pre-specified primary analysis of time to first MACE are shown in Table 71. The
+HR (95% CI) from the primary analysis (on-study analysis) for time to first MACE was 1.03
+(0.89, 1.19) comparing daprodustat to darbepoetin alfa. The upper bound of the 95% CI was
+lower than the prespecified risk margin of 1.25, i.e., the study ruled out a relative risk for MACE
+greater than 1.25. Kaplan-Meier survival curves for MACE overlapped throughout the follow-up
+period (Figure 27). The IRD was 0.2 events/100 PY (95% CI -1.3, 1.8) between daprodustat and
+darbepoetin alfa. The incident events of the MACE (daprodustat 378/1937 [10.9 events/100 PY],
+darbepoetin alfa 371/1935 [10.6 events/100 PY]) composite endpoint comprised mostly all-cause
+mortality (daprodustat 252/378, darbepoetin alfa 259/371), followed by nonfatal MI (daprodustat
+96/378, darbepoetin alfa 91/371), and nonfatal stroke (daprodustat 30/378, darbepoetin alfa
+21/371).
+
+Because both co-primary endpoints (mean change in Hb and time to first MACE) ruled out their
+respective risk margins, the principal secondary endpoints were tested for superiority by
+comparing the one-sided superiority p-value against the rank-associated alpha derived from the
+Holm-Bonferroni method. None of the principal secondary endpoints (MACE, MACE or
+thromboembolic events, MACE or HHF, progression of CKD) were significant (results not
+shown).
+
+Tipping point sensitivity analyses showed that the MACE analysis result (HR 1.09; 95% CI 0.4,
+1.26) tipped, i.e., did not rule out the 1.25 risk margin, when censored subjects in the daprodustat
+arm were assumed to have a (worse) hazard rate of 1.7 times that observed among subjects in the
+daprodustat arm and censored subjects in the darbepoetin alfa arm were assumed to have a
+(better) hazard rate of 0.4 times that observed among subjects in the darbepoetin alfa arm. For
+more details (see Section 17.1). A less extreme assumption (daprodustat 1.7, darbepoetin alfa
+0.6) resulted in a HR of 1.08 (95% CI 0.93, 1.25) and did not tip the MACE results. Note that
+assuming a hazard rate factor of 1.0 in each arm is similar to the non-informative censoring
+assumption. In summary, the primary analysis results for MACE, assuming non-informative
+censoring, was tipped only under fairly extreme assumptions of daprodustat having more MACE
+
+124
+Integrated Review Template, version 3.0 (05/25/2022)
+
+Reference ID: 5119138

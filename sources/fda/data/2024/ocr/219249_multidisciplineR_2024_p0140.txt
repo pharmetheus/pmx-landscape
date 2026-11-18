@@ -1,0 +1,70 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 219249}
+{Inavolisib}
+
+the inavolisib treatment arm and 6% on the placebo arm.
+
+The most common significant adverse events in GO39374 were neutropenia and
+hyperglycemia.
+
+Treatment Emergent Adverse Events and Adverse Reactions
+
+Data:
+Table 36: Applicant - Study WO41554: Overview of Adverse Events, Safety Analysis Set
+Inavo+PalbotFulv Pbo+Palbo+Fulv
+N= 162 N= 162
+n(%) n(%)
+
+‘All-Grade AEs 160 (98.8%) 162 (100.0%)
+Grade 1 3(19%) 6(3.7%)
+Grade2 12 (7.4%) 21(13.0%)
+Grade 3 109 (67.3%) 96 (59.3%)
+Grade 4 30 (18.5%) 37 (22.8%)
+Grade 5 (Deaths due to AEs) 6 (3.7%) 2(12%)
+Grade 3-4 AEs 139 (85.8%) 133 (82.1%)
+Grade 3-5 AEs 145 (89.5%) 135 (83.3%)
+‘SAEs 39 (24.1%) 17 (10.5%)
+‘Treatment’ Discontinuation due to AE 10(6.2%) 1(0.6%)
+Dose Interruption’ due to AEs 112 (69.1%) 56 (34.6%)
+Dose Reduction® due to AEs 23 (14.2%) 5 (3.1%)
+
+*Discontinuation from inavolisib. "Dose interruption of inavolisib/placebo. ‘Reduction in dose of inavolisib/placebo.
+Source: t_ae_cte_ SAS_29SEP2023_41554;t_ae_SER SAS 29SEP2023_41554;t_ae_DSCIVL_SAS_29SEP2023 41554;t_ae_DSIMVL_SAS 29SEP2023 41554;
+t_ae_DSRIV_SAS 29SEP2023 41554; Dataset: ADaM: ADAE
+
+Table 37: Applicant - Study GO39374: Overview of Adverse Events, Safety Analysis Set
+
+Inavo 9 mg +
+Inavo+Palbo+ | panos rulv(arm | 'nave9me+Palbo + All Patients (Arms A-F)
+Letro (Arm B) My Fulv + Metf (Arm F) {hes190)
+(N=33) (w=20) (N=20) n(%)
+n(%) nee) n(%)
+
+‘All-Grade AEs 33 (100%) 20 (100%) 19 (95.0%) 188 (98.9%)
+Grade 1 1 (3.0%) 0 0 10 (5.3%)
+Grade 2 2 (6.1%) 3 (15.0%) 2 (10.0%) 52 (27.4%)
+Grade 3 22 (66.7%) 15 (75.0%) 14 (70.0%) 104 (54.7%)
+Grade 4 8 (24.2%) 2 (10.0%) 3 (15.0%) 19 (10.0%)
+Grade 5 (Deaths due to 0 0 0 3 (1.6%)
+AEs)
+Grade 3-4 AEs 30 (90.9%) 17 (85.0%) 17 (85.0%) 123 (64.7%)
+Grade 3-5 AEs 30 (90.9%) 17 (85.0%) 17 (85.0%) 126 (66.3%)
+SAEs 14 (42.4%) 6 (30.0%) 8 (40.0%) 52 (27.4%)
+Treatment™ 2 (6.1%) 2 (10.0%) 2 (10.0%) 7 (3.7%)
+Discontinuation due to AEs
+Dose Reduction/ 25 (75.8%) 17 (85.0%) 15 (75.0%) 7123 (64.7%)
+Interruption” due to AEs
+
+*Discontinuation from inavolisib; "Dose reduction/ interruption of inavolisib
+ae_ctc_CSR_SE_27MAR2023_39374; t_ae_pt_CSR_GDCDMOD_SE_27MAR2023_39374; t_ae_oview_CSR_SE_27MAR2023_39374;
+Dataset: ADaM: ADAE
+
+Table 38: Applicant - Adverse Drug Reactions (> 10% with > 5% [All Grades] or > 2%
+[Grade 3-4] Higher Incidence in the Inavolisib Arm) in INAVO120
+
+139
+Version date: June 2022 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5460147

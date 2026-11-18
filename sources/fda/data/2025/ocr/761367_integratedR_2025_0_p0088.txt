@@ -1,0 +1,63 @@
+BLA 761367
+Andembry / garadacimab
+
+Figure 11. Hepatocellular Drug-Induced Liver Injury Screening Plot, Safety Population, Study 3002
+
+af
+
+Cholestasis Potential Hy’s Law
+
+‘Maximum Post-baseline
+
+Temple's Corollary
+
+. le
+'
+'
+1
+4
+
+3 a
+‘Maximum Post-baseline ALT or AST (XULN)
+© Treatment Naive = Non Treatment Naive
+
+Source: adlb.xpt; software: R.
+
+Each data point represents a patient plotted by their maximum ALT or AST versus their maximum total bilirubin values in the
+postbaseline period.
+
+A potential Hy's Law case (red circle) was defined as having any postbaseline total bilirubin equal to or exceeding 2x ULN within
+30 days after a postbaseline ALT or AST equal to or exceeding 3x ULN, and ALP less than 2x ULN (note ALP values are not
+circled). All patients with at least one postbaseline ALT or AST and bilirubin are plotted. The within-30-days analysis window rule
+does not apply to cholestatic DILI and temple's corollary cases.
+
+In addition to central laboratory data, local laboratory data may be included in the analysis, if applicable.
+
+Abbreviations: ALP, alkaline phosphatase; ALT, alanine aminotransferase; AST, aspartate aminotransferase; DILI, drug-induced
+liver injury; ULN, upper limit of normal
+
+7.6.3. Safety Results, Trial 2001
+
+Treatment Period 1 of trial 2001 was a phase 2, randomized, double-blind, placebo-controlled,
+parallel-group, dose-ranging trial in 44 adults with HAE. The trial randomized 32 subjects to one
+of three dosage regimens (75 mg Q4 weeks, 200 mg Q4 weeks, 600 mg Q4 weeks) and assigned
+an additional six subjects to open-label garadacimab 400 mg Q2 weeks and an additional six
+subjects with Type III HAE to open-label garadacimab 600 mg Q4 weeks. A total of eight
+subjects received the proposed dose of garadacimab 200 mg Q4 weeks. See Section 15.3.1 for
+details of the study design. Overall, the safety results from Treatment Period 1 of trial 2001 were
+consistent with those of trial 3001; no new risks were identified.
+
+7.6.4. 120-Day Safety Update
+
+The Applicant submitted a 120-day safety update for this BLA with a data cutoff of June 13,
+2023, that consisted solely of data from study 3002, the only ongoing clinical investigation.
+Updated safety data from study 3002 included no deaths, one drug rash SAE due to dipyrone,
+and one treatment discontinuation due to an ISR. The ISR consisted of a large itchy wheal,
+starting within 24 h of garadacimab administration, that was mild in severity and resolved after
+5 days. Commonly reported TEAEs were generally consistent with the safety profile observed to
+date. The safety update did not identify any new or concerning safety signals for garadacimab.
+
+64
+Integrated Review Template, version 3.0 (05/25/2022)
+
+Reference ID: 5458438

@@ -1,0 +1,66 @@
+NDA Multi-Disciplinary Review and Evaluation
+
+NDA 219876
+Dordaviprone
+PARAMETER l Value [Reference
+Physicochemical and Binding Parameters
+MW (gimol) 386.49 Investigator’s Brochure
+Log P 3.09 Report 173047-PartA
+Compound type Diprotic Base _| investigator's Brochure
+pKa 6.76,4.99 Report 173047-Part
+BP 0.778 Final Report ONC201-106
+fu 0.193 ma 0.0294 Report ONC201-NCA-106
+fu - 0.386 mgit_ 0.0303
+fu = 1.932 malt 0.0389
+fu 3.865 mal 0.0412
+fu 7.730 mgiL 0.0492
+Main binding protein AAG Report ONC201-NCA-101
+Absorption Model - ADAM Model
+fugse 0.993 Retrograde model
+Caco-2 Pago (x10* cm/s) 27.01 Report C19208.
+Calibrator (Metoprolol) Pass 33.27
+(x10* emis)
+Penman (pred) (x10 cmis) 374 Predicted
+Formulation type Immediate Release _| investigator's Brochure
+Solubility data User-defined pH-
+solubility profile
+‘Solubility (mg/mL) pH 1 622 ke-flask Solubil
+‘Solubility (mg/mL) pH 4 924 Shake-flask Solubility Report
+‘Solubility (mg/mL) pH 4.5 98.6 Shake-flask Solubility Report
+‘Solubility (mg/mL) pH 5 6.02 Ks bil
+‘Solubility (mg/mL) pH 6 0.26 Shake-flask Solubility Report
+Kove neues 458 Simeyp predicted
+Kouaon 2.58 Simcyp predicted
+Precipitation Model Model 2
+oe Rate Constant 4 Simcyp default
+Critical Supersaturation Ratio 10 Simcyp default
+Distribution Model - Minimal PBPK Model
+Veo (Ukg) 111 Predicted (Method 3)
+in (17h) on Fitted parameters to recover
+[ow (17h) 0.15 observed plasma concentration
+Vens (UG) S50E.05 versus time profiles in Clinical Study
+Elimination Parameters
+CUF (Uh) 29 Clinical Study 103
+fmevesas 08 Adjusted fm inputs in retrograde
+calculations to recover Clinical Study
+103 inerocion results (AUC and
+fmovezos 02 sbsenee of itraconazole)
+CYP3A4 Clix (uL/min/pmol) 1.17 Retrograde model; fmCYP3A4,0.8.
+CYP2D6 CL: (yL/minipmol) 6.93 Retrograde model; fmCYP2D6.0.2.
+CLe (Uh) 0.00 Estimated as zero based on findings
+from Clinical Study 106
+Interaction Parameters
+CYP3A4 K. (uM) 20.24 Report RPTO3773
+CYP2C8 Ki (uM) 31.2 Report RPTO3773
+CYP2D6 K. (uM) 27.12 Report RPTO3773
+| fume 0.93 Predicted
+LP-ap K: (uM) 322 Report RPTO3775
+Source: Table 8 in the PBPK report chmx3a-b
+225
+
+Version date: March 1, 2024 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5638121

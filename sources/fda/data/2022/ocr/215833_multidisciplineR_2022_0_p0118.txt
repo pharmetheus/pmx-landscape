@@ -1,0 +1,116 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 215833}
+
+{Tradename / lutetium (*7’Lu) vipivotide tetraxetan}
+
+Multiple imputation under
+
+Hazard in BSC/BSoC arm
+
+0.76 (0.64, 0.91)
+
+best BSC/BSoC patients based on best 20% BSC/BSoC
+
+patients
+Multiple imputation under Hazard remains unchanged 0.63 (0.53, 0.76)
+non-informative censoring after censoring
+
+Multiple imputation under
+informative censoring
+
+Hazard decrease by 38% in
+BSC/BSoC arm after
+censoring*
+
+0.68 (0.56, 0.82)
+
+Tipping point 1: largest upper
+95% Cl
+
+Hazard decrease by 99% in
+BSC/BSoC arm after
+censoring*
+
+0.84 (0.7, 1.00)
+
+Tipping point 2: extreme case
+
+Hazard decrease by 27% in
+BSC/BSoC arm after
+
+0.66 (0.55, 0.79)
+
+scenario
+
+censoring*
+TPES (PFS-FAS) Scenario HR (99.2% Cl)
+Analysis per protocol Censoredas it is 0.4 (0.29, 0.57)
+Extreme case The seleted extreme case 0.42 (0.3, 0.6)
+
+Multiple imputation under
+best patients
+
+Hazard in BSC/BSoC arm
+based on best 20% patients
+across both arms
+
+0.77 (0.55, 1.07)
+
+Multiple imputation under
+best BSC/BSOC patients
+
+Hazard in BSC/BSoC arm
+based on best 20% BSC/BSoC
+patients
+
+0.56 (0.4, 0.79)
+
+Multiple imputation under
+non-informative censoring
+
+Hazard remains unchanged
+after censoring
+
+0.4 (0.29, 0.56)
+
+Multiple imputation under
+informative censoring
+
+Hazard decrease by 60% in
+BSC/BSoC arm after
+censoring*
+
+0.54 (0.38, 0.77)
+
+Tipping point 1: largest upper
+99.2% Cl
+
+Hazard decrease by 85% in
+BSC/BSoC arm after
+censoring*
+
+0.71 (0.5, 1.01)
+
+Tipping point 2: extreme case
+
+Hazard decrease by 11% in
+BSC/BSoC arm after
+censoring*
+
+0.42 (0.3, 0.59)
+
+Source: Applicant-provided Summary of Clinical Efficacy, Appendix 1, Tables 29-30
+*Risk of event remains unchanged after censoring in the investigational arm
+
+The Applicant’s sensitivity analyses increased and decreased survival chance for OS and rPFS for
+both treatment arms by varying levels. For example, the extreme case analysis considered all
+
+117
+
+Version date: January 2020 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 4957011
+

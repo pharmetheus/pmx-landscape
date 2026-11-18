@@ -1,0 +1,62 @@
+NDA 219083
+
+MYQORZO (aficamten)
+
+Table 106. Summary of Method Performance for Determination of CK-3834282 and CK-3834283 in
+Human Plasma (CA29736-01)
+
+Bioanalytical Method | Validation of an LC-MS/MS Method for the Determination of CK-3834282 and CK-3834283
+
+Validation Report in Human Plasma (EDTA)
+
+Name, Amendments, | Method Validation Report CA29736-01 Amendment 3
+
+and Hyperlinks
+
+Method Description} An aliquot of human plasma (EDTA) containing the analyte and internal standard is extracted using
+a liquid-liquid extraction procedure. The extracted samples are analyzed by Waters Acquity UPLC
+I-Class System (SM-FTN) equipped with AB SCIEX Triple Quad 6500 triple quadrupole mass
+spectrometer using an ESI source. Positive ions are monitored in the MRM mode.
+
+Materials Used for CK-3834282,
+
+Standard Calibration | Cytokinetics, Inc, Lot 04
+
+Carve and CK-3834283,
+
+Concentration Cytokinetics, Inc. Lot 02
+Calibration standards: 1.00. 2.00. 5.00. 10.0, 20.0. 50.0. 150, 420. and 500 ng/mL
+Intemal standard:
+CK-3978133,
+Cytokinetics, Inc. Lot 04
+
+Validated Assay Both analytes: 1.00 to 500 ng/mL
+
+Range
+
+Material Used for CK-3834282,
+
+QCs and Cytokineties, Inc, Lot 04
+
+Concentration CK-3834283,
+
+Cytokinetices. Inc, Lot 02
+QC concentration levels: 1.00 (LLOQ), 3.00 (LQC). 25.0 (MQC), and 375 (HQC) ng/mL
+
+Intemal standard:
+
+CK-3978133,
+
+Cytokineties, Inc, Lot 04
+‘Minimum Required NR
+Dilutions
+Source and Lot of
+Reagents
+Regression Model Linear, weighted (1/concentration?)
+and Weighting
+
+162
+
+Integrated Review Template, version 4.0 (11/1/23)
+
+Reference ID: 5715605

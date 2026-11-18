@@ -1,0 +1,63 @@
+NDA/BLA Multi-disciplinary Review and Evaluation NDA 221075
+
+Iberdomide (ZENBEXUS)
+Calibration Curve | Accuracy (% -2.9% to 5.8%
+Performance bias)
+Precision (% CV) _| <7.4%
+QC performance | Accuracy (% -3.3% to 2.8%
+bias)
+Precision (% CV) _| <85.1%
+Reproducibility ISR performed for 11% (84/768) of samples; 99% passed
+Sample Stability | < 1608 days @ -70° C
+
+19.5.2. Model Assessment
+
+Pharmacometrics analyses were conducted to evaluate iberdomide dose selected for adult
+patients with relapsed or refractory multiple myeloma (RRMM). To achieve this goal, population
+PK (PopPK) analysis was used to characterize the PK of iberdomide as monotherapy and in
+combination with daratumumab and dexamethasone for the treatment of RRMM, and assess the
+effect of key covariates on iberdomide PK parameters. Exposure-response (ER) analysis for
+efficacy endpoints is used for RRMM patients to understand the relationship between drug
+exposure and efficacy endpoints such as MRD negative CR, and > VGPR in MRD subjects.
+Exposure-response analysis for safety endpoints is used for patients to understand the
+relationship between drug exposure and time to first occurrence of Grade >3 neutropenia, Grade
+> 3 thrombocytopenia, Grade > 3 infections and infestations, and at least 1 dose modification due
+to TEAE in MRD subject from Study CC-220-MM-002.
+
+Table 83: FDA — Anticipated Model Risk
+
+Elements Details
+
+What is the recommended iberdomide dosage for adult patients with
+RRMM?_
+
+Question of Interest
+
+e PopPK modeling to understand intrinsic and extrinsic covariates
+impact to iberdomide exposure.
+
+e ERefficacy and safety analysis to understand drug
+exposure relationship to efficacy and safety endpoints.
+
+Context of Use
+
+e Low/Moderate: Sparse PK sampling method was used in clinical
+Model Influence study. PopPK model was established on majority of sparse PK
+data to evaluate the covariate impacts,
+
+and predicted exposures under different dosing regimens.
+
+. ¢ Low/Moderate: Incorrect prediction could lead
+Decision Consequence to higher iberdomide exposures under applicant proposed dose and
+potential safety concern in adults RRMM patients.
+
+Model Risk ¢ Low/Moderate: By combining Model Influence and Decision
+Consequence.
+
+249
+Version date: February 10, 2025 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5851050

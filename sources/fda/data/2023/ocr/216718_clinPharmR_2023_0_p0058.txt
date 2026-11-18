@@ -1,0 +1,34 @@
+() (4)
+
+1.2 Model Application
+
+The PBPK analysis was used to predict the PK of omaveloxolone following 150 mg single dose
+(SD) and 150 mg once daily dose (QD) in the presence of the following CYP3A modulators:
+
+Strong CYP3A4 inhibitor, itraconazole (200 mg QD for 14 days)
+Moderate CYP3A4 inhibitor fluconazole (600 mg QD for 14 days)
+e Strong CYP3A4 inducer rifampin (600 mg QD for 14 days)
+Moderate CYP3A inducer efavirenz (600 mg QD for 14 days)
+
+The default compound models (software’s library, V18) for efavirenz, fluconazole, gemfibrozil,
+itraconazole (capsule formulation), midazolam, rifampin, and verapamil were used in the
+simulations for the respective DDIs.
+
+The virtual population model “North European Caucasian (NEC)” was used to represent both
+healthy and patient populations. For healthy subjects, ten virtual trials of similar number of
+subjects (n) with age ranges and proportion of females matching the demographics of the
+respective study/dosing groups were simulated. For patient population, ten virtual trials of
+fixed individual trial design (where height, weight, age, and albumin were matched to subjects
+
+. ss . . (b) (4)
+in clinical studies) were simulated. |
+
+All simulations
+were conducted under fasting conditions.
+
+Additional comments: The rationale or potential mechanisms for the observation of higher
+Cmax in patients compared to healthy volunteers have not been discussed by the Applicant.
+
+A list of the clinical studies used for model development and verification is shown in Figure 15.
+
+Reference ID: 5131074

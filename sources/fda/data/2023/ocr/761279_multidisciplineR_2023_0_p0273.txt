@@ -1,0 +1,55 @@
+BLA 761279 Omvoh (mirikizumab), injection
+
+Percent total error (TE) $18.7% Yes
+
+Cross-validation 15 spiked QC samples (four concentrations plus a blank, all Yes
+run-in triplicate) and 16 incurred human serum samples were
+evaluated. 100% (31/31) of samples fell within the
+pre-specified acceptance range of + 30%. The concordance
+correlation coefficient (95% Cl) was 0.99 (0.99, 1.00).
+
+Phase 1 DDI study AMBP evaluated the effect of mirikizumab on the PK of a cocktail of CYP substrates
+including caffeine, dextromethorphan, midazolam, omeprazole, and warfarin. The Applicant developed
+a bioanalytical method to support the quantitation of each analyte. The method validation reports are
+
+as follows:
+
+© Caffeine: 8386664 y
+
+e Dextromethorphan: 2100-949 |
+© Midazolam: 080459VRLC_EII_R4 ( ]
+
+© Omeprazole: 150531VRM_QIN_R1 |
+
+© Warfarin: 8331439 a]
+
+All analytes were measured using a validated bioanalytical method. Bioanalytical reports
+indicated that for each analyte, the method performance was acceptable.
+
+16.3.3. Population PK Analysis
+16.3.3.1. Executive Summary
+
+The population PK (PPK) model is generally acceptable for characterization of PK and prediction
+of exposure following the proposed 300 mg IV Q4W induction dosage and 200 mg SC Q4W
+maintenance dosage in patients with UC.
+
+Following the proposed induction and maintenance dosage, higher body weight was associated
+with lower exposure. However, the exposure difference according to body weight did not have
+a statistically significant impact on clinical efficacy or safety. No alternative dosage is
+recommended for any intrinsic or extrinsic patient characteristics in induction or maintenance
+treatment of UC.
+
+16.3.3.2. Objectives
+The objectives of the population pharmacokinetic/pharmacodynamic (PK/PD) analysis were:
+
+e@ To characterize the PK of mirikizumab in patients with ulcerative colitis;
+
+e To identify demographic factors, laboratory parameters, immunogenicity, prior and
+concomitant therapies, and disease characteristics that may influence mirikizumab
+disposition in this patient population;
+
+260
+
+Version date: October 12, 2018
+
+Reference ID: 5154774

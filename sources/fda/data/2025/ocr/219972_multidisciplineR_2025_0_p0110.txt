@@ -1,0 +1,58 @@
+NDA/BLA Multi-disciplinary Review and Evaluation — NDA 219972
+
+Sevabertinib (BAY 2927088) — Version 2.0
+Review Issue Recommendations and Comments
+
+Per population PK analysis, no dosage adjustment is required based on age
+(18 to 91 years), sex, race (27% White, 65% Asian), body weight (29 to 155
+kg), or smoking status.
+
+HER? genetic alternations: Sevabertinib treatment response was generally
+observed across HER? alterations assessed.
+
+Drug Interactions CYP3A is the primary CYP450 enzyme involved in sevabertinib
+metabolism. Sevabertinib AUC increased 2.3-fold and Cmax 1.6-fold following
+concomitant use of itraconazole (strong CYP3A4 inhibitor) 200 mg once
+daily. Sevabertinib AUC decreased by 79% and Cmax by 57% following
+concomitant use of carbamazepine (strong CYP3A inducer) 600 mg once
+daily.
+
+Sevabertinib displays a net inhibitory effect on PK of CYP3A4 substrates.
+Midazolam (CYP3A4 substrate) AUC increased 2-fold and Cmax 1.8-fold
+following concomitant use of sevabertinib 20 mg twice daily.
+
+Sevabertinib is an inhibitor of P-gp. Dabigatran etexilate (P-gp substrate)
+AUC increased 1.4-fold following concomitant use of sevabertinib 20 mg
+twice daily.
+
+Based on the above clinical DDI results, the review team agrees with the
+proposed labeling recommendations to avoid concomitant use with strong
+CYP3A inhibitors and inducers (dose reduction if concomitant use of strong
+CYP3A inhibitors cannot be avoided), revises the instructions for certain
+substrates of CYP3A4 and P-gp, and recommends additional instructions for
+moderate CYP3A inhibitors and inducers based on the anticipated drug
+interactions.
+
+e Monitor patients for increased HYRNUO-associated adverse reactions
+when used with a moderate CYP3A4 inhibitor.
+
+e Avoid concomitant use with a moderate CYP3A4 inducer.
+
+e Avoid concomitant use with certain CYP3A4 substrates where minimal
+concentration increase may lead to serious adverse reactions.
+
+e Refer to the Prescribing Information of P-gp substrates where minimal
+concentration increase may lead to serious adverse reactions.
+
+Based on the in vitro DDI results, the review team agrees with the proposed
+labeling recommendations to refer to the Prescribing Information for
+CYP1AI substrates when concomitant use of sevabertnib with these
+substrates.
+
+109
+Version date: March 1, 2024 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5697816

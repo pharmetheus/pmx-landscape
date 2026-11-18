@@ -1,0 +1,51 @@
+NDA/BLA Multi-disciplinary Review and Evaluation NDA 221075
+Iberdomide (ZENBEXUS)
+19.5.6.4. Results
+
+19.5.6.5. Can the PBPK model adequately describe the PK profiles of
+iberdomide?
+
+Yes. The model adequately described the plasma concentration-time profiles of iberdomide
+following single and once-daily oral doses of iberdomide in healthy subjects. The majority of the
+model-predicted AUC and Cmax values were within the 0.8- to 1.25-fold range of the observed
+values in healthy subjects. Greater deviations were observed between the simulated and observed
+exposure in cancer patients, likely due to the small sample size. Simulated and observed
+iberdomide PK profiles and parameters are summarized in Figure 45, Figure 46, Table 102, and
+Table 103.
+
+Figure 45: FDA — Simulated and observed mean plasma concentration -time profiles of
+iberdomide following single oral doses of iberdomide in healthy subjects
+
+0.1 mg 0.3 mg 4mg
+
+10
+
+of
+
+SystemicConcentraton (n/m)
+Systemic Concentration (g/m)
+Spstemic Concentration (rg/mt)
+
+‘Systemic Concentration (ng/ml)
+
+‘Systemic Concentration (g/t)
+Ry
+
+SytemicConcertation (ng/ml)
+
+° 2 2 6 ° 2 2 6 “ ° 2 2 a6 as
+Tame () Time () Tine (m)
+
+Closed circles are individual plasma concentration-time profiles of iberdomide (CC-220-CP-001). The green line
+represents the simulated median plasma concentration-time profiles of iberdomide: gray lines represent the
+simulated Sth and 95th geometric percentiles of the simulations.
+
+Source: Figure 7.4-1 in the PBPK report (pbpk-food)
+
+312
+Version date: February 10, 2025 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5851050

@@ -1,0 +1,57 @@
+NDA 219209
+Journavx (Suzetrigine; VX-548)
+
+fmCYP values were confirmed by two DDI study results with rifampin (VX22-548-013) or
+itraconazole (VX21-548-008).
+
+Additionally, the CYP3A4 induction Emax value of 9.63, ECso value of 4.115 and fuinc value of
+0.73,M were incorporated into the PBPK model for M6-SUZ. These values are the average
+values of the calibrated fold mRNA Emax and ECso from data of three hepatocyte lots in Report
+P169. The CYP3A induction parameters for SUZ and M6-SUZ were confirmed by matching the
+observed midazolam PK data in Study VX21-548-010, where 2 mg midazolam was dosed after
+SUZ PK reached steady state.
+
+In response to the FDA’s IR, the Applicant stated that the ©® fasted-state simulated
+intestinal fluid (FaSSIF) was used to represent the intrinsic solubility of the compound in the
+PBPK model, a
+
+A solubility value of 0.036 mg/mL ©@ FaSSIF was used in the
+model (Report T415); for comparison, the solubility of w FaSSIF is
+<0.002 mg/mL. Reviewers noted that the intrinsic solubility refers to the solubility of the
+
+: OV), -
+
+compound itself. The bile salt,
+
+therefore, should not be integrated. The Applicant stated that the human ADME study
+(VX21-548-008) results indicated a fraction absorbed more than 0.9 following an 80-mg single
+dose in capsules. Furthermore, the Applicant estimated the dose-normalized AUC across clinical
+study cohorts following a single dose of 100 mg and compared them to the dose-normalized
+AUC value after an 80-mg dose in the human absorption, metabolism, and excretion study
+(VX21-548-006). The resultant ratio was in the range of 0.97 to 1.2. These results implicitly
+demonstrated a high fraction absorbed (Fa) following a 100-mg single dose in the aa
+formulation.
+
+Model Verification
+
+PK Performance
+e Asingle 100-mg SUZ dose in healthy subjects (Study VX22-548-013, VX21-548-011)
+e Multiple dosing (50 mg q12h) in healthy subjects (VX21-548-007)
+
+Victim DDI Potential of SUZ as a CYP3A Substrate
+
+e Verification of the contribution of CYP-mediated metabolic pathways using the clinical DDI
+data with the strong CYP3A inhibitor itraconazole (Study VX21-548-008) in healthy subjects
+
+e Verification of the contribution of CYP-mediated metabolic pathways using the clinical DDI
+data with the strong CYP3A inhibitor rifampin (Study VX21-548-013) in healthy subjects
+
+DDI Potential of SUZ as a CYP3A Inducer
+
+e Verification of SUZ and M6-SUZ’s CYP3A induction parameters using the DDI data of
+midazolam with 100 mg SUZ (VX21-548-010) in healthy subjects
+
+198
+Integrated Review Template, version 4.0 (11/1/23)
+
+Reference ID: 5521299

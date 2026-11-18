@@ -1,0 +1,54 @@
+NDA/BLA Multi-disciplinary Review and Evaluation NDA 221075
+Iberdomide (ZENBEXUS)
+
+Table 110: FDA — Simulated iberdomide PK parameters at steady state following 1 mg
+QOD iberdomide dose administration to cancer patients with moderate CYP3A inhibitors
+compared to 1 mg QD iberdomide dosed alone
+
+Tahibitor PK Parameter* Derdbmide Iber dome» Tuhibitor
+Ciprofloxacin Cmax (ng/mL) 4.98 (4.75 - 5.23) 5.19 (5.01 - 5.38)
+AUC(0-48h) (ng*h/mL)” 134 (126 - 142) 97.8 (92.9 - 103)
+Cmax ratio® 1.04 (1.01 - 1.08)
+AUC(0-48h) ratio“ 0.73 (0.70 - 0.76)
+Diltiazem Cmax (ng/mL) 4.98 (4.75 - 5.23) 5.35 (5.13 - 5.59)
+AUC(0-48h) (ng*h/ mL)? 134 (126 - 142) 116 (110 - 123)
+Cmax ratio® 1.07 (1.04 - 1.10)
+AUC(0-48h) ratio® 0.87 (0.83 - 0.90)
+Fluconazole Cmax (ng/mL) 4.98 (4.75 - 5.23) 5.30 (5.09 - 5.53)
+AUC(0-48h) (ng*h/ mL)? 134 (126 - 142) 115 (110 - 122)
+Cmax ratio® 1.06 (1.04 - 1.09)
+AUC(0-48h) ratio® 0.86 (0.83 - 0.89)
+
+4 Sampling interval was Day 33 to Day 35 in the DDI simulation
+
+® For the iberdomide 1 mg QD alone condition, AUC(0-48h) was derived by summing AUC(0-24h) from Day 33 and
+AUC(0-24h) from Day 34 to allow interval-matched comparison with the iberdomide 1 mg QOD + moderate CYP3A4
+inhibitor regimen
+
+© Geometric mean ratios and 90% confidence interval of 1 mg QOD iberdomide + moderate CYP3A¢ inhibitor/1 mg
+QD iberdomide alone
+
+Source: Table 6.1-2 in 2026-04-16-bms986382-resp-swissmedic-ir-cpp
+
+19.5.6.7.. Can PBPK analysis support a food effect study waiver for the
+intended commercial formulation?
+
+While no food effect was observed for iberdomide AUC and Cmax in Studies CC-220-CP-001
+and IM048-1038, a food effect study has not been conducted for the intended commercial
+formulation (ICF). The Applicant used a PBPK modeling approach to predict the effect of food
+on iberdomide exposure for the ICF (pbpk-food). Simeyp SIVA V4.0 was used to derive the
+solubility and dissolution parameters by fitting the in vitro fasted-state simulated intestinal fluid
+(FaSSIF) and fed-state simulated intestinal fluid (FeSSIF)dissolution data for various
+formulations under the disintegration-dissolution method. The optimized parameters (e.g.
+intrinsic solubility and bile micelle partitioning parameters) were then used in the Simcyp PBPK
+model with a mechanistic absorption model to support the food effect assessment. The PBPK
+model initially used the in-vitro effective permeability of iberdomide, 8.9 x 10° cm/s, from LLC-
+PK1 data. The initial model did not capture the fa value of 0.78 observed in the human ADME
+
+321
+Version date: February 10, 2025 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant's Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5851050

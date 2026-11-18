@@ -1,0 +1,59 @@
+NDA 215973 lenacapavir injection, for subcutaneous use
+NDA 215974 lenacapavir tablets, for oral use
+
+estimated 28.6% increase for COBI-containing ARVs and 110% increase for RTV-
+containing ARVs. The Applicant did not address the investigation of DRV effect used
+either alone (with unknown/unreported booster) or as part of a multiple background
+regimen. The remaining PK parameters from the updated PK model were comparable to
+the initial final model PK parameters and their variability estimates.
+
+The review team evaluation of ARVs DDI on Fy, estimated a 28% increase for COBI-
+containing ARVs, a 95% increase for RTV-containing ARVs, a 52% increase in HTE
+patients receiving DRV (with unspecified booster), with a high variability in the
+estimated mean effect (Y%RSE from 41.4% to 47.5%). In two HTE patients who received
+DRV at some point as part of a varying multiple background regimen, the estimated
+increase in Fy. was about 37.4% compared to patients without a known DDI, and the
+estimated effect was not statistically significant and did not worsen the OFV. The PK
+model estimated effect of COBI-containing ARVs and DRV (with unspecified booster)
+on Fpo was lower than the observed effect of COBI alone or DRV/COBI combination on
+LEN AUCing in the dedicated DDI Study 4333 (not included in the popPK
+dataset/analysis). In the dedicated study in healthy participants, COBI alone and the
+DRV/COBI combination increased AUCins by 128% and 94%, respectively. However, the
+head-to-head comparison of results from Study 4333 and the PK model estimated effect
+from Study 4625 is challenging. In fact, the PK data from Study 4333 were not included
+in the PK modeling and the estimated effects from the PK model were in HTE patients
+from Study 4625 with varying baseline ARVs backgrounds. In addition, the COBI-
+containing ARVs likely contained drugs/protease inhibitors other than DRV.
+
+The review team evaluation of the covariate plots for Fs: found that formulation strength
+had an effect on the SC bioavailability of LEN, with an estimated 71% higher Fs for the
+lower SC formulation strength of 155 mg/mL compared to the 309 mg/mL SC formulation.
+However, the estimated effect was not found to be statistically significant (at a significance
+level of 0.001), with a decrease in OFV by 10.1 points (for 1 degree of freedom). The
+estimated effect of SC formulation strength on V3 and Kx, as determined by the Applicant,
+remained unchanged. Although not statistically significant, the effect of SC formulation
+strength on F,. was kept in the revised PK model, given the 71% effect and the 10 point
+drop in OFV.
+Finally, the review team evaluation of the covariate plots for Fsc an (SC slow
+absorption), as well as the PK profiles, identified that BMI affected the LEN exposure, with
+trends of higher exposures in underweight subjects and lower exposures in obese patients.
+After an information request to the Applicant, recommending the evaluation of BMI (either
+continuous or categorical) as a covariate on Mand Fee, the Applicant reported that the
+inclusion of BMI (as a continuous variable) on {3 and Fsc resulted in a decrease in OFV of
+© and 10.2 points, respectively. Of the two, only the BMI effect on’) was retained by
+the Applicant ®@) ‘and the
+trends observed for the final model between weight and (@ or Fs: were both addressed after
+inclusion of the BMI- relationship. The Applicant’s updated PK model included BMI as
+a continuous variable using a power model standardized to a median BMI of 26.1 kg/m?,
+with an estimated power exponent of -0.55. The remaining PK parameters from the updated
+PK model were comparable to the initial final model PK parameters and their variability
+estimates.
+
+4)
+am
+
+199
+
+Integrated Review Template, version 2.0 (04/23/2020)
+
+Reference ID: 4944206

@@ -1,0 +1,57 @@
+Clinical/Statistical Review
+NDA 213378
+Lybalvi (Olanzapine/Samidorphan, ALKS 3831)
+
+difference (supportive) (in line with the unadjusted test statistic). Whether in terms of odds
+ratio or risk difference, the results were statistically significant in favor of ALKS 3831.
+
+Table 31; Primary Analysis Results for Second Coprimary Endpoint (Study A303)
+
+Number of Results from logistic regression model
+
+(percent) Subjects Primary Measure | Supportive Measure
+ee Number of | vith >10% Weight | Odds Ratio (ALKS | Risk Difference (ALKS
+Belt? Gress Increase® 3831/ Olanzapine) | 3831 —- Olanzapine)
+(95% Cl) (95% Cl)
+ALKS 3831 266 47 (17.8) 0.50 -13.7
+Olanzapine 272 81 (29.8) (0.31, 0.80) (-22.8, -4.6)
+
+LS: least-squares; SD: standard deviation; SE: standard error, Cl: unadjusted Cl.
+
+*Number of responders and proportion are the mean number of responders and mean proportion from 500
+imputed datasets, respectively. The mean number of responders is rounded to the nearest integer.
+
+Source: Table 14.2.3 (Study report)
+
+Efficacy Results—Key Secondary Endpoint: Proportion of Subjects with >7% Increase from
+Baseline in Weight at Week 24
+Table 32 summarizes the estimated treatment effects in terms of odds ratio (primary measure)
+
+and risk difference (supportive measure). The results were statistically significant in favor of
+ALKS 3831, whether in terms of odds ratio or risk difference, and was qualitatively similar to
+those of the second co-primary endpoint, where the weight gain cutoff was set at 10%.
+
+Table 32: Primary Analysis Results for Secondary Endpoint (Study A303)
+
+Results from logistic regression model
+Number .
+: Supportive Measure
+Treatment | Number of (percent) of Primary Measure Risk Difference Risk
+Group Subjects Subjects with | Odds Ratio (ALKS 3831/
+>7% Weight Olanzapine) (95% Cl) (RUG che
+7 e P' ° Olanzapine) (95% Cl)
+ALKS 3831 266 73 (27.5) 0.50* -15.9
+Olanzapine 272 116 (42.7) (0.33,0.76) (-25.3, -6.5)
+
+LS: least-squares; SD: standard deviation; SE: standard error, Cl: unadjusted Cl.
+*p-value for testing odds ratio was 0.001.
+Source: Table 14.2.3, A303 Clinical Study Report
+
+The cumulative frequency distribution plot of completers (around 65% of the randomized
+population) showed a left shift of the curve in the ALKS 3831 group across proportions in Week
+24 weight change (). The Applicant also provided a similar plot but included imputed missing
+data using the MI approach.
+
+98
+
+Reference ID: 4701252

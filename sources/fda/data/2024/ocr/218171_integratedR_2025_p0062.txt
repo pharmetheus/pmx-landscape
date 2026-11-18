@@ -1,0 +1,61 @@
+NDA 218171
+ENSACOVE (ensartinib)
+
+and reliability, Bayesian shrinkage estimates were calculated using Bayesian hierarchical models
+where data from all subgroups were considered in the estimation for subgroup treatment effects.
+As shown in Table 22, estimates were shrunken more towards the overall treatment effect
+compared to sample estimates. Relative to individual analyses of subgroups, shrinkage estimates
+tend to have less variability and narrower credible intervals. Nonetheless, the treatment effect of
+ensartinib on OS remains highly uncertain within Asia-Pacific region and rest of the world.
+
+Table 22. Shrinkage Estimates of Region Subgroup, Study 301
+
+PFS os
+
+Shrinkage Shrinkage
+
+Region Sample Estimate Estimate | Sample Estimate Estimate
+
+Subgroup (95% Cl) (95% Cl) (95% Cl) (95% Cl)
+
+Overall Effect 0.56 (0.40, 0.79) - 0.88 (0.63, 1.23) -
+Geographic region
+
+Asia-Pacific 0.34 (0.21, 0.57) 0.41 (0.24, 0.65) 0.73 (0.46, 1.15) 0.81 (0.52, 1.19)
+
+Rest of world 0.88 (0.54, 1.41) _ 0.79 (0.48, 1.25) | 1.08 (0.66, 1.76) _1.00 (0.64, 1.53)
+
+Source: FDA reviewer's analyses
+Abbreviations: PFS, progression-free survival; OS overall survival, Cl, credible interval
+
+With respect to the effect observed in patients with Stage IIIB disease, FDA considered that there
+was evidence of a treatment effect in the overall study population, and that potential differences
+in the magnitude of effect by stage were difficult to interpret given the small sample size of this
+
+group.
+Conclusion
+
+In addition to the Applicant’s explanation of potential factors contributing to heterogeneity in
+some of the subgroups, these exploratory subgroup analyses should be interpreted with caution
+taking the totality of evidence into account. In the absence of a strong biological rationale,
+mechanistic justification, or corroborative external data, it is challenging to determine whether
+the treatment effects are truly substantially different between subgroups or the observed
+heterogeneity is due to a chance. As such, in this case, the estimate of treatment effect in the
+overall population is considered more reliable and likely to be more representative of the
+treatment effect in subgroups.
+
+Overall, given the clinically meaningful and statistically significant results of eXALT3, the
+teview team considered that the results of the study were sufficient to establish evidence of
+effectiveness of ensartinib in patients with locally advanced or metastatic ALK-positive NSCLC
+who had not previously received an ALK inhibitor.
+
+6.3.3. Do the Results of Study 101 Provide Compelling
+Evidence of Effectiveness
+
+Issue
+4)
+
+49
+Integrated Review Template, version 4.0 (11/1/23)
+
+Reference ID: 5498774

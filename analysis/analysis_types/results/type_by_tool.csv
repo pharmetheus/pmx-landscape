@@ -1,0 +1,302 @@
+"source","tool","type","n","n_tool","share"
+"Europe PMC","All","PK only",1179,1918,0.614702815432742
+"Europe PMC","All","Non-continuous endpoints, time-to-event",160,1918,0.0834202294056309
+"Europe PMC","All","PK/PD, exposure-response, disease progression",591,1918,0.308133472367049
+"Europe PMC","All","QSP, PBPK",31,1918,0.016162669447341
+"Europe PMC","All","Machine learning, AI, neural ODEs",43,1918,0.0224191866527633
+"Europe PMC","All","Joint models",6,1918,0.00312825860271116
+"Europe PMC","All","Full Bayesian hierarchical models",7,1918,0.00364963503649635
+"Europe PMC","BUGS","PK only",0,4,0
+"Europe PMC","BUGS","Non-continuous endpoints, time-to-event",1,4,0.25
+"Europe PMC","BUGS","PK/PD, exposure-response, disease progression",3,4,0.75
+"Europe PMC","BUGS","QSP, PBPK",0,4,0
+"Europe PMC","BUGS","Machine learning, AI, neural ODEs",0,4,0
+"Europe PMC","BUGS","Joint models",0,4,0
+"Europe PMC","BUGS","Full Bayesian hierarchical models",0,4,0
+"Europe PMC","MATLAB NLME","PK only",1,2,0.5
+"Europe PMC","MATLAB NLME","Non-continuous endpoints, time-to-event",1,2,0.5
+"Europe PMC","MATLAB NLME","PK/PD, exposure-response, disease progression",1,2,0.5
+"Europe PMC","MATLAB NLME","QSP, PBPK",0,2,0
+"Europe PMC","MATLAB NLME","Machine learning, AI, neural ODEs",1,2,0.5
+"Europe PMC","MATLAB NLME","Joint models",0,2,0
+"Europe PMC","MATLAB NLME","Full Bayesian hierarchical models",0,2,0
+"Europe PMC","Monolix","PK only",178,296,0.601351351351351
+"Europe PMC","Monolix","Non-continuous endpoints, time-to-event",18,296,0.0608108108108108
+"Europe PMC","Monolix","PK/PD, exposure-response, disease progression",91,296,0.307432432432432
+"Europe PMC","Monolix","QSP, PBPK",7,296,0.0236486486486486
+"Europe PMC","Monolix","Machine learning, AI, neural ODEs",12,296,0.0405405405405405
+"Europe PMC","Monolix","Joint models",4,296,0.0135135135135135
+"Europe PMC","Monolix","Full Bayesian hierarchical models",0,296,0
+"Europe PMC","NLMIXED","PK only",1,7,0.142857142857143
+"Europe PMC","NLMIXED","Non-continuous endpoints, time-to-event",1,7,0.142857142857143
+"Europe PMC","NLMIXED","PK/PD, exposure-response, disease progression",0,7,0
+"Europe PMC","NLMIXED","QSP, PBPK",0,7,0
+"Europe PMC","NLMIXED","Machine learning, AI, neural ODEs",0,7,0
+"Europe PMC","NLMIXED","Joint models",0,7,0
+"Europe PMC","NLMIXED","Full Bayesian hierarchical models",0,7,0
+"Europe PMC","nlmixr","PK only",7,12,0.583333333333333
+"Europe PMC","nlmixr","Non-continuous endpoints, time-to-event",2,12,0.166666666666667
+"Europe PMC","nlmixr","PK/PD, exposure-response, disease progression",3,12,0.25
+"Europe PMC","nlmixr","QSP, PBPK",1,12,0.0833333333333333
+"Europe PMC","nlmixr","Machine learning, AI, neural ODEs",0,12,0
+"Europe PMC","nlmixr","Joint models",0,12,0
+"Europe PMC","nlmixr","Full Bayesian hierarchical models",0,12,0
+"Europe PMC","NONMEM","PK only",819,1353,0.605321507760532
+"Europe PMC","NONMEM","Non-continuous endpoints, time-to-event",125,1353,0.0923872875092387
+"Europe PMC","NONMEM","PK/PD, exposure-response, disease progression",436,1353,0.322246858832225
+"Europe PMC","NONMEM","QSP, PBPK",21,1353,0.0155210643015521
+"Europe PMC","NONMEM","Machine learning, AI, neural ODEs",29,1353,0.0214338507021434
+"Europe PMC","NONMEM","Joint models",2,1353,0.00147819660014782
+"Europe PMC","NONMEM","Full Bayesian hierarchical models",1,1353,0.00073909830007391
+"Europe PMC","Phoenix NLME","PK only",98,140,0.7
+"Europe PMC","Phoenix NLME","Non-continuous endpoints, time-to-event",7,140,0.05
+"Europe PMC","Phoenix NLME","PK/PD, exposure-response, disease progression",37,140,0.264285714285714
+"Europe PMC","Phoenix NLME","QSP, PBPK",1,140,0.00714285714285714
+"Europe PMC","Phoenix NLME","Machine learning, AI, neural ODEs",1,140,0.00714285714285714
+"Europe PMC","Phoenix NLME","Joint models",0,140,0
+"Europe PMC","Phoenix NLME","Full Bayesian hierarchical models",0,140,0
+"Europe PMC","Pmetrics","PK only",49,57,0.859649122807018
+"Europe PMC","Pmetrics","Non-continuous endpoints, time-to-event",2,57,0.0350877192982456
+"Europe PMC","Pmetrics","PK/PD, exposure-response, disease progression",7,57,0.12280701754386
+"Europe PMC","Pmetrics","QSP, PBPK",0,57,0
+"Europe PMC","Pmetrics","Machine learning, AI, neural ODEs",0,57,0
+"Europe PMC","Pmetrics","Joint models",0,57,0
+"Europe PMC","Pmetrics","Full Bayesian hierarchical models",0,57,0
+"Europe PMC","Pumas","PK only",11,16,0.6875
+"Europe PMC","Pumas","Non-continuous endpoints, time-to-event",2,16,0.125
+"Europe PMC","Pumas","PK/PD, exposure-response, disease progression",4,16,0.25
+"Europe PMC","Pumas","QSP, PBPK",0,16,0
+"Europe PMC","Pumas","Machine learning, AI, neural ODEs",0,16,0
+"Europe PMC","Pumas","Joint models",0,16,0
+"Europe PMC","Pumas","Full Bayesian hierarchical models",0,16,0
+"Europe PMC","S-ADAPT","PK only",9,11,0.818181818181818
+"Europe PMC","S-ADAPT","Non-continuous endpoints, time-to-event",0,11,0
+"Europe PMC","S-ADAPT","PK/PD, exposure-response, disease progression",2,11,0.181818181818182
+"Europe PMC","S-ADAPT","QSP, PBPK",0,11,0
+"Europe PMC","S-ADAPT","Machine learning, AI, neural ODEs",0,11,0
+"Europe PMC","S-ADAPT","Joint models",0,11,0
+"Europe PMC","S-ADAPT","Full Bayesian hierarchical models",0,11,0
+"Europe PMC","saemix","PK only",3,4,0.75
+"Europe PMC","saemix","Non-continuous endpoints, time-to-event",0,4,0
+"Europe PMC","saemix","PK/PD, exposure-response, disease progression",0,4,0
+"Europe PMC","saemix","QSP, PBPK",0,4,0
+"Europe PMC","saemix","Machine learning, AI, neural ODEs",0,4,0
+"Europe PMC","saemix","Joint models",0,4,0
+"Europe PMC","saemix","Full Bayesian hierarchical models",0,4,0
+"Europe PMC","Stan/Torsten","PK only",3,15,0.2
+"Europe PMC","Stan/Torsten","Non-continuous endpoints, time-to-event",1,15,0.0666666666666667
+"Europe PMC","Stan/Torsten","PK/PD, exposure-response, disease progression",6,15,0.4
+"Europe PMC","Stan/Torsten","QSP, PBPK",1,15,0.0666666666666667
+"Europe PMC","Stan/Torsten","Machine learning, AI, neural ODEs",0,15,0
+"Europe PMC","Stan/Torsten","Joint models",0,15,0
+"Europe PMC","Stan/Torsten","Full Bayesian hierarchical models",6,15,0.4
+"Europe PMC","USC*PACK","PK only",0,1,0
+"Europe PMC","USC*PACK","Non-continuous endpoints, time-to-event",0,1,0
+"Europe PMC","USC*PACK","PK/PD, exposure-response, disease progression",1,1,1
+"Europe PMC","USC*PACK","QSP, PBPK",0,1,0
+"Europe PMC","USC*PACK","Machine learning, AI, neural ODEs",0,1,0
+"Europe PMC","USC*PACK","Joint models",0,1,0
+"Europe PMC","USC*PACK","Full Bayesian hierarchical models",0,1,0
+"PAGE","All","PK only",1471,3221,0.45669046879851
+"PAGE","All","PK/PD, exposure-response, disease progression",1261,3221,0.391493325054331
+"PAGE","All","Non-continuous endpoints, time-to-event",412,3221,0.127910586774294
+"PAGE","All","Full Bayesian hierarchical models",119,3221,0.0369450481217013
+"PAGE","All","QSP, PBPK",123,3221,0.0381868984787333
+"PAGE","All","Joint models",57,3221,0.0176963675877057
+"PAGE","All","Machine learning, AI, neural ODEs",44,3221,0.0136603539273518
+"PAGE","BUGS","PK only",3,60,0.05
+"PAGE","BUGS","PK/PD, exposure-response, disease progression",22,60,0.366666666666667
+"PAGE","BUGS","Non-continuous endpoints, time-to-event",14,60,0.233333333333333
+"PAGE","BUGS","Full Bayesian hierarchical models",52,60,0.866666666666667
+"PAGE","BUGS","QSP, PBPK",3,60,0.05
+"PAGE","BUGS","Joint models",3,60,0.05
+"PAGE","BUGS","Machine learning, AI, neural ODEs",0,60,0
+"PAGE","MATLAB NLME","PK only",0,1,0
+"PAGE","MATLAB NLME","PK/PD, exposure-response, disease progression",1,1,1
+"PAGE","MATLAB NLME","Non-continuous endpoints, time-to-event",1,1,1
+"PAGE","MATLAB NLME","Full Bayesian hierarchical models",0,1,0
+"PAGE","MATLAB NLME","QSP, PBPK",0,1,0
+"PAGE","MATLAB NLME","Joint models",0,1,0
+"PAGE","MATLAB NLME","Machine learning, AI, neural ODEs",1,1,1
+"PAGE","Monolix","PK only",193,501,0.385229540918164
+"PAGE","Monolix","PK/PD, exposure-response, disease progression",233,501,0.465069860279441
+"PAGE","Monolix","Non-continuous endpoints, time-to-event",57,501,0.11377245508982
+"PAGE","Monolix","Full Bayesian hierarchical models",9,501,0.0179640718562874
+"PAGE","Monolix","QSP, PBPK",24,501,0.0479041916167665
+"PAGE","Monolix","Joint models",21,501,0.0419161676646707
+"PAGE","Monolix","Machine learning, AI, neural ODEs",15,501,0.029940119760479
+"PAGE","NLMIXED","PK only",0,4,0
+"PAGE","NLMIXED","PK/PD, exposure-response, disease progression",0,4,0
+"PAGE","NLMIXED","Non-continuous endpoints, time-to-event",4,4,1
+"PAGE","NLMIXED","Full Bayesian hierarchical models",0,4,0
+"PAGE","NLMIXED","QSP, PBPK",0,4,0
+"PAGE","NLMIXED","Joint models",0,4,0
+"PAGE","NLMIXED","Machine learning, AI, neural ODEs",0,4,0
+"PAGE","nlmixr","PK only",18,45,0.4
+"PAGE","nlmixr","PK/PD, exposure-response, disease progression",13,45,0.288888888888889
+"PAGE","nlmixr","Non-continuous endpoints, time-to-event",3,45,0.0666666666666667
+"PAGE","nlmixr","Full Bayesian hierarchical models",0,45,0
+"PAGE","nlmixr","QSP, PBPK",4,45,0.0888888888888889
+"PAGE","nlmixr","Joint models",0,45,0
+"PAGE","nlmixr","Machine learning, AI, neural ODEs",3,45,0.0666666666666667
+"PAGE","NONMEM","PK only",1232,2527,0.487534626038781
+"PAGE","NONMEM","PK/PD, exposure-response, disease progression",964,2527,0.381480015829046
+"PAGE","NONMEM","Non-continuous endpoints, time-to-event",322,2527,0.127423822714681
+"PAGE","NONMEM","Full Bayesian hierarchical models",34,2527,0.0134546893549664
+"PAGE","NONMEM","QSP, PBPK",74,2527,0.0292837356549268
+"PAGE","NONMEM","Joint models",28,2527,0.0110803324099723
+"PAGE","NONMEM","Machine learning, AI, neural ODEs",21,2527,0.00831024930747922
+"PAGE","OpenPMX","PK only",1,2,0.5
+"PAGE","OpenPMX","PK/PD, exposure-response, disease progression",1,2,0.5
+"PAGE","OpenPMX","Non-continuous endpoints, time-to-event",0,2,0
+"PAGE","OpenPMX","Full Bayesian hierarchical models",0,2,0
+"PAGE","OpenPMX","QSP, PBPK",0,2,0
+"PAGE","OpenPMX","Joint models",0,2,0
+"PAGE","OpenPMX","Machine learning, AI, neural ODEs",0,2,0
+"PAGE","Phoenix NLME","PK only",12,27,0.444444444444444
+"PAGE","Phoenix NLME","PK/PD, exposure-response, disease progression",13,27,0.481481481481481
+"PAGE","Phoenix NLME","Non-continuous endpoints, time-to-event",2,27,0.0740740740740741
+"PAGE","Phoenix NLME","Full Bayesian hierarchical models",0,27,0
+"PAGE","Phoenix NLME","QSP, PBPK",0,27,0
+"PAGE","Phoenix NLME","Joint models",0,27,0
+"PAGE","Phoenix NLME","Machine learning, AI, neural ODEs",0,27,0
+"PAGE","PhysPK","PK only",2,14,0.142857142857143
+"PAGE","PhysPK","PK/PD, exposure-response, disease progression",0,14,0
+"PAGE","PhysPK","Non-continuous endpoints, time-to-event",0,14,0
+"PAGE","PhysPK","Full Bayesian hierarchical models",0,14,0
+"PAGE","PhysPK","QSP, PBPK",11,14,0.785714285714286
+"PAGE","PhysPK","Joint models",0,14,0
+"PAGE","PhysPK","Machine learning, AI, neural ODEs",2,14,0.142857142857143
+"PAGE","Pmetrics","PK only",8,10,0.8
+"PAGE","Pmetrics","PK/PD, exposure-response, disease progression",1,10,0.1
+"PAGE","Pmetrics","Non-continuous endpoints, time-to-event",0,10,0
+"PAGE","Pmetrics","Full Bayesian hierarchical models",1,10,0.1
+"PAGE","Pmetrics","QSP, PBPK",0,10,0
+"PAGE","Pmetrics","Joint models",0,10,0
+"PAGE","Pmetrics","Machine learning, AI, neural ODEs",0,10,0
+"PAGE","PoPy","PK only",0,1,0
+"PAGE","PoPy","PK/PD, exposure-response, disease progression",1,1,1
+"PAGE","PoPy","Non-continuous endpoints, time-to-event",0,1,0
+"PAGE","PoPy","Full Bayesian hierarchical models",0,1,0
+"PAGE","PoPy","QSP, PBPK",0,1,0
+"PAGE","PoPy","Joint models",0,1,0
+"PAGE","PoPy","Machine learning, AI, neural ODEs",0,1,0
+"PAGE","Pumas","PK only",12,26,0.461538461538462
+"PAGE","Pumas","PK/PD, exposure-response, disease progression",7,26,0.269230769230769
+"PAGE","Pumas","Non-continuous endpoints, time-to-event",3,26,0.115384615384615
+"PAGE","Pumas","Full Bayesian hierarchical models",2,26,0.0769230769230769
+"PAGE","Pumas","QSP, PBPK",1,26,0.0384615384615385
+"PAGE","Pumas","Joint models",0,26,0
+"PAGE","Pumas","Machine learning, AI, neural ODEs",6,26,0.230769230769231
+"PAGE","S-ADAPT","PK only",7,18,0.388888888888889
+"PAGE","S-ADAPT","PK/PD, exposure-response, disease progression",10,18,0.555555555555556
+"PAGE","S-ADAPT","Non-continuous endpoints, time-to-event",0,18,0
+"PAGE","S-ADAPT","Full Bayesian hierarchical models",1,18,0.0555555555555556
+"PAGE","S-ADAPT","QSP, PBPK",1,18,0.0555555555555556
+"PAGE","S-ADAPT","Joint models",0,18,0
+"PAGE","S-ADAPT","Machine learning, AI, neural ODEs",0,18,0
+"PAGE","SAAM II","PK only",1,7,0.142857142857143
+"PAGE","SAAM II","PK/PD, exposure-response, disease progression",3,7,0.428571428571429
+"PAGE","SAAM II","Non-continuous endpoints, time-to-event",0,7,0
+"PAGE","SAAM II","Full Bayesian hierarchical models",0,7,0
+"PAGE","SAAM II","QSP, PBPK",3,7,0.428571428571429
+"PAGE","SAAM II","Joint models",0,7,0
+"PAGE","SAAM II","Machine learning, AI, neural ODEs",0,7,0
+"PAGE","saemix","PK only",2,14,0.142857142857143
+"PAGE","saemix","PK/PD, exposure-response, disease progression",5,14,0.357142857142857
+"PAGE","saemix","Non-continuous endpoints, time-to-event",4,14,0.285714285714286
+"PAGE","saemix","Full Bayesian hierarchical models",2,14,0.142857142857143
+"PAGE","saemix","QSP, PBPK",0,14,0
+"PAGE","saemix","Joint models",2,14,0.142857142857143
+"PAGE","saemix","Machine learning, AI, neural ODEs",1,14,0.0714285714285714
+"PAGE","Stan/Torsten","PK only",2,49,0.0408163265306122
+"PAGE","Stan/Torsten","PK/PD, exposure-response, disease progression",17,49,0.346938775510204
+"PAGE","Stan/Torsten","Non-continuous endpoints, time-to-event",13,49,0.26530612244898
+"PAGE","Stan/Torsten","Full Bayesian hierarchical models",45,49,0.918367346938776
+"PAGE","Stan/Torsten","QSP, PBPK",3,49,0.0612244897959184
+"PAGE","Stan/Torsten","Joint models",9,49,0.183673469387755
+"PAGE","Stan/Torsten","Machine learning, AI, neural ODEs",1,49,0.0204081632653061
+"PAGE","USC*PACK","PK only",12,15,0.8
+"PAGE","USC*PACK","PK/PD, exposure-response, disease progression",1,15,0.0666666666666667
+"PAGE","USC*PACK","Non-continuous endpoints, time-to-event",1,15,0.0666666666666667
+"PAGE","USC*PACK","Full Bayesian hierarchical models",0,15,0
+"PAGE","USC*PACK","QSP, PBPK",0,15,0
+"PAGE","USC*PACK","Joint models",0,15,0
+"PAGE","USC*PACK","Machine learning, AI, neural ODEs",0,15,0
+"PubMed","All","PK only",693,916,0.756550218340611
+"PubMed","All","PK/PD, exposure-response, disease progression",162,916,0.176855895196507
+"PubMed","All","Non-continuous endpoints, time-to-event",46,916,0.0502183406113537
+"PubMed","All","Full Bayesian hierarchical models",7,916,0.00764192139737991
+"PubMed","All","Machine learning, AI, neural ODEs",17,916,0.0185589519650655
+"PubMed","All","Joint models",2,916,0.00218340611353712
+"PubMed","All","QSP, PBPK",8,916,0.00873362445414847
+"PubMed","Monolix","PK only",115,162,0.709876543209877
+"PubMed","Monolix","PK/PD, exposure-response, disease progression",38,162,0.234567901234568
+"PubMed","Monolix","Non-continuous endpoints, time-to-event",8,162,0.0493827160493827
+"PubMed","Monolix","Full Bayesian hierarchical models",1,162,0.00617283950617284
+"PubMed","Monolix","Machine learning, AI, neural ODEs",2,162,0.0123456790123457
+"PubMed","Monolix","Joint models",1,162,0.00617283950617284
+"PubMed","Monolix","QSP, PBPK",0,162,0
+"PubMed","nlmixr","PK only",6,12,0.5
+"PubMed","nlmixr","PK/PD, exposure-response, disease progression",2,12,0.166666666666667
+"PubMed","nlmixr","Non-continuous endpoints, time-to-event",0,12,0
+"PubMed","nlmixr","Full Bayesian hierarchical models",0,12,0
+"PubMed","nlmixr","Machine learning, AI, neural ODEs",1,12,0.0833333333333333
+"PubMed","nlmixr","Joint models",0,12,0
+"PubMed","nlmixr","QSP, PBPK",1,12,0.0833333333333333
+"PubMed","NONMEM","PK only",469,619,0.75767366720517
+"PubMed","NONMEM","PK/PD, exposure-response, disease progression",110,619,0.177705977382876
+"PubMed","NONMEM","Non-continuous endpoints, time-to-event",34,619,0.0549273021001615
+"PubMed","NONMEM","Full Bayesian hierarchical models",3,619,0.00484652665589661
+"PubMed","NONMEM","Machine learning, AI, neural ODEs",15,619,0.024232633279483
+"PubMed","NONMEM","Joint models",0,619,0
+"PubMed","NONMEM","QSP, PBPK",5,619,0.00807754442649435
+"PubMed","OpenPMX","PK only",0,1,0
+"PubMed","OpenPMX","PK/PD, exposure-response, disease progression",0,1,0
+"PubMed","OpenPMX","Non-continuous endpoints, time-to-event",0,1,0
+"PubMed","OpenPMX","Full Bayesian hierarchical models",0,1,0
+"PubMed","OpenPMX","Machine learning, AI, neural ODEs",0,1,0
+"PubMed","OpenPMX","Joint models",0,1,0
+"PubMed","OpenPMX","QSP, PBPK",0,1,0
+"PubMed","Phoenix NLME","PK only",43,52,0.826923076923077
+"PubMed","Phoenix NLME","PK/PD, exposure-response, disease progression",8,52,0.153846153846154
+"PubMed","Phoenix NLME","Non-continuous endpoints, time-to-event",2,52,0.0384615384615385
+"PubMed","Phoenix NLME","Full Bayesian hierarchical models",0,52,0
+"PubMed","Phoenix NLME","Machine learning, AI, neural ODEs",0,52,0
+"PubMed","Phoenix NLME","Joint models",0,52,0
+"PubMed","Phoenix NLME","QSP, PBPK",0,52,0
+"PubMed","Pmetrics","PK only",52,58,0.896551724137931
+"PubMed","Pmetrics","PK/PD, exposure-response, disease progression",5,58,0.0862068965517241
+"PubMed","Pmetrics","Non-continuous endpoints, time-to-event",2,58,0.0344827586206897
+"PubMed","Pmetrics","Full Bayesian hierarchical models",0,58,0
+"PubMed","Pmetrics","Machine learning, AI, neural ODEs",0,58,0
+"PubMed","Pmetrics","Joint models",0,58,0
+"PubMed","Pmetrics","QSP, PBPK",0,58,0
+"PubMed","Pumas","PK only",7,10,0.7
+"PubMed","Pumas","PK/PD, exposure-response, disease progression",2,10,0.2
+"PubMed","Pumas","Non-continuous endpoints, time-to-event",0,10,0
+"PubMed","Pumas","Full Bayesian hierarchical models",0,10,0
+"PubMed","Pumas","Machine learning, AI, neural ODEs",0,10,0
+"PubMed","Pumas","Joint models",0,10,0
+"PubMed","Pumas","QSP, PBPK",0,10,0
+"PubMed","S-ADAPT","PK only",4,4,1
+"PubMed","S-ADAPT","PK/PD, exposure-response, disease progression",0,4,0
+"PubMed","S-ADAPT","Non-continuous endpoints, time-to-event",0,4,0
+"PubMed","S-ADAPT","Full Bayesian hierarchical models",0,4,0
+"PubMed","S-ADAPT","Machine learning, AI, neural ODEs",0,4,0
+"PubMed","S-ADAPT","Joint models",0,4,0
+"PubMed","S-ADAPT","QSP, PBPK",0,4,0
+"PubMed","saemix","PK only",2,4,0.5
+"PubMed","saemix","PK/PD, exposure-response, disease progression",1,4,0.25
+"PubMed","saemix","Non-continuous endpoints, time-to-event",1,4,0.25
+"PubMed","saemix","Full Bayesian hierarchical models",0,4,0
+"PubMed","saemix","Machine learning, AI, neural ODEs",0,4,0
+"PubMed","saemix","Joint models",1,4,0.25
+"PubMed","saemix","QSP, PBPK",0,4,0
+"PubMed","Stan/Torsten","PK only",1,6,0.166666666666667
+"PubMed","Stan/Torsten","PK/PD, exposure-response, disease progression",1,6,0.166666666666667
+"PubMed","Stan/Torsten","Non-continuous endpoints, time-to-event",0,6,0
+"PubMed","Stan/Torsten","Full Bayesian hierarchical models",3,6,0.5
+"PubMed","Stan/Torsten","Machine learning, AI, neural ODEs",0,6,0
+"PubMed","Stan/Torsten","Joint models",0,6,0
+"PubMed","Stan/Torsten","QSP, PBPK",2,6,0.333333333333333

@@ -1,0 +1,69 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {BLA 761289 and sBLA 761069}
+{IMJUDO, tremelimumab; IMFINZI, durvalumab}
+
+scale for hepatic function, BCLC Stage, hepatitis type, exposure
+
+metrics
+Final Model Parameters Summary Acceptability
+[FDA’s comments]
+Model Structure The safety endpoints (Grade 3+ AE, Grade | Yes
+
+3+ AEOSI, AE leading to treatment
+discontinuation) were converted to binary
+responses and analyzed with linear logistic
+regression models relating the probability
+of responses to durvalumab or
+tremelimumab exposure metrics.
+
+Model Parameter Estimates See Table 23-25, Population PK and Yes
+Exposure-Response Report, Module 5.3.3.5
+(logistic regressions for probability of
+safety endpoints vs exposure quartiles)
+Model Evaluation The probability of safety endpoints (Grade | Yes
+
+3+ AE, Grade 3+ AEOSI, AE leading to See Figure 31
+treatment discontinuation) calculated in
+quartiles of the various durvalumab and
+tremelimumab exposure metrics were
+graphically explored with overlaid model
+predictions from the logistic regression
+model fit.
+
+The logistic regression results assessing the
+impact of exposure on the probability of
+safety endpoints were tabulated with P
+values associated with exposure effects in
+comparison to the pre-specified
+significance level of a =0.001.
+
+Covariates and Clinical Relevance In general, there appears to be no clear Yes
+
+trend between increasing exposure of
+durvalumab or tremelimumab and the
+probability of all safety endpoints.
+
+The P values associated with exposure
+effects were relatively large (in comparison
+to the pre-specified significance level of a
+=0.001), indicating that the relationship
+was not statistically significant.
+
+In addition, there appears to be no
+association between covariates (e.g.,
+among baseline bodyweight quartiles, ADA
+status and other covariates explored) and
+the percentages of patients having safety
+endpoints (Grade 3+ AE, Grade 3+ AEOSI,
+AE leading to treatment discontinuation).
+Simulation for Specific Population NA
+
+Visualization of ER relationships See Figure 23-25, Population PK and Yes
+Exposure-Response Report, Module 5.3.3.5 | See Figure 31
+
+218
+Version date: July 2021 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5064925

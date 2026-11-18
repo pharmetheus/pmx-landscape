@@ -1,0 +1,59 @@
+NDA/BLA Multi-disciplinary Review and Evaluation — NDA 219972
+Sevabertinib (BAY 2927088) — Version 2.0
+19.4.2. FDA Assessment of Model Risk
+The pharmacometrics analyses were focused on assessment of population PK and ER of efficacy
+and safety endpoints, shown in Table .
+
+The overall model risk is considered medium. In line with the determined model risk and specific
+objectives, following model evaluation/additional analysis was conducted for the respective
+methodologies as outlined in Table .
+
+Table 77. FDA - Assessment of Model Risk
+
+Elements Details
+Is the proposed recommended dosage appropriate oe
+Question of Interest ow
+therapy?
+Context of Use © PopPK models were used to evaluate the patient factors on exposure
+
+and generate individual exposure for E-R analysis.
+e E-R analyses were conducted to understand exposure dependent
+changes in efficacy and safety in patients.
+Median. The proposed recommended dosage of 20 mg BID is associated
+
+Decision Consequence c 2 a:
+with a high % of diarrhea that remains clinically manageable.
+
+Model Influence Low. Dosage is determined by clinical observation with E-R analyses used
+as supportive evidence.
+Model Risk Mean
+
+Source: FDA reviewer analysis
+
+Table 78. FDA - Model Evaluation
+
+Methodology Objective Model evaluation Section
+PopPK e Characterize PK profile | Standard model evaluation 19.4.3
+e Evaluate patient factors
+substantially impact PK
+
+e Predict individual
+exposure for subsequent
+
+E-R analysis
+Exposure- e Characterize E-R Standard model evaluation for 19.4.4.1-
+efficacy relationship ORR and BTR with logistic 19.4.4.2
+e Evaluate if20mg BID is regression model and Emax
+appropriate to be model
+proposed dosage
+Exposure- e = Characterize E-R Standard model evaluation for 19.4.4.3-
+safety relationship for safety general AEs (SAE, Gr>=3 19.444
+endpoints TEAEs, dose modifications), ——
+
+289
+Version date: March 1, 2024 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5697816

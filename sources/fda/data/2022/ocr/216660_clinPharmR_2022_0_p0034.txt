@@ -1,0 +1,35 @@
+Phase 2, | AMX3S00 | 5.3.5.1 | Confima the safery and Randomized, | AMX0035: 137 ALS | 24 weeks | baseline:
+Efficacy tolerability of @ fixed-dose Placebo- :
+combination of controlled | (f SHtBID pre-dose.
+phenylburyrate and Rita Wk 12 24:
+taurunodiol reer either 1-or
+Measure the impact of phenyTbutyrat) 4-hrs post-
+fixed-dose combination of d
+PB and taurursodiol using Oral ose.
+the slope of progression
+with the (ALSFRS R)
+
+Source: Sequence 0001, module 52, tabular-listing-all-clinical-studies.pdf, page 1 to 2 of 2
+
+The final model includes one compartment, first-order absorption, first-order metabolism of PB into PAA
+assuming 100% conversion, a transit compartment to represent the delay in appearance of PAA into the
+plasma, and non-linear elimination of PAA. Structural PK parameters include PB apparent clearance
+(CLee/F), PB apparent volume of distribution (Vps/F), Volume of distribution of PAA (Vpaa), absorption
+rate constant (Kat), mean transit time for appearance of PAA into plasma after formation (MTT), a non-
+linear elimination process for PAA [maximum rate of PAA elimination (Vmaxpaa), and plasma
+concentration at which PAA elimination rate is half-maximum (Km)].
+
+Allometric Scaling: Applied to Vmax-paa using a power model with weight normalized to 70 kg. The scaling
+exponent was estimated.
+
+Interindividual Variability: exponential. Variance terms for CLs /F, Veo/F, Vpaa, and Vnaxeaa. Covariance
+term for CLpa/F with Vpo/F.
+
+Residual Variability: proportional for PB, proportional for PAA.
+
+Covariates: Meal state (fasted versus fed) is a covariate on Ka (Karast versus Karea) and relative
+bioavailability versus a fasted state (Frooa). ALS diagnosis is a covariate on Vmax-paa and Vpan. Parameter
+estimations for the final run (Run PB_PAA_model72813015016 or Run 5016) are shown in the table
+below.
+
+Reference ID: 5051934

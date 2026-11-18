@@ -1,0 +1,60 @@
+4.3 Population PK Analysis
+4.3.1 Review Summary
+
+The applicant’s population PK analysis is acceptable. Although the goodness-of-fit plots indicate
+bias and trends, visual predictive check indicates that the final population PK model is adequate
+in characterizing the PK profile of eflapegrastim in subjects with breast cancer undergoing
+chemotherapy with docetaxel and cyclophosphamide. The inter-individual variability (ITV) for
+CLF (67%), Ve/F (118%), Ka (90%), and D1 (210%) were large. Eta shrinkage values for CL/F
+(9%), Ve/F (38%), Ka (22%) and D1 (27%) are reasonable and support evaluation of covariates.
+Consistent with target mediated drug disposition principles, time varying absolute neutrophil count
+(ANC) was a significant covariate on eflapegrastim clearance with an exponent value of less than
+1. Clearance increased with increasing ANC values in a less than linear relationship. Body weight
+was also a covariate on CL and V, with exponents greater than 1 indicating greater than linear
+increase in clearance and volume with increasing body-weight. The estimated PK parameters, such
+as CL/F and Ve/F appear reasonable. The applicant’s analyses were verified by the reviewer, with
+no significant discordance identified.
+
+The developed model was NOT used to support labeling of eflapegrastim in the current
+submission as outlined in Table 6.
+
+Table 6. Specific Comments on Applicant’s Final Population PK model
+
+Utility of the final model Reviewer's Comments
+
+No clinically meaningful
+exposure-efficacy
+
+Intrinsic
+
+Dosing not dependent on
+body weight nor ANC values
+
+PK parameters
+
+relationship was identified.
+This could be attributed to
+
+despite these being apparent low eflapegrastim
+factor . i -
+significant CL and V exposure in treatment
+covariates responders due to neutrophil
+Support applicant's uptake and corresponding
+proposed labeling elimination of eflapegrastim.
+statements about _
+intrinsic and Furthermore, no clinically
+extrinsic factors meaningful relationship
+between exposures and safety
+No extrinsic factor was measures was identified.
+Extrinsic . - .
+factor identified as a covariate on Based on these apparent
+
+relationships, the analyses
+cannot be used to support
+dose adjustment based on any
+intrinsic or extrinsic factors
+
+Reference ID: 4634882
+
+18
+

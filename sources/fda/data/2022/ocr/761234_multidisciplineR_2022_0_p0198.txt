@@ -1,0 +1,61 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {BLA 761234}
+Opdualag™ (nivolumab and relatlimab-rmbw)
+
+Nivolumabyyelatlimab Nivolumab Total
+us om "
+N (%)
+Respiratory, Thoracic And Mediastinal Disorders
+Dyspnea (GT) 5 (1.4) 1 (0.3) 6 (0.8)
+Endocrine Disorders
+Adrenal Insufficiency 4(1.1) 0 4 (0.6)
+Renal And Urinary Disorders
+Acute Kidney Injury (GT) | 4 (1.1) | 1(0.3) | 5 (0.7)
+Infections And Infestations
+Pneumonia (GT) | 3 (0.8) | 6 (1.7) | 9 (1.3)
+
+Source: ADSL (Subject-Level Analysis Dataset) - 2021-05-12, ADAE (Analysis Adverse Events) - 2021-05-12. Variables
+used: USUBJID, TRTO1A, SAFFL, TRTEMFL, AEDECOD, AETOXGRN, AEACN, AEBODSYS, AESER
+
+Group Diarrhea (GT) includes PT terms DIARRHEA, COLITIS, AUTOIMMUNE COLITIS,
+
+Group Musculoskeletal Pain (GT) includes PT terms ARTHRALGIA, BACK PAIN, PAIN IN EXTREMITY, NON-CARDIAC
+CHEST PAIN, MYALGIA, NECK PAIN, SPINAL PAIN, ARTHRITIS,
+
+Group Hypertension (GT) includes PT terms HYPERTENSION, HYPERTENSIVE CRISIS,
+
+Group Fatigue (GT) includes PT terms FATIGUE, ASTHENIA,
+
+Group Dyspnea (GT) includes PT terms DYSPNOEA,
+
+Group Rash (GT) includes PT terms RASH, RASH MACULO-PAPULAR, LICHEN PLANUS, RASH ERYTHEMATOUS, RASH
+PUSTULAR, RASH MACULAR, DERMATITIS, ECZEMA,
+
+Group Pneumonia (GT) includes PT terms PNEUMONIA, ATYPICAL PNEUMONIA, LOWER RESPIRATORY TRACT
+INFECTION,
+
+Group Acute Kidney Injury (GT) includes PT terms ACUTE KIDNEY INJURY, RENAL FAILURE
+
+8.2.4.6. Treatment Emergent Adverse Events and Adverse Reactions
+
+Data:
+Table 62: Applicant - Adverse Reactions in > 15% of Patients Receiving Nivo+Rela FDC in
+CA224047
+Nivot+rela FDC Nivolumab
+Adverse Reaction (n = 355) (n = 359)
+All Grades (%) l Grades 3-4 (%) All Grades (%) l Grades 3-4 (%)
+General
+Fatigue® [ 39 | 2.0 | 29 l 0.6
+Musculoskeletal and Connective Tissue
+Musculoskeletal pain? 30 2.3 20 0.8
+Arthralgia 24 1.7 15 0.6
+Skin and Subcutaneous Tissue
+Rash* 27 1.4 19 1.4
+Pruritus 25 ie) 17 0.6
+
+197
+Version date: January 2020 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “The Applicant’s Position” are completed by the Applicant
+and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 4955210

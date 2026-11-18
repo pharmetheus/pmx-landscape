@@ -1,0 +1,56 @@
+BLA Multi-disciplinary Review and Evaluation BLA 761339 Pozelimab
+
+Figure 30. Individual Body Weight vs. Age From Patients in Study 1878 Overlay With Simulated
+Weight Distribution Across Age Range
+
+[ (6) i (O) ]
+1004
+@ 504 ’ o-
+= 2 ’ Be. f
+>
+“4 :
+8 os eed x loa
+Cm a
+o4
+iy 5 10 15 20 0 5 10 15 20
+Age (years)
+oe) CY] ©)6) 6) ©)(6)
+
+Source: Figure 6 of applicant’s updated PPK analysis report submitted on May 1* of 2023.
+
+Note: The dashed lines and shaded area are the median and 90% prediction interval based on simulations from the CDC weight-for-
+age chart (Growth charts. Centers for Disease Control and Prevention, December 15, 2022); the colored symbols are the individual
+observed data from Study 1878.
+
+Figure 31. Structure PPK Model of Pozelimab
+
+sc
+" Depot
+| ‘
+KF
+by ko
+3 iS] wv + —d
+k CS baseline
+
+emt Ye
+
+REGN3918 = pozelimab; F1 = bioavailability; k, = absorption rate constant; V; = V; = volume of distribution
+(central compartment); V volume of distribution (peripheral compartment); kes, ks2 — inter-
+compartmental rate constants; k, ~ elimination rate constant; ka = synthesis rate of free C5; kex = degradation
+rate of free C5; kp = equilibrium dissociation constant; ku = elimination rate constant for pozelimab-C5
+complexes; Kaz = elimination rate constant for pozelimab-C5-C5 complexes; SC = subcutaneous; IV =
+intravenous
+
+Source: Figures 8 of Applicant's PPK Analysis Report
+
+As shown above, the base model consisted of a 2-compartment target-mediated drug
+disposition (TMDD) model with 2 binding sites based on the quasi-equilibrium (QE)
+approximation. Inter-individual variability (IIV) was included on linear clearance (CL), volume of
+the central compartment (V2 or Vc), absorption rate constant (KA) and synthesis rate of C5
+(Kin). A correction factor was added to baseline total C5 as a linear function, to provide model-
+flexibility in order to account for the initial drop in total CS concentrations between the
+baseline (time 0) and sampling time at 1 hour after the drug administration. The covariate
+
+165
+
+Reference ID: 5229031

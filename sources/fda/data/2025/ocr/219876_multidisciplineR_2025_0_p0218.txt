@@ -1,0 +1,51 @@
+NDA Multi-Disciplinary Review and Evaluation
+
+NDA 219876
+Dordaviprone
+Covariates and Clinical Due to the absence of a relationship Acceptable
+Relevance between dordaviprone exposure and safety.
+no covariate analysis was performed.
+Simulation for Specific ;
+penetra Not applicable
+Visualization of E-R relationships | Not applicable
+Overall Clinical Relevance for There was no relationship between Acceptable
+ER dordaviprone exposure and the safety
+endpoints: any TEAEs of Grade 3 or
+higher, neurological TEAE of Grade 3 or
+higher, TEAE of special interest
+(noninfectious encephalopathy/ delirium,
+extrapyramidal syndrome, torsade de
+pointes/QT prolongation, or embolic and
+thrombotic events) of Grade 3 or higher.
+Labeling Language Description Acceptability
+[FDA’s comments]
+12.2 Pharmacodynamics Not applicable
+
+Table 19.6: Applicant — Univariate Logistic Regression p-Value of Exposure-Safety
+
+Relationships
+TEAE of Special
+Any TEAE Neurological TEAE Interest
+Coax 0.61 0.20 0.24
+AUCo.168 0.95 0.18 0.55
+
+Abbreviations: AUCo-16s=area under the concentration-time curve over a 168-hour dosing interval: Cmx=maximum
+concentration; TEAE=treatment-emergent adverse event.
+Source: CHIM-PMX-ONC201-2784_ER_Safety.Rmd; m5.3.3.5
+
+The FDA’s Assessment:
+
+The E-R efficacy analysis was checked by the reviewer. Although positive trends were observed
+for ORR-RANO 2.0, ORR-LGG with the exposures (AUCo-16sn and Cmax) of dordaviprone, the
+relationships were not statistically significant (Figure 5). The results of E-R analysis are
+inconclusive due to the limited numbers of patients in the analysis.
+
+217
+
+Version date: March 1, 2024 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5638121
+

@@ -1,0 +1,54 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 219249}
+{Inavolisib}
+
+BICR. A negative differential discordance for the EDR and/or a positive differential discordance
+for the LDR between the experimental arm and the control arm beyond a threshold would
+suggest bias in the investigator assessment favoring the Inavo+Palbo+Fulv arm. Threshold
+values ranging from 0.075 to 0.100 were recommended based on simulation studies in Amit et
+al. 2011.
+
+Table 22: FDA - Concordance of INV and BICR Assessment of PFS in All Patients
+
+INV Assessment BICR Assessment
+Inavo+Palbo+Fulv (N = 161) Pbo+Palbo+Fulv (N = 164)
+Event Censor Event Censor
+Event 74 8 96 17
+Censor 3 76 2 49
+
+The concordance was 93.2% (95% Cl: 88.1%, 96.5%) for the Inavo+Palbo+Fulv arm and 88.4%
+(95% Cl: 82.5%, 92.9%) for the Pbo+Palbo+Fulv arm. The EDR was 25.6% for the
+Inavo+Palbo+Fulv arm and 25.7% for the Pbo+Palbo+Fulv arm, a difference of -0.1%. The LDR
+was 62.5% for the Inavo+Palbo+Fulv arm and 58.0% for the Pbo+Palbo+Fulv arm, a difference of
+4.5%. Neither of the differences for EDR or LDR was greater than the threshold recommended
+in Amit et al. to demonstrate investigator assessment bias in favor of Inavo+Palbo+Fulv.
+
+Data Quality and Integrity
+
+Data and the Applicant’s Position: Information requested by the Office of Scientific
+Investigations (OSI) is provided in Module 5.3.5.4. No issues were identified with the data
+quality or integrity which could affect the efficacy results.
+
+A comprehensive assessment of the impact of the COVID-19 pandemic was conducted looking
+at planned study procedures, data collection, and data analyses. Overall, the impact of the
+COVID-19 pandemic for these studies was minor and there was no significant impact on the
+study results and the overall conclusions. Similarly, an assessment on the impact of the
+Russia-Ukraine conflict on Study WO41554 was also performed and assessed as minor. For
+Study GO39374, there were no patients enrolled at investigational sites in Russia or Ukraine;
+therefore, an assessment of the Russia-Ukraine conflict was not applicable for this study.
+
+The FDA’s Assessment:
+
+Refer to Section 4.1 of this Assessment Aid regarding details for OSI inspections conducted by
+FDA. FDA OSI inspected 3 clinical sites for INAVO120 (site codes 323897, 323629, and 323146).
+INV-assessed PFS, OS, and BICR-assessed PFS were evaluated excluding these study sites to
+assess any possible effect on HR. Overall, the results were consistent with those of the ITT
+population. No action was indicated for the sites.
+
+Efficacy Results — Secondary and other relevant endpoints
+
+Version date: June 2022 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5460147

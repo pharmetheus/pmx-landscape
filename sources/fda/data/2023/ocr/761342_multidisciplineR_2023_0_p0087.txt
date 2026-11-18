@@ -1,0 +1,44 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {BLA 761342}
+Talquetamab-tgvs
+
+FDA Table 11: Median Talquetamab Exposure Difference for Change in Step-Up Dose 3 (0.4
+
+mg/kg vs 0.3 mg/kg)
+Median Exposure Difference for Step-Up Dose 3: 0.4 mg/kg vs 0.3 mg/kg
+PK Step-Up Dose 3 First treatment dose Steady State
+Parameter (Day -2) (Day 0) (Week 16 after first treatment dose)
+Cmax 27% higher 8% higher <1% higher
+Cavg 23% higher 8% higher <1% higher
+
+Simulated dosage = 0.01 mg/kg SC on Day -6; 0.06 mg/kg SC on Day -4; 0.3 mg/kg or 0.4 mg/kg SC on Day -2;
+0.8 mg/kg SC on Day 0; and then 0.8 mg/kg SC Q2W thereafter.
+
+Cavg = average concentration; Cmax = maximum concentration; Q2W = every 2 weeks
+
+Source: Table 3 in Applicant’s response (dated 13Feb2023) to 03Feb2023 IR; Applicant’s PPK Report
+
+The MonumenTAL-1 protocol allowed Investigator discretion in the choice of treatment(s) for
+CRS, including the use of tocilizumab, an anti-IL-6 antibody approved for the treatment of
+chimeric antigen receptor (CAR) T cell-induced severe or life-threatening CRS. Given the half-life
+of tocilizumab, patients who received tocilizumab to treat CRS after a step-up dose may still
+have therapeutically relevant tocilizumab concentrations, inhibition of cytokine signaling, or
+both at the time of subsequent step-up dose administration. Among 288 patients treated with
+either recommended SC dosage regimen, 15 patients had Grade 2 CRS and 71 patients had
+Grade 1 CRS after administration of step-up dose 1 (0.01 mg/kg) and prior to step-up dose 2
+(0.06 mg/kg). Tocilizumab was used to treat 11/15 (73%) patients with Grade 2 CRS and
+
+25/71 (35%) patients with Grade 1 CRS. After step-up dose 2, incidence of CRS was 8% (3/36)
+for patients who received tocilizumab to treat CRS after step-up dose 1, 70% (35/50) for
+patients who had CRS after step-up dose 1 but did not receive tocilizumab, and 45% (90/202)
+for patients who did not have CRS after step-up dose 1. FDA Figure 4 and FDA Figure 5 show
+the incidence and severity of CRS during the step-up dosing schedule by use of tocilizumab for
+0.4 mg/kg QW and 0.8 mg/kg Q2W, respectively. The impacts of tocilizumab administration on
+CRS severity and subsequent CRS events have not been fully characterized in patients receiving
+talquetamab.
+
+Version date: June 2022 (ALL NDA/ BLA reviews) 86
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5222858

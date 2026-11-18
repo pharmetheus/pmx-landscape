@@ -1,0 +1,73 @@
+NDA Multi-Disciplinary Review and Evaluation
+
+NDA 219876
+Dordaviprone
+Weight: 32.8 kg median (range: 11.8 to 115.6 kg)
+Dose(s) Included 125 mg to 625 mg
+Exposure Metrics Explored AUCo.168, Cmax
+
+Covariates Evaluated
+
+Age, body weight, sex. race, number of relapses, Kamnofsky/Lansky
+Performance score at baseline, concomitant medication use, diagnosis
+status, DIPG status, H3 K27M mutation status
+
+Final Model Parameters
+
+Summary
+
+Acceptability
+[FDA’s comments]
+
+in the primary efficacy analysis set.
+
+ORR: Univariate evaluation using logistic | Acceptable
+Model Structure Tegression
+
+OS: Cox proportional hazards model
+
+See Table 17 and Table 18 or univariate Acceptable
+Model Parameter Estimates explanation of exposure results (ORR), cox
+
+proportional hazards model (OS) results
+Model Evaluation Not applicable
+Gane There was no significant relationship ‘Acceptable
+— between dordaviprone exposure and ORR
+
+Simulation for Specific
+Population
+
+Not applicable
+
+Visualization of E-R
+relationships
+
+Not applicable.
+
+Overall Clinical Relevance for
+
+There was no significant relationship
+between dordaviprone exposure and ORR
+
+The results of E-R analysis
+for ORR are inconclusive
+
+ER in the primary efficacy analysis set due to the limited numbers
+P v y x . of subjects in the analysis
+Acceptability
+Labeling Language Description [FDA’s comments]
+12.2 Pharmacodynamics Not applicable
+
+Note, pediatric age and weight summarization presented in the ER (efficacy) Assessment Summary General Information Table is
+different from the table presented above (Table 8 in the POPPK report) because the data was summarized differently in the
+POPPK report. In the ER (efficacy) Assessment Summary General Information Table the pediatric patient (N=1) from the
+ONC006 study is included in summarization and the patients in the ONCO14 study that were >18 years old are excluded.
+
+Version date: March 1, 2024 (ALL NDA/ BLA reviews)
+
+214
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5638121

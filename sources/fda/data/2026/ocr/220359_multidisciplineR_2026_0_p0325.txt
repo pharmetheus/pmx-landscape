@@ -1,0 +1,56 @@
+doubled (i.e., to 150 mg QD) when co-administered with moderate CYP3A inducers if
+the concomitant CDK4/6 inhibitor is abemaciclib or palbociclib.
+
+Table 46 Simulated Exposure of Camizestrant in Cancer Patients when Camizestrant 150
+mg QD is Co-Administered with Moderate CYP3A Inducers
+
+Moderate Schwenger cancer population Simcyp cancer population
+CYP3A4 (Reduced CYP expression) (Normal CYP expression)
+inducer AUCss (ng/mL.h)* | Cmax,ss (ng/mL)* | AUCss (ng/mL.h)* | Cmax,ss (ng/mL)*
+(QD dose) (Geo mean, (Geo mean, (Geo mean, (Geo mean,
+90% CI) 90%CTI) 90% CI) 90%CI)
+Phenobarbital 999 (926, 1078) 74 (67, 80) 1048 (953, 1153) 77 (70, 85)
+100 mg
+Efavirenz 873 (814, 935) 66 (61, 72) 869 (800, 943) 66 (60, 72)
+600 mg
+
+* AUCs and Cmax.ss camizestrant after 14 days of camizestrant (150 mg QD) co-administration with
+
+moderate inducers
+Source: Table 1 in the response-to-query-fda-phpk-information-request-nda-220359 (seq0037)
+
+« The Applicant used PBPK analysis to show that no dose adjustment is needed
+when camizestrant is coadministered with ribociclib and a moderate CYP3A inducer. To
+verify the model's predictive capability, the Applicant was requested to
+perform additional simulations to examine whether the effects of moderate CYP3A
+inducers (phenobarbital and efavirenz) on ribociclib exposure and the mutual effects
+of ribociclib and camizestrant on each other were adequately predicted. The results
+showed that steady-state ribociclib exposure was predicted to be reduced by 51-57% with
+phenobarbital and by 64-69% with efavirenz in cancer patients following
+coadministration of ribociclib with these moderate CYP3A inducers (Table 47). The
+simulated effects of efavirenz on steady-state ribociclib exposure were similar to those
+previously reported (NDA209935/S-027 PBPK Review and PMID 32557601),
+confirming that the induction effects of moderate CYP3A inducers on ribociclib were
+adequately simulated.
+
+Regarding the mutual effects of camizestrant and ribociclib on each other: camizestrant was
+predicted to have a minimal effect on ribociclib exposure, which is consistent with clinical
+observations (Table 47). However, the effects of ribociclib on camizestrant exposure were
+underpredicted by approximately 50% when compared with the noncompartmental analysis
+(NCA) results from the FTTH study (SERENA-1, D8530C00001); the difference was less
+pronounced when compared with the popPK results. In the FTIH study, using the NCA
+method, camizestrant exposure in advanced breast cancer patients was estimated to increase by
+324
+
+Version date: March 1, 2024 (All NDA/BLA reviews)
+
+In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the Applicant,
+which do not necessarily reflect the positions of the FDA.
+
+The FDA review was conducted in conjunction with other regulatory authorities under Project ORBIS. The FDA
+collaborated with Australia’s Therapeutic Goods Administration (TGA), Brazilian Health Regulatory Agency
+(ANVISA), Health Canada (HC), Singapore’s Health Sciences Authority (HSA), and Switzerland’s Swissmedic
+(SMC). While the conclusions and recommendations expressed herein reflect the FDA’s completed review of the
+application, the applications may still be under review at the other regulatory agencies.
+
+Reference ID: 5864804

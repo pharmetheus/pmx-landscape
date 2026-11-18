@@ -1,0 +1,78 @@
+BLA 761184
+Ngenla (somatrogon)
+
+Table 71. Summary of IGF-1 SDS by ADA Status, Trial CP-4-006 (Main and OLE Full Analysis Set
+Group: Originally Randomized to Genotropin)
+Originally Randomized to Genotropin
+
+ADA+ ADA-
+
+Observed Change from Observed Change from
+
+Visit Variable Baseline Baseline
+OLE Month3 N 37 37 67 67
+Mean (SD) 0.69 (1.31) 2.47 (1.24) 0.94 (1.44) 2.64 (1.26)
+
+Median 0.52 2.72 1.18 2.66
+
+(Min, max) -1.87, 3.0 -~0.29,4.49  -3.36, 3.5 -0.15, 4.99
+
+OLE Month6 N 35 35 66 66
+Mean (SD) 1.15 (1.27) 2.94 (1.34) 0.88 (1.35) 2.57 (1.21)
+
+Median 1.23 2.97 0.91 2.62
+
+(Min, max) -1.47, 3.44 0.36,5.49  -2.75, 3.37 0.61, 5.24
+
+OLE Month9 N 29 29 62 62
+Mean (SD) 1.15 (1.12) 2.79 (1.38) 1.02 (1.44) 2.71 (1.27)
+
+Median 1.58 2.73 1.12 2.83
+
+(Min, max) -1.76, 2.46 -~0.18, 5.26 -2.84, 3.57 0.20, 5.70
+
+OLE Month 12 N 27 27 45 45
+Mean (SD) 1.48 (1.07) 3.12 (1.27) 1.20(1.21 2.84 (1.03)
+
+Median 1.50 3.04 1.07 2.92
+
+(Min, max) 0.75, 3.90 0.53,7.12 -2.86, 3.68 0.34, 4.57
+
+Source: Table 19 of isisupplement.pdf submitted on September 15, 2021.
+
+ADA positive defined as those who tested negative at baseline and tested positive after receiving drug at any time during the study
+(main + OLE), as well as those who tested positive at baseline and hadan increase in titer after receiving drug (4xbaseiine titer
+value).
+
+Abbreviations: ADA, antidrug antibodies; |GF-1, insulin4ike growth factor-1; OLE, open4abel extension; SD, standard deviation;
+SDS, standard deviation score
+
+14.3. Pharmacometrics Review
+
+14.3.1. Population PK Analysis
+
+14.3.1.1. Review Summary
+
+The Applicant developed two population PK models of somatrogon for different purposes using
+data from a phase 3 efficacy and safety trial in pediatric subjects 6 to 12 years old. In both
+models, somatrogon PK was described by a two-compartment model, with first order absorption
+constant and absorption lag time. The two models differed in the way the impact of body weight
+on somatrogon PK parameters was characterized. In the first model PK parameters were
+normalized by body weight (Equation (1.1)) while in the second model, PK parameters were
+allometrically scaled by body weight (Equation (1.2)). However, the models predicted different
+parameter estimates for a typical 15 kg child. Further review determined that the population PK
+model of somatrogon could be optimized to characterize factors influencing PK variability of
+somatrogon. The following issues were identified: Both models were over-parameterized;
+attempting to reproduce the results of the weight-normalized PopPK model gave different
+estimates than reported by the Applicant; both models did not evaluate the impact of ADA-titer
+values on somatrogon PK.
+
+In order to best characterize the PK of somatrogon, the reviewer developed an alternative PopPK
+model using PK data from phase 2 and phase 3 studies. Like the Applicant’s models, the
+alternative model was also a two-compartment model, with first-order absorption kinetics, but
+with no lag time. Also, unlike both Applicant’s models, the alternative model’s clearance
+parameters were weight normalized while volume parameters were allometrically scaled.
+
+130
+
+Reference ID: 4924352

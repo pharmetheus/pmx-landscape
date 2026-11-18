@@ -1,0 +1,76 @@
+NDA 217673
+Brinsupri (brensocatib)
+
+Table 94. Summary of Method Validation Performance (Report 8309775)
+
+Bioanalytical method
+validation report name,
+amendments, and hyperlinks
+
+AZD7986: Validation of a Method for the Determination of AZD7986 in Human Plasma
+
+Report $309775
+
+Report 8309775 Addendum 1
+
+Method description
+
+Protein precipitation / liquid chromatography with tandem mass spectrometric detection
+
+Materials used for standard
+calibration curve and
+concentration
+
+Calibration curve: 2.00 (LLOQ). 4.00. 10.0, 25.0. 100. 400, 1000. 1800. 2000 (ULOQ) nmol/L of
+Reference Standard AZD7986 in human plasma.
+
+(0.841 [LLOQ]. 1.68. 4.20, 10.5, 42.0, 168, 420, 757, 841 [ULOQ] ng/mL)
+
+Validated assay range
+
+2.00 to 2000 nmol/mL
+(0.841 to $41 ng/mL)
+
+Material used for QCs and
+
+Quality Controls: 2.00 (LLOQ). 6.00. 90.0, 1600 and 10000 (dilution QC) nmol/mL of Reference
+
+concentration Standard AZD7986 in human plasma.
+
+(0.841 [LLOQ], 2.52, 37.8, 673, and 4205 [dilution QC] ng/mL)
+MRDs NA
+Source and lot of reagents Reference Standard AZD7986:
+
+Lot €600/2 4) «. piratiowretest JUL 2015
+
+Intemal Standard (°C<)AZ13661
+Lot AZ13661057-019 Ue
+
+expiration: NA (assessed on run-by-run basis)
+
+Regression model and
+weighting
+
+linear regression: y =a + bx:
+
+weighting: 1/x?
+
+Validation parameters
+
+Method validation summary Source location
+
+Standard calibration curve Number of standard 9 Report 8309775,
+performance during calibrators from LLOQ to [Table 7.6]
+accuracy and precision runs | ULOQ
+‘Cumulative accuracy ~6.7 t0 8.0 % bias Report 8309775
+(@ébias) from LLOQ to [Table 7.6]
+ULOQ - AZD7986
+Cumulative precision 549% CV Report 83097
+(CV%) from LLOQ to [Table 7.6]
+ULOQ - AZD7986
+189
+
+Integrated Review Template, version 4.0 (11/1/23)
+
+Reference ID: 5640933
+

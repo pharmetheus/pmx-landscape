@@ -1,0 +1,64 @@
+BLA 761184
+Ngenla (somatrogon)
+
+Figure 35. VPC of the Applicant’s Final Weight-Normalized PopPK Model
+
+Al Groups All Groups
+
+300
+
+200
+
+MOD-4023 (pg/mL)
+100 200 300 400 500
+MOD-4023 (pg/mL)
+
+50 100
+
+°
+°
+
+100 300
+
+100 300
+
+200 200
+Time (days) Time (days)
+
+Source: Population PK and PKPD report (Report number PMAR-EQDD-C031b-DP4-1 121), page 34/1938.
+Abbreviations: PopPK, population pharmacokinetics; MOD-4023, somatrogon; VPC, visual predictive check
+
+14.3.1.3.5. Reviewer’s Comments
+
+Although both models provide adequate description of the data, they were over-parameterized.
+Upon repeating the Applicant’s analyses, the reviewer found that the Applicant’s Allometric
+PopPK model had large conditional number (18392) and large coefficient of correlations among
+parameters. The correlated parameters are given in Table 77.
+
+Table 77. Coefficients of Correlation Among Model Parameters Indicating Unidentifiability of V2,
+CL, and Covariance Parameters (BSV-V2 Versus BSV-CL)
+
+Correlated Parameters Coefficient of Correlation Implication
+
+= Covariance (between BSV-V2 and BSV-CL)
+OMEGA(2,1)-CL wed is unidentifiable with CL
+V2-CL 0.96 V2is unidentifiable with CL
+OMEGA(2,1)-V2 0.99 Covariance (between BSV-V2 and BSV-CL)
+
+is unidentifiable with V2
+
+‘Source: Reviewers independent analysis.
+The repeat of the Applicant's weight-nommalized PopPK model did not yield the same parameter estimates as those reported by the
+Applicant. Table 78 shows that using the same datasetand the model from the Applicant, parameter estimation yielded different
+estimates compared to those reported by the Applicantin Table 76. The model had large conditional number (1.221e+009) and
+large coefficients of correlation among parameters indicating unidentifiability.
+
+Abbreviations: BSV; between-subject variability; CL, clearance; RSE, relative standard error, V2, volume of central compartment
+
+The Applicant’s Weight-normalized model was therefore not acceptable for sequential PKPD
+modeling. Despite adequate description of the PK data, the Allometric model was also unsuitable
+due to unidentifiability among some of the parameters.
+
+138
+
+Reference ID: 4924352

@@ -1,0 +1,50 @@
+NDA/BLA Multi-disciplinary Review and Evaluation — BLA 761384
+Telisotuzumab Vedotin
+
+PopPK analysis suggests that baseline tumor size is associated with the degree of ADC
+deconjugation to produce MMAE, specifically the deconjugation of ADC carrying\4
+
+1)
+MMAE. @
+
+FDA Table 9: Parameter Estimates and Variability of Telisotuzumab Vedotin Conjugate
+Pharmacokinetics — Final vs Updated Model
+
+Parameter Population Estimate (Y%RSE)
+
+Original Updated
+OFV ~y 13550.815 |% Diff}
+CL (Liday) 1.35 (2.79%) 7
+Ve (L) 3.46 (1.35%)
+Q (Liday) 1.22 (4.57%)
+Vp (L) 2.40 (2.66%)
+Body Weight on CL and Q 0.406 (18.4%)
+Body Weight on Ve and Vp 0.589 (7%)
+ADA on CL 1.16 (3.55%)
+Albumin on CL -0.785 (23.3%)
+Black or African American vs. White on CL 0.775 (6.48%)
+Asian vs. White on CL 0.902 (3.5%)
+Age on Ve 0.217 (22.7%)
+Albumin on Ve -0.462 (23.2%)
+Sex on Ve 0.923 (2.32%)
+Baseline tumor on CL* 0.102 (22.1%)
+Proportional Error 0.0529 (1.1%)
+Additional Error 0.0443 (3.4%)
+
+Population Estimate (%CV)
+
+Parameter Original Updated |% Diff]
+ITV on CL aa 0.0883 (29.7%) ey)
+TIV on Ve 0.0265 (16.3%)
+
+Note:  %RSE was calculated as the standard error of the estimator divided by the absolute value of the mean of the estimator
+multiplied by 100. %CV was calculated as SQRT(exp(«”)-1)*100). *Baseline tumor size by Investigator normalized to
+median (67.5 mm) was parameterized with power function.
+
+209
+Version date: March 1, 2024 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as "Data" and "The Applicant's Position" are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5590242

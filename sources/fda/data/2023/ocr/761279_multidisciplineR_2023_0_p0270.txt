@@ -1,0 +1,54 @@
+BLA 761279 Omvoh (mirikizumab), injection
+
+The cross-validation performed for the assay performance between two laboratories was
+acceptable. It was noted that the validated concentration range was up to 10000 ng/ml while
+the majority of samples had concentrations higher than 10000 ng/ml concentrations. The
+dilution linearity was established for dilutions ranging from 1:62.5 to 1:2,500.
+
+Review of bioanalytical reports indicated that the bioanalytical method for measurement of
+mirikizumab concentrations performed acceptably in each study. This includes relative
+bioavailability study AMBW, which provides pivotal evidence to support use of the Al
+presentation.
+
+Assay Method Validation Report 179714 — Determination of LY3074828 [mirikizumab] in Human Serum
+by ELISA ( me)
+
+The assay method is based on binding of mirikizumab to IL-23 that has been immobilized onto a
+microtiter plate. After blocking un-adsorbed sites, analyte in the samples, including standards,
+quality control samples (QCs), and trial samples, are dispensed onto the plate and incubated. A
+mouse anti-human IgG4 horseradish peroxidase (HRP) conjugate is added. The reaction is
+initiated via the addition of tetramethylbenzidine, which leads to the development of color
+proportional to the amount of mirikizumab present. Runs are read on a plate reader at 450 nm
+(detection) and 620 nm (background), and concentrations are determined on a standard curve.
+
+Table 92. Method Validation Report 179714
+
+Bioanalytical method Method validation adequate to support results in studies AMAA, AMAD,
+review summary AMBP, AMAC, AMAN, AMBG, AMAE, AMAL, and AMBW.
+
+Materials used for LY3074828 [mirikizumab] (anti-IL-23) reference standard, Lot #RSO868,
+calibration curve,QCs_ | 5.7 mg/mL, supplied by Lilly Research Laboratories
+& concentration
+
+Validated assay range | 100 ng/mL (LLOQ) to 10,000 ng/mL (ULOQ) in human serum
+
+Minimum required 1:100
+
+dilutions (MRDs)
+
+Source & lot of LSN2821342 (IL-23), Lot #RS1136, 0.08 mg/mL, Lilly
+reagents (LBA)
+
+Mouse anti-human IgG4 HRP-conjugate, Cat. #9200-05, Lot #G4818-VF28F,
+1 mg/mL, (b) (4)
+
+Regression model & 4-parameter logistic fit with 1/Y? weighting
+weighting
+
+Validation parameters Method validation summary Acceptability
+
+257
+
+Version date: October 12, 2018
+
+Reference ID: 5154774

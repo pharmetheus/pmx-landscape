@@ -1,0 +1,58 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {BLA 761344}
+{Tarlatamab}
+
+results for CRS derived from the
+safety dataset may be confounded
+by the mitigation approach and may
+not accurately reflect the true
+relationship between tarlatamab
+exposure and CRS risk.
+
+Labeling Language Description Acceptability
+[FDA’s comments]
+12.2 Pharmacodynamics The safety of tarlatamab was
+
+evaluated at two dose levels, 10 and
+100 mg, in the dose expansion
+cohorts in study 20200491. The
+following statement was included in
+section 12.2.
+
+“There is an exposure-response
+relationship between tarlatamab
+exposure and neutropenia or
+neurologic toxicity including ICANS
+with a higher risk of any grade
+neutropenia or neurologic toxicity
+including ICANS at higher exposure.”
+
+Amgen Pharmacometrics Report: 157687
+
+Table 74 Frequencies of Adverse Events by Exposure Quartiles
+
+Cavg, first cycle median [range] in pg/mL
+
+Q10.0599 Q2 0.865 Q3 4.35 Q49.24 Overall 1.12
+[0.000185,0.603] (0.619,1.12] [1.13,6.94] [6.94,15] [0.000185,15]
+Nevent/Nsubject Rate [95%Cl]
+71/103 51/103 69/103 62/103 253/412
+68.9[59.1,77.7] 49.5[39.5,59.5] 67[57,75.9] 60.2(50.1,69.7] _ 61.4[56.5,66.1]
+TRAE 43/103 19/103 49/103 35/103 146/412
+41.7[32.1,51.9] 18.4[11.5,27.3] 47.6[37.6,57.6] 34[24.9,44] 35.4[30.8,40.3]
+Neut: i 4/103 5/103 10/103 17/103 36/412
+jeutropenia —_3.88[1.07,9.65] 4.85[1.59,11] 9.71[4.75,17.1] _ 16.5[9.92,25.1] _8.74[6.19,11.9]
+Neurological 10/103 9/103 13/103 6/103 38/412
+event 9.71[4.75,17.1] 8.74[4.07,15.9] 12.6[6.89,20.6] _5.83(2.17,12.2] _ 9.22[6.61,12.4]
+ICANS 3/103 1/103 5/103 4/103 13/412
+2.91[0.605,8.28] _ 0.971[0.0246,5.29] _4.85[1.59,11] 3.88[1.07,9.65] _3.16[1.69,5.34]
+Cmax, first cycle, median [range] in pg/mL
+Q10.351 Q2 4.06 Q3 24.9 439.5 Overall 5.45
+(0.001,3.27] [3.28,5.44] (5.46,32.6] (32.6,81.4] (0.001,81.4]
+317
+
+Version date: June 2022 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5382024

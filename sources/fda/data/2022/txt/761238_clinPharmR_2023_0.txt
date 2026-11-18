@@ -1,0 +1,874 @@
+CENTER FOR DRUG EVALUATION AND
+RESEARCH
+APPLICATION NUMBER:
+
+761238Orig1s000
+CLINICAL PHARMACOLOGY
+REVIEW(S)
+
+Office of Clinical Pharmacology (OCP) Review
+Applicant
+
+TG Therapeutics, Inc.
+
+Product (Generic Name)
+
+Ublituximab (TG-1101)
+
+Product (Trade Name)
+
+BRIUMVI® (ublituximab) injection
+
+Link to EDR
+
+\\CDSESUB1\evsprod\BLA761238\0001
+
+BLA Submission
+
+761238 (Sequence 0001)
+
+Dosage Form (Strength)
+
+Intravenous injection (25 mg/mL)
+
+Route of Administration
+
+Intravenous infusion
+
+Proposed Dosing
+regimen
+
+First and Second Infusions: 150 mg intravenous infusion
+(First Infusion), followed two weeks later by a 450 mg
+intravenous infusion (Second Infusion).
+Subsequent Infusions: 450 mg intravenous infusion
+every 6 months.
+
+Indication
+
+Treatment of relapsing forms of multiple sclerosis (MS),
+to include clinically isolated syndrome, relapsingremitting disease, and active secondary progressive
+disease, in adults.
+
+Submission Date
+
+09/24/2021
+
+OCP Review Team
+
+Anantha Ram Nookala, Ph.D., Vishnu Sharma, Ph.D.,
+Atul Bhattaram, Ph.D., Gopichand Gottipati, Ph.D.
+
+Final Signatory
+
+Mehul Mehta, Ph.D.
+
+OCP Division
+
+Division of Neuropsychiatric Pharmacology (DNP)
+
+OND Division
+
+Division of Neurology II (DN2)
+
+1
+
+Reference ID: 5085285
+
+Table of Contents
+1.
+
+Executive Summary ................................................................................................. 3
+1.1 Recommendations ................................................................................................. 3
+1.2 Post marketing requirements and commitments .................................................... 4
+
+2.
+
+Summary of Clinical Pharmacology Assessment ..................................................... 6
+2.1 Pharmacology and Clinical Pharmacokinetics ....................................................... 6
+2.2 Dosing and Therapeutic Individualization .............................................................. 7
+2.2.1 General Dosing ............................................................................................... 7
+2.2.2 Therapeutic individualization ........................................................................... 7
+2.3 Outstanding Issues ................................................................................................ 7
+2.4 Summary of Labeling Recommendations .............................................................. 8
+
+3. Comprehensive Clinical Pharmacology Review .......................................................... 8
+3.1 Overview of the Product and Regulatory Background ........................................... 8
+3.2 General Pharmacology and Pharmacokinetic Properties ...................................... 8
+3.3 Clinical Pharmacology Questions ........................................................................ 10
+3.3.1 To what extent does the available clinical pharmacology information provide
+pivotal or supportive evidence of effectiveness? .................................................... 10
+3.3.2 Is the proposed dosing regimen appropriate for the general population for which
+the indication is being sought? ............................................................................... 13
+3.3.3 Is an alternative dosing regimen and management strategy required for
+subpopulations based on intrinsic/extrinsic factors? .............................................. 13
+3.3.4 Are there clinically relevant food-drug or drug-drug interactions and what is the
+appropriate management strategy? ....................................................................... 18
+3.3.5 Is the to-be-marketed formulation the same as the clinical trial formulation, and
+if not, are there bioequivalence data to support approval of the to-be marketed
+formulation? ........................................................................................................... 18
+4 APPENDICES ............................................................................................................ 19
+4.1 Summary of Bioanalytical Method Validation ....................................................... 19
+4.2 Pharmacometrics Assessment: Population PK Analyses .................................... 22
+4.2.1 Applicant’s Population PK analysis: .............................................................. 22
+4.2.2 Reviewer’s Analysis ...................................................................................... 30
+2
+
+Reference ID: 5085285
+
+1. Executive Summary
+In this original Biologics License Application (BLA) 761238, the applicant, TG
+Therapeutics Inc., is seeking approval of Ublituximab for the treatment of relapsing forms
+of multiple sclerosis (RMS), to include clinically isolated syndrome, relapsing-remitting
+disease, and active secondary progressive disease, in adults. Ublituximab (Tradename:
+BRIUMVI®) is a New Molecular Entity (NME) and is not marketed in the US for any
+indication. It is a recombinant immunoglobulinG1 chimeric monoclonal antibody (mAb),
+which is presumed to target the cluster of differentiation (CD) 20 antigen expressed on
+the surface of pre-B and mature B lymphocytes triggering antibody-dependent cellular
+cytotoxicity, antibody-dependent cellular phagocytosis, and complement-mediated lysis.
+Currently, there are two FDA approved (anti-CD20) B-cell targeted mAb therapies,
+namely ocrelizumab and ofatumumab for the treatment of MS.
+The applicant is relying on two identical pivotal, multicenter, randomized, double-blind,
+active comparator-controlled phase 3 studies (TG1101-RMS301 and TG1101-RMS302)
+in subjects with RMS. The primary efficacy endpoint, reduction in the annualized relapse
+rate (ARR) compared to teriflunomide (active comparator), met the prespecified criteria
+for efficacy in both the studies, following 150 mg administered by intravenous (IV) infusion
+on Day 1, followed by 450 mg by IV infusion on Day 15. Subsequent infusions are 450
+mg IV infusions administered every 6 months. Besides the two phase 3 studies in RMS
+patients, the applicant conducted a dose-ranging study (TG1101-RMS201) in RMS
+patients in the current BLA. The applicant also conducted additional studies in chronic
+lymphocytic leukemia or small lymphocytic lymphoma and filed under BLA 761207 with
+Division of Cancer Pharmacology I, but it was ultimately withdrawn.
+The primary focus of this review is to evaluate (1) the appropriateness of the dosing
+regimen in the general population and (2) the need for dose optimization based on
+extrinsic and intrinsic factors.
+
+1.1 Recommendations
+The Office of Clinical Pharmacology (OCP) team reviewed the information submitted
+under this BLA 761238 and recommends approval of Ublituximab for the treatment of
+RMS in adults.
+Key review issues with specific recommendations and comments are summarized below:
+
+3
+
+Reference ID: 5085285
+
+neutralization assay, re-analyze neutralizing antibody in patients enrolled in the
+pivotal clinical studies (TG1101-RMS301 and TG1101-RMS302), and evaluate the
+potential impact on the pharmacokinetics, pharmacodynamics, safety, and efficacy
+of Ublituximab.
+
+5
+
+Reference ID: 5085285
+
+2. Summary of Clinical Pharmacology Assessment
+2.1 Pharmacology and Clinical Pharmacokinetics
+Mechanism of Action
+Ublituximab is a recombinant, glycoengineered mAb and the exact mechanism by which
+it exerts therapeutic effects in RMS is not known. It is presumed to target the CD20
+antigen expressed on the surface of pre-B and mature B lymphocytes. Following cell
+surface binding to B lymphocytes, ublituximab triggers antibody-dependent cellular
+cytolysis, antibody-dependent cellular phagocytosis, and complement-mediated lysis
+resulting in the depletion of B cells.
+Absorption
+Since ublituximab is administered by IV infusion, absorption is not relevant.
+Distribution
+The volume of distribution of ublituximab is 3.2 liters.
+Metabolism and excretion
+Ublituximab is expected to be degraded to small peptides and amino acids via catabolic
+pathways in the same manner as endogenous IgGs. Monoclonal antibodies typically do
+not undergo metabolism by the cytochrome P450 system and unlikely to be affected by
+drug transporters; therefore, no drug interaction studies were conducted with ublituximab.
+The mean clearance of ublituximab is 11.2 L/h and the mean terminal half-life was
+approximately 22 days.
+Age, Race, Sex, and Weight
+The covariate effects of age, race, sex, and weight are unlikely to be clinically relevant
+(please refer to Appendix 4.3 for further details). Therefore, no dose adjustments are
+recommended for ublituximab based on these covariates.
+Specific Populations:
+Patients with Renal or Hepatic Impairment
+Generally, the IgG monoclonal antibodies undergo elimination via intracellular catabolism
+and therefore, hepatic impairment is not expected to significantly impact the disposition
+of ublituximab. Furthermore, renal elimination of monoclonal antibodies is generally
+considered low. Therefore, applicant did not conduct any dedicated studies to evaluate
+the impact of renal or hepatic impairment on the PK of ublituximab. There was no clinically
+relevant change in pharmacokinetics observed in patients with mild renal impairment, or
+in patients with mild hepatic impairment based on data from phase 3 studies. The impact
+6
+
+Reference ID: 5085285
+
+of renal or hepatic impairment is unlikely to be clinically relevant and therefore, no dose
+adjustments are recommended for ublituximab based on renal or hepatic impairment.
+Immunogenicity:
+Overall, the final immunogenicity database consisted of 534 subjects from two Phase 3
+clinical studies (TG1101-RMS301 and TG1101-RMS302; shown in Table 1) from which
+anti-ublituximab antibody (ADA) results were available. Of these subjects, treatmentemergent ADAs (TE-ADAs) were detected in 434 subjects (81.3%). Clinical samples for
+potential neutralizing activity were characterized in 434 TE-ADA positive subjects and
+neutralizing antibodies (NAbs) were detected in 34 subjects (7.83%). However, the
+presence of TE-ADAs did not have a clinically meaningful impact on ublituximab
+exposure, percent change in B-lymphocytes from baseline, and efficacy. The assay used
+to measure NAbs is subject to interference from serum ublituximab, possibly resulting in
+an underestimation of the incidence of NAb formation. Due to the limitation of the assay
+conditions, the potential clinical impact of NAb to ublituximab is not known. Please refer
+to Appendix 4.2 and Office of Biotechnology Products review for additional details on
+immunogenicity assessments.
+
+2.2 Dosing and Therapeutic Individualization
+2.2.1 General Dosing
+The general dosing regimen is 150 mg diluted in 250 mL of 0.9% sodium chloride
+administered as IV infusion over 4 hours on Day 1, followed by 450 mg diluted in 250 mL
+of 0.9% sodium chloride administered as IV infusion over 1 hour on Day 15. Subsequent
+infusions are 450 mg IV infusions over 1 hour administered every 6 months. The dosing
+regimen is identical to that evaluated in pivotal efficacy/safety studies in RMS subjects.
+2.2.2 Therapeutic individualization
+No therapeutic individualization is necessary for extrinsic/intrinsic factors. Ublituximab is
+administered by intravenous route, and therefore, food-drug interactions are not
+anticipated. In addition, its drug-drug interaction liability is considered low (See Section
+2.1). No dedicated clinical studies were performed in subjects with renal or hepatic
+impairment; however, renal or hepatic impairment is not expected to impact the
+pharmacokinetics of ublituximab. Therefore, no dose adjustment is warranted in patients
+with hepatic or renal impairment.
+
+2.3 Outstanding Issues
+None
+
+7
+
+Reference ID: 5085285
+
+2.4 Summary of Labeling Recommendations
+The applicant’s labeling recommendations are generally acceptable.
+
+3. Comprehensive Clinical Pharmacology Review
+3.1 Overview of the Product and Regulatory Background
+Ublituximab is supplied at a concentration of 25 mg/mL (150 mg/6 mL) in a single-use
+glass vial as a sterile, clear to opalescent, colorless to slightly yellow solution for dilution
+with 0.9% sodium chloride prior to intravenous infusion. Ublituximab is a IgG1 mAb that
+has 2 glycosylated heavy and light chains with 16 correctly paired disulfide bonds. The
+exact mechanism of action of ublituximab is unknown but is presumed to involve targeting
+the CD20 receptor expressed on the surface of pre-B and mature-B lymphocytes to
+trigger antibody-dependent cellular cytolysis, antibody dependent cellular phagocytosis
+and complement-mediated lysis.
+Currently, there are several FDA approved disease-modifying therapies for the treatment
+of RMS consisting of small molecules (teriflunomide, monomethyl fumarate, dimethyl
+fumarate, fingolimod, siponimod, ponesimod, ozanimod, mitoxantrone and cladribine)
+and large molecules such as mAbs and small proteins (interferon beta-1a and interferon
+beta-1b, and glatiramer acetate). The approved mAbs include B-cell targeting therapies
+(ocrelizumab and ofatumumab) and T-cell targeting therapies (natalizumab and
+alemtuzumab).
+In a Type C meeting held on 16 June 2020, the agency indicated that the use of a
+population pharmacokinetic approach to support labeling regarding drug-demographic
+and drug-disease interactions seemed reasonable and levels of anti-drug antibodies
+should be evaluated in the Phase 3 pivotal trials. Special protocol assessment agreement
+letters for the pivotal Phase 3 trials were issued by the FDA on 19 October 2020. A Type
+B pre-BLA meeting was held with FDA on 06 April 2021 to discuss the efficacy and safety
+data from Studies TG1101-RMS301 and TG1101-RMS302 that would support the BLA
+of ublituximab for the treatment of adult patients with RMS.
+
+3.2 General Pharmacology and Pharmacokinetic Properties
+A summary of pharmacology and PK characteristics of ublituximab are summarized in the
+table below.
+
+8
+
+Reference ID: 5085285
+
+Table 1:Overview of Study Design for Phase 3 Studies (TG1101-RMS301 and
+TG1101-RMS302)
+Study ID
+
+TG1101-RMS301 and TG1101-RMS302
+
+Primary Endpoint
+
+Annualized Relapse Rate
+
+Study Design
+
+A phase 3, randomized, multicenter, double-blinded,
+double-dummy, active-controlled study with 3 periods:
+1. Screening (4 weeks)
+2. Treatment Period (96 weeks)
+3. Follow-Up (20 weeks)
+
+Study Treatments
+
+Ublituximab – 150 mg Day 1, 450 mg on Day 15, Week 24,
+48, 72, and 96
+Teriflunomide – 14 mg QD from Week 1 Day 1 until the last
+day of Week 95
+
+No. of Randomized
+patients with at least
+one dose and one
+baseline and postbaseline efficacy
+assessment (n)
+
+TG1101-RMS301 – ublituximab: 271; teriflunomide: 274
+
+Key Inclusion Criteria
+
+≥ 2 relapses in prior 2 years or 1 relapse in the year prior
+to screening and /or ≥ Gadolinium enhancing lesion
+
+TG1101-RMS302 – ublituximab: 272; teriflunomide: 272
+
+Documented MRI of brain with abnormalities consistent
+with MS
+Expanded Disability Status Scale 0.5-5 (inclusive) at
+screening
+Treatment Duration
+
+120 weeks double blind
+
+Source: Adapted from CSR TG1101-RMS301, Page 32-35 and 56, and TG1101RMS302, Page 32-35 and 57
+
+11
+
+Reference ID: 5085285
+
+3.3.2 Is the proposed dosing regimen appropriate for the general population for
+which the indication is being sought?
+Yes. The proposed general dose and dosing regimen for the proposed indication in RMS
+is appropriate.
+The applicant conducted the pivotal phase 3 trials with a fixed dosing regimen of 450 mg
+every 6 months, following a first dose of 150 mg on day 1 and second dose of 450 mg on
+day 15, and weeks 24, 48, 72, and 96. The dose was selected based on a phase 2 dose
+ranging study (TG1101-RMS201). The applicant assessed maintenance dose of 450 and
+600 mg ublituximab doses and various infusion durations (1, 1.5, and 3 hours) in patients
+with RMS. No significant differences in the primary efficacy variable (responder rate of Bcell depletion at Week 4) and safety events in the 450 and 600 mg dose cohorts following
+the initial 150 mg dose were reported. Based on these results, the applicant selected 450
+mg dose for the pivotal phase 3 trials in RMS patients. The B-cell reductions were
+sustained pre-dose at Week 24 and at Week 48; therefore, a dosing interval of 24 weeks
+was selected in the phase 3 trial.
+The most common adverse events reported from phase 3 trials include infusion reactions,
+respiratory tract infections, Herpes virus-associated infections, and pain in extremities.
+Please refer the clinical review by Drs. Rui Li, Laura Baldassari, and Paul Lee for more
+details.
+In conclusion, the ublituximab dosing regimen as indicated in section 1.1 is approvable
+from clinical pharmacology perspective.
+3.3.3 Is an alternative dosing regimen and management strategy required for
+subpopulations based on intrinsic/extrinsic factors?
+No. Dose adjustment is not necessary based on the intrinsic factors such as bodyweight,
+age, race, sex, renal or hepatic impairment and extrinsic factor such as food-intake or
+drug-interactions as described below. Population pharmacokinetic analysis was
+conducted on data from 591 subjects to evaluate the impact of intrinsic and extrinsic
+factors.
+Body Weight
+Body weight was identified to be a statistically significant predictor of ublituximab
+clearance and volume of distribution; increase in the body weight decreased ublituximab
+exposures at steady state. Applicant has quantified these changes i.e. up to 24% increase
+and 22% decrease in PK exposures (Cmax,ss, Cmin,ss and AUCss) for 5th percentile (50 kg)
+and 95th percentile (111 kg) of weight distribution, respectively as compared to a 73 kg
+typical subject based on the final population PK model. The changes in ublituximab
+exposure based on body weight are not expected to be clinically relevant. Additionally, it
+13
+
+Reference ID: 5085285
+
+should be noted that only fixed doses of ublituximab were administered in all the clinical
+studies. Therefore, no dose adjustment is warranted based on bodyweight.
+Sex
+PK data of 351 females and 204 males dosed with ublituximab were compared and the
+median PK parameters in males were lower than in females. However, based on the
+magnitude of the impact at the steady state (Cmax, Cmin and AUC were within 20% of the
+typical values), sex is unlikely to be clinically relevant covariate. Therefore, no dose
+adjustment is needed based on sex.
+Renal impairment
+No dedicated renal impairment studies were conducted. Based on the population
+pharmacokinetic analysis, the mean predicted exposures for mild renal impairment
+patients (n=101) at steady state were increased by 17% and 19% for Cmax,ss and
+Cavg,ss, respectively compared to normal renal function patients. In general, renal
+elimination of monoclonal antibodies is considered low, and given the minimal impact on
+exposures, no dose adjustment is recommended based on renal impairment.
+Hepatic impairment
+No dedicated hepatic impairment studies were conducted. Based on the population
+pharmacokinetic analysis, the mean predicted exposures at steady state for mild hepatic
+impairment patients (n=19) were comparable to normal hepatic function patients. The PK
+data from moderate hepatic impairment patients was limited (n=3) to draw meaningful
+conclusions. In general, hepatic elimination of monoclonal antibodies is considered low
+and given the minimal impact on exposures, no dose adjustment is recommended based
+on hepatic impairment.
+Immunogenicity
+The clinical immunogenicity database for ublituximab includes results from three clinical
+studies comprising of a total of 574 evaluable subjects: 40 subjects from TG1101RMS201 and 534 subjects from combined phase 3 studies (TG1101-RMS301 and
+TG1101-RMS302). It should be noted that only the subjects from phase 3 studies were
+included for evaluating the effect of immunogenicity on PD (mean percent change in Blymphocytes from baseline), safety, and efficacy.
+a. Effect of Immunogenicity on Ublituximab PK
+The impact of TE-ADA status on ublituximab Cmax and Cavg is shown Figure 1. The mean
+Ctrough and Cavg values at week 48 were approximately 16% and 7.6% lower, respectively
+in TE-ADA positive subjects compared to TE-ADA negative subjects. The Cmax values at
+week 48 were unchanged in TE-ADA positive subjects compared to TE-ADA negative
+
+14
+
+Reference ID: 5085285
+
+subjects. These findings suggest that the effect of TE-ADA on ublituximab PK is not
+expected to be clinically relevant.
+Figure 1:Effect of TE-ADA status on PK
+
+Source: Reviewer’s independent analysis
+b. Effect of Immunogenicity on Ublituximab PD
+The impact of ADA status on PD (mean percent change in B-lymphocytes from baseline)
+was evaluated at 24, 48, 72 and 96 weeks as shown in Table 3. The results suggest that
+there were no significant differences in the percent B-lymphocyte count from baseline in
+TE-ADA positive subjects compared to TE-ADA negative subjects. Further correlation
+analyses at 24, 48, 72 and 96 weeks was conducted by dividing the TE-ADA positive
+subjects into 4 quartiles based on TE-ADA-titer values as shown in Figure 2. The results
+indicated that percent change in B-lymphocyte count from baseline was similar across all
+the quartiles at all the weeks, except for week 24 where the percent change in Blymphocyte count from baseline was lower in TE-ADA-titer quartile 4. However, this
+change is not expected to be clinically relevant as there is no change in the primary
+efficacy endpoint (ARR) compared to other TE-ADA-titer quartiles. The assay used to
+measure NAbs is subject to interference from serum ublituximab, possibly resulting in an
+
+15
+
+Reference ID: 5085285
+
+underestimation of the incidence of NAb formation. Due to the limitation of the assay
+conditions, the potential clinical impact of NAb on ublituximab PD is not known.
+Figure 2: Effect of TE-ADA status by quartiles on CD19 B-lymphocytes at week
+24, 48, 72, and 96
+
+Source: Reviewer’s independent analysis
+
+16
+
+Reference ID: 5085285
+
+Table 3: B-lymphocyte Count (%) Decrease from Baseline by Post-baseline TEADA Status
+Endpoint
+
+TE-ADA
+Positive (n)
+
+TE-ADA
+Negative (n)
+
+Mean Percent Change BLymphocyte from Baseline at
+Week 24
+
+-88.1 (423)
+
+-90.2 (94)
+
+Mean Percent Change BLymphocyte from Baseline at
+Week 48
+
+-88.1 (415)
+
+-90.1 (93)
+
+Mean Percent Change BLymphocyte from Baseline at
+Week 72
+
+-89.6 (410)
+
+-90.6 (91)
+
+Mean Percent Change BLymphocyte from Baseline at
+Week 96
+
+-89.3 (396)
+
+-89.7 (83)
+
+Source: Adapted from Applicant Integrated Summary of Immunogenicity, Pg 126-132
+c. Effect of Immunogenicity on Ublituximab Efficacy
+The impact of ADA status on primary efficacy endpoint (ARR) was evaluated at week 96
+and the results are summarized in Table 4. The mean ARR in TE-ADA positive subjects
+was comparable to TE-ADA negative subjects. Further analyses were conducted by
+dividing the ADA positive subjects into 4 quartiles based on ADA-titer values (Table 4).
+There were no clinically relevant differences in the ARR in any of the TE-ADA-titer
+quartiles.
+Table 4: Effect of Immunogenicity on Annualized Relapse Rate by Post-baseline
+TE-ADA Status
+Endpoint
+
+TE-ADA Positive
+(n)
+
+TE-ADA Negative
+(n)
+
+Mean Annualized Relapse
+
+0.10 (434)
+
+0.12 (100)
+
+0.18 (108)
+
+N/A
+
+Rate (ARR)
+Titer Q1
+
+17
+
+Reference ID: 5085285
+
+Titer Q2
+
+0.09 (109)
+
+N/A
+
+Titer Q3
+
+0.08 (108)
+
+N/A
+
+Titer Q4
+
+0.05 (109)
+
+N/A
+
+Source: Adapted from Applicant Integrated Summary of Immunogenicity, Pg-16
+d. Effect of Immunogenicity on Ublituximab Safety
+Incidence of treatment emergent adverse events and adverse events of special interest
+were similar in TE-ADA positive subjects compared to TE-ADA negative subjects. As no
+clinically relevant differences were noted, further analysis evaluating the impact of
+immunogenicity on ublituximab safety were not conducted.
+3.3.4 Are there clinically relevant food-drug or drug-drug interactions and what is
+the appropriate management strategy?
+Since ublituxmab is administered by intravenous infusion, food-drug interactions are not
+anticipated.
+Ublituximab is a monoclonal antibody and is not a cytokine modulator, therefore it is
+unlikely to influence drug metabolizing enzymes/transporters. Therefore, no drug-drug or
+transporter-drug interaction studies were conducted in-vitro or in-vivo.
+3.3.5 Is the to-be-marketed formulation the same as the clinical trial formulation,
+and if not, are there bioequivalence data to support approval of the to-be marketed
+formulation?
+Yes. The applicant used two different concentrations of the ublituximab drug product (10
+and 25 mg/mL) in the phase 3 trials while the concentration of the to-be-marketed
+(b) (4)
+formulation is 25 mg/mL. Both the drug product concentrations contained
+sodium
+(b) (4)
+(b) (4)
+citrate,
+sodium chloride, and
+polysorbate 80, pH 6.5. Since both the drug
+products were diluted in 0.9% sodium chloride before use and the other components
+remained the same, both the drug products were considered comparable. Please refer to
+the OBP review by Drs Xiaoshi Wang, and Yan Wang, and clinical efficacy review by Drs.
+Drs. Laura Baldassari and Paul Lee for additional details on the different drug product
+concentrations.
+
+18
+
+Reference ID: 5085285
+
+4 APPENDICES
+4.1 Summary of Bioanalytical Method Validation
+For the determination of plasma ublituximab concentrations, the applicant used a ligand
+binding electrochemiluminescent immunoassay (ECLIA) method. Briefly, anti-ublituximab
+polyclonal antibody was immobilized on a meso scale discovery plate to capture
+ublituximab present in the serum. Bound ublituximab was detected by an anti-ublituximab
+antibody that is labeled with ruthenium. Electrodes within the plates were stimulated
+resulting in emission of an Electrochemiluminescent signal from the ruthenium label,
+which is proportional to the amount of ublituximab that is bound by the capture antibody.
+(b) (4)
+This method was developed and validated
+The ELISA method was validated in compliance with the standards set forth in the 2018
+FDA Bioanalytical Method Validation guidance. Summary of the validation parameters is
+presented in the table below:
+
+19
+
+Reference ID: 5085285
+
+Table 5:Summary of Assay Validation Report
+Analyte
+
+TG-1101 (Ublituximab)
+
+Source and Lot of Reagents
+
+Ublituximab
+drug
+product,
+TG
+Therapeutics, Inc., Lot AJ0106 25 mg/mL
+
+Biological Matrix
+
+Human serum
+
+Minimum Required Dilution
+
+1:100
+
+LLOQ
+
+15.63 ng/mL
+
+ULOQ
+
+2000 ng/mL
+
+MQC
+
+187.5 ng/mL
+
+Cumulative
+Standards
+
+Accuracy
+
+(%Bias)
+
+of -2.10% - 1.90%
+
+Cumulative Precision (%CV) of Standards 1.62% - 2.83%
+Cumulative Inter-Assay Accuracy (%RE)
+
+-8.71% - 13.95%
+
+Intra-Batch Precision (%CV)
+
+4.21 – 11.54
+
+Hook Effect
+
+No prozone/hook effect was observed; the
+dilutions with nominal concentrations
+above the ULOQ quantified greater than
+the ULOQ.
+The overall mean concentration across all
+the dilutions evaluated for the DC (1000to 25,000-fold) and ULOQ (2- to 50-fold)
+had a precision of ≤20% CV.
+
+Hemolysis Effect
+
+Precision ≤25% CV and accuracy within
+±25% RE of the nominal concentration
+
+Source: Adapted from 1128004 validation report
+
+20
+
+Reference ID: 5085285
+
+Reviewer’s comments:
+The validated assay performance was reviewed for the pivotal phase 3 studies. Accuracy
+and precision of QC samples were ≤15% (and ≤20% at LLQ), and calibration curves for
+the LC-MS/MS bioanalytical assay were within acceptable limits.
+
+21
+
+Reference ID: 5085285
+
+4.2 Pharmacometrics Assessment: Population PK Analyses
+4.2.1 Applicant’s Population PK analysis:
+Objectives: To update a previously developed pop PK model for ublituximab using data
+from subjects with RMS enrolled in Studies TG 1101-RMS201, TG1101-RMS301, and
+TG 1101-RMS302 and to assess the impact of potential covariates, including disease, on
+the PK of ublituximab.
+Data: Pharmacokinetic data of 7485 samples from 895 subjects enrolled in 6 studies (TG
+1101-RMS201, TG1101-RMS301, and TG 1101-RMS302, CD20-0703, TGTX-1101-101
+and UTX-TGR-304) were used to develop Pop PK models for ublituximab. The baseline
+covariate characteristics of subjects is provided in the Table 6. Out of 859 subjects in the
+dataset, 591 subjects were subjects with RMS which represents 75% (5624/7485
+samples) of the PK data.
+Method: Nonlinear mixed effect modeling was used for PK model development using
+NONMEM v7.4.3 with FOCEI estimation method. The previously developed PopPK
+model (two-compartment model with linear first-order elimination) was the starting model
+for base model development using the combined dataset including data from subjects
+with RMS. Covariate modelling was performed using stepwise covariate model building
+procedure (p-value of 0.01 and 0.001 for forward and backward step respectively). The
+relationship of continuous covariates and PK parameter was described with power
+models; and categorical covariate-PK parameter relationship was described using a
+power structure with the most common level of the covariate being the reference. Impact
+of covariates on primary and secondary PK parameters were evaluated using final PK
+model.
+Results: The PK of ublituximab was described by two-compartment model with first-order
+elimination. Covariates such as weight, and ADA were added on clearance; weight, sex
+and region were added on the volume of distribution in central compartment. The
+parameter estimates of the final population PK model for ublituximab are shown in Table
+7. The population PK model for ublituximab was assessed with diagnostics plots including
+goodness-of-fit and visual predictive checks (VPC) (Figure 3). Overall, the applicant’s
+population PK model adequately describe the PK data of ublituximab. The effect of the
+covariates on the simulated steady-state secondary PK parameters i.e. Cmax,ss ,
+Cmin,ss and AUC,ss of ublituximab is shown in Figure 4.
+The net multivariate effects of covariates were also assessed by using the final PopPK
+model to generate posthoc individual ublituximab exposure estimates for subjects in the
+analysis dataset and stratifying the exposure estimates by subpopulations of interest for
+22
+
+Reference ID: 5085285
+
+comparison (Table 8), which showed that Cmax,ss and Cavg,ss varied by ≤20% between
+covariate categories for all covariates of interest. Cmin,ss was more variable, varying up
+to 65% between covariate categories.
+Sensitivity analysis: The final pop PK model was re-estimated with the dataset including
+excluded outliers (15 PK samples, model UMS166) and including RMS subpopulation
+only (model UMS175). In both cases, similar structural parameters were estimated with
+similar precisions (Table 9), which suggested the robustness of the PK model and its
+estimated parameters.
+
+23
+
+Reference ID: 5085285
+
+Table 6: Summary of Baseline Covariates in the Ublituximab PK Dataset by Study
+
+Source: Applicant pop PK report 20 August 2021, Page 48, Table 5-2
+
+24
+
+Reference ID: 5085285
+
+Table 7:Parameter estimates of the final population PK model for ublituximab
+
+Source: Applicant pop PK report 20 August 2021, Page 56, Table 5-5
+
+25
+
+Reference ID: 5085285
+
+Figure 4: Forest Plot of Covariate Effect in Final PK Model on PK Parameters of
+ublituximab
+
+Source: Applicant pop PK report 20 August 2021, Page 60, Figure 5-5
+
+27
+
+Reference ID: 5085285
+
+Table 8: Summary of Model-Predicted Steady-State Ublituximab Exposures
+Stratified by Covariates of Interest
+
+Source: Applicant pop PK report 20 August 2021, Page 63, Table 5-7
+
+28
+
+Reference ID: 5085285
+
+Table 9:Parameter Estimates of the Final Ublituximab PopPK Model for All
+Data (Run UMS166) and RMS Subpopulations (Run UMS175)
+
+Source: Applicant pop PK report 20 August 2021, Page 127, Table 8-7
+
+29
+
+Reference ID: 5085285
+
+4.2.2 Reviewer’s Analysis
+Sponsor’s Pop PK model evaluation
+The reviewer was able to run the applicant’s final PK model and obtained similar results
+as reported by the applicant. Model diagnostics for ublituximab are shown in Figure 5.
+Figure 5: Goodness-Of-Fit Plots of the Final Population PK Model for Ublituximab
+
+Blue and grey circle represents subjects with RMS and CLL/NHL respectively
+Source: Reviewer’s independent analysis
+
+30
+
+Reference ID: 5085285
+
+The impact of covariate on PK of ubilitxuimab was evaluated by comparing the PK
+parameters (Cavg,ss, and Cmax,ss) of ublitixumab across covariate of interest in RMS
+subjects. These PK parameters were derived from simulated ublituximab concentrationtime profiles, based on the final PK model, for RMS subjects [Study 201 (N= 15); Study
+301 (N=268); Study 302 (n=272)] following treatment with the reference dosing regimen
+(450 mg every 24 week).
+Body weight effect: Pharmacokinetic data of 555 subjects dosed with ubtlixumab were
+distributed into quartiles (i.e. first quartile: n=146, 42-58 kg; second quartile: n=134, 5968 kg; third quartile: n=136, 68-80 kg; and fourth quartile: n=139, 81-137 kg) based on
+their weight distribution and compared (Figure 5). Overall, increase in body weight
+resulted in lower PK exposure of ubtlixumab. Applicant has quantified these changes i.e.
+up to 24% increase and 22% decrease in PK exposures (Cmax,ss, Cmin,ss and AUCss) for
+5th percentile (50 kg) and 95th percentile (111 kg) of weight distribution respectively as
+compared to the typical values of subjects (Figure 4). Of note, the applicant has studied
+fixed doses in Phase-3 trials.
+Age effect: Pharmacokinetic data of 555 subjects dosed with ubtlixumab were distributed
+into quartiles (i.e. first quartile: n=142, 18-28y; second quartile: n=151, 29-35y; third
+quartile: n=135, 36-42y; and fourth quartile: n=127, 43-55y) based on their age
+distribution and compared (Figure 6). Overall, PK parameters of all quartiles were similar
+and thus did not suggest any clinically relevant impact on the PK of ublituximab.
+
+31
+
+Reference ID: 5085285
+
+Figure 7: Boxplots of Cmax and Cavg of Ublituximab at Week 48 by Sex
+
+Source: Reviewer’s independent analysis
+Renal Impairment: Pharmacokinetic data of 454 healthy subjects and 101 subjects with
+mild renal impairment dosed with ublituximab were compared (Figure 8). Overall,
+subjects with renal impairment have shown <20% increase in Cmax and Cavg as
+compared to the healthy subjects, and thus did not suggest any clinically relevant impact
+of mild renal impairment on the PK of ublituximab. Data from subjects with moderate and
+severe renal impairment was not available.
+Hepatic Impairment: Pharmacokinetic data of 494 healthy subjects, 19 subjects with
+mild hepatic impairment and three subjects with moderate hepatic impairment dosed with
+ublituximab were compared (Figure 8). Overall, PK parameters of healthy subjects and
+subjects with mild hepatic impairment were similar and thus did not suggest any clinically
+relevant impact on the PK of ublituximab. Of note, limited data (n=3) was available for
+subjects with moderate hepatic impairment and no data was available for subjects with
+severe hepatic impairment.
+
+33
+
+Reference ID: 5085285
+
+Figure 8: Boxplots of Cmax and Cavg of Ublituximab at Week 48 by Renal
+function (Top Row) and Hepatic function (Bottom Row)
+
+Source: Reviewer’s independent analysis
+Conclusions:
+The following population characteristics do not have a clinically meaningful effect on the
+pharmacokinetics of ublituximab: body weight, sex, age, ADA status, mild renal
+impairment or mild hepatic impairment.
+
+34
+
+Reference ID: 5085285
+
+1. Listing of Analysis Codes and Output Files
+
+File Name
+
+Description Location
+
+pk_analysis_ublituximab.R
+
+Exploratory
+tgtubli_rms_exposures_subpop_v3.R PK analysis
+
+\\Reviews\
+Ublituximab_BLA761238_VS\Rscripts
+
+2. References
+1. Population pharmacokinetic and exposure-response analysis of efficacy and
+safety of ublituximab in multiple sclerosis, Document# TGTX-PMX-TG 11012920-002, 20 Aug 2021
+
+35
+
+Reference ID: 5085285
+
+Signature Page 1 of 1
+
+-------------------------------------------------------------------------------------------This is a representation of an electronic record that was signed
+electronically. Following this are manifestations of any and all
+electronic signatures for this electronic record.
+-------------------------------------------------------------------------------------------/s/
+-----------------------------------------------------------ANANTHA RAM NOOKALA
+11/29/2022 11:59:20 AM
+VISHNU D SHARMA
+11/29/2022 12:09:11 PM
+VENKATESH A BHATTARAM
+11/29/2022 12:13:03 PM
+SREEDHARAN N SABARINATH
+11/29/2022 12:39:09 PM
+MEHUL U MEHTA
+11/29/2022 06:36:13 PM
+
+Reference ID: 5085285
+
+

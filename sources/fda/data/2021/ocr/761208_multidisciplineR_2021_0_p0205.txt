@@ -1,0 +1,35 @@
+BLA Multi-disciplinary Review and Evaluation {Biologics License Application (BLA) 761208}
+{tisotumab vedotin}
+
+* P a Covariate Effect
+Parameter | Covariate Reference Value Covariate Value’ Value [95%CI](%)
+43 -19.7 [-21.9;-17.4]
+Weight 70
+“so 112 23.6 [20.3;26.9]
+CL 29 12.4 [7.1;18]
+Albumin 40 47 57 [8-34]
+Sex Female Male 11.3 [4.718]
+43 ~17.2 [-20;-14.3]
+Weight 70 112 20 [16.1;24]
+Vi 29 6.7 [2.4:11.3]
+Albumin 40 a7 32 [5212]
+Sex Female Male 12.1 [7.8;16.5]
+; 43 19.7 [-21.9;-17.4]
+Weight 70
+8 “so 112 23.6 [20.3;26.9]
+43 “26 [-29.1--22.8]
+Va Weight 70 112 33.7 [28.3;394]
+* The values of the continuous covariates represent 2.5th and 97.5th percentiles of the values in
+the analysis dataset.
+
+Source: Table 18 in the population PK report.
+
+Figure 14. Schematic Representation of Structural ADC-MMAE Model.
+
+204
+
+Version date: March 2021 (ALL NDA/ BLA reviews)
+Disclaimer: In this document, the sections labeled as “The Applicant’s Position” are completed by the Applicant
+and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 4858975

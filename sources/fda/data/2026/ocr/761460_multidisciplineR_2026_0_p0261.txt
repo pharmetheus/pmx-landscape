@@ -1,0 +1,61 @@
+NDA/BLA Multi-disciplinary Review and Evaluation - BLA 761460
+Pivekimab Sunirine IMGN632)
+
+Covariates Evaluated * Demographics (age, body weight, body mass index, sex, race,
+ethnicity)
+¢ Baseline bone marrow blast percentage
+* Disease type (de novo, PCHM or R/R BPDCN)
+¢ Concomitant CYP3A4 inhibitors or inducers (not used, weak,
+moderate, strong)
+© Concomitant P-gp inhibitors (not used, used)
+¢ Prior systemic chemotherapy (yes, no)
+© ECOG at baseline score (1, 2. 3. 4)
+e Pre-existing risk factors/comorbidities (yes, no)
+Acceptability
+Final Model Parameters Summary [FDA's comments]
+Model Structure Various functional forms (e.g., linear, log-linear, | Acceptable
+Emax) Were evaluated in logistic regression
+modeling to determine the best model describing
+the PVEK effect on the probability of each
+efficacy outcome. Final models were selected
+based on LRT (in case of nested models) or AIC
+(in case of non-nested models), along with
+considerations of biological plausibility and
+parsimony.
+
+Model Parameter Estimates Table 92 Model is not
+acceptable due to the
+inconsistent trend
+observed with time-
+invariant exposure and
+time-varying exposure,
+suggesting the result
+could be positive bias
+(refer to 19.4.3.6).
+
+Model Evaluation The predictive performance of the logistic Not evaluated
+
+regression models was graphically evaluated to
+examine the usefulness of the models for
+describing observed response rates for evaluation
+
+Covariates and Clinical No covariates were significant for the efficacy Not evaluated
+
+Relevance variables evaluated
+
+Simulation for Specific Simulations of CR+ CRe rate in frontline BPDCN | Not evaluated
+
+Population population is provided in Table 93
+
+Visualization of E-R relationships | Final model plot for CR+CRc rate in frontline Not evaluated
+
+BPDCN subjects is provided in . Full results for all
+efficacy variables are shown in the ER Report.
+
+260
+Version date: February 10, 2025 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as "Data" and “The Applicant's Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5805215

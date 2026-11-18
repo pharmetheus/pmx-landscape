@@ -1,0 +1,46 @@
+NDA/BLA Multi-disciplinary Review and Evaluation - BLA 761460
+Pivekimab Sunirine (IMGN632)
+
+Parameter Estimated Value (%RSE) 95% CI
+
+Apparent Clearance (CLpvex. L/h)
+
+Exponent for dose covariate (unitless)
+Apparent Central Volume of Distribution (Ve, pvex. L)
+Apparent Inter-compartmental Clearance (Qrvex. L/h)
+Apparent Peripheral Volume of Distribution (Vp, pvex. L)
+Apparent Volume of Distribution FGN849 (Vrensag. L)
+Clearance of FGN849 (CLrangig. L/h)
+
+Deconjugation of FGN849 (Kec, L/h)
+
+Between Subject Variability for CLevex (%CV)
+Correlation CL pyex - Ve, pvex (1)
+Between Subject Variability for Vc pvex (%CV)
+
+Between Subject Variability for Vransss (%CV)
+Correlation CLransis - Veaness
+
+Between Occasion Variability for CLpvex (CV)
+
+Residual Unexplained Variability PVEK/TAb (RUV, %CV)
+
+Between Subject Variability for RUV (%CV)
+
+Residual Unexplained Variability FGN849 (RUV. %CV)
+
+Note: %RSE for theta terms are calculated as the reported standard error (SE) divided by the parameter estimate multiple by 100.
+For BSV and RUV terms the %RSE is calculated as the SE divided by the parameter estimate divided by two multiplied by 100
+CV calculated as Vw3*100, where «3 is the variance of the parameter estimate.
+Figure 14. Applicant —- Goodness-of-Fit Plots for the Final Pharmacokinetic Final Model
+
+for ADC
+
+253
+
+Version date: February 10, 2025 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as "Data" and "The Applicant's Position" are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5805215

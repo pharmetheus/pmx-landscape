@@ -1,0 +1,91 @@
+BLA 761232 - Multi-disciplinary Review and Evaluation
+TEVIMBRA - tislelizumab-jsgr
+
+Table 45. Summary Method Performance of a Bioanalytical Method Validated by
+
+oa)
+to Measure Tislelizamab (BGB-A317) in Human Serum
+
+Bioanalytical method
+validation report name,
+amendments, and
+
+Validation of a Method for the determination of BGB-A317 in Human Serum using
+Enzyme-Linked Immunosorbent Assay (ELISA) (Report 8354-363)
+
+hyperlinks
+This assay method employs the quantitative indirect enzyme immunoassay technique.
+The tislelizumab antigen, human PD-1 (PDCD1) protein, is coated on a 96-well
+immunoplate and then blocked using a nonspecific protein-blocking buffer. Samples
+for calibration and quality control, and clinical study samples are pipetted into the
+Method description wells. Tislelizumab is bound to the immobilized human PD-1 (PDCD1) in the
+
+immunoplate. After washing away any unbound substrate, a horseradish peroxidase
+(HRP)-conjugated goat antihuman IgG (fragment crystallizable [Fc] region specific)
+secondary antibody is added to the wells. Then after a second washing, HRP conjugate
+bound complexes are quantified by catalysis of color development using the
+chromogenic substrate, tetramethylbenzidine, with a spectrophotometer.
+
+Materials used for
+calibration curve &
+concentration
+
+BGB-A317 in human serum:
+100, 200, 400, 625, 1250, 2500, 5000, 10,000, 20,000. 40.000, and 80,000 ng/mL
+
+Validated assay range
+
+400 to 40.000 ng/mL
+
+Material used for QCs &
+concentration
+
+400, 1200, 8000, 32,000, and 40,000 ng/mL
+
+Minimum required
+
+dilutions (MRDs)
+
+1:200
+
+Source & lot of reagents
+
+(LBA)
+
+PD-1/His: Supplier: BeiGene (Beijing) Co., Ltd, Lot No.: 20161108;
+Goat anti-Human IgG (Fe specific) HRP: Supplier: |) Lot No.: 023M4782
+
+Regression model &
+weighting
+
+5 PL (Marquardt); 1/Y?
+
+Validation parameters Method validation summary Source
+location
+Table 1 of
+Number of standard calibrators from LLOQ to ULOQ 8 Report 8354-
+363
+Calibration curve . . -13%to | Table} of
+performance during Cumulative accuracy (%bias) from LLOQ to ULOQ S00. | Report 8354-
+accuracy & precision 363
+Table 1 of
+Cumulative precision (%CV) from LLOQ to ULOQ <8.0% | Report 8354-
+363
+QCs:
+400 ng/mL (LLOQ), 2.3% to Table 3-2 of
+QCs performance L200 neal LOS), 18.0% | Report $354-
+during accuracy & 8000 ng/mL (MQC), 363
+. 32000 ng/mL (HQC),
+precision 40000 ng/mL (ULOQ)
+Inter-batch %CV Table 3-2 of
+QCs: <12.8% | Report 8354-
+400 ng/mL (LLOQ), 363
+206
+
+Version date: January 2020 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5345383
+

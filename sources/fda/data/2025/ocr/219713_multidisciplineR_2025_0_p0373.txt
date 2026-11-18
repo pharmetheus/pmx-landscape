@@ -1,0 +1,70 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 219713}
+{IBTROZI™, Taletrectinib}
+Table 93. Verification of the Cimetidine PBPK Model To Predict Its Interactions With
+
+CYP3A Substrates
+
+Observed Predicted (Ki =25 uM) __ Predicted (Ki= 11 uM)
+
+Cimetidine Dosing Regimens Dosing Regimens of CYP3A Substrates. con | ae Conf rTzy Cok rizy
+
+‘400 mg cimetidine BID (3 doses) ‘Midazolam 15 mg SD (D2) (30 min NA 135 133 14 1.63 182
+400m¢ cimetidine SD Midazolam 15mg SD (2 hrs after 437,137,123, a6 as ass
+Cimetidine 200 mg TID with 400 mg pm on D1. 200 mg on D2. Midazolam 15 mg SD (02) 2.Sh after 23802020 dda a
+Cimetidine 300 mg Q)0 for 2 days Trlazolam 0.5 mg SO (02) 139/132 asta 14 13
+Cimetidine 200 mg TO with 400 mg pm for 9 days Triazolam0.5 mg QD at night for 7 days 110220012813 145 16
+Cimetidine 300 mg GIO (4 doses) Tazolam 0.Smg SO (1 he after 3rd cimetidine dose) 13s | iss a8 | 122135 6
+Cimetidine 200 mg TI with 400 mg pm for 9 days Alprazolam 0SmgTID for 7 days and morning doseon 08 182 164 © 105 =S 1081.3 47
+Cimetidine 800 mg QD for S days Nifedipine 10 mg TID for 4Ds, 1 dose DS 23 2 at et 355 2oe
+Cimetidine 200 mg TID with 400 mg pm for 7 days Nifedipine 10 mg ID for 6 Ds, 1 dose 07 202416 «= 133,238 183
+Cimetidine 200 mg TID with 400m¢ pm for 3 days, Nifedipine 20mg S0 02 (Ihe after firstcimetidinedose) | NA | 131 117 | 123135 1st
+Cimetidine 300 mg GID for 7 days Nifedipine 20 mg 07 140482 aks in
+‘Cimetidine 800 mg QD for S days Nifedipine 20 mg SO DS (Ahe after cimetidine) 165 | 177156 | 178 196 2a
+Cimetidine 300 mg QO for 7 days uinidine 330 me (free base) SD on DS 1200415710763 13
+Cimetidine 300mg Q)D for 3 days, a.m, dose day 4 Quinidine 330 mg (free base) SD on D4 1 437 | 107 aa Fer 2
+H 454156 136 ats 178
+
+SD, singlde dose; BID, twice daily; QD, once daily; TID, 3 times a day: D, day; am, in the morning: pm, at the night
+Source: sv-cimetidinesummary-V21-kiupdated (NDA219685 seq0023)
+
+e For the weak CYP3A inducer dexamethasone, its PBPK model has not been adequately
+verified to be used to simulate the effect of a weak CYP3A inducer on taletrectinib. The
+effects of dexamethasone on triazolam and aprepitant were too weak (AUCR>0.8) to be used
+to verify its induction effect on CYP3A (Table 4 in Simcyp V21 Dexamethasone summary
+report). The Applicant was requested to choose an alternative inducer whose induction
+effects result in AUC ratios of sensitive CYP3A substrates (e.g. midazolam, triazolam, etc.) <
+0.7 (FDA information request_10Jan2025). The applicant selected modafinil as a weak
+CYP3A inducer. The modafinil PBPK model could adequately simulated its effects on
+CYP3A substrates (Table 94). This modafinil model was used to predict the interaction of a
+weak CYP3A inducer with taletrectinib (Table 92).
+
+Table 94. Verification of the Modafinil PBPK Model To Predict Its Interactions With
+
+CYP3A Substrates
+
+Observed Predicted Observed/predicted
+po PMID References
+a Cmax Ratio AUC Ratio Cmax Ratio ‘AUC Ratio Cmax Ratio AUC Ratio
+Midazolam 0.73 0.65 0.68(0.58t00.76) 0.63(0.53to0.72) 0.93 0.97 28082902
+Ethinylestradiol 0.89 0.82 0.86(0.83t00.89) 0.82(0.78to0.85) 0.97 1.00 11823757
+Triazolam 0.56 0.41 0.69(0.65t00.74) 0.56(0.52t00.63) 1.24 137 11823757
+Omeprazole 1.22 1.36 1.37(1.23to153) 1.55(1.36to181) 1.12 114 28082902
+Omeprazole 154 1.85 1.40(1.20to158) _1.58(1.29to188) 0.91 0.85 28082902
+
+Source: Simcyp V20 modafinil summary report.
+
+3. Can PBPK analyses be used to estimate the effects of taletrectinib on substrates of
+CYP3A, CYP1A2, CYP2D6, OATP1B, BCRP and MATE1?
+
+Effects of taletrectinib on the CYP3A substrate midazolam
+
+The effect of taletrectinib on CYP3A substrates cannot be confidently predicted without
+additional clinical data for the reasons discussed below.
+
+372
+Version date: March 1, 2024 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5606238

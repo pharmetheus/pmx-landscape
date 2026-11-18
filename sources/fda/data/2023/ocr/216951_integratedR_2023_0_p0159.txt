@@ -1,0 +1,57 @@
+NDA 216951
+Jesduvrog (daprodustat)
+
+Organ Class is noteworthy (RD [95% CI]: 2.1 [0.0 - 4.2]). The MedDRA PTs
+contributing to most of the SOC treatment difference are ‘Cardiac failure, congestive’,
+‘Cardiac failure’, ‘Myocardial infarction’, and ‘Cardiac arrest’. The first two PTs
+(‘Cardiac failure, congestive’, and ‘Cardiac failure’) and second two PTs (‘Myocardial
+infarction’, ‘Cardiac arrest’) may represent the same medical concept, but the clinical
+presentation may differ slightly or may represent heterogeneous reporting by the
+investigator. The treatment difference in FMQs, which counts these similar terms
+together, was 1.3% (-0.1 — 2.8) for heart failure, and 0.2 to 0.5% for myocardial
+infarction/ischemia/acute coronary syndrome.
+
+e Thrombosis: There is a treatment difference not favoring daprodustat for the FMQ of
+thrombosis (RD of 0.9%). The treatment difference seems to be driven by arterial events,
+a nFMQ of arterial thrombosis (RD 1.0) is nested within the thrombosis nFMQ and
+includes MI and CVA (but excludes venous thromboembolism). Similar signals were
+seen for nFMQs of myocardial infarction (RD: 0.4) and myocardial ischemia (RD: 0.5)
+and acute coronary syndrome (RD: 0.2). Importantly these cover similar concepts in the
+continuum of acute coronary syndrome and are correlated (i.e., these queries include
+overlapping PTs) and thus not directly additive. There was a treatment difference not
+favoring daprodustat in the Stroke/TIA nFMQ (RD: 1.4) which seems notable, given the
+small proportion of ESA treated subjects with an event reported (3.3% in daprodustat and
+1.9% in ESA).
+
+e Renal outcomes: The treatment difference not favoring daprodustat in proportion of
+subjects who were reported to have a SAE in the MedDRA Renal System Organ Class is
+noteworthy (RD [95%CI]: 3.1 [0.8 - 5.4]). The PTs contributing mostly to this difference
+are AKI, CKD, and azotemia. Additionally, a treatment difference not favoring
+daprodustat in the proportion of subjects who were reported to have a SAE nFMQ for
+AKI (RD 1.5) emerged.
+
+e Gastrointestinal bleeding: There was slight imbalance in the PT for serious
+gastrointestinal hemorrhage (RD0.4%), and the Gastrointestinal SOC (0.9% RD) not
+favoring daprodustat. Additionally, the RD based on the FMQ for serious hemorrhage
+(RD 0.7) was consistent with the PT analysis. In isolation (i-e., only considering the
+readout from this analysis) one might reasonably suspect this treatment difference may be
+due to chance alone. However, gastrointestinal erosions were a prespecified adverse
+event of special interest (AESI) and were seen in the nonclinical program.
+
+The safety signals for thrombosis and the cardiovascular organ class cover similar or overlapping
+concepts. Additionally, the safety issues covered by these medical concepts were prespecified
+and adjudicated as part of a primary composite endpoint (MACE) or as secondary endpoints
+(HHF, CVA, MI, TEE) and are major safety review issues (Sections 7.6.1.1, 7.6.1.2, and
+7.6.1.8). Nonetheless, the investigator-reported TESAEs provide further support for safety
+findings observed in primary safety and key secondary safety CV endpoints (see discussion in
+AESI section).
+
+We considered the treatment differences not favoring daprodustat for gastrointestinal bleeding
+and AKI major safety review issues (see Section 7.7). There were no other concerning safety
+signals for SAEs based on PTs, narrow FMQs and SOCs occurring at an incidence of <1% (data
+not shown).
+
+133
+Integrated Review Template, version 3.0 (05/25/2022)
+
+Reference ID: 5119138

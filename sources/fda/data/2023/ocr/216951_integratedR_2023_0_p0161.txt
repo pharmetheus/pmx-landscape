@@ -1,0 +1,92 @@
+NDA 216951
+Jesduvrog (daprodustat)
+
+ASCEND-ND
+Daprodustat rhEPO
+
+System Organ Class N=1937 N=1935 RD (%)
+
+FMQ (Narrow) n(%) n (%) (95% Cl)
+Cardiac disorders (SOC)
+
+Heart failure 123 (6.4) 97(5.0) 1.3 (-0.1, 2.8)
+
+Systemic hypertension 37 (1.9) 36 (1.9) 0.0 (-0.8, 0.9)
+
+Myocardial infarction 65 (3.4) 57 (2.9) 0.4 (-0.7, 1.5)
+
+Myocardial ischemia 100 (5.2)  90(4.7) 0.5(-0.8, 1.9)
+
+Acute coronary syndrome 82 (4.2) 78 (4.0) 0.2 (-1.1, 1.5)
+
+Arrhythmia 35(1.8) _33(1.7) 0.1 (-0.7, 0.9)
+Endocrine disorders (SOC)
+
+Hyperglycemia 35 (1.8) 331.7) 0.1 (-0.7, 0.9)
+
+Hypoglycemia 20(1.0) _17(0.9) 0.2(-0.5, 0.8)
+General disorders and administration site conditions (SOC)
+
+Fall 11(0.6) __11(0.6)_-0.0 (-0.5, 0.5)
+Infections and infestations (SOC)
+
+Bacterial infection 207 (10.7) 242 (11.0) -0.3 (-2.2, 1.7)
+
+Purulent material 12(0.6) 140.7) -0.1 (-0.6, 0.4)
+
+Viral infection 21(1.1)  18(0.9) 0.2 (-0.5, 0.8)
+
+Pneumonia 112 (5.8) 129 (6.7) -0.9 (-2.4, 0.6)
+Musculoskeletal and connective tissue disorders (SOC)
+
+Osteoporosis 18(0.9)  23(1.2) -0.3(-0.9, 0.4)
+
+Fracture 49 (2.5) 63 (3.3) -0.7 (-1.8, 0.3)
+Neoplasms benign, malignant and unspecified (incl cysts
+and polyps) (SOC)
+
+Malignancy 46 (2.4) 52 (2.7) -0.3 (-1.3, 0.7)
+Nervous system disorders (SOC)
+
+Stroke TIA 63(3.3)  36(1.9) 1.4 (0.4, 2.4)
+
+Seizure 6 (0.3) 6 (0.3) -0.0 (-0.4, 0.3)
+Renal and urinary disorders (SOC)
+
+Acute kidney injury 94(4.9)  64(3.3) 1.5 (0.3, 2.8)
+
+Renal and urinary tract infection 71 (3.7) 76 (3.9) -0.3 (-1.5, 0.9)
+Respiratory, thoracic, and mediastinal disorders (SOC)
+
+Dyspnea 17 (0.9) 16 (0.8) 0.1 (-0.5, 0.6)
+
+Respiratory failure 42 (2.2) 40 (2.1) 0.1 (-0.8, 1.0)
+Vascular disorders (SOC)
+
+Hemorrhage 86 (4.4)  72(3.7) 0.7 (-0.5, 2.0)
+
+Hypotension 19 (1.0) 18 (0.9) 0.1 (-0.6, 0.7)
+
+Source: adae xpt, Software: R
+Treatment-emergent adverse events defined as any AEs occurring or worsening between the first dose and the end of the follow-up
+period.
+
+Serious adverse events defined as any untoward medical occurrence that, at any dose results in death, is life-threatening, requires
+hospitalization or prolongation of existing hospitalization, results in persistent incapacity or substantial disruption of the ability to
+conduct normal life functions, or is a congenital anomaly or birth defect.
+
+Duration is 52 months.
+
+Risk difference and risk ratio (with 95% confidence interval) are shown between treatment and comparator.
+
+Each FMQ is aligned to a single SOC based on clinical judgment. However, please be aware that some FMQs may contain PTs
+from more than one SOC.
+
+Abbreviations: AE, adverse event; Cl, confidence interval; FMQ, FDA medical query, ITT, intent-to-treat; N, number of patients in
+treatment arm; n, number of patients with adverse event; NA, not applicable; RD, risk difference; rhEPO, recombinant human
+erythropoietin; SOC, system organ class; TIA, transient ischemic attack
+
+135
+Integrated Review Template, version 3.0 (05/25/2022)
+
+Reference ID: 5119138

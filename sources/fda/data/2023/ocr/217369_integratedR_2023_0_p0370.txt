@@ -1,0 +1,46 @@
+SAGE-217 (auranolone) Page 15 of 30
+MaleRats _Poly-3 Test
+0 mg Vehicle] 0 mg Water 2mg 6mg 20mg
+Cont (N=70)} Cont(N=70) | Low(N=70) | Med (N=70) | High (N=70)
+Organ Name Tumor Name P-Trend |P-VCvs.W|P-VCvs.L| P-VCvs.M]| P- VC vs.H
+Fibroadenoma, Benign 3/70 (35) 0/70(32) | 0/700) | 3/701) 1/70 (28)
+0.6282 NC 1.0000 0.6034 0.9121
+Adenocarcinoma, Malignant] 3/70(35) | 0/7032) | 2/701) | 4/70(32) 1/70 (28)
+/ Fibroadenoma, Benign 0.7632 NC 0.7821 0.4488 0.9121
+Mediastinum/Pleura | Sarcoma, Undifferentiated, 0/70 (33) 0/70 (32) 0/70 (30) 1/70 (31) 0/70 (27)
+Malignant 0.4793 NC NC 0.4844 NC
+Schwannoma, Malignant 0/70(33) | 0/7032) | 0/700) | 0/7030) 1/70 (28)
+0.2314 NC NC NC 0.4590
+Mesentery/Peritoneum | Mesothelioma, Malignant 0/70 (33) 2/70 (34) 0/70 (30) 0/70 (30) 0/70 (27)
+NC NC NC NC NC
+Schwannoma, Malignant 0/70(33) | 0/702) | 1/701) | 0/70(30) 1/70 (28)
+0.2826 NC 0.4844 NC 0.4590
+Multicentric Neoplasm] Hemangiosarcoma, 1/70 (34) 1/70 (33) 2/70 (31) 0/70 (30) 0/70 (27)
+Malignant 0.9208 NC 0.4649 1.0000 1.0000
+Lymphoma, Malignant 0/70 (33) 1/70 (33) 1/70 (30) 0/70 (30) 1/70 (28)
+0.2835 NC 0.4762 NC 0.4590
+Sarcoma, Histiocytic, 0/70 (33) 1/70(33) | 0/70(30) | 0/70(30) | 0/70(27)
+Malignant NC NC NC NC NC
+Nose Carcinoma, Squamous Cell, 2/70 (34) 0/70 (32) 0/70 (30) 1/70 (30) 0/70 (27)
+Malignant 0.8694 NC 1.0000 0.8564 1.0000
+Pancreas Adenoma, Acinar Cell, 0/70 (33) 1/70(32) | 0/70(30) | 0/70(30) 1/70 (28)
+Benign 0.2314 NC NC NC 0.4590
+Adenoma, IsletCell, Benign} 4/70 (35) 4/70 (34) 4/70 (32) 2/70 (31) 0/70 (27)
+0.9844 NC 0.5931 0.8714 1.0000
+Carcinoma, Islet Cell, 1/704) | 0/7032) | 1/7081) | 2/701) | 0/7027)
+Malignant 0.7475 NC 0.7303 0.4649 1.0000
+ParathyroidGlands | Adenoma, Benign 1/70 (34) 0/70 (32) 1/70(30) | 0/70(30) 1/70 (28)
+0.4928 NC 0.7217 1.0000 0.7033
+Carcinoma, Malignant 0/70(33) } 0/7032) | 1/70(31) | 0/70(30) | 0/70(27)
+0.7273 NC 0.4844 NC NC
+Pituitary Gland Adenoma, Pars Dista lis, 43/70 (55) 40/70 (54) | 50/70(58) | 37/70(49) 37/70 (50)
+Benign 0.8586 NC 0.1921 0.7111 0.7679
+Adenoma, Pars Intermedia, 0/70 (33) 0/70 (32) 0/70 (30) 0/70 (30) 1/70 (28)
+Benign 0.2314 NC NC NC 0.4590
+Pituicytoma, ParsNervosa, | 1/70(34) | 0/70(32) | 0/70(30) | 0/70(30) | 0/70(27)
+Malignant 1.0000 NC 1.0000 1.0000 1.0000
+Preputial Glands Adenoma, Benign 0/70 (33) 0/70 (32) 0/70 (30) 0/70 (30) 1/70 (28)
+0.2314 NC NC NC 0.4590
+
+Reference ID: 5174472
+

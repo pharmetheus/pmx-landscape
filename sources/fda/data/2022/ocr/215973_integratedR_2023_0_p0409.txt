@@ -1,0 +1,49 @@
+NDA 215973 lenacapavir injection, for subcutaneous use
+NDA 215974 lenacapavir tablets, for oral use
+
+The PK parameters from the final model were estimated with acceptable precision, with a
+%RSE ranging between 4% and 32%, except for the covariate effect of aa
+
+Among the PK parameters that are affected by the identified covariates, the ETA shrinkage
+was acceptable with a relatively higher shrinkage for Kr (41.9%) and Fsc (41.5%), which
+
+makes the graphical assessment of covariates on these parameters less reliable.
+ow
+
+The Applicant’s popPK model included dose effect as a continuous variable on both Fpo
+® As the less than dose proportional increase in AUCing and Cmax from the PO
+formulation is likely due to saturable PO absorption, only the inclusion of dose effect on
+Fpo is needed. In addition, the effect of dose) was not precisely estimated (“RSE of
+0) (4) : ; = 5 : ; a
+) and most importantly, the range of doses included in the relationship was not limited
+to the PO doses but also included the SC dose.
+
+The review team evaluation, in addition to the Applicant reassessment, found that
+
+was not a statistically significant covariate | with an increase in OFV by less than 9
+points (for 1 degree of freedom) after removal of the covariate. Therefore, as
+physiologically and mechanistically expected, only the effect of dose on Fpo is clinically
+relevant and kept in the updated PK model. The removal of ©@ from the
+
+PK model did not alter the initial PK parameters and their variability estimates.
+
+The Applicant classified background antiretroviral (ARV) therapies, potentially known to
+interact with the PO exposure of LEN, as ARV containing COBI (n=18), ARV containing
+ritonavir (RTV, n=19), ARV containing darunavir (DRV, n=19) with unreported booster
+(pharmcoenhancer) used, and other ARVs in 2 patients on multiple background regimens
+including DRV (fostemsavir, dolutegravir, ibalizumab, F/TAF and darunavir). All patients
+on comedications with known interactions were HTE patients belonging to Study 4625. In
+their initial assessment of the DDI effect on Fpo, the Applicant grouped together patients
+receiving ARV containing COBI or RTV (n=37), and estimated a combined effect of
+58.7% increase in Fpo. The Applicant did not evaluate the effect of COBI- and RTV-
+containing ARVs separately. In addition, in the PK model, the Applicant evaluated the
+effect on Fp, in patients either receiving DRV with unknown/unreported booster (n=19) or
+receiving multiple background regimens including DRV (n=2). After an information
+request to the Applicant, recommending separate evaluation of boosted ARV drugs, the
+Applicant estimated a separate effect on Fp. for COBI- and RTV-containing ARVs, with an
+
+198
+
+Integrated Review Template, version 2.0 (04/23/2020)
+
+Reference ID: 4944206

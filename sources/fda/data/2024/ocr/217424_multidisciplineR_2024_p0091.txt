@@ -1,0 +1,51 @@
+NDA/BLA Multi-disciplinary Review and Evaluation (NDA 217424)
+ZELSUVMI (berdazimer sodium gel)
+
+Percent Change from Baseline in Lesion Count at Week 12, MMRM*
+
+-42.5 -27.6 -53.2 -28.3 -59.5 -33.2
+LS Mean (SE) (6.35) __(8.55)|__(6.05) __(8.08) (454) (4.63)
+Treatment Difference (95% Cl) -14.9 (-35.35, 5.50) | -24.9 (-43.60, -6.28) | -26.3 (-33.40, -19.21)
+p-value 0.1514 0.0090 < 0.0001
+Source: reviewer analysis.
+Abbreviations: Cl, confidence interval; ITT, intent-to-treat; LS, least squares; MI, multiple imputation; MMRM, mixed model repeated
+measures; SE, standard error
+*MMRM refers to analyzing the continuous endpoint using a repeated measures mixed model for the respective visits with the same
+covariates as the primary model together with visit and treatment by visit interaction with an unstructured covariance matrix. If the
+calculated percent change from baseline was greater than 100%, then it would be censored to 100% so that all values were in the
+range of -100% to 100%.
+
+Figure 1. Mean Change From Baseline in Lesion Count Over Time by Treatment Group (Study NI-
+MC301; ITT)
+
+3 04 +0
+&
+$ 24 2
+a
+s
+@
+& 44 b+
+8
+a
+5 44 L-6
+§& 44 +8
+irr
+2
+Ss -104 b-10
+8
+=
+
+T T T T
+
+Week 2 Week 4 Week 8 Week 12
+
+Time Point in Weeks
+[_-+— Vehicle Gel QD —=— SB206 12% QD]
+
+Source: Applicant analysis [NI-MC301 CSR: Figure 11-2 (page 65)], validated by reviewer analysis
+Abbreviations: ITT, intent-to-treat; QD, once daily; SE, standard error, CSR, clinical study report
+
+90
+Version date: October 12, 2018
+
+Reference ID: 5304936

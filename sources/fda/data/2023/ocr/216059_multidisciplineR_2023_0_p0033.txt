@@ -1,0 +1,57 @@
+NDA 216059 Multi-disciplinary Review and Evaluation
+Jaypirca (pirtobrutinib)
+
+Table 5: Comparison of BTK Inhibitors on Binding Kinetics to BTK and BTK C481S
+
+Kp Kon Kore Residence
+Inhibitor Kinase [nM] [st M"*] [s'] Time [min]
+LOXO-305 | BIK 3.50 | 346x10"% | 1.21 x 10° 14
+LOXO-305 | BIK C4818 4.77 LA7Lx 10° | 8.18 x 10% 20
+Ibrutinib BIK 3.36 3.45x 10° | 1.16 x 10° 14
+Tbrutinib BTK C4818 14.3 2.22x 10% | 3.17x 10° 5
+Acalabrutinib BIK 8.28 1.92x 10% | 1.59x 10+ 105
+Acalabrutinib_ | BTK C481S 473 NM NM <14*
+
+NM-Not measurable
+* Assay limit is 1.4 minutes. Residence times shorter than 1.4 minutes cannot be measured in this assay format
+
+(Table from the Applicant)
+
+Proposed mechanism of inhibition of BTK and BTK C481S by pirtobrutinib
+
+Kinase activity of pirtobrutinib was determined via Homogeneous Time Resolved Fluorescence
+(HTRF) KinEASE TK assays in reaction mixtures with various concentrations of pirtobrutinib (0-
+11 nM) and ATP (1-16 uM) and 250 nM biotin-TK substrate. The study results demonstrated
+that pirtobrutinib is an ATP-competitive inhibitor of BTK and BTK C481S (data not shown).
+
+Cellular assays
+The inhibitory activity of pirtobrutinib and ibrutinib on the BTKs was determined in Human
+
+Embryonic Kidney (HEK293) cells stably expressing WT BTK and BTK C481S. BTK
+phosphorylation activity was assessed by measuring the phosphorylation of tyrosine 223
+(Y223), the major autophosphorylation site. In a separate study, the total tyrosine
+phosphorylation including phosphorylation not associated with BTK-dependent kinase activity
+was determined. The result is summarized below.
+
+In the cellular assay, while pirtobrutinib inhibited WT and mutant BTKs with similar ICso values,
+ibrutinib exhibited a much weaker inhibition effect against BTK C481 mutants.
+
+Table 6: Inhibition of BTK and BTK C481 Resistance Mutant Autophosphorylation
+
+Pirtobrutinib ICso Ibrutinib ICs
+Kinase (Mean + SD, nM) n (Mean + SD, nM) n
+BIK 3.9 +1.6 3 2.0201 2
+BTK C481S 8.113 2 120.0 1
+BIK C481T 71+ 3.3 2 2150.0 2
+BTK C481G 13.9+3.8 2 ND 1
+BTIK C481R 12.62 5.2 2 ND 1
+
+N/D. ICso could not be computed: minimal inhibition at highest compound concentration
+(Table from the Applicant)
+
+32 of 265
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5116352

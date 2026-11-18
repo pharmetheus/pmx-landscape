@@ -1,0 +1,75 @@
+NDA 216951
+Jesduvrog (daprodustat)
+
+Placebo Daprodustat
+
+N=307 N=307
+Adjusted mean change from baseline (SE)? 0.19 (0.06) 1.58 (0.06)
+Adjusted mean treatment difference (dapro-placebo)? 1.40
+Two-sided 95% Cl for adjusted mean difference” 1.23, 1.56
+One-sided superiority p-value®< <0.0001
+
+Source: Sponsor CSR
+Note: Post-randomization Hb measurements (which includes on and off treatment values) are included in this display.
+
+* Hb values during the EP include both observed and imputed values
+
+© Based on an ANCOVA model with terms for treatment, baseline Hb, and region. One-sided p-value based on test of null
+hypothesis: (daprodustat - placebo) <0 vs alternative: difference >0
+
+© Superiority for the difference in the primary Hb endpoint between the daprodustat and placebo treatment groups was established if
+the one-sided p-value is less than 0.025.
+
+Abbreviations: ANCOVA, analysis of covariance; Cl, confidence interval; CSR, clinical study report; Dapro, daprodustat; EP,
+evaluation period; Hb, hemoglobin; ITT, intent-to-treat; SD, standard deviation; SE, standard error
+
+Supportive analyses were conducted without imputation for missing Hb data, which included an
+on-treatment analysis using only evaluable Hb values and a post-randomization (on- and off-
+treatment) observed case analysis. Results were consistent with the superiority conclusion from
+the primary analysis (p value <0.0001) (see Table 58).
+
+Table 58. Primary Endpoint Hb Without Imputation for Study 205270/ASCEND-NHQ (ITT
+
+Population)
+Placebo Daprodustat
+N=307 N=307
+Evaluable Hb (Weeks 24 to 28), ITT population
+Participants with baseline and EP Hb?, n (%) 217 (71) 252 (82)
+Adjusted mean change from baseline (SE)? 0.08 (0.06) 1.55 (0.06)
+Adjusted mean treatment difference (dapro-placebo)? 1.47
+Two-sided 95% Cl for adjusted mean difference 1.32, 1.63
+One-sided superiority p-value>< <0.0001
+Post-randomization Hb (observed cases only), ITT population
+Participants with baseline and EP Hb?, n (%) 266 (87) 272 (89)
+Adjusted mean change from baseline (SE)? 0.12 (0.06) 1.52 (0.06)
+Adjusted mean treatment difference (dapro-placebo)? 1.40
+Two-sided 95% Cl for adjusted mean difference’ 1.23, 1.57
+One-sided superiority p-value>.* <0.0001
+
+Source: Sponsor CSR
+Note: Evaluable values are on-treatment values that are not taken within the 8 weeks following a red blood cell or whole blood
+transfusion or a post-randomization non-randomized ESA treatment.
+
+Note: Post-randomization Hb measurements include on and off treatment values.
+
+= Hb values during the EP include observed values only.
+
+» Based on an ANCOVA model with terms for treatment, baseline Hb, and region. One-sided p-value based on test of null
+hypothesis: (daprodustat - placebo) <0 vs alternative: difference >O
+
+*© Superiority for the difference in the primary Hb endpoint between the daprodustat and placebo treatment groups was established if
+the one-sided p-value is less than 0.025.
+
+Abbreviations: ANCOVA, analysis of covariance; Cl, confidence interval; CSR, clinical study report; Dapro, daprodustat; EP,
+evaluation period; ESA, erythropoiesis-stimulating agents; Hb, hemoglobin; ITT, intent-to-treat; SE, standard error
+
+Based on the disposition distribution, the placebo arm had higher dropout as compared to the
+treatment arm. Thus, we were concerned that the MAR might not be valid. To study the
+robustness of the primary efficacy results, we requested that the Applicant perform a tipping
+point analysis. This analysis showed that the extent of missing data is unlikely to have had an
+impact on the conclusions of the primary Hb analysis and SF-36 v2.0 Vitality domain analysis.
+
+100
+Integrated Review Template, version 3.0 (05/25/2022)
+
+Reference ID: 5119138

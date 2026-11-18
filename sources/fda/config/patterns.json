@@ -1,0 +1,121 @@
+{
+ "_note": "Python re syntax. Case-sensitive unless (?i:...) is used. Applied page by page; OCR text replaces pages whose text layer has <50 non-whitespace characters.",
+ "patterns": {
+  "NONMEM": {
+   "group": "estimation",
+   "regex": "\\bNON-?ME[MN]E?S?\\b|(?i:\\bnonmem\\b)"
+  },
+  "NONMEM (name expanded)": {
+   "group": "estimation",
+   "regex": "[Nn]onlinear mixed[- ]effects? modell?ing\\s*(?:\\(|\u00ae)?\\s*(?:[Vv]ersion|[Vv]\\.?|VII)?\\s*\\[?\\s*(?:Level\\s*)?\\d|Perl[- ]?[Ss]peaks[- ][Nn]onlinear"
+  },
+  "Monolix": {
+   "group": "estimation",
+   "regex": "(?i:\\bmonolix\\b)"
+  },
+  "Phoenix NLME": {
+   "group": "estimation",
+   "regex": "Phoenix\\W{0,3}(?:NLME)"
+  },
+  "nlmixr": {
+   "group": "estimation",
+   "regex": "\\bnlmixr2?\\b"
+  },
+  "Pumas": {
+   "group": "estimation",
+   "regex": "\\bPumas\\b|PumasAI"
+  },
+  "Stan/Torsten": {
+   "group": "estimation",
+   "regex": "\\bTorsten\\b|\\bStan\\b|\\b[rc]?[Ss]tan\\b|cmdstan"
+  },
+  "saemix": {
+   "group": "estimation",
+   "regex": "\\bsaemix\\b"
+  },
+  "FERX": {
+   "group": "estimation",
+   "regex": "\\bFERX\\b"
+  },
+  "S-ADAPT/ADAPT": {
+   "group": "estimation",
+   "regex": "\\bS-ADAPT\\b|\\bADAPT\\s*(?:5|II|V)\\b"
+  },
+  "Pmetrics": {
+   "group": "estimation",
+   "regex": "\\bPmetrics\\b"
+  },
+  "NLMIXED": {
+   "group": "estimation",
+   "regex": "\\bNLMIXED\\b"
+  },
+  "WinBUGS/NONMEM-BUGS": {
+   "group": "estimation",
+   "regex": "\\bWinBUGS\\b|\\bOpenBUGS\\b|\\bJAGS\\b"
+  },
+  "PsN": {
+   "group": "auxiliary",
+   "regex": "\\bPsN\\b|Perl.[Ss]peaks.NONMEM"
+  },
+  "Pirana": {
+   "group": "auxiliary",
+   "regex": "\\bPirana\\b"
+  },
+  "Xpose": {
+   "group": "auxiliary",
+   "regex": "\\bXpose\\b"
+  },
+  "mrgsolve": {
+   "group": "auxiliary",
+   "regex": "\\bmrgsolve\\b"
+  },
+  "RxODE": {
+   "group": "auxiliary",
+   "regex": "\\bRxODE\\b|\\brxode2\\b"
+  },
+  "SimBiology/MATLAB": {
+   "group": "auxiliary",
+   "regex": "\\bSimBiology\\b|\\bMATLAB\\b"
+  },
+  "Berkeley Madonna": {
+   "group": "auxiliary",
+   "regex": "Berkeley\\s+Madonna"
+  },
+  "Simcyp": {
+   "group": "pbpk",
+   "regex": "\\bSimcyp\\b"
+  },
+  "GastroPlus": {
+   "group": "pbpk",
+   "regex": "\\bGastroPlus\\b"
+  },
+  "PK-Sim": {
+   "group": "pbpk",
+   "regex": "\\bPK-?Sim\\b"
+  },
+  "Phoenix WinNonlin (NCA)": {
+   "group": "nca",
+   "regex": "WinNonlin|Phoenix\\W{0,3}WNL"
+  },
+  "PKanalix": {
+   "group": "nca",
+   "regex": "\\bPKanalix\\b"
+  },
+  "Phoenix (unspecified)": {
+   "group": "nca",
+   "regex": "\\bPhoenix\\b(?!\\W{0,3}(?:NLME|WinNonlin|WNL|AZ|Arizona))"
+  },
+  "SAS": {
+   "group": "other",
+   "regex": "\\bSAS\\b"
+  },
+  "R (software)": {
+   "group": "other",
+   "regex": "\\bR\\s+(?:version|software|package|\\(version|v\\d)|\\bR\\s+\\d\\.\\d"
+  },
+  "popPK marker": {
+   "group": "marker",
+   "regex": "[Pp]opulation [Pp]harmacokinetic|\\b[Pp]op ?PK\\b|\\bPPK\\b"
+  }
+ }
+}

@@ -1,0 +1,58 @@
+BLA 761211
+
+LOARGYS (pegzilarginase)
+Table 78. Gestation Body Weight Values
+Sex: Female 0 0.06 0.1 0.3
+mg/kg mg/kg mg/kg mg/kg
+Day(s) Relative to
+Mating (Litter: A)
+0 Mean 3.243 3.238 3.238 3.226
+sD 0.2186 0.2012 0.2052 0.2148
+N 18 20 20 19
+%Dift - -0.2 02 0.5
+6 Mean 3.492 3.437 3.472 3.470
+sD 0.1952 0.1827 0.1712 0.1720
+N 18 20 20 19
+%Dift - “1.6 -06 0.6
+10 Mean 3.505 3.463 3.507 3.447
+sD 0.1793 0.1872 0.1703 0.1719
+N 18 20 20 19
+%Dift - 12 04 16
+13 Mean 3.559 3.521 3.589 3.515
+sD 0.2047 0.1887 0.1965 0.1861
+N 18 20 20 19
+%Dift - A os 1.2
+16 Mean 3.611 3.611 3.631 3.455
+sD 0.2089 0.2318 0.2239 0.1910
+N 18 20 20 19
+%Ditt - 0.0 05 43
+19 Mean 3.645 3.636 3.678 3.476 a
+sD 0.2083 0.2108 0.2100 0.1860
+N 18 20 20 19
+%Ditt - 03 09 46
+20 Mean 3.657 3.658 3.704 3.506
+sD 0.2226 0.2122 0.2229 0.1970
+N 18 20 20 19
+%Ditt - 00 13 41
+21 Mean 3.648 3.684 3.723 3.463 a
+sD 0.2188 0.2064 0.2226 0.1946
+N 18 20 20 19
+APPEARS %Ditt - 1.0 20 61
+THIS WAY
+ON 25 Mean 3.720 3.732 3.790 3.481 b
+sD 0.2305 0.2062 0.2404 0.2048
+ORIGINAL N 18 20 20 19
+%Ditt - 03 19 64
+29 Mean 3.811 3.766 3.873 3.609 a
+sD 0.2174 0.1724 0.2391 0.2097
+N 18 20 20 19
+%Dift - 1.2 16 53
+
+Source: Excerpted from Applicant's Study Report
+ANOVA and Dunnett: a = p<0.05; b = p<0.01
+Abbreviations: ANOVA, analysis of variance; Diff, difference; N, number of measures to calculate mean; SD, standard deviation
+
+177
+Integrated Review Template, version 4.0 (11/1/23)
+
+Reference ID: 5637517

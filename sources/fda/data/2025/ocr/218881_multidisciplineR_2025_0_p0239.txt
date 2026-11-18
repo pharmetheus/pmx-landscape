@@ -1,0 +1,49 @@
+NDA/BLA Multi-disciplinary Review and Evaluation NDA 218881
+
+Inluriyo (imlunestrant)
+
+General Information
+[FDA’s
+comments]
+
+Software and Version NONMEM (Version 7.5.0) Acceptable
+R (Version 4.3.2)
+Model Structure 2-compartment structural model Acceptable
+parameterized in terms of CL/F,
+Ve/F, Vp/F, and Q/F with 3 transit
+compartments for absorption
+Model Parameter Estimates Acceptable
+Table 19.2
+Uncertainty and Variability Table 19.2 Acceptable
+ae Sigman Shrinkage for interindividual ETA
+ootstrap) parameters on MTT, CL/F, and V¢/F
+in the final model 23.8%, 12.7%,
+and 22.3%, respectively.
+BLQ for Parameter Accuracy BLQs were treated as missing due to | Acceptable
+the small number of postdose BLQ
+samples
+GOF, VPC Figure 19.1, Figure 19.2 Acceptable
+Significant Covariates and Figure 19.3 Acceptable
+Clinical Relevance Figure 19.4
+Large overlaps in exposure range
+between range of body weights; no
+clinical significance
+Analysis Based on Simulation | Not Applicable N/A
+(optional)
+
+Labeling Language Description Acceptability
+[FDA’s
+comments]
+
+12.3 PK The ] Acceptable
+maximum concentration (Cmax) of
+imlunestrant is 141 ng/mL (45%)
+
+238
+
+Version date: March 1, 2024 (ALL NDA/BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5665313

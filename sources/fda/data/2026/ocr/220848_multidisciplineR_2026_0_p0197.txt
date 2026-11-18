@@ -1,0 +1,61 @@
+NDA 220848
+LIPFENDRA (enlicitide)
+
+A sensitivity analysis was also conducted with the inclusion of
+the Phase 2 study, P008. P008 was added as a sensitivity
+analysis and not part of the primary analysis due to the shorter
+study duration and it using Friedwald’s method for LDL-C
+instead of Martin Hopkins’ method used for the Phase 3
+studies.
+
+Endpoint Primary: LDL-C change from baseline at 24 weeks after
+initiation of treatment
+
+No. of Patients (total, and | 3183 (2120 on enlicitide treatment with PK concentrations)
+with individual PK)
+
+Population General Age: 63 y (19 y -89 y)
+
+Characteristics P
+Body Weight: 79.0 kg (34.0 kg — 174.2 k;
+([Table 35]) ody Weight 8 (34.0 kg 8)
+1900 (59.7%) male
+
+Race: 1759 (55.3%) White; 259 (8.1%) Black or African
+American; 811 (25.5%) Asian; 6 (0.2%) American
+Indian/Alaskan Native; 348 (10.9%) Other
+
+Pediatrics | NA
+(if any)
+
+Dose(s) Included Placebo and 20 mg qd
+
+For the sensitivity analysis with P008, placebo, 6 mg, 12 mg,
+18 mg, 30 mg qd were also included.
+
+Exposure Metrics Explored | For the Phase 3 studies only analysis: AUCss (0-935 nM*hr)
+
+(range) For the sensitivity analysis with the PO08: AUCss (0-
+1130.9 nM*hr)
+Covariates Evaluated Baseline Renal Impairment eGFR (CKD-EPI), Race
+
+(White/Black/Asian/Other), Baseline LDL-C, Sex, Age,
+Baseline BMI, Region (North America, Europe, Latin
+America, Asia Pacific), Concomitant Statin Therapy, ASCVD
+Risk at Baseline, Diabetes Mellitus Status (Yes, No), HeFH
+Diagnosis (HeFH Versus non-HeFH Hypercholesterolemia)
+
+Final Model Parameters Summary Acceptability
+[FDA’s
+comments]
+
+Model Structure The drug effect in the final E-R model The structural
+was a sigmoid maximum model appears to
+184
+
+Version date: February 10, 2025 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5833849

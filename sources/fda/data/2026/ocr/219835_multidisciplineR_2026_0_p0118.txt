@@ -1,0 +1,60 @@
+NDA/BLA Multi-disciplinary Review and Evaluation NDA 219835
+
+vepdegestrant
+
+not planned with formal hypothesis test of treatment effect in ESR/J-mut-nd population, therefore
+all analyses in this patient population should be considered as descriptive analyses.
+
+Figure 2. FDA - Graphical Multiple Testing Strategy
+
+H3: OS
+
+H1: PFS
+ESR1m (1/4 a)
+
+ESR1m (3/4 a)
+
+HR 0.60 HR 0.67
+
+H2: PFS.
+HR 0.67
+
+Source: Figure 2 in the statistical analysis plan version 2, dated November 5", 2024.
+
+Primary Analysis Method
+
+The primary analysis method for PFS and OS analysis was log-rank test stratified by
+randomization stratification factors. Hazard ratios were planned to be estimated by Cox
+proportional hazards model stratified by randomization stratification factors, with the exact
+method to handle ties in the event time.
+
+Censoring Strategy in Primary Analysis of BICR-assessed PFS and OS
+
+For primary analysis of PFS, hypothetical estimand strategy was planned to handle the
+intercurrent events, such as initiation of new anticancer therapy and two or more consecutive
+missing or inadequate assessment. For primary analysis of OS, treatment policy strategy was
+planned to handle all the intercurrent events.
+
+Prespecified Sensitivity Analyses of BICR-assessed PFS
+
+Six sensitivity analyses of PFS were prespecified by the Applicant in the SAP to evaluate the
+robustness of the primary PFS analysis results. These sensitivity analyses were presented by the
+Applicant in Section 7.1 of efficacy results.
+
+1) using an unstratified log-rank test instead of the stratified primary analysis.
+
+2) treating treatment discontinuations due to symptomatic deterioration without radiographic
+progression as PFS events rather than censoring in the primary analysis.
+
+3) using investigator-assessed PFS instead of BICR assessed PFS.
+
+4) using CRF values for the stratification in the analysis to evaluate the impact of the mis-
+stratification.
+
+117
+Version date: March 1, 2024 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5789627

@@ -1,0 +1,65 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {BLA 761342}
+
+Talquetamab-tgvs
+
+FDA Table 33: Reviewer Parameter Estimates for the Final Talguetamab Population PK Model
+
+Fixed Effects
+Parameter, units Definition Estimate RSE (%) 95% Cl
+Clo (L/day)? Total CL at time=0 2.07 6.6% 1.801 to 2.339
+BWT on Clo Effect of weight on Clo 0.672 20.8% 0.398 to 0.946
+TPMMG on Clo Effect of non-IgG multiple myeloma type -0.547 -5.4% — -0.605 to -0.489
+(versus IgG) on Clo
+ISS II/Ill on Clo _ Effect of ISS Il or Il (versus I) on Clo 0.321 26.3% 0.155 to 0.487
+Clecr Fraction of Clo that is time-independent 0.511 4.3% 0.468 to 0.554
+Vi (UL)? Central volume of distribution 43 2.5% 4.086 to 4.514
+BWT on Vi Effect of weight on Vi 0.67 17.0% 0.447 to 0.893
+Q (L/day) Inter-compartmental clearance 1 6.1% 0.88 to 1.12
+V2(L) Peripheral volume of distribution 5.78 8.5% 4.812 to 6.748
+K,(1/day) First-order absorption rate constant 0.139 5.4% 0.124 to 0.154
+FE SC bioavailability 0.615 4.5% 0.561 to 0.669
+Koes (1/day) First-order decay coefficient for 0.023 7.0% 0.02 to 0.026
+time-dependent CL
+D1 (day) Input duration of SC administration 0.142 19.6% 0.088 to 0.196
+Variability
+Parameter Structure cv (%) RSE(%) _ Shrinkage (%)
+IV on Clo Exponential CV =55.2% 9.8% 20.0%
+IV on CLpcr Exponential CV = 65.3% 8.8% 23.3%
+IV on Vi Exponential CV=22.6% 17.1% 53.2%
+IV onQ Exponential CV=41.2% 26.1% 65.9%
+IIV on V2 Exponential CV=99.0% _ 18.0% 45.0%
+IIV on Ka Exponential CV = 73.7% 9.6% 25.7%
+IV on F Exponential CV=94.9% 22.6% 46.9%
+IV on Koes. Exponential CV=75.7% _ 20.5% 53.0%
+IV on D1 Exponential CV =269.2% _ 19.8% 60.9%
+RUV Proportional CV = 46.9% 0.59% 13.9%
+BwWT\0S72 _
+* CLo(L/day) = 2.08 x (SZ) x 0.4537PMMG=Non-196 x 1 319/88 u/I
+Total CL = Clo * CLpcr + Cy * (1 — CL pcr) X e7 0-0229xT ime (in days)
+» VA(L) =4.30x Co 0.670
+
+Objective function value = 51474.99. Condition number = 27.44.
+
+RSE was calculated as SE/estimate.
+
+CV% for exponential error was calculated as 100% x vevariance — 4 |
+
+CV% for proportional error was calculated as 100% x Vvariance .
+
+BWT=baseline body weight in kilograms; Cl=confidence interval; CL = clearance; CV=coefficient of variation;
+IgG=immunoglobulin G; IIV = interindividual variability; SS=International Staging System (0=I, 1 = II or Ill);
+RSE=relative standard error; RUV = residual unexplained variability; SC = subcutaneous; TPMMG=multiple
+myeloma type (0=IgG,1=Non-IgG).
+
+Source: Reviewer’s analysis
+
+The PPK model adequately fit the MonumenTAL-1 talquetamab PK data, as demonstrated by
+the goodness-of-fit (GOF) plots (Applicant Figure 11). The model is adequate for the purpose of
+characterizing the PK of SC talquetamab in patients with RRMM.
+
+Version date: June 2022 (ALL NDA/ BLA reviews) 267
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5222858

@@ -1,0 +1,30 @@
+BLA 761363
+Winrevair (sotatercept-cstk)
+
+8.1.4. Body Weight
+
+Both clearance and central volume of distribution are predicted to increase with body weight.
+The effect of body weight on clearance (CL) and Vc is accounted for by using a weight-based
+dosing regimen.
+
+8.1.5. Other Intrinsic Factors
+
+The covariate effect analyses in the PopPK model indicated that age, race, sex, and anti-drug
+antibodies (ADA) did not have a significant effect on the exposure of sotatercept. Hence, dose
+adjustment is not needed for these intrinsic factors.
+
+8.2. Extrinsic Factors
+
+No specific clinical drug-drug interaction studies were conducted. No mechanism has been
+identified where sotatercept can be a victim or a perpetrator drug. The background PAH
+therapies in double or triple combination were not significant covariates on the PK parameters of
+sotatercept.
+
+8.3. Plans for Pediatric Drug Development
+
+Sotatercept was granted Orphan Drug Designation on September 5, 2019 for PAH and is
+therefore exempt from Pediatric Research Equity Act requirements.
+
+Integrated Review Template, version 3.0 (05/25/2022)
+
+Reference ID: 5354062

@@ -1,0 +1,71 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {BLA 761289 and sBLA 761069}
+{IMJUDO, tremelimumab; IMFINZI, durvalumab}
+
+T 300+ D Mono| D Mono;
+System Organ Class- T300+D D >=65- 7300 + | D Mono >=65- Age
+
+Preferred Term <75 | PP=75) <65 | 275 | 3275
+(N=193) | (N=142)| (N=53) | (N=201)| (N=130)| (N=57) | (N=188)| (N=130)| (N=56)
+Grade 3 | Grade 3| Grade 3| Grade 3| Grade 3| Grade 3) Grade 3| Grade 3) Grade 3
+
+to5 to5 to5 to5 to5 to5 to5 to5 to5
+
+n (%) n(%) | n(%) | n(%) | n(%) |n(%) | n(%) | n(%) | n(%)
+"SORA" and AGEGR1 = "< 65" and SAFFL = "Y" (S Age <65); TRTO1A = "SORA" and AGEGRI1 = ">=65 - <75" and SAFFL = "Y" (S >=65-<75);
+TRTOIA = "SORA" and AGEGR1 = ">=75" and SAFFL = "Y" (S >=75), TRTEMFL = "Y" and AETOXGRN = "Grade 3 to 5" (Adverse Events)
+Percent Threshold: Any Column > 5%.
+
+S Age | S >=65-
+
+<65 | <75 | $7575
+
+Table 41: Summary of TEAEs by Maximum Severity-Toxicity by Sex (25%)
+
+7300 +D-| T300+D-} DMono- | DMono-
+Males Females Male Female | S~Male | S- Female
+System Organ Class - Preferred —_(N=323) (N=65) (N=322) (N=66) (N=323) (N=51)
+Term Grade 3 to| Grade 3 to | Grade 3 to| Grade 3 to| Grade 3 to} Grade 3 to
+5 5 5 5 5 5
+n(%) n (%) n (%) n (%) n (%) n(%)
+Investigations 57 (17.6) | 12(18.5) | 46(14.3) | 10(15.2) | 43(13.3) | 10 (19.6)
+Lipase increased 20 (6.2) 4 (62) 14 (4.3) 2 (3.0) 8 (2.5) 3 (5.9)
+Aspartate aminotransferase
+mcmacea 17 (5.3) 3 (4.6) 22 (6.8) 4 (6.1) 11 (3.4) 1 (2.0)
+Gastrointestinal disorders 47 (14.6) 9 (13.8) | 27 (8.4) 2 (3.0) 43 (13.3) 5 (9.8)
+Diarrhoea 13 (4.0) 4 (6.2) 5 (1.6) 1 (1.5) 14 (4.3) 2 (3.9)
+Metabolism and nutrition disorders 32 (9.9) 40 (15.4) | 25 (7.8) 3 (4.5) 29 (9.0) 5 (9.8)
+Hyponatraemia 10 (3.1) 6 (9.2) 4 (1.2) 1 (1.5) 11 (3.4) 0 (0.0)
+Hyperkalaemia 6 (1.9) 0 (0.0) 8 (2.5) 0 (0.0) 6 (1.9) 3 (5.9)
+Infections and infestations 29 (9.0) 4 (6.2) 17 (5.3) 4 (1.5) 19 (5.9) 2 (3.9)
+Hepatobiliary disorders 18 (5.6) 4 (6.2) 11 (3.4) 4 (1.5) 13 (4.0) 2 (3.9)
+General disorders and
+administration site conditions 17 (5.3) 5 (7.7) 21 (6.5) 3 (48) 23 (7.1) 4 (78)
+Blood and lymphatic system
+ooo 13 (4.0) 0 (0.0) 15 (4.7) 1 (1.5) 14 (4.3) 4 (7.8)
+Anaemia 11 (3.4) 0 (0.0) 8 (2.5) 4 (1.5) 9 (2.8) 3 (5.9)
+Shin |end eubcutenecs issue) 13 (4.0) 2 (3.1) 1 (0.3) 0(o.0) | 41(127) | 8 (18.7)
+disorders : : : : - :
+Rash 6 (1.9) 0 (0.0) 1 (0.3) 0 (0.0) 1 (0.3) 3 (5.9)
+Palmar-plantar
+erythrodysaesthesia syndrome 0 (0.0) 0 (0.0) 0 (0.0) 0(0.0) |} 30(9.3) 4 (7.8)
+Vascular disorders 11 (3.4) 4 (1.5) 8 (2.5) 0 (0.0) 19 (5.9) 4 (7.8)
+Hypertension 6 (1.9) 1 (1.5) 4 (1.2) 0 (0.0) 19 (5.9) 4 (78)
+Respiratory, thoracic and
+mediastinal disorders 8 (2.5) 1 (1.5) 8 (2.5) 1 (1.5) 6 (1.9) 3 (5.9)
+
+Source: OCS Analysis Studio, Safety Explorer. Adverse events missing severity/toxicity grades are not included in the above table.
+
+Filters: TRTO1A = "TREME 300 + DURVA" and SEX = "M" and SAFFL = "Y" (1300 + D - Males); TRTO1A = "TREME 300 + DURVA" and SEX = "F"
+and SAFFL ="Y" (T 300 + D - Females ); TRTO1A = "DURVA MONO" and SEX = "M" and SAFFL = "Y" (D Mono - Male); TRTO1A = "DURVA MONO"
+and SEX = "F" and SAFFL = "Y" (D Mono - Female); TRTO1A = "SORA" and SEX = "M" and SAFFL = "Y" (S - Male); TRTO1A = "SORA" and SEX =
+"F" and SAFFL ="Y" (S - Female); TRTEMFL = "Y" and AETOXGRN = "Grade 3 to 5" (Adverse Events).
+
+Percent Threshold: Any Column > 5%.
+
+165
+Version date: July 2021 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5064925

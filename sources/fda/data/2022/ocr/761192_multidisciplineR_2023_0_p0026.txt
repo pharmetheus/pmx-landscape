@@ -1,0 +1,48 @@
+Figure 5 - Time to 295% Wound Closure (Subject-Level) by Photographic Assessments (Set 3)
+
+Product-Limit Survival Estimates
+10+
+08+
+>
+|
+| 06+
+a
+3
+: 04+
+iz
+024
++—-—-—-—-—- +
+00+
+T T T T T T
+0 25 50 a) 100 125
+Iw
+Planned Arm Code=NEXOBRID Pop 3 Wound Closure Sens Analysis Flag=N
+— Planned Arm Code=NEXOBRID Pop 3 Wound Closure Sens Analysis Flag=Y
+— - — Planned AnmCode=SOC Pop 3 Wound Closure Sens Analysis Flag=N
+—— — Planned AnmCode=SOC Pop 3 Wound Closure Sens Analysis Flag=Y
+
+Flag = N is ‘No photographic assessments’; Flag = Y is ‘Photographic assessments’
+Source: reviewer analysis
+
+The results for subjects with no unblinding and no photographic assessments are similar to the
+overall results. Among subjects with potential unblinding, the observed time to 295% wound
+closure was faster for NexoBrid than SOC. Among subjects with photographic assessments, in
+both arms, the observed time to wound closure was shorter among subjects with photographic
+assessments than with live assessments, but there was no observed difference between the
+treatment arms, Note, however, that the number of subjects with photographic assessments
+differed between the two treatment arms.
+
+Because time to 295% wound closure was faster for NexoBrid than SOC among subjects with
+potential unblinding, we cannot rule out that there was some bias present due to the
+unblinding. However, over 50% of subjects with potential unblinding on the SOC arm were
+censored prior to assessment of wound closure and this group included only 15 subjects,
+making any estimates for this group unreliable. Thus, while it may be reasonable to assume that
+the treatment effect estimate could be biased, it is difficult to assess the magnitude of any
+potential bias. One ad hoc way of assessing the overall impact of potential bias would be to
+switch the treatment arms of subjects impacted by the identified treatment violations and see
+how much of an impact the treatment assignment switch would have. The ad hoc analyses for
+
+Set 1 and Set 3 where subjects with potential unblinding or photographic assessment protocol
+ll
+
+Reference ID: 5094889

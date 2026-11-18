@@ -1,0 +1,57 @@
+NDA Multi-disciplinary Review and Evaluation - NDA 215814
+
+REZLIDHIA, olutasidenib
+
+There was an inverse relationship between exposure and all hepatic AE endpoints. Hepatic AE at
+
+any grade, Grade 3+ hepatic AE, and drug-related hepatic AE were less likely to occur as
+
+exposure at steady state increased; the reason for this negative correlation is unknown. There was
+
+no apparent correlation between the FT-2102 exposure at steady state and the other safety
+endpoints. The relationship between Cavgss and probability of an AE occurrence with a linear
+logistic regression fit is shown in Figure 25. The model predicted AE incidence and 95% CI
+across exposure quantiles are provided in Table 100.
+
+General Information
+Geel GTR ately To conduct a safety E-R analysis to identify predictors of
+selected safety events.
+Study Included 2102-HEM-101
+Population Included. R/R AML and MDS
+Endpoint Major common AE/SAE, AE of interest
+No. of Patients (total, and with 324
+individual PK)
+Population General 2102-HEM-101:
+Characteristics Age median (range): 70.0 (28.0, 90.0) yr, 74% subj >=65 yr,
+(Table 90 and 31% subj >=75 yr)
+Table 91) Weight median (range): 72.0 (36.3, 145) kg
+n (XX%) male: 169 (52.2%)
+n (XX%) in each race: White 183 (56.5%), Black/A frican-
+American 14 (4.3%), Asian 9 (2.8%), Other 20 (6.2%, Missing
+98 (30.2%)
+Organ Hepatic (NCI): n (%) in each category
+impairment 2102-HEM-101:
+Normal: 262 (80.9%)
+Mild: 59 (18.2%)
+Moderate: 3 (0.9%)
+Pediatrics (if -None
+any)
+Geriatrics (if 74% subj >=65 yr, 31% subj >=75 yr)
+any)
+Dose(s) Included 100 mg, 150 mg, 300 mg QD and 150 mg BID
+aon Metrics Explored See Table 89 for simulated steady-state exposures. Due to the
+B high correlation among Cavgss, Cmaxss. aNd Cminss. each exposure
+was tested separately against each AE occurrence using
+univariate logistic regression. The exposure metric that
+produced the lowest AIC was selected for the E-R analysis.
+Covariates Evaluated
+Final Model Parameters Summary | Acceptability
+
+274
+
+Version date: January 2020 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “The Applicant’s Position” are completed by the Applicant
+and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5086659

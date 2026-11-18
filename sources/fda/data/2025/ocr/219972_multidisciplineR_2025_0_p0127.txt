@@ -1,0 +1,54 @@
+NDA/BLA Multi-disciplinary Review and Evaluation — NDA 219972
+Sevabertinib (BAY 2927088) — Version 2.0
+
+$310P 1] 0 0
+L755P 1 1 100
+L755S 1 1 100
+V777L 1 1 0
+D769Y+S310Y 1 0 0
+G776S 1] 0 0
+Not Specified? 1 0 0
+Total 81 52 64
+
+Source: Reviewer's analysis. Abbreviation: HER2 = Human Epidermal Growth Factor Receptor 2; ORR=Objective response rate;
+BICR = Blinded Independent Central Review; N= Number
+
+a: Responders were defied as participants with confirmed CR or PR.
+b: One participant was enrolled by a PCR-based assay that targets multiple activating HER2 exon20ins without specifying the exact variant
+
+6.3.2.4 Are there clinically relevant food-drug or drug-drug interactions, and what is
+the appropriate management strategy?
+Data:
+
+Clinical data related to the effect of food, acid-reducing agents, and other drugs (CYP3A4
+inhibitors and CYP3A4 inducers, P-gp inhibitors and inducers, and BCRP inhibitors and
+
+inducers) on the PK of sevabertinib are provided in Section 6.2.2.2.
+Clinical data related to the potential effects of sevabertinib on other drugs are presented below:
+
+CYP3A4 substrates: In Study 22251, co-administration of a single dose of 20 mg sevabertinib
+with 1 mg midazolam (a CYP3A4 probe substrate) resulted in a mean midazolam AUC and Cmax
+ratio of 1.10 compared to administration of 1 mg midazolam alone. The results indicate that a
+single dose of sevabertinib has only a minor effect on the PK of midazolam. Pre-treatment and
+co-administration of multiple doses of sevabertinib (20 mg BID) with 1 mg midazolam resulted
+in an increase in a mean midazolam AUC ratio of 1.95 (reflecting a 95% increase) and a mean
+midazolam Cmax ratio of approximately 1.8 (reflecting an 80% increase) compared with
+administration of 1 mg midazolam alone.
+
+P-gp substrates: In Study 22252, pre-treatment and co-administration of 20 mg sevabertinib BID
+with 75 mg dabigatran etexilate (a sensitive P-gp substrate) resulted in a mean dabigatran AUC
+ratio of 1.4 (reflecting a 40% increase) while the Cmax was unchanged, compared with
+administration of 75 mg dabigatran etexilate alone.
+
+BCRP substrates: In Study 22252, pre-treatment and co-administration of 20 mg sevabertinib
+BID with 10 mg rosuvastatin (a sensitive BCRP substrate) resulted in a mean rosuvastatin AUC
+ratio of 1.25 (reflecting a 25% increase) and a mean rosuvastatin Cmax ratio of approximately 1.4
+(reflecting a 40% increase) compared to administration of rosuvastatin alone.
+
+126
+Version date: March 1, 2024 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5697816

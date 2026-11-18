@@ -1,0 +1,59 @@
+A semi-mechanist PK model was used to derive the fold-change in GE time induced by tirzepatide. In
+response to FDA’ request for information dated 11/23/2021, the Applicant conducted additional
+analyses to evaluate the absolute (range) for GE delay from the clinical DDI data and its impact on the
+extent of predicted drug-drug interaction. Table 9 compared the values of gastric residence time derived
+using the absolute (range) values and those based on fold-change.
+
+Table 22. Comparison of the values of gastric residence time derived using the absolute (range) values and those
+
+based on fold-change
+Absolute range approach Fold-changes from the baseline
+approach
+
+Parameter MRT (h) MRT (h)
+
+Control tirzepatide | tirzepatide Control tirzepatide | tirzepatide
+
+5 mg Day2 | 5/5/10/15 mg 5 mg Day2 | 5/5/10/15 mg
+
+median 1.23 2.85 3.46 1.23 4.65 3.28
+5% percentile | 0.46 1.10 1.30 1.23 3.59 2.55
+95 percentiles | 2.59 7.11 6.42 1.24 6.86 4.63
+
+Source: extract from IR response Table 4.3 and PBPK report Table 3.2
+
+The Applicant compared the effects of tirzepatide on atorvastatin, digoxin, lisinopril, metformin,
+metoprolol, sitagliptin, and S-warfarin using the median resident time derived using two different
+approaches. Except for acetaminophen and atorvastatin, the magnitude of changes in the PK (i.e., AUC
+and Cmax) simulated using different RT values were less than 15%. Table 10 compared the predicted PK
+parameters for acetaminophen and atorvastatin using the different gastric residence time values. A
+more pronounced effect on Cmax was seen in predicted acetaminophen and atorvastatin using fold-
+changes approach following 5 mg tirzepatide on day 2, but not on AUC. That is likely due to MRT value
+estimated using absolute range approach is higher than that with fold-change approach.
+
+Table 23. Predicted PK parameters for acetaminophen and atorvastatin using the different gastric residence time
+
+values
+Absolute range approach Fold-change approach
+
+Drug AUC ratio Cmax ratio AUC ratio Cmax ratio
+5 mg Day 2
+Acetaminophen 0.98 0.73 0.95 0.59
+Atorvastatin (total active species) | 0.92 0.70 0.83 0.23
+5-5-10-15 mg Day 23
+Acetaminophen 0.97 0.67 0.99 0.85
+Atorvastatin (total active species) | 0.91 0.40 0.88 0.34
+
+Source: Fold-change approach: PBPK report Table 6.14, 6.28, 6.31, 6.32
+
+Sensitivity of the simulated PK over a range of MRT
+
+Applicant conducted sensitivity analysis of the MRT on the PK of the tested compounds. Figure 5
+showed the results of SA for the selected compounds where steeper MRT-PK relationships in
+comparison to other tested drugs were simulated when MRT varies from 0.27-1.5 (fasted) and 1.18-6.5
+(fed) hour. As shown in Figure 5, prolong MRT values results higher impact on Cmax and Tmax while
+minimal impact on drug’s AUC were simulated.
+
+110
+
+Reference ID: 4954959

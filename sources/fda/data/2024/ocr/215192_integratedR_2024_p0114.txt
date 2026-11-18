@@ -1,0 +1,60 @@
+Table 4: Number and Proportion of Gastrointestinal Erosion (narrow) Events by Preferred
+Terms.
+
+PT terms |Vadadustat [Darbepoetn
+IN=1947 IN=1955
+n % n %
+
+Diverticular perforation 4 0.21 1 0.05
+[Duodenal ulcer af 0.56 4 0.20
+Duodenal ulcer haemorrhage 2 0.10 3 0.15
+[Erosive duodenitis 1 0.05 0 0.00
+Gastric haemorrhage 0 0.00 2 0.10
+Gastric ulcer at 0.56 4 0.20
+Gastric ulcer haemorrhage 0 0.00 1 0.05
+Gastric ulcer perforation 2 0.10 0 0.00
+Gastritis erosive 13 0.67 6 0.31
+(Gastritis haemorrhagic 3 0.15 1 0.05
+(Gastrointestinal haemorrhage 43 2.21 46 2.35
+[Haematemesis 5 0.26 5 0.26
+Haemorrhagic erosive gastritis 2 0.10 1 0.05
+Helicobacter gastritis 2 0.10 2 0.10
+IMelaena 12 0.62 8 0.41
+Peptic ulcer 5 0.26 0 0.00
+Peptic ulcer haemorrhage 1 0.05 2 0.10
+Upper gastrointestinal haemorrhage 7 0.36 17 0.87
+[Total 124 6.37 103 5.27
+
+nm: number of subjects with an event: %: proportion of subjects with an event
+Source: reviewer's analysis using data adsl.xpt and adae.xpt.
+
+Heart failure
+
+The risk of heart failure, using adjudicated data from the original submission, was not increased
+in the vadadustat arm compared to the darbepoetin arm (Table 5). The estimated IRD (95% CI)
+and HR (95% CI) of the adjudicated hospitalization from heart failure were -0.13 per 100 PY (-
+0.95 per 100 PY, 0.69 per 100 PY) and 0.97 (0.71, 1.31), respectively. Similar results were
+shown using the adverse events defined using MedDRA terms: the HRs (95% CI) of heart failure
+and serious events were 0.88 (0.72, 1.07) and 0.86 (0.69, 1.08), respectively.
+
+Table 5: Risk of Heart Failure.
+
+‘Vada dustat Darbe poetin
+Endpoint N= 1947 N= 1955 IRD HR
+n % PY IR 2 % PY IR__}| 5% CD _(95% CD)
+
+[Heart Failure (HF) 184 945 3063.7 6.01 212 1084 3065.3 6.92 -0.92 0.88
+J----------}--_-----_---__-- $9. 939)_ OP LO
+
+[Serious HF 142 729 3093.6 = 4.59 168 859 3104.75.41 -0.83 0.86
+fCLA072_ C62, 108)
+
+-0.13 097
+[HE (adjudicated) (0.95, 0.69) (0.72, 1.31)
+
+n: number of subjects with an event; %: proportion of subjects with an event; PY: 100 person-year; IR: incidence
+rate per 100 PY; IRD: incidence rate difference per 100 PY: HR: hazard ratio; 95% CI: 95% confidence interval
+Estimates of hospitalization from HF (adjudicated) were based on adjudicated data from the original submission.
+Source: reviewer’s table using data adsl.xpt and adae.xpt.
+
+Reference ID: 5334607

@@ -1,0 +1,77 @@
+NDA 216951
+Jesduvrog (daprodustat)
+
+7.6.1.6. Adverse Events Leading to Treatment
+Discontinuation
+
+In ASCEND-ND, daprodustat was associated with higher rate of AEs leading to permanent
+discontinuation, compared to darbepoetin alfa (15.3% versus 13.3%). As shown in Table 78,
+most of this 2% treatment difference is attributable to the following AEs: thrombosis
+(Stroke/TIA and M1), bacterial infection, and hemorrhage. In aggregate, the treatment difference
+not favoring daprodustat is relatively small, and based on the 95% CI, could very likely be due to
+chance alone. When inspecting lower-level terms, such as the PT or FMQ, we did not find any
+revealing trends. Nonetheless, the isolation of the treatment difference to thrombosis and
+hemorrhage are addressed as major safety review issues given similar findings in other analyses
+(e.g., SAEs, MACE endpoint analyses). Bacterial infection, while imbalanced (22 vs. 11 subjects
+reported to have discontinued treatment due to this adverse event class), did not rise to the level
+of a review issue, because the imbalance was not isolated to a specific medical concept (e.g.,
+fungal, bacterial, or viral, or infection loci), and supporting queries (such as all TEAEs, SAEs)
+did not establish a convincing signal.
+
+Table 78. Patients With On-Study Adverse Events Leading to Treatment Discontinuation by
+System Organ Class and FDA Medical Query (Narrow), Occurring in at Least 1% of Subjects in
+Any Arm, ITT Population, Trials ASCEND-D, ASCEND-ND, and Pooled Trials
+
+ASCEND-ND
+Daprodustat rhEPO
+
+System Organ Class N=1937 N=1935 RD (%)
+
+FMQ (Narrow) n (%) n (%) (95% Cl)
+Blood and lymphatic system disorders (SOC)
+
+Thrombosis 26 (1.3) 17(0.9) _0.5(-0.2, 1.1)
+Cardiac disorders (SOC)
+
+Myocardial Infarction 21 (1.1) 13 (0.7) 0.4 (-0.2, 1.0)
+Infections and infestations (SOC)
+
+Bacterial Infection 22 (1.1) 11(0.6) _0.6 (-0.0, 1.1)
+Neoplasms benign, malignant and unspecified (incl cysts
+and polyps) (SOC)
+
+Malignancy 35 (1.8) 34(1.8) _0.0(-0.8, 0.9)
+Nervous system disorders (SOC)
+
+Stroke TIA 14 (0.7) 4 (0.2) 0.5 (0.1, 0.9)
+Respiratory, thoracic and mediastinal disorders (SOC)
+
+Respiratory Failure 13 (0.7) 11 (0.6) 0.1 (-0.4, 0.6)
+Vascular disorders (SOC)
+
+Hemorrhage 13 (0.7) 4 (0.2) 0.5 (0.0, 0.9)
+
+Source: adae xpt, Software: R
+
+Treatment-emergent adverse events defined as any AEs occurring or worsening between the first dose and the end of the follow-up
+period.
+
+Risk difference and risk ratio (with 95% confidence interval) are shown between treatment and comparator.
+
+Each FMQ is aligned to a single SOC based on clinical judgment. However, some FMQs may contain PTs from more than one
+SOC.
+
+Abbreviations: AE, adverse event; Cl, confidence interval; FMQ, FDA medical query; ITT, intent-to-treat; N, number of patients in
+treatment arm; n, number of patients with adverse event; NA, not applicable; RD, risk difference; rhEPO, recombinant human
+erythropoietin; SOC, system organ class; TIA, transient ischemic attack
+
+7.6.1.7. Treatment-Emergent Adverse Events
+
+Table 79 provides a frequency-based comparison of common TEAEs reported in the safety
+
+population during the on-study period for the NDD population. This table includes AEs
+136
+
+Integrated Review Template, version 3.0 (05/25/2022)
+
+Reference ID: 5119138

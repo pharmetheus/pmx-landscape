@@ -1,0 +1,46 @@
+Clinical Pharmacology Review
+NDA-214998 Page 27
+
+Subjects (n=26) were randomized (1:1) to receive mavacamten alone or in combination with
+verapamil until Day 28. Blood samples were collected for the determination of total mavacamten
+concentrations. The study included NM (*1/*1; n=18), IM (*2/*1; n=4), and PM (*2/*3 and *2/*2;
+n=3) of CYP2C19. The summary of pharmacokinetic parameters is presented in in Table 3-7.
+
+Table 3-7 Summary of PK Parameters [EM; Study # MYK-461-009]
+Treatment PK Parameters’ Geometric Mean Ratio
+Group (90% Cl)
+Cmax AUCinf Cmax AUCinf
+(ng/mL) (ng"h/mL) (ng/mL) (ng*h/mL)
+Mavacamten 504 (39%); n=11 20740 (40%); n=10 - -
++ Verapamil
+Mavacamten 358 (37%); n=11 17220 (38%); n=11 1.52 1.16
+
+(1.16 to 1.99) (0.84 to 1.58)
+
+*Data presented as mean (%CV) and number of subjects; EM — includes normal and intermediate
+metabolizers of CYP2C19.
+
+Source: Reviewer's analysis.
+
+Concomitant administration of mavacamten with verapamil (at steady state) resulted in increased
+exposures of mavacamten (Cmax: ~1.5-fold and AUC: ~1.16-fold) and increased elimination half-
+life (146 h to 174 h). In 2 PM of CYP2C19 who received mavacamten and verapamil,
+pharmacokinetics assessment indicated a significantly higher exposure of mavacamten (AUCinf:
+27800 and 72600 ng-h/mL) compared to NM of CYP2C19 without a considerable impact on the
+peak concentrations (Cmax: 248 and 300 ng/mL). This higher exposure is likely mainly due to
+their PM OF CYP2C19 status. In the 3 PM of CYP2C19, there was no difference between control
+subject who received mavacamten (AUCinf: 112000 ng-h/mL; n=1) alone and subjects who
+received mavacamten and verapamil concomitantly (n=2). Considering that there was a high
+variability in these pharmacokinetics parameters with limited sample size (n=2 vs. n=1), these data
+for PM of CYP2C19 are inconclusive.
+
+The Applicant’s PBPK assessment of drug interaction with itraconazole indicated that the
+concomitant administration of mavacamten with a strong inhibitor of CYP3A4 results in ~2- fold
+increase in AUC of mavacamten in PM of CYP2C19.
+
+The effect of strong and moderate CYP3A4 inhibitors on the PK of mavacamten was evaluated
+using the PBPK analyses in different genotypes of CYP2C19 (Section 4.3) by the FDA reviewers.
+Ketoconazole (a strong CYP3A4 inhibitor) is predicted to increase Cmin,ss of mavacamten by
+approximately 30% and 100% in NM of CYP2C19 and PM of CYP2C19, respectively. The effect
+
+Reference ID: 4872643

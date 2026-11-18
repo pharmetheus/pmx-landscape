@@ -1,0 +1,78 @@
+Multi-disciplinary Review and Evaluation
+
+NDA 218784
+
+VORANIGO (vorasidenib)
+Pediatrics One pediatric subject (16 years old) in Study AG881-C-002
+(if any)
+Geriatrics Not applicable
+
+Dose Included
+
+* 10, 25, 50, 100, 200, and 300 mg QD Formulation F1
+¢ 40 mg QD Formulation F2
+
+Exposure Metrics Explored
+(range)
+
+The exposure-safety analysis used AUCavg and Cmax.avg at steady state based
+on the actual average dose up to the time of an event, up to the EOT or up
+to the study data cutoff in case a subject did not experience a TEAE.
+
+Per definition, the range of exposure metrics differs for each endpoint. As an
+example, AUCayg ranged between 263 to 12,800 hr-ng/mL and Cmaxave ranged
+between 16.3 and 1,010 ng/mL for the most frequent AE (newly occurring or
+worsening laboratory abnormalities all grades for ALT)
+
+Covariates Evaluated
+
+* Demographic factors: age, weight, sex, race
+
+* Concomitant marijuana use was evaluated as 2-category covariate
+(use / no use) with threshold set at 25% of days on marijuana over the
+entire subject treatment duration
+
+Acceptability
+[FDA’s
+Final Model Parameters Summary comments]
+mosesvuere logt(Pireponse) = tog (essen) = py + px, |
+‘isresponse
+
+Boand f are scalar and vector parameters that represent
+
+the baseline logit and the effect of predictors, X; (eg,
+
+exposure or baseline covariates) on the logit, respectively.
+Model Parameter Estimates Table 72 Yes
+Model Evaluation Figure 26 Yes
+Covariates and Clinical Sex was identified as a statistically significant covariate for | Yes
+Relevance all-grade fatigue, accounting for a lower incidence and a
+
+left shift of the ER curve in male subjects compared to
+
+female subjects.
+Simulation for Specific After 40 mg QD dosing, the incidence of all-grade fatigue Yes
+Population was 43.5% and 49.6% at the 10 exposure percentile, for
+
+male and female subjects, respectively, and decreased to
+
+18.0% and 8.35% at the 90" exposure percentile, for male
+
+and female subjects, respectively.
+Visualization of ER relationships | Figure 26 Yes
+Overall Clinical Relevance for ER | In subjects from Studies AG881-C-002, AG120-881-C-001, | Yes
+
+and AG881-C-004, no statistically significant relationships
+
+were identified between exposure and an increased risk of
+
+events for the evaluated safety endpoints.
+
+310
+
+Version date: December 2023(ALL NDA/BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5425021

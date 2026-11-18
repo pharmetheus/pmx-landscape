@@ -1,0 +1,61 @@
+Bioanalytical method Report $226219,
+validation report name,
+amendment:, and hyperlinks
+‘Method description ‘Validation of a Method for the Determination of Acetammophen in Human Plasma using
+Liquid Chromatography with Tandem Mass Spectrometric Detection
+‘Materials used for standard | Acetaminophen lots 088K0040. K01244. 096K0072 and P500005
+calibration curve and Intemal standard (IS): Acetaminophen-d4 lot 14SSR-11-1, 11-GHZ-105-1 and 11-ABY-
+concentration 441
+Dry powder
+‘Validated assay range 30.0 to 50000 ng/mL
+‘Material used for quality Acetaminophen lots 088K0040, K01N44. 096K0072 and P500005
+controls (QCs) and Intemal standard (IS): Acetaminophen-d4 lot 14SSR-11-1, 11-GHZ-105-1 and 11-ABY-
+concentration 41
+Dry powder
+Minimum required dilaton: | Not applicable
+(QRD=)
+ay and lot of reagents ‘Not applicable
+‘Regression model and Weighted 1/x? least squares linear regression
+Taint ‘parameters ‘Method validation summary Source location
+Standard calibration ‘Number of standard calibrators fromLLOQ | 8 8226219
+curve performance during | to ULOQ Section 5.3.1.4
+accuracy and precision Cumulative accuracy (*ebias) from LLOQ to | -3.3 to 2.8% | 8226219
+runs ULOQ Section 5.3.14
+Acetaminophen
+Cumulative precision (%CV) from LLOQ to | 4.6% 8226219
+ULOQ Section 5.3.1.4
+Acetaminophen
+Performance of QCs Cumulative accuracy (Yebias) in 3 QCs 21to87% | 8226219
+during accuracy and QCs: Section 5.3.14
+precision runs Acetaminophen
+Inter-batch %CV_ 8226219
+QCs: Section 5.3.1.4
+Acetaminophen
+Total Error (TE) Not
+QCs: applicable
+Selectivity & matrix effect ‘Number of total lots tested. Range of observed bias. State | Six lots of blank plasma
+any issue were tested.
+was =5.3% of LLOQ.
+“Tnterference & specificity Number of total lots tested. Range of observed bias. State | Not applicable
+any issue
+Hemolysis effect ‘Number of total lots tested. Range of observed bias. State | One lot of 2% hemolytic
+any issue plasma was tested.
+was
+2.7% of the theoretical
+value.
+‘Lipemic effect ‘Number of total lots tested. Range of observed bias. State | One lot of lipemic plasma
+any issue was tested. Response was
+within 18.7% of the
+theoretical value.
+pation Maser heels 10-fold dilution validated. Hook effect not applicable.
+Bench-top’process stability | Plasma: 24 hours at room temperature
+Extracted plasma: 75 hours at 4°C
+Freeze-Thaw stability 5 freeze/thaw cycles at -20 and -70°C
+‘Long-term storaze 646 days at -20°C and 638 days at -70°C
+Parallelisn ‘Not applicable
+Carry over There was no significant carryover.
+
+Reference ID: 4954959
+
+43
+

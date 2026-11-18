@@ -1,0 +1,201 @@
+"by","group","year","methods","applied"
+"tool","NONMEM",2006,20,42
+"tool","NONMEM",2007,31,57
+"tool","NONMEM",2008,25,66
+"tool","NONMEM",2009,25,76
+"tool","NONMEM",2010,46,81
+"tool","NONMEM",2011,22,107
+"tool","NONMEM",2012,38,99
+"tool","NONMEM",2013,34,89
+"tool","NONMEM",2014,24,105
+"tool","NONMEM",2015,22,128
+"tool","NONMEM",2016,22,127
+"tool","NONMEM",2017,22,107
+"tool","NONMEM",2018,25,115
+"tool","NONMEM",2019,24,139
+"tool","NONMEM",2021,19,97
+"tool","NONMEM",2022,15,86
+"tool","NONMEM",2023,28,131
+"tool","NONMEM",2024,36,121
+"tool","NONMEM",2025,28,121
+"tool","NONMEM",2026,20,107
+"tool","Monolix",2006,2,0
+"tool","Monolix",2007,4,1
+"tool","Monolix",2008,5,2
+"tool","Monolix",2009,5,2
+"tool","Monolix",2010,7,8
+"tool","Monolix",2011,11,12
+"tool","Monolix",2012,5,10
+"tool","Monolix",2013,3,19
+"tool","Monolix",2014,3,14
+"tool","Monolix",2015,3,22
+"tool","Monolix",2016,3,20
+"tool","Monolix",2017,3,19
+"tool","Monolix",2018,8,19
+"tool","Monolix",2019,14,25
+"tool","Monolix",2021,6,21
+"tool","Monolix",2022,11,26
+"tool","Monolix",2023,11,32
+"tool","Monolix",2024,10,44
+"tool","Monolix",2025,9,35
+"tool","Monolix",2026,10,37
+"tool","BUGS",2006,0,1
+"tool","BUGS",2007,4,3
+"tool","BUGS",2008,5,1
+"tool","BUGS",2009,6,2
+"tool","BUGS",2010,6,2
+"tool","BUGS",2011,4,5
+"tool","BUGS",2012,1,4
+"tool","BUGS",2013,0,3
+"tool","BUGS",2014,0,2
+"tool","BUGS",2015,2,2
+"tool","BUGS",2016,1,2
+"tool","BUGS",2017,1,0
+"tool","BUGS",2018,1,0
+"tool","BUGS",2019,0,1
+"tool","BUGS",2021,0,0
+"tool","BUGS",2022,0,1
+"tool","BUGS",2023,0,0
+"tool","BUGS",2024,0,0
+"tool","BUGS",2025,0,0
+"tool","BUGS",2026,0,0
+"tool","nlmixr",2006,0,0
+"tool","nlmixr",2007,0,0
+"tool","nlmixr",2008,0,0
+"tool","nlmixr",2009,0,0
+"tool","nlmixr",2010,0,0
+"tool","nlmixr",2011,0,0
+"tool","nlmixr",2012,0,0
+"tool","nlmixr",2013,0,0
+"tool","nlmixr",2014,0,0
+"tool","nlmixr",2015,0,0
+"tool","nlmixr",2016,0,0
+"tool","nlmixr",2017,1,1
+"tool","nlmixr",2018,2,0
+"tool","nlmixr",2019,1,0
+"tool","nlmixr",2021,2,3
+"tool","nlmixr",2022,1,0
+"tool","nlmixr",2023,5,1
+"tool","nlmixr",2024,6,2
+"tool","nlmixr",2025,4,6
+"tool","nlmixr",2026,4,6
+"tool","Pumas",2006,0,0
+"tool","Pumas",2007,0,0
+"tool","Pumas",2008,0,0
+"tool","Pumas",2009,0,0
+"tool","Pumas",2010,0,0
+"tool","Pumas",2011,0,0
+"tool","Pumas",2012,0,0
+"tool","Pumas",2013,0,0
+"tool","Pumas",2014,0,0
+"tool","Pumas",2015,0,0
+"tool","Pumas",2016,0,0
+"tool","Pumas",2017,0,0
+"tool","Pumas",2018,0,0
+"tool","Pumas",2019,0,0
+"tool","Pumas",2021,4,1
+"tool","Pumas",2022,0,0
+"tool","Pumas",2023,4,0
+"tool","Pumas",2024,4,2
+"tool","Pumas",2025,5,2
+"tool","Pumas",2026,4,0
+"tool","Stan/Torsten",2006,0,0
+"tool","Stan/Torsten",2007,0,0
+"tool","Stan/Torsten",2008,0,0
+"tool","Stan/Torsten",2009,0,0
+"tool","Stan/Torsten",2010,0,0
+"tool","Stan/Torsten",2011,0,0
+"tool","Stan/Torsten",2012,0,0
+"tool","Stan/Torsten",2013,0,0
+"tool","Stan/Torsten",2014,0,1
+"tool","Stan/Torsten",2015,1,0
+"tool","Stan/Torsten",2016,0,1
+"tool","Stan/Torsten",2017,2,2
+"tool","Stan/Torsten",2018,5,0
+"tool","Stan/Torsten",2019,4,2
+"tool","Stan/Torsten",2021,3,3
+"tool","Stan/Torsten",2022,3,1
+"tool","Stan/Torsten",2023,0,1
+"tool","Stan/Torsten",2024,4,4
+"tool","Stan/Torsten",2025,5,2
+"tool","Stan/Torsten",2026,1,4
+"type","Joint models",2006,0,0
+"type","Joint models",2007,0,1
+"type","Joint models",2008,0,0
+"type","Joint models",2009,0,2
+"type","Joint models",2010,3,1
+"type","Joint models",2011,3,1
+"type","Joint models",2012,1,3
+"type","Joint models",2013,0,1
+"type","Joint models",2014,0,0
+"type","Joint models",2015,0,2
+"type","Joint models",2016,0,3
+"type","Joint models",2017,0,1
+"type","Joint models",2018,1,5
+"type","Joint models",2019,1,2
+"type","Joint models",2021,0,4
+"type","Joint models",2022,0,3
+"type","Joint models",2023,1,6
+"type","Joint models",2024,1,3
+"type","Joint models",2025,1,2
+"type","Joint models",2026,0,5
+"type","Full Bayesian hierarchical models",2006,0,1
+"type","Full Bayesian hierarchical models",2007,3,3
+"type","Full Bayesian hierarchical models",2008,4,1
+"type","Full Bayesian hierarchical models",2009,5,2
+"type","Full Bayesian hierarchical models",2010,8,2
+"type","Full Bayesian hierarchical models",2011,3,6
+"type","Full Bayesian hierarchical models",2012,3,5
+"type","Full Bayesian hierarchical models",2013,0,3
+"type","Full Bayesian hierarchical models",2014,0,3
+"type","Full Bayesian hierarchical models",2015,3,5
+"type","Full Bayesian hierarchical models",2016,0,4
+"type","Full Bayesian hierarchical models",2017,3,3
+"type","Full Bayesian hierarchical models",2018,5,0
+"type","Full Bayesian hierarchical models",2019,3,7
+"type","Full Bayesian hierarchical models",2021,3,3
+"type","Full Bayesian hierarchical models",2022,3,2
+"type","Full Bayesian hierarchical models",2023,2,1
+"type","Full Bayesian hierarchical models",2024,2,4
+"type","Full Bayesian hierarchical models",2025,5,3
+"type","Full Bayesian hierarchical models",2026,2,4
+"type","Machine learning, AI, neural ODEs",2006,0,0
+"type","Machine learning, AI, neural ODEs",2007,0,0
+"type","Machine learning, AI, neural ODEs",2008,0,0
+"type","Machine learning, AI, neural ODEs",2009,0,0
+"type","Machine learning, AI, neural ODEs",2010,0,0
+"type","Machine learning, AI, neural ODEs",2011,0,0
+"type","Machine learning, AI, neural ODEs",2012,1,0
+"type","Machine learning, AI, neural ODEs",2013,0,0
+"type","Machine learning, AI, neural ODEs",2014,0,0
+"type","Machine learning, AI, neural ODEs",2015,0,0
+"type","Machine learning, AI, neural ODEs",2016,0,0
+"type","Machine learning, AI, neural ODEs",2017,0,0
+"type","Machine learning, AI, neural ODEs",2018,0,0
+"type","Machine learning, AI, neural ODEs",2019,1,1
+"type","Machine learning, AI, neural ODEs",2021,4,1
+"type","Machine learning, AI, neural ODEs",2022,0,2
+"type","Machine learning, AI, neural ODEs",2023,2,2
+"type","Machine learning, AI, neural ODEs",2024,11,1
+"type","Machine learning, AI, neural ODEs",2025,7,4
+"type","Machine learning, AI, neural ODEs",2026,5,2
+"type","QSP, PBPK",2006,0,2
+"type","QSP, PBPK",2007,0,1
+"type","QSP, PBPK",2008,0,0
+"type","QSP, PBPK",2009,0,3
+"type","QSP, PBPK",2010,0,1
+"type","QSP, PBPK",2011,0,3
+"type","QSP, PBPK",2012,1,3
+"type","QSP, PBPK",2013,0,2
+"type","QSP, PBPK",2014,0,6
+"type","QSP, PBPK",2015,0,8
+"type","QSP, PBPK",2016,2,7
+"type","QSP, PBPK",2017,1,6
+"type","QSP, PBPK",2018,3,9
+"type","QSP, PBPK",2019,0,5
+"type","QSP, PBPK",2021,2,9
+"type","QSP, PBPK",2022,2,3
+"type","QSP, PBPK",2023,3,8
+"type","QSP, PBPK",2024,3,7
+"type","QSP, PBPK",2025,3,8
+"type","QSP, PBPK",2026,1,11

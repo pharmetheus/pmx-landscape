@@ -1,0 +1,45 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {BLA 761234}
+Opdualag™ (nivolumab and relatlimab-rmbw)
+
+According to the ADAE dataset, fatal/Grade 5 AEs had an attribution to study drug in 7 (2%)
+patients on nivolumab-relatlimab FDC and 11 (3.1%) patients on nivolumab. AEs resulting in
+death included terms such as “malignant neoplasm progression” and “other” which may
+confound the assessment of AEs resulting in death (see Table 54). FDA reviewed each patient
+narrative for death not related to disease progression in patients treated with nivolumab-
+relatlimab FDC and summarized in Table 56
+
+Table 55: AEs Resulting in Death
+
+Nivolumab-relatlimab FDC Nivolumab Total
+N=355 N=359 N=714
+N (%) N (%) N (%)
+Death due to AEs 19 (5) 20 (6) 39 (5)
+Malignant Neoplasm
+eniee P 8 (2.3) 9 (2.5) 17 (2.4)
+ee 1 (0.3) 1 (0.3) 2 (0.3)
+Asthenia 1 (0.3) 0 (0) 1 (0.1)
+Covid-19 1(0.3) 1(0.3) 2 (0.3)
+Covid-19 Pneumonia 1 (0.3) 0 (0) 1 (0.1)
+Death 1(0.3) 1(0.3) 2 (0.3)
+i 103) 00 103
+Pneumonia 1 (0.3) 1 (0.3) 2 (0.3)
+Pneumonitis 1 (0.3) 0 (0) 1 (0.1)
+Pulmonary Edema 1 (0.3) 0 (0) 1 (0.1)
+Respiratory Failure 1 (0.3) 2 (0.6) 3 (0.4)
+Sepsis 1 (0.3) 0 (0) 1 (0.1)
+Septic Shock 1 (0.3) 0 (0) 1 (0.1)
+Sudden Death 0 (0) 2 (0.6) 2 (0.3)
+Atypical Pneumonia 0 (0) 1 (0.3) 1 (0.1)
+Basilar Artery Thrombosis 0 (0) 1 (0.3) 1 (0.1)
+Cerebrovascular Accident 0 (0) 1 (0.3) 1 (0.1)
+
+Source: ADSL (Subject-Level Analysis Dataset) - 2021-05-12, ADAE (Analysis Adverse Events) - 2021-05-12. Variables
+used: USUBJID, TRTO1A, SAFFL, TRTEMFL, AEBODSYS, AEDECOD, AEOUT, AESDTH, AETOXGRN
+
+177
+Version date: January 2020 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “The Applicant’s Position” are completed by the Applicant
+and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 4955210

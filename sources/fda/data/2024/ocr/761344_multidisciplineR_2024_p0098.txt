@@ -1,0 +1,44 @@
+Reference ID: 5382024
+
+NDA/BLA Multi-disciplinary Review and Evaluation {BLA 761344}
+{Tarlatamab}
+
+1 mg(Day1) - 10 mg(Day8) - 10 mg Q2W(Day15)
+
+Cone (ng/mL)
+
+Time (day)
+
+Median is represented by solid black line. 90% prediction interval is represented by the
+shaded blue area.
+
+Source: Figure 15 in Applicant’s Pharmacometrics Report 157688
+
+Cytokine levels
+FDA assessed of the potential for drug interactions between tarlatamab and CYP
+
+substrates and considered this risk is low. In Study 2020049, cytokine levels were
+transiently elevated and mostly peaked around 20-24 hours after step-up dose (1 mg)
+on Cycle 1 Day 1 and returning to baseline around the next target dose (10 mg) on Cycle
+1 Day 8 (Figure 8 and Table 18). The concentrations of IL-6 for the total samples,
+samples without tocilizumab and samples with tocilizumab were summarized in
+
+Table 18.
+
+Prior literature and validated physiologically based pharmacokinetic model (PBPK)
+derived the EC50 values for IL-6 on CY3A4 and CYP3A5 to be 75.2 pg/mL and 51 pg/mL,
+respectively (Jiang 2016). The median and mean value of peak IL-6 concentrations are
+26 pg/mL (Table 18). This peak concentration did not exceed the literature reported
+EC50 of IL-6, suggesting a clinically relevant interaction between tarlatamab and CYP3A
+substrates is not expected, and the mean value of IL-6 was lower for tarlatamab than
+other bispecific drugs including elranatamab and epcoritamab (Table 19). Based on the
+predicted low drug interaction risk in the general patient population, the information is
+not included in Section 7 of the USPI.
+
+Figure 10 showed an exploratory analysis, in patients who developed Grade 2 CRS, the
+peak IL-6 may exceed the EC50 and could potentially lead to suppression of CY3A
+98
+Version date: June 2022 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are
+completed by the Applicant and do not necessarily reflect the positions of the FDA.

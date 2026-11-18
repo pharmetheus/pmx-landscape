@@ -1,0 +1,70 @@
+NDA 217785
+
+REZDIFFRA (resmetirom)
+
+Table 235. Population Parameter Estimates of Final PopPK Model for Metabolite MGL-3623
+Parameter Estimate RSE% 95% CI ‘Shrinkage
+‘Typical Values - Absorption
+
+Kf (1/h) 1.20 Fixed NA NA NA
+Di/Fm (h) 3.32 Fixed NA NA NA
+‘Tiag (h) 0.379 Fixed NA NA NA
+Fror (Fraction) 1.00 Fixed NA NA NA
+Typical Values - Disposition
+CLFm (Uh) 62.5 1.74 60.4, 64.7 NA
+Q/Fm (Uh) 6.35 Fixed NA NA NA
+‘Ve/Em (L) 298 2.48 284, 313 NA
+‘Vp/Fm (L) 52.2 Fixed NA NA NA
+‘Typical Values — Time and Dose Effects
+‘Time Effect - Imax on CL/F (fraction) 0.165 Fixed ‘NA NA NA
+‘Time Effect - Doses on CL/F (unitless) 2.29 Fixed NA NA NA
+‘Time Effect - Hill on CL/F (unitless) 0.544 Fixed NA NA NA
+Dose Effect on CLF. -0.0959 | 530 | -0196,0.00379 |_NA
+‘Covariate Effects
+‘Weight on CLQ 0.960 51 0.852, 1.07 NA
+Weight on VoVp 1 676 | 0.960.125 NA
+Study 005 on CL/Fm 0.154 509 0.000393 . 0.307
+Fibrosis Stage 3 on CL/Fm -0.0848 28.1 0.132 , -0.0382 NA
+Fibrosis Stage 4 on CL/Fm 0.132 252 | 0.197, -0.0665 NA
+‘Non-NASH with normal hepatic function or Mild HI on CL/Fm 0.245 183 0.157 , 0.333 NA
+Non-NASH moderate HI on CLFim 0.179 935 -0.506 , 0.149
+Non-NASH severe HI on CL/Fm “0.781 158 | -102,-0539 NA
+Statin on CL/Fm 0.00649 262 0.0398 , 0.0268 NA
+Clopidogrel on CL/Fu -0.169 219 | -0.242, 0.0964 NA
+Between Subject Variability
+Onkf 55.2 Fixed | NA NA 69.8%
+OnD1 22.6 Fixed NA NA 744%
+On CLF 358 251 340,376 26.5%
+On Verm 483 24s | 460.507 21.7%
+‘Residual Error
+‘Log Additive Error 0.891 0.191 0.888 , 0.895 NA
+Log Additive Error for Study VIA-3196-01 and VIA-3196-02 | 0.552 Fixed | NA NA NA
+
+Source: Table 27 from “Population Pharmacokinetics Analysis of Resmetirom in Patients with Nonalcoholic Steatohepatitis (NASH),”
+Report No. MADR-PMX mgL3196-2382-PK
+
+Note: Population PK parameters for the metabolite are for a typical NASH patient with a body weight of 98 kg, a fibrosis stage FO,
+F1, or F2 who received an 80 mg dose who did not receive statin or clopidogrel.
+
+Note: BSV (RSE) and shrinkage could not be estimated for absorption (Kf, D1/Fm, Tlag, FmTOT) and peripheral parameters (Q/Fm
+and Vp/Fm) due to sparse data available in phase 3 studies
+
+Abbreviations: Kf, first-order rate constant of metabolite formation; D1/Fm, duration of zero-order metabolite formation D1; Tlag, lag
+time of metabolite formation; FmTOT, fraction metabolized; Imax, maximum effect of multiple doses on CL/Fm; Dose50, number of
+dose associated with 50% of maximum effect on CL/Fm,; CL/Fm, apparent metabolite formation clearance; Q/Fm, apparent
+metabolite intercompartmental clearance; Vc/Fm, apparent central volume of metabolite; Vp/F, apparent peripheral volume of
+metabolite
+
+(b) (4)
+
+An IR was sent to Applicant on November 3, 2023, to ask for study of different BW cutoffs for
+PK of resmetirom. In the Applicant’s IR response dated 11/15/2023,° the Applicant provided
+descriptive statistics of exposure parameters of resmetirom for the 80 mg and 100 mg dose by 10
+kg BW increments up to 110 kg and > 110 kg as shown in Table 236.
+
+5 DARRTS, NDA 217785, 0036, 11/15/2023, Clinical Pharmacology/Response to Information Request
+
+415
+Integrated Review Template, version 4.0 (11/1/23)
+
+Reference ID: 5346512

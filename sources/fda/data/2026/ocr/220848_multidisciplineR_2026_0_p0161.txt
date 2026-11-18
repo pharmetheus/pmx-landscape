@@ -1,0 +1,65 @@
+NDA 220848
+LIPFENDRA (enlicitide)
+
+the tables and figures reviewed will not be replicated in this memo. A summary is provided
+below.
+
+e A review of the missing laboratory data did not identify any imbalances in missingness
+between study arms that would compromise the underlying data. The degree of missingness
+was low, except for direct bilirubin, which is expected because direct bilirubin was only
+obtained if the total bilirubin was above the ULN.
+
+e Chemistry, kidney function, liver biochemistry, and hematology (including A1C) were all
+evaluated using analyses of change over time from baseline and outlier analyses. There were
+no clinically meaningful changes noted.
+
+e An evaluation of potential hepatocellular DILI, including hepatocellular DILI screening plots
+did not identify any concerns safety signals, as shown below.
+
+e There was one subject with ALT>10xULN in the enlicitide arm. This subject was a 70-year-
+old female with T2D who experienced an increased ALT (479 IU/L) on Day 364 related to
+worsening diabetes and hyponatremia. No action was taken and the increased ALT and
+worsening diabetes subsequently resolved. The subject completed study participation and
+treatment with enlicitide and was enrolled into the open-label extension. Worsening diabetes
+and elevated ALT were not thought to be related to enlicitide exposure.
+
+FDA Table 19. Subjects in Quadrant of Interest for Potential Hepatocellular DILI Screening Plot,
+Placebo-Controlled Pool, Trials P013 and P017
+
+Enlicitide Placebo] Enlicitide Placebo Enlicitide Placebo
+20 mg_013 _013] 20 mg_017 _017 Pooled Pooled
+N=1935 N=969) N=202 N=101 N=2137 N=1070
+Quadrant n/Nw (%) n/Nw (%) n/Nw (%)_n/Nw (%) n/Nw (%) n/Nw (%)
+Potential Hy's Law 0/1897 (0) 0/956 (0)|  0/201(0) 0/97(0)| 0/2092(0) 0/1053 (0)
+(right upper
+quadrant)
+
+Cholestasis (left 3/1891 (0.2) 6/956 (0.6)| _2/201(1) 1/97(1)| 5/2092 (0.2) 7/1053 (0.7)
+upper quadrant)
+
+Temple's corollary 8/1891 (0.4) 4/956(0.4)| 0/201 (0) 3/97(3.1)| 98/2092(0.4) 7/1053 (0.7)
+(right lower
+quadrant)
+
+Total 11/1891 (0.6) 10/956 (1)| 2/201 (4) 4/97 (4.1)| 13/2092 (0.6) 14/1053 (1.3)
+
+Source: adlb.xpt; Software: R
+
+Duration is 52 weeks. A potential Hy's Law case was defined as having any postbaseline total bilirubin equal to or exceeding 2X
+ULN after a postbaseline ALT or AST equal to or exceeding 3x ULN_
+
+The within 30 days analysis window rule does not apply to cholestasis and temple's corollary cases.
+
+In addition to central laboratory data, local laboratory data may be included in the analysis, if applicable.
+
+Abbreviations: DILI, drug-induced liver injury, N, number of subjects in treatment arm; n, number of subjects meeting the specified
+laboratory criteria; N,., total number of subjects with laboratory data available; ULN, upper limit of normal
+
+148
+
+Version date: February 10, 2025 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5833849

@@ -1,0 +1,3 @@
+"source","item_id","label","value_first","note_first","value_check","note_check"
+"Europe PMC","MED:36345347","NONMEM","used","The trial's own analysis plan specifies NONMEM for the population PK analysis.","mentioned","This is a trial protocol and NONMEM is named only for an analysis planned for the future."
+"Europe PMC","MED:40617608","NONMEM","used","The published model was recoded and simulated in NONMEM to produce the virtual populations.","comparator","NONMEM was run only to simulate the reference levels that the proposed methods were compared against."

@@ -1,0 +1,2071 @@
+CENTER FOR DRUG EVALUATION AND
+RESEARCH
+APPLICATION NUMBER:
+
+214012Orig1s000
+CLINICAL PHARMACOLOGY
+REVIEW(S)
+
+Office of Clinical Pharmacology Review
+BLA Number
+Link to EDR
+Submission Date
+Submission Type
+Brand Name
+Generic Name
+Dosage Form and
+Strength
+Route of
+Administration
+Proposed Indication
+
+Applicant
+Associated IND
+OCP Review Team
+OCP Final Signatory
+
+214012
+\\CDSESUB1\EVSPROD\NDA214012\214012.enx
+December 23, 2019; July 2, 2020
+505(b)(1)
+Leqvio
+Inclisiran
+Injectable solution; 284 mg (equivalent to 300 mg inclisiran
+sodium salt) /1.5 mL
+Subcutaneous
+An adjunct to diet and maximally tolerated statin therapy for the
+treatment of adults with primary hyperlipidemia (including
+heterozygous familial hypercholesterolemia) to reduce low density
+lipoprotein cholesterol (LDL-C)
+Novartis
+IND 127589
+Sang Chung, Ph.D., Justin Earp, Ph.D., Jayabharathi
+Vaidyanathan, Ph.D.
+Doanh Tran, Ph.D.
+
+1
+
+Reference ID: 4684702
+
+Table of Contents
+1.
+
+EXECUTIVE SUMMARY .......................................................................................................... 5
+1.1
+
+Recommendations .......................................................................................................... 5
+
+1.2
+
+Post‐Marketing Requirements and Commitments ...................................................... 6
+
+2. SUMMARY OF CLINICAL PHARMACOLOGY ASSESSMENT ......................................... 6
+2.1
+
+Pharmacology and Clinical Pharmacokinetics ............................................................. 6
+
+2.2
+
+Dosing and Therapeutic Individualization ....................................................................... 7
+
+2.2.1
+
+General dosing ......................................................................................................... 7
+
+2.2.2
+
+Therapeutic individualization ................................................................................ 7
+
+2.3
+
+Outstanding Issues............................................................................................................ 7
+
+2.4
+
+Summary of Labeling Recommendations ........................................................................ 7
+
+3.
+
+COMPREHENSIVE CLINICAL PHARMACOLOGY REVIEW......................................... 8
+3.1
+
+Overview of the Product and Regulatory Background .................................................... 8
+
+3.2
+
+General Pharmacological and Pharmacokinetic Characteristics ...................................... 9
+
+3.2.1
+
+Mechanism of Action:............................................................................................... 9
+
+3.2.2
+
+Pharmacokinetics .................................................................................................... 10
+
+3.3
+
+4.
+
+Clinical Pharmacology Questions ................................................................................ 13
+
+3.3.1
+
+Does the clinical pharmacology information provide supportive evidence of
+effectiveness? ........................................................................................................ 13
+
+3.3.2
+
+Is the proposed general dosing regimen appropriate for the general patient
+population for which the indication is being sought?........................................ 13
+
+3.3.3
+
+Is an alternative dosing regimen and management strategy required for
+subpopulations based on intrinsic factors? ............................................................. 18
+
+3.3.4
+
+Are there clinically relevant drug‐drug interactions and what is the
+appropriate management strategy? .................................................................... 22
+
+APPENDICES ....................................................................................................................... 24
+4.1
+
+Composition of formulation ........................................................................................... 24
+
+4.2
+
+Summary of Bioanalytical Method Validation .............................................................. 25
+
+4.3
+
+Supplemental Clinical Pharmacology Information ........................................................ 27
+
+4.3.1. Study ALN-PCSSC-001 (SAD, MD) .......................................................................... 27
+4.3.2. ORION-7 (Renal impairment) ..................................................................................... 31
+2
+
+Reference ID: 4684702
+
+4.3.3. ORION-6 (Hepatic impairment) .................................................................................. 33
+4.3.4. ORION-12 (TQT Study) ............................................................................................. 35
+4.3.5. Efficacy sub-group analysis – Efficacy Pool 1 (Source, Figure 8, Module 2.5) ......... 37
+4.3.6. Statin concentrations observed in Phase 3 trial (ORION-10)...................................... 38
+4.3.7. Pharmacometrics Review ............................................................................................ 39
+
+List of Tables
+Table 1
+Table 2
+Table 3
+Table 4
+Table 5
+Table 6
+Table 7
+Table 8
+Table 9
+Table 10
+Table 11
+Table 12
+Table 13
+Table 14
+Table 15
+Table 16
+Table 17
+Table 18
+
+LDL‐C or PSCK9 changes with potential delayed doses up to 3 months ........... 17
+The Point Estimates and the 90% CIs ............................................................................... 17
+Statistical comparison of AUC and Cmax of inclisiran in subjects with normal
+renal function and renal impairment sub‐groups ....................................................... 19
+Statistical comparison of AUC and Cmax of inclisiran in the hepatic impairment
+trial ................................................................................................................................................... 21
+Composition of formulation .................................................................................................. 24
+Performance summary of bioanalytical method for inclisiran .............................. 26
+Summary of PK parameters following SAD (Source; Table 3, 2.7.2) ................... 27
+Summary of PCSK9 and LDL‐C reduction* from baseline following SAD
+(Source; Table 14 and 15, CSR) ........................................................................................... 28
+Summary of inclisiran PK parameters following MD ................................................. 29
+Summary of PCSK9 and LDL‐C reduction* from baseline following MD
+(Source; Table 17 and 18, CSR) ........................................................................................... 30
+Summary of PK parameters following 300 mg in ORION‐7 (Source; Table 8,
+CSR) ................................................................................................................................................. 32
+Summary of PK parameters following 300 mg in ORION 6 (Source; Table 1,
+CSR) ................................................................................................................................................. 33
+Summary of PK parameters following 900 mg in ORION‐12 (Source; Table 10,
+CSR) ................................................................................................................................................. 36
+Summary of observed atorvastatin (top panel) or rosuvastatin (bottom panel)
+concentrations ............................................................................................................................ 38
+Dataset used to develop the structural population PD modeling ......................... 40
+Summary of parameter estimates of the final structure model ............................ 41
+Summary of parameter estimates of the final full model with covariates........ 42
+Descriptive summary of percent change from baseline of PCSK9 or LDL‐C in
+simulation with time deviation at Month 21 ................................................................. 44
+List of Figures
+
+Figure 1
+Figure 2
+
+Schematic summary of inclisiran structure (Molecular weight.; 16,339.51
+g/mol as free acid) .................................................................................................................... 10
+Mean (SE) inclisiran concentration‐time profile following SAD (Study ALN‐
+PCSSC‐001) ................................................................................................................................... 10
+3
+
+Reference ID: 4684702
+
+Figure 3
+Figure 4
+Figure 5
+Figure 6
+Figure 7
+Figure 8
+
+Figure 9
+Figure 10
+Figure 11
+Figure 12
+Figure 13
+Figure 14
+Figure 15
+Figure 16
+Figure 17
+Figure 18
+Figure 19
+Figure 20
+Figure 21
+Figure 22
+
+Inclisiran AUC (left) and Cmax (right) proportionality to dose by trial cohort;
+single doses (blue) and 1st dose following multiple dose study (red) (Study
+ALN‐PCSSC‐001) ........................................................................................................................ 11
+Mean (SE) inclisiran concentration‐time profile following different MD
+regiments (Upper panel) and PK parameter changes during MD (Lower Panel)
+(Study ALN‐PCSSC‐001) ......................................................................................................... 12
+Concentrations of inclisiran and AS(n‐1) in ORION 7 .............................................. 13
+Mean (SE) PCSK9 (left) and LDL‐C change from baseline following inclisiran
+dosing on Day 1 and Day 90 (ORION‐1) .......................................................................... 14
+Mean (SE) percent change from baseline in PCSK9 (upper) and LDL‐C (lower)
+between ALN‐PCSSC‐001 and ORION‐1 (numbers inside bars represent the
+number of subjects in each group) .................................................................................... 14
+Simulated LDL‐C following different dosing schedules; Day 1, Day 60 and then
+every 4 months (solid line, schedule 1), Day 1, Day 60 and then every 6
+months (broken line, schedule 2), or Day 1, Day 90, and then every 6 months
+(dotted line, schedule 3) ......................................................................................................... 15
+Observed mean percentage change from baseline in LDL‐C over time (ORION‐
+11, ITT population) ................................................................................................................... 16
+Waterfall plots of absolute change in LDL‐C from baseline to Day 510 in each
+Phase 3 trials (A; ORION‐9, B; ORION‐10, C; ORION‐11) ......................................... 16
+Mean (SE) inclisiran concertation‐time profiles in sub‐groups of renal
+impairment (left) and relationship between AUC and CLcr (right) (ORION‐7)
+........................................................................................................................................................... 18
+PD concentration‐time profiles by sub‐groups; PCSK9 (left) and LDL‐C (right)
+(ORION‐7) ..................................................................................................................................... 19
+PD at baseline by sub‐groups; PCSK9 (left) and LDL‐C (right) (ORION‐7) ...... 20
+Inclisiran concentration‐time profile in subjects with normal or hepatic
+impairment (left) and AUC by Child‐Pugh score (right) (ORION‐6) ................... 20
+Mean (SE) PD concentration‐time profiles by sub‐groups; PCSK9 (left) and
+LDL‐C (Study ORION‐6) .......................................................................................................... 21
+Relationship between CLcr and CL/F (Source; Figure 3, CSR) .............................. 31
+Mean percent change from baseline in LDL‐C by renal sub‐groups (Source;
+Figure 6, CSR) .............................................................................................................................. 32
+Mean (SD) percent change from baseline in LDL‐C by hepatic sub‐groups
+(Source; Figure 3, CSR)............................................................................................................ 34
+Inclisiran mean (SD) concentration‐time profile following 900 mg (Source,
+Figure 14.2.1.1, CSR) ................................................................................................................ 35
+Schematic summary of the population PD model ....................................................... 39
+Simulated PD changes following the proposed dosing regimen in Phase 3
+trials using the final population PD model ..................................................................... 43
+Simulated PD changes following with or without a missed dose for 6 months
+and potential scenarios ........................................................................................................... 43
+
+4
+
+Reference ID: 4684702
+
+1. EXECUTIVE SUMMARY
+
+The applicant submitted an original New Drug Application (NDA) for inclisiran as an adjunct to
+diet and maximally tolerated statin therapy for the treatment of adults with heterozygous familial
+hypercholesterolemia (HeFH) or atherosclerotic cardiovascular disease (ASCVD), who require
+additional lowering of low density lipoprotein cholesterol (LDL-C).
+Inclisiran is a small interfering ribonucleic acid (siRNA) conjugate that inhibits the hepatic
+production of proprotein convertase subtilisin/kexin type 9 (PCSK9). The reduction of intrahepatic
+PCSK9 levels increases LDL-C receptor recycling and expression on the hepatocyte cell surface,
+thereby increasing LDL-C uptake and lowering LDL-C levels in the circulation.
+LEQVIO is supplied as 1.5 mL solution containing 284 mg of inclisiran (equivalent to 300 mg
+inclisiran sodium salt) in a single-dose prefilled syringe.
+1.1
+
+Recommendations
+
+The Office of Clinical Pharmacology/Division of Cardiometabolic and Endocrine Pharmacology
+(OCP/DCEP) has reviewed the clinical pharmacology data submitted under NDA 214012 and
+recommends approval. Key review issues with specific recommendations and comments are
+summarized below:
+Review Issues
+Supportive evidence of
+effectiveness
+
+Recommendations and Comments
+Data supporting effectiveness is based on the results of
+pivotal Phase 3 trials (ORION-9, ORION-10, and ORION11) with supplemental clinical information from 4 Phase 1
+and 3 Phase 2 trials.
+The observed placebo-adjusted LDL-C percentage change
+from baseline to Day 510 (primary end point) was -50%, 58% and -54%, in ORION-9 (subjects with HeFH), ORION10 (subjects with ASCVD), and ORION-11 (subjects with
+ASCVD and risk equivalent), respectively.
+
+General dosing
+instructions
+
+The proposed dosing is 284 mg (300 mg as the salt, see
+composition of formulation in Appendix 4.1.) initially, at 3
+months, and then every 6 months.
+
+Dosing in patient
+subgroups
+
+There was an increase in inclisiran exposure in patients with
+severe renal impairment (2.5-fold) or moderate hepatic
+impairment (2.1-fold). However, the pharmacodynamic
+markers including PCSK9 and LDL-C changes in these
+patients were comparable to those with normal renal or
+hepatic function.
+
+
+No dose adjustment is necessary in patients with
+mild, moderate or severe renal impairment.
+
+5
+
+Reference ID: 4684702
+
+Inclisiran was not studied in patients with end stage
+renal disease.
+
+Bridge between the “to-bemarketed” and clinical trial
+formulations
+
+
+
+No dose adjustment is needed in patients with mild
+or moderate hepatic impairment. Inclisiran was not
+studied in patients with severe hepatic impairment.
+
+
+
+No dose adjustments are needed for other
+demographics such as age, body weight, sex, and
+race.
+
+The to-be-marketed drug product (formulation and device)
+was used in the pivotal and supportive Phase 3 trials.
+
+1.2
+Post‐Marketing Requirements and Commitments
+None.
+2. SUMMARY OF CLINICAL PHARMACOLOGY ASSESSMENT
+2.1
+
+Pharmacology and Clinical Pharmacokinetics
+
+Inclisiran is a double-stranded siRNA conjugated with triantennary N-Acetylgalactosamine
+(GalNAc). The siRNA is to inhibit the production of PCSK9 and conjugation to GalNAc is to
+facilitate the hepatic uptake through the specific receptor on hepatocytes, asialoglycoprotein
+receptor (ASGPR). Givosiran, is an approved siRNA indicated for the treatment of acute hepatic
+porphyria that uses similar conjugation to GalNAc.
+General clinical pharmacokinetics is as follows:
+Absorption
+
+Distribution
+Metabolism
+
+Elimination
+
+ Inclisiran PK is dose proportional in the dose ranging from 25 mg to 800
+mg based on the single ascending dose (SAD) study.
+ The time (Tmax) to reach maximum plasma concentration (Cmax) is
+approximately 4 hours following 300 mg subcutaneous (SC) injection.
+ Inclisiran is approximately 87% bound to plasma protein at 0.5 g/mL
+(mean Cmax following 300 mg SC injection).
+ Inclisiran is metabolized by (exo)nucleases.
+ Inclisiran is not a substrate nor is an inhibitor or inducer of major CYPs
+enzymes or transporters.
+ The apparent terminal half-life is approximately 7 hours (range 5-7 h)
+following 300 mg dose.
+ Approximately 17% (range 9% - 31%) of dose is eliminated as unchanged
+inclisiran in urine.
+
+6
+
+Reference ID: 4684702
+
+2.2
+
+Dosing and Therapeutic Individualization
+
+2.2.1 General dosing
+The recommended dosage of inclisiran in combination with maximally tolerated statin therapy is
+284 mg administered as a single SC injection initially, again at 3 months, and then every 6 months.
+If a dose is missed by less than 3 months, administer inclisiran as soon as possible and maintain
+the original schedule. If a dose is missed by more than 3 months, start a new dosing schedule –
+administer inclisiran as soon as possible initially, again at 3 months, and then every 6 months.
+After initiation of inclisiran, analyze lipid levels
+
+(b) (4)
+
+.
+
+2.2.2 Therapeutic individualization
+There is no therapeutic individualization related to intrinsic (sex, race, body weight, renal
+impairment, and hepatic impairment) and extrinsic factors. The efficacy and safety are acceptable
+in the pivotal Phase 3 trials without need for individualization (dose adjustment or titration) and
+there were no significant covariates in the population PD analysis.
+2.3
+
+Outstanding Issues
+
+None.
+2.4
+Summary of Labeling Recommendations
+The Office of Clinical Pharmacology recommends the following labeling comments reflecting
+trial designs, results and latest labeling guidances:
+(strikethrough text indicates deletion, and underlined text indicates addition)
+Label Section
+Recommendation
+8.6
+
+Renal Impairment
+
+No dose adjustments are necessary for patients with mild, moderate, or
+(b) (4)
+severe renal impairment
+[see Clinical
+(b) (4)
+Pharmacology (12.3)].
+INCLISIRAN has not been studied in patients
+with end state renal disease [see Clinical Pharmacology (12.3)].
+
+12.1
+
+Mechanism of Action
+
+Inclisiran is a double-stranded small interfering RNA, conjugated on the
+sense strand with triantennary N-Acetylgalactosamine (GalNAc) to
+(b) (4)
+facilitate uptake by hepatocytes. In hepatocytes,
+and directs
+(b) (4)
+catalytic breakdown of mRNA for PCSK9,
+
+7
+
+Reference ID: 4684702
+
+12.2
+
+Pharmacodynamics
+
+Following a single subcutaneous administration of 284 mg of
+(b) (4)
+INCLISIRAN,
+(b) (4)
+At Day 180,
+levels were still reduced by
+approximately (b)
+(4) %.
+Following a dose at Day 1 and Day 90 of 284 mg of INCLISIRAN, mean
+serum PCSK9 levels were reduced by approximately 75% and 69% at Day
+(b) (4)
+120 and. At Day 180, respectively.
+.
+(b) (4)
+In the
+studies, following four doses of INCLISIRAN 284 mg at
+(b) (4)
+Day 1, Day 90, Day 270 and Day 450,
+Cardiac Electrophysiology
+At a dose 3 times the maximum recommended dose, inclisiran does not
+(b) (4)
+prolong the QT interval to any clinically relevant extent.
+
+12.3
+
+Pharmacokinetics
+
+Renal Impairment
+Pharmacokinetic analysis of data from a dedicated renal impairment study
+reported an increase in inclisiran Cmax and AUC of approximately (b)
+(4) to
+(b)
+3.3-fold and (b)
+to
+-fold,
+respectively,
+in
+patients
+with
+mild,
+moderate
+or
+(4)
+(4)
+severe renal impairment relative to patients with normal renal function.
+(b) (4)
+Despite the higher plasma exposures, reductions in LDL-C
+(b) (4)
+were similar across all groups of renal function.
+
+Hepatic Impairment
+Pharmacokinetic analysis of data from a dedicated hepatic impairment
+study reported an increase in inclisiran Cmax and AUC of approximately
+1.1 to 2.1-fold and 1.3 to (b)
+(4) -fold, respectively, in patients with mild and
+moderate hepatic impairment relative to patients with normal hepatic
+function. Despite the higher plasma inclisiran exposures, reductions in
+(b) (4)
+LDL-C were similar between the groups of patients
+administered inclisiran with normal and mild hepatic function. In subjects
+(b) (4)
+with moderate hepatic impairment baseline PSCK9 levels were
+(b) (4)
+lower and reductions in
+LDL-C were less than those observed
+in patients with normal hepatic function.
+
+3.
+
+COMPREHENSIVE CLINICAL PHARMACOLOGY REVIEW
+
+3.1
+
+Overview of the Product and Regulatory Background
+
+Inclisiran is the first NDA in class of siRNA targeting the hepatic PCSK9.
+
+8
+
+Reference ID: 4684702
+
+Although inclisiran mode of action is new (inhibition of PCSK9 translation in the hepatocytes),
+there is regulatory experience with anti-sense oligonucleotide (ASO) targeting the inhibition of
+hepatic lipoproteins in dyslipidemia as follows;
+ Mipomersen, an ASO as an inhibitor of apolipoprotein B-100, was approved by the Agency
+dated January 29, 2013 (it has been discontinued not due to a safety reason according to
+information at Drugs@FDA).
+ Volanesorsen, an ASO as an inhibitor of apolipoprotein C3, received a Complete Response
+(b) (4)
+Letter dated August 24, 2018
+Further, there is regulatory experience with the therapeutic target, i.e., PCSK9 inhibition, and two
+monoclonal antibody inhibitors of PCSK9 have been approved - alirocumab and evolocumab.
+During the development of inclisiran, it was noted that there was significant temporal dissociation
+between PK exposure and PD changes. This was a significant challenge as the conventional
+exposure-response relationship was not applicable to support the proposed dosing frequency
+(every 6 months after the second dose at Day 90), which was to be evaluated in the pivotal Phase
+3 trials without evaluation in Phase 2. As an alternative approach, the applicant proposed to apply
+a population assessment of PD (i.e., PCSK9 and LDL-C) using an abbreviated PK in PK/PD
+modeling (namely, k-PD modeling) at the End-of-Phase 2 meeting.
+The relevant regulatory history regarding these communications is summarized below:
+Communication/Meeting
+Type
+EOP2 Meeting (April 6,
+2017)
+
+Pre-BLA Meeting
+(November 4, 2019)
+
+Key Communication Points from the clinical pharmacology
+perspectives
+ Agreed to population assessment of PD (PCSK9 and LDL-C)
+ Recommended evaluating the to-be-marketed product in Phase 3
+ Recommended evaluating drug interaction potential with statin (PK
+and PCSK9 at steady-state)
+ Recommended conducting the hepatic impairment trial
+Completeness of the application for the NDA submission including if
+the to-be-marketed product was used in Phase 3 trials
+
+3.2
+
+General Pharmacological and Pharmacokinetic Characteristics
+
+3.2.1
+
+Mechanism of Action:
+
+Inclisiran is a chemically modified siRNA (21-23mer) with GalNAc conjugate on the sense strand
+(21mer; A-122088) (Figure 1). The GalNAc conjugate is to facilitate the hepatic update through
+the asialoglycoprotein receptor, which is a specific hepatic membrane receptor. The antisense
+strand (23mer; A-120190, active form) released from inclisiran is incorporated in the RNAinduced silencing complex and inhibits the translation of PCSK9 through the catalytic breakdown
+of mRNA for PCSK9. The PCSK9 controls trafficking of the hepatic LDL-C receptors, and
+reduced PCSK9 lowers LDL-C.
+9
+
+Reference ID: 4684702
+
+Sense strand
+5’
+Anti-sense strand
+
+3’
+
+Triantennary
+GalNAc conjugate
+
+Structure of triantennary GalNAc
+Schematic summary of inclisiran structure (Molecular weight.; 16,339.51 g/mol as free acid)
+Source: Module 2.2
+
+Figure 1
+
+3.2.2
+
+Pharmacokinetics
+
+3.2.2.1 Absorption
+The single dose PK of inclisiran following SC administration was evaluated in subjects with
+elevated LDL-C (Study ALN-PCSSC-001) following 25, 100, 300, 500 or 800 mg (SAD). In the
+same trial, the multiple dose (MD) PK was also evaluated following alternative dose regiments in
+a separate cohort; weekly 125 mg (QW), biweekly 250 mg (Q2W) or once in 4 weeks (Q4W) 300
+mg or 500 mg.
+Inclisiran plasma concentration-profiles showed apparent plateau for few hours followed by a
+decline in concentrations to baseline by 24 hours following administration of 300 mg dose SC
+(Figure 2). The median time to peak serum concentration (Tmax) ranged from 4 to 8 hours postdose among trials with 300 mg dose (i.e., SAD, MD, renal impairment, and hepatic impairment
+trials).
+
+Inclisiran conc-time profiles; SAD
+
+Mean (SE) inclisiran (ng/mL)
+
+2500
+
+2000
+
+1500
+
+1000
+
+500
+
+LLOQ (10 ng/mL)
+
+0
+0
+
+12
+
+24
+
+36
+
+48
+
+Time (hour)
+dose
+
+25
+
+100
+
+300
+
+500
+
+800
+
+Figure 2 Mean (SE) inclisiran concentration-time profile following SAD (Study ALN-PCSSC-001)
+
+10
+
+Reference ID: 4684702
+
+AUCt (ng/mL*h)
+
+Inclisiran PK (AUC and Cmax) was proportional to dose (Figure 3). Based on the assessment using
+power model, the slopes (b) (95% CI) in the power model (i.e., PK parameter = a*Doseb) were as
+follows;
+ Single dose; 1.12 (0.957-1.28) and 1.14 (0.916-1.37) for AUCinf and Cmax, respectively
+ Multiple dose; 1.09 (0.714-1.47) and 1.27 (0.937-1.59) for AUCinf and Cmax, respectively
+
+Figure 3 Inclisiran AUC (left) and Cmax (right) proportionality to dose by trial cohort; single doses (blue)
+and 1st dose following multiple dose study (red) (Study ALN-PCSSC-001)
+
+During MD, there was no accumulation across different dosing regiments (e.g., four doses of 125
+mg QW, two doses of 250 mg Q2W, and two doses of 300 mg or 500 mg Q4W based on the
+concentration-time profiles (Figure 4, upper panel) or PK parameters (Figure 4, Lower panel).
+
+(Figure 4, upper panel)
+
+11
+
+Reference ID: 4684702
+
+Figure 4 Mean (SE) inclisiran concentration-time profile following different MD regiments (Upper panel)
+and PK parameter changes during MD (Lower Panel) (Study ALN-PCSSC-001)
+(Epoch; ‘TRIAL RESIDENTIAL PERIOD 1’=1st dose, ‘TRIAL RESIDENTIAL PERIOD 2’=2nd dose)
+
+3.2.2.2 Distribution
+Inclisiran binds to plasma protein with 87.4 % and 86.4% bound at inclisiran concentration of 0.5
+and 1 µg/mL, respectively. It is expected to be significantly distributed in the liver tissues due to
+its targeting the hepatic uptake with GalNAc ligand, and in the kidney as it is the primary excretion
+route. Although a mass balance study was not conducted in human, non-clinical data showed
+longer T1/2 in the liver and kidney compared to that of plasma; 53-191 hours, 244-685 hours, 0.91.8 hours for the liver, kidney and plasma, respectively, in rats.
+The estimated mean volume of distribution during the terminal phase (Vz/F) ranged from 421-553
+L among trials following the 300 mg dose.
+
+3.2.2.3 Metabolism and elimination
+The primary responsible enzyme for inclisiran metabolism is (exo)nucleases. Although there were
+metabolites from the 3’ end of the S strand following the loss of GalNAc, the major metabolites
+of special interests were from antisense (AS) strand from the loss of the N-1 and N-2 nucleotides
+from the 5’ and 3’ ends (i.e., AS(n-1)3’, AS(n-1)5’, AS(n-2)3’, AS(n-2)5’) due to potential
+pharmacologic activity.
+In non-clinical models (rats and monkeys), AS(n-1) was the only primary metabolite and
+concentrations were several folds lower than those of inclisiran. Levels of the inclisiran
+metabolites were evaluated using plasma samples collected from ORION-7, the renal impairment
+trial. The primary metabolite (i.e., AS(n-1)) concentrations were approximately 11%, 27% and
+86% to those of inclisiran at 0.5, 8 (Tmax) and 48 hours post-dose, respectively (Figure 5). The
+other metabolite (i.e., AS(n-2) was not detected. The applicant noted that the human AS(n-1)
+exposure was within the safety margin.
+
+12
+
+Reference ID: 4684702
+
+Figure 5 Concentrations of inclisiran and AS(n-1) in ORION 7
+Source: Figure 6, Report 508n-1901; DMPK Report; screening and semi quantitation of AS(n-1) and AS(n-2) metabolites in
+human plasma from previously generated full scan LC-TOF-HRMS chromatograms
+
+The renal excretion of inclisiran ranged from 13-21% of dose among trials following 300 mg
+injection. The applicant did not conduct a mass balance study. In monkey model, the renal
+excretion was the major route of elimination as the total radioactivity was 32% and 1.6% in the
+urine and feces over 7-day period, respectively, following radiolabeled [14C]-inclisiran
+administration.
+
+3.3
+
+Clinical Pharmacology Questions
+
+3.3.1 Does the clinical pharmacology information provide supportive evidence of
+effectiveness?
+Yes, the clinical pharmacology information presented in this NDA provides supportive evidence
+of effectiveness. Refer to Section 3.3.2 for additional details.
+3.3.2 Is the proposed general dosing regimen appropriate for the general patient
+population for which the indication is being sought?
+Yes, the proposed dosing regimen is appropriate for the proposed indication as an adjunct to diet
+and maximally tolerated statin therapy for the treatment of adults with HeFH or ASCVD, who
+require additional lowering of LDL-C.
+The recommended dose is 284 mg administered as a single SC injection initially, again at 3 months,
+and then every 6 months. The proposed dosing was evaluated in three Phase 3 trials with patients
+The dose finding Phase 2 trial (ORION-1) evaluated the dose-response following two doses (Day
+1 and Day 90) of 100 mg, 200 mg or 300 mg over 12 months in patients with ASCVD. Although
+13
+
+Reference ID: 4684702
+
+there was no apparent difference in PCSK9 reduction between 200 and 300 mg, 300 mg showed
+additional LDL-C reduction reaching a maximum reduction of 56% (Figure 6). Further, apparent
+maximum reduction was reached at 300 mg for both PCSK9 and LDL-C according to cross-study
+comparison of ALN-PCSSC-001 (single doses evaluated 25 mg to 800 mg) and ORION-1 (single
+doses evaluated 200 mg to 500 mg) (Figure 7). Therefore, the applicant selected 300 mg to evaluate
+its efficacy and safety in Phase 3 trials.
+
+Figure 6 Mean (SE) PCSK9 (left) and LDL-C change from baseline following inclisiran dosing on Day 1 and
+Day 90 (ORION-1)
+Source, Figure 4, Module 2.5
+
+Figure 7 Mean (SE) percent change from baseline in PCSK9 (upper) and LDL-C (lower) between ALNPCSSC-001 and ORION-1 (numbers inside bars represent the number of subjects in each group)
+Source, Figure 19, Module 2.7.2
+
+14
+
+Reference ID: 4684702
+
+However, a dosing interval for a maintenance period after the second dose was not evaluated in
+Phase 2 trial. Therefore, potential scenarios of dosing frequency (e.g., 2 vs. 3 months and 4 vs. 6
+months for the second and a maintenance dose, respectively) were explored using population PD
+approach as the conventional exposure-response analysis was not feasible due to the temporal
+dissociation between exposure and response. The applicant selected every 6 months after the
+second dose at Month 3 for the maintenance dosing interval using results of the modeling and
+simulation (Figure 8).
+
+Figure 8
+
+Simulated LDL-C following different dosing schedules; Day 1, Day 60 and then every 4 months
+(solid line, schedule 1), Day 1, Day 60 and then every 6 months (broken line, schedule 2), or
+Day 1, Day 90, and then every 6 months (dotted line, schedule 3)
+Source, Figure 9, Module 2.7.2
+
+The applicant evaluated the proposed dosing regimen (300 mg initially, at 3 months and then every
+6 months) in 3 pivotal Phase III trials in patients with HeFH (ORION-9), ASCVD (ORION-10),
+or ASCVD risk equivalent (ORION-11). The primary efficacy endpoint was the percent change in
+LDL-C from baseline to Day 510 relative to placebo following 300 mg at Day 1, Day 90 (3 Month),
+Day 270 (9 Month) and Day 450 (15 Month). The typical LDL-C changes over the treatment period
+is shown in Figure 9. The observed primary efficacy endpoint was -50%, -58% and -54% in
+ORION-9, -10 and -11, respectively. The efficacy was generally consistent among different subgroups and the covariate analysis showed that the LDL-C changes was inversely correlated with
+the baseline LDL-C (see the forest plot in Appendix 4.3.6.)
+
+15
+
+Reference ID: 4684702
+
+Figure 9 Observed mean percentage change from baseline in LDL-C over time (ORION-11, ITT population)
+Source, Figure 7, Module 2.5
+
+In the pooled data across all Phase 3 trial (N=3660), subjects who had at least a 50% reduction in
+the primary endpoint was 62% compared to 2% for those of placebo arm. Subjects who reached
+the threshold of 70 mg/dL was 80% for the inclisiran treatment arm compared to 16% of placebo
+treatment arm (Figure 10). The applicant concluded that there was no clinically relevant difference
+in the treatment-emergent adverse events profile between inclisiran and placebo treatments other
+than injection site reaction.
+
+Figure 10 Waterfall plots of absolute change in LDL-C from baseline to Day 510 in each Phase 3 trials (A;
+ORION-9, B; ORION-10, C; ORION-11)
+Source: Figure 9, Module 2.5
+
+Missed or delayed doses:
+Protocols for Phase 3 trials did not have details of missed or delayed doses as inclisiran was
+administered by designated staff under the supervision of the investigator at study sites. Therefore,
+simulations were conducted to evaluate the impact of missed or delayed doses using population
+PD models. Simulation scenarios were missed or delay 1, 2 or 3 months during every 6 months
+period. With up to a 3-month delay, median LDL-C was increased from 58.1 mg/dL to 68.2 mg/dL
+or 92.9 mg/dL to 105 mg/dL in subjects with ASCVD or HeFH, respectively (Table 1).
+
+16
+
+Reference ID: 4684702
+
+Table 1 LDL-C or PSCK9 changes with potential delayed doses up to 3 months
+
+Source: Table 15, Module 2.7.2
+
+The applicant proposed labeling that inclisiran is administered maintenance dose according to the
+patient’s original schedule if a dose is missed by less than 3 months, or start a new dosing schedule
+(i.e., administered immediately, again at 3 months, and then every 6 months) if a dose missed by
+more than 3 months.
+Effect on QT/QTc interval:
+The effect of inclisiran on QTc prolongation was assessed in a dedicated thorough QT study with
+standard study design including a supratherapeutic inclisiran dose of 900 mg, which covers
+potential worst-case exposure scenario (e.g., renal impairment) (ORION-12). There was no
+significant impact of inclisiran on the QT prolongation (Table 2). See detailed FDA analysis and
+review by the QT-IRT review team dated 5/13/2020 in DARRTS.
+Table 2
+
+The Point Estimates and the 90% CIs
+
+ECG
+parameter
+
+Treatment
+
+Time
+
+QTc
+
+Inclisiran 900 mg
+
+4h
+
+∆∆QTcF
+(msec)
+2.9
+
+90% CI
+(msec)
+(0.5 to 5.2)
+
+Source: FDA Analysis, IRT-QT review
+Immunogenicity:
+There was no significant detection of anti-drug antibodies (ADA) with 1.8% of samples (n=127
+from 92 patients, where some patients had repeated measures) in Phase III trials tested positive.
+There was no significant difference in PD profiles (PCSK9 and LDL-C), efficacy and safety for
+patients with positive ADA compared to those without ADA.
+
+17
+
+Reference ID: 4684702
+
+3.3.3 Is an alternative dosing regimen and management strategy required for
+subpopulations based on intrinsic factors?
+No. Results from the clinical pharmacology trials and population PD analysis of data from Phase
+3 trials indicate that dose adjustment of inclisiran is not recommended for patients based on
+intrinsic factors of sex, body weight, race, ethnicity, or renal or hepatic function. There was no
+information on patients with ESRD nor severe hepatic impairment in Phase 1 trials. Adequate
+clinical information was not available for labeling from Phase 3 trials due to small number of
+patients (i.e., patients with severe renal impairment) or absence of corresponding patients (i.e.,
+severe hepatic impairment).
+
+3.3.3.1 Renal Impairment
+The effect of renal impairment on the PK and PD of inclisiran was evaluated following 300 mg
+SC injection in subjects with renal impairment categorized by creatine clearance (CLcr) (n=8, 8
+and 7 for mild (CLcr, 60-89 mL/min), moderate (CLcr, 30-59 mL/min) and severe (CLcr, 15-29
+mL/min) sub-group, respectively) and healthy (CLcr, ≥90 mL/min) subjects (n=8) (Study ORION7).
+
+Mean (SE) inclisiran (ng/mL)
+
+The inclisiran exposure was higher in the renal impairment sub-groups compared to subjects with
+normal renal function (Figure 11, left). There was an increase of 53, 73, and 135% for AUC0-t, and
+133, 97 and 231% for Cmax in the mild, moderate and severe sub-group, respectively, compared to
+those of healthy subjects (Table 3). Inclisiran exposure increased with a decrease in CLcr due to
+the renal impairment (Figure 12 right).
+
+Figure 11
+
+Mean (SE) inclisiran concertation-time profiles in sub-groups of renal impairment (left) and
+relationship between AUC and CLcr (right) (ORION-7)
+
+18
+
+Reference ID: 4684702
+
+Table 3
+
+Statistical comparison of AUC and Cmax of inclisiran in subjects with normal renal function and
+renal impairment sub-groups
+
+Parameters
+Cmax, ng/mL
+AUC0-24, h.ng/mL
+AUC0-48, h•ng/mL
+AUC0-t, h•ng/mL
+AUC0-inf, h•ng/mL
+
+Mild vs Healthy
+GMR
+90% CI
+2.33
+[1.51, 3.62]
+1.75
+[1.29, 2.37]
+1.58
+[1.22, 2.06]
+1.53
+[1.19, 1.97]
+1.44
+[1.01, 2.07]
+
+Moderate vs Healthy
+GMR
+90% CI
+1.97
+[1.27, 3.05]
+1.91
+[1.41, 2.59]
+1.83
+[1.41, 2.37]
+1.73
+[1.34, 2.23]
+1.39
+[0.906, 2.12]
+
+Severe vs Healthy
+GMR
+90% CI
+3.31
+[2.10, 5.22]
+2.50
+[1.82, 3.42]
+2.33
+[1.78, 3.06]
+2.35
+[1.81, 3.05]
+2.23
+[1.56, 3.20]
+
+Source: Table 9, CSR
+
+Although there was an increase in inclisiran exposure due to the renal impairment, there was no
+apparent PD differences in these patient groups (Figure 12, PCSK9 (left) and LDL-C (right)). The
+baseline PD levels tend to be lower in renal impairment sub-groups compared to those of normal
+sub-group (Figure 13). However, the number of subjects is too low to conclude if baseline was a
+significant covariate on PD changes.
+In Phase 3, baseline GFR estimated using MDRD was not a significant covariate for the percent
+change of LDL-C reduction (n=515, 1012, 295 and 11 for normal, mild, moderate and severe subgroups, respectively, in Efficacy Pool 1, (see the forest plot in Appendix 4.3.6.). There were no
+patients with end-stage renal disease (ESRD) in ORION-7 and therefore inclisiran is not
+recommended in patients with ESRD.
+Impact of RI on PCSK9: ORION 7
+
+Impact of RI on LDL-C: ORION 7
+
+Mean (SE) LDL-C (mmol/L)
+
+Mean (SE) PCSK9 (ng/mL)
+
+4
+300
+
+200
+
+100
+
+3
+
+2
+
+1
+0
+
+168
+
+336
+
+504
+
+672
+
+840
+
+1008
+
+0
+
+336
+
+672
+
+1008
+
+1344
+
+1680
+
+Time (hour)
+Renal Function (N)
+
+Figure 12
+
+Healthy
+
+M ild
+
+M od
+
+Renal Function (N)
+
+Sev
+
+2352
+
+2688
+
+3024
+
+M ild
+
+M od
+
+3360
+
+3696
+
+4032
+
+4368
+
+Healthy
+
+Sev
+
+PD concentration-time profiles by sub-groups; PCSK9 (left) and LDL-C (right) (ORION-7)
+
+19
+
+Reference ID: 4684702
+
+2016
+
+Time (hour)
+
+Figure 13
+
+PD at baseline by sub-groups; PCSK9 (left) and LDL-C (right) (ORION-7)
+
+Overall, specific dosing recommendation is not considered necessary for the exposure increase
+with renal impairment as 1) inclisiran exposure is below LOQ after 24 hours post-dose, 2) there
+was significant temporal dissociation between PK and PD, 3) there was no apparent PD difference
+among sub-groups, 4) renal functions defined as MDRD was not the significant covariate for the
+primary efficacy endpoint (% change at Day 510 from baseline) in the population PD analysis of
+Phase 3 data, and 5) there was no apparent AEs with special interests (e.g., myopathy).
+3.3.3.2 Hepatic Impairment
+The effect of hepatic impairment on the PK and PD of inclisiran was evaluated in ORION-6
+following 300 mg dosing to subjects with normal hepatic function (n=12), mild (n=10) or moderate
+(n=6) hepatic impairment.
+Inclisiran concentrations and its PK parameters were generally similar between normal hepatic
+function and mild impairment groups, but higher in the moderate impairment group (Figure 14).
+
+Figure 14 Inclisiran concentration-time profile in subjects with normal or hepatic impairment (left) and AUC
+by Child-Pugh score (right) (ORION-6)
+(note; in the right panel, healthy subjects were assigned with Child-Pugh Score of 1 as the score was originally
+not assigned with healthy subjects.)
+
+20
+
+Reference ID: 4684702
+
+Compared to normal hepatic function group, inclisiran PK was similar in the mild hepatic
+impairment group, but approximately 2-fold higher in the moderate hepatic function group (Table
+4).
+Table 4
+
+Statistical comparison of AUC and Cmax of inclisiran in the hepatic impairment trial
+
+Mild vs Normal
+
+Moderate vs Normal
+
+Parameters
+
+GMR
+
+90% CI
+
+GMR
+
+90% CI
+
+Cmax, ng/mL
+
+1.07
+
+[0.78,1.45]
+
+2.11
+
+[1.47,3.03]
+
+AUClast, h·ng/mL
+
+1.24
+
+[1.01,1.53]
+
+2.03
+
+[1.60,2.58]
+
+AUCinf, h·ng/mL
+
+1.33
+
+[1.05,1.68]
+
+2.04
+
+[1.60,2.58]
+
+Source: Table 2, CSR ORION 6
+
+However, PD changes (percent change from baseline for PCSK9 and LDL-C) were comparable
+among sub-groups (Figure 15). Although LDL-C was lower in the moderate impairment sub-group
+compared to those of healthy sub-groups, LDL-C changes from baseline was comparable between
+two sub-groups as the baseline LDL-C was lower in the moderate impairment sub-group to that of
+healthy sub-group.
+
+Figure 15 Mean (SE) PD concentration-time profiles by sub-groups; PCSK9 (left) and LDL-C (Study
+ORION-6)
+
+In conclusion, specific dosing recommendation is not considered necessary for the exposure
+increase with the hepatic impairment as 1) inclisiran exposure is below LOQ after 24 hours postdose, 2) there was significant temporal dissociation between PK and PD, 3) there were no apparent
+differences in LDL-C reduction (percent change from baseline) among sub-groups and 4) there
+was no apparent AEs with special interests (e.g., myopathy).
+
+21
+
+Reference ID: 4684702
+
+3.3.3.3 Race, Sex, Body mass index and Age
+There was no consideration for a dose adjustment related to these covariates in Phase 3 trials. The
+effects of various pre-specified covariates on PD responses was assessed based on data from the
+three Phase 3 trials (see forest plot in Appendix 4.3.6.). Race, sex, body mass index and age were
+not significant covariates for PD changes.
+Therefore, there is no specific dosing recommendations related to those covariates.
+
+3.3.4 Are there clinically relevant drug‐drug interactions and what is the appropriate
+management strategy?
+No. In vitro study results indicate that inclisiran does not significantly affect major metabolic
+isozymes and transporters. Inclisiran is metabolized mainly by exonucleases; major CYP450
+enzymes and transporters are not involved in its metabolism and elimination. Potential of PK
+interaction is also limited due to relatively infrequent dosing and short duration of inclisiran plasma
+exposure of 1 or 2 days following 300 mg.
+Inclisiran is proposed as an adjunct to diet and maximally tolerated statin therapy and the sponsor
+evaluated the interaction potential of inclisiran with statins PK and PD. There is potential of PD
+interaction with statins as statins are known to induce PCSK9 levels. Further, both inclisiran and
+statin can reduce LDL-C through independent mechanisms. There was no consistent impact of
+statins on inclisiran PK (MD cohort of ALN-PCSSC-001; atorvastatin (N=7) and simvastatin
+(N=5)) following 300 mg or 500 mg inclisiran dosing.
+The impact of inclisiran on statin PK was also evaluated in ORION-10. Sparse samples were
+obtained from subjects with atorvastatin 80 mg or rosuvastatin 40 mg, prior to the last inclisiran
+dosing at Day 450 and during a follow up visit after the last dose at Day 510. Sampling schedules
+were 0 to <6h, 6h to <12 h, 12 to <24 h or ≥24 hr post-statin dose. It was concluded by the
+applicant that there was no meaningful difference in statin concentrations between placebo and
+inclisiran treatment groups over the sampling period. The impact of inclisiran on statin PK
+information in ORION-10 was inconclusive as population modeling relied on literature parameters
+and trends in descriptive summary of concentrations were inconsistent among time intervals.
+Further, statin sampling time was not adequate to directly evaluate the effect of inclisiran on statin
+exposure as statin samples were collected when inclisiran is expected to be low; before inclisiran
+dosing (Day 450) or 60 days after the last dose (Day 510). However, there was no specific
+clearance mechanisms that are overlapped between inclisiran and statin PK, and inclisiran did not
+affect major metabolic isozymes nor transporters involve in statin disposition according to in vitro
+study results. Therefore, it seems reasonable to conclude that there is no meaningful druginteraction potential in PK between inclisiran and statins.
+
+22
+
+Reference ID: 4684702
+
+In the analysis on pooled data of Phase 3, there was no meaningful difference in LDL-C response
+between on statin vs. not on statin or high intensity statin vs. not on high intensity statin (see the
+forest plot in Appendix 4.3.6.).
+In conclusion, there is no significant PK and PD (LDL-C) drug interaction potential with inclisiran.
+
+23
+
+Reference ID: 4684702
+
+4.
+
+APPENDICES
+
+4.1
+
+Composition of formulation
+
+Table 5 Composition of formulation
+Source; Table 1, Module 2.3.P
+
+(b) (4)
+
+(b) (4)
+(b) (4)
+
+24
+
+Reference ID: 4684702
+
+4.2
+
+Summary of Bioanalytical Method Validation
+
+Inclisiran was quantified by a liquid chormatography time of flight mass spectrometry (LC-TOFMS).
+Inclisiran (code name; ALN-PCSSC) is a duplex siRNA that contains an antisense (A-120190)
+and sense (A-122088) strand. The internal standard (IS), ALN-ASI, is a duplex RNA that contains
+an antisense (A-122227) and sense (A-122230) strand. The LC-TOF-MS assay quantify inclisiran
+concentrations by detecting the antisense and sense strand portions of the duplex. Inclisiran duplex
+concentrations were reported based on the antisense/sense ratio. For a ratio >1 or ≤1, the sense or
+antisense concentration, respectively, was reported for the duplex. For a ratio with BQL of
+antisense or sense, the duplex concentration was reported as BQL.
+Validation of bioanalysis methods was acceptable as follows;
+
+The quality of bioanalytical method performance was acceptable (Table 5).
+
+25
+
+Reference ID: 4684702
+
+Table 6 Performance summary of bioanalytical method for inclisiran
+Source; Table 9, Module 2.7.1
+(b) (4)
+
+(b) (4)
+
+26
+
+Reference ID: 4684702
+
+4.3
+
+Supplemental Clinical Pharmacology Information
+
+4.3.1. Study ALN-PCSSC-001 (SAD, MD)
+
+Key study design (Source, Table 1, Module 2.7.6)
+Primary Objective(s)
+Study Design and Type of
+Control
+Location
+Test Product(s); Dosage
+Regimen;
+Route of Administration
+
+Number of Subjects
+Healthy Subjects or Diagnosis of
+Patients
+Treatment Duration
+
+To evaluate the safety and tolerability of inclisiran when administered
+SC as a single dose or multiple doses to subjects with elevated LDL-C.
+Randomized, single-blind, placebo- controlled, SAD and MD study of
+inclisiran when administered subcutaneously to subjects with elevated
+LDL-C, with or without statin co- medication
+United Kingdom
+SAD Phase
+25 mg or placebo
+100 mg or placebo
+300 mg or placebo
+500 mg or placebo
+800 mg or placebo; subcutaneous injection
+MD Phase (Off statin co- medication)
+300 mg monthly x2 or placebo
+500 mg monthly x2 or placebo
+125 mg QWx4 or placebo
+250 mg Q2Wx2 or placebo; subcutaneous injection
+ SAD Phase 24 subjects
+ MD Phase 45 subjects
+Healthy subjects with elevated serum LDL-C ≥2.6 mmol/L (≥100
+mg/dL) at screening
+Up to 180 days
+
+Supplemental information (Source, CSR)
+SAD: Pharmacokinetic results
+Table 7 Summary of PK parameters following SAD (Source; Table 3, 2.7.2)
+
+27
+
+Reference ID: 4684702
+
+SAD: Pharmacodynamics
+Table 8 Summary of PCSK9 and LDL-C reduction* from baseline following SAD (Source; Table 14 and 15,
+CSR)
+
+* measured using ELISA (enzyme-linked immunosorbent assay)
+
+* LDL-C was measured using a ultracentrification (beta-quantification)
+28
+
+Reference ID: 4684702
+
+MD: Pharmacokinetics
+Table 9 Summary of inclisiran PK parameters following MD
+
+29
+
+Reference ID: 4684702
+
+MD: Pharmacodynamics
+Table 10 Summary of PCSK9 and LDL-C reduction* from baseline following MD (Source; Table 17 and 18,
+CSR)
+
+Reviewer’s comments: Study design and results were acceptable to support labeling as follows:
+
+
+
+
+
+Inclisiran PK was proportional to dose in SAD or MD
+There was no apparent accumulation
+There was significant temporal dissociation between PK and PD
+Although there were subjects with or without statins (i.e., atorvastatin or simvastatin), sample
+size was small to fully evaluate the effect of statins on inclisiran PK and PD, or vice versa.
+
+30
+
+Reference ID: 4684702
+
+4.3.2. ORION-7 (Renal impairment)
+
+Key study design (Source, Table 1, Module 2.7.6)
+Primary Objective(s)
+Study Design and Type of
+Control
+Location
+Test Product(s); Dosage
+Regimen;
+Route of Administration
+Number of Subjects
+Healthy Subjects or Diagnosis of
+Patients
+Treatment Duration
+
+To quantify the effect of different degrees of renal impairment on the PK
+of inclisiran, and to assess safety and tolerability in order to develop
+dosing recommendations for subjects with renal impairment.
+A single-dose, open-label, parallel-group study to assess the PK of
+Inclisiran in subjects with renal impairment compared to subjects with
+normal renal function.
+New Zealand
+300 mg inclisiran sodium; single dose; subcutaneous injection
+31
+Subjects with normal renal function and subjects with mild, moderate and
+severe renal impairment
+Day 60 (End of study) or additional follow up till LDL-C levels of
+subjects returned to within 50% of the absolute reduction from Baseline
+up to Day 180.
+
+Supplemental information (Source, CSR)
+
+(CL/F=14.8+0.213*CLcr).
+Figure 16
+
+Relationship between CLcr and CL/F (Source; Figure 3, CSR)
+
+31
+
+Reference ID: 4684702
+
+Figure 17
+
+Mean percent change from baseline in LDL-C by renal sub-groups (Source; Figure 6, CSR)
+
+Table 11
+
+Summary of PK parameters following 300 mg in ORION-7 (Source; Table 8, CSR)
+
+Reviewer’s comments: Study design and results were acceptable to support labeling as follows:
+
+
+
+
+
+Inclisiran PK was increased with the renal impairment
+There was no sub-group of ESRD with dialysis including hemodialysis.
+There was significant temporal dissociation between PK and PD
+There was no clinically meaningful difference in reduction of PDs among sub-groups
+
+32
+
+Reference ID: 4684702
+
+4.3.3. ORION-6 (Hepatic impairment)
+Key study design (Source, Table 1, Module 2.7.6)
+Primary Objective(s)
+
+Study Design and Type of
+Control
+Location
+Test Product(s); Dosage
+Regimen;
+Route of Administration
+Number of Subjects
+Healthy Subjects or Diagnosis of
+Patients
+Treatment Duration
+
+To quantify the effect of different degrees of hepatic impairment ChildPugh A and B compared to normal subjects on the PK and the PD of
+inclisiran in order to develop dosing recommendations for subjects with
+hepatic impairment.
+A single-dose, open label, parallel-group study to assess the PK, PD and
+safety of Inclisiran in subjects with hepatic impairment compared to
+subjects with normal hepatic function.
+US
+300 mg inclisiran sodium; single dose; subcutaneous injection
+28
+Subjects with mild, moderate, and normal hepatic function
+180 days
+
+Supplemental information (Source, CSR)
+Table 12
+
+Summary of PK parameters following 300 mg in ORION 6 (Source; Table 1, CSR)
+
+Group
+
+Normal
+
+Mild Impairment
+
+Moderate Impairment
+
+Parameters
+
+N
+
+Mean
+
+SD
+
+N
+
+Mean
+
+SD
+
+N
+
+Mean
+
+SD
+
+Cmax, ng/mL
+
+12
+
+567
+
+306
+
+10
+
+574
+
+188
+
+6
+
+1160
+
+526
+
+Tmax, ha
+
+12
+
+4.00 (0.50, 8.00)
+
+10
+
+6.00 (1.00, 12.00)
+
+6
+
+5.00 (2.00, 8.12)
+
+AUClast,
+h·ng/mL
+
+12
+
+7380
+
+1890
+
+10
+
+9410
+
+3140
+
+6
+
+14800
+
+2590
+
+AUC0-24,
+h·ng/mL
+
+12
+
+6540
+
+1750
+
+10
+
+8700
+
+2890
+
+6
+
+14100
+
+2480
+
+AUC0-48,
+h·ng/mL
+
+12
+
+7840
+
+1920
+
+10
+
+10500
+
+3440
+
+6
+
+16100
+
+2380
+
+AUCinf,
+h·ng/mL
+
+10 b,c
+
+8020
+
+2140
+
+6 d,e
+
+10900
+
+3720
+
+6
+
+16000
+
+2340
+
+λz, 1/h
+
+10 b,c
+
+0.0890
+
+0.0400
+
+6 d,e
+
+Plasma
+
+0.0922
+
+0.0303
+
+6
+
+0.120
+
+0.0767
+
+4.46
+
+6
+
+d,e
+
+8.57
+
+4.12
+
+6
+
+7.01
+
+2.44
+
+9.27
+
+6 d,e
+
+29.1
+
+11.0
+
+6
+
+18.1
+
+2.44
+
+490
+
+215
+
+6
+
+d,e
+
+340
+
+148
+
+6
+
+183
+
+71.3
+
+t½, h
+
+10
+
+b,c
+
+9.38
+
+CL/F, L/h
+
+10 b,c
+
+37.6
+
+Vd/F, L
+
+10
+
+b,c
+
+Urine
+Ae, mg
+
+12
+
+50.1
+
+14.0
+
+10
+
+54.4
+
+15.5
+
+6
+
+85.0
+
+20.3
+
+Fe, %
+
+12
+
+17.6
+
+4.94
+
+10
+
+19.2
+
+5.45
+
+6
+
+29.9
+
+7.16
+
+CLR, L/h
+
+12
+
+6.59
+
+1.73
+
+10
+
+5.61
+
+2.11
+
+6
+
+5.31
+
+1.11
+
+33
+
+Reference ID: 4684702
+
+Figure 18 Mean (SD) percent change from baseline in LDL-C by hepatic sub-groups (Source; Figure 3, CSR)
+
+Reviewer’s comments: Study design and results were acceptable to support labeling as follows:
+
+
+
+
+
+
+Inclisiran PK was increased with the moderate hepatic impairment
+There was no sub-group with severe hepatic impairment
+There was significant temporal dissociation between PK and PD
+There was no clinically meaningful difference in reduction of PDs among sub-groups
+The baseline PCSK9 and LDL-C levels were lower in moderate hepatic impairment subgroup compared to those of normal sub-group.
+
+34
+
+Reference ID: 4684702
+
+4.3.4. ORION-12 (TQT Study)
+Key study design (Source, Table 1, Module 2.7.6)
+Primary Objective(s)
+Study Design and Type of
+Control
+Location
+Test Product(s); Dosage
+Regimen;
+Route of Administration
+
+Number of Subjects
+Healthy Subjects or Diagnosis of
+Patients
+Treatment Duration
+
+To assess the effect of a supratherapeutic dose of inclisiran on cardiac
+repolarization as assessed by the QTc interval corrected for HR using the
+QTcF.
+A randomized, double-blind, double-dummy, placebo- and positivecontrolled, crossover study to assess the electrocardiographic effects of
+Inclisiran in healthy volunteers.
+US
+o 3 SC injections of 300 mg Inclisiran sodium and 1 placebo matched to
+moxifloxacin oral overencapsulated tablet
+o 3 SC injections of placebo solution (1.5 mL each) and 1 placebo
+moxifloxacin oral overencapsulated tablet
+o 3 SC injections of placebo solution (1.5 mL each) and moxifloxacin
+oral overencapsulated tablet 400 mg
+48
+Healthy subjects
+30 days
+
+Supplemental information (Source, CSR)
+
+Figure 19
+CSR)
+
+Inclisiran mean (SD) concentration-time profile following 900 mg (Source, Figure 14.2.1.1,
+
+35
+
+Reference ID: 4684702
+
+Table 13
+
+Summary of PK parameters following 900 mg in ORION-12 (Source; Table 10, CSR)
+A: Inclisiran
+(N=48)
+
+Parameter (units)
+
+n
+
+Geometric Mean
+
+Geometric CV%
+
+AUC0-24 (h*ng/mL)
+
+48
+
+34890
+
+29.1
+
+AUC0-48 (h*ng/mL)
+
+44
+
+38190
+
+25.8
+
+AUC0-t (h*ng/mL)
+
+48
+
+37030
+
+24.3
+
+AUC0-inf (h*ng/mL)
+
+42
+
+39110
+
+24.4
+
+Cmax (ng/mL)
+
+48
+
+2643
+
+43.6
+
+Tmaxa (h)
+
+48
+
+4.003a
+
+0.507 - 12.0b
+
+t1/2 (h)
+
+42
+
+5.834
+
+28.8
+
+Vd/F (L)
+
+42
+
+183.3
+
+47.7
+
+CL/F (L/h)
+
+42
+
+21.78
+
+24.4
+
+Reviewer’s comments: Study design and results were acceptable to support labeling as follows:
+
+
+
+
+Inclisiran PK was adequately characterized following supra-therapeutic dose.
+Inclisiran exposure following 900 mg covered potential worst situation, which was with the
+severe renal impairment
+There was no meaningful impact of inclisiran on QTc (See review by the QT-IRT review
+team dated 5/13/2020 in DARRTS)
+
+36
+
+Reference ID: 4684702
+
+4.3.5. Efficacy sub-group analysis – Efficacy Pool 1 (Source, Figure 8, Module 2.5)
+(Note; Efficacy Pool 1 - pooled data of all 3 Phase 3 trials, ORION-9, ORION-10 and ORION-11 (N=3660), The applicant made
+a separate pooled data analysis for ASCVD or ASCVD risk equivalent (Efficacy Pool 2; ORION-10 and ORION-11, N=3178)).
+
+37
+
+Reference ID: 4684702
+
+4.3.6. Statin concentrations observed in Phase 3 trial (ORION-10)
+Brief description of PK data and analysis: PK analysis was based on available concentration levels of atorvastatin (40
+or 80 mg) and rosuvastatin (20mg or 40 mg) collected at Day 1, Day 450 and Day 510. One blood sample was drawn
+at each visit for subjects receiving inclisiran or placebo injection. PK collection was done on Day 1 (baseline before
+initiation of treatment), Day 450 (prior to last inclisiran dosing during maintenance dosing) and Day 510 (60 days
+after the last inclisiran dosing).
+Population PK models could not be developed with the limited numbers of statin PK samples collected per subject
+(i.e., 1 sample per visit) in the study, therefore the effects of inclisiran on the PK of statins were assessed by comparing
+the observed statin concentrations from subjects receiving inclisiran versus placebo, along with the expected
+concentrations simulated using published population PK models.
+Table 14
+
+Summary of observed atorvastatin (top panel) or rosuvastatin (bottom panel) concentrations
+
+(Source; Table 28 and 29, CSR)
+
+38
+
+Reference ID: 4684702
+
+4.3.7. Pharmacometrics Review
+Population PD analyses (Module 5.3.5.3.)
+There was temporal dissociation between PK and PD as inclisiran concentrations were not
+detectable between 24 and 48 hours following most single doses and PD changes lasted for months.
+A population PD model with abbreviated PK was considered to characterize the observed temporal
+dissociation between PK and PD as follows (Figure 20);
+
+
+
+
+
+A hypothetical liver effect compartment
+PCSK9 compartment with zero-order synthesis rate (KsynP) and first-order degradation rate
+(KdegP), and the link between the liver effect compartment and KsynP by a maximum inhibitor
+effect (Imax) model
+LDL-C compartment with zero-order synthesis rate (KsynL) and the first-order degradation rate
+(KdegL), and the link between PCSK9 and KdegL by the second Imax model.
+
+Figure 20
+Schematic summary of the population PD model
+Source; Figure 2, Module 5.3.5.3.
+
+The various structural population PD models were evaluated in the model development based on
+available observed datasets (Table 15). The final model was selected using conventional model
+evaluation approaches including goodness-of-fits and visual predictive checks (Table 16).
+Among 120 covariates available for the covariate analyses, the effect of covariates with clinical
+significance (i.e., age, gender, body weight, patient populations (ASCVD, HeFH), baseline
+(PCSK9, LDL-C), statins, CLcr) on the meaningful PD model parameters (i.e., IC50P, ImaxP,
+IC50L, ImaxL) were evaluated and determined to retain in the full covariate PD model (Table 17).
+The final model performance was evaluated by conventional sensitivity analysis.
+
+39
+
+Reference ID: 4684702
+
+Table 15
+
+Dataset used to develop the structural population PD modeling
+
+Source: Table 3, Module 5.3.5.3.
+
+40
+
+Reference ID: 4684702
+
+Table 16
+
+Summary of parameter estimates of the final structure model
+
+Source: Table 6, Module 5.3.5.3.
+
+41
+
+Reference ID: 4684702
+
+Table 17
+
+Summary of parameter estimates of the final full model with covariates
+
+Source: Table 7, Module 5.3.5.3.
+
+42
+
+Reference ID: 4684702
+
+Simulation of PD changes was performed to support the proposed maintenance dose and dosing
+interval (i.e., 300 mg Q6M) in Phase 3 trials as there was observations following only initial and
+Day 90 dosing in the dose-finding trial (Phase 2) (Figure 21). Simulation was also performed to
+support labeling for a missed dose (Figure 22).
+The applicant explored potential scenarios for a missed dose during the maintenance period; no
+missed dose, missed for 3 months continue the original schedule, or missed for 3 months and start
+over the dosing schedule (Table 18).
+
+Figure 21 Simulated PD changes following the proposed dosing regimen in Phase 3 trials using the final
+population PD model
+Source; Figure 15, Module 5.3.5.3.
+
+Figure 22 Simulated PD changes following with or without a missed dose for 6 months and potential scenarios
+Source; Figure 19, Module 5.3.5.3.
+
+43
+
+Reference ID: 4684702
+
+Table 18 Descriptive summary of percent change from baseline of PCSK9 or LDL-C in simulation with time
+deviation at Month 21
+
+Reviewer’s comments:
+
+
+
+
+
+The parameter estimates of the final structural model (Table 15) and the full model with
+covariates provided reasonable precision (%RSE) and shrinkage (Table 16).
+Simulation results were acceptable to support the proposed maintenance dose (300 mg Q6M,
+Figure 19) at the End-of-Phase 2 meeting as results reasonably showed PCSK9 and LDL-C
+reduction as expected from observations in early clinical trials.
+The simulation result indicates that efficacy is comparable between ‘missed for up to 3 months
+and continue the original schedule’ and ‘missed for more than 3 months and restart the dosing
+schedule’ (Table 18). Therefore, the proposed labeling based on the simulation is acceptable.
+
+44
+
+Reference ID: 4684702
+
+Signature Page 1 of 1
+
+-------------------------------------------------------------------------------------------This is a representation of an electronic record that was signed
+electronically. Following this are manifestations of any and all
+electronic signatures for this electronic record.
+-------------------------------------------------------------------------------------------/s/
+-----------------------------------------------------------SANG M CHUNG
+10/13/2020 11:00:17 AM
+JUSTIN C EARP
+10/13/2020 11:11:06 AM
+JAYABHARATHI VAIDYANATHAN
+10/13/2020 11:20:08 AM
+DOANH C TRAN
+10/13/2020 11:36:00 AM
+
+Reference ID: 4684702
+
+

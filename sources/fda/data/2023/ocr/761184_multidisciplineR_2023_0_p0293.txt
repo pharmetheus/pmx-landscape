@@ -1,0 +1,25 @@
+BLA 761184
+Ngenla (somatrogon)
+
+17.2. Treatment-Emergent Adverse Events
+Table 106. Overview of Treatment-Emergent Adverse Events, Trial CP-4-006 (OLE Period)
+
+Originally Originally
+
+Randomizedto Randomizedto
+Somatrogon Genotropin Total
+N=104 N=108 N=212
+Event Category n(%) n(%) n(%)
+Any AE 72 (69.2) 87 (80.6) 159 (75.0)
+Any SAE 7(6.7) 4(3.7) 41 (5.2)
+SAE with fatal outcome it} i?) it}
+AE leading to discontinuation of study drug 1(1.0) 5 (4.6) 6 (2.8)
+
+Source: adae.xpt, software, Python. Data based on responseto the Information Request dated October 14, 2021
+
+Abbreviations: AE, adverse event; OLE, open-label extension; N, number of subjects in treatment arm; n, numberof subjects with at
+least one event; SAE, serious adverse event
+
+191
+
+Reference ID: 4924352

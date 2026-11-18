@@ -1,0 +1,53 @@
+NDA 216951
+Jesduvrog (daprodustat)
+
+Table 20. Analysis of Post-Randomization Hb Change From Baseline to the EP (Weeks 28 to 52)
+for Study 200808/ASCEND-ND
+
+Daprodustat Darbepoetin
+
+N=1937 N=1935
+Participants with all 7 scheduled Hb values during the EP 1084 (56) 1079 (56)
+Participants with partial scheduled Hb values during the EP 473 (24) 477 (25)
+Participants with no observed Hb values during the EP 361 (19) 357 (18)
+Number of participants with Baseline and EP Hb, n (%)? 1937 (100) 1935 (100)
+Baseline Hb (g/dL) mean (SD) 9.87 (0.94) 9.85 (0.95)
+EP (Weeks 28-52) Hb (g/dL) mean (SD) 10.59 (0.63) 10.51 (0.71)
+Adjusted mean change from Baseline (SE)? 0.74 (0.02) 0.66 (0.02)
+Adjusted mean treatment difference (dapro-darbe) 0.08
+Two-sided 95% Cl for adjusted mean difference” (0.03, 0.13)
+
+Source: Sponsor CSR report
+= Post-randomization values include on and off treatment values. Observed and imputed Hb values are used in this analysis. There
+
+were no missing baseline values in the analysis.
+> Based on an ANCOVA model with terms for treatment, baseline Hb, current ESA use and region.
+
+Abbreviations: ANCOVA, analysis of covariance; Cl, confidence interval; CSR, clinical study report, Dapro, daprodustat; Darbe,
+darbepoetin alfa; EP, evaluation period; ESA, erythropoiesis-stimulating agents; Hb, hemoglobin; SD, standard deviation; SE,
+‘standard error
+
+Primary Efficacy Sensitivity Analysis
+
+For the analysis of the co-primary efficacy endpoint, a multiple imputation approach was used to
+handle missing Hb values. Missing scheduled Hb data were imputed based on the MAR
+assumption. However, it is important to examine the sensitivity of inferences to departures from
+the MAR assumption for the monotone missing data. A tipping point analysis was performed as
+a sensitivity analysis for the assumptions of missing data, that is, to mimic MNAR in which the
+missing observations depend on unobserved values. Results of the tipping point analysis suggest
+that the extent of missing data would unlikely impact the conclusions of the co-primary efficacy
+
+analysis.
+
+Efficacy Results—Secondary Endpoints
+
+A supportive analysis was performed for the primary ITT analysis of post-randomization mean
+change in Hb between Baseline and over the EP, repeating the analysis using a shorter EP (Week
+28 to 36). For each study the lower bound of the 95% CI for the treatment difference was greater
+than the prospectively defined non-inferiority margin of -0.75 g/dL, thus supporting the overall
+conclusion of non-inferiority of daprodustat (see Table 21). Results were consistent with the
+conclusion from the primary analysis.
+
+Integrated Review Template, version 3.0 (05/25/2022)
+
+Reference ID: 5119138

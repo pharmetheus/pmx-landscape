@@ -1,0 +1,56 @@
+BLA 761184
+Ngenla (somatrogon)
+
+Figure 64. Other Subgroup Analysis: Annual Height Velocity at Month 12
+
+Height Velocity
+Difference in the LS Mean Difference at Month 12 of Soma vs. Geno and 95% Cl
+Study 006
+Somatrogon - Genotropin
+Ls
+Mean LCL UCL Soma Geno
+Overall bo 034 «=6-.023. 091 1081091137115
+Peak GH Level Group
+<=3ngmL He 139-035 33 «2 2
+>7to<10ngm he 02 86072 17 (34 7
+>3 to <=7 ng/mL BH 0.14 087 0.60 52 5S
+Region Other
+Region 1 He 1.02 043 161 44 49
+Region 2 fe 073-163 0.17 52 SI
+Region 3 td 2n 056 478 12 13
+Favors Geno Favors Soma
+
+4 2 #40 2 4
+
+Source: Statistical Reviewer's analysis.
+
+Region 1: Westem Europe, Israel, Greece, Australia, New Zealand, Canada, and the United States.
+
+Region 2: Central and Eastem Europe, Turkey, Latin America, and Asia, except for India and Vietnam.
+
+Region 3: India and Vietnam.
+
+Abbreviations: Cl, confidence interval, Geno, Genotropin; GH, growth hormone; LCL, lower confidence interval; LS, least squares;
+Soma, somatrogon; UCL, upper confidence limit
+
+16.2. Trial CP-4-006 Bayesian Shrinkage Analysis
+
+There were likely some random highs and random lows in sample estimates of subgroup
+treatment effects due to small sample size and large variability for some subgroups. Therefore,
+we also derive shrinkage estimates of subgroup treatment effects using a Bayesian hierarchical
+model based on summary sample estimates. The total variability in the sample estimates is the
+sum of the within subgroup variability of the sample estimator and the across subgroups
+variability in underlying/true parameter values. A shrinkage estimate of the subgroup treatment
+effect, which borrows information from the other subgroups while estimating the treatment effect
+for a specific subgroup, is a “weighted” average of the sample estimate and overall estimate. The
+weights are based on the ratio of the between subgroup variability to the within subgroup
+variability. The greater that ratio the smaller the weight on the overall estimate (the less the
+shrinkage). We used the same flat prior to derive shrinkage estimates for all subgroups (age, sex,
+region, and race). The Bayesian hierarchical model assumptions for annual HV at Month 12 are:
+
+For i= 1,2... Yi represents the observed sample estimate of treatment effect in a subgroup level
+i, assume Yi~N(u1;, 677) where:
+
+177
+
+Reference ID: 4924352

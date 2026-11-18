@@ -1,0 +1,32 @@
+NDA 220149 Icotrokinra (INJ-77242113)
+
+Page 26 of 29
+
+Table 6B: Tumor Rates and P-Values for Dose Response Relationship and Pairwise Comparisons
+Female Mice Using Poly-3 test
+
+0 mg Vehicle 50 mg 150 mg 500 mg 500 mg Positive
+Cont (N=25) | Low (N=25) | Med (N=25) | High (N=25) | High (N=10)
+Organ Name | Tumor Name P-Trend P-Cvs.L | P-Cvs.M | P-Cvs.H P-VCvs.H
+Gland, Adenoma 1/25 (25) 0/25 (24) 0/25 (25) 1/25 (22) 0/0 (.)
+Harderian 0.4077 1.0000 1.0000 0.7225 NC
+Lung Bronchioloalveolar| — 3/25 (25) 2/25 (25) 1/25 (25) 3/25 (22) 15/15 (15)
+Adenoma 0.3229 0.8257 0.9451 0.6025 <0.0001*
+Ovary Hemangiosarcoma | __ 1/25 (25) 0/25 (24) 0/25 (25) 0/25 (22) 0/0 (.)
+1.0000 1.0000 1.0000 1.0000 NC
+Skin Hemangiosarcoma | _ 0/25 (25) 0/25 (24) 1/25 (25) 0/25 (22) 0/0 (.)
+0.4896 NC 0.5000 NC NC
+Spleen Hemangiosarcoma 0/25 (25) 3/25 (24) 1/25 (25) 0/25 (22) 6/15 (7)
+0.8128 0.1099 0.5000 NC <0.0001*
+Uterus/Cervix |Hemangiosarcoma | 2/25 (25) 0/25 (24) 0/25 (25) 0/25 (22) 0/0 (.)
+1.0000 1.0000 1.0000 1.0000 NC
+Whole Body |Hemangiosarcoma | 3/25 (25) 3/25 (24) 2/25 (25) 1/25 (22) 6/15 (7)
+0.8502 0.6465 0.8257 0.9291 0.0006*
+
+& X/ZZ (YY): X=number of tumor bearing animals, YY=mortality weighted total number of animals, ZZ= total number of animals observed:
+NC = Not calculable;
+*: Statistically significant at 0.005 and 0.025 for common and rare tumors, respectively in dose response relationship (trend) tests and
+significance levels of 0.01 and 0.05 for common and rare tumors, respectively in pairwise comparisons
+
+Reference ID: 5669827
+

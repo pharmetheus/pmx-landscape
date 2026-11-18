@@ -1,0 +1,5709 @@
+CENTER FOR DRUG EVALUATION AND
+RESEARCH
+APPLICATION NUMBER:
+
+214787Orig1s000
+CLINICAL PHARMACOLOGY
+REVIEW(S)
+
+Date: July 16, 2020
+From: Neil Hartman, PhD, Marlene Kim, PhD, Naomi Kruhlak, PhD, Rebecca Racz, PharmD, Division of
+Applied Regulatory Science/Office of Clinical Pharmacology (DARS/OCP)
+Through: James Weaver Ph.D., Consult Lead and David Strauss M.D., Ph.D., Director; DARS/OCP
+To: Neha Gada, Division of Pharmacovigilance II, Office of Surveillance and Epidemiology
+Subject: In silico Analyses on the Potential Association of Remdesivir with Renal and Hepatic Events
+(NDA 21487)
+Executive Summary
+
+Remdesivir is currently approved under an Emergency Use Authorization (EUA) for COVID-19. It is
+closely related to adenosine and the adenosine nucleotides in structure. Multiple adverse events have been
+reported to the Agency, including acute kidney injury. Additionally, the Emergency Use Authorization
+describes a known risk of increased transaminase elevations during remdesivir treatment. However, as
+COVID-19 can also lead to serious outcomes, including acute kidney injury, the contribution of remdesivir
+to these adverse events is unclear. DARS performed multiple computational analyses, primarily based on
+structural similarity to other drugs, to evaluate remdesivir’s potential association with these adverse events.
+In silico pharmacologic target predictions performed using the software platform Clarity identified DNA
+polymerase as well as several adenosine and purine receptors as possible secondary targets of remdesivir
+and its metabolites. The sponsor-provided in vitro data found that most of these predictions were negative.
+Remdesivir did interact with DNA polymerase in vitro at clinically-relevant concentrations; however,
+development of toxicity through this mechanism generally requires chronic exposure and remdesivir is
+rapidly converted to its metabolites, which were not associated with DNA polymerase at clinically-relevant
+concentrations.
+Remdesivir was also evaluated using (quantitative) structure-activity [(Q)SAR] models for hepatotoxicity
+and nephrotoxicity. Remdesivir was predicted to be positive for hepatotoxicity; however, considering the
+rapid metabolism of remdesivir this may not be clinically significant. Additionally, remdesivir’s two
+metabolites, remdesivir triphosphate and GS-441524, were predicted to be positive for gall bladder
+disorders. All evaluated compounds were predicted to be negative or undeterminable for renal toxicity in
+the (Q)SAR models. Finally, a structural similarity search revealed several nucleoside analogs as potential
+comparators for remdesivir and GS-441524. Several of these closely related compounds are associated with
+some degree of kidney and/or liver issues and contain statements in their drug labels about the need for
+clinical monitoring of renal and liver function.
+In conclusion, in silico analyses identified that remdesivir or its metabolites are structurally similar to other
+drugs that have been associated with some degree of renal and/or liver issues and their labels recommend
+monitoring renal and/or liver toxicity. Remdesivir’s EUA does recommend daily monitoring of hepatic
+laboratory testing. These in silico analyses can be taken into account with other nonclinical and clinical
+data when evaluating the potential for remdesivir to be associated with renal or liver adverse events and the
+potential need for clinical monitoring.
+1
+
+Reference ID: 4652285
+
+Background
+
+Remdesivir is currently approved under the Emergency Use Authorization (EUA) for COVID-19. It is a
+nucleotide analog of adenosine that inhibits viral RNA-dependent RNA polymerase, leading to early chain
+termination and inhibiting viral replication (Eastman et al 2020). It was previously under investigation as a
+treatment for several other viruses, including Ebola.
+Multiple adverse events have been reported to the Agency, including acute kidney injury. However, as
+COVID-19 can be associated with adverse outcomes, it is not clear if remdesivir is causing these adverse
+events and conclusive data on the safety of remdesivir in patients with kidney injury or disease are lacking
+(Adamsick et al 2020). Additionally, the Emergency Use Authorization describes a known risk of
+increased transaminase elevations in healthy volunteers and patients with COVID-19 who received
+remdesivir during clinical trials. The Division of Pharmacoepidemiology II requested an analysis of the
+structure and adverse event potential of remdesivir.
+Evaluation
+
+Target Prediction
+A target prediction evaluation was performed for remdesivir, two metabolites (remdesivir triphosphate and
+GS-441524), and the excipient sulfobutylether-beta-cyclodextrin to identify potential secondary targets that
+may result in renal adverse events (Table 1). Target prediction was performed with Clarity, a predictive
+analytics platform consisting of six integrated models that make predictions for secondary pharmacology
+activity based on drug structure and publicly-known primary target activity. As this tool has not been fully
+evaluated by the FDA, results should only be used for hypothesis generation.
+The excipient sulfobutylether-beta-cyclodextrin was too large to analyze with Clarity and was therefore
+excluded from this analysis.
+
+P
+P
+P
+P
+
+P
+
+GS-441524
+
+Remdesivir
+Trisphophate
+
+DNA Polymerase
+Adenosine receptor A1
+Adenosine receptor A2
+Adenosine receptor A3
+Adenosine kinase
+P2Y purinoceptor
+
+Remdesivir
+
+Table 1. Clarity predictions for remdesivir and metabolites. K: Known, Clarity has the interaction
+stored in the database from literature, patents, or other references. P: Predicted, Clarity made a prediction
+based on structural similarity or other properties of the molecule.
+
+P
+P
+P
+P
+P
+
+P
+2
+
+Reference ID: 4652285
+
+P2X purinoceptor
+
+P
+
+One prediction of note is DNA polymerase. Many nucleoside analogs, such as remdesivir, can also act
+human DNA polymerase. This can lead to mitochondrial toxicity, which includes myopathy, neuropathy,
+hepatic steatosis, lactic acidosis, and nephropathy (Khungar and Han 2010). Of note, a study entitled “In
+Vitro Evaluation of GS-5734 [remdesivir] Effects on Mitochondrial DNA Content” submitted with the
+remdesivir IND application (IND 125566) found that at Ebola therapeutic concentrations (1 µM in rhesus
+macaques), no significant reduction in mitochondrial DNA was observed. At twice the therapeutic
+concentration (2 µM in rhesus macaques), 26% reduction in mitochondrial DNA occurred. For COVID-19,
+the Cmax after the Day 1 200 mg dose is approximately 9 µM (EMA), which is significantly higher than
+the concentration evaluated in the macaque study. For COVID-19, remdesivir is given for an additional 5
+to 10 days at 100 mg. While remdesivir reaches relevant concentrations related to this in vitro assay,
+remdesivir is rapidly metabolized to remdesivir triphosphate (Warren et al 2016) and kidney adverse events
+due to mitochondrial toxicity are generally seen after months rather than days of treatment (Herlitz et al
+2010). Thus, while this is unlikely to be the mechanism of potential kidney adverse events, it may deserve
+further investigation. An additional study in the IND application, “Interaction of GS-443902, the Active
+Nucleoside Triphosphate Metabolite of GS-5734, with Host RNA and DNA Polymerase Enzymes”, found
+that at concentrations up to 200 µM, none of the DNA or RNA host (human) polymerases tested were
+inhibited. Remdesivir triphosphate only reaches a Cmax of 0.5 µM after the Day 1 dose (EMA). As
+kidney adverse effects due to mitochondrial toxicity are seen after months rather than days of treatment
+(Herlitz et al 2010) and the active metabolite does not reach concentrations significant to mitochondrial
+toxicity, it is unlikely that interaction with host polymerases contributes significantly to the toxicities
+observed.
+Also of note, while both remdesivir and GS-441524 were predicted to bind at multiple adenosine receptors
+(which could subsequently lead to additional effects on heart rate, respiration, and blood pressure),
+secondary pharmacology screening for GS-441524 and a diastereomic mixture of remdesivir (GS-466547)
+submitted with the IND application indicated that neither compound demonstrated significant binding at
+adenosine A1, adenosine A2A, or the adenosine transporter.
+Finally, while the P2R purinoceptors were predicted and are often associated with renal effects (Menzies et
+al 2017), confidence for these predictions was weak. Therefore, these predictions do not warrant further
+investigation at this time.
+All other predicted targets had little to no effect on the renal or hepatobiliary system.
+(Quantitative) Structural Activity Relationship Analysis
+The DARS Computational Toxicology Consultation Service (CTCS) evaluated the four structures,
+remdesivir (API), remdesivir triphosphate, GS-441524, and cyclodextrin excipient for potential renal and
+liver toxicity effects using (quantitative) structure-activity relationship [(Q)SAR] models. Additionally, a
+structure-based search was performed to identify other drugs with high similarity to the three drugs that
+could serve as comparators.
+The (Q)SAR models predicted remdesivir to be positive for hepatotoxicity; however, considering the rapid
+metabolism of remdesivir this may not be clinically significant (Warren et al 2016). Remdesivir
+3
+
+Reference ID: 4652285
+
+/-. . 111
+
+~,./-
+
+(
+
+U.S. FOOD & DRUG
+ADMIN I STRATION
+
+tr·iphosphate was predicted to be positive for gall bladder disorders and equivocal for cholestasis and bile
+duct disorders. GS-441524 was predicted to be positive for gall bladder disorders and equivocal for bile
+duct disorders. Remdesivir, remdesivir tr·iphosphate, GS-441524, and cyclodextr·in excipient were predicted
+to be negative or undetenninable for renal toxicity disorders. The cyclodextr·in excipient present in the
+fonnulation was predicted to be negative or undetenninable for all endpoints.
+Structural Similarity Search
+As remdesivir is a nucleoside analog, adenosine and guanosine analogs that are str11cturally similar were
+identified and evaluated for their potential to induce hepatic and renal adverse events based on pre- and
+post-market clinical experience. The mugs evaluated are analogs for both remdesivir and GS-441524.
+Several of these closely related compounds, paiiicularly clofai·abine, didanosine, and gan ciclovir, contained
+statements in their di11g labels on the need for clinical monitoring for renal and/or liver function.
+These results suppoit monitoring for these potential adverse effects, but they do not conclusively predict
+hepatotoxicity or renal toxicity for remdesivir, remdesivir tr·iphosphate, or GS-441524.
+Additional details may be found in the foll repo1i, located in Appendix 1.
+
+HO
+
+OH
+
+\rf_o OH
+!J "·/ _o OH
+!J \rf_o
+
+HO
+
+\,......
+
+HO
+
+!J \ . .. .
+
+..u NH
+
+oHN[j__
+
+2
+
+~
+GS-441524
+
+Remdesivir tri
+OH
+
+Remdesivir API
+
+Summary and Conclusions
+
+Remdesivir is closely related to adenosine and the adenosine nucleotides in stru cture. It thus may be
+expected to interact with any enzyme using adenosine or adenosine tr·iphosphate as a substr·ate. Tai·get
+4
+
+Reference ID 4652285
+
+predictions that were performed using the in silico Clarity platform identified DNA polymerase as well as
+several adenosine and purine receptors as possible secondary targets. The sponsor-provided in vitro data
+found that most of these predictions were negative. Remdesivir did interact with DNA polymerase in vitro
+at clinically-relevant concentrations; however, development of toxicity through this mechanism generally
+requires chronic exposure and remdesivir is rapidly converted to its metabolites, which were not associated
+with DNA polymerase at clinically-relevant concentrations. Remdesivir was also evaluated using
+(quantitative) structure-activity relationship ((Q)SAR) models for hepatotoxicity and nephrotoxicity. The
+(Q)SAR results suggested that remdesivir may be associated with hepatotoxicity; however, considering the
+rapid metabolism of remdesivir this may not be clinically significant. Remdesivir triphosphate was
+predicted to be positive for gall bladder disorders and equivocal for cholestasis and bile duct disorders.
+GS-441524 was predicted to be positive for gall bladder disorders and equivocal for bile duct disorders. In
+contrast, the cyclodextrin excipient present in the formulation was predicted to be negative or
+undeterminable for all endpoints. Additionally, remdesivir, remdesivir triphosphate, GS-441524, and
+cyclodextrin excipient were predicted to be negative or undeterminable for renal toxicity disorders. A
+structural similarity search revealed several nucleoside analogs as potential comparators to remdesivir and
+GS-441524. Several of these closely related compounds, particularly clofarabine, didanosine, and
+ganciclovir, contained statements in their drug labels on the need for clinical monitoring for renal and/or
+liver function.
+In conclusion, in silico analyses identified that remdesivir and its metabolites are structurally similar to
+other drugs that have been associated with some degree of renal and/or liver issues and their labels
+recommend monitoring renal and/or liver toxicity. Remdesivir’s EUA does recommend daily monitoring of
+hepatic laboratory testing. These in silico analyses can be taken into account with other nonclinical and
+clinical data when evaluating the potential for remdesivir to be associated with renal or liver adverse events
+and the potential need for clinical monitoring.
+References and Supporting Documents
+Adamsick ML, Gandhi RG, Bidell MR, Elshaboury RH, Bhattacharyya RP, et al. Remdesivir in Patients with Acute
+or Chronic Kidney Disease and COVID-19. JASN. 2020; 31: Epub.
+Eastman RT, Roth JS, Brimacombe KR, Simeonov A, Shen M, Patnaik S, and Hall MD. Remdesivir: A Review of
+Its Discovery and Development Leading to Emergency Use Authorization for Treatment of COVID-19. ACS Cent
+Sci. 2020; 6(5):672-83.
+European Medicines Agency. Summary on compassionate use: remdesivir. Published April 3, 2020. Accessed July
+16, 2020.
+Herlitz LC, Mohan S, Stokes MB, Radhakrishnan J, D’Agati VD, and Markowitz GS. Tenofovir nephrotoxicity:
+acute tubular necrosis with distinctive clinical, pathological, and mitochondrial abnormalities. Kidney Int. 2010;
+78(11):1171-7.
+Khungar V and Han SH. A Systematic Review of Side Effects of Nucleoside and Nucleotide Drugs Used for
+Treatment of Chronic Hepatitis B. Curr Hepat Rep. 2010; 9(2):75-90.
+Menzies RI, Tam FW, Unwin RJ, and Bailey MA. Purinergic Signaling in Kidney Disease. Kidney Int. 2017;
+
+Reference ID: 4652285
+
+5
+
+91(2):315-23.
+Warren TK, Jordan R, Lo MK, Ray AS, Mackman RL, et al. Therapeutic efficacy of the small molecule GS-5734
+against Ebola virus in rhesus monkeys. Nature. 2016; 531:381-85.
+
+6
+
+Reference ID: 4652285
+
+/-. . 111
+
+~,./-
+
+(
+
+U.S. FOOD & DRUG
+ADMIN I STRATION
+
+Appendix 1
+To:
+Neha Gada (CDER/OSE/OPE/DPVll)
+cc :
+James Weaver (CDER/OTS/OCP/DARS)
+From: CDER/OTS/OCP/DARS: Computational Toxicology Consultation Service
+Re:
+IND 147753, NOA 214787
+Date: July 10, 2020
+
+Summarv
+The OARS Computational Toxicology Consultation Service (CTCS) evaluated the four drug structures,
+remdesivir (API), remdesivi r triphosphate, GS-441524, and cyclodextrin excipient for potential renal
+and liver toxicity effects using (quantitative) structure-activity relationship [(Q)SAR] models. Additionally, a
+structure-based search was performed to identify other drugs with high similarity to the three drugs that
+could serve as comparators.
+The results showed that remdesivir is predicted to be positive for hepatotoxicity; however, considering the
+rapid metabolism of remdesivir this may not be clinically significant. Remdesivir t riphosphate was
+predicted to be positive for gall bladder disorders and equivocal for cholestasis and bile duct disorders.
+GS441 524 was found to be positive for gall bladder disorders and equ ivocal for bile duct disorders. None
+of the three drugs was predicted to be positive for renal toxicity. The cyclodextrin excipient present in
+the formulation was found to negative or undeterminable for all endpoints. A structural similarity
+assessment identified several nucleoside compounds similar to remdesivir which were classified as
+positive in model training sets for hepatotoxicity and/or nephrotoxicity based on labeling and/or postmarket experience. While these results suggest that additional monitoring for these effects may be
+warranted, the results did not conclusively pred ict the likelihood of hepatotoxicity or renal toxicity for
+remdesivir, remdesivir triphosphate, or GS-441524.
+HO
+
+OH
+
+\rf_o OH
+!J \rf_o OH HO
+!J \rf_o
+
+HO
+
+\ 111111•
+
+//
+
+a
+
+'\ ......
+
+..u
+
+OHN
+CJ--
+
+NH
+2
+
+~
+GS-441524
+
+Remdesivir tri
+OH
+
+7
+
+Reference ID 4652285
+
+Remdesivir (API)
+
+OR
+OR
+
+RO
+O
+RO
+
+OR
+
+O
+O
+
+O
+O
+OR
+
+RO
+
+RO
+O
+
+RO
+
+OR
+
+O
+
+O
+OR
+
+O
+OR
+
+R=
+
+S
+
+OH
+
+RO
+O
+
+O
+
+RO
+O
+
+7
+
+O
+RO
+
+RO
+
+OR
+
+RO
+
+R=
+
+H
+
+14
+
+O
+OR
+
+O
+
+O
+
+RO
+OR
+
+Cyclodextrin Excipient
+
+Methods
+Three software programs were used to predict liver and renal toxicity: Derek Nexus 6.1.0 (DX), Leadscope
+Model Applier 2.4.5-7 (LMA), CASE Ultra 1.8.0.2 (CU). DX is an expert rule-based platform, which uses a
+knowledgebase of structural alerts to support a prediction. In contrast, LMA and CU are statistical-based
+platforms containing models constructed through machine-learning. The LMA and CU models were
+constructed from training sets generated from post-market adverse event reports in FDA’s Adverse Event
+Reporting System (FAERS). The hepatotoxicity training sets were further supplemented with data from
+drug labels and the published literature.
+All (Q)SAR model outputs were reviewed with the use of expert knowledge in order to provide additional
+supportive evidence on the relevance of any positive, negative, conflicting or inconclusive prediction and
+provide a rationale to support the final conclusion.
+
+8
+
+Reference ID: 4652285
+
+/-. . 111
+
+~,./-
+
+(
+
+U.S. FOOD & DRUG
+ADMIN I STRATION
+
+Chemical 1: Remdesivir (API)
+OH
+
+Hepatotoxicitv (Q)SAR Predictions 1
+
+Software
+
+Liver
+Dam age
+
+Liver
+Enzyme
+Abno rmalitv
+
+Cho lest asis
+
+Bile Duct
+Disorders
+
+Gall
+Bladde r
+Disorders
+
++
+
+Derek Nexus
+Leadscope Model
+Aoolier
+
+-
+
+-
+
+-
+
+-
+
+N/A
+
+CASE Ultra
+
+Eqv
+
+Eqv
+
+Eqv
+
++
+
++
+
+Overall Ex pert
+Predictio n
+
++
+
++
+
++
+
++
+
++
+
+Remdesivir is predicted to be positive for liver damage, liver enzyme abnormality, cholestasis, bile duct,
+and gall bladder disorders. Remdesivi r is predicted to be positive for hepatotoxicity by DX, due to the
+presence of the organophosphorus di- or tri ester moiety. DX cautions that while organophosphorus
+compounds can be shown to be hepatotoxic in experimental animals there is limited clinical evidence of
+hepatotoxicity of these compounds in the literature. The positive alert by CU for gall bladder disorders and
+the equivocal alerts for liver enzyme abnormality and cholestasis are due to a fragment of the aden ine
+moiety. These alerts identifying the adenine group are also present in the endogenous substance
+adenosine monophosphate; however, many compounds closely related to remdesivir contain the adenine
+group and can be shown to be hepatotoxic (see structural similarity assessment below). The positive
+alerts by CU for bile duct disorders are present in endogenous peptides and can be discounted. All
+structural alerts are highlighted in red and unknown fragments highlighted in blue in the table below.
+
+1 + = positive; - = negative; Eqv = equivocal; NSA = no structural alerts are identified by DX (Derek Nexus cannot
+differentiate between a negative call and the inability to make a call because of no coverage); N/A =no model
+available; NC = test chem ical features are not adequately represented in the model training data set, leading to a no
+call.
+
+9
+
+Reference ID 4652285
+
+/-. . 111
+
+~,./-
+
+(
+
+U.S. FOOD & DRUG
+ADMIN I STRATION
+
+Structural Alerts
+Endpoint
+
+DX Alerts
+
+CU Alerts
+OH
+
+0
+
+OH
+
+J_, fo'\::O~ J_,o+A~~~
+v o-,o-z
+
+Liver Damage
+
+,,...
+
+I Ii
+
+I Ii
+
+""'
+
+""'
+
+OH
+
+Liver Enzyme
+Abnormality
+
+J_,of~l,/'
+~·~.
+v"· ·~'l)-Z
+
+NIA
+
+W I Ii
+
+""'
+
+OH
+
+J_,o+A~ q;-r-
+
+v 'l)-Z
+
+N/A
+
+Cholestasis
+
+W I Ii
+
+""'
+
+OH
+
+J_,+,l~c[;~
+w'"1
+'0-Z
+
+v
+
+N/A
+
+Bile Duct Disorders
+
+h
+
+NH,
+
+OH
+
+Gall bladder
+disorders
+
+J_,+\~c[;~
+w'0-Z
+
+v
+
+N/A
+
+"1 h
+
+NH,
+
+Renal toxicity (Q)SAR Predictions
+
+Software
+
+Bladder
+Disorder
+
+Blood
+in
+Urine
+
+Kidney
+Function
+Tests
+
+Nephropathies
+
+Renal
+Urolithiasis
+Disorder
+
+NSA
+
+Derek Nexus
+Leadscope Model
+Applier
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+CASE Ultra
+
+NC
+
+NC
+
+NC
+
+NC
+
+NC
+
+NC
+
+Overall Expert
+Predictions
+
+-
+
+-
+
+-
+
+-
+
+-
+
+10
+
+Reference ID 4652285
+
+/-. . 111
+
+~,./-
+
+(
+
+U.S. FOOD & DRUG
+ADMIN I STRATION
+
+Remdesivir (API) is predicted to be negative for renal toxicity disorders (bladder disorder, blood in urine,
+kidney function tests, nephropathies, renal disorder and urolithiasis ).
+
+Chemical 2: Remdesivir triphosphate
+HO
+
+OH
+
+'\/_o OH
+
+//
+
+0
+
+'\rf_o OH
+//
+"-rf_o
+
+0
+
+//
+
+a
+
+""-, .... .
+
+Hepatotoxicitv (Q)SAR Predictions
+
+Software
+
+Liver
+Damage
+
+Liver
+Enzyme
+Abnormality
+
+Derek Nexus
+
+Cholestasis
+
+Bile Duct
+Disorders
+
+Gall
+Bladder
+Disorders
+
+NSA
+
+Leadscope Model
+Aoo/ier
+
+Eqv
+
+-
+
+Eqv
+
+Eqv
+
+N/A
+
+CASE Ultra
+
+-
+
+Eqv
+
+Eqv
+
+Eqv
+
++
+
+Overall Expert
+Prediction
+
+-
+
+-
+
+Eqv
+
+Eqv
+
++
+
+Remdesivir triphosphate is predicted to be positive for gall bladder disorders and equivocal for
+cholestasis and bile duct disorders. Remdesivir triphosphate is predicted to be negative for liver damage
+and liver enzyme abnormality. The positive alert by CU for gall bladder disorders and the equivocal alerts
+for liver enzyme abnormality, cholestasis, and bile duct disorders are due to a fragment of the adenine
+moiety. These alerts identifying the adenine group are also present in the endogenous substance
+adenosine triphosphate; however, many compounds closely related to remdesivir triphosphate contain
+the adenine group and can be shown to be hepatotoxic (see structural similarity assessment below).
+Likewise, the equivocal alerts by LMA for liver damage, cholestasis and bile duct disorders identify a
+fragment of the ribose moiety, which is also present in adenosine triphosphate. All structural alerts are
+highlighted in red and unknown fragments highlighted in blue in the table below .
+
+11
+
+Reference ID 4652285
+
+/-. . 111
+
+~,./-
+
+(
+
+U.S. FOOD & DRUG
+ADMIN I STRATION
+
+Structural Alerts
+
+Endpoint
+
+CU Alerts
+
+LMA Alerts
+HO
+
+f·v~~
+II \ L o ~(\if
+II '\.....
+. ... ~ l
+
+N/A
+
+Liver Damage
+
+OH
+
+NH,
+
+~
+HO
+
+(\lf
+
+OH
+
+\ L o OH
+
+~N
+
+HO
+
+u IIv~II\ L~o'\.......
+
+Liver Enzyme
+Abnormality
+
+. ... ~ l
+
+NIA
+
+NH,
+
+~
+HO
+
+(\lf f·v~~ ~(\if
+
+OH
+
+\ L o OH
+
+u IIv~II\ L~o'\..... ·
+
+Cholestasis
+
+HO
+
+~N
+
+HO
+
+OH
+
+II \ L o
+II '\.....
+
+NH,
+
+...... ~ l
+~
+
+HO
+
+u IIv~II' /-~o'\,......
+
+HO
+
+~N
+
+HO
+
+OH
+
+II ' /- o
+II '\......
+
+NH,
+
+...... ~ l
+~
+
+HO
+
+Gall Bladder
+Disorders
+
+...... ~ l
+
+NH,
+
+~
+
+(\&-
+
+OH
+
+V- o OH
+HO
+§ II
+V- oV-~o
+II '\,......
+
+NH,
+
+~
+
+(\lf f·v~~ ~(\if
+
+OH
+
+\ L o OH
+
+Bile Duct Disorders
+
+...... ~ l
+
+~N
+
+...... ~ l
+
+N/A
+
+NH,
+
+~
+
+Renal toxicity (Q)SAR Predictions
+
+Software
+
+Bladder
+Disorder
+
+Blood
+in
+Urine
+
+Kidney
+Function
+Tests
+
+Nephropathies
+
+Renal
+Urolithiasis
+Disorder
+
+NSA
+
+Derek Nexus
+Leadscope Model
+Applier
+
+-
+
+-
+
+NC
+
+NC
+
+NC
+
+-
+
+CASE Ultra
+
+NC
+
+NC
+
+NC
+
+NC
+
+NC
+
+NC
+12
+
+Reference ID 4652285
+
+/-. . 111
+
+~,./-
+
+(
+
+U.S. FOOD & DRUG
+ADMIN I STRATION
+
+I
+
+Overall Expert
+Predictions
+
+NC
+
+NC
+
+NC
+
+Remdesivir triphosphate is predicted to be negative for bladder toxicity, blood in urine, and urolithiasis.
+No pred iction could be made for kidney function tests, nephropathies, or renal disorders.
+
+Chemical 3: GS441 524
+HO
+HO
+
+\ ,,,,,.,
+
+OHN ~N
+
+.,,,~NH2
+
+\\
+Hepatotoxicitv (Q)SAR Predictions
+
+Software
+
+Liver
+Damage
+
+Liver
+Enzyme
+Abnormalitv
+
+Cholestasis
+
+Bile Duct
+Disorders
+
+Gall
+Bladder
+Disorders
+
+NSA
+
+Derek Nexus
+Leadscope Model
+Applier
+
+Eqv
+
+-
+
+-
+
+Eqv
+
+N/A
+
+CASE Ultra
+
+-
+
+Eqv
+
+Eqv
+
+Eqv
+
++
+
+Overall Expert
+Prediction
+
+-
+
+-
+
+-
+
+Eqv
+
++
+
+GS441 524 is predicted to be positive for gall bladder disorders and equivocal for bile duct disorders.
+GS441 524 is predicted to be negative for liver damage, liver enzyme abnormality, and cholestasis. The
+positive alert by CU for gall bladder disorders and the equ ivocal alerts for liver enzyme abnormality,
+cholestasis and bile duct disorders are due to a fragment of the adenine moiety. These alerts identifying
+the adenine group are also present in the endogenous substance adenosine; however, many compounds
+closely related to GS441 524 contain the adenine group and can be shown to be hepatotoxic (see
+structural similarity assessment below). Likewise, the equivocal alerts by LMA for liver damage and bile
+duct disorders identify a fragment of the ribose moiety, which is also present in adenosine triphosphate.
+All structural alerts are highlighted in red and unknown fragments highlighted in blue in the table below .
+
+13
+
+Reference ID 4652285
+
+/-. . 111
+
+~,./-
+
+(
+
+U.S. FOOD & DRUG
+ADMIN I STRATION
+
+Structural Alerts
+Endpoint
+
+CU Alerts
+
+LMA Alerts
+HO
+
+HO
+
+\ ......
+NIA
+
+Liver Damage
+
+HO
+I
+
+OH
+
+'''··..
+
+Liver Enzyme
+Abnormality;
+
+OHN~
+
+N/A
+
+w· · , ,~
+I /;
+NH2
+
+Cholestasis
+
+HO
+I
+
+OH
+
+'''•-. .
+
+Bile Duct Disorders
+
+HO
+
+I''•,...
+
+OHN
+~
+
+l''•,..
+Gall bladder
+disorders
+
+OHN~
+
+·~
+
+'w"O-ZH,
+HO
+
+OH
+
+11 ,, I /;
+
+NH2
+
+N
+
+OH
+OHN
+
+~
+
+NIA
+
+w'O-zH,
+
+Renal toxici~ (Q}SAR Predictions
+
+Software
+
+Bladder
+Disorder
+
+Blood
+in
+Urine
+
+Kidney
+NephroRenal
+Function
+Urolithiasis
+pathies Disorder
+Tests
+
+NSA
+
+Derek Nexus
+Leadscope Model
+Applier
+
+-
+
+-
+
+-
+
+NC
+
+-
+
+-
+
+CASE Ultra
+
+NC
+
+NC
+
+NC
+
+NC
+
+NC
+
+NC
+14
+
+Reference ID 4652285
+
+/-. . 111
+
+~,./-
+
+(
+
+U.S. FOOD & DRUG
+ADMIN I STRATION
+
+Ove rall Ex pert
+Predictio n
+
+I
+
+NC
+
+_
+
+GS441 524 is predicted to be negative for bladder disorder, blood in urine, kidney function tests, renal
+disorder and urolithiasis. No prediction could be made for nephropathy.
+Chemical 4: Cyclodextrin Excipient
+
+Hepatotoxicitv (Q)SAR Predictions
+
+Software
+
+Liver
+Damage
+
+Liver
+Enzyme
+Abnormality
+
+Derek Nexus
+
+Cholestasis
+
+Bile Duct
+Disorders
+
+Gall
+Bladde r
+Disorders
+
+NSA
+
+Leadscope Model
+Aoolier
+
++
+
++
+
++
+
++
+
+N/A
+
+CASE Ultra
+
++
+
+Eqv
+
+-
+
+Eqv
+
+Eqv
+
+Overall Ex pert
+Prediction
+
+-
+
+-
+
+-
+
+-
+
+NC
+
+Cyclodextrin excipie nt is predicted to be negative for liver damage, liver enzyme abnormality,
+cholestasis, and bile duct disorders. No prediction can be made for gall bladder disorders. The positive
+predictions for LMA and CU are due to the presence of the g lucopyran moiety. This is a relatively nonspecific alert which identifies most glycosides. Hepatotoxic compounds containing this structure include
+the aminoglycoside and macrolide antibiotics, which cyc lodextrin excipient does not resemble due to
+size and charge. These predictions are downgraded to negative. The equivocal predictions for CU are for
+fragments too small to be useful. These pred ictions are downgraded to negative as well.
+
+15
+
+Reference ID 4652285
+
+Structural Alerts
+Endpoint
+
+CU Alerts
+
+LMA Alerts
+
+OR
+
+OR
+OR
+
+RO
+
+OR
+
+RO
+R
+
+RO
+
+R
+RO
+
+O
+O
+
+O
+O
+
+O
+
+O
+
+O
+OR
+
+RO
+
+RO
+
+OR
+
+RO
+O
+
+O
+
+O
+OR
+
+O
+OR
+
+OR
+
+RO
+
+RO
+O
+
+Liver Damage
+
+O
+
+R=
+
+S
+
+RO
+
+OR
+
+O
+
+O
+O
+
+O
+OR
+
+OR
+
+RO
+
+RO
+
+O
+
+O
+
+OH
+
+7
+
+O
+
+O
+
+OH
+
+7
+
+O
+RO
+
+OR
+
+RO
+
+R=
+
+H
+
+RO
+
+14
+
+OR
+
+RO
+
+O
+
+R=
+
+H
+
+14
+
+O
+OR
+
+O
+
+OR
+
+O
+
+RO
+
+RO
+OR
+
+OR
+
+OR
+
+OR
+OR
+
+RO
+
+OR
+
+RO
+R
+
+R
+RO
+
+O
+O
+
+O
+O
+
+O
+
+O
+
+O
+
+O
+OR
+
+RO
+
+Liver Enzyme
+Abnormality
+
+S
+O
+
+O
+
+RO
+RO
+
+RO
+
+R=
+
+RO
+
+RO
+
+RO
+
+OR
+
+RO
+
+O
+
+O
+R
+
+OR
+
+OR
+
+RO
+
+RO
+O
+O
+
+R=
+
+S
+
+O
+
+RO
+
+OR
+
+O
+
+O
+O
+
+O
+R
+
+OR
+
+RO
+
+RO
+
+O
+
+O
+
+OH
+
+7
+
+R=
+
+S
+O
+
+O
+O
+
+O
+
+OH
+
+RO
+
+RO
+
+7
+
+O
+
+RO
+
+RO
+
+RO
+
+OR
+
+RO
+
+R=
+
+H
+
+RO
+
+14
+
+OR
+
+RO
+
+R=
+
+H
+
+14
+
+O
+OR
+
+O
+
+OR
+
+O
+
+RO
+
+RO
+OR
+
+OR
+
+OR
+OR
+
+RO
+O
+RO
+
+OR
+
+O
+O
+O
+OR
+
+RO
+
+RO
+O
+
+Cholestasis
+
+RO
+
+OR
+
+O
+
+O
+R
+
+O
+
+N/A
+
+OR
+
+R=
+
+S
+
+OH
+
+RO
+O
+
+O
+
+RO
+O
+
+7
+
+O
+RO
+
+RO
+
+OR
+
+RO
+
+R=
+
+H
+
+14
+
+O
+OR
+
+O
+
+RO
+OR
+
+OR
+
+OR
+OR
+
+RO
+
+OR
+
+RO
+OR
+
+RO
+
+OR
+RO
+
+O
+
+O
+
+O
+OR
+
+RO
+
+RO
+
+OR
+
+RO
+O
+
+O
+
+O
+R
+
+O
+OR
+
+OR
+
+RO
+
+RO
+O
+
+Bile Duct Disorders
+
+O
+
+R=
+
+S
+
+RO
+
+OR
+
+O
+
+O
+O
+
+O
+R
+
+OR
+
+RO
+
+RO
+
+O
+
+O
+
+OH
+
+7
+
+R=
+
+S
+O
+
+O
+O
+
+O
+
+OH
+
+RO
+
+RO
+
+7
+
+O
+
+RO
+
+RO
+
+RO
+
+OR
+
+RO
+
+R=
+
+H
+
+RO
+
+14
+
+O
+
+OR
+
+RO
+
+R=
+
+H
+
+14
+
+O
+OR
+
+O
+
+O
+
+RO
+
+OR
+
+RO
+OR
+
+OR
+
+OR
+OR
+
+RO
+O
+RO
+
+OR
+
+O
+O
+
+O
+O
+OR
+
+RO
+
+Gall bladder
+disorders
+
+RO
+O
+
+RO
+
+OR
+
+O
+
+O
+OR
+
+O
+OR
+
+R=
+
+OH
+
+RO
+O
+
+O
+
+RO
+O
+
+7
+
+N/A
+
+O
+RO
+
+RO
+
+OR
+
+RO
+
+R=
+
+H
+
+14
+
+O
+OR
+
+O
+
+O
+
+RO
+OR
+
+16
+
+Reference ID: 4652285
+
+/-. . 111
+
+~,./-
+
+(
+
+U.S. FOOD & DRUG
+ADMIN I STRATION
+
+Renal toxic ity (Q)SAR Predictions
+Bladder
+Disorders
+
+Software
+
+Blood
+in
+Urine
+
+Kidney
+Function
+Tests
+
+Derek Nexus
+
+Nephrop at hies
+
+Renal
+Disorder
+
+Urolit hiasis
+
+NSA
+
+-
+
+--
+
+-
+
+-
+
+.~
+
+Leadscope
+Model Applier
+
+-
+
+Eqv
+
++
+
++
+
++
+
+Eqv
+
+CASE Ultra
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+Overall Expert
+Predictions
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+Cyclodextrin excipient is predicted to be negative for bladder disorders, blood in urine, kidney function
+tests, nephropathies, renal disorder and urolithiasis. The positive and equivocal pred ictions for LMA are
+due to the presence of the glucopyran moiety. This is a relatively non-specific alert which identifies most
+glycosides. Nephrotoxic compounds containing this structure include the aminoglycoside antibiotics, which
+cyc lodext rin excipient does not resemble due to size and charge. These pred ictions are downgraded to
+negative.
+Structural Alerts
+Endpoint
+Blood in Urine;
+Kidney Function Tests;
+Nephropathies;
+Renal Disorder;
+Urolit hiasis
+
+LMA Alerts
+
+~
+
+~j(·
+
+·· [~~].
+•· I • I.
+
+A.
+
+Structural Similarity Assessment of Remdesivir (API), Remdesivir triphosphate, and GS-441 524 to
+Ot her Drugs
+Remdesivir is a nucleotide analog. The following table lists adenosine and guanosine analogs that are
+structurally similar to remdesivir and GS-441524 from a class standpoint. The activity scores are given for
+the models in which the compounds are included in the training set.
+
+17
+
+Reference ID 4652285
+
+/-. . 111
+
+~,./-
+
+(
+
+U.S. FOOD & DRUG
+ADMIN I STRATION
+
+GS-441524
+
+Remdesivir API
+Model Trainin Set Activities 2
+
+He
+
+Chemical
+
+OH
+
+Liver
+Enzyme
+Ab norm
+
+N/A
+
+Cholestasis
+
+Bile Duct
+Disorder
+
+Gall
+Bladder
+Disorder
+
+N/A
+
+N/A
+
+N/A
+
+~O, ~N
+
+ow·l ( 'N~O
+OH
+
+NH2
+
+Ribavirin
+
+0
+
+H~~;
+OH
+~. .JlN 0 I
+N
+' ·O""
+
+N/A
+
+Didanosine
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+Entecavir
+
+[>-NH
+
+N
+
+u-~,,
+
+OH
+
+Nr, Q . , /
+Abacavir
+
+2 N = Negative in clinical exRerience~
+
+; N/A =No clinical information available.
+
+18
+
+Reference ID 4652285
+
+/-. . 111
+
+~,./-
+
+(
+
+U.S. FOOD & DRUG
+ADMIN I STRATION
+
+N/A
+
+Ganciclovir
+
+N/A
+
+Fludarabine
+Renal Toxicit Model Trainin Set Activities 2
+Kidney
+Renal
+Urolithia
+Bladder Blood in Function NephroDisorder
+Urine
+Tests
+athies
+Disorder
+sis
+
+Chemical
+OH
+
+rN
+
+\_.o,
+
+ow·l ( 'N~O
+OH
+
+N
+
+N
+
+N
+
+N
+
+N
+
+N
+
+NH2
+
+Ribavirin
+
+Didanosine
+NH2
+
+X
+
+('
+
+HO)O'f N
+
+N
+
+N_j(CI
+
+HD'°'--\
+Clofarabine
+
+19
+
+Reference ID 4652285
+
+/-. . 111
+
+~,./-
+
+(
+
+U.S. FOOD & DRUG
+ADMIN I STRATION
+
+0
+
+:XN
+ti
+
+NH
+NH2A N
+
+"
+
+~
+
+N
+
+N
+
+N
+
+N
+
+N
+
+N
+
+N
+
+N
+
+N
+
+N
+
+N
+
+O)=(/OH
+Entecavir
+
+[>-NH
+
+N
+
+QJ,,Q . ,,/OH
+
+Nr ,
+
+Abacavir
+
+0
+
+NH
+
+:XN
+
+~
+
+NH AN
+2
+
+N
+
+'-o
+
+bH
+Ganciclovir
+
+Conclusions
+While it appears possible that remdesivir, remdesivir triphosphate, or GS441524 may have significant
+hepatic toxicity, other factors should be considered. While remdesivir is predicted to be hepatotoxic due
+to the organophosphate moiety, this is mostly based on animal studies. There is limited evidence that this
+toxicity is significant clinically [Arao T, 2002]. Furthermore, remdesivir is rapidly metabolized to its active
+monophosphate form [Warren et al. 2016] and therefore the organophosphate moiety is unlikely to be an
+issue. Remdesivir triphosphate was predicted to be positive for gall bladder disorders and equ ivocal for
+cholestasis and bile duct disorders. GS441524 was pred icted to be positive for gall bladder disorders and
+equivocal for bile duct disorders. The alerting fragments for hepatotoxicity found in remdesivir,
+remdesivir triphosphate, and GS441524, are identical to groups found in the endogenous compounds
+adenosine monophosphate, adenosine triphosphate, and adenosine, respectively. The nitrile groupwhich is the main difference between remdesivir, remdesivir triphosphate, and GS441 524-was either
+flagged as unknown to the model or was not detected as an alerting fragment. While these observations
+may seem to be deficiencies in the models, there are other compounds identified by these alerts,
+particularly fludarabine and clofarabine, which are structurally similar to GS441 524 and which have
+evidence of hepatotoxicity in their drug labels; therefore, the alerts should be taken seriously. In all models
+of nephrotoxicity, remdesivir, remdesivir triphosphate, and GS441524 were either predicted as
+negative or no prediction was possible. It should be noted however that several closely related
+compounds, particularly clofarabine and ganciclovir, have clinically sign ificant nephrotoxicity as
+documented in their drug labels.
+20
+
+Reference ID 4652285
+
+Considering the unusual nature and high concentration of the cyclodextrin excipient present in the
+formulation, this compound was also evaluated for hepatotoxicity and nephrotoxicity. However, no
+evidence for toxicity at these endpoints was found.
+Overall, the results identified some possible associations between structural attributes of remdesivir,
+remdesivir triphosphate, or GS-441524 and liver/kidney toxicities, but they did not conclusively predict
+these effects.
+
+References
+
+Arao T, Fuke C, Takaesu H, Morinaga Y, Miazakai T. A case of fatal trichlorfon and methidathion
+poisoning. Legal Medicine 4:182-186 (2002).
+Warren TK, Jordan R et al. Therapeutic efficacy of the small molecule GS-5734 against Ebola virus in
+rhesus monkeys. Nature 531:381-285 (2016).
+
+21
+
+Reference ID: 4652285
+
+Signature Page 1 of 1
+
+-------------------------------------------------------------------------------------------This is a representation of an electronic record that was signed
+electronically. Following this are manifestations of any and all
+electronic signatures for this electronic record.
+-------------------------------------------------------------------------------------------/s/
+-----------------------------------------------------------TRACEY B LEE
+08/05/2020 03:17:57 PM
+JAMES L WEAVER
+08/06/2020 10:35:50 AM
+DAVID G STRAUSS
+09/22/2020 05:15:56 PM
+
+Reference ID: 4652285
+
+Office of Clinical Pharmacology Review
+NDA or BLA Number
+
+214787
+
+Link to EDR
+Submission Date
+
+DocuBridge
+8/7/2020 (Final tier of rolling submission, SDN
+20)
+NME NDA
+Veklury
+Remdesivir (RDV)
+Lyophilized powder (100 mg)
+Solution (5 mg/mL)
+IV
+
+Submission Type
+Brand Name
+Generic Name
+Dosage Form and Strength
+Route of Administration
+Proposed Indication
+Applicant
+Associated IND
+OCP Review Team
+OCP Final Signatory
+
+(b) (4)
+
+Gilead
+147753 (Sponsor: Gilead)
+147771 (Sponsor: NIH)
+Mario Sampson, PharmD, Justin Earp PhD, Hao
+Zhu, PhD, Yuching Yang, PhD, Manuela
+Grimstein, PhD, Vikram Arya, PhD, FCP
+Kellie S. Reynolds, PharmD
+
+1
+
+Reference ID: 4672801
+
+Table of Contents
+1. EXECUTIVE SUMMARY..............................................................................................................................4
+1.1 Recommendations..............................................................................................................................4
+1.2 Post-Marketing Requirements and Commitments.............................................................................7
+2. SUMMARY OF CLINICAL PHARMACOLOGY ASSESSMENT.........................................................................8
+2.1 Pharmacology and Clinical Pharmacokinetics ....................................................................................8
+2.2 Dosing and Therapeutic Individualization ..........................................................................................9
+2.2.1 General dosing.............................................................................................................................9
+2.2.2 Therapeutic individualization ......................................................................................................9
+2.3 Outstanding Issues..............................................................................................................................9
+2.4 Summary of Labeling Recommendations .........................................................................................10
+3. COMPREHENSIVE CLINICAL PHARMACOLOGY REVIEW..........................................................................12
+3.1 Overview of the Product and Regulatory Background .....................................................................12
+3.2 General Pharmacology and Pharmacokinetic Characteristics ..........................................................12
+3.3 Clinical Pharmacology Review Questions .........................................................................................14
+3.3.1 To what extent does the available clinical pharmacology information provide pivotal or
+supportive evidence of effectiveness? ...............................................................................................14
+3.3.2 Is the proposed dosing regimen appropriate for the general patient population for which the
+indication is being sought? .................................................................................................................14
+3.3.3 Is an alternative dosing regimen and/or management strategy required for subpopulations
+based on intrinsic factors?..................................................................................................................18
+3.3.4 Are there clinically relevant food-drug or drug-drug interactions and what is the appropriate
+management strategy?.......................................................................................................................18
+4. APPENDICES............................................................................................................................................20
+4.1 Individual Study Reviews ..................................................................................................................20
+Human PK studies in healthy volunteers ............................................................................................20
+In vitro distribution.............................................................................................................................25
+In vitro metabolism of RDV and metabolites......................................................................................26
+In vitro studies of RDV and metabolites as a substrate of transporters.............................................27
+In vitro inhibition of CYP and non-CYP enzymes by RDV and metabolites .........................................28
+In vitro induction of CYP enzymes by RDV and metabolites...............................................................29
+In vitro inhibition of transporters by RDV and metabolites................................................................29
+Predicted clinical significance of in vitro interactions using mechanistic static equations ................31
+2
+
+Reference ID: 4672801
+
+4.2 Summary of Bioanalytical Method Validation and Performance .....................................................32
+4.3 Physiologically-based Pharmacokinetics Review..............................................................................34
+Executive Summary ....................................................................................................................................34
+Background.................................................................................................................................................34
+Methods .....................................................................................................................................................35
+Results ........................................................................................................................................................38
+Conclusions.................................................................................................................................................43
+4.4 Pharmacometrics Review .................................................................................................................44
+Summary of Pharmcometric Finding ..........................................................................................................44
+Results of Sponsors Population PK Analysis ...............................................................................................44
+
+3
+
+Reference ID: 4672801
+
+1. EXECUTIVE SUMMARY
+Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) is the virus that causes COVID-19
+disease. SARS-CoV-2 uses an RNA-dependent RNA polymerase (RdRp) for replication. Remdesivir (RDV)
+is an inhibitor of the SARS-CoV-2 RdRp.
+Phase 3 clinical studies were conducted to evaluate RDV for the treatment of COVID-19 in hospitalized
+adult patients. Pharmacokinetics of RDV and metabolites (GS-704277 and GS-441524) was not assessed
+in these trials.
+The clinical pharmacology package included the following:
+
+
+
+
+
+Studies of safety, PK, and mass balance in healthy adults.
+In vitro assessment of ADME, enzyme and transporter substrate properties of RDV and metabolites,
+inhibitory effect of RDV and metabolites on enzymes and transporters and whether RDV and
+metabolites are inducers of drug metabolizing enzymes.
+Physiologically Based Pharmacokinetic (PBPK) Modeling and Population Pharmacokinetics (PopPK)
+analysis with the objective of predicting plasma exposures of RDV and metabolites in pediatric
+patients (this review only focused on the predicted exposure in pediatric patients 12 years of age
+and older and weighing at least 40 kg).
+
+The clinical pharmacology review primarily focused on addressing the following two questions:
+1) Based on the review of the in vitro enzyme and transporter studies, is there a need to conduct in
+vivo drug-drug interaction (DDI) trials?
+2) Is the dosing regimen for pediatric patients 12 years of age and older and weighing at least 40 kg
+acceptable?
+
+1.1 Recommendations
+Review Issue
+Pivotal or
+supportive
+evidence of
+effectiveness
+
+Recommendations and Comments
+Pivotal evidence of effectiveness comes from randomized, double-blind, placebo-controlled trial
+ACTT-1, which enrolled hospitalized subjects with mild, moderate, or severe COVID-19. Subjects in
+the RDV arm received 200 mg IV on day 1 and 100 mg IV on subsequent days for a total treatment
+duration of 10 days. The median time to recovery within 28 days of randomization (primary
+endpoint) was 10 days in the RDV group vs 14 days in the placebo group (recovery rate ratio 1.31,
+95% CI 1.12 to 1.53).
+Supportive evidence comes from two open-label trials. GS-US-540-5773 evaluated hospitalized
+subjects with severe COVID-19 and GS-US-540-5774 evaluated hospitalized subjects with
+moderate COVID-19. Subjects in the RDV arm of these trials received 200 mg IV on day 1 and 100
+mg IV on subsequent days for a total treatment duration of five or 10 days.
+
+4
+
+Reference ID: 4672801
+
+General
+dosing
+instructions
+Dosing in
+patient
+subgroups
+(intrinsic and
+extrinsic
+factors)
+
+200 mg IV on day 1 and 100 mg IV daily for up to a total of 10 days. The recommended infusion
+duration is 30-120 minutes.
+Drug interactions – effect of other drugs on RDV and metabolites
+In vitro studies were conducted to evaluate RDV and metabolites as a substrate of various drug
+metabolizing enzymes and transporters as outlined in the 2020 In Vitro Drug Interaction StudiesCytochrome P450 Enzyme- and Transporter-Mediated Drug Interactions Guidance for Industry
+(referred to as the “drug interaction guidance” in the remainder of the review).
+RDV is approximately 80 % metabolized by carboxylesterases (CES) 1 and 2 with additional
+metabolism mediated by Cathepsin A (10 %) and CYP3A (10 %). RDV is a substrate of OATP1B1
+and P-gp transporters. Metabolite GS-704277 is a substrate of OATP1B1 and OATP1B3. The clinical
+relevance of these in vitro assessments has not been established.
+Drug-drug interaction trials of RDV and other concomitant medications have not been conducted,
+however, the applicant will conduct a DDI trial of RDV with rifampin (broad spectrum inducer of
+enzymes/transporters) as a Post Marketing Requirement (PMR).
+Drug Interactions – effect of RDV and metabolites on other drugs
+In vitro studies were conducted to evaluate RDV and metabolites as an inhibitor or inducer of drug
+metabolizing enzymes and as an inhibitor of transporters. Using drug interaction guidance
+recommended equations for predicting the potential for clinically significant DDIs, RDV at day 1
+Cmax (after administration of 200 mg) is a potential inhibitor of CYP3A, UGT1A1, OATP1B1,
+OATP1B3, and MATE1. However, RDV at two hours after day 1 Cmax is a potential inhibitor of only
+MATE1 and at four hours after day 1 Cmax is not a potential inhibitor of any enzymes/transporters.
+GS-704277 and GS-441524 are not expected to affect enzymes or transporters recommended for
+evaluation in the drug interaction guidance.
+Overall, due to the short term (up to 10 days) duration of RDV therapy, short duration of predicted
+effect on substrate drugs (up to four hours of a 24-hour dosing interval on Day 1), and considering
+that the inhibitory effect on UGT1A1 or MATE-1 substrates is not generally clinically significant, we
+do not recommend additional human DDI trials to evaluate the effect of RDV on other drugs.
+Renal Impairment
+The most abundant metabolite of RDV, GS-441524, is primarily renally eliminated. Structurally
+related drugs to RDV such as sofosbuvir and tenofovir alafenamide also form metabolites that are
+renally eliminated and whose plasma exposures are significantly elevated in subjects with renal
+impairment.
+The PK of RDV and metabolites have not been evaluated in subjects with chronic renal
+impairment. Subjects with creatinine clearance (calculated by Cockcroft-Gault) ≥30 mL/min were
+enrolled in Phase 3 studies; however, screening was not conducted to determine if subjects with
+creatinine clearance <90 mL/min had acute or chronic renal impairment. Further, population PK
+analyses cannot support determination of the effect of renal impairment on RDV clearance as
+subjects included in the analysis (healthy subjects) had a minimum creatinine clearance value of 87
+mL/min. There is an agreed upon PMR to conduct a renal impairment PK study in subjects with all
+categories of chronic renal impairment.
+5
+
+Reference ID: 4672801
+
+Hepatic impairment
+RDV is primarily metabolized and conversion to its metabolite(s) could potentially be reduced in
+subjects with hepatic impairment.
+The PK of RDV and metabolites have not been evaluated in subjects with hepatic impairment.
+Clinical scoring for hepatic impairment (such as Child-Pugh or MELD score) was not conducted in
+Phase 3 studies. There is an agreed upon PMR to conduct a hepatic impairment study in subjects
+with moderate and severe hepatic impairment. This PMR also includes a requirement to evaluate
+the PK of RDV and its metabolites in subjects with mild hepatic impairment depending on results in
+those with moderate and severe hepatic impairment.
+Pediatrics (≥12 years of age and weighing ≥40 kg)
+Subjects <18 years of age were not enrolled in Phase 3 studies. Approval of the adult dose for
+pediatric patients ≥12 years of age and weighing ≥40 kg is based upon model-predicted
+comparable plasma exposures of RDV, GS-704277 and GS-441524 -relative to observed plasma
+exposures in healthy adults (4.3 Physiologically-based Pharmacokinetics Review, 4.4
+Pharmacometrics Review) and safety data in lower body weight adults (40-50 kg) enrolled in Phase
+3 studies.
+There is an agreed upon PMR to conduct a pediatric study in patients aged birth to <18 years of
+age. The primary endpoint is the assessment of pharmacokinetics of RDV and metabolites in the
+various age groups.
+Other intrinsic demographic factors
+In a popPK analysis of 123 healthy adults with intensive PK, demographic and clinical
+characteristics other than body weight were not found to significantly affect exposure of RDV or
+metabolites.
+Pregnancy
+Pregnant women were not enrolled in Phase 3 studies. However, extensive use in pregnant
+women is anticipated. There are various physiological changes during pregnancy that can
+potentially affect the PK of RDV, GS-704277 and GS-441524. There is an agreed upon Post
+Marketing Commitment (PMC) to conduct a PK study in pregnant women to evaluate the
+pharmacokinetics of RDV, GS-704277 and GS-441524.
+Bridge
+between the
+to-bemarketed
+and clinical
+trial
+formulations
+
+Not applicable for an IV product. While only the lyophilized powder was evaluated in Phase 3
+studies, there is no expectation that the other IV formulation (solution) would differ in
+bioavailability.
+
+6
+
+Reference ID: 4672801
+
+1.2 Post-Marketing Requirements and Commitments
+The PMR/PMCs listed below are those agreed upon at the time of finalizing this review. See the action
+letter for the final list of PMR/PMCs.
+PMC or
+PMR
+PMR
+
+PMR
+
+Key issue(s) to
+be addressed
+Effect of
+rifampin on
+the PK of RDV
+and
+metabolites
+Renal
+impairment
+Hepatic
+impairment
+Pediatrics
+
+PMC
+
+Pregnancy
+
+PMR
+
+QT study
+
+PMR
+PMR
+
+Rationale
+
+Key considerations for design features
+-study period to evaluate the PK of RDV and metabolites after a single
+rifampin dose PK (effect of OATP inhibition)
+-study period to evaluate the PK of RDV and metabolites after multiple
+rifampin dosing (effect of CES, OATP, and/or P-gp induction)
+
+-evaluation of mild, moderate, and severe renal impairment
+-measure unbound fraction
+-evaluation of moderate and severe hepatic impairment
+-measure unbound fraction
+-enrollment of ages birth - <18 years of age
+-primary endpoint of PK
+Comparison of PK in pregnant women vs an external control. Due to RDV
+being short-term therapy, PK during the post-partum period cannot
+serve as the control.
+See QT/IRT review dated 8/21/2020 (NDA 214787)
+See
+Executive
+Summary
+
+7
+
+Reference ID: 4672801
+
+2. SUMMARY OF CLINICAL PHARMACOLOGY ASSESSMENT
+2.1 Pharmacology and Clinical Pharmacokinetics
+The PK properties of RDV and metabolites in healthy adult subjects are provided in Table 1.
+Table 1. Pharmacokinetic properties of RDV and metabolites (GS-441524 and GS-704277) in healthy
+adult subjects.
+Absorption
+Tmax (h)a
+Distribution
+% bound to human plasma
+proteins
+Blood-to-plasma ratio
+Elimination
+t1/2 (h)c
+Metabolism
+Metabolic pathway(s)
+Excretion
+Major route of elimination
+% of dose excreted in
+urined
+% of dose excreted in
+fecesd
+
+RDV
+
+GS-441524
+
+GS-704277
+
+0.67-0.68
+
+1.51-2.00
+
+0.75-0.75
+
+88-93.6b
+
+2
+
+1
+
+0.68-1.0
+
+1.19
+
+0.56
+
+1
+
+27
+
+1.3
+
+CES1 (80%)
+Cathepsin A (10%)
+CYP3A (10%)
+
+Not significantly
+metabolized
+
+HINT1
+
+Metabolism
+
+Glomerular filtration
+and active tubular
+Metabolism
+secretion
+
+10
+
+49
+
+2.9
+
+ND
+
+0.5
+
+ND
+
+HINT1 = Histidine triad nucleotide-binding protein 1, also known as adenosine 5'-monophosphoramidase. ND=not
+detected.
+a.
+
+RDV administered as a 30-minute IV infusion (Study GS-US-399-5505); range of median observed on Day 1 and
+Day 5 or 10.
+
+b.
+
+Range of protein binding for remdesivir from 2 independent experiments show no evidence of concentrationdependent protein binding for RDV.
+
+c.
+
+Median (Study GS-US-399-4231).
+
+d.
+
+Mean (Study GS-US-399-4231).
+
+8
+
+Reference ID: 4672801
+
+2.2 Dosing and Therapeutic Individualization
+2.2.1 General dosing
+The recommended RDV dosing regimen was determined to be effective vs placebo in hospitalized
+subjects with mild, moderate, and severe COVID-19 in Phase 3 trial ACTT-1 (see 3.3.2).
+2.2.2 Therapeutic individualization
+For patients with renal or hepatic impairment and pregnant women, PK data are unavailable to inform
+the need for dose adjustment and PK will be evaluated in these populations as part of PMR (in subjects
+with renal and hepatic impairment) and PMC (in pregnant women).
+In a popPK analysis of 123 healthy adults with intensive PK, demographic and clinical characteristics
+other than body weight were not found to significantly affect exposure of RDV or metabolites. While
+there is an effect of body weight on RDV and metabolites exposure, the recommended dosing regimen
+applies to all patients ≥40 kg.
+
+2.3 Outstanding Issues
+None.
+
+9
+
+Reference ID: 4672801
+
+2.4 Summary of Labeling Recommendations
+Changes to clinical pharmacology-related labeling statements are summarized below (Table 2). “Final labeling language” in Table 2 refers to
+labeling changes agreed upon with the Applicant as of the date this review is finalized. See approved labeling for the most current labeling.
+Table 2. Summary of changes to clinical pharmacology-related labeling.
+Section(s)
+
+Topic
+
+Applicant’s initial labeling
+
+Final labeling language
+
+7
+12.3
+
+Effect of other
+drugs on RDV
+and
+metabolites
+and the effect
+of RDV on
+other drugs
+
+Drug-drug interaction studies have not been
+performed with VEKLURY.
+
+Clinical drug-drug interaction studies have not
+been performed with VEKLURY.
+
+(b) (4)
+
+In vitro, remdesivir is a substrate for drug
+metabolizing enzyme CYP3A4, and is a substrate
+for Organic Anion Transporting Polypeptides 1B1
+(OATP1B1) and P-glycoprotein (P-gp) transporters.
+In vitro, remdesivir is an inhibitor of CYP3A4,
+OATP1B1, OATP1B3, and MATE1. GS-704277 is a
+substrate for OATP1B1 and OATP1B3. The clinical
+relevance of these in vitro assessments has not
+been established.
+Remdesivir is not a substrate for CYP1A1, 1A2, 2B6,
+2C9, 2C19, (b) (4) or OATP1B3. GS-704277 and GS441524 are not substrates for CYP1A1, 1A2, 2B6,
+2C8, 2C9, 2D6, or 3A5. GS-441524 is also not a
+substrate for CYP2C19 or 3A4. GS-704277 and GS
+441524 are not substrates for OAT1, OAT3, OCT1,
+OCT2, MATE1, or MATE2K. GS 441524 is also not a
+substrate for OATP1B1 or OATP1B3.
+
+12.3
+
+Intrinsic
+factors
+
+Pharmacokinetic differences based on sex,
+race, age, renal function and hepatic
+function on the exposures of remdesivir
+have not been evaluated.
+
+No change.
+
+10
+
+Reference ID: 4672801
+
+Notes / Rationale for differences
+between initial labeling and final
+labeling language
+Text was initially present in section 7.
+Due to clinical significance not been
+established, the text was moved to
+section 12.3.
+We requested addition of pathways
+metabolites are a substrate of as well
+as pathways where RDV or
+metabolites are not a substrate.
+Note there are other
+enzymes/transporters that were
+evaluated in in vitro studies (such as
+non-CYP enzymes and certain
+transporters not mentioned in the
+drug interaction guidance (such as
+MRP, BSEP, etc). The
+enzymes/transporters listed in
+labeling are those recommended for
+routine evaluation according to FDA
+guidance.
+
+Pediatrics (≥12
+years of age
+and weighing
+≥40 kg)
+
+12.2
+
+(b) (4)
+
+Effect on QT
+interval
+
+(b) (4)
+
+Using modeling and simulation, the recommended
+dosing regimen is expected to result in comparable
+steady-state plasma exposures of remdesivir and
+metabolites in patients 12 years of age and older
+and weighing at least 40 kg as observed in healthy
+adults. [see Use in Specific Populations (8.4)].
+
+(b) (4)
+Removed
+Described analyses as
+“modeling and simulation” because
+two approaches (PBPK and popPK)
+were used.
+
+Paragraph deleted.
+
+The Applicant’s RDV concentrationQT analysis of PK data from Phase 1
+PK studies could not exclude the
+possibility of small increases in the
+QTc interval. There is an agreed upon
+PMR to conduct a thorough QT study
+(b) (4)
+using a
+dose. The
+QT study will be conducted (b) (4)
+
+.
+
+12.2
+
+Exposureresponse
+
+Not discussed.
+
+Remdesivir and metabolites exposure-response
+relationships and the time course of
+pharmacodynamics response is unknown.
+
+11
+
+Reference ID: 4672801
+
+(NDA 214787,
+QT/IRT review dated 8/21/2020).
+Per regulations, lack of exposureresponse information should be
+described in labeling.
+
+3. COMPREHENSIVE CLINICAL PHARMACOLOGY REVIEW
+3.1 Overview of the Product and Regulatory Background
+RDV was initially developed for treatment of Ebola and was subsequently evaluated for treatment of
+COVID-19. The pivotal trial supporting approval for treatment of COVID-19 in hospitalized patients is
+randomized, double-blind, placebo-controlled trial ACTT-1, with supportive evidence from open-label
+trials GS-US-540-5773 and GS-US-540-5774.
+
+
+
+
+
+The clinical pharmacology package included the following: Studies of safety, PK, and mass balance in
+healthy adults.
+In vitro assessment of ADME, enzyme and transporter substrate properties of RDV and metabolites,
+inhibitory effect of RDV and metabolites on enzymes and transporters and whether RDV and
+metabolites are inducers of drug metabolizing enzymes.
+Physiologically Based Pharmacokinetic (PBPK) Modeling and Population Pharmacokinetics (popPK
+analysis with the objective of predicting plasma exposures of RDV and metabolites in pediatric
+patients (this review only focused on the predicted data from pediatric patients 12 years of age and
+older and weighing at least 40 kg).
+
+3.2 General Pharmacology and Pharmacokinetic Characteristics
+RDV is a prodrug which requires hydrolytic cleavage prior to phosphorylation to the active triphosphate
+derivative (GS-443902). After administration of RDV to humans, moieties circulating in plasma include
+RDV and major inactive metabolites GS-441524 and GS-704277 (Figure 1).
+Based on calculated logD values, RDV is thought to passively enter cells with greater efficiency than GS441524 and the double-anion GS-704277. Once inside the cell, RDV is primarily metabolized to GS704277 by carboxylesterases (CES). CES1 is expressed in numerous human tissues, with greatest
+expression in liver, gallbladder and lung. CES expression in blood is relatively low. Intracellular GS704277 is converted to GS-441524-monophosphate, which is phosphorylated to the active triphosphate
+GS-443902 or dephosphorylated to GS-441524 (Figure 2).
+
+12
+
+Reference ID: 4672801
+
+Figure 1. Applicant’s proposed metabolic scheme for RDV (GS-5734).
+
+Source: GS-US-399-4231. Note GS-704277 is also detected in plasma.
+Figure 2. Applicant’s proposed intracellular metabolic scheme for RDV (GS-5734).
+
+Source: PK Written Summary.
+13
+
+Reference ID: 4672801
+
+PK of RDV and metabolites was not evaluated in Phase 3 studies of subjects hospitalized with COVID-19.
+The single and multiple dose PK parameters of RDV and metabolites in healthy adults administered RDV
+for five or 10 days are provided in Table 3.
+Table 3. Mean (CV%) multiple dose PK parametersa of RDV and metabolites (GS-441524 and GS-704277)
+in plasma following IV administration of RDV 200 mg on day 1 and RDV 100 mg on subsequent days to
+healthy adults (n=28) in study GS-US-399-5505.
+RDV
+GS-441524
+GS-704277
+Day
+1
+5 or 10
+1
+5 or 10
+1
+5 or 10
+Cmax (ng/mL)
+4378 (23.5) 2229 (19.2)
+143 (21.5)
+145 (19.3)
+370 (29.3)
+245 (33.9)
+AUCb (ng•h/mL)
+2863 (18.6) 1585 (16.6)
+2191 (19.1)
+2229 (18.4)
+698 (25.9)
+462 (31.4)
+c
+c
+Ctrough (ng/mL)
+ND
+64.8 (20.8)
+69.2 (18.2)
+ND
+Source: Prepared by reviewer from GS-US-399-5505. Treatment duration was five days in cohort 1 and
+10 days in cohort 2. CV=Coefficient of Variation.
+a. RDV administered as a 30 minute IV infusion
+b. AUC0-24h on day 1; AUCtau on days 5 or 10.
+c. ND=Not detectable (at 24 hours post-dose). In human plasma, RDV and GS-704277 are detected for
+up to six hours and eight hours post-dose.
+
+3.3 Clinical Pharmacology Review Questions
+3.3.1 To what extent does the available clinical pharmacology information provide pivotal or
+supportive evidence of effectiveness?
+The recommended RDV dosing regimen was determined to be effective vs placebo in hospitalized
+subjects with mild, moderate, and severe COVID-19 in Phase 3 trial ACTT-1. The median time to recovery
+within 28 days of randomization (primary endpoint) was 10 days in the RDV group vs 14 days in the
+placebo group (recovery rate ratio 1.31, 95% CI 1.12 to 1.53). PK of RDV and metabolites was not
+evaluated in this trial, thus exposure-response relationships are unknown.
+3.3.2 Is the proposed dosing regimen appropriate for the general patient population for which
+the indication is being sought?
+Yes. The indication includes adults (included in Phase 3 studies) as well as adolescents 12 - <18 years of
+age and weighing ≥40 kg (not included in Phase 3 studies). Efficacy and safety of RDV in hospitalized
+adults weighing ≥40 kg with COVID-19 was demonstrated vs placebo in Phase 3 trial ACTT-1.
+The dosing regimen evaluated in ACTT-1 study was the same as that evaluated in a prior clinical trial for
+treatment of Ebola (200 mg on day 1 and 100 mg on subsequent days). Due to LFT elevations observed
+in healthy adult study GS-US-399-5505 (RDV administered 200 mg on day 1 and 100 mg daily for four or
+nine days), it may not be possible to further increase the RDV IV dose beyond 200 mg on day 1 and 100
+mg on subsequent days.
+
+14
+
+Reference ID: 4672801
+
+Adolescents
+Extrapolation of efficacy is the approach used to support approval in adolescents 12 - <18 years of age
+and weighing ≥40 kg. Physiologically-based PK modeling (PBPK) and population PK modeling were used
+to predict exposures in patients 12 - <18 years of age and weighing ≥40 kg. PBPK accounts for agedependent physiological changes, drug-specific physicochemical properties, and utilized observed PK
+data in healthy adults to predict plasma exposures in patients 12 - <18 years of age and weighing ≥40 kg.
+Population PK modeling used observed PK data in healthy adults (median [range] body weight of 77 kg
+[53, 101]) and allometric scaling to predict exposures in patients ≥40 kg. The recommended RDV dosing
+regimen is predicted to result in comparable plasma exposures of RDV, GS-704277 and GS-441524
+across the weight range of 40-80 kg (Figure 3, Figure 4, Figure 5) (4.3 Physiologically-based
+Pharmacokinetics Review, 4.4 Pharmacometrics Review). The body weight range of 40-80 kg includes
+body weights typical for patients 12 - <18 years of age as well as adults. According to the Clinical review
+team, acceptable safety was observed in the general adult population enrolled in ACTT-1 as well as
+adults with a relatively low body weight (40-50 kg, n=30).
+
+15
+
+Reference ID: 4672801
+
+Figure 3. RDV, GS-441524, and GS-704277 Cmax in patients 12 - <18 years of age and weighing ≥40 kg
+(model-predicted) and in healthy adults (observed).
+
+Source:
+2020-1045. Blue = popPK: median simulated exposure using allometric scaling. Black =
+PBPK: Lowess smoother line of predicted exposure. Gray = adult reference: minimum, median,
+maximum observed exposure in healthy adults given 200 mg IV (day 1) or 100 mg daily (day 5). Red =
+adult maximum: value observed in adults administered 150 mg IV daily in study GS-US-399-1954 .
+(b) (4)
+
+16
+
+Reference ID: 4672801
+
+Figure 4. RDV, GS-441524, and GS-704277 AUC in patients 12 - <18 years of age and weighing ≥40 kg
+(model-predicted) and in healthy adults (observed).
+
+Source:
+2020-1045. Blue = popPK: median simulated exposure using allometric scaling. Black =
+PBPK: Lowess smoother line of predicted exposure. Gray = adult reference: minimum, median,
+maximum observed exposure in healthy adults given 200 mg IV (day 1) or 100 mg daily (day 5). Red =
+adult maximum: value observed in adults administered 150 mg IV daily in study GS-US-399-1954.
+(b) (4)
+
+17
+
+Reference ID: 4672801
+
+Figure 5. GS-441524 Ctau in patients 12 - <18 years of age and weighing ≥40 kg (model-predicted) and in
+healthy adults (observed).
+
+Source:
+2020-1045. Blue = popPK: median simulated exposure using allometric scaling. Black =
+PBPK: Lowess smoother line of predicted exposure. Gray = adult reference: minimum, median,
+maximum observed exposure in healthy adults given 200 mg IV (day 1) or 100 mg daily (day 5). Red =
+adult maximum: value observed in adults administered 150 mg IV daily.
+(b) (4)
+
+3.3.3 Is an alternative dosing regimen and/or management strategy required for
+subpopulations based on intrinsic factors?
+Based on available data, there are no subpopulations requiring an alternative dosing regimen or
+management strategy. However, there are pending studies which will evaluate the impact of renal
+impairment, hepatic impairment, and pregnancy on the PK of RDV and metabolites (see
+
+1.2 Post-Marketing Requirements and Commitments and 2.2.2 Therapeutic individualization).
+3.3.4 Are there clinically relevant food-drug or drug-drug interactions and what is the
+appropriate management strategy?
+As RDV is administered IV, food-drug interactions are not applicable.
+Currently, there are no established or expected clinically significant PK-based DDIs associated with RDV.
+Coadministration of RDV with chloroquine phosphate or hydroxychloroquine sulfate is not
+recommended. As described in the Warning and Precautions and Microbiology sections of labeling, the
+in vitro antiviral activity of RDV was antagonized by chloroquine phosphate. In cell culture, higher
+remdesivir EC50 values were observed with increasing concentrations of chloroquine phosphate.
+Increasing concentrations of chloroquine phosphate reduced formation of remdesivir triphosphate in
+normal human bronchial epithelial cells See labeling or the Clinical Virology review for more details.
+18
+
+Reference ID: 4672801
+
+Effect of other drugs on RDV and metabolites
+RDV and metabolites were evaluated in vitro as substrates of drug interaction guidance-recommended
+CYP enzymes and transporters. RDV is primarily metabolized by non-CYP enzymes and GS-441524 is not
+CYP metabolized. GS-704277 is a substrate of CYP3A4 and possibly CYP2C19. RDV is a substrate of
+OATP1B1 and P-gp transporters and GS-704277 is a substrate of OATP1B1 and OATP1B3 transporters.
+The clinical relevance of these in vitro assessments has not been established.
+Due to its moderate to high extraction ratio of 0.6-0.8, it is unlikely that exposures of RDV or metabolites
+will be significantly affected by inhibitors of CES, CYP3A4, OATP, or P-gp. However, there is an agreed
+upon PMR for the Applicant to conduct a drug interaction trial of RDV coadministered with rifampin
+(broad spectrum inducer of enzymes/transporters).
+Effect of RDV and metabolites on other drugs
+In vitro studies recommended in the drug interaction guidance were conducted to evaluate RDV and
+metabolites as inhibitor of CYP enzymes and transporters, and for RDV as an inducer of CYP enzymes. Pgp inhibition by metabolites was not evaluated due to metabolites being more polar than parent drug (a
+rationale stated in FDA guidance). Nevertheless, the Applicant plans to conduct a study of P-gp
+inhibition by metabolites.
+Where in vitro data suggested the need for follow up evaluations, drug interaction guidancerecommended equations were used to evaluate the potential for a clinically significant DDI. Using RDV
+day 1 (200 mg) or maintenance dose (100 mg) Cmax, RDV is predicted to be an inhibitor of CYP3A,
+UGT1A1, OATP1B1, OATP1B3, and MATE1 (Table 4). However, by two hours after day 1 Cmax, inhibition
+of only MATE1 is predicted and by four hours after day 1 Cmax, no inhibition of any enzymes/transporters
+is predicted.
+
+19
+
+Reference ID: 4672801
+
+Table 4. Predicted inhibit ion of enzymes/ transporters by RDV using basic and/ or mechanistic static
+models.
+
+Model
+
+RDV concentration
+
+CYP3A
+
+1 +(Imax,u I K.1,u )
+
+C
+
+CYP3A
+
+Mechanistic
+static (AUCR)
+
+UGT1A1
+
+1 +(I
+
+UGT1A1
+
+Mechanistic
+static (AUCR)
+
+max,u
+
+I K.1,u )
+
+OATP1B1
+OATP1B3
+
+I
+
+max,u
+
+/ IC
+
+II
+
+Calculated value
+
+~1.02
+
+1.75
+
+cmax (200 mg) I cmax (100
+mg) I c
+avg
+
+~1.25
+
+1.62 I 1.33 I 1.02
+
+C
+
+~1.02
+
+1.98
+
+~1.25
+
+1.65 I 1.36 I 1.02
+
+~1.1
+
+1.19 I 1.098 I 1.01
+
+~1.1
+
+1.26 I 1.13 I 1.01
+
+~0.1
+
+o.31 I 0.16 I 0.01
+
+max
+
+max
+
+(200 mg)
+
+(200 mg)
+
+cmax (200 mg) I cmax (100
+mg) I c
+avg
+
+50,u
+
+MATEl
+
+Source: Prepared by rev iewer from AD-540-2024. 200 mg = Day 1 RDV loading dose; 100 mg= maintenance dose;
+AUCR = subst rate AUC rat io. Calculat ions fo r negative int eract ions with ot her pathways not shown.
+
+Using drug interaction guidance criteria, human DDI studies or PBPK modeling should be considered to
+determine the effect of RDV on substrates of CYP3A, UGTlAl, OATPlBl, OATP1B3, and MATEl. Based
+on the following considerations, the review team does not recommend additional human DDI t rials:
+•
+•
+•
+
+Short term (up to 10 days) duration of RDV therapy.
+Short duration of predicted effect on substrate drugs (up to four hours of a 24-hour dosing
+interval on day 1), and
+Typically clinically insignificant DOis for UGT or MATE-1 substrates.
+
+4. APPENDICES
+4.1 Individual Study Reviews
+Human PK studies in healthy volunteers
+Single and Multiple Ascending Dose
+Study GS-US-399-1812 is a single ascending dose study to evaluate the safety and PK of IV remdesivir in
+healthy adu lts. Ninety-six subjects w ere enrolled (78 received remdesivir and 18 received placebo).
+Subjects w ere predominantly of w hite race (89%) and male (58%) .
+Cohorts 1-6 included dosing groups of 3, 10, 30, 75, 150 and 225 mg (N=8 active, N=2 placebo per group)
+where the solution formulation w as infused over t w o hours. Cohorts 7-9 (N=l O active, N=2 placebo per
+20
+
+Reference ID 4672801
+
+group) evaluated the lyophilized formulation at different doses and infusion durations (Cohort 7: 75 mg
+over two hours; Cohort 8: 150 mg over two hours; Cohort 9: 75 mg over 30 minutes).
+Samples were collected from various matrices for measurement of remdesivir and metabolites:
+
+
+
+
+
+Plasma: intensive collection through 144 hours post-dose
+PBMCs: 12-24 hour intervals through 144 hours post-dose
+Urine: 6-12 hour intervals through 48 hours post-dose
+Semen: collected in male subjects pre-dose or three hours post-dose
+
+Plasma PK in cohorts 1-6:
+ Remdesivir Cmax and AUC increased in proportion to dose with a Tmax of 2 h and a half-life 0.66-1.1
+hours
+ GS-441524 Cmax and AUC appeared to increase proportionally (cohorts 4 to 5) or more than
+proportionally (cohorts 1 to 3, 5 to 6) with dose, with a Tmax of 3.5-5.0 h and a half-life of 13-31 hours
+ GS-704277 Cmax and AUC appeared to increase proportionally with dose, with a Tmax of 2.0-2.3 h and
+a half-life of 1-2 hours
+PK in PBMCs:
+ GS-441524 Cmax and AUC appeared to increase less than proportionally (cohorts 4 to 5),
+proportionally (cohorts 1 to 3), or more than proportionally (cohorts 3 to 4) with dose, with a halflife of 32-48 hours
+ GS-441524 Cmax and AUC increased approximately proportionally with dose in cohorts 7 to 8 with a
+half-life of 36-43 hours
+PK in urine:
+ Remdesivir: Across the 3-225 mg dose groups, the percentage of dose recovered was 7-10%
+ GS-441524: Across cohorts 2-9, the percentage of dose recovered was 34-41%
+ GS-704277: Not measured
+PK in semen:
+ Remdesivir was detected in all males in cohorts 7-9 at three hours post-dose and was not detectable
+in any pre-dose samples
+ GS-441524 was detected at all timepoints in males except for one subject in each of cohort 7 and 9
+ GS-704277 was detected at all timepoints in males through day three
+Comparison of solution and lyophilized formulations (cohorts 4 vs 7 and 5 vs 8):
+ RDV and GS-441524: similar exposures were observed in plasma after doses of 75 mg or 150 mg
+ GS-704277: A statistical comparison was not conducted. Exposures of both formulations appear
+similar at a dose of 75 mg; exposures appear higher for the lyophilized formulation at a dose of 150
+mg
+
+21
+
+Reference ID: 4672801
+
+Study GS-US-399-5505 is a multiple-dose safety and PK study of IV remdesivir (lyophilized formulation)
+in healthy adults. Plasma PK parameters from this study are included in labeling. Thirty-six subjects were
+enrolled; 29 received remdesivir and six received placebo. Subjects were predominantly of white race
+(61%) and male (81%).
+Subjects received 200 mg IV on day 1 and 100 mg daily on days 2-5 (cohort 1) or days 2-10 (cohort 2).
+Infusion durations were 30 minutes. Intensive plasma PK samples were collected through 24 hours (day
+1) or 96 hours (day 5) postdose. PBMCs were collected every 6-12 hours through 24 hours (day 1) or 96
+hours (day 5) postdose.
+Remdesivir was detectable in plasma for up to six hours postdose. The AUC accumulation ratio was 0.9.
+Half-lives of remdesivir and metabolites were consistent with study GS-US-399-1812 (Table 5, Table 6,
+Table 7, Table 8).
+Table 5. Remdesivir plasma PK parameters.
+
+Source: Study report.
+
+22
+
+Reference ID: 4672801
+
+Table 6. GS-441524 plasma PK parameters.
+
+Source: Study report.
+Table 7. GS-704277 plasma PK parameters.
+
+Source: Study report.
+
+23
+
+Reference ID: 4672801
+
+Table 8. GS-443902 plasma PK parameters.
+
+Source: Study report.
+Mass balance
+Study GS-US-399-4231 evaluated the mass balance of remdesivir. Subjects received a 150 mg single IV
+dose of remdesivir (solution formulation; mixture of unlabeled and radiolabeled) over 30 minutes. Eight
+subjects were enrolled (all male, 50% white race, 50% black race). Matrices collected through 168 hours
+postdose included blood (intensive sampling for whole blood and plasma concentrations), urine
+(intervals of six, 12, or 24 hours) and feces (24 hour intervals).
+Reviewer’s comments: Despite stated sampling through 168 hours postdose, results were reported for
+192 h and 216 h timepoints.
+The blood-to-plasma ratio of total radioactivity ranged from 0.68 at 15 minutes from the start of
+infusion to 1.0 (five hour timepoint). Compared to study GS-US-399-1812, plasma RDV and GS-441524
+AUCinf values were ~20% lower while GS-704277 AUCinf values were similar.
+Cumulative recovery of radioactivity from urine and feces was 92% (Table 9).
+
+24
+
+Reference ID: 4672801
+
+Table 9. Remdesivir and metabolites recovery in urine and feces.
+
+Analyte
+Remdesivir
+GS-441524
+GS-704277
+Total
+
+Percent
+of dose
+recovered
+in urine
+10.9
+41.0
+3.9
+74.2
+
+Percent
+recovery
+in feces
+
+Combined
+
+Not determined
+18.1
+
+92.3
+
+Source: Prepared by reviewer based on information provided in final study report.
+
+Metabolites were profiled from samples pooled across subjects . The major moieties in plasma were GS441524 (44% of radioactivity), RDV (14%), and unknown metabolite M27 (11%). The major moieties in
+urine were GS-441524 (49%) and RDV (10%); six minor unidentified species accounted for 6% of the
+dose. The major moiety in feces was M14 (12%) with other peaks being <1% each.
+In vitro distribution
+Study AD-540-2007 evaluated distribution of remdesivir (0.5 µM) and GS-441524 between human
+cellular and soluble fractions of blood. The mean human blood/plasma concentration ratio was 0.76 for
+remdesivir and 1.19 for GS-441524. In study AD-540-2016, the mean human blood/plasma ratio of GS704277 (0.5 µM) was 0.56.
+Protein binding of remdesivir (study AD-399-2013) and its metabolites (study AD-399-2031) were
+evaluated using equilibrium dialysis at analyte concentrations of 2 µM. The free fraction of remdesivir,
+GS-704277 and GS-441524 were 12%, 99%, and 98%. In a second study (AD-540-2020), RDV protein
+binding was evaluated using equilibrium dialysis at RDV concentrations of 1-10 µM. Mean RDV fraction
+unbound was 6.5% at 1 µM and 7.4% at 10 µM.
+Reviewer’s comments: Remdesivir concentrations in the protein binding study exceeded human Cmax after
+a dose of 200 mg IV in AD-540-2020 but not in AD-399-2013. Metabolite concentrations in the protein
+binding study exceeded human Cmax after a dose of 200 mg IV in study AD-399-2031 (Table 10).
+Table 10. Human Cmax values after administration of 200 mg IV in study GS-US-399-5505.
+Human mean Human mean
+total Cmax
+total Cmax (µM)
+(ng/mL)
+Remdesivir
+4378
+7.3
+GS-704277
+370
+0.84
+GS-441524
+143
+0.49
+Source: Reviewer. Analyte molecular weights obtained from the PK Written Summary.
+Analyte
+
+In study AD-540-2008, mean free fractions of RDV (2 µM), GS-441524 (2 µM), and GS-704277 (3 µM) in
+the presence of human hepatic microsomal fraction were 58%, 89%, and 90%, respectively.
+
+25
+
+Reference ID: 4672801
+
+In vitro metabolism of RDV and metabolites
+Study AD-540-2022 evaluated metabolic stability of RDV when incubated with human hepatocyte and
+tissue fractions.. Estimated RDV hepatic fraction metabolized (fm) values were 0.8 for carboxylesterases,
+0.1 for CYP3A, and 0.1 for cathepsin A. RDV can also be metabolized by human plasma and extra hepatic
+(intestinal) fraction.
+Study AD-540-2021 evaluated hydrolysis of RDV (incubated with cathepsin A, CES1b, CES1c, and CES2)
+and GS-704277 (incubated with HINT1). RDV was metabolized by cathepsin A, CES1b, and CES1c. GS704277 was metabolized by HINT1.
+Study AD-399-2011 evaluated CYP (CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, CYP3A4)
+metabolism of RDV . Detectable metabolism was observed for CYP2C8, CYP2D6 and CYP3A4. When
+normalized to hepatic expression levels, CYP3A4 is expected to have a greater contribution to RDV
+metabolism compared to CYP2C8 or CYP2D6.
+Study AD-540-2018 evaluated CYP (CYP1A1, CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6,
+CYP3A4 and CYP3A5) metabolism of RDV, GS-441524, and GS-704277. As found in AD-399-2011,
+remdesivir was metabolized by CYP2C8, CYP2D6, and CYP3A4. No metabolism of GS-441524 was
+observed. Potential metabolism of GS-704277 by CYP3A4 and CYP2C19 was observed; however, the
+results were inconclusive due to poor analytical sensitivity.
+Study AD-540-2019 evaluated UGT (UGT1A1, UGT1A3, UGT1A4, UGT1A6, UGT1A9, UGT2B7 and
+UGT2B15) metabolism of RDV, GS-441524, and GS-704277. No metabolism was observed for RDV.
+Detectable UGT1A3 metabolism was observed for GS-441524 and GS-704277; however, a direct
+glucuronide metabolite was not detected for either metabolite.
+
+26
+
+Reference ID: 4672801
+
+In vitro studies of RDV and metabolites as a substrate of transporters
+RDV and metabolites were found to be substrates of several transporters (Table 11).
+Table 11. Summary of RDV and metabolite in vitro transporter studies.
+Study
+AD-540-20121
+
+Analyte
+RDV
+
+AD-399-20071
+
+RDV
+
+AD-399-2008
+
+RDV
+
+AD-540-2010
+
+GS-441524
+
+AD-540-2025
+
+GS-441524
+
+AD-540-2010
+
+GS-704277
+
+AD-540-2025
+
+GS-704277
+
+Transporter
+P-gp
+P-gp
+BCRP
+OATP1B1
+OATP1B3
+OATP1B1
+OATP1B3
+OAT1
+OAT3
+OCT2
+MATE1
+MATE2K
+OATP1B1
+OATP1B3
+OAT1
+OAT3
+OCT2
+MATE1
+MATE2K
+
+System
+Caco-2
+MDCK
+CHO
+
+Substrate
+Yes
+Yes
+No
+Yes
+No
+
+HEK293
+
+No
+
+HEK293
+
+No
+
+HEK293
+
+Yes
+
+HEK293
+
+No
+
+1Dose-dependent efflux was shown in AD-540-2012 (RDV concentrations of 1, 10, and 100 µM) while a single 1 µM
+
+RDV target concentration was evaluated in AD-399-2007.
+
+27
+
+Reference ID: 4672801
+
+In vitro inhibition of CYP and non-CYP enzymes by RDV and metabolites
+Reversible inhibition
+RDV is an inhibitor of several drug metabolizing enzymes (Table 12). GS-441524 and GS-704277 are
+inhibitors of UGT1A9 (Table 13). For comparison of IC50 values with human PK data, RDV and
+metabolites human plasma Cmax values after administration of 200 mg IV are shown in Table 10.
+Table 12. Summary of RDV reversible enzyme inhibition studies.
+Study
+
+Analyte
+
+Concentration
+(µM)
+
+Enzyme
+
+IC50 (µM)
+
+CYP1A2 (E)
+>100
+CYP2C9
+63.3
+CYP2C19
+68.3
+AD-399-2010
+RDV
+0-100
+CYP2D6
+73.0
+CYP3A (M)
+>1.6
+CYP1A2 (P)
+>100
+CYP2B6
+77.8
+AD-540-2004
+RDV
+0-100
+CYP2C8
+54.9
+CYP3A (T)
+11.0
+AD-540-2005
+RDV
+0-100
+UGT1A1
+9.8
+Source: Prepared by reviewer. Substrates: E = 7-ethoxyresorufin; M = midazolam; P = phenacetin; T =
+testosterone.
+Table 13. Summary of GS-441524 and GS-704277 reversible enzyme inhibition studies.
+Study
+
+Analyte
+
+Concentration
+(µM)
+
+AD-540-2013
+
+GS-441524
+GS-704277
+
+Up to 25
+
+AD-540-2015
+
+GS-441524
+GS-704277
+
+0-100
+
+GS-441524
+GS-704277
+Source: Prepared by reviewer.
+AD-540-2015
+
+0-100
+
+Enzyme
+CYP1A2
+CYP2B6
+CYP2C8
+CYP2C9
+CYP2C19
+CYP2D6
+CYP3A4
+UGT1A1
+UGT1A3
+UGT1A4
+UGT1A6
+UGT1B7
+UGT1A9
+UGT1A9
+
+28
+
+Reference ID: 4672801
+
+IC50 (µM)
+
+>25
+
+>100
+85.5
+88.9
+
+Mechanism-based inhibition
+RDV (25 µM), GS-441524 (25 µM), and GS-704277 (25 µM) are not mechanism-based inhibitors of CYP
+(CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6 or CYP3A) enzymes (AD-540-2004, AD-540-2014).
+In vitro induction of CYP enzymes by RDV and metabolites
+In study AD-399-2027, induction of CYP (CYP1A2, CYP2B6, CYP3A4) enzymes by RDV (10-50 µM), GS441524 (25-100 µM), and GS-704277 (10-50 µM) in human hepatocytes was evaluated. For RDV,
+induction of mRNA (no induction of enzyme activity) was observed in one of three donors for CYP1A2
+(24% of positive control) and CYP2B6 (27% of positive control). RDV did not induce CYP3A4. No
+induction of mRNA or enzyme activity was observed for GS-441524 or GS-704277.
+In vitro inhibition of transporters by RDV and metabolites
+Inhibition of several transporters by RDV, GS-441524 and/or GS-704277 was observed (Table 14, Table
+15, Table 16). The Applicant is planning to conduct an in vitro study to evaluate inhibition of P-gp by GS441524 and GS-704277.
+Table 14. Summary of RDV transporter inhibition studies.
+Study
+
+Concentration
+(µM)
+
+AD-399-2005
+
+0-40
+
+AD-399-2029
+
+Up to 100
+Up to 150
+
+AD-540-2011
+
+Up to 137
+Up to 191
+
+Transporter
+
+System
+
+IC50 (µM)
+
+P-gp
+BCRP
+OATP1B1
+OATP1B3
+BSEP
+MRP2
+MRP4
+NTCP
+MATE1
+MATE2-K
+OAT3
+OCT2
+OAT1
+OCT1
+
+MDCK
+MDCK
+CHO
+CHO
+
+No inhibition
+No inhibition
+2.8
+2.1
+22
+No inhibition
+5.1
+72
+1.74
+41.1
+11.3
+53.5
+152
+11.3
+
+Vesicles
+MDCK
+MDCK
+HEK293
+HEK293
+CHO
+HEK293
+
+Source: Prepared by reviewer.
+
+29
+
+Reference ID: 4672801
+
+Table 15. Summary of GS-441524 transporter inhibition studies.
+Study
+
+Concentration
+(µM)
+
+AD-540-2009
+
+Up to 241
+Up to 162
+
+AD-540-2011
+
+Up to 186
+Up to 136
+
+AD-399-2029
+
+Up to 100
+
+AD-399-2035
+
+Up to 200
+
+Transporter
+OATP1B1
+OATP1B3
+MATE1
+MATE2-K
+OAT3
+OCT2
+OAT1
+OCT1
+BSEP
+MRP2
+MRP4
+NTCP
+BCRP
+BSEP
+MRP2
+MRP3
+
+System
+
+IC50 (µM)
+
+MDCK
+MDCK
+HEK293
+HEK293
+CHO
+HEK293
+
+241
+>241
+No inhibition
+No inhibition
+>186
+No inhibition
+>136
+>136
+
+Vesicles
+
+>100
+
+Vesicles
+
+>200
+
+HEK293
+
+Source: Prepared by reviewer.
+Table 16. Summary of GS-704277 transporter inhibition studies.
+Study
+
+Concentration
+(µM)
+
+AD-540-2009
+
+Up to 89
+Up to 88
+
+AD-540-2011
+
+Up to 74
+Up to 98
+
+AD-399-2029
+
+Up to 100
+
+AD-399-2035
+
+Up to 200
+
+Transporter
+OATP1B1
+OATP1B3
+MATE1
+MATE2-K
+OAT3
+OCT2
+OAT1
+OCT1
+BSEP
+MRP2
+MRP4
+NTCP
+BCRP
+BSEP
+MRP2
+MRP3
+
+System
+
+MDCK
+MDCK
+HEK293
+HEK293
+CHO
+HEK293
+
+No inhibition
+>89
+No inhibition
+No inhibition
+>74.3
+No inhibition
+>98
+No inhibition
+
+Vesicles
+
+>100
+
+Vesicles
+
+>200
+
+HEK293
+
+Source: Prepared by reviewer.
+
+30
+
+Reference ID: 4672801
+
+IC50 (µM)
+
+Predicted clinical significance of in vitro interactions using mechanistic static equations
+Study AD-540-2024 used in vitro parameters and equations described in FDA guidance to calculate the
+potential for significant in vivo inhibition of enzymes or transporters by RDV, GS-441524, and GS704277.
+Using a basic model for reversible inhibition of enzymes (CYPs 1A2, 2B6, 2C8, 2C9, 2C19, 2D6, 3A,
+UGT1A1, UGT2B7), R1≥1.02 indicates a potential interaction. R1≥1.02 was observed for several enzymes
+for RDV, GS-441524, and GS-704277. Further analysis of reversible inhibition was conducted using a
+mechanistic static equation where AUCR ≥1.25 indicates a potential interaction. Using RDV day 1 Cmax,
+AUCR≥1.25 was observed for RDV regarding inhibition of CYP3A and UGT1A1. However, using RDV day 1
+concentration two hours after Cmax, no effect on CYP3A or UGT1A1 is predicted. AUCR≥1.25 was not
+observed for any enzyme for GS-441524 or GS-704277.
+RDV both inhibited and induced (one of three donors) CYP1A2 and CYP2B6. Using a combined
+mechanistic static equation, no interaction was predicted (AUCR of 0.91 for CYP1A2 and AUCR of 0.94
+for CYP2B6).
+A basic model was used to determine potential inhibition of transporters by RDV, GS-441524, and GS704277. For OATP1B1 and OATP1B3, cutoff values were exceeded for RDV using day 1 Cmax but not two
+hours after day 1 Cmax. Cutoff values were exceeded for inhibition of MATE1 by RDV using day 1 Cmax but
+not when using the RDV concentration observed four hours after day 1 Cmax.
+Cutoff values were not exceeded for inhibition of OCT1 by RDV, GS-441524 and GS-704277, and were
+not exceeded for inhibition of OATP1B1/3 by GS-441524 and GS-704277. Cutoff values were not
+exceeded for inhibition of OAT1, OAT3, OCT2, or MATE2-K by RDV, GS-441524, or GS-704277.
+Reviewer comments: DDI liability reports AD-540-2006 and AD-540-2017 were not reviewed as they were
+replaced by AD-540-2024 (reviewed above).
+
+31
+
+Reference ID: 4672801
+
+4.2 Summary of Bioanalytical Method Validation and Performance
+Plasma PK Parameters from study GS-US-399-5505 were included in labeling. We reviewed the method validation and sample analysis reports
+associated with study GS-US-399-5505 and found the methods to be acceptable (Table 17, Table 18).
+Table 17. Assessment of LC-MS/MS method validation reports relevant to study GS-US-399-5505.
+Method
+
+Analyte(s)
+
+Matrix
+
+Calibration
+range
+
+60-15117
+
+RDV
+GS-441524
+GS-704277
+
+Plasma
+
+4-4000 ng/mL
+2-2000 ng/mL
+2-2000 ng/mL
+
+60-15117
+amendment 6
+
+RDV
+GS-441524
+GS-704277
+
+Plasma
+
+4-4000 ng/mL
+2-2000 ng/mL
+2-2000 ng/mL
+
+Accuracy and precision
+values of calibration and
+QC samples within 15%
+(20% at LLOQ)
+Yes
+
+Yes
+
+Failed runs
+
+Major
+deviations
+
+Interference from other
+analytes
+
+Duration of stability
+
+Runs 1-6 failed due to
+accuracy and precision.
+May be due to lack of
+assay ruggedness or
+stock solutions not fully
+thawed. After adding an
+additional injection step
+and ensuring thawing of
+solutions, accuaracy and
+precision was
+acceptable.
+None
+
+None
+
+Peaks in RDV blanks were
+up to 7% of PA at LLOQ.
+No interference in GS441524 blanks. Peaks in
+GS-704277 blanks were
+up to 17% of PA at LLOQ.
+
+RDV and GS-441524
+stable for 31 days at
+-20°C and -70°C
+
+No new chromatograms
+submitted in this
+amendment
+
+RDV and GS-441524
+stable for 392 days at
+-20°C and
+-70°C
+
+None
+
+GS-704277 stable for
+31 days at -70°C
+
+GS-704277 stable for
+257 days at -70°C
+
+Source: Reviewer. PA = peak area. Sample dilution of up to 20-fold was shown to result in acceptable accuracy and precision.
+
+32
+
+Reference ID: 4672801
+
+Table 18. Assessment of LC-MS/MS method performance in study GS-US-399-5505.
+Analyte
+
+Matrix
+
+Method
+
+Major
+deviations or
+failed runs
+
+RDV
+GS-441524
+GS-704277
+
+Plasma
+
+60-15117
+
+None
+
+Accuracy and
+precision values
+of calibration
+and QC samples
+within 15%
+(20% at LLOQ)
+Yes
+
+Max time
+between
+sample
+collection and
+analysis
+
+Samples
+measured
+within the
+duration of
+stability
+
+Incurred sample
+reanalysis pass
+rate (within 30%
+of original
+measurement)
+
+Interference
+from other
+analytes
+
+Chromatograms
+
+93 days, stored
+at -70°C
+
+Yes
+
+99%
+99%
+98%
+
+No interference
+in blank
+chromatograms
+
+Chromatograms
+from study
+subjects were
+submitted and
+appear consistent
+across samples
+
+Source: Reviewer. PA = peak area.
+
+33
+
+Reference ID: 4672801
+
+4.3 Physiologically-based Pharmacokinetics Review
+
+Executive Summary
+The objective of this review is to evaluate the adequacy of the Applicant’s physiologically based
+pharmacokinetic (PBPK) analysis to predict the plasma PK profiles of remdesivir (RDV) and metabolites
+(GS-704277 and GS-441524) in pediatric patients 12 years of age and older and weighing at least 40 kg.
+The Division of Pharmacometrics has reviewed the final PBPK report, supporting modeling files, and
+responses to our information requests (submitted on July 24, 2020) to conclude the following:
+
+
+
+
+
+
+The PBPK modeling for RDV was adequate to predict the plasma PK profiles of RDV, GS-704277
+and GS-441524 in adults following the proposed dosing regimen (loading dose of 200 mg IV and
+100 mg IV daily maintenance dose).
+The changes in the age-depended physiological parameters are not expected to significantly
+impact the plasma PK profiles of RDV, GS-704277 and GS-441524 for pediatric patients 12 years
+of age and older and weighing at least 40 kg.
+PBPK analysis can be used to provide supporting evidence for comparable plasma exposure of
+RDV and metabolites between adults and adolescents (12 years of age and older and weighing
+at least 40 kg) following the proposed dosing regimen.
+
+Background
+The proposed dosing regimen of remdesivir (RDV) is a single loading dose of 200 mg IV on Day 1
+followed by once-daily maintenance doses of 100 mg IV from Days 2 for adults and pediatric patients 12
+years of age and older and weighing at least 40 kg.
+Following a single IV administration of RDV 150 mg, RDV was rapidly eliminated followed by the
+sequential appearance of GS-704277 and GS-441524 in plasma. The intracellular metabolism of RDV is
+assumed to be mediated by phosphoramidase cleavage of GS-704277 to GS-441524-MP. GS-441524-MP
+then converts to the active triphosphate metabolite, GS-443902, via nucleotide kinases.
+Dephosphorylation of GS-441524-MP results in the nucleoside analog GS-441524 (Figure 6). Both GS441524-MP and GS-443902 are not detectable in the plasma. The Applicant stated that albumin is likely
+the main plasma binding protein for RDV, GS-704277 and GS-441524 [PBPK report QP-2020-1041]. The
+human mass balance study [Study GS-US-399-4231] reported that recovery of RDV was primarily from
+urine containing approximately 92% of the total dose. The predominant species detected in urine were
+GS-441524 (49%), followed by RDV (10%) and GS-704277 (2.9%). RDV exhibited a linear PK profile for
+doses ranging from 3 mg to 225 mg IV].
+A PBPK modeling approach for RDV was proposed by the Applicant to support the selection of the
+proposed dosing regimen for pediatric patients (infants to adolescents) in the Initial Pediatric Study Plan
+(dated 4/30/2020 under IND 147753). FDA agreed that PBPK modeling approach could be used to
+support pediatric dose selection in the clinical PK studies; but cited several model limitations and
+indicated that the model needed to be further optimized for the intended application [FDA DARRTs ID
+4593544]. PK data in patients < 18 years of age are not available at the time of NDA submission.
+34
+
+Reference ID: 4672801
+
+In the current NDA submission, the Applicant proposed the following language in their draft US label
+regarding PBPK analysis:
+(b) (4)
+
+Section 8.4
+
+Section 12.3
+
+This review evaluates the adequacy of the Applicant’s PBPK model to simulate the plasma PK profiles of
+RDV and metabolites GS-704277 and GS-441524 in adolescent patients (12 years of age and older and
+weighing at least 40 kg).
+
+Methods
+PBPK model structure
+The PBPK analysis was performed using the population-based PBPK software Simcyp® (V18, Simcyp Ltd.,
+a Certara Company, Sheffield, United Kingdom). The software’s default “Healthy Volunteer” was used
+for simulating adult exposure of RDV and plasma metabolites. For the adolescent population, the
+Applicant created a modified “Pediatric” virtual population by sampling from the default pediatric
+population to compile a pediatric virtual population that is evenly distributed by body weight with an
+approximately equal proportion of males and females.
+The PBPK model of RDV was developed based on in silico derived physicochemical properties, in vitro,
+and clinical PK data [Studies GS-US-399-5505 and GS-US-399-1812]. Key model parameters are
+described as follows. In vitro, the unbound fraction of RDV in plasma (fup) ranged from 0.065-0.074
+[AD-540-2020] to 0.12 [Study AD-399-2013]. The Applicant set fup as 0.12 and the blood-to-plasma
+ratio (B/P) as 0.76) [study AD-540-2007] in the PBPK model. A full PBPK distribution model was used for
+RDV and a Kp scalar of 0.56 was used to characterize RDV volume of distribution after IV administration
+(Vd= 45-102 L). Although in vitro RDV was a substrate for OATP1B and P-gp transporters, the model
+assumed that active transport does not mediate the disposition of RDV (perfusion rate-limited). This
+assumption seemed reasonable because RDV exhibits moderate-to-high hepatic extraction ratio. RDV is
+rapidly metabolized to GS-704277 by ester hydrolysis. Carboxylesterase 1 (CES1) was identified as the
+primary esterase responsible for hydrolysis of RDV in vitro [Report AD-540-2021]. In vitro, RDV was also
+identified as a minor substrate for CYP3A4 and cathepsin A (<10% each). Remdesivir also undergo renal
+elimination (8.7% of RDV was eliminated unchanged in urine). The observed renal clearance (CLr) of 5.71
+L/h was included in the model.
+
+35
+
+Reference ID: 4672801
+
+Reviewer’s comments: A two-fold difference in the RDV’s fup was reported between two in-vitro studies
+(see discussion in Section 4.1). Given the intrinsic clearance of RDV is estimated using retrograde method
+based on clinical PK data, the selection of RDV fup of 0.12 as PBPK model parameters is not expected to
+significantly impact the simulated plasma PK profiles of RDV and its metabolites.
+The PBPK model of RDV metabolite GS-704277 was developed based on physicochemical properties (in
+silico estimates), in vitro and clinical PK data [studies GS-US-399-5505 and GS-US-399-1812]. In vitro, the
+fup of GS-704277 was 0.99. Based on its physiochemical property, GS-704277 is expected to have a low
+cellular permeability and a minimal B/P value of 0.55 was assumed due to the high hydrophilicity (logP
+value of -2.31) and ionization at physiologic pH. A minimal PBPK distribution model, with a Kp scalar of
+3.3 and single-additional compartment, was used to recover the observed PK profile in plasma. Because
+the intracellular metabolites of RDV (GS-441524-MP and GS-443902; see below) are not observed in
+plasma, these metabolites are not incorporated into the current PBPK model. Instead, the model
+assumed a single non-specific esterase process metabolizes GS-704277 directly to GS-441524 in the liver
+(See Figure 6).
+The PBPK model of RDV metabolite GS-441524 was developed based on physicochemical properties (in
+silico estimates), in vitro and clinical PK data [studies GS-US-399-5505 and GS-US-399-1812]. In vitro, the
+fup was 0.98 [study AD-399-2031] and B/P was 1.19 [study AD-399-2007]. A minimal PBPK distribution
+model, with a volume of distribution of 6.2 L/Kg and single-additional compartment, was used to
+recover the observed plasma PK profile. GS-441524 undergo renal elimination (35.4 % of RDV dose
+renally eliminated as GS-441524). The observed CLr value of 9.85 L/h was used in the model. Additional
+human hepatocyte clearance of GS-441524 was estimated to recover the AUC of GS-441524.
+The intracellular metabolism of RDV is assumed to be mediated by phosphoramidase cleavage of the
+phosphoramidate bond of GS-704277, liberating the nucleoside analog monophosphate, GS-441524-MP.
+Nucleotide kinases catalyze the intracellular conversion between GS-441524-MP and the active
+triphosphate metabolite, GS-443902. Dephosphorylation of GS-441524-MP results in the formation of
+the nucleoside analog GS-441524. The latter metabolite is observable in the plasma (Figure 6).
+
+36
+
+Reference ID: 4672801
+
+Figure 6. Scheme of the proposed ADME pathways and PBPK model structure for RDV, GS-704277 and
+GS-441524.
+Proposed Metabolic Pathway
+
+Proposed PBPK Model for RDV
+
+GS-5734=Remdesivir. Source: Made by the Reviewer based on Figure 1 of the PBPK report QP-2020-1041
+
+Reviewer’s comments on the simplified model structure:
+The RDV metabolites GS-441524-MP and GS-443902 are produced intracellularly and undetectable in
+plasma. Since the current model did not include the intracellular metabolism of RDV to the active
+metabolite GS-443902, it limited the use of this PBPK model to provide pharmacodynamic analysis of
+RDV. The Reviewer acknowledges that the plasma PK profiles of RDV, GS-704277 and GS-441524 may
+not be relevant to the PK of the active metabolite in tissues.
+PBPK model performance
+The predictive performance of the PBPK modeling for RDV and the plasma metabolites GS-704277 and
+GS-441524 was evaluated by simulation of phase 1 exposure data in healthy adults, following
+administration of RDV 200 mg IV loading dose (0.5 h infusion) on Day 1, then 100 mg IV daily
+maintenance doses (0.5 h infusion) starting on Day 2, and continuing through Days 5 or 10 [Study GS-US399-5505].
+PBPK model application
+The adult PBPK modeling for RDV was subsequently used to simulate steady-state pediatric exposures
+accounting for age-dependent changes in organ volume/size (liver and kidney), enzyme expression,
+plasma protein binding, and organ blood flow.
+
+37
+
+Reference ID: 4672801
+
+Reviewer’s comments on the clinical applicability of this model:
+Given the simplified model structure, the current PBPK modeling for RDV mainly accounted for changes
+in physiological parameters such as tissue/organ size/volume, blood flow rates, liver and kidney function,
+and to an extent, CES enzyme expression. Based on the default ontogeny function in the pediatric model
+(Simcyp V18), CES activity in adolescence (12-18 years of age) is mature by 12 years of age. Based on
+literature data1, CES1 and CES2 abundances in adolescence are about 80% and 95% of the adult values in
+the liver, respectively. While our current understanding of the ontogeny of this enzyme is mainly based
+on in-vitro information, given our current understanding of enzyme maturation rates in general, CES is
+likely mature in children over 12 years of age. Therefore, the uncertainty of Applicant’s ontogeny
+function for CES and its impact on the simulated plasma PK profiles can be considered low for
+adolescents (proposed pediatric population). On the other hand, the uncertainty of other assumptions
+on the metabolic pathways for ‘downstream’ metabolites vary. For example, there is high uncertainty of
+assuming that GS-441524 formation can be simplified by describing it using a single pathway (GS-441524
+is directly formed from GS-704277). Reason is this assumption does not consider intracellular metabolic
+pathways where multiple enzymes and conversions are involved. However, the impact of such
+assumptions on simulated PK profiles could be lower if the key enzymes involved in the intracellular
+metabolic pathways are mature in adolescents. Overall, we consider the applicability of the proposed
+modeling approach to scale from adults to children (birth to < 18 years of age) to be limited when only
+incorporating changes in physiological parameters and some enzyme ontogeny. However, given the
+current knowledge about enzyme maturation in adolescents, we consider the current PBPK modeling
+reasonable to provide support for simulations of plasma PK profiles of RDV and metabolites GS-704277
+and GS-441524 in pediatric patients over 12 years of age and weighing over 40 kg.
+The Reviewer noted a clinical study in pediatric patients across all age and body weight groups is
+planned/ongoing.
+The Reviewer acknowledged the current PBPK modeling for RDV does not account for the possibility of
+diminished liver or kidney function in patients due to SARS-CoV-2 infection and/or COVID-19 progression
+because the impact of infection/disease progression on the PK of RDV and metabolites is currently
+unknown.
+The Reviewer noted the current modeling for RDV is considered adequate for the Applicant’s intended
+purpose - scale plasma PK from adults to adolescents. However, given the current model structure and
+data limitations, the PBPK modeling for RDV should be further optimized to support future applications,
+such as evaluation of drug-drug interaction potential, PK/PD analysis and other pediatric age groups.
+
+1 Boberg et al. Age-Dependent Absolute Abundance of Hepatic Carboxylesterases (CES1 and CES2) by LC-MS/MS
+
+Proteomics: Application to PBPK Modeling of Oseltamivir In Vivo Pharmacokinetics in Infants. Drug Metab Dispos.
+2017;45(2):216-223.
+
+38
+
+Reference ID: 4672801
+
+Results
+Q1: Can the PBPK modeling for remdesivir describe the plasma PK of remdesivir and its metabolites in
+adults?
+Yes. PBPK simulations reasonably described the observed PK profiles of remdesivir and metabolites GS704277 and GS-441524 in plasma following a loading dose of 200 mg IV on Day 1, then 100 mg IV daily
+doses on Days 2 - 5 to adult healthy volunteers, as shown in Figure 7.
+The Reviewer noted that simulated PK parameters of remdesivir and metabolites GS-704277 and GS441524 in plasma have reached steady-stated at Day 5 (result not shown). Thus, there is no difference
+between the plasma PK profiles simulated following 5-day or 10-day dosing regimens.
+
+Figure 7. Comparison of simulated and observed pharmacokinetics of RDV, GS-704277 and GS-441524 in
+health adults.
+Grey dots: observed Phase 1 mean plasma
+concentration-time profiles from Study GSUS-399-5505
+Colored lines: predicted median plasma
+concentration-time profiles from 10
+simulated trials
+Simulation Trial Design: Ten trials of 28
+subjects per trial, default age range of 20-50
+years, and equal proportion of male and female
+subjects.
+Source: Figure 2 of PBPK report QP-2020-1041
+
+39
+
+Reference ID: 4672801
+
+Q2: Are the plasma PK profiles for remdesivir, GS-704277 and GS-441524 comparable between adults
+and adolescents following the proposed dosing regimen?
+Yes. As shown in Table 19, the PK parameters of RDV, GS-704277 and GS-441524 in plasma were
+comparable between those simulated in adolescents (≥ 12 years of age with body weight ≥ 40 kg) and
+those observed in adults after the proposed dosing regimen (200 mg IV loading dose on Day 1 followed
+by 100 mg IV daily maintenance doses) [GS-US-399-5505].
+The predictions for RDV and GS-441524 in adolescents were less than 1.20-fold higher than the
+observed values in adults, for Cmax and AUC at Day 1 or steady-state (Day 5). While, the predictions for
+the PK of GS-704277 in adolescents were approximately 1.15 to 1.80- fold higher than the observed
+values in adults (Table 19).
+
+40
+
+Reference ID: 4672801
+
+Table 19. Comparison of observed pharmacokinetics of RDV, GS-704277 and GS-441524 in healthy
+adults and those predicted for adolescents (≥12 years of age with body weight ≥ 40 kg) following RDV
+dosing.
+RDV
+
+Adult Observed1
+AUCtau
+Cmax
+
+Median
+Geo. Mean
+5th centile
+95th centile
+
+2782.70
+2816.90
+2626.00
+3021.70
+
+4190.00
+4267.20
+3905.10
+4663.00
+
+Median
+Geo. Mean
+5th centile
+95th centile
+GS-704277
+
+1579.30
+2335.00
+1562.40
+2189.40
+1451.00
+2024.70
+1682.30
+2367.50
+Adult Observed2
+AUCtau
+Cmax
+
+Median
+Geo. Mean
+5th centile
+95th centile
+
+669.60
+676.60
+614.30
+745.30
+
+Median
+Geo. Mean
+5th centile
+95th centile
+GS-441524
+
+446.70
+224.00
+438.90
+231.80
+384.40
+201.20
+501.20
+267.10
+Adult Observed3
+AUCtau
+Cmax
+
+Median
+Geo. Mean
+5th centile
+95th centile
+
+2167.70
+2156.20
+2010.70
+2312.30
+
+140.00
+139.90
+129.00
+151.80
+
+Median
+Geo. Mean
+5th centile
+95th centile
+
+2158.10
+2196.20
+2047.80
+2355.40
+
+140.50
+142.70
+132.50
+153.60
+
+362.50
+355.60
+317.70
+398.00
+
+Adolescent Predicted 4
+AUCtau
+Cmax
+Day 1
+3106.47
+5002.68
+3168.85
+5114.99
+2490.48
+4030.14
+4136.64
+6602.58
+Day 5
+1553.48
+2499.88
+1584.49
+2557.38
+1245.77
+2015.57
+2068.78
+3297.86
+Adolescent Predicted
+AUCtau
+Cmax
+Day 1
+1027.17
+636.42
+1041.78
+647.76
+553.47
+361.84
+1884.39
+1108.31
+Day 5
+513.60
+318.21
+520.89
+323.88
+276.77
+180.91
+942.18
+554.14
+Adolescent Predicted4
+AUCtau
+Cmax
+Day 1
+2375.52
+160.42
+2440.21
+165.40
+1784.19
+120.99
+3398.28
+230.78
+Day 5
+2267.98
+140.10
+2278.62
+142.06
+1438.58
+98.17
+3502.19
+205.21
+
+* Day 1 AUCtau: AUC0-24hr, Day 5 AUCtau: AUC96-120hr;
+1 Table 15.10.1.1.6.1 of Study report# GS-US-399-5505.
+2 Table 15.10.1.1.6.2 of Study report# GS-US-399-5505.
+3 Table 15.10.1.1.6.3 of Study report# GS-US-399-5505.
+4 Summarized by the Reviewer based on submitted model output files.
+
+41
+
+Reference ID: 4672801
+
+Pred/Obs ratio
+AUCtau
+
+Cmax
+
+1.12
+1.12
+-
+
+1.19
+1.20
+-
+
+0.98
+1.07
+1.01
+1.17
+Pred/Obs ratio
+AUCtau
+Cmax
+1.53
+1.54
+-
+
+1.76
+1.82
+-
+
+1.15
+1.42
+1.19
+1.40
+Pred/Obs ratio
+AUCtau
+Cmax
+1.10
+1.13
+-
+
+1.15
+1.18
+-
+
+1.05
+1.04
+-
+
+1.00
+1.00
+-
+
+Under the proposed dosing regimen, the PBPK modeling for RDV was used to predict adolescent steadystate AUC (=AUCtau) values for RDV, GS-441524 and GS-704227. For RDV and metabolites, the target
+AUCtau range was based on a representative range of observed exposures in healthy adults after
+administration of the therapeutic dosing regimen: 200 mg IV loading dose and 100 mg IV daily
+maintenance doses [Study GS-US-399-5505]. As shown in Figure 8, the predicted steady-state AUCs for
+RDV and metabolites in adolescents (red line) were generally comparable to the median adult exposure
+(black line) and within the maximum and minimum range (green dashed lines), following the therapeutic
+dosing regimen.
+The PBPK model predictions showed that exposures to RDV and metabolites tended to be higher for
+adolescents in the lower body weight range (Figure 8). Nonetheless, most predicted exposures were
+within the variability (maximum and minimum range) observed in adults following the therapeutic
+dosing regimen, and below the pre-defined upper limit of exposure (see below).
+The Applicant considered it important to keep RDV and metabolites exposure at or below that
+previously observed after administration to healthy adults of a higher maintenance dose regimen: 150
+mg IV daily for 14 days [Study GS-US-399-1954]. The maximum observed adult steady-state exposures to
+RDV, GS-704277 and GS-441524 were set as the upper limit of exposure for pediatric dose selection
+(orange line).
+Based on the target exposure ranges for RDV, GS-704277 and GS-441524, the Applicant’s proposed dose
+regimen of RDV for pediatric subjects 12 years of age and older and weighing at least 40 kg is
+reasonable.
+
+42
+
+Reference ID: 4672801
+
+Figure 8. Predicted plasma AUC by bodyweight profile for RDV, GS-704277 and GS-441524 following
+RDV therapeutic dosage regimen (200 mg IV loading dose and 100 mg IV daily maintenance dose) to
+pediatric subject s 12 years of age and older and weighing at least 40 kg.
+
+GS-704277
+
+RDV
+4800
+
+2000
+
+4400
+
+:2
+
+:2
+
+UL
+3600
+
+1800
+UL
+
+"E
+......
+
+3200
+
+s
+
+~
+O>
+
+1400
+
+...J
+
+Ol
+
+s
+:J
+u"'
+::i
+<(
+
+>
+Cl
+
+... !
+
+"
+u
+
+2800
+
+!3
+
+::i
+
+2400
+
+<(
+
+,.._
+,.._
+
+Max
+
+.;,
+"'
+
+cc:
+
+I.?
+
+1200
+Min
+0
+
+400
+40
+
+44
+
+48
+
+52
+
+56 60
+64
+68
+Body Weight (kg)
+
+72
+
+76
+
+40
+
+80
+
+44
+
+48
+
+52
+
+56 60 64
+68
+Body Weight (Kg)
+
+72
+
+76
+
+80
+
+GS-441524
+6000
+5500
+~
+
+"E
+......
+C\
+
+...
+
+UL
+
+,.
+
+4500
+
+.s
+:J
+
+;s
+
+Orange line: Upper limit (UL) based on maximum
+observed AUCtau after 14 daily doses of remdesivir 150
+mg IV in healthy adults [Study GS·US-399· 1954)
+Green lines: Mini mum (MIN) and maximum (MAX)
+observed AUCtau va lues at Day 5 after remdesivir 200 mg
+IV loading dose and 100 mg IV daily in healthy adults
+[Study GS·US-399·5505)
+Median observed AUCtau values at Day 5 after
+remdesivir 200 mg IV loadi ng dose and 100 mg IV dai ly in
+healthy adults [Study GS· US-399·5505)
+Blued~: Predicted AUCtau values of RDV, GS-704277
+and GS-441524 for pediatric 12 years of age and older and
+weight range 40 - 80 kg
+ed Ii : LOESS smoother line of predicted AUCtau across
+the weight range
+Source: Made by the Reviewer based on dataset
+extracted from Applicant's study reports and model
+output files
+
+!:11MIM:
+
+u
+
+::i
+<(
+
+....
+N
+
+U">
+
+J,
+t.'.l
+
+500
+0
+40
+
+44
+
+48
+
+52
+
+56
+
+60
+
+64
+
+68
+
+72
+
+76
+
+80
+
+Body Weight (Kg)
+
+Re viewer's comment:
+The Reviewer noted that 40 kg is the approximate median body weight of a 12-year-old boy or gir/2.
+Figure 9 shows the Weight-for-age distribution for adolescents aged 12-18 years. As shown, the
+proposed minimum body weight threshold of 40 kg includes most adolescents, except those who are
+under 14 years of age and around the 5th percentile of the population.
+
+2
+
+https://www.cdc.gov/growthcharts/clinical_ charts.htm
+
+43
+
+Reference ID 4672801
+
+Figure 9. Weight-for-age distribution for adolescents aged 12-18 years.
+
+Source: Made by the Reviewer based on CDC growth chart available at
+https://www.cdc.gov/growthcharts/clinical charts.htm
+
+Conclusions
+The Reviewer acknowledges the current PBPK modeling for RDV has limitations regarding model
+structure and metabolic pathways involved in RDV and metabolites disposition. However, the model
+included reasonable assumptions and provided a reasonable description of RDV and plasma metabolites
+disposition. Thus, the PBPK modeling for RDV was considered adequate to predict the plasma PK profiles
+of RDV, GS-704277 and GS-441524 in adults following a 200 mg IV loading dose on Day 1 followed by
+100 mg IV daily maintenance doses
+PBPK analysis showed that the changes in the age-dependent physiological parameters are not expected
+to significantly impact the plasma PK profiles of RDV, GS-704277 and GS441524 for pediatric patients 12
+years of age and older and weighing at least 40 kg. The applicability of the proposed PBPK modeling
+approach for the intended purpose -scale from adults to adolescents- was considered reasonable. Thus,
+the modeling is adequate to provide support for simulations of plasma PK profiles of RDV and
+metabolites GS-704277 and GS-441524 in pediatric patients 12 years of age and older and weighing at
+least 40 kg.
+Based on the target exposure ranges for RDV, GS-704277 and GS-441524 observed in healthy adults
+[Study GS-US-399-5505], the Applicant’s proposed dosing regimen of RDV in this pediatric population is
+reasonable.
+
+44
+
+Reference ID: 4672801
+
+4.4 Pharmacometrics Review
+
+Summary of Pharmcometric Finding
+The applicant is seeking a label for Remdesivir (RDV) with approved dosing down to 12 years of age.
+However, no clinical efficacy and PK data have been collected in adolescents. The approval pathway in
+pediatrics is extrapolation of efficacy to adults based on exposure matching between adolescents and
+adults. The applicant performed a Population PK (PPK) analysis to characterize the PK of RDV and its
+two metabolites in healthy volunteers and performed simulations with this model to determine the
+expected exposure range of these moieties in adolescents after receiving the same dosing regimen as in
+adults (200 mg on Day 1 and 100 mg QD thereafter). The reviewer has confirmed the applicant’s results
+and found their model to be a reasonable start for projecting PK into adolescents. A phase 2/3 study is
+planned, by the applicant, and agreed upon by the agency for children <18 years of age to establish PK
+and supportive efficacy information. Some pediatric safety data are available from a compassionate use
+program in patients with Ebola. Data were available for 25 subjects between 5 and 18 years of age and
+16 subjects less than 5 years of age.
+
+Results of Sponsors Population PK Analysis
+The applicant’s PPK Model was developed using healthy adult data from studies GS-US-399-1812, GSUS-399-1954, and GS-US-399-5505. On average 24 samples per subject were included in the analysis
+from 123 subjects with a total of 2967 samples per analyte included.
+Summary statistics of baseline demographics for each study are shown in Table 21 and Table 21.
+Observed concentrations of RDV and its two metabolites from each study are depicted in Figure 10.
+Table 20. Summary Statistics of Continuous Covariates in RDV, GS-704277, and GS-441524 Sequential
+PPK Analysis.
+
+(Source: Applicant’s Population PK Report, Table 5)
+
+45
+
+Reference ID: 4672801
+
+Table 21. Summary Statistics of Categorical Covariates Used in RDV, GS-704277, and GS-441524
+Sequential PPK Analysis.
+
+(Source: Applicant’s Population PK Report, Table 6)
+
+Figure 10. RDV, GS-704277, and GS-441524 Concentration-Time After Dose Profiles for Healthy
+Volunteers.
+
+(Source: Applicant’s Population PK Report, Figure 2)
+
+46
+
+Reference ID: 4672801
+
+Reviewer’s Comments: The applicant’s demographics are reasonable for capturing allometric
+relationships in adults (53 – 101 kg weight range). There is some overlap with the pediatric patient
+population weight range. Projections down to 12-years old will rely on the consistent use and experience
+of allometric relationships across pediatric PK in general.
+With regards to renal function, Table 20 indicates CRCL generally above 87 mL/min in the pop PK
+population. Thus, there is not adequate information (i.e. sufficient range of CrCL values) to evaluate the
+PK in patients with any degree of renal impairment. The lack of significant effect on baseline CrCL is not
+sufficient to suggest no dosage adjustment in patients with mild renal impairment.
+Text that is shaded gray refers to material copied from the applicant’s population PK report.
+Stepwise Covariate Modeling (SCM)
+Based on the covariate screening, the following covariates were included in the stepwise covariate
+analysis for each sequential model of each analyte:
+For RDV:
+
+
+
+
+
+
+CL-RDV: WT, age, sex, race, ethnicity, dose, formulation, infusion duration, and BCLCR
+V1-RDV: WT, age, sex, race, ethnicity, dose, formulation, and infusion duration
+V2-RDV: WT
+Q1-RDV: WT
+F1: formulation
+
+For GS-704277:
+
+
+
+
+
+CL-GS-704277: WT, age, sex, race, ethnicity, dose, formulation, infusion duration, and BCLCR
+V1-GS-704277: WT, age, sex, race, ethnicity, dose, formulation, and infusion duration
+V2-GS-704277: WT
+Q1-GS-704277: WT
+
+For GS-441524:
+
+
+
+
+
+
+
+CL-GS-441524: WT, age, sex, race, ethnicity, dose, formulation, infusion duration, and BCLCR
+V1-GS-441524: WT, age, sex, race, ethnicity, dose, formulation, and infusion duration
+V2-GS-441524: WT
+Q1-GS-441524: WT
+V3-GS-441524: WT
+Q2-GS-441524: WT
+
+Stepwise Forward Addition and Backward Elimination
+For RDV, the forward addition resulted in a full model and backward selection did not remove any of the
+included covariates (Table 22). Next, fixed allometry was explored. Inclusion of fixed allometry was
+47
+
+Reference ID: 4672801
+
+found to reduce the objective function by 60 points compared to the model selected following SCM. This
+improvement of the overa ll fit of the model with no addit ional df w as considered superior and was
+therefore retained in the model for RDV.
+Although deemed significant during the covariate ana lysis, BCLCR on CL-RDV w as found to be
+insignificant after the inclusion of allometric WT exponents. The BCLCR removal resulted in an objective
+function increase of 2 OFV points. This reduction in impact is reasonable given the correlation of WT
+with BCLCR and the relatively narrow range of BCLCR in HVs. The BCLCR w as therefore removed from
+the model. Subject ethnicity impacted CL-RDV by only 12.7% and w as therefore removed due to clinical
+irrelevance (< 20% effect).
+Table 22. Summary of Remdesivir SCM.
+Refe rence Mode l
+
+Forwa rd model
+
+Cova ri atc Rela tion
+
+M f
+
+OFV
+
+P-Va lue
+
+-
+
+-
+
+10096
+
+(reference)
+
+-CL-ROY ( BCLCR)
+
+-I
+
+10107
+
+0 .000638
+
+- CL- ROY ( ETTI)
+
+- I
+
+10111
+
+0 .000081
+
+,Mf = de lta degrees of freedom; BCLCR = baseline crcatinine clearance; ETH = ethnicity; CL = clearance; OFV = objective
+function value; p = p-va lue between the new model and the reference mode l; RDV = rcmdes ivir (GS-5734Th'); SCM = stepwise
+covariate mode ling.
+
+(Source: Applicant's Population PK Report, Table 8)
+
+For GS-704277, after the forw ard addit ion step, dose, formulation, and WT w ere selected as covariates;
+how ever, formulation w as removed in the backw ard elimination step (Table 23). After the SCM w as
+completed, fixed allometry w as explored . Inclusion of fixed allometry w as found to reduce the objective
+function by 4 points compared to the SCM model, improving the overall fit of the model and reducing
+the df by 1. Fixed allometry w as therefore retained in the model for GS-704277.
+Although dose w as deemed significant during the covariate analysis, the range (1.3 to 225 mg) explored
+w as broad, expanding outside potential clinical interest. After further exploration, it w as found that dose
+had only a m inor effect of approximately 13.6% in the dose range of potential clinical interest (betw een
+30 and 225 mg). Dose w as therefore removed from the GS-704277 sequential model as a clinically
+irrelevant covariate (< 20% effect).
+Table 23. Summary of GS-704277 SCM.
+Reference Model
+
+forwa rd/backward model
+
+Cova ri ate Rela tion
+
+.1df
+
+OFV
+
+P-Va luc
+
+-
+
+-
+
+18789
+
+(reference)
+
+-CL-GS-704277(DOSE)
+
+-J
+
+18828
+
+3 .32e--O JO
+
+-Vl -GS- 704277 (WT)
+
+-I
+
+18801
+
+0.000552
+
+adf - uelia degrees of fi·ecuom: BCLCR - baseline crcatininc clearance; CL - clearance; OFV - oojcctive fi1nc1ion value;
+p = p-va lue between the new model and the reference model; SCM = stepwise covariate mode ling; V I = central volume of
+distnbution; WT = body we ight
+
+(Source: Applicant's Population PK Report, Table 9)
+
+48
+
+Reference ID 4672801
+
+For GS-441524, during the forward addition step, age, BCLCR, ethnicity, WT, and sex were selected, and
+backward elimination removed age (Table 24).
+Fixed allometry was explored from the SCM model. Inclusion of fixed allometry was found to worsen the
+objective function by 20 points compared to the SCM model. This was accompanied with a reduction of
+1 degree of freedom, making this impact just above the backward elimination criteria. Despite this, the
+allometric GS-441524 model was accepted based on the following rationale:
+1) RDV and GS-704277 models included allometry, and the fits were improved in these model
+scenarios.
+2) The worsening of fit was relatively small utilizing allometry in GS-441524 versus having the
+model from the SCM in which the WT parameter was selected only on the second
+intercompartmental clearance parameter. The allometric form of the model has a physiological
+basis.
+3) One of the intended uses of the model is for pediatric scaling simulations to estimate analyte
+exposures. A broadly accepted parsimonious form of body size in the final PPK model is
+preferable.
+This decision in the GS-441524 model allowed all analytes to be allometrically scaled in the final model.
+Once the allometric form of the GS-441524 model was selected, the other covariates selected in the
+SCM search were found to have reduced significance. The remaining covariates were tested for removal
+by order of least impact to greatest impact on the PPK model. The significance of BCLCR on CL was
+reduced to below acceptance criteria (approximately 5 OFV points) and was removed first. After the
+removal of BCLCR on CL, sex on V1 was next removed due to lack of significance (approximately 6 OFV
+points). The final non-WT covariate remaining in the model was Hispanic ethnicity. While this parameter
+had an impact of 24% on elimination CL based on the IIV structure included in the SCM (diagonal
+matrix), the magnitude of the effect was optimized near approximately 0 upon testing a block structure
+for IIV. Due to this, the ethnicity parameter was also removed. It is conceded that ethnicity might have
+some impact on both RDV and GS-441524; the impact is likely no more than 25% and will be reevaluated when additional data are available.
+
+49
+
+Reference ID: 4672801
+
+Table 24. Summary of GS-441524 SCM.
+
+(Source: Applicant’s Population PK Report, Table 10)
+
+Reviewer’s Comments: The applicant’s decisions to retain fixed allometric exponents versus fitted is
+critical for extrapolation into pediatrics. For the purposes of extrapolation it is good that the objective
+function values were lower with the fixed allometric relationships compared to the fitted ones as this is
+consistent with other pediatric PK and dosing experience in adolescents.
+Final Population PK Model
+Table 25 provides the final parameter estimates and standard errors associated with the final PPK
+model. Inclusion of fixed allometry resulted in reduction in IIV between 1% and 9% across analytes or
+remained unchanged as compared to the base model.
+Model diagnostics are shown in Figure 11 and Figure 12. The applicant utilized normalized prediction
+distribution errors (NPDEs) for the full model that utilized the m3 method for data that were below the
+limit of quantification, Figure 11. Standard goodness-of-fit plots are shown in Figure 12 for the final
+model fitting without using the m3 method.
+
+50
+
+Reference ID: 4672801
+
+Table 25. Summary of Sequential Final M odel PK Parameters for RDV, GS-704277, and GS-441524.
+Parameter - l\lodcl
+
+Pa rame ter Descri ption
+
+Population Estimate IRSE0/c,I
+
+0 1 - RDV
+
+Clearance RDV (L/h)
+
+48.2 [2%)
+
+02 - RDV
+
+Central volume RDV (L)
+
+6.34 [3%)
+
+03 - RDV
+
+Peripheral ' o lume RDV (L)
+
+6 [4%]
+
+04 - RDV
+
+I ntercompa rtmenl clearance RD V (L h)
+
+5.04 [4%)
+
+0 1 - GS-704277
+
+C learance GS-704277 (L/h)
+
+210 [3%)
+
+02 - GS-704277
+
+Central volume GS-704277 ( L)
+
+242 [3%)
+
+03 - GS-704277
+
+Pe ripheral 'olume GS-704277 (L)
+
+46 [6%]
+
+04 - GS-704277
+
+In1ercompa11men1 clearance
+GS-704277 (Uh)
+
+20.5 [9%)
+
+0 1 - GS-44 1524
+
+Clearance GS-441524 (L/h)
+
+17.6 [2%)
+
+02 - GS-441524
+
+Central volume GS-44 1524 ( L)
+
+I 04 [5%)
+
+03 - GS-441524
+
+First peripheral vol tune GS-441524 ( L)
+
+236 [5%)
+
+04- GS-441524
+
+lntercompartment clearance to first
+periph. cmt. GS-441524 (L/h)
+
+379 [6%)
+
+09 - GS-441524
+
+Second periphe ral volume GS-441524
+(L)
+
+233 [4%)
+
+Oio - GS-441524
+
+lnte rcompa nment clearance to second
+pe riph. cmt. GS-441524 (Uh)
+
+31.6[6%)
+
+ro2 11 - RDV
+
+IJV on CL- RDV (%CV)
+
+15% [28%)
+
+w2 22 - RDV
+
+!JV ofVc-RDV (%CV)
+
+32% [69%)
+
+51
+
+Reference ID 4672801
+
+Paramete r - Model
+
+Paramete r Desc ription
+
+Popu lation Estimate IRSE0/c,I
+
+ro2 n - RDV
+
+II V of Vp-RDV (%CV)
+
+15%[31 %]
+
+w2 11 - GS-704277
+
+nv o n CL-GS-704277 (%CV)
+
+32% [18%)
+
+2
+ro 21 - G
+
+CorTclation CL
+
+c GS-704277
+
+0.113 [17%)
+
+ro222 - GS-704277
+
+llV of' Vc-GS-704277 (%CV)
+
+390/o [ 17° o]
+
+ro 2n - GS-704277
+
+ll V ofVp-GS-704277 (%CV)
+
+26% [28%)
+
+ro2 11 - GS-441524
+
+II Vo n C L-GS-441524 (%CV)
+
+24% [20%)
+
+ro2 21 - GS-441524
+
+Correlatio n CL
+
+c GS-441524
+
+0.0527 [36%]
+
+ro2 J1 - GS-44 1524
+
+Correla tion CUVp l GS-441524
+
+0.0872 [20%)
+
+-441524
+
+JJV of Vc-GS-441524 (%CV)
+
+45% [19%)
+
+2
+ro n - GS-44 1524
+
+CorTclation Vc/Vp l GS-441524
+
+0.0356 [75%)
+
+ro2 n - GS-441524
+
+llVof'Vpl -GS-441524 (%CV)
+
+43% [ 18%)
+
+ro244 - GS-441524
+
+JI V of' Vp2 -GS-441524 (%CV)
+
+25% [21 %)
+
+Proportional resid ual error - RDV
+(%CV)
+
+45% [1 %]
+
+Addi tive resid ual error - RDV (ng/mL)
+
+0.884 [11 %)
+
+Proportional residual e n·or GS-704277 (~oCV)
+
+44% [I %]
+
+Additive residual error - GS-704277
+(ng/mL)
+
+0.604 [5%]
+
+Proportional residual e n or GS-441524 (0 oCV)
+
+31 % [0%]
+
+Add itive residual error - GS-441524
+(ng/mL)
+
+0.511 [16°0)
+
+2
+ro 22 - G
+
+-704277
+
+sqrt(05) - RDV
+06 - RDV
+sqrt( Os) - GS-704277
+06 - GS-704277
+sqrt(01) - GS-441524
+Os - GS-441524
+
+0 - abM>lute value of the estimate; ~oCV - percentage coefficient of variation: llV - intcrindividua l variabi lit): 01 V - objecti\e
+function value: periph. cmt. = peripheral compartment: PK = pharmacokinetic; RDV = n:mdesivir (GS-573-F"); RSI:: = relative
+standard error.
+
+Minimwn OPV - 30760.
+
+52
+
+Reference ID 4672801
+
+Figure 11. NPDEs of t he Fina l Sequent ial RDV, GS-704277, and GS-441524 PPK Model.
+RDV
+
+RDV
+
+2
+
+2
+
+UJ
+Cl
+a._ 0
+
+UJ
+Cl
+a._ 0
+
+z
+
+·2
+0
+
+•2000•
+
+z
+
+••
+4000
+
+·2
+
+6000
+
+12
+
+8
+
+Time after last dose (hrs.)
+
+GS-704277
+
+1m~·
+GS-704277
+
+2
+UJ
+Cl
+a._ 0
+
+4
+
+0
+
+Pop. predictions
+
+_
+
+2
+
+... _.
+
+UJ
+Cl
+a._ 0
+
+z
+
+z
+
+·2
+
+·2
+
+0
+
+-
+
+0
+
+5
+
+10
+
+15
+
+20
+
+25
+
+Time after last dose (hrs.)
+
+GS-441524
+
+GS-441524
+
+2
+
+2
+
+UJ
+Cl
+a._ 0
+
+UJ
+Cl
+a._ 0
+
+-2
+
+-2
+
+z
+
+z
+
+0
+
+100
+
+200
+
+300
+
+lltii
+0
+
+50
+
+100
+
+•
+
+150
+
+•
+200
+
+250
+
+Time after last dose (hrs.)
+
+Pop. predictions
+
+NPDE = nonnalizcd prediction distribution error; Pop. = populat ion; PopPK = population phannacokinctic; RDV = rcmdcsivir
+(GS-5734TM)
+NP DE versus population pred ictions (left) and time after last dose (right) for RDV (upper), GS-704277 (midd le). and GS-44 1524
+(lower) arc presented in the plol'i. Points arc indiv idua l NPDE. The gray line is the lowcss smooth curve.
+
+(Source: Applicant's Population PK Report, Figure 4)
+
+53
+
+Reference ID 4672801
+
+Figure 12. Standard Goodness-of-Fit Plots for Joint Simu ltaneous Model for RDV, GS-704277, and GS441524 PPK Model without M3 method .
+RDV
+
+RDV
+
+GS-441524
+
+1 0000 +------~
+
+1000
+
+1000
+100
+
+100
+
+10
+
+IJ)
+
+c:
+
+10
+
+CJ)
+
+c:
+.Q
+
+.Q
+
+'2:"
+
+10
+
+GS-705277
+
+Q)
+
+100
+
+1000
+
+8 1000 ~ - -100
+
+_, ..
+
+10
+
+m
+
+-'--'-----~
+
+2:
+
+GS-705277
+
+Sl 10000 + - - - - - - -
+
+.D
+
+0
+
+_,.
+
+1000
+100
+
+100
+
+,,
+
+1~
+
+1 ---~-~--r--'
+
+10
+
+/,' ' '
+
+10
+1000
+
+100
+
+Pop. predictions
+
+10000
+
+Ind. predictions
+
+RDV
+
+l : • i~J::.!: ~: ~ HE"~~c:>':
+
+~ -4 ---·------------- "T'-''-"-'ir-"'-''-'i-"~T"-"-'--i-~
+]l 0.0 2.5 5.0 7.5 10.0 12.50 50 100 150 200
+
+1000.0
+
+1.0
+
+10.0
+
+100.0
+
+.s::.
+O>
+'Qi
+
+3 4
+"O
+
+§ 0
+
+() -4
+
+0
+
+5
+
+10 15 20 25
+T ime after last dose (hours)
+
+0.1
+
+1.0 10.0 100.0
+Pop. predictions
+
+CWRES = condit ional [ cond.) weighted res iduals; Ind.= individual ; Pop.= population; Pop PK = population pharmacok inetic;
+RDV = rcmdesiv ir (GS-5734TM)
+The circ les represent indi vidual data points; the gray lines n:prcsent lowess smooth curves; and the dashed lines represent either
+the line of unity (y = x). the tm ity line at 0 (y = 0). or a CWRES of 6.
+
+(Source: Applicant's Population PK Report, Figure 31)
+
+Reviewer's Comments: The applicant's PPK model for RDV and its two metabolites is acceptable for
+descriptive labeling and projecting exposures in children down to 12 years of age. Normalized prediction
+distributions were utilized for diagnostics in place of the standard goodness-of-fit plots for the final
+model run that utilized M3. These plots and goodness-of-fit plots for the final model without m3 show
+good distribution about zero or the line of identity suggesting low model misspecification or bias.
+Additionally, RSE and ETA shrinkage values were generally low(< 10% RSE for fixed effects, <35% RSE for
+inter-patient variability, and <25% for shrinkage values), providing reassurance in model estimates.
+Simulations for Pediatric Patients and Comparison to PBPK Model
+The final PPK models were used to simulate the expected exposures (ie, AUCtau, Cmax, and observed
+drug concentration at the end of the dosing interval [Ctau]) in pediatric subjects for all 3 ana lytes at Day
+1 and Day 5 following the proposed adult and pediatric dosing regimens for RDV. The simulated
+regimens (with infusion t ime of 30 minutes) were 200 mg on Day 1 and 100 mg once daily on
+subsequent days for subjects 2: 40 kg, or 5 mg/kg on Day 1 and 2.5 mg/kg once daily on subsequent days
+for subjects< 40 kg. The results of the simulations were compared to observed exposure summaries
+from Study GS-US-399-5505 in HV and to PBPK predictions {Lutz 2020}. While the PBPK and observed
+54
+
+Reference ID 4672801
+
+exposures in Study GS-US-399-5505 were overlaid on the PPK allometric predictions, it should be noted
+that the population analysis considered exposures from pooled data including Studies GS US-399-1812,
+GS-US-399-1954, and GS-US- 399-5505.
+The results are presented in Figure 3 and Figure 4 and for Cmax and AUCtau , respectively, for all analytes
+and in Figure 5 for Ctau for GS-441524.
+Reviewer’s Comments: The population PK model projections to adolescents appear to be in line with
+those of the PBPK predictions for those subjects ≥40 kg. These projections suggest the exposures are at
+least that of the adults and mostly within the adult range for subjects ≥40 kg. These data support the
+approval of RDV from an efficacy perspective.
+
+55
+
+Reference ID: 4672801
+
+Signature Page 1 of 1
+
+-------------------------------------------------------------------------------------------This is a representation of an electronic record that was signed
+electronically. Following this are manifestations of any and all
+electronic signatures for this electronic record.
+-------------------------------------------------------------------------------------------/s/
+-----------------------------------------------------------MARIO SAMPSON
+09/18/2020 12:44:18 PM
+JUSTIN C EARP
+09/18/2020 12:47:27 PM
+HAO ZHU
+09/18/2020 01:57:35 PM
+YUCHING N YANG
+09/18/2020 01:59:31 PM
+MANUELA GRIMSTEIN
+09/18/2020 02:04:09 PM
+VIKRAM ARYA
+09/18/2020 02:07:01 PM
+KELLIE S REYNOLDS
+09/18/2020 02:16:55 PM
+
+Reference ID: 4672801
+
+

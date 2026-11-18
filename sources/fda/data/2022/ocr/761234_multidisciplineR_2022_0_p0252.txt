@@ -1,0 +1,71 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {BLA 761234}
+Opdualag™ (nivolumab and relatlimab-rmbw)
+
+ruthenium produces a chemiluminescent signal that is directly
+proportional to the concentration of the nivolumab on the plate.
+Analyte concentrations are determined by interpolation from the
+standard curve.
+
+Materials used for BMS-936558, supplied by Bristol-Myers Squibb:
+
+calibration curve & Reference Standard lot 241388ARS, 9.9mg/mL (used in validation)
+concentration Working Reference Standard lot 4227067WRS, 9.8 mg/mL (used in
+validation addendums and CA224047 sample analysis)
+
+Working Reference Standard lot 3106487-1, 10.0 mg/mL (used in
+validation addendums and CA224047 sample analysis)
+
+Calibrator concentrations: 0.1 (anchor), 0.2, 0.3, 1.0, 2.5, 4.0, 5.5, 6.5
+
+He/mL
+Validated assay 0.2 to 6.5 pg/mL
+range
+Material used for BMS-936558, Supplied by Bristol-Myers Squibb:
+
+QCs & concentration | Reference Standard lot 241388ARS, 9.9mg/mL (used in validation)
+Working Reference Standard lot 427067WRS, 9.8 mg/mL (used in
+validation addendums and CA224047 sample analysis)
+
+Working Reference Standard lot 3106487-1, 10.0 mg/mL (used in
+validation addendums and CA224047 sample analysis)
+
+QC concentrations: 0.2 (LLOQ), 0.6 (LQC), 1.5 (MQC), 4.8 (HQC), 6.5
+(ULOQ), 100 (dilution QC) pg/mL
+
+Minimum required 1:100
+dilutions (MRDs)
+
+Regression model & | Four-parameter logistic regression, no weighting
+
+weighting
+
+Validation Method Validation Summary Acceptability
+
+Parameters
+
+Calibration curve No of standard calibrators from LLOQ | 7 Yes
+
+performance during | to upper limit of quantitation (ULOQ)
+
+accuracy & precision | Cumulative accuracy (%bias) from -0.8 to 4.7% Yes
+LLOQ to ULOQ
+
+Per BMV,
+
+At least 75% and Cumulative precision (%CV) from $6.9% Yes
+
+minimum of 6 non- LLOQ to ULOQ
+
+zero calibrators
+
+without anchor
+
+points and
+
+251
+Version date: January 2020 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “The Applicant’s Position” are completed by the Applicant
+and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 4955210

@@ -1,0 +1,64 @@
+BLA Multidisciplinary Review and Evaluation
+BLA 761411
+Niktimvo (axatilimab-csfr)
+
+14.4.2 Exposure-Response Analysis
+ER (efficacy) Executive Summary
+
+The FDA’s Assessment:
+
+The exposure-response (E-R) efficacy analysis supports the dosage of 0.3 mg/kg (max 35 mg)
+Q2W for the treatment of recurrent or refractory cGVHD after at least 2 prior lines of systemic
+therapy in patients weighing 40 kg and above.
+
+Higher Cycle 1 exposure was associated with lower efficacy (ORR, 27-point mLSS improvement,
+and organ-specific response in joints and fascia) in AGAVE-201 patients who received 0.3 mg/kg
+Q2W, 1 mg/kg Q2W, or 3 mg/kg Q4W. There was no clear difference in efficacy across Cycle 1
+exposure in the subgroup of patients who received 0.3 mg/kg Q2W in AGAVE-201.
+
+ER (efficacy) Assessment Summary
+The Applicant’s Po: in:
+
+General Information
+
+Goal of ER analysis * To develop logistic regression models, time-to-event models, and linear
+regression models for different types of selected efficacy and biomarker
+endpoints with axatilimab exposure as a predictor
+
+* To perform a covariate search to identify clinically relevant intrinsic and
+extrinsic factors that impact efficacy
+
+* To evaluate various axatilimab dosing scenarios through simulations
+using the developed models to support the choice of an optimal
+treatment strategy
+
+Studies Included SNDX-6352-0504 (AGAVE-201)
+
+Endpoint Primary: ORR; Secondary: > 7-poing improvement in mLSS, DOR, SRR, organ-
+specific responses (skin, eyes, mouth, esophagus, upper and lower Gl tract,
+liver, lungs, joints and fascia), CSF-1 and NCMC biomarkers
+
+No. of Patients (total, and 239 (E-R analysis of efficacy)
+
+with individual PK}
+
+Population General _ | The overall population was 62.3% male (149 subjects), had a median age of
+Characteristics 53 years (range: 7-81 years), a median body weight of 71.6 kg (range: 18.1-
+(Table 110) 151 kg) and was primarily White (82.8%, 198 participants). Other reported
+
+races included Asian (6.7%, 16 participants) and Black/African American
+(2.1%, 5 participants).
+Pediatrics | The pediatric population had a median age of 12 (range: 7-15, 0% <2 years,
+
+(if any) 0% <=6 years, 57% < 12 years) and a median weight of 39.1 kg (range: 18.1-55
+kg).
+Dose(s) Included 0.3 mg/kg Q2W, 1 mg/kg Q2W, 3 mg/kg Q4W
+Exposure Metrics Explored Table 111 and Table 112
+(range)
+Covariates Evaluated Table 113
+248
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA. The FDA's position is highlighted in gray.
+
+Reference ID: 5429649

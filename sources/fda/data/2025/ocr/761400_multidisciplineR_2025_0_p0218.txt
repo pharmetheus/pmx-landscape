@@ -1,0 +1,52 @@
+NDA/BLA Multi-disciplinary Review and Evaluation Biologics License Application 761400
+
+linvoseltamab
+
+(b) (4)
+
+Table 60: Applicant - Geometric Mean (CV%) of Model-Based Exposure
+Parameters of Recommended Dosage for Linvoseltamab
+
+concentration of 127 mg/L
+(51%) is achieved after the first
+dose of the Q2W dosing
+regimen (i.e., the 12th dose of
+200 mg).
+
+Linvoseltamab clearance is
+0.68 L/day (52.2%) at baseline
+and 0.43 L/day (83.8%) at
+steady state. Linvoseltamab is
+expected to be metabolized
+into small peptides by catabolic
+pathways.
+
+Cmax (mg/L) Crrougn (mg/L) _| AUCt? (mg*day/L)
+200 mg weekly (Week 14) 124 (50.4) 61.8 (123) 592 (74.6)
+200 mg every other week 97.9 (52.7) 30.2 (213) 727 (95.3)
+(Week 24)
+200 mg Q4W (Week 48) 64.8 (45.1) 6.3 (362) 574 (84.6)
+
+Table 61: Applicant - Param
+Model
+
+a AUCt for the specified dosing interval, ending at the indicated week.
+
+eter Estimates and RSE from Final Population PK
+
+Parameter Label Parameter Estimate (95% Cl) | RSE (%) [shrinkage (%)]
+CL [L/Day] 0.2022 (0.1769 — 0.2275) 6.39
+VC [L] 4.125 (3.85 — 4.4) 3.407
+Q [L/Day] 0.6721 (0.5856 — 0.7586) 6.565
+VP [L] 3.029 (2.697 — 3.361) 5.586
+Vinax [nMOW/L/Day] 8.278 (5.105 — 11.45) 19.55
+KM [nmol] 99.78 (63.4 — 136.2) 18.6
+CL_IGG [-] 0.121 (0.08411 — 0.1579) 15.55
+
+183
+
+Version date: August 2023 (ALL NDA/BLA reviews)
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are
+completed by the Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5432800

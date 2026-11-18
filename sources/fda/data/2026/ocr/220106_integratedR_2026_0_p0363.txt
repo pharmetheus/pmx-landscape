@@ -1,0 +1,64 @@
+IND # 158707 Reviewer: Swetha Rudraiah
+
+__No. of Animals _ Dose Dose Concentration>
+
+Group? Subgroup Male Female (mg/kg/day) (mg/mL)
+1 (Control) 1 (Carcinogenicity) 60 60 0 0
+
+2 (Toxicokinetic) 5 5 0 0
+2 (Low) 1 (Carcinogenicity) 60 60 3 03
+
+2 (Toxicokinetic) 5 5 3 03
+3 (Intermediate) 1 (Carcinogenicity) 60 60 10 1
+
+2 (Toxicokimetic) 5 5 10 1
+4 (High) 1 (Carcinogenicity) 60 60 30 3
+
+2 (Toxicokinetic) 5 5 30 3
+
+a Group 1 was administered vehicle control article only.
+b Concentrations of the test article, PF-06700841, werg, corrected for lot-specific potency. A correction
+factor of | Was used for lot E010017986 and was used for lot 18-AP-00068.
+
+(Excerpted from Sponsor's submission)
+
+Observations and Results
+Mortality
+
+The survival rates for males and females are presented in Figure 1 and Figure 2,
+respectively. At Week 80, the survival rate in high-dose (HD) group males began to
+diverge from the control group, and a significant decrease (to 32%) was observed at
+Week 104 (Table 2 and Figure 1). Statistically significant decrease was observed in
+females in the LD group (Table 2 and Figure 2). Increased deaths in males were
+attributed to bacterial infection in the heart, kidney, and/or ascending urinary tract, and
+benign Leydig cell tumors in testis.
+
+Figure 1. Plot Showing Survival Rate in Males
+100
+
+90
+80
+70
+60
+
+50
+
+(%)
+
+40
+
+—+—0 mgikg/day
+
+30
+—=-3 mg/kg/day
+20 #10 mg/kg/day
+
+30 mgikgiday
+
+2 8 14 20 26 32 38 44 50 56 62 68 74 80 86 92 98 104
+Week of the Dosing Phase
+(Excerpted from Sponsor’s submission)
+
+Figure 2. Plot Showing Survival Rate in Females
+
+Reference ID: 5785500

@@ -1,0 +1,58 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {BLA 761289 and sBLA 761069}
+{IMJUDO, tremelimumab; IMFINZI, durvalumab}
+
+T300+D Sorafenib
+N=388 N=374
+
+Laboratory Abnormality Any grade Grade 3 or 4 Any grade Grade 3 or 4
+
+(%) (%) (%) (%)
+Chemistry
+Aspartate Aminotransferase 63 27 55 21
+increased
+Alanine Aminotransferase 56 18 Se 12
+increased
+Sodium decreased 46 15 40 11
+Bilirubin increased 41 8 47 11
+Alkaline Phosphatase 41 8 44 5
+increased
+Glucose increased 39 14 29 4
+Calcium decreased 34 oO 43 0.3
+Albumin decreased 31 0.5 37 17
+Potassium increased 28 3.8 21 2.6
+Creatinine increased 21 1.3 15 0.9
+Hematology
+Hemoglobin decreased 52 4.8 40 6
+Lymphocytes decreased 41 11 39 10
+Platelets decreased 29 1.6 35 shal
+Leukocytes decreased 20 0.8 30 1.1
+
+Source: ADSL (Subject-Level Analysis Dataset) - 2022-02-23, ADLB (Laboratory Test Results, Analysis Data) - 2022-02-23.
+Variables used: USUBJID, TRTO1A, SAFFL, PARAM, ABLFL, AVAL, ANRLO, ANRHI, EVLLBFL, TRTEDT, ADT, ADY, ATOXGRHN,
+ATOXGRLN
+
+Vital Signs
+Data: See the Applicant’s Position below.
+The Applicant’s Position:
+
+Changes from baseline in vital signs in the HCC T300+D pool were generally consistent with those in the
+Pan-tumor T75+D pool.
+
+The FDA's Assessment:
+Per the protocol, deteriorations in vital signs were only reported as adverse events if they fulfilled any of
+the SAE criteria or were the reason for treatment discontinuation.
+
+Electrocardiograms (ECGs)
+
+Data: See the Applicant’s Position below.
+
+The Applicant's Position:
+Neither the HIMALAYA study nor Study 22 were designed to formally assess ECG interval, rhythm, rate,
+or morphology. ECGs were collected at baseline and as clinically indicated throughout the studies.
+160
+Version date: July 2021 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5064925

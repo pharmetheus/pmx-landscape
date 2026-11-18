@@ -1,0 +1,426 @@
+[
+  {
+    "no": 1,
+    "name": "Ayvakit",
+    "ingr": "avapritinib",
+    "date": "1/9/2020",
+    "label": "CDER NME and new biologic compilation",
+    "appl": "212608"
+  },
+  {
+    "no": 2,
+    "name": "Tepezza",
+    "ingr": "teprotumumab-trbw",
+    "date": "1/21/2020",
+    "label": "CDER NME and new biologic compilation",
+    "appl": "761143"
+  },
+  {
+    "no": 3,
+    "name": "Tazverik",
+    "ingr": "tazemetostat",
+    "date": "1/23/2020",
+    "label": "CDER NME and new biologic compilation",
+    "appl": "211723"
+  },
+  {
+    "no": 4,
+    "name": "Pizensy",
+    "ingr": "lactitol",
+    "date": "2/12/2020",
+    "label": "CDER NME and new biologic compilation",
+    "appl": "211281"
+  },
+  {
+    "no": 5,
+    "name": "Nexletol",
+    "ingr": "bempedoic acid",
+    "date": "2/21/2020",
+    "label": "CDER NME and new biologic compilation",
+    "appl": "211616"
+  },
+  {
+    "no": 6,
+    "name": "Vyepti",
+    "ingr": "eptinezumab-jjmr",
+    "date": "2/21/2020",
+    "label": "CDER NME and new biologic compilation",
+    "appl": "761119"
+  },
+  {
+    "no": 7,
+    "name": "Barhemsys",
+    "ingr": "amisulpride",
+    "date": "2/26/2020",
+    "label": "CDER NME and new biologic compilation",
+    "appl": "209510"
+  },
+  {
+    "no": 8,
+    "name": "Nurtec ODT",
+    "ingr": "rimegepant",
+    "date": "2/27/2020",
+    "label": "CDER NME and new biologic compilation",
+    "appl": "212728"
+  },
+  {
+    "no": 9,
+    "name": "Sarclisa",
+    "ingr": "isatuximab-irfc",
+    "date": "3/2/2020",
+    "label": "CDER NME and new biologic compilation",
+    "appl": "761113"
+  },
+  {
+    "no": 10,
+    "name": "Isturisa",
+    "ingr": "osilodrostat",
+    "date": "3/6/2020",
+    "label": "CDER NME and new biologic compilation",
+    "appl": "212801"
+  },
+  {
+    "no": 11,
+    "name": "Zeposia",
+    "ingr": "ozanimod",
+    "date": "3/25/2020",
+    "label": "CDER NME and new biologic compilation",
+    "appl": "209899"
+  },
+  {
+    "no": 12,
+    "name": "Koselugo",
+    "ingr": "selumetinib",
+    "date": "4/10/2020",
+    "label": "CDER NME and new biologic compilation",
+    "appl": "213756"
+  },
+  {
+    "no": 13,
+    "name": "Pemazyre",
+    "ingr": "pemigatinib",
+    "date": "4/17/2020",
+    "label": "CDER NME and new biologic compilation",
+    "appl": "213736"
+  },
+  {
+    "no": 14,
+    "name": "Tukysa",
+    "ingr": "tucatinib",
+    "date": "4/17/2020",
+    "label": "CDER NME and new biologic compilation",
+    "appl": "213411"
+  },
+  {
+    "no": 15,
+    "name": "Trodelvy",
+    "ingr": "sacituzumab govitecan-hziy",
+    "date": "4/22/2020",
+    "label": "CDER NME and new biologic compilation",
+    "appl": "761115"
+  },
+  {
+    "no": 16,
+    "name": "Ongentys",
+    "ingr": "opicapone",
+    "date": "4/24/2020",
+    "label": "CDER NME and new biologic compilation",
+    "appl": "212489"
+  },
+  {
+    "no": 17,
+    "name": "Tabrecta",
+    "ingr": "capmatinib",
+    "date": "5/6/2020",
+    "label": "CDER NME and new biologic compilation",
+    "appl": "213591"
+  },
+  {
+    "no": 18,
+    "name": "Retevmo",
+    "ingr": "selpercatinib",
+    "date": "5/8/2020",
+    "label": "CDER NME and new biologic compilation",
+    "appl": "213246"
+  },
+  {
+    "no": 19,
+    "name": "Qinlock",
+    "ingr": "ripretinib",
+    "date": "5/15/2020",
+    "label": "CDER NME and new biologic compilation",
+    "appl": "213973"
+  },
+  {
+    "no": 20,
+    "name": "Cerianna",
+    "ingr": "fluoroestradiol F 18",
+    "date": "5/20/2020",
+    "label": "CDER NME and new biologic compilation",
+    "appl": "212155"
+  },
+  {
+    "no": 21,
+    "name": "[drug marketed without a proprietary name]",
+    "ingr": "artesunate",
+    "date": "5/26/2020",
+    "label": "CDER NME and new biologic compilation",
+    "appl": "213036"
+  },
+  {
+    "no": 22,
+    "name": "Tauvid",
+    "ingr": "flortaucipir F 18",
+    "date": "5/28/2020",
+    "label": "CDER NME and new biologic compilation",
+    "appl": "212123"
+  },
+  {
+    "no": 23,
+    "name": "Uplizna",
+    "ingr": "inebilizumab-cdon",
+    "date": "6/11/2020",
+    "label": "CDER NME and new biologic compilation",
+    "appl": "761142"
+  },
+  {
+    "no": 24,
+    "name": "Zepzelca",
+    "ingr": "lurbinectedin",
+    "date": "6/15/2020",
+    "label": "CDER NME and new biologic compilation",
+    "appl": "213702"
+  },
+  {
+    "no": 25,
+    "name": "Dojolvi",
+    "ingr": "triheptanoin",
+    "date": "6/30/2020",
+    "label": "CDER NME and new biologic compilation",
+    "appl": "213687"
+  },
+  {
+    "no": 26,
+    "name": "Byfavo",
+    "ingr": "remimazolam",
+    "date": "7/2/2020",
+    "label": "CDER NME and new biologic compilation",
+    "appl": "212295"
+  },
+  {
+    "no": 27,
+    "name": "Rukobia",
+    "ingr": "fostemsavir",
+    "date": "7/2/2020",
+    "label": "CDER NME and new biologic compilation",
+    "appl": "212950"
+  },
+  {
+    "no": 28,
+    "name": "Inqovi",
+    "ingr": "decitabine and cedazuridine",
+    "date": "7/7/2020",
+    "label": "CDER NME and new biologic compilation",
+    "appl": "212576"
+  },
+  {
+    "no": 29,
+    "name": "Xeglyze",
+    "ingr": "abametapir",
+    "date": "7/24/2020",
+    "label": "CDER NME and new biologic compilation",
+    "appl": "206966"
+  },
+  {
+    "no": 30,
+    "name": "Monjuvi",
+    "ingr": "tafasitamab-cxix",
+    "date": "7/31/2020",
+    "label": "CDER NME and new biologic compilation",
+    "appl": "761163"
+  },
+  {
+    "no": 31,
+    "name": "Blenrep",
+    "ingr": "belantamab mafodotin-blmf",
+    "date": "8/5/2020",
+    "label": "CDER NME and new biologic compilation",
+    "appl": "761158"
+  },
+  {
+    "no": 32,
+    "name": "Lampit",
+    "ingr": "nifurtimox",
+    "date": "8/6/2020",
+    "label": "CDER NME and new biologic compilation",
+    "appl": "213464"
+  },
+  {
+    "no": 33,
+    "name": "Evrysdi",
+    "ingr": "risdiplam",
+    "date": "8/7/2020",
+    "label": "CDER NME and new biologic compilation",
+    "appl": "213535"
+  },
+  {
+    "no": 34,
+    "name": "Olinvyk",
+    "ingr": "oliceridine",
+    "date": "8/7/2020",
+    "label": "CDER NME and new biologic compilation",
+    "appl": "210730"
+  },
+  {
+    "no": 35,
+    "name": "Viltepso",
+    "ingr": "viltolarsen",
+    "date": "8/12/2020",
+    "label": "CDER NME and new biologic compilation",
+    "appl": "212154"
+  },
+  {
+    "no": 36,
+    "name": "Enspryng",
+    "ingr": "satralizumab-mwge",
+    "date": "8/14/2020",
+    "label": "CDER NME and new biologic compilation",
+    "appl": "761149"
+  },
+  {
+    "no": 37,
+    "name": "Winlevi",
+    "ingr": "clascoterone",
+    "date": "8/26/2020",
+    "label": "CDER NME and new biologic compilation",
+    "appl": "213433"
+  },
+  {
+    "no": 38,
+    "name": "Sogroya",
+    "ingr": "somapacitan-beco",
+    "date": "8/28/2020",
+    "label": "CDER NME and new biologic compilation",
+    "appl": "761156"
+  },
+  {
+    "no": 39,
+    "name": "Detectnet",
+    "ingr": "copper Cu 64 dotatate",
+    "date": "9/3/2020",
+    "label": "CDER NME and new biologic compilation",
+    "appl": "213227"
+  },
+  {
+    "no": 40,
+    "name": "Gavreto",
+    "ingr": "pralsetinib",
+    "date": "9/4/2020",
+    "label": "CDER NME and new biologic compilation",
+    "appl": "213721"
+  },
+  {
+    "no": 41,
+    "name": "Inmazeb",
+    "ingr": "atoltivimab, maftivimab, and odesivimab-ebgn",
+    "date": "10/14/2020",
+    "label": "CDER NME and new biologic compilation",
+    "appl": "761169"
+  },
+  {
+    "no": 42,
+    "name": "Veklury",
+    "ingr": "remdesivir",
+    "date": "10/22/2020",
+    "label": "CDER NME and new biologic compilation",
+    "appl": "214787"
+  },
+  {
+    "no": 43,
+    "name": "Zokinvy",
+    "ingr": "lonafarnib",
+    "date": "11/20/2020",
+    "label": "CDER NME and new biologic compilation",
+    "appl": "213969"
+  },
+  {
+    "no": 44,
+    "name": "Oxlumo",
+    "ingr": "lumasiran",
+    "date": "11/23/2020",
+    "label": "CDER NME and new biologic compilation",
+    "appl": "214103"
+  },
+  {
+    "no": 45,
+    "name": "Imcivree",
+    "ingr": "setmelanotide",
+    "date": "11/25/2020",
+    "label": "CDER NME and new biologic compilation",
+    "appl": "213793"
+  },
+  {
+    "no": 46,
+    "name": "Danyelza",
+    "ingr": "naxitamab-gqgk",
+    "date": "11/25/2020",
+    "label": "CDER NME and new biologic compilation",
+    "appl": "761171"
+  },
+  {
+    "no": 47,
+    "name": "[drug marketed without a proprietary name]",
+    "ingr": "gallium Ga 68 PSMA-11",
+    "date": "12/1/2020",
+    "label": "CDER NME and new biologic compilation",
+    "appl": "212642"
+  },
+  {
+    "no": 48,
+    "name": "Orladeyo",
+    "ingr": "berotralstat",
+    "date": "12/3/2020",
+    "label": "CDER NME and new biologic compilation",
+    "appl": "214094"
+  },
+  {
+    "no": 49,
+    "name": "Klisyri",
+    "ingr": "tirbanibulin",
+    "date": "12/14/2020",
+    "label": "CDER NME and new biologic compilation",
+    "appl": "213189"
+  },
+  {
+    "no": 50,
+    "name": "Margenza",
+    "ingr": "margetuximab-cmkb",
+    "date": "12/16/2020",
+    "label": "CDER NME and new biologic compilation",
+    "appl": "761150"
+  },
+  {
+    "no": 51,
+    "name": "Orgovyx",
+    "ingr": "relugolix",
+    "date": "12/18/2020",
+    "label": "CDER NME and new biologic compilation",
+    "appl": "214621"
+  },
+  {
+    "no": 52,
+    "name": "Ebanga",
+    "ingr": "ansuvimab-zykl",
+    "date": "12/21/2020",
+    "label": "CDER NME and new biologic compilation",
+    "appl": "761172"
+  },
+  {
+    "no": 53,
+    "name": "Gemtesa",
+    "ingr": "vibegron",
+    "date": "12/23/2020",
+    "label": "CDER NME and new biologic compilation",
+    "appl": "213006"
+  }
+]

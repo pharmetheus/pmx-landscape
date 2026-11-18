@@ -1,0 +1,57 @@
+BLA 761416 Multi-disciplinary Review and Evaluation
+Zanidatamab
+
+e Dose escalation/expansion/confirmation:
+
+- Study ZWI-ZW25-101: Dose escalation and expansion study to evaluate zanidatamab
+monotherapy in participants with locally advanced unresectable and/or metastatic
+HER2-expressing solid tumors.
+
+- Study ZWI-ZW25-203: Open-label, single-arm, registrational study to evaluate the
+efficacy and safety of zanidatamab monotherapy in participants with advanced or
+metastatic HER2-amplified biliary tract cancers.
+
+e PopPK analysis and E-R analysis (refer to Section 19.4 for details).
+
+FDA agrees that the proposed recommended dosage of 20 mg/kg Q2W is approvable for the
+granted indication although the Applicant conducted limited dosage optimization (refer to the
+discussions in Section 6.2.2.1 and 6.3.2.2). The dosage was evaluated in a limited number of
+patients at few dosage levels; therefore, the E-R analysis heavily relies on the proposed
+recommended dosage of 20 mg/kg Q2W.
+
+6.2.2. General Dosing and Therapeutic Individualization
+
+6.2.2.1. General Dosing
+Data:
+
+In Part 1 of Study 101, 3 dosing schedules (QW, Q2W, and Q3W) for zanidatamab at doses
+ranging from 5 to 30 mg/kg were evaluated. The MTD of zanidatamab as monotherapy was not
+reached. The dose regimen of 5 mg/kg QW was not further evaluated since no CORR was
+observed at this dose level (N = 3). This is consistent with observed Crrough values following the
+first zanidatamab 5 mg/kg QW dose below the ICs0 (25.0 j1g/mL) (JZP598-IR-1535) for
+ligand-dependent cellular growth inhibition. Simulated clearance suggested that the
+target-mediated elimination pathway was likely saturated at 20 mg/kg Q2W, since it was
+comparable to that of the higher dose of 30 mg/kg Q2W (median CLss [10th to 90th percentiles]:
+0.0123 [0.0079 to 0.0190] and 0.0115 [0.0076 to 0.0178] L/h for 20 and 30 mg/kg Q2W,
+respectively) further supporting the dose selection of 20 mg/kg Q2W. Recommended doses of
+10 mg/kg QW and 20 mg/kg Q2W were selected for further evaluation in Part 2 of Study 101.
+Since 10 mg/kg QW and 20 mg/kg Q2W have comparable exposures, 20 mg/kg Q2W was
+selected for evaluation in pivotal Study 203 providing a less frequent dosing option.
+
+In Study 203, zanidatamab 20 mg/kg Q2W demonstrated clinically meaningful anticancer
+activity with durable responses and clinically meaningful survival benefits in participants with
+HER2-amplified BTC who had received at least 1 prior therapy (Section 8.1.2). The
+exposure-efficacy relationship was evaluated in Study 203 participants with HER2-amplified
+BTC. The exposure-efficacy analysis showed a trend toward approaching a plateau for the
+probability of COR assessed by ICR. As zanidatamab exposure (Cycle 1 Cmin) increased, the
+probability of COR increased and approached a plateau at the second quartile and beyond,
+suggesting that higher exposure/higher dose (ie, 25 mg/kg Q2W) is not expected to result in a
+greater probability of COR. Conversely, zanidatamab exposure in the majority of patients
+following a lower dose (ie, 15 mg/kg Q2W) is expected to be in the lower quartiles which may
+51
+Version date: August 2023 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5482010

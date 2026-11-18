@@ -1,0 +1,1666 @@
+<!-- estimation-software.md is generated from estimation-software.Rmd by `make readme`, run from the
+repository root. Edit the .Rmd. -->
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(echo = FALSE, message = FALSE, warning = FALSE, fig.path = "figures/results-", dpi = 110)
+pkgload::load_all("pmxlandscape", quiet = TRUE)
+pct <- function(x, digits = 0) paste0(formatC(100 * x, format = "f", digits = digits), "%")
+
+software <- read.csv("taxonomy/software.csv", colClasses = "character")
+estimation <- software$family[software$group == "estimation"]
+
+# The review record, with the revisions decided since on the same review text (for example the
+# reviewer running the applicant's model in a tool)
+fdaRevisions <- read.csv("sources/fda/results/record_revisions.csv", colClasses = "character")
+fdaReview <- fdaApplyRevisions(fdaReadResults("sources/fda"), fdaRevisions)
+# Drugs whose review names no tool: evidence from the submission's other documents (other FDA
+# reviews, EMA assessment reports), applied on top of the review record
+fdaOther <- read.csv("sources/fda/other_reviews/decisions.csv", colClasses = "character")
+fda <- fdaApplyOtherEvidence(fdaReview, fdaOther)
+nReviewNotStated <- sum(fdaReview$category == "popPK present, software not stated")
+fdaTab <- fdaToolTable(fda)
+fdaSum <- fdaSummary("sources/fda", results = fda)$sponsorByYear
+count <- function(label) fdaSum$All[fdaSum$sponsor_category == label]
+
+lit <- read.csv("sources/literature/results/shares.csv")
+litInfo <- readLines("sources/literature/results/run_info.txt")
+litDate <- sub("run_date: ", "", litInfo[1])
+# Papers naming each tool: the taxonomy patterns on the local corpus (local_search.R), every paper
+# of 2021 to 2026 found by the term route (the core and the extension) or the tool route
+# (development run, 2026-10-21)
+litAll <- read.csv(gzfile("sources/literature/results/ids_local_all.csv.gz"), colClasses = "character")
+litAll$year <- as.integer(litAll$year)
+litAll <- litAll[litAll$year >= 2021, ]
+litIds <- litAll[c("source", "year", "software", "id")]
+# Every paper was read for a model fit of its own (relevance codebook version 2); only papers read
+# as own_fit count
+litRel <- read.csv("classifications/lit_relevance/decisions_v2.csv", colClasses = "character")
+litRel$source <- c("PubMed" = "PubMed (title/abstract)", "Europe PMC" = "Europe PMC (full text)")[litRel$source]
+litBase <- litAll[litAll$software == "All (base set)", ]
+litBase$value <- litRel$value[match(paste(litBase$source, litBase$id), paste(litRel$source, litRel$item_id))]
+litBase$value[is.na(litBase$value)] <- "no text"
+litBase$route <- ifelse(litBase$tool_route == "", "term", ifelse(litBase$admitted == "tool", "tool", "both"))
+litExclude <- litBase$id[litBase$value != "own_fit"]
+litRelCheck <- read.csv("classifications/lit_relevance/checks_v2.csv")
+litShares <- literatureShares(litIds, estimation, exclude = litExclude, excludeNamed = TRUE)
+# Papers using each tool: the tool use classification (classifications/tool_use)
+toolTags <- read.csv("classifications/tool_use/tags.csv", colClasses = "character")
+toolCheck <- read.csv("classifications/tool_use/checks.csv")
+toolRuns <- read.csv("classifications/tool_use/runs.csv")
+litUsedShares <- literatureShares(literatureUsedIds(litIds, toolTags), estimation, exclude = litExclude, excludeNamed = TRUE)
+epBase0 <- length(unique(litIds$id[litIds$source == "Europe PMC (full text)" & litIds$software == "All (base set)"]))
+anyTool <- unique(litShares[c("source", "year", "n_any", "base_n")])
+anyShare <- tapply(anyTool$n_any, anyTool$source, sum) / tapply(anyTool$base_n, anyTool$source, sum)
+pmAff <- read.csv("sources/literature/results/pubmed_affiliations.csv", colClasses = "character")
+pmGroup <- ifelse(pmAff$affiliation_type %in% c("industry", "CRO"), "sponsor",
+  ifelse(pmAff$affiliation_type == "academia", "academia", NA)
+)
+names(pmGroup) <- pmAff$pmid
+litAff <- literatureShares(litIds[litIds$source == "PubMed (title/abstract)", ], estimation,
+  group = pmGroup[!is.na(pmGroup)], exclude = litExclude, excludeNamed = TRUE
+)
+
+xc <- read.csv("sources/fda/crosscheck/results/crosscheck_drugs.csv", colClasses = "character")
+# the cross-check table copies the record as it was; take the category and tool from the revised one
+xc$category <- fdaReview$category[match(xc$application, fdaReview$application)]
+xc$sponsor_tool_family <- fdaReview$sponsor_tool_family[match(xc$application, fdaReview$application)]
+notStated <- xc[xc$category == "popPK present, software not stated" & !xc$application %in% fdaOther$application, ]
+likely <- notStated[notStated$evidence == "sponsor paper near submission", ]
+noEvidence <- notStated[notStated$evidence == "none", ]
+valid <- xc[startsWith(xc$category, "Tool stated") & xc$evidence == "sponsor paper near submission", ]
+
+# One count table per source or group: totals, items naming a tool, each family
+countTable <- function(s, total, totalLabel, anyLabel = "Naming an estimation tool") {
+  s <- s[s$n > 0 | ave(s$n, s$family, FUN = sum) > 0, ]
+  s$total <- s[[total]]
+  knitr::kable(shareTable(s, totalLabel = totalLabel, anyLabel = anyLabel), align = paste0("l", strrep("r", length(unique(s$year)))))
+}
+
+pageFile <- "sources/page/results/page_abstracts.csv"
+page <- if (file.exists(pageFile)) read.csv(pageFile) else NULL
+pageReady <- !is.null(page) && !any(page$estimation_source == "pending")
+# Only the tools an abstract used count: the tool use classification drops comparators and
+# passing mentions. The analysis types still come from the earlier role reading (pageRoleCheck)
+pageRoleCheck <- read.csv("sources/page/results/role_check.csv")
+pageNamed <- pageToolUse(page, toolTags, used = FALSE)
+page <- pageToolUse(page, toolTags)
+```
+
+# Estimation software: detailed results
+
+PMx Landscape first measures which estimation software is used for population pharmacokinetic
+and related model-based analyses. This document gives the detailed results of that measure, source
+by source, with their methods, tables and charts, followed by the first analyses built on the
+measure and a first look at machine learning and AI. The project and its method are summarised in
+the [README](../../README.md), and terms used in a specific sense are defined in the
+[glossary](../glossary.md).
+
+```{r results-setup, include = FALSE}
+# A table folded by default, placed right after the paragraph that refers to it
+folded <- function(summary, tab) {
+  knitr::asis_output(paste0(
+    "<details>\n<summary>", summary, "</summary>\n\n", paste(tab, collapse = "\n"), "\n\n</details>\n"
+  ))
+}
+# Share of each family pooled over the years of one source or group: items naming it / items naming any tool
+pooled <- function(d, key = "family") {
+  den <- sum(unique(d[c("year", "n_any")])$n_any)
+  sort(tapply(d$n, d[[key]], sum) / den, decreasing = TRUE)
+}
+andList <- function(x) if (length(x) <= 1) paste(x) else paste(paste(x[-length(x)], collapse = ", "), "and", x[length(x)])
+
+# FDA
+withLikely <- table(c(fda$sponsor_tool_family[startsWith(fda$category, "Tool stated")], likely$inferred))
+fdaPatterns <- readPatterns("sources/fda/config/patterns.json")
+fdaSearched <- unique(sub(" (name expanded)", "", fdaPatterns$name[fdaPatterns$group == "estimation"], fixed = TRUE))
+fdaUnused <- setdiff(fdaSearched, fdaTab$family)
+fdaYears <- as.character(2021:2025)
+notStatedYear <- unlist(fdaSum[fdaSum$sponsor_category == "popPK present, software not stated", fdaYears]) /
+  unlist(fdaSum[fdaSum$sponsor_category == "Total", fdaYears])
+nTemplate <- sum(fda$evidence_strength == "indirect, template phrase only")
+likelyTab <- sort(table(likely$inferred), decreasing = TRUE)
+
+# Literature
+pmShare <- pooled(litShares[litShares$source == "PubMed (title/abstract)", ], "software")
+epShare <- pooled(litShares[litShares$source == "Europe PMC (full text)", ], "software")
+top3 <- c("NONMEM", "Monolix", "Phoenix NLME")
+litRestMax <- max(pmShare[setdiff(names(pmShare), top3)], epShare[setdiff(names(epShare), top3)])
+affGroups <- c(sponsor = "sponsor", academia = "academia")
+litAffShare <- lapply(affGroups, function(g) pooled(litAff[litAff$group == g, ], "software"))
+litAffN <- vapply(affGroups, function(g) sum(unique(litAff[litAff$group == g, c("year", "n_any")])$n_any), numeric(1))
+pmUsed <- pooled(litUsedShares[litUsedShares$source == "PubMed (title/abstract)", ], "software")
+epUsed <- pooled(litUsedShares[litUsedShares$source == "Europe PMC (full text)", ], "software")
+usedTool <- unique(litUsedShares[c("source", "year", "n_any", "base_n")])
+usedAny <- tapply(usedTool$n_any, usedTool$source, sum) / tapply(usedTool$base_n, usedTool$source, sum)
+
+# PAGE
+sharesAll <- pageShares(page)
+shares <- sharesAll[sharesAll$year >= 2016, ]
+recent <- page[page$year >= 2016, ]
+nDemo <- sum(recent$software_demo)
+years <- range(recent$year)
+nAbs <- sum(!recent$software_demo & recent$estimation_source != "unknown")
+nAny <- sum(!recent$software_demo & recent$estimation_source %in% c("abstract", "pdf"))
+recentNamed <- pageNamed[pageNamed$year >= 2016 & !pageNamed$software_demo, ]
+nNamed <- sum(recentNamed$estimation_source %in% c("abstract", "pdf"))
+rc <- function(m) pageRoleCheck[pageRoleCheck$measure == m, ]
+pageOldTab <- read.csv("classifications/tool_use/old_comparison.csv")
+pageOld <- list(share = sum(pageOldTab$Freq[as.character(pageOldTab$old) == as.character(pageOldTab$new)]) / sum(pageOldTab$Freq))
+affTab <- sort(table(recent$affiliation_type[!recent$software_demo]), decreasing = TRUE)
+pgShare <- pooled(shares[shares$group == "all", ])
+pgYear <- function(f, y) shares$share[shares$group == "all" & shares$family == f & shares$year == y]
+pgAffShare <- lapply(affGroups, function(g) pooled(shares[shares$group == g, ]))
+pgRestMax <- max(pgShare[setdiff(names(pgShare), c("NONMEM", "Monolix", "nlmixr", "Stan/Torsten"))])
+
+# Analysis types
+readTypes <- function(f) {
+  d <- read.csv(f, colClasses = "character")
+  d$year <- as.integer(d$year)
+  d$types <- lapply(strsplit(d$types, "; ", fixed = TRUE), function(x) x[x != ""])
+  d
+}
+atItems <- readTypes("analysis/analysis_types/results/items.csv")
+fdaAt <- readTypes("analysis/analysis_types/results/fda_items.csv")
+checks <- read.csv("analysis/analysis_types/results/checks.csv")
+litCheck <- checks[checks$check == "second reading check (fresh sample)", ]
+fdaCheck <- checks[checks$classifier == "reading", ]
+spreadOf <- function(d, mode, label) {
+  d$types <- lumpTypes(d$types, mode)
+  a <- typeByTool(d)
+  a <- a[a$tool == "All", ]
+  data.frame(source = label, type = a$type, share = a$share, n = a$n, n_tool = a$n_tool)
+}
+pageAt <- atItems[atItems$source == "PAGE" & atItems$year >= 2016, ]
+spread <- rbind(
+  spreadOf(pageAt, "detailed", sprintf("PAGE 2016 to 2026\n(%d)", nrow(pageAt))),
+  spreadOf(atItems[atItems$source == "Europe PMC", ], "detailed", sprintf("Europe PMC\n(%d)", sum(atItems$source == "Europe PMC"))),
+  spreadOf(atItems[atItems$source == "PubMed", ], "simple", sprintf("PubMed\n(%d)", sum(atItems$source == "PubMed"))),
+  spreadOf(fdaAt, "simple", sprintf("FDA reviews\n(%d)", nrow(fdaAt)))
+)
+pageLumped <- pageAt
+pageLumped$types <- lumpTypes(pageLumped$types, "detailed")
+liftTools <- c("NONMEM", "Monolix", "nlmixr", "Pumas", "Stan/Torsten")
+lift <- typeLift(pageLumped)
+lift <- lift[lift$tool %in% liftTools, ]
+lift <- lift[order(match(lift$tool, liftTools), match(lift$type, lumpedTypes)), ]
+fdaPkOnly <- mean(vapply(fdaAt$types, function(x) identical(x, "PK only"), logical(1)))
+pagePkOnly <- spread$share[startsWith(spread$source, "PAGE") & spread$type == "PK only"]
+shortType <- stats::setNames(c(
+  "PK only", "PK/PD or exposure-response", "non-continuous endpoints or time-to-event",
+  "full Bayesian models", "machine learning", "QSP or PBPK"
+), lumpedTypes)
+leanList <- function(t, dir) {
+  x <- lift[lift$tool == t & !is.na(lift$ratio) & (if (dir == "over") lift$lower > 1 else lift$upper < 1), ]
+  unname(shortType[x$type])
+}
+toolBullet <- function(t) {
+  o <- leanList(t, "over")
+  u <- leanList(t, "under")
+  paste0(
+    "- **", t, "** leans towards ", if (length(o)) andList(o) else "no type",
+    if (length(u)) paste0(", and away from ", andList(u)) else "", "."
+  )
+}
+maTool <- read.csv("analysis/analysis_types/results/page_methods_applied.csv")
+maTool <- maTool[maTool$by == "tool" & maTool$year >= 2016, ]
+methShare <- tapply(maTool$methods, maTool$group, sum) / tapply(maTool$methods + maTool$applied, maTool$group, sum)
+nTool <- stats::setNames(lift$n_tool[match(liftTools, lift$tool)], liftTools)
+liftN <- function(t, ty) lift$n[lift$tool == t & lift$type == ty]
+
+# Lag
+sponsor <- sharesAll[sharesAll$group == "sponsor", ]
+fdaCounts <- fdaToolCounts(fda)
+trend <- fitTrend(sponsor, "NONMEM")
+lags <- 0:15
+profile <- estimateLag(fdaCounts, trend, lags = lags)
+best <- profile$lag[which.max(profile$loglik)]
+plausible <- profile$lag[profile$rel_lik > 0.15]
+atEdge <- best %in% range(lags)
+slope <- stats::coef(trend$fit)[["year"]]
+pageLevel <- stats::plogis(stats::predict(trend$fit, newdata = data.frame(year = c(2016, 2026))))
+fdaLevel <- sum(fdaCounts$n[fdaCounts$family == "NONMEM"]) / sum(fdaCounts$n_any[fdaCounts$family == "NONMEM"])
+pageYears <- range(sponsor$year)
+crossYear <- (stats::qlogis(fdaLevel) - stats::coef(trend$fit)[[1]]) / slope
+projected <- projectShares(trend, best, c(2030, 2026 + best))
+pageNm <- sponsor[sponsor$family == "NONMEM", ]
+fdaNm <- fdaCounts[fdaCounts$family == "NONMEM", ]
+
+# Methodology to applied
+ma <- read.csv("analysis/analysis_types/results/page_methods_applied.csv")
+maGroups <- c("Monolix", "BUGS", "nlmixr", "Pumas", "Stan/Torsten")
+maTools <- ma[ma$by == "tool" & ma$group %in% maGroups, ]
+maMl <- ma[ma$by == "type" & ma$group == "Machine learning, AI, neural ODEs", ]
+maMl$group <- "Machine learning, AI (any tool)"
+maPlot <- rbind(maTools, maMl)
+methodShare <- function(g) {
+  d <- maPlot[maPlot$group == g & maPlot$methods + maPlot$applied > 0, ]
+  first <- head(d, 4)
+  last <- d[d$year >= 2023, ]
+  list(
+    firstYears = range(first$year), nFirst = sum(first$methods + first$applied),
+    first = sum(first$methods) / sum(first$methods + first$applied),
+    last = sum(last$methods) / sum(last$methods + last$applied), nLast = sum(last$methods + last$applied)
+  )
+}
+ms <- lapply(stats::setNames(unique(maPlot$group), unique(maPlot$group)), methodShare)
+```
+
+## FDA reviews of new drugs, 2021 to 2025
+
+**In short.**
+
+- NONMEM is the sponsor's tool for `r pct(fdaTab$share[1])` of the
+  `r sum(fdaTab$drugs)` drugs with an identifiable tool.
+- The other drugs with an identifiable tool use `r andList(fdaTab$family[-1])`.
+  No other estimation tool searched for is the sponsor's tool for any drug.
+- No document names the software for `r pct(nrow(notStated) / count("Total"))`
+  of the `r count("Total")` approvals.
+- In 2021 the software is still not named for `r pct(notStatedYear[["2021"]])`
+  of the approvals. In later years the share is `r pct(min(notStatedYear[-1]))`
+  to `r pct(max(notStatedYear[-1]))`.
+- The sponsor's own papers give a likely tool for `r nrow(likely)` of the
+  `r nrow(notStated)` drugs without a named tool. Adding these likely tools
+  `r if (pct(fdaTab$share[1]) == pct(withLikely[["NONMEM"]] / sum(withLikely))) paste("leaves NONMEM's share at", pct(fdaTab$share[1])) else paste("moves NONMEM's share from", pct(fdaTab$share[1]), "to", pct(withLikely[["NONMEM"]] / sum(withLikely)))`.
+
+**Methods.** The drugs counted are the novel drug approvals of 2021 to 2025 by
+the FDA's Center for Drug Evaluation and Research (CDER). For each drug, three
+kinds of review were searched for software names: the integrated, the
+multi-discipline and the clinical pharmacology review. Pages that hold only an
+image were read by optical character recognition (OCR). Every mention was then
+read to decide whose software it was: the sponsor's, the FDA reviewer's, or
+neither (for example a citation). The reviews call the sponsor the applicant.
+A [tool family](../../docs/glossary.md), meaning a tool with all its versions and
+spellings, counts once per drug.
+
+Sometimes the FDA reviewer ran the sponsor's model or dataset in a tool, and
+the review names no other tool for the sponsor. That tool then counts as the
+sponsor's, as indirect evidence
+([revisions](../../sources/fda/results/record_revisions.csv)).
+
+The evidence for the sponsor's software has these grades:
+
+- **Stated:** a document names the sponsor's software.
+- **Indirect:** the software is not stated as such, but the review shows it
+  was used, for example through a NONMEM control stream in the submitted file
+  list or an entry in the abbreviation list. Indirect evidence counts towards
+  the shares.
+- **Template-only case:** an indirect case whose only evidence is the FDA
+  template sentence "The final NONMEM data file for analysis contained ...".
+  Reviews have kept this sentence unchanged when the sponsor used another tool,
+  so Table 1 gives the shares both with and without these cases.
+- **Software not stated:** the review describes a population PK analysis, but
+  no document searched names its software.
+- **Likely tool:** for a drug whose software is not stated, the single tool
+  named in the sponsor's own papers on the drug. It is likely, not verified,
+  so the FDA record keeps these drugs as not stated.
+
+The reviews name no software for `r nReviewNotStated` drugs that have a
+population PK analysis. For these drugs, two more kinds of document were
+searched, and every hit was read: the submission's other review documents, and
+the assessment report of the European Medicines Agency (EMA) for the same
+active substance
+([other documents card](../../sources/fda/other_reviews/README.md)). A tool named
+there for the sponsor's population PK analysis counts as stated when the EU
+procedure was close in time to the FDA's. It counts as indirect when it comes
+from an earlier or later submission, or when the document names the tool only
+for a related analysis.
+
+For the drugs whose review names no software, Europe PMC was also searched for
+the sponsor's own papers on the drug, by brand name, ingredient or development
+code. For a drug still without a named tool, a single tool named in these
+papers counts as the likely tool if the papers were published from 4 years
+before to 2 years after approval. On the drugs whose review does name the
+tool, this rule agreed with the review for
+`r sum(valid$inferred == valid$sponsor_tool_family)` of `r nrow(valid)`.
+Details are in the [source card](../../sources/fda/SOURCE.md) and the
+[cross-check card](../../sources/fda/crosscheck/README.md).
+
+The chart shows each year's approvals by the sponsor's data analysis software.
+
+```{r fda-sponsor, fig.width = 8, fig.height = 4.5, fig.cap = "Stacked bars of CDER novel approvals per year by the sponsor's data analysis software"}
+plotFdaSponsor(fda)
+```
+
+Of the `r count("Total")` approvals, `r sum(fdaTab$drugs)` name the sponsor's
+software, directly or indirectly. Another
+`r count("popPK present, software not stated")` describe a population PK
+analysis without naming the software, and
+`r count("No popPK analysis in review")` contain no population PK analysis.
+
+Table 1 gives the drugs per tool, and each tool's share of the
+`r sum(fdaTab$drugs)` drugs with an identifiable tool. It also gives the
+shares without the `r nTemplate` template-only cases, and with the likely
+tools added (`r sum(withLikely)` drugs).
+
+```{r fda-table}
+folded("Table 1. The sponsor's data analysis software", knitr::kable(
+  data.frame(
+    "Sponsor's data analysis software" = fdaTab$family, Drugs = fdaTab$drugs,
+    "Share of the drugs with an identifiable tool" = pct(fdaTab$share),
+    "Share excluding template-only cases" = pct(fdaTab$share_excluding_template),
+    "Share with the likely tools from the literature added" = pct(as.numeric(withLikely[fdaTab$family]) / sum(withLikely)),
+    check.names = FALSE
+  ),
+  align = "lrrrr"
+))
+```
+
+Of the `r nReviewNotStated` drugs whose review names no software, the
+submission's other documents name it for `r nrow(fdaOther)`. The other
+`r nrow(notStated)` are the drugs without a named tool. Table 2 gives the
+evidence found in the sponsor's papers for each of them. Only the first row,
+a sponsor paper near submission, counts as a likely tool.
+
+```{r fda-crosscheck}
+tiers <- c(
+  "sponsor paper near submission", "sponsor paper, other years", "sponsor papers name several tools",
+  "other authors only", "none"
+)
+folded("Table 2. Drugs without a named tool: evidence in the sponsor's papers", knitr::kable(
+  data.frame(
+    "Evidence in the literature" = tiers,
+    Drugs = as.integer(table(factor(notStated$evidence, levels = tiers))),
+    "Tool named" = vapply(tiers, function(t) {
+      x <- table(notStated$inferred[notStated$evidence == t & notStated$inferred != ""])
+      if (length(x) == 0) "" else paste(names(x), x, collapse = ", ")
+    }, character(1)),
+    check.names = FALSE, row.names = NULL
+  ),
+  align = "lrl"
+))
+```
+
+**Conclusions**
+
+- Without the template-only cases, NONMEM's share of the drugs with an
+  identifiable tool is `r pct(fdaTab$share_excluding_template[1])`.
+- The estimation tools searched for that are never the sponsor's tool are
+  `r andList(fdaUnused)`.
+- The submission's other documents name the tool for `r nrow(fdaOther)` of the
+  `r nReviewNotStated` drugs whose review does not. Of these,
+  `r sum(fdaOther$evidence_strength == "stated")` are stated and
+  `r sum(fdaOther$evidence_strength == "indirect")` indirect.
+- The tool these other documents name is always
+  `r andList(unique(fdaOther$family))`. All but
+  `r sum(fdaOther$source != "EMA assessment report")` of them are EMA
+  assessment reports.
+- The likely tools from the sponsor's papers are
+  `r andList(paste(likelyTab, names(likelyTab)))`.
+
+**Discussion.** The FDA reviews are the only source here that records what
+was used in submissions rather than what was mentioned. They trail current
+practice, since the analyses are done 1 to 3 years before approval. The main
+gap is the drugs for which no document names the software. The cross-check of
+the sponsor's papers reaches only `r nrow(likely)` of the `r nrow(notStated)`
+drugs. EMA assessment reports agree with the FDA
+reviews where both name the tool. They name it for only about a third of the
+drugs, so they fill part of the gap rather than make a series of their own.
+
+**By twelve-month period.** Two further charts add a view of the approvals by
+July-to-June period, next to the 2021 to 2025 results by calendar year. They do
+not replace those results. The periods run from July to June, so that the
+latest period ends with the last half-year that is at least three months past.
+They cover July 2020 to June 2026. The charts therefore include approvals that
+the 2021 to 2025 results do not have: those of July to December 2020 and of
+January to June 2026.
+
+*Development run results for the approvals of July to December 2020 and January
+to June 2026: read by Claude Code subagents; the numbers may change at the
+production run.* For these approvals, the sponsor's software comes from a
+[development run](../../docs/glossary.md) of the
+[FDA tool use classification](../../classifications/fda_use/card.md), read by
+Claude Sonnet 5.5 subagents. When a review names no tool, a
+[reading of its own](../../classifications/fda_poppk/card.md) decides between
+"software not stated" and "no population PK analysis". These drugs were not
+searched in other documents, as the 2021 to 2025 drugs were. The 2021 to 2025
+approvals keep their values from the FDA record. "Review not posted" marks one
+approval of December 2020 (gallium Ga 68 PSMA-11) for which no review document
+was found on Drugs@FDA, the FDA's database of approved drugs. The charts show
+the periods as numbers of drugs and as shares.
+
+```{r fda-periods, fig.width = 8, fig.height = 4.5, fig.cap = "Stacked bars of CDER novel approvals per July-to-June period by the sponsor's data analysis software, as numbers of drugs and as shares"}
+fdaP <- read.csv("sources/fda/results/fda_periods.csv", colClasses = "character")
+plotFdaSponsor(fdaP, by = "period")
+plotFdaSponsor(fdaP, by = "period", scale = "percent")
+```
+## Published literature, 2021 to 2026
+
+*Development run results: read by Claude Code subagents; the numbers may change at the production run.*
+
+**In short.**
+
+- NONMEM is named in `r pct(pmShare[["NONMEM"]])` of the PubMed papers that
+  name an estimation tool, and in `r pct(epShare[["NONMEM"]])` of the Europe PMC
+  ones. Monolix is named in `r pct(pmShare[["Monolix"]])` and
+  `r pct(epShare[["Monolix"]])` of them.
+- Phoenix NLME follows with `r pct(pmShare[["Phoenix NLME"]])` (PubMed) and
+  `r pct(epShare[["Phoenix NLME"]])` (Europe PMC). Every other tool is at
+  `r pct(litRestMax)` or less.
+- Counting only the tools the authors used, NONMEM is used in
+  `r pct(pmUsed[["NONMEM"]])` (PubMed) and `r pct(epUsed[["NONMEM"]])` (Europe
+  PMC) of the papers that use an estimation tool. Monolix is used in
+  `r pct(pmUsed[["Monolix"]])` (PubMed) and `r pct(epUsed[["Monolix"]])` (Europe PMC).
+- In Europe PMC, `r pct(anyShare[["Europe PMC (full text)"]])` of the papers
+  with a model fit of their own name an estimation tool.
+- In PubMed, papers with an industry or contract research organisation (CRO)
+  first author name NONMEM more often than academic papers:
+  `r pct(litAffShare$sponsor[["NONMEM"]])` against
+  `r pct(litAffShare$academia[["NONMEM"]])` of the papers naming a tool. The
+  industry and CRO group is small, with `r litAffN[["sponsor"]]` papers.
+
+**Methods.** The method has three steps: find the papers, keep those with a
+model fit of their own, and count the tools in those. The papers are counted by
+publication year, and 2026 is partial. Preprints are left out.
+
+*Finding the papers.* A paper is found by one of two routes, or by both:
+
+- **Term route:** the paper uses the field's names for the method. These are
+  "population pharmacokinetic(s)", pharmacometric* (any word that starts so)
+  and "(non-)linear mixed effects", which make up the
+  [core set](../../docs/glossary.md), retrieved on `r litDate`. They are also the
+  short forms such as "population PK", "population pharmacodynamic" and NLME
+  (nonlinear mixed effects), which make up the [extension](../../docs/glossary.md).
+- **Tool route:** the paper names an [estimation tool](../../docs/glossary.md) made
+  for pharmacometric work (NONMEM, Monolix, Phoenix NLME, nlmixr, Pumas,
+  Pmetrics, saemix or S-ADAPT), whatever it calls its method.
+
+PubMed is searched in the title and abstract. Europe PMC is searched in the
+title, abstract and keywords for the terms. For the tools, it is searched in
+the methods of open-access full text.
+
+*Keeping the papers with a model fit of their own.* Every paper found was read
+for whether its authors fitted a population model of their own, in pharmacology
+(the [relevance classification](../../classifications/lit_relevance/card.md)). Claude
+Sonnet 5.5 read the papers. Only papers read as having a model fit of their own
+are counted:
+
+- Of the `r sum(litBase$source == "PubMed (title/abstract)")` PubMed papers
+  found, `r sum(litBase$source == "PubMed (title/abstract)" & litBase$value == "own_fit")`
+  have a model fit of their own.
+- Of the `r epBase0` Europe PMC papers found with full text,
+  `r sum(litBase$source == "Europe PMC (full text)" & litBase$value == "own_fit")`
+  have one.
+
+The papers left out use a published model, are reviews or commentaries, use
+mixed-effects models outside pharmacology, or could not be decided. The papers
+with a model fit of their own are the row "Papers with a model fit of their
+own" in Tables 3 and 4. A blind second reading of a random sample by Claude
+Opus 5.5, which did not see the first answers, gave the same value for
+`r litRelCheck$agree` of `r litRelCheck$items` papers.
+
+*Counting the tools.* The tools are found in each counted paper's own text,
+downloaded once (the [corpus](../../corpus/README.md)). The name patterns are the
+same as for PAGE and FDA. In PubMed the text is the title, abstract and
+keywords. In Europe PMC it is the full text of the open-access articles,
+without the reference list and the back matter. Each tool is counted in two
+ways:
+
+- **Naming:** a paper counts for every estimation tool it names.
+- **Using:** a paper counts only for the tools its authors used for their own
+  analysis, by the [tool use classification](../../classifications/tool_use/card.md).
+  Rules decide the clear cases and Claude Sonnet 5.5 reads the rest. A blind
+  second reading by Claude Opus 5.5 gave the same value for
+  `r toolCheck$agree` of `r toolCheck$compared` pairs of a paper and a tool.
+
+The two counts give two kinds of share, with different denominators. A naming
+share is out of the papers that name at least one estimation tool. A using
+share is out of the papers that use at least one.
+
+The first author's affiliation is taken from the PubMed record. Rules classify
+it as industry, CRO, academia, regulator or vendor. The IDs behind every count
+are stored. Details are in the [source card](../../sources/literature/SOURCE.md).
+
+**Naming shares.** The chart of naming shares gives each tool's share of the
+papers that name at least one estimation tool, per source and year. In PubMed
+these are `r pct(anyShare[["PubMed (title/abstract)"]])` of the papers with a
+model fit of their own, since software is rarely named in the abstract. In
+Europe PMC they are `r pct(anyShare[["Europe PMC (full text)"]])`.
+
+```{r literature, fig.width = 9, fig.height = 4.8, fig.cap = "Share of pharmacometric papers naming each tool per year, among papers naming any estimation tool, PubMed and Europe PMC"}
+plotLiteratureShares(litShares,
+  measure = "share", families = estimation, partialNote = paste0("2026 is partial (to ", litDate, ")."), log = FALSE,
+  denominator = paste(
+    "Share of the papers naming at least one estimation tool, per source and year;",
+    "a paper can name several tools, so the shares can add up to more than 100%."
+  )
+)
+```
+
+Tables 3 and 4 give the naming counts per year, including the tools too rare
+to see in the chart.
+
+```{r literature-table-pubmed}
+folded("Table 3. PubMed (title/abstract): papers per tool and year", countTable(
+  litShares[litShares$source == "PubMed (title/abstract)", c("year", "software", "n", "n_any", "base_n")] |>
+    setNames(c("year", "family", "n", "n_any", "base_n")), "base_n", "Papers with a model fit of their own"
+))
+```
+
+```{r literature-table-epmc}
+folded("Table 4. Europe PMC (full text): papers per tool and year", countTable(
+  litShares[litShares$source == "Europe PMC (full text)", c("year", "software", "n", "n_any", "base_n")] |>
+    setNames(c("year", "family", "n", "n_any", "base_n")), "base_n", "Papers with a model fit of their own"
+))
+```
+
+**Using shares.** The chart of using shares gives each tool's share of the
+papers that use at least one estimation tool for their own analysis. These are
+`r pct(usedAny[["PubMed (title/abstract)"]])` of the PubMed papers with a model
+fit of their own, and `r pct(usedAny[["Europe PMC (full text)"]])` of the
+Europe PMC ones.
+
+```{r literature-used, fig.width = 9, fig.height = 4.8, fig.cap = "Share of pharmacometric papers using each tool per year, among papers using any estimation tool, PubMed and Europe PMC"}
+plotLiteratureShares(litUsedShares,
+  measure = "share", families = estimation, partialNote = "2026 is partial.", log = FALSE,
+  title = "Share of pharmacometric papers using each tool",
+  denominator = paste(
+    "Share of the papers using at least one estimation tool for their own analysis, per source and year,",
+    "by the tool use classification; a paper can use several tools."
+  )
+) + ggplot2::labs(y = "Share of papers using a tool")
+```
+
+Table 4b gives, per tool, the number of papers naming it and the number using
+it.
+
+```{r literature-used-table}
+nu <- merge(
+  aggregate(n ~ source + software, litShares, sum), aggregate(n ~ source + software, litUsedShares, sum),
+  by = c("source", "software"), all = TRUE, suffixes = c("_named", "_used")
+)
+nu[is.na(nu)] <- 0
+nu <- nu[order(nu$source, -nu$n_named), ]
+folded("Table 4b. Papers naming and using each tool, 2021 to 2026", knitr::kable(
+  data.frame(Source = nu$source, Tool = nu$software, Naming = nu$n_named, Using = nu$n_used),
+  align = "llrr", row.names = FALSE
+))
+```
+
+**Naming shares by affiliation.** The chart of PubMed naming shares by
+affiliation splits the PubMed papers that name a tool by the first author's
+affiliation: industry and CRO against academia. Of the
+`r sum(anyTool$n_any[anyTool$source == "PubMed (title/abstract)"])` PubMed
+papers that name a tool, `r litAffN[["sponsor"]]` have an industry or CRO first
+author. `r litAffN[["academia"]]` have an academic one. The others have a first
+author from a regulator or a vendor, or no classified affiliation.
+
+```{r literature-affiliation, fig.width = 9, fig.height = 4.5, fig.cap = "Share of PubMed papers naming each tool per year, among papers naming any tool, industry and CRO against academia"}
+a <- litAff
+names(a)[names(a) == "software"] <- "family"
+plotPageShares(a,
+  measure = "share", minAbstracts = 10, unit = "papers",
+  groupLabels = c(sponsor = "Industry and CRO", academia = "Academia"),
+  title = "Share of PubMed papers naming each tool, by first author's affiliation", xlab = NULL,
+  caption = paste(
+    "Share of the PubMed papers naming at least one estimation tool in the title or abstract, per first author's",
+    "affiliation group and year. 2026 is partial."
+  )
+) + ggplot2::labs(y = "Share of papers naming a tool")
+```
+
+Table 5 gives the papers per affiliation group and year.
+
+```{r literature-affiliation-table}
+g <- unique(litAff[c("group", "year", "n_any", "base_n")])
+folded("Table 5. PubMed papers by first author's affiliation", knitr::kable(
+  data.frame(
+    " " = c("Industry and CRO: papers", "Industry and CRO: naming a tool", "Academia: papers", "Academia: naming a tool"),
+    t(sapply(sort(unique(g$year)), function(y) {
+      s <- g[g$year == y & g$group == "sponsor", ]
+      a <- g[g$year == y & g$group == "academia", ]
+      c(s$base_n, s$n_any, a$base_n, a$n_any)
+    })) |> t() |> as.data.frame() |> setNames(sort(unique(g$year))),
+    check.names = FALSE
+  ),
+  align = paste0("l", strrep("r", length(unique(g$year))))
+))
+```
+
+**Discussion.** The naming series counts mentions. A paper that names a tool
+may have used it, compared it or only discussed it. In Europe PMC a tool named
+anywhere in the article text counts, the introduction included.
+
+The using series removes comparators and passing mentions. In PubMed it can
+only see what the title and abstract say, so a tool named only among the
+keywords shows no use.
+
+Every paper was read for a model fit of its own. Reviews, and papers that only
+cite a tool, therefore leave both the naming and the using counts.
+
+The tool route was added after a check of the term route alone. That check
+showed that the term route held a smaller part of the papers using some tools
+(Monolix, Pumas) than of the papers using NONMEM. Papers that name no tool and
+do not use the field's names are still missed.
+
+The readers also found a few papers that do name a tool, in a form the search
+misses. Examples are NONMEM's expanded name without the word "NONMEM", or a name
+that Europe PMC's index does not match. These papers count as naming no tool.
+
+PubMed misses most software, since software is usually named only in the
+methods. Both databases keep indexing, so a re-run gives other numbers. The
+stored IDs make these numbers reproducible.
+
+## PAGE meeting abstracts, 2016 to 2026
+
+*Development run results: read by Claude Code subagents; the numbers may change at the production run.*
+
+**In short.**
+
+- NONMEM is used in `r pct(pgShare[["NONMEM"]])` of the `r nAny` abstracts
+  that use an estimation tool. NONMEM was used in `r pct(pgYear("NONMEM", 2016))` of those
+  from 2016 and `r pct(pgYear("NONMEM", 2026))` of those from 2026.
+- Monolix is second, with `r pct(pgShare[["Monolix"]])`. Monolix was used in
+  `r pct(pgYear("Monolix", 2016))` of those from 2016 and
+  `r pct(pgYear("Monolix", 2026))` of those from 2026.
+- nlmixr and Stan/Torsten follow, with `r pct(pgShare[["nlmixr"]])` and
+  `r pct(pgShare[["Stan/Torsten"]])`. Every other tool is at
+  `r pct(pgRestMax)` or less.
+- Industry and CRO abstracts and academic abstracts name the tools in similar
+  proportions. NONMEM is in `r pct(pgAffShare$sponsor[["NONMEM"]])` of the
+  industry and CRO abstracts and `r pct(pgAffShare$academia[["NONMEM"]])` of
+  the academic ones. For Monolix the two shares are
+  `r pct(pgAffShare$sponsor[["Monolix"]])` and
+  `r pct(pgAffShare$academia[["Monolix"]])`.
+
+**Methods.** PAGE is the annual meeting of the Population Approach Group in
+Europe.
+
+- **Abstracts:** every abstract of the PAGE meetings `r years[1]` to
+  `r years[2]` was retrieved from page-meeting.org. There was no meeting in
+  2020.
+- **Finding the tools:** tools are searched for in the abstract, with the
+  authors and references left out. Where the abstract names no tool, they are
+  searched for in the poster or slides PDF, and every hit there was read by
+  hand.
+- **Use:** the [tool use classification](../../classifications/tool_use/card.md)
+  decides what the authors did with each tool the abstract names, as for the
+  literature. Rules decide first. Claude Sonnet 5.5 subagents read the rest
+  (the [reading](../../docs/glossary.md)), and Claude Opus 5.5 subagents read a
+  sample again without seeing those answers (the
+  [blind check](../../docs/glossary.md)).
+- **What counts:** only the [estimation tools](../../docs/glossary.md) the authors
+  used. A tool named as a comparator or in passing does not count.
+- **Against the earlier reading:** the earlier reading of the same abstracts
+  gives the same value for `r pct(pageOld$share, 1)` of the tools. That is
+  `r sum(pageOldTab$Freq[as.character(pageOldTab$old) == as.character(pageOldTab$new)])`
+  of the `r sum(pageOldTab$Freq)` pairs of abstract and tool that both readings
+  decided.
+- **Left out:** the `r nDemo` abstracts of the Software Demonstration session,
+  since they are about a tool rather than its use.
+- **Affiliation:** the first author's [affiliation type](../../docs/glossary.md)
+  (academia, industry, contract research organisation (CRO), software vendor
+  or regulator) is decided by rules from the affiliation text, as for the
+  literature.
+
+Details are in the [source card](../../sources/page/SOURCE.md).
+
+Of the `r nAbs` abstracts, `r nNamed` name an estimation tool. Of the same
+`r nAbs`, `r nAny` (`r pct(nAny / nAbs)`) used one. The chart of tool shares
+per meeting year shows each tool's share of those `r nAny` abstracts.
+
+```{r page, fig.width = 9, fig.height = 4.5, fig.cap = "Share of PAGE abstracts using each tool per meeting year, among abstracts using any tool"}
+plotPageShares(shares[shares$group == "all", ],
+  measure = "share",
+  caption = paste(
+    "Share of the abstracts using at least one estimation tool, without Software Demonstration abstracts;",
+    "a tool counts if the authors used it (a comparator or a passing mention does not), as named in the",
+    "abstract or, where the abstract names none, the poster PDF. An abstract can use several tools."
+  )
+) + ggplot2::theme(strip.text = ggplot2::element_blank())
+```
+
+Table 6 gives the using counts per tool and year.
+
+```{r page-table}
+folded("Table 6. PAGE abstracts using each tool, per year", countTable(shares[shares$group == "all", ], "n_abstracts", "Abstracts", anyLabel = "Using an estimation tool"))
+```
+
+The first authors of the `r sum(affTab)` abstracts outside the Software
+Demonstration session have these affiliation types:
+
+- academia: `r affTab[["academia"]]`;
+- industry: `r affTab[["industry"]]`;
+- CRO: `r affTab[["CRO"]]`;
+- software vendor: `r affTab[["vendor"]]`;
+- regulator: `r affTab[["regulator"]]`;
+- not classified by the rules: `r affTab[["unclassified"]]`.
+
+These counts include the
+`r sum(!recent$software_demo & recent$estimation_source == "unknown")`
+abstracts whose PDF had to be searched but could not be read. Those abstracts
+are left out of the tool shares, which is why the shares count `r nAbs`
+abstracts.
+
+The chart by affiliation compares the abstracts with an industry or CRO first
+author against those with an academic first author.
+
+```{r page-affiliation, fig.width = 9, fig.height = 4.5, fig.cap = "Share of PAGE abstracts using a tool that use each tool, industry and CRO against academia"}
+plotPageShares(shares[shares$group %in% c("sponsor", "academia"), ],
+  measure = "share",
+  title = "Share of PAGE abstracts using each tool, by first author's affiliation",
+  caption = "Share of the abstracts of that affiliation group and year that use any estimation tool."
+)
+```
+
+Table 7 gives the abstracts per affiliation group and year.
+
+```{r page-affiliation-table}
+g <- unique(shares[shares$group %in% c("sponsor", "academia"), c("group", "year", "n_any", "n_abstracts")])
+folded("Table 7. PAGE abstracts by first author's affiliation", knitr::kable(
+  data.frame(
+    " " = c("Industry and CRO: abstracts", "Industry and CRO: using a tool", "Academia: abstracts", "Academia: using a tool"),
+    sapply(sort(unique(g$year)), function(y) {
+      s <- g[g$year == y & g$group == "sponsor", ]
+      a <- g[g$year == y & g$group == "academia", ]
+      c(s$n_abstracts, s$n_any, a$n_abstracts, a$n_any)
+    }) |> as.data.frame() |> setNames(sort(unique(g$year))),
+    check.names = FALSE
+  ),
+  align = paste0("l", strrep("r", length(unique(g$year))))
+))
+```
+
+**Discussion.** PAGE is a European meeting, and
+`r pct(affTab[["academia"]] / sum(affTab))` of the first authors are academic.
+An abstract shows work as of the abstract deadline in March of the meeting
+year. PAGE is therefore the most current of the sources, but it is not a
+sample of industry work.
+
+The counts are the tools the authors say they used. Abstracts in PAGE's
+methodology sessions that develop or test a tool count like any other. The
+prediction [From methodology to applied work](#2-from-methodology-to-applied-work)
+counts the methodology and applied abstracts separately.
+
+## Analysis types by tool
+
+*Development run results: read by Claude Code subagents (Claude Sonnet 5, 2026-09-27 to 2026-09-29); the numbers may change at the production run.*
+
+**In short.**
+
+- In FDA submissions, the sponsor's estimation tool is used for population
+  pharmacokinetics (PK) alone for `r pct(fdaPkOnly)` of the `r nrow(fdaAt)`
+  drugs whose review names that tool. At PAGE, `r pct(pagePkOnly)` of the
+  `r nrow(pageAt)` abstracts that used a tool are PK only.
+- At PAGE, NONMEM carries most of the plain PK work, and the other tools lean
+  towards the more complex analyses.
+- Stan/Torsten leans towards full Bayesian models. This is expected, since a
+  model fitted in Stan is a full Bayesian model.
+- nlmixr, Pumas and Stan/Torsten have few abstracts, and most of them are in
+  methodology sessions. Their leanings therefore describe methods work more
+  than applied work.
+- Monolix leans towards machine learning, but most of those abstracts are
+  from 2024 to 2026 and in methodology sessions. An earlier Monolix lean
+  towards QSP and PBPK did not survive the reading.
+
+**Methods.**
+
+- **Items:** every abstract of the PAGE meetings since 2016 and every PubMed
+  and Europe PMC paper that names an [estimation tool](../../docs/glossary.md) is
+  classified by analysis type. PAGE is the annual meeting of the Population
+  Approach Group in Europe. The type is decided from the title and abstract.
+- **Types:** the types run in order of complexity from PK only to
+  quantitative systems pharmacology (QSP) and physiologically based
+  pharmacokinetic (PBPK) models, as listed in Table 8. PK/PD stands for
+  pharmacokinetic-pharmacodynamic, AI for artificial intelligence, and a
+  neural ODE is a neural ordinary differential equation. Joint models are
+  counted with time-to-event, as they are rare. An item can have several
+  types.
+- **PAGE:** the abstracts were read for their types together with the tool
+  roles in an earlier reading, by Claude Sonnet 5 readers. A
+  [blind check](../../docs/glossary.md) gave the same set of types for
+  `r rc("same set of types")$both` of the
+  `r rc("abstracts compared")$first_reader` abstracts it compared. The tools
+  are those that reading found used.
+- **Literature:** keyword rules decide the types. A Claude Sonnet 5 reader
+  checked a fresh sample against the type definitions and agreed with the
+  rules on `r litCheck$agree` of `r litCheck$rows` items.
+- **Tools in the literature:** for Europe PMC the tool is the one that fitted
+  the final model, as read for the analysis of model and data size
+  (`analysis/model_size/`). A tool named only as a comparator therefore does
+  not count. In PubMed every tool named counts.
+- **FDA reviews:** the keyword rules did not work on these, because a review
+  mixes several analyses, tools and template sections on every page; two checks
+  of the rules agreed with fewer than half of the drugs. Claude Sonnet 5
+  readers read the text around each mention of the sponsor's tool instead. A check of
+  the reading agreed for `r fdaCheck$agree` of `r fdaCheck$rows` drugs.
+- **Presentation:** PubMed and the FDA reviews have few complex analyses, so
+  they are shown only as PK only against any other type.
+
+Details are in the [method card](../../analysis/analysis_types/README.md).
+
+The chart of analysis types per source shows, for each source, the share of
+the items with each type.
+
+```{r types-spread, fig.width = 11, fig.height = 4, fig.cap = "Share of items naming an estimation tool with each analysis type, per source"}
+plotTypeSpread(spread,
+  caption = paste(
+    "Share of the items with an estimation tool that have each type (PAGE: abstracts using one; Europe PMC: papers",
+    "fitting a model with one; PubMed: papers naming one; FDA: drugs, what the sponsor's tool was used for). An item",
+    "can have several types. The number of items is in each panel title."
+  )
+) + ggplot2::labs(title = "What the tools are used for")
+```
+
+Table 8 gives the counts.
+
+```{r types-spread-table}
+typeOrder <- c(lumpedTypes, "Any type other than PK only")
+tab <- data.frame(Type = typeOrder[typeOrder %in% spread$type])
+for (s in unique(spread$source)) {
+  tab[[gsub("\n", " ", s)]] <- vapply(tab$Type, function(ty) {
+    r <- spread[spread$source == s & spread$type == ty, ]
+    if (nrow(r) == 0) "" else sprintf("%d (%s)", r$n, pct(r$share))
+  }, "")
+}
+folded("Table 8. Items with each analysis type, per source", knitr::kable(
+  tab,
+  align = paste0("l", strrep("r", ncol(tab) - 1))
+))
+```
+
+The chart of ratios compares the tools at PAGE. For each tool and type, it
+divides the tool's share of the type by the share among the abstracts that do
+not use the tool. The 95% interval of each ratio is computed on the log scale
+(the Katz method). A tool leans towards a type when the whole interval is above
+1, and away from it when the whole interval is below 1.
+
+```{r types-lift, fig.width = 10, fig.height = 5.5, fig.cap = "PAGE 2016 to 2026: how much more or less common each type is among a tool's abstracts than among the other tools' abstracts"}
+plotTypeLift(lift,
+  caption = paste(
+    "PAGE abstracts 2016 to 2026 using an estimation tool, without Software Demonstration abstracts. Ratio of the",
+    "tool's share of the type to the share among abstracts not using the tool, with 95% intervals; 1 means no",
+    "difference. Missing points: no abstract of that tool has the type."
+  )
+) + ggplot2::labs(title = "Which tools lean towards which analyses (PAGE, 2016 to 2026)")
+```
+
+Table 9 gives the ratios, intervals and counts.
+
+```{r types-lift-table}
+folded("Table 9. PAGE 2016 to 2026: ratio of each tool's share of a type to the other tools' share", knitr::kable(
+  data.frame(
+    Tool = lift$tool, Type = lift$type,
+    "Abstracts with the type" = sprintf("%d of %d", lift$n, lift$n_tool),
+    "Ratio (95% interval)" = ifelse(is.na(lift$ratio), "",
+      sprintf("%.1f (%.1f to %.1f)", lift$ratio, lift$lower, lift$upper)
+    ),
+    check.names = FALSE, row.names = NULL
+  ),
+  align = "llrr"
+))
+```
+
+**Conclusions.** The first conclusion comes from Table 8, the leanings of the
+tools from Table 9. A tool "leans towards no type" when none of its intervals
+lies wholly above 1.
+
+```{r types-conclusions}
+knitr::asis_output(paste(c(
+  paste0(
+    "- In FDA submissions the sponsor's estimation tool is used for population PK alone for ",
+    pct(fdaPkOnly), " of the drugs; at PAGE, ", pct(pagePkOnly), " of the abstracts are PK only."
+  ),
+  vapply(liftTools, toolBullet, "")
+), collapse = "\n"))
+```
+
+**Discussion.** nlmixr, Pumas and Stan/Torsten have few PAGE abstracts, and
+most of them are in methodology sessions (the PAGE sessions on methods,
+recognised from the session label). Their leanings therefore describe methods
+work more than applied work. For each tool, the number of abstracts that used
+it and the share of its abstracts in methodology sessions:
+
+- NONMEM: `r nTool[["NONMEM"]]` abstracts, `r pct(methShare[["NONMEM"]])` in
+  methodology sessions;
+- Monolix: `r nTool[["Monolix"]]` abstracts,
+  `r pct(methShare[["Monolix"]])` in methodology sessions;
+- nlmixr: `r nTool[["nlmixr"]]` abstracts, `r pct(methShare[["nlmixr"]])` in
+  methodology sessions;
+- Pumas: `r nTool[["Pumas"]]` abstracts, `r pct(methShare[["Pumas"]])` in
+  methodology sessions;
+- Stan/Torsten: `r nTool[["Stan/Torsten"]]` abstracts,
+  `r pct(methShare[["Stan/Torsten"]])` in methodology sessions.
+
+The FDA figure covers only what the sponsor's estimation tool was used for.
+The reviews also describe analyses done with other tools, and those are not
+counted. An example is an exposure-response analysis in R next to a NONMEM
+population PK model. In PubMed, every tool named counts, and a mention is not
+proof of use.
+
+Two Monolix leanings were checked abstract by abstract, by a reader asked to
+test the claim. The
+`r liftN("Monolix", "Machine learning, AI, neural ODEs")` machine learning
+abstracts are all Monolix-based machine learning work. Most are from 2024 to
+2026 and in methodology sessions. Some are vendor tool development, or neural
+ODEs implemented in several tools at once.
+
+The earlier lean towards QSP and PBPK did not survive the reading. Of the
+`r liftN("Monolix", "QSP, PBPK")` abstracts left, 8 used Monolix for another
+part of the work. The PBPK model in those abstracts was built in another tool,
+or in a tool not stated. They count as QSP or PBPK for Monolix because each
+abstract gets its types as a whole, not per tool.
+
+```{r ms-setup, include = FALSE}
+msx <- read.csv("analysis/model_size/extractions.csv", colClasses = "character")
+msd <- modelSizeData(msx)
+msChecks <- read.csv("analysis/model_size/results/checks.csv")
+chk <- function(f) msChecks[msChecks$field == f, ]
+nmMx <- msd[msd$tool %in% c("NONMEM", "Monolix"), ]
+nmMx <- nmMx[order(nmMx$tool != "NONMEM"), ]
+ms1 <- nmMx[nmMx$n_models %in% 1, ] # one final model per paper
+msPk <- ms1[ms1$analysis %in% "pk_only", ]
+msMeasures <- c("fixed", "random", "structural", "covariates", "iov", "covariances", "residual")
+msMean <- function(d, tool, m) {
+  s <- modelSizeSummary(d[d$tool == tool, ], measures = m)
+  s
+}
+ratioRows <- function(d, label, tools) {
+  do.call(rbind, lapply(c("fixed", "random", "structural", "covariates"), function(m) {
+    do.call(rbind, lapply(c(FALSE, TRUE), function(a) cbind(comparison = label, modelSizeRatio(d, m, adjust = a, tools = tools))))
+  }))
+}
+alg <- msd[msd$n_models %in% 1 & msd$algorithm %in% c("FOCE", "SAEM"), ]
+alg$tool_orig <- alg$tool
+alg$tool <- alg$algorithm
+msRatios <- rbind(
+  ratioRows(ms1, "Monolix against NONMEM, all models", c("NONMEM", "Monolix")),
+  ratioRows(msPk, "Monolix against NONMEM, PK only", c("NONMEM", "Monolix")),
+  ratioRows(alg, "SAEM against FOCE (any tool), all models", c("FOCE", "SAEM"))
+)
+rr <- function(comparison, m, adjusted = TRUE) msRatios[msRatios$comparison == comparison & msRatios$measure == m & msRatios$adjusted == adjusted, ]
+fmtRatio <- function(r) sprintf("%.2f (%.2f to %.2f)", r$ratio, r$lower, r$upper)
+direction <- function(r, what) {
+  if (r$upper < 1) paste("fewer", what, "than") else if (r$lower > 1) paste("more", what, "than") else paste("about as many", what, "as")
+}
+sm <- function(d, tool, m) {
+  x <- d[[m]][d$tool == tool]
+  mean(x, na.rm = TRUE)
+}
+summedAdj <- rbind(modelSizeRatio(nmMx, "fixed", TRUE), modelSizeRatio(nmMx, "random", TRUE))
+dsTools <- names(sort(table(msd$tool[!is.na(msd$n_subjects)]), decreasing = TRUE))
+dsTools <- dsTools[table(msd$tool[!is.na(msd$n_subjects)])[dsTools] >= 10]
+medSubj <- vapply(dsTools, function(t) stats::median(msd$n_subjects[msd$tool == t], na.rm = TRUE), numeric(1))
+nAlgStated <- sum(nmMx$tool == "NONMEM" & !nmMx$algorithm %in% "Not stated")
+```
+## Model and data size by tool
+
+*Development run results: read by Claude Code subagents; the numbers may change at the production run.*
+
+**In short.**
+
+- The hypothesis that the SAEM method (stochastic approximation expectation
+  maximisation, the Monolix default) leads to larger models holds for the
+  random effects, but not for the fixed effects. Models fitted with Monolix,
+  and with SAEM whatever the tool, carry more terms for inter-individual
+  variability (IIV). NONMEM models carry more covariate effects before
+  adjustment, but not after: the adjusted ratio for the covariate effects is
+  `r fmtRatio(rr("Monolix against NONMEM, all models", "covariates"))`.
+- Monolix models have `r direction(rr("Monolix against NONMEM, all models", "random"), "random effects")`
+  NONMEM models: `r sprintf("%.1f", sm(ms1, "Monolix", "random"))`
+  against `r sprintf("%.1f", sm(ms1, "NONMEM", "random"))` IIV terms on average.
+  The adjusted ratio is `r fmtRatio(rr("Monolix against NONMEM, all models", "random"))`.
+  For models of the pharmacokinetics alone (PK only) it is
+  `r fmtRatio(rr("Monolix against NONMEM, PK only", "random"))`.
+- Before adjustment, Monolix models have `r direction(rr("Monolix against NONMEM, all models", "fixed", FALSE), "fixed effects")`
+  NONMEM models: `r sprintf("%.1f", sm(ms1, "Monolix", "fixed"))`
+  against `r sprintf("%.1f", sm(ms1, "NONMEM", "fixed"))` on average. The
+  difference lies mainly in the covariate effects:
+  `r sprintf("%.1f", sm(ms1, "Monolix", "covariates"))` against
+  `r sprintf("%.1f", sm(ms1, "NONMEM", "covariates"))`.
+- Adjusted for analysis type, data size and year, the fixed-effect ratio is
+  `r fmtRatio(rr("Monolix against NONMEM, all models", "fixed"))`. For PK only
+  models it is `r fmtRatio(rr("Monolix against NONMEM, PK only", "fixed"))`.
+- By estimation method, SAEM models have `r direction(rr("SAEM against FOCE (any tool), all models", "random"), "random effects")`
+  models fitted by first-order conditional estimation
+  (FOCE), with an adjusted ratio of
+  `r fmtRatio(rr("SAEM against FOCE (any tool), all models", "random"))`. They
+  have `r direction(rr("SAEM against FOCE (any tool), all models", "fixed"), "fixed effects")`
+  FOCE models, with a ratio of
+  `r fmtRatio(rr("SAEM against FOCE (any tool), all models", "fixed"))`.
+
+**Methods.** The hypothesis is that SAEM, the Monolix default, is more
+permissive than NONMEM's gradient-based methods, and so leads to larger
+models. The terms used here:
+
+- **Fixed effects:** the structural fixed effects plus the covariate effects
+  of the final model. Residual error parameters are not counted.
+- **Random effects:** the inter-individual variability (IIV) terms of the
+  final model.
+- **IOV:** inter-occasion variability.
+- **SAEM:** stochastic approximation expectation maximisation, the default
+  estimation method of Monolix.
+- **FOCE:** first-order conditional estimation, a gradient-based method of
+  NONMEM.
+- **PK only:** a model of the pharmacokinetics (PK) alone.
+
+The papers are those of the Europe PMC [core set](../../docs/glossary.md) from 2021
+to 2026 that name an estimation tool: `r nrow(msx)` papers. Claude Sonnet 5
+read each paper and recorded:
+
+- whether the authors fitted a population model of their own;
+- the fitting tool, the estimation method and the analysis type;
+- from the final parameter table, the number of structural fixed effects,
+  covariate effects, IIV terms, IOV terms, random-effect covariances and
+  residual error parameters;
+- the number of subjects and of observations in the data.
+
+A blind check by Claude Opus 5.5 read a random `r chk("own_fit")$sample` of the
+`r nrow(msx)` papers again. The two readers agreed on the tool for
+`r chk("tool")$agree_exact` of `r chk("tool")$compared` papers. They agreed on
+the fixed effects for `r chk("fixed effects")$agree_exact` of
+`r chk("fixed effects")$compared` papers, and on the random effects for
+`r chk("random effects (IIV)")$agree_exact` of `r chk("random effects (IIV)")$compared`.
+Their counts showed no systematic difference.
+
+The tool comparison uses the papers with a single final model, since several
+models added together would read as one large model. Of these,
+`r sum(ms1$tool == "NONMEM" & !is.na(ms1$fixed))` NONMEM papers and
+`r sum(ms1$tool == "Monolix" & !is.na(ms1$fixed))` Monolix papers give a count
+of their fixed effects. Not every paper gives every part of the model, so the
+number of papers differs a little from part to part; Table 10 gives it for
+each. The ratio of the Monolix mean to the NONMEM mean comes from a
+quasi-Poisson regression of the count on the tool. It is given crude, and
+adjusted for analysis type, data size (the log number of subjects) and
+publication year. The same regression compares SAEM with FOCE, whatever the
+tool. Details: [method card](../../analysis/model_size/README.md).
+
+The model-size chart shows the distribution of fixed and random effects in the
+final models, with the mean and its 95% interval, for all models and for PK
+only models.
+
+```{r model-size, fig.width = 8, fig.height = 5.5, fig.cap = "Fixed and random effects in the final model, NONMEM against Monolix, all models and PK only"}
+plotModelSize(ms1,
+  caption = paste(
+    "Europe PMC papers 2021 to 2026 whose authors fitted one final population model with NONMEM or Monolix.",
+    "Fixed effects: structural plus covariate effects; random effects: IIV terms.",
+    "Violins: the distribution of counts; points and bars: the mean and its 95% interval."
+  )
+) + ggplot2::labs(title = "Model size: NONMEM against Monolix")
+```
+
+Table 10 gives the mean of every part of the final model, per tool.
+
+```{r model-size-table}
+cellMean <- function(d, tool, m) {
+  s <- modelSizeSummary(d[d$tool == tool, ], measures = m)
+  if (nrow(s) == 0 || s$n == 0) "" else sprintf("%.1f (%.1f to %.1f), n=%d", s$mean, s$lower, s$upper, s$n)
+}
+msLabels <- c(
+  fixed = "Fixed effects (structural + covariate)", random = "Random effects (IIV)", structural = "Structural fixed effects",
+  covariates = "Covariate effects", iov = "IOV terms", covariances = "Random-effect covariances", residual = "Residual error parameters"
+)
+folded("Table 10. Mean number of parameters in the final model (95% interval, papers)", knitr::kable(
+  data.frame(
+    Parameters = unname(msLabels[msMeasures]),
+    "NONMEM, all" = vapply(msMeasures, function(m) cellMean(ms1, "NONMEM", m), ""),
+    "Monolix, all" = vapply(msMeasures, function(m) cellMean(ms1, "Monolix", m), ""),
+    "NONMEM, PK only" = vapply(msMeasures, function(m) cellMean(msPk, "NONMEM", m), ""),
+    "Monolix, PK only" = vapply(msMeasures, function(m) cellMean(msPk, "Monolix", m), ""),
+    check.names = FALSE, row.names = NULL
+  ),
+  align = "lrrrr"
+))
+```
+
+Table 11 gives the ratio of Monolix to NONMEM means, crude and adjusted, and
+the same ratio for SAEM against FOCE whatever the tool.
+
+```{r model-size-ratios}
+wide <- do.call(rbind, lapply(split(msRatios, list(msRatios$comparison, msRatios$measure), drop = TRUE), function(x) {
+  data.frame(
+    Comparison = x$comparison[1], Parameters = unname(msLabels[x$measure[1]]),
+    "Crude ratio (95% interval)" = fmtRatio(x[!x$adjusted, ]), "Adjusted ratio (95% interval)" = fmtRatio(x[x$adjusted, ]),
+    "Papers (adjusted)" = x$n[x$adjusted], check.names = FALSE
+  )
+}))
+wide <- wide[order(match(wide$Comparison, unique(msRatios$comparison)), match(wide$Parameters, msLabels)), ]
+folded("Table 11. Ratio of mean parameter counts, crude and adjusted for analysis type, data size and year", knitr::kable(
+  wide,
+  row.names = FALSE, align = "llrrr"
+))
+```
+
+The data-size chart shows the number of subjects and of observations in the
+dataset of the final model, per tool.
+
+```{r data-size, fig.width = 9, fig.height = 6, fig.cap = "Subjects and observations in the dataset of the final model, per tool"}
+plotDataSize(msd,
+  minPapers = 10,
+  caption = paste(
+    "Europe PMC papers 2021 to 2026 whose authors fitted a population model of their own, per fitting tool with at least",
+    "10 papers giving the number of subjects. Log scale; the point marks the median; n = papers."
+  )
+) + ggplot2::labs(title = "Data size per tool")
+```
+
+Table 12 gives the medians and quartiles of the data size, per tool.
+
+```{r data-size-table}
+q <- function(x) {
+  x <- x[!is.na(x)]
+  if (!length(x)) "" else sprintf("%s (%s to %s)", format(round(stats::median(x)), big.mark = ","),
+    format(round(stats::quantile(x, 0.25)), big.mark = ","), format(round(stats::quantile(x, 0.75)), big.mark = ","))
+}
+folded("Table 12. Data size per tool: median (quartiles) and papers", knitr::kable(
+  data.frame(
+    Tool = dsTools,
+    "Papers, own fit" = vapply(dsTools, function(t) sum(msd$tool == t), numeric(1)),
+    "Subjects" = vapply(dsTools, function(t) q(msd$n_subjects[msd$tool == t]), ""),
+    "Papers giving subjects" = vapply(dsTools, function(t) sum(!is.na(msd$n_subjects[msd$tool == t])), numeric(1)),
+    "Observations" = vapply(dsTools, function(t) q(msd$n_obs[msd$tool == t]), ""),
+    "Papers giving observations" = vapply(dsTools, function(t) sum(!is.na(msd$n_obs[msd$tool == t])), numeric(1)),
+    check.names = FALSE, row.names = NULL
+  ),
+  align = "lrrrrr"
+))
+```
+
+**Conclusions**
+
+- The median dataset has `r andList(paste(round(medSubj), "subjects for", names(medSubj)))`.
+
+**Discussion.** Most of the fixed-effect difference between the tools goes
+with data size and analysis type. The adjusted ratio is close to 1
+overall`r if (rr("Monolix against NONMEM, PK only", "fixed")$upper < 1) paste0(", although PK only models keep a small difference, ", fmtRatio(rr("Monolix against NONMEM, PK only", "fixed"))) else ""`.
+
+SAEM models are mostly Monolix models: `r sum(alg$algorithm == "SAEM" & alg$tool_orig == "Monolix")`
+of `r sum(alg$algorithm == "SAEM")`. The comparison by estimation method
+therefore adds little to the comparison by tool. The papers cannot tell
+whether the extra random effects come from the estimation method or from how
+models are usually built in each tool.
+
+The NONMEM papers state the estimation method in `r nAlgStated` of
+`r sum(nmMx$tool == "NONMEM")` cases. The counts come only from papers that
+show the final estimates in the article text.
+
+Counting all final models of a paper together gives an adjusted ratio of
+`r fmtRatio(summedAdj[1, ])` for the fixed effects. For the random effects it
+is `r fmtRatio(summedAdj[2, ])`.
+
+The data are observational: tool, data and purpose come together. The
+adjustment removes only what analysis type, data size and year explain.
+
+## Predictions
+
+*Development run results: read by Claude Code subagents; the numbers may change at the production run.*
+
+Two ways of reading ahead from the data: how far regulatory submissions trail
+what industry shows at PAGE, and how methodology work at PAGE turns into
+applied work some years later.
+
+### 1. The lag of FDA submissions behind PAGE
+
+**In short.**
+
+- NONMEM's share of the PAGE abstracts from industry and contract research
+  organisations (CROs) follows a trend from `r pct(pageLevel[1])` in 2016 to
+  `r pct(pageLevel[2])` in 2026.
+- NONMEM's share of the FDA approvals of 2021 to 2025 is `r pct(fdaLevel)`.
+  That is `r sum(fdaNm$n)` of the `r sum(fdaNm$n_any)` drugs with an
+  identifiable tool.
+- Extended back in time, the PAGE trend reaches NONMEM's FDA share only around
+  `r round(crossYear)`. That year lies before the PAGE data begin, so it says
+  only that the FDA series trails PAGE by more than a decade.
+- Lags of `r min(plausible)` to `r max(plausible)` years fit about as well
+  (relative likelihood above 0.15)`r if (atEdge) paste0(", and the best fit is at ", best, " years, the longest lag the PAGE years allow. The lag is therefore a lower bound, not an estimate") else ""`.
+
+**Methods.** The idea is that PAGE shows what industry does now, while FDA
+reviews show analyses done years earlier. If so, the FDA share of a tool in approval year t should
+equal the PAGE share in year t minus some lag. The PAGE share is taken among
+the abstracts that used a tool and whose first author works in industry or at
+a CRO. The FDA share is taken among the drugs with an identifiable tool: those
+whose review states, directly or indirectly, the tool the applicant used.
+
+The test uses NONMEM, the only tool with enough FDA counts. A logistic trend
+in year is fitted to NONMEM's PAGE share from `r pageYears[1]` to
+`r pageYears[2]`. Each lag from `r min(lags)` to `r max(lags)` years is then
+scored by its binomial likelihood. This is the probability of the yearly FDA
+counts if the FDA share in each year were the PAGE trend that many years
+earlier. The relative likelihood of a lag is its likelihood divided by that of
+the best-fitting lag, so the best lag has a relative likelihood of 1. A lag
+with a relative likelihood near 0 fits the FDA counts far worse than the best
+lag.
+
+The lag chart shows how well each lag fits the FDA counts, relative to the
+best-fitting lag.
+
+```{r lag-profile, fig.width = 7, fig.height = 3.5, fig.cap = "Relative likelihood of each lag between the PAGE trend and FDA approvals"}
+plotLagProfile(profile) + ggplot2::labs(title = "How well each lag fits the FDA counts (NONMEM)")
+```
+
+Table 13 gives the relative likelihood of each lag.
+
+```{r lag-profile-table}
+folded("Table 13. Relative likelihood of each lag", knitr::kable(
+  data.frame(
+    "Lag (years)" = profile$lag, "Relative likelihood" = formatC(profile$rel_lik, format = "f", digits = 2),
+    check.names = FALSE
+  ),
+  align = "rr"
+))
+```
+
+The projection chart shows the yearly NONMEM shares at PAGE and at FDA, the
+PAGE trend, and the FDA share projected from the trend at the best-fitting
+lag.
+
+```{r lag-projection, fig.width = 8, fig.height = 4.2, fig.cap = "NONMEM share: PAGE industry and CRO abstracts, FDA approvals and the FDA share projected from PAGE"}
+plotProjection(pageNm, trend, fdaNm, lag = best, years = 2021:(2026 + best)) +
+  ggplot2::labs(
+    title = paste0("NONMEM share, with the FDA projected at a ", best, "-year lag"),
+    subtitle = "Projection = the PAGE trend moved forward by the lag",
+    caption = paste(
+      "Shares are of the drugs with an identifiable tool (FDA) and of the industry and CRO abstracts using a tool",
+      "(PAGE). Points: yearly shares (FDA with 95% intervals). Line: PAGE trend. Band: projection."
+    )
+  )
+```
+
+Table 14 gives the yearly NONMEM shares at PAGE and at FDA.
+
+```{r lag-table}
+yrs <- sort(unique(c(pageNm$year, fdaNm$year)))
+cell <- function(d, y) {
+  r <- d[d$year == y, ]
+  if (nrow(r) == 0) "" else sprintf("%d of %d (%s)", r$n, r$n_any, pct(r$n / r$n_any))
+}
+folded("Table 14. NONMEM share per year, PAGE industry and CRO abstracts and FDA approvals", knitr::kable(
+  data.frame(
+    Year = yrs,
+    "PAGE, industry and CRO: NONMEM among abstracts using a tool" = vapply(yrs, function(y) cell(pageNm, y), ""),
+    "FDA approvals: NONMEM among drugs with an identifiable tool" = vapply(yrs, function(y) cell(fdaNm, y), ""),
+    check.names = FALSE
+  ),
+  align = "lrr"
+))
+```
+
+**Conclusions**
+
+- `r if (atEdge) paste0("Since ", best, " years is only a lower bound on the lag, the projected shares show what the PAGE trend gives at that lag, not a forecast. ") else ""`At
+  the best-fitting lag, the projected NONMEM share of FDA approvals is
+  `r pct(projected$share[1])` in 2030 (95% interval `r pct(projected$lower[1])`
+  to `r pct(projected$upper[1])`). In `r 2026 + best` it is
+  `r pct(projected$share[2])` (95% interval `r pct(projected$lower[2])` to
+  `r pct(projected$upper[2])`). The intervals cover only the uncertainty of
+  the PAGE trend at that lag, not the uncertainty of the lag itself.
+
+**Discussion.** A lag that long is more than the 1 to 3 years between an
+analysis and approval. It would mean one of two things. The tools used in
+submissions may change far more slowly than the tools shown at PAGE. Or
+submissions may differ from PAGE work in level, which this model cannot tell
+apart from a delay: it assumes that the FDA share equals the lagged PAGE share
+with no other difference. The analysis is exploratory, and a shorter lag
+within the plausible range would bring the projected decline forward.
+
+### 2. From methodology to applied work
+
+**In short.**
+
+- Monolix and BUGS started in methodology sessions and moved into applied
+  work within a few years. BUGS has since disappeared from PAGE.
+- nlmixr's applied abstracts have grown since 2023, although methodology
+  sessions still hold most of them.
+- Pumas, and machine learning as a kind of analysis, are still mostly in
+  methodology sessions, as Monolix was around 2008.
+- Stan/Torsten shows no such shift: it has stayed about evenly split since it
+  first appeared.
+
+**Methods.** New tools and new kinds of analysis tend to appear first in
+PAGE's methodology sessions, and a few years later in applied work. If so, a
+tool that is mostly seen in methodology sessions today is a candidate for
+wider applied use tomorrow.
+
+Each PAGE abstract that used a tool is counted as methodology or applied work
+by its session. PAGE has titled its methodology sessions with a "Methodology"
+prefix since 2014. In 2011 to 2013 it titled them by topic alone, for example
+"Estimation methods" or "Model evaluation", so those topics are recognised as
+methodology too. Sessions on physiologically based pharmacokinetic (PBPK)
+models count as applied work throughout. Machine learning is counted in the
+same way, as a kind of analysis in any tool: machine learning, artificial
+intelligence (AI) or neural ordinary differential equations (neural ODEs).
+
+The chart counts, for each meeting year, the abstracts using each tool in
+methodology and in applied sessions.
+
+```{r methods-applied, fig.width = 10, fig.height = 5.5, fig.cap = "PAGE abstracts per year using each tool, in methodology and in applied sessions"}
+plotMethodsApplied(maPlot,
+  caption = paste(
+    "Abstracts using the tool (or, for machine learning, of that analysis type), without Software Demonstration",
+    "abstracts. Methodology sessions recognised by topic, as PAGE labelled them without a Methodology prefix in",
+    "2011 to 2013; PBPK sessions count as applied. Each panel has its own scale."
+  )
+) + ggplot2::labs(title = "PAGE abstracts in methodology and in applied sessions")
+```
+
+Table 15 gives each tool's share of abstracts in methodology sessions at two
+times. The first is the first four meeting years with at least one abstract
+using the tool; the second is 2023 to 2026.
+
+```{r methods-table}
+grp <- names(ms)
+folded("Table 15. Share of each tool's PAGE abstracts in methodology sessions", knitr::kable(
+  data.frame(
+    "Tool or type" = grp,
+    "First four meeting years" = vapply(grp, function(g) sprintf("%d to %d", ms[[g]]$firstYears[1], ms[[g]]$firstYears[2]), ""),
+    "Abstracts, first four years" = vapply(grp, function(g) ms[[g]]$nFirst, numeric(1)),
+    "In methodology sessions, first four years" = pct(vapply(grp, function(g) ms[[g]]$first, numeric(1))),
+    "Abstracts, 2023 to 2026" = vapply(grp, function(g) ms[[g]]$nLast, numeric(1)),
+    "In methodology sessions, 2023 to 2026" = vapply(grp, function(g) if (ms[[g]]$nLast == 0) "" else pct(ms[[g]]$last), ""),
+    check.names = FALSE, row.names = NULL
+  ),
+  align = "llrrrr"
+))
+```
+
+**Discussion.** If the pattern holds, the applied use of Pumas and of machine
+learning should grow over the next few years. But the counts are small, often
+under ten abstracts a year. The pattern rests on two tools that have completed the
+move and one that is making it. It is suggestive, not a
+fitted model. Methodology abstracts about a tool itself are counted like any
+other.
+
+```{r aiml-setup, include = FALSE}
+aiTerms <- readAiMlTerms("taxonomy/ai_ml_terms.csv")
+aiItems <- read.csv("analysis/ai_ml/results/items.csv", colClasses = c(id = "character"))
+aiShares <- read.csv("analysis/ai_ml/results/shares.csv")
+aiBase <- read.csv("analysis/ai_ml/results/base.csv")
+aiFirst <- read.csv("analysis/ai_ml/results/first_by_group.csv", colClasses = "character")
+aiTerm <- read.csv("analysis/ai_ml/results/first_by_term.csv", colClasses = "character")
+aiChecks <- read.csv("analysis/ai_ml/results/checks.csv")
+aiDec <- read.csv("analysis/ai_ml/decisions.csv", colClasses = "character")
+aiSources <- c("PAGE", "PubMed", "Europe PMC")
+aiLink <- function(source, id) {
+  url <- aiItems$url[match(paste(source, id), paste(aiItems$source, aiItems$id))]
+  label <- switch(source, PAGE = paste("PAGE abstract", id), PubMed = paste("PMID", id), "Europe PMC" = sub("^MED:", "PMID ", id), FDA = paste("NDA/BLA", id))
+  sprintf("[%s](%s)", label, url)
+}
+aiNote <- function(source, id, group) {
+  d <- aiDec[aiDec$source == source & aiDec$id == id & aiDec$decision != "not", ]
+  d <- d[aiTerms$group[match(d$term, aiTerms$term)] == group, ]
+  d$note[order(d$decision != "used")][1]
+}
+fy <- function(source, group, what = "first_mentioned") as.integer(aiFirst[[what]][aiFirst$source == source & aiFirst$group == group])
+ty <- function(source, term, what = "first_used") {
+  x <- aiTerm[[what]][aiTerm$source == source & aiTerm$term == term]
+  if (length(x) == 0 || is.na(x)) NA_integer_ else as.integer(x)
+}
+aiShare <- function(source, group, years, what = "mentioned") {
+  d <- aiShares[aiShares$source == source & aiShares$group == group & aiShares$year %in% years, ]
+  sum(d[[what]]) / sum(d$base_n)
+}
+aiTotal <- function(source, group, what = "mentioned") sum(aiShares[[what]][aiShares$source == source & aiShares$group == group])
+nPageAll <- sum(aiBase$n[aiBase$source == "PAGE"])
+nPageEarly <- sum(aiBase$n[aiBase$source == "PAGE" & aiBase$year < 2006])
+aiNItems <- nrow(unique(aiItems[c("source", "id")]))
+chkAll <- aiChecks[1, ]
+chkCount <- aiChecks[2, ]
+fdaAi <- aiItems[aiItems$source == "FDA" & aiItems$decision != "not", ]
+aiRun <- readLines("analysis/ai_ml/results/run_info.txt")
+epBackOnly <- as.integer(sub(".*Europe PMC (\\d+).*", "\\1", grep("^Server matches", aiRun, value = TRUE)))
+aiEarlyMax <- max(aiShares$mentioned[aiShares$source %in% aiSources & aiShares$year < 2016])
+```
+
+## AI and machine learning
+
+*Development run results: read by Claude Code subagents; the numbers may change at the production run.*
+
+**In short.**
+
+- Machine learning reached pharmacometrics as neural networks. It was first
+  used at PAGE in `r fy("PAGE", "ML")`, in a neural network that predicted the
+  pharmacokinetics (PK) and pharmacodynamics (PD) of carboplatin and melphalan
+  and was compared with NONMEM. It was first used in PubMed in
+  `r fy("PubMed", "ML")`. Until 2015 it appeared in at most `r aiEarlyMax`
+  abstracts or papers a year in any source.
+- The current wave starts in the late 2010s at PAGE. Random forests were
+  first used there in `r ty("PAGE", "random forests")`. Gradient boosting
+  followed in `r ty("PAGE", "gradient boosting")`, and neural ordinary
+  differential equations (neural ODEs) in `r ty("PAGE", "neural ODEs")`.
+- A second wave follows with large language models and AI agents. Large
+  language models were first used in PubMed in
+  `r ty("PubMed", "large language models")` and at PAGE in
+  `r ty("PAGE", "large language models")`. AI agents were first used at PAGE in
+  `r ty("PAGE", "AI agents")` and in PubMed in `r ty("PubMed", "AI agents")`.
+- Machine learning is mostly used where it is named. It was used in
+  `r aiTotal("PubMed", "ML", "used")` of the `r aiTotal("PubMed", "ML")` PubMed
+  papers that name it. It was used in `r aiTotal("PAGE", "ML", "used")` of the
+  `r aiTotal("PAGE", "ML")` PAGE abstracts that name it. AI is more often a
+  word in the background: it was used in `r aiTotal("PubMed", "AI", "used")` of
+  the `r aiTotal("PubMed", "AI")` PubMed papers that name it.
+- No FDA review of the 2021 to 2025 approvals describes a pharmacometric
+  analysis with machine learning or AI.
+
+**Methods.** Two groups of terms are searched in every source
+([term list](../../taxonomy/ai_ml_terms.csv)):
+
+- **Machine learning:** the named learning methods, which are
+  `r andList(aiTerms$term[aiTerms$group == "ML"])`.
+- **AI:** the label and its newer forms, which are
+  `r andList(aiTerms$term[aiTerms$group == "AI"])`.
+
+Each source is counted against its own base set, the items of the source in a
+year. The sources, and the text searched in each, are:
+
+- **PAGE** (the annual meeting of the Population Approach Group in Europe):
+  every abstract of the meetings 1992 to 2026, title and body. That is
+  `r nPageAll` abstracts. The `r nPageEarly` abstracts from before 2006 were
+  fetched for this analysis only.
+- **PubMed:** every paper found by the search terms of the
+  [core set](../../docs/glossary.md), from the first such paper in
+  `r min(aiBase$year[aiBase$source == "PubMed"])`. The title and abstract are
+  searched.
+- **Europe PMC:** every paper with open-access full text found by the same
+  search terms. The title, abstract, keywords and body are searched, but not
+  the reference list or the declarations.
+- **FDA:** the reviews of the drugs approved in 2021 to 2025.
+
+In all, `r aiNItems` items name at least one term. In a
+[reading](../../docs/glossary.md), Claude Sonnet 5.5 decided for each item and each
+term it names whether the term was:
+
+- **Used:** the authors apply or develop the method.
+- **Mentioned:** the term appears as background, in a citation, in a review or
+  in a proposal.
+- **Not the method:** the letters mean something else, such as AI for
+  aromatase inhibitor, autoinjector or accumulation index, or the term is only
+  in a reference list entry or the name of a funding programme.
+
+The AI label counts as used only when the authors call their own method or
+tool AI.
+
+A [blind check](../../docs/glossary.md) by Claude Opus 5.5 read a random
+`r chkAll$items` of the items again. Together they hold `r chkAll$rows` item
+and term pairs. The two readers gave the same decision
+for `r chkAll$agree` of the `r chkAll$rows` pairs. They agreed on whether the
+term counts at all (used or mentioned, against not the method) for
+`r chkCount$agree` of the `r chkAll$rows` pairs. Claude Opus 5.5 decided the
+disagreements. Every item on which a first year in Table 16 or Table 17 rests
+was read again in full. Details: [method card](../../analysis/ai_ml/README.md).
+
+The chart of shares per year shows, for each source and year, the share of the
+base set that mentions or uses each group.
+
+```{r aiml-shares, fig.width = 9, fig.height = 7, fig.cap = "Share of each source's base set mentioning and using machine learning and AI per year"}
+aiPlot <- aiShares[aiShares$source %in% aiSources & aiShares$year >= 1990, ]
+plotAiMlShares(aiPlot[order(match(aiPlot$source, aiSources), aiPlot$group, aiPlot$year), ],
+  caption = paste(
+    "Solid: items naming a term of the group, read as used or mentioned; dashed: read as used. PAGE: all abstracts",
+    "of the meeting; PubMed: base set, title and abstract; Europe PMC: base set, open-access full text. 2026 is",
+    "partial; no PAGE meeting in 2020. The peaks before 2010 are single items in small base sets (Table 18). Each",
+    "panel has its own scale."
+  )
+) + ggplot2::labs(title = "Machine learning and AI in pharmacometric abstracts and papers")
+```
+
+The chart of use in the last ten years narrows this to use alone, with the
+three sources together.
+
+```{r aiml-used, fig.width = 9, fig.height = 4.2, fig.cap = "Share of each source's base set using machine learning and AI, the last ten years"}
+aiRecent <- max(aiShares$year) - 9:0
+plotAiMlUsed(aiShares[aiShares$source %in% aiSources, ], years = aiRecent,
+  caption = paste(
+    "Items read as using a term of the group (the authors apply or develop the method), as a share of the source's",
+    "base set. No PAGE meeting in 2020; 2026 is partial."
+  )
+) + ggplot2::labs(title = sprintf("Use of machine learning and AI, %d to %d", min(aiRecent), max(aiRecent)))
+```
+
+Table 16 gives the first mention and the first use per source. Table 17 gives
+the first year per term. Table 18 gives the counts per year; PAGE held no
+meeting in 2020, so its cells for that year are empty.
+
+```{r aiml-first}
+firstRow <- function(src, g) {
+  ym <- fy(src, g)
+  yu <- fy(src, g, "first_used")
+  idm <- strsplit(aiFirst$ids_mentioned[aiFirst$source == src & aiFirst$group == g], "; ")[[1]]
+  idu <- strsplit(aiFirst$ids_used[aiFirst$source == src & aiFirst$group == g], "; ")[[1]]
+  data.frame(
+    Source = src, Group = if (g == "ML") "Machine learning" else "AI",
+    "First mentioned" = ym, "Item" = paste(vapply(idm, function(i) aiLink(src, i), ""), collapse = ", "),
+    "First used" = if (is.na(yu)) "" else as.character(yu),
+    "Item used" = if (is.na(yu)) "" else paste(vapply(idu, function(i) aiLink(src, i), ""), collapse = ", "),
+    "What it was (first use)" = if (is.na(yu)) "" else aiNote(src, idu[1], g),
+    check.names = FALSE
+  )
+}
+tab16 <- do.call(rbind, lapply(c(aiSources, "FDA"), function(src) do.call(rbind, lapply(c("ML", "AI"), function(g) firstRow(src, g)))))
+folded("Table 16. First mention and first use of machine learning and AI, per source", knitr::kable(tab16, row.names = FALSE))
+```
+
+```{r aiml-terms}
+termCell <- function(src, term) {
+  u <- ty(src, term)
+  m <- ty(src, term, "first_mentioned")
+  if (is.na(m)) "" else if (is.na(u)) sprintf("(%d)", m) else if (u == m) as.character(u) else sprintf("%d (%d)", u, m)
+}
+termOrder <- aiTerms$term[order(aiTerms$group != "ML", vapply(aiTerms$term, function(t) min(c(ty("PAGE", t), ty("PubMed", t), ty("Europe PMC", t), 9999), na.rm = TRUE), numeric(1)))]
+tab17 <- data.frame(
+  Term = termOrder, Group = ifelse(aiTerms$group[match(termOrder, aiTerms$term)] == "ML", "Machine learning", "AI"),
+  PAGE = vapply(termOrder, function(t) termCell("PAGE", t), ""),
+  PubMed = vapply(termOrder, function(t) termCell("PubMed", t), ""),
+  "Europe PMC" = vapply(termOrder, function(t) termCell("Europe PMC", t), ""),
+  check.names = FALSE, row.names = NULL
+)
+folded("Table 17. First year each term was used, and in brackets first mentioned where earlier", knitr::kable(tab17, align = "llrrr"))
+```
+
+```{r aiml-counts}
+cnt <- function(src, g, y) {
+  d <- aiShares[aiShares$source == src & aiShares$group == g & aiShares$year == y, ]
+  if (nrow(d) == 0) "" else if (d$mentioned == 0) "0" else sprintf("%d (%d)", d$mentioned, d$used)
+}
+yrs <- sort(unique(aiShares$year[aiShares$source %in% aiSources & aiShares$mentioned > 0]))
+yrs <- min(yrs):max(yrs)
+yrs <- yrs[yrs %in% aiShares$year[aiShares$source %in% aiSources]]
+baseOf <- function(src, y) {
+  n <- aiBase$n[aiBase$source == src & aiBase$year == y]
+  if (length(n) == 0) "" else as.character(n)
+}
+tab18 <- data.frame(
+  Year = yrs,
+  "PAGE abstracts" = vapply(yrs, function(y) baseOf("PAGE", y), ""),
+  "PAGE: ML" = vapply(yrs, function(y) cnt("PAGE", "ML", y), ""), "PAGE: AI" = vapply(yrs, function(y) cnt("PAGE", "AI", y), ""),
+  "PubMed papers" = vapply(yrs, function(y) baseOf("PubMed", y), ""),
+  "PubMed: ML" = vapply(yrs, function(y) cnt("PubMed", "ML", y), ""), "PubMed: AI" = vapply(yrs, function(y) cnt("PubMed", "AI", y), ""),
+  "Europe PMC papers" = vapply(yrs, function(y) baseOf("Europe PMC", y), ""),
+  "Europe PMC: ML" = vapply(yrs, function(y) cnt("Europe PMC", "ML", y), ""), "Europe PMC: AI" = vapply(yrs, function(y) cnt("Europe PMC", "AI", y), ""),
+  check.names = FALSE, row.names = NULL
+)
+folded("Table 18. Items mentioning machine learning (ML) and AI per year, with the number using it in brackets", knitr::kable(tab18, align = "lrrrrrrrrr"))
+```
+
+**Conclusions**
+
+- The AI label came first, at PAGE in `r fy("PAGE", "AI")`, but only as a
+  label. POPKAN, a Bayesian population PK program, was presented as "an expert
+  system".
+- "Artificial intelligence" for a method of the authors' own appears in PubMed
+  in `r ty("PubMed", "artificial intelligence")`, for a regression spline
+  method the authors call AI. At PAGE it appears in
+  `r ty("PAGE", "artificial intelligence")`, for a deep learning framework.
+- In 2024 to 2026, `r pct(aiShare("PAGE", "ML", 2024:2026))` of PAGE abstracts
+  mention machine learning, against
+  `r pct(aiShare("PAGE", "ML", 2016:2019), 1)` in 2016 to 2019.
+- In 2024 to 2026, `r pct(aiShare("PAGE", "AI", 2024:2026))` of PAGE abstracts
+  mention AI, against `r pct(aiShare("PAGE", "AI", 2016:2019), 1)` in 2016 to
+  2019.
+- In the Europe PMC full text of 2024 to 2026,
+  `r pct(aiShare("Europe PMC", "ML", 2024:2026))` of the papers mention machine
+  learning.
+- The only use of either group in the FDA reviews is nonclinical. For Nereus
+  (2025) the applicant compared metabolite toxicity in silico with a workflow
+  built on a large language model, and the reviewers questioned it.
+
+**Discussion.** These are mentions and uses in what is published, and
+publication lags the work. They also come from pharmacometric publications
+only. A machine learning paper on drug concentrations that does not use the
+core set's search terms is not in the PubMed or Europe PMC base set, so the
+literature series understate the wider field.
+
+Europe PMC's open-access full text is thin before about 2010, so its first
+years are late by construction. PAGE, with every abstract since 1992, gives
+the best dating. Europe PMC also counts a term anywhere in the text, the
+introduction included, which is why its mention shares are the highest.
+
+The analysis-type counts in Table 8 and in the machine learning row of
+Table 15 measure something narrower. They count machine learning as the type
+of the analysis, in items with an estimation tool.
+
+Europe PMC's own search also reaches reference lists and declarations.
+`r epBackOnly` Europe PMC records that it returned name no term in the text
+searched here, and they are not counted. Most of them have the term only in
+the reference list or in a statement about the use of generative AI.
+
+```{r readme-numbers, include = FALSE}
+# The figures README.md quotes, written for README.Rmd, which `make readme` knits after this document
+fmt3 <- function(x) format(x, big.mark = ",")
+affN <- function(d, g) sum(unique(d[d$group == g, c("year", "n_any")])$n_any)
+usedN <- tapply(usedTool$n_any, usedTool$source, sum)
+readmeNumbers <- c(
+  fda_identifiable = sum(fdaTab$drugs),
+  fda_nonmem = fdaTab$drugs[fdaTab$family == "NONMEM"],
+  fda_nonmem_share = pct(fdaTab$share[fdaTab$family == "NONMEM"]),
+  fda_other_tools = andList(fdaTab$family[fdaTab$family != "NONMEM"]),
+  fda_other = sum(fdaTab$drugs[fdaTab$family != "NONMEM"]),
+  fda_not_stated = nrow(notStated),
+  fda_total = count("Total"),
+  ep_using = usedN[["Europe PMC (full text)"]],
+  ep_used_nonmem = pct(epUsed[["NONMEM"]]),
+  ep_used_monolix = pct(epUsed[["Monolix"]]),
+  pm_using = usedN[["PubMed (title/abstract)"]],
+  pm_used_nonmem = pct(pmUsed[["NONMEM"]]),
+  pm_used_monolix = pct(pmUsed[["Monolix"]]),
+  page_using = nAny,
+  page_nonmem_2016 = pct(pgYear("NONMEM", 2016)),
+  page_nonmem_2026 = pct(pgYear("NONMEM", 2026)),
+  page_monolix_2016 = pct(pgYear("Monolix", 2016)),
+  page_monolix_2026 = pct(pgYear("Monolix", 2026)),
+  page_academic = pct(affTab[["academia"]] / sum(affTab)),
+  page_sponsor_n = affN(shares, "sponsor"),
+  page_academia_n = affN(shares, "academia"),
+  page_sponsor_nonmem = pct(pgAffShare$sponsor[["NONMEM"]]),
+  page_academia_nonmem = pct(pgAffShare$academia[["NONMEM"]]),
+  page_sponsor_monolix = pct(pgAffShare$sponsor[["Monolix"]]),
+  page_academia_monolix = pct(pgAffShare$academia[["Monolix"]]),
+  fda_pk_only = pct(fdaPkOnly),
+  page_pk_only = pct(pagePkOnly),
+  fda_types_n = nrow(fdaAt),
+  page_types_n = fmt3(nrow(pageAt)),
+  fda_no_poppk = count("No popPK analysis in review"),
+  page_ml_recent = pct(aiShare("PAGE", "ML", 2024:2026)),
+  page_ml_early = pct(aiShare("PAGE", "ML", 2016:2019), 1),
+  ms_iiv_monolix = sprintf("%.1f", sm(ms1, "Monolix", "random")),
+  ms_iiv_nonmem = sprintf("%.1f", sm(ms1, "NONMEM", "random")),
+  ms_cov_adjusted = fmtRatio(rr("Monolix against NONMEM, all models", "covariates")),
+  lag_best = best,
+  lag_at_edge = atEdge,
+  monolix_first_years = paste(ms[["Monolix"]]$firstYears, collapse = " to "),
+  monolix_first_methods = pct(ms[["Monolix"]]$first),
+  monolix_last_methods = pct(ms[["Monolix"]]$last),
+  ml_first_page = fy("PAGE", "ML")
+)
+write.csv(data.frame(name = names(readmeNumbers), value = unname(readmeNumbers)),
+  "docs/results/readme-numbers.csv", row.names = FALSE)
+```

@@ -1,0 +1,58 @@
+BLA 761184
+Ngenla (somatrogon)
+
+the fact that not all somatrogon-treated patients will attempt to become pregnant, the relatively
+high background rate of pregnancy loss in the general population (20% of clinically recognized
+pregnancies), as well as the presence of other risk factors for infertility (such as male factor
+infertility, polycystic ovarian disease, etc.).
+
+Interference with hCG-based diagnostic tests
+
+CDRH provided expertise on whether anti-CTP antibodies and somatrogon itself (since it
+contains CTP) can interfere with hCG-based diagnostic tests (refer to CDRH consult review
+dated May 20, 2021 for full details). Dr. Kotarek indicated that the potential risks associated with
+both the interference of somatrogon itself and anti-CTP antibodies with pregnancy tests
+constitute false positive and false negative results. There are potential clinical consequences of
+inaccurate testing including delayed prenatal care in case of false negative results, and delay of
+treatment that was contraindicated for pregnancy in case of false positive results. To show that
+somatrogon itself does not interfere, the Applicant used 4 different home-use urine hCG
+pregnancy tests and one serum quantitative hCG pregnancy test. Although the Applicant’s
+testing was adequate to show that somatrogon did not interfere with the tests used, different tests
+may use a different region of hCG for detection and these regions are not typically disclosed to
+the Agency. Therefore, the tests which the Applicant used do not represent all tests that are on
+the market. Uncertainty remains that should be considered for labeling. Although the Applicant
+did not test for interference of anti-CTP antibodies on hCG assays, the same limitations would
+apply.
+
+Conclusion
+
+Overall, the risks of anti-CTP antibodies appear to be low and can be managed through labeling.
+No additional premarketing or postmarketing nonclinical or clinical studies are recommended to
+
+characterize the risk.
+
+8. Therapeutic Individualization
+
+8.1. Intrinsic Factors
+
+Based on the reviewer’s population PK analysis, somatrogon pharmacokinetics is described by a
+2-compartment pharmacokinetic model with first order absorption and no lag-time of absorption
+from the administration compartment. The final model included time varying weight and ADA
+titer values as the only covariates.
+
+Body Weight
+
+Somatrogon clearance increases with increase in body weight and weight-based dosing provides
+comparable exposures across body weights anticipated for the patient population (8 to 52 kg).
+
+The impact of body weight on somatrogon exposure was evaluated through Monte Carlo
+simulation using the reviewer’s final PopPK model. The model had time varying body weight
+and ADA-titer as the only covariates. Therefore, a virtual sample of the pediatric population with
+uniformly distributed body weight ranging from 8 to 52 kg and with ADA negative status (i.e.,
+ADA titer, 0) was created. Stochastic simulation was used to obtain concentrations over the
+dosing interval at steady state. Noncompartmental analysis was used to obtain predicted area
+under the curve (AUC). The virtual sample consisted of 1000 subjects on which 200 stochastic
+
+90
+
+Reference ID: 4924352

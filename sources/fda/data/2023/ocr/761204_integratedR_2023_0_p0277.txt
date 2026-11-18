@@ -1,0 +1,45 @@
+BLA 761204 and NDA 215211
+Pombiliti (cipaglucosidase alfa-atga) and Opfolda (miglustat)
+
+Figure 93. 6MWD Over Time for Patients With Missing Values at Week 52, Trial ATB200-03
+600
+
+af + Alglucosidase alfa/Placebo
+r + Cipaglucosidase alfa/Miglustat
+— Adverse event
+5 = Covid-19 pneumonia
+483 cero a += investigator's decision
+cagatsmaamntees +» Withdrawal of consent by subject
+e
+2
+@
+=
+fal
+= 400
+Zz 16200-03204 ea
+GB ATO me - eae e, ?
+aro200.05 ee
+xan 9
+300 =
+arsz00 03MM) 272 ~~ eons |
+6 12 38 82
+
+26
+Study Week
+Source: This figure was produced by the review team using the dataset adeff_xpt located at
+\CDSESUB l\evsprod\BLA761204\0003\m5\datasets\atb200-03 \analysis\adam\datasets.
+Abbreviations: 6MWD, six-minute wa k distance
+
+Patients with Missing FVC Values at Week 52
+
+A total of 16 patients (13% in each treatment group) were missing the FVC measure at Week 52.
+Fifteen of these patients have a postbaseline measure and | patient only has a baseline FVC
+measure. Five of the 16 patients were receiving the comparator and 11 were receiving cipa-mig.
+Figure 94 presents the FVC observations for these 16 patients. Solid lines in the plot indicate
+patients who discontinued the trial and dashed lines indicate those who did not discontinue.
+When the LOCF approach is used to impute missing values, only the postbaseline values are
+used to impute, meaning that Subjec © is excluded from analysis of FVC.
+
+262
+
+Reference ID: 5061679

@@ -1,0 +1,54 @@
+e The QPC plots and the GOF plots including the observed versus individual predicted
+concentrations suggest that the PK model is able to reliably predict teplizumab
+concentrations from both products and can be used for simulations and to assess PK
+comparability. Table 16 shows that the PK model is able to correctly predict the observed
+differences in PK concentrations, at each sampling time point, between the Lilly product and
+AGC product in the PROTECT sub-study, based on individual PK simulations.
+
+Table 16. Comparison of the Observed and Model-Predicted Teplizumab Concentrations At Each
+Sampling Time Point in PROTECT Sub-Study
+
+PK comparability results
+AGC product Lil duct
+Produ illy produ GMR (90%Cl)
+Geometric mean (%CV) | Geometric mean (%CV)
+
+57.5 (29% 82.2 (35%
+
+Observed Cmin on Day4 (4) (B4) 70% (62.8% - 78%)
+[n=31] [n=124]
+
+Model-predictedCmin on Day4 55.8 (24%) 75.9 (25%) 73.5% (67.8% - 79.6%)
+
+215 (40% 289 (40%
+Observed Cmin on Day9 (40%) (40%) 74.5% (65.4% - 84.9%)
+
+[n=30] [n=121]
+Model-predictedCmin on Day9 201 (31%) 281 (28%) 71.4% (64.9% - 78.5%)
+i » 9
+
+Observed Cmin on Day 12 287 (45%) 368 (38%) 78% (68.2%-89.3%)
+(before last dose) [n=26] [n=120]
+Model-predicted Cmin on Day 12 254 (35%) 374 (30%) 67.9% (60.8% — 75.8%)
+Observed concentrations 22.3 (19%) 38.2 (54%) 58.4% (40%-84%)
+on Day 29 [n=6] [n=20]
+Model-predicted concentrations 21.3 (15%) 36.6 (35%) 58.3% (45.5% - 74.7%)
+on Day 29
+
+GMR (90%CI): geometric mean ratio (90% confidence interval), derived from Student’s t-test (with Levene Test for
+equality of variances) on natural log-transformed PK exposure metrics. The model-predicted are based on individual
+(conditional) PK simulations using the individual PK parameters of the PROTECT sub-study patients.
+
+Source: FDA reviewer
+
+e Based of the population PK analysis, the AGC product has a saturable binding to target CD 3
+receptors but no target-mediated elimination through intracellular internalization,
+suggesting that the AGC product has linear non-specific elimination. Therefore, an increase
+in AGC product dosage for the purpose of exposure-matching to the Lilly product is not
+expected to saturate the elimination of teplizumab. Both teplizumab products were
+estimated to have comparable median half-lives (4.5 days and 4.4 days for the AGC and the
+Lilly product in PROTECT sub-study).
+
+47
+
+Reference ID: 5063936

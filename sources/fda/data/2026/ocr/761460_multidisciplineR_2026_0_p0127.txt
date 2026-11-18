@@ -1,0 +1,58 @@
+NDA/BLA Multi-disciplinary Review and Evaluation - BLA 761460
+Pivekimab Sunirine (IMGN632)
+
+FDA utilized the available raw datasets submitted (with DCO of October 2, 2024) to adjudicate
+responses for all the eligible patients with BPDCN in cohorts 1 and 6 from the CADENZA
+study. FDA initially found that 29 patients did not have blast count by morphology in mi.xpt
+dataset. There were an additional 5 patients who had blast count by morphology in mi-xpt for
+only certain timepoints but not all timepoints. FDA communicated to the Applicant through
+multiple Information Requests to provide blast count by morphology (SDN 0013, 0014). The
+Applicant provided PDF of bone marrow results for patients that had missing blast count by
+morphology as allowed per local regulations (SDN 0021, 0038). There were two patients
+(IMGN632-0801- , IMGN632-0801- — as noted in table below), for whom PDF of
+bone marrow reports could not be obtained due to local regulations.
+
+Tn addition to the missing blast count by morphology, FDA also found missing eCRFs for 6
+patients, which were needed to confirm the dates and results of assessments. FDA communicated
+this to the Applicant via Information Request, which the Applicant provided promptly (SDN
+0023).
+
+FDA communicated multiple Information Requests to the Applicant to discuss the disagreements
+during the adjudication process (SDN 0021, 0037, 0038). FDA reached alignments on all the
+treated patients’ response assessments. Outside of not having blast count by morphology, there
+were 12 patients for whom FDA assessed the remission status, date of remission, or date of
+relapse differently from that reported by the Applicant. These discrepancies are summarized in
+Table 29. The final adjudicated responses, dates and derived time to event endpoints were
+provided by the Applicant in updated datasets of ADEFF.xpt and ADTTE.xpt (SDN 0040).
+
+Table 29 FDA-Discrepancy in best response between Applicant and FDA efficacy
+adjudication
+
+Subject ID Applicant Final FDA Reason for discrepancy and summary of
+assessment | adjudication supporting data
+IMGN632-0801- PR PR PET/CT on ©) ©) With worsening extra-
+OXY) eye) medullary disease (EMD) disease
+IMGN632-0801- CR i No response | No blast count by morphology available
+IMGN632-0801- CRS a No response | Blast count by flow cytometry 6% on CoG)
+IMGN632-0801- CR CR Bone marrow assessment on CX
+(©) (6) 0) 6)
+IMGN632-0801- CRe CRe Peripheral blood count recovery on oc
+©) (6) (b) (6)
+IMGN632-0801- cr [  cR First bone marrow assessment with no disease on
+(b) (6) ) 6) &) 6)
+IMGN632-0801- Rebrece Relapse date | Bone marrow blasts 5.8% on oe
+IMGN632-0801- cR cR Bone marrow with no disease on =: skin
+Ce) ©©) | assessment on ©) peripheral blood count
+recoveryon ©). No EMD at baseline.
+IMGN632-0801- Relapse date | Relapse date | EMD relapse on oe
+(b) (6) (b) (6)
+IMGN632-0801- Relapse date | Relapse date_| Skin disease relapse occurred based on skin
+126
+
+Version date: February 10, 2025 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as "Data" and "The Applicant's Position" are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5805215
+

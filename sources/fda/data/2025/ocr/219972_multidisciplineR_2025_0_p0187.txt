@@ -1,0 +1,59 @@
+NDA/BLA Multi-disciplinary Review and Evaluation — NDA 219972
+
+Sevabertinib (BAY 2927088) — Version 2.0
+Table 47. Summary of TTR, PFS and OS by BICR and Investigator — Group D, as of 14 OCT 2024
+
+(FAS)
+BICR Investigator
+DE/BF/Expansion Extension Total Total
+N=44 N=37 N=81 N=81
+Time-to-event
+endpoints (months)
+Median PFS (range) 8.1 (0.0*-22.8") 6.6 (2.5-7.1) 7.1 (0.0*-22.8*) 7.5 (0.0*-22.8")
+[95% Cl] [6.5, 16.4] [5.5, A] (6.5, 14.7] (6.6, 12.4]
+Median TTR (range) * NA NA 1.4 (1.1-4.2) 4.3 (1.1-10.2)
+[95% Cl] [1.3, 1.4] (1.2, 1.4]
+Median OS (range) NA NA A (0.9*-24.3") A (0.9"-24.3")
+[95% Cl] [15.4 A] [15.4, A]
+
+A=Value cannot be estimated due to censored data; BICR=Blinded independent central review, Cl=Confidence interval;
+DE/BF=Dose Escalation/Backfill; FAS=Full analysis set; N=Total number of participants; NA=Not applicable; OS=Overall
+survival; PFS=Progression-free survival; RECIST=Response Evaluation Criteria in Solid Tumors; TTR=Time to response.
+
+*. Censored observation
+
+a: Calculated for the subset of participants with confirmed CR or PR.
+
+Time to event-endpoints: Median and 95% Cls were calculated using Kaplan-Meier estimates. The 95% Cls for the median were
+calculated using a log-log transformation.
+
+RECIST version 1.1
+
+t.14 2 2 adtte_os_km-sas (OS) (Datasets ADSL and ADTTE)
+
+Supportive efficacy results in Group E — as of 14 OCT 2024
+
+In the supportive efficacy population, Group E, the ORR by the investigator assessment was
+38.2% (95% CI: [25.4, 52.3]), which was consistent with the results by BICR (34.5%; 95% CI:
+[22.2, 48.6]) (Table 48).
+
+The median DOR by BICR was 8.5 months (95% CTI: [4.1, not estimable] in the FAS with a
+median DOR follow-up time of 4.1 months from initial radiological response. Of the 19
+responders, 5 participants (26.3%) had observed DOR of >6 months, 3 participants (15.8%) had
+an observed DOR of >9 months, and 1 participant (5.3%) had an observed DOR of >12 months,
+as of the database cut-off. The median DOR by the investigator assessment was 9.5 months (95%
+CI: [4.1, A]) (Module 5.3.5.2, B003047, Tables 8.2.2/2, 8.2.2/1s1 and 8.2.2/3 [Datasets ADTTE, ADSL and
+ADFACE)).
+
+The median PFS was 5.4 months (95% CI: [4.1, 9.7]) by BICR and 6.5 months (95% CI: [4.2,
+10.7]) by the investigator assessment. The median OS was 12.9 months (95% CI: [11.1, not
+estimable]), with 41 participants (74.5%) censored. The range in OS (including censored values)
+was 1.9 months to 14.9 months.
+
+186
+Version date: March 1, 2024 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5697816

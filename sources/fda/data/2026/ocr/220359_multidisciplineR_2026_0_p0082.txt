@@ -1,0 +1,49 @@
+Test Article | Dose #of | Dosing | Schedule | Mean TGI P-values | P-value**
+(mg/kg) | mice | route (regression) on
+day 28
+Vehicle N/A 10 PO QDx28 NIA NA NA
+AZD9833 10 10 PO QDx28 100% ( see NA
+P<0.01
+Palbociclib 50 10 PO QDx28 47% see N/A
+P<0,001
+AZD9833+ | 10+50 | 8 PO QDx28 >100% (19%) eee **P<0.01
+Palbociclib P<0.001
+
+* * | tailed, unequal variance T-test vs vehicle control at day of final measure, **1-tailed, unequal variance T-
+test vs AZD9833 10 mg/kg at day of final measure.
+
+(Excerpted from the Applicant’s submission)
+
+Summary of anti-tumor activity in D538G ERa CTC174 xenograft model.
+
+Test Article | Dose #of | Dosing | Schedule | Mean TGI P-values | P-value**
+(mg/kg) | mice | route (regression) on
+day 21
+Vehicle NA 8 PO QDx21 NA N/A NA
+AZD9833 10 10 PO QDx21 94% ***P<0.00 NA
+1
+Palbociclib 50 9 PO QDx21 97% a NA
+P<0.001
+AZD9833+ | 10+50 | 10 PO QDx21 >100% (36%) | ***P<0.00 | **P<0.01
+Palbociclib 1
+
+* 1-tailed, unequal variance T-test vs vehicle control at day of final measure, ** 1-tailed, unequal variance T-test
+vs AZD9833 10mg/kg at day of final measure
+
+(Excerpted from the Applicant’s submission)
+
+Summary of anti-tumor activity in ER-positive ST3632 xenograft model.
+
+81
+Version date: March 1, 2024 (All NDA/BLA reviews)
+
+In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the Applicant,
+which do not necessarily reflect the positions of the FDA.
+
+The FDA review was conducted in conjunction with other regulatory authorities under Project ORBIS. The FDA
+collaborated with Australia’s Therapeutic Goods Administration (TGA), Brazilian Health Regulatory Agency
+(ANVISA), Health Canada (HC), Singapore’s Health Sciences Authority (HSA), and Switzerland's Swissmedic
+(SMC). While the conclusions and recommendations expressed herein reflect the FDA’s completed review of the
+application, the applications may still be under review at the other regulatory agencies.
+
+Reference ID: 5864804

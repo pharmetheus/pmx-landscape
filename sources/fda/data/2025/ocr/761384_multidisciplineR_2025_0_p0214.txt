@@ -1,0 +1,85 @@
+NDA/BLA Multi-disciplinary Review and Evaluation — BLA 761384
+
+Telisotuzumab Vedotin
+
+Covariates Evaluated
+
+© Demographics (age, body weight, sex, race, ethnicity)
+
+© c-Met expression level (high, intermediate)
+
+* Prior therapy (e.g., platinum-based, 10)
+
+¢ Treatment-emergent anti-drug antibody (ADA) status (yes, no)
+
+¢ Neutralizing antibody (nAb) status (yes. no)
+* Number of lines of prior systemic therapies
+
+© ECOG at baseline (0, 1, 2)
+
+Acceptability
+
+Final Model Parameters Summary [FDA's comments]
+
+Model Structure Linear and logarithmic logistic regression model__ | Yes
+were evaluated to determine the best model
+describing the telisotuzumab vedotin effect on the
+probability of each efficacy outcome. Final models
+were selected based on AIC.
+
+Model Parameter Estimates Table 44 Yes
+
+Model Evaluation The predictive performance of the logistic Yes
+regression models was graphically evaluated to
+examine the usefulness of the models for
+describing observed response rates for evaluation
+
+Covariates and Clinical No covariates were significant for the efficacy Yes
+
+Relevance variables evaluated
+
+Simulation for Specific Simulations of ORR in EGFR WT NSq NSCLC Yes
+
+Population c-Met OE population is provided in Table 39
+
+Visualization of E-R relationships | Observed and model-predicted ORR-ICR plots are | Yes
+provided in Figure 13. Full results for all efficacy
+variables are shown in the Population PK/ER
+Report.
+
+Overall Clinical Relevance for Based on the exposure-efficacy analyses in the Yes.
+
+ER c-Met OE EGFR QT NSq NSCLC population, Interpretate the
+higher conjugate exposures were strongly positive E-R
+correlated with improved ORR (per ICR), DCR. relationship with
+DoR, PFS (per ICR), and OS. Telisotuzumab caution for data mainly
+vedotin conjugate exposure metrics correlated from a single dose and
+better with efficacy variables compared to MMAE | a narrow exposure
+exposure metrics. range.
+
+Acceptability
+
+Labeling Language Description [FDA's comments]
+
+12.2 Pharmacodynamics
+
+Oya
+
+Added “Higher
+unconjugated MMAE
+exposure was
+associated with
+increased rates of
+Grade > 3 adverse
+reactions and fatal
+adverse reactions”.
+
+Version date: March 1, 2024 (ALL NDA/ BLA reviews)
+
+213
+
+Disclaimer: In this document, the sections labeled as "Data" and "The Applicant's Position" are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5590242
+

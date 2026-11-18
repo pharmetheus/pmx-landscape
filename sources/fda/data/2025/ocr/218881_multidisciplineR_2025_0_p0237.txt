@@ -1,0 +1,56 @@
+NDA/BLA Multi-disciplinary Review and Evaluation NDA 218881
+
+Tnluriyo (imlunestrant)
+
+imlunestrant disposition was not affected by multiple covariates including drug formulation,
+presence of abemaciclib, age, ethnicity, race, serum albumin levels, mild-to-moderate renal
+impairment, and mild hepatic impairment.
+
+Body weight showed statistical significance but limited clinical impact, with exposure
+differences of 26-40% across the weight range. The simulation results from the final model
+demonstrated that 87% of patients receiving the proposed 400 mg once daily dose are expected
+to achieve minimum concentrations exceeding biologically effective thresholds throughout the
+dosing interval.
+
+The Applicant’s dataset and analyses were reviewed and verified by the pharmacometrics
+reviewers. The final model was deemed adequate to characterize the PK profile of imlunestrant
+in healthy participants and patients with ER+ breast cancer and endometrial endometroid cancer
+(EEC). The Applicant's popPK analysis is acceptable.
+
+19.4.1.2 PPK Assessment Summary
+The Applicant’s Position:
+
+General Information
+
+Objectives of PPK Analysis e Characterize the PK of imlunestrant in patients with ER+
+
+breast cancer and ER+ EEC
+
+e Identify patient factors, laboratory parameters, and disease
+characteristics that may influence imlunestrant disposition
+in this patient population
+
+e Generate model-predicted estimates of imlunestrant
+exposure for assessment of exposure-response relationships
+
+Study Included JZLA (EMBER), JZLB (EMBER-2), JZLC (EMBER-3),
+and JZLD
+Dose(s) Included 200, 400, 600, 800, and 1200 mg
+Population Included Healthy, ITT
+Population General - .
+Ao - -95 yr, 36% = r, 109
+Characteristics « Age —median 60 yr (28-95 yr, 36% subj >=65 yr. 10%
+
+subj >=75 yr)
+e Weight — median 68.2 kg (36-145 kg)
+e 1043 (99%) female
+
+(Table 19.1)
+
+236
+Version date: March 1, 2024 (ALL NDA/BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5665313

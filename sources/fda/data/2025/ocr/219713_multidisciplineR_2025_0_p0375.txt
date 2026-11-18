@@ -1,0 +1,65 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 219713}
+{IBTROZI™, Taletrectinib}
+
+indicating significant discrepancies between in vitro and in vivo CYP1A2 induction parameters.
+Consequently, the potential induction effects of taletrectinib on CYP1A2 substrates cannot be
+teliably predicted without clinical data.
+
+Table 95. Comparison of Model Inputted and Experimentally Measured Induction
+Parameters of Competitive CYP1A2 Inducers
+
+eso In vitro/model
+Model parameters parameters based i
+Gia Pi I | parameters In vitro data Number ofin
+on mRNA vitro
+inducers EG E ECso soures observations
+max
+mi fold m) mx (fold) — ECso Emax
+PMID: 17639026
+— ; * .16t L
+rifampin O41 27 | |>25*| | 0.16 7250 0-1 and 21930825 1
+PMID: 29802934;
+omeprazole 0.15 24 10-35 38-102 67-233 16-43 FDA Database 4
+
+*Estimates of EC50 were above the highest tested concentration (25 tM) (PMID: 21930825);
+
+Fmean slope of the line with intercept (PMID: 21930825)
+
+Source: response to FDA IR Clinical Pharmacology submitted 19 December 2023 (NDA217700 seq0021) and
+references within the table
+
+Effects of taletrectinib on CYP2D6 substrates desipramine and dextromethorphan
+
+Taletrectinib is expected to have weak to moderate inhibitory effects on CYP2D6 substrates in
+general cancer patients for reasons discussed below.
+
+The Applicant assessed the inhibition potential of taletrectinib on CYP2D6 by applying
+the in vitro ICSO value generated using bufuralol as a CYP2D6 substrate (VPT1184/2013).
+Because substrate-dependent inhibition with CYP2D6 was observed in vitro (PMID21976621),
+the predicted drug interactions with desipramine or dextromethorphan need to be interpretated
+with caution.
+
+The verification of the desipramine model has been discussed in the PBPK review of
+capivasertib (NDA218197 PBPK review). Although there is a trend towards underprediction, the
+overall performance of the desipramine model seems reasonable. Similarly, the
+dextromethorphan model can reasonably predict its interaction with quinidine, fluoxetine and
+cinacalcet (CYP2D6 V21 Qualification). During the capivasertib PBPK review, the reviewer
+found that the in vitro Ki, values were approximately 2- to 40-fold greater than those used in the
+PBPK models of CYP2D6 inhibitors. In other words, the in vitro Ki, value of an inhibitor needs
+to be reduced by 2- to 40-fold to reproduce the observed effects of this inhibitor on the exposure
+
+of CYP2D6 substrates (NDA218197 PBPK review).
+
+The fu,mic value of taletrectinib was predicted to be 0.895 at the protein concentration used.
+for the in vitro reversible inhibition assay (report VPT1184/2013). Taking this nonspecific
+binding into account, taletrectinib is predicted to have minimal effect on the exposure of
+desipramine and dextromethorphan. Reducing the in vitro CYP2D6 Kin of taletrectinib by 10- to
+40-fold, taletrectinib was predicted to increase AUC of desipramine and dextromethorphan by
+
+374
+Version date: March 1, 2024 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant's Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5606238

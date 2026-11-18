@@ -1,0 +1,47 @@
+NDA Multi-Disciplinary Review and Evaluation
+NDA 219876
+Dordaviprone
+
+FDA agrees that dordaviprone but not the metabolite, ONC207, had agonistic activity towards
+ClpP.
+
+In Study ONC201-bio-101, knockout (KO) of ClpP in the H3K27M-positive diffuse intrinsic
+pontine glioma (DIPG) cell line SF8628 led to dordaviprone resistance (no effect on cell
+viability). In SF8628 cells with a non-targeted control (NTC) vector, treatment with
+dordaviprone decreased cell viability 82 to 91% after 3 or 5 days of treatment, suggesting that
+ClpP expression in cancer cells with H3K27M mutations is necessary for dordaviprone activity
+(Figure 4; top). KO of ClpP was confirmed by Western blot analysis (data not shown in review).
+A similar study was conducted in the glioblastoma multiforme (GBM) cell line T98G harboring
+H3K27 wt: KO of ClpP led to increased dordaviprone resistance compared to NTC cells (Figure
+4; bottom).
+
+Figure 5.4: KO of ClpP in DIPG-H3K27M-positive (top) and GBM-H3K27 wt (bottom)
+cells led to dordaviprone resistance
+
+Cell line ONC201
+% of Response at 100 1M
+
+3 Days 5 Days
+SF8628-NIC 81.8 90.7
+ClpP KO 30.6 30.5
+Cell line ONC201
+% of Response at 100 1M
+T98G 59.5
+ClpP KO 39.8
+
+(Excerpted from Study ONC201-bio-101)
+NTC = non-targeting control. KO = knockout. ONC201 = dordaviprone.
+
+KO of DRD2 in SF8628 cells did not affect the sensitivity to dordaviprone with similar
+sensitivity observed compared to NTC cells (Figure 5). The Applicant states that these results
+may be due to the lack of dopamine dependency in in vitro tumor cultures and lack of
+microenvironment in an in vitro model but did not provide additional data to support this
+statement. DRD2 KO was verified using immunohistochemistry (data not shown in review).
+
+43
+Version date: March 1, 2024 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5638121

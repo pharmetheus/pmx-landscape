@@ -1,0 +1,64 @@
+Multi-disciplinary Review and Evaluation
+
+NDA 218784
+VORANIGO (vorasidenib)
+[PARAMETER Value Reference
+P-gp K (uM) 5 NP41967 — P-gp K value incorporated
+in the model by setting Ki to highest
+concentration tested in vitro
+Tes (P-gp) 7 ‘Assumed
+CYP2B6 Indrax 721 INP41964
+CYP2B6 IndCeo (uM) 0.223 NP41964
+Tile (CYP2B6) 1 ‘Assumed
+CYP2C8 Indmax 432 NP41902
+CYP2CB IndCeo (uM) 0.104 NP41902
+flee (CYP2C8) 1 ‘Assumed
+CYP2C9 Indnas 526 NP41902
+CYP2C9 IndCss (uM) 0.127 NP41902
+Tne (CYP2C9) T ‘Assumed
+CYP2C19 Indeas G17 NP41902
+CYP2C19 IndCso (uM) 0.156 NP41902
+Tine (CYP2C19) 7 ‘Assumed
+CYP3AA Indrae BSS Calibrated using rifampicin data
+CYP3A4 IndCeo (uM) 0.164 NP41964
+Tine (CYP3A4) T Assumed
+
+Substrate and precipitant drug models
+
+The default PBPK models of ciprofloxacin, fluvoxamine, phenytoin, rifampicin, midazolam,
+bupropion, repaglinide, warfarin, mephenytoin, rosuvastatin and digoxin in SimCYP V21 were used
+without any modification for DDI prediction.
+
+PBPK model application
+The developed PBPK model was used to simulate the DDI for vorasidenib in the following scenarios.
+
+© To predict the effect of ciprofloxacin (a CYP1A2 inhibitor) and fluvoxamine (a strong CYP1A2
+inhibitor) on the PK of vorasidenib.
+
+© To predict the effect of rifampin (a moderate CYP1A2 inducer) and phenytoin (a moderate
+CYP1A2 inducer) on the PK of vorasidenib.
+
+© To predict the effect of vorasidenib on the PK of midazolam (a CYP3A4 substrate), S-
+mephenytoin (a CYP2C19 substrate), S-Warfarin (a CYP2C9 substrate), and repaglinide (a
+CYP2C8 and CYP3A4 substrate).
+
+© To predict the effect of vorasidenib on the PK of bupropion (a CYP2B6 substrate).
+
+© To predict the effect of vorasidenib on the PK of rosuvastatin (a BCRP substrate) and digoxin
+(a P-gp substrate).
+
+Results
+
+1. Can vorasidenib PBPK model describe vorasidenib PK in healthy subjects and cancer
+patients?
+
+Table 74 and Figure 32 showed the Applicant’s model development and verification results. In
+general, the model was able to capture the vorasidenib Cmax and AUC following a single or
+
+322
+Version date: December 2023(ALL NDA/BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5425021

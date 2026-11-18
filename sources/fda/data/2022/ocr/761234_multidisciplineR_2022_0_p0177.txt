@@ -1,0 +1,55 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {BLA 761234}
+Opdualag™ (nivolumab and relatlimab-rmbw)
+
+The Applicant’s Description:
+
+The majority of deaths in both treatment arms were due to disease progression. The frequency
+of deaths attributed to study drug toxicity was low and similar between the nivotrela (n = 3) and
+nivolumab (n = 2) arms (Table 53). Causes of study drug toxicity-related deaths were
+hemophagocytic lymphohistiocytosis, acute edema of lung, and pneumonitis in the nivot+rela arm
+and sepsis and myocarditis, and worsening of pneumonia in the nivolumab arm. These deaths
+were largely attributed to an immune-mediated etiology. Similarly, the frequency and nature of
+deaths due to AEs of any cause were similar between the nivotrela FDC (n = 14) and nivolumab
+(n = 16) arms, including deaths recorded as related to COVID-19. Of the 7 subjects who died due
+to COVID-19 (3 in the nivo+rela FDC arm and 4 in the nivolumab monotherapy arm), 5 subjects
+had already experienced disease progression per BICR prior to death.
+
+The FDA’s Assessment:
+
+FDA agrees with the incidence of deaths from the Applicant’s Table 53. AEs resulting in death,
+within 30 days after the last dose of drug, and beyond 30 days after the last dose of drug, are
+described below in Table 54. Deaths due to AEs assessed by FDA were consistent with the
+Applicant’s assessment above in Table 53: Applicant - Summary of Safety, All Treated Subjects
+in CA224047 and were balanced between treatment arms.
+
+Table 54: Summary of Deaths
+
+Nivolumab-relatlimab FDC Nivolumab Total
+N=355 N=359 N=714
+N (%) N (%) N (%)
+Total Deaths 108 (30) 119 (33) 227 (32)
+Disease 90 (25) 99 (28) 189 (26)
+Other 14 (3.9) 16 (4.5) 30 (4.2)
+Study Drug Toxicity 3 (0.8) 2 (0.6) 5 (0.7)
+Unknown 1(0.3) 2 (0.6) 3 (0.4)
+Within 30 days after last dose 10 (2.8) 18 (5) 28 (3.9)
+Other 7 (2.0) 7 (1.9) 14 (2.0)
+Disease 1(0.3) 8 (2.2) 9 (1.3)
+Study Drug Toxicity 1 (0.3) 1(0.3) 2 (0.3)
+Unknown 1(0.3) 2 (0.6) 3 (0.4)
+Beyond 30 days after last dose 51 (14) 60 (17) 111 (16)
+Disease 35 (10) 42 (12) 77 (11)
+Other 12 (3.4) 15 (4.2) 27 (3.8)
+Study Drug Toxicity 3 (0.8) 1(0.3) 4 (0.6)
+Unknown 1 (0.3) 2 (0.6) 3 (0.4)
+
+Source: ADSL (Subject-Level Analysis Dataset) - 2021-05-12. Variables used: USUBJID, TRTO1A, SAFFL, DIHCAUS,
+DTH30TFL, DTH100FL, DTHDT, DTHFL, TRTEDT]
+
+176
+Version date: January 2020 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “The Applicant’s Position” are completed by the Applicant
+and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 4955210

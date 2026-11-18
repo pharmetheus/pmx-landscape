@@ -1,0 +1,53 @@
+BLA 761367
+Andembry / garadacimab
+
+Figure 55. Applicant Impact of Significant PD Covariates on ECso0
+EC50 (ug/mL) Median [95% Cl]
+
+eS
+i
+i
+i
+i
+i FXila-Mediated Kallikrein
+FiXlla-Mediated Kallikrein i ‘Activity (A4OSmmin)
+Activity (A405nim/ min i
+i
+i
+i
+BLPD_0.224 io 1.14 (1.06, 1.23)
+i
+i
+BLPD_0.1394 > 1.01 [1.00, 1.02)
+i
+i
+BLPD_0.087 4 a | 0.802 [0.748, 0.917]
+i
+i
+i
+i
+i
+i
+i
+|
+i
+| | | |
+02 06 #10 14 18
+
+Fraction and 95% Cl
+
+Relative to Reference
+Source: Applicant's Population PK Report, Figure S165.
+The covariates in the model were visualized by varying single covariates individually while keeping all other conditions constant
+(ceteris paribus). Results are presented relative to a reference subject, i.e., a subject with a baseline FXila-mediated kallikrein
+activity of 0.134 Asosnmmin- The colored diamonds represent the median and the solid horizontal lines represent the 95% confidence
+interval. The grey shaded reference range of 80%-125% was analogous to the region of practical equivalence (ROPE). For
+continuous covariates, the upper and lower values used in the simulations were determined based on the 10th and 90th percentiles
+in the observed dataset.
+Abbreviations: A, absorbance; BLPD, baseline FXIla-mediated kallikrein activity (A405nm/min), Cl, confidence interval,
+ECso, concentration that causes half-maximal effect; FXila, activated Factor XII; PD, pharmacodynamics; PK, pharmacokinetics
+
+206
+Integrated Review Template, version 3.0 (05/25/2022)
+
+Reference ID: 5458438

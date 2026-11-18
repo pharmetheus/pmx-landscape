@@ -1,0 +1,59 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 218213}
+Repotrectinib (BMS-986472)
+
+19.4.2. Population PK Analysis
+
+19.4.2.1. PPK Executive Summary
+The FDA’s Assessment:
+
+Population PK analysis was conducted by the Applicant in healthy volunteer and patients with
+advanced solid tumor harboring ALK, ROS1 or NTRK1-3 mutations from studies TPX-0005-01
+(TRIDENT-1), TPX 0005 08, TPX-0005-09, TPX-0005-10, TPX 0005-11, TPX-0005-12, and TPX
+0005-14. A 2-compartment model structure with first-order absorption with Tlag, non-linear
+elimination with autoinduction was developed to characterize the PK of repotrectinib in
+population PK analysis. Baseline body weight effect on CLs and volumes of distributions, food
+effects on KA and F1, dose on CLMAX were identified significant covariates in the analysis.
+Age, sex, race, ethnicity, renal impairment (mild/moderate impairment vs normal), hepatic
+impairment (mild impairment vs normal), formulation (capsules versus suspension), route of
+administration (oral versus IV), population (healthy subjects vs subjects with advanced solid
+tumors) and characteristics associate patients with advanced solid tumors including cancer
+histology, cancer type, genetic mutation, ECOG score, and TKI pretreatment did not show
+meaningful impact on PK parameters in the population PK analysis.
+
+19.4.2.2. PPK Assessment Summary
+The Applicant’s Position: The population PK model of repotrectinib was adequately
+described with a 2-compartment model structure with first-order absorption with a Tiag,
+non-linear elimination with autoinduction modeled through a time-dependent Emax
+function, and an allometrically scaled baseline body weight effect on CLs and volumes of
+distribution parameters. Food effect on KA and F1 was identified as a significant covariate,
+while dose was a significant covariate on CLMAX. Rate of absorption increased under fed
+conditions.
+
+Table 68. Applicant Table
+General Information
+
+Objectives of PPK Analysis © To characterize the PK of repotrectinib following oral
+administration in heathy subjects and in subjects with advanced
+solid tumors harboring ALK, ROS1, or NTRK1-3 mutations
+
+¢ To identify the effects of intrinsic and extrinsic covariates that
+may be important predictors of repotrectinib PK variability
+
+* To generate exposures for model applications and exposure-
+response analysis
+
+Study Included TPX-0005-01 (TRIDENT-1), TPX-0005-08, TPX-0005-09, TPX-0005-10,
+TPX-0005-11, TPX-0005-12, and TPX-0005-14.
+Dose(s) Included 40 mg to 240 mg
+Population Included Healthy subjects and subjects with advanced solid tumors
+General Age 51.0 yr (18.0, 84.0), 20% subj > 65 yr, 17% subj > 75 yr)
+
+Weight 71.0 kg (39.5, 169)
+
+215
+
+Version date: June 2022 (ALL NDA/ BLA reviews)
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5277412

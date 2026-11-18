@@ -1,0 +1,109 @@
+Characteristic
+
+Drug Information
+
+General Information
+
+Bioanalysis
+
+Validated liquid chromatography with tandem mass spectrometry (LC-MS/MS) methods
+were utilized to determine ensitrelvir concentrations in human plasma and urine samples.
+The bioanalytical method validations and in-study sample analyses are acceptable.
+
+Healthy subjects versus
+patients
+
+N/A. Ensitrelvir is indicated for post-exposure prophylaxis of COVID-19, not the
+treatment of COVID-19 disease.
+
+Drug exposure
+following the
+therapeutic dosing
+regimen
+
+Parameter” Day 1 Day 5
+Cmax (meg/mL) 18.1 (22.6) 18.2 (40.5)
+Cnia (meg/mL) 13.2 (31.3) 13.0 (59.4)
+AUCotm (meg*hr/mL) 345.9 (28.4) 380.8 (47.0)
+
+* Source: PopPK estimated exposures in SCORPIO-PEP study. Data are presented as
+geometric mean (CV%, geometric coefficient of variation).
+
+* Ensitrelvir dosing: 375 mg on Day 1 and 125 mg on Days 2-5, administered orally
+once daily.
+
+Range of effective
+dose(s) or exposure
+
+N/A. Ensitrelvir once daily 375 mg on Day 1 and 125 mg on Days 2-5 was the only
+dosing regimen evaluated in the pivotal efficacy trial.
+
+Maximally tolerated
+dose or exposure
+
+Ensitrelvir 750 mg on Day 1 and 250 mg on Days 2-5 (750/250 mg) once daily, two
+times the proposed dose, was the highest dose tested in phase 2/3 trial and demonstrated
+to be safe and well tolerated.
+
+A single oral dose of 2000 mg was demonstrated to be safe and well tolerated in the
+phase 1 study.
+
+Dose proportionality
+
+Coax and AUCo ine generally increase in a dose-proportional manner across the single
+dose range of 20 to 2000 mg in healthy adult individuals.
+
+Accumulation Ratio
+
+Day 5/Day 1 Crux 1.26 to 1.46; AUCom 1.4 to 1.6 (tablet)
+
+Time to achieve steady-
+state
+
+N/A. The proposed treatment duration is 5 days. Steady state is not expected to be
+achieved on Day 5 given the elimination half-life of approximately 48 hours.
+
+Bridge between to-be-
+marketed and clinical
+trial/study formulations
+
+N/A. The to-be-marketed formulation was used in phase 2/3 and phase 3 trials.
+
+Absorption
+Bioavailability Not determined. The mass balance study results suggest that ensitrelvir is considered to
+be orally well absorbed.
+Tmax Day 1: 2.50 (1.50, 8.00) hours, Day 5: 2.00 (1.00, 8.00) hours
+(Source: Japanese healthy adult female participants)
+Food effect (fed/fasted) Parameters GLSM Ratio (Fed/Fasted) 90% Cis
+Geometric least square “Go (meg/mL) 0.9320 0.8134 1.0679
+mean and 90% CI AUCosast (meg: hr/mL) 1.2435 1.1400 1.3564
+AUCo ine (meg:hr/mL) 1.2447 1.1396 1.3596
+* Single dose of ensitrelvir tablet 375 mg. with/without a high-fat meal (863 kal. 55.4%
+from fat, 27.2% from carbohydrate)
+GLSM: Geometric least squares mean
+Distribution
+
+Volume of distribution
+
+Apparent volume of distribution in central compartment Ve/F: 16.7 L (22.9%) based on
+PopPK estimate (Geometric mean, CV%)
+
+Plasma protein binding
+
+97.7% to 98.7% (in vitro), independent of concentration range of 0.5 to 50 mcg/mL:
+predominantly bound to human serum albumin
+
+Drug as substrate of
+transporters
+
+Ensitrelvir is a substrate of P-gp and BCRP, but not a substrate of OATP1B1. OATP1B3,
+OCT1, OCT2, OAT1, OAT3, MATE1, or MATE2-K.
+
+Elimination
+
+Mass balance results
+
+Following a single oral dose of 375 mg [!4C]-S-217622 in healthy adult participants, a
+total of 90.6% of the dose was recovered with 69.7% as unchanged. Of the recovered
+
+Reference ID: 5781160

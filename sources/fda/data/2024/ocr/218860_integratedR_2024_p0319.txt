@@ -1,0 +1,73 @@
+NDA 218860 Elafibranor
+
+Table 188. Cross Validation of Bioanalytical Methods for Elafibranor Concentrations In Plasma
+
+Bioanalytical method CROSS-VALIDATION OF A LC-MS/MS ANALYTICAL METHOD FOR GFT505
+validation report name | ASSAY IN PLASMA SAMPLES
+
+and hyperlink ©) @2E FERENCE: 20-414
+GENFIT REFERENCE: GFTS05_KINS 015
+Changes in method PKHMOA/160
+1. Version 8 to version 13: modification of chromatographic conditions (PFP column) to
+separate an interfering peak
+
+2. Version 13 to version 15: change of solvent for protein precipitation step (mix
+acetonitrile H20+0.1% formic acid was replaced by acetonitrile)
+
+PKHMOA/528
+1. Version 4 to version 5: modification of chromatographic conditions (PFP column) to
+separate an interfering peak
+‘New validated assay | No assay range modification for both assays
+range if any
+Validation parameters | Cross-validation performance (PKH/MOA/160 version 8) Source location
+Standard calibration | Cumulative accuracy (% bis) im standard “9.46 to 856% Report 20-414;
+curve performance calibrators Table 11
+during accuracy and | Cumulative precision (CV) fom LLOQ to ‘Not reported
+precision runs ULOg
+Performance of QCs __| Cumulative accuracy (@e bins) im 3 QCs “773 to 108% Report 20-414,
+during accuracy and Table 26
+precision runs Tnter-batch % CV 29% Report 20-414;
+Table 26
+Percent TE ‘Not applicable
+Cross-validation PKH/MOA/160 Version 8 versus PKH/MOA/160 Version 15: Report 20-414;
+186/248 (74.6%) of the ISR are within acceptance criteria Table 3
+No impact of the interfering peak on elafibranor concentrations
+List other parameters | Not applicable
+‘Validation parameters _ | Cross-validation performance (PRH/MOA/160 version 13) Source location
+Standard calibration | Cumulative accuracy (% bias) in standard -21.26t0 8.00% | Report 20-414;
+curve performance calibrators Table 12
+during accuracy and | Cummlative precision (%@CV) fom LLOQ to ‘Not reported
+precision runs uLog
+‘Performance of QCs__| Cunmlative accuracy (* bias) im 3 QCs “188 0 225% Report 20-414;
+during accuracy and Table 27
+precision runs Tnter-batch % CV Bae Report 20-414;
+Table 27
+Percent TE ‘Not applicable
+Cross-validation PKH/MOA/160 Version 13 versus PRH/MOA/160 Version 15: Report 20-414;
+70/243 (29%) of the ISR are within acceptance criteria Table 4
+
+Impact of formic acid on elafibranor concentration.
+List other parameters | Concordance Coefficient Correlation =0.8 up to 4h afteradministration | Report 20-414;
+and <0.8 from Shours to the end of kinetics. This resulted in equivalent | Section 5.2 and
+Coun Dut underestimation of AUCs (by about 105% for AUCi, and 34% | Section 5.3
+
+for AUCo.2« when elafibranor plasma concentrations are measured with
+
+PKH/MOA/160 version 13.
+‘Validation parameters | Cross-validation performance (PKH/MOA/160 version 15) Source location
+Standard calibration | Cunmlative accuracy (% bias) in standard -7:86t08.70% | Report 20-414;
+curve performance calibrators Table 13
+during accuracy and | Cunmilative precision (@CV) fom LLOQ to ‘Not reported
+precision runs ULOQ
+Performance of QCs | “uBulative accuracy (% bias) in 3 QCs ~1.05 to 0.32 % Report 20-414;
+during accuracy and Fo orbaich % CV Report 20414;
+precision runs 5.65% tale 2e
+Percent TE ‘Not applicable
+Cross-validation Not applicable
+
+List other parameters | Not applicable
+
+291
+Integrated Review Template, version 3.0 (05/25/2022)
+
+Reference ID: 5395225

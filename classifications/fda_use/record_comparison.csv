@@ -1,0 +1,17 @@
+"record","reading","Freq"
+"indirect","indirect",16
+"none","indirect",0
+"stated","indirect",3
+"template","indirect",3
+"indirect","none",0
+"none","none",3
+"stated","none",0
+"template","none",0
+"indirect","stated",1
+"none","stated",1
+"stated","stated",120
+"template","stated",0
+"indirect","template",0
+"none","template",2
+"stated","template",0
+"template","template",6

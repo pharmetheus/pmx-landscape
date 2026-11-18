@@ -1,0 +1,39 @@
+NDA 216873
+
+Momelotinib (MMB)/OJJAARA.
+Table 182. Analysis Data Sets
+File Description Name Link to EDR
+Final PopPK Dataset poppk2.xpt ~..\nda216873\0022\mb\datasets\5382-
+pkpd001\analysis\adam\datasets\poppk2.xpt
+E-R Dataset er3.xpt ...\nda216873\0024\m5\datasets\5382-
+
+pkpd001\analysis\adam\datasets\er3.xpt
+Source: Reviewer generated table based on datasets submitted by the Applicant
+Abbreviations: E-R, exposure-response; PopPK, population pharmacokinetics; EDR, Electronic Document Room
+
+14.5.3.4. Results
+
+Across starting dosages of 100-mg, 150-mg, and 200-mg (tablet formulation) in phase 3 trials,
+visual inspection of PK observations is shown in Figure 65. E-R analysis for select endpoints
+(SVC change from baseline, peripheral neuropathy, and grade >3 thrombocytopenia) is shown in
+Figure 66.
+
+Figure 65. Observed MMB PK of 1000-mg, 150-mg, and 200-mg by Phase 3 Studies
+‘SIMPLIFY-1 PK Observations
+
+MOMENTUM PK Observations:
+100
+600 = C dose
+a. . . © 10
+. 5 * 19
+200 - 200
+25278 25300, 25325 28.380, é to
+
+Time After Dose, hrs
+Source: Reviewer's analysis based on submitted PK dataset, poppk2 xpt
+Y-axis denotes log-transformed MMB plasma concentration, ng/mL.
+
+300
+Integrated Review Template, version 3.0 (05/25/2022)
+
+Reference ID: 5244424

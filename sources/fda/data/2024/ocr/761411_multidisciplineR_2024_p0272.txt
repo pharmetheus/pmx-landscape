@@ -1,0 +1,67 @@
+BLA Multidisciplinary Review and Evaluation
+BLA 761411
+Niktimvo (axatilimab-csfr)
+
+Higher Cycle 1 and steady state AUC and Cmax were associated with higher probability of the
+following safety events in patients with cGVHD according to logistic regression, as presented in
+FDA Figure 28:
+
+Grade 23 TEAE
+
+TEAE leading to dose modification
+
+Grade 23 AE of special interest
+
+Hypertension
+
+Hypophosphatemia (derived from adverse event dataset)
+
+Pruritis
+
+Elevated liver enzymes (grouped term, derived from adverse event dataset)
+
+Periorbital edema (grouped term)
+
+Infusion-related reactions (grouped term)
+
+Increased AST (derived from laboratory dataset)
+
+Increased ALT (derived from laboratory dataset)
+
+Increased CPK (derived from laboratory dataset)
+
+Increased lipase (derived from laboratory dataset)
+
+Increased amylase (derived from laboratory dataset)
+
+Higher steady state exposure based on average dose in each patient (AUC.; and Cmax,ss) were
+also associated with higher probability of decreased hemoglobin (laboratory dataset),
+decreased lymphocyte count (laboratory), and decreased LDH (laboratory). No clear
+associations were identified between Cycle 1 or AUC.; and Cmaxss and the probability of fatigue,
+increased LDH (laboratory), decreased platelet count (laboratory), decreased leukocyte count
+(laboratory), and decreased neutrophil count (laboratory).
+
+FDA Figure 28. Logistic Regression — Incidence of Safety Events Associated with Increased
+Axatilimab Cycle 1 and Steady State AUC in Patients with cGVHD
+a) TEAE Leading to Dose Modification
+
+ —— ore 10 mmo sone
+Eo. 8
+
+5
+
+Hos eS 06 PS .oss8 Dose Cohort
+So4 4 0.3 mg/kg Q2W
+
+Zo2 2 {I} 1 moxsa2w
+S00 0. — 1 wy
+3 md = 7 {I} 3 moikg aaw
+a + , ey
+) 500 1000 0 100 2000 000 4000
+AUC1 (ug/mL*day) AUCSS (ug/mL*day)
+272
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA. The FDA's position is highlighted in gray.
+
+Reference ID: 5429649

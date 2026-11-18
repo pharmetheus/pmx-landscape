@@ -1,0 +1,72 @@
+NDA/BLA Multi-disciplinary Review and Evaluation - BLA 761460
+Pivekimab Sunirine IMGN632)
+
+GeoMean (%CV) 171 68) 218 (62) 432 (112)
+
+GMR NA is} 25
+Cmax (pg/mL)
+
+GeoMean (%CV) 60 (62) 60 (60) 193 (95)
+
+GMR NA 1.0 3.2
+
+GeoMean = Geometric mean; GMR = Geometric mean ratio
+Source: Reviewer Analysis
+
+6.3.2.4 Are there clinically relevant food-drug or drug-drug interactions, and what
+is the appropriate management strategy?
+
+Data:
+
+Potential for Other Drugs to Affect PVEK
+
+FGN849 is a primary metabolite of PVEK and is expected to be eliminated through the hepatic-
+biliary pathway and metabolized primarily by CYP3A4 in-vitro. Concomitant CYP3A inhibitor
+use was not found to be a statistically significant covariate on FGN849 CL. The population PK
+dataset included subjects who received concomitant weak (N = 5), moderate (N = 67), and strong
+(N = 113) CYP3A inhibitors. Model-predicted FGN849 exposures in subjects with moderate and
+strong inhibitors were similar to subjects who did not receive CYP3A inhibitors.
+
+Potential for PVEK to Affect Other Drugs
+
+In vitro, FGN849 showed direct inhibition of CYP2C8 and CYP3A and time-dependent
+inhibition of CYP3A at concentrations > 200,000-fold of the expected clinical exposures at
+0.045 mg/kg Q3W (total Cmax = 58.8 pg/mL; fraction unbound [fu] = 0.01). Therefore, at the
+clinical PVEK dose of 0.045 mg/kg Q3W, the DDI potential caused by FGN849 via CYP
+inhibition is very low.
+
+The Applicant's Position:
+
+PVEK is intravenously administered and is, therefore, not expected to have food-drug
+interactions. No dedicated drug interaction studies with PVEK have been conducted. The drug
+interaction potential of PVEK as a perpetrator and victim were evaluated through in vitro studies
+and using population PK modeling approach.
+
+Based on population PK analyses, no dose adjustment is proposed for subjects administered
+concomitant strong CYP3A inhibitors.
+
+The FDA's Assessment:
+
+Potential for other drugs to affect PVEK
+
+The FDA agrees with the Applicant’s assessment that FGN849 is primarily metabolized by
+
+CYP3A in vitro. The FDA does not agree that the population PK analysis is adequate to inform
+
+recommendations for dose adjustment in patients taking concomitant strong or moderate CYP3A
+
+inhibitors due to PK data quality issues. Therefore, the FDA assessment of the impact of strong
+
+and moderate CYP3A inhibitors was based on observed safety data for patients on CYP3A.
+
+inhibitors vs patientss not on strong CYP3A inhibitors. The FDA will issue a PMR to further
+
+evaluate the impact of moderate and strong CYP3A inhibitors on PVEK and FGN849 safety and
+90
+
+Version date: February 10, 2025 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as "Data" and “The Applicant's Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5805215

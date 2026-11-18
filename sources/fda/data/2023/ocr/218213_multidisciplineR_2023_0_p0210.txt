@@ -1,0 +1,44 @@
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 218213}
+Repotrectinib (BMS-986472)
+
+hook effect 2510 ng/mL 50x dilution, bias -0.398%
+Bench-top/process 5 days at room temperature, Yes
+stability bias: -8.67% (3.0 ng/mL) and -0.125% (800 ng/mL)
+Freeze-Thaw stability | 4 cycles (-70°C/RT), Yes
+bias: 0.667% (3.0 ng/mL) and -2.00% (800 ng/mL)
+Long-term storage 383 days at -20°C, bias: 3.00% (3.0 ng/mL) and 2.38% (800 ng/mL) Yes
+1203 days at -70°C, bias: -7.67% (3.0 ng/mL) and -10.6%
+(800 ng/mL)
+Parallelism NA NA
+Carry over Carry over <20.0% lowest analyte response and <5.00% lowest Yes
+internal standard response
+Method performance in study TPX-0005-01 Phase 1 report MC22R-0010
+Assay passing rate ISR passing rate 84.4%
+Standard curve * Cumulative bias range: -1.75% to 2.00% Yes
+performance * Cumulative precision (%CV): < 4.17%
+QC performance * Cumulative bias range: -2.67% to 5.00% with outlier Yes
+excluded, -1.50% to 5.00% with outlier included
+* Cumulative precision (%CV): < 6.94% with outlier
+excluded, < 60.7% with outlier included
+Method reproducibility | Incurred sample re-analysis was performed in 7.3% of study Yes
+samples (calculated based on 154 ISR samples tested and total
+2108 Phase 1 samples analyzed), and 84.4% of the samples met
+the pre-specified criteria.
+Study sample The standard/QCs are stable at -70°C for 1,203 days; study samples Yes
+analysis/ stability were stored at -70°C for no more than 641 days
+Method performance in study TPX-0005-01 Phase 2 interim report MC22R-0024
+Assay passing rate ISR passing rate 79.8%
+Standard curve * Cumulative bias range: -1.50% to 1.80% Yes
+performance * Cumulative precision (%CV): < 4.94%
+QC performance Cumulative bias range: -1.88% to 7.87% with outlier Yes
+excluded or included
+* Cumulative precision (%CV): < 7.43% with outlier
+excluded; < 69.4%with outlier included
+
+209
+Version date: June 2022 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5277412

@@ -1,0 +1,58 @@
+NDA/BLA Multi-disciplinary Review and Evaluation — NDA 219972
+
+Sevabertinib (BAY 2927088) — Version 2.0
+oe).
+in
+
+the label.
+
+E-R analysis for diarrhea
+
+Age was identified as a covariate in the ER analysis for diarrhea of grade >3 where a prominent
+increase in diarrhea event onset was observed in 4" quartile of age bin [69-91]. Therefore, geriatric
+subgroup with 65- and 75-year cutoff was evaluated. When age was subgroup to be groups of >
+75 and < 75, the categorized age is also identified a covariate in Cox proportional hazard model
+with similar OFV value as that of age as a continuous covariate that produced comparable AIC.
+Furthermore, the Kaplan-Meier plot of diarrhea of grade >3 stratified by age groups showed a clear
+difference between two groups, shown in Figure 21. Based on CoxPH analysis, patients aged >
+75 years was associated with 2.32 folds risk of grade >3 diarrhea than those aged <75 years. The
+wide CI reflects the limited subjects in this age subgroup.
+
+Table 88. BTR Bayesian Emax Model Assessment
+
+mean SD 2.5% CR 97.5%CR
+Emax -7.12 1.48 -10 -4.13
+ECO -6.18 0.96 -8.1 -4.28
+ECS50 1273 946 49 3391
+gamma 2.1 1.16 0.91 3.63
+
+CR: credible interval
+Source: reviewer independent assessment
+Figure 21. Diarrhea Grade 23 Kaplan-Meier Plot Stratified by Age Groups
+
+06 Fe AGETS=Age<75y
+AGETS=Age>=75y
+&
+204
+o
+°
+2
+3S
+£02 p= 0.043
+9 es
+00
+0 60 120 180 240 300 360
+Time
+Number at risk
+= 34 245 179 105 58 47 27
+43 24 18 al 5 4 4
+
+Source: reviewer independent assessment
+
+324
+Version date: March 1, 2024 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5697816

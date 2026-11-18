@@ -1,0 +1,57 @@
+NDA 216951
+Jesduvrog (daprodustat)
+
+Secondary Efficacy Analyses
+
+The planned key secondary efficacy analysis was the on-treatment average monthly IV iron dose
+(mg)/participant from Baseline to Week 52 excluding IV iron use following a participant's first
+RBC or whole blood transfusion and was based on the ITT population. An ANCOVA model was
+used to compare the difference in average monthly IV iron dose per participant between
+treatment groups, adjusting for: treatment; Baseline monthly IV iron dose; dialysis type; and
+dialysis start manner. The number and percentage of participants with Baseline IV iron use, on
+treatment EP IV iron use, and on-treatment IV iron use to Week 52 was summarized by
+treatment.
+
+The secondary analysis of Hb change from baseline to Week 52 Hb was tested for non-inferiority
+using the -0.75 g/dL margin used in the primary analysis. A MMRM approach was used with an
+unstructured covariance matrix to compare the difference in means between groups. The model
+included factors for treatment, time, prognostic randomization factors (dialysis type and dialysis
+start manner), Baseline Hb, and the Baseline Hb by time and treatment by time interaction terms.
+This analysis was performed using all available Hb values (on- and off-treatment) and separately
+using evaluable Hb values only.
+
+For the analysis of % time Hb in range (10.0 tol 1.5 g/dL) during the EP (Weeks 28 to 52), the
+method by Rosendaal was used to calculate the percentage of time (days) a participant’s Hb was
+below, within and above the Hb analysis range during the EP. Non-inferiority with the margin of
+-0.75 g/dL was assessed using the Hodges-Lehmann estimate of the median treatment difference
+and associated 95% CI, comparing the percentage of time in range between treatment groups.
+Superiority was assessed using the 1-sided p-value from a van Elteren test (stratified Wilcoxon
+rank sum test). The stratified Mann-Whitney estimator stratified by dialysis type and dialysis
+start manner, and 95% CI for the probability of daprodustat achieving a greater percentage of
+time with Hb in the analysis range than darbepoetin alfa provided a supportive treatment
+comparison estimate for the van Elteren test.
+
+For the Hb responder analysis, responders were participants with a mean Hb during the EP that
+fell within the Hb analysis range of 10.0 to 11.5 g/dL. A Cochran-Mantel- Haenszel chi-squared
+test, adjusting for treatment, dialysis type, and dialysis start manner, was used to compare the
+number and % of responders between the treatment groups.
+
+For the analysis of time to stopping randomized treatment due to meeting rescue criteria, a Cox
+proportional hazards model, adjusting for treatment, dialysis start type, and dialysis start manner
+(planned or unplanned) was used to generate the hazard ratio and associated 95% CI for the
+treatment group comparison. A 1-sided superiority p-value was generated using a Wald test. The
+incidence rate per 100 PY and associated 95% CI for each treatment group, as well as the
+absolute rate difference per 100 PY and associated 95% CI were also provided.
+
+Multiple Comparison
+
+The primary endpoint was tested first for non-inferiority, using the lower limit of the 2-sided
+95% CI. Conditional on achieving statistical significance (i-e., passing the primary gate by
+establishing non-inferiority) the single key secondary endpoint was tested for superiority using a
+1-sided 2.5% significance level. This 2-step hierarchical strategy was implemented to preserve
+the study-wise Type I error rate at a 1-sided 2.5% significance level.
+
+82
+Integrated Review Template, version 3.0 (05/25/2022)
+
+Reference ID: 5119138

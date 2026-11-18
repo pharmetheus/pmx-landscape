@@ -1,0 +1,47 @@
+NDA 215973 lenacapavir injection, for subcutaneous use
+NDA 215974 lenacapavir tablets, for oral use
+
+steady-state AUCtau, Cmax, and Crrough Values (tau: Day 1 to Day 15 for PO loading and Day 15 to
+Week 26 for SC) ranging between -32% and 24% for patients weighing 109 kg and 55 kg (i.e.,
+95th and Sth weight percentile), respectively, compared to a typical patient (70 kg, 34-year-old
+male, unboosted).
+
+Boosters (COBI or RTV) were found to affect PO bioavailability but not SC bioavailability, with
+a 58.7% increase in Fpo, and thus, in PO exposures.
+
+Healthy volunteers were estimated to have higher CL (30.4% increase) and Vp (133% increase)
+compared to patients with HIV. The predicted percentage decrease in steady-state AUCtau, Cmax,
+and Crrough values were 43%, 32%, and 39% for the PO loading phase (tau: Day 1 to Day 15) and
+38%, 50%, and 30% for the SC administration phase (tau: Day 15 to Week 26) compared to a
+typical patient.
+
+Dose was found to affect PO bioavailability, with an estimated average Fp. of 6.24% for the
+600 mg PO dose and 8.3% for the lower 300 mg PO dose, indicating a less than dose-
+proportional increase in exposure with increased PO dose. In addition to the effect of PO dose on
+
+Foo, the Applicant model included an effect of Ls
+The estimated
+effect of “ was small (at clinically relevant doses of 300 to 927 mg) and not precise
+
+(RSE of (3%). Besides, the physiological and mechanistic rationale of including this covariate
+© was questioned by the review team.
+om
+
+Finally, the lower SC formulation strength (155 mg/mL versus 309 mg/mL) was found to have
+an effect on Vp and Ky, with an estimated 79% lower Vp, and a more rapid SC absorption with a
+34.5% higher Kx for the 155 mg/mL SC salt solution. Accounting for the differences between the
+2 SC formulation strength improved the PK model fit and the visual predictive checks. Only the
+309 mg/mL SC formulation strength will be used for the commercial product.
+
+The goodness-of-fit plots from the final popPK model, are shown in Figure 35. The plots of the
+observed concentrations versus population as well as the individual predicted concentrations
+show random normal scatter around the identity lines, indicating absence of systematic bias and
+show good agreement between the individual predicted and observed concentrations. The
+conditional weighted residuals versus time after last dose or versus population predicted
+concentrations also show random normal scatter around zero with no specific trend, indicating no
+major model misspecifications.
+
+195
+Integrated Review Template, version 2.0 (04/23/2020)
+
+Reference ID: 4944206

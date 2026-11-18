@@ -1,0 +1,59 @@
+NDA 220605
+Rusfertide (PTG-300)
+
+By Week 4, an increase in platelet count from <600 to >600 to <1,00010°/L occurred in 25
+subjects (17.2%) in the rusfertide arm compared to 9 subjects (6.2%) in the placebo arm. Among
+subjects with a baseline platelet count of >600 to <1,000x10°/L, an increase to >1,000*10°/L
+occurred in six subjects (4.1%) in the rusfertide arm compared to three subjects (2.1%) in the
+placebo arn.
+
+At the end of Part 1a (Week 32), mean platelet count increased in the rusfertide arm to
+536.3*10°/L (95% CI: 493.4, 579.2), but remained stable in the placebo arm at 422.6«10°/L
+(95% CI: 386.4, 458.9).
+
+Figure 8. Median and Interquartile Range of Platelets by Treatment Arm, Study PTG-300-11
+
+2000:
+
+1500+
+
+1000
+
+Platelets (1043 celisiul)
+Platelets (10*3 celis/ul)
+
+Fee ee ge PPE FF SF PF FFE EMS FSF SF SS
+Pier. GPL LLEE ELE EEL ELEEE EEE ws
+
+Mean Value
+
+Placebo (weeks 1-32), Rusfertige (weeks 33-119) {408 40:
+‘Rusfertide (weeks 1.119).416 503 547 449 521 515527 527 595 552 542 546 561 574572570 577 573594 S41 496 519.554 564 560505,
+
+Number of Subjects with Data
+é 45 144 144 142 142 140 39 137 137 196 134111 68 79 30
+
+Placebo (weeks 1-22), Rusfertide (weeks 33-119) 746 69 +
+53 140138 138 196 196-135 134 134 191 135131 131 199141 6S 68 32
+
+Rustertide (weeks 1-119) 142 64
+
+- 6 1-32), Rust 6 33-119) mt Rust (weeks 1-119)
+
+Source: FDA Clinical Data Scientist; dataset, adsl; software, R.
+
+The observed increase in platelet count in the rusfertide arm is an anticipated consequence of the
+mechanism of action of rusfertide as a hepcidin mimetic, which suppresses iron-restricted
+erythropoiesis and may secondarily affect thrombopoiesis. A detailed analysis of thrombocytosis,
+including clinical context and individual subject narratives, is presented in Safety Review
+
+Issue #1: Thrombocytosis (Section 7.6.1).
+
+Coagulation Studies
+There were no effects on coagulation studies, prothrombin time, or activated partial
+thromboplastin time in either study ann.
+
+86
+Integrated Review Template, version 4.0-modified (09/05/25)
+
+Reference ID: 5861026

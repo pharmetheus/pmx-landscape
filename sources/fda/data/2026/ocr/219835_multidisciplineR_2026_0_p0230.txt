@@ -1,0 +1,59 @@
+NDA/BLA Multi-disciplinary Review and Evaluation NDA 219835
+
+vepdegestrant
+Model Structure 2 compartment PK model with Acceptable
+sequential zero-, first-order
+absorption and linear clearance
+Model Parameter Estimates Table 53 Acceptable
+Uncertainty and Variability All main model parameters were Acceptable
+(RSE, IIV, Shrinkage, estimated with good precision
+Bootstrap) (relative standard error [RSE]
+<30%), and final estimates were
+within the 95% CI of bootstrap
+estimates and similar to median
+estimates. Shrinkage was acceptable
+(11.97%) for CL/F and elevated for
+V2/F (38.99%)
+BLQ for Parameter Accuracy BLOQ values were removed from the | Acceptable
+analysis due to their low prevalence
+(4.1%) being <10%
+GOF, VPC Figure , Figure , Figure Acceptable
+Significant Covariates and No covariates were included in the | Acceptable
+Clinical Relevance final model following evaluation
+with stepwise covariate modeling
+Analysis Based on Simulation | 4 supplemental popPK analysis was | Acceptable
+
+(optional)
+
+conducted using healthy participant
+PK data to understand sex-related
+differences in PK of vepdegestrant.
+Women were estimated to have a
+23% lower V2/F compared to men
+which resulted in women having a
+higher Cmax (26% increase)
+compared to men but similar AUCinf
+after simulation of a 200 mg dose of
+vepdegestrant.
+
+No clinically significant differences
+in the pharmacokinetics of
+vepdegestrant were observed based.
+on age (26 to 89 years), sex, body
+weight (37 to 181 kg), race (60%
+White, 27% Asian, 2.2% Black or
+
+Labeling Language Description Acceptability
+[FDA’s
+comments]
+
+12.3 PK Specific Populations Acceptable
+
+229
+
+Version date: March 1, 2024 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5789627

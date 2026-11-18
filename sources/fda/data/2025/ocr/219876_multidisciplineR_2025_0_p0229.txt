@@ -1,0 +1,61 @@
+NDA Multi-Disciplinary Review and Evaluation
+NDA 219876
+Dordaviprone
+
+Table 19.11 Predicted effects of CYP3A4 inhibitors and inducers on dordaviprone
+exposure in healthy subjects following co-administration with a single dose of 625 mg
+
+dordaviprone
+
+Categories Perpetrator AUC Ratio | Cmax Ratio | Study Type
+448 1.93 Observed
+
+Strong CYP3A4 inhibitor Itraconazole 200 mg QD 4.62 171 Simulated
+1.03 0.90 Sim/Obs
+
+= Fluconazole 200 mg QD 2.48 1.50
+
+Moderate CYP3A inhibitor TF hromycin 500 mg TID] 2.68 LSI
+
+Weak CYP3A4 inhibitor Cimetidine 400 mg TID* 1.68 1.43 Simulated
+
+Strong CYP3A4 inducer Rifampin 600 mg QD 0.17 0.33
+
+Moderate CYP3A4 inducer | Efavirenz 600 mg QD 0.35 0.57
+
+Weak CYP3A4 inducer Modafinil 200 mg QD * 0.78 0.90
+
+Source: Table 4 in the PBPK report (chmx3a-b) and reviewer's analyses (*)
+
+Reviewer’s comments:
+
+e To accurately predict the effects of CYP3A4 inhibitors and inducers on dordaviprone PK, the
+fraction metabolized by CYP3A4 (fm.cyp3a) is one of key parameters that need to be verified
+in the dordaviprone PBPK model. The fmcyp3a value in the dordaviprone model was
+optimized to be 80% based on its ability to reproduce the inhibitory effects of itraconazole on
+dordaviprone (Table 19.11).This value aligns closely with the 87% calculated from the
+reaction phenotyping study using recombinant CYP enzymes (ONC201-NCA-100).
+
+e For the weak CYP3A4 inhibitor cimetidine, its PBPK model to predict inhibitory effects of
+cimetidine on CYP3A4 substrates was inadequately verified. As shown in Table 19.12, the
+observed inhibitory effects of cimetidine on the exposure of CYP3A4 substrates were not
+predicted in around 50-60% of the clinical DDI studies evaluated, even though predicted
+ratios of Cmax and AUC were within 0.8-1.25-fold of the observed values. For those studies
+that cimetidine was predicted to have inhibitory effects (AUC ratio >1.25-fold), its effects
+were generally underpredicted. To address this issue, model evaluation was conducted by
+reducing CYP3A4 Ki value from 25 j1M to 11 1M. Using the lower Ki value improved the
+predictions, except for two studies (Table 19.12). This updated cimetidine model with a
+CYP3A4 Ki value of 11 1M was used to predict the interaction of cimetidine with
+
+dordaviprone (Table 19.11).
+
+Table 19.12 Verification of the cimetidine PBPK model to predict its interactions with
+CYP3<A4 substrates
+
+228
+Version date: March 1, 2024 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5638121

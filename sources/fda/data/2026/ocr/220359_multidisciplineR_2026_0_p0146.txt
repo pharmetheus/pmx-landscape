@@ -1,0 +1,51 @@
+6.3.2.4. Are there clinically relevant food-drug or drug-drug interactions, and
+what is the appropriate management strategy?
+
+Data and The Applicant’s Position:
+
+No clinically relevant effect of food was observed on camizestrant PK, thereby camizestrant can
+be taken with no food restrictions. A clinically meaningful impact of smoking-related CYP1A2
+induction upon camizestrant PK was not anticipated based on in vitro CYP-mediated metabolism
+results.
+
+Based on physiologically-based PK modelling no clinically meaningful interactions are predicted
+for P-gp, CYP2B6, CYP2D6, BCRP, or OATP1B1. No dose adjustment is required in the
+presence of weak, moderate, or strong CYP3A4/5 inhibitors, inhibitors of UGT1A4, or acid
+reducing agents. No dose adjustment is required in the presence of weak inducers of CYP3A4/5.
+Concomitant use of strong CYP3A4 inducers is not recommended. In combination with
+ribociclib, plus a moderate CYP3A4/5 inducer, no dose adjustment of camizestrant is necessary.
+When co-administering camizestrant with abemaciclib or palbociclib, consider avoiding the use
+of moderate CYP3A4/5 inducers by switching to an alternate concomitant drug product.
+
+Medicinal products that are sensitive substrates (eg, omeprazole) or substrates with narrow
+therapeutic index of CYP2C9 and/or CYP2C19 (eg, warfarin and phenytoin) should be |
+not used for at least 2 weeks after the
+
+. (4)
+last dose of camizestrant. ]
+
+No clinically meaningful DDIs for palbociclib or abemaciclib in combination with camizestrant
+are expected. Ribociclib increases the exposure of camizestrant ~2-fold based on popPK,
+consistent with ribociclib being an inhibitor of CYP3A4/5 and camizestrant being a substrate of
+CYP3A4/5 (itraconazole, a strong CYP3A4/5 inhibitor, increased camizestrant exposure
+~2-fold). This ~2-fold increase in camizestrant exposure is comparable with the 2.6 to 3.2-fold
+increase seen with the observed PK data from the non-compartmental analysis. The Cmaxss and
+AUCss ratios for 150 mg vs 75 mg camizestrant QD monotherapy in SERENA-1 Parts A and B
+are 2.6 and 2.5-fold respectively, and therefore greater than 2-fold for a doubling of dose. This
+reflects the greater than dose proportional increase in exposure with dose. The exposures
+associated with this increase are comparable to those achieved following 150 mg camizestrant
+monotherapy which was well-tolerated, and 300 mg is generally tolerated. Overall, based on
+
+145
+Version date: March 1, 2024 (All NDA/BLA reviews)
+
+In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the Applicant,
+which do not necessarily reflect the positions of the FDA.
+
+The FDA review was conducted in conjunction with other regulatory authorities under Project ORBIS. The FDA
+collaborated with Australia’s Therapeutic Goods Administration (TGA), Brazilian Health Regulatory Agency
+(ANVISA), Health Canada (HC), Singapore’s Health Sciences Authority (HSA), and Switzerland’s Swissmedic
+(SMC). While the conclusions and recommendations expressed herein reflect the FDA’s completed review of the
+application, the applications may still be under review at the other regulatory agencies.
+
+Reference ID: 5864804

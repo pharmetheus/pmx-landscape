@@ -1,0 +1,74 @@
+BLA 761184
+Ngenla (somatrogon)
+
+14.3.3.2.3. Model Development
+The following steps were followed in developing an alternative PKPD model:
+
+e The structural model given in equation (2.1) was used as the base model. However, in
+contrast to the Applicant’s base model, baseline IGF-1 was not estimated, instead for
+everyone, baseline IGF-1 was the mean of observed IGF-1 values before starting somatrogon
+treatment. PK fixed effects parameter estimates were fixed to estimated typical values from
+the PopPK model and the individual PK parameters were derived using the typical values,
+the time varying covariates and the empirical-bayes estimates for ETA derived from the
+PopPK model.
+
+e From the base model, the plot of CWRES versus TIME showed increasing trend for CWRES
+overtime. This indicated that individual predictions (IPRED) plateaued while DV continued
+to increase overtime. The base model had to be modified for IPRED to continue to increase
+as DV. In the Applicant’s model, baseline IGF-1 increased with age, this is supported by
+literature. Figure 49 shows that indeed, baseline IGF-1 increased with age in the present
+cohort.
+
+Figure 49. Baseline IGF-1 Versus Age Among Patients in Both Phase 2 and Phase 3 Studies
+
+PHASE 2 PHASE 3
+
+200 .
+a
+
+E
+
+B150
+
+&
+
+uw
+
+© 100
+
+2
+
+£
+
+3
+
+2 50
+
+a
+
+a
+
+2 - 6 8 10 12, 2 4 6 8 10 12
+Age (Years)
+Source: Reviewer's independent analysis.
+Abbreviations: IGF-1, insulin-like growth factor-
+The age-dependent IGF-1 increase implies that, even without somatrogon treatment, IGF-1
+would increase overtime. This phenomenon was implemented in the model as given in equation
+(2.2).
+
+BASEIGF 1, = BASEIGF1+TSLP x TIME
+
+Whereby:
+
+BASEIGF1 = is mean of observed IGF, before somatrogon treatment
+TSLP = is slope for treatment independent linear increase in IGF,
+TIME = time after initiation of somatrogon treatment
+
+(2.2)
+
+e Alternative approaches for handling baseline responses as recommended by Dansirikul
+Dansirikul et al. 2008) were tested but did not improve model fit to the data.
+
+159
+
+Reference ID: 4924352

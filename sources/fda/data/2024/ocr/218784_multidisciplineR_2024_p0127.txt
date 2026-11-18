@@ -1,0 +1,48 @@
+Multi-disciplinary Review and Evaluation
+NDA 218784
+VORANIGO (vorasidenib)
+
+Based upon FDA internal analysis, ciprofloxacin is considered moderate CYP1A2 inducer. Co-
+administration of vorasidenib with multiple doses of ciprofloxacin resulted in a peak exposure
+(Cmax) 1.29-fold higher compared to vorasidenib administered alone. Total exposure (AUCo+ and
+AUCo.int) was 1.9- and 2.5-fold higher when vorasidenib was administered in combination with
+ciprofloxacin, suggesting a DDI between vorasidenib and ciprofloxacin. Statistical assessment of
+the effect of multiple-dose ciprofloxacin on the single-dose PK of vorasidenib and AGI-64960
+are presented in Table 33.
+
+Table 33. Summary PK (gMean and CV%) of vorasidenib following co-administration with
+ciprofloxacin (test) and alone (reference).
+
+Geometric LS Mean Ratio of Geometric LS Mean
+Parameter Lower 90% Upper 90% Intra-subject
+(unit) n Test nD Reference Estimate cI cI CV [1]
+Cmax (ng/mL) 26 43.1 28 33.5 128.63 116.36 142.20 21.5
+|AUCo+ (ng*h/mL) 26 2000 28 1030 194.43 167.50 225.69 32.4
+AUCo-ine (ngeh/mL) 13 2570 10 1020 253.12 201.79 317.51 24.6
+
+Source: Study report, Study PKH-95032-009
+
+Further, based upon FDA internal analysis, smoking is considered having a similar effect as a
+moderate CYP1A2 inducer. Refer to Section 6.2.2.2 for FDA recommended labeling
+recommendations.
+
+6.3.1.6. DDIs with Strong CYP1A2 inhibitors and moderate CYP1A2 inducers -
+PBPK analysis:
+
+PBPK model was prospectively used to predict the outcomes of the interaction of vorasidenib
+with fluvoxamine (strong CYP1A2 inhibitors) and with rifampicin and phenytoin (moderate
+CYP1A2 inducer) following a single oral dose of vorasidenib (40 mg F2) and following multiple
+doses (40 mg QD F2) of vorasidenib in healthy subjects. Predicted changes in vorasidenib
+exposure are summarized in Table 34.
+
+Following multiple administrations of vorasidenib in the presence of fluvoxamine, vorasidenib
+AUC and Cmax were increased by approximately 5-folds. After single or multiple daily doses of
+vorasidenib (40 mg QD F2 for 30 days) with moderate CYP1A2 inducers phenytoin (300 mg QD
+
+126
+Version date: December 2023(ALL NDA/BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5425021

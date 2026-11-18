@@ -1,0 +1,75 @@
+BLA 761416 Multi-disciplinary Review and Evaluation
+
+Zanidatamab
+
+4. METHOD VALIDATION SUMMARY RESULTS
+
+Method Validation Summary
+
+Method Validation Report ID
+
+SC-14/343-001
+
+Test Method ID GCL-442 (Appendix A)
+
+Compound Name ZwW25
+
+Methodology Enzyme-linked Immunosorbent Assay
+Biological Matrix Human serum
+
+Anticoagulant N/A
+
+Calibration Curve Range 26.01 to 1500 ng/mL (includes anchor points)
+LLOQ 58.53 ng/mL
+
+ULOQ 1000 ng/mL.
+
+Regression Model 5-PL (Marquardt) with weighting factor 1?
+Minimum Required Dilution 1:100
+
+Interference No Hemolysis or Lipemia interference was observed at 2mg/mL
+Short-term: 24 hours at 15-30 °C
+24 hours at 2-8 °C
+Stability
+
+Freeze/Thaw: 6 cycles
+Long-term: ongoing
+
+4.2. Validation Samples and Dilutional Linearity
+
+Target Acceptance Criteria
+
+Intra-assay >LLoa AtLLOQ
+
+Accuracy (%RE) Within + 20% Within + 25%
+
+Intra-assay and
+
+Inter-assay > LLOQ AtLLOQ
+Accuracy and Precision Precision (%CV) = 20% 225%
+
+Total Error £ 30% 540%
+Method Validation Performance
+Validation Principle [Hyperlink | Intra-assay Inter-assay
+
+(Pooled) (ANOVA)
+Quality Control Samples All Runs cv) TRE) (CV) RED ore)
+ULOQ (1000.00 ng/mL) |Table 3 72 3.1 9.2 -2.9 12.4
+HQC (750.00 ng/mL) Table 5 68 07 9.6 -07 10.3
+MQC (300.00 ng/mL) |Table 7 93 35 11.0 35 145
+LQC (150.00 ng/mL) Table 9 9.0 9.1 12.2 -9.1 213
+LLOQ (68.53 ng/mL) Table 11 19.9 149 222 ~149 37.4
+Runs 5 and 6
+ULOQ (1000.00 ng/mL) |Table 4 72 1.5 8.0 15 9.5
+HQC (750.00 ng/mL) ‘|Table 6 62 “22 75 “22 o7
+MQC (300.00 ng/mL) Table & 44 -27 61 -27 88
+LOC (150.00 ng/mL) Table 10 30 54 35 54 89
+LLOQ (68.53 ng/mL) Table 12 36 ATT 72 WT 18.9
+
+131
+Version date: August 2023 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5482010

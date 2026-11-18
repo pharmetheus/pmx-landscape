@@ -1,0 +1,53 @@
+NDA/BLA Multi-disciplinary Review and Evaluation - NDA 220641
+
+Relacorilant
+
+Software and Version | Acceptable
+Oncology
+NONMEM 7, version 7.5.1
+
+Model Structure Two-compartmental model with Acceptable
+sequential zero- then first-order
+absorption, first-order elimination
+from the central compartment
+
+Model Parameter Estimates |] ow |
+
+The PK
+
+data from cancer
+patients were used
+in the external
+evaluation of the
+updated model.
+
+Final PopPK model estimated
+arameters (Oncology)
+
+Parameter Population
+Estimate
+
+CLF (L/h) 46.7
+
+V2/F (L) 220
+
+QF (L/h) 45.0
+
+V3/F (L) 850
+
+Ka_fasted (1/h) | 1.91
+D1 fasted (h) 0.99
+Ka fed (1/h) 0.775
+D1 fed (h) 1.66
+F food (%) 213
+BMI on CL/F -0.48
+Age on 0.48
+Ka _ fasted
+
+282
+Version date: February 10, 2025 (ALL NDA/ BLA reviews)
+
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5769316
